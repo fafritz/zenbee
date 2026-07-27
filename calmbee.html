@@ -1,7 +1,7 @@
 <!doctype html>
 <!--
 ================================================================================
-  calmbee.html  —  CalmBee Daily Word Game
+  zenbee.html  —  ZenBee Daily Word Game
 ================================================================================
 
   A self-contained, single-file web app implementing a Spelling Bee-style word
@@ -1491,12 +1491,12 @@
   </head>
   <body class="game-hidden">
     <!-- ── SPLASH SCREEN ── -->
-    <div id="splash-screen" aria-label="CalmBee intro">
+    <div id="splash-screen" aria-label="ZenBee intro">
       <img id="splash-img" class="splash-photo" src="" alt="" />
       <div class="splash-scrim" aria-hidden="true"></div>
       <div class="splash-content">
         <div class="splash-top">
-          <h1 class="splash-title" id="splash-title">CalmBee</h1>
+          <h1 class="splash-title" id="splash-title">ZenBee</h1>
           <p class="splash-subtitle" id="splash-subtitle">
             Seven letters. Take your time.
           </p>
@@ -1509,7 +1509,7 @@
     <div class="landscape-warning" aria-hidden="true">
       <span>📱</span>
       <p>
-        CalmBee is designed for portrait mode.<br />Please rotate your phone.
+        ZenBee is designed for portrait mode.<br />Please rotate your phone.
       </p>
     </div>
 
@@ -1517,7 +1517,7 @@
     <header>
       <div class="brand">
         <span class="brand-emoji" aria-hidden="true">🐝</span>
-        <span class="brand-name">CalmBee</span>
+        <span class="brand-name">ZenBee</span>
       </div>
       <div class="nav-icons">
         <button
@@ -2711,7 +2711,7 @@
         const isComplete = foundWords.length === PUZZLE.answers.length;
         const rankLbl = isComplete ? "Queen Bee" : getRank(score);
         return (
-          `CalmBee ${formatShareDate(PUZZLE.date)}\n` +
+          `ZenBee ${formatShareDate(PUZZLE.date)}\n` +
           `${rankLbl} · ${foundWords.length}/${PUZZLE.answers.length} words`
         );
       }
@@ -2903,7 +2903,7 @@
                 await navigator.share({
                   files: [file],
                   text: caption,
-                  title: "CalmBee",
+                  title: "ZenBee",
                 });
                 return;
               }
@@ -2920,7 +2920,7 @@
 
         if (navigator.share) {
           try {
-            await navigator.share({ text: fallbackText, title: "CalmBee" });
+            await navigator.share({ text: fallbackText, title: "ZenBee" });
             return;
           } catch (err) {
             if (err?.name === "AbortError") return;
@@ -3835,7 +3835,7 @@
       // JS work, rather than needing this function re-run after every
       // openYesterday()/openHints()/openStats() call.
       //
-      // Deliberately NOT applied to .brand-name (the "CalmBee" wordmark)
+      // Deliberately NOT applied to .brand-name (the "ZenBee" wordmark)
       // — that stays a fixed brand color across every theme, since a
       // wordmark's job is recognition, and recognition depends on NOT
       // changing. The wordmark sits in the header, away from the
