@@ -143,7 +143,6 @@ vite.config.ts.timestamp-*
 .vite/
 
 # Large data files — backed up separately, not edited directly
-_pangram_answers_with_hints.json
 _pangram.answers.json
 
 # Python cache
