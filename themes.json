@@ -1,0 +1,395 @@
+{
+  "themes": [
+    {
+      "id": "mutisia_decurrens",
+      "common_names": [
+        "Clavel del campo anaranjado",
+        "Orange climbing gazania"
+      ],
+      "scientific_name": "Mutisia decurrens",
+      "background": {
+        "dark": {
+          "hex": "#140a04",
+          "role": "screen background — dark mode; same hue family as unlit/start.outer, slightly darker so honeycomb hexes stay the focal point"
+        },
+        "light": null
+      },
+      "photo": {
+        "filename": "mutisia_decurrens.jpeg",
+        "credit": "Photo: Frank A. Fritz III",
+        "crop": {
+          "note": "Portrait crop centered on flower face, approximately center 70% horizontal, top 80% vertical"
+        },
+        "alt": "Close-up of an orange Mutisia decurrens bloom against dark foliage"
+      },
+      "honeycomb": {
+        "progression": "clockwise",
+        "start_position": "lower_left",
+        "center_role": "peak_saturation_accent",
+        "border": "none",
+        "levels": [
+          {
+            "rank": 1,
+            "name": "Beginner",
+            "position": "lower_left",
+            "clock": "7 o'clock",
+            "hex": "#FFEEDD",
+            "text_color": "#7a3000",
+            "role": "palest — soft peach"
+          },
+          {
+            "rank": 2,
+            "name": "Good Start",
+            "position": "left",
+            "clock": "9 o'clock",
+            "hex": "#FFD0A0",
+            "text_color": "#7a3000",
+            "role": "light peach-amber"
+          },
+          {
+            "rank": 3,
+            "name": "Moving Up",
+            "position": "upper_left",
+            "clock": "11 o'clock",
+            "hex": "#FFAA60",
+            "text_color": "#7a3000",
+            "role": "warm peach-orange"
+          },
+          {
+            "rank": 4,
+            "name": "Good",
+            "position": "upper_right",
+            "clock": "1 o'clock",
+            "hex": "#F08030",
+            "text_color": "#ffffff",
+            "role": "mid orange"
+          },
+          {
+            "rank": 5,
+            "name": "Solid",
+            "position": "right",
+            "clock": "3 o'clock",
+            "hex": "#C05A10",
+            "text_color": "#ffffff",
+            "role": "deep burnt orange"
+          },
+          {
+            "rank": 6,
+            "name": "Great",
+            "position": "lower_right",
+            "clock": "5 o'clock",
+            "hex": "#963808",
+            "text_color": "#ffffff",
+            "role": "rich dark orange"
+          },
+          {
+            "rank": 7,
+            "name": "Genius",
+            "position": "center",
+            "clock": "center",
+            "hex": "#F06000",
+            "text_color": "#ffffff",
+            "role": "peak saturation — vivid orange accent"
+          }
+        ],
+        "unlit": {
+          "fill": "#2a1500",
+          "text_color": "#7a4a00"
+        },
+        "start": {
+          "center": {
+            "hex": "#7a3a14",
+            "text_color": "#f0a860",
+            "role": "Genius hue at ~40% saturation — landmark color shown before any word is found"
+          },
+          "outer": {
+            "hex": "#2a1c10",
+            "text_color": "#7a4a00",
+            "role": "warm very-dark neutral, lighter than unlit — initial state for the six outer hexes"
+          }
+        },
+        "chrome_text": {
+          "hex": "#F08030",
+          "source": "rank 4 (Good)",
+          "role": "rank label + score numbers — sourced from an existing honeycomb level (not a separately tuned color) so UI chrome can't clash with the hexes; rank 4 chosen over rank 5 here because rank 5 (#C05A10) tests at only 4.38:1 against this theme's background, while rank 4 tests at 7.29:1"
+        },
+        "cta": {
+          "fill": "#F06000",
+          "label_text": "#1a0f00",
+          "source": "rank 7 (Genius)",
+          "role": "Enter button — uses the theme's peak-saturation color, since Enter is the primary action and submitting a word is the core verb of the game; label_text is near-black rather than white because white-on-#F06000 only tests at 3.29:1, while near-black tests at 5.73:1"
+        },
+        "dominant_emoji": "🟠"
+      }
+    },
+    {
+      "id": "yellow_bells",
+      "common_names": ["Yellow Bells", "Esperanza", "Yellow Elder"],
+      "scientific_name": "Tecoma stans",
+      "background": {
+        "dark": {
+          "hex": "#0e0a02",
+          "role": "screen background — dark mode; same hue family as unlit/start.outer, slightly darker so honeycomb hexes stay the focal point"
+        },
+        "light": null
+      },
+      "photo": {
+        "filename": "yellow_bells.jpeg",
+        "credit": "Photo: Frank A. Fritz III",
+        "crop": {
+          "note": "Portrait crop: center on the foreground flower cluster and bee, approximately center 65% horizontal, full height — dark background provides natural zone for logo overlay"
+        },
+        "alt": "Close-up of yellow and orange yellow bells flowers with a hovering bee on a green foliage background"
+      },
+      "honeycomb": {
+        "progression": "clockwise",
+        "start_position": "lower_left",
+        "center_role": "peak_saturation_accent",
+        "border": "none",
+        "levels": [
+          {
+            "rank": 1,
+            "name": "Beginner",
+            "position": "lower_left",
+            "clock": "7 o'clock",
+            "hex": "#FFFAE8",
+            "text_color": "#7a5500",
+            "role": "palest — warm cream"
+          },
+          {
+            "rank": 2,
+            "name": "Good Start",
+            "position": "left",
+            "clock": "9 o'clock",
+            "hex": "#FFE878",
+            "text_color": "#7a5500",
+            "role": "pale butter yellow"
+          },
+          {
+            "rank": 3,
+            "name": "Moving Up",
+            "position": "upper_left",
+            "clock": "11 o'clock",
+            "hex": "#FFD840",
+            "text_color": "#7a5500",
+            "role": "bright yellow"
+          },
+          {
+            "rank": 4,
+            "name": "Good",
+            "position": "upper_right",
+            "clock": "1 o'clock",
+            "hex": "#F5BC20",
+            "text_color": "#7a5500",
+            "role": "golden yellow"
+          },
+          {
+            "rank": 5,
+            "name": "Solid",
+            "position": "right",
+            "clock": "3 o'clock",
+            "hex": "#E8A800",
+            "text_color": "#7a5500",
+            "role": "deep gold"
+          },
+          {
+            "rank": 6,
+            "name": "Great",
+            "position": "lower_right",
+            "clock": "5 o'clock",
+            "hex": "#D49200",
+            "text_color": "#ffffff",
+            "role": "rich amber-gold"
+          },
+          {
+            "rank": 7,
+            "name": "Genius",
+            "position": "center",
+            "clock": "center",
+            "hex": "#E8900A",
+            "text_color": "#ffffff",
+            "role": "peak saturation — warm orange-gold accent"
+          }
+        ],
+        "unlit": {
+          "fill": "#1a1200",
+          "text_color": "#6b4d00"
+        },
+        "start": {
+          "center": {
+            "hex": "#7a4e1a",
+            "text_color": "#f0c060",
+            "role": "Genius hue at ~40% saturation — landmark color shown before any word is found"
+          },
+          "outer": {
+            "hex": "#2a2010",
+            "text_color": "#6b4d00",
+            "role": "warm very-dark neutral, lighter than unlit — initial state for the six outer hexes"
+          }
+        },
+        "chrome_text": {
+          "hex": "#E8A800",
+          "source": "rank 5 (Solid)",
+          "role": "rank label + score numbers — sourced from an existing honeycomb level so UI chrome can't clash with the hexes; tests at 9.44:1 against this theme's background, comfortably clear of WCAG AA"
+        },
+        "cta": {
+          "fill": "#E8900A",
+          "label_text": "#1a0f00",
+          "source": "rank 7 (Genius)",
+          "role": "Enter button — uses the theme's peak-saturation color; label_text is near-black rather than white because white-on-#E8900A only tests at 2.49:1, while near-black tests at 7.57:1"
+        },
+        "dominant_emoji": "🟡"
+      }
+    },
+    {
+      "id": "calendula_officinalis",
+      "common_names": [
+        "Common marigold",
+        "Mary's gold",
+        "Pot marigold",
+        "Scotch marigold",
+        "Ruddles"
+      ],
+      "scientific_name": "Calendula officinalis",
+      "background": {
+        "dark": {
+          "hex": "#100c02",
+          "role": "screen background — dark mode; same hue family as unlit/start.outer, slightly darker so honeycomb hexes stay the focal point"
+        },
+        "light": null
+      },
+      "photo": {
+        "filename": "calendula_officinalis.jpeg",
+        "credit": "Photo: Frank A. Fritz III",
+        "crop": {
+          "note": "Portrait crop: tight center on flower face, approximately center 60% horizontal, upper 75% vertical — cuts busy garden background while keeping full bloom"
+        },
+        "alt": "Close-up of a yellow Calendula officinalis (pot marigold) with a blurred background of green leaves"
+      },
+      "honeycomb": {
+        "progression": "clockwise",
+        "start_position": "lower_left",
+        "center_role": "peak_saturation_accent",
+        "border": "none",
+        "levels": [
+          {
+            "rank": 1,
+            "name": "Beginner",
+            "position": "lower_left",
+            "clock": "7 o'clock",
+            "hex": "#FFFDE0",
+            "text_color": "#7a5a00",
+            "role": "palest — near-white petal tip yellow"
+          },
+          {
+            "rank": 2,
+            "name": "Good Start",
+            "position": "left",
+            "clock": "9 o'clock",
+            "hex": "#FFF280",
+            "text_color": "#7a5a00",
+            "role": "pale lemon yellow"
+          },
+          {
+            "rank": 3,
+            "name": "Moving Up",
+            "position": "upper_left",
+            "clock": "11 o'clock",
+            "hex": "#FFE030",
+            "text_color": "#7a5a00",
+            "role": "bright mid-petal yellow"
+          },
+          {
+            "rank": 4,
+            "name": "Good",
+            "position": "upper_right",
+            "clock": "1 o'clock",
+            "hex": "#FFC800",
+            "text_color": "#7a5a00",
+            "role": "saturated golden yellow"
+          },
+          {
+            "rank": 5,
+            "name": "Solid",
+            "position": "right",
+            "clock": "3 o'clock",
+            "hex": "#F0A800",
+            "text_color": "#7a4000",
+            "role": "deep amber-yellow near disc"
+          },
+          {
+            "rank": 6,
+            "name": "Great",
+            "position": "lower_right",
+            "clock": "5 o'clock",
+            "hex": "#D98A00",
+            "text_color": "#ffffff",
+            "role": "rich warm gold"
+          },
+          {
+            "rank": 7,
+            "name": "Genius",
+            "position": "center",
+            "clock": "center",
+            "hex": "#B85A00",
+            "text_color": "#ffffff",
+            "role": "peak saturation — amber-rust disc accent, sampled from flower center"
+          }
+        ],
+        "unlit": {
+          "fill": "#1c1400",
+          "text_color": "#6a5000"
+        },
+        "start": {
+          "center": {
+            "hex": "#6e3a14",
+            "text_color": "#f0b070",
+            "role": "Genius hue at ~40% saturation — landmark color shown before any word is found"
+          },
+          "outer": {
+            "hex": "#2a2008",
+            "text_color": "#6a5000",
+            "role": "warm very-dark neutral, lighter than unlit — initial state for the six outer hexes"
+          }
+        },
+        "chrome_text": {
+          "hex": "#F0A800",
+          "source": "rank 5 (Solid)",
+          "role": "rank label + score numbers — sourced from an existing honeycomb level so UI chrome can't clash with the hexes; tests at 9.58:1 against this theme's background, comfortably clear of WCAG AA"
+        },
+        "cta": {
+          "fill": "#B85A00",
+          "label_text": "#ffffff",
+          "source": "rank 7 (Genius)",
+          "role": "Enter button — uses the theme's peak-saturation color; UNLIKE the other two themes, white label_text is correct here, not near-black — this theme's Genius color is dark enough (#B85A00) that white tests at 4.67:1 vs near-black's 4.05:1"
+        },
+        "dominant_emoji": "🟠"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.6",
+    "celebration_photo": {
+      "filename": "yellow_bells_celebration.jpeg",
+      "credit": "Photo: Frank A. Fritz III",
+      "crop": {
+        "note": "Portrait crop, full bloom close-up — placeholder default, shared across all themes until each theme has its own celebration photo"
+      },
+      "alt": "Close-up of bee landing on yellow bells flowers in full bloom"
+    },
+    "celebration_photo_note": "Default celebration_photo above (added v1.5) is the Queen Bee screen's background photo, used by ALL themes for now — same shared-default pattern as background.light being null pending per-theme values. To give a specific theme its own celebration photo later, add a celebration_photo object (same shape: filename/credit/crop/alt) directly to that theme entry; loadTheme() should prefer a theme's own celebration_photo over this meta default when present. Mutisia and Calendula currently have no override and will keep using this default.",
+    "queen_bee": {
+      "rank": 8,
+      "name": "Queen Bee",
+      "note": "No 8th hex — represented by progress bar reaching far right, bee icon appearing near level name, level label change and celebration splash"
+    },
+    "progression_note": "Clockwise: lower_left (7 o'clock) → left (9) → upper_left (11) → upper_right (1) → right (3) → lower_right (5) → center. This is the normal clockwise direction of analog clock hands.",
+    "border_note": "No border on any hex — dark background provides sufficient separation between lit and unlit cells",
+    "text_color_note": "Dark text on light hexes; white on mid-to-dark hexes",
+    "start_note": "honeycomb.start.center/outer give the honeycomb's pre-game colors (added v1.3): center starts at a muted version of the Genius hue so it reads as the required-letter landmark from game load; outer hexes start at a warm very-dark neutral, lighter than fully unlit.",
+    "background_note": "background.dark (added v1.3) is the screen background for this theme, same hue family as unlit/start.outer but darker, so honeycomb hexes remain the visual focus. background.light is scaffolded as null pending a future light-theme prompt.",
+    "chrome_text_note": "honeycomb.chrome_text (added v1.4) is the color for rank label + score numbers in the UI chrome (outside the honeycomb itself). Deliberately reuses an EXISTING level color rather than a separately tuned accent, so chrome text can never clash with the honeycomb — it's literally drawn from the same palette. The specific rank chosen (4 or 5) varies per theme based on which level tests best for contrast against that theme's background; see each theme's chrome_text.role for the exact reasoning and contrast ratio. Genius (rank 7) is deliberately NOT used here — it's reserved for the cta field below so the 'peak' color stays visually special rather than appearing in everyday UI text.",
+    "cta_note": "honeycomb.cta (added v1.4) is the Enter button's fill + label_text. Always sourced from rank 7 (Genius) — the theme's most saturated color — since Enter is the primary, most-frequently-pressed action and deserves the theme's strongest visual weight. label_text is NOT uniformly white: it's whichever of white/near-black (#1a0f00) tests better against that theme's specific Genius fill. Mutisia and Yellow Bells need near-black (their Genius colors are bright/saturated enough that white fails WCAG AA); Calendula needs white (its Genius color is dark enough that white wins). Do not assume white is always correct — check contrast per theme before reusing this pattern for new themes.",
+    "dominant_emoji_note": "honeycomb.dominant_emoji (added v1.6) is the single Unicode colored-square/circle emoji used for the plain-text share fallback (share-by-text feature), when the real canvas-rendered honeycomb image can't be attached. Hand-picked per theme to approximate that theme's Genius-level hue — Unicode only offers ~9 fixed colors (🔴🟠🟡🟢🔵🟣🟤⚫️⚪️), so this is a coarse approximation, not a color match. Deliberately NOT derived from a hex value at runtime — CVD-safe color choice for this fallback path is a human judgment call, not a nearest-neighbor computation. Current picks are a reasonable starting point (Mutisia and Calendula share 🟠 since both read as orange-leaning at Genius saturation) — adjust freely to taste, this field has no other consumer."
+  }
+}

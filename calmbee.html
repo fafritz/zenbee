@@ -1,0 +1,4001 @@
+<!doctype html>
+<!--
+================================================================================
+  calmbee.html  —  CalmBee Daily Word Game
+================================================================================
+
+  A self-contained, single-file web app implementing a Spelling Bee-style word
+  game inspired by the NYT Spelling Bee. The entire game — HTML structure, CSS
+  styles, and JavaScript logic — lives in this one file.
+
+  Usage
+  ─────
+  Requires a local web server (fetch() will not work over file://):
+    python3 -m http.server 8080
+  Then open in a browser:
+    http://localhost:8080/calmbee.html          Mac / desktop
+    http://192.168.x.x:8080/calmbee.html        iPhone on same Wi-Fi
+
+  Data file
+  ─────────
+  _pangram_answers_with_hints.json — must be in the same directory.
+  An array of puzzle objects, one per calendar day. Each object contains:
+    date              YYYY-MM-DD string, e.g. "2026-05-01"
+    pangram           7-letter source word, e.g. "company"
+    center_letter     required letter that every valid answer must contain
+    answers           sorted array of all valid words
+    answer_pangrams   subset of answers that use all 7 letters
+    num_answers       count of answers
+    num_pangrams      count of pangram answers
+    possible_points   maximum score achievable for this puzzle
+    hints             object with four pre-computed hint structures:
+                        by_length         word count keyed by word length
+                        by_first_letter   word count keyed by first letter (upper)
+                        grid              nested map: grid[LETTER][length] = count
+                        two_letter_list   word count keyed by first two letters
+
+  Game rules  (identical to NYT Spelling Bee)
+  ────────────────────────────────────────────
+  · Find words of 4+ letters using the 7 honeycomb letters
+  · Every word must contain the center letter (the required center hex)
+  · Letters may be reused; order does not matter
+  · 4-letter words score 1 point; 5+-letter words score 1 pt per letter
+  · Pangrams (uses all 7 letters at least once) earn a +7 bonus
+  · Rank thresholds: Beginner 0% → Genius 70% of possible points
+
+  Rank ladder (7 levels)
+  ──────────────────────
+    Beginner  0%   Good Start  10%   Moving Up  20%   Good  30%
+    Solid    40%   Great       55%   Genius     70%
+
+  Architecture
+  ────────────
+  CSS    Design tokens (:root) → resets → per-component blocks in DOM order.
+         Each overlay (Yesterday, Stats, Hints) has its own CSS block.
+
+  HTML   Thin structural shell. Almost all text content is injected by JS.
+         Overlays are hidden bottom-sheets (position:fixed, opacity:0)
+         that slide up from the bottom edge on open.
+
+  JS     Organised into sections matching the data-flow pipeline:
+           1  Puzzle data & global state
+           2  Rank thresholds (RANKS array)
+           3  Game state (centerLetter, foundWords, score …)
+           4  Geometry — pointy-top SVG hex math
+           5  Scoring & rank label
+           6  Render: honeycomb, input display, score bar, found-words
+           7  Found-words toggle (collapse / expand)
+           8  Toast notification system
+           9  Yesterday overlay — prior-day answers with MW links
+          10  Player stats — localStorage persistence & display
+          11  Hints overlay — live-updating hint grid & two-letter list
+          12  Swipe-down-to-dismiss (shared by all three overlays)
+          13  Game actions: addLetter, deleteLetter, shuffleOuter, submitWord
+          14  Keyboard support (Mac/desktop)
+          15  loadPuzzle() — async fetch, date lookup, boot sequence
+          16  Init — event listeners, orientation lock, swipe wiring
+
+  Overlays  (all three are bottom sheets with swipe-dismiss)
+  ──────────────────────────────────────────────────────────
+  Yesterday   Prior day's full answer list with Merriam-Webster links.
+              Found words shown in gold; pangrams in gold + ★ suffix.
+              Opened via "Yesterday" nav button; data from cached JSON.
+
+  Stats       Cumulative player statistics persisted in localStorage.
+              All-time summary tiles (games, words, pangrams, streak).
+              Rank distribution bar chart filterable by week/month/all-time.
+
+  Hints       Live-updating hint grid: rows = first letters, cols = lengths,
+              cells = remaining word count. Two-letter list below the grid.
+              Counts subtract found words in real time while overlay is open.
+
+  Player data  (localStorage)
+  ────────────────────────────
+  Key:    calmbee_stats
+  Value:  JSON array — one record per calendar day played.
+  Fields: date, rank, rankIdx, score, possiblePoints, wordsFound,
+          totalAnswers, pangramsFound, foundWordsList, longestWord, complete
+  Records are upserted (never duplicated) on every valid word found.
+  Old records without foundWordsList degrade gracefully (no highlighting).
+
+  Fonts  (Google Fonts, loaded in <head>)
+  ───────────────────────────────────────
+  Lora    — transitional serif; titles, hex letters, large numerics
+  Nunito  — rounded sans-serif; body text, buttons, table cells
+
+  Author:  Frank (with Claude / Anthropic)
+  Started: May 2026
+================================================================================
+-->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="apple-mobile-web-app-title" content="Calm Bee" />
+    <meta name="theme-color" content="#150D01" />
+    <title>Calm Bee</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lora:wght@500;700&family=Nunito:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <style>
+      /* ── DESIGN TOKENS ──────────────────────────────────────────── */
+      :root {
+        --bg: #150d01;
+        --surface: #251608;
+        --surface-2: #2e1c0a;
+        --gold: #ffd000;
+        --gold-dim: rgba(255, 208, 0, 0.55);
+        --amber: #d07800;
+        --amber-light: #e09010;
+        --amber-dark: #8b4c00;
+        --cream: #f8edd4;
+        --white: #ffffff; /* pure white */
+        --muted: #7a6040;
+        --muted-light: #9a7850;
+        --hex-center: #ffd000;
+        --hex-outer: #c87800;
+        --hex-text: #150d01;
+        --error-bg: #3a1200;
+        --error-text: #e8a060;
+        /* Theme-aware chrome colors — overridden by applyChromeAndCTATheme()
+           once THEME loads (see that function for full explanation). These
+           --gold/--gold-dim-matching defaults are just the pre-JS fallback,
+           so there's no flash of unstyled color before loadTheme() resolves. */
+        --theme-accent: #ffd000;
+        --theme-cta: #ffd000;
+        --theme-cta-text: #150d01;
+        --layout-max-width: 360px;
+      }
+
+      /* ── RESET ──────────────────────────────────────────────────── */
+      *,
+      *::before,
+      *::after {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        -webkit-tap-highlight-color: transparent;
+      }
+      html {
+        height: 100%;
+        background: var(
+          --theme-bg,
+          #150d01
+        ); /* fills top/bottom chrome areas on iOS */
+      }
+
+      /* ── LANDSCAPE WARNING ───────────────────────────────────────── */
+      /* shown when phone is rotated; hidden in portrait */
+      .landscape-warning {
+        display: none;
+        position: fixed;
+        inset: 0;
+        background: #150d01;
+        z-index: 9999;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 16px;
+        color: #f8edd4;
+        font-family: "Nunito", sans-serif;
+        font-size: 1rem;
+        text-align: center;
+        padding: 32px;
+      }
+      .landscape-warning span {
+        font-size: 2.5rem;
+      }
+      @media (orientation: landscape) and (hover: none) and (pointer: coarse) {
+        .landscape-warning {
+          display: flex;
+        }
+      }
+
+      /* ── BODY / LAYOUT ──────────────────────────────────────────── */
+      body {
+        background: var(
+          --theme-bg,
+          radial-gradient(ellipse at 50% 0%, #2a1a04 0%, #150d01 65%)
+        );
+        background-attachment: fixed;
+        color: var(--cream);
+        font-family: "Nunito", sans-serif;
+        min-height: 100dvh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 14px 16px env(safe-area-inset-bottom, 16px);
+        gap: 8px;
+        overflow-x: hidden;
+      }
+
+      /* ── AD SLOT ─────────────────────────────────────────────────── */
+      /* Reserved space for a future banner ad. height: 50px holds the  */
+      /* layout stable before the ad script loads. margin-top: auto      */
+      /* pushes the slot to the bottom of the flex column.               */
+      .ad-banner {
+        width: 100%;
+        max-width: var(--layout-max-width);
+        height: 50px;
+        margin-top: auto;
+      }
+
+      /* ── PAGE LOAD: staggered calm fade-in ─────────────────────── */
+      @keyframes fadeUp {
+        from {
+          opacity: 0;
+          transform: translateY(10px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+      header {
+        animation: fadeUp 0.55s ease both;
+      }
+      .score-bar {
+        animation: fadeUp 0.55s ease 0.1s both;
+      }
+      .progress-row {
+        animation: fadeUp 0.55s ease 0.16s both;
+      }
+      .found-section {
+        animation: fadeUp 0.55s ease 0.2s both;
+      }
+      .input-display {
+        animation: fadeUp 0.55s ease 0.26s both;
+      }
+      .toast-area {
+        animation: fadeUp 0.55s ease 0.28s both;
+      }
+      .honeycomb {
+        animation: fadeUp 0.55s ease 0.34s both;
+      }
+      .controls {
+        animation: fadeUp 0.55s ease 0.42s both;
+      }
+
+      /* ── SPLASH SCREEN ──────────────────────────────────────────── */
+      #splash-screen {
+        position: fixed;
+        inset: 0;
+        z-index: 500;
+        overflow: hidden;
+        transition: opacity 0.4s ease;
+      }
+      .splash-photo {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+      }
+      .splash-scrim {
+        position: absolute;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.45);
+      }
+      .splash-content {
+        position: relative;
+        z-index: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        height: 100%;
+        padding: max(48px, env(safe-area-inset-top) + 24px) 32px
+          max(56px, env(safe-area-inset-bottom) + 24px);
+        text-align: center;
+      }
+      .splash-top {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 12px;
+      }
+      .splash-title {
+        font-family: "Lora", serif;
+        font-weight: 700;
+        font-size: clamp(2.8rem, 10vw, 4rem);
+        color: var(--white);
+        letter-spacing: 0.02em;
+        margin: 0;
+      }
+      .splash-subtitle {
+        font-family: "Nunito", sans-serif;
+        font-size: 1.1rem;
+        font-weight: 400;
+        color: rgba(255, 255, 255, 0.8);
+        margin: 0;
+        letter-spacing: 0.01em;
+      }
+      #play-btn {
+        flex: none;
+        font-family: "Nunito", sans-serif;
+        font-size: 0.95rem;
+        font-weight: 600;
+        color: var(--white);
+        background: transparent;
+        border: 1.5px solid rgba(255, 255, 255, 0.7);
+        border-radius: 9999px;
+        padding: 0 48px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        transition: background 0.2s ease;
+        -webkit-tap-highlight-color: transparent;
+      }
+      #play-btn:hover,
+      #play-btn:active {
+        background: rgba(255, 255, 255, 0.15);
+      }
+
+      /* ── GAME HIDDEN (pre-splash-dismiss) ───────────────────────── */
+      /* opacity:0 + pointer-events:none hides all game chrome while    */
+      /* the splash is showing. animation-play-state:paused freezes the */
+      /* fadeUp timers so they fire fresh when .game-hidden is removed. */
+      .game-hidden header,
+      .game-hidden .score-bar,
+      .game-hidden .progress-row,
+      .game-hidden .found-section,
+      .game-hidden .input-display,
+      .game-hidden .toast-area,
+      .game-hidden .honeycomb,
+      .game-hidden .controls,
+      .game-hidden .ad-banner {
+        opacity: 0;
+        pointer-events: none;
+        animation-play-state: paused;
+      }
+
+      /* ── HEADER ─────────────────────────────────────────────────── */
+      /* Two-part row: shrunk brand (bee + wordmark) left, icon nav right. */
+      header {
+        width: 100%;
+        max-width: var(--layout-max-width);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 2px 0 4px;
+      }
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+      }
+      .brand-emoji {
+        font-size: 1rem;
+        line-height: 1;
+      }
+      .brand-name {
+        font-family: "Lora", serif;
+        font-weight: 700;
+        font-size: 1rem;
+        color: var(--gold);
+        letter-spacing: 0.02em;
+      }
+      .nav-icons {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+      }
+      .nav-btn {
+        color: var(--muted);
+        width: 38px;
+        height: 38px;
+        border-radius: 9px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition:
+          color 0.18s ease,
+          background 0.18s ease;
+        cursor: pointer;
+        border: none;
+        background: none;
+        padding: 0;
+      }
+      .nav-btn svg {
+        width: 21px;
+        height: 21px;
+        stroke: currentColor;
+        fill: none;
+      }
+      .nav-btn:hover {
+        color: var(--cream);
+      }
+      .nav-btn:active {
+        background: var(--surface);
+      }
+      /* .nav-btn sets display:flex, which — being an author rule — beats
+         the browser's default [hidden]{display:none} at equal
+         specificity. Needed only for share-btn, since it's the only
+         nav-btn that gets toggled via the hidden attribute. */
+      #share-btn[hidden] {
+        display: none;
+      }
+
+      /* ── SCORE BAR ──────────────────────────────────────────────── */
+      /* Level name + "X to next level" on the left; current/total points
+         flank the progress bar itself (see PROGRESS BAR below). The dots
+         that used to mark each rank threshold are removed — the honeycomb
+         already shows rank progress redundantly, so the dots were a
+         second copy of the same information rather than added clarity. */
+      .score-bar {
+        width: 100%;
+        max-width: var(--layout-max-width);
+        display: flex;
+        flex-direction: column;
+        gap: 2px;
+      }
+      .rank-label {
+        font-family: "Lora", serif;
+        font-weight: 700;
+        font-size: 1.15rem;
+        color: var(--gold);
+      }
+      .next-level-line {
+        font-size: 0.92rem;
+        color: var(--muted);
+        /* min-height reserves exactly one line of space even when the
+           text is empty (at Genius, getNextLevelText() returns "").
+           Without this, the score-bar collapses by ~1.1rem and every
+           element below it shifts upward. 1.3em of the 0.92rem font
+           = ~1.196rem ≈ the line height at normal line-spacing. */
+        min-height: calc(0.92rem * 1.3);
+      }
+      .next-level-line strong {
+        color: var(--amber-light);
+        font-weight: 700;
+      }
+
+      /* ── PROGRESS BAR ───────────────────────────────────────────── */
+      .progress-row {
+        width: 100%;
+        max-width: var(--layout-max-width);
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin-top: 4px;
+      }
+      .progress-track {
+        flex: 1;
+        height: 8px;
+        display: flex;
+        gap: 2px; /* thin gap between bands echoes the honeycomb's hex
+                     separation, so the bar reads as 7 discrete pieces
+                     rather than one continuous strip */
+        border-radius: 4px;
+        overflow: hidden;
+      }
+      /* One band per rank, fixed equal width (7 bands ≈ 14.29% each —
+         same equal-sizing convention as the honeycomb's 7 equal hexes).
+         Band color (lit) and cover color (unlit) are set inline by
+         applyProgressBarTheme(); only the lit/unlit TOGGLE happens via
+         this class, driven by updateHexColors() so the bar can never
+         show a different count than the honeycomb. */
+      .progress-band {
+        flex: 1;
+        height: 100%;
+        position: relative;
+        border-radius: 2px;
+        overflow: hidden;
+      }
+      .progress-band .band-cover {
+        position: absolute;
+        inset: 0;
+        transition: opacity 0.4s ease;
+        opacity: 1; /* unlit: cover fully visible, hiding the lit color beneath */
+      }
+      .progress-band.lit .band-cover {
+        opacity: 0; /* lit: cover fades out, revealing the band's true color */
+      }
+      .score-current {
+        font-family: "Lora", serif;
+        font-size: 1.15rem;
+        font-weight: 700;
+        color: var(--gold);
+        flex: none;
+        min-width: 1.4em;
+        text-align: right;
+      }
+      .score-max {
+        font-size: 1rem;
+        color: var(--muted);
+        flex: none;
+      }
+
+      /* ── FOUND WORDS ── collapsed summary bar + dropdown ────────── */
+      /*
+      Lives above the input display so found words are always visible
+      without scrolling the page. Collapsed by default; one tap opens.
+    */
+      .found-section {
+        width: 100%;
+        max-width: var(--layout-max-width);
+        position: relative;
+        z-index: 10;
+      }
+
+      .found-summary {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 14px;
+        background: var(--surface);
+        border: 1px solid rgba(255, 208, 0, 0.09);
+        border-radius: 12px;
+        cursor: pointer;
+        -webkit-user-select: none;
+        user-select: none;
+        transition: background 0.18s ease;
+      }
+      .found-summary:active {
+        background: var(--surface-2);
+      }
+
+      /* inline word preview — takes all space, truncates with … */
+      .found-inline {
+        flex: 1;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        font-size: 0.97rem; /* matches expanded .found-word size */
+        font-weight: 500;
+        color: var(--cream);
+      }
+      /* placeholder shown before any words are found */
+      .found-inline.placeholder {
+        color: var(--muted);
+        font-weight: 400;
+        font-size: 0.97rem;
+      }
+
+      .found-arrow {
+        flex-shrink: 0;
+        color: var(--muted);
+        font-size: 0.8rem;
+        line-height: 1;
+        transition: transform 0.28s ease;
+      }
+      .found-section.open .found-arrow {
+        transform: rotate(180deg);
+      }
+
+      /* When expanded: show count text centred in the summary bar —
+         font-size intentionally NOT changed so bar height stays fixed */
+      .found-section.open .found-inline {
+        text-align: center;
+        color: var(--cream);
+        opacity: 0.85;
+        font-weight: 600;
+        letter-spacing: 0.04em;
+      }
+
+      /* Dropdown panel — absolutely positioned so it overlays the honeycomb below */
+      .found-dropdown {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        overflow: hidden;
+        max-height: 0;
+        transition: max-height 0.35s ease;
+        z-index: 20;
+        background: var(--bg);
+        border-radius: 0 0 16px 16px;
+        border: 0 solid rgba(255, 208, 0, 0.09);
+        border-width: 0 1px 1px 1px;
+      }
+      .found-section.open .found-dropdown {
+        /* Match the reach of Hints/Yesterday/Stats overlays — enough to
+           fill most of the screen on a standard iPhone without covering
+           the status bar. The inner .found-words scrolls if content
+           overflows, so this is a ceiling, not a fixed height. */
+        max-height: 72dvh;
+      }
+
+      .found-words {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px 7px;
+        padding: 10px 4px 4px;
+        max-height: calc(72dvh - 44px); /* leave room for .found-mw-hint */
+        overflow-y: auto;
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+      }
+      .found-words::-webkit-scrollbar {
+        display: none;
+      }
+      /* MW definition hint pinned to the bottom of the found dropdown */
+      .found-mw-hint {
+        font-size: 0.72rem;
+        color: var(--muted);
+        text-align: center;
+        padding: 6px 8px 14px;
+        letter-spacing: 0.03em;
+      }
+
+      .found-word {
+        background: var(--surface);
+        border-radius: 14px;
+        padding: 6px 15px;
+        font-size: 0.97rem;
+        font-weight: 500;
+        color: var(--cream);
+        border: 1px solid rgba(255, 255, 255, 0.05);
+        text-decoration: none; /* reset <a> underline */
+        cursor: pointer;
+        transition:
+          background 0.15s ease,
+          color 0.15s ease;
+      }
+      .found-word.is-pangram {
+        background: var(--amber-dark);
+        color: var(--theme-accent);
+        border-color: rgba(255, 208, 0, 0.18);
+        font-weight: 700;
+      }
+      /* hover only on real pointer devices — prevents iOS sticky-amber bug */
+      @media (hover: hover) {
+        .found-word:hover {
+          background: var(--surface-2);
+          color: var(--gold);
+        }
+        .found-word.is-pangram:hover {
+          background: var(--amber);
+          color: var(--bg);
+        }
+      }
+
+      /* ── INPUT DISPLAY ──────────────────────────────────────────── */
+      .input-display {
+        min-height: 52px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.75rem;
+        font-weight: 600;
+        letter-spacing: 0.22em;
+        width: 100%;
+        max-width: var(--layout-max-width);
+        text-align: center;
+      }
+      .input-display .letter {
+        display: inline-block;
+      }
+      .input-display .letter.center {
+        color: var(--theme-accent);
+      }
+
+      /* Breathing cursor — ease-in-out instead of step-end */
+      .cursor {
+        display: inline-block;
+        width: 2px;
+        height: 1.25em;
+        background: var(--gold-dim);
+        vertical-align: middle;
+        margin-left: 3px;
+        border-radius: 1px;
+        animation: blink 1.6s ease-in-out infinite;
+      }
+      @keyframes blink {
+        0%,
+        100% {
+          opacity: 0.85;
+        }
+        50% {
+          opacity: 0.08;
+        }
+      }
+
+      /* Soft error signal — amber color shift, no jarring shake */
+      @keyframes softPulse {
+        0% {
+          color: var(--cream);
+        }
+        35% {
+          color: var(--amber-light);
+        }
+        100% {
+          color: var(--cream);
+        }
+      }
+      .pulse-error {
+        animation: softPulse 0.55s ease;
+      }
+
+      /* ── HONEYCOMB SVG ──────────────────────────────────────────── */
+      .honeycomb {
+        width: 100%;
+        max-width: var(--layout-max-width);
+        overflow: visible;
+        touch-action: manipulation;
+      }
+
+      .hex {
+        cursor: pointer;
+      }
+
+      /*
+      No focus outline on hexes.
+      The click handler calls g.blur() immediately, which also fixes the
+      desktop Enter-key bug (focused hex was re-firing addLetter on Enter).
+    */
+      .hex:focus,
+      .hex:focus-visible {
+        outline: none;
+      }
+
+      .hex polygon {
+        /* fill transition drives the level-up color animation (300 ms) */
+        transition:
+          filter 0.2s ease,
+          fill 0.3s ease-in-out;
+      }
+
+      /* Hover only on real pointer devices — avoids ghost-hover on touch */
+      @media (hover: hover) {
+        .hex:hover polygon {
+          filter: brightness(1.1);
+        }
+      }
+
+      /*
+      iPhone-style tap: quick brighten → gentle fade back.
+      Applied via a JS-toggled .tapped class so the animation restarts
+      cleanly on every tap and works independently of :active timing.
+    */
+      @keyframes hexTap {
+        0% {
+          filter: brightness(1);
+        }
+        15% {
+          filter: brightness(1.55);
+        }
+        100% {
+          filter: brightness(1);
+        }
+      }
+      .hex.tapped polygon {
+        animation: hexTap 0.38s ease-out forwards;
+      }
+
+      /*
+      Genius arrival pulse — plays once on the center hex when the player
+      reaches Genius rank. Slightly scales the hex up and back to signal
+      arrival without being jarring. Applied via a JS-toggled class so it
+      never conflicts with the fill transition already in progress.
+      */
+      @keyframes hexGeniusPulse {
+        0% {
+          transform: scale(1);
+        }
+        40% {
+          transform: scale(1.07);
+        }
+        100% {
+          transform: scale(1);
+        }
+      }
+      .hex.genius-pulse polygon {
+        animation: hexGeniusPulse 0.45s ease-out forwards;
+        transform-origin: center;
+        transform-box: fill-box; /* SVG transform-origin needs this */
+      }
+
+      .hex text {
+        font-family: "Lora", serif;
+        font-weight: 700;
+        font-size: 23px;
+        /* fill is set by JS (updateHexColors) via SVG attribute so it
+           can change per-hex as ranks are reached. Do NOT set fill here —
+           CSS fill would override the SVG attribute. */
+        text-anchor: middle;
+        dominant-baseline: central;
+        pointer-events: none;
+        user-select: none;
+      }
+
+      /* ── CONTROLS ───────────────────────────────────────────────── */
+      .controls {
+        display: flex;
+        gap: 10px;
+        width: 100%;
+        max-width: var(--layout-max-width);
+        align-items: center;
+      }
+
+      /* Base shared by Delete and Enter */
+      button {
+        flex: 1;
+        height: 52px;
+        border: none;
+        border-radius: 26px;
+        font-family: "Nunito", sans-serif;
+        font-size: 0.88rem;
+        font-weight: 700;
+        letter-spacing: 0.06em;
+        cursor: pointer;
+        touch-action: manipulation; /* kills double-tap zoom on iOS */
+        transition:
+          filter 0.18s ease,
+          transform 0.12s ease;
+        -webkit-user-select: none;
+        user-select: none;
+      }
+      button:active {
+        filter: brightness(0.86);
+        transform: scale(0.96);
+      }
+
+      /* Delete / Enter — identical appearance, symmetric flex */
+      .btn-secondary {
+        background: var(--surface-2);
+        color: var(--cream);
+        border: 1px solid rgba(255, 255, 255, 0.07);
+      }
+      .btn-primary {
+        background: var(--gold);
+        color: var(--bg);
+      }
+
+      /* Shuffle — small circle, does NOT stretch */
+      .btn-shuffle {
+        flex: 0 0 48px;
+        width: 48px;
+        height: 48px;
+        border-radius: 50%;
+        font-size: 1.45rem;
+        line-height: 1;
+        /* override letter-spacing so the symbol isn't pushed off-center */
+        letter-spacing: 0;
+        background: var(--surface-2);
+        color: var(--cream);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      /* ── TOAST ──────────────────────────────────────────────────── */
+      .toast-area {
+        width: 100%;
+        max-width: var(--layout-max-width);
+        height: 32px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .toast {
+        background: var(--cream);
+        color: var(--bg);
+        padding: 5px 18px;
+        border-radius: 20px;
+        font-size: 0.82rem;
+        font-weight: 700;
+        letter-spacing: 0.04em;
+        pointer-events: none;
+        white-space: nowrap;
+        opacity: 0;
+        transform: translateY(4px);
+        transition:
+          opacity 0.28s ease,
+          transform 0.28s ease;
+      }
+      .toast.pangram {
+        background: var(--theme-cta);
+        color: var(--theme-cta-text);
+      }
+      .toast.error {
+        background: var(--error-bg);
+        color: var(--error-text);
+      }
+      .toast.show {
+        opacity: 1;
+        transform: translateY(0);
+      }
+
+      /* ── (How to play now lives in the Help overlay modal — see
+         .help-backdrop / .help-panel / .help-body rules above) ── */
+
+      /* ── SHARED BOTTOM-SHEET STRUCTURE ────────────────────────────
+        Backdrop, panel, handle, header, title, and close button rules
+        shared by all four bottom-sheet overlays. Per-overlay content
+        styles (yest-body, stats-body, stat-tiles, hints-grid, etc.)
+        remain in their own sections below.
+        Note: overrides the global button rule on all close buttons. */
+      .yest-backdrop,
+      .stats-backdrop,
+      .hints-backdrop,
+      .help-backdrop {
+        position: fixed;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.72);
+        z-index: 200;
+        display: flex;
+        align-items: flex-end; /* sheet slides up from bottom */
+        justify-content: center;
+        padding: 0 0 env(safe-area-inset-bottom, 0);
+        opacity: 0;
+        visibility: hidden;
+        transition:
+          opacity 0.28s ease,
+          visibility 0.28s ease;
+      }
+      .yest-backdrop.open,
+      .stats-backdrop.open,
+      .hints-backdrop.open,
+      .help-backdrop.open {
+        opacity: 1;
+        visibility: visible;
+      }
+
+      .yest-panel,
+      .stats-panel,
+      .hints-panel,
+      .help-panel {
+        background: var(--surface);
+        border: 1px solid rgba(255, 208, 0, 0.1);
+        border-radius: 24px 24px 0 0;
+        width: 100%;
+        max-width: 480px;
+        max-height: 92dvh;
+        display: flex;
+        flex-direction: column;
+        transform: translateY(32px);
+        transition: transform 0.32s cubic-bezier(0.34, 1.2, 0.64, 1);
+        overflow: hidden;
+      }
+      .yest-backdrop.open .yest-panel,
+      .stats-backdrop.open .stats-panel,
+      .hints-backdrop.open .hints-panel,
+      .help-backdrop.open .help-panel {
+        transform: translateY(0);
+      }
+
+      .yest-handle,
+      .stats-handle,
+      .hints-handle,
+      .help-handle {
+        width: 36px;
+        height: 4px;
+        background: rgba(255, 255, 255, 0.15);
+        border-radius: 2px;
+        margin: 10px auto 0;
+        flex-shrink: 0;
+      }
+
+      .yest-header,
+      .stats-header,
+      .hints-header,
+      .help-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 14px 20px 10px;
+        flex-shrink: 0;
+        border-bottom: 1px solid rgba(255, 208, 0, 0.07);
+      }
+
+      .yest-title,
+      .stats-title,
+      .hints-title,
+      .help-title {
+        font-family: "Lora", serif;
+        font-weight: 700;
+        font-size: 1.05rem;
+        color: var(--theme-accent);
+        letter-spacing: 0.04em;
+      }
+
+      .yest-close,
+      .stats-close,
+      .hints-close,
+      .help-close {
+        flex: none;
+        width: 32px;
+        height: 32px;
+        border-radius: 50%;
+        background: var(--surface-2);
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        color: var(--muted);
+        font-size: 1rem;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition:
+          color 0.15s ease,
+          background 0.15s ease;
+        letter-spacing: 0;
+        padding: 0;
+      }
+      .yest-close {
+        line-height: 1;
+      } /* yest-close only */
+      .yest-close:hover,
+      .stats-close:hover,
+      .hints-close:hover,
+      .help-close:hover {
+        color: var(--cream);
+      }
+      .yest-close:active,
+      .stats-close:active,
+      .hints-close:active,
+      .help-close:active {
+        background: var(--amber-dark);
+      }
+
+      /* ── YESTERDAY OVERLAY ──────────────────────────────────────── */
+      /* scrollable body */
+      .yest-body {
+        overflow-y: auto;
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+        padding: 16px 20px 24px;
+        flex: 1;
+      }
+      .yest-body::-webkit-scrollbar {
+        display: none;
+      }
+
+      /* ── letter display ── */
+      .yest-letters {
+        text-align: center;
+        margin: 4px 0 6px;
+        font-family: "Lora", serif;
+        font-size: 1.3rem;
+        font-weight: 700;
+        letter-spacing: 0.06em;
+      }
+      .yest-center-letter {
+        color: var(--theme-accent);
+        font-size: 1.5rem;
+      }
+      .yest-outer-letter {
+        color: var(--cream);
+      }
+      .yest-sep {
+        color: var(--muted);
+        font-size: 0.9rem;
+        font-weight: 400;
+        margin: 0 1px;
+      }
+
+      /* ── word count / points subtitle ── */
+      .yest-subtitle {
+        text-align: center;
+        font-size: 0.78rem;
+        color: var(--muted);
+        letter-spacing: 0.06em;
+        margin-bottom: 18px;
+      }
+
+      /* 3-column word grid — flows DOWN each column, then across */
+      .yest-grid {
+        column-count: 3;
+        column-gap: 8px;
+        margin-bottom: 18px;
+      }
+      .yest-grid a {
+        display: block;
+        color: var(--cream);
+        font-size: 0.97rem; /* matches found-words size */
+        font-weight: 400;
+        text-decoration: none;
+        padding: 5px 4px;
+        border-radius: 6px;
+        transition:
+          color 0.15s ease,
+          background 0.15s ease;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        break-inside: avoid;
+      }
+      /* hover only on real pointer devices — iOS tap would get stuck amber */
+      @media (hover: hover) {
+        .yest-grid a:hover {
+          color: var(--theme-accent);
+        }
+      }
+      /* ── Pangram / found-word logic (2×2, independent signals) ──────
+         FOUND drives color: theme accent if found, neutral cream if not.
+         PANGRAM drives weight + star marker: bold + ★ if pangram,
+         regular otherwise. The two are independent — a word can be
+         pangram-and-found, pangram-and-not-found, found-and-not-pangram,
+         or neither. Declaration order below matters: .is-found must come
+         AFTER .is-pangram so a found pangram's color is the theme accent,
+         not neutral — weight/marker still apply from .is-pangram since
+         those properties aren't overridden by .is-found. */
+      .yest-grid a.is-pangram {
+        color: var(
+          --cream
+        ); /* neutral default; overridden by .is-found below if also found */
+        font-weight: 700;
+      }
+      .yest-grid a.is-pangram::after {
+        content: " ★";
+        font-size: 0.65rem;
+        opacity: 0.8;
+      }
+      .yest-grid a.is-found {
+        color: var(--theme-accent);
+      }
+
+      /* ── 3-line legend ── */
+      .yest-legend {
+        padding-top: 14px;
+        border-top: 1px solid rgba(255, 255, 255, 0.06);
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+      }
+      .yest-legend-row {
+        font-size: 0.75rem;
+        color: var(--muted);
+        line-height: 1.5;
+      }
+      .yest-legend-pangram {
+        color: var(--cream);
+        font-weight: 700;
+      }
+      .yest-legend-found {
+        color: var(--theme-accent);
+        font-weight: 400;
+      }
+      /* ── STATS OVERLAY ──────────────────────────────────────────── */
+      .stats-body {
+        overflow-y: auto;
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+        padding: 20px 22px 36px;
+        flex: 1;
+      }
+      .stats-body::-webkit-scrollbar {
+        display: none;
+      }
+
+      /* ── top-level summary tiles ── */
+      .stat-tiles {
+        display: flex;
+        gap: 10px;
+        margin-bottom: 10px;
+      }
+      .stat-tile {
+        flex: 1;
+        background: var(--surface-2);
+        border: 1px solid rgba(255, 208, 0, 0.06);
+        border-radius: 14px;
+        padding: 16px 6px 14px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 7px;
+      }
+      .stat-tile-value {
+        font-family: "Lora", serif;
+        font-size: 2rem;
+        font-weight: 700;
+        color: var(--theme-accent);
+        line-height: 1;
+      }
+      .stat-tile-rank {
+        font-size: 1rem;
+      }
+      .stat-tile-label {
+        font-size: 0.62rem;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        color: var(--muted);
+      }
+
+      /* ── period tabs ── */
+      .stat-tabs {
+        display: flex;
+        gap: 0;
+        background: var(--surface-2);
+        border-radius: 10px;
+        padding: 3px;
+        margin: 16px 0 20px;
+      }
+      .stat-tab {
+        flex: 1;
+        height: 36px;
+        border: none;
+        border-radius: 8px;
+        background: none;
+        color: var(--muted);
+        font-family: "Nunito", sans-serif;
+        font-size: 0.72rem;
+        font-weight: 700;
+        letter-spacing: 0.05em;
+        cursor: pointer;
+        transition:
+          background 0.18s ease,
+          color 0.18s ease;
+      }
+      .stat-tab.active {
+        background: var(--surface);
+        color: var(--cream);
+      }
+
+      /* ── rank distribution bars ── */
+      .stat-dist {
+        display: flex;
+        flex-direction: column;
+        gap: 13px;
+        margin-bottom: 20px;
+      }
+      .stat-rank-row {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+      .stat-rank-name {
+        width: 78px;
+        font-size: 0.7rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        color: var(--muted-light);
+        text-align: right;
+        flex-shrink: 0;
+      }
+      .stat-bar-track {
+        flex: 1;
+        height: 18px;
+        background: rgba(255, 255, 255, 0.05);
+        border-radius: 9px;
+        overflow: hidden;
+      }
+      .stat-bar-fill {
+        height: 100%;
+        background: linear-gradient(
+          90deg,
+          var(--theme-accent) 0%,
+          var(--theme-cta) 100%
+        );
+        border-radius: 9px;
+        transition: width 0.55s cubic-bezier(0.25, 0.8, 0.25, 1);
+      }
+      .stat-bar-fill.genius {
+        background: var(--theme-cta);
+        box-shadow: 0 0 8px rgba(255, 208, 0, 0.45);
+      }
+      .stat-rank-count {
+        width: 24px;
+        font-size: 0.75rem;
+        font-weight: 700;
+        color: var(--cream);
+        text-align: right;
+        flex-shrink: 0;
+      }
+
+      /* ── footer ── */
+      .stats-footer {
+        font-size: 0.68rem;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: var(--muted);
+        text-align: center;
+        padding-top: 12px;
+        border-top: 1px solid rgba(255, 255, 255, 0.05);
+      }
+      /* ── longest word tile ── */
+      .stat-tile-wide {
+        width: 100%;
+        margin-bottom: 10px;
+        flex-direction: column;
+        gap: 8px;
+        padding: 14px 16px;
+      }
+      .stat-longest-word {
+        font-family: "Lora", serif;
+        font-size: 1.6rem;
+        font-weight: 700;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        color: var(--cream);
+      }
+      /* highlight center-letter occurrences in gold (set via JS) */
+      .stat-longest-word .cl {
+        color: var(--theme-accent);
+      }
+
+      /* ── HELP OVERLAY (How to play) ──────────────────────────────
+      Content-specific styles only — structure shared with all overlays 
+      via the shared bottom-sheet section above. */
+      .help-body {
+        padding: 18px 20px 28px;
+        overflow-y: auto;
+      }
+      .help-body p {
+        font-size: 0.85rem;
+        line-height: 1.5;
+        color: var(--muted-light);
+        margin: 0 0 14px;
+      }
+      .help-body p:last-child {
+        margin-bottom: 0;
+      }
+      .help-body strong {
+        color: var(--cream);
+      }
+
+      /* ── HINTS OVERLAY ──────────────────────────────────────────── */
+      .hints-body {
+        overflow-y: auto;
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+        padding: 16px 18px 28px;
+        flex: 1;
+      }
+      .hints-body::-webkit-scrollbar {
+        display: none;
+      }
+
+      /* section heading */
+      .hints-section-title {
+        font-size: 0.78rem;
+        letter-spacing: 0.04em;
+        color: var(--muted);
+        margin: 0 0 12px;
+        display: block;
+      }
+
+      /* ── count grid table ── */
+      .hints-grid-wrap {
+        margin-bottom: 22px;
+        overflow-x: auto;
+      }
+      .hints-grid-table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.97rem;
+      }
+      .hints-grid-table th {
+        font-size: 0.97rem;
+        letter-spacing: 0.04em;
+        color: var(--muted);
+        text-align: center;
+        padding: 4px 8px 8px;
+        font-weight: 700;
+        font-family: "Nunito", sans-serif;
+      }
+      .hints-grid-table th.col-letter {
+        text-align: left;
+      }
+      .hints-grid-table td {
+        text-align: center;
+        padding: 8px 6px;
+        font-weight: 600;
+        font-family: "Nunito", sans-serif;
+        color: var(--cream);
+        min-width: 34px;
+      }
+      /* first-letter column */
+      .hints-grid-table td.hl-letter {
+        color: var(--theme-accent);
+        font-weight: 700;
+        text-align: left;
+        padding-left: 2px;
+        font-family: "Lora", serif;
+        font-size: 1.05rem;
+      }
+      /* no words of this length/letter */
+      .hints-grid-table td.hl-dash {
+        color: rgba(255, 255, 255, 0.12);
+      }
+      /* all words of this cell found */
+      .hints-grid-table td.hl-done {
+        color: var(--muted);
+      }
+      /* total column (right) */
+      .hints-grid-table td.hl-total {
+        color: var(--theme-accent);
+        font-weight: 700;
+      }
+      /* total row (bottom) */
+      .hints-grid-table tr.hl-total-row td {
+        color: var(--theme-accent);
+        font-weight: 700;
+        border-top: 1px solid rgba(255, 208, 0, 0.12);
+        padding-top: 9px;
+      }
+      .hints-grid-table tr.hl-total-row td.hl-letter {
+        color: var(--muted);
+        font-family: "Nunito", sans-serif;
+        font-size: 0.75rem;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+      }
+
+      /* ── two-letter list ── */
+      .hints-two-wrap {
+        margin-bottom: 16px;
+      }
+      .hints-two-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 5px 14px;
+      }
+      .hints-two-item {
+        font-size: 0.97rem;
+        font-family: "Nunito", sans-serif;
+        color: var(--cream);
+        white-space: nowrap;
+      }
+      .hints-two-item .tl-pair {
+        color: var(--theme-accent);
+        font-weight: 700;
+      }
+      .hints-two-item.tl-done {
+        color: var(--muted);
+        text-decoration: line-through;
+        text-decoration-color: var(--muted);
+      }
+      .hints-two-item.tl-done .tl-pair {
+        color: var(--muted);
+      }
+
+      /* note at bottom */
+      .hints-note {
+        font-size: 0.78rem;
+        color: var(--muted);
+        text-align: center;
+        padding-top: 12px;
+        border-top: 1px solid rgba(255, 255, 255, 0.05);
+        line-height: 1.5;
+      }
+
+      /* ── hints letter display (same pattern as yest-letters) ── */
+      .hints-letters {
+        text-align: center;
+        margin: 4px 0 6px;
+        font-family: "Lora", serif;
+        font-size: 1.3rem;
+        font-weight: 700;
+        letter-spacing: 0.06em;
+      }
+      .hints-center-letter {
+        color: var(
+          --theme-accent
+        ); /* themed — was previously a fixed orange, distinct from Yesterday's gold; now both panels share the same theme accent for consistency */
+        font-size: 1.5rem;
+      }
+      .hints-outer-letter {
+        color: var(--cream);
+      }
+      .hints-subtitle {
+        text-align: center;
+        font-size: 0.82rem;
+        color: var(--muted);
+        letter-spacing: 0.06em;
+        margin-bottom: 18px;
+      }
+    </style>
+  </head>
+  <body class="game-hidden">
+    <!-- ── SPLASH SCREEN ── -->
+    <div id="splash-screen" aria-label="CalmBee intro">
+      <img id="splash-img" class="splash-photo" src="" alt="" />
+      <div class="splash-scrim" aria-hidden="true"></div>
+      <div class="splash-content">
+        <div class="splash-top">
+          <h1 class="splash-title" id="splash-title">CalmBee</h1>
+          <p class="splash-subtitle" id="splash-subtitle">
+            Seven letters. Take your time.
+          </p>
+        </div>
+        <button id="play-btn" aria-label="Start today's puzzle">Play</button>
+      </div>
+    </div>
+
+    <!-- ── LANDSCAPE WARNING ── -->
+    <div class="landscape-warning" aria-hidden="true">
+      <span>📱</span>
+      <p>
+        CalmBee is designed for portrait mode.<br />Please rotate your phone.
+      </p>
+    </div>
+
+    <!-- ── HEADER ── -->
+    <header>
+      <div class="brand">
+        <span class="brand-emoji" aria-hidden="true">🐝</span>
+        <span class="brand-name">CalmBee</span>
+      </div>
+      <div class="nav-icons">
+        <button
+          id="share-btn"
+          class="nav-btn"
+          aria-label="Share your result"
+          hidden
+        >
+          <svg
+            viewBox="0 0 24 24"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path
+              d="M12 3v12M8 7l4-4 4 4M5 12v7a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-7"
+            />
+          </svg>
+        </button>
+        <button class="nav-btn" onclick="openHints()" aria-label="Hints">
+          <svg
+            viewBox="0 0 24 24"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path d="M9 18h6" />
+            <path d="M10 22h4" />
+            <path
+              d="M12 2a6 6 0 0 0-4 10.47c.5.46.8 1.12.8 1.78V15a.75.75 0 0 0 .75.75h4.9A.75.75 0 0 0 14.2 15v-.75c0-.66.3-1.32.8-1.78A6 6 0 0 0 12 2Z"
+            />
+          </svg>
+        </button>
+        <button class="nav-btn" onclick="openStats()" aria-label="Statistics">
+          <svg
+            viewBox="0 0 24 24"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path d="M4 20V10" />
+            <path d="M12 20V4" />
+            <path d="M20 20v-7" />
+          </svg>
+        </button>
+        <button
+          class="nav-btn"
+          onclick="openYesterday()"
+          aria-label="Yesterday's answers"
+        >
+          <svg
+            viewBox="0 0 24 24"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <rect x="3" y="5" width="18" height="16" rx="2.5" />
+            <path d="M3 10h18" />
+            <path d="M8 3v4" />
+            <path d="M16 3v4" />
+          </svg>
+        </button>
+        <button class="nav-btn" onclick="openHelp()" aria-label="How to play">
+          <svg
+            viewBox="0 0 24 24"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <circle cx="12" cy="12" r="9" />
+            <path d="M9.6 9.4a2.4 2.4 0 1 1 3.4 2.18c-.78.36-1 0.74-1 1.42" />
+            <path d="M12 17h.01" />
+          </svg>
+        </button>
+      </div>
+    </header>
+
+    <!-- ── SCORE BAR ── -->
+    <div class="score-bar" role="status" aria-label="Game progress">
+      <span class="rank-label" id="rank-label">Beginner</span>
+      <span class="next-level-line" id="next-level-line"></span>
+    </div>
+
+    <!-- ── PROGRESS BAR ── -->
+    <!-- 7 individual band slots, one per rank. Populated by
+         applyProgressBarTheme() (colors) and toggled lit/unlit by
+         updateHexColors() (same function, same levelsLit count, that
+         drives the honeycomb) — so bar and honeycomb can never disagree
+         about how many ranks have been reached. -->
+    <div class="progress-row">
+      <span class="score-current" id="score-display">0</span>
+      <div
+        class="progress-track"
+        id="progress-track"
+        role="progressbar"
+        aria-valuemin="0"
+        aria-valuemax="7"
+        aria-valuenow="0"
+      ></div>
+      <span class="score-max" id="score-max">/ —</span>
+    </div>
+
+    <!-- ── FOUND WORDS — above the input display ── -->
+    <!--
+  One-line summary row; tap to expand the full word list.
+  Positioned here so progress is always visible above the typing area.
+-->
+    <div class="found-section" id="found-section">
+      <div
+        class="found-summary"
+        onclick="toggleFoundWords()"
+        role="button"
+        aria-expanded="false"
+        aria-controls="found-dropdown"
+      >
+        <span class="found-inline placeholder" id="found-inline"
+          >Words found</span
+        >
+        <span class="found-arrow" aria-hidden="true">▾</span>
+      </div>
+      <div class="found-dropdown" id="found-dropdown">
+        <div
+          class="found-words"
+          id="found-words-container"
+          aria-live="polite"
+        ></div>
+        <p class="found-mw-hint">Tap word for Merriam-Webster definition</p>
+      </div>
+    </div>
+
+    <!-- ── INPUT DISPLAY ── -->
+    <div class="input-display" id="input-display" aria-label="Word being typed">
+      <span class="cursor"></span>
+    </div>
+
+    <!-- ── TOAST ── -->
+    <div class="toast-area">
+      <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    </div>
+
+    <!-- ── HONEYCOMB ── -->
+    <svg
+      class="honeycomb"
+      id="honeycomb-svg"
+      viewBox="0 8 360 270"
+      xmlns="http://www.w3.org/2000/svg"
+      aria-label="Letter hexagons"
+    >
+      <!-- populated by renderHoneycomb() -->
+    </svg>
+
+    <!-- ── CONTROLS ── -->
+    <div class="controls">
+      <button
+        class="btn-secondary"
+        onclick="deleteLetter()"
+        aria-label="Delete last letter"
+      >
+        Delete
+      </button>
+      <button
+        class="btn-shuffle btn-secondary"
+        onclick="shuffleOuter()"
+        aria-label="Shuffle outer letters"
+      >
+        ↻
+      </button>
+      <button
+        id="enter-btn"
+        class="btn-primary"
+        onclick="submitWord()"
+        aria-label="Submit word"
+      >
+        Enter
+      </button>
+    </div>
+
+    <!-- ── AD SLOT ── -->
+    <!-- Reserved for future banner ad. Targeted by id="ad-slot".     -->
+    <!-- aria-hidden until an ad loads and provides its own semantics. -->
+    <div id="ad-slot" class="ad-banner" aria-hidden="true"></div>
+
+    <!-- ── HELP OVERLAY (How to play) — opened via ❓ in header ── -->
+    <div
+      id="help-overlay"
+      class="help-backdrop"
+      role="dialog"
+      aria-modal="true"
+      aria-label="How to play"
+      onclick="handleHelpBackdropClick(event)"
+    >
+      <div class="help-panel">
+        <div class="help-handle" data-swipe-handle aria-hidden="true"></div>
+        <div class="help-header" data-swipe-handle>
+          <span class="help-title">How to play</span>
+          <button class="help-close" onclick="closeHelp()" aria-label="Close">
+            ✕
+          </button>
+        </div>
+        <div class="help-body">
+          <p>
+            Find words using the <strong>7 letters</strong> in the honeycomb.
+          </p>
+          <p>
+            Every word must include the
+            <strong>center letter</strong> and be at least
+            <strong>4 letters</strong> long.
+          </p>
+          <p>
+            Letters may be used more than once. Words that use all 7 letters are
+            <strong>pangrams</strong> and earn a bonus — they appear in amber in
+            your word list.
+          </p>
+          <p>
+            Tap <strong>Shuffle</strong> to rearrange the outer letters. Tap
+            <strong>Delete</strong> to remove the last letter.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── YESTERDAY OVERLAY ── -->
+    <div
+      id="yesterday-overlay"
+      class="yest-backdrop"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Yesterday's answers"
+      onclick="handleBackdropClick(event)"
+    >
+      <div class="yest-panel">
+        <div class="yest-handle" data-swipe-handle aria-hidden="true"></div>
+        <div class="yest-header" data-swipe-handle>
+          <span class="yest-title">Yesterday's Answers</span>
+          <button
+            class="yest-close"
+            onclick="closeYesterday()"
+            aria-label="Close"
+          >
+            ✕
+          </button>
+        </div>
+        <div class="yest-body">
+          <div class="yest-letters" id="yest-letters"></div>
+          <div class="yest-subtitle" id="yest-subtitle"></div>
+          <div class="yest-grid" id="yest-grid"></div>
+          <div class="yest-legend" id="yest-legend"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── STATS OVERLAY ── -->
+    <div
+      id="stats-overlay"
+      class="stats-backdrop"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Statistics"
+      onclick="handleStatsBackdropClick(event)"
+    >
+      <div class="stats-panel">
+        <div class="stats-handle" data-swipe-handle aria-hidden="true"></div>
+        <div class="stats-header" data-swipe-handle>
+          <span class="stats-title">Statistics</span>
+          <button class="stats-close" onclick="closeStats()" aria-label="Close">
+            ✕
+          </button>
+        </div>
+        <div class="stats-body">
+          <!-- 3 summary tiles: Games · Words · Pangrams -->
+          <div class="stat-tiles">
+            <div class="stat-tile">
+              <span class="stat-tile-value" id="stat-games">—</span>
+              <span class="stat-tile-label">Games</span>
+            </div>
+            <div class="stat-tile">
+              <span class="stat-tile-value" id="stat-words">—</span>
+              <span class="stat-tile-label">Words</span>
+            </div>
+            <div class="stat-tile">
+              <span class="stat-tile-value" id="stat-pangrams">—</span>
+              <span class="stat-tile-label">Pangrams</span>
+            </div>
+          </div>
+
+          <!-- 3 tiles: Highest Rank · Day Streak · Queen Bee days -->
+          <div class="stat-tiles">
+            <div class="stat-tile">
+              <span class="stat-tile-value stat-tile-rank" id="stat-best-rank"
+                >—</span
+              >
+              <span class="stat-tile-label">Highest Rank</span>
+            </div>
+            <div class="stat-tile">
+              <span class="stat-tile-value" id="stat-streak">0</span>
+              <span class="stat-tile-label">Day Streak</span>
+            </div>
+            <div class="stat-tile">
+              <span class="stat-tile-value" id="stat-queen-bee-days">0</span>
+              <span class="stat-tile-label">Queen Bee Days</span>
+            </div>
+          </div>
+
+          <!-- Full-width: Longest Word (like NYT) -->
+          <div class="stat-tile stat-tile-wide">
+            <span class="stat-tile-label">Longest Word</span>
+            <span class="stat-longest-word" id="stat-longest-word">—</span>
+          </div>
+
+          <!-- Period tabs -->
+          <div class="stat-tabs" role="tablist">
+            <button
+              class="stat-tab active"
+              data-period="week"
+              role="tab"
+              onclick="setStatPeriod('week')"
+            >
+              This Week
+            </button>
+            <button
+              class="stat-tab"
+              data-period="month"
+              role="tab"
+              onclick="setStatPeriod('month')"
+            >
+              This Month
+            </button>
+            <button
+              class="stat-tab"
+              data-period="all"
+              role="tab"
+              onclick="setStatPeriod('all')"
+            >
+              All Time
+            </button>
+          </div>
+
+          <!-- Rank distribution bars -->
+          <div class="stat-dist" id="stat-dist" aria-live="polite"></div>
+
+          <!-- Footer: longest streak -->
+          <div class="stats-footer" id="stat-longest-streak">
+            Longest streak: 0 days
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── HINTS OVERLAY ── -->
+    <div
+      id="hints-overlay"
+      class="hints-backdrop"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Hints"
+      onclick="handleHintsBackdropClick(event)"
+    >
+      <div class="hints-panel">
+        <div class="hints-handle" data-swipe-handle aria-hidden="true"></div>
+        <div class="hints-header" data-swipe-handle>
+          <span class="hints-title">Hints</span>
+          <button class="hints-close" onclick="closeHints()" aria-label="Close">
+            ✕
+          </button>
+        </div>
+        <div class="hints-body">
+          <div class="hints-letters" id="hints-letters"></div>
+          <div class="hints-subtitle" id="hints-subtitle"></div>
+          <span class="hints-section-title"
+            >Words remaining by first letter and length</span
+          >
+          <div class="hints-grid-wrap">
+            <table
+              class="hints-grid-table"
+              id="hints-grid-table"
+              aria-live="polite"
+            ></table>
+          </div>
+          <span class="hints-section-title">Two-letter list</span>
+          <div class="hints-two-wrap">
+            <div
+              class="hints-two-grid"
+              id="hints-two-grid"
+              aria-live="polite"
+            ></div>
+          </div>
+          <div class="hints-note" id="hints-note">
+            Counts update as you find words
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      "use strict";
+
+      // ═══════════════════════════════════════════════════════════════
+      //  PUZZLE DATA
+      //  TODO: replace with fetch('puzzle_YYYY-MM-DD.json') once hosted.
+      // ═══════════════════════════════════════════════════════════════
+      // PUZZLE is populated by loadPuzzle() at startup.
+      let PUZZLE = null;
+      // Full puzzle array cached so Yesterday overlay needs no re-fetch.
+      let ALL_PUZZLES = null;
+
+      // ═══════════════════════════════════════════════════════════════
+      //  RANK THRESHOLDS
+      // ═══════════════════════════════════════════════════════════════
+      const RANKS = [
+        { pct: 0, label: "Beginner" },
+        { pct: 10, label: "Good Start" },
+        { pct: 20, label: "Moving Up" },
+        { pct: 30, label: "Good" },
+        { pct: 40, label: "Solid" },
+        { pct: 55, label: "Great" },
+        { pct: 70, label: "Genius" },
+      ];
+
+      // ═══════════════════════════════════════════════════════════════
+      //  HEX GEOMETRY — fixed regardless of theme
+      //
+      //  HEX LIGHTING ORDER (clockwise from 7 o'clock):
+      //    getHexCenters() index → clock position:
+      //      0=center  1=11 o'clock (upper-left)  2=1 o'clock (upper-right)
+      //      3=3 o'clock (right)  4=5 o'clock (lower-right)
+      //      5=7 o'clock (lower-left)  6=9 o'clock (left)
+      //  Progression wants: lower-left(5, 7:00) → left(6, 9:00) →
+      //    upper-left(1, 11:00) → upper-right(2, 1:00) → right(3, 3:00) →
+      //    lower-right(4, 5:00) → center(0)
+      //  7→9→11→1→3→5 o'clock is the CLOCKWISE direction (clock hands
+      //  moving forward).
+      //  NOTE: the array values themselves are NOT in clock order — they
+      //  are getHexCenters() indices, which were assigned counterclockwise
+      //  by that function. Reading the array left-to-right and mapping
+      //  each value through the index table above gives the correct
+      //  clockwise 7→9→11→1→3→5→center sequence.
+      // ═══════════════════════════════════════════════════════════════
+      const HEX_LIGHT_ORDER = [5, 6, 1, 2, 3, 4, 0];
+
+      // ═══════════════════════════════════════════════════════════════
+      //  THEME — populated at startup by loadTheme(), once per calendar
+      //  day, from themes.json. Until loadTheme() resolves, THEME is
+      //  null; renderHoneycomb()/updateHexColors() are not called before
+      //  that (see INIT at bottom of file).
+      //
+      //  Shape (built by loadTheme() from a themes.json entry):
+      //    name          theme display name (e.g. "Yellow Bells")
+      //    lightOrder    copied from HEX_LIGHT_ORDER (kept on THEME too,
+      //                  so existing code that reads THEME.lightOrder
+      //                  needs no changes)
+      //    levels[]      one entry per rank (0=Beginner … 6=Genius):
+      //                    hex   fill color when this level is reached
+      //                    text  letter color on a lit hex
+      //    unlit         { hex, text } — default state for outer hexes
+      //    centerStart   { hex, text } — center hex's pre-Genius landmark
+      //                  color (muted Genius hue); see prior design notes
+      //    background    theme's screen background hex (dark mode)
+      // ═══════════════════════════════════════════════════════════════
+      let THEME = null;
+
+      // ── Fallback theme ─────────────────────────────────────────────
+      // Used only if themes.json is missing, malformed, or fails to fetch.
+      // Keeps the game playable with the original Yellow Bells palette.
+      // photoFilename is null (not a missing-file bug) — the splash
+      // screen shows scrim-over-background-color rather than a broken
+      // <img> request when this fallback is active.
+      const FALLBACK_THEME = {
+        name: "Yellow Bells",
+        lightOrder: HEX_LIGHT_ORDER,
+        levels: [
+          { hex: "#FFFAE8", text: "#7a5500" },
+          { hex: "#FFE878", text: "#7a5500" },
+          { hex: "#FFD840", text: "#7a5500" },
+          { hex: "#F5BC20", text: "#7a5500" },
+          { hex: "#E8A800", text: "#7a5500" },
+          { hex: "#D49200", text: "var(--white)" },
+          { hex: "#E8900A", text: "var(--white)" },
+        ],
+        unlit: { hex: "#2a2010", text: "#6b4d00" },
+        centerStart: { hex: "#7a4e1a", text: "#f0c060" },
+        chromeText: "#E8A800",
+        cta: { fill: "#E8900A", text: "#1a0f00" },
+        photoFilename: null,
+        photoAlt: "",
+        celebrationPhotoFilename: null,
+        celebrationPhotoAlt: "",
+        dominantEmoji: "🟡",
+      };
+
+      // ═══════════════════════════════════════════════════════════════
+      //  GAME STATE
+      // ═══════════════════════════════════════════════════════════════
+      // Set by loadPuzzle() once the JSON is fetched.
+      let centerLetter = "";
+      let outerLetters = [];
+      let currentInput = "";
+      let foundWords = [];
+      let score = 0;
+      let overlayCount = 0; // reference counter — body scroll-lock held while > 0
+
+      // ═══════════════════════════════════════════════════════════════
+      //  CONSTANTS
+      // ═══════════════════════════════════════════════════════════════
+      const MW_URL = "https://www.merriam-webster.com/dictionary/";
+
+      // Function (not const) so it always reflects current outerLetters
+      // after shuffle — also ensures future puzzle-loading works correctly.
+      function validLetterSet() {
+        return new Set([centerLetter, ...outerLetters]);
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  GEOMETRY — pointy-top hexagons
+      //
+      //  Pointy-top orientation: vertex at top and bottom, flat sides
+      //  at left and right. For circumradius R, adjacent hex centers
+      //  are exactly R√3 apart. The center hex is at (CX, CY); the six
+      //  neighbours are at 60° intervals offset by (R√3/2, 3R/2).
+      //
+      //  hexPoints()   returns the SVG polygon `points` string.
+      //                `inset` shrinks the drawn radius by a few px
+      //                so adjacent hexes have a visible gap between them.
+      //  getHexCenters() returns [cx, cy] for all 7 hexes:
+      //                index 0 = centre; indices 1–6 = outer hexes,
+      //                clockwise starting at 11 o'clock (upper-left):
+      //                1=11:00  2=1:00  3=3:00  4=5:00  5=7:00  6=9:00
+      // ═══════════════════════════════════════════════════════════════
+      const R = 52,
+        S3 = Math.sqrt(3),
+        CX = 180,
+        CY = 148;
+
+      function hexPoints(cx, cy, r, inset = 4) {
+        const dr = r - inset,
+          pts = [];
+        for (let i = 0; i < 6; i++) {
+          const a = (Math.PI / 3) * i - Math.PI / 2;
+          pts.push(
+            `${(cx + dr * Math.cos(a)).toFixed(2)},${(cy + dr * Math.sin(a)).toFixed(2)}`,
+          );
+        }
+        return pts.join(" ");
+      }
+
+      // radius/cx/cy default to the main honeycomb's constants. Callers that
+      // need a differently-sized honeycomb (e.g. the share-graphic mini
+      // render) pass their own — same geometry, just scaled, so there is
+      // exactly one place this math lives.
+      function getHexCenters(radius = R, cx = CX, cy = CY) {
+        const dx = S3 * radius,
+          hx = (S3 * radius) / 2,
+          vy = 1.5 * radius;
+        return [
+          [cx, cy],
+          [cx - hx, cy - vy],
+          [cx + hx, cy - vy],
+          [cx + dx, cy],
+          [cx + hx, cy + vy],
+          [cx - hx, cy + vy],
+          [cx - dx, cy],
+        ];
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  SCORING
+      // ═══════════════════════════════════════════════════════════════
+      function wordScore(word) {
+        return (
+          (word.length === 4 ? 1 : word.length) +
+          (PUZZLE.answer_pangrams.includes(word) ? 7 : 0)
+        );
+      }
+
+      function getRank(pts) {
+        const pct =
+          PUZZLE.possible_points > 0 ? (pts / PUZZLE.possible_points) * 100 : 0;
+        let rank = RANKS[0];
+        for (const r of RANKS) {
+          if (pct >= r.pct) rank = r;
+        }
+        return rank.label;
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  RENDER: HONEYCOMB
+      //
+      //  Each <g> gets  data-slot="N"  (N = index into getHexCenters()).
+      //  updateHexColors() uses data-slot to repaint without re-creating
+      //  the SVG, so touch listeners are never lost after color changes.
+      //
+      //  Center hex (slot 0) starts at THEME.centerStart — a muted version
+      //  of the Genius color — so it reads as a landmark from game load,
+      //  matching the visual hierarchy NYT Spelling Bee players expect.
+      //  Outer hexes start at THEME.unlit (very dark warm neutral).
+      // ═══════════════════════════════════════════════════════════════
+      function renderHoneycomb() {
+        const svg = document.getElementById("honeycomb-svg");
+        svg.innerHTML = "";
+        const centers = getHexCenters();
+        const letters = [centerLetter, ...outerLetters];
+
+        centers.forEach(([cx, cy], i) => {
+          const letter = letters[i];
+          const isCenter = i === 0;
+
+          const g = document.createElementNS("http://www.w3.org/2000/svg", "g");
+          g.setAttribute("class", "hex");
+          g.setAttribute("role", "button");
+          g.setAttribute("aria-label", `Letter ${letter.toUpperCase()}`);
+          g.setAttribute("tabindex", "0");
+          // Stable slot ID lets updateHexColors() find this hex by geometry
+          // position rather than DOM order, which can change after shuffle.
+          g.dataset.slot = i;
+
+          // ── Touch: fire immediately on finger-down, no 300ms delay ──
+          let touchFired = false;
+          g.addEventListener(
+            "touchstart",
+            (e) => {
+              e.preventDefault();
+              touchFired = true;
+              addLetter(letter);
+              g.classList.remove("tapped");
+              void g.offsetWidth;
+              g.classList.add("tapped");
+              setTimeout(() => g.classList.remove("tapped"), 380);
+            },
+            { passive: false },
+          );
+
+          // ── Mouse (desktop) ───────────────────────────────────────
+          g.addEventListener("click", () => {
+            if (touchFired) {
+              touchFired = false;
+              return;
+            }
+            addLetter(letter);
+            g.blur();
+            g.classList.remove("tapped");
+            void g.offsetWidth;
+            g.classList.add("tapped");
+            setTimeout(() => g.classList.remove("tapped"), 380);
+          });
+
+          // Keyboard accessibility
+          g.addEventListener("keydown", (e) => {
+            if (e.key === " " || e.key === "Enter") {
+              e.preventDefault();
+              addLetter(letter);
+            }
+          });
+
+          const poly = document.createElementNS(
+            "http://www.w3.org/2000/svg",
+            "polygon",
+          );
+          poly.setAttribute("points", hexPoints(cx, cy, R, 4));
+          // Center hex starts at the muted centerStart color (landmark from
+          // game load). Outer hexes start fully unlit.
+          poly.setAttribute(
+            "fill",
+            isCenter ? THEME.centerStart.hex : THEME.unlit.hex,
+          );
+
+          const text = document.createElementNS(
+            "http://www.w3.org/2000/svg",
+            "text",
+          );
+          text.setAttribute("x", cx.toFixed(2));
+          text.setAttribute("y", cy.toFixed(2));
+          text.textContent = letter.toUpperCase();
+          text.setAttribute(
+            "fill",
+            isCenter ? THEME.centerStart.text : THEME.unlit.text,
+          );
+
+          g.appendChild(poly);
+          g.appendChild(text);
+          svg.appendChild(g);
+        });
+
+        // Apply colors for any ranks already reached (e.g. page reload mid-game).
+        updateHexColors();
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  UPDATE HEX COLORS
+      //
+      //  Called by renderScore() after every valid word, and by
+      //  renderHoneycomb() on load. Computes how many levels the player
+      //  has reached and paints the honeycomb accordingly:
+      //
+      //    Center hex  — always shows THEME.centerStart until Genius is
+      //                  reached, then transitions to THEME.levels[6].
+      //                  A brief scale pulse fires once at Genius arrival.
+      //    Outer hexes — unlit until their turn in THEME.lightOrder;
+      //                  then lit with the matching THEME.levels[] color.
+      //
+      //  Because this only mutates SVG fill attributes (not innerHTML),
+      //  the CSS fill transition on .hex polygon plays automatically.
+      // ═══════════════════════════════════════════════════════════════
+      // Single source of truth for "how many of the 7 hexes are lit right
+      // now" — used by updateHexColors() (live honeycomb + progress bar)
+      // and by the share-graphic generator (canvas image + emoji fallback),
+      // so both are guaranteed to agree with the player's actual rank.
+      // Guard: score===0 means no words yet — nothing lit.
+      function getLevelsLit() {
+        if (score <= 0 || !PUZZLE) return 0;
+        const pct =
+          PUZZLE.possible_points > 0
+            ? (score / PUZZLE.possible_points) * 100
+            : 0;
+        let levelsLit = 0;
+        for (let i = 0; i < RANKS.length; i++) {
+          if (pct >= RANKS[i].pct) levelsLit = i + 1;
+        }
+        return levelsLit;
+      }
+
+      function updateHexColors() {
+        if (!PUZZLE) return;
+
+        const levelsLit = getLevelsLit();
+
+        // ── Progress bar: toggle the same number of bands as hexes lit ──
+        // Single source of truth (levelsLit) drives both displays, so the
+        // bar and honeycomb can never show a different rank count — see
+        // the architecture note above this function.
+        const bands = document.querySelectorAll(".progress-band");
+        bands.forEach((band, i) => {
+          band.classList.toggle("lit", i < levelsLit);
+        });
+        const track = document.getElementById("progress-track");
+        if (track) track.setAttribute("aria-valuenow", levelsLit);
+
+        const svg = document.getElementById("honeycomb-svg");
+        if (!svg) return;
+        const groups = svg.querySelectorAll("g[data-slot]");
+
+        groups.forEach((g) => {
+          const slot = parseInt(g.dataset.slot, 10);
+          const poly = g.querySelector("polygon");
+          const txt = g.querySelector("text");
+          const isCenter = slot === 0;
+
+          // Position of this hex in the clockwise (7→9→11→1→3→5→center)
+          // lighting sequence — see THEME.lightOrder note above.
+          const seqIdx = THEME.lightOrder.indexOf(slot);
+          const isLit = seqIdx >= 0 && seqIdx < levelsLit;
+
+          if (isLit) {
+            const levelData = THEME.levels[seqIdx];
+            poly.setAttribute("fill", levelData.hex);
+            txt.setAttribute("fill", levelData.text);
+
+            // Center hex reaches Genius (seqIdx===6, the last step).
+            // Fire a one-shot scale pulse to mark the achievement.
+            if (isCenter && seqIdx === THEME.lightOrder.length - 1) {
+              // Delay slightly so the fill transition starts first.
+              setTimeout(() => {
+                g.classList.remove("genius-pulse");
+                void g.offsetWidth; // force reflow so animation restarts cleanly
+                g.classList.add("genius-pulse");
+                setTimeout(() => g.classList.remove("genius-pulse"), 460);
+              }, 150);
+            }
+          } else {
+            // Center hex stays at its muted starting color (not full dark)
+            // so it always reads as the landmark required letter.
+            if (isCenter) {
+              poly.setAttribute("fill", THEME.centerStart.hex);
+              txt.setAttribute("fill", THEME.centerStart.text);
+            } else {
+              poly.setAttribute("fill", THEME.unlit.hex);
+              txt.setAttribute("fill", THEME.unlit.text);
+            }
+          }
+        });
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  RENDER: INPUT DISPLAY
+      // ═══════════════════════════════════════════════════════════════
+      function renderInput() {
+        const el = document.getElementById("input-display");
+        if (currentInput.length === 0) {
+          el.innerHTML = '<span class="cursor"></span>';
+          return;
+        }
+        el.innerHTML =
+          currentInput
+            .toUpperCase()
+            .split("")
+            .map(
+              (ch) =>
+                `<span class="${ch === centerLetter.toUpperCase() ? "letter center" : "letter"}">${ch}</span>`,
+            )
+            .join("") + '<span class="cursor"></span>';
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  RENDER: SCORE / RANK / PROGRESS
+      // ═══════════════════════════════════════════════════════════════
+      // Computes "X points to [next rank]" text for the line below the
+      // rank label. Returns "" once Genius is reached — RANKS has no
+      // entry beyond Genius. Queen Bee 8th level is an Easter egg.
+      // We don't show X points to Queen Bee.
+      function getNextLevelText(pts) {
+        const pct =
+          PUZZLE.possible_points > 0 ? (pts / PUZZLE.possible_points) * 100 : 0;
+        let nextRank = null;
+        for (const r of RANKS) {
+          if (r.pct > pct) {
+            nextRank = r;
+            break;
+          }
+        }
+        if (!nextRank) return ""; // Genius reached — no next rank to show
+        const pointsNeeded = Math.ceil(
+          (nextRank.pct / 100) * PUZZLE.possible_points - pts,
+        );
+        return `<strong>${pointsNeeded}</strong> to ${nextRank.label}`;
+      }
+
+      function renderScore() {
+        document.getElementById("score-display").textContent = score;
+        // Queen Bee overrides the percentage-based rank once every word
+        // is found — it's a completion state, not a score tier, so it
+        // deliberately isn't in RANKS/getRank() (see getNextLevelText's
+        // comment above). Checked here, not baked into getRank(), so
+        // getRank() stays pure percentage math reusable elsewhere
+        // (e.g. stat-dist bucketing at RANKS.forEach below).
+        document.getElementById("rank-label").textContent =
+          foundWords.length === PUZZLE.answers.length
+            ? "Queen Bee"
+            : getRank(score);
+        document.getElementById("next-level-line").innerHTML =
+          getNextLevelText(score);
+        // Share button appears once there's something worth sharing —
+        // matches the score>0 guard getLevelsLit() already uses, so
+        // "visible" and "has a non-empty result" can't disagree.
+        document.getElementById("share-btn").hidden = score <= 0;
+        // Band lighting (progress bar) and hex lighting (honeycomb) are
+        // both driven from inside updateHexColors(), using the same
+        // levelsLit count — see that function for the single source of
+        // truth both displays read from.
+        updateHexColors();
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  UTILITY: LETTER DISPLAY
+      // ═══════════════════════════════════════════════════════════════
+      /**
+       * Build the "center · A · B · C …" letter display HTML shared by
+       * the Yesterday overlay & Hints overlay.
+       * @param {string} center  - The center letter (any case; uppercased internally)
+       * @param {string} pangram - The pangram string (source of all 7 letters)
+       * @param {string} prefix  - CSS class prefix, e.g. "yest" or "hints"
+       * @returns {string} HTML string ready for innerHTML assignment
+       */
+      function buildLetterDisplay(center, pangram, prefix) {
+        const cl = center.toUpperCase();
+        const outers = [...new Set(pangram.toUpperCase().split(""))]
+          .filter((l) => l !== cl)
+          .sort();
+        return (
+          `<span class="${prefix}-center-letter">${cl}</span>` +
+          outers
+            .map((l) => ` <span class="${prefix}-outer-letter">${l}</span>`)
+            .join("")
+        );
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  RENDER: FOUND WORDS
+      // ═══════════════════════════════════════════════════════════════
+      function renderFoundWords() {
+        const sorted = [...foundWords].sort(); // alpha for expanded list
+        const reversed = [...foundWords].slice().reverse(); // reverse chrono for preview
+
+        // ── Expanded list (alphabetical) ──────────────────────────
+        document.getElementById("found-words-container").innerHTML = sorted
+          .map((w) => {
+            const cls = PUZZLE.answer_pangrams.includes(w)
+              ? "found-word is-pangram"
+              : "found-word";
+            return `<a href="${MW_URL}${encodeURIComponent(w)}"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="${cls}">${w}</a>`;
+          })
+          .join("");
+
+        // ── Collapsed preview bar ─────────────────────────────────
+        const inlineEl = document.getElementById("found-inline");
+        const isOpen = document
+          .getElementById("found-section")
+          .classList.contains("open");
+
+        if (!isOpen) {
+          if (foundWords.length === 0) {
+            inlineEl.textContent = "Words found";
+            inlineEl.classList.add("placeholder");
+          } else {
+            inlineEl.textContent = reversed.join("  ·  ");
+            inlineEl.classList.remove("placeholder");
+          }
+        } else {
+          // List is open — keep the count line current
+          const n = foundWords.length;
+          inlineEl.textContent = `You've found ${n} word${n !== 1 ? "s" : ""}`;
+          inlineEl.classList.remove("placeholder");
+        }
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  FOUND WORDS TOGGLE
+      // ═══════════════════════════════════════════════════════════════
+      function toggleFoundWords() {
+        const section = document.getElementById("found-section");
+        const isOpen = section.classList.toggle("open");
+        const inlineEl = document.getElementById("found-inline");
+        document
+          .querySelector(".found-summary")
+          .setAttribute("aria-expanded", String(isOpen));
+
+        if (!isOpen) {
+          // Closing: restore the preview line
+          if (foundWords.length === 0) {
+            inlineEl.textContent = "Words found";
+            inlineEl.classList.add("placeholder");
+          } else {
+            inlineEl.textContent = [...foundWords]
+              .slice()
+              .reverse()
+              .join("  ·  ");
+            inlineEl.classList.remove("placeholder");
+          }
+        } else {
+          // Opening: show count above the expanded list
+          const n = foundWords.length;
+          inlineEl.textContent = `You've found ${n} word${n !== 1 ? "s" : ""}`;
+          inlineEl.classList.remove("placeholder");
+        }
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  TOAST
+      // ═══════════════════════════════════════════════════════════════
+      let toastTimer = null;
+
+      function showToast(msg, type = "") {
+        const t = document.getElementById("toast");
+        t.textContent = msg;
+        t.className = `toast ${type}`;
+        void t.offsetWidth;
+        t.classList.add("show");
+        if (toastTimer) clearTimeout(toastTimer);
+        toastTimer = setTimeout(() => t.classList.remove("show"), 1900);
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  YESTERDAY'S ANSWERS OVERLAY
+      // ═══════════════════════════════════════════════════════════════
+      function openYesterday() {
+        if (!ALL_PUZZLES) {
+          showToast("Puzzle data not loaded yet", "error");
+          return;
+        }
+
+        // ── Yesterday's date ───────────────────────────────────────
+        const yDate = new Date();
+        yDate.setDate(yDate.getDate() - 1);
+        const yesterday = yDate.toLocaleDateString("en-CA"); // YYYY-MM-DD
+
+        const yp = ALL_PUZZLES.find((p) => p.date === yesterday);
+        if (!yp) {
+          showToast(`No puzzle found for ${yesterday}`, "error");
+          return;
+        }
+
+        // ── Title: formatted date e.g. "May 28, 2026" ─────────────
+        const [yr, mo, dy] = yesterday.split("-").map(Number);
+        const displayDate = new Date(yr, mo - 1, dy).toLocaleDateString(
+          "en-US",
+          {
+            month: "long",
+            day: "numeric",
+            year: "numeric",
+          },
+        );
+        document.querySelector(".yest-title").textContent = displayDate;
+
+        // ── Letter display: center · A · B · C … ──────────────────
+        document.getElementById("yest-letters").innerHTML = buildLetterDisplay(
+          yp.center_letter,
+          yp.pangram,
+          "yest",
+        );
+
+        // ── Subtitle: word count and points ────────────────────────
+        document.getElementById("yest-subtitle").textContent =
+          `${yp.answers.length} words  ·  ${yp.possible_points} points`;
+
+        // ── Yesterday's found words (from localStorage) ────────────
+        const savedGames = loadStats();
+        const ypRecord = savedGames.find((g) => g.date === yesterday);
+        const foundYesterday = new Set(ypRecord?.foundWordsList || []);
+
+        // ── 3-column word grid ─────────────────────────────────────
+        const sorted = [...yp.answers].sort();
+        document.getElementById("yest-grid").innerHTML = sorted
+          .map((w) => {
+            const isPangram = yp.answer_pangrams.includes(w);
+            const isFound = foundYesterday.has(w);
+            const classes = [
+              isPangram ? "is-pangram" : "",
+              isFound ? "is-found" : "",
+            ]
+              .filter(Boolean)
+              .join(" ");
+            return `<a href="${MW_URL}${encodeURIComponent(w)}"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="${classes}">${w}</a>`;
+          })
+          .join("");
+
+        // ── 3-line legend ──────────────────────────────────────────
+        document.getElementById("yest-legend").innerHTML =
+          `<div class="yest-legend-row">
+             <span class="yest-legend-pangram">Pangram ★</span>
+           </div>
+           <div class="yest-legend-row">
+             <span class="yest-legend-found">Words found</span>
+           </div>
+           <div class="yest-legend-row">
+             Tap word for Merriam-Webster definition
+           </div>`;
+
+        // ── Show overlay ───────────────────────────────────────────
+        document.getElementById("yesterday-overlay").classList.add("open");
+        overlayCount++;
+        if (overlayCount === 1) document.body.style.overflow = "hidden";
+      }
+
+      function closeYesterday() {
+        document.getElementById("yesterday-overlay").classList.remove("open");
+        overlayCount = Math.max(0, overlayCount - 1);
+        if (overlayCount === 0) document.body.style.overflow = "";
+      }
+
+      // Close when tapping the dim backdrop (but not the panel itself)
+      function handleBackdropClick(e) {
+        if (e.target === document.getElementById("yesterday-overlay")) {
+          closeYesterday();
+        }
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  PLAYER STATS  —  localStorage
+      //
+      //  saveGameProgress() is called after every valid word found.
+      //  It upserts (inserts or replaces) one record for today's date
+      //  into the calmbee_stats array in localStorage, so no data is
+      //  lost if the browser closes mid-game.
+      //
+      //  Statistics are always computed at display time from the raw
+      //  record array — nothing is pre-aggregated. This means adding
+      //  new stats later requires no migration of stored data.
+      //
+      //  computeStreaks() scans the sorted date array for consecutive
+      //  calendar days. Both current streak (walking back from today)
+      //  and longest streak (sliding window) are computed in one pass.
+      //
+      //  filterByPeriod() slices the record array to This Week (Mon–Sun)
+      //  or This Month without mutating the source array.
+      //
+      //  One record per calendar day, upserted on every word found.
+      //  Schema: { date, rank, rankIdx, score, possiblePoints,
+      //            wordsFound, totalAnswers, pangramsFound,
+      //            foundWordsList, longestWord, complete }
+      // ═══════════════════════════════════════════════════════════════
+      const STATS_KEY = "calmbee_stats";
+
+      function loadStats() {
+        try {
+          return JSON.parse(localStorage.getItem(STATS_KEY) || "[]");
+        } catch {
+          return [];
+        }
+      }
+
+      function persistStats(games) {
+        try {
+          localStorage.setItem(STATS_KEY, JSON.stringify(games));
+        } catch (e) {
+          console.warn("Stats save failed:", e);
+        }
+      }
+
+      // Upsert today's game record. Call after every word found.
+      function saveGameProgress() {
+        if (!PUZZLE) return;
+        const today = new Date().toLocaleDateString("en-CA");
+        const games = loadStats();
+        const idx = games.findIndex((g) => g.date === today);
+        const isComplete = foundWords.length === PUZZLE.answers.length;
+
+        // rankIdx is deliberately computed from the SCORE-based label only
+        // (never "Queen Bee"), so a completed puzzle still buckets into
+        // the Genius bar on the stats-distribution chart — Queen Bee is a
+        // superset of reaching Genius, not a separate RANKS tier (see
+        // getNextLevelText's comment). rank, by contrast, IS overridden
+        // to "Queen Bee" so the stored record reflects what the player
+        // actually saw on their rank label — this mirrors the same
+        // override renderScore() already applies for the on-screen label,
+        // fixing what was previously a data bug: this function used to
+        // call getRank(score) directly and silently store "Genius" even
+        // on a Queen Bee day.
+        const scoreRankLbl = getRank(score);
+        const rankIdx = RANKS.findIndex((r) => r.label === scoreRankLbl);
+        const rankLbl = isComplete ? "Queen Bee" : scoreRankLbl;
+
+        const longest = foundWords.reduce(
+          (best, w) => (w.length > best.length ? w : best),
+          "",
+        );
+
+        const record = {
+          date: today,
+          rank: rankLbl,
+          rankIdx: rankIdx,
+          score: score,
+          possiblePoints: PUZZLE.possible_points,
+          wordsFound: foundWords.length,
+          totalAnswers: PUZZLE.answers.length,
+          pangramsFound: foundWords.filter((w) =>
+            PUZZLE.answer_pangrams.includes(w),
+          ).length,
+          foundWordsList: [...foundWords], // full list for Yesterday highlighting
+          longestWord: longest,
+          complete: isComplete,
+        };
+
+        if (idx >= 0) {
+          games[idx] = record;
+        } else {
+          games.push(record);
+        }
+        persistStats(games);
+      }
+
+      // ── Date helpers ──────────────────────────────────────────────
+      // Parse "YYYY-MM-DD" as a local-time Date (not UTC).
+      function parseLocalDate(str) {
+        const [y, m, d] = str.split("-").map(Number);
+        return new Date(y, m - 1, d);
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  SHARE BY TEXT
+      //
+      //  Three tiers, tried in order by shareResults():
+      //    1. navigator.share({ files, text }) — real canvas-rendered
+      //       honeycomb image attaches, exact colors/lit-state.
+      //    2. navigator.share({ text }) — file-sharing unsupported;
+      //       falls back to caption + emoji-hex approximation.
+      //    3. navigator.clipboard.writeText() — Share API absent
+      //       entirely; same text as tier 2, copied instead of shared.
+      //
+      //  Rank, lit-count, and word count are pulled from the exact same
+      //  sources the live game already uses (getLevelsLit(), foundWords,
+      //  saveGameProgress()'s isComplete → "Queen Bee" logic) — never
+      //  recomputed independently, so a shared result can't drift from
+      //  what the player actually saw.
+      // ═══════════════════════════════════════════════════════════════
+
+      // "YYYY-MM-DD" → "May 28". Deliberately short-form (unlike the
+      // Yesterday panel's "May 28, 2026") to read like a compact
+      // puzzle-date line, closer to Wordle's terse header.
+      function formatShareDate(dateStr) {
+        return parseLocalDate(dateStr).toLocaleDateString("en-US", {
+          month: "short",
+          day: "numeric",
+        });
+      }
+
+      function buildShareCaption() {
+        if (!PUZZLE) return "";
+        const isComplete = foundWords.length === PUZZLE.answers.length;
+        const rankLbl = isComplete ? "Queen Bee" : getRank(score);
+        return (
+          `CalmBee ${formatShareDate(PUZZLE.date)}\n` +
+          `${rankLbl} · ${foundWords.length}/${PUZZLE.answers.length} words`
+        );
+      }
+
+      // Spatial grid (2 / 3 / 2 rows) mapped to getHexCenters() slot
+      // indices, matching the live honeycomb's real clock positions:
+      //   row 1 (top):     11:00 (slot 1)     1:00 (slot 2)
+      //   row 2 (middle):   9:00 (slot 6)  center (slot 0)  3:00 (slot 3)
+      //   row 3 (bottom):   7:00 (slot 5)     5:00 (slot 4)
+      const SHARE_GRID_SLOTS = [1, 2, 6, 0, 3, 5, 4];
+
+      // Plain-text honeycomb approximation for the no-image fallback.
+      // \u00A0 (non-breaking space) is deliberate, not a typo: regular
+      // spaces get stripped by some editors/clients on the way to
+      // Messages (confirmed with Obsidian during design) — non-breaking
+      // spaces survive because whitespace-normalization generally treats
+      // them as intentional. 3 before rows 1 and 3, none before row 2.
+      function buildFallbackHoneycombText() {
+        if (!PUZZLE || !THEME) return "";
+        const levelsLit = getLevelsLit();
+        const lit = THEME.dominantEmoji;
+        const unlit = "⚪️";
+
+        const cells = SHARE_GRID_SLOTS.map((slot) => {
+          const seqIdx = THEME.lightOrder.indexOf(slot);
+          const isLit = seqIdx >= 0 && seqIdx < levelsLit;
+          return isLit ? lit : unlit;
+        });
+
+        const pad = "\u00A0\u00A0\u00A0";
+        const isComplete = foundWords.length === PUZZLE.answers.length;
+        const row1 = `${pad}${cells[0]}${cells[1]}`;
+        const row2 = isComplete
+          ? `${cells[2]}${cells[3]}${cells[4]} 🐝`
+          : `${cells[2]}${cells[3]}${cells[4]}`;
+        const row3 = `${pad}${cells[5]}${cells[6]}`;
+        return `${row1}\n${row2}\n${row3}`;
+      }
+
+      // Draws the polygon described by a hexPoints() string onto a canvas
+      // context. Deliberately reuses hexPoints()'s own output rather than
+      // re-deriving hexagon vertex math — that math lives in exactly one
+      // place (hexPoints), same as the live SVG honeycomb.
+      function drawHexFromPoints(ctx, pointsStr) {
+        const pts = pointsStr.split(" ").map((p) => p.split(",").map(Number));
+        ctx.beginPath();
+        pts.forEach(([x, y], i) => {
+          if (i === 0) ctx.moveTo(x, y);
+          else ctx.lineTo(x, y);
+        });
+        ctx.closePath();
+      }
+
+      // Mini canvas honeycomb for the primary share image. Same
+      // getHexCenters()/hexPoints() geometry as the live SVG honeycomb —
+      // just called with a smaller radius/origin (see getHexCenters()'s
+      // parameterization above) — and the same THEME.levels /
+      // THEME.lightOrder / getLevelsLit() state, so this can never
+      // visually drift from what's on screen. Rendered at 3x for retina
+      // crispness. Returns a Promise<Blob> (PNG).
+      // Fixed neutral for unlit cells in the share canvas ONLY. Not
+      // THEME.unlit/THEME.centerStart — those are deliberately dark,
+      // tuned to recede against the live game's dark screen background
+      // (THEME.background.dark). On a white share card that same dark
+      // brown reads as a confusing dark square instead of "recessed."
+      // A fixed light gray keeps lit-vs-unlit a clean luminance contrast
+      // regardless of which theme is active — same CVD reasoning as the
+      // emoji fallback's white-circle unlit cells.
+      const SHARE_UNLIT_FILL = "#E8E8E8";
+
+      // Measures a glyph's real rendered height via TextMetrics rather
+      // than guessing a reserved area — needed to give the bee tight,
+      // exact, equal margins (see BEE_MARGIN below) instead of an
+      // eyeballed block of empty space.
+      function measureGlyphMetrics(glyph, fontSize) {
+        const c = document.createElement("canvas");
+        const ctx = c.getContext("2d");
+        ctx.font = `${fontSize}px sans-serif`;
+        return ctx.measureText(glyph);
+      }
+
+      function renderShareHoneycombCanvas() {
+        const SCALE = 3;
+        const SIZE_W = 240; // CSS px; backing store is SIZE_W*SCALE
+        const HEX_AREA_H = 200; // fits bee, honeycomb, iPhone text message space well
+        const miniR = 34;
+
+        // Queen Bee gets extra canvas height for a large bee glyph, drawn
+        // above the honeycomb. Baked into the image itself rather than
+        // relying on Messages' "solo emoji renders large" rule — that
+        // rule needs an emoji-only message with nothing else in it, which
+        // a single navigator.share({ text, files }) call can't produce
+        // (only one text string, and it already carries the caption). An
+        // image-drawn glyph also looks the same on every platform, not
+        // just iMessage.
+        //
+        // BEE_MARGIN is the tight, equal gap above and below the bee
+        // WITHIN this image. It's the only lever we have over the gap
+        // between the caption bubble and the bee — Messages adds its own
+        // bubble-to-attachment spacing on top of this, outside the PNG
+        // entirely, which no amount of canvas layout can reach. Keeping
+        // our own margin small and symmetric (top == bottom, both here)
+        // is the closest this image can get to matching that gap to the
+        // bee-to-honeycomb gap below it.
+        const BEE_FONT_SIZE = 72;
+        const BEE_MARGIN = 10;
+        const isComplete =
+          !!PUZZLE && foundWords.length === PUZZLE.answers.length;
+
+        let beeMetrics = null;
+        let beeGlyphHeight = 0;
+        if (isComplete) {
+          beeMetrics = measureGlyphMetrics("🐝", BEE_FONT_SIZE);
+          beeGlyphHeight =
+            beeMetrics.actualBoundingBoxAscent +
+            beeMetrics.actualBoundingBoxDescent;
+        }
+        const BEE_AREA_H = isComplete
+          ? BEE_MARGIN + beeGlyphHeight + BEE_MARGIN
+          : 0;
+        const SIZE_H = HEX_AREA_H + BEE_AREA_H;
+
+        const miniCx = SIZE_W / 2;
+        const miniCy = BEE_AREA_H + HEX_AREA_H / 2;
+
+        const canvas = document.createElement("canvas");
+        canvas.width = SIZE_W * SCALE;
+        canvas.height = SIZE_H * SCALE;
+        const ctx = canvas.getContext("2d");
+        ctx.scale(SCALE, SCALE);
+
+        if (isComplete) {
+          ctx.font = `${BEE_FONT_SIZE}px sans-serif`;
+          ctx.textAlign = "center";
+          ctx.textBaseline = "alphabetic";
+          const baselineY = BEE_MARGIN + beeMetrics.actualBoundingBoxAscent;
+          ctx.fillText("🐝", SIZE_W / 2, baselineY);
+        }
+
+        const centers = getHexCenters(miniR, miniCx, miniCy);
+        const levelsLit = getLevelsLit();
+
+        centers.forEach(([cx, cy], slot) => {
+          const seqIdx = THEME.lightOrder.indexOf(slot);
+          const isLit = seqIdx >= 0 && seqIdx < levelsLit;
+
+          const fill = isLit ? THEME.levels[seqIdx].hex : SHARE_UNLIT_FILL;
+
+          drawHexFromPoints(ctx, hexPoints(cx, cy, miniR, 2));
+          ctx.fillStyle = fill;
+          ctx.fill();
+          // Translucent-black stroke, not a solid color — it darkens
+          // whatever it sits on by a relative amount rather than
+          // competing as its own hue, so it works the same way against
+          // a near-white lit fill (e.g. Yellow Bells' level 1, #FFFAE8 —
+          // chroma 23, the lowest of any theme's level 1) as it does
+          // against the light-gray unlit fill or a saturated lit color.
+          // Fixes edge definition without editing THEME.levels, which
+          // stays untouched because it's shared with the live honeycomb.
+          ctx.strokeStyle = "rgba(0, 0, 0, 0.15)";
+          ctx.lineWidth = 1.5;
+          ctx.stroke();
+        });
+
+        return new Promise((resolve) => {
+          canvas.toBlob((blob) => resolve(blob), "image/png");
+        });
+      }
+
+      // Entry point for the Share button. Tries tier 1 (real image),
+      // then tier 2 (text-only share), then tier 3 (clipboard copy) —
+      // see the section header above for what each tier does.
+      // AbortError (player cancelled the native share sheet) stops
+      // silently rather than falling through to clipboard, since a
+      // cancelled share isn't a failure that needs a fallback.
+      async function shareResults() {
+        if (!PUZZLE || !THEME) return;
+
+        const caption = buildShareCaption();
+
+        if (navigator.share && navigator.canShare) {
+          try {
+            const blob = await renderShareHoneycombCanvas();
+            if (blob) {
+              const file = new File([blob], "calmbee.png", {
+                type: "image/png",
+              });
+              if (navigator.canShare({ files: [file] })) {
+                await navigator.share({
+                  files: [file],
+                  text: caption,
+                  title: "CalmBee",
+                });
+                return;
+              }
+            }
+          } catch (err) {
+            if (err?.name === "AbortError") return;
+            // Any other failure (canvas/blob issue, etc.) falls through
+            // to the text tiers below rather than leaving the player
+            // with nothing.
+          }
+        }
+
+        const fallbackText = `${caption}\n\n${buildFallbackHoneycombText()}`;
+
+        if (navigator.share) {
+          try {
+            await navigator.share({ text: fallbackText, title: "CalmBee" });
+            return;
+          } catch (err) {
+            if (err?.name === "AbortError") return;
+          }
+        }
+
+        try {
+          await navigator.clipboard.writeText(fallbackText);
+          showToast("Copied to clipboard");
+        } catch (err) {
+          showToast("Couldn't copy — try again", "error");
+        }
+      }
+
+      function filterByPeriod(games, period) {
+        if (period === "all") return games;
+
+        const now = new Date();
+        now.setHours(0, 0, 0, 0);
+
+        if (period === "week") {
+          // Monday of the current week
+          const dow = now.getDay(); // 0=Sun … 6=Sat
+          const diff = dow === 0 ? -6 : 1 - dow; // days back to Mon
+          const mon = new Date(now);
+          mon.setDate(now.getDate() + diff);
+          const monStr = mon.toLocaleDateString("en-CA");
+          return games.filter((g) => g.date >= monStr);
+        }
+
+        if (period === "month") {
+          const monStart = new Date(
+            now.getFullYear(),
+            now.getMonth(),
+            1,
+          ).toLocaleDateString("en-CA");
+          return games.filter((g) => g.date >= monStart);
+        }
+
+        return games;
+      }
+
+      function computeStreaks(games) {
+        if (!games.length) return { current: 0, longest: 0 };
+
+        // Unique, sorted date strings
+        const dates = [...new Set(games.map((g) => g.date))].sort();
+
+        // Current streak: walk back from today
+        const cursor = new Date();
+        cursor.setHours(0, 0, 0, 0);
+        let current = 0;
+        while (true) {
+          if (dates.includes(cursor.toLocaleDateString("en-CA"))) {
+            current++;
+            cursor.setDate(cursor.getDate() - 1);
+          } else {
+            break;
+          }
+        }
+
+        // Longest streak: scan consecutive date pairs
+        let longest = dates.length ? 1 : 0;
+        let run = 1;
+        for (let i = 1; i < dates.length; i++) {
+          const prev = parseLocalDate(dates[i - 1]);
+          const curr = parseLocalDate(dates[i]);
+          const diff = Math.round((curr - prev) / 86400000);
+          if (diff === 1) {
+            run++;
+            if (run > longest) longest = run;
+          } else {
+            run = 1;
+          }
+        }
+
+        return { current, longest };
+      }
+
+      // ── Stats overlay ─────────────────────────────────────────────
+      let currentStatPeriod = "week";
+
+      function openStats() {
+        const games = loadStats();
+
+        // All-time summary tiles
+        document.getElementById("stat-games").textContent = games.length;
+        document.getElementById("stat-words").textContent = games.reduce(
+          (s, g) => s + g.wordsFound,
+          0,
+        );
+        document.getElementById("stat-pangrams").textContent = games.reduce(
+          (s, g) => s + g.pangramsFound,
+          0,
+        );
+
+        // Highest rank ever (highest rankIdx wins)
+        const bestIdx = games.reduce(
+          (mx, g) => Math.max(mx, g.rankIdx ?? 0),
+          0,
+        );
+        document.getElementById("stat-best-rank").textContent =
+          RANKS[bestIdx]?.label ?? "—";
+
+        // Lifetime Queen Bee days — counted from the `complete` flag
+        // (all words found), not by string-matching rank === "Queen Bee".
+        // complete is the authoritative signal; it's set once, directly
+        // from foundWords.length, and isn't affected by the rankIdx
+        // bucketing choice above.
+        document.getElementById("stat-queen-bee-days").textContent =
+          games.filter((g) => g.complete).length;
+
+        // Longest word ever (by character length)
+        const allWords = games.flatMap((g) =>
+          g.longestWord ? [g.longestWord] : [],
+        );
+        const topWord = allWords.reduce(
+          (best, w) => (w.length >= best.length ? w : best),
+          "",
+        );
+        // Highlight center-letter occurrences gold (use today's center if known,
+        // else just show plain letters — we don't store per-game center letter yet)
+        const cl = centerLetter || "";
+        const highlighted = topWord
+          ? topWord
+              .toUpperCase()
+              .split("")
+              .map((ch) =>
+                ch === cl.toUpperCase() ? `<span class="cl">${ch}</span>` : ch,
+              )
+              .join("")
+          : "—";
+        document.getElementById("stat-longest-word").innerHTML = highlighted;
+
+        // Streaks — emoji: 🐝 bee at 1, 🌸 flower at 3, ☀️ sun at 7+
+        const { current, longest } = computeStreaks(games);
+        const streakEmoji =
+          current >= 7
+            ? "☀️ "
+            : current >= 3
+              ? "🌸 "
+              : current >= 1
+                ? "🐝 "
+                : "";
+        document.getElementById("stat-streak").textContent =
+          streakEmoji + current;
+        document.getElementById("stat-longest-streak").textContent =
+          `Longest streak: ${longest} day${longest !== 1 ? "s" : ""}`;
+
+        // Render the distribution for the current tab period
+        renderStatDist(games, currentStatPeriod);
+
+        document.getElementById("stats-overlay").classList.add("open");
+        overlayCount++;
+        if (overlayCount === 1) document.body.style.overflow = "hidden";
+      }
+
+      function setStatPeriod(period) {
+        currentStatPeriod = period;
+        // Sync tab active state
+        document.querySelectorAll(".stat-tab").forEach((btn) => {
+          btn.classList.toggle("active", btn.dataset.period === period);
+        });
+        renderStatDist(loadStats(), period);
+      }
+
+      function renderStatDist(games, period) {
+        const filtered = filterByPeriod(games, period);
+
+        // Count how many times the player finished at each rank
+        const dist = {};
+        RANKS.forEach((r) => {
+          dist[r.label] = 0;
+        });
+        filtered.forEach((g) => {
+          if (g.rank && dist[g.rank] !== undefined) dist[g.rank]++;
+        });
+
+        const maxCount = Math.max(1, ...Object.values(dist));
+
+        // Render Genius → Beginner (highest first)
+        document.getElementById("stat-dist").innerHTML = [...RANKS]
+          .reverse()
+          .map((r) => {
+            const count = dist[r.label] || 0;
+            const pct = (count / maxCount) * 100;
+            const cls = r.label === "Genius" ? " genius" : "";
+            return `
+              <div class="stat-rank-row">
+                <span class="stat-rank-name">${r.label}</span>
+                <div class="stat-bar-track">
+                  <div class="stat-bar-fill${cls}" style="width:${pct}%"></div>
+                </div>
+                <span class="stat-rank-count">${count}</span>
+              </div>`;
+          })
+          .join("");
+      }
+
+      function closeStats() {
+        document.getElementById("stats-overlay").classList.remove("open");
+        overlayCount = Math.max(0, overlayCount - 1);
+        if (overlayCount === 0) document.body.style.overflow = "";
+      }
+
+      function handleStatsBackdropClick(e) {
+        if (e.target === document.getElementById("stats-overlay")) {
+          closeStats();
+        }
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  HINTS OVERLAY
+      //
+      //  Hint data is pre-computed by the Python pipeline and stored in
+      //  each puzzle's JSON entry — no calculation at runtime.
+      //
+      //  computeRemainingHints() deep-copies the base hint counts from
+      //  PUZZLE.hints and subtracts the contribution of each word in
+      //  foundWords. It never mutates PUZZLE.hints, so it is safe to
+      //  call repeatedly as words are found.
+      //
+      //  renderHints() builds two displays from the remaining counts:
+      //    Grid table   rows = first letters, cols = word lengths,
+      //                 cells = remaining count (✓ when exhausted, – when
+      //                 no words exist for that letter/length combination).
+      //                 Right column = per-letter total; bottom row =
+      //                 per-length total; bottom-right = grand total.
+      //    Two-letter list  each "XY-N" pair shows remaining count;
+      //                     struck-through in muted grey when N = 0.
+      //
+      //  renderHints() is called from submitWord() when the overlay is
+      //  open, giving live updates without closing and reopening.
+      // ═══════════════════════════════════════════════════════════════
+
+      /**
+       * Compute hint counts with already-found words subtracted.
+       * Operates on deep copies so PUZZLE.hints is never mutated.
+       */
+      function computeRemainingHints() {
+        if (!PUZZLE || !PUZZLE.hints) return null;
+        const base = PUZZLE.hints;
+
+        // Deep-copy all three structures
+        const rem = {
+          by_length: { ...base.by_length },
+          by_first_letter: { ...base.by_first_letter },
+          grid: {},
+          two_letter_list: { ...base.two_letter_list },
+        };
+        for (const [letter, lens] of Object.entries(base.grid)) {
+          rem.grid[letter] = { ...lens };
+        }
+
+        // Subtract each found word from the relevant buckets
+        for (const word of foundWords) {
+          const len = String(word.length);
+          const first = word[0].toUpperCase();
+          const two = word.slice(0, 2).toUpperCase();
+
+          if (rem.by_length[len] !== undefined) rem.by_length[len]--;
+          if (rem.by_first_letter[first] !== undefined)
+            rem.by_first_letter[first]--;
+          if (rem.grid[first]?.[len] !== undefined) rem.grid[first][len]--;
+          if (rem.two_letter_list[two] !== undefined)
+            rem.two_letter_list[two]--;
+        }
+        return rem;
+      }
+
+      /** Build and inject the hint grid table and two-letter list. */
+      function renderHints() {
+        if (!PUZZLE || !PUZZLE.hints) return;
+        const rem = computeRemainingHints();
+
+        // ── Letter display: center (orange) + outer letters ───────
+        document.getElementById("hints-letters").innerHTML = buildLetterDisplay(
+          PUZZLE.center_letter,
+          PUZZLE.pangram,
+          "hints",
+        );
+
+        // ── Subtitle: words and points ─────────────────────────────
+        document.getElementById("hints-subtitle").textContent =
+          `${PUZZLE.answers.length} words  ·  ${PUZZLE.possible_points} points`;
+
+        // ── All lengths and letters that appear in this puzzle ─────
+        const lengths = Object.keys(PUZZLE.hints.by_length)
+          .map(Number)
+          .sort((a, b) => a - b);
+        const letters = Object.keys(PUZZLE.hints.by_first_letter).sort();
+
+        // ── Grid table ────────────────────────────────────────────
+        // Header row: (blank) | 4 | 5 | 6 | ... | Σ
+        let html = "<thead><tr>";
+        html += `<th class="col-letter">—</th>`;
+        lengths.forEach((l) => {
+          html += `<th>${l}</th>`;
+        });
+        html += `<th>Σ</th></tr></thead><tbody>`;
+
+        // Data rows: one per first letter
+        letters.forEach((letter) => {
+          html += "<tr>";
+          html += `<td class="hl-letter">${letter}</td>`;
+          lengths.forEach((len) => {
+            const base = PUZZLE.hints.grid[letter]?.[String(len)];
+            const left = rem.grid[letter]?.[String(len)] ?? 0;
+            if (!base) {
+              html += `<td class="hl-dash">–</td>`;
+            } else if (left === 0) {
+              html += `<td class="hl-done">✓</td>`;
+            } else {
+              html += `<td>${left}</td>`;
+            }
+          });
+          // Row total
+          const rowLeft = rem.by_first_letter[letter] ?? 0;
+          html += `<td class="hl-total">${rowLeft}</td>`;
+          html += "</tr>";
+        });
+
+        // Totals row
+        html += `<tr class="hl-total-row">`;
+        html += `<td class="hl-letter">Σ</td>`;
+        lengths.forEach((len) => {
+          const left = rem.by_length[String(len)] ?? 0;
+          html += `<td>${left}</td>`;
+        });
+        // Grand total remaining
+        const grandTotal = Object.values(rem.by_first_letter).reduce(
+          (a, b) => a + b,
+          0,
+        );
+        html += `<td class="hl-total">${grandTotal}</td>`;
+        html += `</tr></tbody>`;
+
+        document.getElementById("hints-grid-table").innerHTML = html;
+
+        // ── Two-letter list ───────────────────────────────────────
+        const twoEntries = Object.entries(PUZZLE.hints.two_letter_list).sort(
+          ([a], [b]) => a.localeCompare(b),
+        );
+
+        document.getElementById("hints-two-grid").innerHTML = twoEntries
+          .map(([pair, baseCount]) => {
+            const left = rem.two_letter_list[pair] ?? 0;
+            const done = left === 0;
+            return `<span class="hints-two-item ${done ? "tl-done" : ""}">
+              <span class="tl-pair">${pair}</span>-${left}
+            </span>`;
+          })
+          .join("");
+
+        // ── Note ─────────────────────────────────────────────────
+        const found = foundWords.length;
+        const total = PUZZLE.answers.length;
+        document.getElementById("hints-note").textContent =
+          found === 0
+            ? "Counts update as you find words"
+            : `${found} of ${total} words found — counts above show what's left`;
+      }
+
+      function openHints() {
+        if (!PUZZLE) {
+          showToast("Puzzle not loaded yet", "error");
+          return;
+        }
+        if (!PUZZLE.hints) {
+          showToast("No hints for this puzzle", "error");
+          return;
+        }
+        renderHints();
+        document.getElementById("hints-overlay").classList.add("open");
+        overlayCount++;
+        if (overlayCount === 1) document.body.style.overflow = "hidden";
+      }
+
+      function closeHints() {
+        document.getElementById("hints-overlay").classList.remove("open");
+        overlayCount = Math.max(0, overlayCount - 1);
+        if (overlayCount === 0) document.body.style.overflow = "";
+      }
+
+      function handleHintsBackdropClick(e) {
+        if (e.target === document.getElementById("hints-overlay")) closeHints();
+      }
+
+      // ── HELP OVERLAY (How to play) — opened via ❓ in header ──────
+      // Static content, so unlike Hints/Stats there's nothing to render;
+      // open/close simply toggle the same .open class pattern used by
+      // every other bottom-sheet overlay in this file.
+      function openHelp() {
+        document.getElementById("help-overlay").classList.add("open");
+        overlayCount++;
+        if (overlayCount === 1) document.body.style.overflow = "hidden";
+      }
+
+      function closeHelp() {
+        document.getElementById("help-overlay").classList.remove("open");
+        overlayCount = Math.max(0, overlayCount - 1);
+        if (overlayCount === 0) document.body.style.overflow = "";
+      }
+
+      function handleHelpBackdropClick(e) {
+        if (e.target === document.getElementById("help-overlay")) closeHelp();
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  SPLASH — show game after Play (or Continue) is tapped
+      //
+      //  1. Fades the splash out over 400ms (CSS transition handles this).
+      //  2. Removes .game-hidden from <body> so all game elements become
+      //     visible. animation-play-state was paused while hidden, so
+      //     removing the class lets the fadeUp timers run fresh — the
+      //     staggered entry feels exactly as designed.
+      //  3. A void reflow between steps 2 and the animation restart is
+      //     not needed here: removing .game-hidden restores
+      //     animation-play-state:running implicitly, and since the
+      //     animations use fill-mode:both with delays, they play correctly
+      //     from their from{} keyframe on the next frame.
+      //
+      //  Reused for the Queen Bee celebration's "Continue" button — at
+      //  that point .game-hidden was already removed at first launch, so
+      //  step 2 is a harmless no-op and only the fade (step 1) matters.
+      // ═══════════════════════════════════════════════════════════════
+      function showGame() {
+        const splash = document.getElementById("splash-screen");
+        splash.style.opacity = "0";
+        splash.style.pointerEvents = "none";
+        setTimeout(() => {
+          splash.style.display = "none";
+        }, 400);
+        document.body.classList.remove("game-hidden");
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  QUEEN BEE — celebration for finding every word in the puzzle
+      //
+      //  Reuses the splash screen rather than a new overlay: same photo,
+      //  same fade transition, same fixed/full-bleed layout. Only the
+      //  title, subtitle, and button text change for this mode.
+      //
+      //  Fade-IN sequence (reverse of showGame's fade-out):
+      //    1. Swap text content while still display:none (invisible, so
+      //       no flash of old copy).
+      //    2. Clear display:none → splash becomes visible at opacity:0
+      //       (still invisible — opacity wasn't touched yet).
+      //    3. Force a reflow, then set opacity:1 on the next frame so the
+      //       CSS transition actually animates instead of jumping.
+      //    4. Re-point the Play button at showGame (a harmless no-op on
+      //       .game-hidden here — see showGame's comment above) so
+      //       "Continue" fades the splash back out without restarting
+      //       the puzzle or re-lighting fadeUp animations.
+      //
+      //  Failure mode this avoids: setting opacity:1 in the same tick as
+      //  clearing display:none skips the transition entirely (browsers
+      //  batch style changes before the first paint), so the splash
+      //  would just snap into view instead of fading in.
+      // ═══════════════════════════════════════════════════════════════
+      function showQueenBeeCelebration(wordsFound) {
+        const splash = document.getElementById("splash-screen");
+        const title = document.getElementById("splash-title");
+        const subtitle = document.getElementById("splash-subtitle");
+        const btn = document.getElementById("play-btn");
+        const img = document.getElementById("splash-img");
+
+        title.textContent = "Queen Bee!";
+        subtitle.textContent = `You found all ${wordsFound} word${wordsFound === 1 ? "" : "s"}.`;
+        btn.textContent = "Continue";
+        btn.setAttribute("aria-label", "Return to today's puzzle");
+
+        // Swap in the celebration photo, remembering the splash's own
+        // photo/alt so Continue can restore it — otherwise a later replay
+        // of the splash (without a page reload) would keep showing the
+        // celebration image instead of today's actual theme photo.
+        const originalSrc = img.src;
+        const originalAlt = img.alt;
+        if (THEME?.celebrationPhotoFilename) {
+          img.src = `photos/${THEME.celebrationPhotoFilename}`;
+          img.alt = THEME.celebrationPhotoAlt;
+        }
+
+        splash.style.display = "";
+        splash.style.pointerEvents = "auto";
+        // eslint-disable-next-line no-unused-expressions
+        splash.offsetHeight; // force reflow so the opacity transition runs
+        requestAnimationFrame(() => {
+          splash.style.opacity = "1";
+        });
+
+        const restorePhotoAndContinue = () => {
+          img.src = originalSrc;
+          img.alt = originalAlt;
+          showGame();
+        };
+        btn.removeEventListener("click", showGame);
+        btn.addEventListener("click", restorePhotoAndContinue, {
+          once: true,
+        });
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  SWIPE-DOWN TO DISMISS
+      //
+      //  addSwipeDismiss(panelEl, closeFn) attaches touch listeners to
+      //  any bottom-sheet panel. A downward drag of 60px+ from the drag
+      //  handle or header bar calls closeFn().
+      //
+      //  Design decisions:
+      //  · Dragging only begins when the touch starts on the handle or
+      //    header — not the scrollable body — so scrolling the word list
+      //    in Yesterday or the stats body never conflicts with dismiss.
+      //  · touchmove uses passive:false so we can call preventDefault()
+      //    and prevent the background page from scrolling while dragging.
+      //  · touchcancel resets state cleanly if iOS interrupts the gesture
+      //    (e.g. notification arrives mid-swipe).
+      //  · The panel's CSS transform is cleared in resetPanel() so the
+      //    spring-back transition always restores correctly.
+      // ═══════════════════════════════════════════════════════════════
+      function addSwipeDismiss(panelEl, closeFn) {
+        let startY = 0;
+        let startX = 0;
+        let dragging = false;
+
+        function resetPanel() {
+          dragging = false;
+          panelEl.style.transform = "";
+          panelEl.style.transition = "";
+        }
+
+        panelEl.addEventListener(
+          "touchstart",
+          (e) => {
+            // Only track drags that begin on an element marked data-swipe-handle
+            // (the handle pill and header row of each bottom sheet). New overlays
+            // gain swipe-dismiss automatically by adding the attribute — no JS edit needed.
+            const tag = e.target.closest("[data-swipe-handle]");
+            if (!tag) return;
+            startY = e.touches[0].clientY;
+            startX = e.touches[0].clientX;
+            dragging = true;
+          },
+          { passive: true },
+        );
+
+        // passive: FALSE so we can call preventDefault() and block
+        // the background page from scrolling while the user drags.
+        panelEl.addEventListener(
+          "touchmove",
+          (e) => {
+            if (!dragging) return;
+            const dy = e.touches[0].clientY - startY;
+            const dx = Math.abs(e.touches[0].clientX - startX);
+
+            // Only treat as a downward drag (not horizontal or upward)
+            if (dy > 0 && dy > dx) {
+              e.preventDefault(); // blocks background scroll
+              panelEl.style.transition = "none";
+              panelEl.style.transform = `translateY(${dy}px)`;
+            }
+          },
+          { passive: false },
+        );
+
+        panelEl.addEventListener(
+          "touchend",
+          (e) => {
+            if (!dragging) return;
+            const dy = e.changedTouches[0].clientY - startY;
+            resetPanel();
+            if (dy > 60) closeFn();
+          },
+          { passive: true },
+        );
+
+        // Always clean up if iOS cancels the touch sequence
+        panelEl.addEventListener(
+          "touchcancel",
+          () => {
+            resetPanel();
+          },
+          { passive: true },
+        );
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  GAME ACTIONS
+      // ═══════════════════════════════════════════════════════════════
+      function addLetter(l) {
+        if (!PUZZLE) return;
+        // If found-words list is expanded, close it on any hex tap
+        const section = document.getElementById("found-section");
+        if (section.classList.contains("open")) {
+          toggleFoundWords();
+          return;
+        }
+        currentInput += l.toLowerCase();
+        renderInput();
+      }
+
+      function deleteLetter() {
+        if (!currentInput.length) return;
+        currentInput = currentInput.slice(0, -1);
+        renderInput();
+      }
+
+      function shuffleOuter() {
+        for (let i = outerLetters.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [outerLetters[i], outerLetters[j]] = [
+            outerLetters[j],
+            outerLetters[i],
+          ];
+        }
+        renderHoneycomb();
+      }
+
+      function pulseError() {
+        const el = document.getElementById("input-display");
+        el.classList.remove("pulse-error");
+        void el.offsetWidth;
+        el.classList.add("pulse-error");
+      }
+
+      function submitWord() {
+        if (!PUZZLE) return;
+        const word = currentInput.toLowerCase();
+
+        if (word.length < 4) {
+          showToast("Need at least 4 letters", "error");
+          pulseError();
+          return;
+        }
+        if (!word.includes(centerLetter)) {
+          showToast(
+            `Must use center letter  ${centerLetter.toUpperCase()}`,
+            "error",
+          );
+          pulseError();
+          setTimeout(() => {
+            currentInput = "";
+            renderInput();
+          }, 1100);
+          return;
+        }
+        if (foundWords.includes(word)) {
+          showToast("Already found", "error");
+          pulseError();
+          currentInput = "";
+          renderInput();
+          return;
+        }
+        if (!PUZZLE.answers.includes(word)) {
+          showToast("Not in word list", "error");
+          pulseError();
+          // Clear after the toast has had time to read — 1.1 s feels unhurried
+          setTimeout(() => {
+            currentInput = "";
+            renderInput();
+          }, 1100);
+          return;
+        }
+
+        const pts = wordScore(word);
+        const isPangram = PUZZLE.answer_pangrams.includes(word);
+        score += pts;
+        foundWords.push(word);
+        currentInput = "";
+        saveGameProgress(); // persist to localStorage on every valid word
+
+        // ── Toast: encouragement scales with points ───────────────
+        function encouragement(p) {
+          if (p >= 14) return "Unbelievable!";
+          if (p >= 11) return "Brilliant!";
+          if (p >= 9) return "Amazing!";
+          if (p >= 7) return "Excellent!";
+          if (p >= 5) return "Great!";
+          if (p >= 3) return "Nice!";
+          return "Good!";
+        }
+
+        showToast(
+          isPangram
+            ? `Pangram!  +${pts} points`
+            : `+${pts}  ${encouragement(pts)}`,
+          isPangram ? "pangram" : "",
+        );
+
+        renderInput();
+        renderScore();
+        renderFoundWords();
+        // Live-update hints if the overlay is currently open
+        if (
+          document.getElementById("hints-overlay").classList.contains("open")
+        ) {
+          renderHints();
+        }
+
+        if (foundWords.length === PUZZLE.answers.length) {
+          setTimeout(() => showQueenBeeCelebration(foundWords.length), 300);
+        }
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  KEYBOARD SUPPORT  (Mac / desktop; Space = shuffle)
+      // ═══════════════════════════════════════════════════════════════
+      document.addEventListener("keydown", (e) => {
+        if (e.metaKey || e.ctrlKey || e.altKey) return;
+
+        // Escape closes the Yesterday overlay if it's open
+        if (e.key === "Escape") {
+          closeYesterday();
+          closeStats();
+          closeHints();
+          return;
+        }
+
+        const key = e.key.toLowerCase();
+        if (e.key === "Backspace") {
+          e.preventDefault();
+          deleteLetter();
+        } else if (e.key === "Enter") {
+          e.preventDefault();
+          submitWord();
+        } else if (e.key === " ") {
+          e.preventDefault();
+          shuffleOuter();
+        } else if (validLetterSet().has(key)) {
+          addLetter(key);
+        }
+      });
+
+      // ═══════════════════════════════════════════════════════════════
+      //  LOAD PUZZLE FOR TODAY
+      //
+      //  Fetches the full puzzle JSON array on startup (one HTTP request,
+      //  ~2–3 MB). The array is cached in ALL_PUZZLES so Yesterday and
+      //  Hints overlays need no further fetches.
+      //
+      //  Today's date is obtained with toLocaleDateString("en-CA"), which
+      //  reliably produces YYYY-MM-DD in the device's local timezone —
+      //  important so the puzzle matches midnight in the player's location,
+      //  not UTC midnight.
+      //
+      //  After matching today's date, the outer letters are Fisher-Yates
+      //  shuffled before renderHoneycomb() so they don't reveal the
+      //  pangram word order.
+      //
+      //  Requires a local server — from this directory run:
+      //    python3 -m http.server 8080
+      //  then open http://localhost:8080/calmbee.html
+      // ═══════════════════════════════════════════════════════════════
+      // ═══════════════════════════════════════════════════════════════
+      //  LOAD THEME — picks one flower theme per calendar day
+      //
+      //  Deterministic, not truly random: the same date always yields the
+      //  same theme (a simple hash of the date string mod theme count).
+      //  This matters because the page can reload mid-game — a literal
+      //  Math.random() pick would change the theme out from under an
+      //  in-progress game on every refresh, which is jarring and breaks
+      //  the "today's theme" concept the same way a re-randomized puzzle
+      //  would.
+      //
+      //  Must resolve BEFORE loadPuzzle(), since loadPuzzle() calls
+      //  renderHoneycomb(), which reads THEME.
+      //
+      //  Maps a themes.json entry → the flat THEME shape the rest of the
+      //  code expects (see THEME doc comment above). HEX_LIGHT_ORDER is
+      //  geometry, not theme data, so it's copied in rather than read
+      //  from JSON.
+      // ═══════════════════════════════════════════════════════════════
+      async function loadTheme() {
+        const today = new Date().toLocaleDateString("en-CA"); // YYYY-MM-DD
+
+        try {
+          const res = await fetch("themes.json");
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          const data = await res.json();
+          const themes = data.themes;
+
+          if (!themes || themes.length === 0) {
+            throw new Error("themes.json has no themes[]");
+          }
+
+          // Simple deterministic hash of the date string → stable index.
+          // (Not cryptographic — just needs to spread dates across themes
+          // and stay constant for a given date string.)
+          let hash = 0;
+          for (let i = 0; i < today.length; i++) {
+            hash = (hash * 31 + today.charCodeAt(i)) >>> 0; // unsigned 32-bit
+          }
+          const themeData = themes[hash % themes.length];
+
+          // ── Map themes.json shape → flat THEME shape ────────────────
+          const hc = themeData.honeycomb;
+          THEME = {
+            name: themeData.common_names?.[0] || themeData.id,
+            lightOrder: HEX_LIGHT_ORDER,
+            levels: hc.levels.map((lvl) => ({
+              hex: lvl.hex,
+              text: lvl.text_color,
+            })),
+            unlit: {
+              hex: hc.unlit.fill,
+              text: hc.unlit.text_color,
+            },
+            centerStart: {
+              hex: hc.start.center.hex,
+              text: hc.start.center.text_color,
+            },
+            // UI chrome color (rank label, score numbers) — deliberately
+            // reused from an existing honeycomb level, not a separate
+            // hand-tuned color, so chrome text can never clash with the
+            // hexes. Falls back to level[4] (rank 5) if themes.json
+            // predates this field (added v1.4), since that was the
+            // original default before per-theme tuning.
+            chromeText: hc.chrome_text?.hex || hc.levels[4]?.hex || "#E8A800",
+            // Enter button fill + label — always the theme's Genius
+            // color, since it's the primary action and deserves peak
+            // saturation. label_text is tuned per-theme (white vs near-
+            // black) for contrast — see themes.json meta.cta_note for why
+            // this can't be a single hardcoded choice across themes.
+            cta: {
+              fill: hc.cta?.fill || hc.levels[6]?.hex || "#E8900A",
+              text: hc.cta?.label_text || "#1a0f00",
+            },
+            // Splash screen photo — filename (relative, no path prefix) and
+            // alt text sourced directly from themes.json photo block (v1.4+).
+            // Path prefix ("photos/") is applied at the call site below so
+            // themes.json stays path-agnostic.
+            photoFilename: themeData.photo?.filename || null,
+            photoAlt: themeData.photo?.alt || "",
+            // Queen Bee celebration photo — prefers this theme's OWN
+            // celebration_photo if present (future: per-theme photos for
+            // Mutisia/Calendula), else falls back to the single shared
+            // meta.celebration_photo used by every theme today. Same
+            // override-then-fallback shape as photoFilename above, just
+            // with an extra rung (theme-specific → shared default → null)
+            // since no theme currently defines its own.
+            celebrationPhotoFilename:
+              themeData.celebration_photo?.filename ||
+              data.meta?.celebration_photo?.filename ||
+              null,
+            celebrationPhotoAlt:
+              themeData.celebration_photo?.alt ||
+              data.meta?.celebration_photo?.alt ||
+              "",
+            // Share-by-text fallback color — single Unicode emoji, used
+            // only when the real canvas honeycomb image can't be attached.
+            // See themes.json meta.dominant_emoji_note. Falls back to a
+            // neutral orange if themes.json predates this field (v1.6).
+            dominantEmoji: hc.dominant_emoji || "🟠",
+          };
+
+          // ── Apply this theme's screen background ────────────────────
+          // Sets --theme-bg on :root so both html{} and body{} pick it
+          // up via var(--theme-bg, fallback). Using setProperty() instead
+          // of body.style.background keeps the override in CSS-land, so
+          // future prefers-color-scheme media queries are not blocked by
+          // an inline style. Falls back to the CSS gradient/dark color if
+          // background data is missing.
+          const bgHex = themeData.background?.dark?.hex;
+          if (bgHex) {
+            document.documentElement.style.setProperty("--theme-bg", bgHex);
+          }
+
+          // ── Wire splash photo to today's theme ──────────────────────
+          // img src is set here (not in HTML) so the browser starts
+          // loading the photo only after themes.json resolves — no wasted
+          // request on the fallback path.
+          const splashImg = document.getElementById("splash-img");
+          if (splashImg && THEME.photoFilename) {
+            splashImg.src = `photos/${THEME.photoFilename}`;
+            splashImg.alt = THEME.photoAlt;
+          }
+
+          // ── Sync progress bar gradient to the honeycomb's own colors ──
+          // Uses the same level palette as the hexes (Beginner → Genius)
+          // so the bar reads as a literal preview of the honeycomb, not
+          // an independently-styled element.
+          applyProgressBarTheme();
+
+          // ── Sync rank label / score numbers / Enter button to theme ──
+          applyChromeAndCTATheme();
+        } catch (err) {
+          // Fail safe: keep the game playable even if themes.json is
+          // missing or malformed. Falls back to the Yellow Bells values.
+          console.error("loadTheme() failed, using fallback:", err);
+          THEME = FALLBACK_THEME;
+        }
+      }
+
+      // Applies theme colors to every "chrome" UI element outside the
+      // honeycomb itself — rank label, score numbers, Enter button, the
+      // Pangram toast, the currently-typed center letter, and every
+      // title/accent inside the four overlay panels (Hints, Stats,
+      // Yesterday, Help).
+      //
+      // APPROACH: sets two CSS custom properties on :root —
+      //   --theme-accent     (= THEME.chromeText, an existing honeycomb
+      //                        level color reused for chrome text)
+      //   --theme-cta / --theme-cta-text (= THEME.cta, the Enter/Pangram-
+      //                        toast peak-saturation fill + contrast-
+      //                        checked label color)
+      // CSS rules read these vars instead of the old fixed var(--gold).
+      // This is necessary (not just convenient) because most overlay
+      // panel content — Yesterday's word grid, Hints' letter tables,
+      // Stats' bars — is generated fresh via innerHTML every time that
+      // panel opens. Setting a root custom property means newly-rendered
+      // HTML automatically picks up the right color with zero per-render
+      // JS work, rather than needing this function re-run after every
+      // openYesterday()/openHints()/openStats() call.
+      //
+      // Deliberately NOT applied to .brand-name (the "CalmBee" wordmark)
+      // — that stays a fixed brand color across every theme, since a
+      // wordmark's job is recognition, and recognition depends on NOT
+      // changing. The wordmark sits in the header, away from the
+      // honeycomb, so it doesn't have the close-proximity clash problem
+      // that motivated this whole change in the first place.
+      function applyChromeAndCTATheme() {
+        if (!THEME) return;
+
+        const root = document.documentElement.style;
+        root.setProperty("--theme-accent", THEME.chromeText);
+        root.setProperty("--theme-cta", THEME.cta.fill);
+        root.setProperty("--theme-cta-text", THEME.cta.text);
+
+        // Rank label / score numbers — direct style, since these are
+        // static elements present at page load (not re-rendered per
+        // panel-open), so there's no robustness reason to route them
+        // through the CSS var instead.
+        const rankLabel = document.getElementById("rank-label");
+        const scoreDisplay = document.getElementById("score-display");
+        if (rankLabel) rankLabel.style.color = THEME.chromeText;
+        if (scoreDisplay) scoreDisplay.style.color = THEME.chromeText;
+        // score-max ("/ 138") intentionally keeps its own muted color
+        // (var(--muted)) rather than chromeText — it's secondary context,
+        // not a number the player should be drawn to the way the current
+        // score is.
+
+        const enterBtn = document.getElementById("enter-btn");
+        if (enterBtn) {
+          enterBtn.style.background = THEME.cta.fill;
+          enterBtn.style.color = THEME.cta.text;
+        }
+      }
+
+      // Builds the 7-band progress bar from THEME.levels: one
+      // .progress-band div per rank (Beginner...Genius), each holding its
+      // lit color as background and a .band-cover (THEME.unlit color) on
+      // top. Bands start unlit; updateHexColors() toggles the .lit class
+      // on each band using the same levelsLit count that drives the
+      // honeycomb, so the two can never show a different number of ranks
+      // reached.
+      // Called from loadTheme() once THEME is populated (both the normal
+      // path and the error-fallback path), and rebuilds the bar each call
+      // since theme/level colors may differ day to day.
+      function applyProgressBarTheme() {
+        const track = document.getElementById("progress-track");
+        if (!track || !THEME) return;
+
+        track.innerHTML = "";
+        THEME.levels.forEach((lvl) => {
+          const band = document.createElement("div");
+          band.className = "progress-band";
+          band.style.background = lvl.hex;
+
+          const cover = document.createElement("div");
+          cover.className = "band-cover";
+          cover.style.background = THEME.unlit.hex;
+
+          band.appendChild(cover);
+          track.appendChild(band);
+        });
+      }
+
+      async function loadPuzzle() {
+        // Today's date as YYYY-MM-DD in *local* time.
+        // en-CA locale reliably formats as YYYY-MM-DD.
+        const today = new Date().toLocaleDateString("en-CA");
+
+        try {
+          const res = await fetch("_pangram_answers_with_hints.json");
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          const puzzles = await res.json();
+          ALL_PUZZLES = puzzles; // cache for Yesterday overlay
+
+          const puzzle = puzzles.find((p) => p.date === today);
+
+          if (!puzzle) {
+            showToast(`No puzzle for ${today}`, "error");
+            console.warn(
+              "Available dates:",
+              puzzles.map((p) => p.date),
+            );
+            return;
+          }
+
+          // ── Populate global state ─────────────────────────────────
+          PUZZLE = puzzle;
+          centerLetter = PUZZLE.center_letter.toLowerCase();
+          outerLetters = [...new Set(PUZZLE.pangram.split(""))].filter(
+            (l) => l !== centerLetter,
+          );
+
+          // Shuffle so outer letters don't telegraph the pangram
+          for (let i = outerLetters.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [outerLetters[i], outerLetters[j]] = [
+              outerLetters[j],
+              outerLetters[i],
+            ];
+          }
+
+          // ── Boot the UI ───────────────────────────────────────────
+          document.getElementById("score-max").textContent =
+            `/ ${PUZZLE.possible_points}`;
+          renderHoneycomb();
+          renderInput();
+          renderScore();
+          renderFoundWords();
+        } catch (err) {
+          // Shows if the file is missing or the server isn't running.
+          showToast("Could not load puzzle — see console", "error");
+          console.error("loadPuzzle error:", err);
+        }
+      }
+
+      // ═══════════════════════════════════════════════════════════════
+      //  INIT
+      // ═══════════════════════════════════════════════════════════════
+      // ── Tap anywhere to close found-words dropdown when open ──────
+      // Exclude taps on the summary bar itself — those are handled by
+      // toggleFoundWords() directly and must not also fire this listener.
+      document.addEventListener("click", (e) => {
+        const section = document.getElementById("found-section");
+        const summary = document.querySelector(".found-summary");
+        if (section.classList.contains("open") && !summary.contains(e.target)) {
+          toggleFoundWords();
+        }
+      });
+
+      // ── Portrait orientation lock (works when added to home screen) ─
+      if (screen.orientation && screen.orientation.lock) {
+        screen.orientation.lock("portrait").catch(() => {
+          // Silently ignore — lock only works in standalone/PWA mode
+        });
+      }
+
+      // ── Play button dismisses splash ──────────────────────────────
+      // { once: true } matches showQueenBeeCelebration()'s rewiring, so
+      // there is never more than one click handler on this button.
+      document
+        .getElementById("play-btn")
+        .addEventListener("click", showGame, { once: true });
+
+      // ── Share button ────────────────────────────────────────────
+      // Not { once: true } — unlike Play/Continue, this button stays
+      // usable for the rest of the session (score only goes up, so once
+      // shown it never re-hides), and a player may want to share more
+      // than once as their rank improves.
+      document
+        .getElementById("share-btn")
+        .addEventListener("click", shareResults);
+
+      // ── Swipe-down dismiss on bottom sheets ──────────────────
+      addSwipeDismiss(document.querySelector(".yest-panel"), closeYesterday);
+      addSwipeDismiss(document.querySelector(".stats-panel"), closeStats);
+      addSwipeDismiss(document.querySelector(".hints-panel"), closeHints);
+      addSwipeDismiss(document.querySelector(".help-panel"), closeHelp);
+
+      // THEME must be populated before loadPuzzle(), since loadPuzzle()
+      // calls renderHoneycomb(), which reads THEME.levels/unlit/centerStart.
+      loadTheme().then(loadPuzzle);
+    </script>
+  </body>
+</html>
