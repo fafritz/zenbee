@@ -87,7 +87,7 @@
 
   Player data  (localStorage)
   ────────────────────────────
-  Key:    calmbee_stats
+  Key:    game_stats
   Value:  JSON array — one record per calendar day played.
   Fields: date, rank, rankIdx, score, possiblePoints, wordsFound,
           totalAnswers, pangramsFound, foundWordsList, longestWord, complete
@@ -2578,7 +2578,7 @@
       //
       //  saveGameProgress() is called after every valid word found.
       //  It upserts (inserts or replaces) one record for today's date
-      //  into the calmbee_stats array in localStorage, so no data is
+      //  into the game_stats array in localStorage, so no data is
       //  lost if the browser closes mid-game.
       //
       //  Statistics are always computed at display time from the raw
@@ -2597,7 +2597,7 @@
       //            wordsFound, totalAnswers, pangramsFound,
       //            foundWordsList, longestWord, complete }
       // ═══════════════════════════════════════════════════════════════
-      const STATS_KEY = "calmbee_stats";
+      const STATS_KEY = "game_stats";
 
       function loadStats() {
         try {
