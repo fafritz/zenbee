@@ -1,7 +1,7 @@
 <!doctype html>
 <!--
 ================================================================================
-  zenbee.html  —  ZenBee Daily Word Game
+  index.html  — [Brand Name TBD] Daily Word Game
 ================================================================================
 
   A self-contained, single-file web app implementing a Spelling Bee-style word
@@ -10,8 +10,16 @@
 
   Usage
   ─────
-  https://zenbee.app
-  
+    Non-hosted repo (e.g., -dev)
+      Requires a local web server (fetch() will not work over file://):
+        python3 -m http.server 8080
+      Then open in a browser:
+        http://localhost:8080/index.html          Mac / desktop
+        http://192.168.x.x:8080/index.html        iPhone on same Wi-Fi
+    Hostd repo (e.g., zenbee on GitHub Pages)
+      Open chosen domain name in a browser, e.g.:
+        https://zenbee.app/
+
   Data file
   ─────────
   _pangram_answers_with_hints.json — must be in the same directory.
@@ -112,9 +120,9 @@
     />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-    <meta name="apple-mobile-web-app-title" content="ZenBee" />
+    <meta name="apple-mobile-web-app-title" content="CalmBee" />
     <meta name="theme-color" content="#150D01" />
-    <title>ZenBee</title>
+    <title>CalmBee</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link
       href="https://fonts.googleapis.com/css2?family=Lora:wght@500;700&family=Nunito:wght@400;500;600;700&display=swap"
@@ -1486,13 +1494,29 @@
     </style>
   </head>
   <body class="game-hidden">
+    <script>
+      //  BRAND_NAME is the single source of truth for the product name
+      //  shown throughout the app. To rebrand, change this one value —
+      //  every title, aria-label, and on-screen brand mention below (and
+      //  the 3 share-related usages in the main script, further down)
+      //  reads from this constant. Placed here, at the very top of
+      //  <body>, so it runs and rewrites the head/splash text BEFORE
+      //  those elements are painted — no flash of the old name.
+      window.BRAND_NAME = "CalmBee";
+
+      document.title = window.BRAND_NAME;
+
+      document
+        .querySelector('meta[name="apple-mobile-web-app-title"]')
+        .setAttribute("content", window.BRAND_NAME);
+    </script>
     <!-- ── SPLASH SCREEN ── -->
-    <div id="splash-screen" aria-label="ZenBee intro">
+    <div id="splash-screen" aria-label="">
       <img id="splash-img" class="splash-photo" src="" alt="" />
       <div class="splash-scrim" aria-hidden="true"></div>
       <div class="splash-content">
         <div class="splash-top">
-          <h1 class="splash-title" id="splash-title">ZenBee</h1>
+          <h1 class="splash-title" id="splash-title"></h1>
           <p class="splash-subtitle" id="splash-subtitle">
             Seven letters. Take your time.
           </p>
@@ -1500,12 +1524,20 @@
         <button id="play-btn" aria-label="Start today's puzzle">Play</button>
       </div>
     </div>
+    <script>
+      //  Fill in brand-dependent splash text immediately after the
+      //  elements exist in the DOM — still before first paint.
+      document
+        .getElementById("splash-screen")
+        .setAttribute("aria-label", window.BRAND_NAME + " intro");
+      document.getElementById("splash-title").textContent = window.BRAND_NAME;
+    </script>
 
     <!-- ── LANDSCAPE WARNING ── -->
     <div class="landscape-warning" aria-hidden="true">
       <span>📱</span>
       <p>
-        ZenBee is designed for portrait mode.<br />Please rotate your phone.
+        This game is designed for portrait mode.<br />Please rotate your phone.
       </p>
     </div>
 
@@ -1513,7 +1545,10 @@
     <header>
       <div class="brand">
         <span class="brand-emoji" aria-hidden="true">🐝</span>
-        <span class="brand-name">ZenBee</span>
+        <span class="brand-name" id="brand-name"></span>
+        <script>
+          document.getElementById("brand-name").textContent = window.BRAND_NAME;
+        </script>
       </div>
       <div class="nav-icons">
         <button
@@ -2707,7 +2742,7 @@
         const isComplete = foundWords.length === PUZZLE.answers.length;
         const rankLbl = isComplete ? "Queen Bee" : getRank(score);
         return (
-          `ZenBee ${formatShareDate(PUZZLE.date)}\n` +
+          `${window.BRAND_NAME} ${formatShareDate(PUZZLE.date)}\n` +
           `${rankLbl} · ${foundWords.length}/${PUZZLE.answers.length} words`
         );
       }
@@ -2892,14 +2927,14 @@
           try {
             const blob = await renderShareHoneycombCanvas();
             if (blob) {
-              const file = new File([blob], "calmbee.png", {
+              const file = new File([blob], "bee.png", {
                 type: "image/png",
               });
               if (navigator.canShare({ files: [file] })) {
                 await navigator.share({
                   files: [file],
                   text: caption,
-                  title: "ZenBee",
+                  title: window.BRAND_NAME,
                 });
                 return;
               }
@@ -2916,7 +2951,10 @@
 
         if (navigator.share) {
           try {
-            await navigator.share({ text: fallbackText, title: "ZenBee" });
+            await navigator.share({
+              text: fallbackText,
+              title: window.BRAND_NAME,
+            });
             return;
           } catch (err) {
             if (err?.name === "AbortError") return;
@@ -3828,7 +3866,7 @@
       // JS work, rather than needing this function re-run after every
       // openYesterday()/openHints()/openStats() call.
       //
-      // Deliberately NOT applied to .brand-name (the "ZenBee" wordmark)
+      // Deliberately NOT applied to .brand-name (the wordmark)
       // — that stays a fixed brand color across every theme, since a
       // wordmark's job is recognition, and recognition depends on NOT
       // changing. The wordmark sits in the header, away from the
