@@ -1,0 +1,104 @@
+{
+  "pangram": "harking",
+  "center_letter": "r",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 170,
+  "answer_pangrams": [
+    "harking"
+  ],
+  "answers": [
+    "agar",
+    "agrarian",
+    "airing",
+    "aria",
+    "arraign",
+    "arraigning",
+    "arranging",
+    "garaging",
+    "grain",
+    "grin",
+    "grinning",
+    "hair",
+    "hangar",
+    "haring",
+    "hark",
+    "harking",
+    "hiring",
+    "irking",
+    "raga",
+    "ragging",
+    "raging",
+    "rain",
+    "raining",
+    "raking",
+    "rang",
+    "ranging",
+    "rank",
+    "ranking",
+    "raring",
+    "rigging",
+    "ring",
+    "ringing",
+    "rink"
+  ],
+  "date": "2030-06-29",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 1,
+      "6": 8,
+      "7": 8,
+      "8": 3,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "G": 4,
+      "H": 6,
+      "I": 1,
+      "R": 15
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "G": {
+        "4": 1,
+        "5": 1,
+        "8": 2
+      },
+      "H": {
+        "4": 2,
+        "6": 3,
+        "7": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "R": {
+        "4": 6,
+        "6": 3,
+        "7": 6
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 1,
+      "AR": 4,
+      "GA": 1,
+      "GR": 3,
+      "HA": 5,
+      "HI": 1,
+      "IR": 1,
+      "RA": 11,
+      "RI": 4
+    }
+  }
+}

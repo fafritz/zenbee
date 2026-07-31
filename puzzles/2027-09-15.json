@@ -1,0 +1,117 @@
+{
+  "pangram": "bulking",
+  "center_letter": "l",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 208,
+  "answer_pangrams": [
+    "bulking"
+  ],
+  "answers": [
+    "bilk",
+    "bilking",
+    "bill",
+    "billing",
+    "bling",
+    "blink",
+    "blinking",
+    "bluing",
+    "bubbling",
+    "bugling",
+    "bulb",
+    "bulging",
+    "bulk",
+    "bulking",
+    "bull",
+    "bulling",
+    "bungling",
+    "giggling",
+    "gill",
+    "glib",
+    "gluing",
+    "gull",
+    "gulling",
+    "inkling",
+    "kill",
+    "killing",
+    "kiln",
+    "kilning",
+    "liking",
+    "lining",
+    "link",
+    "linking",
+    "lubing",
+    "lugging",
+    "lull",
+    "lulling",
+    "lulu",
+    "lung",
+    "lunging",
+    "nibbling",
+    "niggling",
+    "null"
+  ],
+  "date": "2027-09-15",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 2,
+      "6": 5,
+      "7": 14,
+      "8": 6
+    },
+    "by_first_letter": {
+      "B": 17,
+      "G": 6,
+      "I": 1,
+      "K": 4,
+      "L": 11,
+      "N": 3
+    },
+    "grid": {
+      "B": {
+        "4": 5,
+        "5": 2,
+        "6": 1,
+        "7": 6,
+        "8": 3
+      },
+      "G": {
+        "4": 3,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "I": {
+        "7": 1
+      },
+      "K": {
+        "4": 2,
+        "7": 2
+      },
+      "L": {
+        "4": 4,
+        "6": 3,
+        "7": 4
+      },
+      "N": {
+        "4": 1,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "BI": 4,
+      "BL": 4,
+      "BU": 9,
+      "GI": 2,
+      "GL": 2,
+      "GU": 2,
+      "IN": 1,
+      "KI": 4,
+      "LI": 4,
+      "LU": 7,
+      "NI": 2,
+      "NU": 1
+    }
+  }
+}

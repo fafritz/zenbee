@@ -1,0 +1,89 @@
+{
+  "pangram": "twinkle",
+  "center_letter": "w",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 75,
+  "answer_pangrams": [
+    "twinkle"
+  ],
+  "answers": [
+    "entwine",
+    "inkwell",
+    "kiwi",
+    "knew",
+    "newel",
+    "newt",
+    "nitwit",
+    "tweet",
+    "twill",
+    "twin",
+    "twine",
+    "twinkle",
+    "twit",
+    "week",
+    "welkin",
+    "well",
+    "welt",
+    "went",
+    "wiki",
+    "wile",
+    "will",
+    "wilt",
+    "wine",
+    "wink"
+  ],
+  "date": "2030-02-02",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 4,
+      "6": 2,
+      "7": 3
+    },
+    "by_first_letter": {
+      "E": 1,
+      "I": 1,
+      "K": 2,
+      "N": 3,
+      "T": 6,
+      "W": 11
+    },
+    "grid": {
+      "E": {
+        "7": 1
+      },
+      "I": {
+        "7": 1
+      },
+      "K": {
+        "4": 2
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 3,
+        "7": 1
+      },
+      "W": {
+        "4": 10,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "EN": 1,
+      "IN": 1,
+      "KI": 1,
+      "KN": 1,
+      "NE": 2,
+      "NI": 1,
+      "TW": 6,
+      "WE": 5,
+      "WI": 6
+    }
+  }
+}

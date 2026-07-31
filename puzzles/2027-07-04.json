@@ -1,0 +1,95 @@
+{
+  "pangram": "pecking",
+  "center_letter": "p",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 199,
+  "answer_pangrams": [
+    "pecking"
+  ],
+  "answers": [
+    "epee",
+    "epic",
+    "keep",
+    "keeping",
+    "kingpin",
+    "nipping",
+    "peck",
+    "pecking",
+    "peeing",
+    "peek",
+    "peeking",
+    "peen",
+    "peep",
+    "peeping",
+    "pence",
+    "penning",
+    "pepping",
+    "pick",
+    "picking",
+    "picnic",
+    "picnicking",
+    "piece",
+    "piecing",
+    "pieing",
+    "pigging",
+    "pigpen",
+    "pike",
+    "piking",
+    "pine",
+    "ping",
+    "pinging",
+    "pining",
+    "pink",
+    "pinkie",
+    "pinking",
+    "pinning",
+    "pipe",
+    "piping",
+    "pippin",
+    "pipping"
+  ],
+  "date": "2027-07-04",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 2,
+      "6": 9,
+      "7": 15,
+      "10": 1
+    },
+    "by_first_letter": {
+      "E": 2,
+      "K": 3,
+      "N": 1,
+      "P": 34
+    },
+    "grid": {
+      "E": {
+        "4": 2
+      },
+      "K": {
+        "4": 1,
+        "7": 2
+      },
+      "N": {
+        "7": 1
+      },
+      "P": {
+        "4": 10,
+        "5": 2,
+        "6": 9,
+        "7": 12,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "EP": 2,
+      "KE": 2,
+      "KI": 1,
+      "NI": 1,
+      "PE": 11,
+      "PI": 23
+    }
+  }
+}

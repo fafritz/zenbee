@@ -1,0 +1,81 @@
+{
+  "pangram": "gumdrop",
+  "center_letter": "d",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 43,
+  "answer_pangrams": [
+    "gumdrop"
+  ],
+  "answers": [
+    "dodo",
+    "doom",
+    "door",
+    "dorm",
+    "dour",
+    "droop",
+    "drop",
+    "drug",
+    "drum",
+    "dump",
+    "good",
+    "gourd",
+    "gumdrop",
+    "mood",
+    "odor",
+    "prod",
+    "proud",
+    "rood"
+  ],
+  "date": "2027-05-20",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "D": 10,
+      "G": 3,
+      "M": 1,
+      "O": 1,
+      "P": 2,
+      "R": 1
+    },
+    "grid": {
+      "D": {
+        "4": 9,
+        "5": 1
+      },
+      "G": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "M": {
+        "4": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 1
+      },
+      "R": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 5,
+      "DR": 4,
+      "DU": 1,
+      "GO": 2,
+      "GU": 1,
+      "MO": 1,
+      "OD": 1,
+      "PR": 2,
+      "RO": 1
+    }
+  }
+}

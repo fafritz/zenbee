@@ -1,0 +1,113 @@
+{
+  "pangram": "brought",
+  "center_letter": "t",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 152,
+  "answer_pangrams": [
+    "brought"
+  ],
+  "answers": [
+    "boot",
+    "booth",
+    "both",
+    "bought",
+    "bout",
+    "broth",
+    "brought",
+    "gout",
+    "grotto",
+    "hoot",
+    "hurt",
+    "ought",
+    "outgo",
+    "robot",
+    "root",
+    "rotor",
+    "rout",
+    "thorough",
+    "thou",
+    "though",
+    "thought",
+    "throb",
+    "through",
+    "throughout",
+    "thug",
+    "toot",
+    "tooth",
+    "tort",
+    "tough",
+    "tour",
+    "tout",
+    "trot",
+    "trough",
+    "trout",
+    "truth",
+    "turbot",
+    "tutor",
+    "tutu"
+  ],
+  "date": "2038-08-19",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 12,
+      "6": 5,
+      "7": 3,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "B": 7,
+      "G": 2,
+      "H": 2,
+      "O": 2,
+      "R": 4,
+      "T": 21
+    },
+    "grid": {
+      "B": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 2
+      },
+      "O": {
+        "5": 2
+      },
+      "R": {
+        "4": 2,
+        "5": 2
+      },
+      "T": {
+        "4": 8,
+        "5": 6,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "BO": 5,
+      "BR": 2,
+      "GO": 1,
+      "GR": 1,
+      "HO": 1,
+      "HU": 1,
+      "OU": 2,
+      "RO": 4,
+      "TH": 8,
+      "TO": 6,
+      "TR": 4,
+      "TU": 3
+    }
+  }
+}

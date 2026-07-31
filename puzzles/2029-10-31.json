@@ -1,0 +1,97 @@
+{
+  "pangram": "proudly",
+  "center_letter": "r",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 94,
+  "answer_pangrams": [
+    "proudly"
+  ],
+  "answers": [
+    "door",
+    "dory",
+    "dour",
+    "dourly",
+    "droll",
+    "drolly",
+    "drool",
+    "droop",
+    "droopy",
+    "drop",
+    "dryly",
+    "lord",
+    "lordly",
+    "lorry",
+    "odor",
+    "poor",
+    "poorly",
+    "pour",
+    "prod",
+    "prop",
+    "proud",
+    "proudly",
+    "purl",
+    "purr",
+    "roll",
+    "rood",
+    "ruddy",
+    "your"
+  ],
+  "date": "2029-10-31",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 7,
+      "6": 5,
+      "7": 1
+    },
+    "by_first_letter": {
+      "D": 11,
+      "L": 3,
+      "O": 1,
+      "P": 9,
+      "R": 3,
+      "Y": 1
+    },
+    "grid": {
+      "D": {
+        "4": 4,
+        "5": 4,
+        "6": 3
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 6,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 4,
+      "DR": 7,
+      "LO": 3,
+      "OD": 1,
+      "PO": 3,
+      "PR": 4,
+      "PU": 2,
+      "RO": 2,
+      "RU": 1,
+      "YO": 1
+    }
+  }
+}

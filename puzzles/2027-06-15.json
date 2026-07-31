@@ -1,0 +1,94 @@
+{
+  "pangram": "uniform",
+  "center_letter": "m",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 105,
+  "answer_pangrams": [
+    "uniform"
+  ],
+  "answers": [
+    "firm",
+    "form",
+    "forum",
+    "from",
+    "infirm",
+    "inform",
+    "miff",
+    "mini",
+    "minim",
+    "minimum",
+    "minion",
+    "minor",
+    "mirror",
+    "mono",
+    "moon",
+    "moor",
+    "morn",
+    "moron",
+    "mourn",
+    "muff",
+    "muffin",
+    "murmur",
+    "muumuu",
+    "norm",
+    "room",
+    "rumor",
+    "uniform"
+  ],
+  "date": "2027-06-15",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 6,
+      "6": 7,
+      "7": 2
+    },
+    "by_first_letter": {
+      "F": 4,
+      "I": 2,
+      "M": 17,
+      "N": 1,
+      "R": 2,
+      "U": 1
+    },
+    "grid": {
+      "F": {
+        "4": 3,
+        "5": 1
+      },
+      "I": {
+        "6": 2
+      },
+      "M": {
+        "4": 7,
+        "5": 4,
+        "6": 5,
+        "7": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "FI": 1,
+      "FO": 2,
+      "FR": 1,
+      "IN": 2,
+      "MI": 7,
+      "MO": 6,
+      "MU": 4,
+      "NO": 1,
+      "RO": 1,
+      "RU": 1,
+      "UN": 1
+    }
+  }
+}

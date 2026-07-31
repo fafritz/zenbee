@@ -1,0 +1,125 @@
+{
+  "pangram": "chantey",
+  "center_letter": "n",
+  "num_answers": 46,
+  "num_pangrams": 1,
+  "possible_points": 213,
+  "answer_pangrams": [
+    "chantey"
+  ],
+  "answers": [
+    "accent",
+    "acne",
+    "ante",
+    "antenna",
+    "antennae",
+    "cancan",
+    "cane",
+    "canna",
+    "canny",
+    "cant",
+    "cantata",
+    "canteen",
+    "cayenne",
+    "cent",
+    "cetacean",
+    "chance",
+    "chancy",
+    "chant",
+    "chantey",
+    "cyan",
+    "eaten",
+    "enact",
+    "enchant",
+    "enhance",
+    "entente",
+    "heathen",
+    "hence",
+    "henna",
+    "hyena",
+    "naan",
+    "nana",
+    "nanny",
+    "natty",
+    "neat",
+    "neath",
+    "nene",
+    "teen",
+    "teeny",
+    "tenancy",
+    "tenant",
+    "tenet",
+    "tent",
+    "tenth",
+    "than",
+    "then",
+    "thence"
+  ],
+  "date": "2029-07-25",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 14,
+      "6": 6,
+      "7": 10,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 15,
+      "E": 5,
+      "H": 4,
+      "N": 7,
+      "T": 10
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "C": {
+        "4": 4,
+        "5": 3,
+        "6": 3,
+        "7": 4,
+        "8": 1
+      },
+      "E": {
+        "5": 2,
+        "7": 3
+      },
+      "H": {
+        "5": 3,
+        "7": 1
+      },
+      "N": {
+        "4": 4,
+        "5": 3
+      },
+      "T": {
+        "4": 4,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AN": 3,
+      "CA": 8,
+      "CE": 2,
+      "CH": 4,
+      "CY": 1,
+      "EA": 1,
+      "EN": 4,
+      "HE": 3,
+      "HY": 1,
+      "NA": 4,
+      "NE": 3,
+      "TE": 7,
+      "TH": 3
+    }
+  }
+}

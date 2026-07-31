@@ -1,0 +1,75 @@
+{
+  "pangram": "pinhead",
+  "center_letter": "h",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 110,
+  "answer_pangrams": [
+    "pinhead"
+  ],
+  "answers": [
+    "ahead",
+    "aphid",
+    "hand",
+    "handed",
+    "happen",
+    "happened",
+    "head",
+    "headed",
+    "heap",
+    "heaped",
+    "heed",
+    "heeded",
+    "henna",
+    "hennaed",
+    "hidden",
+    "hide",
+    "hided",
+    "hied",
+    "hind",
+    "hipped",
+    "hippie",
+    "peahen",
+    "pinhead"
+  ],
+  "date": "2034-01-13",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 4,
+      "6": 9,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "H": 19,
+      "P": 2
+    },
+    "grid": {
+      "A": {
+        "5": 2
+      },
+      "H": {
+        "4": 7,
+        "5": 2,
+        "6": 8,
+        "7": 1,
+        "8": 1
+      },
+      "P": {
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AH": 1,
+      "AP": 1,
+      "HA": 4,
+      "HE": 8,
+      "HI": 7,
+      "PE": 1,
+      "PI": 1
+    }
+  }
+}

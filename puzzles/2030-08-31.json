@@ -1,0 +1,76 @@
+{
+  "pangram": "bethink",
+  "center_letter": "h",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 81,
+  "answer_pangrams": [
+    "bethink"
+  ],
+  "answers": [
+    "bethink",
+    "hike",
+    "hint",
+    "inhibit",
+    "nineteenth",
+    "ninetieth",
+    "ninth",
+    "teeth",
+    "teethe",
+    "tenth",
+    "thee",
+    "then",
+    "thin",
+    "thine",
+    "think",
+    "tithe"
+  ],
+  "date": "2030-08-31",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 6,
+      "6": 1,
+      "7": 2,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "B": 1,
+      "H": 2,
+      "I": 1,
+      "N": 3,
+      "T": 9
+    },
+    "grid": {
+      "B": {
+        "7": 1
+      },
+      "H": {
+        "4": 2
+      },
+      "I": {
+        "7": 1
+      },
+      "N": {
+        "5": 1,
+        "9": 1,
+        "10": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 5,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 1,
+      "HI": 2,
+      "IN": 1,
+      "NI": 3,
+      "TE": 3,
+      "TH": 5,
+      "TI": 1
+    }
+  }
+}

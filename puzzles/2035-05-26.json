@@ -1,0 +1,120 @@
+{
+  "pangram": "bighorn",
+  "center_letter": "r",
+  "num_answers": 36,
+  "num_pangrams": 2,
+  "possible_points": 201,
+  "answer_pangrams": [
+    "bighorn",
+    "highborn"
+  ],
+  "answers": [
+    "bighorn",
+    "boor",
+    "boring",
+    "born",
+    "boron",
+    "bribing",
+    "brig",
+    "bring",
+    "bringing",
+    "gorging",
+    "goring",
+    "grin",
+    "grinning",
+    "grog",
+    "groin",
+    "highborn",
+    "hiring",
+    "honor",
+    "honoring",
+    "horn",
+    "horror",
+    "ignoring",
+    "inborn",
+    "iron",
+    "ironing",
+    "origin",
+    "rhino",
+    "ribbing",
+    "ribbon",
+    "rigging",
+    "rigor",
+    "ring",
+    "ringing",
+    "robbing",
+    "robin",
+    "robing"
+  ],
+  "date": "2035-05-26",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 7,
+      "6": 8,
+      "7": 8,
+      "8": 5
+    },
+    "by_first_letter": {
+      "B": 9,
+      "G": 6,
+      "H": 6,
+      "I": 4,
+      "O": 1,
+      "R": 10
+    },
+    "grid": {
+      "B": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "H": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "8": 2
+      },
+      "I": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "O": {
+        "6": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 3,
+        "6": 2,
+        "7": 4
+      }
+    },
+    "two_letter_list": {
+      "BI": 1,
+      "BO": 4,
+      "BR": 4,
+      "GO": 2,
+      "GR": 4,
+      "HI": 2,
+      "HO": 4,
+      "IG": 1,
+      "IN": 1,
+      "IR": 2,
+      "OR": 1,
+      "RH": 1,
+      "RI": 6,
+      "RO": 3
+    }
+  }
+}

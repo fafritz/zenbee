@@ -1,0 +1,108 @@
+{
+  "pangram": "defying",
+  "center_letter": "f",
+  "num_answers": 40,
+  "num_pangrams": 3,
+  "possible_points": 240,
+  "answer_pangrams": [
+    "defying",
+    "deifying",
+    "edifying"
+  ],
+  "answers": [
+    "defend",
+    "defended",
+    "defending",
+    "defied",
+    "define",
+    "defined",
+    "defining",
+    "defy",
+    "defying",
+    "deified",
+    "deify",
+    "deifying",
+    "diff",
+    "diffed",
+    "diffing",
+    "dignified",
+    "dignify",
+    "dignifying",
+    "edified",
+    "edify",
+    "edifying",
+    "effigy",
+    "feed",
+    "feeding",
+    "feign",
+    "feigned",
+    "feigning",
+    "fend",
+    "fended",
+    "fending",
+    "fief",
+    "fiend",
+    "fife",
+    "find",
+    "finding",
+    "fine",
+    "fined",
+    "fining",
+    "finny",
+    "iffy"
+  ],
+  "date": "2027-06-04",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 6,
+      "6": 7,
+      "7": 10,
+      "8": 5,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "D": 18,
+      "E": 4,
+      "F": 17,
+      "I": 1
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 4,
+        "7": 5,
+        "8": 3,
+        "9": 2,
+        "10": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "F": {
+        "4": 6,
+        "5": 4,
+        "6": 2,
+        "7": 4,
+        "8": 1
+      },
+      "I": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 12,
+      "DI": 6,
+      "ED": 3,
+      "EF": 1,
+      "FE": 8,
+      "FI": 9,
+      "IF": 1
+    }
+  }
+}

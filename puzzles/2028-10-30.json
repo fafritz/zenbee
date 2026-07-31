@@ -1,0 +1,91 @@
+{
+  "pangram": "toughly",
+  "center_letter": "o",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 95,
+  "answer_pangrams": [
+    "toughly"
+  ],
+  "answers": [
+    "ghoul",
+    "gout",
+    "gouty",
+    "holly",
+    "holy",
+    "hoot",
+    "hotly",
+    "logo",
+    "loll",
+    "loot",
+    "lotto",
+    "lout",
+    "ought",
+    "outgo",
+    "thou",
+    "though",
+    "thought",
+    "toll",
+    "tool",
+    "toot",
+    "tooth",
+    "toothy",
+    "tough",
+    "toughly",
+    "tout",
+    "youth"
+  ],
+  "date": "2028-10-30",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 10,
+      "6": 2,
+      "7": 2
+    },
+    "by_first_letter": {
+      "G": 3,
+      "H": 4,
+      "L": 5,
+      "O": 2,
+      "T": 11,
+      "Y": 1
+    },
+    "grid": {
+      "G": {
+        "4": 1,
+        "5": 2
+      },
+      "H": {
+        "4": 2,
+        "5": 2
+      },
+      "L": {
+        "4": 4,
+        "5": 1
+      },
+      "O": {
+        "5": 2
+      },
+      "T": {
+        "4": 5,
+        "5": 2,
+        "6": 2,
+        "7": 2
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "GH": 1,
+      "GO": 2,
+      "HO": 4,
+      "LO": 5,
+      "OU": 2,
+      "TH": 3,
+      "TO": 8,
+      "YO": 1
+    }
+  }
+}

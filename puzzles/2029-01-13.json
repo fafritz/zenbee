@@ -1,0 +1,129 @@
+{
+  "pangram": "jaunted",
+  "center_letter": "u",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 206,
+  "answer_pangrams": [
+    "jaunted"
+  ],
+  "answers": [
+    "adjutant",
+    "attenuate",
+    "attenuated",
+    "attune",
+    "attuned",
+    "aunt",
+    "daunt",
+    "daunted",
+    "denude",
+    "denuded",
+    "dude",
+    "duded",
+    "duet",
+    "dune",
+    "dunned",
+    "endue",
+    "endued",
+    "etude",
+    "jaunt",
+    "jaunted",
+    "jejune",
+    "junta",
+    "jute",
+    "jutted",
+    "nutted",
+    "taunt",
+    "taunted",
+    "taut",
+    "tuna",
+    "tune",
+    "tuned",
+    "tutu",
+    "unattended",
+    "undated",
+    "undaunted",
+    "undue",
+    "uneaten",
+    "unneeded"
+  ],
+  "date": "2029-01-13",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 9,
+      "6": 7,
+      "7": 7,
+      "8": 2,
+      "9": 2,
+      "10": 2
+    },
+    "by_first_letter": {
+      "A": 6,
+      "D": 9,
+      "E": 3,
+      "J": 6,
+      "N": 1,
+      "T": 7,
+      "U": 6
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "D": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "7": 2
+      },
+      "E": {
+        "5": 2,
+        "6": 1
+      },
+      "J": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 2,
+        "7": 1
+      },
+      "U": {
+        "5": 1,
+        "7": 2,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AT": 4,
+      "AU": 1,
+      "DA": 2,
+      "DE": 2,
+      "DU": 5,
+      "EN": 2,
+      "ET": 1,
+      "JA": 2,
+      "JE": 1,
+      "JU": 3,
+      "NU": 1,
+      "TA": 3,
+      "TU": 4,
+      "UN": 6
+    }
+  }
+}

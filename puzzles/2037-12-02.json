@@ -1,0 +1,101 @@
+{
+  "pangram": "bailout",
+  "center_letter": "b",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 107,
+  "answer_pangrams": [
+    "bailout"
+  ],
+  "answers": [
+    "abbot",
+    "about",
+    "abut",
+    "alibi",
+    "baba",
+    "bail",
+    "bailout",
+    "bait",
+    "ball",
+    "ballot",
+    "baobab",
+    "bill",
+    "blab",
+    "blat",
+    "bloat",
+    "blob",
+    "blot",
+    "boat",
+    "bobtail",
+    "boil",
+    "bola",
+    "boll",
+    "bolt",
+    "boob",
+    "booboo",
+    "boot",
+    "bout",
+    "built",
+    "bulb",
+    "bull",
+    "labia",
+    "labial",
+    "obit",
+    "taboo",
+    "tibia",
+    "tuba"
+  ],
+  "date": "2037-12-02",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 8,
+      "6": 4,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 4,
+      "B": 26,
+      "L": 2,
+      "O": 1,
+      "T": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3
+      },
+      "B": {
+        "4": 19,
+        "5": 2,
+        "6": 3,
+        "7": 2
+      },
+      "L": {
+        "5": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 3,
+      "AL": 1,
+      "BA": 7,
+      "BI": 1,
+      "BL": 5,
+      "BO": 10,
+      "BU": 3,
+      "LA": 2,
+      "OB": 1,
+      "TA": 1,
+      "TI": 1,
+      "TU": 1
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "pangram": "phonied",
+  "center_letter": "o",
+  "num_answers": 52,
+  "num_pangrams": 1,
+  "possible_points": 212,
+  "answer_pangrams": [
+    "phonied"
+  ],
+  "answers": [
+    "diode",
+    "dodo",
+    "done",
+    "donned",
+    "dope",
+    "doped",
+    "hippo",
+    "hoed",
+    "hone",
+    "honed",
+    "hood",
+    "hooded",
+    "hoodie",
+    "hoodoo",
+    "hoodooed",
+    "hoop",
+    "hooped",
+    "hope",
+    "hoped",
+    "hopped",
+    "iodine",
+    "iphone",
+    "ipod",
+    "neon",
+    "nodded",
+    "node",
+    "none",
+    "noon",
+    "nope",
+    "onion",
+    "open",
+    "opened",
+    "opine",
+    "opined",
+    "opinion",
+    "opioid",
+    "pennon",
+    "peon",
+    "phone",
+    "phoned",
+    "phonied",
+    "pinion",
+    "pinioned",
+    "podded",
+    "pond",
+    "pone",
+    "pooh",
+    "poohed",
+    "poop",
+    "pooped",
+    "pope",
+    "popped"
+  ],
+  "date": "2032-12-26",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 8,
+      "6": 19,
+      "7": 2,
+      "8": 2
+    },
+    "by_first_letter": {
+      "D": 6,
+      "H": 14,
+      "I": 3,
+      "N": 6,
+      "O": 7,
+      "P": 16
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "5": 2,
+        "6": 1
+      },
+      "H": {
+        "4": 5,
+        "5": 3,
+        "6": 5,
+        "8": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 2
+      },
+      "N": {
+        "4": 5,
+        "6": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      },
+      "P": {
+        "4": 6,
+        "5": 1,
+        "6": 7,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "DI": 1,
+      "DO": 5,
+      "HI": 1,
+      "HO": 13,
+      "IO": 1,
+      "IP": 2,
+      "NE": 1,
+      "NO": 5,
+      "ON": 1,
+      "OP": 6,
+      "PE": 2,
+      "PH": 3,
+      "PI": 2,
+      "PO": 9
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "pangram": "carping",
+  "center_letter": "r",
+  "num_answers": 50,
+  "num_pangrams": 2,
+  "possible_points": 277,
+  "answer_pangrams": [
+    "carping",
+    "prancing"
+  ],
+  "answers": [
+    "agar",
+    "agrarian",
+    "airing",
+    "arcing",
+    "aria",
+    "arraign",
+    "arraigning",
+    "arranging",
+    "cairn",
+    "caring",
+    "carp",
+    "carpi",
+    "carping",
+    "cigar",
+    "circa",
+    "cirri",
+    "crag",
+    "craning",
+    "cringing",
+    "garaging",
+    "gracing",
+    "grain",
+    "grin",
+    "grinning",
+    "grip",
+    "griping",
+    "gripping",
+    "narc",
+    "pair",
+    "pairing",
+    "paring",
+    "parring",
+    "prancing",
+    "pricing",
+    "prig",
+    "racing",
+    "raga",
+    "ragging",
+    "raging",
+    "rain",
+    "raining",
+    "rang",
+    "ranging",
+    "rapping",
+    "raring",
+    "ricing",
+    "rigging",
+    "ring",
+    "ringing",
+    "ripping"
+  ],
+  "date": "2031-05-20",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 6,
+      "6": 8,
+      "7": 15,
+      "8": 6,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "C": 11,
+      "G": 8,
+      "N": 1,
+      "P": 7,
+      "R": 15
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 2,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 5,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "7": 2,
+        "8": 3
+      },
+      "N": {
+        "4": 1
+      },
+      "P": {
+        "4": 2,
+        "6": 1,
+        "7": 3,
+        "8": 1
+      },
+      "R": {
+        "4": 4,
+        "6": 4,
+        "7": 7
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 1,
+      "AR": 5,
+      "CA": 5,
+      "CI": 3,
+      "CR": 3,
+      "GA": 1,
+      "GR": 7,
+      "NA": 1,
+      "PA": 4,
+      "PR": 3,
+      "RA": 10,
+      "RI": 5
+    }
+  }
+}

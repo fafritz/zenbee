@@ -1,0 +1,85 @@
+{
+  "pangram": "dynamic",
+  "center_letter": "c",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 112,
+  "answer_pangrams": [
+    "dynamic"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acid",
+    "acidic",
+    "cancan",
+    "candid",
+    "candidacy",
+    "candy",
+    "canna",
+    "canny",
+    "cicada",
+    "cyan",
+    "cynic",
+    "dyadic",
+    "dynamic",
+    "macadam",
+    "maniac",
+    "manic",
+    "mica",
+    "mimic",
+    "niacin"
+  ],
+  "date": "2033-03-02",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 6,
+      "6": 8,
+      "7": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 9,
+      "D": 2,
+      "M": 5,
+      "N": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 2
+      },
+      "C": {
+        "4": 1,
+        "5": 4,
+        "6": 3,
+        "9": 1
+      },
+      "D": {
+        "6": 1,
+        "7": 1
+      },
+      "M": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 4,
+      "CA": 6,
+      "CI": 1,
+      "CY": 2,
+      "DY": 2,
+      "MA": 3,
+      "MI": 2,
+      "NI": 1
+    }
+  }
+}

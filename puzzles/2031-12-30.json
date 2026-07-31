@@ -1,0 +1,130 @@
+{
+  "pangram": "haunted",
+  "center_letter": "u",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 217,
+  "answer_pangrams": [
+    "haunted"
+  ],
+  "answers": [
+    "attenuate",
+    "attenuated",
+    "attune",
+    "attuned",
+    "aunt",
+    "daunt",
+    "daunted",
+    "denude",
+    "denuded",
+    "dude",
+    "duded",
+    "duet",
+    "dune",
+    "dunned",
+    "endue",
+    "endued",
+    "etude",
+    "haunt",
+    "haunted",
+    "hunt",
+    "hunted",
+    "nutted",
+    "taunt",
+    "taunted",
+    "taut",
+    "thud",
+    "thudded",
+    "tuna",
+    "tune",
+    "tuned",
+    "tutu",
+    "unattended",
+    "undated",
+    "undaunted",
+    "undue",
+    "uneaten",
+    "unhand",
+    "unhanded",
+    "unheeded",
+    "unneeded"
+  ],
+  "date": "2031-12-30",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 8,
+      "6": 7,
+      "7": 8,
+      "8": 3,
+      "9": 2,
+      "10": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "D": 9,
+      "E": 3,
+      "H": 4,
+      "N": 1,
+      "T": 9,
+      "U": 9
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "9": 1,
+        "10": 1
+      },
+      "D": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "7": 2
+      },
+      "E": {
+        "5": 2,
+        "6": 1
+      },
+      "H": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 2,
+        "7": 2
+      },
+      "U": {
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AT": 4,
+      "AU": 1,
+      "DA": 2,
+      "DE": 2,
+      "DU": 5,
+      "EN": 2,
+      "ET": 1,
+      "HA": 2,
+      "HU": 2,
+      "NU": 1,
+      "TA": 3,
+      "TH": 2,
+      "TU": 4,
+      "UN": 9
+    }
+  }
+}

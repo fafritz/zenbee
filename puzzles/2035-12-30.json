@@ -1,0 +1,76 @@
+{
+  "pangram": "hording",
+  "center_letter": "h",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 111,
+  "answer_pangrams": [
+    "hording"
+  ],
+  "answers": [
+    "godhood",
+    "hiding",
+    "high",
+    "hind",
+    "hing",
+    "hinging",
+    "hiring",
+    "hogging",
+    "honing",
+    "honor",
+    "honoring",
+    "hood",
+    "hooding",
+    "hoodoo",
+    "hoodooing",
+    "hording",
+    "horn",
+    "horrid",
+    "horror",
+    "nigh",
+    "rhino"
+  ],
+  "date": "2035-12-30",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 2,
+      "6": 6,
+      "7": 5,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "G": 1,
+      "H": 18,
+      "N": 1,
+      "R": 1
+    },
+    "grid": {
+      "G": {
+        "7": 1
+      },
+      "H": {
+        "4": 5,
+        "5": 1,
+        "6": 6,
+        "7": 4,
+        "8": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "R": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "GO": 1,
+      "HI": 6,
+      "HO": 12,
+      "NI": 1,
+      "RH": 1
+    }
+  }
+}

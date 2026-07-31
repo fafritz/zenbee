@@ -1,0 +1,150 @@
+{
+  "pangram": "clamped",
+  "center_letter": "p",
+  "num_answers": 65,
+  "num_pangrams": 1,
+  "possible_points": 300,
+  "answer_pangrams": [
+    "clamped"
+  ],
+  "answers": [
+    "alpaca",
+    "ample",
+    "apace",
+    "aped",
+    "appall",
+    "appalled",
+    "appeal",
+    "appealed",
+    "apple",
+    "camp",
+    "camped",
+    "cape",
+    "caped",
+    "capped",
+    "clamp",
+    "clamped",
+    "clap",
+    "clapped",
+    "damp",
+    "damped",
+    "dapple",
+    "dappled",
+    "decamp",
+    "decamped",
+    "deep",
+    "epee",
+    "lamp",
+    "lapel",
+    "lapped",
+    "leap",
+    "leaped",
+    "madcap",
+    "maple",
+    "mapped",
+    "pace",
+    "paced",
+    "padded",
+    "paddle",
+    "paddled",
+    "palace",
+    "pale",
+    "paled",
+    "pall",
+    "palled",
+    "palm",
+    "palmed",
+    "papa",
+    "papal",
+    "peace",
+    "peal",
+    "pealed",
+    "pedal",
+    "pedaled",
+    "peddle",
+    "peddled",
+    "peed",
+    "peel",
+    "peeled",
+    "peep",
+    "peeped",
+    "pepped",
+    "place",
+    "placed",
+    "plea",
+    "plead"
+  ],
+  "date": "2036-01-15",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 14,
+      "6": 23,
+      "7": 6,
+      "8": 3
+    },
+    "by_first_letter": {
+      "A": 9,
+      "C": 9,
+      "D": 7,
+      "E": 1,
+      "L": 5,
+      "M": 3,
+      "P": 31
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 3,
+        "8": 2
+      },
+      "C": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "7": 2
+      },
+      "D": {
+        "4": 2,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "M": {
+        "5": 1,
+        "6": 2
+      },
+      "P": {
+        "4": 10,
+        "5": 7,
+        "6": 11,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AM": 1,
+      "AP": 7,
+      "CA": 5,
+      "CL": 4,
+      "DA": 4,
+      "DE": 3,
+      "EP": 1,
+      "LA": 3,
+      "LE": 2,
+      "MA": 3,
+      "PA": 14,
+      "PE": 13,
+      "PL": 4
+    }
+  }
+}

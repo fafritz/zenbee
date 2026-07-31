@@ -1,0 +1,86 @@
+{
+  "pangram": "unpaved",
+  "center_letter": "v",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 88,
+  "answer_pangrams": [
+    "unpaved"
+  ],
+  "answers": [
+    "avenue",
+    "evade",
+    "evaded",
+    "even",
+    "evened",
+    "nave",
+    "pave",
+    "paved",
+    "peeve",
+    "peeved",
+    "uneven",
+    "unpaved",
+    "vane",
+    "vanned",
+    "vape",
+    "vaped",
+    "veep",
+    "vend",
+    "vended",
+    "venue"
+  ],
+  "date": "2030-10-25",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 5,
+      "6": 7,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "E": 4,
+      "N": 1,
+      "P": 4,
+      "U": 2,
+      "V": 8
+    },
+    "grid": {
+      "A": {
+        "6": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "N": {
+        "4": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      },
+      "U": {
+        "6": 1,
+        "7": 1
+      },
+      "V": {
+        "4": 4,
+        "5": 2,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AV": 1,
+      "EV": 4,
+      "NA": 1,
+      "PA": 2,
+      "PE": 2,
+      "UN": 2,
+      "VA": 4,
+      "VE": 4
+    }
+  }
+}

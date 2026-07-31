@@ -1,0 +1,111 @@
+{
+  "pangram": "echoing",
+  "center_letter": "c",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 170,
+  "answer_pangrams": [
+    "echoing"
+  ],
+  "answers": [
+    "chic",
+    "chignon",
+    "chin",
+    "chinning",
+    "chino",
+    "choice",
+    "cinch",
+    "cinching",
+    "cocci",
+    "cocoon",
+    "cocooning",
+    "coin",
+    "coining",
+    "conch",
+    "cone",
+    "conic",
+    "conning",
+    "cooing",
+    "echo",
+    "echoing",
+    "hence",
+    "honcho",
+    "hooch",
+    "icing",
+    "icon",
+    "inch",
+    "inching",
+    "innocence",
+    "neocon",
+    "nice",
+    "niche",
+    "niece",
+    "nonce",
+    "once"
+  ],
+  "date": "2035-10-19",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 11,
+      "6": 5,
+      "7": 5,
+      "8": 2,
+      "9": 2
+    },
+    "by_first_letter": {
+      "C": 18,
+      "E": 2,
+      "H": 3,
+      "I": 5,
+      "N": 5,
+      "O": 1
+    },
+    "grid": {
+      "C": {
+        "4": 4,
+        "5": 5,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 1
+      },
+      "E": {
+        "4": 1,
+        "7": 1
+      },
+      "H": {
+        "5": 2,
+        "6": 1
+      },
+      "I": {
+        "4": 2,
+        "5": 1,
+        "7": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 3,
+        "6": 1
+      },
+      "O": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 6,
+      "CI": 2,
+      "CO": 10,
+      "EC": 2,
+      "HE": 1,
+      "HO": 2,
+      "IC": 2,
+      "IN": 3,
+      "NE": 1,
+      "NI": 3,
+      "NO": 1,
+      "ON": 1
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "pangram": "packing",
+  "center_letter": "g",
+  "num_answers": 50,
+  "num_pangrams": 4,
+  "possible_points": 333,
+  "answer_pangrams": [
+    "packaging",
+    "packing",
+    "pancaking",
+    "panicking"
+  ],
+  "answers": [
+    "acing",
+    "again",
+    "aging",
+    "angina",
+    "aping",
+    "caging",
+    "caking",
+    "caning",
+    "canning",
+    "capping",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "gaping",
+    "gigging",
+    "ginning",
+    "icing",
+    "inking",
+    "inning",
+    "kicking",
+    "king",
+    "kingpin",
+    "kinking",
+    "nagging",
+    "napping",
+    "nicking",
+    "nipping",
+    "pacing",
+    "packaging",
+    "packing",
+    "pagan",
+    "paging",
+    "paining",
+    "pancaking",
+    "pang",
+    "panicking",
+    "panning",
+    "picking",
+    "picnicking",
+    "pigging",
+    "piking",
+    "ping",
+    "pinging",
+    "pining",
+    "pinking",
+    "pinning",
+    "piping",
+    "pipping"
+  ],
+  "date": "2038-04-06",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 6,
+      "6": 12,
+      "7": 23,
+      "9": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 5,
+      "G": 8,
+      "I": 3,
+      "K": 4,
+      "N": 4,
+      "P": 21
+    },
+    "grid": {
+      "A": {
+        "5": 4,
+        "6": 1
+      },
+      "C": {
+        "6": 3,
+        "7": 2
+      },
+      "G": {
+        "4": 2,
+        "6": 1,
+        "7": 5
+      },
+      "I": {
+        "5": 1,
+        "6": 2
+      },
+      "K": {
+        "4": 1,
+        "7": 3
+      },
+      "N": {
+        "7": 4
+      },
+      "P": {
+        "4": 2,
+        "5": 1,
+        "6": 5,
+        "7": 9,
+        "9": 3,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AG": 2,
+      "AN": 1,
+      "AP": 1,
+      "CA": 5,
+      "GA": 6,
+      "GI": 2,
+      "IC": 1,
+      "IN": 2,
+      "KI": 4,
+      "NA": 2,
+      "NI": 2,
+      "PA": 10,
+      "PI": 11
+    }
+  }
+}

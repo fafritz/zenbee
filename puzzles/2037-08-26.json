@@ -1,0 +1,136 @@
+{
+  "pangram": "vaulted",
+  "center_letter": "t",
+  "num_answers": 44,
+  "num_pangrams": 2,
+  "possible_points": 231,
+  "answer_pangrams": [
+    "evaluated",
+    "vaulted"
+  ],
+  "answers": [
+    "adulate",
+    "adulated",
+    "adult",
+    "data",
+    "date",
+    "dated",
+    "dealt",
+    "delete",
+    "deleted",
+    "delta",
+    "duet",
+    "duvet",
+    "elate",
+    "elated",
+    "elevate",
+    "elevated",
+    "etude",
+    "evaluate",
+    "evaluated",
+    "late",
+    "latte",
+    "lute",
+    "tale",
+    "tall",
+    "tatted",
+    "tattle",
+    "tattled",
+    "tattletale",
+    "taut",
+    "teal",
+    "teed",
+    "tell",
+    "telltale",
+    "tulle",
+    "tutu",
+    "ululate",
+    "ululated",
+    "valet",
+    "valeted",
+    "vatted",
+    "vault",
+    "vaulted",
+    "velvet",
+    "vetted"
+  ],
+  "date": "2037-08-26",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 11,
+      "6": 7,
+      "7": 7,
+      "8": 5,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 9,
+      "E": 7,
+      "L": 3,
+      "T": 13,
+      "U": 2,
+      "V": 7
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "D": {
+        "4": 3,
+        "5": 4,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1
+      },
+      "T": {
+        "4": 7,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1,
+        "10": 1
+      },
+      "U": {
+        "7": 1,
+        "8": 1
+      },
+      "V": {
+        "5": 2,
+        "6": 3,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AD": 3,
+      "DA": 3,
+      "DE": 4,
+      "DU": 2,
+      "EL": 4,
+      "ET": 1,
+      "EV": 2,
+      "LA": 2,
+      "LU": 1,
+      "TA": 7,
+      "TE": 4,
+      "TU": 2,
+      "UL": 2,
+      "VA": 5,
+      "VE": 2
+    }
+  }
+}

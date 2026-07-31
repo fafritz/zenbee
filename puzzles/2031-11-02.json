@@ -1,0 +1,123 @@
+{
+  "pangram": "maudlin",
+  "center_letter": "l",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 150,
+  "answer_pangrams": [
+    "maudlin"
+  ],
+  "answers": [
+    "alum",
+    "aluminum",
+    "alumna",
+    "alumni",
+    "anal",
+    "animal",
+    "annual",
+    "annul",
+    "dial",
+    "dill",
+    "dual",
+    "dull",
+    "inlaid",
+    "inland",
+    "laid",
+    "lain",
+    "lama",
+    "land",
+    "laud",
+    "laudanum",
+    "limn",
+    "llama",
+    "luau",
+    "lull",
+    "lulu",
+    "mail",
+    "mailman",
+    "mainland",
+    "mall",
+    "mammal",
+    "mammalian",
+    "manual",
+    "maudlin",
+    "maul",
+    "midland",
+    "mild",
+    "mill",
+    "minimal",
+    "mull",
+    "nail",
+    "null",
+    "ulna"
+  ],
+  "date": "2031-11-02",
+  "hints": {
+    "by_length": {
+      "4": 24,
+      "5": 2,
+      "6": 8,
+      "7": 4,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "D": 4,
+      "I": 2,
+      "L": 11,
+      "M": 14,
+      "N": 2,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 4,
+        "8": 1
+      },
+      "D": {
+        "4": 4
+      },
+      "I": {
+        "6": 2
+      },
+      "L": {
+        "4": 9,
+        "5": 1,
+        "8": 1
+      },
+      "M": {
+        "4": 6,
+        "6": 2,
+        "7": 4,
+        "8": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 2
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 4,
+      "AN": 4,
+      "DI": 2,
+      "DU": 2,
+      "IN": 2,
+      "LA": 6,
+      "LI": 1,
+      "LL": 1,
+      "LU": 3,
+      "MA": 9,
+      "MI": 4,
+      "MU": 1,
+      "NA": 1,
+      "NU": 1,
+      "UL": 1
+    }
+  }
+}

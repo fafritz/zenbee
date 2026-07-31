@@ -1,0 +1,133 @@
+{
+  "pangram": "curtail",
+  "center_letter": "c",
+  "num_answers": 46,
+  "num_pangrams": 2,
+  "possible_points": 254,
+  "answer_pangrams": [
+    "actuarial",
+    "curtail"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "accrual",
+    "actual",
+    "actuarial",
+    "arctic",
+    "attic",
+    "attract",
+    "cacti",
+    "calculi",
+    "call",
+    "calla",
+    "carat",
+    "cart",
+    "cataract",
+    "catcall",
+    "cattail",
+    "cilia",
+    "circa",
+    "circuit",
+    "circular",
+    "cirri",
+    "citric",
+    "critic",
+    "critical",
+    "crucial",
+    "cull",
+    "cult",
+    "cultural",
+    "curl",
+    "curricula",
+    "curt",
+    "curtail",
+    "illicit",
+    "italic",
+    "lactic",
+    "licit",
+    "lilac",
+    "racial",
+    "tacit",
+    "tact",
+    "tactic",
+    "tactical",
+    "talc",
+    "tract",
+    "uric"
+  ],
+  "date": "2026-08-15",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 11,
+      "6": 9,
+      "7": 9,
+      "8": 5,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 8,
+      "C": 25,
+      "I": 2,
+      "L": 3,
+      "R": 1,
+      "T": 6,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "9": 1
+      },
+      "C": {
+        "4": 6,
+        "5": 6,
+        "6": 2,
+        "7": 6,
+        "8": 4,
+        "9": 1
+      },
+      "I": {
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "5": 2,
+        "6": 1
+      },
+      "R": {
+        "6": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 5,
+      "AR": 1,
+      "AT": 2,
+      "CA": 9,
+      "CI": 6,
+      "CR": 3,
+      "CU": 7,
+      "IL": 1,
+      "IT": 1,
+      "LA": 1,
+      "LI": 2,
+      "RA": 1,
+      "TA": 5,
+      "TR": 1,
+      "UR": 1
+    }
+  }
+}

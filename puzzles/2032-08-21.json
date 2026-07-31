@@ -1,0 +1,139 @@
+{
+  "pangram": "violate",
+  "center_letter": "e",
+  "num_answers": 50,
+  "num_pangrams": 2,
+  "possible_points": 230,
+  "answer_pangrams": [
+    "violate",
+    "volatile"
+  ],
+  "answers": [
+    "alive",
+    "alleviate",
+    "aloe",
+    "elate",
+    "elevate",
+    "elite",
+    "evil",
+    "evolve",
+    "late",
+    "latte",
+    "leave",
+    "levee",
+    "level",
+    "levitate",
+    "lite",
+    "little",
+    "live",
+    "love",
+    "oleo",
+    "olive",
+    "tale",
+    "tattle",
+    "tattletale",
+    "teal",
+    "teetotal",
+    "tell",
+    "telltale",
+    "tile",
+    "titillate",
+    "title",
+    "tittle",
+    "toilet",
+    "toilette",
+    "tote",
+    "vale",
+    "valet",
+    "valve",
+    "veal",
+    "veil",
+    "velvet",
+    "veto",
+    "vile",
+    "violate",
+    "violet",
+    "vitiate",
+    "voile",
+    "volatile",
+    "vole",
+    "vote",
+    "votive"
+  ],
+  "date": "2032-08-21",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 12,
+      "6": 8,
+      "7": 3,
+      "8": 5,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "E": 5,
+      "L": 10,
+      "O": 2,
+      "T": 14,
+      "V": 16
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "9": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 4,
+        "6": 1,
+        "8": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 1,
+        "6": 3,
+        "8": 3,
+        "9": 1,
+        "10": 1
+      },
+      "V": {
+        "4": 7,
+        "5": 3,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 3,
+      "EL": 3,
+      "EV": 2,
+      "LA": 2,
+      "LE": 4,
+      "LI": 3,
+      "LO": 1,
+      "OL": 2,
+      "TA": 3,
+      "TE": 4,
+      "TI": 4,
+      "TO": 3,
+      "VA": 3,
+      "VE": 4,
+      "VI": 4,
+      "VO": 5
+    }
+  }
+}

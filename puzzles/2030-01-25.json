@@ -1,0 +1,102 @@
+{
+  "pangram": "chewing",
+  "center_letter": "h",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 148,
+  "answer_pangrams": [
+    "chewing"
+  ],
+  "answers": [
+    "chew",
+    "chewing",
+    "chic",
+    "chin",
+    "chinning",
+    "cinch",
+    "cinching",
+    "hence",
+    "hewing",
+    "hewn",
+    "hieing",
+    "high",
+    "hing",
+    "hinge",
+    "hinging",
+    "inch",
+    "inching",
+    "neigh",
+    "neighing",
+    "niche",
+    "nigh",
+    "weigh",
+    "weighing",
+    "when",
+    "whence",
+    "whew",
+    "which",
+    "whine",
+    "whining",
+    "winch",
+    "winching"
+  ],
+  "date": "2030-01-25",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 9,
+      "6": 3,
+      "7": 4,
+      "8": 5
+    },
+    "by_first_letter": {
+      "C": 7,
+      "H": 8,
+      "I": 2,
+      "N": 4,
+      "W": 10
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 1,
+        "7": 1,
+        "8": 2
+      },
+      "H": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "I": {
+        "4": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 2,
+        "8": 1
+      },
+      "W": {
+        "4": 2,
+        "5": 4,
+        "6": 1,
+        "7": 1,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "CH": 5,
+      "CI": 2,
+      "HE": 3,
+      "HI": 5,
+      "IN": 2,
+      "NE": 2,
+      "NI": 2,
+      "WE": 2,
+      "WH": 6,
+      "WI": 2
+    }
+  }
+}

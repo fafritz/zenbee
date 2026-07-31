@@ -1,0 +1,125 @@
+{
+  "pangram": "hayloft",
+  "center_letter": "t",
+  "num_answers": 43,
+  "num_pangrams": 1,
+  "possible_points": 186,
+  "answer_pangrams": [
+    "hayloft"
+  ],
+  "answers": [
+    "afloat",
+    "afoot",
+    "allot",
+    "aloft",
+    "alto",
+    "atoll",
+    "ayatollah",
+    "fatal",
+    "fatally",
+    "fatty",
+    "flat",
+    "flatfoot",
+    "flatly",
+    "float",
+    "foot",
+    "footfall",
+    "haft",
+    "halt",
+    "hayloft",
+    "hoot",
+    "hotly",
+    "lath",
+    "loath",
+    "loft",
+    "lofty",
+    "loot",
+    "lotto",
+    "loyalty",
+    "oath",
+    "taffy",
+    "tall",
+    "tally",
+    "tallyho",
+    "tattoo",
+    "tatty",
+    "that",
+    "toll",
+    "tool",
+    "toot",
+    "tooth",
+    "toothy",
+    "total",
+    "totally"
+  ],
+  "date": "2030-12-06",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 16,
+      "6": 4,
+      "7": 5,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "F": 9,
+      "H": 5,
+      "L": 7,
+      "O": 1,
+      "T": 14
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 4,
+        "6": 1,
+        "9": 1
+      },
+      "F": {
+        "4": 2,
+        "5": 3,
+        "6": 1,
+        "7": 1,
+        "8": 2
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 3,
+        "7": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 5,
+        "6": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AF": 2,
+      "AL": 3,
+      "AT": 1,
+      "AY": 1,
+      "FA": 3,
+      "FL": 4,
+      "FO": 2,
+      "HA": 3,
+      "HO": 2,
+      "LA": 1,
+      "LO": 6,
+      "OA": 1,
+      "TA": 6,
+      "TH": 1,
+      "TO": 7
+    }
+  }
+}

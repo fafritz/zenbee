@@ -1,0 +1,135 @@
+{
+  "pangram": "obeying",
+  "center_letter": "g",
+  "num_answers": 53,
+  "num_pangrams": 2,
+  "possible_points": 306,
+  "answer_pangrams": [
+    "bogeying",
+    "obeying"
+  ],
+  "answers": [
+    "begging",
+    "begin",
+    "beginning",
+    "begone",
+    "beige",
+    "being",
+    "benign",
+    "biggie",
+    "binge",
+    "bingeing",
+    "bingo",
+    "binning",
+    "bobbing",
+    "bogey",
+    "bogeying",
+    "bogging",
+    "boggy",
+    "bogie",
+    "bong",
+    "bonging",
+    "bongo",
+    "boning",
+    "boobing",
+    "boogie",
+    "boogieing",
+    "booing",
+    "bygone",
+    "ebbing",
+    "egging",
+    "eggnog",
+    "engine",
+    "eyeing",
+    "geeing",
+    "gene",
+    "genie",
+    "genii",
+    "gibbon",
+    "gibe",
+    "gibing",
+    "gigging",
+    "ginning",
+    "gobbing",
+    "going",
+    "gone",
+    "gong",
+    "gonging",
+    "gooey",
+    "goon",
+    "inning",
+    "noggin",
+    "obeying",
+    "ongoing",
+    "yogi"
+  ],
+  "date": "2038-03-27",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 13,
+      "6": 17,
+      "7": 12,
+      "8": 2,
+      "9": 2
+    },
+    "by_first_letter": {
+      "B": 27,
+      "E": 5,
+      "G": 16,
+      "I": 1,
+      "N": 1,
+      "O": 2,
+      "Y": 1
+    },
+    "grid": {
+      "B": {
+        "4": 1,
+        "5": 9,
+        "6": 7,
+        "7": 6,
+        "8": 2,
+        "9": 2
+      },
+      "E": {
+        "6": 5
+      },
+      "G": {
+        "4": 5,
+        "5": 4,
+        "6": 3,
+        "7": 4
+      },
+      "I": {
+        "6": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "O": {
+        "7": 2
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 7,
+      "BI": 5,
+      "BO": 14,
+      "BY": 1,
+      "EB": 1,
+      "EG": 2,
+      "EN": 1,
+      "EY": 1,
+      "GE": 4,
+      "GI": 5,
+      "GO": 7,
+      "IN": 1,
+      "NO": 1,
+      "OB": 1,
+      "ON": 1,
+      "YO": 1
+    }
+  }
+}

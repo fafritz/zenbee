@@ -1,0 +1,130 @@
+{
+  "pangram": "ignobly",
+  "center_letter": "b",
+  "num_answers": 52,
+  "num_pangrams": 3,
+  "possible_points": 302,
+  "answer_pangrams": [
+    "ignobly",
+    "lobbying",
+    "obligingly"
+  ],
+  "answers": [
+    "bill",
+    "billing",
+    "billion",
+    "billy",
+    "bingo",
+    "binning",
+    "biology",
+    "bling",
+    "blob",
+    "blobbing",
+    "blog",
+    "blogging",
+    "bobbin",
+    "bobbing",
+    "bobbling",
+    "bobby",
+    "bogging",
+    "boggling",
+    "boggy",
+    "boil",
+    "boiling",
+    "boll",
+    "bonbon",
+    "bong",
+    "bonging",
+    "bongo",
+    "boning",
+    "bony",
+    "boob",
+    "boobing",
+    "booboo",
+    "booby",
+    "booing",
+    "boon",
+    "gibbon",
+    "gibing",
+    "glib",
+    "glibly",
+    "glob",
+    "globing",
+    "gobbing",
+    "gobbling",
+    "goblin",
+    "ignobly",
+    "lobbing",
+    "lobby",
+    "lobbying",
+    "nibbling",
+    "nobly",
+    "obliging",
+    "obligingly",
+    "oblong"
+  ],
+  "date": "2030-03-23",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 9,
+      "6": 10,
+      "7": 13,
+      "8": 8,
+      "10": 1
+    },
+    "by_first_letter": {
+      "B": 34,
+      "G": 9,
+      "I": 1,
+      "L": 3,
+      "N": 2,
+      "O": 3
+    },
+    "grid": {
+      "B": {
+        "4": 9,
+        "5": 7,
+        "6": 5,
+        "7": 9,
+        "8": 4
+      },
+      "G": {
+        "4": 2,
+        "6": 4,
+        "7": 2,
+        "8": 1
+      },
+      "I": {
+        "7": 1
+      },
+      "L": {
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "5": 1,
+        "8": 1
+      },
+      "O": {
+        "6": 1,
+        "8": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "BI": 7,
+      "BL": 5,
+      "BO": 22,
+      "GI": 2,
+      "GL": 4,
+      "GO": 3,
+      "IG": 1,
+      "LO": 3,
+      "NI": 1,
+      "NO": 1,
+      "OB": 3
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "pangram": "fancied",
+  "center_letter": "f",
+  "num_answers": 45,
+  "num_pangrams": 3,
+  "possible_points": 256,
+  "answer_pangrams": [
+    "defiance",
+    "fancied",
+    "financed"
+  ],
+  "answers": [
+    "acidified",
+    "cafe",
+    "caffeine",
+    "deaf",
+    "deafen",
+    "deafened",
+    "decaf",
+    "deface",
+    "defaced",
+    "defend",
+    "defended",
+    "defiance",
+    "defied",
+    "define",
+    "defined",
+    "deified",
+    "diff",
+    "diffed",
+    "diffidence",
+    "edifice",
+    "edified",
+    "efface",
+    "effaced",
+    "facade",
+    "face",
+    "faced",
+    "fade",
+    "faded",
+    "fancied",
+    "fanned",
+    "feed",
+    "fence",
+    "fenced",
+    "fend",
+    "fended",
+    "fiance",
+    "fiancee",
+    "fief",
+    "fiend",
+    "fife",
+    "finance",
+    "financed",
+    "find",
+    "fine",
+    "fined"
+  ],
+  "date": "2033-06-18",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 6,
+      "6": 12,
+      "7": 9,
+      "8": 5,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 2,
+      "D": 16,
+      "E": 4,
+      "F": 22
+    },
+    "grid": {
+      "A": {
+        "9": 1
+      },
+      "C": {
+        "4": 1,
+        "8": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 6,
+        "7": 3,
+        "8": 3,
+        "10": 1
+      },
+      "E": {
+        "6": 1,
+        "7": 3
+      },
+      "F": {
+        "4": 8,
+        "5": 5,
+        "6": 5,
+        "7": 3,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "CA": 2,
+      "DE": 13,
+      "DI": 3,
+      "ED": 2,
+      "EF": 2,
+      "FA": 7,
+      "FE": 5,
+      "FI": 10
+    }
+  }
+}

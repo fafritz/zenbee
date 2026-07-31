@@ -1,0 +1,74 @@
+{
+  "pangram": "furlong",
+  "center_letter": "g",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 44,
+  "answer_pangrams": [
+    "furlong"
+  ],
+  "answers": [
+    "flog",
+    "flung",
+    "forgo",
+    "frog",
+    "furlong",
+    "golf",
+    "gong",
+    "goof",
+    "goon",
+    "grog",
+    "gruff",
+    "guff",
+    "gulf",
+    "gull",
+    "guru",
+    "logo",
+    "long",
+    "lung",
+    "rung"
+  ],
+  "date": "2030-10-14",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "F": 5,
+      "G": 10,
+      "L": 3,
+      "R": 1
+    },
+    "grid": {
+      "F": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "G": {
+        "4": 9,
+        "5": 1
+      },
+      "L": {
+        "4": 3
+      },
+      "R": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "FL": 2,
+      "FO": 1,
+      "FR": 1,
+      "FU": 1,
+      "GO": 4,
+      "GR": 2,
+      "GU": 4,
+      "LO": 2,
+      "LU": 1,
+      "RU": 1
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "pangram": "purloin",
+  "center_letter": "u",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 66,
+  "answer_pangrams": [
+    "purloin"
+  ],
+  "answers": [
+    "lull",
+    "lulu",
+    "nonunion",
+    "noun",
+    "null",
+    "pinup",
+    "pour",
+    "pronoun",
+    "pull",
+    "pulp",
+    "pupil",
+    "purl",
+    "purloin",
+    "purr",
+    "ruin",
+    "union",
+    "unpin",
+    "unroll",
+    "upon"
+  ],
+  "date": "2031-10-19",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 4,
+      "6": 1,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "L": 2,
+      "N": 3,
+      "P": 9,
+      "R": 1,
+      "U": 4
+    },
+    "grid": {
+      "L": {
+        "4": 2
+      },
+      "N": {
+        "4": 2,
+        "8": 1
+      },
+      "P": {
+        "4": 5,
+        "5": 2,
+        "7": 2
+      },
+      "R": {
+        "4": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "LU": 2,
+      "NO": 2,
+      "NU": 1,
+      "PI": 1,
+      "PO": 1,
+      "PR": 1,
+      "PU": 6,
+      "RU": 1,
+      "UN": 3,
+      "UP": 1
+    }
+  }
+}

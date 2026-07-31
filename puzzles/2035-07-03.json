@@ -1,0 +1,132 @@
+{
+  "pangram": "pivoted",
+  "center_letter": "i",
+  "num_answers": 48,
+  "num_pangrams": 1,
+  "possible_points": 233,
+  "answer_pangrams": [
+    "pivoted"
+  ],
+  "answers": [
+    "devoid",
+    "died",
+    "diet",
+    "dieted",
+    "diode",
+    "dipped",
+    "ditto",
+    "dittoed",
+    "dive",
+    "dived",
+    "divide",
+    "divided",
+    "divot",
+    "divvied",
+    "eddied",
+    "edit",
+    "edited",
+    "idiot",
+    "ipod",
+    "opioid",
+    "ovoid",
+    "petite",
+    "pied",
+    "pipe",
+    "piped",
+    "pipit",
+    "pipped",
+    "pitied",
+    "pitted",
+    "pivot",
+    "pivoted",
+    "potpie",
+    "tepid",
+    "tide",
+    "tided",
+    "tidied",
+    "tied",
+    "tipped",
+    "tiptoe",
+    "tiptoed",
+    "tiptop",
+    "video",
+    "videoed",
+    "vied",
+    "vivid",
+    "void",
+    "voided",
+    "votive"
+  ],
+  "date": "2035-07-03",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 13,
+      "6": 18,
+      "7": 6
+    },
+    "by_first_letter": {
+      "D": 14,
+      "E": 3,
+      "I": 2,
+      "O": 2,
+      "P": 11,
+      "T": 9,
+      "V": 7
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "5": 4,
+        "6": 4,
+        "7": 3
+      },
+      "E": {
+        "4": 1,
+        "6": 2
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1
+      },
+      "P": {
+        "4": 2,
+        "5": 3,
+        "6": 5,
+        "7": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 2,
+        "6": 4,
+        "7": 1
+      },
+      "V": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 1,
+      "DI": 13,
+      "ED": 3,
+      "ID": 1,
+      "IP": 1,
+      "OP": 1,
+      "OV": 1,
+      "PE": 1,
+      "PI": 9,
+      "PO": 1,
+      "TE": 1,
+      "TI": 8,
+      "VI": 4,
+      "VO": 3
+    }
+  }
+}

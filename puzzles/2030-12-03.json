@@ -1,0 +1,86 @@
+{
+  "pangram": "mortify",
+  "center_letter": "t",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 67,
+  "answer_pangrams": [
+    "mortify"
+  ],
+  "answers": [
+    "fifty",
+    "foot",
+    "fort",
+    "fortify",
+    "forty",
+    "mitt",
+    "moot",
+    "mortify",
+    "motif",
+    "motor",
+    "motto",
+    "omit",
+    "rift",
+    "riot",
+    "root",
+    "rotor",
+    "tiff",
+    "toot",
+    "tort",
+    "trim",
+    "trio",
+    "trot",
+    "troy",
+    "tyro"
+  ],
+  "date": "2030-12-03",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 6,
+      "7": 2
+    },
+    "by_first_letter": {
+      "F": 5,
+      "M": 6,
+      "O": 1,
+      "R": 4,
+      "T": 8
+    },
+    "grid": {
+      "F": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "M": {
+        "4": 2,
+        "5": 3,
+        "7": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 1
+      },
+      "T": {
+        "4": 8
+      }
+    },
+    "two_letter_list": {
+      "FI": 1,
+      "FO": 4,
+      "MI": 1,
+      "MO": 5,
+      "OM": 1,
+      "RI": 2,
+      "RO": 2,
+      "TI": 1,
+      "TO": 2,
+      "TR": 4,
+      "TY": 1
+    }
+  }
+}

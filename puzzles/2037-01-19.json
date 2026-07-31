@@ -1,0 +1,78 @@
+{
+  "pangram": "toughly",
+  "center_letter": "l",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 52,
+  "answer_pangrams": [
+    "toughly"
+  ],
+  "answers": [
+    "ghoul",
+    "glut",
+    "gull",
+    "gully",
+    "holly",
+    "holy",
+    "hotly",
+    "hull",
+    "logo",
+    "loll",
+    "loot",
+    "lotto",
+    "lout",
+    "lull",
+    "lulu",
+    "toll",
+    "tool",
+    "toughly",
+    "ugly"
+  ],
+  "date": "2037-01-19",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 5,
+      "7": 1
+    },
+    "by_first_letter": {
+      "G": 4,
+      "H": 4,
+      "L": 7,
+      "T": 3,
+      "U": 1
+    },
+    "grid": {
+      "G": {
+        "4": 2,
+        "5": 2
+      },
+      "H": {
+        "4": 2,
+        "5": 2
+      },
+      "L": {
+        "4": 6,
+        "5": 1
+      },
+      "T": {
+        "4": 2,
+        "7": 1
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "GH": 1,
+      "GL": 1,
+      "GU": 2,
+      "HO": 3,
+      "HU": 1,
+      "LO": 5,
+      "LU": 2,
+      "TO": 3,
+      "UG": 1
+    }
+  }
+}

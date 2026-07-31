@@ -1,0 +1,109 @@
+{
+  "pangram": "baloney",
+  "center_letter": "y",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 136,
+  "answer_pangrams": [
+    "baloney"
+  ],
+  "answers": [
+    "abbey",
+    "ably",
+    "allay",
+    "alley",
+    "alloy",
+    "ally",
+    "annoy",
+    "anyone",
+    "baby",
+    "baloney",
+    "banyan",
+    "belay",
+    "bellboy",
+    "belly",
+    "bobby",
+    "bony",
+    "booby",
+    "ebay",
+    "ebony",
+    "eyeball",
+    "lobby",
+    "lonely",
+    "loyal",
+    "loyally",
+    "nanny",
+    "nobly",
+    "nylon",
+    "obey",
+    "only",
+    "yell"
+  ],
+  "date": "2031-10-22",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 15,
+      "6": 3,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 8,
+      "B": 9,
+      "E": 3,
+      "L": 4,
+      "N": 3,
+      "O": 2,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 5,
+        "6": 1
+      },
+      "B": {
+        "4": 2,
+        "5": 4,
+        "6": 1,
+        "7": 2
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "L": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "5": 3
+      },
+      "O": {
+        "4": 2
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 2,
+      "AL": 4,
+      "AN": 2,
+      "BA": 3,
+      "BE": 3,
+      "BO": 3,
+      "EB": 2,
+      "EY": 1,
+      "LO": 4,
+      "NA": 1,
+      "NO": 1,
+      "NY": 1,
+      "OB": 1,
+      "ON": 1,
+      "YE": 1
+    }
+  }
+}

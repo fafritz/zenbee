@@ -1,0 +1,101 @@
+{
+  "pangram": "clunked",
+  "center_letter": "c",
+  "num_answers": 30,
+  "num_pangrams": 2,
+  "possible_points": 149,
+  "answer_pangrams": [
+    "clunked",
+    "knuckled"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "cell",
+    "cluck",
+    "clucked",
+    "clue",
+    "clued",
+    "clunk",
+    "clunked",
+    "cuddle",
+    "cuddled",
+    "cued",
+    "cull",
+    "culled",
+    "deck",
+    "decked",
+    "deckle",
+    "deduce",
+    "deduced",
+    "deuce",
+    "duck",
+    "ducked",
+    "dunce",
+    "knuckle",
+    "knuckled",
+    "luck",
+    "lucked",
+    "neck",
+    "necked",
+    "uncle"
+  ],
+  "date": "2036-09-26",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 7,
+      "6": 8,
+      "7": 5,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 14,
+      "D": 9,
+      "K": 2,
+      "L": 2,
+      "N": 2,
+      "U": 1
+    },
+    "grid": {
+      "C": {
+        "4": 5,
+        "5": 4,
+        "6": 2,
+        "7": 3
+      },
+      "D": {
+        "4": 2,
+        "5": 2,
+        "6": 4,
+        "7": 1
+      },
+      "K": {
+        "7": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 1,
+        "6": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 3,
+      "CL": 6,
+      "CU": 5,
+      "DE": 6,
+      "DU": 3,
+      "KN": 2,
+      "LU": 2,
+      "NE": 2,
+      "UN": 1
+    }
+  }
+}

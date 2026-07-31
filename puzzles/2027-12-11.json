@@ -1,0 +1,56 @@
+{
+  "pangram": "heavily",
+  "center_letter": "h",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 49,
+  "answer_pangrams": [
+    "heavily"
+  ],
+  "answers": [
+    "hail",
+    "halal",
+    "hale",
+    "hall",
+    "halve",
+    "have",
+    "heal",
+    "heave",
+    "heavily",
+    "heavy",
+    "heel",
+    "hell",
+    "hill",
+    "hilly",
+    "hive",
+    "yeah"
+  ],
+  "date": "2027-12-11",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 5,
+      "7": 1
+    },
+    "by_first_letter": {
+      "H": 15,
+      "Y": 1
+    },
+    "grid": {
+      "H": {
+        "4": 9,
+        "5": 5,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "HA": 6,
+      "HE": 6,
+      "HI": 3,
+      "YE": 1
+    }
+  }
+}

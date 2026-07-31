@@ -1,0 +1,89 @@
+{
+  "pangram": "hotlink",
+  "center_letter": "l",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 65,
+  "answer_pangrams": [
+    "hotlink"
+  ],
+  "answers": [
+    "hill",
+    "hilt",
+    "hotlink",
+    "kill",
+    "kiln",
+    "kilo",
+    "kiloton",
+    "kilt",
+    "knoll",
+    "lilt",
+    "link",
+    "lint",
+    "lion",
+    "loin",
+    "loll",
+    "look",
+    "loon",
+    "loot",
+    "lotion",
+    "lotto",
+    "olio",
+    "till",
+    "tilt",
+    "toil",
+    "toll",
+    "tool",
+    "toolkit"
+  ],
+  "date": "2026-10-14",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 2,
+      "6": 1,
+      "7": 3
+    },
+    "by_first_letter": {
+      "H": 3,
+      "K": 6,
+      "L": 11,
+      "O": 1,
+      "T": 6
+    },
+    "grid": {
+      "H": {
+        "4": 2,
+        "7": 1
+      },
+      "K": {
+        "4": 4,
+        "5": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 9,
+        "5": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "4": 5,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "HI": 2,
+      "HO": 1,
+      "KI": 5,
+      "KN": 1,
+      "LI": 4,
+      "LO": 7,
+      "OL": 1,
+      "TI": 2,
+      "TO": 4
+    }
+  }
+}

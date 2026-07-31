@@ -1,0 +1,129 @@
+{
+  "pangram": "blocked",
+  "center_letter": "l",
+  "num_answers": 54,
+  "num_pangrams": 1,
+  "possible_points": 216,
+  "answer_pangrams": [
+    "blocked"
+  ],
+  "answers": [
+    "bell",
+    "belle",
+    "belled",
+    "bled",
+    "bleed",
+    "blob",
+    "blobbed",
+    "bloc",
+    "block",
+    "blocked",
+    "blood",
+    "blooded",
+    "bobble",
+    "bobbled",
+    "bold",
+    "bole",
+    "boll",
+    "boodle",
+    "cell",
+    "cello",
+    "clock",
+    "clocked",
+    "clod",
+    "cobble",
+    "cobbled",
+    "cockle",
+    "coddle",
+    "coddled",
+    "cold",
+    "cool",
+    "cooled",
+    "deckle",
+    "dell",
+    "dole",
+    "doled",
+    "doll",
+    "dolled",
+    "doodle",
+    "doodled",
+    "keel",
+    "keeled",
+    "leek",
+    "lobbed",
+    "lobe",
+    "lobed",
+    "lock",
+    "locked",
+    "loco",
+    "lode",
+    "loll",
+    "lolled",
+    "look",
+    "looked",
+    "oleo"
+  ],
+  "date": "2030-03-29",
+  "hints": {
+    "by_length": {
+      "4": 23,
+      "5": 8,
+      "6": 15,
+      "7": 8
+    },
+    "by_first_letter": {
+      "B": 18,
+      "C": 13,
+      "D": 8,
+      "K": 2,
+      "L": 12,
+      "O": 1
+    },
+    "grid": {
+      "B": {
+        "4": 7,
+        "5": 4,
+        "6": 3,
+        "7": 4
+      },
+      "C": {
+        "4": 4,
+        "5": 2,
+        "6": 4,
+        "7": 3
+      },
+      "D": {
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 1
+      },
+      "K": {
+        "4": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 7,
+        "5": 1,
+        "6": 4
+      },
+      "O": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 3,
+      "BL": 9,
+      "BO": 6,
+      "CE": 2,
+      "CL": 3,
+      "CO": 8,
+      "DE": 2,
+      "DO": 6,
+      "KE": 2,
+      "LE": 1,
+      "LO": 11,
+      "OL": 1
+    }
+  }
+}

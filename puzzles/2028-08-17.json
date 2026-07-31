@@ -1,0 +1,97 @@
+{
+  "pangram": "cowling",
+  "center_letter": "w",
+  "num_answers": 29,
+  "num_pangrams": 2,
+  "possible_points": 166,
+  "answer_pangrams": [
+    "clowning",
+    "cowling"
+  ],
+  "answers": [
+    "clown",
+    "clowning",
+    "cowing",
+    "cowl",
+    "cowling",
+    "glow",
+    "glowing",
+    "gown",
+    "gowning",
+    "lowing",
+    "owing",
+    "owning",
+    "wigging",
+    "wiggling",
+    "wiling",
+    "will",
+    "willing",
+    "willow",
+    "wincing",
+    "wing",
+    "winging",
+    "wining",
+    "winning",
+    "winnow",
+    "winnowing",
+    "wino",
+    "wooing",
+    "wool",
+    "wowing"
+  ],
+  "date": "2028-08-17",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 2,
+      "6": 9,
+      "7": 8,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 5,
+      "G": 4,
+      "L": 1,
+      "O": 2,
+      "W": 17
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 2,
+        "7": 2
+      },
+      "L": {
+        "6": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1
+      },
+      "W": {
+        "4": 4,
+        "6": 6,
+        "7": 5,
+        "8": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 2,
+      "CO": 3,
+      "GL": 2,
+      "GO": 2,
+      "LO": 1,
+      "OW": 2,
+      "WI": 14,
+      "WO": 3
+    }
+  }
+}

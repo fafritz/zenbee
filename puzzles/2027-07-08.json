@@ -1,0 +1,82 @@
+{
+  "pangram": "polkaed",
+  "center_letter": "k",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 82,
+  "answer_pangrams": [
+    "polkaed"
+  ],
+  "answers": [
+    "eked",
+    "kale",
+    "kapok",
+    "keel",
+    "keeled",
+    "keep",
+    "kelp",
+    "koala",
+    "kook",
+    "lake",
+    "leak",
+    "leaked",
+    "leek",
+    "look",
+    "looked",
+    "peak",
+    "peaked",
+    "peek",
+    "peeked",
+    "pekoe",
+    "poke",
+    "poked",
+    "polka",
+    "polkaed"
+  ],
+  "date": "2027-07-08",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 5,
+      "6": 5,
+      "7": 1
+    },
+    "by_first_letter": {
+      "E": 1,
+      "K": 8,
+      "L": 6,
+      "P": 9
+    },
+    "grid": {
+      "E": {
+        "4": 1
+      },
+      "K": {
+        "4": 5,
+        "5": 2,
+        "6": 1
+      },
+      "L": {
+        "4": 4,
+        "6": 2
+      },
+      "P": {
+        "4": 3,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "EK": 1,
+      "KA": 2,
+      "KE": 4,
+      "KO": 2,
+      "LA": 1,
+      "LE": 3,
+      "LO": 2,
+      "PE": 5,
+      "PO": 4
+    }
+  }
+}

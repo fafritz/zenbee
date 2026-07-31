@@ -1,0 +1,67 @@
+{
+  "pangram": "harming",
+  "center_letter": "h",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 87,
+  "answer_pangrams": [
+    "harming"
+  ],
+  "answers": [
+    "gingham",
+    "hair",
+    "hammam",
+    "hamming",
+    "hang",
+    "hangar",
+    "hanging",
+    "hangman",
+    "haring",
+    "harm",
+    "harming",
+    "high",
+    "hing",
+    "hinging",
+    "hiring",
+    "maharani",
+    "nigh"
+  ],
+  "date": "2031-08-07",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "6": 4,
+      "7": 6,
+      "8": 1
+    },
+    "by_first_letter": {
+      "G": 1,
+      "H": 14,
+      "M": 1,
+      "N": 1
+    },
+    "grid": {
+      "G": {
+        "7": 1
+      },
+      "H": {
+        "4": 5,
+        "6": 4,
+        "7": 5
+      },
+      "M": {
+        "8": 1
+      },
+      "N": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 1,
+      "HA": 10,
+      "HI": 4,
+      "MA": 1,
+      "NI": 1
+    }
+  }
+}

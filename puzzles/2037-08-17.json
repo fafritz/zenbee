@@ -1,0 +1,106 @@
+{
+  "pangram": "maypole",
+  "center_letter": "m",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 131,
+  "answer_pangrams": [
+    "maypole"
+  ],
+  "answers": [
+    "ammo",
+    "ample",
+    "amply",
+    "employ",
+    "employee",
+    "lama",
+    "lame",
+    "lamely",
+    "lamp",
+    "lemma",
+    "llama",
+    "loam",
+    "loamy",
+    "loom",
+    "male",
+    "mall",
+    "mama",
+    "mamma",
+    "mammae",
+    "mammal",
+    "maple",
+    "mayo",
+    "maypole",
+    "meal",
+    "mealy",
+    "melee",
+    "meme",
+    "memo",
+    "mole",
+    "moll",
+    "momma",
+    "mommy",
+    "mope",
+    "palm",
+    "palmy",
+    "poem",
+    "pommel",
+    "pomp"
+  ],
+  "date": "2037-08-17",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 12,
+      "6": 5,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "E": 2,
+      "L": 9,
+      "M": 19,
+      "P": 5
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2
+      },
+      "E": {
+        "6": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 3,
+        "6": 1
+      },
+      "M": {
+        "4": 10,
+        "5": 6,
+        "6": 2,
+        "7": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AM": 3,
+      "EM": 2,
+      "LA": 4,
+      "LE": 1,
+      "LL": 1,
+      "LO": 3,
+      "MA": 9,
+      "ME": 5,
+      "MO": 5,
+      "PA": 2,
+      "PO": 3
+    }
+  }
+}

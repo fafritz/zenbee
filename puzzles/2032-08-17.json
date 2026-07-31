@@ -1,0 +1,112 @@
+{
+  "pangram": "crazily",
+  "center_letter": "a",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 162,
+  "answer_pangrams": [
+    "crazily"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acrylic",
+    "airily",
+    "airy",
+    "allay",
+    "ally",
+    "aria",
+    "array",
+    "call",
+    "calla",
+    "carry",
+    "carryall",
+    "cilia",
+    "circa",
+    "clay",
+    "cray",
+    "crazily",
+    "crazy",
+    "cyclical",
+    "cyclically",
+    "czar",
+    "lacy",
+    "lair",
+    "lazily",
+    "lazy",
+    "liar",
+    "lilac",
+    "lira",
+    "lyrical",
+    "lyrically",
+    "racial",
+    "racially",
+    "racily",
+    "racy",
+    "rail",
+    "rally",
+    "razz"
+  ],
+  "date": "2032-08-17",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 9,
+      "6": 5,
+      "7": 3,
+      "8": 3,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 9,
+      "C": 13,
+      "L": 9,
+      "R": 7
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "C": {
+        "4": 4,
+        "5": 5,
+        "7": 1,
+        "8": 2,
+        "10": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 1,
+        "6": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AI": 2,
+      "AL": 2,
+      "AR": 2,
+      "CA": 4,
+      "CI": 2,
+      "CL": 1,
+      "CR": 3,
+      "CY": 2,
+      "CZ": 1,
+      "LA": 4,
+      "LI": 3,
+      "LY": 2,
+      "RA": 7
+    }
+  }
+}

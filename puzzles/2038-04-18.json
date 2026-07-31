@@ -1,0 +1,91 @@
+{
+  "pangram": "ungodly",
+  "center_letter": "y",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 95,
+  "answer_pangrams": [
+    "ungodly"
+  ],
+  "answers": [
+    "dodgy",
+    "doggy",
+    "dolly",
+    "dully",
+    "duly",
+    "godly",
+    "goodly",
+    "goody",
+    "gully",
+    "gunny",
+    "loudly",
+    "noddy",
+    "nylon",
+    "oddly",
+    "only",
+    "ugly",
+    "unduly",
+    "ungodly",
+    "young"
+  ],
+  "date": "2038-04-18",
+  "hints": {
+    "by_length": {
+      "4": 3,
+      "5": 12,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "D": 5,
+      "G": 5,
+      "L": 1,
+      "N": 2,
+      "O": 2,
+      "U": 3,
+      "Y": 1
+    },
+    "grid": {
+      "D": {
+        "4": 1,
+        "5": 4
+      },
+      "G": {
+        "5": 4,
+        "6": 1
+      },
+      "L": {
+        "6": 1
+      },
+      "N": {
+        "5": 2
+      },
+      "O": {
+        "4": 1,
+        "5": 1
+      },
+      "U": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 3,
+      "DU": 2,
+      "GO": 3,
+      "GU": 2,
+      "LO": 1,
+      "NO": 1,
+      "NY": 1,
+      "OD": 1,
+      "ON": 1,
+      "UG": 1,
+      "UN": 2,
+      "YO": 1
+    }
+  }
+}

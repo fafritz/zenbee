@@ -1,0 +1,133 @@
+{
+  "pangram": "machine",
+  "center_letter": "c",
+  "num_answers": 46,
+  "num_pangrams": 2,
+  "possible_points": 217,
+  "answer_pangrams": [
+    "machine",
+    "mechanic"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "ache",
+    "acme",
+    "acne",
+    "anemic",
+    "cache",
+    "came",
+    "cancan",
+    "cane",
+    "canine",
+    "canna",
+    "chain",
+    "chance",
+    "chem",
+    "chic",
+    "chime",
+    "chin",
+    "china",
+    "cinch",
+    "cinema",
+    "each",
+    "emcee",
+    "eminence",
+    "enhance",
+    "hence",
+    "henchman",
+    "henchmen",
+    "immanence",
+    "imminence",
+    "inch",
+    "mace",
+    "machine",
+    "maniac",
+    "manic",
+    "mecca",
+    "mechanic",
+    "menace",
+    "mica",
+    "mice",
+    "mimic",
+    "mince",
+    "niacin",
+    "nice",
+    "niche",
+    "niece"
+  ],
+  "date": "2036-02-29",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 14,
+      "6": 9,
+      "7": 2,
+      "8": 4,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 15,
+      "E": 4,
+      "H": 3,
+      "I": 3,
+      "M": 11,
+      "N": 4
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "6": 2
+      },
+      "C": {
+        "4": 5,
+        "5": 6,
+        "6": 4
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "H": {
+        "5": 1,
+        "8": 2
+      },
+      "I": {
+        "4": 1,
+        "9": 2
+      },
+      "M": {
+        "4": 3,
+        "5": 4,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 5,
+      "AN": 1,
+      "CA": 6,
+      "CH": 7,
+      "CI": 2,
+      "EA": 1,
+      "EM": 2,
+      "EN": 1,
+      "HE": 3,
+      "IM": 2,
+      "IN": 1,
+      "MA": 4,
+      "ME": 3,
+      "MI": 4,
+      "NI": 4
+    }
+  }
+}

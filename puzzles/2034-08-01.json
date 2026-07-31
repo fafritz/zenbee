@@ -1,0 +1,82 @@
+{
+  "pangram": "upfront",
+  "center_letter": "f",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 70,
+  "answer_pangrams": [
+    "upfront"
+  ],
+  "answers": [
+    "font",
+    "foot",
+    "fort",
+    "fount",
+    "four",
+    "front",
+    "furor",
+    "futon",
+    "prof",
+    "proof",
+    "puff",
+    "roof",
+    "rooftop",
+    "ruff",
+    "runoff",
+    "tofu",
+    "tuft",
+    "turf",
+    "turnoff",
+    "upfront"
+  ],
+  "date": "2034-08-01",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 5,
+      "6": 1,
+      "7": 3
+    },
+    "by_first_letter": {
+      "F": 8,
+      "P": 3,
+      "R": 4,
+      "T": 4,
+      "U": 1
+    },
+    "grid": {
+      "F": {
+        "4": 4,
+        "5": 4
+      },
+      "P": {
+        "4": 2,
+        "5": 1
+      },
+      "R": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 3,
+        "7": 1
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "FO": 5,
+      "FR": 1,
+      "FU": 2,
+      "PR": 2,
+      "PU": 1,
+      "RO": 2,
+      "RU": 2,
+      "TO": 1,
+      "TU": 3,
+      "UP": 1
+    }
+  }
+}

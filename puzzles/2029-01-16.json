@@ -1,0 +1,97 @@
+{
+  "pangram": "changed",
+  "center_letter": "h",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 148,
+  "answer_pangrams": [
+    "changed"
+  ],
+  "answers": [
+    "ache",
+    "ached",
+    "ahead",
+    "cache",
+    "cached",
+    "chad",
+    "chance",
+    "chanced",
+    "change",
+    "changed",
+    "dacha",
+    "each",
+    "egghead",
+    "enhance",
+    "enhanced",
+    "hand",
+    "handed",
+    "hang",
+    "hanged",
+    "head",
+    "headache",
+    "headed",
+    "hedge",
+    "hedged",
+    "heed",
+    "heeded",
+    "hence",
+    "henna",
+    "hennaed"
+  ],
+  "date": "2029-01-16",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 7,
+      "6": 8,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 7,
+      "D": 1,
+      "E": 4,
+      "H": 14
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2
+      },
+      "C": {
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 2
+      },
+      "D": {
+        "5": 1
+      },
+      "E": {
+        "4": 1,
+        "7": 2,
+        "8": 1
+      },
+      "H": {
+        "4": 4,
+        "5": 3,
+        "6": 5,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AH": 1,
+      "CA": 2,
+      "CH": 5,
+      "DA": 1,
+      "EA": 1,
+      "EG": 1,
+      "EN": 2,
+      "HA": 4,
+      "HE": 10
+    }
+  }
+}

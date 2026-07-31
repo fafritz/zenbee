@@ -1,0 +1,138 @@
+{
+  "pangram": "quoting",
+  "center_letter": "i",
+  "num_answers": 46,
+  "num_pangrams": 3,
+  "possible_points": 314,
+  "answer_pangrams": [
+    "quoiting",
+    "quoting",
+    "unquoting"
+  ],
+  "answers": [
+    "gigging",
+    "ginning",
+    "going",
+    "gonging",
+    "gouging",
+    "gunning",
+    "gutting",
+    "igniting",
+    "ignition",
+    "ingot",
+    "inning",
+    "into",
+    "intoning",
+    "intuit",
+    "intuiting",
+    "intuition",
+    "noggin",
+    "nonunion",
+    "noting",
+    "notion",
+    "nutting",
+    "ongoing",
+    "onion",
+    "outgoing",
+    "outing",
+    "quit",
+    "quitting",
+    "quoit",
+    "quoiting",
+    "quoting",
+    "tinning",
+    "tint",
+    "tinting",
+    "tonguing",
+    "toning",
+    "tooting",
+    "toting",
+    "totting",
+    "touting",
+    "tugging",
+    "tuition",
+    "tuning",
+    "union",
+    "unit",
+    "uniting",
+    "unquoting"
+  ],
+  "date": "2029-11-08",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 5,
+      "6": 9,
+      "7": 17,
+      "8": 8,
+      "9": 3
+    },
+    "by_first_letter": {
+      "G": 7,
+      "I": 9,
+      "N": 5,
+      "O": 4,
+      "Q": 5,
+      "T": 12,
+      "U": 4
+    },
+    "grid": {
+      "G": {
+        "5": 1,
+        "7": 6
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "8": 3,
+        "9": 2
+      },
+      "N": {
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "Q": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 2
+      },
+      "T": {
+        "4": 1,
+        "6": 3,
+        "7": 7,
+        "8": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 2,
+      "GO": 3,
+      "GU": 2,
+      "IG": 2,
+      "IN": 7,
+      "NO": 4,
+      "NU": 1,
+      "ON": 2,
+      "OU": 2,
+      "QU": 5,
+      "TI": 3,
+      "TO": 6,
+      "TU": 3,
+      "UN": 4
+    }
+  }
+}

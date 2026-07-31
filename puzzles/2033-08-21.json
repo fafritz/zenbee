@@ -1,0 +1,134 @@
+{
+  "pangram": "pyramid",
+  "center_letter": "a",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 191,
+  "answer_pangrams": [
+    "pyramid"
+  ],
+  "answers": [
+    "airy",
+    "amid",
+    "apiary",
+    "aria",
+    "arid",
+    "armada",
+    "army",
+    "array",
+    "daddy",
+    "dairy",
+    "damp",
+    "diary",
+    "dram",
+    "drama",
+    "dray",
+    "dryad",
+    "imam",
+    "impair",
+    "ipad",
+    "madam",
+    "maid",
+    "maim",
+    "mama",
+    "mamma",
+    "mammary",
+    "maria",
+    "marry",
+    "mayday",
+    "midair",
+    "midday",
+    "myriad",
+    "paddy",
+    "paid",
+    "pair",
+    "papa",
+    "papaya",
+    "papyri",
+    "parry",
+    "payday",
+    "pram",
+    "pray",
+    "primary",
+    "pyramid",
+    "radar",
+    "radii",
+    "raid",
+    "ramp",
+    "rapid",
+    "yard",
+    "yardarm"
+  ],
+  "date": "2033-08-21",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 15,
+      "6": 10,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 8,
+      "D": 8,
+      "I": 3,
+      "M": 12,
+      "P": 12,
+      "R": 5,
+      "Y": 2
+    },
+    "grid": {
+      "A": {
+        "4": 5,
+        "5": 1,
+        "6": 2
+      },
+      "D": {
+        "4": 3,
+        "5": 5
+      },
+      "I": {
+        "4": 2,
+        "6": 1
+      },
+      "M": {
+        "4": 3,
+        "5": 4,
+        "6": 4,
+        "7": 1
+      },
+      "P": {
+        "4": 5,
+        "5": 2,
+        "6": 3,
+        "7": 2
+      },
+      "R": {
+        "4": 2,
+        "5": 3
+      },
+      "Y": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AM": 1,
+      "AP": 1,
+      "AR": 5,
+      "DA": 3,
+      "DI": 1,
+      "DR": 4,
+      "IM": 2,
+      "IP": 1,
+      "MA": 9,
+      "MI": 2,
+      "MY": 1,
+      "PA": 8,
+      "PR": 3,
+      "PY": 1,
+      "RA": 5,
+      "YA": 2
+    }
+  }
+}

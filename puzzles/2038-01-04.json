@@ -1,0 +1,100 @@
+{
+  "pangram": "halibut",
+  "center_letter": "l",
+  "num_answers": 32,
+  "num_pangrams": 2,
+  "possible_points": 80,
+  "answer_pangrams": [
+    "habitual",
+    "halibut"
+  ],
+  "answers": [
+    "alibi",
+    "bail",
+    "ball",
+    "bill",
+    "blab",
+    "blah",
+    "blat",
+    "built",
+    "bulb",
+    "bull",
+    "habitual",
+    "hail",
+    "halal",
+    "halibut",
+    "hall",
+    "halt",
+    "haul",
+    "hill",
+    "hilt",
+    "hula",
+    "hull",
+    "labia",
+    "labial",
+    "lath",
+    "lilt",
+    "luau",
+    "lull",
+    "lulu",
+    "tail",
+    "tall",
+    "till",
+    "tilt"
+  ],
+  "date": "2038-01-04",
+  "hints": {
+    "by_length": {
+      "4": 25,
+      "5": 4,
+      "6": 1,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 9,
+      "H": 11,
+      "L": 7,
+      "T": 4
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "B": {
+        "4": 8,
+        "5": 1
+      },
+      "H": {
+        "4": 8,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 4
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "BA": 2,
+      "BI": 1,
+      "BL": 3,
+      "BU": 3,
+      "HA": 7,
+      "HI": 2,
+      "HU": 2,
+      "LA": 3,
+      "LI": 1,
+      "LU": 3,
+      "TA": 2,
+      "TI": 2
+    }
+  }
+}

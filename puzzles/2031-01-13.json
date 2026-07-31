@@ -1,0 +1,88 @@
+{
+  "pangram": "bumping",
+  "center_letter": "p",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 154,
+  "answer_pangrams": [
+    "bumping"
+  ],
+  "answers": [
+    "bump",
+    "bumping",
+    "impinging",
+    "impugn",
+    "impugning",
+    "nipping",
+    "pigging",
+    "pimp",
+    "pimping",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "pinup",
+    "piping",
+    "pippin",
+    "pipping",
+    "pump",
+    "pumping",
+    "punning",
+    "pupping",
+    "umping",
+    "unpin",
+    "unpinning",
+    "upping"
+  ],
+  "date": "2031-01-13",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 2,
+      "6": 6,
+      "7": 10,
+      "9": 3
+    },
+    "by_first_letter": {
+      "B": 2,
+      "I": 3,
+      "N": 1,
+      "P": 15,
+      "U": 4
+    },
+    "grid": {
+      "B": {
+        "4": 1,
+        "7": 1
+      },
+      "I": {
+        "6": 1,
+        "9": 2
+      },
+      "N": {
+        "7": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 8
+      },
+      "U": {
+        "5": 1,
+        "6": 2,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "BU": 2,
+      "IM": 3,
+      "NI": 1,
+      "PI": 11,
+      "PU": 4,
+      "UM": 1,
+      "UN": 2,
+      "UP": 1
+    }
+  }
+}

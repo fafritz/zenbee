@@ -1,0 +1,98 @@
+{
+  "pangram": "warping",
+  "center_letter": "w",
+  "num_answers": 32,
+  "num_pangrams": 3,
+  "possible_points": 199,
+  "answer_pangrams": [
+    "prawning",
+    "warping",
+    "wrapping"
+  ],
+  "answers": [
+    "awing",
+    "awning",
+    "gnaw",
+    "gnawing",
+    "pawing",
+    "pawn",
+    "pawning",
+    "pawpaw",
+    "prawn",
+    "prawning",
+    "pwning",
+    "wagging",
+    "waging",
+    "waning",
+    "warn",
+    "warning",
+    "warp",
+    "warping",
+    "warring",
+    "wigging",
+    "wigwag",
+    "wigwagging",
+    "wing",
+    "winging",
+    "wining",
+    "winning",
+    "wiping",
+    "wiring",
+    "wrap",
+    "wrapping",
+    "wring",
+    "wringing"
+  ],
+  "date": "2029-02-09",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 3,
+      "6": 10,
+      "7": 9,
+      "8": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "G": 2,
+      "P": 7,
+      "W": 21
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1
+      },
+      "G": {
+        "4": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "W": {
+        "4": 4,
+        "5": 1,
+        "6": 6,
+        "7": 7,
+        "8": 2,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AW": 2,
+      "GN": 2,
+      "PA": 4,
+      "PR": 2,
+      "PW": 1,
+      "WA": 8,
+      "WI": 9,
+      "WR": 4
+    }
+  }
+}

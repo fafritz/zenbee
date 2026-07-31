@@ -1,0 +1,124 @@
+{
+  "pangram": "lambing",
+  "center_letter": "b",
+  "num_answers": 40,
+  "num_pangrams": 4,
+  "possible_points": 234,
+  "answer_pangrams": [
+    "ambling",
+    "blaming",
+    "gambling",
+    "lambing"
+  ],
+  "answers": [
+    "alibi",
+    "alibiing",
+    "ambling",
+    "baaing",
+    "baba",
+    "babbling",
+    "bagging",
+    "bail",
+    "bailing",
+    "baling",
+    "ball",
+    "balling",
+    "balm",
+    "banal",
+    "banana",
+    "bang",
+    "banging",
+    "banning",
+    "bill",
+    "billing",
+    "binning",
+    "blab",
+    "blabbing",
+    "blaming",
+    "bling",
+    "gabbing",
+    "gabbling",
+    "gambling",
+    "gibing",
+    "glib",
+    "iamb",
+    "imbibing",
+    "labia",
+    "labial",
+    "lamb",
+    "lambing",
+    "limb",
+    "nabbing",
+    "nibbling",
+    "nimbi"
+  ],
+  "date": "2038-06-15",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 5,
+      "6": 5,
+      "7": 12,
+      "8": 7
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 22,
+      "G": 5,
+      "I": 2,
+      "L": 5,
+      "N": 3
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "B": {
+        "4": 7,
+        "5": 2,
+        "6": 3,
+        "7": 8,
+        "8": 2
+      },
+      "G": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "8": 2
+      },
+      "I": {
+        "4": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "5": 1,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "AM": 1,
+      "BA": 15,
+      "BI": 3,
+      "BL": 4,
+      "GA": 3,
+      "GI": 1,
+      "GL": 1,
+      "IA": 1,
+      "IM": 1,
+      "LA": 4,
+      "LI": 1,
+      "NA": 1,
+      "NI": 2
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "pangram": "halving",
+  "center_letter": "l",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 212,
+  "answer_pangrams": [
+    "halving"
+  ],
+  "answers": [
+    "ailing",
+    "alga",
+    "align",
+    "aligning",
+    "anal",
+    "angling",
+    "anvil",
+    "avail",
+    "availing",
+    "gala",
+    "gall",
+    "galling",
+    "ganglia",
+    "gangling",
+    "giggling",
+    "gill",
+    "haggling",
+    "hail",
+    "hailing",
+    "halal",
+    "haling",
+    "hall",
+    "halving",
+    "hangnail",
+    "hill",
+    "inhaling",
+    "lagging",
+    "lain",
+    "lava",
+    "lining",
+    "living",
+    "nail",
+    "nailing",
+    "naval",
+    "niggling",
+    "valving",
+    "vanilla",
+    "vial",
+    "vigil",
+    "villa",
+    "villain"
+  ],
+  "date": "2034-12-23",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 7,
+      "6": 4,
+      "7": 10,
+      "8": 8
+    },
+    "by_first_letter": {
+      "A": 9,
+      "G": 7,
+      "H": 9,
+      "I": 1,
+      "L": 5,
+      "N": 4,
+      "V": 6
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "6": 1,
+        "7": 1,
+        "8": 2
+      },
+      "G": {
+        "4": 3,
+        "7": 2,
+        "8": 2
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 2
+      },
+      "I": {
+        "8": 1
+      },
+      "L": {
+        "4": 2,
+        "6": 2,
+        "7": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "V": {
+        "4": 1,
+        "5": 2,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AL": 3,
+      "AN": 3,
+      "AV": 2,
+      "GA": 5,
+      "GI": 2,
+      "HA": 8,
+      "HI": 1,
+      "IN": 1,
+      "LA": 3,
+      "LI": 2,
+      "NA": 3,
+      "NI": 1,
+      "VA": 2,
+      "VI": 4
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "pangram": "potable",
+  "center_letter": "b",
+  "num_answers": 54,
+  "num_pangrams": 1,
+  "possible_points": 197,
+  "answer_pangrams": [
+    "potable"
+  ],
+  "answers": [
+    "abate",
+    "abbe",
+    "abbot",
+    "abet",
+    "able",
+    "baba",
+    "babble",
+    "babe",
+    "babel",
+    "bale",
+    "ball",
+    "ballet",
+    "ballot",
+    "baobab",
+    "battle",
+    "beat",
+    "bebop",
+    "beep",
+    "beet",
+    "beetle",
+    "bell",
+    "belle",
+    "belt",
+    "beta",
+    "blab",
+    "blat",
+    "bleat",
+    "bleep",
+    "bloat",
+    "blob",
+    "blot",
+    "boat",
+    "bobble",
+    "bola",
+    "bole",
+    "boll",
+    "bolt",
+    "boob",
+    "booboo",
+    "boot",
+    "bootee",
+    "bottle",
+    "eatable",
+    "label",
+    "lobe",
+    "oblate",
+    "oboe",
+    "palatable",
+    "palpable",
+    "pebble",
+    "potable",
+    "table",
+    "tablet",
+    "taboo"
+  ],
+  "date": "2037-01-10",
+  "hints": {
+    "by_length": {
+      "4": 26,
+      "5": 11,
+      "6": 13,
+      "7": 2,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 37,
+      "E": 1,
+      "L": 2,
+      "O": 2,
+      "P": 4,
+      "T": 3
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2
+      },
+      "B": {
+        "4": 21,
+        "5": 6,
+        "6": 10
+      },
+      "E": {
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 1
+      },
+      "P": {
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "T": {
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 5,
+      "BA": 10,
+      "BE": 9,
+      "BL": 7,
+      "BO": 11,
+      "EA": 1,
+      "LA": 1,
+      "LO": 1,
+      "OB": 2,
+      "PA": 2,
+      "PE": 1,
+      "PO": 1,
+      "TA": 3
+    }
+  }
+}

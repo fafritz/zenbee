@@ -1,0 +1,117 @@
+{
+  "pangram": "godlike",
+  "center_letter": "o",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 172,
+  "answer_pangrams": [
+    "godlike"
+  ],
+  "answers": [
+    "diode",
+    "dodge",
+    "dodged",
+    "dodo",
+    "dogged",
+    "dogie",
+    "dole",
+    "doled",
+    "doll",
+    "dolled",
+    "doodle",
+    "doodled",
+    "geode",
+    "gigolo",
+    "godlike",
+    "goggle",
+    "goggled",
+    "gold",
+    "good",
+    "google",
+    "googled",
+    "idol",
+    "igloo",
+    "kiddo",
+    "kilo",
+    "kook",
+    "lode",
+    "lodge",
+    "lodged",
+    "loge",
+    "logged",
+    "logo",
+    "loll",
+    "lolled",
+    "look",
+    "looked",
+    "ogle",
+    "ogled",
+    "oiled",
+    "oldie",
+    "oleo",
+    "olio"
+  ],
+  "date": "2034-03-07",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 11,
+      "6": 11,
+      "7": 4
+    },
+    "by_first_letter": {
+      "D": 12,
+      "G": 9,
+      "I": 2,
+      "K": 3,
+      "L": 10,
+      "O": 6
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "5": 4,
+        "6": 4,
+        "7": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "K": {
+        "4": 2,
+        "5": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 1,
+        "6": 4
+      },
+      "O": {
+        "4": 3,
+        "5": 3
+      }
+    },
+    "two_letter_list": {
+      "DI": 1,
+      "DO": 11,
+      "GE": 1,
+      "GI": 1,
+      "GO": 7,
+      "ID": 1,
+      "IG": 1,
+      "KI": 2,
+      "KO": 1,
+      "LO": 10,
+      "OG": 2,
+      "OI": 1,
+      "OL": 3
+    }
+  }
+}

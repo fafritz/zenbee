@@ -1,0 +1,115 @@
+{
+  "pangram": "clangor",
+  "center_letter": "l",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 144,
+  "answer_pangrams": [
+    "clangor"
+  ],
+  "answers": [
+    "alga",
+    "along",
+    "anal",
+    "analog",
+    "call",
+    "calla",
+    "canal",
+    "carnal",
+    "carol",
+    "clan",
+    "clang",
+    "clangor",
+    "clog",
+    "coal",
+    "cola",
+    "collar",
+    "colon",
+    "color",
+    "cool",
+    "coral",
+    "corolla",
+    "corral",
+    "gala",
+    "gall",
+    "gallon",
+    "goal",
+    "granola",
+    "lagoon",
+    "largo",
+    "llano",
+    "loan",
+    "local",
+    "loco",
+    "logo",
+    "loll",
+    "long",
+    "loon",
+    "oral",
+    "raglan",
+    "roll"
+  ],
+  "date": "2028-01-14",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 11,
+      "6": 7,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 18,
+      "G": 5,
+      "L": 10,
+      "O": 1,
+      "R": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "C": {
+        "4": 6,
+        "5": 7,
+        "6": 3,
+        "7": 2
+      },
+      "G": {
+        "4": 3,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 6,
+        "5": 3,
+        "6": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "R": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "AN": 2,
+      "CA": 5,
+      "CL": 4,
+      "CO": 9,
+      "GA": 3,
+      "GO": 1,
+      "GR": 1,
+      "LA": 2,
+      "LL": 1,
+      "LO": 7,
+      "OR": 1,
+      "RA": 1,
+      "RO": 1
+    }
+  }
+}

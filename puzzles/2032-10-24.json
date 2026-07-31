@@ -1,0 +1,75 @@
+{
+  "pangram": "jawbone",
+  "center_letter": "a",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 53,
+  "answer_pangrams": [
+    "jawbone"
+  ],
+  "answers": [
+    "abbe",
+    "anew",
+    "anon",
+    "baba",
+    "babe",
+    "baboon",
+    "banana",
+    "bane",
+    "banjo",
+    "baobab",
+    "bean",
+    "jawbone",
+    "naan",
+    "nabob",
+    "nana",
+    "wane",
+    "wean"
+  ],
+  "date": "2032-10-24",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 2,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 8,
+      "J": 1,
+      "N": 3,
+      "W": 2
+    },
+    "grid": {
+      "A": {
+        "4": 3
+      },
+      "B": {
+        "4": 4,
+        "5": 1,
+        "6": 3
+      },
+      "J": {
+        "7": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 1
+      },
+      "W": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AN": 2,
+      "BA": 7,
+      "BE": 1,
+      "JA": 1,
+      "NA": 3,
+      "WA": 1,
+      "WE": 1
+    }
+  }
+}

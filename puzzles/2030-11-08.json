@@ -1,0 +1,98 @@
+{
+  "pangram": "potluck",
+  "center_letter": "u",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 120,
+  "answer_pangrams": [
+    "potluck"
+  ],
+  "answers": [
+    "clout",
+    "cluck",
+    "cookout",
+    "coup",
+    "cuckoo",
+    "cull",
+    "cult",
+    "cutout",
+    "cutup",
+    "lockout",
+    "lockup",
+    "lookout",
+    "lookup",
+    "lout",
+    "luck",
+    "lull",
+    "lulu",
+    "occult",
+    "outlook",
+    "output",
+    "pluck",
+    "potluck",
+    "pout",
+    "puck",
+    "pull",
+    "pullout",
+    "pulp",
+    "putt",
+    "tout",
+    "tuck",
+    "tutu"
+  ],
+  "date": "2030-11-08",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 4,
+      "6": 6,
+      "7": 6
+    },
+    "by_first_letter": {
+      "C": 9,
+      "L": 8,
+      "O": 3,
+      "P": 8,
+      "T": 3
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 4,
+        "6": 2,
+        "7": 2
+      },
+      "O": {
+        "6": 2,
+        "7": 1
+      },
+      "P": {
+        "4": 5,
+        "5": 1,
+        "7": 2
+      },
+      "T": {
+        "4": 3
+      }
+    },
+    "two_letter_list": {
+      "CL": 2,
+      "CO": 2,
+      "CU": 5,
+      "LO": 5,
+      "LU": 3,
+      "OC": 1,
+      "OU": 2,
+      "PL": 1,
+      "PO": 2,
+      "PU": 5,
+      "TO": 1,
+      "TU": 2
+    }
+  }
+}

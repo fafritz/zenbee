@@ -1,0 +1,75 @@
+{
+  "pangram": "rubdown",
+  "center_letter": "b",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 92,
+  "answer_pangrams": [
+    "rubdown"
+  ],
+  "answers": [
+    "bonbon",
+    "bond",
+    "boob",
+    "booboo",
+    "boon",
+    "boor",
+    "born",
+    "boron",
+    "borrow",
+    "bound",
+    "bourbon",
+    "brood",
+    "brow",
+    "brown",
+    "burn",
+    "burr",
+    "burro",
+    "burrow",
+    "drub",
+    "rubdown",
+    "unborn",
+    "unbound"
+  ],
+  "date": "2028-08-08",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 5,
+      "6": 5,
+      "7": 3
+    },
+    "by_first_letter": {
+      "B": 18,
+      "D": 1,
+      "R": 1,
+      "U": 2
+    },
+    "grid": {
+      "B": {
+        "4": 8,
+        "5": 5,
+        "6": 4,
+        "7": 1
+      },
+      "D": {
+        "4": 1
+      },
+      "R": {
+        "7": 1
+      },
+      "U": {
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "BO": 11,
+      "BR": 3,
+      "BU": 4,
+      "DR": 1,
+      "RU": 1,
+      "UN": 2
+    }
+  }
+}

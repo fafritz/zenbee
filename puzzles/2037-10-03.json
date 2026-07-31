@@ -1,0 +1,134 @@
+{
+  "pangram": "heaving",
+  "center_letter": "e",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 197,
+  "answer_pangrams": [
+    "heaving"
+  ],
+  "answers": [
+    "agave",
+    "avenge",
+    "avenging",
+    "egging",
+    "engage",
+    "engaging",
+    "engine",
+    "even",
+    "evening",
+    "gave",
+    "geeing",
+    "gene",
+    "genie",
+    "genii",
+    "give",
+    "given",
+    "have",
+    "haven",
+    "heave",
+    "heaven",
+    "heaving",
+    "henna",
+    "hennaing",
+    "hieing",
+    "hinge",
+    "hive",
+    "inane",
+    "inveigh",
+    "inveighing",
+    "naive",
+    "nave",
+    "neigh",
+    "neighing",
+    "nene",
+    "nine",
+    "vane",
+    "vegan",
+    "veggie",
+    "vein",
+    "veining",
+    "vine"
+  ],
+  "date": "2037-10-03",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 12,
+      "6": 8,
+      "7": 4,
+      "8": 4,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "E": 6,
+      "G": 7,
+      "H": 10,
+      "I": 3,
+      "N": 6,
+      "V": 6
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "E": {
+        "4": 1,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 3,
+        "6": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 4,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "I": {
+        "5": 1,
+        "7": 1,
+        "10": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 2,
+        "8": 1
+      },
+      "V": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AV": 2,
+      "EG": 1,
+      "EN": 3,
+      "EV": 2,
+      "GA": 1,
+      "GE": 4,
+      "GI": 2,
+      "HA": 2,
+      "HE": 5,
+      "HI": 3,
+      "IN": 3,
+      "NA": 2,
+      "NE": 3,
+      "NI": 1,
+      "VA": 1,
+      "VE": 4,
+      "VI": 1
+    }
+  }
+}

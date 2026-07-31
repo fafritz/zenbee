@@ -1,0 +1,118 @@
+{
+  "pangram": "payment",
+  "center_letter": "n",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 156,
+  "answer_pangrams": [
+    "payment"
+  ],
+  "answers": [
+    "amen",
+    "ante",
+    "antenna",
+    "antennae",
+    "eaten",
+    "emanate",
+    "enema",
+    "enemy",
+    "entente",
+    "manatee",
+    "mane",
+    "manna",
+    "many",
+    "mean",
+    "meant",
+    "myna",
+    "naan",
+    "name",
+    "nana",
+    "nanny",
+    "nape",
+    "nappy",
+    "natty",
+    "neap",
+    "neat",
+    "nene",
+    "paean",
+    "pane",
+    "pant",
+    "patent",
+    "payment",
+    "peen",
+    "pennant",
+    "penny",
+    "pent",
+    "teen",
+    "teeny",
+    "tenant",
+    "tenement",
+    "tenet",
+    "tent"
+  ],
+  "date": "2031-02-02",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 12,
+      "6": 2,
+      "7": 6,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 4,
+      "E": 5,
+      "M": 7,
+      "N": 10,
+      "P": 9,
+      "T": 6
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "5": 3,
+        "7": 2
+      },
+      "M": {
+        "4": 4,
+        "5": 2,
+        "7": 1
+      },
+      "N": {
+        "4": 7,
+        "5": 3
+      },
+      "P": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "T": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AM": 1,
+      "AN": 3,
+      "EA": 1,
+      "EM": 1,
+      "EN": 3,
+      "MA": 4,
+      "ME": 2,
+      "MY": 1,
+      "NA": 7,
+      "NE": 3,
+      "PA": 5,
+      "PE": 4,
+      "TE": 6
+    }
+  }
+}

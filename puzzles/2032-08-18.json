@@ -1,0 +1,110 @@
+{
+  "pangram": "evoking",
+  "center_letter": "e",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 124,
+  "answer_pangrams": [
+    "evoking"
+  ],
+  "answers": [
+    "egging",
+    "eggnog",
+    "eking",
+    "engine",
+    "even",
+    "evening",
+    "evoke",
+    "evoking",
+    "geeing",
+    "geek",
+    "gene",
+    "genie",
+    "genii",
+    "give",
+    "given",
+    "gone",
+    "invoke",
+    "keen",
+    "keening",
+    "kenning",
+    "knee",
+    "kneeing",
+    "nene",
+    "neon",
+    "nine",
+    "none",
+    "oven",
+    "veggie",
+    "vein",
+    "veining",
+    "vine"
+  ],
+  "date": "2032-08-18",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 5,
+      "6": 6,
+      "7": 6
+    },
+    "by_first_letter": {
+      "E": 8,
+      "G": 8,
+      "I": 1,
+      "K": 5,
+      "N": 4,
+      "O": 1,
+      "V": 4
+    },
+    "grid": {
+      "E": {
+        "4": 1,
+        "5": 2,
+        "6": 3,
+        "7": 2
+      },
+      "G": {
+        "4": 4,
+        "5": 3,
+        "6": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "K": {
+        "4": 2,
+        "7": 3
+      },
+      "N": {
+        "4": 4
+      },
+      "O": {
+        "4": 1
+      },
+      "V": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "EG": 2,
+      "EK": 1,
+      "EN": 1,
+      "EV": 4,
+      "GE": 5,
+      "GI": 2,
+      "GO": 1,
+      "IN": 1,
+      "KE": 3,
+      "KN": 2,
+      "NE": 2,
+      "NI": 1,
+      "NO": 1,
+      "OV": 1,
+      "VE": 3,
+      "VI": 1
+    }
+  }
+}

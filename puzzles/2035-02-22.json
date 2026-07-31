@@ -1,0 +1,127 @@
+{
+  "pangram": "chafing",
+  "center_letter": "g",
+  "num_answers": 41,
+  "num_pangrams": 2,
+  "possible_points": 245,
+  "answer_pangrams": [
+    "chaffing",
+    "chafing"
+  ],
+  "answers": [
+    "aching",
+    "acing",
+    "afghan",
+    "again",
+    "aging",
+    "angina",
+    "caching",
+    "caging",
+    "caning",
+    "canning",
+    "chaffing",
+    "chafing",
+    "chaining",
+    "chancing",
+    "changing",
+    "chinning",
+    "cinching",
+    "facing",
+    "fang",
+    "fanning",
+    "financing",
+    "fining",
+    "gaff",
+    "gaffing",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "gigging",
+    "ginning",
+    "hang",
+    "hanging",
+    "high",
+    "hing",
+    "hinging",
+    "icing",
+    "inching",
+    "inning",
+    "nagging",
+    "nigh"
+  ],
+  "date": "2035-02-22",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 4,
+      "6": 8,
+      "7": 14,
+      "8": 6,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 11,
+      "F": 5,
+      "G": 9,
+      "H": 5,
+      "I": 3,
+      "N": 2
+    },
+    "grid": {
+      "A": {
+        "5": 3,
+        "6": 3
+      },
+      "C": {
+        "6": 2,
+        "7": 3,
+        "8": 6
+      },
+      "F": {
+        "4": 1,
+        "6": 2,
+        "7": 1,
+        "9": 1
+      },
+      "G": {
+        "4": 3,
+        "7": 6
+      },
+      "H": {
+        "4": 3,
+        "7": 2
+      },
+      "I": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AF": 1,
+      "AG": 2,
+      "AN": 1,
+      "CA": 4,
+      "CH": 6,
+      "CI": 1,
+      "FA": 3,
+      "FI": 2,
+      "GA": 7,
+      "GI": 2,
+      "HA": 2,
+      "HI": 3,
+      "IC": 1,
+      "IN": 2,
+      "NA": 1,
+      "NI": 1
+    }
+  }
+}

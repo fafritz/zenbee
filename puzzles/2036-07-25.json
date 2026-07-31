@@ -1,0 +1,112 @@
+{
+  "pangram": "optimal",
+  "center_letter": "p",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 130,
+  "answer_pangrams": [
+    "optimal"
+  ],
+  "answers": [
+    "appall",
+    "atop",
+    "impala",
+    "lamp",
+    "laptop",
+    "limp",
+    "lollipop",
+    "loop",
+    "opal",
+    "optima",
+    "optimal",
+    "pail",
+    "palatal",
+    "palatial",
+    "pall",
+    "palm",
+    "papa",
+    "papal",
+    "papilla",
+    "patio",
+    "pill",
+    "pilot",
+    "pimp",
+    "pipit",
+    "pita",
+    "plait",
+    "plop",
+    "plot",
+    "polio",
+    "poll",
+    "polo",
+    "pomp",
+    "pool",
+    "poop",
+    "potato",
+    "tamp",
+    "tiptop"
+  ],
+  "date": "2036-07-25",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 6,
+      "6": 6,
+      "7": 3,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "I": 1,
+      "L": 5,
+      "O": 3,
+      "P": 24,
+      "T": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "L": {
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 14,
+        "5": 6,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "T": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AP": 1,
+      "AT": 1,
+      "IM": 1,
+      "LA": 2,
+      "LI": 1,
+      "LO": 2,
+      "OP": 3,
+      "PA": 9,
+      "PI": 5,
+      "PL": 3,
+      "PO": 7,
+      "TA": 1,
+      "TI": 1
+    }
+  }
+}

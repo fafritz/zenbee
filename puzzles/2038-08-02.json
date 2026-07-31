@@ -1,0 +1,111 @@
+{
+  "pangram": "charity",
+  "center_letter": "h",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 145,
+  "answer_pangrams": [
+    "charity"
+  ],
+  "answers": [
+    "achy",
+    "arch",
+    "archaic",
+    "arthritic",
+    "attach",
+    "catarrh",
+    "catch",
+    "catchy",
+    "cathartic",
+    "chair",
+    "char",
+    "charity",
+    "chart",
+    "chary",
+    "chat",
+    "chatty",
+    "chic",
+    "chit",
+    "chitchat",
+    "hair",
+    "hairy",
+    "harry",
+    "hart",
+    "hatch",
+    "hitch",
+    "itch",
+    "itchy",
+    "rich",
+    "that",
+    "thatch",
+    "thirty",
+    "yacht"
+  ],
+  "date": "2038-08-02",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 10,
+      "6": 5,
+      "7": 3,
+      "8": 1,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 14,
+      "H": 6,
+      "I": 2,
+      "R": 1,
+      "T": 3,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "C": {
+        "4": 4,
+        "5": 4,
+        "6": 2,
+        "7": 2,
+        "8": 1,
+        "9": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 4
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "R": {
+        "4": 1
+      },
+      "T": {
+        "4": 1,
+        "6": 2
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AR": 3,
+      "AT": 1,
+      "CA": 4,
+      "CH": 10,
+      "HA": 5,
+      "HI": 1,
+      "IT": 2,
+      "RI": 1,
+      "TH": 3,
+      "YA": 1
+    }
+  }
+}

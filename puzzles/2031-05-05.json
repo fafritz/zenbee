@@ -1,0 +1,91 @@
+{
+  "pangram": "hateful",
+  "center_letter": "h",
+  "num_answers": 30,
+  "num_pangrams": 2,
+  "possible_points": 103,
+  "answer_pangrams": [
+    "hateful",
+    "healthful"
+  ],
+  "answers": [
+    "athlete",
+    "haft",
+    "halal",
+    "hale",
+    "half",
+    "hall",
+    "halt",
+    "hate",
+    "hateful",
+    "haul",
+    "heal",
+    "health",
+    "healthful",
+    "heat",
+    "heath",
+    "heel",
+    "heft",
+    "hell",
+    "huff",
+    "hula",
+    "hull",
+    "lath",
+    "lathe",
+    "lethal",
+    "teeth",
+    "teethe",
+    "that",
+    "thee",
+    "theft",
+    "theta"
+  ],
+  "date": "2031-05-05",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 6,
+      "6": 3,
+      "7": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "H": 20,
+      "L": 3,
+      "T": 6
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "H": {
+        "4": 15,
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 3,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AT": 1,
+      "HA": 9,
+      "HE": 8,
+      "HU": 3,
+      "LA": 2,
+      "LE": 1,
+      "TE": 2,
+      "TH": 4
+    }
+  }
+}

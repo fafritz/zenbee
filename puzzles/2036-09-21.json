@@ -1,0 +1,99 @@
+{
+  "pangram": "yelping",
+  "center_letter": "p",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 190,
+  "answer_pangrams": [
+    "yelping"
+  ],
+  "answers": [
+    "epee",
+    "gypping",
+    "nipping",
+    "nippy",
+    "peeing",
+    "peel",
+    "peeling",
+    "peen",
+    "peep",
+    "peeping",
+    "penile",
+    "penning",
+    "penny",
+    "pepping",
+    "peppy",
+    "pieing",
+    "pigging",
+    "piggy",
+    "pigpen",
+    "pile",
+    "piling",
+    "pill",
+    "pilling",
+    "pine",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "pipe",
+    "pipeline",
+    "piping",
+    "pippin",
+    "pipping",
+    "plying",
+    "yelp",
+    "yelping",
+    "yipping"
+  ],
+  "date": "2036-09-21",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 4,
+      "6": 9,
+      "7": 13,
+      "8": 1
+    },
+    "by_first_letter": {
+      "E": 1,
+      "G": 1,
+      "N": 2,
+      "P": 30,
+      "Y": 3
+    },
+    "grid": {
+      "E": {
+        "4": 1
+      },
+      "G": {
+        "7": 1
+      },
+      "N": {
+        "5": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 8,
+        "5": 3,
+        "6": 9,
+        "7": 9,
+        "8": 1
+      },
+      "Y": {
+        "4": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "EP": 1,
+      "GY": 1,
+      "NI": 2,
+      "PE": 11,
+      "PI": 18,
+      "PL": 1,
+      "YE": 2,
+      "YI": 1
+    }
+  }
+}

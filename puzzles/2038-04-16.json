@@ -1,0 +1,105 @@
+{
+  "pangram": "blacken",
+  "center_letter": "b",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 140,
+  "answer_pangrams": [
+    "blacken"
+  ],
+  "answers": [
+    "aback",
+    "abbe",
+    "able",
+    "baba",
+    "babble",
+    "babe",
+    "babel",
+    "back",
+    "bake",
+    "balance",
+    "bale",
+    "baleen",
+    "balk",
+    "ball",
+    "banal",
+    "banana",
+    "bane",
+    "bank",
+    "beak",
+    "bean",
+    "beck",
+    "been",
+    "bell",
+    "belle",
+    "blab",
+    "black",
+    "blackball",
+    "blacken",
+    "blank",
+    "bleak",
+    "cabal",
+    "cabana",
+    "cable",
+    "callable",
+    "enable",
+    "kebab",
+    "label"
+  ],
+  "date": "2038-04-16",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 11,
+      "6": 5,
+      "7": 2,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 27,
+      "C": 4,
+      "E": 1,
+      "K": 1,
+      "L": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "B": {
+        "4": 15,
+        "5": 6,
+        "6": 3,
+        "7": 2,
+        "9": 1
+      },
+      "C": {
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "E": {
+        "6": 1
+      },
+      "K": {
+        "5": 1
+      },
+      "L": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 3,
+      "BA": 15,
+      "BE": 6,
+      "BL": 6,
+      "CA": 4,
+      "EN": 1,
+      "KE": 1,
+      "LA": 1
+    }
+  }
+}

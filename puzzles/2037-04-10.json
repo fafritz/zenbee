@@ -1,0 +1,135 @@
+{
+  "pangram": "invoked",
+  "center_letter": "n",
+  "num_answers": 47,
+  "num_pangrams": 1,
+  "possible_points": 183,
+  "answer_pangrams": [
+    "invoked"
+  ],
+  "answers": [
+    "denied",
+    "dine",
+    "dined",
+    "dink",
+    "dinned",
+    "dividend",
+    "divine",
+    "divined",
+    "done",
+    "donned",
+    "ended",
+    "endive",
+    "envied",
+    "even",
+    "evened",
+    "indeed",
+    "inked",
+    "invoke",
+    "invoked",
+    "iodine",
+    "keen",
+    "keened",
+    "kenned",
+    "kind",
+    "kink",
+    "kinked",
+    "knee",
+    "kneed",
+    "need",
+    "needed",
+    "nene",
+    "neon",
+    "nine",
+    "nodded",
+    "node",
+    "none",
+    "nook",
+    "noon",
+    "oink",
+    "oinked",
+    "onion",
+    "oven",
+    "vein",
+    "veined",
+    "vend",
+    "vended",
+    "vine"
+  ],
+  "date": "2037-04-10",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 5,
+      "6": 18,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "D": 10,
+      "E": 5,
+      "I": 5,
+      "K": 8,
+      "N": 10,
+      "O": 4,
+      "V": 5
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "5": 1,
+        "6": 4,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 3
+      },
+      "I": {
+        "5": 1,
+        "6": 3,
+        "7": 1
+      },
+      "K": {
+        "4": 4,
+        "5": 1,
+        "6": 3
+      },
+      "N": {
+        "4": 8,
+        "6": 2
+      },
+      "O": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "V": {
+        "4": 3,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "DE": 1,
+      "DI": 7,
+      "DO": 2,
+      "EN": 3,
+      "EV": 2,
+      "IN": 4,
+      "IO": 1,
+      "KE": 3,
+      "KI": 3,
+      "KN": 2,
+      "NE": 4,
+      "NI": 1,
+      "NO": 5,
+      "OI": 2,
+      "ON": 1,
+      "OV": 1,
+      "VE": 4,
+      "VI": 1
+    }
+  }
+}

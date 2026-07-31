@@ -1,0 +1,86 @@
+{
+  "pangram": "exactly",
+  "center_letter": "c",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 100,
+  "answer_pangrams": [
+    "exactly"
+  ],
+  "answers": [
+    "acetate",
+    "call",
+    "calla",
+    "calyx",
+    "catcall",
+    "cattle",
+    "catty",
+    "cell",
+    "clay",
+    "clayey",
+    "cleat",
+    "cycle",
+    "eclat",
+    "elect",
+    "exact",
+    "exactly",
+    "excel",
+    "exec",
+    "lace",
+    "lactate",
+    "lacy",
+    "tact",
+    "talc"
+  ],
+  "date": "2031-02-05",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 9,
+      "6": 2,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 11,
+      "E": 6,
+      "L": 3,
+      "T": 2
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 5,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 4,
+        "7": 1
+      },
+      "L": {
+        "4": 2,
+        "7": 1
+      },
+      "T": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "CA": 6,
+      "CE": 1,
+      "CL": 3,
+      "CY": 1,
+      "EC": 1,
+      "EL": 1,
+      "EX": 4,
+      "LA": 3,
+      "TA": 2
+    }
+  }
+}

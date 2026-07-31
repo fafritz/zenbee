@@ -1,0 +1,74 @@
+{
+  "pangram": "painful",
+  "center_letter": "f",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 87,
+  "answer_pangrams": [
+    "painful"
+  ],
+  "answers": [
+    "alfalfa",
+    "fail",
+    "fall",
+    "faun",
+    "fauna",
+    "filial",
+    "fill",
+    "fillip",
+    "final",
+    "flail",
+    "flan",
+    "flap",
+    "flip",
+    "fluff",
+    "fulfill",
+    "full",
+    "pailful",
+    "painful",
+    "pilaf",
+    "puff",
+    "puffin"
+  ],
+  "date": "2029-10-06",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 5,
+      "6": 3,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 1,
+      "F": 15,
+      "P": 5
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "F": {
+        "4": 8,
+        "5": 4,
+        "6": 2,
+        "7": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "FA": 4,
+      "FI": 4,
+      "FL": 5,
+      "FU": 2,
+      "PA": 2,
+      "PI": 1,
+      "PU": 2
+    }
+  }
+}

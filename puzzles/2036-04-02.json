@@ -1,0 +1,83 @@
+{
+  "pangram": "oblique",
+  "center_letter": "b",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 81,
+  "answer_pangrams": [
+    "oblique"
+  ],
+  "answers": [
+    "belie",
+    "bell",
+    "belle",
+    "bible",
+    "bile",
+    "bill",
+    "blob",
+    "blue",
+    "bluebell",
+    "bobble",
+    "boil",
+    "bole",
+    "boll",
+    "boob",
+    "booboo",
+    "bubble",
+    "bulb",
+    "bull",
+    "libel",
+    "lobe",
+    "lube",
+    "oblique",
+    "oboe",
+    "quibble"
+  ],
+  "date": "2036-04-02",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 4,
+      "6": 3,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "B": 18,
+      "L": 3,
+      "O": 2,
+      "Q": 1
+    },
+    "grid": {
+      "B": {
+        "4": 11,
+        "5": 3,
+        "6": 3,
+        "8": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1
+      },
+      "O": {
+        "4": 1,
+        "7": 1
+      },
+      "Q": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 3,
+      "BI": 3,
+      "BL": 3,
+      "BO": 6,
+      "BU": 3,
+      "LI": 1,
+      "LO": 1,
+      "LU": 1,
+      "OB": 2,
+      "QU": 1
+    }
+  }
+}

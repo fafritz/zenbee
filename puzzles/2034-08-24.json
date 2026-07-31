@@ -1,0 +1,81 @@
+{
+  "pangram": "flocked",
+  "center_letter": "f",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 103,
+  "answer_pangrams": [
+    "flocked"
+  ],
+  "answers": [
+    "clef",
+    "coffee",
+    "doff",
+    "doffed",
+    "feed",
+    "feel",
+    "fell",
+    "felled",
+    "fleck",
+    "flecked",
+    "fled",
+    "flee",
+    "fleece",
+    "fleeced",
+    "flock",
+    "flocked",
+    "floe",
+    "flood",
+    "flooded",
+    "fold",
+    "folded",
+    "folk",
+    "food",
+    "fool",
+    "fooled",
+    "offed"
+  ],
+  "date": "2034-08-24",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 4,
+      "6": 6,
+      "7": 4
+    },
+    "by_first_letter": {
+      "C": 2,
+      "D": 2,
+      "F": 21,
+      "O": 1
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "6": 1
+      },
+      "D": {
+        "4": 1,
+        "6": 1
+      },
+      "F": {
+        "4": 10,
+        "5": 3,
+        "6": 4,
+        "7": 4
+      },
+      "O": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 1,
+      "CO": 1,
+      "DO": 2,
+      "FE": 4,
+      "FL": 11,
+      "FO": 6,
+      "OF": 1
+    }
+  }
+}

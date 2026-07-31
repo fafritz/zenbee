@@ -1,0 +1,117 @@
+{
+  "pangram": "daubing",
+  "center_letter": "d",
+  "num_answers": 35,
+  "num_pangrams": 1,
+  "possible_points": 205,
+  "answer_pangrams": [
+    "daubing"
+  ],
+  "answers": [
+    "abiding",
+    "adding",
+    "aiding",
+    "band",
+    "bandaging",
+    "bandanna",
+    "banding",
+    "baud",
+    "bidding",
+    "biding",
+    "bind",
+    "binding",
+    "budding",
+    "budging",
+    "dabbing",
+    "daub",
+    "daubing",
+    "digging",
+    "ding",
+    "dinging",
+    "dining",
+    "dinning",
+    "dubbing",
+    "duding",
+    "dung",
+    "dunging",
+    "dunning",
+    "gadding",
+    "guiding",
+    "ibid",
+    "naiad",
+    "nudging",
+    "unbind",
+    "unbinding",
+    "undid"
+  ],
+  "date": "2037-10-05",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 2,
+      "6": 6,
+      "7": 17,
+      "8": 1,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 11,
+      "D": 13,
+      "G": 2,
+      "I": 1,
+      "N": 2,
+      "U": 3
+    },
+    "grid": {
+      "A": {
+        "6": 2,
+        "7": 1
+      },
+      "B": {
+        "4": 3,
+        "6": 1,
+        "7": 5,
+        "8": 1,
+        "9": 1
+      },
+      "D": {
+        "4": 3,
+        "6": 2,
+        "7": 8
+      },
+      "G": {
+        "7": 2
+      },
+      "I": {
+        "4": 1
+      },
+      "N": {
+        "5": 1,
+        "7": 1
+      },
+      "U": {
+        "5": 1,
+        "6": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AD": 1,
+      "AI": 1,
+      "BA": 5,
+      "BI": 4,
+      "BU": 2,
+      "DA": 3,
+      "DI": 5,
+      "DU": 5,
+      "GA": 1,
+      "GU": 1,
+      "IB": 1,
+      "NA": 1,
+      "NU": 1,
+      "UN": 3
+    }
+  }
+}

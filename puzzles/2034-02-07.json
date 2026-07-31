@@ -1,0 +1,134 @@
+{
+  "pangram": "chariot",
+  "center_letter": "o",
+  "num_answers": 46,
+  "num_pangrams": 2,
+  "possible_points": 209,
+  "answer_pangrams": [
+    "chariot",
+    "thoracic"
+  ],
+  "answers": [
+    "achoo",
+    "actor",
+    "aorta",
+    "cacao",
+    "carrot",
+    "chaotic",
+    "chariot",
+    "choir",
+    "coach",
+    "coat",
+    "coca",
+    "cocci",
+    "cocoa",
+    "cohort",
+    "coot",
+    "cottar",
+    "crotch",
+    "hooch",
+    "hoot",
+    "horror",
+    "iota",
+    "oath",
+    "orator",
+    "oratorio",
+    "ratio",
+    "ricotta",
+    "riot",
+    "roach",
+    "roar",
+    "rococo",
+    "root",
+    "rotor",
+    "taco",
+    "taro",
+    "tarot",
+    "tattoo",
+    "thoracic",
+    "throat",
+    "toot",
+    "tooth",
+    "torch",
+    "tort",
+    "tractor",
+    "traitor",
+    "trio",
+    "trot"
+  ],
+  "date": "2034-02-07",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 15,
+      "6": 9,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 14,
+      "H": 3,
+      "I": 1,
+      "O": 3,
+      "R": 8,
+      "T": 14
+    },
+    "grid": {
+      "A": {
+        "5": 3
+      },
+      "C": {
+        "4": 3,
+        "5": 5,
+        "6": 4,
+        "7": 2
+      },
+      "H": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 1,
+        "8": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 3,
+        "6": 2,
+        "7": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AO": 1,
+      "CA": 2,
+      "CH": 3,
+      "CO": 8,
+      "CR": 1,
+      "HO": 3,
+      "IO": 1,
+      "OA": 1,
+      "OR": 2,
+      "RA": 1,
+      "RI": 2,
+      "RO": 5,
+      "TA": 4,
+      "TH": 2,
+      "TO": 4,
+      "TR": 4
+    }
+  }
+}

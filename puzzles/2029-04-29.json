@@ -1,0 +1,91 @@
+{
+  "pangram": "jocular",
+  "center_letter": "c",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 108,
+  "answer_pangrams": [
+    "jocular"
+  ],
+  "answers": [
+    "accrual",
+    "cacao",
+    "call",
+    "calla",
+    "carol",
+    "coal",
+    "coca",
+    "cocoa",
+    "cola",
+    "collar",
+    "color",
+    "cool",
+    "coral",
+    "corolla",
+    "corral",
+    "cull",
+    "curl",
+    "jocular",
+    "local",
+    "loco",
+    "occur",
+    "ocular",
+    "oracular",
+    "rococo"
+  ],
+  "date": "2029-04-29",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 8,
+      "6": 4,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 16,
+      "J": 1,
+      "L": 2,
+      "O": 3,
+      "R": 1
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "C": {
+        "4": 7,
+        "5": 6,
+        "6": 2,
+        "7": 1
+      },
+      "J": {
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "R": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "CA": 4,
+      "CO": 10,
+      "CU": 2,
+      "JO": 1,
+      "LO": 2,
+      "OC": 2,
+      "OR": 1,
+      "RO": 1
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "pangram": "fibulae",
+  "center_letter": "f",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 139,
+  "answer_pangrams": [
+    "fibulae"
+  ],
+  "answers": [
+    "affable",
+    "alfalfa",
+    "baffle",
+    "bailiff",
+    "baleful",
+    "beef",
+    "befall",
+    "befell",
+    "belief",
+    "biff",
+    "bluff",
+    "buff",
+    "fable",
+    "fail",
+    "fall",
+    "fallible",
+    "feeble",
+    "feel",
+    "fell",
+    "fibula",
+    "fibulae",
+    "fief",
+    "fife",
+    "file",
+    "filial",
+    "fill",
+    "flab",
+    "flail",
+    "flea",
+    "flee",
+    "flub",
+    "flue",
+    "fluff",
+    "fuel",
+    "fulfill",
+    "full",
+    "leaf",
+    "life"
+  ],
+  "date": "2033-06-16",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 4,
+      "6": 7,
+      "7": 6,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 10,
+      "F": 24,
+      "L": 2
+    },
+    "grid": {
+      "A": {
+        "7": 2
+      },
+      "B": {
+        "4": 3,
+        "5": 1,
+        "6": 4,
+        "7": 2
+      },
+      "F": {
+        "4": 15,
+        "5": 3,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      },
+      "L": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AF": 1,
+      "AL": 1,
+      "BA": 3,
+      "BE": 4,
+      "BI": 1,
+      "BL": 1,
+      "BU": 1,
+      "FA": 4,
+      "FE": 3,
+      "FI": 7,
+      "FL": 7,
+      "FU": 3,
+      "LE": 1,
+      "LI": 1
+    }
+  }
+}

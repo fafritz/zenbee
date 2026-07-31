@@ -1,0 +1,106 @@
+{
+  "pangram": "opacity",
+  "center_letter": "a",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 141,
+  "answer_pangrams": [
+    "opacity"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "atop",
+    "attic",
+    "cacao",
+    "cacti",
+    "capacity",
+    "capo",
+    "catty",
+    "coat",
+    "coca",
+    "cocoa",
+    "copay",
+    "copycat",
+    "iota",
+    "opacity",
+    "pact",
+    "papa",
+    "papacy",
+    "papaya",
+    "patio",
+    "patty",
+    "pica",
+    "pita",
+    "potato",
+    "tacit",
+    "taco",
+    "tact",
+    "tactic",
+    "tapioca",
+    "tattoo",
+    "tatty",
+    "topcoat"
+  ],
+  "date": "2029-01-09",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 10,
+      "6": 6,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 10,
+      "I": 1,
+      "O": 1,
+      "P": 9,
+      "T": 8
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 5,
+        "7": 1,
+        "8": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "O": {
+        "7": 1
+      },
+      "P": {
+        "4": 4,
+        "5": 2,
+        "6": 3
+      },
+      "T": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AT": 2,
+      "CA": 5,
+      "CO": 5,
+      "IO": 1,
+      "OP": 1,
+      "PA": 6,
+      "PI": 2,
+      "PO": 1,
+      "TA": 7,
+      "TO": 1
+    }
+  }
+}

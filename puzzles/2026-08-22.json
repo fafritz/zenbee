@@ -1,0 +1,106 @@
+{
+  "pangram": "rainbow",
+  "center_letter": "r",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 130,
+  "answer_pangrams": [
+    "rainbow"
+  ],
+  "answers": [
+    "arbor",
+    "aria",
+    "arrow",
+    "barb",
+    "barbarian",
+    "barn",
+    "baron",
+    "barrio",
+    "barrow",
+    "boar",
+    "boor",
+    "born",
+    "boron",
+    "borrow",
+    "brain",
+    "bran",
+    "brawn",
+    "briar",
+    "brow",
+    "brown",
+    "inborn",
+    "iron",
+    "narrow",
+    "rabbi",
+    "rain",
+    "rainbow",
+    "ribbon",
+    "roan",
+    "roar",
+    "robin",
+    "warn",
+    "warrior",
+    "worn"
+  ],
+  "date": "2026-08-22",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 10,
+      "6": 6,
+      "7": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 17,
+      "I": 2,
+      "N": 1,
+      "R": 7,
+      "W": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2
+      },
+      "B": {
+        "4": 7,
+        "5": 6,
+        "6": 3,
+        "9": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "W": {
+        "4": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AR": 3,
+      "BA": 6,
+      "BO": 5,
+      "BR": 6,
+      "IN": 1,
+      "IR": 1,
+      "NA": 1,
+      "RA": 3,
+      "RI": 1,
+      "RO": 3,
+      "WA": 2,
+      "WO": 1
+    }
+  }
+}

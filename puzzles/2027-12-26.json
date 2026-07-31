@@ -1,0 +1,126 @@
+{
+  "pangram": "warping",
+  "center_letter": "r",
+  "num_answers": 44,
+  "num_pangrams": 3,
+  "possible_points": 252,
+  "answer_pangrams": [
+    "prawning",
+    "warping",
+    "wrapping"
+  ],
+  "answers": [
+    "agar",
+    "agrarian",
+    "airing",
+    "aria",
+    "arraign",
+    "arraigning",
+    "arranging",
+    "garaging",
+    "grain",
+    "grin",
+    "grinning",
+    "grip",
+    "griping",
+    "gripping",
+    "pair",
+    "pairing",
+    "paring",
+    "parring",
+    "prawn",
+    "prawning",
+    "prig",
+    "raga",
+    "ragging",
+    "raging",
+    "rain",
+    "raining",
+    "rang",
+    "ranging",
+    "rapping",
+    "raring",
+    "rigging",
+    "ring",
+    "ringing",
+    "ripping",
+    "warn",
+    "warning",
+    "warp",
+    "warping",
+    "warring",
+    "wiring",
+    "wrap",
+    "wrapping",
+    "wring",
+    "wringing"
+  ],
+  "date": "2027-12-26",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 3,
+      "6": 5,
+      "7": 14,
+      "8": 7,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "G": 7,
+      "P": 7,
+      "R": 13,
+      "W": 10
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "7": 1,
+        "8": 3
+      },
+      "P": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "R": {
+        "4": 4,
+        "6": 2,
+        "7": 7
+      },
+      "W": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 3,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 1,
+      "AR": 4,
+      "GA": 1,
+      "GR": 6,
+      "PA": 4,
+      "PR": 3,
+      "RA": 9,
+      "RI": 4,
+      "WA": 5,
+      "WI": 1,
+      "WR": 4
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "pangram": "divulge",
+  "center_letter": "u",
+  "num_answers": 27,
+  "num_pangrams": 2,
+  "possible_points": 135,
+  "answer_pangrams": [
+    "divulge",
+    "divulged"
+  ],
+  "answers": [
+    "delude",
+    "deluded",
+    "deluge",
+    "deluged",
+    "divulge",
+    "divulged",
+    "dude",
+    "duded",
+    "duel",
+    "dueled",
+    "dull",
+    "dulled",
+    "elude",
+    "eluded",
+    "glue",
+    "glued",
+    "guide",
+    "guided",
+    "guild",
+    "guile",
+    "gull",
+    "gulled",
+    "lieu",
+    "lugged",
+    "lull",
+    "lulled",
+    "lulu"
+  ],
+  "date": "2034-03-29",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 6,
+      "6": 9,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "D": 12,
+      "E": 2,
+      "G": 8,
+      "L": 5
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "5": 1,
+        "6": 4,
+        "7": 3,
+        "8": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 4,
+        "6": 2
+      },
+      "L": {
+        "4": 3,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "DE": 4,
+      "DI": 2,
+      "DU": 6,
+      "EL": 2,
+      "GL": 2,
+      "GU": 6,
+      "LI": 1,
+      "LU": 4
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "pangram": "hotcake",
+  "center_letter": "o",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 106,
+  "answer_pangrams": [
+    "hotcake"
+  ],
+  "answers": [
+    "achoo",
+    "cacao",
+    "chock",
+    "choke",
+    "coach",
+    "coat",
+    "coca",
+    "cockatoo",
+    "cocoa",
+    "coke",
+    "cook",
+    "coot",
+    "cote",
+    "echo",
+    "hock",
+    "hooch",
+    "hook",
+    "hookah",
+    "hoot",
+    "hotcake",
+    "keto",
+    "kook",
+    "oath",
+    "octet",
+    "taco",
+    "tattoo",
+    "toke",
+    "took",
+    "toot",
+    "tooth",
+    "toothache",
+    "tote"
+  ],
+  "date": "2029-02-17",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 9,
+      "6": 2,
+      "7": 1,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 12,
+      "E": 1,
+      "H": 6,
+      "K": 2,
+      "O": 2,
+      "T": 8
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "C": {
+        "4": 6,
+        "5": 5,
+        "8": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "K": {
+        "4": 2
+      },
+      "O": {
+        "4": 1,
+        "5": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 1,
+        "6": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "CA": 1,
+      "CH": 2,
+      "CO": 9,
+      "EC": 1,
+      "HO": 6,
+      "KE": 1,
+      "KO": 1,
+      "OA": 1,
+      "OC": 1,
+      "TA": 2,
+      "TO": 6
+    }
+  }
+}

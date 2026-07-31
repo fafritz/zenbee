@@ -1,0 +1,80 @@
+{
+  "pangram": "outlaid",
+  "center_letter": "u",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 57,
+  "answer_pangrams": [
+    "outlaid"
+  ],
+  "answers": [
+    "adult",
+    "aloud",
+    "audio",
+    "audit",
+    "auto",
+    "dual",
+    "dull",
+    "laud",
+    "loud",
+    "lout",
+    "luau",
+    "lull",
+    "lulu",
+    "outdid",
+    "outdo",
+    "outlaid",
+    "taut",
+    "tout",
+    "tutu"
+  ],
+  "date": "2027-06-13",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 5,
+      "6": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "D": 2,
+      "L": 6,
+      "O": 3,
+      "T": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 4
+      },
+      "D": {
+        "4": 2
+      },
+      "L": {
+        "4": 6
+      },
+      "O": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 3
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AL": 1,
+      "AU": 3,
+      "DU": 2,
+      "LA": 1,
+      "LO": 2,
+      "LU": 3,
+      "OU": 3,
+      "TA": 1,
+      "TO": 1,
+      "TU": 1
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "pangram": "gratify",
+  "center_letter": "y",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 73,
+  "answer_pangrams": [
+    "gratify"
+  ],
+  "answers": [
+    "airy",
+    "array",
+    "arty",
+    "fairy",
+    "fatty",
+    "fifty",
+    "fray",
+    "gratify",
+    "gray",
+    "gritty",
+    "iffy",
+    "rarity",
+    "ratify",
+    "ratty",
+    "taffy",
+    "tatty",
+    "tray"
+  ],
+  "date": "2037-10-19",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 7,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "F": 4,
+      "G": 3,
+      "I": 1,
+      "R": 3,
+      "T": 3
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "F": {
+        "4": 1,
+        "5": 3
+      },
+      "G": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "R": {
+        "5": 1,
+        "6": 2
+      },
+      "T": {
+        "4": 1,
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AR": 2,
+      "FA": 2,
+      "FI": 1,
+      "FR": 1,
+      "GR": 3,
+      "IF": 1,
+      "RA": 3,
+      "TA": 2,
+      "TR": 1
+    }
+  }
+}

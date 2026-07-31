@@ -1,0 +1,105 @@
+{
+  "pangram": "hotlink",
+  "center_letter": "t",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 81,
+  "answer_pangrams": [
+    "hotlink"
+  ],
+  "answers": [
+    "hilt",
+    "hint",
+    "hoot",
+    "hotlink",
+    "into",
+    "kiloton",
+    "kilt",
+    "knit",
+    "knot",
+    "lilt",
+    "lint",
+    "loot",
+    "lotion",
+    "lotto",
+    "ninth",
+    "notion",
+    "onto",
+    "thin",
+    "think",
+    "till",
+    "tilt",
+    "tint",
+    "toil",
+    "toll",
+    "took",
+    "tool",
+    "toolkit",
+    "toon",
+    "toot",
+    "tooth"
+  ],
+  "date": "2036-06-06",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 4,
+      "6": 2,
+      "7": 3
+    },
+    "by_first_letter": {
+      "H": 4,
+      "I": 1,
+      "K": 4,
+      "L": 5,
+      "N": 2,
+      "O": 1,
+      "T": 13
+    },
+    "grid": {
+      "H": {
+        "4": 3,
+        "7": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "K": {
+        "4": 3,
+        "7": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "5": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "4": 10,
+        "5": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "HI": 2,
+      "HO": 2,
+      "IN": 1,
+      "KI": 2,
+      "KN": 2,
+      "LI": 2,
+      "LO": 3,
+      "NI": 1,
+      "NO": 1,
+      "ON": 1,
+      "TH": 2,
+      "TI": 3,
+      "TO": 8
+    }
+  }
+}

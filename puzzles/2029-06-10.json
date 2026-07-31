@@ -1,0 +1,80 @@
+{
+  "pangram": "antique",
+  "center_letter": "q",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 107,
+  "answer_pangrams": [
+    "antique"
+  ],
+  "answers": [
+    "antique",
+    "aqua",
+    "aquanaut",
+    "equate",
+    "equine",
+    "etiquette",
+    "netiquette",
+    "quaint",
+    "quanta",
+    "queen",
+    "queue",
+    "quiet",
+    "quinine",
+    "quintet",
+    "quit",
+    "quite",
+    "unique"
+  ],
+  "date": "2029-06-10",
+  "hints": {
+    "by_length": {
+      "4": 2,
+      "5": 4,
+      "6": 5,
+      "7": 3,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "E": 3,
+      "N": 1,
+      "Q": 9,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "6": 2,
+        "9": 1
+      },
+      "N": {
+        "10": 1
+      },
+      "Q": {
+        "4": 1,
+        "5": 4,
+        "6": 2,
+        "7": 2
+      },
+      "U": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "AQ": 2,
+      "EQ": 2,
+      "ET": 1,
+      "NE": 1,
+      "QU": 9,
+      "UN": 1
+    }
+  }
+}

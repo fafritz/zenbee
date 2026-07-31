@@ -1,0 +1,85 @@
+{
+  "pangram": "prickly",
+  "center_letter": "c",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 66,
+  "answer_pangrams": [
+    "prickly"
+  ],
+  "answers": [
+    "cirri",
+    "click",
+    "clip",
+    "crick",
+    "cyclic",
+    "icily",
+    "icky",
+    "kick",
+    "kicky",
+    "lick",
+    "lyric",
+    "pick",
+    "picky",
+    "prick",
+    "prickly",
+    "rick"
+  ],
+  "date": "2032-02-29",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 8,
+      "6": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 5,
+      "I": 2,
+      "K": 2,
+      "L": 2,
+      "P": 4,
+      "R": 1
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 3,
+        "6": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "K": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      },
+      "R": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "CI": 1,
+      "CL": 2,
+      "CR": 1,
+      "CY": 1,
+      "IC": 2,
+      "KI": 2,
+      "LI": 1,
+      "LY": 1,
+      "PI": 2,
+      "PR": 2,
+      "RI": 1
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "pangram": "tamping",
+  "center_letter": "t",
+  "num_answers": 52,
+  "num_pangrams": 1,
+  "possible_points": 313,
+  "answer_pangrams": [
+    "tamping"
+  ],
+  "answers": [
+    "agitating",
+    "animating",
+    "anti",
+    "attain",
+    "attaining",
+    "gait",
+    "gating",
+    "giant",
+    "gnat",
+    "igniting",
+    "imitating",
+    "inapt",
+    "initiating",
+    "intimating",
+    "maintain",
+    "maintaining",
+    "mating",
+    "matting",
+    "mint",
+    "minting",
+    "mitigating",
+    "mitt",
+    "paginating",
+    "paint",
+    "painting",
+    "pant",
+    "panting",
+    "patina",
+    "patting",
+    "pint",
+    "pipit",
+    "pita",
+    "pitting",
+    "tagging",
+    "taint",
+    "tainting",
+    "taming",
+    "tamp",
+    "tamping",
+    "tang",
+    "tannin",
+    "tanning",
+    "taping",
+    "tapping",
+    "tatting",
+    "timing",
+    "timpani",
+    "tinning",
+    "tint",
+    "tinting",
+    "tipping",
+    "titan"
+  ],
+  "date": "2027-01-09",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 6,
+      "6": 8,
+      "7": 14,
+      "8": 4,
+      "9": 4,
+      "10": 4,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "G": 4,
+      "I": 5,
+      "M": 8,
+      "P": 11,
+      "T": 19
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1,
+        "9": 3
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "5": 1,
+        "8": 1,
+        "9": 1,
+        "10": 2
+      },
+      "M": {
+        "4": 2,
+        "6": 1,
+        "7": 2,
+        "8": 1,
+        "10": 1,
+        "11": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 3,
+        "8": 1,
+        "10": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 2,
+        "6": 4,
+        "7": 9,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AN": 2,
+      "AT": 2,
+      "GA": 2,
+      "GI": 1,
+      "GN": 1,
+      "IG": 1,
+      "IM": 1,
+      "IN": 3,
+      "MA": 4,
+      "MI": 4,
+      "PA": 7,
+      "PI": 4,
+      "TA": 12,
+      "TI": 7
+    }
+  }
+}

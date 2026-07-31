@@ -1,0 +1,117 @@
+{
+  "pangram": "diploma",
+  "center_letter": "a",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 109,
+  "answer_pangrams": [
+    "diploma"
+  ],
+  "answers": [
+    "amid",
+    "ammo",
+    "appall",
+    "dado",
+    "damp",
+    "dial",
+    "diploma",
+    "doodad",
+    "imam",
+    "impala",
+    "ipad",
+    "laid",
+    "lama",
+    "lamp",
+    "llama",
+    "load",
+    "loam",
+    "madam",
+    "maid",
+    "mail",
+    "maim",
+    "mall",
+    "mama",
+    "mamma",
+    "mammal",
+    "modal",
+    "momma",
+    "opal",
+    "paid",
+    "pail",
+    "pall",
+    "pallid",
+    "palm",
+    "papa",
+    "papal",
+    "papilla",
+    "plaid"
+  ],
+  "date": "2035-12-10",
+  "hints": {
+    "by_length": {
+      "4": 23,
+      "5": 7,
+      "6": 5,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 5,
+      "I": 3,
+      "L": 6,
+      "M": 10,
+      "O": 1,
+      "P": 9
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 1
+      },
+      "D": {
+        "4": 3,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 2,
+        "6": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 1
+      },
+      "M": {
+        "4": 5,
+        "5": 4,
+        "6": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 5,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AM": 2,
+      "AP": 1,
+      "DA": 2,
+      "DI": 2,
+      "DO": 1,
+      "IM": 2,
+      "IP": 1,
+      "LA": 3,
+      "LL": 1,
+      "LO": 2,
+      "MA": 8,
+      "MO": 2,
+      "OP": 1,
+      "PA": 8,
+      "PL": 1
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "pangram": "furling",
+  "center_letter": "f",
+  "num_answers": 35,
+  "num_pangrams": 3,
+  "possible_points": 222,
+  "answer_pangrams": [
+    "furling",
+    "ruffling",
+    "unfurling"
+  ],
+  "answers": [
+    "figuring",
+    "filing",
+    "fill",
+    "filling",
+    "fining",
+    "firing",
+    "fling",
+    "flinging",
+    "fluff",
+    "fluffing",
+    "flung",
+    "frill",
+    "fringing",
+    "fulfill",
+    "fulfilling",
+    "full",
+    "fulling",
+    "fungi",
+    "furl",
+    "furling",
+    "furring",
+    "griffin",
+    "gruff",
+    "guff",
+    "gulf",
+    "infringing",
+    "riff",
+    "riffing",
+    "riffling",
+    "rifling",
+    "ruff",
+    "ruffing",
+    "ruffling",
+    "unfurl",
+    "unfurling"
+  ],
+  "date": "2038-06-08",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 6,
+      "6": 4,
+      "7": 9,
+      "8": 6,
+      "9": 1,
+      "10": 2
+    },
+    "by_first_letter": {
+      "F": 21,
+      "G": 4,
+      "I": 1,
+      "R": 7,
+      "U": 2
+    },
+    "grid": {
+      "F": {
+        "4": 3,
+        "5": 5,
+        "6": 3,
+        "7": 5,
+        "8": 4,
+        "10": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "I": {
+        "10": 1
+      },
+      "R": {
+        "4": 2,
+        "7": 3,
+        "8": 2
+      },
+      "U": {
+        "6": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "FI": 6,
+      "FL": 5,
+      "FR": 2,
+      "FU": 8,
+      "GR": 2,
+      "GU": 2,
+      "IN": 1,
+      "RI": 4,
+      "RU": 3,
+      "UN": 2
+    }
+  }
+}

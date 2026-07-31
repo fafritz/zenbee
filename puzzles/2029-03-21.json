@@ -1,0 +1,142 @@
+{
+  "pangram": "lacking",
+  "center_letter": "c",
+  "num_answers": 51,
+  "num_pangrams": 5,
+  "possible_points": 332,
+  "answer_pangrams": [
+    "cackling",
+    "calking",
+    "clacking",
+    "clanking",
+    "lacking"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acing",
+    "cackling",
+    "caging",
+    "caking",
+    "calcining",
+    "calking",
+    "call",
+    "calla",
+    "calling",
+    "canal",
+    "cancan",
+    "caning",
+    "canna",
+    "canning",
+    "cilia",
+    "clack",
+    "clacking",
+    "clan",
+    "clang",
+    "clanging",
+    "clank",
+    "clanking",
+    "click",
+    "clicking",
+    "cling",
+    "clinging",
+    "clinic",
+    "clinical",
+    "clinician",
+    "clink",
+    "clinking",
+    "glacial",
+    "glancing",
+    "icing",
+    "inclining",
+    "kick",
+    "kicking",
+    "knack",
+    "knickknack",
+    "lacing",
+    "lack",
+    "lacking",
+    "lancing",
+    "lick",
+    "licking",
+    "lilac",
+    "niacin",
+    "nick",
+    "nicking"
+  ],
+  "date": "2029-03-21",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 14,
+      "6": 8,
+      "7": 9,
+      "8": 9,
+      "9": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 30,
+      "G": 2,
+      "I": 2,
+      "K": 4,
+      "L": 7,
+      "N": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 10,
+        "6": 5,
+        "7": 3,
+        "8": 8,
+        "9": 2
+      },
+      "G": {
+        "7": 1,
+        "8": 1
+      },
+      "I": {
+        "5": 1,
+        "9": 1
+      },
+      "K": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "10": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 3
+      },
+      "N": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "CA": 13,
+      "CI": 1,
+      "CL": 16,
+      "GL": 2,
+      "IC": 1,
+      "IN": 1,
+      "KI": 2,
+      "KN": 2,
+      "LA": 4,
+      "LI": 3,
+      "NI": 3
+    }
+  }
+}

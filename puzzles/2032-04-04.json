@@ -1,0 +1,90 @@
+{
+  "pangram": "rhodium",
+  "center_letter": "d",
+  "num_answers": 21,
+  "num_pangrams": 2,
+  "possible_points": 89,
+  "answer_pangrams": [
+    "humidor",
+    "rhodium"
+  ],
+  "answers": [
+    "dodo",
+    "doom",
+    "door",
+    "dorm",
+    "dour",
+    "droid",
+    "druid",
+    "drum",
+    "hood",
+    "hoodoo",
+    "horrid",
+    "humdrum",
+    "humid",
+    "humidor",
+    "idiom",
+    "iridium",
+    "mood",
+    "odium",
+    "odor",
+    "rhodium",
+    "rood"
+  ],
+  "date": "2032-04-04",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 5,
+      "6": 2,
+      "7": 4
+    },
+    "by_first_letter": {
+      "D": 8,
+      "H": 6,
+      "I": 2,
+      "M": 1,
+      "O": 2,
+      "R": 2
+    },
+    "grid": {
+      "D": {
+        "4": 6,
+        "5": 2
+      },
+      "H": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 2
+      },
+      "I": {
+        "5": 1,
+        "7": 1
+      },
+      "M": {
+        "4": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1
+      },
+      "R": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 5,
+      "DR": 3,
+      "HO": 3,
+      "HU": 3,
+      "ID": 1,
+      "IR": 1,
+      "MO": 1,
+      "OD": 2,
+      "RH": 1,
+      "RO": 1
+    }
+  }
+}

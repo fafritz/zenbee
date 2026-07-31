@@ -1,0 +1,118 @@
+{
+  "pangram": "quoited",
+  "center_letter": "t",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 177,
+  "answer_pangrams": [
+    "quoited"
+  ],
+  "answers": [
+    "diet",
+    "dieted",
+    "ditto",
+    "dittoed",
+    "dote",
+    "doted",
+    "dotted",
+    "duet",
+    "edit",
+    "edited",
+    "etiquette",
+    "etude",
+    "idiot",
+    "outdid",
+    "outdo",
+    "outed",
+    "quiet",
+    "quieted",
+    "quietude",
+    "quit",
+    "quite",
+    "quoit",
+    "quoited",
+    "quote",
+    "quoted",
+    "teed",
+    "tide",
+    "tided",
+    "tidied",
+    "tied",
+    "toed",
+    "toot",
+    "tooted",
+    "toque",
+    "tote",
+    "toted",
+    "totted",
+    "tout",
+    "touted",
+    "tutu"
+  ],
+  "date": "2035-11-18",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 13,
+      "6": 9,
+      "7": 3,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "D": 8,
+      "E": 4,
+      "I": 1,
+      "O": 3,
+      "Q": 9,
+      "T": 15
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "9": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "O": {
+        "5": 2,
+        "6": 1
+      },
+      "Q": {
+        "4": 1,
+        "5": 4,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "T": {
+        "4": 8,
+        "5": 3,
+        "6": 4
+      }
+    },
+    "two_letter_list": {
+      "DI": 4,
+      "DO": 3,
+      "DU": 1,
+      "ED": 2,
+      "ET": 2,
+      "ID": 1,
+      "OU": 3,
+      "QU": 9,
+      "TE": 1,
+      "TI": 4,
+      "TO": 9,
+      "TU": 1
+    }
+  }
+}

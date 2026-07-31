@@ -1,0 +1,118 @@
+{
+  "pangram": "tamping",
+  "center_letter": "p",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 229,
+  "answer_pangrams": [
+    "tamping"
+  ],
+  "answers": [
+    "aping",
+    "gaping",
+    "impinging",
+    "inapt",
+    "mapping",
+    "napping",
+    "nipping",
+    "pagan",
+    "paginating",
+    "paging",
+    "pain",
+    "paining",
+    "paint",
+    "painting",
+    "pang",
+    "panning",
+    "pant",
+    "panting",
+    "papa",
+    "patina",
+    "patting",
+    "pigging",
+    "pimp",
+    "pimping",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "pint",
+    "piping",
+    "pipit",
+    "pippin",
+    "pipping",
+    "pita",
+    "pitting",
+    "tamp",
+    "tamping",
+    "taping",
+    "tapping",
+    "timpani",
+    "tipping"
+  ],
+  "date": "2036-10-04",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 5,
+      "6": 7,
+      "7": 17,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "G": 1,
+      "I": 2,
+      "M": 1,
+      "N": 2,
+      "P": 28,
+      "T": 6
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "G": {
+        "6": 1
+      },
+      "I": {
+        "5": 1,
+        "9": 1
+      },
+      "M": {
+        "7": 1
+      },
+      "N": {
+        "7": 2
+      },
+      "P": {
+        "4": 8,
+        "5": 3,
+        "6": 5,
+        "7": 10,
+        "8": 1,
+        "10": 1
+      },
+      "T": {
+        "4": 1,
+        "6": 1,
+        "7": 4
+      }
+    },
+    "two_letter_list": {
+      "AP": 1,
+      "GA": 1,
+      "IM": 1,
+      "IN": 1,
+      "MA": 1,
+      "NA": 1,
+      "NI": 1,
+      "PA": 14,
+      "PI": 14,
+      "TA": 4,
+      "TI": 2
+    }
+  }
+}

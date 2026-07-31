@@ -1,0 +1,136 @@
+{
+  "pangram": "hefting",
+  "center_letter": "h",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 302,
+  "answer_pangrams": [
+    "hefting"
+  ],
+  "answers": [
+    "eight",
+    "eighteen",
+    "eighteenth",
+    "eighth",
+    "eightieth",
+    "fifteenth",
+    "fifth",
+    "fiftieth",
+    "fight",
+    "fighting",
+    "heft",
+    "hefting",
+    "height",
+    "heighten",
+    "heightening",
+    "hieing",
+    "high",
+    "hing",
+    "hinge",
+    "hinging",
+    "hint",
+    "hinting",
+    "hitting",
+    "infighting",
+    "neigh",
+    "neighing",
+    "nigh",
+    "night",
+    "nightie",
+    "nineteenth",
+    "ninetieth",
+    "ninth",
+    "teeth",
+    "teethe",
+    "teething",
+    "tenth",
+    "thee",
+    "theft",
+    "then",
+    "thief",
+    "thigh",
+    "thin",
+    "thine",
+    "thing",
+    "thinning",
+    "tight",
+    "tighten",
+    "tightening",
+    "tithe",
+    "tithing"
+  ],
+  "date": "2035-10-13",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 16,
+      "6": 4,
+      "7": 7,
+      "8": 7,
+      "9": 3,
+      "10": 4,
+      "11": 1
+    },
+    "by_first_letter": {
+      "E": 5,
+      "F": 5,
+      "H": 13,
+      "I": 1,
+      "N": 8,
+      "T": 18
+    },
+    "grid": {
+      "E": {
+        "5": 1,
+        "6": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "F": {
+        "5": 2,
+        "8": 2,
+        "9": 1
+      },
+      "H": {
+        "4": 4,
+        "5": 1,
+        "6": 2,
+        "7": 4,
+        "8": 1,
+        "11": 1
+      },
+      "I": {
+        "10": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 3,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 9,
+        "6": 1,
+        "7": 2,
+        "8": 2,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "EI": 5,
+      "FI": 5,
+      "HE": 5,
+      "HI": 8,
+      "IN": 1,
+      "NE": 2,
+      "NI": 6,
+      "TE": 4,
+      "TH": 9,
+      "TI": 5
+    }
+  }
+}

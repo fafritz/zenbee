@@ -1,0 +1,130 @@
+{
+  "pangram": "thicken",
+  "center_letter": "h",
+  "num_answers": 43,
+  "num_pangrams": 3,
+  "possible_points": 211,
+  "answer_pangrams": [
+    "kitchen",
+    "kitchenette",
+    "thicken"
+  ],
+  "answers": [
+    "check",
+    "cheek",
+    "chic",
+    "chick",
+    "chicken",
+    "chin",
+    "chink",
+    "chit",
+    "cinch",
+    "etch",
+    "ethic",
+    "ethnic",
+    "heck",
+    "hectic",
+    "hence",
+    "hick",
+    "hike",
+    "hint",
+    "hitch",
+    "hitchhike",
+    "inch",
+    "itch",
+    "ketch",
+    "kitchen",
+    "kitchenette",
+    "niche",
+    "nineteenth",
+    "ninetieth",
+    "ninth",
+    "tech",
+    "teeth",
+    "teethe",
+    "tenth",
+    "thee",
+    "then",
+    "thence",
+    "thick",
+    "thicken",
+    "thicket",
+    "thin",
+    "thine",
+    "think",
+    "tithe"
+  ],
+  "date": "2036-04-23",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 17,
+      "6": 4,
+      "7": 4,
+      "9": 2,
+      "10": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "C": 9,
+      "E": 3,
+      "H": 8,
+      "I": 2,
+      "K": 3,
+      "N": 4,
+      "T": 14
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 5,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "9": 1
+      },
+      "I": {
+        "4": 2
+      },
+      "K": {
+        "5": 1,
+        "7": 1,
+        "11": 1
+      },
+      "N": {
+        "5": 2,
+        "9": 1,
+        "10": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 6,
+        "6": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "CH": 8,
+      "CI": 1,
+      "ET": 3,
+      "HE": 3,
+      "HI": 5,
+      "IN": 1,
+      "IT": 1,
+      "KE": 1,
+      "KI": 2,
+      "NI": 4,
+      "TE": 4,
+      "TH": 9,
+      "TI": 1
+    }
+  }
+}

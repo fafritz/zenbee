@@ -1,0 +1,99 @@
+{
+  "pangram": "fixated",
+  "center_letter": "a",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 113,
+  "answer_pangrams": [
+    "fixated"
+  ],
+  "answers": [
+    "added",
+    "affix",
+    "affixed",
+    "aide",
+    "aided",
+    "axed",
+    "data",
+    "date",
+    "dated",
+    "dead",
+    "deaf",
+    "defeat",
+    "defeated",
+    "fade",
+    "faded",
+    "fate",
+    "fated",
+    "faxed",
+    "feat",
+    "feta",
+    "fiat",
+    "fixate",
+    "fixated",
+    "idea",
+    "taffeta",
+    "tatted",
+    "taxed",
+    "taxi",
+    "taxied"
+  ],
+  "date": "2033-09-02",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 8,
+      "6": 4,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "D": 7,
+      "F": 10,
+      "I": 1,
+      "T": 5
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "7": 1
+      },
+      "D": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "F": {
+        "4": 5,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AF": 2,
+      "AI": 2,
+      "AX": 1,
+      "DA": 3,
+      "DE": 4,
+      "FA": 5,
+      "FE": 2,
+      "FI": 3,
+      "ID": 1,
+      "TA": 5
+    }
+  }
+}

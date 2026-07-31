@@ -1,0 +1,131 @@
+{
+  "pangram": "clangor",
+  "center_letter": "n",
+  "num_answers": 45,
+  "num_pangrams": 1,
+  "possible_points": 186,
+  "answer_pangrams": [
+    "clangor"
+  ],
+  "answers": [
+    "acorn",
+    "along",
+    "anal",
+    "analog",
+    "angora",
+    "anon",
+    "argon",
+    "canal",
+    "cancan",
+    "canna",
+    "cannon",
+    "canon",
+    "carnal",
+    "clan",
+    "clang",
+    "clangor",
+    "cocoon",
+    "cognac",
+    "colon",
+    "conga",
+    "corn",
+    "corona",
+    "croon",
+    "gallon",
+    "gang",
+    "gong",
+    "gonna",
+    "goon",
+    "granola",
+    "groan",
+    "lagoon",
+    "llano",
+    "loan",
+    "long",
+    "loon",
+    "naan",
+    "nana",
+    "narc",
+    "noon",
+    "organ",
+    "raccoon",
+    "raglan",
+    "rancor",
+    "rang",
+    "roan"
+  ],
+  "date": "2031-01-06",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 14,
+      "6": 12,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 7,
+      "C": 16,
+      "G": 7,
+      "L": 5,
+      "N": 4,
+      "O": 1,
+      "R": 5
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "6": 2
+      },
+      "C": {
+        "4": 2,
+        "5": 7,
+        "6": 6,
+        "7": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "4": 4
+      },
+      "O": {
+        "5": 1
+      },
+      "R": {
+        "4": 2,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AL": 1,
+      "AN": 4,
+      "AR": 1,
+      "CA": 6,
+      "CL": 3,
+      "CO": 6,
+      "CR": 1,
+      "GA": 2,
+      "GO": 3,
+      "GR": 2,
+      "LA": 1,
+      "LL": 1,
+      "LO": 3,
+      "NA": 3,
+      "NO": 1,
+      "OR": 1,
+      "RA": 4,
+      "RO": 1
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "pangram": "quacked",
+  "center_letter": "d",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 125,
+  "answer_pangrams": [
+    "quacked"
+  ],
+  "answers": [
+    "accede",
+    "acceded",
+    "aced",
+    "added",
+    "adduce",
+    "adduced",
+    "caked",
+    "cede",
+    "ceded",
+    "cued",
+    "dead",
+    "decade",
+    "deck",
+    "decked",
+    "deduce",
+    "deduced",
+    "deed",
+    "deeded",
+    "deuce",
+    "duck",
+    "ducked",
+    "dude",
+    "duded",
+    "duke",
+    "eked",
+    "quacked",
+    "quad",
+    "quaked",
+    "queued"
+  ],
+  "date": "2032-12-05",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 5,
+      "6": 9,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 4,
+      "D": 14,
+      "E": 1,
+      "Q": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 2
+      },
+      "C": {
+        "4": 2,
+        "5": 2
+      },
+      "D": {
+        "4": 6,
+        "5": 2,
+        "6": 5,
+        "7": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "Q": {
+        "4": 1,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AD": 3,
+      "CA": 1,
+      "CE": 2,
+      "CU": 1,
+      "DE": 9,
+      "DU": 5,
+      "EK": 1,
+      "QU": 4
+    }
+  }
+}

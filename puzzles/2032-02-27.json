@@ -1,0 +1,98 @@
+{
+  "pangram": "walkout",
+  "center_letter": "o",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 101,
+  "answer_pangrams": [
+    "walkout"
+  ],
+  "answers": [
+    "allot",
+    "allow",
+    "alto",
+    "atoll",
+    "auto",
+    "koala",
+    "kook",
+    "kowtow",
+    "loll",
+    "look",
+    "lookout",
+    "loot",
+    "lotto",
+    "lout",
+    "outlaw",
+    "outlook",
+    "tallow",
+    "tattoo",
+    "toll",
+    "took",
+    "tool",
+    "toot",
+    "total",
+    "tout",
+    "walkout",
+    "wallow",
+    "wool"
+  ],
+  "date": "2032-02-27",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 6,
+      "6": 5,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 5,
+      "K": 3,
+      "L": 6,
+      "O": 2,
+      "T": 8,
+      "W": 3
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3
+      },
+      "K": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 1,
+        "7": 1
+      },
+      "O": {
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 1,
+        "6": 2
+      },
+      "W": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 3,
+      "AT": 1,
+      "AU": 1,
+      "KO": 3,
+      "LO": 6,
+      "OU": 2,
+      "TA": 2,
+      "TO": 6,
+      "WA": 2,
+      "WO": 1
+    }
+  }
+}

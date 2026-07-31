@@ -1,0 +1,113 @@
+{
+  "pangram": "midtown",
+  "center_letter": "i",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 133,
+  "answer_pangrams": [
+    "midtown"
+  ],
+  "answers": [
+    "dint",
+    "ditto",
+    "dominion",
+    "domino",
+    "downwind",
+    "idiom",
+    "idiot",
+    "into",
+    "midtown",
+    "mind",
+    "mini",
+    "minim",
+    "minion",
+    "minnow",
+    "mint",
+    "mitt",
+    "motion",
+    "nitwit",
+    "notion",
+    "omit",
+    "onion",
+    "timid",
+    "tint",
+    "twin",
+    "twit",
+    "widow",
+    "wind",
+    "window",
+    "winnow",
+    "wino",
+    "woodwind"
+  ],
+  "date": "2029-08-09",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 7,
+      "6": 8,
+      "7": 1,
+      "8": 3
+    },
+    "by_first_letter": {
+      "D": 5,
+      "I": 3,
+      "M": 9,
+      "N": 2,
+      "O": 2,
+      "T": 4,
+      "W": 6
+    },
+    "grid": {
+      "D": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "8": 2
+      },
+      "I": {
+        "4": 1,
+        "5": 2
+      },
+      "M": {
+        "4": 4,
+        "5": 1,
+        "6": 3,
+        "7": 1
+      },
+      "N": {
+        "6": 2
+      },
+      "O": {
+        "4": 1,
+        "5": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 1
+      },
+      "W": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "DI": 2,
+      "DO": 3,
+      "ID": 2,
+      "IN": 1,
+      "MI": 8,
+      "MO": 1,
+      "NI": 1,
+      "NO": 1,
+      "OM": 1,
+      "ON": 1,
+      "TI": 2,
+      "TW": 2,
+      "WI": 5,
+      "WO": 1
+    }
+  }
+}

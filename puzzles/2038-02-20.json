@@ -1,0 +1,91 @@
+{
+  "pangram": "amplify",
+  "center_letter": "p",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 104,
+  "answer_pangrams": [
+    "amplify"
+  ],
+  "answers": [
+    "amplify",
+    "amply",
+    "appall",
+    "apply",
+    "fillip",
+    "flap",
+    "flip",
+    "flippy",
+    "impala",
+    "imply",
+    "lamp",
+    "limp",
+    "limply",
+    "pail",
+    "pall",
+    "palm",
+    "palmy",
+    "papa",
+    "papal",
+    "papaya",
+    "papilla",
+    "pilaf",
+    "pill",
+    "pimp",
+    "pimply",
+    "play"
+  ],
+  "date": "2038-02-20",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 6,
+      "6": 7,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 4,
+      "F": 4,
+      "I": 2,
+      "L": 3,
+      "P": 13
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "F": {
+        "4": 2,
+        "6": 2
+      },
+      "I": {
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 2,
+        "6": 1
+      },
+      "P": {
+        "4": 7,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AM": 2,
+      "AP": 2,
+      "FI": 1,
+      "FL": 3,
+      "IM": 2,
+      "LA": 1,
+      "LI": 2,
+      "PA": 8,
+      "PI": 4,
+      "PL": 1
+    }
+  }
+}

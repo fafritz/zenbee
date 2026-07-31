@@ -1,0 +1,92 @@
+{
+  "pangram": "flunked",
+  "center_letter": "f",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 155,
+  "answer_pangrams": [
+    "flunked"
+  ],
+  "answers": [
+    "defend",
+    "defended",
+    "duff",
+    "feed",
+    "feel",
+    "fell",
+    "felled",
+    "fend",
+    "fended",
+    "fennel",
+    "feud",
+    "feuded",
+    "fled",
+    "flee",
+    "flue",
+    "fluff",
+    "fluffed",
+    "fluke",
+    "flunk",
+    "flunked",
+    "fuddle",
+    "fuddled",
+    "fuel",
+    "fueled",
+    "full",
+    "fulled",
+    "fund",
+    "funded",
+    "funk",
+    "funked",
+    "funnel",
+    "funneled",
+    "needful",
+    "undefended"
+  ],
+  "date": "2034-08-12",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 3,
+      "6": 11,
+      "7": 4,
+      "8": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "D": 3,
+      "F": 29,
+      "N": 1,
+      "U": 1
+    },
+    "grid": {
+      "D": {
+        "4": 1,
+        "6": 1,
+        "8": 1
+      },
+      "F": {
+        "4": 12,
+        "5": 3,
+        "6": 10,
+        "7": 3,
+        "8": 1
+      },
+      "N": {
+        "7": 1
+      },
+      "U": {
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 2,
+      "DU": 1,
+      "FE": 9,
+      "FL": 8,
+      "FU": 12,
+      "NE": 1,
+      "UN": 1
+    }
+  }
+}

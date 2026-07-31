@@ -1,0 +1,80 @@
+{
+  "pangram": "lurking",
+  "center_letter": "k",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 81,
+  "answer_pangrams": [
+    "lurking"
+  ],
+  "answers": [
+    "gunk",
+    "inking",
+    "inkling",
+    "irking",
+    "kill",
+    "killing",
+    "kiln",
+    "kilning",
+    "king",
+    "kink",
+    "kinking",
+    "liking",
+    "link",
+    "linking",
+    "lurk",
+    "lurking",
+    "nuking",
+    "rink"
+  ],
+  "date": "2030-11-10",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "6": 4,
+      "7": 6
+    },
+    "by_first_letter": {
+      "G": 1,
+      "I": 3,
+      "K": 7,
+      "L": 5,
+      "N": 1,
+      "R": 1
+    },
+    "grid": {
+      "G": {
+        "4": 1
+      },
+      "I": {
+        "6": 2,
+        "7": 1
+      },
+      "K": {
+        "4": 4,
+        "7": 3
+      },
+      "L": {
+        "4": 2,
+        "6": 1,
+        "7": 2
+      },
+      "N": {
+        "6": 1
+      },
+      "R": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "GU": 1,
+      "IN": 2,
+      "IR": 1,
+      "KI": 7,
+      "LI": 3,
+      "LU": 2,
+      "NU": 1,
+      "RI": 1
+    }
+  }
+}

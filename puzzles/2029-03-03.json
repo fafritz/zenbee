@@ -1,0 +1,150 @@
+{
+  "pangram": "crazing",
+  "center_letter": "g",
+  "num_answers": 55,
+  "num_pangrams": 1,
+  "possible_points": 324,
+  "answer_pangrams": [
+    "crazing"
+  ],
+  "answers": [
+    "acing",
+    "again",
+    "agar",
+    "aging",
+    "agrarian",
+    "airing",
+    "angina",
+    "arcing",
+    "arraign",
+    "arraigning",
+    "arranging",
+    "caging",
+    "caning",
+    "canning",
+    "caring",
+    "cigar",
+    "crag",
+    "craning",
+    "crazing",
+    "cringing",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "garaging",
+    "gazing",
+    "gigging",
+    "ginning",
+    "gracing",
+    "grain",
+    "grazing",
+    "grin",
+    "grinning",
+    "icing",
+    "inning",
+    "nagging",
+    "racing",
+    "raga",
+    "ragging",
+    "raging",
+    "raining",
+    "rang",
+    "ranging",
+    "raring",
+    "razing",
+    "razzing",
+    "ricing",
+    "rigging",
+    "ring",
+    "ringing",
+    "zigzag",
+    "zigzagging",
+    "zing",
+    "zinging"
+  ],
+  "date": "2029-03-03",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 6,
+      "6": 14,
+      "7": 19,
+      "8": 4,
+      "9": 1,
+      "10": 2
+    },
+    "by_first_letter": {
+      "A": 11,
+      "C": 9,
+      "G": 14,
+      "I": 2,
+      "N": 1,
+      "R": 14,
+      "Z": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 3,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 7,
+        "8": 2
+      },
+      "I": {
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "7": 1
+      },
+      "R": {
+        "4": 3,
+        "6": 5,
+        "7": 6
+      },
+      "Z": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AG": 4,
+      "AI": 1,
+      "AN": 1,
+      "AR": 4,
+      "CA": 4,
+      "CI": 1,
+      "CR": 4,
+      "GA": 7,
+      "GI": 2,
+      "GR": 5,
+      "IC": 1,
+      "IN": 1,
+      "NA": 1,
+      "RA": 10,
+      "RI": 4,
+      "ZI": 4
+    }
+  }
+}

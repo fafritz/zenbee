@@ -1,0 +1,109 @@
+{
+  "pangram": "lexicon",
+  "center_letter": "c",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 140,
+  "answer_pangrams": [
+    "lexicon"
+  ],
+  "answers": [
+    "cell",
+    "cello",
+    "clinic",
+    "clone",
+    "cocci",
+    "cocoon",
+    "coil",
+    "coin",
+    "colic",
+    "collie",
+    "colon",
+    "colonel",
+    "cone",
+    "conic",
+    "cool",
+    "coolie",
+    "excel",
+    "excellence",
+    "exec",
+    "icicle",
+    "icon",
+    "incline",
+    "innocence",
+    "lexicon",
+    "lice",
+    "loci",
+    "loco",
+    "neocon",
+    "nice",
+    "niece",
+    "nonce",
+    "once"
+  ],
+  "date": "2037-12-22",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 9,
+      "6": 6,
+      "7": 3,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 16,
+      "E": 3,
+      "I": 4,
+      "L": 4,
+      "N": 4,
+      "O": 1
+    },
+    "grid": {
+      "C": {
+        "4": 5,
+        "5": 6,
+        "6": 4,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "10": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 3,
+        "7": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      },
+      "O": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 2,
+      "CL": 2,
+      "CO": 12,
+      "EX": 3,
+      "IC": 2,
+      "IN": 2,
+      "LE": 1,
+      "LI": 1,
+      "LO": 2,
+      "NE": 1,
+      "NI": 2,
+      "NO": 1,
+      "ON": 1
+    }
+  }
+}

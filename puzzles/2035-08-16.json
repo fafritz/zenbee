@@ -1,0 +1,101 @@
+{
+  "pangram": "naively",
+  "center_letter": "y",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 116,
+  "answer_pangrams": [
+    "naively"
+  ],
+  "answers": [
+    "allay",
+    "alley",
+    "ally",
+    "envy",
+    "evenly",
+    "evilly",
+    "inanely",
+    "inlay",
+    "levy",
+    "lily",
+    "lineally",
+    "lively",
+    "naively",
+    "nanny",
+    "navy",
+    "ninny",
+    "vainly",
+    "valley",
+    "venally",
+    "vilely",
+    "villainy",
+    "vinyl",
+    "yell"
+  ],
+  "date": "2035-08-16",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 6,
+      "6": 6,
+      "7": 3,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "E": 3,
+      "I": 2,
+      "L": 4,
+      "N": 4,
+      "V": 6,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2
+      },
+      "E": {
+        "4": 1,
+        "6": 2
+      },
+      "I": {
+        "5": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 2,
+        "6": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      },
+      "V": {
+        "5": 1,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 3,
+      "EN": 1,
+      "EV": 2,
+      "IN": 2,
+      "LE": 1,
+      "LI": 3,
+      "NA": 3,
+      "NI": 1,
+      "VA": 2,
+      "VE": 1,
+      "VI": 3,
+      "YE": 1
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "pangram": "formula",
+  "center_letter": "r",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 147,
+  "answer_pangrams": [
+    "formula"
+  ],
+  "answers": [
+    "afar",
+    "alarm",
+    "amoral",
+    "amour",
+    "armful",
+    "armor",
+    "aroma",
+    "aura",
+    "aural",
+    "farm",
+    "floor",
+    "flora",
+    "floral",
+    "flour",
+    "form",
+    "formal",
+    "formula",
+    "forum",
+    "four",
+    "from",
+    "furl",
+    "furor",
+    "molar",
+    "moor",
+    "moral",
+    "mural",
+    "murmur",
+    "oral",
+    "ormolu",
+    "roam",
+    "roar",
+    "roll",
+    "roof",
+    "room",
+    "roomful",
+    "ruff",
+    "rumor",
+    "rural"
+  ],
+  "date": "2034-09-30",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 15,
+      "6": 6,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 9,
+      "F": 13,
+      "M": 5,
+      "O": 2,
+      "R": 9
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 5,
+        "6": 2
+      },
+      "F": {
+        "4": 5,
+        "5": 5,
+        "6": 2,
+        "7": 1
+      },
+      "M": {
+        "4": 1,
+        "5": 3,
+        "6": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 1
+      },
+      "R": {
+        "4": 6,
+        "5": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AF": 1,
+      "AL": 1,
+      "AM": 2,
+      "AR": 3,
+      "AU": 2,
+      "FA": 1,
+      "FL": 4,
+      "FO": 5,
+      "FR": 1,
+      "FU": 2,
+      "MO": 3,
+      "MU": 2,
+      "OR": 2,
+      "RO": 6,
+      "RU": 3
+    }
+  }
+}

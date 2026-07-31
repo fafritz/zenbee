@@ -1,0 +1,118 @@
+{
+  "pangram": "carding",
+  "center_letter": "c",
+  "num_answers": 38,
+  "num_pangrams": 2,
+  "possible_points": 223,
+  "answer_pangrams": [
+    "cardigan",
+    "carding"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acid",
+    "acidic",
+    "acing",
+    "acrid",
+    "arcing",
+    "cadging",
+    "caging",
+    "cairn",
+    "canard",
+    "cancan",
+    "candid",
+    "caning",
+    "canna",
+    "canning",
+    "card",
+    "cardiac",
+    "cardigan",
+    "carding",
+    "caring",
+    "cicada",
+    "cigar",
+    "circa",
+    "circadian",
+    "cirri",
+    "crag",
+    "craning",
+    "cringing",
+    "dancing",
+    "dicing",
+    "gracing",
+    "icing",
+    "narc",
+    "niacin",
+    "racing",
+    "rancid",
+    "ricing"
+  ],
+  "date": "2038-12-07",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 8,
+      "6": 15,
+      "7": 7,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "C": 22,
+      "D": 2,
+      "G": 1,
+      "I": 1,
+      "N": 2,
+      "R": 3
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "6": 3
+      },
+      "C": {
+        "4": 2,
+        "5": 5,
+        "6": 7,
+        "7": 5,
+        "8": 2,
+        "9": 1
+      },
+      "D": {
+        "6": 1,
+        "7": 1
+      },
+      "G": {
+        "7": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "R": {
+        "6": 3
+      }
+    },
+    "two_letter_list": {
+      "AC": 6,
+      "AR": 1,
+      "CA": 14,
+      "CI": 5,
+      "CR": 3,
+      "DA": 1,
+      "DI": 1,
+      "GR": 1,
+      "IC": 1,
+      "NA": 1,
+      "NI": 1,
+      "RA": 2,
+      "RI": 1
+    }
+  }
+}

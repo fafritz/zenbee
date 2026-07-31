@@ -1,0 +1,86 @@
+{
+  "pangram": "unkempt",
+  "center_letter": "n",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 53,
+  "answer_pangrams": [
+    "unkempt"
+  ],
+  "answers": [
+    "entente",
+    "keen",
+    "knee",
+    "menu",
+    "nene",
+    "nuke",
+    "peen",
+    "pent",
+    "punk",
+    "punt",
+    "teen",
+    "tenement",
+    "tenet",
+    "tent",
+    "tune",
+    "umpteen",
+    "unkempt"
+  ],
+  "date": "2034-09-27",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 1,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "E": 1,
+      "K": 2,
+      "M": 1,
+      "N": 2,
+      "P": 4,
+      "T": 5,
+      "U": 2
+    },
+    "grid": {
+      "E": {
+        "7": 1
+      },
+      "K": {
+        "4": 2
+      },
+      "M": {
+        "4": 1
+      },
+      "N": {
+        "4": 2
+      },
+      "P": {
+        "4": 4
+      },
+      "T": {
+        "4": 3,
+        "5": 1,
+        "8": 1
+      },
+      "U": {
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "EN": 1,
+      "KE": 1,
+      "KN": 1,
+      "ME": 1,
+      "NE": 1,
+      "NU": 1,
+      "PE": 2,
+      "PU": 2,
+      "TE": 4,
+      "TU": 1,
+      "UM": 1,
+      "UN": 1
+    }
+  }
+}

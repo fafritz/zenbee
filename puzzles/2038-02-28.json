@@ -1,0 +1,65 @@
+{
+  "pangram": "hopeful",
+  "center_letter": "h",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 60,
+  "answer_pangrams": [
+    "hopeful"
+  ],
+  "answers": [
+    "heel",
+    "hell",
+    "hellhole",
+    "hello",
+    "help",
+    "helpful",
+    "hole",
+    "hoof",
+    "hoop",
+    "hope",
+    "hopeful",
+    "huff",
+    "hull",
+    "loophole",
+    "peephole",
+    "pooh"
+  ],
+  "date": "2038-02-28",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 1,
+      "7": 2,
+      "8": 3
+    },
+    "by_first_letter": {
+      "H": 13,
+      "L": 1,
+      "P": 2
+    },
+    "grid": {
+      "H": {
+        "4": 9,
+        "5": 1,
+        "7": 2,
+        "8": 1
+      },
+      "L": {
+        "8": 1
+      },
+      "P": {
+        "4": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "HE": 6,
+      "HO": 5,
+      "HU": 2,
+      "LO": 1,
+      "PE": 1,
+      "PO": 1
+    }
+  }
+}

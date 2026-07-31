@@ -1,0 +1,94 @@
+{
+  "pangram": "windbag",
+  "center_letter": "b",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 143,
+  "answer_pangrams": [
+    "windbag"
+  ],
+  "answers": [
+    "abiding",
+    "baaing",
+    "baba",
+    "bagging",
+    "banana",
+    "band",
+    "bandaging",
+    "bandanna",
+    "banding",
+    "bang",
+    "banging",
+    "banning",
+    "bidding",
+    "biding",
+    "bigwig",
+    "bind",
+    "binding",
+    "binning",
+    "dabbing",
+    "gabbing",
+    "gibing",
+    "ibid",
+    "nabbing",
+    "windbag"
+  ],
+  "date": "2028-08-03",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "6": 5,
+      "7": 12,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 17,
+      "D": 1,
+      "G": 2,
+      "I": 1,
+      "N": 1,
+      "W": 1
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "B": {
+        "4": 4,
+        "6": 4,
+        "7": 7,
+        "8": 1,
+        "9": 1
+      },
+      "D": {
+        "7": 1
+      },
+      "G": {
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "N": {
+        "7": 1
+      },
+      "W": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "BA": 11,
+      "BI": 6,
+      "DA": 1,
+      "GA": 1,
+      "GI": 1,
+      "IB": 1,
+      "NA": 1,
+      "WI": 1
+    }
+  }
+}

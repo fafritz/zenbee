@@ -1,0 +1,83 @@
+{
+  "pangram": "holiday",
+  "center_letter": "i",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 65,
+  "answer_pangrams": [
+    "holiday"
+  ],
+  "answers": [
+    "dahlia",
+    "daily",
+    "dial",
+    "dill",
+    "dilly",
+    "dillydally",
+    "doily",
+    "hail",
+    "hill",
+    "hilly",
+    "holiday",
+    "idly",
+    "idol",
+    "idyll",
+    "laid",
+    "lily",
+    "oily",
+    "olio"
+  ],
+  "date": "2027-02-15",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 5,
+      "6": 1,
+      "7": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "D": 7,
+      "H": 4,
+      "I": 3,
+      "L": 2,
+      "O": 2
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 3,
+        "6": 1,
+        "10": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 2,
+        "5": 1
+      },
+      "L": {
+        "4": 2
+      },
+      "O": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "DA": 2,
+      "DI": 4,
+      "DO": 1,
+      "HA": 1,
+      "HI": 2,
+      "HO": 1,
+      "ID": 3,
+      "LA": 1,
+      "LI": 1,
+      "OI": 1,
+      "OL": 1
+    }
+  }
+}

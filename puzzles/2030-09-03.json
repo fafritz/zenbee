@@ -1,0 +1,148 @@
+{
+  "pangram": "bighorn",
+  "center_letter": "g",
+  "num_answers": 54,
+  "num_pangrams": 2,
+  "possible_points": 316,
+  "answer_pangrams": [
+    "bighorn",
+    "highborn"
+  ],
+  "answers": [
+    "bighorn",
+    "bingo",
+    "binning",
+    "bobbing",
+    "bogging",
+    "bong",
+    "bonging",
+    "bongo",
+    "boning",
+    "boobing",
+    "booing",
+    "boring",
+    "bribing",
+    "brig",
+    "bring",
+    "bringing",
+    "gibbon",
+    "gibing",
+    "gigging",
+    "ginning",
+    "gobbing",
+    "going",
+    "gong",
+    "gonging",
+    "goon",
+    "gorging",
+    "goring",
+    "grin",
+    "grinning",
+    "grog",
+    "groin",
+    "high",
+    "highborn",
+    "hing",
+    "hinging",
+    "hiring",
+    "hobnobbing",
+    "hogging",
+    "honing",
+    "honoring",
+    "ignoring",
+    "inning",
+    "ironing",
+    "nigh",
+    "noggin",
+    "ongoing",
+    "origin",
+    "ribbing",
+    "rigging",
+    "rigor",
+    "ring",
+    "ringing",
+    "robbing",
+    "robing"
+  ],
+  "date": "2030-09-03",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 6,
+      "6": 12,
+      "7": 20,
+      "8": 5,
+      "10": 1
+    },
+    "by_first_letter": {
+      "B": 16,
+      "G": 15,
+      "H": 9,
+      "I": 3,
+      "N": 2,
+      "O": 2,
+      "R": 7
+    },
+    "grid": {
+      "B": {
+        "4": 2,
+        "5": 3,
+        "6": 3,
+        "7": 7,
+        "8": 1
+      },
+      "G": {
+        "4": 4,
+        "5": 2,
+        "6": 3,
+        "7": 5,
+        "8": 1
+      },
+      "H": {
+        "4": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "10": 1
+      },
+      "I": {
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "O": {
+        "6": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 4
+      }
+    },
+    "two_letter_list": {
+      "BI": 3,
+      "BO": 9,
+      "BR": 4,
+      "GI": 4,
+      "GO": 7,
+      "GR": 4,
+      "HI": 5,
+      "HO": 4,
+      "IG": 1,
+      "IN": 1,
+      "IR": 1,
+      "NI": 1,
+      "NO": 1,
+      "ON": 1,
+      "OR": 1,
+      "RI": 5,
+      "RO": 2
+    }
+  }
+}

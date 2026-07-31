@@ -1,0 +1,98 @@
+{
+  "pangram": "munched",
+  "center_letter": "u",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 135,
+  "answer_pangrams": [
+    "munched"
+  ],
+  "answers": [
+    "chum",
+    "chummed",
+    "cued",
+    "deduce",
+    "deduced",
+    "denude",
+    "denuded",
+    "deuce",
+    "dude",
+    "duded",
+    "dunce",
+    "dune",
+    "dunned",
+    "endue",
+    "endued",
+    "hummed",
+    "hunch",
+    "hunched",
+    "menu",
+    "much",
+    "munch",
+    "munched",
+    "muumuu",
+    "undue",
+    "unheeded",
+    "unneeded"
+  ],
+  "date": "2034-06-25",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 7,
+      "6": 6,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "C": 3,
+      "D": 10,
+      "E": 2,
+      "H": 3,
+      "M": 5,
+      "U": 3
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 3,
+        "6": 3,
+        "7": 2
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "H": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "M": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "U": {
+        "5": 1,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "CH": 2,
+      "CU": 1,
+      "DE": 5,
+      "DU": 5,
+      "EN": 2,
+      "HU": 3,
+      "ME": 1,
+      "MU": 4,
+      "UN": 3
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "pangram": "chowing",
+  "center_letter": "c",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 157,
+  "answer_pangrams": [
+    "chowing"
+  ],
+  "answers": [
+    "chic",
+    "chignon",
+    "chin",
+    "chinning",
+    "chino",
+    "chow",
+    "chowing",
+    "cinch",
+    "cinching",
+    "cocci",
+    "cocoon",
+    "cocooning",
+    "coin",
+    "coining",
+    "conch",
+    "conic",
+    "conning",
+    "cooing",
+    "cowing",
+    "honcho",
+    "hooch",
+    "icing",
+    "icon",
+    "inch",
+    "inching",
+    "which",
+    "winch",
+    "winching",
+    "wincing"
+  ],
+  "date": "2037-04-24",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 9,
+      "6": 4,
+      "7": 6,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 19,
+      "H": 2,
+      "I": 4,
+      "W": 4
+    },
+    "grid": {
+      "C": {
+        "4": 4,
+        "5": 5,
+        "6": 3,
+        "7": 4,
+        "8": 2,
+        "9": 1
+      },
+      "H": {
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "W": {
+        "5": 2,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 7,
+      "CI": 2,
+      "CO": 10,
+      "HO": 2,
+      "IC": 2,
+      "IN": 2,
+      "WH": 1,
+      "WI": 3
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "pangram": "mulched",
+  "center_letter": "h",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 90,
+  "answer_pangrams": [
+    "mulched"
+  ],
+  "answers": [
+    "chem",
+    "chum",
+    "chummed",
+    "heed",
+    "heeded",
+    "heel",
+    "heeled",
+    "held",
+    "hell",
+    "helm",
+    "hemmed",
+    "huddle",
+    "huddled",
+    "hull",
+    "hulled",
+    "hummed",
+    "leech",
+    "leeched",
+    "much",
+    "mulch",
+    "mulched"
+  ],
+  "date": "2030-11-19",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 2,
+      "6": 6,
+      "7": 4
+    },
+    "by_first_letter": {
+      "C": 3,
+      "H": 13,
+      "L": 2,
+      "M": 3
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "7": 1
+      },
+      "H": {
+        "4": 6,
+        "6": 6,
+        "7": 1
+      },
+      "L": {
+        "5": 1,
+        "7": 1
+      },
+      "M": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 3,
+      "HE": 8,
+      "HU": 5,
+      "LE": 2,
+      "MU": 3
+    }
+  }
+}

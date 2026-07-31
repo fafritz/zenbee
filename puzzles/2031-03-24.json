@@ -1,0 +1,123 @@
+{
+  "pangram": "placebo",
+  "center_letter": "o",
+  "num_answers": 43,
+  "num_pangrams": 1,
+  "possible_points": 110,
+  "answer_pangrams": [
+    "placebo"
+  ],
+  "answers": [
+    "aloe",
+    "baobab",
+    "bebop",
+    "blob",
+    "bloc",
+    "bobble",
+    "bola",
+    "bole",
+    "boll",
+    "boob",
+    "booboo",
+    "cacao",
+    "capo",
+    "cello",
+    "clop",
+    "coal",
+    "cobble",
+    "coca",
+    "cocoa",
+    "cola",
+    "cool",
+    "coop",
+    "cope",
+    "elope",
+    "lobe",
+    "local",
+    "locale",
+    "loco",
+    "loll",
+    "loop",
+    "lope",
+    "oboe",
+    "oleo",
+    "opal",
+    "people",
+    "placebo",
+    "plop",
+    "pole",
+    "poll",
+    "polo",
+    "pool",
+    "poop",
+    "pope"
+  ],
+  "date": "2031-03-24",
+  "hints": {
+    "by_length": {
+      "4": 30,
+      "5": 6,
+      "6": 6,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 10,
+      "C": 12,
+      "E": 1,
+      "L": 7,
+      "O": 3,
+      "P": 9
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "B": {
+        "4": 6,
+        "5": 1,
+        "6": 3
+      },
+      "C": {
+        "4": 8,
+        "5": 3,
+        "6": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 3
+      },
+      "P": {
+        "4": 7,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "BA": 1,
+      "BE": 1,
+      "BL": 2,
+      "BO": 6,
+      "CA": 2,
+      "CE": 1,
+      "CL": 1,
+      "CO": 8,
+      "EL": 1,
+      "LO": 7,
+      "OB": 1,
+      "OL": 1,
+      "OP": 1,
+      "PE": 1,
+      "PL": 2,
+      "PO": 6
+    }
+  }
+}

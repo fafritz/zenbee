@@ -1,0 +1,105 @@
+{
+  "pangram": "lurking",
+  "center_letter": "l",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 155,
+  "answer_pangrams": [
+    "lurking"
+  ],
+  "answers": [
+    "giggling",
+    "gill",
+    "girl",
+    "gluing",
+    "grill",
+    "grilling",
+    "gull",
+    "gulling",
+    "gurgling",
+    "inkling",
+    "kill",
+    "killing",
+    "kiln",
+    "kilning",
+    "liking",
+    "lining",
+    "link",
+    "linking",
+    "lugging",
+    "lull",
+    "lulling",
+    "lulu",
+    "lung",
+    "lunging",
+    "luring",
+    "lurk",
+    "lurking",
+    "niggling",
+    "null",
+    "riling",
+    "rill",
+    "ruling"
+  ],
+  "date": "2029-10-21",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 1,
+      "6": 6,
+      "7": 9,
+      "8": 4
+    },
+    "by_first_letter": {
+      "G": 9,
+      "I": 1,
+      "K": 4,
+      "L": 13,
+      "N": 2,
+      "R": 3
+    },
+    "grid": {
+      "G": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 3
+      },
+      "I": {
+        "7": 1
+      },
+      "K": {
+        "4": 2,
+        "7": 2
+      },
+      "L": {
+        "4": 5,
+        "6": 3,
+        "7": 5
+      },
+      "N": {
+        "4": 1,
+        "8": 1
+      },
+      "R": {
+        "4": 1,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "GI": 3,
+      "GL": 1,
+      "GR": 2,
+      "GU": 3,
+      "IN": 1,
+      "KI": 4,
+      "LI": 4,
+      "LU": 9,
+      "NI": 1,
+      "NU": 1,
+      "RI": 2,
+      "RU": 1
+    }
+  }
+}

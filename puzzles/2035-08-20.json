@@ -1,0 +1,113 @@
+{
+  "pangram": "forming",
+  "center_letter": "m",
+  "num_answers": 37,
+  "num_pangrams": 2,
+  "possible_points": 190,
+  "answer_pangrams": [
+    "forming",
+    "informing"
+  ],
+  "answers": [
+    "firm",
+    "firming",
+    "form",
+    "forming",
+    "from",
+    "grim",
+    "griming",
+    "groom",
+    "grooming",
+    "infirm",
+    "inform",
+    "informing",
+    "miff",
+    "miffing",
+    "miming",
+    "mini",
+    "minim",
+    "mining",
+    "minion",
+    "minor",
+    "minoring",
+    "miring",
+    "mirror",
+    "mirroring",
+    "mono",
+    "mooing",
+    "moon",
+    "mooning",
+    "moor",
+    "mooring",
+    "morn",
+    "morning",
+    "moron",
+    "norm",
+    "riming",
+    "room",
+    "rooming"
+  ],
+  "date": "2035-08-20",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 4,
+      "6": 9,
+      "7": 8,
+      "8": 2,
+      "9": 2
+    },
+    "by_first_letter": {
+      "F": 5,
+      "G": 4,
+      "I": 3,
+      "M": 21,
+      "N": 1,
+      "R": 3
+    },
+    "grid": {
+      "F": {
+        "4": 3,
+        "7": 2
+      },
+      "G": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "I": {
+        "6": 2,
+        "9": 1
+      },
+      "M": {
+        "4": 6,
+        "5": 3,
+        "6": 6,
+        "7": 4,
+        "8": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "R": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "FI": 2,
+      "FO": 2,
+      "FR": 1,
+      "GR": 4,
+      "IN": 3,
+      "MI": 12,
+      "MO": 9,
+      "NO": 1,
+      "RI": 1,
+      "RO": 2
+    }
+  }
+}

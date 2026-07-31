@@ -1,0 +1,126 @@
+{
+  "pangram": "deathly",
+  "center_letter": "h",
+  "num_answers": 46,
+  "num_pangrams": 2,
+  "possible_points": 209,
+  "answer_pangrams": [
+    "deathly",
+    "heatedly"
+  ],
+  "answers": [
+    "ahead",
+    "athlete",
+    "death",
+    "deathly",
+    "eyeteeth",
+    "halal",
+    "hale",
+    "haled",
+    "hall",
+    "halt",
+    "halted",
+    "hate",
+    "hated",
+    "hatted",
+    "hayed",
+    "head",
+    "headed",
+    "heady",
+    "heal",
+    "healed",
+    "health",
+    "healthy",
+    "heat",
+    "heated",
+    "heatedly",
+    "heath",
+    "heed",
+    "heeded",
+    "heel",
+    "heeled",
+    "held",
+    "hell",
+    "heyday",
+    "lath",
+    "lathe",
+    "lathed",
+    "lethal",
+    "lethally",
+    "teeth",
+    "teethe",
+    "teethed",
+    "that",
+    "thee",
+    "theta",
+    "they",
+    "yeah"
+  ],
+  "date": "2028-11-07",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 11,
+      "6": 12,
+      "7": 4,
+      "8": 3
+    },
+    "by_first_letter": {
+      "A": 2,
+      "D": 2,
+      "E": 1,
+      "H": 28,
+      "L": 5,
+      "T": 7,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "7": 1
+      },
+      "D": {
+        "5": 1,
+        "7": 1
+      },
+      "E": {
+        "8": 1
+      },
+      "H": {
+        "4": 11,
+        "5": 6,
+        "6": 9,
+        "7": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "8": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AH": 1,
+      "AT": 1,
+      "DE": 2,
+      "EY": 1,
+      "HA": 10,
+      "HE": 18,
+      "LA": 3,
+      "LE": 2,
+      "TE": 3,
+      "TH": 4,
+      "YE": 1
+    }
+  }
+}

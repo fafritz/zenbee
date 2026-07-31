@@ -1,0 +1,128 @@
+{
+  "pangram": "belying",
+  "center_letter": "b",
+  "num_answers": 45,
+  "num_pangrams": 4,
+  "possible_points": 297,
+  "answer_pangrams": [
+    "bellying",
+    "belying",
+    "benignly",
+    "negligibly"
+  ],
+  "answers": [
+    "beeline",
+    "been",
+    "begging",
+    "begin",
+    "beginning",
+    "beige",
+    "being",
+    "belie",
+    "bell",
+    "belle",
+    "belling",
+    "belly",
+    "bellying",
+    "belying",
+    "benign",
+    "benignly",
+    "bible",
+    "biggie",
+    "bile",
+    "bilge",
+    "bill",
+    "billing",
+    "billy",
+    "binge",
+    "bingeing",
+    "binning",
+    "bling",
+    "byline",
+    "ebbing",
+    "eligible",
+    "gibe",
+    "gibing",
+    "glib",
+    "glibly",
+    "illegible",
+    "illegibly",
+    "ineligible",
+    "legible",
+    "legibly",
+    "libel",
+    "libeling",
+    "negligible",
+    "negligibly",
+    "nibble",
+    "nibbling"
+  ],
+  "date": "2029-02-03",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 12,
+      "6": 7,
+      "7": 8,
+      "8": 6,
+      "9": 3,
+      "10": 3
+    },
+    "by_first_letter": {
+      "B": 28,
+      "E": 2,
+      "G": 4,
+      "I": 3,
+      "L": 4,
+      "N": 4
+    },
+    "grid": {
+      "B": {
+        "4": 4,
+        "5": 11,
+        "6": 3,
+        "7": 6,
+        "8": 3,
+        "9": 1
+      },
+      "E": {
+        "6": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 2,
+        "6": 2
+      },
+      "I": {
+        "9": 2,
+        "10": 1
+      },
+      "L": {
+        "5": 1,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "6": 1,
+        "8": 1,
+        "10": 2
+      }
+    },
+    "two_letter_list": {
+      "BE": 16,
+      "BI": 10,
+      "BL": 1,
+      "BY": 1,
+      "EB": 1,
+      "EL": 1,
+      "GI": 2,
+      "GL": 2,
+      "IL": 2,
+      "IN": 1,
+      "LE": 2,
+      "LI": 2,
+      "NE": 2,
+      "NI": 2
+    }
+  }
+}

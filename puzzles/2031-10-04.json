@@ -1,0 +1,115 @@
+{
+  "pangram": "dolphin",
+  "center_letter": "o",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 103,
+  "answer_pangrams": [
+    "dolphin"
+  ],
+  "answers": [
+    "dodo",
+    "doll",
+    "dollop",
+    "dolphin",
+    "hippo",
+    "hold",
+    "hood",
+    "hoodoo",
+    "hoop",
+    "idol",
+    "ipod",
+    "lion",
+    "loin",
+    "loll",
+    "lollipop",
+    "loon",
+    "loop",
+    "noon",
+    "olio",
+    "onion",
+    "opinion",
+    "opioid",
+    "pillion",
+    "pinion",
+    "plod",
+    "plop",
+    "polio",
+    "poll",
+    "polo",
+    "pond",
+    "pooh",
+    "pool",
+    "poop",
+    "poplin"
+  ],
+  "date": "2031-10-04",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 3,
+      "6": 5,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "D": 4,
+      "H": 5,
+      "I": 2,
+      "L": 6,
+      "N": 1,
+      "O": 4,
+      "P": 12
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 2
+      },
+      "L": {
+        "4": 5,
+        "8": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 8,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 4,
+      "HI": 1,
+      "HO": 4,
+      "ID": 1,
+      "IP": 1,
+      "LI": 1,
+      "LO": 5,
+      "NO": 1,
+      "OL": 1,
+      "ON": 1,
+      "OP": 2,
+      "PI": 2,
+      "PL": 2,
+      "PO": 8
+    }
+  }
+}

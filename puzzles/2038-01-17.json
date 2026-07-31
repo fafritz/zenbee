@@ -1,0 +1,109 @@
+{
+  "pangram": "hauling",
+  "center_letter": "u",
+  "num_answers": 29,
+  "num_pangrams": 2,
+  "possible_points": 149,
+  "answer_pangrams": [
+    "hauling",
+    "laughing"
+  ],
+  "answers": [
+    "annual",
+    "annul",
+    "annulling",
+    "gauging",
+    "gluing",
+    "gull",
+    "gulling",
+    "gunning",
+    "haul",
+    "hauling",
+    "hugging",
+    "hula",
+    "hull",
+    "hulling",
+    "hung",
+    "iguana",
+    "laugh",
+    "laughing",
+    "lingual",
+    "luau",
+    "lugging",
+    "lull",
+    "lulling",
+    "lulu",
+    "lung",
+    "lunging",
+    "null",
+    "ulna",
+    "unhinging"
+  ],
+  "date": "2038-01-17",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 2,
+      "6": 3,
+      "7": 10,
+      "8": 1,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "G": 5,
+      "H": 7,
+      "I": 1,
+      "L": 10,
+      "N": 1,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1,
+        "9": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 1,
+        "7": 3
+      },
+      "H": {
+        "4": 4,
+        "7": 3
+      },
+      "I": {
+        "6": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 1,
+        "7": 4,
+        "8": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "U": {
+        "4": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 3,
+      "GA": 1,
+      "GL": 1,
+      "GU": 3,
+      "HA": 2,
+      "HU": 5,
+      "IG": 1,
+      "LA": 2,
+      "LI": 1,
+      "LU": 7,
+      "NU": 1,
+      "UL": 1,
+      "UN": 1
+    }
+  }
+}

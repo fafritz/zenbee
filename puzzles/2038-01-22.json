@@ -1,0 +1,151 @@
+{
+  "pangram": "glanced",
+  "center_letter": "g",
+  "num_answers": 58,
+  "num_pangrams": 2,
+  "possible_points": 291,
+  "answer_pangrams": [
+    "clanged",
+    "glanced"
+  ],
+  "answers": [
+    "adage",
+    "aged",
+    "agenda",
+    "alga",
+    "algae",
+    "allege",
+    "alleged",
+    "angel",
+    "angle",
+    "angled",
+    "cadge",
+    "cadged",
+    "cage",
+    "caged",
+    "clang",
+    "clanged",
+    "dangle",
+    "dangled",
+    "eagle",
+    "edge",
+    "edged",
+    "egged",
+    "elegance",
+    "engage",
+    "engaged",
+    "gadded",
+    "gagged",
+    "gaggle",
+    "gala",
+    "gale",
+    "galena",
+    "gall",
+    "galled",
+    "gang",
+    "ganged",
+    "gangland",
+    "geed",
+    "geld",
+    "gelded",
+    "gelled",
+    "gene",
+    "glad",
+    "gladden",
+    "gladdened",
+    "glade",
+    "glance",
+    "glanced",
+    "gland",
+    "glean",
+    "gleaned",
+    "glee",
+    "glen",
+    "lagged",
+    "ledge",
+    "legal",
+    "legend",
+    "legged",
+    "nagged"
+  ],
+  "date": "2038-01-22",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 15,
+      "6": 19,
+      "7": 7,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 10,
+      "C": 6,
+      "D": 2,
+      "E": 7,
+      "G": 27,
+      "L": 5,
+      "N": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 4,
+        "6": 3,
+        "7": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 10,
+        "5": 3,
+        "6": 9,
+        "7": 3,
+        "8": 1,
+        "9": 1
+      },
+      "L": {
+        "5": 2,
+        "6": 3
+      },
+      "N": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AG": 2,
+      "AL": 4,
+      "AN": 3,
+      "CA": 4,
+      "CL": 2,
+      "DA": 2,
+      "EA": 1,
+      "ED": 2,
+      "EG": 1,
+      "EL": 1,
+      "EN": 2,
+      "GA": 11,
+      "GE": 5,
+      "GL": 11,
+      "LA": 1,
+      "LE": 4,
+      "NA": 1
+    }
+  }
+}

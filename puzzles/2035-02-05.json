@@ -1,0 +1,108 @@
+{
+  "pangram": "phantom",
+  "center_letter": "t",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 115,
+  "answer_pangrams": [
+    "phantom"
+  ],
+  "answers": [
+    "atom",
+    "atop",
+    "hoot",
+    "mahatma",
+    "mammoth",
+    "math",
+    "moat",
+    "month",
+    "moot",
+    "moth",
+    "motto",
+    "naphtha",
+    "oath",
+    "onto",
+    "ottoman",
+    "pant",
+    "path",
+    "phantom",
+    "photo",
+    "photon",
+    "pontoon",
+    "potato",
+    "tamp",
+    "tampon",
+    "tattoo",
+    "than",
+    "that",
+    "tomato",
+    "toon",
+    "toot",
+    "tooth"
+  ],
+  "date": "2035-02-05",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 4,
+      "6": 5,
+      "7": 6
+    },
+    "by_first_letter": {
+      "A": 2,
+      "H": 1,
+      "M": 8,
+      "N": 1,
+      "O": 3,
+      "P": 7,
+      "T": 9
+    },
+    "grid": {
+      "A": {
+        "4": 2
+      },
+      "H": {
+        "4": 1
+      },
+      "M": {
+        "4": 4,
+        "5": 2,
+        "7": 2
+      },
+      "N": {
+        "7": 1
+      },
+      "O": {
+        "4": 2,
+        "7": 1
+      },
+      "P": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2
+      },
+      "T": {
+        "4": 5,
+        "5": 1,
+        "6": 3
+      }
+    },
+    "two_letter_list": {
+      "AT": 2,
+      "HO": 1,
+      "MA": 3,
+      "MO": 5,
+      "NA": 1,
+      "OA": 1,
+      "ON": 1,
+      "OT": 1,
+      "PA": 2,
+      "PH": 3,
+      "PO": 2,
+      "TA": 3,
+      "TH": 2,
+      "TO": 4
+    }
+  }
+}

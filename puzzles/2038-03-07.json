@@ -1,0 +1,128 @@
+{
+  "pangram": "agonize",
+  "center_letter": "i",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 227,
+  "answer_pangrams": [
+    "agonize"
+  ],
+  "answers": [
+    "again",
+    "aging",
+    "agonize",
+    "agonizing",
+    "angina",
+    "anion",
+    "egging",
+    "engaging",
+    "engine",
+    "gagging",
+    "gain",
+    "gaining",
+    "ganging",
+    "gazing",
+    "geeing",
+    "genie",
+    "genii",
+    "gigging",
+    "ginning",
+    "going",
+    "gonging",
+    "inane",
+    "inning",
+    "ionize",
+    "ionizing",
+    "nagging",
+    "nine",
+    "noggin",
+    "ongoing",
+    "onion",
+    "oozing",
+    "zigzag",
+    "zigzagging",
+    "zing",
+    "zinging",
+    "zinnia",
+    "zoning"
+  ],
+  "date": "2038-03-07",
+  "hints": {
+    "by_length": {
+      "4": 3,
+      "5": 8,
+      "6": 12,
+      "7": 10,
+      "8": 2,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "E": 3,
+      "G": 12,
+      "I": 4,
+      "N": 3,
+      "O": 3,
+      "Z": 6
+    },
+    "grid": {
+      "A": {
+        "5": 3,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "E": {
+        "6": 2,
+        "8": 1
+      },
+      "G": {
+        "4": 1,
+        "5": 3,
+        "6": 2,
+        "7": 6
+      },
+      "I": {
+        "5": 1,
+        "6": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "Z": {
+        "4": 1,
+        "6": 3,
+        "7": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 4,
+      "AN": 2,
+      "EG": 1,
+      "EN": 2,
+      "GA": 5,
+      "GE": 3,
+      "GI": 2,
+      "GO": 2,
+      "IN": 2,
+      "IO": 2,
+      "NA": 1,
+      "NI": 1,
+      "NO": 1,
+      "ON": 2,
+      "OO": 1,
+      "ZI": 5,
+      "ZO": 1
+    }
+  }
+}

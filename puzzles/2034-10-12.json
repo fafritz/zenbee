@@ -1,0 +1,125 @@
+{
+  "pangram": "winched",
+  "center_letter": "n",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 186,
+  "answer_pangrams": [
+    "winched"
+  ],
+  "answers": [
+    "chin",
+    "chinned",
+    "cinch",
+    "cinched",
+    "denied",
+    "dine",
+    "dined",
+    "dinned",
+    "ended",
+    "hence",
+    "hewn",
+    "hidden",
+    "hind",
+    "inch",
+    "inched",
+    "incidence",
+    "indeed",
+    "need",
+    "needed",
+    "nene",
+    "nice",
+    "niche",
+    "niece",
+    "nine",
+    "wend",
+    "wended",
+    "when",
+    "whence",
+    "whine",
+    "whined",
+    "whinnied",
+    "widen",
+    "widened",
+    "wince",
+    "winced",
+    "winch",
+    "winched",
+    "wind",
+    "winded",
+    "wine",
+    "wined"
+  ],
+  "date": "2034-10-12",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 11,
+      "6": 11,
+      "7": 4,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 4,
+      "D": 4,
+      "E": 1,
+      "H": 4,
+      "I": 4,
+      "N": 7,
+      "W": 17
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 1,
+        "7": 2
+      },
+      "D": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "E": {
+        "5": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 2,
+        "9": 1
+      },
+      "N": {
+        "4": 4,
+        "5": 2,
+        "6": 1
+      },
+      "W": {
+        "4": 4,
+        "5": 5,
+        "6": 5,
+        "7": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 2,
+      "CI": 2,
+      "DE": 1,
+      "DI": 3,
+      "EN": 1,
+      "HE": 2,
+      "HI": 2,
+      "IN": 4,
+      "NE": 3,
+      "NI": 4,
+      "WE": 2,
+      "WH": 5,
+      "WI": 10
+    }
+  }
+}

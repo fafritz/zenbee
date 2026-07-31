@@ -1,0 +1,102 @@
+{
+  "pangram": "gumdrop",
+  "center_letter": "r",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 82,
+  "answer_pangrams": [
+    "gumdrop"
+  ],
+  "answers": [
+    "door",
+    "dorm",
+    "dour",
+    "droop",
+    "drop",
+    "drug",
+    "drum",
+    "gorp",
+    "gourd",
+    "grog",
+    "groom",
+    "group",
+    "gumdrop",
+    "guru",
+    "moor",
+    "murmur",
+    "odor",
+    "pogrom",
+    "poor",
+    "pour",
+    "prod",
+    "prom",
+    "promo",
+    "prop",
+    "proud",
+    "purr",
+    "romp",
+    "rood",
+    "room",
+    "rumor",
+    "rump"
+  ],
+  "date": "2037-05-17",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 7,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "D": 7,
+      "G": 7,
+      "M": 2,
+      "O": 1,
+      "P": 9,
+      "R": 5
+    },
+    "grid": {
+      "D": {
+        "4": 6,
+        "5": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 3,
+        "7": 1
+      },
+      "M": {
+        "4": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 6,
+        "5": 2,
+        "6": 1
+      },
+      "R": {
+        "4": 4,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 3,
+      "DR": 4,
+      "GO": 2,
+      "GR": 3,
+      "GU": 2,
+      "MO": 1,
+      "MU": 1,
+      "OD": 1,
+      "PO": 3,
+      "PR": 5,
+      "PU": 1,
+      "RO": 3,
+      "RU": 2
+    }
+  }
+}

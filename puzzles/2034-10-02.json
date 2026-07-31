@@ -1,0 +1,153 @@
+{
+  "pangram": "bowling",
+  "center_letter": "l",
+  "num_answers": 61,
+  "num_pangrams": 4,
+  "possible_points": 330,
+  "answer_pangrams": [
+    "billowing",
+    "blowing",
+    "bowling",
+    "wobbling"
+  ],
+  "answers": [
+    "bill",
+    "billing",
+    "billion",
+    "billow",
+    "billowing",
+    "bling",
+    "blob",
+    "blobbing",
+    "blog",
+    "blogging",
+    "blow",
+    "blowing",
+    "blown",
+    "bobbling",
+    "boggling",
+    "boil",
+    "boiling",
+    "boll",
+    "bowl",
+    "bowling",
+    "giggling",
+    "gigolo",
+    "gill",
+    "glib",
+    "glob",
+    "globing",
+    "glow",
+    "glowing",
+    "gobbling",
+    "goblin",
+    "goggling",
+    "googling",
+    "igloo",
+    "lingo",
+    "lining",
+    "lion",
+    "lobbing",
+    "logging",
+    "login",
+    "logo",
+    "loin",
+    "loll",
+    "lolling",
+    "long",
+    "longing",
+    "loon",
+    "lowing",
+    "nibbling",
+    "niggling",
+    "obliging",
+    "oblong",
+    "ogling",
+    "oiling",
+    "olio",
+    "wiggling",
+    "wiling",
+    "will",
+    "willing",
+    "willow",
+    "wobbling",
+    "wool"
+  ],
+  "date": "2034-10-02",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 5,
+      "6": 10,
+      "7": 12,
+      "8": 13,
+      "9": 1
+    },
+    "by_first_letter": {
+      "B": 20,
+      "G": 12,
+      "I": 1,
+      "L": 14,
+      "N": 2,
+      "O": 5,
+      "W": 7
+    },
+    "grid": {
+      "B": {
+        "4": 7,
+        "5": 2,
+        "6": 1,
+        "7": 5,
+        "8": 4,
+        "9": 1
+      },
+      "G": {
+        "4": 4,
+        "6": 2,
+        "7": 2,
+        "8": 4
+      },
+      "I": {
+        "5": 1
+      },
+      "L": {
+        "4": 6,
+        "5": 2,
+        "6": 2,
+        "7": 4
+      },
+      "N": {
+        "8": 2
+      },
+      "O": {
+        "4": 1,
+        "6": 3,
+        "8": 1
+      },
+      "W": {
+        "4": 2,
+        "6": 2,
+        "7": 1,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "BI": 5,
+      "BL": 8,
+      "BO": 7,
+      "GI": 3,
+      "GL": 5,
+      "GO": 4,
+      "IG": 1,
+      "LI": 3,
+      "LO": 11,
+      "NI": 2,
+      "OB": 2,
+      "OG": 1,
+      "OI": 1,
+      "OL": 1,
+      "WI": 5,
+      "WO": 2
+    }
+  }
+}

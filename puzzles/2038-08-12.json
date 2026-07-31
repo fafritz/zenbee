@@ -1,0 +1,124 @@
+{
+  "pangram": "lucking",
+  "center_letter": "l",
+  "num_answers": 43,
+  "num_pangrams": 4,
+  "possible_points": 251,
+  "answer_pangrams": [
+    "clucking",
+    "clunking",
+    "knuckling",
+    "lucking"
+  ],
+  "answers": [
+    "click",
+    "clicking",
+    "cling",
+    "clinging",
+    "clinic",
+    "clink",
+    "clinking",
+    "cluck",
+    "clucking",
+    "cluing",
+    "clung",
+    "clunk",
+    "clunking",
+    "cull",
+    "culling",
+    "giggling",
+    "gill",
+    "gluing",
+    "gull",
+    "gulling",
+    "inclining",
+    "inkling",
+    "kill",
+    "killing",
+    "kiln",
+    "kilning",
+    "knuckling",
+    "lick",
+    "licking",
+    "liking",
+    "lining",
+    "link",
+    "linking",
+    "luck",
+    "lucking",
+    "lugging",
+    "lull",
+    "lulling",
+    "lulu",
+    "lung",
+    "lunging",
+    "niggling",
+    "null"
+  ],
+  "date": "2038-08-12",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 6,
+      "6": 5,
+      "7": 11,
+      "8": 7,
+      "9": 2
+    },
+    "by_first_letter": {
+      "C": 15,
+      "G": 5,
+      "I": 2,
+      "K": 5,
+      "L": 14,
+      "N": 2
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 6,
+        "6": 2,
+        "7": 1,
+        "8": 5
+      },
+      "G": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "I": {
+        "7": 1,
+        "9": 1
+      },
+      "K": {
+        "4": 2,
+        "7": 2,
+        "9": 1
+      },
+      "L": {
+        "4": 6,
+        "6": 2,
+        "7": 6
+      },
+      "N": {
+        "4": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 13,
+      "CU": 2,
+      "GI": 2,
+      "GL": 1,
+      "GU": 2,
+      "IN": 2,
+      "KI": 4,
+      "KN": 1,
+      "LI": 6,
+      "LU": 8,
+      "NI": 1,
+      "NU": 1
+    }
+  }
+}

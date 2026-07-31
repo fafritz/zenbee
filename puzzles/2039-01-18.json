@@ -1,0 +1,70 @@
+{
+  "pangram": "piquant",
+  "center_letter": "p",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 65,
+  "answer_pangrams": [
+    "piquant"
+  ],
+  "answers": [
+    "inapt",
+    "input",
+    "pain",
+    "paint",
+    "pant",
+    "papa",
+    "patina",
+    "pint",
+    "pinup",
+    "pipit",
+    "pippin",
+    "piquant",
+    "pita",
+    "punt",
+    "pupa",
+    "putt",
+    "quip",
+    "unpin"
+  ],
+  "date": "2039-01-18",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 6,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "I": 2,
+      "P": 14,
+      "Q": 1,
+      "U": 1
+    },
+    "grid": {
+      "I": {
+        "5": 2
+      },
+      "P": {
+        "4": 8,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "Q": {
+        "4": 1
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "IN": 2,
+      "PA": 5,
+      "PI": 6,
+      "PU": 3,
+      "QU": 1,
+      "UN": 1
+    }
+  }
+}

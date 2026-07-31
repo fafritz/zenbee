@@ -1,0 +1,88 @@
+{
+  "pangram": "weighty",
+  "center_letter": "h",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 109,
+  "answer_pangrams": [
+    "weighty"
+  ],
+  "answers": [
+    "eight",
+    "eighth",
+    "eightieth",
+    "eighty",
+    "eyeteeth",
+    "height",
+    "high",
+    "teeth",
+    "teethe",
+    "thee",
+    "they",
+    "thigh",
+    "tight",
+    "tithe",
+    "weigh",
+    "weight",
+    "weighty",
+    "whet",
+    "whew",
+    "whey",
+    "whit",
+    "white",
+    "wight",
+    "with"
+  ],
+  "date": "2036-06-07",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 8,
+      "6": 5,
+      "7": 1,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "E": 5,
+      "H": 2,
+      "T": 7,
+      "W": 10
+    },
+    "grid": {
+      "E": {
+        "5": 1,
+        "6": 2,
+        "8": 1,
+        "9": 1
+      },
+      "H": {
+        "4": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 4,
+        "6": 1
+      },
+      "W": {
+        "4": 5,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "EI": 4,
+      "EY": 1,
+      "HE": 1,
+      "HI": 1,
+      "TE": 2,
+      "TH": 3,
+      "TI": 2,
+      "WE": 3,
+      "WH": 5,
+      "WI": 2
+    }
+  }
+}

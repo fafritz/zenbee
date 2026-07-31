@@ -1,0 +1,95 @@
+{
+  "pangram": "menfolk",
+  "center_letter": "o",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 56,
+  "answer_pangrams": [
+    "menfolk"
+  ],
+  "answers": [
+    "felon",
+    "floe",
+    "folk",
+    "fool",
+    "knoll",
+    "kook",
+    "lemon",
+    "loll",
+    "lone",
+    "look",
+    "loom",
+    "loon",
+    "melon",
+    "memo",
+    "menfolk",
+    "mole",
+    "moll",
+    "monk",
+    "mono",
+    "moon",
+    "neon",
+    "noel",
+    "none",
+    "nook",
+    "noon",
+    "oleo",
+    "omen"
+  ],
+  "date": "2032-04-26",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 4,
+      "7": 1
+    },
+    "by_first_letter": {
+      "F": 4,
+      "K": 2,
+      "L": 6,
+      "M": 8,
+      "N": 5,
+      "O": 2
+    },
+    "grid": {
+      "F": {
+        "4": 3,
+        "5": 1
+      },
+      "K": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 1
+      },
+      "M": {
+        "4": 6,
+        "5": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 5
+      },
+      "O": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "FE": 1,
+      "FL": 1,
+      "FO": 2,
+      "KN": 1,
+      "KO": 1,
+      "LE": 1,
+      "LO": 5,
+      "ME": 3,
+      "MO": 5,
+      "NE": 1,
+      "NO": 4,
+      "OL": 1,
+      "OM": 1
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "pangram": "compile",
+  "center_letter": "c",
+  "num_answers": 32,
+  "num_pangrams": 2,
+  "possible_points": 129,
+  "answer_pangrams": [
+    "compile",
+    "polemic"
+  ],
+  "answers": [
+    "cell",
+    "cello",
+    "clime",
+    "clip",
+    "clomp",
+    "clop",
+    "cocci",
+    "coil",
+    "colic",
+    "collie",
+    "come",
+    "comic",
+    "comp",
+    "compel",
+    "compile",
+    "compo",
+    "cool",
+    "coolie",
+    "coop",
+    "cope",
+    "emcee",
+    "epic",
+    "icicle",
+    "lice",
+    "loci",
+    "loco",
+    "mice",
+    "mimic",
+    "piccolo",
+    "piece",
+    "polemic",
+    "police"
+  ],
+  "date": "2028-07-12",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 10,
+      "6": 5,
+      "7": 3
+    },
+    "by_first_letter": {
+      "C": 20,
+      "E": 2,
+      "I": 1,
+      "L": 3,
+      "M": 2,
+      "P": 4
+    },
+    "grid": {
+      "C": {
+        "4": 9,
+        "5": 7,
+        "6": 3,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "L": {
+        "4": 3
+      },
+      "M": {
+        "4": 1,
+        "5": 1
+      },
+      "P": {
+        "5": 1,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "CE": 2,
+      "CL": 4,
+      "CO": 14,
+      "EM": 1,
+      "EP": 1,
+      "IC": 1,
+      "LI": 1,
+      "LO": 2,
+      "MI": 2,
+      "PI": 2,
+      "PO": 2
+    }
+  }
+}

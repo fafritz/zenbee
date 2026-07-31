@@ -1,0 +1,75 @@
+{
+  "pangram": "audibly",
+  "center_letter": "u",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 66,
+  "answer_pangrams": [
+    "audibly"
+  ],
+  "answers": [
+    "audibly",
+    "baud",
+    "bubbly",
+    "buddy",
+    "build",
+    "bulb",
+    "bull",
+    "bully",
+    "daub",
+    "dual",
+    "dull",
+    "dully",
+    "duly",
+    "laud",
+    "laudably",
+    "luau",
+    "lull",
+    "lullaby",
+    "lulu"
+  ],
+  "date": "2028-03-09",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 4,
+      "6": 1,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 7,
+      "D": 5,
+      "L": 6
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "B": {
+        "4": 3,
+        "5": 3,
+        "6": 1
+      },
+      "D": {
+        "4": 4,
+        "5": 1
+      },
+      "L": {
+        "4": 4,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AU": 1,
+      "BA": 1,
+      "BU": 6,
+      "DA": 1,
+      "DU": 4,
+      "LA": 2,
+      "LU": 4
+    }
+  }
+}

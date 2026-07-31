@@ -1,0 +1,135 @@
+{
+  "pangram": "angrily",
+  "center_letter": "r",
+  "num_answers": 54,
+  "num_pangrams": 3,
+  "possible_points": 292,
+  "answer_pangrams": [
+    "angrily",
+    "glaringly",
+    "rallying"
+  ],
+  "answers": [
+    "agar",
+    "agrarian",
+    "airily",
+    "airing",
+    "airy",
+    "angrily",
+    "angry",
+    "aria",
+    "arraign",
+    "arraigning",
+    "arranging",
+    "array",
+    "arraying",
+    "garaging",
+    "gargling",
+    "girl",
+    "glaring",
+    "glaringly",
+    "gnarly",
+    "grail",
+    "grain",
+    "grainy",
+    "granary",
+    "granny",
+    "gray",
+    "graying",
+    "grill",
+    "grilling",
+    "grin",
+    "grinning",
+    "lair",
+    "liar",
+    "lira",
+    "raga",
+    "ragging",
+    "raging",
+    "raglan",
+    "rail",
+    "railing",
+    "rain",
+    "raining",
+    "rainy",
+    "rally",
+    "rallying",
+    "rang",
+    "ranging",
+    "rangy",
+    "raring",
+    "rigging",
+    "riling",
+    "rill",
+    "ring",
+    "ringing",
+    "yarn"
+  ],
+  "date": "2033-12-20",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 8,
+      "6": 9,
+      "7": 11,
+      "8": 7,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 13,
+      "G": 17,
+      "L": 3,
+      "R": 20,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 1,
+        "10": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 3,
+        "6": 3,
+        "7": 3,
+        "8": 4,
+        "9": 1
+      },
+      "L": {
+        "4": 3
+      },
+      "R": {
+        "4": 6,
+        "5": 3,
+        "6": 4,
+        "7": 6,
+        "8": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 3,
+      "AN": 2,
+      "AR": 6,
+      "GA": 2,
+      "GI": 1,
+      "GL": 2,
+      "GN": 1,
+      "GR": 11,
+      "LA": 1,
+      "LI": 2,
+      "RA": 15,
+      "RI": 5,
+      "YA": 1
+    }
+  }
+}

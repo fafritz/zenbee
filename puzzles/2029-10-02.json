@@ -1,0 +1,85 @@
+{
+  "pangram": "couplet",
+  "center_letter": "c",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 103,
+  "answer_pangrams": [
+    "couplet"
+  ],
+  "answers": [
+    "cell",
+    "cello",
+    "clop",
+    "clot",
+    "clout",
+    "clue",
+    "collect",
+    "colt",
+    "cool",
+    "coop",
+    "coot",
+    "cope",
+    "cote",
+    "coup",
+    "coupe",
+    "couple",
+    "couplet",
+    "cull",
+    "cult",
+    "cute",
+    "cutlet",
+    "cutout",
+    "cutup",
+    "elect",
+    "lettuce",
+    "loco",
+    "occult",
+    "ocelot",
+    "octet"
+  ],
+  "date": "2029-10-02",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 6,
+      "6": 5,
+      "7": 3
+    },
+    "by_first_letter": {
+      "C": 23,
+      "E": 1,
+      "L": 2,
+      "O": 3
+    },
+    "grid": {
+      "C": {
+        "4": 14,
+        "5": 4,
+        "6": 3,
+        "7": 2
+      },
+      "E": {
+        "5": 1
+      },
+      "L": {
+        "4": 1,
+        "7": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "CE": 2,
+      "CL": 4,
+      "CO": 11,
+      "CU": 6,
+      "EL": 1,
+      "LE": 1,
+      "LO": 1,
+      "OC": 3
+    }
+  }
+}

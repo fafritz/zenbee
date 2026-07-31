@@ -1,0 +1,136 @@
+{
+  "pangram": "lazying",
+  "center_letter": "n",
+  "num_answers": 47,
+  "num_pangrams": 2,
+  "possible_points": 278,
+  "answer_pangrams": [
+    "analyzing",
+    "lazying"
+  ],
+  "answers": [
+    "again",
+    "aging",
+    "ailing",
+    "align",
+    "aligning",
+    "allaying",
+    "allying",
+    "anal",
+    "analyzing",
+    "angina",
+    "angling",
+    "gagging",
+    "gain",
+    "gaining",
+    "galling",
+    "gang",
+    "ganging",
+    "ganglia",
+    "gangling",
+    "gazing",
+    "gigging",
+    "giggling",
+    "ginning",
+    "glazing",
+    "inlay",
+    "inlaying",
+    "inning",
+    "lagging",
+    "lain",
+    "laying",
+    "lazing",
+    "lazying",
+    "lining",
+    "lying",
+    "naan",
+    "nagging",
+    "nail",
+    "nailing",
+    "nana",
+    "nanny",
+    "niggling",
+    "ninny",
+    "zany",
+    "zigzagging",
+    "zing",
+    "zinging",
+    "zinnia"
+  ],
+  "date": "2030-12-01",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 7,
+      "6": 8,
+      "7": 15,
+      "8": 6,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 11,
+      "G": 13,
+      "I": 3,
+      "L": 7,
+      "N": 8,
+      "Z": 5
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 1
+      },
+      "G": {
+        "4": 2,
+        "6": 1,
+        "7": 8,
+        "8": 2
+      },
+      "I": {
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 2
+      },
+      "N": {
+        "4": 3,
+        "5": 2,
+        "7": 2,
+        "8": 1
+      },
+      "Z": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 1,
+      "AL": 4,
+      "AN": 4,
+      "GA": 9,
+      "GI": 3,
+      "GL": 1,
+      "IN": 3,
+      "LA": 5,
+      "LI": 1,
+      "LY": 1,
+      "NA": 6,
+      "NI": 2,
+      "ZA": 1,
+      "ZI": 4
+    }
+  }
+}

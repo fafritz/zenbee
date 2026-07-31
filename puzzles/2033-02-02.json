@@ -1,0 +1,138 @@
+{
+  "pangram": "worming",
+  "center_letter": "r",
+  "num_answers": 47,
+  "num_pangrams": 2,
+  "possible_points": 256,
+  "answer_pangrams": [
+    "ringworm",
+    "worming"
+  ],
+  "answers": [
+    "gorging",
+    "goring",
+    "grim",
+    "griming",
+    "grin",
+    "grinning",
+    "grog",
+    "groin",
+    "groom",
+    "grooming",
+    "grow",
+    "growing",
+    "grown",
+    "ignoring",
+    "ingrown",
+    "iron",
+    "ironing",
+    "minor",
+    "minoring",
+    "miring",
+    "mirror",
+    "mirroring",
+    "moor",
+    "mooring",
+    "morn",
+    "morning",
+    "moron",
+    "morrow",
+    "norm",
+    "origin",
+    "rigging",
+    "rigor",
+    "riming",
+    "ring",
+    "ringing",
+    "ringworm",
+    "room",
+    "rooming",
+    "rowing",
+    "wiring",
+    "worm",
+    "worming",
+    "worn",
+    "wring",
+    "wringing",
+    "wrong",
+    "wronging"
+  ],
+  "date": "2033-02-02",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 8,
+      "6": 8,
+      "7": 11,
+      "8": 7,
+      "9": 1
+    },
+    "by_first_letter": {
+      "G": 13,
+      "I": 4,
+      "M": 11,
+      "N": 1,
+      "O": 1,
+      "R": 9,
+      "W": 8
+    },
+    "grid": {
+      "G": {
+        "4": 4,
+        "5": 3,
+        "6": 1,
+        "7": 3,
+        "8": 2
+      },
+      "I": {
+        "4": 1,
+        "7": 2,
+        "8": 1
+      },
+      "M": {
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "O": {
+        "6": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 3,
+        "8": 1
+      },
+      "W": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "GO": 2,
+      "GR": 11,
+      "IG": 1,
+      "IN": 1,
+      "IR": 2,
+      "MI": 5,
+      "MO": 6,
+      "NO": 1,
+      "OR": 1,
+      "RI": 6,
+      "RO": 3,
+      "WI": 1,
+      "WO": 3,
+      "WR": 4
+    }
+  }
+}

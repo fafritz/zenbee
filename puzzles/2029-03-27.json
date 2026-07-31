@@ -1,0 +1,111 @@
+{
+  "pangram": "halcyon",
+  "center_letter": "l",
+  "num_answers": 39,
+  "num_pangrams": 1,
+  "possible_points": 140,
+  "answer_pangrams": [
+    "halcyon"
+  ],
+  "answers": [
+    "alcohol",
+    "allay",
+    "alloy",
+    "ally",
+    "aloha",
+    "anal",
+    "call",
+    "calla",
+    "canal",
+    "clan",
+    "clay",
+    "cloy",
+    "coal",
+    "cola",
+    "colon",
+    "colony",
+    "cool",
+    "coolly",
+    "coyly",
+    "halal",
+    "halcyon",
+    "hall",
+    "halo",
+    "halon",
+    "holly",
+    "holy",
+    "lacy",
+    "llano",
+    "loan",
+    "local",
+    "locally",
+    "loco",
+    "loll",
+    "loon",
+    "loyal",
+    "loyally",
+    "lynch",
+    "nylon",
+    "only"
+  ],
+  "date": "2029-03-27",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 15,
+      "6": 2,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 13,
+      "H": 7,
+      "L": 11,
+      "N": 1,
+      "O": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "7": 1
+      },
+      "C": {
+        "4": 7,
+        "5": 4,
+        "6": 2
+      },
+      "H": {
+        "4": 3,
+        "5": 3,
+        "7": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 4,
+        "7": 2
+      },
+      "N": {
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 5,
+      "AN": 1,
+      "CA": 3,
+      "CL": 3,
+      "CO": 7,
+      "HA": 5,
+      "HO": 2,
+      "LA": 1,
+      "LL": 1,
+      "LO": 8,
+      "LY": 1,
+      "NY": 1,
+      "ON": 1
+    }
+  }
+}

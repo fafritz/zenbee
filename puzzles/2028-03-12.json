@@ -1,0 +1,90 @@
+{
+  "pangram": "twinkle",
+  "center_letter": "k",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 88,
+  "answer_pangrams": [
+    "twinkle"
+  ],
+  "answers": [
+    "inkwell",
+    "keel",
+    "keen",
+    "kennel",
+    "kettle",
+    "kill",
+    "kiln",
+    "kilt",
+    "kink",
+    "kite",
+    "kitten",
+    "kiwi",
+    "knee",
+    "kneel",
+    "knell",
+    "knelt",
+    "knew",
+    "knit",
+    "leek",
+    "like",
+    "liken",
+    "link",
+    "tinkle",
+    "twinkle",
+    "week",
+    "welkin",
+    "wiki",
+    "wink"
+  ],
+  "date": "2028-03-12",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 4,
+      "6": 5,
+      "7": 2
+    },
+    "by_first_letter": {
+      "I": 1,
+      "K": 17,
+      "L": 4,
+      "T": 2,
+      "W": 4
+    },
+    "grid": {
+      "I": {
+        "7": 1
+      },
+      "K": {
+        "4": 11,
+        "5": 3,
+        "6": 3
+      },
+      "L": {
+        "4": 3,
+        "5": 1
+      },
+      "T": {
+        "6": 1,
+        "7": 1
+      },
+      "W": {
+        "4": 3,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "IN": 1,
+      "KE": 4,
+      "KI": 7,
+      "KN": 6,
+      "LE": 1,
+      "LI": 3,
+      "TI": 1,
+      "TW": 1,
+      "WE": 2,
+      "WI": 2
+    }
+  }
+}

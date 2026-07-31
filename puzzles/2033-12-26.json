@@ -1,0 +1,79 @@
+{
+  "pangram": "hulking",
+  "center_letter": "u",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 94,
+  "answer_pangrams": [
+    "hulking"
+  ],
+  "answers": [
+    "gluing",
+    "gull",
+    "gulling",
+    "gunk",
+    "gunning",
+    "hugging",
+    "hulk",
+    "hulking",
+    "hull",
+    "hulling",
+    "hung",
+    "hunk",
+    "lugging",
+    "lull",
+    "lulling",
+    "lulu",
+    "lung",
+    "lunging",
+    "nuking",
+    "null",
+    "unhinging"
+  ],
+  "date": "2033-12-26",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "6": 2,
+      "7": 8,
+      "9": 1
+    },
+    "by_first_letter": {
+      "G": 5,
+      "H": 7,
+      "L": 6,
+      "N": 2,
+      "U": 1
+    },
+    "grid": {
+      "G": {
+        "4": 2,
+        "6": 1,
+        "7": 2
+      },
+      "H": {
+        "4": 4,
+        "7": 3
+      },
+      "L": {
+        "4": 3,
+        "7": 3
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "U": {
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "GL": 1,
+      "GU": 4,
+      "HU": 7,
+      "LU": 6,
+      "NU": 2,
+      "UN": 1
+    }
+  }
+}

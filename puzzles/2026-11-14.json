@@ -1,0 +1,127 @@
+{
+  "pangram": "banquet",
+  "center_letter": "t",
+  "num_answers": 39,
+  "num_pangrams": 1,
+  "possible_points": 159,
+  "answer_pangrams": [
+    "banquet"
+  ],
+  "answers": [
+    "abate",
+    "abet",
+    "abut",
+    "ante",
+    "antenna",
+    "antennae",
+    "aquanaut",
+    "attenuate",
+    "attune",
+    "aunt",
+    "banquet",
+    "batten",
+    "beat",
+    "beaten",
+    "beet",
+    "bent",
+    "beta",
+    "bunt",
+    "butane",
+    "butte",
+    "eaten",
+    "entente",
+    "equate",
+    "neat",
+    "quanta",
+    "taunt",
+    "taut",
+    "teen",
+    "tenant",
+    "tenet",
+    "tent",
+    "tuba",
+    "tube",
+    "tuna",
+    "tune",
+    "tutu",
+    "unbeaten",
+    "unbent",
+    "uneaten"
+  ],
+  "date": "2026-11-14",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 5,
+      "6": 8,
+      "7": 4,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 10,
+      "B": 10,
+      "E": 3,
+      "N": 1,
+      "Q": 1,
+      "T": 11,
+      "U": 3
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 1
+      },
+      "B": {
+        "4": 5,
+        "5": 1,
+        "6": 3,
+        "7": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "Q": {
+        "6": 1
+      },
+      "T": {
+        "4": 8,
+        "5": 2,
+        "6": 1
+      },
+      "U": {
+        "6": 1,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 3,
+      "AN": 3,
+      "AQ": 1,
+      "AT": 2,
+      "AU": 1,
+      "BA": 2,
+      "BE": 5,
+      "BU": 3,
+      "EA": 1,
+      "EN": 1,
+      "EQ": 1,
+      "NE": 1,
+      "QU": 1,
+      "TA": 2,
+      "TE": 4,
+      "TU": 5,
+      "UN": 3
+    }
+  }
+}

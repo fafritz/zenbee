@@ -1,0 +1,114 @@
+{
+  "pangram": "burping",
+  "center_letter": "u",
+  "num_answers": 35,
+  "num_pangrams": 2,
+  "possible_points": 198,
+  "answer_pangrams": [
+    "burping",
+    "upbringing"
+  ],
+  "answers": [
+    "bruin",
+    "bugging",
+    "bung",
+    "bunging",
+    "burg",
+    "burn",
+    "burning",
+    "burp",
+    "burping",
+    "burr",
+    "burring",
+    "grub",
+    "grubbing",
+    "gunning",
+    "gunrunning",
+    "guru",
+    "inuring",
+    "pinup",
+    "pruning",
+    "punning",
+    "pupping",
+    "purging",
+    "purr",
+    "purring",
+    "rubbing",
+    "ruin",
+    "ruing",
+    "ruining",
+    "rung",
+    "running",
+    "unpin",
+    "unpinning",
+    "upbringing",
+    "upping",
+    "urging"
+  ],
+  "date": "2036-05-06",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 4,
+      "6": 2,
+      "7": 15,
+      "8": 1,
+      "9": 1,
+      "10": 2
+    },
+    "by_first_letter": {
+      "B": 11,
+      "G": 5,
+      "I": 1,
+      "P": 7,
+      "R": 6,
+      "U": 5
+    },
+    "grid": {
+      "B": {
+        "4": 5,
+        "5": 1,
+        "7": 5
+      },
+      "G": {
+        "4": 2,
+        "7": 1,
+        "8": 1,
+        "10": 1
+      },
+      "I": {
+        "7": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "7": 5
+      },
+      "R": {
+        "4": 2,
+        "5": 1,
+        "7": 3
+      },
+      "U": {
+        "5": 1,
+        "6": 2,
+        "9": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "BR": 1,
+      "BU": 10,
+      "GR": 2,
+      "GU": 3,
+      "IN": 1,
+      "PI": 1,
+      "PR": 1,
+      "PU": 5,
+      "RU": 6,
+      "UN": 2,
+      "UP": 2,
+      "UR": 1
+    }
+  }
+}

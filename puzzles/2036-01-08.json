@@ -1,0 +1,92 @@
+{
+  "pangram": "amplify",
+  "center_letter": "y",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 91,
+  "answer_pangrams": [
+    "amplify"
+  ],
+  "answers": [
+    "allay",
+    "ally",
+    "amplify",
+    "amply",
+    "apply",
+    "family",
+    "filly",
+    "filmy",
+    "flay",
+    "flippy",
+    "iffy",
+    "imply",
+    "lily",
+    "limply",
+    "limy",
+    "mayfly",
+    "palmy",
+    "papaya",
+    "pimply",
+    "play"
+  ],
+  "date": "2036-01-08",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 7,
+      "6": 6,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "F": 5,
+      "I": 2,
+      "L": 3,
+      "M": 1,
+      "P": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "7": 1
+      },
+      "F": {
+        "4": 1,
+        "5": 2,
+        "6": 2
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 2,
+        "6": 1
+      },
+      "M": {
+        "6": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "AM": 2,
+      "AP": 1,
+      "FA": 1,
+      "FI": 2,
+      "FL": 2,
+      "IF": 1,
+      "IM": 1,
+      "LI": 3,
+      "MA": 1,
+      "PA": 2,
+      "PI": 1,
+      "PL": 1
+    }
+  }
+}

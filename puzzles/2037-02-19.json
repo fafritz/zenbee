@@ -1,0 +1,120 @@
+{
+  "pangram": "locking",
+  "center_letter": "c",
+  "num_answers": 48,
+  "num_pangrams": 2,
+  "possible_points": 256,
+  "answer_pangrams": [
+    "clocking",
+    "locking"
+  ],
+  "answers": [
+    "click",
+    "clicking",
+    "cling",
+    "clinging",
+    "clinic",
+    "clink",
+    "clinking",
+    "clock",
+    "clocking",
+    "clog",
+    "clogging",
+    "cloning",
+    "cocci",
+    "cocking",
+    "cocoon",
+    "cocooning",
+    "coil",
+    "coiling",
+    "coin",
+    "coining",
+    "coking",
+    "colic",
+    "colon",
+    "conic",
+    "conk",
+    "conking",
+    "conning",
+    "cooing",
+    "cook",
+    "cooking",
+    "cool",
+    "cooling",
+    "icing",
+    "icon",
+    "inclining",
+    "kick",
+    "kicking",
+    "knock",
+    "knocking",
+    "lick",
+    "licking",
+    "loci",
+    "lock",
+    "locking",
+    "loco",
+    "logic",
+    "nick",
+    "nicking"
+  ],
+  "date": "2037-02-19",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 11,
+      "6": 4,
+      "7": 12,
+      "8": 6,
+      "9": 2
+    },
+    "by_first_letter": {
+      "C": 32,
+      "I": 3,
+      "K": 4,
+      "L": 7,
+      "N": 2
+    },
+    "grid": {
+      "C": {
+        "4": 6,
+        "5": 8,
+        "6": 4,
+        "7": 8,
+        "8": 5,
+        "9": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "9": 1
+      },
+      "K": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 1,
+        "7": 2
+      },
+      "N": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 12,
+      "CO": 20,
+      "IC": 2,
+      "IN": 1,
+      "KI": 2,
+      "KN": 2,
+      "LI": 2,
+      "LO": 5,
+      "NI": 2
+    }
+  }
+}

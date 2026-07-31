@@ -1,0 +1,115 @@
+{
+  "pangram": "deathly",
+  "center_letter": "y",
+  "num_answers": 30,
+  "num_pangrams": 2,
+  "possible_points": 156,
+  "answer_pangrams": [
+    "deathly",
+    "heatedly"
+  ],
+  "answers": [
+    "allay",
+    "allayed",
+    "alley",
+    "ally",
+    "daddy",
+    "dally",
+    "deadly",
+    "deathly",
+    "delay",
+    "delayed",
+    "dyed",
+    "eddy",
+    "eyed",
+    "eyelet",
+    "eyeteeth",
+    "hayed",
+    "heady",
+    "healthy",
+    "heatedly",
+    "heyday",
+    "lady",
+    "lately",
+    "layette",
+    "lethally",
+    "tally",
+    "tatty",
+    "they",
+    "yeah",
+    "yell",
+    "yelled"
+  ],
+  "date": "2033-11-27",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 9,
+      "6": 5,
+      "7": 5,
+      "8": 3
+    },
+    "by_first_letter": {
+      "A": 4,
+      "D": 7,
+      "E": 4,
+      "H": 5,
+      "L": 4,
+      "T": 3,
+      "Y": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 2
+      },
+      "E": {
+        "4": 2,
+        "6": 1,
+        "8": 1
+      },
+      "H": {
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 2
+      },
+      "Y": {
+        "4": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 4,
+      "DA": 2,
+      "DE": 4,
+      "DY": 1,
+      "ED": 1,
+      "EY": 3,
+      "HA": 1,
+      "HE": 4,
+      "LA": 3,
+      "LE": 1,
+      "TA": 2,
+      "TH": 1,
+      "YE": 3
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "pangram": "factory",
+  "center_letter": "f",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 65,
+  "answer_pangrams": [
+    "factory"
+  ],
+  "answers": [
+    "afar",
+    "afoot",
+    "craft",
+    "crafty",
+    "fact",
+    "factor",
+    "factory",
+    "fart",
+    "fatty",
+    "foot",
+    "foray",
+    "fort",
+    "forty",
+    "frat",
+    "fray",
+    "raft",
+    "roof",
+    "taffy"
+  ],
+  "date": "2027-01-15",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 6,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 2,
+      "F": 11,
+      "R": 2,
+      "T": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1
+      },
+      "C": {
+        "5": 1,
+        "6": 1
+      },
+      "F": {
+        "4": 6,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 2
+      },
+      "T": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AF": 2,
+      "CR": 2,
+      "FA": 5,
+      "FO": 4,
+      "FR": 2,
+      "RA": 1,
+      "RO": 1,
+      "TA": 1
+    }
+  }
+}

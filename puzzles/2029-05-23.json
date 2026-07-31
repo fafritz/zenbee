@@ -1,0 +1,110 @@
+{
+  "pangram": "antique",
+  "center_letter": "a",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 143,
+  "answer_pangrams": [
+    "antique"
+  ],
+  "answers": [
+    "ante",
+    "antenna",
+    "antennae",
+    "anti",
+    "antique",
+    "aqua",
+    "aquanaut",
+    "attain",
+    "attenuate",
+    "attune",
+    "aunt",
+    "eaten",
+    "equate",
+    "inane",
+    "initiate",
+    "innate",
+    "naan",
+    "nana",
+    "neat",
+    "quaint",
+    "quanta",
+    "taint",
+    "tannin",
+    "taunt",
+    "taut",
+    "tenant",
+    "titan",
+    "tuna",
+    "uneaten"
+  ],
+  "date": "2029-05-23",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 5,
+      "6": 8,
+      "7": 3,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 11,
+      "E": 2,
+      "I": 3,
+      "N": 3,
+      "Q": 2,
+      "T": 7,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 3
+      },
+      "Q": {
+        "6": 2
+      },
+      "T": {
+        "4": 2,
+        "5": 3,
+        "6": 2
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 5,
+      "AQ": 2,
+      "AT": 3,
+      "AU": 1,
+      "EA": 1,
+      "EQ": 1,
+      "IN": 3,
+      "NA": 2,
+      "NE": 1,
+      "QU": 2,
+      "TA": 4,
+      "TE": 1,
+      "TI": 1,
+      "TU": 1,
+      "UN": 1
+    }
+  }
+}

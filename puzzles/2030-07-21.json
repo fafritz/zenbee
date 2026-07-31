@@ -1,0 +1,85 @@
+{
+  "pangram": "matchup",
+  "center_letter": "c",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 73,
+  "answer_pangrams": [
+    "matchup"
+  ],
+  "answers": [
+    "attach",
+    "camp",
+    "catch",
+    "champ",
+    "chap",
+    "chat",
+    "chum",
+    "chump",
+    "cutup",
+    "hatch",
+    "hutch",
+    "match",
+    "matchup",
+    "much",
+    "pact",
+    "patch",
+    "tact",
+    "thatch"
+  ],
+  "date": "2030-07-21",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 8,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 8,
+      "H": 2,
+      "M": 3,
+      "P": 2,
+      "T": 2
+    },
+    "grid": {
+      "A": {
+        "6": 1
+      },
+      "C": {
+        "4": 4,
+        "5": 4
+      },
+      "H": {
+        "5": 2
+      },
+      "M": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 1
+      },
+      "T": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AT": 1,
+      "CA": 2,
+      "CH": 5,
+      "CU": 1,
+      "HA": 1,
+      "HU": 1,
+      "MA": 2,
+      "MU": 1,
+      "PA": 2,
+      "TA": 1,
+      "TH": 1
+    }
+  }
+}

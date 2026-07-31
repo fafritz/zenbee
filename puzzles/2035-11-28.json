@@ -1,0 +1,128 @@
+{
+  "pangram": "vetoing",
+  "center_letter": "o",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 194,
+  "answer_pangrams": [
+    "vetoing"
+  ],
+  "answers": [
+    "eggnog",
+    "going",
+    "gone",
+    "gong",
+    "gonging",
+    "goon",
+    "gotten",
+    "ignition",
+    "ingot",
+    "intention",
+    "into",
+    "intone",
+    "intoning",
+    "invention",
+    "neon",
+    "noggin",
+    "none",
+    "nonevent",
+    "noon",
+    "note",
+    "noting",
+    "notion",
+    "ongoing",
+    "onion",
+    "onto",
+    "oven",
+    "tenon",
+    "tenoning",
+    "toeing",
+    "tone",
+    "toning",
+    "toon",
+    "toot",
+    "tooting",
+    "tote",
+    "toting",
+    "totting",
+    "veto",
+    "vetoing",
+    "vote",
+    "voting",
+    "votive"
+  ],
+  "date": "2035-11-28",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 4,
+      "6": 11,
+      "7": 5,
+      "8": 4,
+      "9": 2
+    },
+    "by_first_letter": {
+      "E": 1,
+      "G": 6,
+      "I": 7,
+      "N": 8,
+      "O": 4,
+      "T": 11,
+      "V": 5
+    },
+    "grid": {
+      "E": {
+        "6": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "8": 2,
+        "9": 2
+      },
+      "N": {
+        "4": 4,
+        "6": 3,
+        "8": 1
+      },
+      "O": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      },
+      "V": {
+        "4": 2,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "EG": 1,
+      "GO": 6,
+      "IG": 1,
+      "IN": 6,
+      "NE": 1,
+      "NO": 7,
+      "ON": 3,
+      "OV": 1,
+      "TE": 2,
+      "TO": 9,
+      "VE": 2,
+      "VO": 3
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "pangram": "fatigue",
+  "center_letter": "t",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 52,
+  "answer_pangrams": [
+    "fatigue"
+  ],
+  "answers": [
+    "agate",
+    "agitate",
+    "effete",
+    "fate",
+    "fatigue",
+    "feat",
+    "feet",
+    "feta",
+    "fete",
+    "fiat",
+    "gait",
+    "gate",
+    "gift",
+    "taffeta",
+    "taut",
+    "tiff",
+    "tuft",
+    "tutu"
+  ],
+  "date": "2033-08-24",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 1,
+      "6": 1,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 2,
+      "E": 1,
+      "F": 7,
+      "G": 3,
+      "T": 5
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "7": 1
+      },
+      "E": {
+        "6": 1
+      },
+      "F": {
+        "4": 6,
+        "7": 1
+      },
+      "G": {
+        "4": 3
+      },
+      "T": {
+        "4": 4,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "EF": 1,
+      "FA": 2,
+      "FE": 4,
+      "FI": 1,
+      "GA": 2,
+      "GI": 1,
+      "TA": 2,
+      "TI": 1,
+      "TU": 2
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "pangram": "proudly",
+  "center_letter": "u",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 63,
+  "answer_pangrams": [
+    "proudly"
+  ],
+  "answers": [
+    "dour",
+    "dourly",
+    "dull",
+    "dully",
+    "duly",
+    "loud",
+    "loudly",
+    "lull",
+    "lulu",
+    "pour",
+    "proud",
+    "proudly",
+    "pull",
+    "pulp",
+    "pulpy",
+    "puppy",
+    "purl",
+    "purr",
+    "ruddy",
+    "your"
+  ],
+  "date": "2027-07-16",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 5,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "D": 5,
+      "L": 4,
+      "P": 9,
+      "R": 1,
+      "Y": 1
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 3,
+        "6": 1
+      },
+      "P": {
+        "4": 5,
+        "5": 3,
+        "7": 1
+      },
+      "R": {
+        "5": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 2,
+      "DU": 3,
+      "LO": 2,
+      "LU": 2,
+      "PO": 1,
+      "PR": 2,
+      "PU": 6,
+      "RU": 1,
+      "YO": 1
+    }
+  }
+}

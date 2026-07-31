@@ -1,0 +1,98 @@
+{
+  "pangram": "proving",
+  "center_letter": "p",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 171,
+  "answer_pangrams": [
+    "proving"
+  ],
+  "answers": [
+    "goop",
+    "gorp",
+    "grip",
+    "griping",
+    "gripping",
+    "nipping",
+    "opining",
+    "opinion",
+    "pigging",
+    "ping",
+    "pinging",
+    "pining",
+    "pinion",
+    "pinioning",
+    "pinning",
+    "piping",
+    "pippin",
+    "pipping",
+    "poop",
+    "pooping",
+    "poor",
+    "popping",
+    "poring",
+    "prig",
+    "prior",
+    "pron",
+    "prong",
+    "prop",
+    "propping",
+    "proving",
+    "ripping",
+    "roping"
+  ],
+  "date": "2035-10-20",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 2,
+      "6": 6,
+      "7": 12,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "G": 5,
+      "N": 1,
+      "O": 2,
+      "P": 22,
+      "R": 2
+    },
+    "grid": {
+      "G": {
+        "4": 3,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "7": 1
+      },
+      "O": {
+        "7": 2
+      },
+      "P": {
+        "4": 6,
+        "5": 2,
+        "6": 5,
+        "7": 7,
+        "8": 1,
+        "9": 1
+      },
+      "R": {
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "GO": 2,
+      "GR": 3,
+      "NI": 1,
+      "OP": 2,
+      "PI": 10,
+      "PO": 5,
+      "PR": 7,
+      "RI": 1,
+      "RO": 1
+    }
+  }
+}

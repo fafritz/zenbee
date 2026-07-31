@@ -1,0 +1,101 @@
+{
+  "pangram": "molding",
+  "center_letter": "m",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 171,
+  "answer_pangrams": [
+    "molding"
+  ],
+  "answers": [
+    "dimming",
+    "doming",
+    "dominion",
+    "domino",
+    "doom",
+    "dooming",
+    "gloom",
+    "idiom",
+    "liming",
+    "limn",
+    "limning",
+    "limo",
+    "loom",
+    "looming",
+    "middling",
+    "mild",
+    "mill",
+    "milling",
+    "million",
+    "miming",
+    "mind",
+    "minding",
+    "mingling",
+    "mini",
+    "minim",
+    "mining",
+    "minion",
+    "modding",
+    "mold",
+    "molding",
+    "moll",
+    "mono",
+    "mood",
+    "mooing",
+    "moon",
+    "mooning"
+  ],
+  "date": "2034-03-04",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 3,
+      "6": 7,
+      "7": 10,
+      "8": 3
+    },
+    "by_first_letter": {
+      "D": 6,
+      "G": 1,
+      "I": 1,
+      "L": 6,
+      "M": 22
+    },
+    "grid": {
+      "D": {
+        "4": 1,
+        "6": 2,
+        "7": 2,
+        "8": 1
+      },
+      "G": {
+        "5": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "L": {
+        "4": 3,
+        "6": 1,
+        "7": 2
+      },
+      "M": {
+        "4": 9,
+        "5": 1,
+        "6": 4,
+        "7": 6,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "DI": 1,
+      "DO": 5,
+      "GL": 1,
+      "ID": 1,
+      "LI": 4,
+      "LO": 2,
+      "MI": 13,
+      "MO": 9
+    }
+  }
+}

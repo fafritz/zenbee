@@ -1,0 +1,125 @@
+{
+  "pangram": "tucking",
+  "center_letter": "n",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 221,
+  "answer_pangrams": [
+    "tucking"
+  ],
+  "answers": [
+    "citing",
+    "cuing",
+    "cunning",
+    "cutting",
+    "gigging",
+    "ginning",
+    "gunk",
+    "gunning",
+    "gutting",
+    "icing",
+    "igniting",
+    "inciting",
+    "inking",
+    "inning",
+    "intuit",
+    "intuiting",
+    "kicking",
+    "king",
+    "kink",
+    "kinking",
+    "kiting",
+    "knit",
+    "knitting",
+    "nick",
+    "nicking",
+    "nuking",
+    "nutting",
+    "ticking",
+    "tinning",
+    "tint",
+    "tinting",
+    "tucking",
+    "tugging",
+    "tunic",
+    "tuning",
+    "uncut",
+    "unit",
+    "uniting"
+  ],
+  "date": "2027-07-10",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 4,
+      "6": 7,
+      "7": 16,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 4,
+      "G": 5,
+      "I": 7,
+      "K": 7,
+      "N": 4,
+      "T": 8,
+      "U": 3
+    },
+    "grid": {
+      "C": {
+        "5": 1,
+        "6": 1,
+        "7": 2
+      },
+      "G": {
+        "4": 1,
+        "7": 4
+      },
+      "I": {
+        "5": 1,
+        "6": 3,
+        "8": 2,
+        "9": 1
+      },
+      "K": {
+        "4": 3,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1,
+        "7": 2
+      },
+      "T": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 5
+      },
+      "U": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CI": 1,
+      "CU": 3,
+      "GI": 2,
+      "GU": 3,
+      "IC": 1,
+      "IG": 1,
+      "IN": 5,
+      "KI": 5,
+      "KN": 2,
+      "NI": 2,
+      "NU": 2,
+      "TI": 4,
+      "TU": 4,
+      "UN": 3
+    }
+  }
+}

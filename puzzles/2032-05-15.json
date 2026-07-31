@@ -1,0 +1,130 @@
+{
+  "pangram": "mutable",
+  "center_letter": "u",
+  "num_answers": 44,
+  "num_pangrams": 1,
+  "possible_points": 178,
+  "answer_pangrams": [
+    "mutable"
+  ],
+  "answers": [
+    "abut",
+    "album",
+    "alum",
+    "amulet",
+    "bauble",
+    "beau",
+    "blue",
+    "bluebell",
+    "bubble",
+    "bulb",
+    "bull",
+    "bullet",
+    "bumble",
+    "bumblebee",
+    "butte",
+    "emulate",
+    "luau",
+    "lube",
+    "lull",
+    "lulu",
+    "lute",
+    "maul",
+    "mule",
+    "mull",
+    "mullet",
+    "mumble",
+    "mutable",
+    "mutate",
+    "mute",
+    "mutt",
+    "mutual",
+    "muumuu",
+    "tableau",
+    "tabulate",
+    "taut",
+    "tuba",
+    "tube",
+    "tulle",
+    "tumble",
+    "tumult",
+    "tutu",
+    "ululate",
+    "umbel",
+    "umlaut"
+  ],
+  "date": "2032-05-15",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 4,
+      "6": 13,
+      "7": 4,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "B": 11,
+      "E": 1,
+      "L": 5,
+      "M": 11,
+      "T": 9,
+      "U": 3
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "B": {
+        "4": 4,
+        "5": 1,
+        "6": 4,
+        "8": 1,
+        "9": 1
+      },
+      "E": {
+        "7": 1
+      },
+      "L": {
+        "4": 5
+      },
+      "M": {
+        "4": 5,
+        "6": 5,
+        "7": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "U": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AL": 2,
+      "AM": 1,
+      "BA": 1,
+      "BE": 1,
+      "BL": 2,
+      "BU": 7,
+      "EM": 1,
+      "LU": 5,
+      "MA": 1,
+      "MU": 10,
+      "TA": 3,
+      "TU": 6,
+      "UL": 1,
+      "UM": 2
+    }
+  }
+}

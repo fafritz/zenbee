@@ -1,0 +1,145 @@
+{
+  "pangram": "twinkle",
+  "center_letter": "e",
+  "num_answers": 59,
+  "num_pangrams": 1,
+  "possible_points": 231,
+  "answer_pangrams": [
+    "twinkle"
+  ],
+  "answers": [
+    "elite",
+    "entente",
+    "entitle",
+    "entwine",
+    "inkwell",
+    "inlet",
+    "inline",
+    "intel",
+    "intent",
+    "keel",
+    "keen",
+    "kennel",
+    "kettle",
+    "kite",
+    "kitten",
+    "knee",
+    "kneel",
+    "knell",
+    "knelt",
+    "knew",
+    "leek",
+    "lenient",
+    "lent",
+    "lentil",
+    "lien",
+    "like",
+    "liken",
+    "line",
+    "linen",
+    "linnet",
+    "lintel",
+    "lite",
+    "little",
+    "nene",
+    "nettle",
+    "newel",
+    "newt",
+    "nine",
+    "nineteen",
+    "teen",
+    "tell",
+    "telnet",
+    "tenet",
+    "tent",
+    "tile",
+    "tine",
+    "tinkle",
+    "title",
+    "tittle",
+    "tweet",
+    "twine",
+    "twinkle",
+    "week",
+    "welkin",
+    "well",
+    "welt",
+    "went",
+    "wile",
+    "wine"
+  ],
+  "date": "2038-06-03",
+  "hints": {
+    "by_length": {
+      "4": 25,
+      "5": 13,
+      "6": 14,
+      "7": 6,
+      "8": 1
+    },
+    "by_first_letter": {
+      "E": 4,
+      "I": 5,
+      "K": 11,
+      "L": 13,
+      "N": 6,
+      "T": 13,
+      "W": 7
+    },
+    "grid": {
+      "E": {
+        "5": 1,
+        "7": 3
+      },
+      "I": {
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "K": {
+        "4": 5,
+        "5": 3,
+        "6": 3
+      },
+      "L": {
+        "4": 6,
+        "5": 2,
+        "6": 4,
+        "7": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 4,
+        "6": 3,
+        "7": 1
+      },
+      "W": {
+        "4": 6,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "EL": 1,
+      "EN": 3,
+      "IN": 5,
+      "KE": 4,
+      "KI": 2,
+      "KN": 5,
+      "LE": 4,
+      "LI": 9,
+      "NE": 4,
+      "NI": 2,
+      "TE": 5,
+      "TI": 5,
+      "TW": 3,
+      "WE": 5,
+      "WI": 2
+    }
+  }
+}

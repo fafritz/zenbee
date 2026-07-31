@@ -1,0 +1,116 @@
+{
+  "pangram": "pelagic",
+  "center_letter": "i",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 138,
+  "answer_pangrams": [
+    "pelagic"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "agile",
+    "apiece",
+    "cilia",
+    "clip",
+    "elegiac",
+    "epic",
+    "giggle",
+    "gill",
+    "glacial",
+    "icicle",
+    "illegal",
+    "ipecac",
+    "lice",
+    "liege",
+    "lilac",
+    "pail",
+    "papilla",
+    "papillae",
+    "pelagic",
+    "pica",
+    "piccalilli",
+    "piece",
+    "pile",
+    "pill",
+    "pillage",
+    "pipe",
+    "plaice"
+  ],
+  "date": "2034-06-14",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 5,
+      "6": 6,
+      "7": 6,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 2,
+      "E": 2,
+      "G": 3,
+      "I": 3,
+      "L": 3,
+      "P": 12
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "C": {
+        "4": 1,
+        "5": 1
+      },
+      "E": {
+        "4": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "6": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 2
+      },
+      "P": {
+        "4": 5,
+        "5": 1,
+        "6": 1,
+        "7": 3,
+        "8": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AG": 1,
+      "AP": 1,
+      "CI": 1,
+      "CL": 1,
+      "EL": 1,
+      "EP": 1,
+      "GI": 2,
+      "GL": 1,
+      "IC": 1,
+      "IL": 1,
+      "IP": 1,
+      "LI": 3,
+      "PA": 3,
+      "PE": 1,
+      "PI": 7,
+      "PL": 1
+    }
+  }
+}

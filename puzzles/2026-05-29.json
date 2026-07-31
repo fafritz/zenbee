@@ -1,0 +1,88 @@
+{
+  "pangram": "cranium",
+  "center_letter": "m",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 122,
+  "answer_pangrams": [
+    "cranium"
+  ],
+  "answers": [
+    "airman",
+    "cram",
+    "cranium",
+    "cumin",
+    "imam",
+    "maim",
+    "main",
+    "mama",
+    "mamma",
+    "mania",
+    "maniac",
+    "manic",
+    "manna",
+    "maraca",
+    "maria",
+    "marina",
+    "mica",
+    "mimic",
+    "mini",
+    "minim",
+    "minima",
+    "minimum",
+    "murmur",
+    "muumuu",
+    "unman",
+    "uranium"
+  ],
+  "date": "2026-05-29",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 9,
+      "6": 7,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 3,
+      "I": 1,
+      "M": 19,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "6": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "M": {
+        "4": 5,
+        "5": 7,
+        "6": 6,
+        "7": 1
+      },
+      "U": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "CR": 2,
+      "CU": 1,
+      "IM": 1,
+      "MA": 11,
+      "MI": 6,
+      "MU": 2,
+      "UN": 1,
+      "UR": 1
+    }
+  }
+}

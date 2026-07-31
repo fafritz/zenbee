@@ -1,0 +1,90 @@
+{
+  "pangram": "rhyming",
+  "center_letter": "g",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 118,
+  "answer_pangrams": [
+    "rhyming"
+  ],
+  "answers": [
+    "gigging",
+    "ginning",
+    "grim",
+    "griming",
+    "grimy",
+    "grin",
+    "grinning",
+    "high",
+    "hing",
+    "hinging",
+    "hiring",
+    "hymning",
+    "inning",
+    "miming",
+    "mining",
+    "miring",
+    "nigh",
+    "rhyming",
+    "rigging",
+    "riming",
+    "ring",
+    "ringing"
+  ],
+  "date": "2030-05-03",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 1,
+      "6": 6,
+      "7": 8,
+      "8": 1
+    },
+    "by_first_letter": {
+      "G": 7,
+      "H": 5,
+      "I": 1,
+      "M": 3,
+      "N": 1,
+      "R": 5
+    },
+    "grid": {
+      "G": {
+        "4": 2,
+        "5": 1,
+        "7": 3,
+        "8": 1
+      },
+      "H": {
+        "4": 2,
+        "6": 1,
+        "7": 2
+      },
+      "I": {
+        "6": 1
+      },
+      "M": {
+        "6": 3
+      },
+      "N": {
+        "4": 1
+      },
+      "R": {
+        "4": 1,
+        "6": 1,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "GI": 2,
+      "GR": 5,
+      "HI": 4,
+      "HY": 1,
+      "IN": 1,
+      "MI": 3,
+      "NI": 1,
+      "RH": 1,
+      "RI": 4
+    }
+  }
+}

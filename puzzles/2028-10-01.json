@@ -1,0 +1,133 @@
+{
+  "pangram": "decking",
+  "center_letter": "g",
+  "num_answers": 48,
+  "num_pangrams": 1,
+  "possible_points": 283,
+  "answer_pangrams": [
+    "decking"
+  ],
+  "answers": [
+    "ceding",
+    "deciding",
+    "decking",
+    "deeding",
+    "deicing",
+    "deign",
+    "deigned",
+    "deigning",
+    "dicing",
+    "digging",
+    "diking",
+    "ding",
+    "dinged",
+    "dinging",
+    "dining",
+    "dinning",
+    "edge",
+    "edged",
+    "edging",
+    "egged",
+    "egging",
+    "eking",
+    "ending",
+    "engine",
+    "geed",
+    "geeing",
+    "geek",
+    "gene",
+    "genie",
+    "genii",
+    "gigged",
+    "gigging",
+    "ginned",
+    "ginning",
+    "icing",
+    "indigence",
+    "inking",
+    "inning",
+    "keening",
+    "kenning",
+    "kicking",
+    "kidding",
+    "king",
+    "kinking",
+    "kneeing",
+    "necking",
+    "needing",
+    "nicking"
+  ],
+  "date": "2028-10-01",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 7,
+      "6": 14,
+      "7": 18,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 1,
+      "D": 15,
+      "E": 8,
+      "G": 10,
+      "I": 4,
+      "K": 7,
+      "N": 3
+    },
+    "grid": {
+      "C": {
+        "6": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 1,
+        "6": 4,
+        "7": 7,
+        "8": 2
+      },
+      "E": {
+        "4": 1,
+        "5": 3,
+        "6": 4
+      },
+      "G": {
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2
+      },
+      "I": {
+        "5": 1,
+        "6": 2,
+        "9": 1
+      },
+      "K": {
+        "4": 1,
+        "7": 6
+      },
+      "N": {
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "CE": 1,
+      "DE": 7,
+      "DI": 8,
+      "ED": 3,
+      "EG": 2,
+      "EK": 1,
+      "EN": 2,
+      "GE": 6,
+      "GI": 4,
+      "IC": 1,
+      "IN": 3,
+      "KE": 2,
+      "KI": 4,
+      "KN": 1,
+      "NE": 2,
+      "NI": 1
+    }
+  }
+}

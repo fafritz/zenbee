@@ -1,0 +1,88 @@
+{
+  "pangram": "larking",
+  "center_letter": "k",
+  "num_answers": 23,
+  "num_pangrams": 2,
+  "possible_points": 111,
+  "answer_pangrams": [
+    "larking",
+    "rankling"
+  ],
+  "answers": [
+    "akin",
+    "alkali",
+    "inking",
+    "inkling",
+    "irking",
+    "kill",
+    "killing",
+    "kiln",
+    "kilning",
+    "king",
+    "kink",
+    "kinking",
+    "lank",
+    "lark",
+    "larking",
+    "liking",
+    "link",
+    "linking",
+    "raking",
+    "rank",
+    "ranking",
+    "rankling",
+    "rink"
+  ],
+  "date": "2030-01-20",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "6": 5,
+      "7": 7,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "I": 3,
+      "K": 7,
+      "L": 6,
+      "R": 5
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1
+      },
+      "I": {
+        "6": 2,
+        "7": 1
+      },
+      "K": {
+        "4": 4,
+        "7": 3
+      },
+      "L": {
+        "4": 3,
+        "6": 1,
+        "7": 2
+      },
+      "R": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AK": 1,
+      "AL": 1,
+      "IN": 2,
+      "IR": 1,
+      "KI": 7,
+      "LA": 3,
+      "LI": 3,
+      "RA": 4,
+      "RI": 1
+    }
+  }
+}

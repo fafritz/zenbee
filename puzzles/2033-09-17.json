@@ -1,0 +1,83 @@
+{
+  "pangram": "munched",
+  "center_letter": "m",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 94,
+  "answer_pangrams": [
+    "munched"
+  ],
+  "answers": [
+    "chem",
+    "chum",
+    "chummed",
+    "deem",
+    "deemed",
+    "emcee",
+    "emceed",
+    "emend",
+    "emended",
+    "hemmed",
+    "henchmen",
+    "hummed",
+    "meme",
+    "mend",
+    "mended",
+    "menu",
+    "much",
+    "munch",
+    "munched",
+    "muumuu"
+  ],
+  "date": "2033-09-17",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 3,
+      "6": 6,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 3,
+      "D": 2,
+      "E": 4,
+      "H": 3,
+      "M": 8
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "7": 1
+      },
+      "D": {
+        "4": 1,
+        "6": 1
+      },
+      "E": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "H": {
+        "6": 2,
+        "8": 1
+      },
+      "M": {
+        "4": 4,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 3,
+      "DE": 2,
+      "EM": 4,
+      "HE": 2,
+      "HU": 1,
+      "ME": 4,
+      "MU": 4
+    }
+  }
+}

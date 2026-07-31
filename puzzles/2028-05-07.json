@@ -1,0 +1,115 @@
+{
+  "pangram": "menthol",
+  "center_letter": "n",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 132,
+  "answer_pangrams": [
+    "menthol"
+  ],
+  "answers": [
+    "element",
+    "entente",
+    "hone",
+    "lemon",
+    "lent",
+    "lone",
+    "loon",
+    "melon",
+    "memento",
+    "menthol",
+    "molten",
+    "moment",
+    "mono",
+    "monotone",
+    "month",
+    "moon",
+    "nene",
+    "neon",
+    "nettle",
+    "noel",
+    "none",
+    "noon",
+    "note",
+    "omen",
+    "onto",
+    "teen",
+    "telethon",
+    "telnet",
+    "tenement",
+    "tenet",
+    "tenon",
+    "tent",
+    "tenth",
+    "then",
+    "tone",
+    "toon"
+  ],
+  "date": "2028-05-07",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 6,
+      "6": 4,
+      "7": 4,
+      "8": 3
+    },
+    "by_first_letter": {
+      "E": 2,
+      "H": 1,
+      "L": 4,
+      "M": 9,
+      "N": 7,
+      "O": 2,
+      "T": 11
+    },
+    "grid": {
+      "E": {
+        "7": 2
+      },
+      "H": {
+        "4": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1
+      },
+      "M": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 6,
+        "6": 1
+      },
+      "O": {
+        "4": 2
+      },
+      "T": {
+        "4": 5,
+        "5": 3,
+        "6": 1,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "EL": 1,
+      "EN": 1,
+      "HO": 1,
+      "LE": 2,
+      "LO": 2,
+      "ME": 3,
+      "MO": 6,
+      "NE": 3,
+      "NO": 4,
+      "OM": 1,
+      "ON": 1,
+      "TE": 8,
+      "TH": 1,
+      "TO": 2
+    }
+  }
+}

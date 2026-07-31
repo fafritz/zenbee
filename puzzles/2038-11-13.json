@@ -1,0 +1,105 @@
+{
+  "pangram": "valuing",
+  "center_letter": "u",
+  "num_answers": 24,
+  "num_pangrams": 2,
+  "possible_points": 137,
+  "answer_pangrams": [
+    "unavailing",
+    "valuing"
+  ],
+  "answers": [
+    "alluvial",
+    "annual",
+    "annul",
+    "annulling",
+    "gauging",
+    "gluing",
+    "guava",
+    "gull",
+    "gulling",
+    "gunning",
+    "iguana",
+    "lingual",
+    "luau",
+    "lugging",
+    "lull",
+    "lulling",
+    "lulu",
+    "lung",
+    "lunging",
+    "null",
+    "ulna",
+    "unavailing",
+    "uvula",
+    "valuing"
+  ],
+  "date": "2038-11-13",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 3,
+      "6": 3,
+      "7": 8,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "G": 6,
+      "I": 1,
+      "L": 8,
+      "N": 1,
+      "U": 3,
+      "V": 1
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1,
+        "8": 1,
+        "9": 1
+      },
+      "G": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 3
+      },
+      "I": {
+        "6": 1
+      },
+      "L": {
+        "4": 4,
+        "7": 4
+      },
+      "N": {
+        "4": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 1,
+        "10": 1
+      },
+      "V": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AN": 3,
+      "GA": 1,
+      "GL": 1,
+      "GU": 4,
+      "IG": 1,
+      "LI": 1,
+      "LU": 7,
+      "NU": 1,
+      "UL": 1,
+      "UN": 1,
+      "UV": 1,
+      "VA": 1
+    }
+  }
+}

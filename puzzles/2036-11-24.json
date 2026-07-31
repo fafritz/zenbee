@@ -1,0 +1,93 @@
+{
+  "pangram": "voyaged",
+  "center_letter": "g",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 109,
+  "answer_pangrams": [
+    "voyaged"
+  ],
+  "answers": [
+    "adage",
+    "agave",
+    "aged",
+    "agog",
+    "dodge",
+    "dodged",
+    "dodgy",
+    "dogged",
+    "doggy",
+    "edge",
+    "edged",
+    "edgy",
+    "egged",
+    "gadded",
+    "gagged",
+    "gave",
+    "geed",
+    "geode",
+    "goad",
+    "goaded",
+    "good",
+    "goody",
+    "gooey",
+    "voyage",
+    "voyaged",
+    "yoga"
+  ],
+  "date": "2036-11-24",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 10,
+      "6": 6,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "D": 5,
+      "E": 4,
+      "G": 10,
+      "V": 2,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2
+      },
+      "D": {
+        "5": 3,
+        "6": 2
+      },
+      "E": {
+        "4": 2,
+        "5": 2
+      },
+      "G": {
+        "4": 4,
+        "5": 3,
+        "6": 3
+      },
+      "V": {
+        "6": 1,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AG": 3,
+      "DO": 5,
+      "ED": 3,
+      "EG": 1,
+      "GA": 3,
+      "GE": 2,
+      "GO": 5,
+      "VO": 2,
+      "YO": 1
+    }
+  }
+}

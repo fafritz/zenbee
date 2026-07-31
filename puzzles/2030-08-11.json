@@ -1,0 +1,132 @@
+{
+  "pangram": "unitary",
+  "center_letter": "a",
+  "num_answers": 46,
+  "num_pangrams": 1,
+  "possible_points": 202,
+  "answer_pangrams": [
+    "unitary"
+  ],
+  "answers": [
+    "airy",
+    "annuity",
+    "anti",
+    "aria",
+    "arrant",
+    "array",
+    "arty",
+    "atria",
+    "attain",
+    "attar",
+    "aunt",
+    "aura",
+    "inanity",
+    "irritant",
+    "naan",
+    "nana",
+    "nanny",
+    "natty",
+    "nutria",
+    "rain",
+    "rainy",
+    "rant",
+    "rarity",
+    "ratatat",
+    "rattan",
+    "ratty",
+    "taint",
+    "tannin",
+    "tart",
+    "tartan",
+    "tartar",
+    "tatty",
+    "taunt",
+    "taut",
+    "tiara",
+    "titan",
+    "train",
+    "trait",
+    "tray",
+    "truant",
+    "tuna",
+    "tyranny",
+    "tyrant",
+    "unitary",
+    "urinary",
+    "yarn"
+  ],
+  "date": "2030-08-11",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 14,
+      "6": 10,
+      "7": 6,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 12,
+      "I": 2,
+      "N": 5,
+      "R": 7,
+      "T": 17,
+      "U": 2,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 6,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "I": {
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 2,
+        "6": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 7,
+        "6": 5,
+        "7": 1
+      },
+      "U": {
+        "7": 2
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AN": 2,
+      "AR": 4,
+      "AT": 3,
+      "AU": 2,
+      "IN": 1,
+      "IR": 1,
+      "NA": 4,
+      "NU": 1,
+      "RA": 7,
+      "TA": 8,
+      "TI": 2,
+      "TR": 4,
+      "TU": 1,
+      "TY": 2,
+      "UN": 1,
+      "UR": 1,
+      "YA": 1
+    }
+  }
+}

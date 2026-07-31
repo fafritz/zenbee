@@ -1,0 +1,154 @@
+{
+  "pangram": "outline",
+  "center_letter": "t",
+  "num_answers": 64,
+  "num_pangrams": 1,
+  "possible_points": 250,
+  "answer_pangrams": [
+    "outline"
+  ],
+  "answers": [
+    "elite",
+    "entente",
+    "entitle",
+    "inlet",
+    "intel",
+    "intent",
+    "intention",
+    "into",
+    "intone",
+    "intuit",
+    "intuition",
+    "lenient",
+    "lent",
+    "lentil",
+    "lilt",
+    "linnet",
+    "lint",
+    "lintel",
+    "lite",
+    "little",
+    "loot",
+    "lotion",
+    "lotto",
+    "lout",
+    "lute",
+    "nettle",
+    "nineteen",
+    "note",
+    "notion",
+    "onto",
+    "outlet",
+    "outline",
+    "teen",
+    "tell",
+    "telnet",
+    "tenet",
+    "tenon",
+    "tent",
+    "tile",
+    "till",
+    "tilt",
+    "tine",
+    "tint",
+    "title",
+    "tittle",
+    "toil",
+    "toilet",
+    "toilette",
+    "toll",
+    "tone",
+    "tool",
+    "toon",
+    "toot",
+    "tote",
+    "tout",
+    "tuition",
+    "tulle",
+    "tune",
+    "tunnel",
+    "tutu",
+    "unit",
+    "unite",
+    "untie",
+    "until"
+  ],
+  "date": "2037-12-16",
+  "hints": {
+    "by_length": {
+      "4": 29,
+      "5": 11,
+      "6": 15,
+      "7": 5,
+      "8": 2,
+      "9": 2
+    },
+    "by_first_letter": {
+      "E": 3,
+      "I": 8,
+      "L": 14,
+      "N": 4,
+      "O": 3,
+      "T": 28,
+      "U": 4
+    },
+    "grid": {
+      "E": {
+        "5": 1,
+        "7": 2
+      },
+      "I": {
+        "4": 1,
+        "5": 2,
+        "6": 3,
+        "9": 2
+      },
+      "L": {
+        "4": 7,
+        "5": 1,
+        "6": 5,
+        "7": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 2,
+        "8": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 18,
+        "5": 4,
+        "6": 4,
+        "7": 1,
+        "8": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 3
+      }
+    },
+    "two_letter_list": {
+      "EL": 1,
+      "EN": 2,
+      "IN": 8,
+      "LE": 3,
+      "LI": 6,
+      "LO": 4,
+      "LU": 1,
+      "NE": 1,
+      "NI": 1,
+      "NO": 2,
+      "ON": 1,
+      "OU": 2,
+      "TE": 6,
+      "TI": 7,
+      "TO": 10,
+      "TU": 5,
+      "UN": 4
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "pangram": "flicked",
+  "center_letter": "k",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 118,
+  "answer_pangrams": [
+    "flicked"
+  ],
+  "answers": [
+    "click",
+    "clicked",
+    "deck",
+    "decked",
+    "deckle",
+    "dike",
+    "diked",
+    "eked",
+    "fickle",
+    "fleck",
+    "flecked",
+    "flick",
+    "flicked",
+    "keel",
+    "keeled",
+    "kick",
+    "kicked",
+    "kidded",
+    "kill",
+    "killed",
+    "leek",
+    "lick",
+    "licked",
+    "lifelike",
+    "like",
+    "liked"
+  ],
+  "date": "2031-02-21",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 5,
+      "6": 8,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 2,
+      "D": 5,
+      "E": 1,
+      "F": 5,
+      "K": 7,
+      "L": 6
+    },
+    "grid": {
+      "C": {
+        "5": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "E": {
+        "4": 1
+      },
+      "F": {
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "K": {
+        "4": 3,
+        "6": 4
+      },
+      "L": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 2,
+      "DE": 3,
+      "DI": 2,
+      "EK": 1,
+      "FI": 1,
+      "FL": 4,
+      "KE": 2,
+      "KI": 5,
+      "LE": 1,
+      "LI": 5
+    }
+  }
+}

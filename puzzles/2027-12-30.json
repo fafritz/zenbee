@@ -1,0 +1,70 @@
+{
+  "pangram": "holiday",
+  "center_letter": "h",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 59,
+  "answer_pangrams": [
+    "holiday"
+  ],
+  "answers": [
+    "ahoy",
+    "aloha",
+    "dahlia",
+    "hail",
+    "halal",
+    "hall",
+    "halo",
+    "hill",
+    "hilly",
+    "hold",
+    "holiday",
+    "holly",
+    "holy",
+    "hood",
+    "hoodoo",
+    "yahoo"
+  ],
+  "date": "2027-12-30",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 5,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "D": 1,
+      "H": 12,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1
+      },
+      "D": {
+        "6": 1
+      },
+      "H": {
+        "4": 7,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AH": 1,
+      "AL": 1,
+      "DA": 1,
+      "HA": 4,
+      "HI": 2,
+      "HO": 6,
+      "YA": 1
+    }
+  }
+}

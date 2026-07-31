@@ -1,0 +1,74 @@
+{
+  "pangram": "chewing",
+  "center_letter": "w",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 120,
+  "answer_pangrams": [
+    "chewing"
+  ],
+  "answers": [
+    "chew",
+    "chewing",
+    "hewing",
+    "hewn",
+    "weeing",
+    "weigh",
+    "weighing",
+    "when",
+    "whence",
+    "whew",
+    "which",
+    "whine",
+    "whining",
+    "wigging",
+    "wince",
+    "winch",
+    "winching",
+    "wincing",
+    "wine",
+    "wing",
+    "winging",
+    "wining",
+    "winning"
+  ],
+  "date": "2036-01-18",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 5,
+      "6": 4,
+      "7": 6,
+      "8": 2
+    },
+    "by_first_letter": {
+      "C": 2,
+      "H": 2,
+      "W": 19
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 1,
+        "6": 1
+      },
+      "W": {
+        "4": 4,
+        "5": 5,
+        "6": 3,
+        "7": 5,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "CH": 2,
+      "HE": 2,
+      "WE": 3,
+      "WH": 6,
+      "WI": 10
+    }
+  }
+}

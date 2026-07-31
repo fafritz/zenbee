@@ -1,0 +1,112 @@
+{
+  "pangram": "chinked",
+  "center_letter": "k",
+  "num_answers": 35,
+  "num_pangrams": 2,
+  "possible_points": 153,
+  "answer_pangrams": [
+    "chickened",
+    "chinked"
+  ],
+  "answers": [
+    "check",
+    "checked",
+    "cheek",
+    "cheeked",
+    "chick",
+    "chicken",
+    "chickened",
+    "chink",
+    "chinked",
+    "deck",
+    "decked",
+    "dike",
+    "diked",
+    "dink",
+    "eked",
+    "heck",
+    "hick",
+    "hike",
+    "hiked",
+    "inked",
+    "keen",
+    "keened",
+    "kenned",
+    "kick",
+    "kicked",
+    "kidded",
+    "kind",
+    "kink",
+    "kinked",
+    "knee",
+    "kneed",
+    "neck",
+    "necked",
+    "nick",
+    "nicked"
+  ],
+  "date": "2038-09-14",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 8,
+      "6": 8,
+      "7": 4,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 9,
+      "D": 5,
+      "E": 1,
+      "H": 4,
+      "I": 1,
+      "K": 11,
+      "N": 4
+    },
+    "grid": {
+      "C": {
+        "5": 4,
+        "7": 4,
+        "9": 1
+      },
+      "D": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "K": {
+        "4": 5,
+        "5": 1,
+        "6": 5
+      },
+      "N": {
+        "4": 2,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "CH": 9,
+      "DE": 2,
+      "DI": 3,
+      "EK": 1,
+      "HE": 1,
+      "HI": 3,
+      "IN": 1,
+      "KE": 3,
+      "KI": 6,
+      "KN": 2,
+      "NE": 2,
+      "NI": 2
+    }
+  }
+}

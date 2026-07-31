@@ -1,0 +1,138 @@
+{
+  "pangram": "curtail",
+  "center_letter": "i",
+  "num_answers": 48,
+  "num_pangrams": 2,
+  "possible_points": 247,
+  "answer_pangrams": [
+    "actuarial",
+    "curtail"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "actuarial",
+    "arctic",
+    "aria",
+    "atria",
+    "attic",
+    "cacti",
+    "calculi",
+    "cattail",
+    "cilia",
+    "circa",
+    "circuit",
+    "circular",
+    "cirri",
+    "citric",
+    "critic",
+    "critical",
+    "crucial",
+    "curricula",
+    "curtail",
+    "illicit",
+    "italic",
+    "lactic",
+    "lair",
+    "lariat",
+    "liar",
+    "licit",
+    "lilac",
+    "lilt",
+    "lira",
+    "racial",
+    "rail",
+    "rill",
+    "ritual",
+    "tacit",
+    "tactic",
+    "tactical",
+    "tail",
+    "tiara",
+    "till",
+    "tilt",
+    "titular",
+    "trail",
+    "trait",
+    "trial",
+    "trill",
+    "uric"
+  ],
+  "date": "2037-07-04",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 14,
+      "6": 10,
+      "7": 7,
+      "8": 3,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 7,
+      "C": 14,
+      "I": 2,
+      "L": 8,
+      "R": 4,
+      "T": 12,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "9": 1
+      },
+      "C": {
+        "5": 4,
+        "6": 2,
+        "7": 5,
+        "8": 2,
+        "9": 1
+      },
+      "I": {
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 2,
+        "6": 2
+      },
+      "R": {
+        "4": 2,
+        "6": 2
+      },
+      "T": {
+        "4": 3,
+        "5": 6,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AR": 2,
+      "AT": 2,
+      "CA": 3,
+      "CI": 6,
+      "CR": 3,
+      "CU": 2,
+      "IL": 1,
+      "IT": 1,
+      "LA": 3,
+      "LI": 5,
+      "RA": 2,
+      "RI": 2,
+      "TA": 4,
+      "TI": 4,
+      "TR": 4,
+      "UR": 1
+    }
+  }
+}

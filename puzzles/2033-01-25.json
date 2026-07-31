@@ -1,0 +1,85 @@
+{
+  "pangram": "panicky",
+  "center_letter": "k",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 60,
+  "answer_pangrams": [
+    "panicky"
+  ],
+  "answers": [
+    "akin",
+    "icky",
+    "inky",
+    "kayak",
+    "kick",
+    "kicky",
+    "kink",
+    "knack",
+    "knickknack",
+    "napkin",
+    "nick",
+    "pack",
+    "panicky",
+    "pick",
+    "picky",
+    "pink",
+    "yank"
+  ],
+  "date": "2033-01-25",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 4,
+      "6": 1,
+      "7": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "I": 2,
+      "K": 6,
+      "N": 2,
+      "P": 5,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "I": {
+        "4": 2
+      },
+      "K": {
+        "4": 2,
+        "5": 3,
+        "10": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 1,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AK": 1,
+      "IC": 1,
+      "IN": 1,
+      "KA": 1,
+      "KI": 3,
+      "KN": 2,
+      "NA": 1,
+      "NI": 1,
+      "PA": 2,
+      "PI": 3,
+      "YA": 1
+    }
+  }
+}

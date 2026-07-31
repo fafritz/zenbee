@@ -1,0 +1,123 @@
+{
+  "pangram": "bayonet",
+  "center_letter": "a",
+  "num_answers": 47,
+  "num_pangrams": 1,
+  "possible_points": 202,
+  "answer_pangrams": [
+    "bayonet"
+  ],
+  "answers": [
+    "abate",
+    "abbe",
+    "abbey",
+    "abbot",
+    "abet",
+    "annotate",
+    "annoy",
+    "anon",
+    "ante",
+    "antenna",
+    "antennae",
+    "anyone",
+    "atone",
+    "baba",
+    "babe",
+    "baboon",
+    "baby",
+    "banana",
+    "bane",
+    "banyan",
+    "baobab",
+    "baton",
+    "batten",
+    "batty",
+    "bayonet",
+    "bean",
+    "beat",
+    "beaten",
+    "beta",
+    "boat",
+    "botany",
+    "eaten",
+    "ebay",
+    "naan",
+    "nabob",
+    "nana",
+    "nanny",
+    "nanobot",
+    "natty",
+    "neat",
+    "neonate",
+    "oaten",
+    "tabby",
+    "taboo",
+    "tattoo",
+    "tatty",
+    "tenant"
+  ],
+  "date": "2035-10-21",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 15,
+      "6": 10,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 13,
+      "B": 18,
+      "E": 2,
+      "N": 8,
+      "O": 1,
+      "T": 5
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "5": 5,
+        "6": 1,
+        "7": 1,
+        "8": 2
+      },
+      "B": {
+        "4": 8,
+        "5": 2,
+        "6": 7,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 3,
+        "7": 2
+      },
+      "O": {
+        "5": 1
+      },
+      "T": {
+        "5": 3,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 5,
+      "AN": 7,
+      "AT": 1,
+      "BA": 12,
+      "BE": 4,
+      "BO": 2,
+      "EA": 1,
+      "EB": 1,
+      "NA": 6,
+      "NE": 2,
+      "OA": 1,
+      "TA": 4,
+      "TE": 1
+    }
+  }
+}

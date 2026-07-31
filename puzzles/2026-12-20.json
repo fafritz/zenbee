@@ -1,0 +1,94 @@
+{
+  "pangram": "flanked",
+  "center_letter": "f",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 149,
+  "answer_pangrams": [
+    "flanked"
+  ],
+  "answers": [
+    "alfalfa",
+    "deaf",
+    "deafen",
+    "deafened",
+    "defend",
+    "defended",
+    "fade",
+    "faded",
+    "fake",
+    "faked",
+    "fall",
+    "fallen",
+    "fanned",
+    "feed",
+    "feel",
+    "fell",
+    "felled",
+    "fend",
+    "fended",
+    "fennel",
+    "flak",
+    "flake",
+    "flaked",
+    "flan",
+    "flank",
+    "flanked",
+    "flannel",
+    "flanneled",
+    "flea",
+    "fled",
+    "flee",
+    "landfall",
+    "leaf",
+    "leafed"
+  ],
+  "date": "2026-12-20",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 4,
+      "6": 9,
+      "7": 3,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "D": 5,
+      "F": 25,
+      "L": 3
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "D": {
+        "4": 1,
+        "6": 2,
+        "8": 2
+      },
+      "F": {
+        "4": 12,
+        "5": 4,
+        "6": 6,
+        "7": 2,
+        "9": 1
+      },
+      "L": {
+        "4": 1,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "DE": 5,
+      "FA": 7,
+      "FE": 7,
+      "FL": 11,
+      "LA": 1,
+      "LE": 2
+    }
+  }
+}

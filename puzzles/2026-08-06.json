@@ -1,0 +1,111 @@
+{
+  "pangram": "vibrant",
+  "center_letter": "r",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 151,
+  "answer_pangrams": [
+    "vibrant"
+  ],
+  "answers": [
+    "aria",
+    "arrant",
+    "atria",
+    "attar",
+    "avatar",
+    "barb",
+    "barbarian",
+    "barn",
+    "brain",
+    "bran",
+    "brat",
+    "briar",
+    "invariant",
+    "irritant",
+    "nirvana",
+    "rabbi",
+    "rabbit",
+    "rain",
+    "rant",
+    "ratatat",
+    "rattan",
+    "tart",
+    "tartan",
+    "tartar",
+    "tiara",
+    "train",
+    "trait",
+    "trivia",
+    "variant",
+    "vibrant"
+  ],
+  "date": "2026-08-06",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 8,
+      "6": 7,
+      "7": 4,
+      "8": 1,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 7,
+      "I": 2,
+      "N": 1,
+      "R": 6,
+      "T": 7,
+      "V": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "6": 2
+      },
+      "B": {
+        "4": 4,
+        "5": 2,
+        "9": 1
+      },
+      "I": {
+        "8": 1,
+        "9": 1
+      },
+      "N": {
+        "7": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 3,
+        "6": 3
+      },
+      "V": {
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AR": 2,
+      "AT": 2,
+      "AV": 1,
+      "BA": 3,
+      "BR": 4,
+      "IN": 1,
+      "IR": 1,
+      "NI": 1,
+      "RA": 6,
+      "TA": 3,
+      "TI": 1,
+      "TR": 3,
+      "VA": 1,
+      "VI": 1
+    }
+  }
+}

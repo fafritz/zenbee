@@ -1,0 +1,93 @@
+{
+  "pangram": "wedlock",
+  "center_letter": "w",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 114,
+  "answer_pangrams": [
+    "wedlock"
+  ],
+  "answers": [
+    "clew",
+    "clewed",
+    "cowed",
+    "cowl",
+    "dowel",
+    "doweled",
+    "dwell",
+    "lewd",
+    "locoweed",
+    "lowed",
+    "owed",
+    "wedded",
+    "wedlock",
+    "weed",
+    "weeded",
+    "week",
+    "weld",
+    "welded",
+    "well",
+    "welled",
+    "woke",
+    "wood",
+    "woodcock",
+    "wooded",
+    "wooed",
+    "wool",
+    "wowed"
+  ],
+  "date": "2030-08-01",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 6,
+      "6": 6,
+      "7": 2,
+      "8": 2
+    },
+    "by_first_letter": {
+      "C": 4,
+      "D": 3,
+      "L": 3,
+      "O": 1,
+      "W": 16
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "D": {
+        "5": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "8": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "W": {
+        "4": 7,
+        "5": 2,
+        "6": 5,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 2,
+      "CO": 2,
+      "DO": 2,
+      "DW": 1,
+      "LE": 1,
+      "LO": 2,
+      "OW": 1,
+      "WE": 9,
+      "WO": 7
+    }
+  }
+}

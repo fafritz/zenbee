@@ -1,0 +1,112 @@
+{
+  "pangram": "harmony",
+  "center_letter": "o",
+  "num_answers": 39,
+  "num_pangrams": 1,
+  "possible_points": 150,
+  "answer_pangrams": [
+    "harmony"
+  ],
+  "answers": [
+    "ahoy",
+    "ammo",
+    "annoy",
+    "anon",
+    "armor",
+    "armory",
+    "aroma",
+    "arroyo",
+    "harmony",
+    "hoary",
+    "homonym",
+    "honor",
+    "honorary",
+    "hooray",
+    "horn",
+    "horror",
+    "manor",
+    "maroon",
+    "mayo",
+    "mayor",
+    "moan",
+    "momma",
+    "mommy",
+    "mono",
+    "moon",
+    "moor",
+    "moray",
+    "morn",
+    "moron",
+    "noon",
+    "norm",
+    "rayon",
+    "roam",
+    "roan",
+    "roar",
+    "roman",
+    "room",
+    "roomy",
+    "yahoo"
+  ],
+  "date": "2030-08-18",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 15,
+      "6": 5,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "H": 8,
+      "M": 13,
+      "N": 2,
+      "R": 7,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 3,
+        "6": 2
+      },
+      "H": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 1
+      },
+      "M": {
+        "4": 6,
+        "5": 6,
+        "6": 1
+      },
+      "N": {
+        "4": 2
+      },
+      "R": {
+        "4": 4,
+        "5": 3
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AH": 1,
+      "AM": 1,
+      "AN": 2,
+      "AR": 4,
+      "HA": 1,
+      "HO": 7,
+      "MA": 4,
+      "MO": 9,
+      "NO": 2,
+      "RA": 1,
+      "RO": 6,
+      "YA": 1
+    }
+  }
+}

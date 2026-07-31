@@ -1,0 +1,97 @@
+{
+  "pangram": "cording",
+  "center_letter": "c",
+  "num_answers": 33,
+  "num_pangrams": 3,
+  "possible_points": 220,
+  "answer_pangrams": [
+    "cording",
+    "cordoning",
+    "corroding"
+  ],
+  "answers": [
+    "cirri",
+    "cocci",
+    "cocoon",
+    "cocooning",
+    "coding",
+    "coin",
+    "coinciding",
+    "coining",
+    "concord",
+    "condo",
+    "condoning",
+    "condor",
+    "conic",
+    "conning",
+    "cooing",
+    "cord",
+    "cording",
+    "cordon",
+    "cordoning",
+    "coring",
+    "corn",
+    "corning",
+    "corridor",
+    "corroding",
+    "cringing",
+    "croon",
+    "crooning",
+    "dicing",
+    "icing",
+    "icon",
+    "ironic",
+    "ricing",
+    "rococo"
+  ],
+  "date": "2037-09-15",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 6,
+      "6": 10,
+      "7": 5,
+      "8": 3,
+      "9": 4,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 27,
+      "D": 1,
+      "I": 3,
+      "R": 2
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 5,
+        "6": 6,
+        "7": 5,
+        "8": 3,
+        "9": 4,
+        "10": 1
+      },
+      "D": {
+        "6": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "R": {
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "CI": 1,
+      "CO": 23,
+      "CR": 3,
+      "DI": 1,
+      "IC": 2,
+      "IR": 1,
+      "RI": 1,
+      "RO": 1
+    }
+  }
+}

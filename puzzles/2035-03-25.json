@@ -1,0 +1,94 @@
+{
+  "pangram": "dumping",
+  "center_letter": "p",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 180,
+  "answer_pangrams": [
+    "dumping"
+  ],
+  "answers": [
+    "dipping",
+    "dump",
+    "dumping",
+    "duping",
+    "impinging",
+    "impugn",
+    "impugning",
+    "nipping",
+    "pidgin",
+    "pigging",
+    "pimp",
+    "pimping",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "pinup",
+    "piping",
+    "pippin",
+    "pipping",
+    "pudding",
+    "pump",
+    "pumping",
+    "punning",
+    "pupping",
+    "umping",
+    "unpin",
+    "unpinning",
+    "upping"
+  ],
+  "date": "2035-03-25",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 2,
+      "6": 8,
+      "7": 12,
+      "9": 3
+    },
+    "by_first_letter": {
+      "D": 4,
+      "I": 3,
+      "N": 1,
+      "P": 17,
+      "U": 4
+    },
+    "grid": {
+      "D": {
+        "4": 1,
+        "6": 1,
+        "7": 2
+      },
+      "I": {
+        "6": 1,
+        "9": 2
+      },
+      "N": {
+        "7": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 1,
+        "6": 4,
+        "7": 9
+      },
+      "U": {
+        "5": 1,
+        "6": 2,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "DI": 1,
+      "DU": 3,
+      "IM": 3,
+      "NI": 1,
+      "PI": 12,
+      "PU": 5,
+      "UM": 1,
+      "UN": 2,
+      "UP": 1
+    }
+  }
+}

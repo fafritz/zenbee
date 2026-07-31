@@ -1,0 +1,112 @@
+{
+  "pangram": "wrought",
+  "center_letter": "o",
+  "num_answers": 35,
+  "num_pangrams": 2,
+  "possible_points": 162,
+  "answer_pangrams": [
+    "outgrowth",
+    "wrought"
+  ],
+  "answers": [
+    "gout",
+    "grog",
+    "grotto",
+    "grow",
+    "growth",
+    "hoot",
+    "horror",
+    "hour",
+    "ought",
+    "outgo",
+    "outgrow",
+    "outgrowth",
+    "root",
+    "rotor",
+    "rough",
+    "rout",
+    "thorough",
+    "thou",
+    "though",
+    "thought",
+    "through",
+    "throughout",
+    "throw",
+    "toot",
+    "tooth",
+    "tort",
+    "tough",
+    "tour",
+    "tout",
+    "trot",
+    "trough",
+    "trout",
+    "tutor",
+    "worth",
+    "wrought"
+  ],
+  "date": "2038-11-29",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 10,
+      "6": 5,
+      "7": 4,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "G": 5,
+      "H": 3,
+      "O": 4,
+      "R": 4,
+      "T": 17,
+      "W": 2
+    },
+    "grid": {
+      "G": {
+        "4": 3,
+        "6": 2
+      },
+      "H": {
+        "4": 2,
+        "6": 1
+      },
+      "O": {
+        "5": 2,
+        "7": 1,
+        "9": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 2
+      },
+      "T": {
+        "4": 6,
+        "5": 5,
+        "6": 2,
+        "7": 2,
+        "8": 1,
+        "10": 1
+      },
+      "W": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "GO": 1,
+      "GR": 4,
+      "HO": 3,
+      "OU": 4,
+      "RO": 4,
+      "TH": 7,
+      "TO": 6,
+      "TR": 3,
+      "TU": 1,
+      "WO": 1,
+      "WR": 1
+    }
+  }
+}

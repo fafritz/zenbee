@@ -1,0 +1,110 @@
+{
+  "pangram": "bethink",
+  "center_letter": "n",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 119,
+  "answer_pangrams": [
+    "bethink"
+  ],
+  "answers": [
+    "been",
+    "bent",
+    "bethink",
+    "bikini",
+    "bitten",
+    "entente",
+    "hint",
+    "inhibit",
+    "intent",
+    "keen",
+    "kink",
+    "kitten",
+    "knee",
+    "knit",
+    "nene",
+    "nine",
+    "nineteen",
+    "nineteenth",
+    "ninetieth",
+    "ninth",
+    "teen",
+    "tenet",
+    "tent",
+    "tenth",
+    "then",
+    "thin",
+    "thine",
+    "think",
+    "tine",
+    "tint"
+  ],
+  "date": "2034-03-06",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 5,
+      "6": 4,
+      "7": 3,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "B": 5,
+      "E": 1,
+      "H": 1,
+      "I": 2,
+      "K": 5,
+      "N": 6,
+      "T": 10
+    },
+    "grid": {
+      "B": {
+        "4": 2,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "7": 1
+      },
+      "H": {
+        "4": 1
+      },
+      "I": {
+        "6": 1,
+        "7": 1
+      },
+      "K": {
+        "4": 4,
+        "6": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 4
+      }
+    },
+    "two_letter_list": {
+      "BE": 3,
+      "BI": 2,
+      "EN": 1,
+      "HI": 1,
+      "IN": 2,
+      "KE": 1,
+      "KI": 2,
+      "KN": 2,
+      "NE": 1,
+      "NI": 5,
+      "TE": 4,
+      "TH": 4,
+      "TI": 2
+    }
+  }
+}

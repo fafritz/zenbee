@@ -1,0 +1,120 @@
+{
+  "pangram": "virtual",
+  "center_letter": "l",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 164,
+  "answer_pangrams": [
+    "virtual"
+  ],
+  "answers": [
+    "alluvial",
+    "altar",
+    "arrival",
+    "aural",
+    "avail",
+    "lair",
+    "lariat",
+    "larva",
+    "larval",
+    "lava",
+    "liar",
+    "lilt",
+    "lira",
+    "luau",
+    "lull",
+    "lulu",
+    "rail",
+    "rill",
+    "ritual",
+    "rival",
+    "rural",
+    "tail",
+    "tall",
+    "till",
+    "tilt",
+    "titular",
+    "trail",
+    "travail",
+    "trial",
+    "trill",
+    "trivial",
+    "ultra",
+    "uvula",
+    "uvular",
+    "vault",
+    "vial",
+    "villa",
+    "viral",
+    "virtual",
+    "vital"
+  ],
+  "date": "2030-10-08",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 15,
+      "6": 4,
+      "7": 5,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "L": 11,
+      "R": 5,
+      "T": 10,
+      "U": 3,
+      "V": 6
+    },
+    "grid": {
+      "A": {
+        "5": 3,
+        "7": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 8,
+        "5": 1,
+        "6": 2
+      },
+      "R": {
+        "4": 2,
+        "5": 2,
+        "6": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 3,
+        "7": 3
+      },
+      "U": {
+        "5": 2,
+        "6": 1
+      },
+      "V": {
+        "4": 1,
+        "5": 4,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "AR": 1,
+      "AU": 1,
+      "AV": 1,
+      "LA": 5,
+      "LI": 3,
+      "LU": 3,
+      "RA": 1,
+      "RI": 3,
+      "RU": 1,
+      "TA": 2,
+      "TI": 3,
+      "TR": 5,
+      "UL": 1,
+      "UV": 2,
+      "VA": 1,
+      "VI": 5
+    }
+  }
+}

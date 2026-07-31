@@ -1,0 +1,111 @@
+{
+  "pangram": "hardily",
+  "center_letter": "l",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 129,
+  "answer_pangrams": [
+    "hardily"
+  ],
+  "answers": [
+    "airily",
+    "allay",
+    "ally",
+    "dahlia",
+    "daily",
+    "dally",
+    "dial",
+    "dill",
+    "dilly",
+    "dillydally",
+    "drill",
+    "dryly",
+    "hail",
+    "halal",
+    "hall",
+    "halyard",
+    "hardily",
+    "hardly",
+    "hill",
+    "hilly",
+    "idly",
+    "idyll",
+    "lady",
+    "laid",
+    "lair",
+    "lard",
+    "liar",
+    "lily",
+    "lira",
+    "radial",
+    "radially",
+    "rail",
+    "rally",
+    "rill"
+  ],
+  "date": "2037-10-16",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 10,
+      "6": 4,
+      "7": 2,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 9,
+      "H": 8,
+      "I": 2,
+      "L": 7,
+      "R": 5
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 5,
+        "6": 1,
+        "10": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 7
+      },
+      "R": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AL": 2,
+      "DA": 3,
+      "DI": 4,
+      "DR": 2,
+      "HA": 6,
+      "HI": 2,
+      "ID": 2,
+      "LA": 4,
+      "LI": 3,
+      "RA": 4,
+      "RI": 1
+    }
+  }
+}

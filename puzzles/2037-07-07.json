@@ -1,0 +1,132 @@
+{
+  "pangram": "clamped",
+  "center_letter": "c",
+  "num_answers": 47,
+  "num_pangrams": 1,
+  "possible_points": 207,
+  "answer_pangrams": [
+    "clamped"
+  ],
+  "answers": [
+    "accede",
+    "acceded",
+    "aced",
+    "acme",
+    "alpaca",
+    "apace",
+    "call",
+    "calla",
+    "called",
+    "calm",
+    "calmed",
+    "came",
+    "camel",
+    "camp",
+    "camped",
+    "cape",
+    "caped",
+    "capped",
+    "cede",
+    "ceded",
+    "cell",
+    "clad",
+    "clam",
+    "clammed",
+    "clamp",
+    "clamped",
+    "clap",
+    "clapped",
+    "decade",
+    "decal",
+    "decamp",
+    "decamped",
+    "emcee",
+    "emceed",
+    "lace",
+    "laced",
+    "macadam",
+    "mace",
+    "maced",
+    "madcap",
+    "mecca",
+    "pace",
+    "paced",
+    "palace",
+    "peace",
+    "place",
+    "placed"
+  ],
+  "date": "2037-07-07",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 14,
+      "6": 12,
+      "7": 5,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 22,
+      "D": 4,
+      "E": 2,
+      "L": 2,
+      "M": 5,
+      "P": 6
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "C": {
+        "4": 10,
+        "5": 5,
+        "6": 4,
+        "7": 3
+      },
+      "D": {
+        "5": 1,
+        "6": 2,
+        "8": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1
+      },
+      "M": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 3,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 4,
+      "AL": 1,
+      "AP": 1,
+      "CA": 12,
+      "CE": 3,
+      "CL": 7,
+      "DE": 4,
+      "EM": 2,
+      "LA": 2,
+      "MA": 4,
+      "ME": 1,
+      "PA": 3,
+      "PE": 1,
+      "PL": 2
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "pangram": "orbital",
+  "center_letter": "r",
+  "num_answers": 58,
+  "num_pangrams": 1,
+  "possible_points": 245,
+  "answer_pangrams": [
+    "orbital"
+  ],
+  "answers": [
+    "abattoir",
+    "abort",
+    "altar",
+    "aorta",
+    "arbitrator",
+    "arbor",
+    "aria",
+    "atria",
+    "attar",
+    "barb",
+    "barrio",
+    "boar",
+    "boor",
+    "brat",
+    "briar",
+    "broil",
+    "labor",
+    "lair",
+    "lariat",
+    "liar",
+    "lira",
+    "littoral",
+    "oral",
+    "orator",
+    "oratorio",
+    "orbit",
+    "orbital",
+    "rabbi",
+    "rabbit",
+    "rail",
+    "ratatat",
+    "ratio",
+    "rill",
+    "riot",
+    "roar",
+    "robot",
+    "roil",
+    "roll",
+    "root",
+    "rotor",
+    "tailor",
+    "taro",
+    "tarot",
+    "tart",
+    "tartar",
+    "tiara",
+    "toolbar",
+    "tort",
+    "tortilla",
+    "trail",
+    "trait",
+    "traitor",
+    "trial",
+    "tribal",
+    "trill",
+    "trio",
+    "troll",
+    "trot"
+  ],
+  "date": "2038-12-05",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 21,
+      "6": 7,
+      "7": 4,
+      "8": 4,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 9,
+      "B": 7,
+      "L": 6,
+      "O": 5,
+      "R": 13,
+      "T": 18
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 6,
+        "8": 1,
+        "10": 1
+      },
+      "B": {
+        "4": 4,
+        "5": 2,
+        "6": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "R": {
+        "4": 7,
+        "5": 4,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 7,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 2,
+      "AL": 1,
+      "AO": 1,
+      "AR": 3,
+      "AT": 2,
+      "BA": 2,
+      "BO": 2,
+      "BR": 3,
+      "LA": 3,
+      "LI": 3,
+      "OR": 5,
+      "RA": 5,
+      "RI": 2,
+      "RO": 6,
+      "TA": 5,
+      "TI": 1,
+      "TO": 3,
+      "TR": 9
+    }
+  }
+}

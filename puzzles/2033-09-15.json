@@ -1,0 +1,112 @@
+{
+  "pangram": "obeying",
+  "center_letter": "e",
+  "num_answers": 38,
+  "num_pangrams": 2,
+  "possible_points": 189,
+  "answer_pangrams": [
+    "bogeying",
+    "obeying"
+  ],
+  "answers": [
+    "been",
+    "begging",
+    "begin",
+    "beginning",
+    "begone",
+    "beige",
+    "being",
+    "benign",
+    "biggie",
+    "binge",
+    "bingeing",
+    "bogey",
+    "bogeying",
+    "bogie",
+    "bone",
+    "boogie",
+    "boogieing",
+    "bygone",
+    "ebbing",
+    "ebony",
+    "egging",
+    "eggnog",
+    "engine",
+    "eyeing",
+    "geeing",
+    "gene",
+    "genie",
+    "genii",
+    "gibe",
+    "gone",
+    "gooey",
+    "nene",
+    "neon",
+    "nine",
+    "none",
+    "obey",
+    "obeying",
+    "oboe"
+  ],
+  "date": "2033-09-15",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 10,
+      "6": 11,
+      "7": 2,
+      "8": 2,
+      "9": 2
+    },
+    "by_first_letter": {
+      "B": 18,
+      "E": 6,
+      "G": 7,
+      "N": 4,
+      "O": 3
+    },
+    "grid": {
+      "B": {
+        "4": 2,
+        "5": 6,
+        "6": 5,
+        "7": 1,
+        "8": 2,
+        "9": 2
+      },
+      "E": {
+        "5": 1,
+        "6": 5
+      },
+      "G": {
+        "4": 3,
+        "5": 3,
+        "6": 1
+      },
+      "N": {
+        "4": 4
+      },
+      "O": {
+        "4": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 8,
+      "BI": 3,
+      "BO": 6,
+      "BY": 1,
+      "EB": 2,
+      "EG": 2,
+      "EN": 1,
+      "EY": 1,
+      "GE": 4,
+      "GI": 1,
+      "GO": 2,
+      "NE": 2,
+      "NI": 1,
+      "NO": 1,
+      "OB": 3
+    }
+  }
+}

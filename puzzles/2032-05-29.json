@@ -1,0 +1,95 @@
+{
+  "pangram": "obviate",
+  "center_letter": "t",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 79,
+  "answer_pangrams": [
+    "obviate"
+  ],
+  "answers": [
+    "abate",
+    "abbot",
+    "abet",
+    "bait",
+    "beat",
+    "beet",
+    "beta",
+    "bite",
+    "boat",
+    "boot",
+    "bootee",
+    "iota",
+    "obit",
+    "obviate",
+    "taboo",
+    "tattoo",
+    "tibia",
+    "tibiae",
+    "toot",
+    "tote",
+    "veto",
+    "vitiate",
+    "vote",
+    "votive"
+  ],
+  "date": "2032-05-29",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 4,
+      "6": 4,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 8,
+      "I": 1,
+      "O": 2,
+      "T": 6,
+      "V": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2
+      },
+      "B": {
+        "4": 7,
+        "6": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "O": {
+        "4": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 2,
+        "6": 2
+      },
+      "V": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 3,
+      "BA": 1,
+      "BE": 3,
+      "BI": 1,
+      "BO": 3,
+      "IO": 1,
+      "OB": 2,
+      "TA": 2,
+      "TI": 2,
+      "TO": 2,
+      "VE": 1,
+      "VI": 1,
+      "VO": 2
+    }
+  }
+}

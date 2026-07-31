@@ -1,0 +1,135 @@
+{
+  "pangram": "delight",
+  "center_letter": "t",
+  "num_answers": 50,
+  "num_pangrams": 4,
+  "possible_points": 262,
+  "answer_pangrams": [
+    "delight",
+    "delighted",
+    "highlighted",
+    "lighted"
+  ],
+  "answers": [
+    "delete",
+    "deleted",
+    "delight",
+    "delighted",
+    "diet",
+    "dieted",
+    "digit",
+    "edit",
+    "edited",
+    "eight",
+    "eighth",
+    "eightieth",
+    "elite",
+    "gilt",
+    "height",
+    "highlight",
+    "highlighted",
+    "hilt",
+    "legit",
+    "light",
+    "lighted",
+    "lilt",
+    "lilted",
+    "lite",
+    "lithe",
+    "little",
+    "teed",
+    "teeth",
+    "teethe",
+    "teethed",
+    "tell",
+    "thee",
+    "thigh",
+    "tide",
+    "tided",
+    "tidied",
+    "tied",
+    "tight",
+    "tilde",
+    "tile",
+    "tiled",
+    "till",
+    "tilled",
+    "tilt",
+    "tilted",
+    "tithe",
+    "tithed",
+    "title",
+    "titled",
+    "tittle"
+  ],
+  "date": "2036-02-14",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 14,
+      "6": 14,
+      "7": 4,
+      "9": 3,
+      "11": 1
+    },
+    "by_first_letter": {
+      "D": 7,
+      "E": 6,
+      "G": 1,
+      "H": 4,
+      "L": 8,
+      "T": 24
+    },
+    "grid": {
+      "D": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "9": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "9": 1
+      },
+      "G": {
+        "4": 1
+      },
+      "H": {
+        "4": 1,
+        "6": 1,
+        "9": 1,
+        "11": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "T": {
+        "4": 8,
+        "5": 8,
+        "6": 7,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 4,
+      "DI": 3,
+      "ED": 2,
+      "EI": 3,
+      "EL": 1,
+      "GI": 1,
+      "HE": 1,
+      "HI": 3,
+      "LE": 1,
+      "LI": 7,
+      "TE": 5,
+      "TH": 2,
+      "TI": 17
+    }
+  }
+}

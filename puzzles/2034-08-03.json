@@ -1,0 +1,91 @@
+{
+  "pangram": "quietly",
+  "center_letter": "l",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 82,
+  "answer_pangrams": [
+    "quietly"
+  ],
+  "answers": [
+    "elite",
+    "eyelet",
+    "lieu",
+    "lilt",
+    "lily",
+    "lite",
+    "little",
+    "lull",
+    "lulu",
+    "lute",
+    "quell",
+    "quietly",
+    "quill",
+    "quilt",
+    "tell",
+    "tile",
+    "till",
+    "tilt",
+    "title",
+    "tittle",
+    "tulle",
+    "utility",
+    "yell",
+    "yule"
+  ],
+  "date": "2034-08-03",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 6,
+      "6": 3,
+      "7": 2
+    },
+    "by_first_letter": {
+      "E": 2,
+      "L": 8,
+      "Q": 4,
+      "T": 7,
+      "U": 1,
+      "Y": 2
+    },
+    "grid": {
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 7,
+        "6": 1
+      },
+      "Q": {
+        "5": 3,
+        "7": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 2,
+        "6": 1
+      },
+      "U": {
+        "7": 1
+      },
+      "Y": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "EL": 1,
+      "EY": 1,
+      "LI": 5,
+      "LU": 3,
+      "QU": 4,
+      "TE": 1,
+      "TI": 5,
+      "TU": 1,
+      "UT": 1,
+      "YE": 1,
+      "YU": 1
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "pangram": "hotcake",
+  "center_letter": "c",
+  "num_answers": 46,
+  "num_pangrams": 1,
+  "possible_points": 182,
+  "answer_pangrams": [
+    "hotcake"
+  ],
+  "answers": [
+    "acetate",
+    "ache",
+    "achoo",
+    "attach",
+    "attache",
+    "attack",
+    "cacao",
+    "cache",
+    "cachet",
+    "cake",
+    "catch",
+    "chat",
+    "cheat",
+    "check",
+    "cheek",
+    "cheetah",
+    "chock",
+    "choke",
+    "coach",
+    "coat",
+    "coca",
+    "cockatoo",
+    "cocoa",
+    "coke",
+    "cook",
+    "coot",
+    "cote",
+    "each",
+    "echo",
+    "etch",
+    "hack",
+    "hatch",
+    "hatchet",
+    "heck",
+    "hock",
+    "hooch",
+    "hotcake",
+    "ketch",
+    "octet",
+    "tack",
+    "taco",
+    "tact",
+    "teach",
+    "tech",
+    "thatch",
+    "toothache"
+  ],
+  "date": "2026-08-10",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 16,
+      "6": 4,
+      "7": 5,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 21,
+      "E": 3,
+      "H": 7,
+      "K": 1,
+      "O": 1,
+      "T": 7
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 2
+      },
+      "C": {
+        "4": 8,
+        "5": 10,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "4": 3
+      },
+      "H": {
+        "4": 3,
+        "5": 2,
+        "7": 2
+      },
+      "K": {
+        "5": 1
+      },
+      "O": {
+        "5": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AT": 3,
+      "CA": 5,
+      "CH": 7,
+      "CO": 9,
+      "EA": 1,
+      "EC": 1,
+      "ET": 1,
+      "HA": 3,
+      "HE": 1,
+      "HO": 3,
+      "KE": 1,
+      "OC": 1,
+      "TA": 3,
+      "TE": 2,
+      "TH": 1,
+      "TO": 1
+    }
+  }
+}

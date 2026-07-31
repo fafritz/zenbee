@@ -1,0 +1,145 @@
+{
+  "pangram": "epochal",
+  "center_letter": "o",
+  "num_answers": 53,
+  "num_pangrams": 1,
+  "possible_points": 178,
+  "answer_pangrams": [
+    "epochal"
+  ],
+  "answers": [
+    "achoo",
+    "alcohol",
+    "aloe",
+    "aloha",
+    "cacao",
+    "capo",
+    "cello",
+    "chop",
+    "cloche",
+    "clop",
+    "coach",
+    "coal",
+    "coca",
+    "cochlea",
+    "cochleae",
+    "cocoa",
+    "cola",
+    "cool",
+    "coop",
+    "cope",
+    "echo",
+    "elope",
+    "epoch",
+    "epochal",
+    "halo",
+    "hellhole",
+    "hello",
+    "hole",
+    "hooch",
+    "hoop",
+    "hoopla",
+    "hope",
+    "local",
+    "locale",
+    "loco",
+    "loll",
+    "loop",
+    "loophole",
+    "lope",
+    "oleo",
+    "opal",
+    "peephole",
+    "people",
+    "plop",
+    "poach",
+    "pole",
+    "poll",
+    "polo",
+    "pooch",
+    "pooh",
+    "pool",
+    "poop",
+    "pope"
+  ],
+  "date": "2038-01-20",
+  "hints": {
+    "by_length": {
+      "4": 29,
+      "5": 13,
+      "6": 4,
+      "7": 3,
+      "8": 4
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 16,
+      "E": 4,
+      "H": 8,
+      "L": 7,
+      "O": 2,
+      "P": 12
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      },
+      "C": {
+        "4": 9,
+        "5": 4,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      },
+      "H": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "O": {
+        "4": 2
+      },
+      "P": {
+        "4": 8,
+        "5": 2,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AL": 3,
+      "CA": 2,
+      "CE": 1,
+      "CH": 1,
+      "CL": 2,
+      "CO": 10,
+      "EC": 1,
+      "EL": 1,
+      "EP": 2,
+      "HA": 1,
+      "HE": 2,
+      "HO": 5,
+      "LO": 7,
+      "OL": 1,
+      "OP": 1,
+      "PE": 2,
+      "PL": 1,
+      "PO": 9
+    }
+  }
+}

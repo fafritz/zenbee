@@ -1,0 +1,125 @@
+{
+  "pangram": "bowling",
+  "center_letter": "b",
+  "num_answers": 50,
+  "num_pangrams": 4,
+  "possible_points": 296,
+  "answer_pangrams": [
+    "billowing",
+    "blowing",
+    "bowling",
+    "wobbling"
+  ],
+  "answers": [
+    "bigwig",
+    "bill",
+    "billing",
+    "billion",
+    "billow",
+    "billowing",
+    "bingo",
+    "binning",
+    "bling",
+    "blob",
+    "blobbing",
+    "blog",
+    "blogging",
+    "blow",
+    "blowing",
+    "blown",
+    "bobbin",
+    "bobbing",
+    "bobbling",
+    "bogging",
+    "boggling",
+    "boil",
+    "boiling",
+    "boll",
+    "bonbon",
+    "bong",
+    "bonging",
+    "bongo",
+    "boning",
+    "boob",
+    "boobing",
+    "booboo",
+    "booing",
+    "boon",
+    "bowing",
+    "bowl",
+    "bowling",
+    "gibbon",
+    "gibing",
+    "glib",
+    "glob",
+    "globing",
+    "gobbing",
+    "gobbling",
+    "goblin",
+    "lobbing",
+    "nibbling",
+    "obliging",
+    "oblong",
+    "wobbling"
+  ],
+  "date": "2032-10-28",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 4,
+      "6": 12,
+      "7": 13,
+      "8": 8,
+      "9": 1
+    },
+    "by_first_letter": {
+      "B": 37,
+      "G": 8,
+      "L": 1,
+      "N": 1,
+      "O": 2,
+      "W": 1
+    },
+    "grid": {
+      "B": {
+        "4": 10,
+        "5": 4,
+        "6": 8,
+        "7": 10,
+        "8": 4,
+        "9": 1
+      },
+      "G": {
+        "4": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      },
+      "L": {
+        "7": 1
+      },
+      "N": {
+        "8": 1
+      },
+      "O": {
+        "6": 1,
+        "8": 1
+      },
+      "W": {
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "BI": 8,
+      "BL": 8,
+      "BO": 21,
+      "GI": 2,
+      "GL": 3,
+      "GO": 3,
+      "LO": 1,
+      "NI": 1,
+      "OB": 2,
+      "WO": 1
+    }
+  }
+}

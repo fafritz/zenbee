@@ -1,0 +1,150 @@
+{
+  "pangram": "flanked",
+  "center_letter": "l",
+  "num_answers": 60,
+  "num_pangrams": 1,
+  "possible_points": 249,
+  "answer_pangrams": [
+    "flanked"
+  ],
+  "answers": [
+    "addle",
+    "addled",
+    "alfalfa",
+    "anal",
+    "ankle",
+    "anneal",
+    "annealed",
+    "dale",
+    "dandle",
+    "dandled",
+    "deal",
+    "dell",
+    "elan",
+    "fall",
+    "fallen",
+    "feel",
+    "fell",
+    "felled",
+    "fennel",
+    "flak",
+    "flake",
+    "flaked",
+    "flan",
+    "flank",
+    "flanked",
+    "flannel",
+    "flanneled",
+    "flea",
+    "fled",
+    "flee",
+    "kale",
+    "keel",
+    "keeled",
+    "kennel",
+    "kenneled",
+    "kneel",
+    "knell",
+    "knelled",
+    "laden",
+    "ladle",
+    "ladled",
+    "lake",
+    "land",
+    "landed",
+    "landfall",
+    "lane",
+    "lank",
+    "lead",
+    "leaded",
+    "leaden",
+    "leaf",
+    "leafed",
+    "leak",
+    "leaked",
+    "lean",
+    "leaned",
+    "leek",
+    "lend",
+    "needle",
+    "needled"
+  ],
+  "date": "2028-08-06",
+  "hints": {
+    "by_length": {
+      "4": 25,
+      "5": 8,
+      "6": 17,
+      "7": 6,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "D": 5,
+      "E": 1,
+      "F": 17,
+      "K": 8,
+      "L": 20,
+      "N": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "D": {
+        "4": 3,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "F": {
+        "4": 8,
+        "5": 2,
+        "6": 4,
+        "7": 2,
+        "9": 1
+      },
+      "K": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 10,
+        "5": 2,
+        "6": 7,
+        "8": 1
+      },
+      "N": {
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 2,
+      "AL": 1,
+      "AN": 4,
+      "DA": 3,
+      "DE": 2,
+      "EL": 1,
+      "FA": 2,
+      "FE": 4,
+      "FL": 11,
+      "KA": 1,
+      "KE": 4,
+      "KN": 3,
+      "LA": 9,
+      "LE": 11,
+      "NE": 2
+    }
+  }
+}

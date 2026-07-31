@@ -1,0 +1,95 @@
+{
+  "pangram": "inhaled",
+  "center_letter": "h",
+  "num_answers": 36,
+  "num_pangrams": 3,
+  "possible_points": 174,
+  "answer_pangrams": [
+    "headline",
+    "headlined",
+    "inhaled"
+  ],
+  "answers": [
+    "ahead",
+    "dahlia",
+    "hail",
+    "hailed",
+    "halal",
+    "hale",
+    "haled",
+    "hall",
+    "hand",
+    "handed",
+    "handheld",
+    "handle",
+    "handled",
+    "head",
+    "headed",
+    "headland",
+    "headline",
+    "headlined",
+    "heal",
+    "healed",
+    "heed",
+    "heeded",
+    "heel",
+    "heeled",
+    "held",
+    "hell",
+    "henna",
+    "hennaed",
+    "hidden",
+    "hide",
+    "hided",
+    "hied",
+    "hill",
+    "hind",
+    "inhale",
+    "inhaled"
+  ],
+  "date": "2031-12-02",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 5,
+      "6": 10,
+      "7": 3,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "D": 1,
+      "H": 32,
+      "I": 2
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "D": {
+        "6": 1
+      },
+      "H": {
+        "4": 14,
+        "5": 4,
+        "6": 8,
+        "7": 2,
+        "8": 3,
+        "9": 1
+      },
+      "I": {
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AH": 1,
+      "DA": 1,
+      "HA": 11,
+      "HE": 15,
+      "HI": 6,
+      "IN": 2
+    }
+  }
+}

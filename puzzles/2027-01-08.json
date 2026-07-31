@@ -1,0 +1,102 @@
+{
+  "pangram": "brought",
+  "center_letter": "r",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 128,
+  "answer_pangrams": [
+    "brought"
+  ],
+  "answers": [
+    "boor",
+    "borough",
+    "broth",
+    "brought",
+    "burg",
+    "burr",
+    "burro",
+    "grog",
+    "grotto",
+    "grub",
+    "guru",
+    "horror",
+    "hour",
+    "hurt",
+    "robot",
+    "root",
+    "rotor",
+    "rough",
+    "rout",
+    "thorough",
+    "throb",
+    "through",
+    "throughout",
+    "tort",
+    "tour",
+    "trot",
+    "trough",
+    "trout",
+    "truth",
+    "turbot",
+    "tutor"
+  ],
+  "date": "2027-01-08",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 9,
+      "6": 4,
+      "7": 3,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "B": 7,
+      "G": 4,
+      "H": 3,
+      "R": 5,
+      "T": 12
+    },
+    "grid": {
+      "B": {
+        "4": 3,
+        "5": 2,
+        "7": 2
+      },
+      "G": {
+        "4": 3,
+        "6": 1
+      },
+      "H": {
+        "4": 2,
+        "6": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 3
+      },
+      "T": {
+        "4": 3,
+        "5": 4,
+        "6": 2,
+        "7": 1,
+        "8": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "BO": 2,
+      "BR": 2,
+      "BU": 3,
+      "GR": 3,
+      "GU": 1,
+      "HO": 2,
+      "HU": 1,
+      "RO": 5,
+      "TH": 4,
+      "TO": 2,
+      "TR": 4,
+      "TU": 2
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "pangram": "tinkled",
+  "center_letter": "k",
+  "num_answers": 44,
+  "num_pangrams": 1,
+  "possible_points": 189,
+  "answer_pangrams": [
+    "tinkled"
+  ],
+  "answers": [
+    "dike",
+    "diked",
+    "dink",
+    "eked",
+    "inked",
+    "keel",
+    "keeled",
+    "keen",
+    "keened",
+    "kenned",
+    "kennel",
+    "kenneled",
+    "kettle",
+    "kidded",
+    "kill",
+    "killed",
+    "kiln",
+    "kilned",
+    "kilt",
+    "kind",
+    "kindle",
+    "kindled",
+    "kink",
+    "kinked",
+    "kite",
+    "kited",
+    "kitten",
+    "knee",
+    "kneed",
+    "kneel",
+    "knell",
+    "knelled",
+    "knelt",
+    "knit",
+    "knitted",
+    "leek",
+    "like",
+    "liked",
+    "liken",
+    "likened",
+    "link",
+    "linked",
+    "tinkle",
+    "tinkled"
+  ],
+  "date": "2035-03-08",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 9,
+      "6": 13,
+      "7": 5,
+      "8": 1
+    },
+    "by_first_letter": {
+      "D": 3,
+      "E": 1,
+      "I": 1,
+      "K": 30,
+      "L": 7,
+      "T": 2
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "K": {
+        "4": 10,
+        "5": 5,
+        "6": 11,
+        "7": 3,
+        "8": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "DI": 3,
+      "EK": 1,
+      "IN": 1,
+      "KE": 8,
+      "KI": 14,
+      "KN": 8,
+      "LE": 1,
+      "LI": 6,
+      "TI": 2
+    }
+  }
+}

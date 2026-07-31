@@ -1,0 +1,132 @@
+{
+  "pangram": "carotid",
+  "center_letter": "c",
+  "num_answers": 49,
+  "num_pangrams": 2,
+  "possible_points": 257,
+  "answer_pangrams": [
+    "carotid",
+    "dictator"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "accord",
+    "acid",
+    "acidic",
+    "acrid",
+    "actor",
+    "addict",
+    "arctic",
+    "attic",
+    "attract",
+    "cacao",
+    "cacti",
+    "carat",
+    "card",
+    "cardiac",
+    "cardio",
+    "carotid",
+    "carrot",
+    "cart",
+    "cataract",
+    "cicada",
+    "circa",
+    "cirri",
+    "citric",
+    "coat",
+    "coca",
+    "cocci",
+    "cocoa",
+    "coda",
+    "coot",
+    "cord",
+    "corridor",
+    "cottar",
+    "critic",
+    "diacritic",
+    "dicta",
+    "dictator",
+    "didactic",
+    "doctor",
+    "idiotic",
+    "ricotta",
+    "rococo",
+    "tacit",
+    "taco",
+    "tact",
+    "tactic",
+    "tract",
+    "tractor"
+  ],
+  "date": "2037-08-31",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 13,
+      "6": 14,
+      "7": 6,
+      "8": 4,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 11,
+      "C": 24,
+      "D": 5,
+      "I": 1,
+      "R": 2,
+      "T": 6
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "6": 5,
+        "7": 1
+      },
+      "C": {
+        "4": 7,
+        "5": 7,
+        "6": 6,
+        "7": 2,
+        "8": 2
+      },
+      "D": {
+        "5": 1,
+        "6": 1,
+        "8": 2,
+        "9": 1
+      },
+      "I": {
+        "7": 1
+      },
+      "R": {
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 7,
+      "AD": 1,
+      "AR": 1,
+      "AT": 2,
+      "CA": 10,
+      "CI": 4,
+      "CO": 9,
+      "CR": 1,
+      "DI": 4,
+      "DO": 1,
+      "ID": 1,
+      "RI": 1,
+      "RO": 1,
+      "TA": 4,
+      "TR": 2
+    }
+  }
+}

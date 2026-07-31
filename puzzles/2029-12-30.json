@@ -1,0 +1,143 @@
+{
+  "pangram": "acolyte",
+  "center_letter": "a",
+  "num_answers": 60,
+  "num_pangrams": 1,
+  "possible_points": 281,
+  "answer_pangrams": [
+    "acolyte"
+  ],
+  "answers": [
+    "acetate",
+    "acolyte",
+    "allay",
+    "alley",
+    "allocate",
+    "allot",
+    "alloy",
+    "ally",
+    "aloe",
+    "alto",
+    "atoll",
+    "cacao",
+    "call",
+    "calla",
+    "catcall",
+    "cattle",
+    "catty",
+    "clay",
+    "clayey",
+    "cleat",
+    "coal",
+    "coat",
+    "coca",
+    "cocoa",
+    "cola",
+    "collate",
+    "collocate",
+    "eclat",
+    "elate",
+    "lace",
+    "lactate",
+    "lacy",
+    "late",
+    "lately",
+    "latte",
+    "layette",
+    "local",
+    "locale",
+    "locally",
+    "locate",
+    "lolcat",
+    "loyal",
+    "loyally",
+    "loyalty",
+    "octal",
+    "taco",
+    "tact",
+    "talc",
+    "tale",
+    "tall",
+    "tally",
+    "tattle",
+    "tattletale",
+    "tattoo",
+    "tatty",
+    "teal",
+    "teetotal",
+    "telltale",
+    "total",
+    "totally"
+  ],
+  "date": "2029-12-30",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 19,
+      "6": 8,
+      "7": 10,
+      "8": 3,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 11,
+      "C": 16,
+      "E": 2,
+      "L": 15,
+      "O": 1,
+      "T": 15
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 5,
+        "7": 2,
+        "8": 1
+      },
+      "C": {
+        "4": 6,
+        "5": 5,
+        "6": 2,
+        "7": 2,
+        "9": 1
+      },
+      "E": {
+        "5": 2
+      },
+      "L": {
+        "4": 3,
+        "5": 3,
+        "6": 4,
+        "7": 5
+      },
+      "O": {
+        "5": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 3,
+        "6": 2,
+        "7": 1,
+        "8": 2,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AL": 8,
+      "AT": 1,
+      "CA": 6,
+      "CL": 3,
+      "CO": 7,
+      "EC": 1,
+      "EL": 1,
+      "LA": 7,
+      "LO": 8,
+      "OC": 1,
+      "TA": 10,
+      "TE": 3,
+      "TO": 2
+    }
+  }
+}

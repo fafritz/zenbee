@@ -1,0 +1,73 @@
+{
+  "pangram": "bunched",
+  "center_letter": "c",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 89,
+  "answer_pangrams": [
+    "bunched"
+  ],
+  "answers": [
+    "beech",
+    "bench",
+    "benched",
+    "bunch",
+    "bunched",
+    "cede",
+    "ceded",
+    "cube",
+    "cubed",
+    "cued",
+    "deduce",
+    "deduced",
+    "deuce",
+    "dunce",
+    "hence",
+    "hunch",
+    "hunched"
+  ],
+  "date": "2034-04-16",
+  "hints": {
+    "by_length": {
+      "4": 3,
+      "5": 9,
+      "6": 1,
+      "7": 4
+    },
+    "by_first_letter": {
+      "B": 5,
+      "C": 5,
+      "D": 4,
+      "H": 3
+    },
+    "grid": {
+      "B": {
+        "5": 3,
+        "7": 2
+      },
+      "C": {
+        "4": 3,
+        "5": 2
+      },
+      "D": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "H": {
+        "5": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 3,
+      "BU": 2,
+      "CE": 2,
+      "CU": 3,
+      "DE": 3,
+      "DU": 1,
+      "HE": 1,
+      "HU": 2
+    }
+  }
+}

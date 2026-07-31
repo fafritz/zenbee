@@ -1,0 +1,117 @@
+{
+  "pangram": "auditor",
+  "center_letter": "a",
+  "num_answers": 39,
+  "num_pangrams": 1,
+  "possible_points": 159,
+  "answer_pangrams": [
+    "auditor"
+  ],
+  "answers": [
+    "adroit",
+    "aorta",
+    "ardor",
+    "aria",
+    "arid",
+    "atria",
+    "attar",
+    "audio",
+    "audit",
+    "auditor",
+    "aura",
+    "auto",
+    "dado",
+    "dart",
+    "data",
+    "doodad",
+    "iota",
+    "orator",
+    "oratorio",
+    "radar",
+    "radiator",
+    "radii",
+    "radio",
+    "raid",
+    "ratatat",
+    "ratio",
+    "road",
+    "roar",
+    "taro",
+    "tarot",
+    "tart",
+    "tartar",
+    "tattoo",
+    "taut",
+    "tiara",
+    "toad",
+    "trait",
+    "traitor",
+    "triad"
+  ],
+  "date": "2036-02-20",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 14,
+      "6": 5,
+      "7": 3,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 12,
+      "D": 4,
+      "I": 1,
+      "O": 2,
+      "R": 9,
+      "T": 11
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "5": 6,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 3,
+        "6": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "O": {
+        "6": 1,
+        "8": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 4,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 4,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AO": 1,
+      "AR": 3,
+      "AT": 2,
+      "AU": 5,
+      "DA": 3,
+      "DO": 1,
+      "IO": 1,
+      "OR": 2,
+      "RA": 7,
+      "RO": 2,
+      "TA": 6,
+      "TI": 1,
+      "TO": 1,
+      "TR": 3
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "pangram": "weighty",
+  "center_letter": "t",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 120,
+  "answer_pangrams": [
+    "weighty"
+  ],
+  "answers": [
+    "eight",
+    "eighth",
+    "eightieth",
+    "eighty",
+    "eyeteeth",
+    "height",
+    "teeth",
+    "teethe",
+    "thee",
+    "they",
+    "thigh",
+    "tight",
+    "tithe",
+    "tweet",
+    "twig",
+    "twiggy",
+    "twit",
+    "weight",
+    "weighty",
+    "whet",
+    "whit",
+    "white",
+    "wight",
+    "with",
+    "witty",
+    "yeti"
+  ],
+  "date": "2037-08-22",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 9,
+      "6": 6,
+      "7": 1,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "E": 5,
+      "H": 1,
+      "T": 11,
+      "W": 8,
+      "Y": 1
+    },
+    "grid": {
+      "E": {
+        "5": 1,
+        "6": 2,
+        "8": 1,
+        "9": 1
+      },
+      "H": {
+        "6": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 5,
+        "6": 2
+      },
+      "W": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "EI": 4,
+      "EY": 1,
+      "HE": 1,
+      "TE": 2,
+      "TH": 3,
+      "TI": 2,
+      "TW": 4,
+      "WE": 2,
+      "WH": 3,
+      "WI": 3,
+      "YE": 1
+    }
+  }
+}

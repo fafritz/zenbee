@@ -1,0 +1,90 @@
+{
+  "pangram": "uniform",
+  "center_letter": "i",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 86,
+  "answer_pangrams": [
+    "uniform"
+  ],
+  "answers": [
+    "firm",
+    "infirm",
+    "info",
+    "inform",
+    "iron",
+    "miff",
+    "mini",
+    "minim",
+    "minimum",
+    "minion",
+    "minor",
+    "mirror",
+    "muffin",
+    "nonunion",
+    "onion",
+    "riff",
+    "ruin",
+    "uniform",
+    "union"
+  ],
+  "date": "2035-12-24",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 4,
+      "6": 5,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "F": 1,
+      "I": 4,
+      "M": 8,
+      "N": 1,
+      "O": 1,
+      "R": 2,
+      "U": 2
+    },
+    "grid": {
+      "F": {
+        "4": 1
+      },
+      "I": {
+        "4": 2,
+        "6": 2
+      },
+      "M": {
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      },
+      "N": {
+        "8": 1
+      },
+      "O": {
+        "5": 1
+      },
+      "R": {
+        "4": 2
+      },
+      "U": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "FI": 1,
+      "IN": 3,
+      "IR": 1,
+      "MI": 7,
+      "MU": 1,
+      "NO": 1,
+      "ON": 1,
+      "RI": 1,
+      "RU": 1,
+      "UN": 2
+    }
+  }
+}

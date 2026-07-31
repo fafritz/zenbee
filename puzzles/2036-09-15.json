@@ -1,0 +1,122 @@
+{
+  "pangram": "flexing",
+  "center_letter": "e",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 179,
+  "answer_pangrams": [
+    "flexing"
+  ],
+  "answers": [
+    "egging",
+    "elfin",
+    "engine",
+    "exile",
+    "exiling",
+    "feel",
+    "feeling",
+    "feign",
+    "feigning",
+    "feline",
+    "fell",
+    "felling",
+    "fennel",
+    "fief",
+    "fife",
+    "file",
+    "fine",
+    "flee",
+    "fleeing",
+    "flex",
+    "flexing",
+    "geeing",
+    "gelling",
+    "gene",
+    "genie",
+    "genii",
+    "giggle",
+    "glee",
+    "glen",
+    "inline",
+    "legging",
+    "liege",
+    "lien",
+    "life",
+    "lifeline",
+    "line",
+    "linen",
+    "negligee",
+    "nene",
+    "niggle",
+    "nine"
+  ],
+  "date": "2036-09-15",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 7,
+      "6": 8,
+      "7": 7,
+      "8": 3
+    },
+    "by_first_letter": {
+      "E": 5,
+      "F": 16,
+      "G": 8,
+      "I": 1,
+      "L": 7,
+      "N": 4
+    },
+    "grid": {
+      "E": {
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "F": {
+        "4": 8,
+        "5": 1,
+        "6": 2,
+        "7": 4,
+        "8": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 2,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 2,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "EG": 1,
+      "EL": 1,
+      "EN": 1,
+      "EX": 2,
+      "FE": 8,
+      "FI": 4,
+      "FL": 4,
+      "GE": 5,
+      "GI": 1,
+      "GL": 2,
+      "IN": 1,
+      "LE": 1,
+      "LI": 6,
+      "NE": 2,
+      "NI": 2
+    }
+  }
+}

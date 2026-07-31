@@ -1,0 +1,147 @@
+{
+  "pangram": "cloying",
+  "center_letter": "n",
+  "num_answers": 56,
+  "num_pangrams": 1,
+  "possible_points": 320,
+  "answer_pangrams": [
+    "cloying"
+  ],
+  "answers": [
+    "cling",
+    "clinging",
+    "clinic",
+    "clogging",
+    "cloning",
+    "cloying",
+    "cocoon",
+    "cocooning",
+    "coiling",
+    "coin",
+    "coining",
+    "colon",
+    "colony",
+    "conic",
+    "conning",
+    "cooing",
+    "cooling",
+    "cycling",
+    "cyclonic",
+    "cynic",
+    "gigging",
+    "giggling",
+    "ginning",
+    "goggling",
+    "going",
+    "gong",
+    "gonging",
+    "googling",
+    "goon",
+    "icing",
+    "icon",
+    "inclining",
+    "inning",
+    "lingo",
+    "lining",
+    "lion",
+    "logging",
+    "login",
+    "loin",
+    "lolling",
+    "long",
+    "longing",
+    "longingly",
+    "loon",
+    "lying",
+    "niggling",
+    "ninny",
+    "noggin",
+    "noon",
+    "nylon",
+    "ogling",
+    "oiling",
+    "oncology",
+    "ongoing",
+    "onion",
+    "only"
+  ],
+  "date": "2038-10-14",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 12,
+      "6": 9,
+      "7": 14,
+      "8": 8,
+      "9": 3
+    },
+    "by_first_letter": {
+      "C": 20,
+      "G": 9,
+      "I": 4,
+      "L": 12,
+      "N": 5,
+      "O": 6
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 4,
+        "6": 4,
+        "7": 7,
+        "8": 3,
+        "9": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "7": 3,
+        "8": 3
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 3,
+        "6": 1,
+        "7": 3,
+        "9": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 6,
+      "CO": 11,
+      "CY": 3,
+      "GI": 3,
+      "GO": 6,
+      "IC": 2,
+      "IN": 2,
+      "LI": 3,
+      "LO": 8,
+      "LY": 1,
+      "NI": 2,
+      "NO": 2,
+      "NY": 1,
+      "OG": 1,
+      "OI": 1,
+      "ON": 4
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "pangram": "acronym",
+  "center_letter": "a",
+  "num_answers": 64,
+  "num_pangrams": 1,
+  "possible_points": 264,
+  "answer_pangrams": [
+    "acronym"
+  ],
+  "answers": [
+    "acorn",
+    "acronym",
+    "ammo",
+    "annoy",
+    "anon",
+    "armor",
+    "armory",
+    "army",
+    "aroma",
+    "array",
+    "arroyo",
+    "cacao",
+    "camo",
+    "canary",
+    "cancan",
+    "canna",
+    "cannon",
+    "canny",
+    "canon",
+    "canyon",
+    "carom",
+    "carry",
+    "coca",
+    "cocoa",
+    "coma",
+    "comma",
+    "corona",
+    "coronary",
+    "cram",
+    "cranny",
+    "cray",
+    "crayon",
+    "cyan",
+    "macaroon",
+    "macro",
+    "macron",
+    "mama",
+    "mamma",
+    "mammary",
+    "manna",
+    "manor",
+    "many",
+    "maraca",
+    "maroon",
+    "marry",
+    "mayo",
+    "mayor",
+    "moan",
+    "momma",
+    "moray",
+    "myna",
+    "naan",
+    "nana",
+    "nanny",
+    "narc",
+    "raccoon",
+    "racy",
+    "rancor",
+    "rayon",
+    "roam",
+    "roan",
+    "roar",
+    "roman",
+    "yarn"
+  ],
+  "date": "2027-08-07",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 24,
+      "6": 13,
+      "7": 3,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 11,
+      "C": 22,
+      "M": 18,
+      "N": 4,
+      "R": 8,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 5,
+        "6": 2,
+        "7": 1
+      },
+      "C": {
+        "4": 6,
+        "5": 8,
+        "6": 7,
+        "8": 1
+      },
+      "M": {
+        "4": 5,
+        "5": 8,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 1
+      },
+      "R": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AM": 1,
+      "AN": 2,
+      "AR": 6,
+      "CA": 11,
+      "CO": 6,
+      "CR": 4,
+      "CY": 1,
+      "MA": 14,
+      "MO": 3,
+      "MY": 1,
+      "NA": 4,
+      "RA": 4,
+      "RO": 4,
+      "YA": 1
+    }
+  }
+}

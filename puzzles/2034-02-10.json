@@ -1,0 +1,102 @@
+{
+  "pangram": "impound",
+  "center_letter": "i",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 129,
+  "answer_pangrams": [
+    "impound"
+  ],
+  "answers": [
+    "dominion",
+    "domino",
+    "idiom",
+    "impound",
+    "ipod",
+    "mind",
+    "mini",
+    "minim",
+    "minimum",
+    "minion",
+    "nonunion",
+    "odium",
+    "onion",
+    "opinion",
+    "opioid",
+    "opium",
+    "pimp",
+    "pinion",
+    "pinup",
+    "pippin",
+    "podium",
+    "undid",
+    "union",
+    "unpin"
+  ],
+  "date": "2034-02-10",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 9,
+      "6": 6,
+      "7": 3,
+      "8": 2
+    },
+    "by_first_letter": {
+      "D": 2,
+      "I": 3,
+      "M": 5,
+      "N": 1,
+      "O": 5,
+      "P": 5,
+      "U": 3
+    },
+    "grid": {
+      "D": {
+        "6": 1,
+        "8": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "M": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "8": 1
+      },
+      "O": {
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "6": 3
+      },
+      "U": {
+        "5": 3
+      }
+    },
+    "two_letter_list": {
+      "DO": 2,
+      "ID": 1,
+      "IM": 1,
+      "IP": 1,
+      "MI": 5,
+      "NO": 1,
+      "OD": 1,
+      "ON": 1,
+      "OP": 3,
+      "PI": 4,
+      "PO": 1,
+      "UN": 3
+    }
+  }
+}

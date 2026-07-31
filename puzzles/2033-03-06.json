@@ -1,0 +1,111 @@
+{
+  "pangram": "blanked",
+  "center_letter": "k",
+  "num_answers": 35,
+  "num_pangrams": 1,
+  "possible_points": 142,
+  "answer_pangrams": [
+    "blanked"
+  ],
+  "answers": [
+    "ankle",
+    "bake",
+    "baked",
+    "balk",
+    "balked",
+    "bank",
+    "banked",
+    "beak",
+    "blank",
+    "blanked",
+    "bleak",
+    "dank",
+    "eked",
+    "kale",
+    "kebab",
+    "keel",
+    "keeled",
+    "keen",
+    "keened",
+    "kenned",
+    "kennel",
+    "kenneled",
+    "knead",
+    "kneaded",
+    "knee",
+    "kneed",
+    "kneel",
+    "knell",
+    "knelled",
+    "lake",
+    "lank",
+    "leak",
+    "leaked",
+    "leek",
+    "naked"
+  ],
+  "date": "2033-03-06",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 10,
+      "6": 7,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 10,
+      "D": 1,
+      "E": 1,
+      "K": 16,
+      "L": 5,
+      "N": 1
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "B": {
+        "4": 4,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "D": {
+        "4": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "K": {
+        "4": 4,
+        "5": 5,
+        "6": 4,
+        "7": 2,
+        "8": 1
+      },
+      "L": {
+        "4": 4,
+        "6": 1
+      },
+      "N": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "BA": 6,
+      "BE": 1,
+      "BL": 3,
+      "DA": 1,
+      "EK": 1,
+      "KA": 1,
+      "KE": 8,
+      "KN": 7,
+      "LA": 2,
+      "LE": 3,
+      "NA": 1
+    }
+  }
+}

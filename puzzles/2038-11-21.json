@@ -1,0 +1,88 @@
+{
+  "pangram": "lengthy",
+  "center_letter": "t",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 114,
+  "answer_pangrams": [
+    "lengthy"
+  ],
+  "answers": [
+    "entente",
+    "eyelet",
+    "eyeteeth",
+    "gent",
+    "genteel",
+    "gentle",
+    "gently",
+    "length",
+    "lengthen",
+    "lengthy",
+    "lent",
+    "nettle",
+    "teen",
+    "teeny",
+    "teeth",
+    "teethe",
+    "tell",
+    "telnet",
+    "tenet",
+    "tent",
+    "tenth",
+    "thee",
+    "then",
+    "they"
+  ],
+  "date": "2038-11-21",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 4,
+      "6": 7,
+      "7": 3,
+      "8": 2
+    },
+    "by_first_letter": {
+      "E": 3,
+      "G": 4,
+      "L": 4,
+      "N": 1,
+      "T": 12
+    },
+    "grid": {
+      "E": {
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 4,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "EN": 1,
+      "EY": 2,
+      "GE": 4,
+      "LE": 4,
+      "NE": 1,
+      "TE": 9,
+      "TH": 3
+    }
+  }
+}

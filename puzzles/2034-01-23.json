@@ -1,0 +1,97 @@
+{
+  "pangram": "panicky",
+  "center_letter": "a",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 105,
+  "answer_pangrams": [
+    "panicky"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "akin",
+    "cancan",
+    "canna",
+    "canny",
+    "cyan",
+    "kayak",
+    "knack",
+    "knickknack",
+    "naan",
+    "nana",
+    "nanny",
+    "napkin",
+    "nappy",
+    "niacin",
+    "pack",
+    "pain",
+    "panic",
+    "panicky",
+    "papa",
+    "papacy",
+    "papaya",
+    "pica",
+    "yank"
+  ],
+  "date": "2034-01-23",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 7,
+      "6": 6,
+      "7": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 4,
+      "K": 3,
+      "N": 6,
+      "P": 8,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      },
+      "K": {
+        "5": 2,
+        "10": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 2,
+        "6": 2
+      },
+      "P": {
+        "4": 4,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AK": 1,
+      "CA": 3,
+      "CY": 1,
+      "KA": 1,
+      "KN": 2,
+      "NA": 5,
+      "NI": 1,
+      "PA": 7,
+      "PI": 1,
+      "YA": 1
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "pangram": "outlaid",
+  "center_letter": "t",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 97,
+  "answer_pangrams": [
+    "outlaid"
+  ],
+  "answers": [
+    "adult",
+    "allot",
+    "alto",
+    "atoll",
+    "audit",
+    "auto",
+    "data",
+    "ditto",
+    "dolt",
+    "idiot",
+    "iota",
+    "lilt",
+    "loot",
+    "lotto",
+    "lout",
+    "outdid",
+    "outdo",
+    "outlaid",
+    "tail",
+    "tall",
+    "tattoo",
+    "taut",
+    "tidal",
+    "till",
+    "tilt",
+    "toad",
+    "toil",
+    "told",
+    "toll",
+    "tool",
+    "toot",
+    "total",
+    "tout",
+    "tutu"
+  ],
+  "date": "2032-11-17",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 10,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "D": 3,
+      "I": 2,
+      "L": 4,
+      "O": 3,
+      "T": 16
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 4
+      },
+      "D": {
+        "4": 2,
+        "5": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 13,
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AL": 2,
+      "AT": 1,
+      "AU": 2,
+      "DA": 1,
+      "DI": 1,
+      "DO": 1,
+      "ID": 1,
+      "IO": 1,
+      "LI": 1,
+      "LO": 3,
+      "OU": 3,
+      "TA": 4,
+      "TI": 3,
+      "TO": 8,
+      "TU": 1
+    }
+  }
+}

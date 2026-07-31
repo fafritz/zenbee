@@ -1,0 +1,100 @@
+{
+  "pangram": "monthly",
+  "center_letter": "o",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 95,
+  "answer_pangrams": [
+    "monthly"
+  ],
+  "answers": [
+    "holly",
+    "holy",
+    "homonym",
+    "hoot",
+    "hotly",
+    "loll",
+    "loom",
+    "loon",
+    "loot",
+    "lotto",
+    "moll",
+    "molt",
+    "mommy",
+    "mono",
+    "monotony",
+    "month",
+    "monthly",
+    "moon",
+    "moot",
+    "moth",
+    "motto",
+    "noon",
+    "nylon",
+    "only",
+    "onto",
+    "toll",
+    "tony",
+    "tool",
+    "toon",
+    "toot",
+    "tooth",
+    "toothy"
+  ],
+  "date": "2035-02-25",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 8,
+      "6": 1,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "H": 5,
+      "L": 5,
+      "M": 11,
+      "N": 2,
+      "O": 2,
+      "T": 7
+    },
+    "grid": {
+      "H": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 1
+      },
+      "M": {
+        "4": 6,
+        "5": 3,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1
+      },
+      "O": {
+        "4": 2
+      },
+      "T": {
+        "4": 5,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "HO": 5,
+      "LO": 5,
+      "MO": 11,
+      "NO": 1,
+      "NY": 1,
+      "ON": 2,
+      "TO": 7
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "pangram": "acronym",
+  "center_letter": "m",
+  "num_answers": 44,
+  "num_pangrams": 1,
+  "possible_points": 170,
+  "answer_pangrams": [
+    "acronym"
+  ],
+  "answers": [
+    "acronym",
+    "ammo",
+    "armor",
+    "armory",
+    "army",
+    "aroma",
+    "camo",
+    "carom",
+    "coma",
+    "comma",
+    "common",
+    "corm",
+    "cram",
+    "macaroon",
+    "macro",
+    "macron",
+    "mama",
+    "mamma",
+    "mammary",
+    "manna",
+    "manor",
+    "many",
+    "maraca",
+    "maroon",
+    "marry",
+    "mayo",
+    "mayor",
+    "moan",
+    "momma",
+    "mommy",
+    "mono",
+    "moon",
+    "moor",
+    "moray",
+    "morn",
+    "morocco",
+    "moron",
+    "myna",
+    "noncom",
+    "norm",
+    "roam",
+    "roman",
+    "room",
+    "roomy"
+  ],
+  "date": "2028-04-08",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 16,
+      "6": 6,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 7,
+      "M": 25,
+      "N": 2,
+      "R": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 4,
+        "5": 2,
+        "6": 1
+      },
+      "M": {
+        "4": 9,
+        "5": 10,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AM": 1,
+      "AR": 4,
+      "CA": 2,
+      "CO": 4,
+      "CR": 1,
+      "MA": 14,
+      "MO": 10,
+      "MY": 1,
+      "NO": 2,
+      "RO": 4
+    }
+  }
+}

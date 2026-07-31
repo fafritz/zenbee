@@ -1,0 +1,88 @@
+{
+  "pangram": "helping",
+  "center_letter": "p",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 171,
+  "answer_pangrams": [
+    "helping"
+  ],
+  "answers": [
+    "epee",
+    "help",
+    "helping",
+    "helpline",
+    "hippie",
+    "hipping",
+    "nipping",
+    "peeing",
+    "peel",
+    "peeling",
+    "peen",
+    "peep",
+    "peeping",
+    "penile",
+    "penning",
+    "pepping",
+    "pieing",
+    "pigging",
+    "pigpen",
+    "pile",
+    "piling",
+    "pill",
+    "pilling",
+    "pine",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "pipe",
+    "pipeline",
+    "piping",
+    "pippin",
+    "pipping"
+  ],
+  "date": "2026-08-26",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "6": 9,
+      "7": 12,
+      "8": 2
+    },
+    "by_first_letter": {
+      "E": 1,
+      "H": 5,
+      "N": 1,
+      "P": 26
+    },
+    "grid": {
+      "E": {
+        "4": 1
+      },
+      "H": {
+        "4": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "7": 1
+      },
+      "P": {
+        "4": 8,
+        "6": 8,
+        "7": 9,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "EP": 1,
+      "HE": 3,
+      "HI": 2,
+      "NI": 1,
+      "PE": 9,
+      "PI": 17
+    }
+  }
+}

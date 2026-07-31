@@ -1,0 +1,95 @@
+{
+  "pangram": "bunched",
+  "center_letter": "n",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 126,
+  "answer_pangrams": [
+    "bunched"
+  ],
+  "answers": [
+    "been",
+    "bench",
+    "benched",
+    "bend",
+    "bunch",
+    "bunched",
+    "denude",
+    "denuded",
+    "dunce",
+    "dune",
+    "dunned",
+    "ended",
+    "endue",
+    "endued",
+    "hence",
+    "hunch",
+    "hunched",
+    "need",
+    "needed",
+    "nene",
+    "unbend",
+    "undue",
+    "unheeded",
+    "unneeded"
+  ],
+  "date": "2037-12-28",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 8,
+      "6": 5,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "B": 6,
+      "D": 5,
+      "E": 3,
+      "H": 3,
+      "N": 3,
+      "U": 4
+    },
+    "grid": {
+      "B": {
+        "4": 2,
+        "5": 2,
+        "7": 2
+      },
+      "D": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "5": 2,
+        "6": 1
+      },
+      "H": {
+        "5": 2,
+        "7": 1
+      },
+      "N": {
+        "4": 2,
+        "6": 1
+      },
+      "U": {
+        "5": 1,
+        "6": 1,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "BE": 4,
+      "BU": 2,
+      "DE": 2,
+      "DU": 3,
+      "EN": 3,
+      "HE": 1,
+      "HU": 2,
+      "NE": 3,
+      "UN": 4
+    }
+  }
+}

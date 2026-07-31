@@ -1,0 +1,77 @@
+{
+  "pangram": "matchup",
+  "center_letter": "u",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 50,
+  "answer_pangrams": [
+    "matchup"
+  ],
+  "answers": [
+    "chum",
+    "chump",
+    "cutup",
+    "hump",
+    "hutch",
+    "matchup",
+    "much",
+    "mutt",
+    "muumuu",
+    "puma",
+    "pump",
+    "pupa",
+    "putt",
+    "taut",
+    "thump",
+    "tutu"
+  ],
+  "date": "2027-10-25",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 4,
+      "6": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 3,
+      "H": 2,
+      "M": 4,
+      "P": 4,
+      "T": 3
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 2
+      },
+      "H": {
+        "4": 1,
+        "5": 1
+      },
+      "M": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 4
+      },
+      "T": {
+        "4": 2,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 2,
+      "CU": 1,
+      "HU": 2,
+      "MA": 1,
+      "MU": 3,
+      "PU": 4,
+      "TA": 1,
+      "TH": 1,
+      "TU": 1
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "pangram": "thumped",
+  "center_letter": "h",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 78,
+  "answer_pangrams": [
+    "thumped"
+  ],
+  "answers": [
+    "depth",
+    "heed",
+    "heeded",
+    "hemmed",
+    "hemp",
+    "hummed",
+    "hump",
+    "teeth",
+    "teethe",
+    "teethed",
+    "thee",
+    "them",
+    "theme",
+    "thud",
+    "thudded",
+    "thump",
+    "thumped"
+  ],
+  "date": "2029-04-09",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 4,
+      "6": 4,
+      "7": 3
+    },
+    "by_first_letter": {
+      "D": 1,
+      "H": 6,
+      "T": 10
+    },
+    "grid": {
+      "D": {
+        "5": 1
+      },
+      "H": {
+        "4": 3,
+        "6": 3
+      },
+      "T": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "DE": 1,
+      "HE": 4,
+      "HU": 2,
+      "TE": 3,
+      "TH": 7
+    }
+  }
+}

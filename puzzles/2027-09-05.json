@@ -1,0 +1,96 @@
+{
+  "pangram": "hopeful",
+  "center_letter": "e",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 79,
+  "answer_pangrams": [
+    "hopeful"
+  ],
+  "answers": [
+    "elope",
+    "epee",
+    "feel",
+    "fell",
+    "flee",
+    "floe",
+    "flue",
+    "fuel",
+    "heel",
+    "hell",
+    "hellhole",
+    "hello",
+    "help",
+    "helpful",
+    "hole",
+    "hope",
+    "hopeful",
+    "loophole",
+    "lope",
+    "oleo",
+    "peel",
+    "peep",
+    "peephole",
+    "people",
+    "pole",
+    "pope"
+  ],
+  "date": "2027-09-05",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 2,
+      "6": 1,
+      "7": 2,
+      "8": 3
+    },
+    "by_first_letter": {
+      "E": 2,
+      "F": 6,
+      "H": 9,
+      "L": 2,
+      "O": 1,
+      "P": 6
+    },
+    "grid": {
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "F": {
+        "4": 6
+      },
+      "H": {
+        "4": 5,
+        "5": 1,
+        "7": 2,
+        "8": 1
+      },
+      "L": {
+        "4": 1,
+        "8": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 4,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "EL": 1,
+      "EP": 1,
+      "FE": 2,
+      "FL": 3,
+      "FU": 1,
+      "HE": 6,
+      "HO": 3,
+      "LO": 2,
+      "OL": 1,
+      "PE": 4,
+      "PO": 2
+    }
+  }
+}

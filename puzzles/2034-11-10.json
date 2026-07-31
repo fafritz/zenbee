@@ -1,0 +1,123 @@
+{
+  "pangram": "ordinal",
+  "center_letter": "l",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 118,
+  "answer_pangrams": [
+    "ordinal"
+  ],
+  "answers": [
+    "anal",
+    "dial",
+    "dill",
+    "dirndl",
+    "doll",
+    "dollar",
+    "drill",
+    "droll",
+    "drool",
+    "idol",
+    "inlaid",
+    "inland",
+    "laid",
+    "lain",
+    "lair",
+    "land",
+    "landlord",
+    "lanolin",
+    "lard",
+    "liar",
+    "lion",
+    "lira",
+    "llano",
+    "load",
+    "loan",
+    "loin",
+    "loll",
+    "loon",
+    "lord",
+    "nail",
+    "nodal",
+    "olio",
+    "oral",
+    "ordinal",
+    "radial",
+    "rail",
+    "railroad",
+    "rill",
+    "roil",
+    "roll"
+  ],
+  "date": "2034-11-10",
+  "hints": {
+    "by_length": {
+      "4": 26,
+      "5": 5,
+      "6": 5,
+      "7": 2,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "D": 8,
+      "I": 3,
+      "L": 17,
+      "N": 2,
+      "O": 3,
+      "R": 6
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "D": {
+        "4": 3,
+        "5": 3,
+        "6": 2
+      },
+      "I": {
+        "4": 1,
+        "6": 2
+      },
+      "L": {
+        "4": 14,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1
+      },
+      "O": {
+        "4": 2,
+        "7": 1
+      },
+      "R": {
+        "4": 4,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "DI": 3,
+      "DO": 2,
+      "DR": 3,
+      "ID": 1,
+      "IN": 2,
+      "LA": 7,
+      "LI": 3,
+      "LL": 1,
+      "LO": 6,
+      "NA": 1,
+      "NO": 1,
+      "OL": 1,
+      "OR": 2,
+      "RA": 3,
+      "RI": 1,
+      "RO": 2
+    }
+  }
+}

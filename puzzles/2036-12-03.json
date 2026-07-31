@@ -1,0 +1,89 @@
+{
+  "pangram": "jumping",
+  "center_letter": "u",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 131,
+  "answer_pangrams": [
+    "jumping"
+  ],
+  "answers": [
+    "gumming",
+    "gunning",
+    "impugn",
+    "impugning",
+    "jugging",
+    "jump",
+    "jumping",
+    "minimum",
+    "mugging",
+    "munging",
+    "muumuu",
+    "pinup",
+    "pump",
+    "pumping",
+    "punning",
+    "pupping",
+    "umping",
+    "unpin",
+    "unpinning",
+    "upping"
+  ],
+  "date": "2036-12-03",
+  "hints": {
+    "by_length": {
+      "4": 2,
+      "5": 2,
+      "6": 4,
+      "7": 10,
+      "9": 2
+    },
+    "by_first_letter": {
+      "G": 2,
+      "I": 2,
+      "J": 3,
+      "M": 4,
+      "P": 5,
+      "U": 4
+    },
+    "grid": {
+      "G": {
+        "7": 2
+      },
+      "I": {
+        "6": 1,
+        "9": 1
+      },
+      "J": {
+        "4": 1,
+        "7": 2
+      },
+      "M": {
+        "6": 1,
+        "7": 3
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "7": 3
+      },
+      "U": {
+        "5": 1,
+        "6": 2,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "GU": 2,
+      "IM": 2,
+      "JU": 3,
+      "MI": 1,
+      "MU": 3,
+      "PI": 1,
+      "PU": 4,
+      "UM": 1,
+      "UN": 2,
+      "UP": 1
+    }
+  }
+}

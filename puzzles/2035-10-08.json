@@ -1,0 +1,128 @@
+{
+  "pangram": "pinhole",
+  "center_letter": "p",
+  "num_answers": 47,
+  "num_pangrams": 1,
+  "possible_points": 172,
+  "answer_pangrams": [
+    "pinhole"
+  ],
+  "answers": [
+    "elope",
+    "epee",
+    "help",
+    "helpline",
+    "hippie",
+    "hippo",
+    "hoop",
+    "hope",
+    "iphone",
+    "lollipop",
+    "loop",
+    "loophole",
+    "lope",
+    "nope",
+    "open",
+    "opine",
+    "opinion",
+    "peel",
+    "peen",
+    "peep",
+    "peephole",
+    "penile",
+    "pennon",
+    "peon",
+    "people",
+    "phone",
+    "pile",
+    "pill",
+    "pillion",
+    "pine",
+    "pinhole",
+    "pinion",
+    "pipe",
+    "pipeline",
+    "pippin",
+    "plop",
+    "pole",
+    "polio",
+    "poll",
+    "pollen",
+    "polo",
+    "pone",
+    "pooh",
+    "pool",
+    "poop",
+    "pope",
+    "poplin"
+  ],
+  "date": "2035-10-08",
+  "hints": {
+    "by_length": {
+      "4": 25,
+      "5": 5,
+      "6": 9,
+      "7": 3,
+      "8": 5
+    },
+    "by_first_letter": {
+      "E": 2,
+      "H": 6,
+      "I": 1,
+      "L": 4,
+      "N": 1,
+      "O": 3,
+      "P": 30
+    },
+    "grid": {
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "L": {
+        "4": 2,
+        "8": 2
+      },
+      "N": {
+        "4": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 17,
+        "5": 2,
+        "6": 7,
+        "7": 2,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "EL": 1,
+      "EP": 1,
+      "HE": 2,
+      "HI": 2,
+      "HO": 2,
+      "IP": 1,
+      "LO": 4,
+      "NO": 1,
+      "OP": 3,
+      "PE": 8,
+      "PH": 1,
+      "PI": 9,
+      "PL": 1,
+      "PO": 11
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "pangram": "blowgun",
+  "center_letter": "n",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 48,
+  "answer_pangrams": [
+    "blowgun"
+  ],
+  "answers": [
+    "blowgun",
+    "blown",
+    "bonbon",
+    "bong",
+    "bongo",
+    "boon",
+    "bung",
+    "gong",
+    "goon",
+    "gown",
+    "long",
+    "loon",
+    "lung",
+    "noon",
+    "noun",
+    "null",
+    "oblong"
+  ],
+  "date": "2036-10-08",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 2,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "B": 7,
+      "G": 3,
+      "L": 3,
+      "N": 3,
+      "O": 1
+    },
+    "grid": {
+      "B": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 3
+      },
+      "L": {
+        "4": 3
+      },
+      "N": {
+        "4": 3
+      },
+      "O": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "BL": 2,
+      "BO": 4,
+      "BU": 1,
+      "GO": 3,
+      "LO": 2,
+      "LU": 1,
+      "NO": 2,
+      "NU": 1,
+      "OB": 1
+    }
+  }
+}

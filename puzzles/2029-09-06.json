@@ -1,0 +1,121 @@
+{
+  "pangram": "confide",
+  "center_letter": "f",
+  "num_answers": 42,
+  "num_pangrams": 5,
+  "possible_points": 250,
+  "answer_pangrams": [
+    "coffined",
+    "confide",
+    "confided",
+    "confidence",
+    "confined"
+  ],
+  "answers": [
+    "codified",
+    "coffee",
+    "coffin",
+    "coffined",
+    "coif",
+    "coiffed",
+    "confide",
+    "confided",
+    "confidence",
+    "confine",
+    "confined",
+    "defend",
+    "defended",
+    "defied",
+    "define",
+    "defined",
+    "deified",
+    "diff",
+    "diffed",
+    "diffidence",
+    "doff",
+    "doffed",
+    "edifice",
+    "edified",
+    "feed",
+    "fence",
+    "fenced",
+    "fend",
+    "fended",
+    "fief",
+    "fiend",
+    "fife",
+    "find",
+    "fine",
+    "fined",
+    "fond",
+    "food",
+    "info",
+    "offed",
+    "offend",
+    "offended",
+    "office"
+  ],
+  "date": "2029-09-06",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 4,
+      "6": 11,
+      "7": 7,
+      "8": 6,
+      "10": 2
+    },
+    "by_first_letter": {
+      "C": 11,
+      "D": 11,
+      "E": 2,
+      "F": 13,
+      "I": 1,
+      "O": 4
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "6": 2,
+        "7": 3,
+        "8": 4,
+        "10": 1
+      },
+      "D": {
+        "4": 2,
+        "6": 5,
+        "7": 2,
+        "8": 1,
+        "10": 1
+      },
+      "E": {
+        "7": 2
+      },
+      "F": {
+        "4": 8,
+        "5": 3,
+        "6": 2
+      },
+      "I": {
+        "4": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 11,
+      "DE": 6,
+      "DI": 3,
+      "DO": 2,
+      "ED": 2,
+      "FE": 5,
+      "FI": 6,
+      "FO": 2,
+      "IN": 1,
+      "OF": 4
+    }
+  }
+}

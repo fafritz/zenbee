@@ -1,0 +1,94 @@
+{
+  "pangram": "euphony",
+  "center_letter": "p",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 84,
+  "answer_pangrams": [
+    "euphony"
+  ],
+  "answers": [
+    "epee",
+    "euphony",
+    "hoop",
+    "hope",
+    "hype",
+    "hyphen",
+    "hypo",
+    "nope",
+    "open",
+    "peen",
+    "peep",
+    "pennon",
+    "penny",
+    "peon",
+    "peony",
+    "peppy",
+    "phone",
+    "phony",
+    "phooey",
+    "pone",
+    "pony",
+    "pooh",
+    "poop",
+    "pope",
+    "poppy",
+    "puny",
+    "puppy",
+    "upon"
+  ],
+  "date": "2031-09-11",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 7,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "E": 2,
+      "H": 5,
+      "N": 1,
+      "O": 1,
+      "P": 18,
+      "U": 1
+    },
+    "grid": {
+      "E": {
+        "4": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 4,
+        "6": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 9,
+        "5": 7,
+        "6": 2
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "EP": 1,
+      "EU": 1,
+      "HO": 2,
+      "HY": 3,
+      "NO": 1,
+      "OP": 1,
+      "PE": 7,
+      "PH": 3,
+      "PO": 6,
+      "PU": 2,
+      "UP": 1
+    }
+  }
+}

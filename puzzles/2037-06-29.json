@@ -1,0 +1,148 @@
+{
+  "pangram": "janitor",
+  "center_letter": "a",
+  "num_answers": 52,
+  "num_pangrams": 1,
+  "possible_points": 281,
+  "answer_pangrams": [
+    "janitor"
+  ],
+  "answers": [
+    "ajar",
+    "anion",
+    "annotation",
+    "anoint",
+    "anon",
+    "anti",
+    "aorta",
+    "aria",
+    "arrant",
+    "atria",
+    "attain",
+    "attar",
+    "attrition",
+    "initiation",
+    "initiator",
+    "intonation",
+    "iota",
+    "irritant",
+    "irritation",
+    "janitor",
+    "naan",
+    "nana",
+    "narration",
+    "narrator",
+    "nation",
+    "ninja",
+    "notation",
+    "oration",
+    "orator",
+    "oratorio",
+    "rain",
+    "rant",
+    "ratatat",
+    "ratio",
+    "ration",
+    "rattan",
+    "roan",
+    "roar",
+    "rotation",
+    "taint",
+    "tannin",
+    "taro",
+    "tarot",
+    "tart",
+    "tartan",
+    "tartar",
+    "tattoo",
+    "tiara",
+    "titan",
+    "train",
+    "trait",
+    "traitor"
+  ],
+  "date": "2037-06-29",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 12,
+      "6": 11,
+      "7": 4,
+      "8": 5,
+      "9": 3,
+      "10": 4
+    },
+    "by_first_letter": {
+      "A": 13,
+      "I": 6,
+      "J": 1,
+      "N": 7,
+      "O": 3,
+      "R": 9,
+      "T": 13
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "5": 4,
+        "6": 3,
+        "9": 1,
+        "10": 1
+      },
+      "I": {
+        "4": 1,
+        "8": 1,
+        "9": 1,
+        "10": 3
+      },
+      "J": {
+        "7": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "8": 2,
+        "9": 1
+      },
+      "O": {
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "R": {
+        "4": 4,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 6,
+        "6": 4,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AJ": 1,
+      "AN": 5,
+      "AO": 1,
+      "AR": 2,
+      "AT": 4,
+      "IN": 3,
+      "IO": 1,
+      "IR": 2,
+      "JA": 1,
+      "NA": 5,
+      "NI": 1,
+      "NO": 1,
+      "OR": 3,
+      "RA": 6,
+      "RO": 3,
+      "TA": 8,
+      "TI": 2,
+      "TR": 3
+    }
+  }
+}

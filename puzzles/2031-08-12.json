@@ -1,0 +1,93 @@
+{
+  "pangram": "punched",
+  "center_letter": "p",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 138,
+  "answer_pangrams": [
+    "punched"
+  ],
+  "answers": [
+    "cheep",
+    "cheeped",
+    "cupped",
+    "deep",
+    "deepen",
+    "deepened",
+    "depend",
+    "depended",
+    "dependence",
+    "dupe",
+    "duped",
+    "epee",
+    "peed",
+    "peen",
+    "peep",
+    "peeped",
+    "pence",
+    "penned",
+    "pepped",
+    "punch",
+    "punched",
+    "punned",
+    "pupped",
+    "upend",
+    "upended",
+    "upped"
+  ],
+  "date": "2031-08-12",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 6,
+      "6": 8,
+      "7": 3,
+      "8": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 3,
+      "D": 8,
+      "E": 1,
+      "P": 11,
+      "U": 3
+    },
+    "grid": {
+      "C": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "8": 2,
+        "10": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 2,
+        "6": 5,
+        "7": 1
+      },
+      "U": {
+        "5": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 2,
+      "CU": 1,
+      "DE": 6,
+      "DU": 2,
+      "EP": 1,
+      "PE": 7,
+      "PU": 4,
+      "UP": 3
+    }
+  }
+}

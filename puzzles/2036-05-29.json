@@ -1,0 +1,102 @@
+{
+  "pangram": "adjourn",
+  "center_letter": "o",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 84,
+  "answer_pangrams": [
+    "adjourn"
+  ],
+  "answers": [
+    "adjourn",
+    "adorn",
+    "anon",
+    "ardor",
+    "around",
+    "dado",
+    "dodo",
+    "donor",
+    "doodad",
+    "door",
+    "dour",
+    "dunno",
+    "judo",
+    "juror",
+    "noon",
+    "noun",
+    "odor",
+    "radon",
+    "road",
+    "roan",
+    "roar",
+    "rood",
+    "round",
+    "runaround",
+    "undo"
+  ],
+  "date": "2036-05-29",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 7,
+      "6": 2,
+      "7": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "D": 7,
+      "J": 2,
+      "N": 2,
+      "O": 1,
+      "R": 7,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 4,
+        "5": 2,
+        "6": 1
+      },
+      "J": {
+        "4": 1,
+        "5": 1
+      },
+      "N": {
+        "4": 2
+      },
+      "O": {
+        "4": 1
+      },
+      "R": {
+        "4": 4,
+        "5": 2,
+        "9": 1
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 2,
+      "AN": 1,
+      "AR": 2,
+      "DA": 1,
+      "DO": 5,
+      "DU": 1,
+      "JU": 2,
+      "NO": 2,
+      "OD": 1,
+      "RA": 1,
+      "RO": 5,
+      "RU": 1,
+      "UN": 1
+    }
+  }
+}

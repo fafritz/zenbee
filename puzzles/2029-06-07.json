@@ -1,0 +1,99 @@
+{
+  "pangram": "forcing",
+  "center_letter": "f",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 151,
+  "answer_pangrams": [
+    "forcing"
+  ],
+  "answers": [
+    "coffin",
+    "coffining",
+    "coif",
+    "coiffing",
+    "confining",
+    "fining",
+    "firing",
+    "fogging",
+    "forcing",
+    "forging",
+    "forgo",
+    "forgoing",
+    "fringing",
+    "frog",
+    "frogging",
+    "goof",
+    "goofing",
+    "griffin",
+    "info",
+    "infringing",
+    "offing",
+    "riff",
+    "riffing",
+    "roof",
+    "roofing"
+  ],
+  "date": "2029-06-07",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 1,
+      "6": 4,
+      "7": 7,
+      "8": 4,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 5,
+      "F": 10,
+      "G": 3,
+      "I": 2,
+      "O": 1,
+      "R": 4
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "6": 1,
+        "8": 1,
+        "9": 2
+      },
+      "F": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 3,
+        "8": 3
+      },
+      "G": {
+        "4": 1,
+        "7": 2
+      },
+      "I": {
+        "4": 1,
+        "10": 1
+      },
+      "O": {
+        "6": 1
+      },
+      "R": {
+        "4": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "CO": 5,
+      "FI": 2,
+      "FO": 5,
+      "FR": 3,
+      "GO": 2,
+      "GR": 1,
+      "IN": 2,
+      "OF": 1,
+      "RI": 2,
+      "RO": 2
+    }
+  }
+}

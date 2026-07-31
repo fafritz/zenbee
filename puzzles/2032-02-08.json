@@ -1,0 +1,112 @@
+{
+  "pangram": "trilogy",
+  "center_letter": "o",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 97,
+  "answer_pangrams": [
+    "trilogy"
+  ],
+  "answers": [
+    "gigolo",
+    "glory",
+    "gory",
+    "grog",
+    "groggily",
+    "groggy",
+    "grotto",
+    "gyro",
+    "igloo",
+    "logo",
+    "loll",
+    "loot",
+    "lorry",
+    "lotto",
+    "oily",
+    "olio",
+    "rigor",
+    "riot",
+    "roil",
+    "roll",
+    "root",
+    "rotor",
+    "toil",
+    "toll",
+    "tool",
+    "toot",
+    "tort",
+    "trilogy",
+    "trio",
+    "troll",
+    "trot",
+    "troy",
+    "tyro",
+    "yogi"
+  ],
+  "date": "2032-02-08",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 7,
+      "6": 3,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "G": 8,
+      "I": 1,
+      "L": 5,
+      "O": 2,
+      "R": 6,
+      "T": 11,
+      "Y": 1
+    },
+    "grid": {
+      "G": {
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "8": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 2
+      },
+      "O": {
+        "4": 2
+      },
+      "R": {
+        "4": 4,
+        "5": 2
+      },
+      "T": {
+        "4": 9,
+        "5": 1,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 1,
+      "GL": 1,
+      "GO": 1,
+      "GR": 4,
+      "GY": 1,
+      "IG": 1,
+      "LO": 5,
+      "OI": 1,
+      "OL": 1,
+      "RI": 2,
+      "RO": 4,
+      "TO": 5,
+      "TR": 5,
+      "TY": 1,
+      "YO": 1
+    }
+  }
+}

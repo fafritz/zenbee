@@ -1,0 +1,135 @@
+{
+  "pangram": "ordinal",
+  "center_letter": "d",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 203,
+  "answer_pangrams": [
+    "ordinal"
+  ],
+  "answers": [
+    "adorn",
+    "andiron",
+    "android",
+    "ardor",
+    "arid",
+    "dado",
+    "darn",
+    "dial",
+    "dill",
+    "dinar",
+    "dirndl",
+    "dodo",
+    "doll",
+    "dollar",
+    "donor",
+    "doodad",
+    "door",
+    "drain",
+    "drill",
+    "droid",
+    "droll",
+    "drool",
+    "idol",
+    "indoor",
+    "inlaid",
+    "inland",
+    "inroad",
+    "laid",
+    "land",
+    "landlord",
+    "lard",
+    "load",
+    "lord",
+    "nadir",
+    "naiad",
+    "nodal",
+    "odor",
+    "ordain",
+    "ordinal",
+    "radar",
+    "radial",
+    "radian",
+    "radii",
+    "radio",
+    "radon",
+    "raid",
+    "railroad",
+    "rind",
+    "road",
+    "rood"
+  ],
+  "date": "2029-03-13",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 16,
+      "6": 10,
+      "7": 3,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "D": 17,
+      "I": 5,
+      "L": 6,
+      "N": 3,
+      "O": 3,
+      "R": 11
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "7": 2
+      },
+      "D": {
+        "4": 7,
+        "5": 7,
+        "6": 3
+      },
+      "I": {
+        "4": 1,
+        "6": 4
+      },
+      "L": {
+        "4": 5,
+        "8": 1
+      },
+      "N": {
+        "5": 3
+      },
+      "O": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 4,
+        "5": 4,
+        "6": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AN": 2,
+      "AR": 2,
+      "DA": 2,
+      "DI": 4,
+      "DO": 6,
+      "DR": 5,
+      "ID": 1,
+      "IN": 4,
+      "LA": 4,
+      "LO": 2,
+      "NA": 2,
+      "NO": 1,
+      "OD": 1,
+      "OR": 2,
+      "RA": 8,
+      "RI": 1,
+      "RO": 2
+    }
+  }
+}

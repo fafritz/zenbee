@@ -1,0 +1,125 @@
+{
+  "pangram": "hurting",
+  "center_letter": "r",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 211,
+  "answer_pangrams": [
+    "hurting"
+  ],
+  "answers": [
+    "girt",
+    "girth",
+    "girting",
+    "grin",
+    "grinning",
+    "grit",
+    "gritting",
+    "grunt",
+    "grunting",
+    "gunrunning",
+    "guru",
+    "hiring",
+    "hurt",
+    "hurting",
+    "intriguing",
+    "inuring",
+    "nurturing",
+    "rigging",
+    "right",
+    "righting",
+    "ring",
+    "ringing",
+    "ruin",
+    "ruing",
+    "ruining",
+    "rung",
+    "running",
+    "runt",
+    "rutting",
+    "tiring",
+    "truing",
+    "truth",
+    "turn",
+    "turning",
+    "unhurt",
+    "untiring",
+    "untruth",
+    "urging"
+  ],
+  "date": "2029-09-13",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 5,
+      "6": 5,
+      "7": 10,
+      "8": 5,
+      "9": 1,
+      "10": 2
+    },
+    "by_first_letter": {
+      "G": 11,
+      "H": 3,
+      "I": 2,
+      "N": 1,
+      "R": 12,
+      "T": 5,
+      "U": 4
+    },
+    "grid": {
+      "G": {
+        "4": 4,
+        "5": 2,
+        "7": 1,
+        "8": 3,
+        "10": 1
+      },
+      "H": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "7": 1,
+        "10": 1
+      },
+      "N": {
+        "9": 1
+      },
+      "R": {
+        "4": 4,
+        "5": 2,
+        "7": 5,
+        "8": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "U": {
+        "6": 2,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 3,
+      "GR": 6,
+      "GU": 2,
+      "HI": 1,
+      "HU": 2,
+      "IN": 2,
+      "NU": 1,
+      "RI": 5,
+      "RU": 7,
+      "TI": 1,
+      "TR": 2,
+      "TU": 2,
+      "UN": 3,
+      "UR": 1
+    }
+  }
+}

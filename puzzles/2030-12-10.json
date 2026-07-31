@@ -1,0 +1,104 @@
+{
+  "pangram": "vaulted",
+  "center_letter": "v",
+  "num_answers": 32,
+  "num_pangrams": 2,
+  "possible_points": 189,
+  "answer_pangrams": [
+    "evaluated",
+    "vaulted"
+  ],
+  "answers": [
+    "delve",
+    "delved",
+    "devalue",
+    "devalued",
+    "duvet",
+    "elevate",
+    "elevated",
+    "evade",
+    "evaded",
+    "evaluate",
+    "evaluated",
+    "lava",
+    "leave",
+    "leaved",
+    "levee",
+    "level",
+    "leveled",
+    "uvula",
+    "vale",
+    "valet",
+    "valeted",
+    "value",
+    "valued",
+    "valve",
+    "valved",
+    "vatted",
+    "vault",
+    "vaulted",
+    "veal",
+    "veld",
+    "velvet",
+    "vetted"
+  ],
+  "date": "2030-12-10",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 11,
+      "6": 8,
+      "7": 5,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "D": 5,
+      "E": 6,
+      "L": 6,
+      "U": 1,
+      "V": 14
+    },
+    "grid": {
+      "D": {
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "U": {
+        "5": 1
+      },
+      "V": {
+        "4": 3,
+        "5": 4,
+        "6": 5,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "DE": 4,
+      "DU": 1,
+      "EL": 2,
+      "EV": 4,
+      "LA": 1,
+      "LE": 5,
+      "UV": 1,
+      "VA": 10,
+      "VE": 4
+    }
+  }
+}

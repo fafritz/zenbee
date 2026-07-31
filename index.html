@@ -8,6 +8,11 @@
   game inspired by the NYT Spelling Bee. The entire game — HTML structure, CSS
   styles, and JavaScript logic — lives in this one file.
 
+  Brand name
+  __________
+  To change brand name, edit window.BRAND_NAME
+  Default window.BRAND_NAME = "ZenBee"
+
   Usage
   ─────
     Non-hosted repo (e.g., -dev)
@@ -20,10 +25,12 @@
       Open chosen domain name in a browser, e.g.:
         https://zenbee.app/
 
-  Data file
-  ─────────
-  _pangram_answers_with_hints.json — must be in the same directory.
-  An array of puzzle objects, one per calendar day. Each object contains:
+  Data files
+  ──────────
+  puzzles/{date}.json — one file per calendar day, e.g. puzzles/2026-05-01.json.
+  loadPuzzle() fetches only today's file; openYesterday() fetches
+  yesterday's file lazily, only if that overlay is opened. Each file is a
+  single puzzle object (not wrapped in an array):
     date              YYYY-MM-DD string, e.g. "2026-05-01"
     pangram           7-letter source word, e.g. "company"
     center_letter     required letter that every valid answer must contain
@@ -37,6 +44,10 @@
                         by_first_letter   word count keyed by first letter (upper)
                         grid              nested map: grid[LETTER][length] = count
                         two_letter_list   word count keyed by first two letters
+
+  These files are generated from a single master list via
+  split_puzzles.py — see that script for how to regenerate puzzles/
+  after editing the master word/answer data.
 
   Game rules  (identical to NYT Spelling Bee)
   ────────────────────────────────────────────
@@ -1947,12 +1958,12 @@
 
       // ═══════════════════════════════════════════════════════════════
       //  PUZZLE DATA
-      //  TODO: replace with fetch('puzzle_YYYY-MM-DD.json') once hosted.
       // ═══════════════════════════════════════════════════════════════
-      // PUZZLE is populated by loadPuzzle() at startup.
+      // PUZZLE is populated by loadPuzzle() at startup, fetched fresh
+      // from puzzles/{date}.json — one small file per day, not the full
+      // history. Yesterday's overlay fetches its own file lazily, on
+      // demand, in openYesterday() below — see that function for details.
       let PUZZLE = null;
-      // Full puzzle array cached so Yesterday overlay needs no re-fetch.
-      let ALL_PUZZLES = null;
 
       // ═══════════════════════════════════════════════════════════════
       //  RANK THRESHOLDS
@@ -2513,20 +2524,24 @@
       // ═══════════════════════════════════════════════════════════════
       //  YESTERDAY'S ANSWERS OVERLAY
       // ═══════════════════════════════════════════════════════════════
-      function openYesterday() {
-        if (!ALL_PUZZLES) {
-          showToast("Puzzle data not loaded yet", "error");
-          return;
-        }
-
+      async function openYesterday() {
         // ── Yesterday's date ───────────────────────────────────────
         const yDate = new Date();
         yDate.setDate(yDate.getDate() - 1);
         const yesterday = yDate.toLocaleDateString("en-CA"); // YYYY-MM-DD
 
-        const yp = ALL_PUZZLES.find((p) => p.date === yesterday);
-        if (!yp) {
+        // Fetched on demand — only when the user actually opens this
+        // overlay — rather than upfront on every page load. Most
+        // sessions never open Yesterday, so this avoids an unnecessary
+        // fetch for the common case.
+        let yp;
+        try {
+          const res = await fetch(`puzzles/${yesterday}.json`);
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          yp = await res.json();
+        } catch (err) {
           showToast(`No puzzle found for ${yesterday}`, "error");
+          console.error("openYesterday() failed to load puzzle:", err);
           return;
         }
 
@@ -3691,9 +3706,11 @@
       // ═══════════════════════════════════════════════════════════════
       //  LOAD PUZZLE FOR TODAY
       //
-      //  Fetches the full puzzle JSON array on startup (one HTTP request,
-      //  ~2–3 MB). The array is cached in ALL_PUZZLES so Yesterday and
-      //  Hints overlays need no further fetches.
+      //  Fetches only today's puzzle file — puzzles/{date}.json, a few KB
+      //  — instead of the full multi-year history array. Runs in
+      //  parallel with loadTheme() via Promise.all() at the bottom of
+      //  this file; renderHoneycomb() below only executes after both
+      //  have resolved, since it needs THEME already populated.
       //
       //  Today's date is obtained with toLocaleDateString("en-CA"), which
       //  reliably produces YYYY-MM-DD in the device's local timezone —
@@ -3716,8 +3733,11 @@
       //  the "today's theme" concept the same way a re-randomized puzzle
       //  would.
       //
-      //  Must resolve BEFORE loadPuzzle(), since loadPuzzle() calls
-      //  renderHoneycomb(), which reads THEME.
+      //  Runs concurrently with loadPuzzle()'s fetch — loadPuzzle()
+      //  awaits this function's returned promise right before it calls
+      //  renderHoneycomb(), guaranteeing THEME is populated first
+      //  without forcing the two network fetches to run sequentially.
+      //  See the boot sequence and loadPuzzle() for details.
       //
       //  Maps a themes.json entry → the flat THEME shape the rest of the
       //  code expects (see THEME doc comment above). HEX_LIGHT_ORDER is
@@ -3929,27 +3949,15 @@
         });
       }
 
-      async function loadPuzzle() {
+      async function loadPuzzle(themePromise) {
         // Today's date as YYYY-MM-DD in *local* time.
         // en-CA locale reliably formats as YYYY-MM-DD.
         const today = new Date().toLocaleDateString("en-CA");
 
         try {
-          const res = await fetch("_pangram_answers_with_hints.json");
+          const res = await fetch(`puzzles/${today}.json`);
           if (!res.ok) throw new Error(`HTTP ${res.status}`);
-          const puzzles = await res.json();
-          ALL_PUZZLES = puzzles; // cache for Yesterday overlay
-
-          const puzzle = puzzles.find((p) => p.date === today);
-
-          if (!puzzle) {
-            showToast(`No puzzle for ${today}`, "error");
-            console.warn(
-              "Available dates:",
-              puzzles.map((p) => p.date),
-            );
-            return;
-          }
+          const puzzle = await res.json();
 
           // ── Populate global state ─────────────────────────────────
           PUZZLE = puzzle;
@@ -3967,6 +3975,15 @@
             ];
           }
 
+          // themes.json and today's puzzle file are fetched concurrently
+          // (see boot sequence below) — this await guarantees THEME is
+          // populated before renderHoneycomb() reads it, without giving
+          // up the network-level parallelism of the two fetches. If
+          // themes.json already resolved by this point, this returns
+          // immediately; loadTheme() also has its own internal fallback,
+          // so this promise always resolves, never rejects.
+          await themePromise;
+
           // ── Boot the UI ───────────────────────────────────────────
           document.getElementById("score-max").textContent =
             `/ ${PUZZLE.possible_points}`;
@@ -3975,8 +3992,10 @@
           renderScore();
           renderFoundWords();
         } catch (err) {
-          // Shows if the file is missing or the server isn't running.
-          showToast("Could not load puzzle — see console", "error");
+          // Shows if today's puzzle file is missing (e.g. generation
+          // script hasn't been run for this date yet) or the server
+          // isn't running.
+          showToast(`No puzzle for ${today} — see console`, "error");
           console.error("loadPuzzle error:", err);
         }
       }
@@ -4024,9 +4043,14 @@
       addSwipeDismiss(document.querySelector(".hints-panel"), closeHints);
       addSwipeDismiss(document.querySelector(".help-panel"), closeHelp);
 
-      // THEME must be populated before loadPuzzle(), since loadPuzzle()
-      // calls renderHoneycomb(), which reads THEME.levels/unlit/centerStart.
-      loadTheme().then(loadPuzzle);
+      // themes.json and today's puzzle file are independent — neither's
+      // *fetch* depends on the other — so both are kicked off here at
+      // the same time rather than chained. loadPuzzle() awaits
+      // themePromise internally, right before it renders, so THEME is
+      // still guaranteed populated first despite the fetches running in
+      // parallel. See the comment inside loadPuzzle() for why.
+      const themePromise = loadTheme();
+      loadPuzzle(themePromise);
     </script>
   </body>
 </html>

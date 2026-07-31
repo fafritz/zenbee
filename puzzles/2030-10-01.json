@@ -1,0 +1,114 @@
+{
+  "pangram": "thumped",
+  "center_letter": "d",
+  "num_answers": 39,
+  "num_pangrams": 1,
+  "possible_points": 183,
+  "answer_pangrams": [
+    "thumped"
+  ],
+  "answers": [
+    "deed",
+    "deeded",
+    "deem",
+    "deemed",
+    "deep",
+    "depth",
+    "depute",
+    "deputed",
+    "dude",
+    "duded",
+    "duet",
+    "dump",
+    "dumped",
+    "dupe",
+    "duped",
+    "etude",
+    "heed",
+    "heeded",
+    "hemmed",
+    "hummed",
+    "meted",
+    "muted",
+    "peed",
+    "peeped",
+    "pepped",
+    "petted",
+    "pumped",
+    "pupped",
+    "putted",
+    "teed",
+    "teemed",
+    "teethed",
+    "temped",
+    "tempted",
+    "thud",
+    "thudded",
+    "thumped",
+    "umped",
+    "upped"
+  ],
+  "date": "2030-10-01",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 8,
+      "6": 15,
+      "7": 5
+    },
+    "by_first_letter": {
+      "D": 15,
+      "E": 1,
+      "H": 4,
+      "M": 2,
+      "P": 7,
+      "T": 8,
+      "U": 2
+    },
+    "grid": {
+      "D": {
+        "4": 7,
+        "5": 3,
+        "6": 4,
+        "7": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "H": {
+        "4": 1,
+        "6": 3
+      },
+      "M": {
+        "5": 2
+      },
+      "P": {
+        "4": 1,
+        "6": 6
+      },
+      "T": {
+        "4": 2,
+        "6": 2,
+        "7": 4
+      },
+      "U": {
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "DE": 8,
+      "DU": 7,
+      "ET": 1,
+      "HE": 3,
+      "HU": 1,
+      "ME": 1,
+      "MU": 1,
+      "PE": 4,
+      "PU": 3,
+      "TE": 5,
+      "TH": 3,
+      "UM": 1,
+      "UP": 1
+    }
+  }
+}

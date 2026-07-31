@@ -1,0 +1,117 @@
+{
+  "pangram": "alchemy",
+  "center_letter": "e",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 113,
+  "answer_pangrams": [
+    "alchemy"
+  ],
+  "answers": [
+    "ache",
+    "acme",
+    "ahem",
+    "alchemy",
+    "alley",
+    "cache",
+    "came",
+    "camel",
+    "cell",
+    "chem",
+    "clayey",
+    "cycle",
+    "each",
+    "emcee",
+    "hale",
+    "heal",
+    "heel",
+    "hell",
+    "helm",
+    "lace",
+    "lame",
+    "lamely",
+    "leach",
+    "leech",
+    "lemma",
+    "mace",
+    "male",
+    "mammae",
+    "mayhem",
+    "meal",
+    "mealy",
+    "mecca",
+    "melee",
+    "meme",
+    "yeah",
+    "yell"
+  ],
+  "date": "2030-09-13",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 11,
+      "6": 4,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 7,
+      "E": 2,
+      "H": 5,
+      "L": 6,
+      "M": 9,
+      "Y": 2
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 3,
+        "6": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "H": {
+        "4": 5
+      },
+      "L": {
+        "4": 2,
+        "5": 3,
+        "6": 1
+      },
+      "M": {
+        "4": 4,
+        "5": 3,
+        "6": 2
+      },
+      "Y": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AH": 1,
+      "AL": 2,
+      "CA": 3,
+      "CE": 1,
+      "CH": 1,
+      "CL": 1,
+      "CY": 1,
+      "EA": 1,
+      "EM": 1,
+      "HA": 1,
+      "HE": 4,
+      "LA": 3,
+      "LE": 3,
+      "MA": 4,
+      "ME": 5,
+      "YE": 2
+    }
+  }
+}

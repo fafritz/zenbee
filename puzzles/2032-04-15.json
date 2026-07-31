@@ -1,0 +1,134 @@
+{
+  "pangram": "janitor",
+  "center_letter": "r",
+  "num_answers": 43,
+  "num_pangrams": 1,
+  "possible_points": 205,
+  "answer_pangrams": [
+    "janitor"
+  ],
+  "answers": [
+    "ajar",
+    "aorta",
+    "aria",
+    "arrant",
+    "atria",
+    "attar",
+    "attrition",
+    "initiator",
+    "intro",
+    "iron",
+    "irritant",
+    "irritation",
+    "janitor",
+    "narration",
+    "narrator",
+    "oration",
+    "orator",
+    "oratorio",
+    "rain",
+    "rant",
+    "ratatat",
+    "ratio",
+    "ration",
+    "rattan",
+    "riot",
+    "roan",
+    "roar",
+    "root",
+    "rotation",
+    "rotor",
+    "taro",
+    "tarot",
+    "tart",
+    "tartan",
+    "tartar",
+    "tiara",
+    "torn",
+    "tort",
+    "train",
+    "trait",
+    "traitor",
+    "trio",
+    "trot"
+  ],
+  "date": "2032-04-15",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 10,
+      "6": 6,
+      "7": 4,
+      "8": 4,
+      "9": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "I": 5,
+      "J": 1,
+      "N": 2,
+      "O": 3,
+      "R": 12,
+      "T": 13
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "6": 1,
+        "9": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "J": {
+        "7": 1
+      },
+      "N": {
+        "8": 1,
+        "9": 1
+      },
+      "O": {
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "R": {
+        "4": 6,
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 4,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AJ": 1,
+      "AO": 1,
+      "AR": 2,
+      "AT": 3,
+      "IN": 2,
+      "IR": 3,
+      "JA": 1,
+      "NA": 2,
+      "OR": 3,
+      "RA": 6,
+      "RI": 1,
+      "RO": 5,
+      "TA": 5,
+      "TI": 1,
+      "TO": 2,
+      "TR": 5
+    }
+  }
+}

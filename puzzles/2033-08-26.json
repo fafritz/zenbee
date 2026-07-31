@@ -1,0 +1,77 @@
+{
+  "pangram": "midtown",
+  "center_letter": "w",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 75,
+  "answer_pangrams": [
+    "midtown"
+  ],
+  "answers": [
+    "down",
+    "downtown",
+    "downwind",
+    "midtown",
+    "minnow",
+    "nitwit",
+    "town",
+    "twin",
+    "twit",
+    "widow",
+    "wind",
+    "window",
+    "winnow",
+    "wino",
+    "wont",
+    "wood",
+    "woodwind"
+  ],
+  "date": "2033-08-26",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 1,
+      "6": 4,
+      "7": 1,
+      "8": 3
+    },
+    "by_first_letter": {
+      "D": 3,
+      "M": 2,
+      "N": 1,
+      "T": 3,
+      "W": 8
+    },
+    "grid": {
+      "D": {
+        "4": 1,
+        "8": 2
+      },
+      "M": {
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "T": {
+        "4": 3
+      },
+      "W": {
+        "4": 4,
+        "5": 1,
+        "6": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 3,
+      "MI": 2,
+      "NI": 1,
+      "TO": 1,
+      "TW": 2,
+      "WI": 5,
+      "WO": 3
+    }
+  }
+}

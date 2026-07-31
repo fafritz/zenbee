@@ -1,0 +1,151 @@
+{
+  "pangram": "impanel",
+  "center_letter": "m",
+  "num_answers": 62,
+  "num_pangrams": 1,
+  "possible_points": 250,
+  "answer_pangrams": [
+    "impanel"
+  ],
+  "answers": [
+    "amen",
+    "ample",
+    "anemia",
+    "animal",
+    "anime",
+    "email",
+    "enamel",
+    "enema",
+    "imam",
+    "impala",
+    "impale",
+    "impanel",
+    "impel",
+    "lama",
+    "lame",
+    "lamp",
+    "lemma",
+    "lime",
+    "limn",
+    "limp",
+    "lineman",
+    "linemen",
+    "llama",
+    "mail",
+    "mailman",
+    "mailmen",
+    "maim",
+    "main",
+    "mainline",
+    "male",
+    "mall",
+    "mama",
+    "mamma",
+    "mammae",
+    "mammal",
+    "mammalian",
+    "mane",
+    "mania",
+    "manna",
+    "maple",
+    "meal",
+    "mean",
+    "melanin",
+    "melee",
+    "meme",
+    "menial",
+    "mien",
+    "mile",
+    "mill",
+    "millennia",
+    "millennial",
+    "mime",
+    "mine",
+    "mini",
+    "minim",
+    "minima",
+    "minimal",
+    "name",
+    "napalm",
+    "palm",
+    "pimp",
+    "pimple"
+  ],
+  "date": "2032-05-20",
+  "hints": {
+    "by_length": {
+      "4": 27,
+      "5": 13,
+      "6": 11,
+      "7": 7,
+      "8": 1,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "E": 3,
+      "I": 5,
+      "L": 10,
+      "M": 34,
+      "N": 2,
+      "P": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "6": 2
+      },
+      "E": {
+        "5": 2,
+        "6": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 6,
+        "5": 2,
+        "7": 2
+      },
+      "M": {
+        "4": 16,
+        "5": 6,
+        "6": 4,
+        "7": 4,
+        "8": 1,
+        "9": 2,
+        "10": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "P": {
+        "4": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AM": 2,
+      "AN": 3,
+      "EM": 1,
+      "EN": 2,
+      "IM": 5,
+      "LA": 3,
+      "LE": 1,
+      "LI": 5,
+      "LL": 1,
+      "MA": 17,
+      "ME": 6,
+      "MI": 11,
+      "NA": 2,
+      "PA": 1,
+      "PI": 2
+    }
+  }
+}

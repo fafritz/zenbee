@@ -1,0 +1,160 @@
+{
+  "pangram": "lambent",
+  "center_letter": "m",
+  "num_answers": 63,
+  "num_pangrams": 3,
+  "possible_points": 297,
+  "answer_pangrams": [
+    "battlement",
+    "lambent",
+    "lamentable"
+  ],
+  "answers": [
+    "abatement",
+    "abeam",
+    "amble",
+    "amen",
+    "amenable",
+    "balm",
+    "bantam",
+    "battlement",
+    "beam",
+    "blame",
+    "element",
+    "elemental",
+    "emanate",
+    "embalm",
+    "emblem",
+    "enamel",
+    "enema",
+    "lama",
+    "lamb",
+    "lambent",
+    "lame",
+    "lament",
+    "lamentable",
+    "lemma",
+    "llama",
+    "male",
+    "mall",
+    "malleable",
+    "mallet",
+    "malt",
+    "mama",
+    "mamma",
+    "mammae",
+    "mammal",
+    "manatee",
+    "mane",
+    "manna",
+    "mantel",
+    "mantle",
+    "mate",
+    "matte",
+    "meal",
+    "mean",
+    "meant",
+    "meat",
+    "meatball",
+    "meet",
+    "melee",
+    "melt",
+    "meme",
+    "mental",
+    "meta",
+    "metal",
+    "mete",
+    "mettle",
+    "name",
+    "tamable",
+    "tamale",
+    "tame",
+    "team",
+    "teammate",
+    "teem",
+    "tenement"
+  ],
+  "date": "2030-09-22",
+  "hints": {
+    "by_length": {
+      "4": 24,
+      "5": 12,
+      "6": 13,
+      "7": 5,
+      "8": 4,
+      "9": 3,
+      "10": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 5,
+      "E": 7,
+      "L": 8,
+      "M": 30,
+      "N": 1,
+      "T": 7
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "8": 1,
+        "9": 1
+      },
+      "B": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "10": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "9": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "10": 1
+      },
+      "M": {
+        "4": 14,
+        "5": 6,
+        "6": 7,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "T": {
+        "4": 3,
+        "6": 1,
+        "7": 1,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 2,
+      "AM": 3,
+      "BA": 3,
+      "BE": 1,
+      "BL": 1,
+      "EL": 2,
+      "EM": 3,
+      "EN": 2,
+      "LA": 6,
+      "LE": 1,
+      "LL": 1,
+      "MA": 16,
+      "ME": 14,
+      "NA": 1,
+      "TA": 3,
+      "TE": 4
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "pangram": "trilogy",
+  "center_letter": "g",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 82,
+  "answer_pangrams": [
+    "trilogy"
+  ],
+  "answers": [
+    "giggly",
+    "gigolo",
+    "gill",
+    "gilt",
+    "girl",
+    "girt",
+    "glory",
+    "gory",
+    "grill",
+    "grit",
+    "gritty",
+    "grog",
+    "groggily",
+    "groggy",
+    "grotto",
+    "gyro",
+    "igloo",
+    "logo",
+    "rigor",
+    "trilogy",
+    "yogi"
+  ],
+  "date": "2027-11-14",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 4,
+      "6": 5,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "G": 16,
+      "I": 1,
+      "L": 1,
+      "R": 1,
+      "T": 1,
+      "Y": 1
+    },
+    "grid": {
+      "G": {
+        "4": 8,
+        "5": 2,
+        "6": 5,
+        "8": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "L": {
+        "4": 1
+      },
+      "R": {
+        "5": 1
+      },
+      "T": {
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 6,
+      "GL": 1,
+      "GO": 1,
+      "GR": 7,
+      "GY": 1,
+      "IG": 1,
+      "LO": 1,
+      "RI": 1,
+      "TR": 1,
+      "YO": 1
+    }
+  }
+}

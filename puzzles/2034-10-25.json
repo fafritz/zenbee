@@ -1,0 +1,139 @@
+{
+  "pangram": "mewling",
+  "center_letter": "n",
+  "num_answers": 52,
+  "num_pangrams": 1,
+  "possible_points": 278,
+  "answer_pangrams": [
+    "mewling"
+  ],
+  "answers": [
+    "egging",
+    "engine",
+    "geeing",
+    "gelling",
+    "gene",
+    "genie",
+    "genii",
+    "gigging",
+    "giggling",
+    "ginning",
+    "glen",
+    "inline",
+    "inning",
+    "legging",
+    "legmen",
+    "lemming",
+    "lien",
+    "liming",
+    "limn",
+    "limning",
+    "line",
+    "linemen",
+    "linen",
+    "lining",
+    "mewing",
+    "mewling",
+    "mien",
+    "milling",
+    "miming",
+    "mine",
+    "mingle",
+    "mingling",
+    "mini",
+    "minim",
+    "mining",
+    "negligee",
+    "nene",
+    "newel",
+    "niggle",
+    "niggling",
+    "nine",
+    "weeing",
+    "welling",
+    "wigging",
+    "wiggling",
+    "wiling",
+    "willing",
+    "wine",
+    "wing",
+    "winging",
+    "wining",
+    "winning"
+  ],
+  "date": "2034-10-25",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 5,
+      "6": 16,
+      "7": 14,
+      "8": 5
+    },
+    "by_first_letter": {
+      "E": 2,
+      "G": 9,
+      "I": 2,
+      "L": 11,
+      "M": 11,
+      "N": 6,
+      "W": 11
+    },
+    "grid": {
+      "E": {
+        "6": 2
+      },
+      "G": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 3,
+        "8": 1
+      },
+      "I": {
+        "6": 2
+      },
+      "L": {
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 4
+      },
+      "M": {
+        "4": 3,
+        "5": 1,
+        "6": 4,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "8": 2
+      },
+      "W": {
+        "4": 2,
+        "6": 3,
+        "7": 5,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "EG": 1,
+      "EN": 1,
+      "GE": 5,
+      "GI": 3,
+      "GL": 1,
+      "IN": 2,
+      "LE": 3,
+      "LI": 8,
+      "ME": 2,
+      "MI": 9,
+      "NE": 3,
+      "NI": 3,
+      "WE": 2,
+      "WI": 9
+    }
+  }
+}

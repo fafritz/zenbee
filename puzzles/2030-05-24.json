@@ -1,0 +1,108 @@
+{
+  "pangram": "organdy",
+  "center_letter": "d",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 124,
+  "answer_pangrams": [
+    "organdy"
+  ],
+  "answers": [
+    "adorn",
+    "ardor",
+    "daddy",
+    "dado",
+    "dandy",
+    "darn",
+    "dodgy",
+    "dodo",
+    "doggy",
+    "donor",
+    "doodad",
+    "door",
+    "dory",
+    "drag",
+    "dragon",
+    "dragoon",
+    "dray",
+    "dryad",
+    "goad",
+    "gonad",
+    "good",
+    "goody",
+    "grad",
+    "grand",
+    "noddy",
+    "noonday",
+    "odor",
+    "organdy",
+    "radar",
+    "radon",
+    "road",
+    "rood",
+    "yard"
+  ],
+  "date": "2030-05-24",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 14,
+      "6": 2,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 2,
+      "D": 16,
+      "G": 6,
+      "N": 2,
+      "O": 2,
+      "R": 4,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "5": 2
+      },
+      "D": {
+        "4": 7,
+        "5": 6,
+        "6": 2,
+        "7": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 3
+      },
+      "N": {
+        "5": 1,
+        "7": 1
+      },
+      "O": {
+        "4": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 2
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AR": 1,
+      "DA": 4,
+      "DO": 7,
+      "DR": 5,
+      "GO": 4,
+      "GR": 2,
+      "NO": 2,
+      "OD": 1,
+      "OR": 1,
+      "RA": 2,
+      "RO": 2,
+      "YA": 1
+    }
+  }
+}

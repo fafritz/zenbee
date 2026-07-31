@@ -1,0 +1,137 @@
+{
+  "pangram": "mordant",
+  "center_letter": "m",
+  "num_answers": 52,
+  "num_pangrams": 2,
+  "possible_points": 221,
+  "answer_pangrams": [
+    "dormant",
+    "mordant"
+  ],
+  "answers": [
+    "adamant",
+    "adman",
+    "ammo",
+    "armada",
+    "armor",
+    "aroma",
+    "atom",
+    "damn",
+    "doom",
+    "doorman",
+    "doormat",
+    "dorm",
+    "dormant",
+    "dram",
+    "drama",
+    "madam",
+    "madman",
+    "mama",
+    "mamma",
+    "manna",
+    "manor",
+    "mantra",
+    "marmot",
+    "maroon",
+    "mart",
+    "matador",
+    "matron",
+    "moan",
+    "moat",
+    "momma",
+    "mono",
+    "mood",
+    "moon",
+    "moor",
+    "moot",
+    "mordant",
+    "morn",
+    "moron",
+    "mortar",
+    "motor",
+    "motorman",
+    "motto",
+    "nomad",
+    "norm",
+    "ottoman",
+    "ramrod",
+    "random",
+    "roam",
+    "roman",
+    "room",
+    "tomato",
+    "tram"
+  ],
+  "date": "2037-05-02",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 14,
+      "6": 10,
+      "7": 7,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "D": 8,
+      "M": 27,
+      "N": 2,
+      "O": 1,
+      "R": 5,
+      "T": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 4,
+        "5": 1,
+        "7": 3
+      },
+      "M": {
+        "4": 10,
+        "5": 8,
+        "6": 6,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1
+      },
+      "O": {
+        "7": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "T": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 2,
+      "AM": 1,
+      "AR": 3,
+      "AT": 1,
+      "DA": 1,
+      "DO": 5,
+      "DR": 2,
+      "MA": 12,
+      "MO": 15,
+      "NO": 2,
+      "OT": 1,
+      "RA": 2,
+      "RO": 3,
+      "TO": 1,
+      "TR": 1
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "pangram": "virtual",
+  "center_letter": "t",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 135,
+  "answer_pangrams": [
+    "virtual"
+  ],
+  "answers": [
+    "altar",
+    "atria",
+    "attar",
+    "avatar",
+    "lariat",
+    "lilt",
+    "ratatat",
+    "ritual",
+    "tail",
+    "tall",
+    "tart",
+    "tartar",
+    "taut",
+    "tiara",
+    "till",
+    "tilt",
+    "titular",
+    "trail",
+    "trait",
+    "travail",
+    "trial",
+    "trill",
+    "trivia",
+    "trivial",
+    "tutu",
+    "ultra",
+    "vault",
+    "virtual",
+    "vital"
+  ],
+  "date": "2033-06-14",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 11,
+      "6": 5,
+      "7": 5
+    },
+    "by_first_letter": {
+      "A": 4,
+      "L": 2,
+      "R": 2,
+      "T": 17,
+      "U": 1,
+      "V": 3
+    },
+    "grid": {
+      "A": {
+        "5": 3,
+        "6": 1
+      },
+      "L": {
+        "4": 1,
+        "6": 1
+      },
+      "R": {
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 7,
+        "5": 5,
+        "6": 2,
+        "7": 3
+      },
+      "U": {
+        "5": 1
+      },
+      "V": {
+        "5": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AT": 2,
+      "AV": 1,
+      "LA": 1,
+      "LI": 1,
+      "RA": 1,
+      "RI": 1,
+      "TA": 5,
+      "TI": 4,
+      "TR": 7,
+      "TU": 1,
+      "UL": 1,
+      "VA": 1,
+      "VI": 2
+    }
+  }
+}

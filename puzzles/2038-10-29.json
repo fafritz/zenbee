@@ -1,0 +1,122 @@
+{
+  "pangram": "voltage",
+  "center_letter": "o",
+  "num_answers": 39,
+  "num_pangrams": 1,
+  "possible_points": 131,
+  "answer_pangrams": [
+    "voltage"
+  ],
+  "answers": [
+    "agog",
+    "allot",
+    "aloe",
+    "alto",
+    "atoll",
+    "evolve",
+    "gavotte",
+    "gloat",
+    "glove",
+    "goal",
+    "goat",
+    "goatee",
+    "goggle",
+    "google",
+    "legato",
+    "loge",
+    "logo",
+    "loll",
+    "loot",
+    "lotto",
+    "love",
+    "ogle",
+    "oleo",
+    "oval",
+    "tattoo",
+    "teetotal",
+    "toga",
+    "toggle",
+    "toll",
+    "tollgate",
+    "tool",
+    "toot",
+    "total",
+    "tote",
+    "veto",
+    "vole",
+    "volt",
+    "voltage",
+    "vote"
+  ],
+  "date": "2038-10-29",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 6,
+      "6": 7,
+      "7": 2,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "E": 1,
+      "G": 8,
+      "L": 7,
+      "O": 3,
+      "T": 10,
+      "V": 5
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2
+      },
+      "E": {
+        "6": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 3
+      },
+      "T": {
+        "4": 5,
+        "5": 1,
+        "6": 2,
+        "8": 2
+      },
+      "V": {
+        "4": 4,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AL": 3,
+      "AT": 1,
+      "EV": 1,
+      "GA": 1,
+      "GL": 2,
+      "GO": 5,
+      "LE": 1,
+      "LO": 6,
+      "OG": 1,
+      "OL": 1,
+      "OV": 1,
+      "TA": 1,
+      "TE": 1,
+      "TO": 8,
+      "VE": 1,
+      "VO": 4
+    }
+  }
+}

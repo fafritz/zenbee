@@ -1,0 +1,108 @@
+{
+  "pangram": "wafting",
+  "center_letter": "w",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 202,
+  "answer_pangrams": [
+    "wafting"
+  ],
+  "answers": [
+    "await",
+    "awaiting",
+    "awing",
+    "awning",
+    "fawn",
+    "fawning",
+    "gnaw",
+    "gnawing",
+    "nitwit",
+    "twain",
+    "twang",
+    "twanging",
+    "twig",
+    "twigging",
+    "twin",
+    "twinging",
+    "twining",
+    "twinning",
+    "twit",
+    "twitting",
+    "waft",
+    "wafting",
+    "wagging",
+    "waging",
+    "waif",
+    "wait",
+    "waiting",
+    "waning",
+    "want",
+    "wanting",
+    "watt",
+    "wigging",
+    "wigwag",
+    "wigwagging",
+    "wing",
+    "winging",
+    "wining",
+    "winning"
+  ],
+  "date": "2030-10-21",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 4,
+      "6": 6,
+      "7": 10,
+      "8": 6,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "F": 2,
+      "G": 2,
+      "N": 1,
+      "T": 11,
+      "W": 18
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "F": {
+        "4": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 1,
+        "7": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 2,
+        "7": 1,
+        "8": 5
+      },
+      "W": {
+        "4": 6,
+        "6": 4,
+        "7": 7,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AW": 4,
+      "FA": 2,
+      "GN": 2,
+      "NI": 1,
+      "TW": 11,
+      "WA": 11,
+      "WI": 7
+    }
+  }
+}

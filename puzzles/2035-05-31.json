@@ -1,0 +1,89 @@
+{
+  "pangram": "amoebic",
+  "center_letter": "b",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 87,
+  "answer_pangrams": [
+    "amoebic"
+  ],
+  "answers": [
+    "abbe",
+    "abeam",
+    "amoeba",
+    "amoebic",
+    "baba",
+    "babe",
+    "bamboo",
+    "baobab",
+    "beam",
+    "became",
+    "become",
+    "bomb",
+    "boob",
+    "booboo",
+    "boom",
+    "comb",
+    "combo",
+    "iamb",
+    "iambic",
+    "imbibe",
+    "mambo",
+    "oboe"
+  ],
+  "date": "2035-05-31",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 3,
+      "6": 8,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "B": 11,
+      "C": 2,
+      "I": 3,
+      "M": 1,
+      "O": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "B": {
+        "4": 6,
+        "6": 5
+      },
+      "C": {
+        "4": 1,
+        "5": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 2
+      },
+      "M": {
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 2,
+      "AM": 2,
+      "BA": 4,
+      "BE": 3,
+      "BO": 4,
+      "CO": 2,
+      "IA": 2,
+      "IM": 1,
+      "MA": 1,
+      "OB": 1
+    }
+  }
+}

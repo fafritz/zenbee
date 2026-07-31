@@ -1,0 +1,78 @@
+{
+  "pangram": "potluck",
+  "center_letter": "p",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 65,
+  "answer_pangrams": [
+    "potluck"
+  ],
+  "answers": [
+    "clop",
+    "coop",
+    "coup",
+    "cutup",
+    "lockup",
+    "lookup",
+    "loop",
+    "output",
+    "plop",
+    "plot",
+    "pluck",
+    "pock",
+    "poll",
+    "polo",
+    "pool",
+    "poop",
+    "potluck",
+    "pout",
+    "puck",
+    "pull",
+    "pullout",
+    "pulp",
+    "putt"
+  ],
+  "date": "2035-10-18",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 2,
+      "6": 3,
+      "7": 2
+    },
+    "by_first_letter": {
+      "C": 4,
+      "L": 3,
+      "O": 1,
+      "P": 15
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 1
+      },
+      "L": {
+        "4": 1,
+        "6": 2
+      },
+      "O": {
+        "6": 1
+      },
+      "P": {
+        "4": 12,
+        "5": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "CL": 1,
+      "CO": 2,
+      "CU": 1,
+      "LO": 3,
+      "OU": 1,
+      "PL": 3,
+      "PO": 7,
+      "PU": 5
+    }
+  }
+}

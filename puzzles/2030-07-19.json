@@ -1,0 +1,113 @@
+{
+  "pangram": "cloaked",
+  "center_letter": "k",
+  "num_answers": 41,
+  "num_pangrams": 3,
+  "possible_points": 197,
+  "answer_pangrams": [
+    "cloaked",
+    "deadlock",
+    "deadlocked"
+  ],
+  "answers": [
+    "cackle",
+    "cackled",
+    "cake",
+    "caked",
+    "calked",
+    "clack",
+    "clacked",
+    "cloak",
+    "cloaked",
+    "clock",
+    "clocked",
+    "cockade",
+    "cocked",
+    "cockle",
+    "coke",
+    "coked",
+    "cook",
+    "cooked",
+    "deadlock",
+    "deadlocked",
+    "deck",
+    "decked",
+    "deckle",
+    "dock",
+    "docked",
+    "eked",
+    "kale",
+    "keel",
+    "keeled",
+    "koala",
+    "kook",
+    "lack",
+    "lacked",
+    "lake",
+    "leak",
+    "leaked",
+    "leek",
+    "lock",
+    "locked",
+    "look",
+    "looked"
+  ],
+  "date": "2030-07-19",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 6,
+      "6": 13,
+      "7": 5,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 18,
+      "D": 7,
+      "E": 1,
+      "K": 5,
+      "L": 10
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 5,
+        "6": 5,
+        "7": 5
+      },
+      "D": {
+        "4": 2,
+        "6": 3,
+        "8": 1,
+        "10": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "K": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 6,
+        "6": 4
+      }
+    },
+    "two_letter_list": {
+      "CA": 5,
+      "CL": 6,
+      "CO": 7,
+      "DE": 5,
+      "DO": 2,
+      "EK": 1,
+      "KA": 1,
+      "KE": 2,
+      "KO": 2,
+      "LA": 3,
+      "LE": 3,
+      "LO": 4
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "pangram": "blotchy",
+  "center_letter": "h",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 79,
+  "answer_pangrams": [
+    "blotchy"
+  ],
+  "answers": [
+    "blotch",
+    "blotchy",
+    "booth",
+    "botch",
+    "both",
+    "cloth",
+    "hobby",
+    "hobo",
+    "holly",
+    "holy",
+    "hooch",
+    "hoot",
+    "hotly",
+    "tollbooth",
+    "tooth",
+    "toothy"
+  ],
+  "date": "2030-07-12",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 8,
+      "6": 2,
+      "7": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "B": 5,
+      "C": 1,
+      "H": 7,
+      "T": 3
+    },
+    "grid": {
+      "B": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "C": {
+        "5": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 4
+      },
+      "T": {
+        "5": 1,
+        "6": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "BL": 2,
+      "BO": 3,
+      "CL": 1,
+      "HO": 7,
+      "TO": 3
+    }
+  }
+}

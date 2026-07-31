@@ -1,0 +1,117 @@
+{
+  "pangram": "tombing",
+  "center_letter": "t",
+  "num_answers": 38,
+  "num_pangrams": 2,
+  "possible_points": 201,
+  "answer_pangrams": [
+    "bottoming",
+    "tombing"
+  ],
+  "answers": [
+    "bigot",
+    "biting",
+    "bonito",
+    "boot",
+    "booting",
+    "bottom",
+    "bottoming",
+    "igniting",
+    "ignition",
+    "ingot",
+    "into",
+    "intoning",
+    "mint",
+    "minting",
+    "mitt",
+    "moot",
+    "mooting",
+    "motion",
+    "motioning",
+    "motto",
+    "noting",
+    "notion",
+    "obit",
+    "omit",
+    "omitting",
+    "onto",
+    "timing",
+    "tinning",
+    "tint",
+    "tinting",
+    "tomb",
+    "tombing",
+    "toning",
+    "toon",
+    "toot",
+    "tooting",
+    "toting",
+    "totting"
+  ],
+  "date": "2036-04-08",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 3,
+      "6": 9,
+      "7": 8,
+      "8": 4,
+      "9": 2
+    },
+    "by_first_letter": {
+      "B": 7,
+      "I": 5,
+      "M": 8,
+      "N": 2,
+      "O": 4,
+      "T": 12
+    },
+    "grid": {
+      "B": {
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 1,
+        "9": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "8": 3
+      },
+      "M": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "9": 1
+      },
+      "N": {
+        "6": 2
+      },
+      "O": {
+        "4": 3,
+        "8": 1
+      },
+      "T": {
+        "4": 4,
+        "6": 3,
+        "7": 5
+      }
+    },
+    "two_letter_list": {
+      "BI": 2,
+      "BO": 5,
+      "IG": 2,
+      "IN": 3,
+      "MI": 3,
+      "MO": 5,
+      "NO": 2,
+      "OB": 1,
+      "OM": 2,
+      "ON": 1,
+      "TI": 4,
+      "TO": 8
+    }
+  }
+}

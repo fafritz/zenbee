@@ -1,0 +1,123 @@
+{
+  "pangram": "magnify",
+  "center_letter": "i",
+  "num_answers": 39,
+  "num_pangrams": 2,
+  "possible_points": 229,
+  "answer_pangrams": [
+    "magnify",
+    "magnifying"
+  ],
+  "answers": [
+    "again",
+    "aging",
+    "aiming",
+    "angina",
+    "fanning",
+    "fining",
+    "finny",
+    "gaffing",
+    "gagging",
+    "gain",
+    "gaining",
+    "gaming",
+    "ganging",
+    "gigging",
+    "ginning",
+    "iffy",
+    "imaging",
+    "imagining",
+    "imam",
+    "infamy",
+    "inning",
+    "magnify",
+    "magnifying",
+    "maim",
+    "maiming",
+    "main",
+    "managing",
+    "mania",
+    "manning",
+    "miff",
+    "miffing",
+    "miming",
+    "mini",
+    "minim",
+    "minima",
+    "mining",
+    "nagging",
+    "naming",
+    "ninny"
+  ],
+  "date": "2036-10-07",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 6,
+      "6": 10,
+      "7": 13,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "F": 3,
+      "G": 8,
+      "I": 6,
+      "M": 15,
+      "N": 3
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "6": 2
+      },
+      "F": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 1,
+        "7": 6
+      },
+      "I": {
+        "4": 2,
+        "6": 2,
+        "7": 1,
+        "9": 1
+      },
+      "M": {
+        "4": 4,
+        "5": 2,
+        "6": 3,
+        "7": 4,
+        "8": 1,
+        "10": 1
+      },
+      "N": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 1,
+      "AN": 1,
+      "FA": 1,
+      "FI": 2,
+      "GA": 6,
+      "GI": 2,
+      "IF": 1,
+      "IM": 3,
+      "IN": 2,
+      "MA": 8,
+      "MI": 7,
+      "NA": 2,
+      "NI": 1
+    }
+  }
+}

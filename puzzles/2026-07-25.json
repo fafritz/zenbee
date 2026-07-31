@@ -1,0 +1,92 @@
+{
+  "pangram": "monarch",
+  "center_letter": "h",
+  "num_answers": 23,
+  "num_pangrams": 2,
+  "possible_points": 126,
+  "answer_pangrams": [
+    "anchorman",
+    "monarch"
+  ],
+  "answers": [
+    "achoo",
+    "anchor",
+    "anchorman",
+    "arch",
+    "char",
+    "charm",
+    "coach",
+    "coachman",
+    "conch",
+    "hammam",
+    "harm",
+    "honcho",
+    "honor",
+    "hooch",
+    "horn",
+    "horror",
+    "macho",
+    "march",
+    "mocha",
+    "monarch",
+    "mooch",
+    "ranch",
+    "roach"
+  ],
+  "date": "2026-07-25",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 12,
+      "6": 4,
+      "7": 1,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 5,
+      "H": 7,
+      "M": 5,
+      "R": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "9": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 3,
+        "8": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 2,
+        "6": 3
+      },
+      "M": {
+        "5": 4,
+        "7": 1
+      },
+      "R": {
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AN": 2,
+      "AR": 1,
+      "CH": 2,
+      "CO": 3,
+      "HA": 2,
+      "HO": 5,
+      "MA": 2,
+      "MO": 3,
+      "RA": 1,
+      "RO": 1
+    }
+  }
+}

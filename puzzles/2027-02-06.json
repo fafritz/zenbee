@@ -1,0 +1,69 @@
+{
+  "pangram": "chiefly",
+  "center_letter": "h",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 72,
+  "answer_pangrams": [
+    "chiefly"
+  ],
+  "answers": [
+    "chef",
+    "chic",
+    "chicle",
+    "chief",
+    "chiefly",
+    "chili",
+    "chill",
+    "chilly",
+    "cliche",
+    "fiche",
+    "filch",
+    "heel",
+    "hell",
+    "hill",
+    "hilly",
+    "leech"
+  ],
+  "date": "2027-02-06",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 7,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 9,
+      "F": 2,
+      "H": 4,
+      "L": 1
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 3,
+        "6": 3,
+        "7": 1
+      },
+      "F": {
+        "5": 2
+      },
+      "H": {
+        "4": 3,
+        "5": 1
+      },
+      "L": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 8,
+      "CL": 1,
+      "FI": 2,
+      "HE": 2,
+      "HI": 2,
+      "LE": 1
+    }
+  }
+}

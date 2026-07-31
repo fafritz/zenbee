@@ -1,0 +1,88 @@
+{
+  "pangram": "foliage",
+  "center_letter": "i",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 79,
+  "answer_pangrams": [
+    "foliage"
+  ],
+  "answers": [
+    "agile",
+    "fail",
+    "fief",
+    "fife",
+    "file",
+    "filial",
+    "fill",
+    "flail",
+    "foil",
+    "foliage",
+    "folio",
+    "giggle",
+    "gigolo",
+    "gill",
+    "goalie",
+    "igloo",
+    "illegal",
+    "liege",
+    "life",
+    "olio"
+  ],
+  "date": "2033-02-04",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 5,
+      "6": 4,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "F": 10,
+      "G": 4,
+      "I": 2,
+      "L": 2,
+      "O": 1
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "F": {
+        "4": 6,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 3
+      },
+      "I": {
+        "5": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "FA": 1,
+      "FI": 5,
+      "FL": 1,
+      "FO": 3,
+      "GI": 3,
+      "GO": 1,
+      "IG": 1,
+      "IL": 1,
+      "LI": 2,
+      "OL": 1
+    }
+  }
+}

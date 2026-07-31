@@ -1,0 +1,142 @@
+{
+  "pangram": "hotline",
+  "center_letter": "l",
+  "num_answers": 57,
+  "num_pangrams": 1,
+  "possible_points": 215,
+  "answer_pangrams": [
+    "hotline"
+  ],
+  "answers": [
+    "elite",
+    "entitle",
+    "heel",
+    "hell",
+    "hellhole",
+    "hellion",
+    "hello",
+    "helot",
+    "hill",
+    "hilt",
+    "hole",
+    "hotel",
+    "hotline",
+    "inlet",
+    "inline",
+    "intel",
+    "lenient",
+    "lent",
+    "lentil",
+    "leonine",
+    "lien",
+    "lilt",
+    "line",
+    "linen",
+    "linnet",
+    "lint",
+    "lintel",
+    "lion",
+    "lite",
+    "lithe",
+    "little",
+    "loin",
+    "loll",
+    "lone",
+    "loon",
+    "loonie",
+    "loot",
+    "lotion",
+    "lotto",
+    "nettle",
+    "noel",
+    "oleo",
+    "olio",
+    "online",
+    "telethon",
+    "tell",
+    "telnet",
+    "tile",
+    "till",
+    "tilt",
+    "title",
+    "tittle",
+    "toil",
+    "toilet",
+    "toilette",
+    "toll",
+    "tool"
+  ],
+  "date": "2037-06-24",
+  "hints": {
+    "by_length": {
+      "4": 27,
+      "5": 10,
+      "6": 12,
+      "7": 5,
+      "8": 3
+    },
+    "by_first_letter": {
+      "E": 2,
+      "H": 11,
+      "I": 3,
+      "L": 23,
+      "N": 2,
+      "O": 3,
+      "T": 13
+    },
+    "grid": {
+      "E": {
+        "5": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 5,
+        "5": 3,
+        "7": 2,
+        "8": 1
+      },
+      "I": {
+        "5": 2,
+        "6": 1
+      },
+      "L": {
+        "4": 12,
+        "5": 3,
+        "6": 6,
+        "7": 2
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 2,
+        "6": 1
+      },
+      "T": {
+        "4": 7,
+        "5": 1,
+        "6": 3,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "EL": 1,
+      "EN": 1,
+      "HE": 6,
+      "HI": 2,
+      "HO": 3,
+      "IN": 3,
+      "LE": 4,
+      "LI": 11,
+      "LO": 8,
+      "NE": 1,
+      "NO": 1,
+      "OL": 2,
+      "ON": 1,
+      "TE": 3,
+      "TI": 5,
+      "TO": 5
+    }
+  }
+}

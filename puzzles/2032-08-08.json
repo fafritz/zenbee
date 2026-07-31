@@ -1,0 +1,84 @@
+{
+  "pangram": "beatnik",
+  "center_letter": "b",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 100,
+  "answer_pangrams": [
+    "beatnik"
+  ],
+  "answers": [
+    "abate",
+    "abbe",
+    "abet",
+    "baba",
+    "babe",
+    "bait",
+    "bake",
+    "banana",
+    "bane",
+    "bank",
+    "batik",
+    "batten",
+    "beak",
+    "bean",
+    "beat",
+    "beaten",
+    "beatnik",
+    "been",
+    "beet",
+    "bent",
+    "beta",
+    "betake",
+    "betaken",
+    "bike",
+    "bikini",
+    "bite",
+    "bitten",
+    "kebab",
+    "tibia",
+    "tibiae"
+  ],
+  "date": "2032-08-08",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 4,
+      "6": 7,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 24,
+      "K": 1,
+      "T": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "B": {
+        "4": 15,
+        "5": 1,
+        "6": 6,
+        "7": 2
+      },
+      "K": {
+        "5": 1
+      },
+      "T": {
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 3,
+      "BA": 9,
+      "BE": 11,
+      "BI": 4,
+      "KE": 1,
+      "TI": 2
+    }
+  }
+}

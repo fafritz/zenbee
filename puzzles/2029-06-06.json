@@ -1,0 +1,102 @@
+{
+  "pangram": "dynamic",
+  "center_letter": "i",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 132,
+  "answer_pangrams": [
+    "dynamic"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acid",
+    "acidic",
+    "admin",
+    "amid",
+    "candid",
+    "candidacy",
+    "cicada",
+    "cynic",
+    "dyadic",
+    "dynamic",
+    "imam",
+    "maid",
+    "maim",
+    "main",
+    "mania",
+    "maniac",
+    "manic",
+    "mica",
+    "midday",
+    "middy",
+    "mimic",
+    "mind",
+    "mini",
+    "minim",
+    "minima",
+    "naiad",
+    "niacin",
+    "ninny"
+  ],
+  "date": "2029-06-06",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 9,
+      "6": 9,
+      "7": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 4,
+      "D": 2,
+      "I": 1,
+      "M": 14,
+      "N": 3
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 1,
+        "6": 2
+      },
+      "C": {
+        "5": 1,
+        "6": 2,
+        "9": 1
+      },
+      "D": {
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "M": {
+        "4": 6,
+        "5": 5,
+        "6": 3
+      },
+      "N": {
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 4,
+      "AD": 1,
+      "AM": 1,
+      "CA": 2,
+      "CI": 1,
+      "CY": 1,
+      "DY": 2,
+      "IM": 1,
+      "MA": 6,
+      "MI": 8,
+      "NA": 1,
+      "NI": 2
+    }
+  }
+}

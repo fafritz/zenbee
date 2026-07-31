@@ -1,0 +1,86 @@
+{
+  "pangram": "digraph",
+  "center_letter": "d",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 56,
+  "answer_pangrams": [
+    "digraph"
+  ],
+  "answers": [
+    "aphid",
+    "arid",
+    "digraph",
+    "drag",
+    "drip",
+    "gird",
+    "grad",
+    "grid",
+    "haggard",
+    "hard",
+    "ipad",
+    "paid",
+    "radar",
+    "radii",
+    "raid",
+    "rapid",
+    "rigid"
+  ],
+  "date": "2032-03-23",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 5,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "D": 3,
+      "G": 3,
+      "H": 2,
+      "I": 1,
+      "P": 1,
+      "R": 5
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1
+      },
+      "D": {
+        "4": 2,
+        "7": 1
+      },
+      "G": {
+        "4": 3
+      },
+      "H": {
+        "4": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "P": {
+        "4": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 4
+      }
+    },
+    "two_letter_list": {
+      "AP": 1,
+      "AR": 1,
+      "DI": 1,
+      "DR": 2,
+      "GI": 1,
+      "GR": 2,
+      "HA": 2,
+      "IP": 1,
+      "PA": 1,
+      "RA": 4,
+      "RI": 1
+    }
+  }
+}

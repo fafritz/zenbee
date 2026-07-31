@@ -1,0 +1,88 @@
+{
+  "pangram": "quoited",
+  "center_letter": "u",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 118,
+  "answer_pangrams": [
+    "quoited"
+  ],
+  "answers": [
+    "dude",
+    "duded",
+    "duet",
+    "etiquette",
+    "etude",
+    "outdid",
+    "outdo",
+    "outed",
+    "queue",
+    "queued",
+    "quid",
+    "quiet",
+    "quieted",
+    "quietude",
+    "quit",
+    "quite",
+    "quoit",
+    "quoited",
+    "quote",
+    "quoted",
+    "toque",
+    "tout",
+    "touted",
+    "tutu"
+  ],
+  "date": "2033-04-15",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 10,
+      "6": 4,
+      "7": 2,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "D": 3,
+      "E": 2,
+      "O": 3,
+      "Q": 12,
+      "T": 4
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 1
+      },
+      "E": {
+        "5": 1,
+        "9": 1
+      },
+      "O": {
+        "5": 2,
+        "6": 1
+      },
+      "Q": {
+        "4": 2,
+        "5": 5,
+        "6": 2,
+        "7": 2,
+        "8": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "DU": 3,
+      "ET": 2,
+      "OU": 3,
+      "QU": 12,
+      "TO": 3,
+      "TU": 1
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "pangram": "bulwark",
+  "center_letter": "a",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 53,
+  "answer_pangrams": [
+    "bulwark"
+  ],
+  "answers": [
+    "aura",
+    "aural",
+    "baba",
+    "balk",
+    "ball",
+    "barb",
+    "bark",
+    "bawl",
+    "blab",
+    "brawl",
+    "bulwark",
+    "burka",
+    "karakul",
+    "lark",
+    "luau",
+    "rural",
+    "walk",
+    "wall"
+  ],
+  "date": "2028-12-11",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 4,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 10,
+      "K": 1,
+      "L": 2,
+      "R": 1,
+      "W": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1
+      },
+      "B": {
+        "4": 7,
+        "5": 2,
+        "7": 1
+      },
+      "K": {
+        "7": 1
+      },
+      "L": {
+        "4": 2
+      },
+      "R": {
+        "5": 1
+      },
+      "W": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AU": 2,
+      "BA": 6,
+      "BL": 1,
+      "BR": 1,
+      "BU": 2,
+      "KA": 1,
+      "LA": 1,
+      "LU": 1,
+      "RU": 1,
+      "WA": 2
+    }
+  }
+}

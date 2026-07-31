@@ -1,0 +1,85 @@
+{
+  "pangram": "rightly",
+  "center_letter": "t",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 92,
+  "answer_pangrams": [
+    "rightly"
+  ],
+  "answers": [
+    "gilt",
+    "girt",
+    "girth",
+    "grit",
+    "gritty",
+    "highlight",
+    "hilt",
+    "light",
+    "lightly",
+    "lilt",
+    "right",
+    "rightly",
+    "thigh",
+    "thirty",
+    "thrill",
+    "tight",
+    "tightly",
+    "till",
+    "tilt",
+    "trill"
+  ],
+  "date": "2029-12-17",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 6,
+      "6": 3,
+      "7": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "G": 5,
+      "H": 2,
+      "L": 3,
+      "R": 2,
+      "T": 8
+    },
+    "grid": {
+      "G": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "R": {
+        "5": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 3,
+      "GR": 2,
+      "HI": 2,
+      "LI": 3,
+      "RI": 2,
+      "TH": 3,
+      "TI": 4,
+      "TR": 1
+    }
+  }
+}

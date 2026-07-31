@@ -1,0 +1,136 @@
+{
+  "pangram": "monarch",
+  "center_letter": "a",
+  "num_answers": 54,
+  "num_pangrams": 2,
+  "possible_points": 239,
+  "answer_pangrams": [
+    "anchorman",
+    "monarch"
+  ],
+  "answers": [
+    "achoo",
+    "acorn",
+    "ammo",
+    "anchor",
+    "anchorman",
+    "anon",
+    "arch",
+    "armor",
+    "aroma",
+    "cacao",
+    "camo",
+    "cancan",
+    "canna",
+    "cannon",
+    "canon",
+    "carom",
+    "char",
+    "charm",
+    "coach",
+    "coachman",
+    "coca",
+    "cocoa",
+    "coma",
+    "comma",
+    "corona",
+    "cram",
+    "hammam",
+    "harm",
+    "macaroon",
+    "macho",
+    "macro",
+    "macron",
+    "mama",
+    "mamma",
+    "manna",
+    "manor",
+    "maraca",
+    "march",
+    "maroon",
+    "moan",
+    "mocha",
+    "momma",
+    "monarch",
+    "naan",
+    "nana",
+    "narc",
+    "raccoon",
+    "ranch",
+    "rancor",
+    "roach",
+    "roam",
+    "roan",
+    "roar",
+    "roman"
+  ],
+  "date": "2029-10-27",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 23,
+      "6": 9,
+      "7": 2,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 9,
+      "C": 17,
+      "H": 2,
+      "M": 15,
+      "N": 3,
+      "R": 8
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 4,
+        "6": 1,
+        "9": 1
+      },
+      "C": {
+        "4": 5,
+        "5": 8,
+        "6": 3,
+        "8": 1
+      },
+      "H": {
+        "4": 1,
+        "6": 1
+      },
+      "M": {
+        "4": 2,
+        "5": 8,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 3
+      },
+      "R": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AM": 1,
+      "AN": 3,
+      "AR": 3,
+      "CA": 7,
+      "CH": 2,
+      "CO": 7,
+      "CR": 1,
+      "HA": 2,
+      "MA": 11,
+      "MO": 4,
+      "NA": 3,
+      "RA": 3,
+      "RO": 5
+    }
+  }
+}

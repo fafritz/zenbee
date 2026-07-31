@@ -1,0 +1,120 @@
+{
+  "pangram": "tabling",
+  "center_letter": "b",
+  "num_answers": 42,
+  "num_pangrams": 2,
+  "possible_points": 244,
+  "answer_pangrams": [
+    "battling",
+    "tabling"
+  ],
+  "answers": [
+    "abating",
+    "alibi",
+    "alibiing",
+    "baaing",
+    "baba",
+    "babbling",
+    "bagging",
+    "bail",
+    "bailing",
+    "bait",
+    "baiting",
+    "baling",
+    "ball",
+    "balling",
+    "banal",
+    "banana",
+    "bang",
+    "banging",
+    "banning",
+    "batting",
+    "battling",
+    "bill",
+    "billing",
+    "binning",
+    "biting",
+    "blab",
+    "blabbing",
+    "blat",
+    "blatant",
+    "bling",
+    "gabbing",
+    "gabbling",
+    "gibing",
+    "gigabit",
+    "glib",
+    "labia",
+    "labial",
+    "nabbing",
+    "nibbling",
+    "tabbing",
+    "tabling",
+    "tibia"
+  ],
+  "date": "2032-05-26",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 5,
+      "6": 6,
+      "7": 16,
+      "8": 6
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 27,
+      "G": 5,
+      "L": 2,
+      "N": 2,
+      "T": 3
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "B": {
+        "4": 8,
+        "5": 2,
+        "6": 4,
+        "7": 10,
+        "8": 3
+      },
+      "G": {
+        "4": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "L": {
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "5": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AL": 2,
+      "BA": 18,
+      "BI": 4,
+      "BL": 5,
+      "GA": 2,
+      "GI": 2,
+      "GL": 1,
+      "LA": 2,
+      "NA": 1,
+      "NI": 1,
+      "TA": 2,
+      "TI": 1
+    }
+  }
+}

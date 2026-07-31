@@ -1,0 +1,79 @@
+{
+  "pangram": "midtown",
+  "center_letter": "m",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 76,
+  "answer_pangrams": [
+    "midtown"
+  ],
+  "answers": [
+    "dominion",
+    "domino",
+    "doom",
+    "idiom",
+    "midtown",
+    "mind",
+    "mini",
+    "minim",
+    "minion",
+    "minnow",
+    "mint",
+    "mitt",
+    "mono",
+    "mood",
+    "moon",
+    "moot",
+    "motion",
+    "motto",
+    "omit",
+    "timid"
+  ],
+  "date": "2028-10-02",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 4,
+      "6": 4,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "D": 3,
+      "I": 1,
+      "M": 14,
+      "O": 1,
+      "T": 1
+    },
+    "grid": {
+      "D": {
+        "4": 1,
+        "6": 1,
+        "8": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "M": {
+        "4": 8,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 3,
+      "ID": 1,
+      "MI": 8,
+      "MO": 6,
+      "OM": 1,
+      "TI": 1
+    }
+  }
+}

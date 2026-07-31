@@ -1,0 +1,103 @@
+{
+  "pangram": "vetoing",
+  "center_letter": "v",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 165,
+  "answer_pangrams": [
+    "vetoing"
+  ],
+  "answers": [
+    "even",
+    "evening",
+    "event",
+    "genitive",
+    "give",
+    "given",
+    "giving",
+    "invent",
+    "inventing",
+    "invention",
+    "inventive",
+    "invite",
+    "inviting",
+    "nonevent",
+    "oven",
+    "veggie",
+    "vein",
+    "veining",
+    "vent",
+    "venting",
+    "veto",
+    "vetoing",
+    "vetting",
+    "vignette",
+    "vignetting",
+    "vine",
+    "vote",
+    "voting",
+    "votive"
+  ],
+  "date": "2032-09-10",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 2,
+      "6": 6,
+      "7": 5,
+      "8": 4,
+      "9": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "E": 3,
+      "G": 4,
+      "I": 6,
+      "N": 1,
+      "O": 1,
+      "V": 14
+    },
+    "grid": {
+      "E": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "I": {
+        "6": 2,
+        "8": 1,
+        "9": 3
+      },
+      "N": {
+        "8": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "V": {
+        "4": 5,
+        "6": 3,
+        "7": 4,
+        "8": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "EV": 3,
+      "GE": 1,
+      "GI": 3,
+      "IN": 6,
+      "NO": 1,
+      "OV": 1,
+      "VE": 8,
+      "VI": 3,
+      "VO": 3
+    }
+  }
+}

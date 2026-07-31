@@ -1,0 +1,75 @@
+{
+  "pangram": "lunched",
+  "center_letter": "h",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 106,
+  "answer_pangrams": [
+    "lunched"
+  ],
+  "answers": [
+    "clench",
+    "clenched",
+    "heed",
+    "heeded",
+    "heel",
+    "heeled",
+    "held",
+    "hell",
+    "hence",
+    "huddle",
+    "huddled",
+    "hull",
+    "hulled",
+    "hunch",
+    "hunched",
+    "leech",
+    "leeched",
+    "lunch",
+    "lunched",
+    "unheeded"
+  ],
+  "date": "2028-08-10",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 4,
+      "6": 5,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "C": 2,
+      "H": 13,
+      "L": 4,
+      "U": 1
+    },
+    "grid": {
+      "C": {
+        "6": 1,
+        "8": 1
+      },
+      "H": {
+        "4": 5,
+        "5": 2,
+        "6": 4,
+        "7": 2
+      },
+      "L": {
+        "5": 2,
+        "7": 2
+      },
+      "U": {
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 2,
+      "HE": 7,
+      "HU": 6,
+      "LE": 2,
+      "LU": 2,
+      "UN": 1
+    }
+  }
+}

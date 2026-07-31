@@ -1,0 +1,117 @@
+{
+  "pangram": "augment",
+  "center_letter": "g",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 200,
+  "answer_pangrams": [
+    "augment"
+  ],
+  "answers": [
+    "agate",
+    "agent",
+    "ague",
+    "augment",
+    "engage",
+    "engagement",
+    "game",
+    "gamete",
+    "gamma",
+    "gamut",
+    "gang",
+    "gannet",
+    "gate",
+    "gauge",
+    "gaunt",
+    "gene",
+    "gent",
+    "gnat",
+    "gunman",
+    "gunmen",
+    "magenta",
+    "magma",
+    "magnate",
+    "magnet",
+    "magnum",
+    "manage",
+    "management",
+    "manege",
+    "manga",
+    "mange",
+    "menage",
+    "negate",
+    "nugget",
+    "nutmeg",
+    "tang",
+    "tangent",
+    "teenage",
+    "unguent"
+  ],
+  "date": "2036-04-01",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 9,
+      "6": 13,
+      "7": 6,
+      "10": 2
+    },
+    "by_first_letter": {
+      "A": 4,
+      "E": 2,
+      "G": 14,
+      "M": 11,
+      "N": 3,
+      "T": 3,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      },
+      "E": {
+        "6": 1,
+        "10": 1
+      },
+      "G": {
+        "4": 6,
+        "5": 4,
+        "6": 4
+      },
+      "M": {
+        "5": 3,
+        "6": 5,
+        "7": 2,
+        "10": 1
+      },
+      "N": {
+        "6": 3
+      },
+      "T": {
+        "4": 1,
+        "7": 2
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 3,
+      "AU": 1,
+      "EN": 2,
+      "GA": 9,
+      "GE": 2,
+      "GN": 1,
+      "GU": 2,
+      "MA": 10,
+      "ME": 1,
+      "NE": 1,
+      "NU": 2,
+      "TA": 2,
+      "TE": 1,
+      "UN": 1
+    }
+  }
+}

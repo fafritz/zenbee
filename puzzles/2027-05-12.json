@@ -1,0 +1,82 @@
+{
+  "pangram": "bronchi",
+  "center_letter": "b",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 96,
+  "answer_pangrams": [
+    "bronchi"
+  ],
+  "answers": [
+    "bionic",
+    "birch",
+    "bobbin",
+    "bonbon",
+    "boob",
+    "booboo",
+    "boon",
+    "boor",
+    "born",
+    "boron",
+    "bronchi",
+    "bronco",
+    "brooch",
+    "corncob",
+    "crib",
+    "hobnob",
+    "hobo",
+    "inborn",
+    "ribbon",
+    "robin"
+  ],
+  "date": "2027-05-12",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 3,
+      "6": 9,
+      "7": 2
+    },
+    "by_first_letter": {
+      "B": 13,
+      "C": 2,
+      "H": 2,
+      "I": 1,
+      "R": 2
+    },
+    "grid": {
+      "B": {
+        "4": 4,
+        "5": 2,
+        "6": 6,
+        "7": 1
+      },
+      "C": {
+        "4": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 1,
+        "6": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "R": {
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "BI": 2,
+      "BO": 8,
+      "BR": 3,
+      "CO": 1,
+      "CR": 1,
+      "HO": 2,
+      "IN": 1,
+      "RI": 1,
+      "RO": 1
+    }
+  }
+}

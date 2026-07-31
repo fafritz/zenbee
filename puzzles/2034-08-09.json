@@ -1,0 +1,119 @@
+{
+  "pangram": "modular",
+  "center_letter": "o",
+  "num_answers": 45,
+  "num_pangrams": 1,
+  "possible_points": 136,
+  "answer_pangrams": [
+    "modular"
+  ],
+  "answers": [
+    "aloud",
+    "ammo",
+    "amoral",
+    "amour",
+    "ardor",
+    "armor",
+    "aroma",
+    "dado",
+    "dodo",
+    "doll",
+    "dollar",
+    "doodad",
+    "doom",
+    "door",
+    "dorm",
+    "dour",
+    "droll",
+    "drool",
+    "load",
+    "loam",
+    "loll",
+    "loom",
+    "lord",
+    "loud",
+    "modal",
+    "modular",
+    "modulo",
+    "molar",
+    "mold",
+    "moll",
+    "momma",
+    "mood",
+    "moor",
+    "moral",
+    "odor",
+    "oral",
+    "ormolu",
+    "ramrod",
+    "road",
+    "roam",
+    "roar",
+    "roll",
+    "rood",
+    "room",
+    "rumor"
+  ],
+  "date": "2034-08-09",
+  "hints": {
+    "by_length": {
+      "4": 26,
+      "5": 12,
+      "6": 6,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "D": 11,
+      "L": 6,
+      "M": 10,
+      "O": 3,
+      "R": 8
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 5,
+        "6": 1
+      },
+      "D": {
+        "4": 7,
+        "5": 2,
+        "6": 2
+      },
+      "L": {
+        "4": 6
+      },
+      "M": {
+        "4": 4,
+        "5": 4,
+        "6": 1,
+        "7": 1
+      },
+      "O": {
+        "4": 2,
+        "6": 1
+      },
+      "R": {
+        "4": 6,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AM": 3,
+      "AR": 3,
+      "DA": 1,
+      "DO": 8,
+      "DR": 2,
+      "LO": 6,
+      "MO": 10,
+      "OD": 1,
+      "OR": 2,
+      "RA": 1,
+      "RO": 6,
+      "RU": 1
+    }
+  }
+}

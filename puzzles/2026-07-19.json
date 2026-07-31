@@ -1,0 +1,110 @@
+{
+  "pangram": "diploma",
+  "center_letter": "o",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 85,
+  "answer_pangrams": [
+    "diploma"
+  ],
+  "answers": [
+    "ammo",
+    "dado",
+    "diploma",
+    "dodo",
+    "doll",
+    "dollop",
+    "doodad",
+    "doom",
+    "idiom",
+    "idol",
+    "ipod",
+    "limo",
+    "load",
+    "loam",
+    "loll",
+    "lollipop",
+    "loom",
+    "loop",
+    "modal",
+    "mold",
+    "moll",
+    "momma",
+    "mood",
+    "olio",
+    "opal",
+    "opioid",
+    "plod",
+    "plop",
+    "polio",
+    "poll",
+    "polo",
+    "pomp",
+    "pool",
+    "poop"
+  ],
+  "date": "2026-07-19",
+  "hints": {
+    "by_length": {
+      "4": 25,
+      "5": 4,
+      "6": 3,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "D": 7,
+      "I": 3,
+      "L": 7,
+      "M": 5,
+      "O": 3,
+      "P": 8
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "D": {
+        "4": 4,
+        "6": 2,
+        "7": 1
+      },
+      "I": {
+        "4": 2,
+        "5": 1
+      },
+      "L": {
+        "4": 6,
+        "8": 1
+      },
+      "M": {
+        "4": 3,
+        "5": 2
+      },
+      "O": {
+        "4": 2,
+        "6": 1
+      },
+      "P": {
+        "4": 7,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AM": 1,
+      "DA": 1,
+      "DI": 1,
+      "DO": 5,
+      "ID": 2,
+      "IP": 1,
+      "LI": 1,
+      "LO": 6,
+      "MO": 5,
+      "OL": 1,
+      "OP": 2,
+      "PL": 2,
+      "PO": 6
+    }
+  }
+}

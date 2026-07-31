@@ -1,0 +1,85 @@
+{
+  "pangram": "ungodly",
+  "center_letter": "u",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 63,
+  "answer_pangrams": [
+    "ungodly"
+  ],
+  "answers": [
+    "dull",
+    "dully",
+    "duly",
+    "dung",
+    "dunno",
+    "gull",
+    "gully",
+    "gunny",
+    "loud",
+    "loudly",
+    "lull",
+    "lulu",
+    "lung",
+    "noun",
+    "null",
+    "ugly",
+    "undo",
+    "unduly",
+    "ungodly",
+    "young"
+  ],
+  "date": "2034-10-05",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 5,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "D": 5,
+      "G": 3,
+      "L": 5,
+      "N": 2,
+      "U": 4,
+      "Y": 1
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "5": 2
+      },
+      "G": {
+        "4": 1,
+        "5": 2
+      },
+      "L": {
+        "4": 4,
+        "6": 1
+      },
+      "N": {
+        "4": 2
+      },
+      "U": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "DU": 5,
+      "GU": 3,
+      "LO": 2,
+      "LU": 3,
+      "NO": 1,
+      "NU": 1,
+      "UG": 1,
+      "UN": 3,
+      "YO": 1
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "pangram": "hoaxing",
+  "center_letter": "g",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 160,
+  "answer_pangrams": [
+    "hoaxing"
+  ],
+  "answers": [
+    "again",
+    "aging",
+    "agog",
+    "angina",
+    "axing",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "gigging",
+    "ginning",
+    "going",
+    "gong",
+    "gonging",
+    "gonna",
+    "goon",
+    "hang",
+    "hanging",
+    "high",
+    "hing",
+    "hinging",
+    "hoaxing",
+    "hogan",
+    "hogging",
+    "honing",
+    "inning",
+    "nagging",
+    "nigh",
+    "nixing",
+    "noggin",
+    "ongoing"
+  ],
+  "date": "2031-01-11",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 6,
+      "6": 5,
+      "7": 12
+    },
+    "by_first_letter": {
+      "A": 5,
+      "G": 12,
+      "H": 9,
+      "I": 1,
+      "N": 4,
+      "O": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 1
+      },
+      "G": {
+        "4": 4,
+        "5": 2,
+        "7": 6
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 4
+      },
+      "I": {
+        "6": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 2,
+        "7": 1
+      },
+      "O": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 3,
+      "AN": 1,
+      "AX": 1,
+      "GA": 5,
+      "GI": 2,
+      "GO": 5,
+      "HA": 2,
+      "HI": 3,
+      "HO": 4,
+      "IN": 1,
+      "NA": 1,
+      "NI": 2,
+      "NO": 1,
+      "ON": 1
+    }
+  }
+}

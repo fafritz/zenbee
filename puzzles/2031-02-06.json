@@ -1,0 +1,149 @@
+{
+  "pangram": "emoting",
+  "center_letter": "g",
+  "num_answers": 56,
+  "num_pangrams": 2,
+  "possible_points": 356,
+  "answer_pangrams": [
+    "emoting",
+    "mentioning"
+  ],
+  "answers": [
+    "egging",
+    "eggnog",
+    "emitting",
+    "emoting",
+    "engine",
+    "geeing",
+    "gene",
+    "genie",
+    "genii",
+    "gent",
+    "getting",
+    "gigging",
+    "gimme",
+    "ginning",
+    "gnome",
+    "going",
+    "gone",
+    "gong",
+    "gonging",
+    "goon",
+    "gotten",
+    "ignite",
+    "igniting",
+    "ignition",
+    "ingot",
+    "inning",
+    "intoning",
+    "meeting",
+    "mentioning",
+    "meting",
+    "miming",
+    "mining",
+    "minting",
+    "mooing",
+    "mooning",
+    "mooting",
+    "motioning",
+    "netting",
+    "noggin",
+    "noting",
+    "omitting",
+    "ongoing",
+    "teeing",
+    "teeming",
+    "tenoning",
+    "tenting",
+    "timing",
+    "tinge",
+    "tingeing",
+    "tinning",
+    "tinting",
+    "toeing",
+    "toning",
+    "tooting",
+    "toting",
+    "totting"
+  ],
+  "date": "2031-02-06",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 7,
+      "6": 18,
+      "7": 17,
+      "8": 7,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "E": 5,
+      "G": 16,
+      "I": 6,
+      "M": 10,
+      "N": 3,
+      "O": 2,
+      "T": 14
+    },
+    "grid": {
+      "E": {
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 5,
+        "5": 5,
+        "6": 2,
+        "7": 4
+      },
+      "I": {
+        "5": 1,
+        "6": 2,
+        "8": 3
+      },
+      "M": {
+        "6": 4,
+        "7": 4,
+        "9": 1,
+        "10": 1
+      },
+      "N": {
+        "6": 2,
+        "7": 1
+      },
+      "O": {
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "5": 1,
+        "6": 5,
+        "7": 6,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "EG": 2,
+      "EM": 2,
+      "EN": 1,
+      "GE": 6,
+      "GI": 3,
+      "GN": 1,
+      "GO": 6,
+      "IG": 3,
+      "IN": 3,
+      "ME": 3,
+      "MI": 3,
+      "MO": 4,
+      "NE": 1,
+      "NO": 2,
+      "OM": 1,
+      "ON": 1,
+      "TE": 4,
+      "TI": 5,
+      "TO": 5
+    }
+  }
+}

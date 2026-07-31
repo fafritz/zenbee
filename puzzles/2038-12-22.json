@@ -1,0 +1,116 @@
+{
+  "pangram": "okaying",
+  "center_letter": "g",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 183,
+  "answer_pangrams": [
+    "okaying"
+  ],
+  "answers": [
+    "again",
+    "aging",
+    "agog",
+    "agony",
+    "angina",
+    "annoying",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "gigging",
+    "ginkgo",
+    "ginning",
+    "going",
+    "gong",
+    "gonging",
+    "gonna",
+    "goon",
+    "inking",
+    "inning",
+    "kayaking",
+    "king",
+    "kinking",
+    "nagging",
+    "noggin",
+    "oinking",
+    "okaying",
+    "ongoing",
+    "yakking",
+    "yanking",
+    "yoga",
+    "yogi",
+    "yoking"
+  ],
+  "date": "2038-12-22",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 5,
+      "6": 6,
+      "7": 13,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 6,
+      "G": 13,
+      "I": 2,
+      "K": 3,
+      "N": 2,
+      "O": 3,
+      "Y": 5
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "7": 6
+      },
+      "I": {
+        "6": 2
+      },
+      "K": {
+        "4": 1,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "6": 1,
+        "7": 1
+      },
+      "O": {
+        "7": 3
+      },
+      "Y": {
+        "4": 2,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AG": 4,
+      "AN": 2,
+      "GA": 5,
+      "GI": 3,
+      "GO": 5,
+      "IN": 2,
+      "KA": 1,
+      "KI": 2,
+      "NA": 1,
+      "NO": 1,
+      "OI": 1,
+      "OK": 1,
+      "ON": 1,
+      "YA": 2,
+      "YO": 3
+    }
+  }
+}

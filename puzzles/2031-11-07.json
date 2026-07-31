@@ -1,0 +1,93 @@
+{
+  "pangram": "lurking",
+  "center_letter": "r",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 132,
+  "answer_pangrams": [
+    "lurking"
+  ],
+  "answers": [
+    "girl",
+    "grill",
+    "grilling",
+    "grin",
+    "grinning",
+    "gunrunning",
+    "gurgling",
+    "guru",
+    "inuring",
+    "irking",
+    "luring",
+    "lurk",
+    "lurking",
+    "rigging",
+    "riling",
+    "rill",
+    "ring",
+    "ringing",
+    "rink",
+    "ruin",
+    "ruing",
+    "ruining",
+    "ruling",
+    "rung",
+    "running",
+    "urging"
+  ],
+  "date": "2031-11-07",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 2,
+      "6": 5,
+      "7": 6,
+      "8": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "G": 8,
+      "I": 2,
+      "L": 3,
+      "R": 12,
+      "U": 1
+    },
+    "grid": {
+      "G": {
+        "4": 3,
+        "5": 1,
+        "8": 3,
+        "10": 1
+      },
+      "I": {
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 5,
+        "5": 1,
+        "6": 2,
+        "7": 4
+      },
+      "U": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 1,
+      "GR": 4,
+      "GU": 3,
+      "IN": 1,
+      "IR": 1,
+      "LU": 3,
+      "RI": 6,
+      "RU": 6,
+      "UR": 1
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "pangram": "working",
+  "center_letter": "g",
+  "num_answers": 56,
+  "num_pangrams": 1,
+  "possible_points": 319,
+  "answer_pangrams": [
+    "working"
+  ],
+  "answers": [
+    "gigging",
+    "ginkgo",
+    "ginning",
+    "going",
+    "gong",
+    "gonging",
+    "goon",
+    "gorging",
+    "goring",
+    "gown",
+    "gowning",
+    "grin",
+    "grinning",
+    "grog",
+    "groin",
+    "grok",
+    "grokking",
+    "grow",
+    "growing",
+    "grown",
+    "ignoring",
+    "ingrown",
+    "inking",
+    "inning",
+    "irking",
+    "ironing",
+    "king",
+    "kinking",
+    "knowing",
+    "noggin",
+    "oinking",
+    "ongoing",
+    "origin",
+    "owing",
+    "owning",
+    "rigging",
+    "rigor",
+    "ring",
+    "ringing",
+    "rooking",
+    "rowing",
+    "wigging",
+    "wing",
+    "winging",
+    "wining",
+    "winking",
+    "winning",
+    "winnowing",
+    "wiring",
+    "wooing",
+    "working",
+    "wowing",
+    "wring",
+    "wringing",
+    "wrong",
+    "wronging"
+  ],
+  "date": "2036-04-10",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 7,
+      "6": 13,
+      "7": 20,
+      "8": 5,
+      "9": 1
+    },
+    "by_first_letter": {
+      "G": 20,
+      "I": 6,
+      "K": 3,
+      "N": 1,
+      "O": 5,
+      "R": 6,
+      "W": 15
+    },
+    "grid": {
+      "G": {
+        "4": 7,
+        "5": 3,
+        "6": 2,
+        "7": 6,
+        "8": 2
+      },
+      "I": {
+        "6": 3,
+        "7": 2,
+        "8": 1
+      },
+      "K": {
+        "4": 1,
+        "7": 2
+      },
+      "N": {
+        "6": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 2,
+        "7": 2
+      },
+      "R": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 3
+      },
+      "W": {
+        "4": 1,
+        "5": 2,
+        "6": 4,
+        "7": 5,
+        "8": 2,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 3,
+      "GO": 8,
+      "GR": 9,
+      "IG": 1,
+      "IN": 3,
+      "IR": 2,
+      "KI": 2,
+      "KN": 1,
+      "NO": 1,
+      "OI": 1,
+      "ON": 1,
+      "OR": 1,
+      "OW": 2,
+      "RI": 4,
+      "RO": 2,
+      "WI": 8,
+      "WO": 3,
+      "WR": 4
+    }
+  }
+}

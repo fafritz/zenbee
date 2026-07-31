@@ -1,0 +1,89 @@
+{
+  "pangram": "kingdom",
+  "center_letter": "k",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 79,
+  "answer_pangrams": [
+    "kingdom"
+  ],
+  "answers": [
+    "diking",
+    "dink",
+    "ginkgo",
+    "inking",
+    "kidding",
+    "kiddo",
+    "kimono",
+    "kind",
+    "king",
+    "kingdom",
+    "kink",
+    "kinking",
+    "kook",
+    "miking",
+    "mink",
+    "monk",
+    "nook",
+    "oink",
+    "oinking"
+  ],
+  "date": "2034-01-12",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 1,
+      "6": 5,
+      "7": 4
+    },
+    "by_first_letter": {
+      "D": 2,
+      "G": 1,
+      "I": 1,
+      "K": 9,
+      "M": 3,
+      "N": 1,
+      "O": 2
+    },
+    "grid": {
+      "D": {
+        "4": 1,
+        "6": 1
+      },
+      "G": {
+        "6": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "K": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 3
+      },
+      "M": {
+        "4": 2,
+        "6": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "O": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "DI": 2,
+      "GI": 1,
+      "IN": 1,
+      "KI": 8,
+      "KO": 1,
+      "MI": 2,
+      "MO": 1,
+      "NO": 1,
+      "OI": 2
+    }
+  }
+}

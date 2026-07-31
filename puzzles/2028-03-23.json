@@ -1,0 +1,66 @@
+{
+  "pangram": "liturgy",
+  "center_letter": "g",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 64,
+  "answer_pangrams": [
+    "liturgy"
+  ],
+  "answers": [
+    "giggly",
+    "gill",
+    "gilt",
+    "girl",
+    "girt",
+    "glut",
+    "grill",
+    "grit",
+    "gritty",
+    "guilt",
+    "guiltily",
+    "guilty",
+    "gull",
+    "gully",
+    "guru",
+    "liturgy",
+    "ugly"
+  ],
+  "date": "2028-03-23",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 3,
+      "6": 3,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "G": 15,
+      "L": 1,
+      "U": 1
+    },
+    "grid": {
+      "G": {
+        "4": 8,
+        "5": 3,
+        "6": 3,
+        "8": 1
+      },
+      "L": {
+        "7": 1
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 5,
+      "GL": 1,
+      "GR": 3,
+      "GU": 6,
+      "LI": 1,
+      "UG": 1
+    }
+  }
+}

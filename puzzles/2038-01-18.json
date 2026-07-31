@@ -1,0 +1,95 @@
+{
+  "pangram": "buckled",
+  "center_letter": "c",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 147,
+  "answer_pangrams": [
+    "buckled"
+  ],
+  "answers": [
+    "beck",
+    "bedeck",
+    "bedecked",
+    "buck",
+    "bucked",
+    "buckle",
+    "buckled",
+    "cede",
+    "ceded",
+    "cell",
+    "club",
+    "clubbed",
+    "cluck",
+    "clucked",
+    "clue",
+    "clued",
+    "cube",
+    "cubed",
+    "cuddle",
+    "cuddled",
+    "cued",
+    "cull",
+    "culled",
+    "deck",
+    "decked",
+    "deckle",
+    "deduce",
+    "deduced",
+    "deuce",
+    "duck",
+    "ducked",
+    "luck",
+    "lucked"
+  ],
+  "date": "2038-01-18",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 5,
+      "6": 10,
+      "7": 5,
+      "8": 1
+    },
+    "by_first_letter": {
+      "B": 7,
+      "C": 16,
+      "D": 8,
+      "L": 2
+    },
+    "grid": {
+      "B": {
+        "4": 2,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "C": {
+        "4": 7,
+        "5": 4,
+        "6": 2,
+        "7": 3
+      },
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 4,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 3,
+      "BU": 4,
+      "CE": 3,
+      "CL": 6,
+      "CU": 7,
+      "DE": 6,
+      "DU": 2,
+      "LU": 2
+    }
+  }
+}

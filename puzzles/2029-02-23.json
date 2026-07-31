@@ -1,0 +1,103 @@
+{
+  "pangram": "halcyon",
+  "center_letter": "n",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 126,
+  "answer_pangrams": [
+    "halcyon"
+  ],
+  "answers": [
+    "anal",
+    "annoy",
+    "anon",
+    "canal",
+    "cancan",
+    "canna",
+    "cannon",
+    "canny",
+    "canon",
+    "canyon",
+    "chancy",
+    "clan",
+    "cocoon",
+    "colon",
+    "colony",
+    "conch",
+    "cyan",
+    "halcyon",
+    "halon",
+    "honcho",
+    "llano",
+    "loan",
+    "loon",
+    "lynch",
+    "naan",
+    "nana",
+    "nanny",
+    "noon",
+    "nylon",
+    "only"
+  ],
+  "date": "2029-02-23",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 12,
+      "6": 7,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 14,
+      "H": 3,
+      "L": 4,
+      "N": 5,
+      "O": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 6,
+        "6": 6
+      },
+      "H": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 2
+      },
+      "N": {
+        "4": 3,
+        "5": 2
+      },
+      "O": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 3,
+      "CA": 7,
+      "CH": 1,
+      "CL": 1,
+      "CO": 4,
+      "CY": 1,
+      "HA": 2,
+      "HO": 1,
+      "LL": 1,
+      "LO": 2,
+      "LY": 1,
+      "NA": 3,
+      "NO": 1,
+      "NY": 1,
+      "ON": 1
+    }
+  }
+}

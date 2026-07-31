@@ -1,0 +1,148 @@
+{
+  "pangram": "howling",
+  "center_letter": "n",
+  "num_answers": 56,
+  "num_pangrams": 2,
+  "possible_points": 319,
+  "answer_pangrams": [
+    "hollowing",
+    "howling"
+  ],
+  "answers": [
+    "gigging",
+    "giggling",
+    "ginning",
+    "glowing",
+    "goggling",
+    "going",
+    "gong",
+    "gonging",
+    "googling",
+    "goon",
+    "gown",
+    "gowning",
+    "hing",
+    "hinging",
+    "hogging",
+    "holing",
+    "hollowing",
+    "honing",
+    "howling",
+    "inning",
+    "lingo",
+    "lining",
+    "lion",
+    "logging",
+    "login",
+    "loin",
+    "lolling",
+    "long",
+    "longing",
+    "loon",
+    "lowing",
+    "niggling",
+    "nigh",
+    "noggin",
+    "noon",
+    "ogling",
+    "oiling",
+    "ongoing",
+    "onion",
+    "owing",
+    "owning",
+    "whiling",
+    "whining",
+    "wigging",
+    "wiggling",
+    "wiling",
+    "willing",
+    "wing",
+    "winging",
+    "wining",
+    "winning",
+    "winnow",
+    "winnowing",
+    "wino",
+    "wooing",
+    "wowing"
+  ],
+  "date": "2029-08-27",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 5,
+      "6": 14,
+      "7": 18,
+      "8": 5,
+      "9": 2
+    },
+    "by_first_letter": {
+      "G": 12,
+      "H": 7,
+      "I": 1,
+      "L": 11,
+      "N": 4,
+      "O": 6,
+      "W": 15
+    },
+    "grid": {
+      "G": {
+        "4": 3,
+        "5": 1,
+        "7": 5,
+        "8": 3
+      },
+      "H": {
+        "4": 1,
+        "6": 2,
+        "7": 3,
+        "9": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 2,
+        "6": 2,
+        "7": 3
+      },
+      "N": {
+        "4": 2,
+        "6": 1,
+        "8": 1
+      },
+      "O": {
+        "5": 2,
+        "6": 3,
+        "7": 1
+      },
+      "W": {
+        "4": 2,
+        "6": 5,
+        "7": 6,
+        "8": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 3,
+      "GL": 1,
+      "GO": 8,
+      "HI": 2,
+      "HO": 5,
+      "IN": 1,
+      "LI": 3,
+      "LO": 8,
+      "NI": 2,
+      "NO": 2,
+      "OG": 1,
+      "OI": 1,
+      "ON": 2,
+      "OW": 2,
+      "WH": 2,
+      "WI": 11,
+      "WO": 2
+    }
+  }
+}

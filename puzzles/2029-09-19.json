@@ -1,0 +1,149 @@
+{
+  "pangram": "bounced",
+  "center_letter": "n",
+  "num_answers": 58,
+  "num_pangrams": 1,
+  "possible_points": 286,
+  "answer_pangrams": [
+    "bounced"
+  ],
+  "answers": [
+    "been",
+    "bend",
+    "bonbon",
+    "bond",
+    "bonded",
+    "bone",
+    "boned",
+    "boon",
+    "bounce",
+    "bounced",
+    "bound",
+    "bounded",
+    "cocoon",
+    "cocooned",
+    "concede",
+    "conceded",
+    "condo",
+    "condone",
+    "condoned",
+    "conduce",
+    "conduced",
+    "cone",
+    "conned",
+    "denounce",
+    "denounced",
+    "denude",
+    "denuded",
+    "done",
+    "donned",
+    "dunce",
+    "dune",
+    "dunned",
+    "dunno",
+    "encode",
+    "encoded",
+    "ended",
+    "endue",
+    "endued",
+    "need",
+    "needed",
+    "nene",
+    "neocon",
+    "neon",
+    "nodded",
+    "node",
+    "nonce",
+    "none",
+    "noon",
+    "noun",
+    "once",
+    "ounce",
+    "unbend",
+    "unbound",
+    "unbounded",
+    "undo",
+    "undone",
+    "undue",
+    "unneeded"
+  ],
+  "date": "2029-09-19",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 10,
+      "6": 15,
+      "7": 8,
+      "8": 6,
+      "9": 2
+    },
+    "by_first_letter": {
+      "B": 12,
+      "C": 11,
+      "D": 10,
+      "E": 5,
+      "N": 11,
+      "O": 2,
+      "U": 7
+    },
+    "grid": {
+      "B": {
+        "4": 5,
+        "5": 2,
+        "6": 3,
+        "7": 2
+      },
+      "C": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 3,
+        "8": 4
+      },
+      "D": {
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "E": {
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "N": {
+        "4": 7,
+        "5": 1,
+        "6": 3
+      },
+      "O": {
+        "4": 1,
+        "5": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 2,
+      "BO": 10,
+      "CO": 11,
+      "DE": 4,
+      "DO": 2,
+      "DU": 4,
+      "EN": 5,
+      "NE": 5,
+      "NO": 6,
+      "ON": 1,
+      "OU": 1,
+      "UN": 7
+    }
+  }
+}

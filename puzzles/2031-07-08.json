@@ -1,0 +1,133 @@
+{
+  "pangram": "pelagic",
+  "center_letter": "e",
+  "num_answers": 46,
+  "num_pangrams": 1,
+  "possible_points": 177,
+  "answer_pangrams": [
+    "pelagic"
+  ],
+  "answers": [
+    "agape",
+    "agile",
+    "algae",
+    "allege",
+    "apace",
+    "apiece",
+    "appeal",
+    "apple",
+    "cage",
+    "cape",
+    "cell",
+    "eagle",
+    "elegiac",
+    "epee",
+    "epic",
+    "gaggle",
+    "gale",
+    "gape",
+    "giggle",
+    "glee",
+    "icicle",
+    "illegal",
+    "ipecac",
+    "lace",
+    "lapel",
+    "leap",
+    "legal",
+    "lice",
+    "liege",
+    "pace",
+    "page",
+    "palace",
+    "pale",
+    "papillae",
+    "peace",
+    "peal",
+    "peel",
+    "peep",
+    "pelagic",
+    "piece",
+    "pile",
+    "pillage",
+    "pipe",
+    "place",
+    "plaice",
+    "plea"
+  ],
+  "date": "2031-07-08",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 12,
+      "6": 9,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "C": 3,
+      "E": 4,
+      "G": 5,
+      "I": 3,
+      "L": 6,
+      "P": 17
+    },
+    "grid": {
+      "A": {
+        "5": 5,
+        "6": 3
+      },
+      "C": {
+        "4": 3
+      },
+      "E": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 3,
+        "6": 2
+      },
+      "I": {
+        "6": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 3
+      },
+      "P": {
+        "4": 9,
+        "5": 3,
+        "6": 2,
+        "7": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AL": 2,
+      "AP": 4,
+      "CA": 2,
+      "CE": 1,
+      "EA": 1,
+      "EL": 1,
+      "EP": 2,
+      "GA": 3,
+      "GI": 1,
+      "GL": 1,
+      "IC": 1,
+      "IL": 1,
+      "IP": 1,
+      "LA": 2,
+      "LE": 2,
+      "LI": 2,
+      "PA": 5,
+      "PE": 5,
+      "PI": 4,
+      "PL": 3
+    }
+  }
+}

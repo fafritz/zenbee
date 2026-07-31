@@ -1,0 +1,86 @@
+{
+  "pangram": "caribou",
+  "center_letter": "a",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 92,
+  "answer_pangrams": [
+    "caribou"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "arbor",
+    "aria",
+    "aura",
+    "baba",
+    "baobab",
+    "barb",
+    "barbacoa",
+    "barbaric",
+    "barrio",
+    "boar",
+    "briar",
+    "cacao",
+    "caribou",
+    "circa",
+    "cobra",
+    "coca",
+    "cocoa",
+    "crab",
+    "rabbi",
+    "roar"
+  ],
+  "date": "2026-07-01",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 7,
+      "6": 3,
+      "7": 1,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 8,
+      "C": 7,
+      "R": 2
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "B": {
+        "4": 3,
+        "5": 1,
+        "6": 2,
+        "8": 2
+      },
+      "C": {
+        "4": 2,
+        "5": 4,
+        "7": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AR": 2,
+      "AU": 1,
+      "BA": 6,
+      "BO": 1,
+      "BR": 1,
+      "CA": 2,
+      "CI": 1,
+      "CO": 3,
+      "CR": 1,
+      "RA": 1,
+      "RO": 1
+    }
+  }
+}

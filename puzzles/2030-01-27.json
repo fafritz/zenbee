@@ -1,0 +1,125 @@
+{
+  "pangram": "javelin",
+  "center_letter": "n",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 149,
+  "answer_pangrams": [
+    "javelin"
+  ],
+  "answers": [
+    "alien",
+    "anal",
+    "anneal",
+    "anvil",
+    "avian",
+    "elan",
+    "eleven",
+    "enliven",
+    "even",
+    "inane",
+    "inline",
+    "javelin",
+    "jinni",
+    "lain",
+    "lane",
+    "lean",
+    "leaven",
+    "lien",
+    "line",
+    "lineal",
+    "linen",
+    "liven",
+    "naan",
+    "nail",
+    "naive",
+    "nana",
+    "naval",
+    "nave",
+    "navel",
+    "nene",
+    "nine",
+    "ninja",
+    "vain",
+    "vane",
+    "vanilla",
+    "vein",
+    "venal",
+    "venial",
+    "villain",
+    "vine"
+  ],
+  "date": "2030-01-27",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 12,
+      "6": 6,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 5,
+      "E": 4,
+      "I": 2,
+      "J": 2,
+      "L": 9,
+      "N": 10,
+      "V": 8
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 1
+      },
+      "E": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 1
+      },
+      "J": {
+        "5": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 2,
+        "6": 2
+      },
+      "N": {
+        "4": 6,
+        "5": 4
+      },
+      "V": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AN": 3,
+      "AV": 1,
+      "EL": 2,
+      "EN": 1,
+      "EV": 1,
+      "IN": 2,
+      "JA": 1,
+      "JI": 1,
+      "LA": 2,
+      "LE": 2,
+      "LI": 5,
+      "NA": 7,
+      "NE": 1,
+      "NI": 2,
+      "VA": 3,
+      "VE": 3,
+      "VI": 2
+    }
+  }
+}

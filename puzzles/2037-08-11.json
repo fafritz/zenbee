@@ -1,0 +1,104 @@
+{
+  "pangram": "opaqued",
+  "center_letter": "e",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 120,
+  "answer_pangrams": [
+    "opaqued"
+  ],
+  "answers": [
+    "added",
+    "aped",
+    "dead",
+    "deed",
+    "deeded",
+    "deep",
+    "dope",
+    "doped",
+    "dude",
+    "duded",
+    "dupe",
+    "duped",
+    "epee",
+    "opaque",
+    "opaqued",
+    "padded",
+    "peed",
+    "peep",
+    "peeped",
+    "pepped",
+    "podded",
+    "pooped",
+    "pope",
+    "popped",
+    "pupae",
+    "pupped",
+    "queue",
+    "queued",
+    "upped"
+  ],
+  "date": "2037-08-11",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 7,
+      "6": 10,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "D": 10,
+      "E": 1,
+      "O": 2,
+      "P": 11,
+      "Q": 2,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1
+      },
+      "D": {
+        "4": 6,
+        "5": 3,
+        "6": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "O": {
+        "6": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 1,
+        "6": 7
+      },
+      "Q": {
+        "5": 1,
+        "6": 1
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AP": 1,
+      "DE": 4,
+      "DO": 2,
+      "DU": 4,
+      "EP": 1,
+      "OP": 2,
+      "PA": 1,
+      "PE": 4,
+      "PO": 4,
+      "PU": 2,
+      "QU": 2,
+      "UP": 1
+    }
+  }
+}

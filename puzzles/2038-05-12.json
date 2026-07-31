@@ -1,0 +1,126 @@
+{
+  "pangram": "windbag",
+  "center_letter": "a",
+  "num_answers": 46,
+  "num_pangrams": 1,
+  "possible_points": 251,
+  "answer_pangrams": [
+    "windbag"
+  ],
+  "answers": [
+    "abiding",
+    "adding",
+    "again",
+    "aging",
+    "aiding",
+    "angina",
+    "awing",
+    "awning",
+    "baaing",
+    "baba",
+    "bagging",
+    "banana",
+    "band",
+    "bandaging",
+    "bandanna",
+    "banding",
+    "bang",
+    "banging",
+    "banning",
+    "dabbing",
+    "dawn",
+    "dawning",
+    "gabbing",
+    "gadding",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "gnaw",
+    "gnawing",
+    "naan",
+    "nabbing",
+    "nagging",
+    "naiad",
+    "nana",
+    "wadding",
+    "wadi",
+    "wading",
+    "wagging",
+    "waging",
+    "wand",
+    "waning",
+    "wigwag",
+    "wigwagging",
+    "windbag"
+  ],
+  "date": "2038-05-12",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 4,
+      "6": 10,
+      "7": 18,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "B": 11,
+      "D": 3,
+      "G": 9,
+      "N": 5,
+      "W": 10
+    },
+    "grid": {
+      "A": {
+        "5": 3,
+        "6": 4,
+        "7": 1
+      },
+      "B": {
+        "4": 3,
+        "6": 2,
+        "7": 4,
+        "8": 1,
+        "9": 1
+      },
+      "D": {
+        "4": 1,
+        "7": 2
+      },
+      "G": {
+        "4": 3,
+        "7": 6
+      },
+      "N": {
+        "4": 2,
+        "5": 1,
+        "7": 2
+      },
+      "W": {
+        "4": 2,
+        "6": 4,
+        "7": 3,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AD": 1,
+      "AG": 2,
+      "AI": 1,
+      "AN": 1,
+      "AW": 2,
+      "BA": 11,
+      "DA": 3,
+      "GA": 7,
+      "GN": 2,
+      "NA": 5,
+      "WA": 7,
+      "WI": 3
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "pangram": "delight",
+  "center_letter": "g",
+  "num_answers": 38,
+  "num_pangrams": 4,
+  "possible_points": 220,
+  "answer_pangrams": [
+    "delight",
+    "delighted",
+    "highlighted",
+    "lighted"
+  ],
+  "answers": [
+    "delight",
+    "delighted",
+    "digit",
+    "edge",
+    "edged",
+    "egged",
+    "eight",
+    "eighth",
+    "eightieth",
+    "geed",
+    "geld",
+    "gelded",
+    "gelid",
+    "gelled",
+    "gigged",
+    "giggle",
+    "giggled",
+    "gild",
+    "gilded",
+    "gill",
+    "gilt",
+    "glee",
+    "glide",
+    "glided",
+    "hedge",
+    "hedged",
+    "height",
+    "high",
+    "highlight",
+    "highlighted",
+    "ledge",
+    "legged",
+    "legit",
+    "liege",
+    "light",
+    "lighted",
+    "thigh",
+    "tight"
+  ],
+  "date": "2032-07-17",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 13,
+      "6": 10,
+      "7": 3,
+      "9": 3,
+      "11": 1
+    },
+    "by_first_letter": {
+      "D": 3,
+      "E": 6,
+      "G": 15,
+      "H": 6,
+      "L": 6,
+      "T": 2
+    },
+    "grid": {
+      "D": {
+        "5": 1,
+        "7": 1,
+        "9": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "9": 1
+      },
+      "G": {
+        "4": 6,
+        "5": 2,
+        "6": 6,
+        "7": 1
+      },
+      "H": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "9": 1,
+        "11": 1
+      },
+      "L": {
+        "5": 4,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "DE": 2,
+      "DI": 1,
+      "ED": 2,
+      "EG": 1,
+      "EI": 3,
+      "GE": 5,
+      "GI": 7,
+      "GL": 3,
+      "HE": 3,
+      "HI": 3,
+      "LE": 3,
+      "LI": 3,
+      "TH": 1,
+      "TI": 1
+    }
+  }
+}

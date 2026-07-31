@@ -1,0 +1,79 @@
+{
+  "pangram": "warthog",
+  "center_letter": "h",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 71,
+  "answer_pangrams": [
+    "warthog"
+  ],
+  "answers": [
+    "growth",
+    "harrow",
+    "hart",
+    "hoot",
+    "horror",
+    "oath",
+    "that",
+    "thaw",
+    "throat",
+    "throw",
+    "thwart",
+    "tooth",
+    "warthog",
+    "what",
+    "whoa",
+    "worth",
+    "wrath"
+  ],
+  "date": "2037-01-16",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 4,
+      "6": 5,
+      "7": 1
+    },
+    "by_first_letter": {
+      "G": 1,
+      "H": 4,
+      "O": 1,
+      "T": 6,
+      "W": 5
+    },
+    "grid": {
+      "G": {
+        "6": 1
+      },
+      "H": {
+        "4": 2,
+        "6": 2
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 2,
+        "6": 2
+      },
+      "W": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "GR": 1,
+      "HA": 2,
+      "HO": 2,
+      "OA": 1,
+      "TH": 5,
+      "TO": 1,
+      "WA": 1,
+      "WH": 2,
+      "WO": 1,
+      "WR": 1
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "pangram": "brimful",
+  "center_letter": "f",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 48,
+  "answer_pangrams": [
+    "brimful"
+  ],
+  "answers": [
+    "biff",
+    "bluff",
+    "brimful",
+    "buff",
+    "fill",
+    "film",
+    "firm",
+    "flub",
+    "fluff",
+    "frill",
+    "fulfill",
+    "full",
+    "furl",
+    "miff",
+    "muff",
+    "riff",
+    "ruff"
+  ],
+  "date": "2029-12-23",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 3,
+      "7": 2
+    },
+    "by_first_letter": {
+      "B": 4,
+      "F": 9,
+      "M": 2,
+      "R": 2
+    },
+    "grid": {
+      "B": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "F": {
+        "4": 6,
+        "5": 2,
+        "7": 1
+      },
+      "M": {
+        "4": 2
+      },
+      "R": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "BI": 1,
+      "BL": 1,
+      "BR": 1,
+      "BU": 1,
+      "FI": 3,
+      "FL": 2,
+      "FR": 1,
+      "FU": 3,
+      "MI": 1,
+      "MU": 1,
+      "RI": 1,
+      "RU": 1
+    }
+  }
+}

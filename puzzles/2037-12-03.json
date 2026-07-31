@@ -1,0 +1,95 @@
+{
+  "pangram": "outplay",
+  "center_letter": "y",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 138,
+  "answer_pangrams": [
+    "outplay"
+  ],
+  "answers": [
+    "allay",
+    "alloy",
+    "ally",
+    "apply",
+    "aptly",
+    "layout",
+    "loopy",
+    "loyal",
+    "loyally",
+    "loyalty",
+    "outlay",
+    "outplay",
+    "papaya",
+    "patty",
+    "play",
+    "ploy",
+    "polyp",
+    "poppy",
+    "potty",
+    "pulpy",
+    "puppy",
+    "putty",
+    "tally",
+    "tatty",
+    "tautly",
+    "totally",
+    "typo"
+  ],
+  "date": "2037-12-03",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 15,
+      "6": 4,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 5,
+      "L": 5,
+      "O": 2,
+      "P": 10,
+      "T": 5
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 4
+      },
+      "L": {
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "O": {
+        "6": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 2,
+        "5": 7,
+        "6": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 3,
+      "AP": 2,
+      "LA": 1,
+      "LO": 4,
+      "OU": 2,
+      "PA": 2,
+      "PL": 2,
+      "PO": 3,
+      "PU": 3,
+      "TA": 3,
+      "TO": 1,
+      "TY": 1
+    }
+  }
+}

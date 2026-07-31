@@ -1,0 +1,103 @@
+{
+  "pangram": "wrongly",
+  "center_letter": "o",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 84,
+  "answer_pangrams": [
+    "wrongly"
+  ],
+  "answers": [
+    "glory",
+    "glow",
+    "gong",
+    "goon",
+    "gory",
+    "gown",
+    "grog",
+    "groggy",
+    "grow",
+    "growl",
+    "grown",
+    "gyro",
+    "logo",
+    "loll",
+    "long",
+    "loon",
+    "lorry",
+    "lowly",
+    "noon",
+    "nylon",
+    "only",
+    "roll",
+    "wool",
+    "woolly",
+    "worn",
+    "worry",
+    "wrong",
+    "wrongly",
+    "yowl"
+  ],
+  "date": "2026-06-26",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 8,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "G": 12,
+      "L": 6,
+      "N": 2,
+      "O": 1,
+      "R": 1,
+      "W": 6,
+      "Y": 1
+    },
+    "grid": {
+      "G": {
+        "4": 8,
+        "5": 3,
+        "6": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 2
+      },
+      "N": {
+        "4": 1,
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "R": {
+        "4": 1
+      },
+      "W": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "GL": 2,
+      "GO": 4,
+      "GR": 5,
+      "GY": 1,
+      "LO": 6,
+      "NO": 1,
+      "NY": 1,
+      "ON": 1,
+      "RO": 1,
+      "WO": 4,
+      "WR": 2,
+      "YO": 1
+    }
+  }
+}

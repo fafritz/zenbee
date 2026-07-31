@@ -1,0 +1,119 @@
+{
+  "pangram": "implant",
+  "center_letter": "m",
+  "num_answers": 39,
+  "num_pangrams": 1,
+  "possible_points": 163,
+  "answer_pangrams": [
+    "implant"
+  ],
+  "answers": [
+    "animal",
+    "imam",
+    "impala",
+    "implant",
+    "lama",
+    "lamp",
+    "limit",
+    "limn",
+    "limp",
+    "llama",
+    "mail",
+    "mailman",
+    "maim",
+    "main",
+    "maintain",
+    "mall",
+    "malt",
+    "mama",
+    "mamma",
+    "mammal",
+    "mammalian",
+    "mania",
+    "manna",
+    "mantilla",
+    "militant",
+    "militia",
+    "militiaman",
+    "mill",
+    "mini",
+    "minim",
+    "minima",
+    "minimal",
+    "mint",
+    "mitt",
+    "napalm",
+    "palm",
+    "pimp",
+    "tamp",
+    "timpani"
+  ],
+  "date": "2035-09-07",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 6,
+      "6": 5,
+      "7": 5,
+      "8": 3,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "I": 3,
+      "L": 6,
+      "M": 24,
+      "N": 1,
+      "P": 2,
+      "T": 2
+    },
+    "grid": {
+      "A": {
+        "6": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 2
+      },
+      "M": {
+        "4": 10,
+        "5": 4,
+        "6": 2,
+        "7": 3,
+        "8": 3,
+        "9": 1,
+        "10": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "P": {
+        "4": 2
+      },
+      "T": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "IM": 3,
+      "LA": 2,
+      "LI": 3,
+      "LL": 1,
+      "MA": 14,
+      "MI": 10,
+      "NA": 1,
+      "PA": 1,
+      "PI": 1,
+      "TA": 1,
+      "TI": 1
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "pangram": "burping",
+  "center_letter": "b",
+  "num_answers": 22,
+  "num_pangrams": 2,
+  "possible_points": 126,
+  "answer_pangrams": [
+    "burping",
+    "upbringing"
+  ],
+  "answers": [
+    "binning",
+    "bribing",
+    "brig",
+    "bring",
+    "bringing",
+    "bruin",
+    "bugging",
+    "bung",
+    "bunging",
+    "burg",
+    "burn",
+    "burning",
+    "burp",
+    "burping",
+    "burr",
+    "burring",
+    "gibing",
+    "grub",
+    "grubbing",
+    "ribbing",
+    "rubbing",
+    "upbringing"
+  ],
+  "date": "2038-11-27",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 2,
+      "6": 1,
+      "7": 9,
+      "8": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "B": 16,
+      "G": 3,
+      "R": 2,
+      "U": 1
+    },
+    "grid": {
+      "B": {
+        "4": 6,
+        "5": 2,
+        "7": 7,
+        "8": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 1,
+        "8": 1
+      },
+      "R": {
+        "7": 2
+      },
+      "U": {
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "BI": 1,
+      "BR": 5,
+      "BU": 10,
+      "GI": 1,
+      "GR": 2,
+      "RI": 1,
+      "RU": 1,
+      "UP": 1
+    }
+  }
+}

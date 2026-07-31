@@ -1,0 +1,143 @@
+{
+  "pangram": "thicken",
+  "center_letter": "i",
+  "num_answers": 50,
+  "num_pangrams": 3,
+  "possible_points": 232,
+  "answer_pangrams": [
+    "kitchen",
+    "kitchenette",
+    "thicken"
+  ],
+  "answers": [
+    "chic",
+    "chick",
+    "chicken",
+    "chin",
+    "chink",
+    "chit",
+    "cinch",
+    "cite",
+    "entice",
+    "ethic",
+    "ethnic",
+    "hectic",
+    "hick",
+    "hike",
+    "hint",
+    "hitch",
+    "hitchhike",
+    "inch",
+    "incite",
+    "intent",
+    "itch",
+    "kick",
+    "kinetic",
+    "kink",
+    "kitchen",
+    "kitchenette",
+    "kite",
+    "kitten",
+    "knit",
+    "necktie",
+    "nice",
+    "niche",
+    "nick",
+    "niece",
+    "nine",
+    "nineteen",
+    "nineteenth",
+    "ninetieth",
+    "ninth",
+    "thick",
+    "thicken",
+    "thicket",
+    "thin",
+    "thine",
+    "think",
+    "tick",
+    "ticket",
+    "tine",
+    "tint",
+    "tithe"
+  ],
+  "date": "2036-01-10",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 12,
+      "6": 7,
+      "7": 6,
+      "8": 1,
+      "9": 2,
+      "10": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "C": 8,
+      "E": 3,
+      "H": 6,
+      "I": 4,
+      "K": 8,
+      "N": 10,
+      "T": 11
+    },
+    "grid": {
+      "C": {
+        "4": 4,
+        "5": 3,
+        "7": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 2
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "9": 1
+      },
+      "I": {
+        "4": 2,
+        "6": 2
+      },
+      "K": {
+        "4": 4,
+        "6": 1,
+        "7": 2,
+        "11": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 3,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 4,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "CH": 6,
+      "CI": 2,
+      "EN": 1,
+      "ET": 2,
+      "HE": 1,
+      "HI": 5,
+      "IN": 3,
+      "IT": 1,
+      "KI": 7,
+      "KN": 1,
+      "NE": 1,
+      "NI": 9,
+      "TH": 6,
+      "TI": 5
+    }
+  }
+}

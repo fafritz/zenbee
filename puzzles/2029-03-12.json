@@ -1,0 +1,82 @@
+{
+  "pangram": "wafting",
+  "center_letter": "f",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 95,
+  "answer_pangrams": [
+    "wafting"
+  ],
+  "answers": [
+    "faint",
+    "fainting",
+    "fang",
+    "fanning",
+    "fating",
+    "fawn",
+    "fawning",
+    "fiat",
+    "fining",
+    "fitting",
+    "gaff",
+    "gaffing",
+    "gift",
+    "gifting",
+    "infant",
+    "tiff",
+    "tiffing",
+    "waft",
+    "wafting",
+    "waif"
+  ],
+  "date": "2029-03-12",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 1,
+      "6": 3,
+      "7": 7,
+      "8": 1
+    },
+    "by_first_letter": {
+      "F": 10,
+      "G": 4,
+      "I": 1,
+      "T": 2,
+      "W": 3
+    },
+    "grid": {
+      "F": {
+        "4": 3,
+        "5": 1,
+        "6": 2,
+        "7": 3,
+        "8": 1
+      },
+      "G": {
+        "4": 2,
+        "7": 2
+      },
+      "I": {
+        "6": 1
+      },
+      "T": {
+        "4": 1,
+        "7": 1
+      },
+      "W": {
+        "4": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "FA": 7,
+      "FI": 3,
+      "GA": 2,
+      "GI": 2,
+      "IN": 1,
+      "TI": 2,
+      "WA": 3
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "pangram": "wildcat",
+  "center_letter": "a",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 148,
+  "answer_pangrams": [
+    "wildcat"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acid",
+    "acidic",
+    "addict",
+    "attic",
+    "await",
+    "cacti",
+    "call",
+    "calla",
+    "catcall",
+    "cattail",
+    "cicada",
+    "cilia",
+    "clad",
+    "claw",
+    "data",
+    "dial",
+    "dicta",
+    "didactic",
+    "italic",
+    "lactic",
+    "laid",
+    "lilac",
+    "tacit",
+    "tact",
+    "tactic",
+    "tactical",
+    "tail",
+    "talc",
+    "tall",
+    "tidal",
+    "wadi",
+    "wail",
+    "wait",
+    "wall",
+    "watt",
+    "wildcat"
+  ],
+  "date": "2029-11-25",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 9,
+      "6": 7,
+      "7": 3,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 7,
+      "C": 9,
+      "D": 4,
+      "I": 1,
+      "L": 3,
+      "T": 8,
+      "W": 6
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "6": 3
+      },
+      "C": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "7": 2
+      },
+      "D": {
+        "4": 2,
+        "5": 1,
+        "8": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "W": {
+        "4": 5,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 4,
+      "AD": 1,
+      "AT": 1,
+      "AW": 1,
+      "CA": 5,
+      "CI": 2,
+      "CL": 2,
+      "DA": 1,
+      "DI": 3,
+      "IT": 1,
+      "LA": 2,
+      "LI": 1,
+      "TA": 7,
+      "TI": 1,
+      "WA": 5,
+      "WI": 1
+    }
+  }
+}

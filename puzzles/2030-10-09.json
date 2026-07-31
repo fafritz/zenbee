@@ -1,0 +1,118 @@
+{
+  "pangram": "cabling",
+  "center_letter": "b",
+  "num_answers": 39,
+  "num_pangrams": 2,
+  "possible_points": 236,
+  "answer_pangrams": [
+    "balancing",
+    "cabling"
+  ],
+  "answers": [
+    "alibi",
+    "alibiing",
+    "baaing",
+    "baba",
+    "babbling",
+    "bacilli",
+    "bagging",
+    "bail",
+    "bailing",
+    "balancing",
+    "baling",
+    "ball",
+    "balling",
+    "banal",
+    "banana",
+    "bang",
+    "banging",
+    "banning",
+    "biblical",
+    "bill",
+    "billing",
+    "binning",
+    "blab",
+    "blabbing",
+    "bling",
+    "cabal",
+    "cabana",
+    "cabbing",
+    "cabin",
+    "cabling",
+    "cannibal",
+    "gabbing",
+    "gabbling",
+    "gibing",
+    "glib",
+    "labia",
+    "labial",
+    "nabbing",
+    "nibbling"
+  ],
+  "date": "2030-10-09",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 6,
+      "6": 6,
+      "7": 12,
+      "8": 7,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 23,
+      "C": 6,
+      "G": 4,
+      "L": 2,
+      "N": 2
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "8": 1
+      },
+      "B": {
+        "4": 6,
+        "5": 2,
+        "6": 3,
+        "7": 8,
+        "8": 3,
+        "9": 1
+      },
+      "C": {
+        "5": 2,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "L": {
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "BA": 16,
+      "BI": 4,
+      "BL": 3,
+      "CA": 6,
+      "GA": 2,
+      "GI": 1,
+      "GL": 1,
+      "LA": 2,
+      "NA": 1,
+      "NI": 1
+    }
+  }
+}

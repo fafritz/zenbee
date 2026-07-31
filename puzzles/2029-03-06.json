@@ -1,0 +1,87 @@
+{
+  "pangram": "unkempt",
+  "center_letter": "t",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 71,
+  "answer_pangrams": [
+    "unkempt"
+  ],
+  "answers": [
+    "entente",
+    "kept",
+    "meet",
+    "mete",
+    "mute",
+    "mutt",
+    "pent",
+    "punt",
+    "puppet",
+    "putt",
+    "teem",
+    "teen",
+    "temp",
+    "tempt",
+    "tenement",
+    "tenet",
+    "tent",
+    "tepee",
+    "tune",
+    "tutu",
+    "umpteen",
+    "unkempt"
+  ],
+  "date": "2029-03-06",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 3,
+      "6": 1,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "E": 1,
+      "K": 1,
+      "M": 4,
+      "P": 4,
+      "T": 10,
+      "U": 2
+    },
+    "grid": {
+      "E": {
+        "7": 1
+      },
+      "K": {
+        "4": 1
+      },
+      "M": {
+        "4": 4
+      },
+      "P": {
+        "4": 3,
+        "6": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 3,
+        "8": 1
+      },
+      "U": {
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "EN": 1,
+      "KE": 1,
+      "ME": 2,
+      "MU": 2,
+      "PE": 1,
+      "PU": 3,
+      "TE": 8,
+      "TU": 2,
+      "UM": 1,
+      "UN": 1
+    }
+  }
+}

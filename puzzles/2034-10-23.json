@@ -1,0 +1,93 @@
+{
+  "pangram": "pivoted",
+  "center_letter": "v",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 158,
+  "answer_pangrams": [
+    "pivoted"
+  ],
+  "answers": [
+    "devoid",
+    "devote",
+    "devoted",
+    "devotee",
+    "dive",
+    "dived",
+    "divide",
+    "divided",
+    "divot",
+    "divvied",
+    "dove",
+    "ovoid",
+    "peeve",
+    "peeved",
+    "pivot",
+    "pivoted",
+    "veep",
+    "veto",
+    "vetoed",
+    "vetted",
+    "video",
+    "videoed",
+    "vied",
+    "vivid",
+    "void",
+    "voided",
+    "voodoo",
+    "voodooed",
+    "vote",
+    "voted",
+    "votive"
+  ],
+  "date": "2034-10-23",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 8,
+      "6": 9,
+      "7": 6,
+      "8": 1
+    },
+    "by_first_letter": {
+      "D": 11,
+      "O": 1,
+      "P": 4,
+      "V": 15
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "7": 4
+      },
+      "O": {
+        "5": 1
+      },
+      "P": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "V": {
+        "4": 5,
+        "5": 3,
+        "6": 5,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 4,
+      "DI": 6,
+      "DO": 1,
+      "OV": 1,
+      "PE": 2,
+      "PI": 2,
+      "VE": 4,
+      "VI": 4,
+      "VO": 7
+    }
+  }
+}

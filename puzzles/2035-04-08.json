@@ -1,0 +1,77 @@
+{
+  "pangram": "halfwit",
+  "center_letter": "w",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 49,
+  "answer_pangrams": [
+    "halfwit"
+  ],
+  "answers": [
+    "await",
+    "flaw",
+    "halfwit",
+    "thaw",
+    "twill",
+    "twit",
+    "waft",
+    "waif",
+    "wail",
+    "wait",
+    "wall",
+    "watt",
+    "what",
+    "whiff",
+    "whit",
+    "will",
+    "wilt",
+    "with",
+    "withal"
+  ],
+  "date": "2035-04-08",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 3,
+      "6": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "F": 1,
+      "H": 1,
+      "T": 3,
+      "W": 13
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "F": {
+        "4": 1
+      },
+      "H": {
+        "7": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1
+      },
+      "W": {
+        "4": 11,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AW": 1,
+      "FL": 1,
+      "HA": 1,
+      "TH": 1,
+      "TW": 2,
+      "WA": 6,
+      "WH": 3,
+      "WI": 4
+    }
+  }
+}

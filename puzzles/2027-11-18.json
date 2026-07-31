@@ -1,0 +1,102 @@
+{
+  "pangram": "worming",
+  "center_letter": "m",
+  "num_answers": 33,
+  "num_pangrams": 2,
+  "possible_points": 178,
+  "answer_pangrams": [
+    "ringworm",
+    "worming"
+  ],
+  "answers": [
+    "grim",
+    "griming",
+    "groom",
+    "grooming",
+    "miming",
+    "mini",
+    "minim",
+    "mining",
+    "minion",
+    "minnow",
+    "minor",
+    "minoring",
+    "miring",
+    "mirror",
+    "mirroring",
+    "mono",
+    "mooing",
+    "moon",
+    "mooning",
+    "moor",
+    "mooring",
+    "morn",
+    "morning",
+    "moron",
+    "morrow",
+    "mowing",
+    "norm",
+    "riming",
+    "ringworm",
+    "room",
+    "rooming",
+    "worm",
+    "worming"
+  ],
+  "date": "2027-11-18",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 4,
+      "6": 10,
+      "7": 6,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "G": 4,
+      "M": 22,
+      "N": 1,
+      "R": 4,
+      "W": 2
+    },
+    "grid": {
+      "G": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "M": {
+        "4": 5,
+        "5": 3,
+        "6": 9,
+        "7": 3,
+        "8": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "R": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "W": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "GR": 4,
+      "MI": 11,
+      "MO": 11,
+      "NO": 1,
+      "RI": 2,
+      "RO": 2,
+      "WO": 2
+    }
+  }
+}

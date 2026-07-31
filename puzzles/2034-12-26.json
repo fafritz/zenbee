@@ -1,0 +1,127 @@
+{
+  "pangram": "melding",
+  "center_letter": "m",
+  "num_answers": 55,
+  "num_pangrams": 3,
+  "possible_points": 290,
+  "answer_pangrams": [
+    "meddling",
+    "melding",
+    "mingled"
+  ],
+  "answers": [
+    "deem",
+    "deemed",
+    "deeming",
+    "denim",
+    "dime",
+    "dimmed",
+    "dimming",
+    "emend",
+    "emended",
+    "emending",
+    "gimme",
+    "legmen",
+    "lemming",
+    "lime",
+    "limed",
+    "liming",
+    "limn",
+    "limned",
+    "limning",
+    "linemen",
+    "meddle",
+    "meddled",
+    "meddling",
+    "meld",
+    "melded",
+    "melding",
+    "melee",
+    "meme",
+    "mend",
+    "mended",
+    "mending",
+    "middle",
+    "middlemen",
+    "middling",
+    "midge",
+    "mien",
+    "mild",
+    "mile",
+    "mill",
+    "milled",
+    "milling",
+    "mime",
+    "mimed",
+    "miming",
+    "mind",
+    "minded",
+    "minding",
+    "mine",
+    "mined",
+    "mingle",
+    "mingled",
+    "mingling",
+    "mini",
+    "minim",
+    "mining"
+  ],
+  "date": "2034-12-26",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 9,
+      "6": 14,
+      "7": 12,
+      "8": 4,
+      "9": 1
+    },
+    "by_first_letter": {
+      "D": 7,
+      "E": 3,
+      "G": 1,
+      "L": 9,
+      "M": 35
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2
+      },
+      "E": {
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "G": {
+        "5": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3
+      },
+      "M": {
+        "4": 11,
+        "5": 5,
+        "6": 9,
+        "7": 6,
+        "8": 3,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 4,
+      "DI": 3,
+      "EM": 3,
+      "GI": 1,
+      "LE": 2,
+      "LI": 7,
+      "ME": 11,
+      "MI": 24
+    }
+  }
+}

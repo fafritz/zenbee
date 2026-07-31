@@ -1,0 +1,125 @@
+{
+  "pangram": "clothed",
+  "center_letter": "c",
+  "num_answers": 43,
+  "num_pangrams": 1,
+  "possible_points": 196,
+  "answer_pangrams": [
+    "clothed"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "cell",
+    "cello",
+    "cloche",
+    "clod",
+    "clot",
+    "cloth",
+    "clothe",
+    "clothed",
+    "clotted",
+    "coddle",
+    "coddled",
+    "code",
+    "coded",
+    "coed",
+    "cold",
+    "collect",
+    "collected",
+    "colt",
+    "cooed",
+    "cool",
+    "cooled",
+    "coot",
+    "cote",
+    "decode",
+    "decoded",
+    "decollete",
+    "detect",
+    "detected",
+    "echo",
+    "echoed",
+    "elect",
+    "elected",
+    "etch",
+    "etched",
+    "hooch",
+    "leech",
+    "leeched",
+    "loco",
+    "ocelot",
+    "octet",
+    "tech"
+  ],
+  "date": "2029-04-26",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 9,
+      "6": 9,
+      "7": 7,
+      "8": 1,
+      "9": 2
+    },
+    "by_first_letter": {
+      "C": 25,
+      "D": 5,
+      "E": 6,
+      "H": 1,
+      "L": 3,
+      "O": 2,
+      "T": 1
+    },
+    "grid": {
+      "C": {
+        "4": 11,
+        "5": 5,
+        "6": 4,
+        "7": 4,
+        "9": 1
+      },
+      "D": {
+        "6": 2,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "E": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "H": {
+        "5": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 4,
+      "CL": 7,
+      "CO": 14,
+      "DE": 5,
+      "EC": 2,
+      "EL": 2,
+      "ET": 2,
+      "HO": 1,
+      "LE": 2,
+      "LO": 1,
+      "OC": 2,
+      "TE": 1
+    }
+  }
+}

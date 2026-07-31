@@ -1,0 +1,100 @@
+{
+  "pangram": "kitchen",
+  "center_letter": "k",
+  "num_answers": 29,
+  "num_pangrams": 3,
+  "possible_points": 142,
+  "answer_pangrams": [
+    "kitchen",
+    "kitchenette",
+    "thicken"
+  ],
+  "answers": [
+    "check",
+    "cheek",
+    "chick",
+    "chicken",
+    "chink",
+    "heck",
+    "hick",
+    "hike",
+    "hitchhike",
+    "keen",
+    "ketch",
+    "kick",
+    "kinetic",
+    "kink",
+    "kitchen",
+    "kitchenette",
+    "kite",
+    "kitten",
+    "knee",
+    "knit",
+    "neck",
+    "necktie",
+    "nick",
+    "thick",
+    "thicken",
+    "thicket",
+    "think",
+    "tick",
+    "ticket"
+  ],
+  "date": "2026-05-31",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 7,
+      "6": 2,
+      "7": 6,
+      "9": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "C": 5,
+      "H": 4,
+      "K": 11,
+      "N": 3,
+      "T": 6
+    },
+    "grid": {
+      "C": {
+        "5": 4,
+        "7": 1
+      },
+      "H": {
+        "4": 3,
+        "9": 1
+      },
+      "K": {
+        "4": 6,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "11": 1
+      },
+      "N": {
+        "4": 2,
+        "7": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "CH": 5,
+      "HE": 1,
+      "HI": 3,
+      "KE": 2,
+      "KI": 7,
+      "KN": 2,
+      "NE": 2,
+      "NI": 1,
+      "TH": 4,
+      "TI": 2
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "pangram": "plumage",
+  "center_letter": "g",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 124,
+  "answer_pangrams": [
+    "plumage"
+  ],
+  "answers": [
+    "agape",
+    "agleam",
+    "ague",
+    "alga",
+    "algae",
+    "allege",
+    "amalgam",
+    "eagle",
+    "gaggle",
+    "gala",
+    "gale",
+    "gall",
+    "game",
+    "gamma",
+    "gape",
+    "gauge",
+    "gleam",
+    "glee",
+    "glue",
+    "glum",
+    "gull",
+    "gulp",
+    "league",
+    "legal",
+    "legume",
+    "luggage",
+    "magma",
+    "muggle",
+    "page",
+    "plague",
+    "plug",
+    "plumage"
+  ],
+  "date": "2037-06-20",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 8,
+      "6": 7,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 7,
+      "E": 1,
+      "G": 14,
+      "L": 4,
+      "M": 2,
+      "P": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "G": {
+        "4": 10,
+        "5": 3,
+        "6": 1
+      },
+      "L": {
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "M": {
+        "5": 1,
+        "6": 1
+      },
+      "P": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 3,
+      "AL": 3,
+      "AM": 1,
+      "EA": 1,
+      "GA": 8,
+      "GL": 4,
+      "GU": 2,
+      "LE": 3,
+      "LU": 1,
+      "MA": 1,
+      "MU": 1,
+      "PA": 1,
+      "PL": 3
+    }
+  }
+}

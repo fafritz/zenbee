@@ -1,0 +1,110 @@
+{
+  "pangram": "lumbago",
+  "center_letter": "a",
+  "num_answers": 35,
+  "num_pangrams": 1,
+  "possible_points": 118,
+  "answer_pangrams": [
+    "lumbago"
+  ],
+  "answers": [
+    "abloom",
+    "agog",
+    "album",
+    "alga",
+    "alum",
+    "amalgam",
+    "ammo",
+    "baba",
+    "ball",
+    "balm",
+    "bamboo",
+    "baobab",
+    "blab",
+    "bola",
+    "bugaboo",
+    "gala",
+    "gall",
+    "gambol",
+    "gamma",
+    "global",
+    "goal",
+    "lama",
+    "lamb",
+    "llama",
+    "loam",
+    "luau",
+    "lumbago",
+    "magma",
+    "mall",
+    "mama",
+    "mambo",
+    "mamma",
+    "mammal",
+    "maul",
+    "momma"
+  ],
+  "date": "2037-11-10",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 7,
+      "6": 6,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 7,
+      "B": 8,
+      "G": 6,
+      "L": 6,
+      "M": 8
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "B": {
+        "4": 5,
+        "6": 2,
+        "7": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 1,
+        "6": 2
+      },
+      "L": {
+        "4": 4,
+        "5": 1,
+        "7": 1
+      },
+      "M": {
+        "4": 3,
+        "5": 4,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AG": 1,
+      "AL": 3,
+      "AM": 2,
+      "BA": 5,
+      "BL": 1,
+      "BO": 1,
+      "BU": 1,
+      "GA": 4,
+      "GL": 1,
+      "GO": 1,
+      "LA": 2,
+      "LL": 1,
+      "LO": 1,
+      "LU": 2,
+      "MA": 7,
+      "MO": 1
+    }
+  }
+}

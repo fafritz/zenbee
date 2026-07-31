@@ -1,0 +1,89 @@
+{
+  "pangram": "chimney",
+  "center_letter": "e",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 88,
+  "answer_pangrams": [
+    "chimney"
+  ],
+  "answers": [
+    "chem",
+    "chime",
+    "chimney",
+    "emcee",
+    "eminence",
+    "enemy",
+    "hence",
+    "henchmen",
+    "hymen",
+    "imminence",
+    "meme",
+    "mice",
+    "mien",
+    "mime",
+    "mince",
+    "mine",
+    "nene",
+    "nice",
+    "niche",
+    "niece",
+    "nine"
+  ],
+  "date": "2031-07-23",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 8,
+      "7": 1,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 3,
+      "E": 3,
+      "H": 3,
+      "I": 1,
+      "M": 6,
+      "N": 5
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "E": {
+        "5": 2,
+        "8": 1
+      },
+      "H": {
+        "5": 2,
+        "8": 1
+      },
+      "I": {
+        "9": 1
+      },
+      "M": {
+        "4": 5,
+        "5": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "CH": 3,
+      "EM": 2,
+      "EN": 1,
+      "HE": 2,
+      "HY": 1,
+      "IM": 1,
+      "ME": 1,
+      "MI": 5,
+      "NE": 1,
+      "NI": 4
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "pangram": "twanged",
+  "center_letter": "w",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 144,
+  "answer_pangrams": [
+    "twanged"
+  ],
+  "answers": [
+    "anew",
+    "awed",
+    "dawn",
+    "dawned",
+    "gewgaw",
+    "gnaw",
+    "gnawed",
+    "newt",
+    "twang",
+    "twanged",
+    "tweed",
+    "tweet",
+    "tweeted",
+    "wadded",
+    "wade",
+    "waded",
+    "wage",
+    "waged",
+    "wagged",
+    "wand",
+    "wane",
+    "waned",
+    "want",
+    "wanted",
+    "watt",
+    "wattage",
+    "wean",
+    "weaned",
+    "wedded",
+    "wedge",
+    "wedged",
+    "weed",
+    "weeded",
+    "wend",
+    "wended",
+    "went"
+  ],
+  "date": "2037-01-12",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 7,
+      "6": 11,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 2,
+      "D": 2,
+      "G": 3,
+      "N": 1,
+      "T": 5,
+      "W": 23
+    },
+    "grid": {
+      "A": {
+        "4": 2
+      },
+      "D": {
+        "4": 1,
+        "6": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 2
+      },
+      "N": {
+        "4": 1
+      },
+      "T": {
+        "5": 3,
+        "7": 2
+      },
+      "W": {
+        "4": 10,
+        "5": 4,
+        "6": 8,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "AW": 1,
+      "DA": 2,
+      "GE": 1,
+      "GN": 2,
+      "NE": 1,
+      "TW": 5,
+      "WA": 13,
+      "WE": 10
+    }
+  }
+}

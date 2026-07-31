@@ -1,0 +1,122 @@
+{
+  "pangram": "compile",
+  "center_letter": "e",
+  "num_answers": 40,
+  "num_pangrams": 2,
+  "possible_points": 134,
+  "answer_pangrams": [
+    "compile",
+    "polemic"
+  ],
+  "answers": [
+    "cell",
+    "cello",
+    "clime",
+    "collie",
+    "come",
+    "compel",
+    "compile",
+    "coolie",
+    "cope",
+    "elope",
+    "emcee",
+    "epee",
+    "epic",
+    "icicle",
+    "impel",
+    "lice",
+    "lime",
+    "lope",
+    "melee",
+    "meme",
+    "memo",
+    "mice",
+    "mile",
+    "mime",
+    "mole",
+    "mope",
+    "oleo",
+    "peel",
+    "peep",
+    "people",
+    "piece",
+    "pile",
+    "pimple",
+    "pipe",
+    "poem",
+    "pole",
+    "polemic",
+    "police",
+    "pommel",
+    "pope"
+  ],
+  "date": "2028-07-02",
+  "hints": {
+    "by_length": {
+      "4": 23,
+      "5": 7,
+      "6": 8,
+      "7": 2
+    },
+    "by_first_letter": {
+      "C": 9,
+      "E": 4,
+      "I": 2,
+      "L": 3,
+      "M": 8,
+      "O": 1,
+      "P": 13
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      },
+      "E": {
+        "4": 2,
+        "5": 2
+      },
+      "I": {
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 3
+      },
+      "M": {
+        "4": 7,
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 7,
+        "5": 1,
+        "6": 4,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 2,
+      "CL": 1,
+      "CO": 6,
+      "EL": 1,
+      "EM": 1,
+      "EP": 2,
+      "IC": 1,
+      "IM": 1,
+      "LI": 2,
+      "LO": 1,
+      "ME": 3,
+      "MI": 3,
+      "MO": 2,
+      "OL": 1,
+      "PE": 3,
+      "PI": 4,
+      "PO": 6
+    }
+  }
+}

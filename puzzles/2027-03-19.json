@@ -1,0 +1,94 @@
+{
+  "pangram": "bipolar",
+  "center_letter": "p",
+  "num_answers": 29,
+  "num_pangrams": 2,
+  "possible_points": 116,
+  "answer_pangrams": [
+    "bipolar",
+    "parboil"
+  ],
+  "answers": [
+    "appall",
+    "bipolar",
+    "blip",
+    "lollipop",
+    "loop",
+    "opal",
+    "pail",
+    "pair",
+    "pall",
+    "pallor",
+    "papa",
+    "papal",
+    "papilla",
+    "parabola",
+    "parboil",
+    "parlor",
+    "pill",
+    "pillar",
+    "plop",
+    "polar",
+    "polio",
+    "poll",
+    "polo",
+    "pool",
+    "poop",
+    "poor",
+    "poplar",
+    "prior",
+    "prop"
+  ],
+  "date": "2027-03-19",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 4,
+      "6": 5,
+      "7": 3,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 2,
+      "L": 2,
+      "O": 1,
+      "P": 23
+    },
+    "grid": {
+      "A": {
+        "6": 1
+      },
+      "B": {
+        "4": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "8": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 12,
+        "5": 4,
+        "6": 4,
+        "7": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AP": 1,
+      "BI": 1,
+      "BL": 1,
+      "LO": 2,
+      "OP": 1,
+      "PA": 10,
+      "PI": 2,
+      "PL": 1,
+      "PO": 8,
+      "PR": 2
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "pangram": "wakeful",
+  "center_letter": "k",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 47,
+  "answer_pangrams": [
+    "wakeful"
+  ],
+  "answers": [
+    "awake",
+    "fake",
+    "flak",
+    "flake",
+    "fluke",
+    "kale",
+    "keel",
+    "lake",
+    "leak",
+    "leek",
+    "ukulele",
+    "wake",
+    "wakeful",
+    "walk",
+    "weak",
+    "week"
+  ],
+  "date": "2036-10-17",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 3,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "F": 4,
+      "K": 2,
+      "L": 3,
+      "U": 1,
+      "W": 5
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "F": {
+        "4": 2,
+        "5": 2
+      },
+      "K": {
+        "4": 2
+      },
+      "L": {
+        "4": 3
+      },
+      "U": {
+        "7": 1
+      },
+      "W": {
+        "4": 4,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AW": 1,
+      "FA": 1,
+      "FL": 3,
+      "KA": 1,
+      "KE": 1,
+      "LA": 1,
+      "LE": 2,
+      "UK": 1,
+      "WA": 3,
+      "WE": 2
+    }
+  }
+}

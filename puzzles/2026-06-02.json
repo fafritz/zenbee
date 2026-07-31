@@ -1,0 +1,133 @@
+{
+  "pangram": "movable",
+  "center_letter": "a",
+  "num_answers": 48,
+  "num_pangrams": 1,
+  "possible_points": 167,
+  "answer_pangrams": [
+    "movable"
+  ],
+  "answers": [
+    "abbe",
+    "abeam",
+    "able",
+    "abloom",
+    "above",
+    "aloe",
+    "amble",
+    "ammo",
+    "amoeba",
+    "baba",
+    "babble",
+    "babe",
+    "babel",
+    "bale",
+    "ball",
+    "balm",
+    "bamboo",
+    "baobab",
+    "beam",
+    "blab",
+    "blame",
+    "bola",
+    "embalm",
+    "label",
+    "lama",
+    "lamb",
+    "lame",
+    "lava",
+    "leave",
+    "lemma",
+    "llama",
+    "loam",
+    "lovable",
+    "male",
+    "mall",
+    "malleable",
+    "mama",
+    "mambo",
+    "mamma",
+    "mammae",
+    "mammal",
+    "meal",
+    "momma",
+    "movable",
+    "oval",
+    "vale",
+    "valve",
+    "veal"
+  ],
+  "date": "2026-06-02",
+  "hints": {
+    "by_length": {
+      "4": 24,
+      "5": 13,
+      "6": 8,
+      "7": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 9,
+      "B": 13,
+      "E": 1,
+      "L": 10,
+      "M": 11,
+      "O": 1,
+      "V": 3
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "5": 3,
+        "6": 2
+      },
+      "B": {
+        "4": 8,
+        "5": 2,
+        "6": 3
+      },
+      "E": {
+        "6": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 4,
+        "7": 1
+      },
+      "M": {
+        "4": 4,
+        "5": 3,
+        "6": 2,
+        "7": 1,
+        "9": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "V": {
+        "4": 2,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 5,
+      "AL": 1,
+      "AM": 3,
+      "BA": 9,
+      "BE": 1,
+      "BL": 2,
+      "BO": 1,
+      "EM": 1,
+      "LA": 5,
+      "LE": 2,
+      "LL": 1,
+      "LO": 2,
+      "MA": 8,
+      "ME": 1,
+      "MO": 2,
+      "OV": 1,
+      "VA": 2,
+      "VE": 1
+    }
+  }
+}

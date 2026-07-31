@@ -1,0 +1,124 @@
+{
+  "pangram": "alright",
+  "center_letter": "t",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 177,
+  "answer_pangrams": [
+    "alright"
+  ],
+  "answers": [
+    "airtight",
+    "alight",
+    "alright",
+    "altar",
+    "aright",
+    "atria",
+    "attar",
+    "gait",
+    "gilt",
+    "girt",
+    "girth",
+    "grit",
+    "halt",
+    "hart",
+    "highlight",
+    "hightail",
+    "hilt",
+    "lariat",
+    "lath",
+    "light",
+    "lilt",
+    "ragtag",
+    "ratatat",
+    "right",
+    "tail",
+    "taillight",
+    "tall",
+    "tart",
+    "tartar",
+    "that",
+    "thigh",
+    "thrall",
+    "thrill",
+    "tiara",
+    "tight",
+    "till",
+    "tilt",
+    "trail",
+    "trait",
+    "trial",
+    "trill"
+  ],
+  "date": "2035-02-12",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 13,
+      "6": 7,
+      "7": 2,
+      "8": 2,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 7,
+      "G": 5,
+      "H": 5,
+      "L": 4,
+      "R": 3,
+      "T": 17
+    },
+    "grid": {
+      "A": {
+        "5": 3,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 4,
+        "5": 1
+      },
+      "H": {
+        "4": 3,
+        "8": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "R": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 7,
+        "6": 3,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AL": 3,
+      "AR": 1,
+      "AT": 2,
+      "GA": 1,
+      "GI": 3,
+      "GR": 1,
+      "HA": 2,
+      "HI": 3,
+      "LA": 2,
+      "LI": 2,
+      "RA": 2,
+      "RI": 1,
+      "TA": 5,
+      "TH": 4,
+      "TI": 4,
+      "TR": 4
+    }
+  }
+}

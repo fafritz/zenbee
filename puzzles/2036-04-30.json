@@ -1,0 +1,93 @@
+{
+  "pangram": "factory",
+  "center_letter": "y",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 91,
+  "answer_pangrams": [
+    "factory"
+  ],
+  "answers": [
+    "array",
+    "arroyo",
+    "arty",
+    "carry",
+    "catty",
+    "crafty",
+    "cray",
+    "factory",
+    "fatty",
+    "foray",
+    "forty",
+    "fray",
+    "oratory",
+    "racy",
+    "ratty",
+    "rotary",
+    "taffy",
+    "tatty",
+    "tray",
+    "troy",
+    "tyro"
+  ],
+  "date": "2036-04-30",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 9,
+      "6": 3,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 4,
+      "F": 5,
+      "O": 1,
+      "R": 3,
+      "T": 5
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      },
+      "F": {
+        "4": 1,
+        "5": 3,
+        "7": 1
+      },
+      "O": {
+        "7": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "AR": 3,
+      "CA": 2,
+      "CR": 2,
+      "FA": 2,
+      "FO": 2,
+      "FR": 1,
+      "OR": 1,
+      "RA": 2,
+      "RO": 1,
+      "TA": 2,
+      "TR": 2,
+      "TY": 1
+    }
+  }
+}

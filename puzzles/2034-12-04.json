@@ -1,0 +1,112 @@
+{
+  "pangram": "manhole",
+  "center_letter": "o",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 102,
+  "answer_pangrams": [
+    "manhole"
+  ],
+  "answers": [
+    "aloe",
+    "aloha",
+    "alone",
+    "ammo",
+    "anemone",
+    "anon",
+    "halo",
+    "halon",
+    "hellhole",
+    "hello",
+    "hole",
+    "home",
+    "hone",
+    "lemon",
+    "llano",
+    "loam",
+    "loan",
+    "loll",
+    "lone",
+    "loom",
+    "loon",
+    "manhole",
+    "melanoma",
+    "melon",
+    "memo",
+    "moan",
+    "mole",
+    "moll",
+    "momma",
+    "mono",
+    "moon",
+    "neon",
+    "noel",
+    "none",
+    "noon",
+    "oleo",
+    "omen"
+  ],
+  "date": "2034-12-04",
+  "hints": {
+    "by_length": {
+      "4": 25,
+      "5": 8,
+      "7": 2,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 6,
+      "H": 7,
+      "L": 8,
+      "M": 10,
+      "N": 4,
+      "O": 2
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2,
+        "7": 1
+      },
+      "H": {
+        "4": 4,
+        "5": 2,
+        "8": 1
+      },
+      "L": {
+        "4": 6,
+        "5": 2
+      },
+      "M": {
+        "4": 6,
+        "5": 2,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 4
+      },
+      "O": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 3,
+      "AM": 1,
+      "AN": 2,
+      "HA": 2,
+      "HE": 2,
+      "HO": 3,
+      "LE": 1,
+      "LL": 1,
+      "LO": 6,
+      "MA": 1,
+      "ME": 3,
+      "MO": 6,
+      "NE": 1,
+      "NO": 3,
+      "OL": 1,
+      "OM": 1
+    }
+  }
+}

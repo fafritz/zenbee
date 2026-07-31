@@ -1,0 +1,120 @@
+{
+  "pangram": "typical",
+  "center_letter": "y",
+  "num_answers": 31,
+  "num_pangrams": 4,
+  "possible_points": 200,
+  "answer_pangrams": [
+    "atypical",
+    "atypically",
+    "typical",
+    "typically"
+  ],
+  "answers": [
+    "allay",
+    "ally",
+    "apply",
+    "aptly",
+    "atypical",
+    "atypically",
+    "capacity",
+    "catalytic",
+    "cattily",
+    "catty",
+    "city",
+    "clay",
+    "cyclic",
+    "cyclical",
+    "cyclically",
+    "icily",
+    "illicitly",
+    "lacy",
+    "laity",
+    "lily",
+    "papacy",
+    "papaya",
+    "patty",
+    "pity",
+    "play",
+    "tacitly",
+    "tactically",
+    "tally",
+    "tatty",
+    "typical",
+    "typically"
+  ],
+  "date": "2037-10-21",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 9,
+      "6": 3,
+      "7": 3,
+      "8": 3,
+      "9": 3,
+      "10": 3
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 9,
+      "I": 2,
+      "L": 3,
+      "P": 5,
+      "T": 6
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "8": 1,
+        "10": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 1,
+        "10": 1
+      },
+      "I": {
+        "5": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1
+      },
+      "P": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "T": {
+        "5": 2,
+        "7": 2,
+        "9": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "AP": 2,
+      "AT": 2,
+      "CA": 4,
+      "CI": 1,
+      "CL": 1,
+      "CY": 3,
+      "IC": 1,
+      "IL": 1,
+      "LA": 2,
+      "LI": 1,
+      "PA": 3,
+      "PI": 1,
+      "PL": 1,
+      "TA": 4,
+      "TY": 2
+    }
+  }
+}

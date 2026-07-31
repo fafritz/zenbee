@@ -1,0 +1,114 @@
+{
+  "pangram": "lacking",
+  "center_letter": "k",
+  "num_answers": 36,
+  "num_pangrams": 5,
+  "possible_points": 215,
+  "answer_pangrams": [
+    "cackling",
+    "calking",
+    "clacking",
+    "clanking",
+    "lacking"
+  ],
+  "answers": [
+    "akin",
+    "alkali",
+    "cackling",
+    "caking",
+    "calking",
+    "clack",
+    "clacking",
+    "clank",
+    "clanking",
+    "click",
+    "clicking",
+    "clink",
+    "clinking",
+    "inking",
+    "inkling",
+    "kick",
+    "kicking",
+    "kill",
+    "killing",
+    "kiln",
+    "kilning",
+    "king",
+    "kink",
+    "kinking",
+    "knack",
+    "knickknack",
+    "lack",
+    "lacking",
+    "lank",
+    "lick",
+    "licking",
+    "liking",
+    "link",
+    "linking",
+    "nick",
+    "nicking"
+  ],
+  "date": "2031-07-30",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 5,
+      "6": 4,
+      "7": 10,
+      "8": 5,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 11,
+      "I": 2,
+      "K": 11,
+      "L": 8,
+      "N": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1
+      },
+      "C": {
+        "5": 4,
+        "6": 1,
+        "7": 1,
+        "8": 5
+      },
+      "I": {
+        "6": 1,
+        "7": 1
+      },
+      "K": {
+        "4": 5,
+        "5": 1,
+        "7": 4,
+        "10": 1
+      },
+      "L": {
+        "4": 4,
+        "6": 1,
+        "7": 3
+      },
+      "N": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AK": 1,
+      "AL": 1,
+      "CA": 3,
+      "CL": 8,
+      "IN": 2,
+      "KI": 9,
+      "KN": 2,
+      "LA": 3,
+      "LI": 5,
+      "NI": 2
+    }
+  }
+}

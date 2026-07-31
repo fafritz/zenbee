@@ -1,0 +1,116 @@
+{
+  "pangram": "foaming",
+  "center_letter": "m",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 208,
+  "answer_pangrams": [
+    "foaming"
+  ],
+  "answers": [
+    "aiming",
+    "amigo",
+    "amino",
+    "ammo",
+    "ammonia",
+    "among",
+    "foam",
+    "foaming",
+    "gaming",
+    "gamma",
+    "imaging",
+    "imagining",
+    "imam",
+    "magma",
+    "maim",
+    "maiming",
+    "main",
+    "mama",
+    "mamma",
+    "managing",
+    "manga",
+    "mango",
+    "mania",
+    "manna",
+    "manning",
+    "miff",
+    "miffing",
+    "miming",
+    "mini",
+    "minim",
+    "minima",
+    "mining",
+    "minion",
+    "moan",
+    "moaning",
+    "momma",
+    "mono",
+    "monomania",
+    "mooing",
+    "moon",
+    "mooning",
+    "naming"
+  ],
+  "date": "2035-06-07",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 12,
+      "6": 8,
+      "7": 8,
+      "8": 1,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 6,
+      "F": 2,
+      "G": 2,
+      "I": 3,
+      "M": 28,
+      "N": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "F": {
+        "4": 1,
+        "7": 1
+      },
+      "G": {
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 1,
+        "7": 1,
+        "9": 1
+      },
+      "M": {
+        "4": 8,
+        "5": 8,
+        "6": 5,
+        "7": 5,
+        "8": 1,
+        "9": 1
+      },
+      "N": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AM": 5,
+      "FO": 2,
+      "GA": 2,
+      "IM": 3,
+      "MA": 12,
+      "MI": 8,
+      "MO": 8,
+      "NA": 1
+    }
+  }
+}

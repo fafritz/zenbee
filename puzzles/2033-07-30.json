@@ -1,0 +1,138 @@
+{
+  "pangram": "hateful",
+  "center_letter": "a",
+  "num_answers": 48,
+  "num_pangrams": 2,
+  "possible_points": 186,
+  "answer_pangrams": [
+    "hateful",
+    "healthful"
+  ],
+  "answers": [
+    "alfalfa",
+    "athlete",
+    "elate",
+    "fall",
+    "fatal",
+    "fate",
+    "fateful",
+    "fault",
+    "feat",
+    "feta",
+    "fetal",
+    "flat",
+    "flatfeet",
+    "flea",
+    "haft",
+    "halal",
+    "hale",
+    "half",
+    "hall",
+    "halt",
+    "hate",
+    "hateful",
+    "haul",
+    "heal",
+    "health",
+    "healthful",
+    "heat",
+    "heath",
+    "hula",
+    "late",
+    "lath",
+    "lathe",
+    "latte",
+    "leaf",
+    "leaflet",
+    "lethal",
+    "luau",
+    "taffeta",
+    "tale",
+    "tall",
+    "tattle",
+    "tattletale",
+    "taut",
+    "teal",
+    "telltale",
+    "that",
+    "theta",
+    "ululate"
+  ],
+  "date": "2033-07-30",
+  "hints": {
+    "by_length": {
+      "4": 25,
+      "5": 9,
+      "6": 3,
+      "7": 7,
+      "8": 2,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "E": 1,
+      "F": 11,
+      "H": 15,
+      "L": 8,
+      "T": 10,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "7": 2
+      },
+      "E": {
+        "5": 1
+      },
+      "F": {
+        "4": 6,
+        "5": 3,
+        "7": 1,
+        "8": 1
+      },
+      "H": {
+        "4": 10,
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "10": 1
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AT": 1,
+      "EL": 1,
+      "FA": 5,
+      "FE": 3,
+      "FL": 3,
+      "HA": 9,
+      "HE": 5,
+      "HU": 1,
+      "LA": 4,
+      "LE": 3,
+      "LU": 1,
+      "TA": 6,
+      "TE": 2,
+      "TH": 2,
+      "UL": 1
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "pangram": "walking",
+  "center_letter": "g",
+  "num_answers": 64,
+  "num_pangrams": 1,
+  "possible_points": 383,
+  "answer_pangrams": [
+    "walking"
+  ],
+  "answers": [
+    "again",
+    "aging",
+    "ailing",
+    "alga",
+    "align",
+    "aligning",
+    "angina",
+    "angling",
+    "awaking",
+    "awing",
+    "awning",
+    "gagging",
+    "gain",
+    "gaining",
+    "gala",
+    "gall",
+    "galling",
+    "gang",
+    "ganging",
+    "ganglia",
+    "gangling",
+    "gawk",
+    "gawking",
+    "gigging",
+    "giggling",
+    "gill",
+    "ginning",
+    "gnaw",
+    "gnawing",
+    "inking",
+    "inkling",
+    "inning",
+    "killing",
+    "kilning",
+    "king",
+    "kinking",
+    "lagging",
+    "liking",
+    "lining",
+    "linking",
+    "nagging",
+    "nailing",
+    "niggling",
+    "wagging",
+    "waggling",
+    "waging",
+    "wailing",
+    "waking",
+    "waling",
+    "walking",
+    "walling",
+    "wangling",
+    "waning",
+    "wigging",
+    "wiggling",
+    "wigwag",
+    "wigwagging",
+    "wiling",
+    "willing",
+    "wing",
+    "winging",
+    "wining",
+    "winking",
+    "winning"
+  ],
+  "date": "2030-10-18",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 4,
+      "6": 14,
+      "7": 28,
+      "8": 7,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 11,
+      "G": 18,
+      "I": 3,
+      "K": 4,
+      "L": 4,
+      "N": 3,
+      "W": 21
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 4,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      },
+      "G": {
+        "4": 7,
+        "7": 9,
+        "8": 2
+      },
+      "I": {
+        "6": 2,
+        "7": 1
+      },
+      "K": {
+        "4": 1,
+        "7": 3
+      },
+      "L": {
+        "6": 2,
+        "7": 2
+      },
+      "N": {
+        "7": 2,
+        "8": 1
+      },
+      "W": {
+        "4": 1,
+        "6": 7,
+        "7": 9,
+        "8": 3,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 1,
+      "AL": 3,
+      "AN": 2,
+      "AW": 3,
+      "GA": 12,
+      "GI": 4,
+      "GN": 2,
+      "IN": 3,
+      "KI": 4,
+      "LA": 1,
+      "LI": 3,
+      "NA": 2,
+      "NI": 1,
+      "WA": 10,
+      "WI": 11
+    }
+  }
+}

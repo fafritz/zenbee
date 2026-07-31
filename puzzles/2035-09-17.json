@@ -1,0 +1,124 @@
+{
+  "pangram": "biplane",
+  "center_letter": "b",
+  "num_answers": 42,
+  "num_pangrams": 2,
+  "possible_points": 193,
+  "answer_pangrams": [
+    "biplane",
+    "plebeian"
+  ],
+  "answers": [
+    "abbe",
+    "able",
+    "alibi",
+    "alienable",
+    "baba",
+    "babble",
+    "babe",
+    "babel",
+    "bail",
+    "bale",
+    "baleen",
+    "ball",
+    "banal",
+    "banana",
+    "bane",
+    "bean",
+    "beeline",
+    "been",
+    "beep",
+    "belie",
+    "bell",
+    "belle",
+    "bible",
+    "biennial",
+    "bile",
+    "bill",
+    "biplane",
+    "blab",
+    "bleep",
+    "blip",
+    "enable",
+    "inalienable",
+    "label",
+    "labia",
+    "labial",
+    "liable",
+    "libel",
+    "nibble",
+    "palpable",
+    "pebble",
+    "plebeian",
+    "pliable"
+  ],
+  "date": "2035-09-17",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 10,
+      "6": 8,
+      "7": 3,
+      "8": 3,
+      "9": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "B": 26,
+      "E": 1,
+      "I": 1,
+      "L": 5,
+      "N": 1,
+      "P": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "9": 1
+      },
+      "B": {
+        "4": 14,
+        "5": 6,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      },
+      "E": {
+        "6": 1
+      },
+      "I": {
+        "11": 1
+      },
+      "L": {
+        "5": 3,
+        "6": 2
+      },
+      "N": {
+        "6": 1
+      },
+      "P": {
+        "6": 1,
+        "7": 1,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 2,
+      "AL": 2,
+      "BA": 11,
+      "BE": 7,
+      "BI": 5,
+      "BL": 3,
+      "EN": 1,
+      "IN": 1,
+      "LA": 3,
+      "LI": 2,
+      "NI": 1,
+      "PA": 1,
+      "PE": 1,
+      "PL": 2
+    }
+  }
+}

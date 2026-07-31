@@ -1,0 +1,132 @@
+{
+  "pangram": "gunwale",
+  "center_letter": "a",
+  "num_answers": 45,
+  "num_pangrams": 1,
+  "possible_points": 157,
+  "answer_pangrams": [
+    "gunwale"
+  ],
+  "answers": [
+    "ague",
+    "alga",
+    "algae",
+    "allege",
+    "anal",
+    "anew",
+    "angel",
+    "angle",
+    "anneal",
+    "annual",
+    "annul",
+    "eagle",
+    "elan",
+    "engage",
+    "gaggle",
+    "gala",
+    "gale",
+    "galena",
+    "gall",
+    "gang",
+    "gauge",
+    "gewgaw",
+    "glean",
+    "gnaw",
+    "gunwale",
+    "lane",
+    "language",
+    "lawn",
+    "league",
+    "lean",
+    "legal",
+    "luau",
+    "luggage",
+    "naan",
+    "nana",
+    "ulna",
+    "ulnae",
+    "wage",
+    "waggle",
+    "wale",
+    "wall",
+    "wane",
+    "wangle",
+    "weal",
+    "wean"
+  ],
+  "date": "2028-07-09",
+  "hints": {
+    "by_length": {
+      "4": 23,
+      "5": 9,
+      "6": 10,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 11,
+      "E": 3,
+      "G": 11,
+      "L": 8,
+      "N": 2,
+      "U": 2,
+      "W": 8
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "5": 4,
+        "6": 3
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "G": {
+        "4": 5,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 2
+      },
+      "U": {
+        "4": 1,
+        "5": 1
+      },
+      "W": {
+        "4": 6,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AL": 3,
+      "AN": 7,
+      "EA": 1,
+      "EL": 1,
+      "EN": 1,
+      "GA": 7,
+      "GE": 1,
+      "GL": 1,
+      "GN": 1,
+      "GU": 1,
+      "LA": 3,
+      "LE": 3,
+      "LU": 2,
+      "NA": 2,
+      "UL": 2,
+      "WA": 6,
+      "WE": 2
+    }
+  }
+}

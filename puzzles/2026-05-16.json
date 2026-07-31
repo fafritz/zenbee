@@ -1,0 +1,106 @@
+{
+  "pangram": "duality",
+  "center_letter": "l",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 112,
+  "answer_pangrams": [
+    "duality"
+  ],
+  "answers": [
+    "adult",
+    "allay",
+    "ally",
+    "daily",
+    "dally",
+    "dial",
+    "dill",
+    "dilly",
+    "dillydally",
+    "dual",
+    "duality",
+    "dull",
+    "dully",
+    "duly",
+    "idly",
+    "idyll",
+    "lady",
+    "laid",
+    "laity",
+    "laud",
+    "lilt",
+    "lily",
+    "luau",
+    "lull",
+    "lulu",
+    "tail",
+    "tall",
+    "tally",
+    "tautly",
+    "tidal",
+    "tidily",
+    "till",
+    "tilt",
+    "utility"
+  ],
+  "date": "2026-05-16",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 10,
+      "6": 2,
+      "7": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 11,
+      "I": 2,
+      "L": 9,
+      "T": 8,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2
+      },
+      "D": {
+        "4": 5,
+        "5": 4,
+        "7": 1,
+        "10": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 8,
+        "5": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 2,
+        "6": 2
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AL": 2,
+      "DA": 2,
+      "DI": 4,
+      "DU": 5,
+      "ID": 2,
+      "LA": 4,
+      "LI": 2,
+      "LU": 3,
+      "TA": 4,
+      "TI": 4,
+      "UT": 1
+    }
+  }
+}

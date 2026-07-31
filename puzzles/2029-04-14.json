@@ -1,0 +1,104 @@
+{
+  "pangram": "unfrock",
+  "center_letter": "o",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 104,
+  "answer_pangrams": [
+    "unfrock"
+  ],
+  "answers": [
+    "cocoon",
+    "concur",
+    "conk",
+    "cook",
+    "cork",
+    "corn",
+    "crock",
+    "crook",
+    "croon",
+    "cuckoo",
+    "fork",
+    "four",
+    "frock",
+    "furor",
+    "knock",
+    "kook",
+    "kronur",
+    "nook",
+    "noon",
+    "noun",
+    "occur",
+    "rock",
+    "rococo",
+    "roof",
+    "rook",
+    "runoff",
+    "uncork",
+    "unfrock"
+  ],
+  "date": "2029-04-14",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 7,
+      "6": 7,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 10,
+      "F": 4,
+      "K": 3,
+      "N": 3,
+      "O": 1,
+      "R": 5,
+      "U": 2
+    },
+    "grid": {
+      "C": {
+        "4": 4,
+        "5": 3,
+        "6": 3
+      },
+      "F": {
+        "4": 2,
+        "5": 2
+      },
+      "K": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "4": 3
+      },
+      "O": {
+        "5": 1
+      },
+      "R": {
+        "4": 3,
+        "6": 2
+      },
+      "U": {
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 6,
+      "CR": 3,
+      "CU": 1,
+      "FO": 2,
+      "FR": 1,
+      "FU": 1,
+      "KN": 1,
+      "KO": 1,
+      "KR": 1,
+      "NO": 3,
+      "OC": 1,
+      "RO": 4,
+      "RU": 1,
+      "UN": 2
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "pangram": "mailbox",
+  "center_letter": "a",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 125,
+  "answer_pangrams": [
+    "mailbox"
+  ],
+  "answers": [
+    "abloom",
+    "alibi",
+    "ammo",
+    "axial",
+    "axiom",
+    "baba",
+    "bail",
+    "ball",
+    "balm",
+    "bamboo",
+    "baobab",
+    "blab",
+    "bola",
+    "iamb",
+    "imam",
+    "labia",
+    "labial",
+    "lama",
+    "lamb",
+    "llama",
+    "loam",
+    "mail",
+    "mailbox",
+    "maim",
+    "mall",
+    "mama",
+    "mambo",
+    "mamma",
+    "mammal",
+    "maxilla",
+    "maxim",
+    "maxima",
+    "maximal",
+    "momma"
+  ],
+  "date": "2037-02-02",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 9,
+      "6": 6,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 8,
+      "I": 2,
+      "L": 6,
+      "M": 13
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 1
+      },
+      "B": {
+        "4": 6,
+        "6": 2
+      },
+      "I": {
+        "4": 2
+      },
+      "L": {
+        "4": 3,
+        "5": 2,
+        "6": 1
+      },
+      "M": {
+        "4": 4,
+        "5": 4,
+        "6": 2,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AL": 1,
+      "AM": 1,
+      "AX": 2,
+      "BA": 6,
+      "BL": 1,
+      "BO": 1,
+      "IA": 1,
+      "IM": 1,
+      "LA": 4,
+      "LL": 1,
+      "LO": 1,
+      "MA": 12,
+      "MO": 1
+    }
+  }
+}

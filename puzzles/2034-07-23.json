@@ -1,0 +1,103 @@
+{
+  "pangram": "atrophy",
+  "center_letter": "h",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 117,
+  "answer_pangrams": [
+    "atrophy"
+  ],
+  "answers": [
+    "ahoy",
+    "apathy",
+    "atrophy",
+    "happy",
+    "harp",
+    "harpy",
+    "harry",
+    "hart",
+    "hoary",
+    "hoop",
+    "hooray",
+    "hoot",
+    "horror",
+    "hypo",
+    "oath",
+    "path",
+    "pharaoh",
+    "photo",
+    "pooh",
+    "porphyry",
+    "that",
+    "throat",
+    "throaty",
+    "tooth",
+    "toothy",
+    "trophy",
+    "yahoo"
+  ],
+  "date": "2034-07-23",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 7,
+      "6": 6,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "H": 11,
+      "O": 1,
+      "P": 5,
+      "T": 6,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 5,
+        "5": 4,
+        "6": 2
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 2,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 1
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AH": 1,
+      "AP": 1,
+      "AT": 1,
+      "HA": 5,
+      "HO": 5,
+      "HY": 1,
+      "OA": 1,
+      "PA": 1,
+      "PH": 2,
+      "PO": 2,
+      "TH": 3,
+      "TO": 2,
+      "TR": 1,
+      "YA": 1
+    }
+  }
+}

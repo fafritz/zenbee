@@ -1,0 +1,90 @@
+{
+  "pangram": "balcony",
+  "center_letter": "c",
+  "num_answers": 35,
+  "num_pangrams": 1,
+  "possible_points": 150,
+  "answer_pangrams": [
+    "balcony"
+  ],
+  "answers": [
+    "bacon",
+    "balcony",
+    "bloc",
+    "cabal",
+    "cabana",
+    "cabby",
+    "cacao",
+    "call",
+    "calla",
+    "canal",
+    "cancan",
+    "canna",
+    "cannon",
+    "cannonball",
+    "canny",
+    "canon",
+    "canyon",
+    "clan",
+    "clay",
+    "cloy",
+    "coal",
+    "coca",
+    "cocoa",
+    "cocoon",
+    "cola",
+    "colon",
+    "colony",
+    "cool",
+    "coolly",
+    "coyly",
+    "cyan",
+    "lacy",
+    "local",
+    "locally",
+    "loco"
+  ],
+  "date": "2038-01-19",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 13,
+      "6": 7,
+      "7": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "B": 3,
+      "C": 28,
+      "L": 4
+    },
+    "grid": {
+      "B": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 9,
+        "5": 11,
+        "6": 7,
+        "10": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "BA": 2,
+      "BL": 1,
+      "CA": 14,
+      "CL": 3,
+      "CO": 10,
+      "CY": 1,
+      "LA": 1,
+      "LO": 3
+    }
+  }
+}

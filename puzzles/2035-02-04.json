@@ -1,0 +1,113 @@
+{
+  "pangram": "amoebic",
+  "center_letter": "m",
+  "num_answers": 39,
+  "num_pangrams": 1,
+  "possible_points": 131,
+  "answer_pangrams": [
+    "amoebic"
+  ],
+  "answers": [
+    "abeam",
+    "acme",
+    "ammo",
+    "amoeba",
+    "amoebic",
+    "bamboo",
+    "beam",
+    "became",
+    "become",
+    "bomb",
+    "boom",
+    "came",
+    "cameo",
+    "camo",
+    "coma",
+    "comb",
+    "combo",
+    "come",
+    "comic",
+    "comma",
+    "emcee",
+    "iamb",
+    "iambic",
+    "imam",
+    "imbibe",
+    "mace",
+    "maim",
+    "mama",
+    "mambo",
+    "mamma",
+    "mammae",
+    "mecca",
+    "meme",
+    "memo",
+    "mica",
+    "mice",
+    "mime",
+    "mimic",
+    "momma"
+  ],
+  "date": "2035-02-04",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 11,
+      "6": 7,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 6,
+      "C": 9,
+      "E": 1,
+      "I": 4,
+      "M": 14
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "B": {
+        "4": 3,
+        "6": 3
+      },
+      "C": {
+        "4": 5,
+        "5": 4
+      },
+      "E": {
+        "5": 1
+      },
+      "I": {
+        "4": 2,
+        "6": 2
+      },
+      "M": {
+        "4": 8,
+        "5": 5,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AC": 1,
+      "AM": 3,
+      "BA": 1,
+      "BE": 3,
+      "BO": 2,
+      "CA": 3,
+      "CO": 6,
+      "EM": 1,
+      "IA": 2,
+      "IM": 2,
+      "MA": 6,
+      "ME": 3,
+      "MI": 4,
+      "MO": 1
+    }
+  }
+}

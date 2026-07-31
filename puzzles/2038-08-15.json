@@ -1,0 +1,118 @@
+{
+  "pangram": "catbird",
+  "center_letter": "t",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 191,
+  "answer_pangrams": [
+    "catbird"
+  ],
+  "answers": [
+    "addict",
+    "adiabatic",
+    "arctic",
+    "atria",
+    "attar",
+    "attic",
+    "attract",
+    "bait",
+    "bract",
+    "brat",
+    "cacti",
+    "carat",
+    "cart",
+    "cataract",
+    "catbird",
+    "ciabatta",
+    "citric",
+    "critic",
+    "dart",
+    "data",
+    "diacritic",
+    "dicta",
+    "didactic",
+    "dirt",
+    "rabbit",
+    "ratatat",
+    "tacit",
+    "tact",
+    "tactic",
+    "tart",
+    "tartar",
+    "tiara",
+    "tibia",
+    "tidbit",
+    "tract",
+    "trait",
+    "triad"
+  ],
+  "date": "2038-08-15",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 13,
+      "6": 8,
+      "7": 3,
+      "8": 3,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 7,
+      "B": 3,
+      "C": 8,
+      "D": 6,
+      "R": 2,
+      "T": 11
+    },
+    "grid": {
+      "A": {
+        "5": 3,
+        "6": 2,
+        "7": 1,
+        "9": 1
+      },
+      "B": {
+        "4": 2,
+        "5": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "8": 2
+      },
+      "D": {
+        "4": 3,
+        "5": 1,
+        "8": 1,
+        "9": 1
+      },
+      "R": {
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 6,
+        "6": 3
+      }
+    },
+    "two_letter_list": {
+      "AD": 2,
+      "AR": 1,
+      "AT": 4,
+      "BA": 1,
+      "BR": 2,
+      "CA": 5,
+      "CI": 2,
+      "CR": 1,
+      "DA": 2,
+      "DI": 4,
+      "RA": 2,
+      "TA": 5,
+      "TI": 3,
+      "TR": 3
+    }
+  }
+}

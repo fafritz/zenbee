@@ -1,0 +1,92 @@
+{
+  "pangram": "acutely",
+  "center_letter": "y",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 99,
+  "answer_pangrams": [
+    "acutely"
+  ],
+  "answers": [
+    "actually",
+    "acutely",
+    "allay",
+    "alley",
+    "ally",
+    "catty",
+    "clay",
+    "clayey",
+    "cutely",
+    "cycle",
+    "eyelet",
+    "lacy",
+    "lately",
+    "layette",
+    "tally",
+    "tatty",
+    "tautly",
+    "yell",
+    "yucca",
+    "yule"
+  ],
+  "date": "2028-03-01",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 7,
+      "6": 5,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 5,
+      "E": 1,
+      "L": 3,
+      "T": 3,
+      "Y": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "7": 1,
+        "8": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 2,
+        "6": 2
+      },
+      "E": {
+        "6": 1
+      },
+      "L": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "5": 2,
+        "6": 1
+      },
+      "Y": {
+        "4": 2,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AL": 3,
+      "CA": 1,
+      "CL": 2,
+      "CU": 1,
+      "CY": 1,
+      "EY": 1,
+      "LA": 3,
+      "TA": 3,
+      "YE": 1,
+      "YU": 2
+    }
+  }
+}

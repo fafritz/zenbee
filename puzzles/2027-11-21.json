@@ -1,0 +1,106 @@
+{
+  "pangram": "punched",
+  "center_letter": "n",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 174,
+  "answer_pangrams": [
+    "punched"
+  ],
+  "answers": [
+    "deepen",
+    "deepened",
+    "denude",
+    "denuded",
+    "depend",
+    "depended",
+    "dependence",
+    "dunce",
+    "dune",
+    "dunned",
+    "ended",
+    "endue",
+    "endued",
+    "hence",
+    "hunch",
+    "hunched",
+    "need",
+    "needed",
+    "nene",
+    "peen",
+    "pence",
+    "penned",
+    "punch",
+    "punched",
+    "punned",
+    "undue",
+    "unheeded",
+    "unneeded",
+    "upend",
+    "upended"
+  ],
+  "date": "2027-11-21",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 9,
+      "6": 8,
+      "7": 4,
+      "8": 4,
+      "10": 1
+    },
+    "by_first_letter": {
+      "D": 10,
+      "E": 3,
+      "H": 3,
+      "N": 3,
+      "P": 6,
+      "U": 5
+    },
+    "grid": {
+      "D": {
+        "4": 1,
+        "5": 1,
+        "6": 4,
+        "7": 1,
+        "8": 2,
+        "10": 1
+      },
+      "E": {
+        "5": 2,
+        "6": 1
+      },
+      "H": {
+        "5": 2,
+        "7": 1
+      },
+      "N": {
+        "4": 2,
+        "6": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "U": {
+        "5": 2,
+        "7": 1,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "DE": 7,
+      "DU": 3,
+      "EN": 3,
+      "HE": 1,
+      "HU": 2,
+      "NE": 3,
+      "PE": 3,
+      "PU": 3,
+      "UN": 3,
+      "UP": 2
+    }
+  }
+}

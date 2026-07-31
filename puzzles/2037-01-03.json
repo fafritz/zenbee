@@ -1,0 +1,114 @@
+{
+  "pangram": "hateful",
+  "center_letter": "f",
+  "num_answers": 38,
+  "num_pangrams": 2,
+  "possible_points": 135,
+  "answer_pangrams": [
+    "hateful",
+    "healthful"
+  ],
+  "answers": [
+    "alfalfa",
+    "effete",
+    "fall",
+    "fatal",
+    "fate",
+    "fateful",
+    "fault",
+    "feat",
+    "feel",
+    "feet",
+    "fell",
+    "felt",
+    "feta",
+    "fetal",
+    "fete",
+    "fettle",
+    "flat",
+    "flatfeet",
+    "flea",
+    "flee",
+    "fleet",
+    "flue",
+    "fluff",
+    "flute",
+    "fuel",
+    "full",
+    "haft",
+    "half",
+    "hateful",
+    "healthful",
+    "heft",
+    "huff",
+    "leaf",
+    "leaflet",
+    "left",
+    "taffeta",
+    "theft",
+    "tuft"
+  ],
+  "date": "2037-01-03",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 7,
+      "6": 2,
+      "7": 5,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "E": 1,
+      "F": 24,
+      "H": 6,
+      "L": 3,
+      "T": 3
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "E": {
+        "6": 1
+      },
+      "F": {
+        "4": 15,
+        "5": 6,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "H": {
+        "4": 4,
+        "7": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 2,
+        "7": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "EF": 1,
+      "FA": 5,
+      "FE": 9,
+      "FL": 8,
+      "FU": 2,
+      "HA": 3,
+      "HE": 2,
+      "HU": 1,
+      "LE": 3,
+      "TA": 1,
+      "TH": 1,
+      "TU": 1
+    }
+  }
+}

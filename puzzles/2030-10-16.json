@@ -1,0 +1,119 @@
+{
+  "pangram": "inboard",
+  "center_letter": "i",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 169,
+  "answer_pangrams": [
+    "inboard"
+  ],
+  "answers": [
+    "andiron",
+    "android",
+    "anion",
+    "aria",
+    "arid",
+    "barbarian",
+    "barrio",
+    "bind",
+    "bird",
+    "bobbin",
+    "braid",
+    "brain",
+    "briar",
+    "dinar",
+    "drain",
+    "droid",
+    "ibid",
+    "inboard",
+    "inborn",
+    "indoor",
+    "inroad",
+    "iron",
+    "nadir",
+    "naiad",
+    "onion",
+    "ordain",
+    "rabbi",
+    "rabid",
+    "radian",
+    "radii",
+    "radio",
+    "raid",
+    "rain",
+    "ribbon",
+    "rind",
+    "robin"
+  ],
+  "date": "2030-10-16",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 15,
+      "6": 8,
+      "7": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 8,
+      "D": 3,
+      "I": 6,
+      "N": 2,
+      "O": 2,
+      "R": 10
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "7": 2
+      },
+      "B": {
+        "4": 2,
+        "5": 3,
+        "6": 2,
+        "9": 1
+      },
+      "D": {
+        "5": 3
+      },
+      "I": {
+        "4": 2,
+        "6": 3,
+        "7": 1
+      },
+      "N": {
+        "5": 2
+      },
+      "O": {
+        "5": 1,
+        "6": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 5,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AN": 3,
+      "AR": 2,
+      "BA": 2,
+      "BI": 2,
+      "BO": 1,
+      "BR": 3,
+      "DI": 1,
+      "DR": 2,
+      "IB": 1,
+      "IN": 4,
+      "IR": 1,
+      "NA": 2,
+      "ON": 1,
+      "OR": 1,
+      "RA": 7,
+      "RI": 2,
+      "RO": 1
+    }
+  }
+}

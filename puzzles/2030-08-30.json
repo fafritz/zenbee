@@ -1,0 +1,111 @@
+{
+  "pangram": "hobnail",
+  "center_letter": "o",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 123,
+  "answer_pangrams": [
+    "hobnail"
+  ],
+  "answers": [
+    "albino",
+    "aloha",
+    "anion",
+    "anon",
+    "baboon",
+    "balloon",
+    "baobab",
+    "billion",
+    "blob",
+    "bobbin",
+    "boil",
+    "bola",
+    "boll",
+    "bonbon",
+    "boob",
+    "booboo",
+    "boon",
+    "halo",
+    "halon",
+    "hobnail",
+    "hobnob",
+    "hobo",
+    "lanolin",
+    "lion",
+    "llano",
+    "loan",
+    "loin",
+    "loll",
+    "loon",
+    "nabob",
+    "noon",
+    "olio",
+    "onion"
+  ],
+  "date": "2030-08-30",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 6,
+      "6": 7,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 4,
+      "B": 13,
+      "H": 5,
+      "L": 7,
+      "N": 2,
+      "O": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      },
+      "B": {
+        "4": 6,
+        "6": 5,
+        "7": 2
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "AN": 2,
+      "BA": 3,
+      "BI": 1,
+      "BL": 1,
+      "BO": 8,
+      "HA": 2,
+      "HO": 3,
+      "LA": 1,
+      "LI": 1,
+      "LL": 1,
+      "LO": 4,
+      "NA": 1,
+      "NO": 1,
+      "OL": 1,
+      "ON": 1
+    }
+  }
+}

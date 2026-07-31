@@ -1,0 +1,156 @@
+{
+  "pangram": "angelic",
+  "center_letter": "c",
+  "num_answers": 56,
+  "num_pangrams": 5,
+  "possible_points": 356,
+  "answer_pangrams": [
+    "allegiance",
+    "angelic",
+    "canceling",
+    "cleaning",
+    "inelegance"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acing",
+    "acne",
+    "allegiance",
+    "alliance",
+    "angelic",
+    "cage",
+    "caging",
+    "calcine",
+    "calcining",
+    "call",
+    "calla",
+    "calling",
+    "canal",
+    "cancan",
+    "cancel",
+    "canceling",
+    "cane",
+    "canine",
+    "caning",
+    "canna",
+    "canning",
+    "ceiling",
+    "cell",
+    "cilia",
+    "clan",
+    "clang",
+    "clanging",
+    "clean",
+    "cleaning",
+    "cling",
+    "clinging",
+    "clinic",
+    "clinical",
+    "clinician",
+    "elegance",
+    "elegiac",
+    "glacial",
+    "glance",
+    "glancing",
+    "icicle",
+    "icing",
+    "incline",
+    "inclining",
+    "inelegance",
+    "lace",
+    "lacing",
+    "lance",
+    "lancing",
+    "lice",
+    "lilac",
+    "negligence",
+    "niacin",
+    "nice",
+    "niece"
+  ],
+  "date": "2038-03-30",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 12,
+      "6": 11,
+      "7": 9,
+      "8": 7,
+      "9": 4,
+      "10": 3
+    },
+    "by_first_letter": {
+      "A": 7,
+      "C": 29,
+      "E": 2,
+      "G": 3,
+      "I": 5,
+      "L": 6,
+      "N": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "10": 1
+      },
+      "C": {
+        "4": 5,
+        "5": 7,
+        "6": 6,
+        "7": 4,
+        "8": 4,
+        "9": 3
+      },
+      "E": {
+        "7": 1,
+        "8": 1
+      },
+      "G": {
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "9": 1,
+        "10": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 4,
+      "AL": 2,
+      "AN": 1,
+      "CA": 16,
+      "CE": 2,
+      "CI": 1,
+      "CL": 10,
+      "EL": 2,
+      "GL": 3,
+      "IC": 2,
+      "IN": 3,
+      "LA": 4,
+      "LI": 2,
+      "NE": 1,
+      "NI": 3
+    }
+  }
+}

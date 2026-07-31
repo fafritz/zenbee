@@ -1,0 +1,104 @@
+{
+  "pangram": "gratify",
+  "center_letter": "t",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 128,
+  "answer_pangrams": [
+    "gratify"
+  ],
+  "answers": [
+    "arty",
+    "atria",
+    "attar",
+    "fart",
+    "fatty",
+    "fiat",
+    "fifty",
+    "frat",
+    "gait",
+    "gift",
+    "girt",
+    "graffiti",
+    "graft",
+    "gratify",
+    "grit",
+    "gritty",
+    "raft",
+    "ragtag",
+    "rarity",
+    "ratatat",
+    "ratify",
+    "ratty",
+    "rift",
+    "taffy",
+    "tariff",
+    "tart",
+    "tartar",
+    "tatty",
+    "tiara",
+    "tiff",
+    "trait",
+    "tray"
+  ],
+  "date": "2030-07-13",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 10,
+      "6": 6,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "F": 5,
+      "G": 8,
+      "R": 7,
+      "T": 9
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2
+      },
+      "F": {
+        "4": 3,
+        "5": 2
+      },
+      "G": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 4,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AR": 1,
+      "AT": 2,
+      "FA": 2,
+      "FI": 2,
+      "FR": 1,
+      "GA": 1,
+      "GI": 2,
+      "GR": 5,
+      "RA": 6,
+      "RI": 1,
+      "TA": 5,
+      "TI": 2,
+      "TR": 2
+    }
+  }
+}

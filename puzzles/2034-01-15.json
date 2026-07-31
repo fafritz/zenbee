@@ -1,0 +1,135 @@
+{
+  "pangram": "placket",
+  "center_letter": "p",
+  "num_answers": 54,
+  "num_pangrams": 1,
+  "possible_points": 212,
+  "answer_pangrams": [
+    "placket"
+  ],
+  "answers": [
+    "accept",
+    "alpaca",
+    "apace",
+    "appall",
+    "appeal",
+    "appellate",
+    "apple",
+    "cape",
+    "caplet",
+    "catalpa",
+    "clap",
+    "epee",
+    "keep",
+    "kelp",
+    "kept",
+    "lapel",
+    "leap",
+    "leapt",
+    "pace",
+    "pack",
+    "packet",
+    "pact",
+    "palace",
+    "palatal",
+    "palate",
+    "pale",
+    "palette",
+    "pall",
+    "pallet",
+    "palpate",
+    "papa",
+    "papal",
+    "pate",
+    "patella",
+    "peace",
+    "peak",
+    "peal",
+    "peat",
+    "peck",
+    "peek",
+    "peel",
+    "peep",
+    "pellet",
+    "pelt",
+    "petal",
+    "placate",
+    "place",
+    "placket",
+    "plate",
+    "platelet",
+    "plea",
+    "pleat",
+    "tape",
+    "tepee"
+  ],
+  "date": "2034-01-15",
+  "hints": {
+    "by_length": {
+      "4": 24,
+      "5": 11,
+      "6": 10,
+      "7": 7,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "C": 4,
+      "E": 1,
+      "K": 3,
+      "L": 3,
+      "P": 34,
+      "T": 2
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "6": 4,
+        "9": 1
+      },
+      "C": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "K": {
+        "4": 3
+      },
+      "L": {
+        "4": 1,
+        "5": 2
+      },
+      "P": {
+        "4": 16,
+        "5": 6,
+        "6": 5,
+        "7": 6,
+        "8": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AL": 1,
+      "AP": 5,
+      "CA": 3,
+      "CL": 1,
+      "EP": 1,
+      "KE": 3,
+      "LA": 1,
+      "LE": 2,
+      "PA": 16,
+      "PE": 11,
+      "PL": 7,
+      "TA": 1,
+      "TE": 1
+    }
+  }
+}

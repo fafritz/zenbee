@@ -1,0 +1,128 @@
+{
+  "pangram": "chalked",
+  "center_letter": "c",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 234,
+  "answer_pangrams": [
+    "chalked"
+  ],
+  "answers": [
+    "accede",
+    "acceded",
+    "aced",
+    "ache",
+    "ached",
+    "cache",
+    "cached",
+    "cackle",
+    "cackled",
+    "cake",
+    "caked",
+    "calked",
+    "call",
+    "calla",
+    "called",
+    "cede",
+    "ceded",
+    "cell",
+    "chad",
+    "chalk",
+    "chalked",
+    "check",
+    "checked",
+    "cheek",
+    "cheeked",
+    "clack",
+    "clacked",
+    "clad",
+    "dacha",
+    "decade",
+    "decal",
+    "deck",
+    "decked",
+    "deckle",
+    "each",
+    "hack",
+    "hacked",
+    "hackle",
+    "headache",
+    "heck",
+    "heckle",
+    "heckled",
+    "lace",
+    "laced",
+    "lack",
+    "lacked",
+    "leach",
+    "leached",
+    "leech",
+    "leeched"
+  ],
+  "date": "2038-03-11",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 14,
+      "6": 12,
+      "7": 9,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 23,
+      "D": 6,
+      "E": 1,
+      "H": 7,
+      "L": 8
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 6,
+        "5": 8,
+        "6": 4,
+        "7": 5
+      },
+      "D": {
+        "4": 1,
+        "5": 2,
+        "6": 3
+      },
+      "E": {
+        "4": 1
+      },
+      "H": {
+        "4": 2,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 3,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 5,
+      "CA": 10,
+      "CE": 3,
+      "CH": 7,
+      "CL": 3,
+      "DA": 1,
+      "DE": 5,
+      "EA": 1,
+      "HA": 3,
+      "HE": 4,
+      "LA": 4,
+      "LE": 4
+    }
+  }
+}

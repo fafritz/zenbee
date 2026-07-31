@@ -1,0 +1,81 @@
+{
+  "pangram": "monthly",
+  "center_letter": "t",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 65,
+  "answer_pangrams": [
+    "monthly"
+  ],
+  "answers": [
+    "hoot",
+    "hotly",
+    "loot",
+    "lotto",
+    "molt",
+    "monotony",
+    "month",
+    "monthly",
+    "moot",
+    "moth",
+    "motto",
+    "myth",
+    "onto",
+    "toll",
+    "tony",
+    "tool",
+    "toon",
+    "toot",
+    "tooth",
+    "toothy"
+  ],
+  "date": "2028-12-03",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 5,
+      "6": 1,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "H": 2,
+      "L": 2,
+      "M": 8,
+      "O": 1,
+      "T": 7
+    },
+    "grid": {
+      "H": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1
+      },
+      "M": {
+        "4": 4,
+        "5": 2,
+        "7": 1,
+        "8": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "HO": 2,
+      "LO": 2,
+      "MO": 7,
+      "MY": 1,
+      "ON": 1,
+      "TO": 7
+    }
+  }
+}

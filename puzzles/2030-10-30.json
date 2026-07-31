@@ -1,0 +1,120 @@
+{
+  "pangram": "petunia",
+  "center_letter": "p",
+  "num_answers": 45,
+  "num_pangrams": 1,
+  "possible_points": 177,
+  "answer_pangrams": [
+    "petunia"
+  ],
+  "answers": [
+    "appetite",
+    "epee",
+    "inapt",
+    "inept",
+    "inpatient",
+    "input",
+    "nape",
+    "neap",
+    "paean",
+    "pain",
+    "paint",
+    "pane",
+    "pant",
+    "papa",
+    "pate",
+    "patent",
+    "patient",
+    "patina",
+    "patine",
+    "peanut",
+    "peat",
+    "peen",
+    "peep",
+    "penitent",
+    "pennant",
+    "pent",
+    "petite",
+    "petunia",
+    "pine",
+    "pinnate",
+    "pint",
+    "pinup",
+    "pipe",
+    "pipit",
+    "pippin",
+    "pita",
+    "punt",
+    "pupa",
+    "pupae",
+    "puppet",
+    "putt",
+    "tape",
+    "taupe",
+    "tepee",
+    "unpin"
+  ],
+  "date": "2030-10-30",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 11,
+      "6": 7,
+      "7": 4,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "E": 1,
+      "I": 4,
+      "N": 2,
+      "P": 33,
+      "T": 3,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "8": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "I": {
+        "5": 3,
+        "9": 1
+      },
+      "N": {
+        "4": 2
+      },
+      "P": {
+        "4": 16,
+        "5": 5,
+        "6": 7,
+        "7": 4,
+        "8": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 2
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AP": 1,
+      "EP": 1,
+      "IN": 4,
+      "NA": 1,
+      "NE": 1,
+      "PA": 11,
+      "PE": 9,
+      "PI": 8,
+      "PU": 5,
+      "TA": 2,
+      "TE": 1,
+      "UN": 1
+    }
+  }
+}

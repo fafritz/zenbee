@@ -1,0 +1,120 @@
+{
+  "pangram": "peaking",
+  "center_letter": "p",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 224,
+  "answer_pangrams": [
+    "peaking"
+  ],
+  "answers": [
+    "agape",
+    "aping",
+    "epee",
+    "gape",
+    "gaping",
+    "keep",
+    "keeping",
+    "kingpin",
+    "nape",
+    "napkin",
+    "napping",
+    "neap",
+    "nipping",
+    "paean",
+    "pagan",
+    "page",
+    "paging",
+    "pain",
+    "paining",
+    "pane",
+    "pang",
+    "panning",
+    "papa",
+    "peak",
+    "peaking",
+    "peeing",
+    "peek",
+    "peeking",
+    "peen",
+    "peep",
+    "peeping",
+    "penning",
+    "pepping",
+    "pieing",
+    "pigging",
+    "pigpen",
+    "pike",
+    "piking",
+    "pine",
+    "ping",
+    "pinging",
+    "pining",
+    "pink",
+    "pinkie",
+    "pinking",
+    "pinning",
+    "pipe",
+    "piping",
+    "pippin",
+    "pipping"
+  ],
+  "date": "2027-02-26",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 4,
+      "6": 11,
+      "7": 16
+    },
+    "by_first_letter": {
+      "A": 2,
+      "E": 1,
+      "G": 2,
+      "K": 3,
+      "N": 5,
+      "P": 37
+    },
+    "grid": {
+      "A": {
+        "5": 2
+      },
+      "E": {
+        "4": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 1
+      },
+      "K": {
+        "4": 1,
+        "7": 2
+      },
+      "N": {
+        "4": 2,
+        "6": 1,
+        "7": 2
+      },
+      "P": {
+        "4": 14,
+        "5": 2,
+        "6": 9,
+        "7": 12
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AP": 1,
+      "EP": 1,
+      "GA": 2,
+      "KE": 2,
+      "KI": 1,
+      "NA": 3,
+      "NE": 1,
+      "NI": 1,
+      "PA": 10,
+      "PE": 10,
+      "PI": 17
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "pangram": "turmoil",
+  "center_letter": "r",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 85,
+  "answer_pangrams": [
+    "turmoil"
+  ],
+  "answers": [
+    "mirror",
+    "moor",
+    "motor",
+    "murmur",
+    "ormolu",
+    "rill",
+    "riot",
+    "roil",
+    "roll",
+    "room",
+    "root",
+    "rotor",
+    "rout",
+    "rumor",
+    "tort",
+    "tour",
+    "trill",
+    "trim",
+    "trio",
+    "troll",
+    "trot",
+    "trout",
+    "tumor",
+    "turmoil",
+    "tutor"
+  ],
+  "date": "2026-05-30",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 8,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "M": 4,
+      "O": 1,
+      "R": 9,
+      "T": 11
+    },
+    "grid": {
+      "M": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "O": {
+        "6": 1
+      },
+      "R": {
+        "4": 7,
+        "5": 2
+      },
+      "T": {
+        "4": 5,
+        "5": 5,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "MI": 1,
+      "MO": 2,
+      "MU": 1,
+      "OR": 1,
+      "RI": 2,
+      "RO": 6,
+      "RU": 1,
+      "TO": 2,
+      "TR": 6,
+      "TU": 3
+    }
+  }
+}

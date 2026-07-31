@@ -1,0 +1,154 @@
+{
+  "pangram": "chained",
+  "center_letter": "c",
+  "num_answers": 64,
+  "num_pangrams": 2,
+  "possible_points": 329,
+  "answer_pangrams": [
+    "chained",
+    "hacienda"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "accede",
+    "acceded",
+    "aced",
+    "ache",
+    "ached",
+    "acid",
+    "acidic",
+    "acne",
+    "cache",
+    "cached",
+    "caddie",
+    "caddied",
+    "cadence",
+    "cancan",
+    "candid",
+    "candied",
+    "cane",
+    "caned",
+    "canine",
+    "canna",
+    "canned",
+    "cede",
+    "ceded",
+    "chad",
+    "chain",
+    "chained",
+    "chance",
+    "chanced",
+    "chic",
+    "chide",
+    "chided",
+    "chin",
+    "china",
+    "chinned",
+    "cicada",
+    "cinch",
+    "cinched",
+    "dacha",
+    "dance",
+    "danced",
+    "decade",
+    "decadence",
+    "decide",
+    "decided",
+    "deice",
+    "deiced",
+    "dice",
+    "diced",
+    "each",
+    "enhance",
+    "enhanced",
+    "hacienda",
+    "headache",
+    "hence",
+    "iced",
+    "inch",
+    "inched",
+    "incidence",
+    "niacin",
+    "nice",
+    "niche",
+    "niece"
+  ],
+  "date": "2034-04-21",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 16,
+      "6": 18,
+      "7": 10,
+      "8": 3,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 10,
+      "C": 29,
+      "D": 11,
+      "E": 3,
+      "H": 3,
+      "I": 4,
+      "N": 4
+    },
+    "grid": {
+      "A": {
+        "4": 5,
+        "5": 1,
+        "6": 3,
+        "7": 1
+      },
+      "C": {
+        "4": 5,
+        "5": 8,
+        "6": 9,
+        "7": 7
+      },
+      "D": {
+        "4": 1,
+        "5": 4,
+        "6": 4,
+        "7": 1,
+        "9": 1
+      },
+      "E": {
+        "4": 1,
+        "7": 1,
+        "8": 1
+      },
+      "H": {
+        "5": 1,
+        "8": 2
+      },
+      "I": {
+        "4": 2,
+        "6": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 10,
+      "CA": 13,
+      "CE": 2,
+      "CH": 11,
+      "CI": 3,
+      "DA": 3,
+      "DE": 6,
+      "DI": 2,
+      "EA": 1,
+      "EN": 2,
+      "HA": 1,
+      "HE": 2,
+      "IC": 1,
+      "IN": 3,
+      "NI": 4
+    }
+  }
+}

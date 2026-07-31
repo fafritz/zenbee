@@ -1,0 +1,76 @@
+{
+  "pangram": "complex",
+  "center_letter": "m",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 56,
+  "answer_pangrams": [
+    "complex"
+  ],
+  "answers": [
+    "clomp",
+    "come",
+    "comp",
+    "compel",
+    "complex",
+    "compo",
+    "emcee",
+    "loom",
+    "melee",
+    "meme",
+    "memo",
+    "mole",
+    "moll",
+    "mope",
+    "poem",
+    "pommel",
+    "pomp"
+  ],
+  "date": "2037-06-23",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 4,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 6,
+      "E": 1,
+      "L": 1,
+      "M": 6,
+      "P": 3
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "L": {
+        "4": 1
+      },
+      "M": {
+        "4": 5,
+        "5": 1
+      },
+      "P": {
+        "4": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 1,
+      "CO": 5,
+      "EM": 1,
+      "LO": 1,
+      "ME": 3,
+      "MO": 3,
+      "PO": 3
+    }
+  }
+}

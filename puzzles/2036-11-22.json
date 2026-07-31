@@ -1,0 +1,123 @@
+{
+  "pangram": "linkage",
+  "center_letter": "k",
+  "num_answers": 43,
+  "num_pangrams": 2,
+  "possible_points": 209,
+  "answer_pangrams": [
+    "leaking",
+    "linkage"
+  ],
+  "answers": [
+    "akin",
+    "alike",
+    "alkali",
+    "alkaline",
+    "ankle",
+    "eking",
+    "geek",
+    "inking",
+    "inkling",
+    "kale",
+    "keel",
+    "keeling",
+    "keen",
+    "keening",
+    "kennel",
+    "kenneling",
+    "kenning",
+    "kill",
+    "killing",
+    "kiln",
+    "kilning",
+    "king",
+    "kink",
+    "kinking",
+    "knee",
+    "kneeing",
+    "kneel",
+    "kneeling",
+    "knell",
+    "knelling",
+    "lake",
+    "lank",
+    "leak",
+    "leakage",
+    "leaking",
+    "leek",
+    "like",
+    "liken",
+    "likening",
+    "liking",
+    "link",
+    "linkage",
+    "linking"
+  ],
+  "date": "2036-11-22",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 6,
+      "6": 4,
+      "7": 12,
+      "8": 4,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "E": 1,
+      "G": 1,
+      "I": 2,
+      "K": 21,
+      "L": 13
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "G": {
+        "4": 1
+      },
+      "I": {
+        "6": 1,
+        "7": 1
+      },
+      "K": {
+        "4": 8,
+        "5": 2,
+        "6": 1,
+        "7": 7,
+        "8": 2,
+        "9": 1
+      },
+      "L": {
+        "4": 6,
+        "5": 1,
+        "6": 1,
+        "7": 4,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AK": 1,
+      "AL": 3,
+      "AN": 1,
+      "EK": 1,
+      "GE": 1,
+      "IN": 2,
+      "KA": 1,
+      "KE": 7,
+      "KI": 7,
+      "KN": 6,
+      "LA": 2,
+      "LE": 4,
+      "LI": 7
+    }
+  }
+}

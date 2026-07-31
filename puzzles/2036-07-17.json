@@ -1,0 +1,116 @@
+{
+  "pangram": "blanket",
+  "center_letter": "b",
+  "num_answers": 48,
+  "num_pangrams": 1,
+  "possible_points": 180,
+  "answer_pangrams": [
+    "blanket"
+  ],
+  "answers": [
+    "abate",
+    "abbe",
+    "abet",
+    "able",
+    "baba",
+    "babble",
+    "babe",
+    "babel",
+    "bake",
+    "bale",
+    "baleen",
+    "balk",
+    "ball",
+    "ballet",
+    "banal",
+    "banana",
+    "bane",
+    "bank",
+    "batten",
+    "battle",
+    "beak",
+    "bean",
+    "beat",
+    "beaten",
+    "been",
+    "beet",
+    "beetle",
+    "bell",
+    "belle",
+    "belt",
+    "bent",
+    "beta",
+    "betake",
+    "betaken",
+    "blab",
+    "blank",
+    "blanket",
+    "blat",
+    "blatant",
+    "bleak",
+    "bleat",
+    "eatable",
+    "enable",
+    "kebab",
+    "label",
+    "table",
+    "tablet",
+    "tenable"
+  ],
+  "date": "2036-07-17",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 10,
+      "6": 11,
+      "7": 5
+    },
+    "by_first_letter": {
+      "A": 4,
+      "B": 37,
+      "E": 2,
+      "K": 1,
+      "L": 1,
+      "T": 3
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 1
+      },
+      "B": {
+        "4": 19,
+        "5": 6,
+        "6": 9,
+        "7": 3
+      },
+      "E": {
+        "6": 1,
+        "7": 1
+      },
+      "K": {
+        "5": 1
+      },
+      "L": {
+        "5": 1
+      },
+      "T": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 4,
+      "BA": 16,
+      "BE": 14,
+      "BL": 7,
+      "EA": 1,
+      "EN": 1,
+      "KE": 1,
+      "LA": 1,
+      "TA": 2,
+      "TE": 1
+    }
+  }
+}

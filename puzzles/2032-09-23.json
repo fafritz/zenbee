@@ -1,0 +1,156 @@
+{
+  "pangram": "deviant",
+  "center_letter": "v",
+  "num_answers": 60,
+  "num_pangrams": 1,
+  "possible_points": 338,
+  "answer_pangrams": [
+    "deviant"
+  ],
+  "answers": [
+    "additive",
+    "advent",
+    "attentive",
+    "avian",
+    "avid",
+    "dative",
+    "davit",
+    "deviant",
+    "deviate",
+    "deviated",
+    "diva",
+    "divan",
+    "dive",
+    "dived",
+    "divide",
+    "divided",
+    "dividend",
+    "divine",
+    "divined",
+    "divvied",
+    "endive",
+    "envied",
+    "evade",
+    "evaded",
+    "even",
+    "evened",
+    "event",
+    "evident",
+    "inattentive",
+    "initiative",
+    "invade",
+    "invaded",
+    "invent",
+    "invented",
+    "inventive",
+    "invite",
+    "invited",
+    "naive",
+    "naivete",
+    "native",
+    "nave",
+    "tentative",
+    "vain",
+    "vane",
+    "vanned",
+    "vatted",
+    "vein",
+    "veined",
+    "vend",
+    "vended",
+    "vendetta",
+    "vent",
+    "vented",
+    "vetted",
+    "viand",
+    "vied",
+    "vine",
+    "vitiate",
+    "vitiated",
+    "vivid"
+  ],
+  "date": "2032-09-23",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 9,
+      "6": 18,
+      "7": 10,
+      "8": 6,
+      "9": 3,
+      "10": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "D": 15,
+      "E": 8,
+      "I": 9,
+      "N": 4,
+      "T": 1,
+      "V": 18
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "8": 1,
+        "9": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 3,
+        "6": 3,
+        "7": 5,
+        "8": 2
+      },
+      "E": {
+        "4": 1,
+        "5": 2,
+        "6": 4,
+        "7": 1
+      },
+      "I": {
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "9": 1
+      },
+      "V": {
+        "4": 7,
+        "5": 2,
+        "6": 6,
+        "7": 1,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "AD": 2,
+      "AT": 1,
+      "AV": 2,
+      "DA": 2,
+      "DE": 3,
+      "DI": 10,
+      "EN": 2,
+      "EV": 6,
+      "IN": 9,
+      "NA": 4,
+      "TE": 1,
+      "VA": 4,
+      "VE": 8,
+      "VI": 6
+    }
+  }
+}

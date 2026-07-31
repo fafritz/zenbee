@@ -1,0 +1,105 @@
+{
+  "pangram": "backlog",
+  "center_letter": "a",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 101,
+  "answer_pangrams": [
+    "backlog"
+  ],
+  "answers": [
+    "aback",
+    "agog",
+    "alga",
+    "baba",
+    "back",
+    "backlog",
+    "balk",
+    "ball",
+    "baobab",
+    "blab",
+    "black",
+    "blackball",
+    "bola",
+    "cabal",
+    "cacao",
+    "call",
+    "calla",
+    "clack",
+    "cloak",
+    "coal",
+    "coca",
+    "cocoa",
+    "cola",
+    "gala",
+    "gall",
+    "global",
+    "goal",
+    "koala",
+    "lack",
+    "local"
+  ],
+  "date": "2037-09-16",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 10,
+      "6": 2,
+      "7": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 10,
+      "C": 10,
+      "G": 4,
+      "K": 1,
+      "L": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "B": {
+        "4": 6,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "C": {
+        "4": 4,
+        "5": 6
+      },
+      "G": {
+        "4": 3,
+        "6": 1
+      },
+      "K": {
+        "5": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AG": 1,
+      "AL": 1,
+      "BA": 6,
+      "BL": 3,
+      "BO": 1,
+      "CA": 4,
+      "CL": 2,
+      "CO": 4,
+      "GA": 2,
+      "GL": 1,
+      "GO": 1,
+      "KO": 1,
+      "LA": 1,
+      "LO": 1
+    }
+  }
+}

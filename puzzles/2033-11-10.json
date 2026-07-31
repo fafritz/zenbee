@@ -1,0 +1,92 @@
+{
+  "pangram": "naughty",
+  "center_letter": "n",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 79,
+  "answer_pangrams": [
+    "naughty"
+  ],
+  "answers": [
+    "aunt",
+    "gang",
+    "gaunt",
+    "gnat",
+    "gunny",
+    "hang",
+    "haunt",
+    "hung",
+    "hunt",
+    "naan",
+    "nana",
+    "nanny",
+    "natty",
+    "naught",
+    "naughty",
+    "nutty",
+    "tang",
+    "tangy",
+    "taunt",
+    "than",
+    "tuna",
+    "untaught"
+  ],
+  "date": "2033-11-10",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 8,
+      "6": 1,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "G": 4,
+      "H": 4,
+      "N": 7,
+      "T": 5,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 2
+      },
+      "H": {
+        "4": 3,
+        "5": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 2
+      },
+      "U": {
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AU": 1,
+      "GA": 2,
+      "GN": 1,
+      "GU": 1,
+      "HA": 2,
+      "HU": 2,
+      "NA": 6,
+      "NU": 1,
+      "TA": 3,
+      "TH": 1,
+      "TU": 1,
+      "UN": 1
+    }
+  }
+}

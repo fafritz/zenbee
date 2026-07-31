@@ -1,0 +1,162 @@
+{
+  "pangram": "drawing",
+  "center_letter": "r",
+  "num_answers": 65,
+  "num_pangrams": 3,
+  "possible_points": 350,
+  "answer_pangrams": [
+    "awarding",
+    "drawing",
+    "warding"
+  ],
+  "answers": [
+    "agar",
+    "agrarian",
+    "airing",
+    "aria",
+    "arid",
+    "arraign",
+    "arraigning",
+    "arranging",
+    "award",
+    "awarding",
+    "daring",
+    "darn",
+    "darning",
+    "dinar",
+    "drag",
+    "dragging",
+    "drain",
+    "draining",
+    "draw",
+    "drawing",
+    "drawn",
+    "garaging",
+    "gird",
+    "girding",
+    "grad",
+    "grading",
+    "grain",
+    "grand",
+    "grid",
+    "grin",
+    "grind",
+    "grinding",
+    "grinning",
+    "inward",
+    "nadir",
+    "radar",
+    "radian",
+    "radii",
+    "raga",
+    "ragging",
+    "raging",
+    "raid",
+    "raiding",
+    "rain",
+    "raining",
+    "rang",
+    "ranging",
+    "raring",
+    "ridding",
+    "ridging",
+    "riding",
+    "rigging",
+    "rigid",
+    "rind",
+    "ring",
+    "ringing",
+    "ward",
+    "warding",
+    "warn",
+    "warning",
+    "warring",
+    "windward",
+    "wiring",
+    "wring",
+    "wringing"
+  ],
+  "date": "2033-10-24",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 12,
+      "6": 8,
+      "7": 16,
+      "8": 9,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 10,
+      "D": 11,
+      "G": 12,
+      "I": 1,
+      "N": 1,
+      "R": 21,
+      "W": 9
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 1,
+        "10": 1
+      },
+      "D": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "7": 2,
+        "8": 2
+      },
+      "G": {
+        "4": 4,
+        "5": 3,
+        "7": 2,
+        "8": 3
+      },
+      "I": {
+        "6": 1
+      },
+      "N": {
+        "5": 1
+      },
+      "R": {
+        "4": 6,
+        "5": 3,
+        "6": 4,
+        "7": 8
+      },
+      "W": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 3,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 1,
+      "AR": 5,
+      "AW": 2,
+      "DA": 3,
+      "DI": 1,
+      "DR": 7,
+      "GA": 1,
+      "GI": 2,
+      "GR": 9,
+      "IN": 1,
+      "NA": 1,
+      "RA": 13,
+      "RI": 8,
+      "WA": 5,
+      "WI": 2,
+      "WR": 2
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "pangram": "clumped",
+  "center_letter": "p",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 169,
+  "answer_pangrams": [
+    "clumped"
+  ],
+  "answers": [
+    "clump",
+    "clumped",
+    "cupped",
+    "deep",
+    "dump",
+    "dumped",
+    "dupe",
+    "duped",
+    "epee",
+    "lump",
+    "lumped",
+    "peddle",
+    "peddled",
+    "peed",
+    "peel",
+    "peeled",
+    "peep",
+    "peeped",
+    "pepped",
+    "plum",
+    "plume",
+    "plumed",
+    "plump",
+    "plumped",
+    "puddle",
+    "puddled",
+    "pull",
+    "pulled",
+    "pulp",
+    "pulped",
+    "pummel",
+    "pummeled",
+    "pump",
+    "pumped",
+    "pupped",
+    "umped",
+    "upped"
+  ],
+  "date": "2027-07-25",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 6,
+      "6": 14,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 3,
+      "D": 5,
+      "E": 1,
+      "L": 2,
+      "P": 24,
+      "U": 2
+    },
+    "grid": {
+      "C": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "L": {
+        "4": 1,
+        "6": 1
+      },
+      "P": {
+        "4": 7,
+        "5": 2,
+        "6": 11,
+        "7": 3,
+        "8": 1
+      },
+      "U": {
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "CL": 2,
+      "CU": 1,
+      "DE": 1,
+      "DU": 4,
+      "EP": 1,
+      "LU": 2,
+      "PE": 8,
+      "PL": 5,
+      "PU": 11,
+      "UM": 1,
+      "UP": 1
+    }
+  }
+}

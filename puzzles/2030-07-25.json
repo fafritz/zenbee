@@ -1,0 +1,85 @@
+{
+  "pangram": "foundry",
+  "center_letter": "d",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 62,
+  "answer_pangrams": [
+    "foundry"
+  ],
+  "answers": [
+    "dodo",
+    "doff",
+    "donor",
+    "door",
+    "dory",
+    "dour",
+    "duff",
+    "dunno",
+    "fond",
+    "food",
+    "ford",
+    "found",
+    "foundry",
+    "frond",
+    "fund",
+    "noddy",
+    "odor",
+    "rood",
+    "round",
+    "ruddy",
+    "undo"
+  ],
+  "date": "2030-07-25",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 7,
+      "7": 1
+    },
+    "by_first_letter": {
+      "D": 8,
+      "F": 7,
+      "N": 1,
+      "O": 1,
+      "R": 3,
+      "U": 1
+    },
+    "grid": {
+      "D": {
+        "4": 6,
+        "5": 2
+      },
+      "F": {
+        "4": 4,
+        "5": 2,
+        "7": 1
+      },
+      "N": {
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 2
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 6,
+      "DU": 2,
+      "FO": 5,
+      "FR": 1,
+      "FU": 1,
+      "NO": 1,
+      "OD": 1,
+      "RO": 2,
+      "RU": 1,
+      "UN": 1
+    }
+  }
+}

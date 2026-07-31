@@ -1,0 +1,100 @@
+{
+  "pangram": "wolfram",
+  "center_letter": "r",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 103,
+  "answer_pangrams": [
+    "wolfram"
+  ],
+  "answers": [
+    "afar",
+    "alarm",
+    "amoral",
+    "armor",
+    "aroma",
+    "arrow",
+    "farm",
+    "farrow",
+    "floor",
+    "flora",
+    "floral",
+    "form",
+    "formal",
+    "from",
+    "marrow",
+    "molar",
+    "moor",
+    "moral",
+    "morrow",
+    "oral",
+    "roam",
+    "roar",
+    "roll",
+    "roof",
+    "room",
+    "warm",
+    "wolfram",
+    "worm"
+  ],
+  "date": "2026-05-28",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 8,
+      "6": 6,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "F": 8,
+      "M": 5,
+      "O": 1,
+      "R": 5,
+      "W": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 4,
+        "6": 1
+      },
+      "F": {
+        "4": 3,
+        "5": 2,
+        "6": 3
+      },
+      "M": {
+        "4": 1,
+        "5": 2,
+        "6": 2
+      },
+      "O": {
+        "4": 1
+      },
+      "R": {
+        "4": 5
+      },
+      "W": {
+        "4": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AF": 1,
+      "AL": 1,
+      "AM": 1,
+      "AR": 3,
+      "FA": 2,
+      "FL": 3,
+      "FO": 2,
+      "FR": 1,
+      "MA": 1,
+      "MO": 4,
+      "OR": 1,
+      "RO": 5,
+      "WA": 1,
+      "WO": 2
+    }
+  }
+}

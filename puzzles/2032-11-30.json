@@ -1,0 +1,93 @@
+{
+  "pangram": "hydrant",
+  "center_letter": "t",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 92,
+  "answer_pangrams": [
+    "hydrant"
+  ],
+  "answers": [
+    "arrant",
+    "arty",
+    "attar",
+    "dart",
+    "data",
+    "hart",
+    "hydrant",
+    "natty",
+    "rant",
+    "ratatat",
+    "rattan",
+    "ratty",
+    "tardy",
+    "tart",
+    "tartan",
+    "tartar",
+    "tatty",
+    "than",
+    "that",
+    "tray",
+    "tyranny",
+    "tyrant"
+  ],
+  "date": "2032-11-30",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 5,
+      "6": 5,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 2,
+      "H": 2,
+      "N": 1,
+      "R": 4,
+      "T": 10
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "D": {
+        "4": 2
+      },
+      "H": {
+        "4": 1,
+        "7": 1
+      },
+      "N": {
+        "5": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AR": 2,
+      "AT": 1,
+      "DA": 2,
+      "HA": 1,
+      "HY": 1,
+      "NA": 1,
+      "RA": 4,
+      "TA": 5,
+      "TH": 2,
+      "TR": 1,
+      "TY": 2
+    }
+  }
+}

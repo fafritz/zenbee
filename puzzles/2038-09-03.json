@@ -1,0 +1,152 @@
+{
+  "pangram": "forming",
+  "center_letter": "g",
+  "num_answers": 57,
+  "num_pangrams": 2,
+  "possible_points": 357,
+  "answer_pangrams": [
+    "forming",
+    "informing"
+  ],
+  "answers": [
+    "fining",
+    "firing",
+    "firming",
+    "fogging",
+    "forging",
+    "forgo",
+    "forgoing",
+    "forming",
+    "fringing",
+    "frog",
+    "frogging",
+    "gigging",
+    "ginning",
+    "going",
+    "gong",
+    "gonging",
+    "goof",
+    "goofing",
+    "goon",
+    "gorging",
+    "goring",
+    "griffin",
+    "grim",
+    "griming",
+    "grin",
+    "grinning",
+    "grog",
+    "groin",
+    "groom",
+    "grooming",
+    "ignoring",
+    "informing",
+    "infringing",
+    "inning",
+    "ironing",
+    "miffing",
+    "miming",
+    "mining",
+    "minoring",
+    "miring",
+    "mirroring",
+    "mooing",
+    "mooning",
+    "mooring",
+    "morning",
+    "noggin",
+    "offing",
+    "ongoing",
+    "origin",
+    "riffing",
+    "rigging",
+    "rigor",
+    "riming",
+    "ring",
+    "ringing",
+    "roofing",
+    "rooming"
+  ],
+  "date": "2038-09-03",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 5,
+      "6": 12,
+      "7": 22,
+      "8": 7,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "F": 11,
+      "G": 19,
+      "I": 5,
+      "M": 10,
+      "N": 1,
+      "O": 3,
+      "R": 8
+    },
+    "grid": {
+      "F": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 4,
+        "8": 3
+      },
+      "G": {
+        "4": 6,
+        "5": 3,
+        "6": 1,
+        "7": 7,
+        "8": 2
+      },
+      "I": {
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "M": {
+        "6": 4,
+        "7": 4,
+        "8": 1,
+        "9": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "O": {
+        "6": 2,
+        "7": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 5
+      }
+    },
+    "two_letter_list": {
+      "FI": 3,
+      "FO": 5,
+      "FR": 3,
+      "GI": 2,
+      "GO": 8,
+      "GR": 9,
+      "IG": 1,
+      "IN": 3,
+      "IR": 1,
+      "MI": 6,
+      "MO": 4,
+      "NO": 1,
+      "OF": 1,
+      "ON": 1,
+      "OR": 1,
+      "RI": 6,
+      "RO": 2
+    }
+  }
+}

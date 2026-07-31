@@ -1,0 +1,122 @@
+{
+  "pangram": "leafing",
+  "center_letter": "f",
+  "num_answers": 51,
+  "num_pangrams": 3,
+  "possible_points": 267,
+  "answer_pangrams": [
+    "finagle",
+    "flanneling",
+    "leafing"
+  ],
+  "answers": [
+    "alfalfa",
+    "elfin",
+    "fail",
+    "failing",
+    "fall",
+    "fallen",
+    "falling",
+    "fang",
+    "fanning",
+    "feel",
+    "feeling",
+    "feign",
+    "feigning",
+    "feline",
+    "fell",
+    "felling",
+    "fennel",
+    "fief",
+    "fife",
+    "file",
+    "filial",
+    "filing",
+    "fill",
+    "filling",
+    "finagle",
+    "finagling",
+    "final",
+    "finale",
+    "fine",
+    "fining",
+    "flag",
+    "flagella",
+    "flagging",
+    "flail",
+    "flailing",
+    "flan",
+    "flange",
+    "flannel",
+    "flanneling",
+    "flea",
+    "flee",
+    "fleeing",
+    "fling",
+    "flinging",
+    "gaff",
+    "gaffe",
+    "gaffing",
+    "leaf",
+    "leafing",
+    "life",
+    "lifeline"
+  ],
+  "date": "2032-11-12",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 6,
+      "6": 8,
+      "7": 12,
+      "8": 6,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "E": 1,
+      "F": 42,
+      "G": 3,
+      "L": 4
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "F": {
+        "4": 14,
+        "5": 4,
+        "6": 8,
+        "7": 9,
+        "8": 5,
+        "9": 1,
+        "10": 1
+      },
+      "G": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 2,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "EL": 1,
+      "FA": 7,
+      "FE": 8,
+      "FI": 13,
+      "FL": 14,
+      "GA": 3,
+      "LE": 2,
+      "LI": 2
+    }
+  }
+}

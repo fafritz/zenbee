@@ -1,0 +1,87 @@
+{
+  "pangram": "bewitch",
+  "center_letter": "c",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 63,
+  "answer_pangrams": [
+    "bewitch"
+  ],
+  "answers": [
+    "beech",
+    "bewitch",
+    "chew",
+    "chic",
+    "chit",
+    "cite",
+    "etch",
+    "ethic",
+    "hectic",
+    "hitch",
+    "itch",
+    "tech",
+    "twice",
+    "twitch",
+    "which",
+    "witch"
+  ],
+  "date": "2027-12-06",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 6,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "B": 2,
+      "C": 4,
+      "E": 2,
+      "H": 2,
+      "I": 1,
+      "T": 3,
+      "W": 2
+    },
+    "grid": {
+      "B": {
+        "5": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 4
+      },
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "H": {
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "W": {
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "BE": 2,
+      "CH": 3,
+      "CI": 1,
+      "ET": 2,
+      "HE": 1,
+      "HI": 1,
+      "IT": 1,
+      "TE": 1,
+      "TW": 2,
+      "WH": 1,
+      "WI": 1
+    }
+  }
+}

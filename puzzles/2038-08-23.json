@@ -1,0 +1,132 @@
+{
+  "pangram": "weaving",
+  "center_letter": "a",
+  "num_answers": 46,
+  "num_pangrams": 1,
+  "possible_points": 221,
+  "answer_pangrams": [
+    "weaving"
+  ],
+  "answers": [
+    "again",
+    "agave",
+    "aging",
+    "anew",
+    "angina",
+    "avenge",
+    "avenging",
+    "avian",
+    "awing",
+    "awning",
+    "engage",
+    "engaging",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "gave",
+    "gewgaw",
+    "gnaw",
+    "gnawing",
+    "inane",
+    "naan",
+    "nagging",
+    "naive",
+    "nana",
+    "nave",
+    "vain",
+    "vane",
+    "vanning",
+    "vegan",
+    "wage",
+    "wagging",
+    "waging",
+    "waive",
+    "waiving",
+    "wane",
+    "waning",
+    "wave",
+    "waving",
+    "wean",
+    "weaning",
+    "weave",
+    "weaving",
+    "wigwag",
+    "wigwagging"
+  ],
+  "date": "2038-08-23",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 10,
+      "6": 9,
+      "7": 10,
+      "8": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 10,
+      "E": 2,
+      "G": 9,
+      "I": 1,
+      "N": 5,
+      "V": 4,
+      "W": 15
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 5,
+        "6": 3,
+        "8": 1
+      },
+      "E": {
+        "6": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 4,
+        "6": 1,
+        "7": 4
+      },
+      "I": {
+        "5": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 1,
+        "7": 1
+      },
+      "V": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "W": {
+        "4": 4,
+        "5": 2,
+        "6": 4,
+        "7": 4,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 3,
+      "AN": 2,
+      "AV": 3,
+      "AW": 2,
+      "EN": 2,
+      "GA": 6,
+      "GE": 1,
+      "GN": 2,
+      "IN": 1,
+      "NA": 5,
+      "VA": 3,
+      "VE": 1,
+      "WA": 9,
+      "WE": 4,
+      "WI": 2
+    }
+  }
+}

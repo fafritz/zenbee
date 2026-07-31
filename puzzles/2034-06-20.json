@@ -1,0 +1,115 @@
+{
+  "pangram": "inflect",
+  "center_letter": "f",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 175,
+  "answer_pangrams": [
+    "inflect"
+  ],
+  "answers": [
+    "clef",
+    "cleft",
+    "cliff",
+    "effect",
+    "effete",
+    "efficient",
+    "elfin",
+    "feel",
+    "feet",
+    "feint",
+    "feline",
+    "fell",
+    "felt",
+    "fence",
+    "fennel",
+    "fete",
+    "fettle",
+    "fief",
+    "fife",
+    "fifteen",
+    "file",
+    "filet",
+    "fill",
+    "fillet",
+    "fine",
+    "finite",
+    "flee",
+    "fleece",
+    "fleet",
+    "flint",
+    "flit",
+    "inefficient",
+    "infect",
+    "infinite",
+    "inflect",
+    "inflict",
+    "left",
+    "life",
+    "lifeline",
+    "lift",
+    "tiff"
+  ],
+  "date": "2034-06-20",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 8,
+      "6": 9,
+      "7": 3,
+      "8": 2,
+      "9": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "C": 3,
+      "E": 4,
+      "F": 24,
+      "I": 5,
+      "L": 4,
+      "T": 1
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 2
+      },
+      "E": {
+        "5": 1,
+        "6": 2,
+        "9": 1
+      },
+      "F": {
+        "4": 12,
+        "5": 5,
+        "6": 6,
+        "7": 1
+      },
+      "I": {
+        "6": 1,
+        "7": 2,
+        "8": 1,
+        "11": 1
+      },
+      "L": {
+        "4": 3,
+        "8": 1
+      },
+      "T": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 3,
+      "EF": 3,
+      "EL": 1,
+      "FE": 10,
+      "FI": 9,
+      "FL": 5,
+      "IN": 5,
+      "LE": 1,
+      "LI": 3,
+      "TI": 1
+    }
+  }
+}

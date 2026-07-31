@@ -1,0 +1,96 @@
+{
+  "pangram": "ladybug",
+  "center_letter": "y",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 118,
+  "answer_pangrams": [
+    "ladybug"
+  ],
+  "answers": [
+    "ably",
+    "allay",
+    "ally",
+    "baby",
+    "badly",
+    "baggy",
+    "baldly",
+    "bubbly",
+    "buddy",
+    "buggy",
+    "bulgy",
+    "bully",
+    "daddy",
+    "dally",
+    "dully",
+    "duly",
+    "gabby",
+    "gaudy",
+    "gladly",
+    "gully",
+    "lady",
+    "ladybug",
+    "laudably",
+    "lullaby",
+    "ugly"
+  ],
+  "date": "2032-03-13",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 13,
+      "6": 3,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 9,
+      "D": 4,
+      "G": 4,
+      "L": 4,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "B": {
+        "4": 1,
+        "5": 6,
+        "6": 2
+      },
+      "D": {
+        "4": 1,
+        "5": 3
+      },
+      "G": {
+        "5": 3,
+        "6": 1
+      },
+      "L": {
+        "4": 1,
+        "7": 2,
+        "8": 1
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AL": 2,
+      "BA": 4,
+      "BU": 5,
+      "DA": 2,
+      "DU": 2,
+      "GA": 2,
+      "GL": 1,
+      "GU": 1,
+      "LA": 3,
+      "LU": 1,
+      "UG": 1
+    }
+  }
+}

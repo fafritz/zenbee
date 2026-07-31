@@ -1,0 +1,68 @@
+{
+  "pangram": "mewling",
+  "center_letter": "w",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 98,
+  "answer_pangrams": [
+    "mewling"
+  ],
+  "answers": [
+    "mewing",
+    "mewl",
+    "mewling",
+    "newel",
+    "weeing",
+    "well",
+    "welling",
+    "wigging",
+    "wiggle",
+    "wiggling",
+    "wile",
+    "wiling",
+    "will",
+    "willing",
+    "wine",
+    "wing",
+    "winging",
+    "wining",
+    "winning"
+  ],
+  "date": "2026-05-25",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 1,
+      "6": 5,
+      "7": 6,
+      "8": 1
+    },
+    "by_first_letter": {
+      "M": 3,
+      "N": 1,
+      "W": 15
+    },
+    "grid": {
+      "M": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "5": 1
+      },
+      "W": {
+        "4": 5,
+        "6": 4,
+        "7": 5,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "ME": 3,
+      "NE": 1,
+      "WE": 3,
+      "WI": 12
+    }
+  }
+}

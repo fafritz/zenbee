@@ -1,0 +1,79 @@
+{
+  "pangram": "gawkily",
+  "center_letter": "w",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 61,
+  "answer_pangrams": [
+    "gawkily"
+  ],
+  "answers": [
+    "away",
+    "gawk",
+    "gawkily",
+    "gawky",
+    "kiwi",
+    "layaway",
+    "wail",
+    "walk",
+    "walkway",
+    "wall",
+    "waylay",
+    "wiggly",
+    "wigwag",
+    "wiki",
+    "will",
+    "wily",
+    "yawl"
+  ],
+  "date": "2026-11-21",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 1,
+      "6": 3,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 1,
+      "G": 3,
+      "K": 1,
+      "L": 1,
+      "W": 10,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "G": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "K": {
+        "4": 1
+      },
+      "L": {
+        "7": 1
+      },
+      "W": {
+        "4": 6,
+        "6": 3,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AW": 1,
+      "GA": 3,
+      "KI": 1,
+      "LA": 1,
+      "WA": 5,
+      "WI": 5,
+      "YA": 1
+    }
+  }
+}

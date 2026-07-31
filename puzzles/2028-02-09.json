@@ -1,0 +1,103 @@
+{
+  "pangram": "handout",
+  "center_letter": "o",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 73,
+  "answer_pangrams": [
+    "handout"
+  ],
+  "answers": [
+    "anon",
+    "auto",
+    "dado",
+    "dodo",
+    "donut",
+    "doodad",
+    "dunno",
+    "handout",
+    "hood",
+    "hoodoo",
+    "hoot",
+    "hound",
+    "noon",
+    "noun",
+    "oath",
+    "onto",
+    "outdo",
+    "tattoo",
+    "thou",
+    "toad",
+    "toon",
+    "toot",
+    "tooth",
+    "tout",
+    "undo"
+  ],
+  "date": "2028-02-09",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 5,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "D": 5,
+      "H": 5,
+      "N": 2,
+      "O": 3,
+      "T": 7,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2
+      },
+      "D": {
+        "4": 2,
+        "5": 2,
+        "6": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 2
+      },
+      "O": {
+        "4": 2,
+        "5": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 1,
+        "6": 1
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "AU": 1,
+      "DA": 1,
+      "DO": 3,
+      "DU": 1,
+      "HA": 1,
+      "HO": 4,
+      "NO": 2,
+      "OA": 1,
+      "ON": 1,
+      "OU": 1,
+      "TA": 1,
+      "TH": 1,
+      "TO": 5,
+      "UN": 1
+    }
+  }
+}

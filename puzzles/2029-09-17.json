@@ -1,0 +1,120 @@
+{
+  "pangram": "emptily",
+  "center_letter": "l",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 156,
+  "answer_pangrams": [
+    "emptily"
+  ],
+  "answers": [
+    "elite",
+    "emptily",
+    "eyelet",
+    "impel",
+    "imply",
+    "lilt",
+    "lily",
+    "lime",
+    "limit",
+    "limp",
+    "limpet",
+    "limply",
+    "limy",
+    "lite",
+    "little",
+    "melee",
+    "melt",
+    "mettle",
+    "mile",
+    "mill",
+    "millet",
+    "peel",
+    "pellet",
+    "pelt",
+    "pettily",
+    "pile",
+    "pill",
+    "pimple",
+    "pimply",
+    "teletype",
+    "tell",
+    "temple",
+    "tile",
+    "till",
+    "tilt",
+    "timely",
+    "tipple",
+    "title",
+    "tittle",
+    "yell",
+    "yelp"
+  ],
+  "date": "2029-09-17",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 6,
+      "6": 13,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "E": 3,
+      "I": 2,
+      "L": 10,
+      "M": 6,
+      "P": 8,
+      "T": 10,
+      "Y": 2
+    },
+    "grid": {
+      "E": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "5": 2
+      },
+      "L": {
+        "4": 6,
+        "5": 1,
+        "6": 3
+      },
+      "M": {
+        "4": 3,
+        "5": 1,
+        "6": 2
+      },
+      "P": {
+        "4": 4,
+        "6": 3,
+        "7": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 1,
+        "6": 4,
+        "8": 1
+      },
+      "Y": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "EL": 1,
+      "EM": 1,
+      "EY": 1,
+      "IM": 2,
+      "LI": 10,
+      "ME": 3,
+      "MI": 3,
+      "PE": 4,
+      "PI": 4,
+      "TE": 3,
+      "TI": 7,
+      "YE": 2
+    }
+  }
+}

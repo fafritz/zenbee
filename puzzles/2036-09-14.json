@@ -1,0 +1,123 @@
+{
+  "pangram": "botched",
+  "center_letter": "d",
+  "num_answers": 44,
+  "num_pangrams": 1,
+  "possible_points": 206,
+  "answer_pangrams": [
+    "botched"
+  ],
+  "answers": [
+    "bedded",
+    "bobbed",
+    "bode",
+    "boded",
+    "boobed",
+    "booed",
+    "booted",
+    "botched",
+    "cede",
+    "ceded",
+    "code",
+    "coded",
+    "coed",
+    "cooed",
+    "debt",
+    "decode",
+    "decoded",
+    "deed",
+    "deeded",
+    "detect",
+    "detected",
+    "dodo",
+    "dote",
+    "doted",
+    "dotted",
+    "ebbed",
+    "echoed",
+    "etched",
+    "heed",
+    "heeded",
+    "hoed",
+    "hood",
+    "hooded",
+    "hoodoo",
+    "hoodooed",
+    "hooted",
+    "hotbed",
+    "teed",
+    "teethed",
+    "toed",
+    "tooted",
+    "toothed",
+    "toted",
+    "totted"
+  ],
+  "date": "2036-09-14",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 8,
+      "6": 17,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "B": 8,
+      "C": 6,
+      "D": 11,
+      "E": 3,
+      "H": 9,
+      "T": 7
+    },
+    "grid": {
+      "B": {
+        "4": 1,
+        "5": 2,
+        "6": 4,
+        "7": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 3
+      },
+      "D": {
+        "4": 4,
+        "5": 1,
+        "6": 4,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 2
+      },
+      "H": {
+        "4": 3,
+        "6": 5,
+        "8": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "BE": 1,
+      "BO": 7,
+      "CE": 2,
+      "CO": 4,
+      "DE": 7,
+      "DO": 4,
+      "EB": 1,
+      "EC": 1,
+      "ET": 1,
+      "HE": 2,
+      "HO": 7,
+      "TE": 2,
+      "TO": 5
+    }
+  }
+}

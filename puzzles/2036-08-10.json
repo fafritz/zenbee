@@ -1,0 +1,96 @@
+{
+  "pangram": "hurling",
+  "center_letter": "l",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 127,
+  "answer_pangrams": [
+    "hurling"
+  ],
+  "answers": [
+    "giggling",
+    "gill",
+    "girl",
+    "gluing",
+    "grill",
+    "grilling",
+    "gull",
+    "gulling",
+    "gurgling",
+    "hill",
+    "hull",
+    "hulling",
+    "hurl",
+    "hurling",
+    "lining",
+    "lugging",
+    "lull",
+    "lulling",
+    "lulu",
+    "lung",
+    "lunging",
+    "luring",
+    "niggling",
+    "null",
+    "riling",
+    "rill",
+    "ruling"
+  ],
+  "date": "2036-08-10",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 1,
+      "6": 5,
+      "7": 6,
+      "8": 4
+    },
+    "by_first_letter": {
+      "G": 9,
+      "H": 5,
+      "L": 8,
+      "N": 2,
+      "R": 3
+    },
+    "grid": {
+      "G": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 3
+      },
+      "H": {
+        "4": 3,
+        "7": 2
+      },
+      "L": {
+        "4": 3,
+        "6": 2,
+        "7": 3
+      },
+      "N": {
+        "4": 1,
+        "8": 1
+      },
+      "R": {
+        "4": 1,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "GI": 3,
+      "GL": 1,
+      "GR": 2,
+      "GU": 3,
+      "HI": 1,
+      "HU": 4,
+      "LI": 1,
+      "LU": 7,
+      "NI": 1,
+      "NU": 1,
+      "RI": 2,
+      "RU": 1
+    }
+  }
+}

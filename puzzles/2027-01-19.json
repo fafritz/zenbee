@@ -1,0 +1,79 @@
+{
+  "pangram": "qualify",
+  "center_letter": "l",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 85,
+  "answer_pangrams": [
+    "qualify"
+  ],
+  "answers": [
+    "alfalfa",
+    "allay",
+    "ally",
+    "fail",
+    "fall",
+    "filial",
+    "fill",
+    "filly",
+    "flail",
+    "flay",
+    "fluff",
+    "fluffy",
+    "fulfill",
+    "full",
+    "fully",
+    "lily",
+    "luau",
+    "lull",
+    "lulu",
+    "quail",
+    "qualify",
+    "quill"
+  ],
+  "date": "2027-01-19",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 7,
+      "6": 2,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 3,
+      "F": 12,
+      "L": 4,
+      "Q": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "F": {
+        "4": 5,
+        "5": 4,
+        "6": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 4
+      },
+      "Q": {
+        "5": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 3,
+      "FA": 2,
+      "FI": 3,
+      "FL": 4,
+      "FU": 3,
+      "LI": 1,
+      "LU": 3,
+      "QU": 3
+    }
+  }
+}

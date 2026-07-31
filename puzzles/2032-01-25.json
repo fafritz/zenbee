@@ -1,0 +1,85 @@
+{
+  "pangram": "toxemia",
+  "center_letter": "o",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 62,
+  "answer_pangrams": [
+    "toxemia"
+  ],
+  "answers": [
+    "ammo",
+    "atom",
+    "axiom",
+    "emote",
+    "iota",
+    "memo",
+    "moat",
+    "momma",
+    "moot",
+    "mote",
+    "motto",
+    "omit",
+    "tattoo",
+    "tomato",
+    "tome",
+    "toot",
+    "tote",
+    "totem",
+    "toxemia"
+  ],
+  "date": "2032-01-25",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 5,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "E": 1,
+      "I": 1,
+      "M": 6,
+      "O": 1,
+      "T": 7
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "M": {
+        "4": 4,
+        "5": 2
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AM": 1,
+      "AT": 1,
+      "AX": 1,
+      "EM": 1,
+      "IO": 1,
+      "ME": 1,
+      "MO": 5,
+      "OM": 1,
+      "TA": 1,
+      "TO": 6
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "pangram": "jangled",
+  "center_letter": "g",
+  "num_answers": 52,
+  "num_pangrams": 1,
+  "possible_points": 253,
+  "answer_pangrams": [
+    "jangled"
+  ],
+  "answers": [
+    "adage",
+    "aged",
+    "agenda",
+    "alga",
+    "algae",
+    "allege",
+    "alleged",
+    "angel",
+    "angle",
+    "angled",
+    "dangle",
+    "dangled",
+    "eagle",
+    "edge",
+    "edged",
+    "egged",
+    "engage",
+    "engaged",
+    "gadded",
+    "gagged",
+    "gaggle",
+    "gala",
+    "gale",
+    "galena",
+    "gall",
+    "galled",
+    "gang",
+    "ganged",
+    "gangland",
+    "geed",
+    "geld",
+    "gelded",
+    "gelled",
+    "gene",
+    "glad",
+    "gladden",
+    "gladdened",
+    "glade",
+    "gland",
+    "glean",
+    "gleaned",
+    "glee",
+    "glen",
+    "jagged",
+    "jangle",
+    "jangled",
+    "lagged",
+    "ledge",
+    "legal",
+    "legend",
+    "legged",
+    "nagged"
+  ],
+  "date": "2038-07-16",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 12,
+      "6": 19,
+      "7": 6,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 10,
+      "D": 2,
+      "E": 6,
+      "G": 25,
+      "J": 3,
+      "L": 5,
+      "N": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 4,
+        "6": 3,
+        "7": 1
+      },
+      "D": {
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 10,
+        "5": 3,
+        "6": 8,
+        "7": 2,
+        "8": 1,
+        "9": 1
+      },
+      "J": {
+        "6": 2,
+        "7": 1
+      },
+      "L": {
+        "5": 2,
+        "6": 3
+      },
+      "N": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AG": 2,
+      "AL": 4,
+      "AN": 3,
+      "DA": 2,
+      "EA": 1,
+      "ED": 2,
+      "EG": 1,
+      "EN": 2,
+      "GA": 11,
+      "GE": 5,
+      "GL": 9,
+      "JA": 3,
+      "LA": 1,
+      "LE": 4,
+      "NA": 1
+    }
+  }
+}

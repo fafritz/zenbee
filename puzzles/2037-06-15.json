@@ -1,0 +1,109 @@
+{
+  "pangram": "toughen",
+  "center_letter": "n",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 99,
+  "answer_pangrams": [
+    "toughen"
+  ],
+  "answers": [
+    "eggnog",
+    "enough",
+    "entente",
+    "gene",
+    "gent",
+    "gone",
+    "gong",
+    "goon",
+    "gotten",
+    "hone",
+    "hung",
+    "hunt",
+    "nene",
+    "neon",
+    "none",
+    "noon",
+    "note",
+    "noun",
+    "nugget",
+    "onto",
+    "teen",
+    "tenet",
+    "tenon",
+    "tent",
+    "tenth",
+    "then",
+    "thong",
+    "tone",
+    "tongue",
+    "toon",
+    "toughen",
+    "tune",
+    "unguent"
+  ],
+  "date": "2037-06-15",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 4,
+      "6": 5,
+      "7": 3
+    },
+    "by_first_letter": {
+      "E": 3,
+      "G": 6,
+      "H": 3,
+      "N": 7,
+      "O": 1,
+      "T": 12,
+      "U": 1
+    },
+    "grid": {
+      "E": {
+        "6": 2,
+        "7": 1
+      },
+      "G": {
+        "4": 5,
+        "6": 1
+      },
+      "H": {
+        "4": 3
+      },
+      "N": {
+        "4": 6,
+        "6": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 4,
+        "6": 1,
+        "7": 1
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "EG": 1,
+      "EN": 2,
+      "GE": 2,
+      "GO": 4,
+      "HO": 1,
+      "HU": 2,
+      "NE": 2,
+      "NO": 4,
+      "NU": 1,
+      "ON": 1,
+      "TE": 5,
+      "TH": 2,
+      "TO": 4,
+      "TU": 1,
+      "UN": 1
+    }
+  }
+}

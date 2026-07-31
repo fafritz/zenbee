@@ -1,0 +1,104 @@
+{
+  "pangram": "figment",
+  "center_letter": "m",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 136,
+  "answer_pangrams": [
+    "figment"
+  ],
+  "answers": [
+    "eminent",
+    "emit",
+    "emitting",
+    "feminine",
+    "figment",
+    "gimme",
+    "imminent",
+    "item",
+    "meet",
+    "meeting",
+    "meme",
+    "mete",
+    "meting",
+    "mien",
+    "miff",
+    "miffing",
+    "mime",
+    "miming",
+    "mine",
+    "mini",
+    "minim",
+    "mining",
+    "mint",
+    "minting",
+    "mite",
+    "mitt",
+    "mitten",
+    "teem",
+    "teeming",
+    "tenement",
+    "time",
+    "timing"
+  ],
+  "date": "2027-03-06",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 2,
+      "6": 5,
+      "7": 6,
+      "8": 4
+    },
+    "by_first_letter": {
+      "E": 3,
+      "F": 2,
+      "G": 1,
+      "I": 2,
+      "M": 19,
+      "T": 5
+    },
+    "grid": {
+      "E": {
+        "4": 1,
+        "7": 1,
+        "8": 1
+      },
+      "F": {
+        "7": 1,
+        "8": 1
+      },
+      "G": {
+        "5": 1
+      },
+      "I": {
+        "4": 1,
+        "8": 1
+      },
+      "M": {
+        "4": 11,
+        "5": 1,
+        "6": 4,
+        "7": 3
+      },
+      "T": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "EM": 3,
+      "FE": 1,
+      "FI": 1,
+      "GI": 1,
+      "IM": 1,
+      "IT": 1,
+      "ME": 5,
+      "MI": 14,
+      "TE": 3,
+      "TI": 2
+    }
+  }
+}

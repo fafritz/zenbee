@@ -1,0 +1,111 @@
+{
+  "pangram": "frogman",
+  "center_letter": "n",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 111,
+  "answer_pangrams": [
+    "frogman"
+  ],
+  "answers": [
+    "among",
+    "anagram",
+    "angora",
+    "anon",
+    "argon",
+    "fang",
+    "frogman",
+    "gang",
+    "gong",
+    "gonna",
+    "goon",
+    "groan",
+    "manga",
+    "mango",
+    "manna",
+    "manor",
+    "maroon",
+    "moan",
+    "mono",
+    "monogram",
+    "moon",
+    "morn",
+    "moron",
+    "naan",
+    "nana",
+    "noon",
+    "norm",
+    "organ",
+    "rang",
+    "roan",
+    "roman"
+  ],
+  "date": "2030-05-05",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 11,
+      "6": 2,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "F": 2,
+      "G": 5,
+      "M": 11,
+      "N": 4,
+      "O": 1,
+      "R": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "F": {
+        "4": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 2
+      },
+      "M": {
+        "4": 4,
+        "5": 5,
+        "6": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 4
+      },
+      "O": {
+        "5": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AM": 1,
+      "AN": 3,
+      "AR": 1,
+      "FA": 1,
+      "FR": 1,
+      "GA": 1,
+      "GO": 3,
+      "GR": 1,
+      "MA": 5,
+      "MO": 6,
+      "NA": 2,
+      "NO": 2,
+      "OR": 1,
+      "RA": 1,
+      "RO": 2
+    }
+  }
+}

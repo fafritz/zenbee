@@ -1,0 +1,117 @@
+{
+  "pangram": "combine",
+  "center_letter": "e",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 133,
+  "answer_pangrams": [
+    "combine"
+  ],
+  "answers": [
+    "become",
+    "been",
+    "bone",
+    "combine",
+    "come",
+    "commence",
+    "cone",
+    "economic",
+    "emcee",
+    "eminence",
+    "imbibe",
+    "imminence",
+    "income",
+    "innocence",
+    "meme",
+    "memo",
+    "mice",
+    "mien",
+    "mime",
+    "mince",
+    "mine",
+    "mnemonic",
+    "nene",
+    "neocon",
+    "neon",
+    "nice",
+    "niece",
+    "nine",
+    "nominee",
+    "nonce",
+    "none",
+    "oboe",
+    "omen",
+    "once"
+  ],
+  "date": "2026-06-08",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 4,
+      "6": 4,
+      "7": 2,
+      "8": 4,
+      "9": 2
+    },
+    "by_first_letter": {
+      "B": 3,
+      "C": 4,
+      "E": 3,
+      "I": 4,
+      "M": 8,
+      "N": 9,
+      "O": 3
+    },
+    "grid": {
+      "B": {
+        "4": 2,
+        "6": 1
+      },
+      "C": {
+        "4": 2,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "5": 1,
+        "8": 2
+      },
+      "I": {
+        "6": 2,
+        "9": 2
+      },
+      "M": {
+        "4": 6,
+        "5": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 5,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "O": {
+        "4": 3
+      }
+    },
+    "two_letter_list": {
+      "BE": 2,
+      "BO": 1,
+      "CO": 4,
+      "EC": 1,
+      "EM": 2,
+      "IM": 2,
+      "IN": 2,
+      "ME": 2,
+      "MI": 5,
+      "MN": 1,
+      "NE": 3,
+      "NI": 3,
+      "NO": 3,
+      "OB": 1,
+      "OM": 1,
+      "ON": 1
+    }
+  }
+}

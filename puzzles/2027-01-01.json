@@ -1,0 +1,84 @@
+{
+  "pangram": "vaguely",
+  "center_letter": "u",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 70,
+  "answer_pangrams": [
+    "vaguely"
+  ],
+  "answers": [
+    "ague",
+    "gauge",
+    "glue",
+    "gluey",
+    "guava",
+    "gull",
+    "gully",
+    "league",
+    "luau",
+    "luggage",
+    "lull",
+    "lulu",
+    "ugly",
+    "uvula",
+    "vague",
+    "vaguely",
+    "value",
+    "yule"
+  ],
+  "date": "2027-01-01",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 7,
+      "6": 1,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "G": 6,
+      "L": 5,
+      "U": 2,
+      "V": 3,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 4
+      },
+      "L": {
+        "4": 3,
+        "6": 1,
+        "7": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 1
+      },
+      "V": {
+        "5": 2,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "GA": 1,
+      "GL": 2,
+      "GU": 3,
+      "LE": 1,
+      "LU": 4,
+      "UG": 1,
+      "UV": 1,
+      "VA": 3,
+      "YU": 1
+    }
+  }
+}

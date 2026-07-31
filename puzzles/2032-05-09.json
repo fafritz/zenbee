@@ -1,0 +1,123 @@
+{
+  "pangram": "bunched",
+  "center_letter": "e",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 195,
+  "answer_pangrams": [
+    "bunched"
+  ],
+  "answers": [
+    "bedded",
+    "beech",
+    "been",
+    "bench",
+    "benched",
+    "bend",
+    "budded",
+    "bunched",
+    "cede",
+    "ceded",
+    "cube",
+    "cubed",
+    "cued",
+    "deduce",
+    "deduced",
+    "deed",
+    "deeded",
+    "denude",
+    "denuded",
+    "deuce",
+    "dubbed",
+    "dude",
+    "duded",
+    "dunce",
+    "dune",
+    "dunned",
+    "ebbed",
+    "ended",
+    "endue",
+    "endued",
+    "heed",
+    "heeded",
+    "hence",
+    "hunched",
+    "need",
+    "needed",
+    "nene",
+    "unbend",
+    "undue",
+    "unheeded",
+    "unneeded"
+  ],
+  "date": "2032-05-09",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 12,
+      "6": 11,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "B": 8,
+      "C": 5,
+      "D": 13,
+      "E": 4,
+      "H": 4,
+      "N": 3,
+      "U": 4
+    },
+    "grid": {
+      "B": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2
+      },
+      "C": {
+        "4": 3,
+        "5": 2
+      },
+      "D": {
+        "4": 3,
+        "5": 3,
+        "6": 5,
+        "7": 2
+      },
+      "E": {
+        "5": 3,
+        "6": 1
+      },
+      "H": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 2,
+        "6": 1
+      },
+      "U": {
+        "5": 1,
+        "6": 1,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "BE": 6,
+      "BU": 2,
+      "CE": 2,
+      "CU": 3,
+      "DE": 7,
+      "DU": 6,
+      "EB": 1,
+      "EN": 3,
+      "HE": 3,
+      "HU": 1,
+      "NE": 3,
+      "UN": 4
+    }
+  }
+}

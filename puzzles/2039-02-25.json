@@ -1,0 +1,84 @@
+{
+  "pangram": "workday",
+  "center_letter": "w",
+  "num_answers": 24,
+  "num_pangrams": 2,
+  "possible_points": 121,
+  "answer_pangrams": [
+    "workaday",
+    "workday"
+  ],
+  "answers": [
+    "arrow",
+    "award",
+    "away",
+    "awkward",
+    "awry",
+    "doorway",
+    "dowdy",
+    "dowry",
+    "draw",
+    "roadway",
+    "roadwork",
+    "rowdy",
+    "ward",
+    "wary",
+    "wayward",
+    "wood",
+    "woodwork",
+    "woody",
+    "word",
+    "wordy",
+    "work",
+    "workaday",
+    "workday",
+    "worry"
+  ],
+  "date": "2039-02-25",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 8,
+      "7": 5,
+      "8": 3
+    },
+    "by_first_letter": {
+      "A": 5,
+      "D": 4,
+      "R": 3,
+      "W": 12
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      },
+      "R": {
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "W": {
+        "4": 5,
+        "5": 3,
+        "7": 2,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "AR": 1,
+      "AW": 4,
+      "DO": 3,
+      "DR": 1,
+      "RO": 3,
+      "WA": 3,
+      "WO": 9
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "pangram": "vibrato",
+  "center_letter": "b",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 116,
+  "answer_pangrams": [
+    "vibrato"
+  ],
+  "answers": [
+    "abattoir",
+    "abbot",
+    "abort",
+    "arbitrator",
+    "arbor",
+    "baba",
+    "bait",
+    "baobab",
+    "barb",
+    "barrio",
+    "boar",
+    "boat",
+    "boob",
+    "booboo",
+    "boor",
+    "boot",
+    "brat",
+    "bravo",
+    "briar",
+    "obit",
+    "orbit",
+    "rabbi",
+    "rabbit",
+    "robot",
+    "taboo",
+    "tibia",
+    "vibrato"
+  ],
+  "date": "2026-08-31",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 10,
+      "6": 4,
+      "7": 1,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 14,
+      "O": 2,
+      "R": 3,
+      "T": 2,
+      "V": 1
+    },
+    "grid": {
+      "A": {
+        "5": 3,
+        "8": 1,
+        "10": 1
+      },
+      "B": {
+        "4": 9,
+        "5": 2,
+        "6": 3
+      },
+      "O": {
+        "4": 1,
+        "5": 1
+      },
+      "R": {
+        "5": 2,
+        "6": 1
+      },
+      "T": {
+        "5": 2
+      },
+      "V": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 3,
+      "AR": 2,
+      "BA": 5,
+      "BO": 6,
+      "BR": 3,
+      "OB": 1,
+      "OR": 1,
+      "RA": 2,
+      "RO": 1,
+      "TA": 1,
+      "TI": 1,
+      "VI": 1
+    }
+  }
+}

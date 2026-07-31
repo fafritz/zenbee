@@ -1,0 +1,93 @@
+{
+  "pangram": "walkout",
+  "center_letter": "t",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 86,
+  "answer_pangrams": [
+    "walkout"
+  ],
+  "answers": [
+    "allot",
+    "alto",
+    "atoll",
+    "auto",
+    "kowtow",
+    "lookout",
+    "loot",
+    "lotto",
+    "lout",
+    "outlaw",
+    "outlook",
+    "talk",
+    "tall",
+    "tallow",
+    "tattoo",
+    "taut",
+    "toll",
+    "took",
+    "tool",
+    "toot",
+    "total",
+    "tout",
+    "tutu",
+    "walkout",
+    "watt"
+  ],
+  "date": "2034-06-28",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 4,
+      "6": 4,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 4,
+      "K": 1,
+      "L": 4,
+      "O": 2,
+      "T": 12,
+      "W": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2
+      },
+      "K": {
+        "6": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "O": {
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 9,
+        "5": 1,
+        "6": 2
+      },
+      "W": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "AT": 1,
+      "AU": 1,
+      "KO": 1,
+      "LO": 4,
+      "OU": 2,
+      "TA": 5,
+      "TO": 6,
+      "TU": 1,
+      "WA": 2
+    }
+  }
+}

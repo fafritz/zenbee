@@ -1,0 +1,152 @@
+{
+  "pangram": "daytime",
+  "center_letter": "m",
+  "num_answers": 66,
+  "num_pangrams": 1,
+  "possible_points": 285,
+  "answer_pangrams": [
+    "daytime"
+  ],
+  "answers": [
+    "admit",
+    "admitted",
+    "aimed",
+    "amid",
+    "amity",
+    "dame",
+    "dammed",
+    "daytime",
+    "deem",
+    "deemed",
+    "diadem",
+    "dime",
+    "dimmed",
+    "edamame",
+    "edema",
+    "emit",
+    "emitted",
+    "imam",
+    "imitate",
+    "imitated",
+    "immediate",
+    "item",
+    "madam",
+    "madame",
+    "made",
+    "maid",
+    "maim",
+    "maimed",
+    "mama",
+    "mamma",
+    "mammae",
+    "mate",
+    "mated",
+    "matte",
+    "matted",
+    "mayday",
+    "mead",
+    "meat",
+    "meaty",
+    "media",
+    "mediate",
+    "mediated",
+    "meditate",
+    "meditated",
+    "meet",
+    "meme",
+    "meta",
+    "mete",
+    "meted",
+    "midday",
+    "middy",
+    "mime",
+    "mimed",
+    "mite",
+    "mitt",
+    "tame",
+    "tamed",
+    "team",
+    "teamed",
+    "teammate",
+    "teem",
+    "teemed",
+    "time",
+    "timed",
+    "timid",
+    "timidity"
+  ],
+  "date": "2037-05-04",
+  "hints": {
+    "by_length": {
+      "4": 25,
+      "5": 16,
+      "6": 12,
+      "7": 5,
+      "8": 6,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "D": 8,
+      "E": 4,
+      "I": 5,
+      "M": 33,
+      "T": 11
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "8": 1
+      },
+      "D": {
+        "4": 3,
+        "6": 4,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "7": 2
+      },
+      "I": {
+        "4": 2,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "M": {
+        "4": 14,
+        "5": 9,
+        "6": 6,
+        "7": 1,
+        "8": 2,
+        "9": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 3,
+        "6": 2,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "AD": 2,
+      "AI": 1,
+      "AM": 2,
+      "DA": 3,
+      "DE": 2,
+      "DI": 3,
+      "ED": 2,
+      "EM": 2,
+      "IM": 4,
+      "IT": 1,
+      "MA": 14,
+      "ME": 13,
+      "MI": 6,
+      "TA": 2,
+      "TE": 5,
+      "TI": 4
+    }
+  }
+}

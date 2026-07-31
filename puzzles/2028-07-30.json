@@ -1,0 +1,120 @@
+{
+  "pangram": "cleanup",
+  "center_letter": "p",
+  "num_answers": 44,
+  "num_pangrams": 1,
+  "possible_points": 159,
+  "answer_pangrams": [
+    "cleanup"
+  ],
+  "answers": [
+    "alpaca",
+    "apace",
+    "appall",
+    "appeal",
+    "apple",
+    "canape",
+    "canape",
+    "cape",
+    "clap",
+    "cleanup",
+    "epee",
+    "lapel",
+    "leap",
+    "nape",
+    "neap",
+    "pace",
+    "paean",
+    "palace",
+    "pale",
+    "pall",
+    "panacea",
+    "pane",
+    "panel",
+    "papa",
+    "papal",
+    "peace",
+    "peal",
+    "pecan",
+    "peel",
+    "peen",
+    "peep",
+    "penal",
+    "penance",
+    "pence",
+    "place",
+    "plan",
+    "plane",
+    "plea",
+    "pull",
+    "pulp",
+    "pupa",
+    "pupae",
+    "pupal",
+    "uncap"
+  ],
+  "date": "2028-07-30",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 15,
+      "6": 6,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 5,
+      "E": 1,
+      "L": 2,
+      "N": 2,
+      "P": 28,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "6": 3
+      },
+      "C": {
+        "4": 2,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1
+      },
+      "N": {
+        "4": 2
+      },
+      "P": {
+        "4": 14,
+        "5": 11,
+        "6": 1,
+        "7": 2
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AP": 4,
+      "CA": 3,
+      "CL": 2,
+      "EP": 1,
+      "LA": 1,
+      "LE": 1,
+      "NA": 1,
+      "NE": 1,
+      "PA": 10,
+      "PE": 9,
+      "PL": 4,
+      "PU": 5,
+      "UN": 1
+    }
+  }
+}

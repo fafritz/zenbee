@@ -1,0 +1,78 @@
+{
+  "pangram": "mucking",
+  "center_letter": "k",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 76,
+  "answer_pangrams": [
+    "mucking"
+  ],
+  "answers": [
+    "gimmick",
+    "gunk",
+    "inking",
+    "kick",
+    "kicking",
+    "king",
+    "kink",
+    "kinking",
+    "miking",
+    "mimicking",
+    "mink",
+    "muck",
+    "mucking",
+    "nick",
+    "nicking",
+    "nuking"
+  ],
+  "date": "2030-03-19",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "6": 3,
+      "7": 5,
+      "9": 1
+    },
+    "by_first_letter": {
+      "G": 2,
+      "I": 1,
+      "K": 5,
+      "M": 5,
+      "N": 3
+    },
+    "grid": {
+      "G": {
+        "4": 1,
+        "7": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "K": {
+        "4": 3,
+        "7": 2
+      },
+      "M": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 1,
+      "GU": 1,
+      "IN": 1,
+      "KI": 5,
+      "MI": 3,
+      "MU": 2,
+      "NI": 2,
+      "NU": 1
+    }
+  }
+}

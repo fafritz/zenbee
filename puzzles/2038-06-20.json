@@ -1,0 +1,125 @@
+{
+  "pangram": "hawking",
+  "center_letter": "g",
+  "num_answers": 44,
+  "num_pangrams": 1,
+  "possible_points": 241,
+  "answer_pangrams": [
+    "hawking"
+  ],
+  "answers": [
+    "again",
+    "aging",
+    "angina",
+    "awaking",
+    "awing",
+    "awning",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "gawk",
+    "gawking",
+    "gigging",
+    "ginning",
+    "gnaw",
+    "gnawing",
+    "hang",
+    "hanging",
+    "hawing",
+    "hawking",
+    "high",
+    "hiking",
+    "hing",
+    "hinging",
+    "inking",
+    "inning",
+    "king",
+    "kinking",
+    "nagging",
+    "nigh",
+    "wagging",
+    "waging",
+    "waking",
+    "waning",
+    "whining",
+    "wigging",
+    "wigwag",
+    "wigwagging",
+    "wing",
+    "winging",
+    "wining",
+    "winking",
+    "winning"
+  ],
+  "date": "2038-06-20",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 3,
+      "6": 11,
+      "7": 19,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "G": 11,
+      "H": 8,
+      "I": 2,
+      "K": 2,
+      "N": 2,
+      "W": 13
+    },
+    "grid": {
+      "A": {
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "G": {
+        "4": 4,
+        "7": 7
+      },
+      "H": {
+        "4": 3,
+        "6": 2,
+        "7": 3
+      },
+      "I": {
+        "6": 2
+      },
+      "K": {
+        "4": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 1,
+        "7": 1
+      },
+      "W": {
+        "4": 1,
+        "6": 5,
+        "7": 6,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AN": 1,
+      "AW": 3,
+      "GA": 7,
+      "GI": 2,
+      "GN": 2,
+      "HA": 4,
+      "HI": 4,
+      "IN": 2,
+      "KI": 2,
+      "NA": 1,
+      "NI": 1,
+      "WA": 4,
+      "WH": 1,
+      "WI": 8
+    }
+  }
+}

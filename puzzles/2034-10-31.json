@@ -1,0 +1,91 @@
+{
+  "pangram": "talking",
+  "center_letter": "k",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 113,
+  "answer_pangrams": [
+    "talking"
+  ],
+  "answers": [
+    "akin",
+    "alkali",
+    "inking",
+    "inkling",
+    "kill",
+    "killing",
+    "kiln",
+    "kilning",
+    "kilt",
+    "king",
+    "kink",
+    "kinking",
+    "kiting",
+    "knit",
+    "knitting",
+    "lank",
+    "liking",
+    "link",
+    "linking",
+    "taking",
+    "talk",
+    "talking",
+    "tank",
+    "tanking",
+    "tinkling"
+  ],
+  "date": "2034-10-31",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "6": 5,
+      "7": 7,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "I": 2,
+      "K": 11,
+      "L": 4,
+      "T": 6
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1
+      },
+      "I": {
+        "6": 1,
+        "7": 1
+      },
+      "K": {
+        "4": 6,
+        "6": 1,
+        "7": 3,
+        "8": 1
+      },
+      "L": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 2,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AK": 1,
+      "AL": 1,
+      "IN": 2,
+      "KI": 9,
+      "KN": 2,
+      "LA": 1,
+      "LI": 3,
+      "TA": 5,
+      "TI": 1
+    }
+  }
+}

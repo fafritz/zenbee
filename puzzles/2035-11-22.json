@@ -1,0 +1,92 @@
+{
+  "pangram": "primacy",
+  "center_letter": "m",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 98,
+  "answer_pangrams": [
+    "primacy"
+  ],
+  "answers": [
+    "army",
+    "camp",
+    "campy",
+    "cram",
+    "cramp",
+    "crimp",
+    "imam",
+    "impair",
+    "maim",
+    "mama",
+    "mamma",
+    "mammary",
+    "maraca",
+    "maria",
+    "marry",
+    "mica",
+    "mimic",
+    "mimicry",
+    "pimp",
+    "pram",
+    "prim",
+    "primacy",
+    "primary",
+    "primp",
+    "ramp"
+  ],
+  "date": "2035-11-22",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 8,
+      "6": 2,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 5,
+      "I": 2,
+      "M": 10,
+      "P": 6,
+      "R": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 3
+      },
+      "I": {
+        "4": 1,
+        "6": 1
+      },
+      "M": {
+        "4": 3,
+        "5": 4,
+        "6": 1,
+        "7": 2
+      },
+      "P": {
+        "4": 3,
+        "5": 1,
+        "7": 2
+      },
+      "R": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AR": 1,
+      "CA": 2,
+      "CR": 3,
+      "IM": 2,
+      "MA": 7,
+      "MI": 3,
+      "PI": 1,
+      "PR": 5,
+      "RA": 1
+    }
+  }
+}

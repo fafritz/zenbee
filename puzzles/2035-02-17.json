@@ -1,0 +1,95 @@
+{
+  "pangram": "bounced",
+  "center_letter": "b",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 136,
+  "answer_pangrams": [
+    "bounced"
+  ],
+  "answers": [
+    "bedded",
+    "been",
+    "bend",
+    "bobbed",
+    "bode",
+    "boded",
+    "bonbon",
+    "bond",
+    "bonded",
+    "bone",
+    "boned",
+    "boob",
+    "boobed",
+    "booboo",
+    "booed",
+    "boon",
+    "bounce",
+    "bounced",
+    "bound",
+    "bounded",
+    "budded",
+    "cube",
+    "cubed",
+    "dubbed",
+    "ebbed",
+    "oboe",
+    "unbend",
+    "unbound",
+    "unbounded"
+  ],
+  "date": "2035-02-17",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 6,
+      "6": 10,
+      "7": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "B": 21,
+      "C": 2,
+      "D": 1,
+      "E": 1,
+      "O": 1,
+      "U": 3
+    },
+    "grid": {
+      "B": {
+        "4": 7,
+        "5": 4,
+        "6": 8,
+        "7": 2
+      },
+      "C": {
+        "4": 1,
+        "5": 1
+      },
+      "D": {
+        "6": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "U": {
+        "6": 1,
+        "7": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 3,
+      "BO": 17,
+      "BU": 1,
+      "CU": 2,
+      "DU": 1,
+      "EB": 1,
+      "OB": 1,
+      "UN": 3
+    }
+  }
+}

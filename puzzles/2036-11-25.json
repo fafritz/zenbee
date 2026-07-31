@@ -1,0 +1,95 @@
+{
+  "pangram": "rainbow",
+  "center_letter": "b",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 149,
+  "answer_pangrams": [
+    "rainbow"
+  ],
+  "answers": [
+    "arbor",
+    "baba",
+    "baboon",
+    "banana",
+    "baobab",
+    "barb",
+    "barbarian",
+    "barn",
+    "baron",
+    "barrio",
+    "barrow",
+    "boar",
+    "bobbin",
+    "bonbon",
+    "boob",
+    "booboo",
+    "boon",
+    "boor",
+    "born",
+    "boron",
+    "borrow",
+    "brain",
+    "bran",
+    "brawn",
+    "briar",
+    "brow",
+    "brown",
+    "inborn",
+    "nabob",
+    "rabbi",
+    "rainbow",
+    "ribbon",
+    "robin"
+  ],
+  "date": "2036-11-25",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 10,
+      "6": 11,
+      "7": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 26,
+      "I": 1,
+      "N": 1,
+      "R": 4
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "B": {
+        "4": 10,
+        "5": 6,
+        "6": 9,
+        "9": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "N": {
+        "5": 1
+      },
+      "R": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AR": 1,
+      "BA": 10,
+      "BO": 10,
+      "BR": 6,
+      "IN": 1,
+      "NA": 1,
+      "RA": 2,
+      "RI": 1,
+      "RO": 1
+    }
+  }
+}

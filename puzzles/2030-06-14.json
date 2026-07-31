@@ -1,0 +1,120 @@
+{
+  "pangram": "cyanide",
+  "center_letter": "i",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 206,
+  "answer_pangrams": [
+    "cyanide"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acid",
+    "acidic",
+    "aide",
+    "aided",
+    "caddie",
+    "caddied",
+    "candid",
+    "candidacy",
+    "candied",
+    "canine",
+    "cicada",
+    "cyanide",
+    "cynic",
+    "decide",
+    "decided",
+    "deice",
+    "deiced",
+    "denied",
+    "dice",
+    "diced",
+    "dicey",
+    "died",
+    "dine",
+    "dined",
+    "dinned",
+    "dyadic",
+    "eddied",
+    "iced",
+    "idea",
+    "inane",
+    "incidence",
+    "indecency",
+    "indeed",
+    "naiad",
+    "niacin",
+    "nice",
+    "niece",
+    "nine",
+    "ninny"
+  ],
+  "date": "2030-06-14",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 10,
+      "6": 14,
+      "7": 4,
+      "9": 3
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 9,
+      "D": 13,
+      "E": 1,
+      "I": 6,
+      "N": 6
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 1,
+        "6": 2
+      },
+      "C": {
+        "5": 1,
+        "6": 4,
+        "7": 3,
+        "9": 1
+      },
+      "D": {
+        "4": 3,
+        "5": 4,
+        "6": 5,
+        "7": 1
+      },
+      "E": {
+        "6": 1
+      },
+      "I": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "9": 2
+      },
+      "N": {
+        "4": 2,
+        "5": 3,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 4,
+      "AI": 2,
+      "CA": 6,
+      "CI": 1,
+      "CY": 2,
+      "DE": 5,
+      "DI": 7,
+      "DY": 1,
+      "ED": 1,
+      "IC": 1,
+      "ID": 1,
+      "IN": 4,
+      "NA": 1,
+      "NI": 5
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "pangram": "optimal",
+  "center_letter": "m",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 95,
+  "answer_pangrams": [
+    "optimal"
+  ],
+  "answers": [
+    "ammo",
+    "atom",
+    "imam",
+    "impala",
+    "lama",
+    "lamp",
+    "limit",
+    "limo",
+    "limp",
+    "llama",
+    "loam",
+    "loom",
+    "mail",
+    "maim",
+    "mall",
+    "malt",
+    "mama",
+    "mamma",
+    "mammal",
+    "militia",
+    "mill",
+    "mitt",
+    "moat",
+    "moll",
+    "molt",
+    "momma",
+    "moot",
+    "motto",
+    "omit",
+    "optima",
+    "optimal",
+    "palm",
+    "pimp",
+    "pomp",
+    "tamp",
+    "tomato"
+  ],
+  "date": "2027-07-01",
+  "hints": {
+    "by_length": {
+      "4": 25,
+      "5": 5,
+      "6": 4,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "I": 2,
+      "L": 8,
+      "M": 16,
+      "O": 3,
+      "P": 3,
+      "T": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2
+      },
+      "I": {
+        "4": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 6,
+        "5": 2
+      },
+      "M": {
+        "4": 11,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 3
+      },
+      "T": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AM": 1,
+      "AT": 1,
+      "IM": 2,
+      "LA": 2,
+      "LI": 3,
+      "LL": 1,
+      "LO": 2,
+      "MA": 7,
+      "MI": 3,
+      "MO": 6,
+      "OM": 1,
+      "OP": 2,
+      "PA": 1,
+      "PI": 1,
+      "PO": 1,
+      "TA": 1,
+      "TO": 1
+    }
+  }
+}

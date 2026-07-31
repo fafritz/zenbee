@@ -1,0 +1,129 @@
+{
+  "pangram": "plunged",
+  "center_letter": "n",
+  "num_answers": 40,
+  "num_pangrams": 2,
+  "possible_points": 211,
+  "answer_pangrams": [
+    "plunged",
+    "unplugged"
+  ],
+  "answers": [
+    "deepen",
+    "deepened",
+    "denude",
+    "denuded",
+    "depend",
+    "depended",
+    "dune",
+    "dung",
+    "dunged",
+    "dunned",
+    "ended",
+    "endue",
+    "endued",
+    "gene",
+    "glen",
+    "gunned",
+    "legend",
+    "lend",
+    "lung",
+    "lunge",
+    "lunged",
+    "need",
+    "needed",
+    "needle",
+    "needled",
+    "nene",
+    "nudge",
+    "nudged",
+    "null",
+    "peen",
+    "penned",
+    "plunge",
+    "plunged",
+    "punned",
+    "undue",
+    "unneeded",
+    "unplug",
+    "unplugged",
+    "upend",
+    "upended"
+  ],
+  "date": "2038-08-17",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 6,
+      "6": 16,
+      "7": 4,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "D": 10,
+      "E": 3,
+      "G": 3,
+      "L": 5,
+      "N": 8,
+      "P": 5,
+      "U": 6
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "6": 5,
+        "7": 1,
+        "8": 2
+      },
+      "E": {
+        "5": 2,
+        "6": 1
+      },
+      "G": {
+        "4": 2,
+        "6": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "N": {
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 1
+      },
+      "P": {
+        "4": 1,
+        "6": 3,
+        "7": 1
+      },
+      "U": {
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 6,
+      "DU": 4,
+      "EN": 3,
+      "GE": 1,
+      "GL": 1,
+      "GU": 1,
+      "LE": 2,
+      "LU": 3,
+      "NE": 5,
+      "NU": 3,
+      "PE": 2,
+      "PL": 2,
+      "PU": 1,
+      "UN": 4,
+      "UP": 2
+    }
+  }
+}

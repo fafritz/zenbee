@@ -1,0 +1,92 @@
+{
+  "pangram": "wakeful",
+  "center_letter": "e",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 62,
+  "answer_pangrams": [
+    "wakeful"
+  ],
+  "answers": [
+    "awake",
+    "fake",
+    "feel",
+    "fell",
+    "flake",
+    "flea",
+    "flee",
+    "flew",
+    "flue",
+    "fluke",
+    "fuel",
+    "kale",
+    "keel",
+    "lake",
+    "leaf",
+    "leak",
+    "leek",
+    "ukulele",
+    "waffle",
+    "wake",
+    "wakeful",
+    "wale",
+    "weak",
+    "weal",
+    "week",
+    "well"
+  ],
+  "date": "2035-12-17",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 3,
+      "6": 1,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "F": 10,
+      "K": 2,
+      "L": 4,
+      "U": 1,
+      "W": 8
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "F": {
+        "4": 8,
+        "5": 2
+      },
+      "K": {
+        "4": 2
+      },
+      "L": {
+        "4": 4
+      },
+      "U": {
+        "7": 1
+      },
+      "W": {
+        "4": 6,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AW": 1,
+      "FA": 1,
+      "FE": 2,
+      "FL": 6,
+      "FU": 1,
+      "KA": 1,
+      "KE": 1,
+      "LA": 1,
+      "LE": 3,
+      "UK": 1,
+      "WA": 4,
+      "WE": 4
+    }
+  }
+}

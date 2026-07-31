@@ -1,0 +1,86 @@
+{
+  "pangram": "paunchy",
+  "center_letter": "y",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 85,
+  "answer_pangrams": [
+    "paunchy"
+  ],
+  "answers": [
+    "achy",
+    "canny",
+    "chancy",
+    "cyan",
+    "happy",
+    "nanny",
+    "nappy",
+    "papacy",
+    "papaya",
+    "paunchy",
+    "punchy",
+    "puny",
+    "puppy",
+    "uncanny",
+    "unhappy",
+    "yucca"
+  ],
+  "date": "2032-07-23",
+  "hints": {
+    "by_length": {
+      "4": 3,
+      "5": 6,
+      "6": 4,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 3,
+      "H": 1,
+      "N": 2,
+      "P": 6,
+      "U": 2,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "H": {
+        "5": 1
+      },
+      "N": {
+        "5": 2
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 1
+      },
+      "U": {
+        "7": 2
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "CA": 1,
+      "CH": 1,
+      "CY": 1,
+      "HA": 1,
+      "NA": 2,
+      "PA": 3,
+      "PU": 3,
+      "UN": 2,
+      "YU": 1
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "pangram": "flicked",
+  "center_letter": "f",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 168,
+  "answer_pangrams": [
+    "flicked"
+  ],
+  "answers": [
+    "clef",
+    "cliff",
+    "defied",
+    "defile",
+    "defiled",
+    "deified",
+    "diff",
+    "diffed",
+    "edifice",
+    "edified",
+    "feed",
+    "feel",
+    "fell",
+    "felled",
+    "fickle",
+    "fiddle",
+    "fiddled",
+    "fief",
+    "field",
+    "fielded",
+    "fife",
+    "file",
+    "filed",
+    "fill",
+    "filled",
+    "fleck",
+    "flecked",
+    "fled",
+    "flee",
+    "fleece",
+    "fleeced",
+    "flick",
+    "flicked",
+    "flied",
+    "life",
+    "lifelike"
+  ],
+  "date": "2035-01-01",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 6,
+      "6": 8,
+      "7": 9,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 2,
+      "D": 6,
+      "E": 2,
+      "F": 24,
+      "L": 2
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 1
+      },
+      "D": {
+        "4": 1,
+        "6": 3,
+        "7": 2
+      },
+      "E": {
+        "7": 2
+      },
+      "F": {
+        "4": 9,
+        "5": 5,
+        "6": 5,
+        "7": 5
+      },
+      "L": {
+        "4": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 2,
+      "DE": 4,
+      "DI": 2,
+      "ED": 2,
+      "FE": 4,
+      "FI": 11,
+      "FL": 9,
+      "LI": 2
+    }
+  }
+}

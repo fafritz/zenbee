@@ -1,0 +1,132 @@
+{
+  "pangram": "lurking",
+  "center_letter": "n",
+  "num_answers": 48,
+  "num_pangrams": 1,
+  "possible_points": 266,
+  "answer_pangrams": [
+    "lurking"
+  ],
+  "answers": [
+    "gigging",
+    "giggling",
+    "ginning",
+    "gluing",
+    "grilling",
+    "grin",
+    "grinning",
+    "gulling",
+    "gunk",
+    "gunning",
+    "gunrunning",
+    "gurgling",
+    "inking",
+    "inkling",
+    "inning",
+    "inuring",
+    "irking",
+    "killing",
+    "kiln",
+    "kilning",
+    "king",
+    "kink",
+    "kinking",
+    "liking",
+    "lining",
+    "link",
+    "linking",
+    "lugging",
+    "lulling",
+    "lung",
+    "lunging",
+    "luring",
+    "lurking",
+    "niggling",
+    "nuking",
+    "null",
+    "rigging",
+    "riling",
+    "ring",
+    "ringing",
+    "rink",
+    "ruin",
+    "ruing",
+    "ruining",
+    "ruling",
+    "rung",
+    "running",
+    "urging"
+  ],
+  "date": "2030-07-20",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 1,
+      "6": 11,
+      "7": 18,
+      "8": 5,
+      "10": 1
+    },
+    "by_first_letter": {
+      "G": 12,
+      "I": 5,
+      "K": 6,
+      "L": 10,
+      "N": 3,
+      "R": 11,
+      "U": 1
+    },
+    "grid": {
+      "G": {
+        "4": 2,
+        "6": 1,
+        "7": 4,
+        "8": 4,
+        "10": 1
+      },
+      "I": {
+        "6": 3,
+        "7": 2
+      },
+      "K": {
+        "4": 3,
+        "7": 3
+      },
+      "L": {
+        "4": 2,
+        "6": 3,
+        "7": 5
+      },
+      "N": {
+        "4": 1,
+        "6": 1,
+        "8": 1
+      },
+      "R": {
+        "4": 4,
+        "5": 1,
+        "6": 2,
+        "7": 4
+      },
+      "U": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 3,
+      "GL": 1,
+      "GR": 3,
+      "GU": 5,
+      "IN": 4,
+      "IR": 1,
+      "KI": 6,
+      "LI": 4,
+      "LU": 6,
+      "NI": 1,
+      "NU": 2,
+      "RI": 5,
+      "RU": 6,
+      "UR": 1
+    }
+  }
+}

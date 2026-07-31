@@ -1,0 +1,89 @@
+{
+  "pangram": "padlock",
+  "center_letter": "c",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 82,
+  "answer_pangrams": [
+    "padlock"
+  ],
+  "answers": [
+    "alpaca",
+    "cacao",
+    "call",
+    "calla",
+    "capo",
+    "clack",
+    "clad",
+    "clap",
+    "cloak",
+    "clock",
+    "clod",
+    "clop",
+    "coal",
+    "coca",
+    "cocoa",
+    "coda",
+    "cola",
+    "cold",
+    "cook",
+    "cool",
+    "coop",
+    "dock",
+    "lack",
+    "local",
+    "lock",
+    "loco",
+    "pack",
+    "paddock",
+    "padlock",
+    "pock"
+  ],
+  "date": "2027-05-22",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 7,
+      "6": 1,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 20,
+      "D": 1,
+      "L": 4,
+      "P": 4
+    },
+    "grid": {
+      "A": {
+        "6": 1
+      },
+      "C": {
+        "4": 14,
+        "5": 6
+      },
+      "D": {
+        "4": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1
+      },
+      "P": {
+        "4": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "CA": 4,
+      "CL": 7,
+      "CO": 9,
+      "DO": 1,
+      "LA": 1,
+      "LO": 3,
+      "PA": 3,
+      "PO": 1
+    }
+  }
+}

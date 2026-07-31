@@ -1,0 +1,84 @@
+{
+  "pangram": "varying",
+  "center_letter": "v",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 99,
+  "answer_pangrams": [
+    "varying"
+  ],
+  "answers": [
+    "arriving",
+    "avian",
+    "aviary",
+    "giving",
+    "graving",
+    "gravy",
+    "navy",
+    "nirvana",
+    "ravaging",
+    "raving",
+    "vagary",
+    "vain",
+    "vanning",
+    "vary",
+    "varying",
+    "virgin",
+    "vying"
+  ],
+  "date": "2032-07-12",
+  "hints": {
+    "by_length": {
+      "4": 3,
+      "5": 3,
+      "6": 5,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "G": 3,
+      "N": 2,
+      "R": 2,
+      "V": 7
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "G": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 1,
+        "7": 1
+      },
+      "R": {
+        "6": 1,
+        "8": 1
+      },
+      "V": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AR": 1,
+      "AV": 2,
+      "GI": 1,
+      "GR": 2,
+      "NA": 1,
+      "NI": 1,
+      "RA": 2,
+      "VA": 5,
+      "VI": 1,
+      "VY": 1
+    }
+  }
+}

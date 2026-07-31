@@ -1,0 +1,80 @@
+{
+  "pangram": "harping",
+  "center_letter": "h",
+  "num_answers": 20,
+  "num_pangrams": 3,
+  "possible_points": 127,
+  "answer_pangrams": [
+    "graphing",
+    "harping",
+    "paragraphing"
+  ],
+  "answers": [
+    "graph",
+    "graphing",
+    "hair",
+    "hairpin",
+    "hang",
+    "hangar",
+    "hanging",
+    "haring",
+    "harp",
+    "harping",
+    "high",
+    "hing",
+    "hinging",
+    "hipping",
+    "hiring",
+    "nigh",
+    "paragraph",
+    "paragraphing",
+    "pariah",
+    "piranha"
+  ],
+  "date": "2033-03-04",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 1,
+      "6": 4,
+      "7": 6,
+      "8": 1,
+      "9": 1,
+      "12": 1
+    },
+    "by_first_letter": {
+      "G": 2,
+      "H": 13,
+      "N": 1,
+      "P": 4
+    },
+    "grid": {
+      "G": {
+        "5": 1,
+        "8": 1
+      },
+      "H": {
+        "4": 5,
+        "6": 3,
+        "7": 5
+      },
+      "N": {
+        "4": 1
+      },
+      "P": {
+        "6": 1,
+        "7": 1,
+        "9": 1,
+        "12": 1
+      }
+    },
+    "two_letter_list": {
+      "GR": 2,
+      "HA": 8,
+      "HI": 5,
+      "NI": 1,
+      "PA": 3,
+      "PI": 1
+    }
+  }
+}

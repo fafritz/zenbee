@@ -1,0 +1,109 @@
+{
+  "pangram": "batched",
+  "center_letter": "b",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 179,
+  "answer_pangrams": [
+    "batched"
+  ],
+  "answers": [
+    "abate",
+    "abated",
+    "abbe",
+    "abet",
+    "abetted",
+    "baaed",
+    "baba",
+    "babe",
+    "bade",
+    "batch",
+    "batched",
+    "bated",
+    "bath",
+    "bathe",
+    "bathed",
+    "batted",
+    "beach",
+    "beached",
+    "beachhead",
+    "bead",
+    "beaded",
+    "beat",
+    "bedded",
+    "beech",
+    "beet",
+    "behead",
+    "beheaded",
+    "beta",
+    "cabbed",
+    "dabbed",
+    "deadbeat",
+    "deathbed",
+    "debate",
+    "debated",
+    "debt",
+    "ebbed",
+    "tabbed"
+  ],
+  "date": "2037-04-19",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 8,
+      "6": 10,
+      "7": 4,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 23,
+      "C": 1,
+      "D": 6,
+      "E": 1,
+      "T": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "B": {
+        "4": 8,
+        "5": 6,
+        "6": 5,
+        "7": 2,
+        "8": 1,
+        "9": 1
+      },
+      "C": {
+        "6": 1
+      },
+      "D": {
+        "4": 1,
+        "6": 2,
+        "7": 1,
+        "8": 2
+      },
+      "E": {
+        "5": 1
+      },
+      "T": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 5,
+      "BA": 11,
+      "BE": 12,
+      "CA": 1,
+      "DA": 1,
+      "DE": 5,
+      "EB": 1,
+      "TA": 1
+    }
+  }
+}

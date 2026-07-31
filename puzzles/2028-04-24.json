@@ -1,0 +1,137 @@
+{
+  "pangram": "lunatic",
+  "center_letter": "i",
+  "num_answers": 43,
+  "num_pangrams": 2,
+  "possible_points": 224,
+  "answer_pangrams": [
+    "lunatic",
+    "nautical"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "anti",
+    "antic",
+    "attain",
+    "attic",
+    "cacti",
+    "calculi",
+    "cattail",
+    "cilia",
+    "clinic",
+    "clinical",
+    "clinician",
+    "illicit",
+    "initial",
+    "intact",
+    "intuit",
+    "italic",
+    "lactic",
+    "lain",
+    "licit",
+    "lilac",
+    "lilt",
+    "lint",
+    "lunatic",
+    "nail",
+    "nautical",
+    "niacin",
+    "tacit",
+    "tactic",
+    "tactical",
+    "tactician",
+    "tail",
+    "taint",
+    "tannin",
+    "till",
+    "tilt",
+    "tint",
+    "titan",
+    "titanic",
+    "tunic",
+    "unit",
+    "until"
+  ],
+  "date": "2028-04-24",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 11,
+      "6": 10,
+      "7": 6,
+      "8": 3,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 7,
+      "I": 5,
+      "L": 7,
+      "N": 3,
+      "T": 13,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "6": 2
+      },
+      "C": {
+        "5": 2,
+        "6": 1,
+        "7": 2,
+        "8": 1,
+        "9": 1
+      },
+      "I": {
+        "6": 3,
+        "7": 2
+      },
+      "L": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 4,
+        "6": 2,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AN": 2,
+      "AT": 2,
+      "CA": 3,
+      "CI": 1,
+      "CL": 3,
+      "IL": 1,
+      "IN": 3,
+      "IT": 1,
+      "LA": 2,
+      "LI": 4,
+      "LU": 1,
+      "NA": 2,
+      "NI": 1,
+      "TA": 7,
+      "TI": 5,
+      "TU": 1,
+      "UN": 2
+    }
+  }
+}

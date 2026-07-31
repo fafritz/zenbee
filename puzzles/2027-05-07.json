@@ -1,0 +1,94 @@
+{
+  "pangram": "walking",
+  "center_letter": "k",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 106,
+  "answer_pangrams": [
+    "walking"
+  ],
+  "answers": [
+    "akin",
+    "alkali",
+    "awaking",
+    "gawk",
+    "gawking",
+    "inking",
+    "inkling",
+    "kill",
+    "killing",
+    "kiln",
+    "kilning",
+    "king",
+    "kink",
+    "kinking",
+    "kiwi",
+    "lank",
+    "liking",
+    "link",
+    "linking",
+    "waking",
+    "walk",
+    "walking",
+    "wiki",
+    "wink",
+    "winking"
+  ],
+  "date": "2027-05-07",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "6": 4,
+      "7": 9
+    },
+    "by_first_letter": {
+      "A": 3,
+      "G": 2,
+      "I": 2,
+      "K": 8,
+      "L": 4,
+      "W": 6
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 1,
+        "7": 1
+      },
+      "I": {
+        "6": 1,
+        "7": 1
+      },
+      "K": {
+        "4": 5,
+        "7": 3
+      },
+      "L": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      },
+      "W": {
+        "4": 3,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AK": 1,
+      "AL": 1,
+      "AW": 1,
+      "GA": 2,
+      "IN": 2,
+      "KI": 8,
+      "LA": 1,
+      "LI": 3,
+      "WA": 3,
+      "WI": 3
+    }
+  }
+}

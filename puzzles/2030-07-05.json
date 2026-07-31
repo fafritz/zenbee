@@ -1,0 +1,121 @@
+{
+  "pangram": "exclaim",
+  "center_letter": "m",
+  "num_answers": 45,
+  "num_pangrams": 1,
+  "possible_points": 163,
+  "answer_pangrams": [
+    "exclaim"
+  ],
+  "answers": [
+    "acclaim",
+    "acme",
+    "calm",
+    "came",
+    "camel",
+    "camellia",
+    "claim",
+    "clam",
+    "climax",
+    "clime",
+    "email",
+    "emcee",
+    "exam",
+    "exclaim",
+    "imam",
+    "lama",
+    "lame",
+    "lemma",
+    "lime",
+    "llama",
+    "mace",
+    "mail",
+    "maim",
+    "male",
+    "malice",
+    "mall",
+    "mama",
+    "mamma",
+    "mammae",
+    "mammal",
+    "maxilla",
+    "maxillae",
+    "maxim",
+    "maxima",
+    "maximal",
+    "meal",
+    "mecca",
+    "melee",
+    "meme",
+    "mica",
+    "mice",
+    "mile",
+    "mill",
+    "mime",
+    "mimic"
+  ],
+  "date": "2030-07-05",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 12,
+      "6": 5,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 8,
+      "E": 4,
+      "I": 1,
+      "L": 5,
+      "M": 25
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "8": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 2
+      },
+      "M": {
+        "4": 13,
+        "5": 5,
+        "6": 4,
+        "7": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "CA": 4,
+      "CL": 4,
+      "EM": 2,
+      "EX": 2,
+      "IM": 1,
+      "LA": 2,
+      "LE": 1,
+      "LI": 1,
+      "LL": 1,
+      "MA": 15,
+      "ME": 4,
+      "MI": 6
+    }
+  }
+}

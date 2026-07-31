@@ -1,0 +1,76 @@
+{
+  "pangram": "warming",
+  "center_letter": "w",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 137,
+  "answer_pangrams": [
+    "warming"
+  ],
+  "answers": [
+    "awing",
+    "awning",
+    "gnaw",
+    "gnawing",
+    "wagging",
+    "waging",
+    "waning",
+    "warm",
+    "warming",
+    "warn",
+    "warning",
+    "warring",
+    "wigging",
+    "wigwag",
+    "wigwagging",
+    "wigwam",
+    "wing",
+    "winging",
+    "wining",
+    "winning",
+    "wiring",
+    "wring",
+    "wringing"
+  ],
+  "date": "2026-09-22",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 2,
+      "6": 7,
+      "7": 8,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "G": 2,
+      "W": 19
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1
+      },
+      "G": {
+        "4": 1,
+        "7": 1
+      },
+      "W": {
+        "4": 3,
+        "5": 1,
+        "6": 6,
+        "7": 7,
+        "8": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AW": 2,
+      "GN": 2,
+      "WA": 8,
+      "WI": 9,
+      "WR": 2
+    }
+  }
+}

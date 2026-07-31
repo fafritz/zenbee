@@ -1,0 +1,121 @@
+{
+  "pangram": "hacking",
+  "center_letter": "g",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 235,
+  "answer_pangrams": [
+    "hacking"
+  ],
+  "answers": [
+    "aching",
+    "acing",
+    "again",
+    "aging",
+    "angina",
+    "caching",
+    "caging",
+    "caking",
+    "caning",
+    "canning",
+    "chaining",
+    "chancing",
+    "changing",
+    "chinking",
+    "chinning",
+    "cinching",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "gigging",
+    "ginning",
+    "hacking",
+    "hang",
+    "hanging",
+    "high",
+    "hiking",
+    "hing",
+    "hinging",
+    "icing",
+    "inching",
+    "inking",
+    "inning",
+    "kicking",
+    "king",
+    "kinking",
+    "nagging",
+    "nicking",
+    "nigh"
+  ],
+  "date": "2028-06-20",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 4,
+      "6": 8,
+      "7": 15,
+      "8": 6
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 11,
+      "G": 7,
+      "H": 7,
+      "I": 4,
+      "K": 3,
+      "N": 3
+    },
+    "grid": {
+      "A": {
+        "5": 3,
+        "6": 2
+      },
+      "C": {
+        "6": 3,
+        "7": 2,
+        "8": 6
+      },
+      "G": {
+        "4": 2,
+        "7": 5
+      },
+      "H": {
+        "4": 3,
+        "6": 1,
+        "7": 3
+      },
+      "I": {
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "K": {
+        "4": 1,
+        "7": 2
+      },
+      "N": {
+        "4": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AG": 2,
+      "AN": 1,
+      "CA": 5,
+      "CH": 5,
+      "CI": 1,
+      "GA": 5,
+      "GI": 2,
+      "HA": 3,
+      "HI": 4,
+      "IC": 1,
+      "IN": 3,
+      "KI": 3,
+      "NA": 1,
+      "NI": 2
+    }
+  }
+}

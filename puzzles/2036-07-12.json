@@ -1,0 +1,116 @@
+{
+  "pangram": "clowned",
+  "center_letter": "w",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 164,
+  "answer_pangrams": [
+    "clowned"
+  ],
+  "answers": [
+    "clew",
+    "clewed",
+    "clown",
+    "clowned",
+    "cowed",
+    "cowl",
+    "dowel",
+    "doweled",
+    "down",
+    "downed",
+    "dwell",
+    "endow",
+    "endowed",
+    "lewd",
+    "locoweed",
+    "lowdown",
+    "lowed",
+    "newel",
+    "owed",
+    "owned",
+    "wedded",
+    "weed",
+    "weeded",
+    "weld",
+    "welded",
+    "well",
+    "welled",
+    "wend",
+    "wended",
+    "wood",
+    "wooded",
+    "wooden",
+    "wooed",
+    "wool",
+    "woolen",
+    "wowed"
+  ],
+  "date": "2036-07-12",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 10,
+      "6": 10,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 6,
+      "D": 5,
+      "E": 2,
+      "L": 4,
+      "N": 1,
+      "O": 2,
+      "W": 16
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "5": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "5": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1
+      },
+      "W": {
+        "4": 6,
+        "5": 2,
+        "6": 8
+      }
+    },
+    "two_letter_list": {
+      "CL": 4,
+      "CO": 2,
+      "DO": 4,
+      "DW": 1,
+      "EN": 2,
+      "LE": 1,
+      "LO": 3,
+      "NE": 1,
+      "OW": 2,
+      "WE": 9,
+      "WO": 7
+    }
+  }
+}

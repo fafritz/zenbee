@@ -1,0 +1,98 @@
+{
+  "pangram": "probing",
+  "center_letter": "b",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 189,
+  "answer_pangrams": [
+    "probing"
+  ],
+  "answers": [
+    "bingo",
+    "binning",
+    "bobbin",
+    "bobbing",
+    "bogging",
+    "bonbon",
+    "bong",
+    "bonging",
+    "bongo",
+    "boning",
+    "boob",
+    "boobing",
+    "booboo",
+    "booing",
+    "boon",
+    "boor",
+    "bopping",
+    "boring",
+    "born",
+    "boron",
+    "bribing",
+    "brig",
+    "bring",
+    "bringing",
+    "gibbon",
+    "gibing",
+    "gobbing",
+    "inborn",
+    "probing",
+    "ribbing",
+    "ribbon",
+    "robbing",
+    "robin",
+    "robing"
+  ],
+  "date": "2035-11-14",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 5,
+      "6": 11,
+      "7": 11,
+      "8": 1
+    },
+    "by_first_letter": {
+      "B": 24,
+      "G": 3,
+      "I": 1,
+      "P": 1,
+      "R": 5
+    },
+    "grid": {
+      "B": {
+        "4": 6,
+        "5": 4,
+        "6": 6,
+        "7": 7,
+        "8": 1
+      },
+      "G": {
+        "6": 2,
+        "7": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "P": {
+        "7": 1
+      },
+      "R": {
+        "5": 1,
+        "6": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "BI": 2,
+      "BO": 18,
+      "BR": 4,
+      "GI": 2,
+      "GO": 1,
+      "IN": 1,
+      "PR": 1,
+      "RI": 2,
+      "RO": 3
+    }
+  }
+}

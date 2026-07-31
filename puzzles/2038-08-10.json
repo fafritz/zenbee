@@ -1,0 +1,136 @@
+{
+  "pangram": "calumny",
+  "center_letter": "a",
+  "num_answers": 51,
+  "num_pangrams": 1,
+  "possible_points": 209,
+  "answer_pangrams": [
+    "calumny"
+  ],
+  "answers": [
+    "allay",
+    "ally",
+    "almanac",
+    "alum",
+    "alumna",
+    "anal",
+    "annual",
+    "annually",
+    "annul",
+    "call",
+    "calla",
+    "calm",
+    "calmly",
+    "calumny",
+    "canal",
+    "cancan",
+    "canna",
+    "cannula",
+    "canny",
+    "canula",
+    "clam",
+    "clammy",
+    "clan",
+    "clay",
+    "cyan",
+    "lacuna",
+    "lacy",
+    "lama",
+    "layman",
+    "llama",
+    "luau",
+    "lunacy",
+    "mall",
+    "mama",
+    "mamma",
+    "mammal",
+    "manly",
+    "manna",
+    "manual",
+    "manually",
+    "many",
+    "maul",
+    "myna",
+    "naan",
+    "nana",
+    "nanny",
+    "ulna",
+    "uncanny",
+    "unman",
+    "unmanly",
+    "yucca"
+  ],
+  "date": "2038-08-10",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 13,
+      "6": 11,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 9,
+      "C": 16,
+      "L": 7,
+      "M": 11,
+      "N": 3,
+      "U": 4,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "C": {
+        "4": 6,
+        "5": 4,
+        "6": 4,
+        "7": 2
+      },
+      "L": {
+        "4": 3,
+        "5": 1,
+        "6": 3
+      },
+      "M": {
+        "4": 5,
+        "5": 3,
+        "6": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 1,
+        "7": 2
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 5,
+      "AN": 4,
+      "CA": 11,
+      "CL": 4,
+      "CY": 1,
+      "LA": 4,
+      "LL": 1,
+      "LU": 2,
+      "MA": 10,
+      "MY": 1,
+      "NA": 3,
+      "UL": 1,
+      "UN": 3,
+      "YU": 1
+    }
+  }
+}

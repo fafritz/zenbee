@@ -1,0 +1,117 @@
+{
+  "pangram": "bigoted",
+  "center_letter": "i",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 173,
+  "answer_pangrams": [
+    "bigoted"
+  ],
+  "answers": [
+    "beige",
+    "betided",
+    "bidet",
+    "biggie",
+    "bigot",
+    "bigoted",
+    "bite",
+    "bogie",
+    "boogie",
+    "boogied",
+    "debit",
+    "debited",
+    "died",
+    "diet",
+    "dieted",
+    "digit",
+    "diode",
+    "ditto",
+    "dittoed",
+    "dogie",
+    "eddied",
+    "edit",
+    "edited",
+    "gibbet",
+    "gibbeted",
+    "gibe",
+    "gibed",
+    "gigged",
+    "ibid",
+    "idiot",
+    "obit",
+    "tidbit",
+    "tide",
+    "tided",
+    "tidied",
+    "tied"
+  ],
+  "date": "2036-06-02",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 12,
+      "6": 9,
+      "7": 5,
+      "8": 1
+    },
+    "by_first_letter": {
+      "B": 10,
+      "D": 10,
+      "E": 3,
+      "G": 5,
+      "I": 2,
+      "O": 1,
+      "T": 5
+    },
+    "grid": {
+      "B": {
+        "4": 1,
+        "5": 4,
+        "6": 2,
+        "7": 3
+      },
+      "D": {
+        "4": 2,
+        "5": 5,
+        "6": 1,
+        "7": 2
+      },
+      "E": {
+        "4": 1,
+        "6": 2
+      },
+      "G": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "8": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "BE": 2,
+      "BI": 5,
+      "BO": 3,
+      "DE": 2,
+      "DI": 7,
+      "DO": 1,
+      "ED": 3,
+      "GI": 5,
+      "IB": 1,
+      "ID": 1,
+      "OB": 1,
+      "TI": 5
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "pangram": "manhole",
+  "center_letter": "m",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 122,
+  "answer_pangrams": [
+    "manhole"
+  ],
+  "answers": [
+    "ahem",
+    "amen",
+    "ammo",
+    "anemone",
+    "enamel",
+    "enema",
+    "hammam",
+    "helm",
+    "home",
+    "lama",
+    "lame",
+    "lemma",
+    "lemon",
+    "llama",
+    "loam",
+    "loom",
+    "male",
+    "mall",
+    "mama",
+    "mamma",
+    "mammae",
+    "mammal",
+    "mane",
+    "manhole",
+    "manna",
+    "meal",
+    "mean",
+    "melanoma",
+    "melee",
+    "melon",
+    "meme",
+    "memo",
+    "moan",
+    "mole",
+    "moll",
+    "momma",
+    "mono",
+    "moon",
+    "name",
+    "omen"
+  ],
+  "date": "2038-07-07",
+  "hints": {
+    "by_length": {
+      "4": 24,
+      "5": 9,
+      "6": 4,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "E": 2,
+      "H": 3,
+      "L": 7,
+      "M": 22,
+      "N": 1,
+      "O": 1
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "7": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 2,
+        "6": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 3
+      },
+      "M": {
+        "4": 13,
+        "5": 5,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "O": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AH": 1,
+      "AM": 2,
+      "AN": 1,
+      "EN": 2,
+      "HA": 1,
+      "HE": 1,
+      "HO": 1,
+      "LA": 2,
+      "LE": 2,
+      "LL": 1,
+      "LO": 2,
+      "MA": 9,
+      "ME": 7,
+      "MO": 6,
+      "NA": 1,
+      "OM": 1
+    }
+  }
+}

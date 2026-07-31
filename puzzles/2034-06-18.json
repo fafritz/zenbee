@@ -1,0 +1,124 @@
+{
+  "pangram": "touched",
+  "center_letter": "t",
+  "num_answers": 45,
+  "num_pangrams": 1,
+  "possible_points": 184,
+  "answer_pangrams": [
+    "touched"
+  ],
+  "answers": [
+    "chute",
+    "coot",
+    "cote",
+    "cute",
+    "cutout",
+    "deduct",
+    "deducted",
+    "detect",
+    "detected",
+    "dote",
+    "doted",
+    "dotted",
+    "duct",
+    "duet",
+    "etch",
+    "etched",
+    "etude",
+    "hoot",
+    "hooted",
+    "hutch",
+    "octet",
+    "outdo",
+    "outed",
+    "tech",
+    "teed",
+    "teeth",
+    "teethe",
+    "teethed",
+    "thee",
+    "thou",
+    "thud",
+    "thudded",
+    "toed",
+    "toot",
+    "tooted",
+    "tooth",
+    "toothed",
+    "tote",
+    "toted",
+    "totted",
+    "touch",
+    "touched",
+    "tout",
+    "touted",
+    "tutu"
+  ],
+  "date": "2034-06-18",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 11,
+      "6": 10,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "C": 5,
+      "D": 9,
+      "E": 3,
+      "H": 3,
+      "O": 3,
+      "T": 22
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "D": {
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "8": 2
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "O": {
+        "5": 3
+      },
+      "T": {
+        "4": 10,
+        "5": 4,
+        "6": 4,
+        "7": 4
+      }
+    },
+    "two_letter_list": {
+      "CH": 1,
+      "CO": 2,
+      "CU": 2,
+      "DE": 4,
+      "DO": 3,
+      "DU": 2,
+      "ET": 3,
+      "HO": 2,
+      "HU": 1,
+      "OC": 1,
+      "OU": 2,
+      "TE": 5,
+      "TH": 4,
+      "TO": 12,
+      "TU": 1
+    }
+  }
+}

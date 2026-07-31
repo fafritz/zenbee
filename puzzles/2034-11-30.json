@@ -1,0 +1,112 @@
+{
+  "pangram": "burying",
+  "center_letter": "g",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 235,
+  "answer_pangrams": [
+    "burying"
+  ],
+  "answers": [
+    "binning",
+    "bribing",
+    "brig",
+    "bring",
+    "bringing",
+    "bugging",
+    "buggy",
+    "bung",
+    "bunging",
+    "burg",
+    "burning",
+    "burring",
+    "burying",
+    "buying",
+    "gibing",
+    "gigging",
+    "ginning",
+    "grin",
+    "grinning",
+    "grub",
+    "grubbing",
+    "grubby",
+    "grungy",
+    "gunning",
+    "gunny",
+    "gunrunning",
+    "guru",
+    "guying",
+    "inning",
+    "inuring",
+    "ribbing",
+    "rigging",
+    "ring",
+    "ringing",
+    "rubbing",
+    "rugby",
+    "ruing",
+    "ruining",
+    "rung",
+    "running",
+    "urging"
+  ],
+  "date": "2034-11-30",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 5,
+      "6": 7,
+      "7": 17,
+      "8": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "B": 14,
+      "G": 14,
+      "I": 2,
+      "R": 10,
+      "U": 1
+    },
+    "grid": {
+      "B": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 7,
+        "8": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 1,
+        "6": 4,
+        "7": 3,
+        "8": 2,
+        "10": 1
+      },
+      "I": {
+        "6": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 2,
+        "7": 6
+      },
+      "U": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "BI": 1,
+      "BR": 4,
+      "BU": 9,
+      "GI": 3,
+      "GR": 6,
+      "GU": 5,
+      "IN": 2,
+      "RI": 4,
+      "RU": 6,
+      "UR": 1
+    }
+  }
+}

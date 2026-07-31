@@ -1,0 +1,148 @@
+{
+  "pangram": "bathing",
+  "center_letter": "t",
+  "num_answers": 54,
+  "num_pangrams": 2,
+  "possible_points": 318,
+  "answer_pangrams": [
+    "bathing",
+    "inhabiting"
+  ],
+  "answers": [
+    "abating",
+    "agitating",
+    "anti",
+    "attain",
+    "attaining",
+    "bait",
+    "baiting",
+    "bath",
+    "bathing",
+    "batting",
+    "bight",
+    "biting",
+    "gait",
+    "gating",
+    "giant",
+    "gigabit",
+    "gnat",
+    "habit",
+    "habitat",
+    "hating",
+    "hatting",
+    "hint",
+    "hinting",
+    "hitting",
+    "igniting",
+    "inhabit",
+    "inhabitant",
+    "inhabiting",
+    "inhibit",
+    "inhibiting",
+    "initiating",
+    "night",
+    "ninth",
+    "tabbing",
+    "tagging",
+    "taint",
+    "tainting",
+    "tang",
+    "tannin",
+    "tanning",
+    "tatting",
+    "than",
+    "that",
+    "thigh",
+    "thin",
+    "thing",
+    "thinning",
+    "tibia",
+    "tight",
+    "tinning",
+    "tint",
+    "tinting",
+    "titan",
+    "tithing"
+  ],
+  "date": "2030-01-30",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 11,
+      "6": 5,
+      "7": 18,
+      "8": 3,
+      "9": 2,
+      "10": 4
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 7,
+      "G": 5,
+      "H": 7,
+      "I": 7,
+      "N": 2,
+      "T": 21
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "9": 2
+      },
+      "B": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 3
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 4
+      },
+      "I": {
+        "7": 2,
+        "8": 1,
+        "10": 4
+      },
+      "N": {
+        "5": 2
+      },
+      "T": {
+        "4": 5,
+        "5": 6,
+        "6": 1,
+        "7": 7,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AG": 1,
+      "AN": 1,
+      "AT": 2,
+      "BA": 5,
+      "BI": 2,
+      "GA": 2,
+      "GI": 2,
+      "GN": 1,
+      "HA": 4,
+      "HI": 3,
+      "IG": 1,
+      "IN": 6,
+      "NI": 2,
+      "TA": 8,
+      "TH": 6,
+      "TI": 7
+    }
+  }
+}

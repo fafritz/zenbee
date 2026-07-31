@@ -1,0 +1,89 @@
+{
+  "pangram": "coequal",
+  "center_letter": "l",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 60,
+  "answer_pangrams": [
+    "coequal"
+  ],
+  "answers": [
+    "aloe",
+    "call",
+    "calla",
+    "cell",
+    "cello",
+    "clue",
+    "coal",
+    "coequal",
+    "cola",
+    "cool",
+    "cull",
+    "equal",
+    "lace",
+    "local",
+    "locale",
+    "loco",
+    "loll",
+    "luau",
+    "lull",
+    "lulu",
+    "oleo",
+    "quell"
+  ],
+  "date": "2037-09-06",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 5,
+      "6": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 10,
+      "E": 1,
+      "L": 8,
+      "O": 1,
+      "Q": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "C": {
+        "4": 7,
+        "5": 2,
+        "7": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "L": {
+        "4": 6,
+        "5": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "Q": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "CA": 2,
+      "CE": 2,
+      "CL": 1,
+      "CO": 4,
+      "CU": 1,
+      "EQ": 1,
+      "LA": 1,
+      "LO": 4,
+      "LU": 3,
+      "OL": 1,
+      "QU": 1
+    }
+  }
+}

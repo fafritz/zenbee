@@ -1,0 +1,134 @@
+{
+  "pangram": "whacked",
+  "center_letter": "e",
+  "num_answers": 54,
+  "num_pangrams": 1,
+  "possible_points": 220,
+  "answer_pangrams": [
+    "whacked"
+  ],
+  "answers": [
+    "accede",
+    "acceded",
+    "aced",
+    "ache",
+    "ached",
+    "added",
+    "ahead",
+    "awake",
+    "awed",
+    "cache",
+    "cached",
+    "cake",
+    "caked",
+    "cawed",
+    "cede",
+    "ceded",
+    "check",
+    "checked",
+    "cheek",
+    "cheeked",
+    "chew",
+    "chewed",
+    "dead",
+    "decade",
+    "deck",
+    "decked",
+    "deed",
+    "deeded",
+    "each",
+    "eked",
+    "hacked",
+    "hake",
+    "hawed",
+    "hawked",
+    "head",
+    "headache",
+    "headed",
+    "heck",
+    "heed",
+    "heeded",
+    "heehawed",
+    "hewed",
+    "wadded",
+    "wade",
+    "waded",
+    "wake",
+    "waked",
+    "weak",
+    "wedded",
+    "weed",
+    "weeded",
+    "week",
+    "whacked",
+    "whew"
+  ],
+  "date": "2034-08-06",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 14,
+      "6": 13,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 9,
+      "C": 13,
+      "D": 6,
+      "E": 2,
+      "H": 12,
+      "W": 12
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 4,
+        "6": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 6,
+        "6": 2,
+        "7": 2
+      },
+      "D": {
+        "4": 3,
+        "6": 3
+      },
+      "E": {
+        "4": 2
+      },
+      "H": {
+        "4": 4,
+        "5": 2,
+        "6": 4,
+        "8": 2
+      },
+      "W": {
+        "4": 6,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 5,
+      "AD": 1,
+      "AH": 1,
+      "AW": 2,
+      "CA": 5,
+      "CE": 2,
+      "CH": 6,
+      "DE": 6,
+      "EA": 1,
+      "EK": 1,
+      "HA": 4,
+      "HE": 8,
+      "WA": 5,
+      "WE": 5,
+      "WH": 2
+    }
+  }
+}

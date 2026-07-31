@@ -1,0 +1,152 @@
+{
+  "pangram": "changed",
+  "center_letter": "a",
+  "num_answers": 61,
+  "num_pangrams": 1,
+  "possible_points": 299,
+  "answer_pangrams": [
+    "changed"
+  ],
+  "answers": [
+    "accede",
+    "acceded",
+    "aced",
+    "ache",
+    "ached",
+    "acne",
+    "adage",
+    "added",
+    "addend",
+    "addenda",
+    "aged",
+    "agenda",
+    "ahead",
+    "cache",
+    "cached",
+    "cadence",
+    "cadge",
+    "cadged",
+    "cage",
+    "caged",
+    "cancan",
+    "cane",
+    "caned",
+    "canna",
+    "canned",
+    "chad",
+    "chance",
+    "chanced",
+    "change",
+    "changed",
+    "dacha",
+    "dance",
+    "danced",
+    "dead",
+    "deaden",
+    "deadened",
+    "dean",
+    "decade",
+    "decadence",
+    "each",
+    "egghead",
+    "engage",
+    "engaged",
+    "enhance",
+    "enhanced",
+    "gadded",
+    "gagged",
+    "gang",
+    "ganged",
+    "hand",
+    "handed",
+    "hang",
+    "hanged",
+    "head",
+    "headache",
+    "headed",
+    "henna",
+    "hennaed",
+    "naan",
+    "nagged",
+    "nana"
+  ],
+  "date": "2028-11-29",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 12,
+      "6": 20,
+      "7": 9,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 13,
+      "C": 17,
+      "D": 9,
+      "E": 6,
+      "G": 4,
+      "H": 9,
+      "N": 3
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "5": 4,
+        "6": 3,
+        "7": 2
+      },
+      "C": {
+        "4": 3,
+        "5": 5,
+        "6": 6,
+        "7": 3
+      },
+      "D": {
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "8": 1,
+        "9": 1
+      },
+      "E": {
+        "4": 1,
+        "6": 1,
+        "7": 3,
+        "8": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 3
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 6,
+      "AD": 4,
+      "AG": 2,
+      "AH": 1,
+      "CA": 12,
+      "CH": 5,
+      "DA": 3,
+      "DE": 6,
+      "EA": 1,
+      "EG": 1,
+      "EN": 4,
+      "GA": 4,
+      "HA": 4,
+      "HE": 5,
+      "NA": 3
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "pangram": "baptize",
+  "center_letter": "p",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 65,
+  "answer_pangrams": [
+    "baptize"
+  ],
+  "answers": [
+    "appetite",
+    "baptize",
+    "beep",
+    "epee",
+    "papa",
+    "pate",
+    "peat",
+    "peep",
+    "petite",
+    "piazza",
+    "pipe",
+    "pipit",
+    "pita",
+    "pizza",
+    "pizzazz",
+    "tape",
+    "tepee"
+  ],
+  "date": "2033-04-07",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 3,
+      "6": 2,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 2,
+      "E": 1,
+      "P": 11,
+      "T": 2
+    },
+    "grid": {
+      "A": {
+        "8": 1
+      },
+      "B": {
+        "4": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "P": {
+        "4": 6,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AP": 1,
+      "BA": 1,
+      "BE": 1,
+      "EP": 1,
+      "PA": 2,
+      "PE": 3,
+      "PI": 6,
+      "TA": 1,
+      "TE": 1
+    }
+  }
+}

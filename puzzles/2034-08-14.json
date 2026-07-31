@@ -1,0 +1,97 @@
+{
+  "pangram": "workman",
+  "center_letter": "n",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 78,
+  "answer_pangrams": [
+    "workman"
+  ],
+  "answers": [
+    "anon",
+    "know",
+    "known",
+    "koan",
+    "krona",
+    "manna",
+    "manor",
+    "maroon",
+    "moan",
+    "monk",
+    "mono",
+    "moon",
+    "morn",
+    "moron",
+    "naan",
+    "nana",
+    "narrow",
+    "nook",
+    "noon",
+    "norm",
+    "rank",
+    "roan",
+    "roman",
+    "warn",
+    "woman",
+    "workman",
+    "worn"
+  ],
+  "date": "2034-08-14",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 7,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "K": 4,
+      "M": 9,
+      "N": 6,
+      "R": 3,
+      "W": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "K": {
+        "4": 2,
+        "5": 2
+      },
+      "M": {
+        "4": 5,
+        "5": 3,
+        "6": 1
+      },
+      "N": {
+        "4": 5,
+        "6": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1
+      },
+      "W": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "KN": 2,
+      "KO": 1,
+      "KR": 1,
+      "MA": 3,
+      "MO": 6,
+      "NA": 3,
+      "NO": 3,
+      "RA": 1,
+      "RO": 2,
+      "WA": 1,
+      "WO": 3
+    }
+  }
+}

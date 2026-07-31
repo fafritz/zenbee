@@ -1,0 +1,109 @@
+{
+  "pangram": "padlock",
+  "center_letter": "l",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 96,
+  "answer_pangrams": [
+    "padlock"
+  ],
+  "answers": [
+    "alpaca",
+    "appall",
+    "call",
+    "calla",
+    "clack",
+    "clad",
+    "clap",
+    "cloak",
+    "clock",
+    "clod",
+    "clop",
+    "coal",
+    "cola",
+    "cold",
+    "cool",
+    "doll",
+    "dollop",
+    "koala",
+    "lack",
+    "load",
+    "local",
+    "lock",
+    "loco",
+    "loll",
+    "look",
+    "loop",
+    "opal",
+    "padlock",
+    "pall",
+    "papal",
+    "plod",
+    "plop",
+    "polka",
+    "poll",
+    "polo",
+    "pool"
+  ],
+  "date": "2037-03-17",
+  "hints": {
+    "by_length": {
+      "4": 24,
+      "5": 8,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 13,
+      "D": 2,
+      "K": 1,
+      "L": 8,
+      "O": 1,
+      "P": 9
+    },
+    "grid": {
+      "A": {
+        "6": 2
+      },
+      "C": {
+        "4": 9,
+        "5": 4
+      },
+      "D": {
+        "4": 1,
+        "6": 1
+      },
+      "K": {
+        "5": 1
+      },
+      "L": {
+        "4": 7,
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 6,
+        "5": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AP": 1,
+      "CA": 2,
+      "CL": 7,
+      "CO": 4,
+      "DO": 2,
+      "KO": 1,
+      "LA": 1,
+      "LO": 7,
+      "OP": 1,
+      "PA": 3,
+      "PL": 2,
+      "PO": 4
+    }
+  }
+}

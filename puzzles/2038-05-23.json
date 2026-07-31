@@ -1,0 +1,79 @@
+{
+  "pangram": "gunwale",
+  "center_letter": "w",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 53,
+  "answer_pangrams": [
+    "gunwale"
+  ],
+  "answers": [
+    "anew",
+    "gewgaw",
+    "gnaw",
+    "gunwale",
+    "lawn",
+    "newel",
+    "unwell",
+    "wage",
+    "waggle",
+    "wale",
+    "wall",
+    "wane",
+    "wangle",
+    "weal",
+    "wean",
+    "well"
+  ],
+  "date": "2038-05-23",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 1,
+      "6": 4,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "G": 3,
+      "L": 1,
+      "N": 1,
+      "U": 1,
+      "W": 9
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 1
+      },
+      "N": {
+        "5": 1
+      },
+      "U": {
+        "6": 1
+      },
+      "W": {
+        "4": 7,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "GE": 1,
+      "GN": 1,
+      "GU": 1,
+      "LA": 1,
+      "NE": 1,
+      "UN": 1,
+      "WA": 6,
+      "WE": 3
+    }
+  }
+}

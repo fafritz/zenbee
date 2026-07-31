@@ -1,0 +1,93 @@
+{
+  "pangram": "factory",
+  "center_letter": "c",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 115,
+  "answer_pangrams": [
+    "factory"
+  ],
+  "answers": [
+    "actor",
+    "attract",
+    "cacao",
+    "carat",
+    "carrot",
+    "carry",
+    "cart",
+    "cataract",
+    "catty",
+    "coat",
+    "coca",
+    "cocoa",
+    "coot",
+    "cottar",
+    "craft",
+    "crafty",
+    "cray",
+    "fact",
+    "factor",
+    "factory",
+    "racy",
+    "rococo",
+    "taco",
+    "tact",
+    "tract",
+    "tractor"
+  ],
+  "date": "2027-01-14",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 8,
+      "6": 5,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 15,
+      "F": 3,
+      "R": 2,
+      "T": 4
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 5,
+        "5": 6,
+        "6": 3,
+        "8": 1
+      },
+      "F": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AT": 1,
+      "CA": 7,
+      "CO": 5,
+      "CR": 3,
+      "FA": 3,
+      "RA": 1,
+      "RO": 1,
+      "TA": 2,
+      "TR": 2
+    }
+  }
+}

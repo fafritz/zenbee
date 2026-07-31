@@ -1,0 +1,114 @@
+{
+  "pangram": "varmint",
+  "center_letter": "t",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 186,
+  "answer_pangrams": [
+    "varmint"
+  ],
+  "answers": [
+    "anti",
+    "arrant",
+    "atria",
+    "attain",
+    "attar",
+    "avatar",
+    "invariant",
+    "irritant",
+    "maintain",
+    "mantra",
+    "mart",
+    "martian",
+    "martin",
+    "martini",
+    "mint",
+    "mitt",
+    "rant",
+    "ratatat",
+    "rattan",
+    "taint",
+    "tannin",
+    "tart",
+    "tartan",
+    "tartar",
+    "tiara",
+    "tint",
+    "titan",
+    "train",
+    "trait",
+    "tram",
+    "trim",
+    "trimaran",
+    "trivia",
+    "variant",
+    "varmint",
+    "vitamin"
+  ],
+  "date": "2036-11-05",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 7,
+      "6": 10,
+      "7": 6,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "I": 2,
+      "M": 8,
+      "R": 3,
+      "T": 14,
+      "V": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "6": 3
+      },
+      "I": {
+        "8": 1,
+        "9": 1
+      },
+      "M": {
+        "4": 3,
+        "6": 2,
+        "7": 2,
+        "8": 1
+      },
+      "R": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 5,
+        "6": 4,
+        "8": 1
+      },
+      "V": {
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "AR": 1,
+      "AT": 3,
+      "AV": 1,
+      "IN": 1,
+      "IR": 1,
+      "MA": 6,
+      "MI": 2,
+      "RA": 3,
+      "TA": 5,
+      "TI": 3,
+      "TR": 6,
+      "VA": 2,
+      "VI": 1
+    }
+  }
+}

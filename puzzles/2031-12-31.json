@@ -1,0 +1,128 @@
+{
+  "pangram": "cordial",
+  "center_letter": "r",
+  "num_answers": 49,
+  "num_pangrams": 1,
+  "possible_points": 196,
+  "answer_pangrams": [
+    "cordial"
+  ],
+  "answers": [
+    "accord",
+    "acrid",
+    "ardor",
+    "aria",
+    "arid",
+    "caloric",
+    "card",
+    "cardiac",
+    "cardio",
+    "carol",
+    "circa",
+    "cirri",
+    "collar",
+    "color",
+    "coral",
+    "cord",
+    "cordial",
+    "corolla",
+    "corral",
+    "corridor",
+    "dollar",
+    "door",
+    "drill",
+    "droid",
+    "droll",
+    "drool",
+    "lair",
+    "lard",
+    "liar",
+    "lira",
+    "lord",
+    "odor",
+    "oral",
+    "racial",
+    "radar",
+    "radial",
+    "radical",
+    "radii",
+    "radio",
+    "raid",
+    "rail",
+    "railroad",
+    "rill",
+    "road",
+    "roar",
+    "rococo",
+    "roil",
+    "roll",
+    "rood"
+  ],
+  "date": "2031-12-31",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 14,
+      "6": 8,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 15,
+      "D": 6,
+      "L": 5,
+      "O": 2,
+      "R": 16
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "6": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 5,
+        "6": 3,
+        "7": 4,
+        "8": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 4,
+        "6": 1
+      },
+      "L": {
+        "4": 5
+      },
+      "O": {
+        "4": 2
+      },
+      "R": {
+        "4": 8,
+        "5": 3,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AR": 3,
+      "CA": 5,
+      "CI": 2,
+      "CO": 8,
+      "DO": 2,
+      "DR": 4,
+      "LA": 2,
+      "LI": 2,
+      "LO": 1,
+      "OD": 1,
+      "OR": 1,
+      "RA": 9,
+      "RI": 1,
+      "RO": 6
+    }
+  }
+}

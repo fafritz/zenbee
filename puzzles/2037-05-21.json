@@ -1,0 +1,81 @@
+{
+  "pangram": "compute",
+  "center_letter": "u",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 77,
+  "answer_pangrams": [
+    "compute"
+  ],
+  "answers": [
+    "commute",
+    "compute",
+    "coup",
+    "coupe",
+    "cute",
+    "cutout",
+    "cutup",
+    "mute",
+    "mutt",
+    "muumuu",
+    "outcome",
+    "output",
+    "pout",
+    "pump",
+    "puppet",
+    "putt",
+    "toupee",
+    "tout",
+    "tutu"
+  ],
+  "date": "2037-05-21",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 2,
+      "6": 5,
+      "7": 3
+    },
+    "by_first_letter": {
+      "C": 7,
+      "M": 3,
+      "O": 2,
+      "P": 4,
+      "T": 3
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "M": {
+        "4": 2,
+        "6": 1
+      },
+      "O": {
+        "6": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 3,
+        "6": 1
+      },
+      "T": {
+        "4": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 4,
+      "CU": 3,
+      "MU": 3,
+      "OU": 2,
+      "PO": 1,
+      "PU": 3,
+      "TO": 2,
+      "TU": 1
+    }
+  }
+}

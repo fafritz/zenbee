@@ -1,0 +1,96 @@
+{
+  "pangram": "audibly",
+  "center_letter": "y",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 118,
+  "answer_pangrams": [
+    "audibly"
+  ],
+  "answers": [
+    "ably",
+    "allay",
+    "ally",
+    "audibly",
+    "baby",
+    "badly",
+    "baldly",
+    "biddy",
+    "billy",
+    "bubbly",
+    "buddy",
+    "bully",
+    "daddy",
+    "daily",
+    "dally",
+    "dilly",
+    "dillydally",
+    "dully",
+    "duly",
+    "idly",
+    "idyll",
+    "lady",
+    "laudably",
+    "lily",
+    "lullaby"
+  ],
+  "date": "2036-05-01",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 12,
+      "6": 2,
+      "7": 2,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "B": 8,
+      "D": 7,
+      "I": 2,
+      "L": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "B": {
+        "4": 1,
+        "5": 5,
+        "6": 2
+      },
+      "D": {
+        "4": 1,
+        "5": 5,
+        "10": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 2,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AL": 2,
+      "AU": 1,
+      "BA": 3,
+      "BI": 2,
+      "BU": 3,
+      "DA": 3,
+      "DI": 2,
+      "DU": 2,
+      "ID": 2,
+      "LA": 2,
+      "LI": 1,
+      "LU": 1
+    }
+  }
+}

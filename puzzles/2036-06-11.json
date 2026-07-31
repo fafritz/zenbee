@@ -1,0 +1,98 @@
+{
+  "pangram": "balking",
+  "center_letter": "k",
+  "num_answers": 29,
+  "num_pangrams": 2,
+  "possible_points": 151,
+  "answer_pangrams": [
+    "balking",
+    "blanking"
+  ],
+  "answers": [
+    "akin",
+    "alkali",
+    "baking",
+    "balalaika",
+    "balk",
+    "balking",
+    "bank",
+    "banking",
+    "biking",
+    "bikini",
+    "bilk",
+    "bilking",
+    "blank",
+    "blanking",
+    "blink",
+    "blinking",
+    "inking",
+    "inkling",
+    "kill",
+    "killing",
+    "kiln",
+    "kilning",
+    "king",
+    "kink",
+    "kinking",
+    "lank",
+    "liking",
+    "link",
+    "linking"
+  ],
+  "date": "2036-06-11",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 2,
+      "6": 6,
+      "7": 8,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 14,
+      "I": 2,
+      "K": 7,
+      "L": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1
+      },
+      "B": {
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 1
+      },
+      "I": {
+        "6": 1,
+        "7": 1
+      },
+      "K": {
+        "4": 4,
+        "7": 3
+      },
+      "L": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AK": 1,
+      "AL": 1,
+      "BA": 6,
+      "BI": 4,
+      "BL": 4,
+      "IN": 2,
+      "KI": 7,
+      "LA": 1,
+      "LI": 3
+    }
+  }
+}

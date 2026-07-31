@@ -1,0 +1,144 @@
+{
+  "pangram": "playing",
+  "center_letter": "l",
+  "num_answers": 53,
+  "num_pangrams": 3,
+  "possible_points": 302,
+  "answer_pangrams": [
+    "appallingly",
+    "applying",
+    "playing"
+  ],
+  "answers": [
+    "ailing",
+    "alga",
+    "align",
+    "aligning",
+    "allay",
+    "allaying",
+    "ally",
+    "allying",
+    "anal",
+    "angling",
+    "appall",
+    "appalling",
+    "appallingly",
+    "apply",
+    "applying",
+    "gala",
+    "gall",
+    "galling",
+    "ganglia",
+    "gangling",
+    "giggling",
+    "giggly",
+    "gill",
+    "inlay",
+    "inlaying",
+    "lagging",
+    "lain",
+    "lapping",
+    "laying",
+    "lily",
+    "lining",
+    "lying",
+    "nail",
+    "nailing",
+    "niggling",
+    "pail",
+    "paling",
+    "pall",
+    "palling",
+    "papal",
+    "papilla",
+    "piling",
+    "pill",
+    "pillaging",
+    "pilling",
+    "plain",
+    "plainly",
+    "plan",
+    "planing",
+    "planning",
+    "play",
+    "playing",
+    "plying"
+  ],
+  "date": "2029-06-05",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 7,
+      "6": 8,
+      "7": 13,
+      "8": 8,
+      "9": 2,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 15,
+      "G": 8,
+      "I": 2,
+      "L": 7,
+      "N": 3,
+      "P": 18
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 3,
+        "6": 2,
+        "7": 2,
+        "8": 3,
+        "9": 1,
+        "11": 1
+      },
+      "G": {
+        "4": 3,
+        "6": 1,
+        "7": 2,
+        "8": 2
+      },
+      "I": {
+        "5": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2
+      },
+      "N": {
+        "4": 1,
+        "7": 1,
+        "8": 1
+      },
+      "P": {
+        "4": 5,
+        "5": 2,
+        "6": 3,
+        "7": 6,
+        "8": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AL": 7,
+      "AN": 2,
+      "AP": 5,
+      "GA": 5,
+      "GI": 3,
+      "IN": 2,
+      "LA": 4,
+      "LI": 2,
+      "LY": 1,
+      "NA": 2,
+      "NI": 1,
+      "PA": 6,
+      "PI": 4,
+      "PL": 8
+    }
+  }
+}

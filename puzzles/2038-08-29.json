@@ -1,0 +1,91 @@
+{
+  "pangram": "cowbird",
+  "center_letter": "o",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 76,
+  "answer_pangrams": [
+    "cowbird"
+  ],
+  "answers": [
+    "boob",
+    "booboo",
+    "boor",
+    "borrow",
+    "brood",
+    "brow",
+    "cocci",
+    "cord",
+    "corridor",
+    "cowbird",
+    "crow",
+    "crowd",
+    "dodo",
+    "door",
+    "droid",
+    "odor",
+    "rococo",
+    "rood",
+    "widow",
+    "wood",
+    "word"
+  ],
+  "date": "2038-08-29",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 5,
+      "6": 3,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "B": 6,
+      "C": 6,
+      "D": 3,
+      "O": 1,
+      "R": 2,
+      "W": 3
+    },
+    "grid": {
+      "B": {
+        "4": 3,
+        "5": 1,
+        "6": 2
+      },
+      "C": {
+        "4": 2,
+        "5": 2,
+        "7": 1,
+        "8": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "R": {
+        "4": 1,
+        "6": 1
+      },
+      "W": {
+        "4": 2,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "BO": 4,
+      "BR": 2,
+      "CO": 4,
+      "CR": 2,
+      "DO": 2,
+      "DR": 1,
+      "OD": 1,
+      "RO": 2,
+      "WI": 1,
+      "WO": 2
+    }
+  }
+}

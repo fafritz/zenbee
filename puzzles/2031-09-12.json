@@ -1,0 +1,109 @@
+{
+  "pangram": "humanly",
+  "center_letter": "l",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 120,
+  "answer_pangrams": [
+    "humanly"
+  ],
+  "answers": [
+    "allay",
+    "ally",
+    "alum",
+    "alumna",
+    "anal",
+    "annual",
+    "annually",
+    "annul",
+    "halal",
+    "hall",
+    "haul",
+    "hula",
+    "hull",
+    "humanly",
+    "hymnal",
+    "lama",
+    "layman",
+    "llama",
+    "luau",
+    "lull",
+    "lulu",
+    "mall",
+    "mammal",
+    "manly",
+    "manual",
+    "manually",
+    "maul",
+    "mull",
+    "mullah",
+    "null",
+    "ulna",
+    "unmanly"
+  ],
+  "date": "2031-09-12",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 5,
+      "6": 7,
+      "7": 2,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 8,
+      "H": 7,
+      "L": 6,
+      "M": 8,
+      "N": 1,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "8": 1
+      },
+      "H": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 1,
+        "6": 1
+      },
+      "M": {
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "8": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "U": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 4,
+      "AN": 4,
+      "HA": 3,
+      "HU": 3,
+      "HY": 1,
+      "LA": 2,
+      "LL": 1,
+      "LU": 3,
+      "MA": 6,
+      "MU": 2,
+      "NU": 1,
+      "UL": 1,
+      "UN": 1
+    }
+  }
+}

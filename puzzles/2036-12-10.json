@@ -1,0 +1,161 @@
+{
+  "pangram": "lumping",
+  "center_letter": "n",
+  "num_answers": 64,
+  "num_pangrams": 3,
+  "possible_points": 436,
+  "answer_pangrams": [
+    "lumping",
+    "pluming",
+    "plumping"
+  ],
+  "answers": [
+    "gigging",
+    "giggling",
+    "ginning",
+    "gluing",
+    "gulling",
+    "gulping",
+    "gumming",
+    "gunning",
+    "illumining",
+    "impinging",
+    "impugn",
+    "impugning",
+    "inning",
+    "liming",
+    "limn",
+    "limning",
+    "limping",
+    "lining",
+    "lugging",
+    "lulling",
+    "lumping",
+    "lung",
+    "lunging",
+    "milling",
+    "miming",
+    "mingling",
+    "mini",
+    "minim",
+    "minimum",
+    "mining",
+    "mugging",
+    "mulling",
+    "munging",
+    "niggling",
+    "nipping",
+    "null",
+    "pigging",
+    "piling",
+    "pilling",
+    "pimping",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "pinup",
+    "piping",
+    "pippin",
+    "pipping",
+    "plugging",
+    "plugin",
+    "pluming",
+    "plumping",
+    "plunging",
+    "pulling",
+    "pulping",
+    "pumping",
+    "punning",
+    "pupping",
+    "umping",
+    "unpin",
+    "unpinning",
+    "unplug",
+    "unplugging",
+    "upping"
+  ],
+  "date": "2036-12-10",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 3,
+      "6": 15,
+      "7": 30,
+      "8": 6,
+      "9": 3,
+      "10": 2
+    },
+    "by_first_letter": {
+      "G": 8,
+      "I": 5,
+      "L": 10,
+      "M": 10,
+      "N": 3,
+      "P": 22,
+      "U": 6
+    },
+    "grid": {
+      "G": {
+        "6": 1,
+        "7": 6,
+        "8": 1
+      },
+      "I": {
+        "6": 2,
+        "9": 2,
+        "10": 1
+      },
+      "L": {
+        "4": 2,
+        "6": 2,
+        "7": 6
+      },
+      "M": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 5,
+        "8": 1
+      },
+      "N": {
+        "4": 1,
+        "7": 1,
+        "8": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "6": 5,
+        "7": 12,
+        "8": 3
+      },
+      "U": {
+        "5": 1,
+        "6": 3,
+        "9": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 3,
+      "GL": 1,
+      "GU": 4,
+      "IL": 1,
+      "IM": 3,
+      "IN": 1,
+      "LI": 5,
+      "LU": 5,
+      "MI": 7,
+      "MU": 3,
+      "NI": 2,
+      "NU": 1,
+      "PI": 12,
+      "PL": 5,
+      "PU": 5,
+      "UM": 1,
+      "UN": 4,
+      "UP": 1
+    }
+  }
+}

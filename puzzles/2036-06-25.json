@@ -1,0 +1,132 @@
+{
+  "pangram": "inexact",
+  "center_letter": "a",
+  "num_answers": 47,
+  "num_pangrams": 1,
+  "possible_points": 238,
+  "answer_pangrams": [
+    "inexact"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "accent",
+    "acetate",
+    "acetic",
+    "acne",
+    "ancient",
+    "annex",
+    "ante",
+    "antenna",
+    "antennae",
+    "anti",
+    "antic",
+    "attain",
+    "attic",
+    "cacti",
+    "cancan",
+    "cane",
+    "canine",
+    "canna",
+    "cant",
+    "cantata",
+    "canteen",
+    "cetacean",
+    "eaten",
+    "enact",
+    "exact",
+    "extant",
+    "inane",
+    "inexact",
+    "initiate",
+    "innate",
+    "intact",
+    "naan",
+    "nana",
+    "neat",
+    "niacin",
+    "tacit",
+    "tact",
+    "tactic",
+    "tactician",
+    "taint",
+    "tannin",
+    "taxi",
+    "tenant",
+    "titan",
+    "titanic"
+  ],
+  "date": "2036-06-25",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 12,
+      "6": 13,
+      "7": 7,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 15,
+      "C": 9,
+      "E": 4,
+      "I": 5,
+      "N": 4,
+      "T": 10
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "5": 3,
+        "6": 4,
+        "7": 3,
+        "8": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 1
+      },
+      "E": {
+        "5": 3,
+        "6": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 3,
+        "6": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 3,
+        "6": 3,
+        "7": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 6,
+      "AN": 7,
+      "AT": 2,
+      "CA": 8,
+      "CE": 1,
+      "EA": 1,
+      "EN": 1,
+      "EX": 2,
+      "IN": 5,
+      "NA": 2,
+      "NE": 1,
+      "NI": 1,
+      "TA": 7,
+      "TE": 1,
+      "TI": 2
+    }
+  }
+}

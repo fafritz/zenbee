@@ -1,0 +1,135 @@
+{
+  "pangram": "naivety",
+  "center_letter": "e",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 207,
+  "answer_pangrams": [
+    "naivety"
+  ],
+  "answers": [
+    "ante",
+    "antenna",
+    "antennae",
+    "attentive",
+    "eaten",
+    "entente",
+    "entity",
+    "envy",
+    "even",
+    "event",
+    "inane",
+    "inattentive",
+    "initiate",
+    "initiative",
+    "innate",
+    "intent",
+    "invent",
+    "inventive",
+    "invite",
+    "naive",
+    "naivete",
+    "naivety",
+    "native",
+    "nave",
+    "neat",
+    "nene",
+    "nine",
+    "nineteen",
+    "ninety",
+    "teen",
+    "teeny",
+    "tenant",
+    "tenet",
+    "tent",
+    "tentative",
+    "tine",
+    "vane",
+    "vein",
+    "vent",
+    "vine",
+    "vitiate",
+    "yeti"
+  ],
+  "date": "2037-11-04",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 6,
+      "6": 8,
+      "7": 5,
+      "8": 3,
+      "9": 3,
+      "10": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "E": 6,
+      "I": 9,
+      "N": 10,
+      "T": 7,
+      "V": 5,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "E": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 4,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1
+      },
+      "N": {
+        "4": 4,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "9": 1
+      },
+      "V": {
+        "4": 4,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 3,
+      "AT": 1,
+      "EA": 1,
+      "EN": 3,
+      "EV": 2,
+      "IN": 9,
+      "NA": 5,
+      "NE": 2,
+      "NI": 3,
+      "TE": 6,
+      "TI": 1,
+      "VA": 1,
+      "VE": 2,
+      "VI": 2,
+      "YE": 1
+    }
+  }
+}

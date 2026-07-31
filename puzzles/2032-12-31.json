@@ -1,0 +1,118 @@
+{
+  "pangram": "camping",
+  "center_letter": "m",
+  "num_answers": 39,
+  "num_pangrams": 3,
+  "possible_points": 229,
+  "answer_pangrams": [
+    "campaign",
+    "campaigning",
+    "camping"
+  ],
+  "answers": [
+    "aiming",
+    "camp",
+    "campaign",
+    "campaigning",
+    "camping",
+    "gaming",
+    "gamma",
+    "imaging",
+    "imagining",
+    "imam",
+    "impinging",
+    "macing",
+    "magic",
+    "magician",
+    "magma",
+    "maim",
+    "maiming",
+    "main",
+    "mama",
+    "mamma",
+    "managing",
+    "manga",
+    "mania",
+    "maniac",
+    "manic",
+    "manna",
+    "manning",
+    "mapping",
+    "mica",
+    "mimic",
+    "miming",
+    "mincing",
+    "mini",
+    "minim",
+    "minima",
+    "mining",
+    "naming",
+    "pimp",
+    "pimping"
+  ],
+  "date": "2032-12-31",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 10,
+      "6": 8,
+      "7": 7,
+      "8": 3,
+      "9": 2,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 4,
+      "G": 2,
+      "I": 4,
+      "M": 25,
+      "N": 1,
+      "P": 2
+    },
+    "grid": {
+      "A": {
+        "6": 1
+      },
+      "C": {
+        "4": 1,
+        "7": 1,
+        "8": 1,
+        "11": 1
+      },
+      "G": {
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 1,
+        "7": 1,
+        "9": 2
+      },
+      "M": {
+        "4": 5,
+        "5": 9,
+        "6": 5,
+        "7": 4,
+        "8": 2
+      },
+      "N": {
+        "6": 1
+      },
+      "P": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "CA": 4,
+      "GA": 2,
+      "IM": 4,
+      "MA": 17,
+      "MI": 8,
+      "NA": 1,
+      "PI": 2
+    }
+  }
+}

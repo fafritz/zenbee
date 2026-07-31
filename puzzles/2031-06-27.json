@@ -1,0 +1,107 @@
+{
+  "pangram": "buoying",
+  "center_letter": "i",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 206,
+  "answer_pangrams": [
+    "buoying"
+  ],
+  "answers": [
+    "bingo",
+    "binning",
+    "bobbin",
+    "bobbing",
+    "bogging",
+    "bonging",
+    "boning",
+    "boobing",
+    "booing",
+    "bugging",
+    "bunging",
+    "bunion",
+    "buoying",
+    "buying",
+    "gibbon",
+    "gibing",
+    "gigging",
+    "ginning",
+    "gobbing",
+    "going",
+    "gonging",
+    "gouging",
+    "gunning",
+    "guying",
+    "inning",
+    "ninny",
+    "noggin",
+    "nonunion",
+    "ongoing",
+    "onion",
+    "union",
+    "yogi"
+  ],
+  "date": "2031-06-27",
+  "hints": {
+    "by_length": {
+      "4": 1,
+      "5": 5,
+      "6": 10,
+      "7": 15,
+      "8": 1
+    },
+    "by_first_letter": {
+      "B": 14,
+      "G": 10,
+      "I": 1,
+      "N": 3,
+      "O": 2,
+      "U": 1,
+      "Y": 1
+    },
+    "grid": {
+      "B": {
+        "5": 1,
+        "6": 5,
+        "7": 8
+      },
+      "G": {
+        "5": 1,
+        "6": 3,
+        "7": 6
+      },
+      "I": {
+        "6": 1
+      },
+      "N": {
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "O": {
+        "5": 1,
+        "7": 1
+      },
+      "U": {
+        "5": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "BI": 2,
+      "BO": 7,
+      "BU": 5,
+      "GI": 4,
+      "GO": 4,
+      "GU": 2,
+      "IN": 1,
+      "NI": 1,
+      "NO": 2,
+      "ON": 2,
+      "UN": 1,
+      "YO": 1
+    }
+  }
+}

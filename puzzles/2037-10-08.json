@@ -1,0 +1,107 @@
+{
+  "pangram": "country",
+  "center_letter": "u",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 132,
+  "answer_pangrams": [
+    "country"
+  ],
+  "answers": [
+    "coconut",
+    "concur",
+    "contour",
+    "count",
+    "country",
+    "county",
+    "court",
+    "crouton",
+    "curry",
+    "curt",
+    "cutout",
+    "noun",
+    "nutty",
+    "occur",
+    "outcry",
+    "outrun",
+    "rout",
+    "runny",
+    "runt",
+    "tour",
+    "tout",
+    "trout",
+    "tryout",
+    "turn",
+    "turnout",
+    "tutor",
+    "tutu",
+    "uncut",
+    "your"
+  ],
+  "date": "2037-10-08",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 9,
+      "6": 6,
+      "7": 5
+    },
+    "by_first_letter": {
+      "C": 11,
+      "N": 2,
+      "O": 3,
+      "R": 3,
+      "T": 8,
+      "U": 1,
+      "Y": 1
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 3,
+        "6": 3,
+        "7": 4
+      },
+      "N": {
+        "4": 1,
+        "5": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 2
+      },
+      "R": {
+        "4": 2,
+        "5": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "U": {
+        "5": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 7,
+      "CR": 1,
+      "CU": 3,
+      "NO": 1,
+      "NU": 1,
+      "OC": 1,
+      "OU": 2,
+      "RO": 1,
+      "RU": 2,
+      "TO": 2,
+      "TR": 2,
+      "TU": 4,
+      "UN": 1,
+      "YO": 1
+    }
+  }
+}

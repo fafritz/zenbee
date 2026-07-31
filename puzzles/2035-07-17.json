@@ -1,0 +1,131 @@
+{
+  "pangram": "laughed",
+  "center_letter": "g",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 232,
+  "answer_pangrams": [
+    "laughed"
+  ],
+  "answers": [
+    "adage",
+    "aged",
+    "ague",
+    "alga",
+    "algae",
+    "allege",
+    "alleged",
+    "deluge",
+    "deluged",
+    "eagle",
+    "edge",
+    "edged",
+    "egged",
+    "egghead",
+    "gadded",
+    "gagged",
+    "gaggle",
+    "gala",
+    "gale",
+    "gall",
+    "galled",
+    "gauge",
+    "gauged",
+    "geed",
+    "geld",
+    "gelded",
+    "gelled",
+    "glad",
+    "glade",
+    "glee",
+    "glue",
+    "glued",
+    "gull",
+    "gulled",
+    "haggle",
+    "haggled",
+    "hedge",
+    "hedged",
+    "huge",
+    "hugged",
+    "lagged",
+    "laugh",
+    "laughed",
+    "league",
+    "leagued",
+    "ledge",
+    "legal",
+    "legged",
+    "luggage",
+    "lugged"
+  ],
+  "date": "2035-07-17",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 12,
+      "6": 17,
+      "7": 7
+    },
+    "by_first_letter": {
+      "A": 7,
+      "D": 2,
+      "E": 5,
+      "G": 20,
+      "H": 6,
+      "L": 10
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 3,
+        "7": 1
+      },
+      "G": {
+        "4": 9,
+        "5": 3,
+        "6": 8
+      },
+      "H": {
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 1
+      },
+      "L": {
+        "5": 3,
+        "6": 4,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AG": 2,
+      "AL": 4,
+      "DE": 2,
+      "EA": 1,
+      "ED": 2,
+      "EG": 2,
+      "GA": 9,
+      "GE": 4,
+      "GL": 5,
+      "GU": 2,
+      "HA": 2,
+      "HE": 2,
+      "HU": 2,
+      "LA": 3,
+      "LE": 5,
+      "LU": 2
+    }
+  }
+}

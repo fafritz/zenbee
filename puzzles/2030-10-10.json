@@ -1,0 +1,107 @@
+{
+  "pangram": "camping",
+  "center_letter": "p",
+  "num_answers": 32,
+  "num_pangrams": 3,
+  "possible_points": 197,
+  "answer_pangrams": [
+    "campaign",
+    "campaigning",
+    "camping"
+  ],
+  "answers": [
+    "aping",
+    "camp",
+    "campaign",
+    "campaigning",
+    "camping",
+    "capping",
+    "gaping",
+    "impinging",
+    "mapping",
+    "napping",
+    "nipping",
+    "pacing",
+    "pagan",
+    "paging",
+    "pain",
+    "paining",
+    "pang",
+    "panic",
+    "panning",
+    "papa",
+    "pica",
+    "picnic",
+    "pigging",
+    "pimp",
+    "pimping",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "piping",
+    "pippin",
+    "pipping"
+  ],
+  "date": "2030-10-10",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 3,
+      "6": 7,
+      "7": 12,
+      "8": 1,
+      "9": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 5,
+      "G": 1,
+      "I": 1,
+      "M": 1,
+      "N": 2,
+      "P": 21
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "C": {
+        "4": 1,
+        "7": 2,
+        "8": 1,
+        "11": 1
+      },
+      "G": {
+        "6": 1
+      },
+      "I": {
+        "9": 1
+      },
+      "M": {
+        "7": 1
+      },
+      "N": {
+        "7": 2
+      },
+      "P": {
+        "4": 6,
+        "5": 2,
+        "6": 6,
+        "7": 7
+      }
+    },
+    "two_letter_list": {
+      "AP": 1,
+      "CA": 5,
+      "GA": 1,
+      "IM": 1,
+      "MA": 1,
+      "NA": 1,
+      "NI": 1,
+      "PA": 9,
+      "PI": 12
+    }
+  }
+}

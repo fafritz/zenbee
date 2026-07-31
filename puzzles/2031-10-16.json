@@ -1,0 +1,89 @@
+{
+  "pangram": "thruway",
+  "center_letter": "r",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 88,
+  "answer_pangrams": [
+    "thruway"
+  ],
+  "answers": [
+    "array",
+    "arty",
+    "attar",
+    "aura",
+    "awry",
+    "harry",
+    "hart",
+    "hurrah",
+    "hurry",
+    "hurt",
+    "ratatat",
+    "ratty",
+    "tart",
+    "tartar",
+    "thruway",
+    "thwart",
+    "tray",
+    "truth",
+    "wart",
+    "warty",
+    "wary",
+    "wrath"
+  ],
+  "date": "2031-10-16",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 8,
+      "6": 3,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "H": 5,
+      "R": 2,
+      "T": 6,
+      "W": 4
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2
+      },
+      "H": {
+        "4": 2,
+        "5": 2,
+        "6": 1
+      },
+      "R": {
+        "5": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "W": {
+        "4": 2,
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "AR": 2,
+      "AT": 1,
+      "AU": 1,
+      "AW": 1,
+      "HA": 2,
+      "HU": 3,
+      "RA": 2,
+      "TA": 2,
+      "TH": 2,
+      "TR": 2,
+      "WA": 3,
+      "WR": 1
+    }
+  }
+}

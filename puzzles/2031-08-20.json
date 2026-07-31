@@ -1,0 +1,87 @@
+{
+  "pangram": "backlog",
+  "center_letter": "b",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 89,
+  "answer_pangrams": [
+    "backlog"
+  ],
+  "answers": [
+    "aback",
+    "baba",
+    "back",
+    "backlog",
+    "balk",
+    "ball",
+    "baobab",
+    "blab",
+    "black",
+    "blackball",
+    "blob",
+    "bloc",
+    "block",
+    "blog",
+    "bola",
+    "boll",
+    "boob",
+    "booboo",
+    "book",
+    "cabal",
+    "cookbook",
+    "glob",
+    "global",
+    "logbook"
+  ],
+  "date": "2031-08-20",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 4,
+      "6": 3,
+      "7": 2,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 18,
+      "C": 2,
+      "G": 2,
+      "L": 1
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "B": {
+        "4": 12,
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "9": 1
+      },
+      "C": {
+        "5": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 1
+      },
+      "L": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "BA": 6,
+      "BL": 7,
+      "BO": 5,
+      "CA": 1,
+      "CO": 1,
+      "GL": 2,
+      "LO": 1
+    }
+  }
+}

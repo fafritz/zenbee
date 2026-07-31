@@ -1,0 +1,106 @@
+{
+  "pangram": "tequila",
+  "center_letter": "t",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 136,
+  "answer_pangrams": [
+    "tequila"
+  ],
+  "answers": [
+    "elate",
+    "elite",
+    "equate",
+    "etiquette",
+    "late",
+    "latte",
+    "lilt",
+    "lite",
+    "little",
+    "lute",
+    "quiet",
+    "quilt",
+    "quit",
+    "quite",
+    "tail",
+    "tale",
+    "tall",
+    "tattle",
+    "tattletale",
+    "taut",
+    "teal",
+    "tell",
+    "telltale",
+    "tequila",
+    "tile",
+    "till",
+    "tilt",
+    "titillate",
+    "title",
+    "tittle",
+    "tulle",
+    "tutu",
+    "ululate"
+  ],
+  "date": "2026-06-07",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 8,
+      "6": 4,
+      "7": 2,
+      "8": 1,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "E": 4,
+      "L": 6,
+      "Q": 4,
+      "T": 18,
+      "U": 1
+    },
+    "grid": {
+      "E": {
+        "5": 2,
+        "6": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 1,
+        "6": 1
+      },
+      "Q": {
+        "4": 1,
+        "5": 3
+      },
+      "T": {
+        "4": 10,
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "EL": 2,
+      "EQ": 1,
+      "ET": 1,
+      "LA": 2,
+      "LI": 3,
+      "LU": 1,
+      "QU": 4,
+      "TA": 6,
+      "TE": 4,
+      "TI": 6,
+      "TU": 2,
+      "UL": 1
+    }
+  }
+}

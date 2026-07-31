@@ -1,0 +1,88 @@
+{
+  "pangram": "blotchy",
+  "center_letter": "t",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 89,
+  "answer_pangrams": [
+    "blotchy"
+  ],
+  "answers": [
+    "blot",
+    "blotch",
+    "blotchy",
+    "bolt",
+    "boot",
+    "booth",
+    "booty",
+    "botch",
+    "both",
+    "boycott",
+    "clot",
+    "cloth",
+    "colt",
+    "coot",
+    "hoot",
+    "hotly",
+    "loot",
+    "lotto",
+    "toll",
+    "tollbooth",
+    "tool",
+    "toot",
+    "tooth",
+    "toothy"
+  ],
+  "date": "2036-09-05",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 7,
+      "6": 2,
+      "7": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "B": 10,
+      "C": 4,
+      "H": 2,
+      "L": 2,
+      "T": 6
+    },
+    "grid": {
+      "B": {
+        "4": 4,
+        "5": 3,
+        "6": 1,
+        "7": 2
+      },
+      "C": {
+        "4": 3,
+        "5": 1
+      },
+      "H": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "BL": 3,
+      "BO": 7,
+      "CL": 2,
+      "CO": 2,
+      "HO": 2,
+      "LO": 2,
+      "TO": 6
+    }
+  }
+}

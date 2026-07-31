@@ -1,0 +1,102 @@
+{
+  "pangram": "bifocal",
+  "center_letter": "c",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 122,
+  "answer_pangrams": [
+    "bifocal"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "bacilli",
+    "biblical",
+    "bifocal",
+    "bloc",
+    "cabal",
+    "cacao",
+    "calf",
+    "calico",
+    "call",
+    "calla",
+    "cilia",
+    "cliff",
+    "coal",
+    "coca",
+    "cocci",
+    "cocoa",
+    "coif",
+    "coil",
+    "cola",
+    "colic",
+    "cool",
+    "facial",
+    "focal",
+    "lilac",
+    "local",
+    "loci",
+    "loco",
+    "official"
+  ],
+  "date": "2037-01-01",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 11,
+      "6": 3,
+      "7": 2,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 4,
+      "C": 17,
+      "F": 2,
+      "L": 4,
+      "O": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1
+      },
+      "B": {
+        "4": 1,
+        "7": 2,
+        "8": 1
+      },
+      "C": {
+        "4": 8,
+        "5": 8,
+        "6": 1
+      },
+      "F": {
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 2
+      },
+      "O": {
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "BA": 1,
+      "BI": 2,
+      "BL": 1,
+      "CA": 6,
+      "CI": 1,
+      "CL": 1,
+      "CO": 9,
+      "FA": 1,
+      "FO": 1,
+      "LI": 1,
+      "LO": 3,
+      "OF": 1
+    }
+  }
+}

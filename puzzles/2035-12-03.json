@@ -1,0 +1,107 @@
+{
+  "pangram": "impeach",
+  "center_letter": "c",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 114,
+  "answer_pangrams": [
+    "impeach"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "ache",
+    "acme",
+    "apace",
+    "apiece",
+    "cache",
+    "came",
+    "camp",
+    "cape",
+    "champ",
+    "chap",
+    "cheap",
+    "cheep",
+    "chem",
+    "chic",
+    "chime",
+    "chimp",
+    "chip",
+    "each",
+    "emcee",
+    "epic",
+    "impeach",
+    "ipecac",
+    "mace",
+    "mecca",
+    "mica",
+    "mice",
+    "mimic",
+    "pace",
+    "peace",
+    "peach",
+    "pica",
+    "piece"
+  ],
+  "date": "2035-12-03",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 13,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 13,
+      "E": 3,
+      "I": 2,
+      "M": 5,
+      "P": 5
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 1,
+        "6": 2
+      },
+      "C": {
+        "4": 7,
+        "5": 6
+      },
+      "E": {
+        "4": 2,
+        "5": 1
+      },
+      "I": {
+        "6": 1,
+        "7": 1
+      },
+      "M": {
+        "4": 3,
+        "5": 2
+      },
+      "P": {
+        "4": 2,
+        "5": 3
+      }
+    },
+    "two_letter_list": {
+      "AC": 4,
+      "AP": 2,
+      "CA": 4,
+      "CH": 9,
+      "EA": 1,
+      "EM": 1,
+      "EP": 1,
+      "IM": 1,
+      "IP": 1,
+      "MA": 1,
+      "ME": 1,
+      "MI": 3,
+      "PA": 1,
+      "PE": 2,
+      "PI": 2
+    }
+  }
+}

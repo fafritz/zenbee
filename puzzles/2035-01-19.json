@@ -1,0 +1,62 @@
+{
+  "pangram": "halogen",
+  "center_letter": "h",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 67,
+  "answer_pangrams": [
+    "halogen"
+  ],
+  "answers": [
+    "aloha",
+    "haggle",
+    "halal",
+    "hale",
+    "hall",
+    "halo",
+    "halogen",
+    "halon",
+    "hang",
+    "heal",
+    "heel",
+    "hell",
+    "hellhole",
+    "hello",
+    "henna",
+    "hogan",
+    "hole",
+    "hone"
+  ],
+  "date": "2035-01-19",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 6,
+      "6": 1,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "H": 17
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "H": {
+        "4": 9,
+        "5": 5,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "HA": 8,
+      "HE": 6,
+      "HO": 3
+    }
+  }
+}

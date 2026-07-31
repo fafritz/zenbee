@@ -1,0 +1,88 @@
+{
+  "pangram": "evoking",
+  "center_letter": "k",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 93,
+  "answer_pangrams": [
+    "evoking"
+  ],
+  "answers": [
+    "eking",
+    "evoke",
+    "evoking",
+    "geek",
+    "ginkgo",
+    "inking",
+    "invoke",
+    "invoking",
+    "keen",
+    "keening",
+    "kenning",
+    "king",
+    "kink",
+    "kinking",
+    "knee",
+    "kneeing",
+    "kook",
+    "nook",
+    "oink",
+    "oinking"
+  ],
+  "date": "2030-03-10",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 2,
+      "6": 3,
+      "7": 6,
+      "8": 1
+    },
+    "by_first_letter": {
+      "E": 3,
+      "G": 2,
+      "I": 3,
+      "K": 9,
+      "N": 1,
+      "O": 2
+    },
+    "grid": {
+      "E": {
+        "5": 2,
+        "7": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 1
+      },
+      "I": {
+        "6": 2,
+        "8": 1
+      },
+      "K": {
+        "4": 5,
+        "7": 4
+      },
+      "N": {
+        "4": 1
+      },
+      "O": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "EK": 1,
+      "EV": 2,
+      "GE": 1,
+      "GI": 1,
+      "IN": 3,
+      "KE": 3,
+      "KI": 3,
+      "KN": 2,
+      "KO": 1,
+      "NO": 1,
+      "OI": 2
+    }
+  }
+}

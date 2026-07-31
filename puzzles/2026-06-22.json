@@ -1,0 +1,107 @@
+{
+  "pangram": "filched",
+  "center_letter": "c",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 166,
+  "answer_pangrams": [
+    "filched"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "cell",
+    "chef",
+    "chic",
+    "chicle",
+    "chide",
+    "chided",
+    "chief",
+    "child",
+    "chili",
+    "chill",
+    "chilled",
+    "clef",
+    "cliche",
+    "cliched",
+    "cliff",
+    "decide",
+    "decided",
+    "deice",
+    "deiced",
+    "dice",
+    "diced",
+    "edifice",
+    "fiche",
+    "filch",
+    "filched",
+    "fleece",
+    "fleeced",
+    "iced",
+    "icicle",
+    "leech",
+    "leeched",
+    "lice"
+  ],
+  "date": "2026-06-22",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 12,
+      "6": 7,
+      "7": 7
+    },
+    "by_first_letter": {
+      "C": 17,
+      "D": 6,
+      "E": 1,
+      "F": 5,
+      "I": 2,
+      "L": 3
+    },
+    "grid": {
+      "C": {
+        "4": 5,
+        "5": 7,
+        "6": 3,
+        "7": 2
+      },
+      "D": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "7": 1
+      },
+      "F": {
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "I": {
+        "4": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 3,
+      "CH": 10,
+      "CL": 4,
+      "DE": 4,
+      "DI": 2,
+      "ED": 1,
+      "FI": 3,
+      "FL": 2,
+      "IC": 2,
+      "LE": 2,
+      "LI": 1
+    }
+  }
+}

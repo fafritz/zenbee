@@ -1,0 +1,74 @@
+{
+  "pangram": "duality",
+  "center_letter": "u",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 52,
+  "answer_pangrams": [
+    "duality"
+  ],
+  "answers": [
+    "adult",
+    "audit",
+    "dual",
+    "duality",
+    "dull",
+    "dully",
+    "duly",
+    "duty",
+    "laud",
+    "luau",
+    "lull",
+    "lulu",
+    "taut",
+    "tautly",
+    "tutu",
+    "utility"
+  ],
+  "date": "2027-11-03",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 3,
+      "6": 1,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "D": 6,
+      "L": 4,
+      "T": 3,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "5": 2
+      },
+      "D": {
+        "4": 4,
+        "5": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 4
+      },
+      "T": {
+        "4": 2,
+        "6": 1
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AU": 1,
+      "DU": 6,
+      "LA": 1,
+      "LU": 3,
+      "TA": 2,
+      "TU": 1,
+      "UT": 1
+    }
+  }
+}

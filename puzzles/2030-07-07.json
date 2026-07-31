@@ -1,0 +1,91 @@
+{
+  "pangram": "laundry",
+  "center_letter": "r",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 104,
+  "answer_pangrams": [
+    "laundry"
+  ],
+  "answers": [
+    "annular",
+    "array",
+    "aura",
+    "aural",
+    "aurally",
+    "darn",
+    "dray",
+    "dryad",
+    "dryly",
+    "dullard",
+    "lanyard",
+    "lard",
+    "laundry",
+    "lunar",
+    "radar",
+    "rally",
+    "ruddy",
+    "runny",
+    "rural",
+    "unruly",
+    "yard",
+    "yarn"
+  ],
+  "date": "2030-07-07",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 10,
+      "6": 1,
+      "7": 5
+    },
+    "by_first_letter": {
+      "A": 5,
+      "D": 5,
+      "L": 4,
+      "R": 5,
+      "U": 1,
+      "Y": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "7": 2
+      },
+      "D": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "7": 2
+      },
+      "R": {
+        "5": 5
+      },
+      "U": {
+        "6": 1
+      },
+      "Y": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "AR": 1,
+      "AU": 3,
+      "DA": 1,
+      "DR": 3,
+      "DU": 1,
+      "LA": 3,
+      "LU": 1,
+      "RA": 2,
+      "RU": 3,
+      "UN": 1,
+      "YA": 2
+    }
+  }
+}

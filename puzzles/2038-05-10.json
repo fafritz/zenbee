@@ -1,0 +1,141 @@
+{
+  "pangram": "waltzed",
+  "center_letter": "l",
+  "num_answers": 56,
+  "num_pangrams": 1,
+  "possible_points": 258,
+  "answer_pangrams": [
+    "waltzed"
+  ],
+  "answers": [
+    "addle",
+    "addled",
+    "azalea",
+    "dale",
+    "dawdle",
+    "dawdled",
+    "dazzle",
+    "dazzled",
+    "deal",
+    "dealt",
+    "delete",
+    "deleted",
+    "dell",
+    "delta",
+    "dwell",
+    "dwelt",
+    "elate",
+    "elated",
+    "ladle",
+    "ladled",
+    "late",
+    "latte",
+    "laze",
+    "lazed",
+    "lead",
+    "leaded",
+    "lewd",
+    "tale",
+    "tall",
+    "tattle",
+    "tattled",
+    "tattletale",
+    "teal",
+    "tell",
+    "telltale",
+    "twaddle",
+    "twaddled",
+    "waddle",
+    "waddled",
+    "wale",
+    "waled",
+    "wall",
+    "walled",
+    "wallet",
+    "waltz",
+    "waltzed",
+    "wattle",
+    "wattled",
+    "weal",
+    "weld",
+    "welded",
+    "well",
+    "welled",
+    "welt",
+    "welted",
+    "zeal"
+  ],
+  "date": "2038-05-10",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 11,
+      "6": 16,
+      "7": 8,
+      "8": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 13,
+      "E": 2,
+      "L": 9,
+      "T": 10,
+      "W": 18,
+      "Z": 1
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 2
+      },
+      "D": {
+        "4": 3,
+        "5": 4,
+        "6": 3,
+        "7": 3
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 3,
+        "6": 2
+      },
+      "T": {
+        "4": 4,
+        "6": 1,
+        "7": 2,
+        "8": 2,
+        "10": 1
+      },
+      "W": {
+        "4": 6,
+        "5": 2,
+        "6": 7,
+        "7": 3
+      },
+      "Z": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 2,
+      "AZ": 1,
+      "DA": 5,
+      "DE": 6,
+      "DW": 2,
+      "EL": 2,
+      "LA": 6,
+      "LE": 3,
+      "TA": 5,
+      "TE": 3,
+      "TW": 2,
+      "WA": 11,
+      "WE": 7,
+      "ZE": 1
+    }
+  }
+}

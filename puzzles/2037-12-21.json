@@ -1,0 +1,95 @@
+{
+  "pangram": "purloin",
+  "center_letter": "l",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 71,
+  "answer_pangrams": [
+    "purloin"
+  ],
+  "answers": [
+    "lion",
+    "loin",
+    "loll",
+    "lollipop",
+    "loon",
+    "loop",
+    "lull",
+    "lulu",
+    "null",
+    "olio",
+    "pill",
+    "pillion",
+    "plop",
+    "polio",
+    "poll",
+    "polo",
+    "pool",
+    "poplin",
+    "pull",
+    "pulp",
+    "pupil",
+    "purl",
+    "purloin",
+    "rill",
+    "roil",
+    "roll",
+    "unroll"
+  ],
+  "date": "2037-12-21",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "L": 8,
+      "N": 1,
+      "O": 1,
+      "P": 13,
+      "R": 3,
+      "U": 1
+    },
+    "grid": {
+      "L": {
+        "4": 7,
+        "8": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 8,
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "R": {
+        "4": 3
+      },
+      "U": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "LI": 1,
+      "LO": 5,
+      "LU": 2,
+      "NU": 1,
+      "OL": 1,
+      "PI": 2,
+      "PL": 1,
+      "PO": 5,
+      "PU": 5,
+      "RI": 1,
+      "RO": 2,
+      "UN": 1
+    }
+  }
+}

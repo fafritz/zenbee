@@ -1,0 +1,74 @@
+{
+  "pangram": "wolfram",
+  "center_letter": "w",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 75,
+  "answer_pangrams": [
+    "wolfram"
+  ],
+  "answers": [
+    "allow",
+    "arrow",
+    "fallow",
+    "farrow",
+    "flaw",
+    "flow",
+    "follow",
+    "fowl",
+    "mallow",
+    "marrow",
+    "morrow",
+    "wall",
+    "wallow",
+    "warm",
+    "wolf",
+    "wolfram",
+    "woof",
+    "wool",
+    "worm"
+  ],
+  "date": "2030-11-13",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 2,
+      "6": 7,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "F": 6,
+      "M": 3,
+      "W": 8
+    },
+    "grid": {
+      "A": {
+        "5": 2
+      },
+      "F": {
+        "4": 3,
+        "6": 3
+      },
+      "M": {
+        "6": 3
+      },
+      "W": {
+        "4": 6,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AR": 1,
+      "FA": 2,
+      "FL": 2,
+      "FO": 2,
+      "MA": 2,
+      "MO": 1,
+      "WA": 3,
+      "WO": 5
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "pangram": "faintly",
+  "center_letter": "i",
+  "num_answers": 48,
+  "num_pangrams": 2,
+  "possible_points": 214,
+  "answer_pangrams": [
+    "faintly",
+    "finality"
+  ],
+  "answers": [
+    "affinity",
+    "anti",
+    "attain",
+    "fail",
+    "faint",
+    "faintly",
+    "fatality",
+    "fiat",
+    "fifty",
+    "filial",
+    "fill",
+    "filly",
+    "final",
+    "finality",
+    "finally",
+    "finny",
+    "fitly",
+    "flail",
+    "flint",
+    "flinty",
+    "flit",
+    "iffy",
+    "inanity",
+    "infant",
+    "infinity",
+    "initial",
+    "initially",
+    "inlay",
+    "lain",
+    "laity",
+    "lift",
+    "lilt",
+    "lily",
+    "lint",
+    "litany",
+    "nail",
+    "nattily",
+    "ninny",
+    "tail",
+    "taint",
+    "tannin",
+    "tiff",
+    "till",
+    "tilt",
+    "tinny",
+    "tint",
+    "tiny",
+    "titan"
+  ],
+  "date": "2026-12-31",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 14,
+      "6": 6,
+      "7": 5,
+      "8": 4,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "F": 18,
+      "I": 7,
+      "L": 7,
+      "N": 3,
+      "T": 10
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1,
+        "8": 1
+      },
+      "F": {
+        "4": 4,
+        "5": 8,
+        "6": 2,
+        "7": 2,
+        "8": 2
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 3,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AF": 1,
+      "AN": 1,
+      "AT": 1,
+      "FA": 4,
+      "FI": 10,
+      "FL": 4,
+      "IF": 1,
+      "IN": 6,
+      "LA": 2,
+      "LI": 5,
+      "NA": 2,
+      "NI": 1,
+      "TA": 3,
+      "TI": 7
+    }
+  }
+}

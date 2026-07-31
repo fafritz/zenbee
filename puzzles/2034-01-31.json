@@ -1,0 +1,128 @@
+{
+  "pangram": "hurling",
+  "center_letter": "n",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 240,
+  "answer_pangrams": [
+    "hurling"
+  ],
+  "answers": [
+    "gigging",
+    "giggling",
+    "ginning",
+    "gluing",
+    "grilling",
+    "grin",
+    "grinning",
+    "gulling",
+    "gunning",
+    "gunrunning",
+    "gurgling",
+    "hing",
+    "hinging",
+    "hiring",
+    "hugging",
+    "hulling",
+    "hung",
+    "hurling",
+    "inning",
+    "inuring",
+    "lining",
+    "lugging",
+    "lulling",
+    "lung",
+    "lunging",
+    "luring",
+    "niggling",
+    "nigh",
+    "null",
+    "rigging",
+    "riling",
+    "ring",
+    "ringing",
+    "ruin",
+    "ruing",
+    "ruining",
+    "ruling",
+    "rung",
+    "running",
+    "unhinging",
+    "urging"
+  ],
+  "date": "2034-01-31",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 1,
+      "6": 8,
+      "7": 16,
+      "8": 5,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "G": 11,
+      "H": 7,
+      "I": 2,
+      "L": 6,
+      "N": 3,
+      "R": 10,
+      "U": 2
+    },
+    "grid": {
+      "G": {
+        "4": 1,
+        "6": 1,
+        "7": 4,
+        "8": 4,
+        "10": 1
+      },
+      "H": {
+        "4": 2,
+        "6": 1,
+        "7": 4
+      },
+      "I": {
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "6": 2,
+        "7": 3
+      },
+      "N": {
+        "4": 2,
+        "8": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 1,
+        "6": 2,
+        "7": 4
+      },
+      "U": {
+        "6": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 3,
+      "GL": 1,
+      "GR": 3,
+      "GU": 4,
+      "HI": 3,
+      "HU": 4,
+      "IN": 2,
+      "LI": 1,
+      "LU": 5,
+      "NI": 2,
+      "NU": 1,
+      "RI": 4,
+      "RU": 6,
+      "UN": 1,
+      "UR": 1
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "pangram": "quilted",
+  "center_letter": "t",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 183,
+  "answer_pangrams": [
+    "quilted"
+  ],
+  "answers": [
+    "delete",
+    "deleted",
+    "diet",
+    "dieted",
+    "dilute",
+    "diluted",
+    "duet",
+    "edit",
+    "edited",
+    "elite",
+    "etiquette",
+    "etude",
+    "lilt",
+    "lilted",
+    "lite",
+    "little",
+    "lute",
+    "quiet",
+    "quieted",
+    "quietude",
+    "quilt",
+    "quilted",
+    "quit",
+    "quite",
+    "teed",
+    "tell",
+    "tide",
+    "tided",
+    "tidied",
+    "tied",
+    "tilde",
+    "tile",
+    "tiled",
+    "till",
+    "tilled",
+    "tilt",
+    "tilted",
+    "title",
+    "titled",
+    "tittle",
+    "tulle",
+    "tutu"
+  ],
+  "date": "2029-05-11",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 10,
+      "6": 11,
+      "7": 4,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "D": 7,
+      "E": 5,
+      "L": 5,
+      "Q": 7,
+      "T": 18
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "6": 3,
+        "7": 2
+      },
+      "E": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 3,
+        "6": 2
+      },
+      "Q": {
+        "4": 1,
+        "5": 3,
+        "7": 2,
+        "8": 1
+      },
+      "T": {
+        "4": 8,
+        "5": 5,
+        "6": 5
+      }
+    },
+    "two_letter_list": {
+      "DE": 2,
+      "DI": 4,
+      "DU": 1,
+      "ED": 2,
+      "EL": 1,
+      "ET": 2,
+      "LI": 4,
+      "LU": 1,
+      "QU": 7,
+      "TE": 2,
+      "TI": 14,
+      "TU": 2
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "pangram": "complex",
+  "center_letter": "e",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 79,
+  "answer_pangrams": [
+    "complex"
+  ],
+  "answers": [
+    "cell",
+    "cello",
+    "come",
+    "compel",
+    "complex",
+    "cope",
+    "elope",
+    "emcee",
+    "epee",
+    "excel",
+    "exec",
+    "expel",
+    "expo",
+    "lope",
+    "melee",
+    "meme",
+    "memo",
+    "mole",
+    "mope",
+    "oleo",
+    "peel",
+    "peep",
+    "people",
+    "poem",
+    "pole",
+    "pommel",
+    "pope"
+  ],
+  "date": "2027-12-28",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 6,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 6,
+      "E": 7,
+      "L": 1,
+      "M": 5,
+      "O": 1,
+      "P": 7
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 3,
+        "5": 4
+      },
+      "L": {
+        "4": 1
+      },
+      "M": {
+        "4": 4,
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 5,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "CE": 2,
+      "CO": 4,
+      "EL": 1,
+      "EM": 1,
+      "EP": 1,
+      "EX": 4,
+      "LO": 1,
+      "ME": 3,
+      "MO": 2,
+      "OL": 1,
+      "PE": 3,
+      "PO": 4
+    }
+  }
+}

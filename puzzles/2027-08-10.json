@@ -1,0 +1,132 @@
+{
+  "pangram": "coinage",
+  "center_letter": "o",
+  "num_answers": 46,
+  "num_pangrams": 3,
+  "possible_points": 243,
+  "answer_pangrams": [
+    "canoeing",
+    "coinage",
+    "oceangoing"
+  ],
+  "answers": [
+    "agog",
+    "anion",
+    "anon",
+    "cacao",
+    "cannon",
+    "cannoning",
+    "canoe",
+    "canoeing",
+    "canon",
+    "coca",
+    "cocaine",
+    "cocci",
+    "cocoa",
+    "cocoon",
+    "cocooning",
+    "cognac",
+    "coin",
+    "coinage",
+    "coining",
+    "cone",
+    "conga",
+    "congaing",
+    "conic",
+    "conning",
+    "cooing",
+    "eggnog",
+    "going",
+    "gone",
+    "gong",
+    "gonging",
+    "gonna",
+    "goon",
+    "icon",
+    "innocence",
+    "neocon",
+    "neon",
+    "noggin",
+    "nonce",
+    "none",
+    "noon",
+    "ocean",
+    "oceangoing",
+    "oceanic",
+    "once",
+    "ongoing",
+    "onion"
+  ],
+  "date": "2027-08-10",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 13,
+      "6": 7,
+      "7": 7,
+      "8": 2,
+      "9": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 22,
+      "E": 1,
+      "G": 6,
+      "I": 2,
+      "N": 6,
+      "O": 6
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 7,
+        "6": 4,
+        "7": 4,
+        "8": 2,
+        "9": 2
+      },
+      "E": {
+        "6": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 2,
+        "7": 1
+      },
+      "I": {
+        "4": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 1,
+        "6": 2
+      },
+      "O": {
+        "4": 1,
+        "5": 2,
+        "7": 2,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AN": 2,
+      "CA": 6,
+      "CO": 16,
+      "EG": 1,
+      "GO": 6,
+      "IC": 1,
+      "IN": 1,
+      "NE": 2,
+      "NO": 4,
+      "OC": 3,
+      "ON": 3
+    }
+  }
+}

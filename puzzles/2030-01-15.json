@@ -1,0 +1,90 @@
+{
+  "pangram": "duality",
+  "center_letter": "i",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 82,
+  "answer_pangrams": [
+    "duality"
+  ],
+  "answers": [
+    "audit",
+    "daily",
+    "dial",
+    "dill",
+    "dilly",
+    "dillydally",
+    "ditty",
+    "duality",
+    "idly",
+    "idyll",
+    "laid",
+    "laity",
+    "lilt",
+    "lily",
+    "tail",
+    "tidal",
+    "tidily",
+    "tidy",
+    "till",
+    "tilt",
+    "utility"
+  ],
+  "date": "2030-01-15",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 7,
+      "6": 1,
+      "7": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "D": 7,
+      "I": 2,
+      "L": 4,
+      "T": 6,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 3,
+        "7": 1,
+        "10": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 1,
+        "6": 1
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AU": 1,
+      "DA": 1,
+      "DI": 5,
+      "DU": 1,
+      "ID": 2,
+      "LA": 2,
+      "LI": 2,
+      "TA": 1,
+      "TI": 5,
+      "UT": 1
+    }
+  }
+}

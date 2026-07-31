@@ -1,0 +1,118 @@
+{
+  "pangram": "barfing",
+  "center_letter": "b",
+  "num_answers": 43,
+  "num_pangrams": 1,
+  "possible_points": 240,
+  "answer_pangrams": [
+    "barfing"
+  ],
+  "answers": [
+    "airbag",
+    "baaing",
+    "baba",
+    "bagging",
+    "banana",
+    "bang",
+    "banging",
+    "banning",
+    "barb",
+    "barbarian",
+    "barbing",
+    "barf",
+    "barfing",
+    "bargain",
+    "bargaining",
+    "barging",
+    "baring",
+    "barn",
+    "barraging",
+    "barring",
+    "biff",
+    "biffing",
+    "binning",
+    "brag",
+    "bragging",
+    "brain",
+    "braining",
+    "bran",
+    "briar",
+    "bribing",
+    "brig",
+    "bring",
+    "bringing",
+    "fibbing",
+    "gabbing",
+    "garb",
+    "garbing",
+    "gibing",
+    "grab",
+    "grabbing",
+    "nabbing",
+    "rabbi",
+    "ribbing"
+  ],
+  "date": "2029-09-24",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 4,
+      "6": 5,
+      "7": 16,
+      "8": 4,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 32,
+      "F": 1,
+      "G": 6,
+      "N": 1,
+      "R": 2
+    },
+    "grid": {
+      "A": {
+        "6": 1
+      },
+      "B": {
+        "4": 9,
+        "5": 3,
+        "6": 3,
+        "7": 11,
+        "8": 3,
+        "9": 2,
+        "10": 1
+      },
+      "F": {
+        "7": 1
+      },
+      "G": {
+        "4": 2,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "7": 1
+      },
+      "R": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "BA": 19,
+      "BI": 3,
+      "BR": 10,
+      "FI": 1,
+      "GA": 3,
+      "GI": 1,
+      "GR": 2,
+      "NA": 1,
+      "RA": 1,
+      "RI": 1
+    }
+  }
+}

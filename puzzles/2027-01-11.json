@@ -1,0 +1,100 @@
+{
+  "pangram": "welting",
+  "center_letter": "w",
+  "num_answers": 39,
+  "num_pangrams": 1,
+  "possible_points": 202,
+  "answer_pangrams": [
+    "welting"
+  ],
+  "answers": [
+    "entwine",
+    "entwining",
+    "newel",
+    "newt",
+    "nitwit",
+    "tweet",
+    "tweeting",
+    "twig",
+    "twigging",
+    "twill",
+    "twin",
+    "twine",
+    "twinge",
+    "twinging",
+    "twining",
+    "twinning",
+    "twit",
+    "twitting",
+    "weeing",
+    "well",
+    "welling",
+    "welt",
+    "welting",
+    "went",
+    "wetting",
+    "wigging",
+    "wiggle",
+    "wiggling",
+    "wile",
+    "wiling",
+    "will",
+    "willing",
+    "wilt",
+    "wilting",
+    "wine",
+    "wing",
+    "winging",
+    "wining",
+    "winning"
+  ],
+  "date": "2027-01-11",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 4,
+      "6": 6,
+      "7": 10,
+      "8": 6,
+      "9": 1
+    },
+    "by_first_letter": {
+      "E": 2,
+      "N": 3,
+      "T": 13,
+      "W": 21
+    },
+    "grid": {
+      "E": {
+        "7": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "7": 1,
+        "8": 5
+      },
+      "W": {
+        "4": 8,
+        "6": 4,
+        "7": 8,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "EN": 2,
+      "NE": 2,
+      "NI": 1,
+      "TW": 13,
+      "WE": 7,
+      "WI": 14
+    }
+  }
+}

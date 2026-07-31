@@ -1,0 +1,119 @@
+{
+  "pangram": "backing",
+  "center_letter": "a",
+  "num_answers": 43,
+  "num_pangrams": 1,
+  "possible_points": 227,
+  "answer_pangrams": [
+    "backing"
+  ],
+  "answers": [
+    "aback",
+    "acacia",
+    "acai",
+    "acing",
+    "again",
+    "aging",
+    "akin",
+    "angina",
+    "baaing",
+    "baba",
+    "back",
+    "backing",
+    "bagging",
+    "baking",
+    "banana",
+    "bang",
+    "banging",
+    "bank",
+    "banking",
+    "banning",
+    "cabana",
+    "cabbing",
+    "cabin",
+    "caging",
+    "caking",
+    "cancan",
+    "caning",
+    "canna",
+    "canning",
+    "gabbing",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "kickback",
+    "knack",
+    "knickknack",
+    "naan",
+    "nabbing",
+    "nagging",
+    "nana",
+    "niacin"
+  ],
+  "date": "2034-09-15",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 7,
+      "6": 11,
+      "7": 13,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "B": 12,
+      "C": 9,
+      "G": 6,
+      "K": 3,
+      "N": 5
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 4,
+        "6": 2
+      },
+      "B": {
+        "4": 4,
+        "6": 3,
+        "7": 5
+      },
+      "C": {
+        "5": 2,
+        "6": 5,
+        "7": 2
+      },
+      "G": {
+        "4": 2,
+        "7": 4
+      },
+      "K": {
+        "5": 1,
+        "8": 1,
+        "10": 1
+      },
+      "N": {
+        "4": 2,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AC": 3,
+      "AG": 2,
+      "AK": 1,
+      "AN": 1,
+      "BA": 12,
+      "CA": 9,
+      "GA": 6,
+      "KI": 1,
+      "KN": 2,
+      "NA": 4,
+      "NI": 1
+    }
+  }
+}

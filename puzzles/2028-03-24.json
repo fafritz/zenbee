@@ -1,0 +1,136 @@
+{
+  "pangram": "blacked",
+  "center_letter": "b",
+  "num_answers": 56,
+  "num_pangrams": 2,
+  "possible_points": 268,
+  "answer_pangrams": [
+    "blackballed",
+    "blacked"
+  ],
+  "answers": [
+    "aback",
+    "abbe",
+    "able",
+    "baaed",
+    "baba",
+    "babble",
+    "babbled",
+    "babe",
+    "babel",
+    "back",
+    "backed",
+    "bade",
+    "bake",
+    "baked",
+    "bald",
+    "balded",
+    "bale",
+    "baled",
+    "balk",
+    "balked",
+    "ball",
+    "ballad",
+    "balled",
+    "bead",
+    "beaded",
+    "beak",
+    "beck",
+    "bedded",
+    "bedeck",
+    "bedecked",
+    "bell",
+    "belle",
+    "belled",
+    "blab",
+    "blabbed",
+    "black",
+    "blackball",
+    "blackballed",
+    "blacked",
+    "blade",
+    "bleak",
+    "bled",
+    "bleed",
+    "cabal",
+    "cabbed",
+    "cable",
+    "cabled",
+    "callable",
+    "dabbed",
+    "dabble",
+    "dabbled",
+    "debacle",
+    "ebbed",
+    "kebab",
+    "label",
+    "labeled"
+  ],
+  "date": "2028-03-24",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 15,
+      "6": 14,
+      "7": 6,
+      "8": 2,
+      "9": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 40,
+      "C": 5,
+      "D": 4,
+      "E": 1,
+      "K": 1,
+      "L": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "B": {
+        "4": 15,
+        "5": 9,
+        "6": 10,
+        "7": 3,
+        "8": 1,
+        "9": 1,
+        "11": 1
+      },
+      "C": {
+        "5": 2,
+        "6": 2,
+        "8": 1
+      },
+      "D": {
+        "6": 2,
+        "7": 2
+      },
+      "E": {
+        "5": 1
+      },
+      "K": {
+        "5": 1
+      },
+      "L": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 3,
+      "BA": 20,
+      "BE": 10,
+      "BL": 10,
+      "CA": 5,
+      "DA": 3,
+      "DE": 1,
+      "EB": 1,
+      "KE": 1,
+      "LA": 2
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "pangram": "conduit",
+  "center_letter": "d",
+  "num_answers": 21,
+  "num_pangrams": 3,
+  "possible_points": 134,
+  "answer_pangrams": [
+    "conduction",
+    "conduit",
+    "induction"
+  ],
+  "answers": [
+    "condition",
+    "condo",
+    "conduct",
+    "conduction",
+    "conduit",
+    "diction",
+    "dint",
+    "ditto",
+    "dodo",
+    "donut",
+    "duct",
+    "dunno",
+    "idiot",
+    "idiotic",
+    "indict",
+    "induct",
+    "induction",
+    "outdid",
+    "outdo",
+    "undid",
+    "undo"
+  ],
+  "date": "2038-04-15",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 7,
+      "6": 3,
+      "7": 4,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 5,
+      "D": 7,
+      "I": 5,
+      "O": 2,
+      "U": 2
+    },
+    "grid": {
+      "C": {
+        "5": 1,
+        "7": 2,
+        "9": 1,
+        "10": 1
+      },
+      "D": {
+        "4": 3,
+        "5": 3,
+        "7": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "9": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 5,
+      "DI": 3,
+      "DO": 2,
+      "DU": 2,
+      "ID": 2,
+      "IN": 3,
+      "OU": 2,
+      "UN": 2
+    }
+  }
+}

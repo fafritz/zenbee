@@ -1,0 +1,89 @@
+{
+  "pangram": "furlong",
+  "center_letter": "u",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 72,
+  "answer_pangrams": [
+    "furlong"
+  ],
+  "answers": [
+    "flour",
+    "fluff",
+    "flung",
+    "foul",
+    "four",
+    "full",
+    "furl",
+    "furlong",
+    "furor",
+    "gruff",
+    "guff",
+    "gulf",
+    "gull",
+    "guru",
+    "lull",
+    "lulu",
+    "lung",
+    "noun",
+    "null",
+    "ruff",
+    "rung",
+    "runoff",
+    "unfurl",
+    "unroll"
+  ],
+  "date": "2031-06-14",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 5,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "F": 9,
+      "G": 5,
+      "L": 3,
+      "N": 2,
+      "R": 3,
+      "U": 2
+    },
+    "grid": {
+      "F": {
+        "4": 4,
+        "5": 4,
+        "7": 1
+      },
+      "G": {
+        "4": 4,
+        "5": 1
+      },
+      "L": {
+        "4": 3
+      },
+      "N": {
+        "4": 2
+      },
+      "R": {
+        "4": 2,
+        "6": 1
+      },
+      "U": {
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "FL": 3,
+      "FO": 2,
+      "FU": 4,
+      "GR": 1,
+      "GU": 4,
+      "LU": 3,
+      "NO": 1,
+      "NU": 1,
+      "RU": 3,
+      "UN": 2
+    }
+  }
+}

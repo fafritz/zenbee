@@ -1,0 +1,136 @@
+{
+  "pangram": "lunatic",
+  "center_letter": "l",
+  "num_answers": 45,
+  "num_pangrams": 2,
+  "possible_points": 197,
+  "answer_pangrams": [
+    "lunatic",
+    "nautical"
+  ],
+  "answers": [
+    "actual",
+    "anal",
+    "annual",
+    "annul",
+    "calculi",
+    "call",
+    "calla",
+    "canal",
+    "cannula",
+    "canula",
+    "catcall",
+    "cattail",
+    "cilia",
+    "clan",
+    "clinic",
+    "clinical",
+    "clinician",
+    "cull",
+    "cult",
+    "illicit",
+    "initial",
+    "italic",
+    "lactic",
+    "lacuna",
+    "lain",
+    "licit",
+    "lilac",
+    "lilt",
+    "lint",
+    "luau",
+    "lull",
+    "lulu",
+    "lunatic",
+    "nail",
+    "natal",
+    "nautical",
+    "null",
+    "tactical",
+    "tail",
+    "talc",
+    "tall",
+    "till",
+    "tilt",
+    "ulna",
+    "until"
+  ],
+  "date": "2027-05-17",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 8,
+      "6": 7,
+      "7": 7,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 15,
+      "I": 3,
+      "L": 11,
+      "N": 4,
+      "T": 6,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "C": {
+        "4": 4,
+        "5": 3,
+        "6": 2,
+        "7": 4,
+        "8": 1,
+        "9": 1
+      },
+      "I": {
+        "6": 1,
+        "7": 2
+      },
+      "L": {
+        "4": 6,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 5,
+        "8": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AN": 3,
+      "CA": 8,
+      "CI": 1,
+      "CL": 4,
+      "CU": 2,
+      "IL": 1,
+      "IN": 1,
+      "IT": 1,
+      "LA": 3,
+      "LI": 4,
+      "LU": 4,
+      "NA": 3,
+      "NU": 1,
+      "TA": 4,
+      "TI": 2,
+      "UL": 1,
+      "UN": 1
+    }
+  }
+}

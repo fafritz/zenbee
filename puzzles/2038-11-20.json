@@ -1,0 +1,71 @@
+{
+  "pangram": "bailout",
+  "center_letter": "u",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 37,
+  "answer_pangrams": [
+    "bailout"
+  ],
+  "answers": [
+    "about",
+    "abut",
+    "auto",
+    "bailout",
+    "bout",
+    "built",
+    "bulb",
+    "bull",
+    "lout",
+    "luau",
+    "lull",
+    "lulu",
+    "taut",
+    "tout",
+    "tuba",
+    "tutu"
+  ],
+  "date": "2038-11-20",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 5,
+      "L": 4,
+      "T": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "B": {
+        "4": 3,
+        "5": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 4
+      },
+      "T": {
+        "4": 4
+      }
+    },
+    "two_letter_list": {
+      "AB": 2,
+      "AU": 1,
+      "BA": 1,
+      "BO": 1,
+      "BU": 3,
+      "LO": 1,
+      "LU": 3,
+      "TA": 1,
+      "TO": 1,
+      "TU": 2
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "pangram": "wedlock",
+  "center_letter": "c",
+  "num_answers": 39,
+  "num_pangrams": 1,
+  "possible_points": 167,
+  "answer_pangrams": [
+    "wedlock"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "cell",
+    "cello",
+    "clew",
+    "clewed",
+    "clock",
+    "clocked",
+    "clod",
+    "cocked",
+    "cockle",
+    "coddle",
+    "coddled",
+    "code",
+    "coded",
+    "coed",
+    "coke",
+    "coked",
+    "cold",
+    "cooed",
+    "cook",
+    "cooked",
+    "cool",
+    "cooled",
+    "cowed",
+    "cowl",
+    "deck",
+    "decked",
+    "deckle",
+    "decode",
+    "decoded",
+    "dock",
+    "docked",
+    "lock",
+    "locked",
+    "loco",
+    "locoweed",
+    "wedlock",
+    "woodcock"
+  ],
+  "date": "2038-08-09",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 7,
+      "6": 11,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "C": 26,
+      "D": 7,
+      "L": 4,
+      "W": 2
+    },
+    "grid": {
+      "C": {
+        "4": 11,
+        "5": 7,
+        "6": 6,
+        "7": 2
+      },
+      "D": {
+        "4": 2,
+        "6": 4,
+        "7": 1
+      },
+      "L": {
+        "4": 2,
+        "6": 1,
+        "8": 1
+      },
+      "W": {
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 4,
+      "CL": 5,
+      "CO": 17,
+      "DE": 5,
+      "DO": 2,
+      "LO": 4,
+      "WE": 1,
+      "WO": 1
+    }
+  }
+}

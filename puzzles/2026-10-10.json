@@ -1,0 +1,106 @@
+{
+  "pangram": "divulge",
+  "center_letter": "g",
+  "num_answers": 36,
+  "num_pangrams": 2,
+  "possible_points": 179,
+  "answer_pangrams": [
+    "divulge",
+    "divulged"
+  ],
+  "answers": [
+    "deluge",
+    "deluged",
+    "divulge",
+    "divulged",
+    "edge",
+    "edged",
+    "egged",
+    "geed",
+    "geld",
+    "gelded",
+    "gelid",
+    "gelled",
+    "gigged",
+    "giggle",
+    "giggled",
+    "gild",
+    "gilded",
+    "gill",
+    "give",
+    "glee",
+    "glide",
+    "glided",
+    "glue",
+    "glued",
+    "guide",
+    "guided",
+    "guild",
+    "guile",
+    "gull",
+    "gulled",
+    "ledge",
+    "legged",
+    "liege",
+    "lugged",
+    "veggie",
+    "vigil"
+  ],
+  "date": "2026-10-10",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 11,
+      "6": 12,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "D": 4,
+      "E": 3,
+      "G": 23,
+      "L": 4,
+      "V": 2
+    },
+    "grid": {
+      "D": {
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 2
+      },
+      "G": {
+        "4": 8,
+        "5": 6,
+        "6": 8,
+        "7": 1
+      },
+      "L": {
+        "5": 2,
+        "6": 2
+      },
+      "V": {
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 2,
+      "DI": 2,
+      "ED": 2,
+      "EG": 1,
+      "GE": 5,
+      "GI": 7,
+      "GL": 5,
+      "GU": 6,
+      "LE": 2,
+      "LI": 1,
+      "LU": 1,
+      "VE": 1,
+      "VI": 1
+    }
+  }
+}

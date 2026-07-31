@@ -1,0 +1,99 @@
+{
+  "pangram": "barfing",
+  "center_letter": "f",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 131,
+  "answer_pangrams": [
+    "barfing"
+  ],
+  "answers": [
+    "afar",
+    "affair",
+    "barf",
+    "barfing",
+    "biff",
+    "biffing",
+    "fair",
+    "fang",
+    "fanning",
+    "farina",
+    "faring",
+    "fibbing",
+    "fining",
+    "firing",
+    "frag",
+    "friar",
+    "fringing",
+    "gaff",
+    "gaffing",
+    "griffin",
+    "infringing",
+    "raffia",
+    "riff",
+    "riffing",
+    "riffraff"
+  ],
+  "date": "2031-09-17",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 1,
+      "6": 6,
+      "7": 7,
+      "8": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 4,
+      "F": 11,
+      "G": 3,
+      "I": 1,
+      "R": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1
+      },
+      "B": {
+        "4": 2,
+        "7": 2
+      },
+      "F": {
+        "4": 3,
+        "5": 1,
+        "6": 4,
+        "7": 2,
+        "8": 1
+      },
+      "G": {
+        "4": 1,
+        "7": 2
+      },
+      "I": {
+        "10": 1
+      },
+      "R": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AF": 2,
+      "BA": 2,
+      "BI": 2,
+      "FA": 5,
+      "FI": 3,
+      "FR": 3,
+      "GA": 2,
+      "GR": 1,
+      "IN": 1,
+      "RA": 1,
+      "RI": 3
+    }
+  }
+}

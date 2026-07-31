@@ -1,0 +1,137 @@
+{
+  "pangram": "flicked",
+  "center_letter": "l",
+  "num_answers": 53,
+  "num_pangrams": 1,
+  "possible_points": 225,
+  "answer_pangrams": [
+    "flicked"
+  ],
+  "answers": [
+    "cell",
+    "clef",
+    "click",
+    "clicked",
+    "cliff",
+    "deckle",
+    "defile",
+    "defiled",
+    "deli",
+    "dell",
+    "diddle",
+    "diddled",
+    "dill",
+    "elide",
+    "elided",
+    "feel",
+    "fell",
+    "felled",
+    "fickle",
+    "fiddle",
+    "fiddled",
+    "field",
+    "fielded",
+    "file",
+    "filed",
+    "fill",
+    "filled",
+    "fleck",
+    "flecked",
+    "fled",
+    "flee",
+    "fleece",
+    "fleeced",
+    "flick",
+    "flicked",
+    "flied",
+    "icicle",
+    "idle",
+    "idled",
+    "keel",
+    "keeled",
+    "kill",
+    "killed",
+    "leek",
+    "lice",
+    "lick",
+    "licked",
+    "lidded",
+    "lied",
+    "life",
+    "lifelike",
+    "like",
+    "liked"
+  ],
+  "date": "2026-09-02",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 10,
+      "6": 14,
+      "7": 8,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 5,
+      "D": 8,
+      "E": 2,
+      "F": 21,
+      "I": 3,
+      "K": 4,
+      "L": 10
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "D": {
+        "4": 3,
+        "6": 3,
+        "7": 2
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "F": {
+        "4": 6,
+        "5": 5,
+        "6": 5,
+        "7": 5
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "K": {
+        "4": 2,
+        "6": 2
+      },
+      "L": {
+        "4": 6,
+        "5": 1,
+        "6": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 1,
+      "CL": 4,
+      "DE": 5,
+      "DI": 3,
+      "EL": 2,
+      "FE": 3,
+      "FI": 9,
+      "FL": 9,
+      "IC": 1,
+      "ID": 2,
+      "KE": 2,
+      "KI": 2,
+      "LE": 1,
+      "LI": 9
+    }
+  }
+}

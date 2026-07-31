@@ -1,0 +1,85 @@
+{
+  "pangram": "coughed",
+  "center_letter": "c",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 115,
+  "answer_pangrams": [
+    "coughed"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "chug",
+    "chugged",
+    "code",
+    "coded",
+    "coed",
+    "cooed",
+    "couch",
+    "couched",
+    "cough",
+    "coughed",
+    "cued",
+    "decode",
+    "decoded",
+    "deduce",
+    "deduced",
+    "deuce",
+    "douche",
+    "douched",
+    "echo",
+    "echoed",
+    "hooch",
+    "ouch"
+  ],
+  "date": "2031-09-14",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 7,
+      "6": 4,
+      "7": 6
+    },
+    "by_first_letter": {
+      "C": 13,
+      "D": 7,
+      "E": 2,
+      "H": 1,
+      "O": 1
+    },
+    "grid": {
+      "C": {
+        "4": 5,
+        "5": 5,
+        "7": 3
+      },
+      "D": {
+        "5": 1,
+        "6": 3,
+        "7": 3
+      },
+      "E": {
+        "4": 1,
+        "6": 1
+      },
+      "H": {
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 2,
+      "CH": 2,
+      "CO": 8,
+      "CU": 1,
+      "DE": 5,
+      "DO": 2,
+      "EC": 2,
+      "HO": 1,
+      "OU": 1
+    }
+  }
+}

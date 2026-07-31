@@ -1,0 +1,121 @@
+{
+  "pangram": "lunched",
+  "center_letter": "l",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 168,
+  "answer_pangrams": [
+    "lunched"
+  ],
+  "answers": [
+    "cell",
+    "clench",
+    "clenched",
+    "clue",
+    "clued",
+    "cuddle",
+    "cuddled",
+    "cull",
+    "culled",
+    "dell",
+    "delude",
+    "deluded",
+    "duel",
+    "dueled",
+    "dull",
+    "dulled",
+    "elude",
+    "eluded",
+    "heel",
+    "heeled",
+    "held",
+    "hell",
+    "huddle",
+    "huddled",
+    "hull",
+    "hulled",
+    "leech",
+    "leeched",
+    "lend",
+    "lull",
+    "lulled",
+    "lulu",
+    "lunch",
+    "lunched",
+    "needle",
+    "needled",
+    "null",
+    "uncle"
+  ],
+  "date": "2029-11-24",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 5,
+      "6": 12,
+      "7": 6,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 9,
+      "D": 7,
+      "E": 2,
+      "H": 8,
+      "L": 8,
+      "N": 3,
+      "U": 1
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "D": {
+        "4": 3,
+        "6": 3,
+        "7": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 4,
+        "6": 3,
+        "7": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "N": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 1,
+      "CL": 4,
+      "CU": 4,
+      "DE": 3,
+      "DU": 4,
+      "EL": 2,
+      "HE": 4,
+      "HU": 4,
+      "LE": 3,
+      "LU": 5,
+      "NE": 2,
+      "NU": 1,
+      "UN": 1
+    }
+  }
+}

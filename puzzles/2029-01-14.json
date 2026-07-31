@@ -1,0 +1,104 @@
+{
+  "pangram": "turfing",
+  "center_letter": "f",
+  "num_answers": 29,
+  "num_pangrams": 2,
+  "possible_points": 167,
+  "answer_pangrams": [
+    "fruiting",
+    "turfing"
+  ],
+  "answers": [
+    "figuring",
+    "fining",
+    "firing",
+    "fitting",
+    "fringing",
+    "fruit",
+    "fruiting",
+    "fungi",
+    "furring",
+    "gift",
+    "gifting",
+    "griffin",
+    "gruff",
+    "guff",
+    "infringing",
+    "riff",
+    "riffing",
+    "rift",
+    "rifting",
+    "ruff",
+    "ruffing",
+    "tiff",
+    "tiffing",
+    "tuft",
+    "tufting",
+    "turf",
+    "turfing",
+    "unfit",
+    "unfitting"
+  ],
+  "date": "2029-01-14",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 4,
+      "6": 2,
+      "7": 10,
+      "8": 3,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "F": 9,
+      "G": 5,
+      "I": 1,
+      "R": 6,
+      "T": 6,
+      "U": 2
+    },
+    "grid": {
+      "F": {
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 3
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "7": 2
+      },
+      "I": {
+        "10": 1
+      },
+      "R": {
+        "4": 3,
+        "7": 3
+      },
+      "T": {
+        "4": 3,
+        "7": 3
+      },
+      "U": {
+        "5": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "FI": 4,
+      "FR": 3,
+      "FU": 2,
+      "GI": 2,
+      "GR": 2,
+      "GU": 1,
+      "IN": 1,
+      "RI": 4,
+      "RU": 2,
+      "TI": 2,
+      "TU": 4,
+      "UN": 2
+    }
+  }
+}

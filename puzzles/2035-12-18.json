@@ -1,0 +1,116 @@
+{
+  "pangram": "pinhead",
+  "center_letter": "i",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 146,
+  "answer_pangrams": [
+    "pinhead"
+  ],
+  "answers": [
+    "aide",
+    "aided",
+    "aphid",
+    "denied",
+    "died",
+    "dine",
+    "dined",
+    "dinned",
+    "dipped",
+    "eddied",
+    "hidden",
+    "hide",
+    "hided",
+    "hied",
+    "hind",
+    "hipped",
+    "hippie",
+    "idea",
+    "inane",
+    "indeed",
+    "ipad",
+    "naiad",
+    "nine",
+    "nipped",
+    "paid",
+    "pain",
+    "pained",
+    "pied",
+    "pine",
+    "pined",
+    "pinhead",
+    "pinned",
+    "pipe",
+    "piped",
+    "pipped",
+    "pippin"
+  ],
+  "date": "2035-12-18",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 8,
+      "6": 13,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 6,
+      "E": 1,
+      "H": 7,
+      "I": 4,
+      "N": 3,
+      "P": 12
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2
+      },
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 3
+      },
+      "E": {
+        "6": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 3
+      },
+      "I": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "P": {
+        "4": 5,
+        "5": 2,
+        "6": 4,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 2,
+      "AP": 1,
+      "DE": 1,
+      "DI": 5,
+      "ED": 1,
+      "HI": 7,
+      "ID": 1,
+      "IN": 2,
+      "IP": 1,
+      "NA": 1,
+      "NI": 2,
+      "PA": 3,
+      "PI": 9
+    }
+  }
+}

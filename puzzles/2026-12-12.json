@@ -1,0 +1,107 @@
+{
+  "pangram": "piquant",
+  "center_letter": "n",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 115,
+  "answer_pangrams": [
+    "piquant"
+  ],
+  "answers": [
+    "anti",
+    "aquanaut",
+    "attain",
+    "aunt",
+    "inapt",
+    "input",
+    "intuit",
+    "naan",
+    "nana",
+    "pain",
+    "paint",
+    "pant",
+    "patina",
+    "pint",
+    "pinup",
+    "pippin",
+    "piquant",
+    "punt",
+    "quaint",
+    "quanta",
+    "taint",
+    "tannin",
+    "taunt",
+    "tint",
+    "titan",
+    "tuna",
+    "unit",
+    "unpin"
+  ],
+  "date": "2026-12-12",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 8,
+      "6": 7,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "I": 3,
+      "N": 2,
+      "P": 9,
+      "Q": 2,
+      "T": 6,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 1,
+        "8": 1
+      },
+      "I": {
+        "5": 2,
+        "6": 1
+      },
+      "N": {
+        "4": 2
+      },
+      "P": {
+        "4": 4,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "Q": {
+        "6": 2
+      },
+      "T": {
+        "4": 2,
+        "5": 3,
+        "6": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "AQ": 1,
+      "AT": 1,
+      "AU": 1,
+      "IN": 3,
+      "NA": 2,
+      "PA": 4,
+      "PI": 4,
+      "PU": 1,
+      "QU": 2,
+      "TA": 3,
+      "TI": 2,
+      "TU": 1,
+      "UN": 2
+    }
+  }
+}

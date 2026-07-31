@@ -1,0 +1,100 @@
+{
+  "pangram": "puritan",
+  "center_letter": "p",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 105,
+  "answer_pangrams": [
+    "puritan"
+  ],
+  "answers": [
+    "apart",
+    "inapt",
+    "input",
+    "pain",
+    "paint",
+    "pair",
+    "pant",
+    "papa",
+    "part",
+    "patina",
+    "pint",
+    "pinup",
+    "pipit",
+    "pippin",
+    "pita",
+    "print",
+    "punt",
+    "pupa",
+    "puritan",
+    "purr",
+    "putt",
+    "rapt",
+    "rattrap",
+    "tapir",
+    "tarp",
+    "trap",
+    "trip",
+    "turnip",
+    "unpin",
+    "upturn"
+  ],
+  "date": "2038-12-02",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 9,
+      "6": 4,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "I": 2,
+      "P": 18,
+      "R": 2,
+      "T": 5,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "I": {
+        "5": 2
+      },
+      "P": {
+        "4": 11,
+        "5": 4,
+        "6": 2,
+        "7": 1
+      },
+      "R": {
+        "4": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "U": {
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AP": 1,
+      "IN": 2,
+      "PA": 7,
+      "PI": 5,
+      "PR": 1,
+      "PU": 5,
+      "RA": 2,
+      "TA": 2,
+      "TR": 2,
+      "TU": 1,
+      "UN": 1,
+      "UP": 1
+    }
+  }
+}

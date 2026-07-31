@@ -1,0 +1,97 @@
+{
+  "pangram": "durably",
+  "center_letter": "b",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 104,
+  "answer_pangrams": [
+    "durably"
+  ],
+  "answers": [
+    "ably",
+    "baba",
+    "baby",
+    "badly",
+    "bald",
+    "baldly",
+    "ball",
+    "ballad",
+    "barb",
+    "bard",
+    "baud",
+    "blab",
+    "blur",
+    "blurb",
+    "blurry",
+    "brad",
+    "bray",
+    "bubbly",
+    "buddy",
+    "bulb",
+    "bull",
+    "bully",
+    "burly",
+    "burr",
+    "bury",
+    "daub",
+    "drab",
+    "drably",
+    "drub",
+    "durably",
+    "laudably",
+    "lullaby",
+    "ruby"
+  ],
+  "date": "2035-10-06",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 5,
+      "6": 5,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 24,
+      "D": 5,
+      "L": 2,
+      "R": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "B": {
+        "4": 15,
+        "5": 5,
+        "6": 4
+      },
+      "D": {
+        "4": 3,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "7": 1,
+        "8": 1
+      },
+      "R": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "BA": 10,
+      "BL": 4,
+      "BR": 2,
+      "BU": 8,
+      "DA": 1,
+      "DR": 3,
+      "DU": 1,
+      "LA": 1,
+      "LU": 1,
+      "RU": 1
+    }
+  }
+}

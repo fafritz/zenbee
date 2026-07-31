@@ -1,0 +1,139 @@
+{
+  "pangram": "daytime",
+  "center_letter": "a",
+  "num_answers": 55,
+  "num_pangrams": 1,
+  "possible_points": 251,
+  "answer_pangrams": [
+    "daytime"
+  ],
+  "answers": [
+    "added",
+    "admit",
+    "admitted",
+    "aide",
+    "aided",
+    "aimed",
+    "amid",
+    "amity",
+    "daddy",
+    "dame",
+    "dammed",
+    "data",
+    "date",
+    "dated",
+    "daytime",
+    "dead",
+    "diadem",
+    "edamame",
+    "edema",
+    "idea",
+    "imam",
+    "imitate",
+    "imitated",
+    "immediate",
+    "madam",
+    "madame",
+    "made",
+    "maid",
+    "maim",
+    "maimed",
+    "mama",
+    "mamma",
+    "mammae",
+    "mate",
+    "mated",
+    "matte",
+    "matted",
+    "mayday",
+    "mead",
+    "meat",
+    "meaty",
+    "media",
+    "mediate",
+    "mediated",
+    "meditate",
+    "meditated",
+    "meta",
+    "midday",
+    "tame",
+    "tamed",
+    "tatted",
+    "tatty",
+    "team",
+    "teamed",
+    "teammate"
+  ],
+  "date": "2026-08-17",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 16,
+      "6": 10,
+      "7": 4,
+      "8": 5,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 8,
+      "D": 9,
+      "E": 2,
+      "I": 5,
+      "M": 24,
+      "T": 7
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 5,
+        "8": 1
+      },
+      "D": {
+        "4": 4,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "5": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 2,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "M": {
+        "4": 8,
+        "5": 6,
+        "6": 6,
+        "7": 1,
+        "8": 2,
+        "9": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 3,
+      "AI": 3,
+      "AM": 2,
+      "DA": 7,
+      "DE": 1,
+      "DI": 1,
+      "ED": 2,
+      "ID": 1,
+      "IM": 4,
+      "MA": 14,
+      "ME": 9,
+      "MI": 1,
+      "TA": 4,
+      "TE": 3
+    }
+  }
+}

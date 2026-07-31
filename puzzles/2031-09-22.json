@@ -1,0 +1,113 @@
+{
+  "pangram": "waltzed",
+  "center_letter": "t",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 173,
+  "answer_pangrams": [
+    "waltzed"
+  ],
+  "answers": [
+    "data",
+    "date",
+    "dated",
+    "dealt",
+    "delete",
+    "deleted",
+    "delta",
+    "dwelt",
+    "elate",
+    "elated",
+    "late",
+    "latte",
+    "tale",
+    "tall",
+    "tatted",
+    "tattle",
+    "tattled",
+    "tattletale",
+    "teal",
+    "teed",
+    "tell",
+    "telltale",
+    "twaddle",
+    "twaddled",
+    "tweed",
+    "tweet",
+    "tweeted",
+    "wallet",
+    "waltz",
+    "waltzed",
+    "watt",
+    "wattle",
+    "wattled",
+    "welt",
+    "welted",
+    "zeta"
+  ],
+  "date": "2031-09-22",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 9,
+      "6": 7,
+      "7": 6,
+      "8": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "D": 8,
+      "E": 2,
+      "L": 2,
+      "T": 15,
+      "W": 8,
+      "Z": 1
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 4,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 2,
+        "6": 2,
+        "7": 3,
+        "8": 2,
+        "10": 1
+      },
+      "W": {
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2
+      },
+      "Z": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "DA": 3,
+      "DE": 4,
+      "DW": 1,
+      "EL": 2,
+      "LA": 2,
+      "TA": 6,
+      "TE": 4,
+      "TW": 5,
+      "WA": 6,
+      "WE": 2,
+      "ZE": 1
+    }
+  }
+}

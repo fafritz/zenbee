@@ -1,0 +1,84 @@
+{
+  "pangram": "backlog",
+  "center_letter": "c",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 98,
+  "answer_pangrams": [
+    "backlog"
+  ],
+  "answers": [
+    "aback",
+    "back",
+    "backlog",
+    "black",
+    "blackball",
+    "bloc",
+    "block",
+    "cabal",
+    "cacao",
+    "call",
+    "calla",
+    "clack",
+    "cloak",
+    "clock",
+    "clog",
+    "coal",
+    "coca",
+    "cocoa",
+    "cola",
+    "cook",
+    "cookbook",
+    "cool",
+    "lack",
+    "local",
+    "lock",
+    "loco"
+  ],
+  "date": "2034-01-29",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 11,
+      "7": 1,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 6,
+      "C": 15,
+      "L": 4
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "B": {
+        "4": 2,
+        "5": 2,
+        "7": 1,
+        "9": 1
+      },
+      "C": {
+        "4": 7,
+        "5": 7,
+        "8": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "BA": 2,
+      "BL": 4,
+      "CA": 4,
+      "CL": 4,
+      "CO": 7,
+      "LA": 1,
+      "LO": 3
+    }
+  }
+}

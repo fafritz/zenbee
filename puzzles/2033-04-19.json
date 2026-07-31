@@ -1,0 +1,90 @@
+{
+  "pangram": "hawking",
+  "center_letter": "w",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 141,
+  "answer_pangrams": [
+    "hawking"
+  ],
+  "answers": [
+    "awaking",
+    "awing",
+    "awning",
+    "gawk",
+    "gawking",
+    "gnaw",
+    "gnawing",
+    "hawing",
+    "hawk",
+    "hawking",
+    "kiwi",
+    "wagging",
+    "waging",
+    "waking",
+    "waning",
+    "whining",
+    "wigging",
+    "wigwag",
+    "wigwagging",
+    "wiki",
+    "wing",
+    "winging",
+    "wining",
+    "wink",
+    "winking",
+    "winning"
+  ],
+  "date": "2033-04-19",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 1,
+      "6": 7,
+      "7": 10,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "G": 4,
+      "H": 3,
+      "K": 1,
+      "W": 15
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 2,
+        "7": 2
+      },
+      "H": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "K": {
+        "4": 1
+      },
+      "W": {
+        "4": 3,
+        "6": 5,
+        "7": 6,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AW": 3,
+      "GA": 2,
+      "GN": 2,
+      "HA": 3,
+      "KI": 1,
+      "WA": 4,
+      "WH": 1,
+      "WI": 10
+    }
+  }
+}

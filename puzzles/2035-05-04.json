@@ -1,0 +1,79 @@
+{
+  "pangram": "handout",
+  "center_letter": "d",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 65,
+  "answer_pangrams": [
+    "handout"
+  ],
+  "answers": [
+    "dado",
+    "data",
+    "daunt",
+    "dodo",
+    "donut",
+    "doodad",
+    "dunno",
+    "hand",
+    "handout",
+    "hood",
+    "hoodoo",
+    "hound",
+    "outdo",
+    "thud",
+    "toad",
+    "undo",
+    "unhand"
+  ],
+  "date": "2035-05-04",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 5,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "D": 7,
+      "H": 5,
+      "O": 1,
+      "T": 2,
+      "U": 2
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "5": 3,
+        "6": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "O": {
+        "5": 1
+      },
+      "T": {
+        "4": 2
+      },
+      "U": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "DA": 3,
+      "DO": 3,
+      "DU": 1,
+      "HA": 2,
+      "HO": 3,
+      "OU": 1,
+      "TH": 1,
+      "TO": 1,
+      "UN": 2
+    }
+  }
+}

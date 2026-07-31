@@ -1,0 +1,130 @@
+{
+  "pangram": "magneto",
+  "center_letter": "g",
+  "num_answers": 47,
+  "num_pangrams": 3,
+  "possible_points": 242,
+  "answer_pangrams": [
+    "magneto",
+    "megaton",
+    "montage"
+  ],
+  "answers": [
+    "agate",
+    "agent",
+    "agog",
+    "among",
+    "eggnog",
+    "engage",
+    "engagement",
+    "game",
+    "gamete",
+    "gamma",
+    "gang",
+    "gannet",
+    "gate",
+    "gene",
+    "gent",
+    "gnat",
+    "gnome",
+    "goat",
+    "goatee",
+    "gone",
+    "gong",
+    "gonna",
+    "goon",
+    "gotten",
+    "magenta",
+    "maggot",
+    "magma",
+    "magnate",
+    "magnet",
+    "magneto",
+    "manage",
+    "management",
+    "manege",
+    "manga",
+    "mange",
+    "mango",
+    "megaton",
+    "menage",
+    "montage",
+    "negate",
+    "omega",
+    "tang",
+    "tangent",
+    "tango",
+    "teenage",
+    "toga",
+    "tonnage"
+  ],
+  "date": "2037-11-22",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 12,
+      "6": 12,
+      "7": 8,
+      "10": 2
+    },
+    "by_first_letter": {
+      "A": 4,
+      "E": 3,
+      "G": 17,
+      "M": 15,
+      "N": 1,
+      "O": 1,
+      "T": 6
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3
+      },
+      "E": {
+        "6": 2,
+        "10": 1
+      },
+      "G": {
+        "4": 10,
+        "5": 3,
+        "6": 4
+      },
+      "M": {
+        "5": 4,
+        "6": 5,
+        "7": 5,
+        "10": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "O": {
+        "5": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "AG": 3,
+      "AM": 1,
+      "EG": 1,
+      "EN": 2,
+      "GA": 6,
+      "GE": 2,
+      "GN": 2,
+      "GO": 7,
+      "MA": 12,
+      "ME": 2,
+      "MO": 1,
+      "NE": 1,
+      "OM": 1,
+      "TA": 3,
+      "TE": 1,
+      "TO": 2
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "pangram": "yachted",
+  "center_letter": "c",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 264,
+  "answer_pangrams": [
+    "yachted"
+  ],
+  "answers": [
+    "accede",
+    "acceded",
+    "aced",
+    "acetate",
+    "ache",
+    "ached",
+    "achy",
+    "acted",
+    "attach",
+    "attache",
+    "attached",
+    "cache",
+    "cached",
+    "cachet",
+    "cadet",
+    "catch",
+    "catchy",
+    "catted",
+    "catty",
+    "cede",
+    "ceded",
+    "chad",
+    "chat",
+    "chatted",
+    "chatty",
+    "cheat",
+    "cheated",
+    "cheetah",
+    "dacha",
+    "decade",
+    "decay",
+    "decayed",
+    "detach",
+    "detached",
+    "detect",
+    "detected",
+    "each",
+    "etch",
+    "etched",
+    "hatch",
+    "hatched",
+    "hatchet",
+    "headache",
+    "tact",
+    "teach",
+    "tech",
+    "thatch",
+    "thatched",
+    "yacht",
+    "yachted"
+  ],
+  "date": "2031-04-02",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 13,
+      "6": 12,
+      "7": 10,
+      "8": 5
+    },
+    "by_first_letter": {
+      "A": 11,
+      "C": 17,
+      "D": 8,
+      "E": 3,
+      "H": 4,
+      "T": 5,
+      "Y": 2
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "7": 3,
+        "8": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 6,
+        "6": 5,
+        "7": 3
+      },
+      "D": {
+        "5": 2,
+        "6": 3,
+        "7": 1,
+        "8": 2
+      },
+      "E": {
+        "4": 2,
+        "6": 1
+      },
+      "H": {
+        "5": 1,
+        "7": 2,
+        "8": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "Y": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 8,
+      "AT": 3,
+      "CA": 8,
+      "CE": 2,
+      "CH": 7,
+      "DA": 1,
+      "DE": 7,
+      "EA": 1,
+      "ET": 2,
+      "HA": 3,
+      "HE": 1,
+      "TA": 1,
+      "TE": 2,
+      "TH": 2,
+      "YA": 2
+    }
+  }
+}

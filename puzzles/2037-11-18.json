@@ -1,0 +1,103 @@
+{
+  "pangram": "gainful",
+  "center_letter": "f",
+  "num_answers": 39,
+  "num_pangrams": 3,
+  "possible_points": 224,
+  "answer_pangrams": [
+    "gainful",
+    "unfailing",
+    "unflagging"
+  ],
+  "answers": [
+    "alfalfa",
+    "fail",
+    "failing",
+    "fall",
+    "falling",
+    "fang",
+    "fanning",
+    "faun",
+    "fauna",
+    "filial",
+    "filing",
+    "fill",
+    "filling",
+    "finagling",
+    "final",
+    "fining",
+    "flag",
+    "flagging",
+    "flail",
+    "flailing",
+    "flan",
+    "fling",
+    "flinging",
+    "fluff",
+    "fluffing",
+    "flung",
+    "fulfill",
+    "fulfilling",
+    "full",
+    "fulling",
+    "fungal",
+    "fungi",
+    "gaff",
+    "gaffing",
+    "gainful",
+    "guff",
+    "gulf",
+    "unfailing",
+    "unflagging"
+  ],
+  "date": "2037-11-18",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 7,
+      "6": 4,
+      "7": 9,
+      "8": 4,
+      "9": 2,
+      "10": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "F": 31,
+      "G": 5,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "F": {
+        "4": 8,
+        "5": 7,
+        "6": 4,
+        "7": 6,
+        "8": 4,
+        "9": 1,
+        "10": 1
+      },
+      "G": {
+        "4": 3,
+        "7": 2
+      },
+      "U": {
+        "9": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "FA": 8,
+      "FI": 7,
+      "FL": 10,
+      "FU": 6,
+      "GA": 3,
+      "GU": 2,
+      "UN": 2
+    }
+  }
+}

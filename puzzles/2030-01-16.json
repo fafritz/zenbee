@@ -1,0 +1,159 @@
+{
+  "pangram": "camping",
+  "center_letter": "a",
+  "num_answers": 64,
+  "num_pangrams": 3,
+  "possible_points": 343,
+  "answer_pangrams": [
+    "campaign",
+    "campaigning",
+    "camping"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acing",
+    "again",
+    "aging",
+    "aiming",
+    "angina",
+    "aping",
+    "caging",
+    "camp",
+    "campaign",
+    "campaigning",
+    "camping",
+    "cancan",
+    "caning",
+    "canna",
+    "canning",
+    "capping",
+    "gagging",
+    "gain",
+    "gaining",
+    "gaming",
+    "gamma",
+    "gang",
+    "ganging",
+    "gaping",
+    "imaging",
+    "imagining",
+    "imam",
+    "macing",
+    "magic",
+    "magician",
+    "magma",
+    "maim",
+    "maiming",
+    "main",
+    "mama",
+    "mamma",
+    "managing",
+    "manga",
+    "mania",
+    "maniac",
+    "manic",
+    "manna",
+    "manning",
+    "mapping",
+    "mica",
+    "minima",
+    "naan",
+    "nagging",
+    "naming",
+    "nana",
+    "napping",
+    "niacin",
+    "pacing",
+    "pagan",
+    "paging",
+    "pain",
+    "paining",
+    "pang",
+    "panic",
+    "panning",
+    "papa",
+    "pica"
+  ],
+  "date": "2030-01-16",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 15,
+      "6": 15,
+      "7": 14,
+      "8": 3,
+      "9": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "C": 10,
+      "G": 8,
+      "I": 3,
+      "M": 19,
+      "N": 6,
+      "P": 10
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 4,
+        "6": 3
+      },
+      "C": {
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 1,
+        "11": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 3
+      },
+      "I": {
+        "4": 1,
+        "7": 1,
+        "9": 1
+      },
+      "M": {
+        "4": 4,
+        "5": 7,
+        "6": 3,
+        "7": 3,
+        "8": 2
+      },
+      "N": {
+        "4": 2,
+        "6": 2,
+        "7": 2
+      },
+      "P": {
+        "4": 4,
+        "5": 2,
+        "6": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AG": 2,
+      "AI": 1,
+      "AN": 1,
+      "AP": 1,
+      "CA": 10,
+      "GA": 8,
+      "IM": 3,
+      "MA": 17,
+      "MI": 2,
+      "NA": 5,
+      "NI": 1,
+      "PA": 9,
+      "PI": 1
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "pangram": "latency",
+  "center_letter": "y",
+  "num_answers": 25,
+  "num_pangrams": 2,
+  "possible_points": 137,
+  "answer_pangrams": [
+    "acetylene",
+    "latency"
+  ],
+  "answers": [
+    "acetylene",
+    "allay",
+    "alley",
+    "ally",
+    "canny",
+    "catty",
+    "cayenne",
+    "clay",
+    "clayey",
+    "cleanly",
+    "cyan",
+    "cycle",
+    "eyelet",
+    "lacy",
+    "lately",
+    "latency",
+    "layette",
+    "nanny",
+    "natty",
+    "neatly",
+    "tally",
+    "tatty",
+    "teeny",
+    "tenancy",
+    "yell"
+  ],
+  "date": "2031-12-24",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 10,
+      "6": 4,
+      "7": 5,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 8,
+      "E": 1,
+      "L": 4,
+      "N": 3,
+      "T": 4,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "9": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 3,
+        "6": 1,
+        "7": 2
+      },
+      "E": {
+        "6": 1
+      },
+      "L": {
+        "4": 1,
+        "6": 1,
+        "7": 2
+      },
+      "N": {
+        "5": 2,
+        "6": 1
+      },
+      "T": {
+        "5": 3,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AL": 3,
+      "CA": 3,
+      "CL": 3,
+      "CY": 2,
+      "EY": 1,
+      "LA": 4,
+      "NA": 2,
+      "NE": 1,
+      "TA": 2,
+      "TE": 2,
+      "YE": 1
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "pangram": "hardtop",
+  "center_letter": "a",
+  "num_answers": 44,
+  "num_pangrams": 2,
+  "possible_points": 180,
+  "answer_pangrams": [
+    "arthropod",
+    "hardtop"
+  ],
+  "answers": [
+    "adapt",
+    "adopt",
+    "aorta",
+    "apart",
+    "ardor",
+    "arthropod",
+    "atop",
+    "attar",
+    "dado",
+    "dart",
+    "data",
+    "doodad",
+    "hard",
+    "hardtop",
+    "harp",
+    "hart",
+    "hoard",
+    "oath",
+    "orator",
+    "papa",
+    "parrot",
+    "part",
+    "path",
+    "pharaoh",
+    "potato",
+    "radar",
+    "rapport",
+    "rapt",
+    "ratatat",
+    "rattrap",
+    "road",
+    "roar",
+    "taproot",
+    "taro",
+    "tarot",
+    "tarp",
+    "tart",
+    "tartar",
+    "tattoo",
+    "that",
+    "throat",
+    "toad",
+    "trap",
+    "trapdoor"
+  ],
+  "date": "2031-04-17",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 9,
+      "6": 7,
+      "7": 6,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "D": 4,
+      "H": 5,
+      "O": 2,
+      "P": 6,
+      "R": 7,
+      "T": 12
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 6,
+        "9": 1
+      },
+      "D": {
+        "4": 3,
+        "6": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "7": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 1
+      },
+      "P": {
+        "4": 3,
+        "6": 2,
+        "7": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 1,
+        "7": 3
+      },
+      "T": {
+        "4": 6,
+        "5": 1,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 2,
+      "AO": 1,
+      "AP": 1,
+      "AR": 2,
+      "AT": 2,
+      "DA": 3,
+      "DO": 1,
+      "HA": 4,
+      "HO": 1,
+      "OA": 1,
+      "OR": 1,
+      "PA": 4,
+      "PH": 1,
+      "PO": 1,
+      "RA": 5,
+      "RO": 2,
+      "TA": 7,
+      "TH": 2,
+      "TO": 1,
+      "TR": 2
+    }
+  }
+}

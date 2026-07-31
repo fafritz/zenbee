@@ -1,0 +1,129 @@
+{
+  "pangram": "nightly",
+  "center_letter": "g",
+  "num_answers": 45,
+  "num_pangrams": 1,
+  "possible_points": 286,
+  "answer_pangrams": [
+    "nightly"
+  ],
+  "answers": [
+    "gigging",
+    "giggling",
+    "giggly",
+    "gill",
+    "gilt",
+    "ginning",
+    "glint",
+    "glinting",
+    "high",
+    "highlight",
+    "highlighting",
+    "highly",
+    "hing",
+    "hinging",
+    "hinting",
+    "hitting",
+    "igniting",
+    "inning",
+    "light",
+    "lighting",
+    "lightly",
+    "lightning",
+    "lilting",
+    "lining",
+    "linting",
+    "lying",
+    "niggling",
+    "nigh",
+    "night",
+    "nightly",
+    "thigh",
+    "thing",
+    "thinning",
+    "tight",
+    "tightly",
+    "tiling",
+    "tilling",
+    "tilting",
+    "tingling",
+    "tingly",
+    "tinning",
+    "tinting",
+    "tithing",
+    "titling",
+    "tying"
+  ],
+  "date": "2034-05-01",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 8,
+      "6": 6,
+      "7": 16,
+      "8": 7,
+      "9": 2,
+      "12": 1
+    },
+    "by_first_letter": {
+      "G": 8,
+      "H": 8,
+      "I": 2,
+      "L": 8,
+      "N": 4,
+      "T": 15
+    },
+    "grid": {
+      "G": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 2
+      },
+      "H": {
+        "4": 2,
+        "6": 1,
+        "7": 3,
+        "9": 1,
+        "12": 1
+      },
+      "I": {
+        "6": 1,
+        "8": 1
+      },
+      "L": {
+        "5": 2,
+        "6": 1,
+        "7": 3,
+        "8": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "5": 4,
+        "6": 2,
+        "7": 7,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "GI": 6,
+      "GL": 2,
+      "HI": 8,
+      "IG": 1,
+      "IN": 1,
+      "LI": 7,
+      "LY": 1,
+      "NI": 4,
+      "TH": 3,
+      "TI": 11,
+      "TY": 1
+    }
+  }
+}

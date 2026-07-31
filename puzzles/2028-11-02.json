@@ -1,0 +1,85 @@
+{
+  "pangram": "euphony",
+  "center_letter": "e",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 71,
+  "answer_pangrams": [
+    "euphony"
+  ],
+  "answers": [
+    "epee",
+    "euphony",
+    "hone",
+    "honey",
+    "hope",
+    "hype",
+    "hyphen",
+    "nene",
+    "neon",
+    "none",
+    "nope",
+    "open",
+    "peen",
+    "peep",
+    "pennon",
+    "penny",
+    "peon",
+    "peony",
+    "peppy",
+    "phone",
+    "phooey",
+    "pone",
+    "pope"
+  ],
+  "date": "2028-11-02",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 5,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "E": 2,
+      "H": 5,
+      "N": 4,
+      "O": 1,
+      "P": 11
+    },
+    "grid": {
+      "E": {
+        "4": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "4": 4
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 5,
+        "5": 4,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "EP": 1,
+      "EU": 1,
+      "HO": 3,
+      "HY": 2,
+      "NE": 2,
+      "NO": 2,
+      "OP": 1,
+      "PE": 7,
+      "PH": 2,
+      "PO": 2
+    }
+  }
+}

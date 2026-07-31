@@ -1,0 +1,100 @@
+{
+  "pangram": "defying",
+  "center_letter": "y",
+  "num_answers": 25,
+  "num_pangrams": 3,
+  "possible_points": 140,
+  "answer_pangrams": [
+    "defying",
+    "deifying",
+    "edifying"
+  ],
+  "answers": [
+    "defy",
+    "defying",
+    "deify",
+    "deifying",
+    "deny",
+    "denying",
+    "dignify",
+    "dignifying",
+    "dingy",
+    "dyed",
+    "dyeing",
+    "dying",
+    "eddy",
+    "eddying",
+    "edgy",
+    "edify",
+    "edifying",
+    "effigy",
+    "eyed",
+    "eyeing",
+    "finny",
+    "giddy",
+    "iffy",
+    "needy",
+    "ninny"
+  ],
+  "date": "2028-06-05",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 8,
+      "6": 3,
+      "7": 4,
+      "8": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "D": 12,
+      "E": 8,
+      "F": 1,
+      "G": 1,
+      "I": 1,
+      "N": 2
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "7": 3,
+        "8": 1,
+        "10": 1
+      },
+      "E": {
+        "4": 3,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "F": {
+        "5": 1
+      },
+      "G": {
+        "5": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "N": {
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "DE": 6,
+      "DI": 3,
+      "DY": 3,
+      "ED": 5,
+      "EF": 1,
+      "EY": 2,
+      "FI": 1,
+      "GI": 1,
+      "IF": 1,
+      "NE": 1,
+      "NI": 1
+    }
+  }
+}

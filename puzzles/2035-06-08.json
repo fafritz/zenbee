@@ -1,0 +1,115 @@
+{
+  "pangram": "bailout",
+  "center_letter": "t",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 110,
+  "answer_pangrams": [
+    "bailout"
+  ],
+  "answers": [
+    "abbot",
+    "about",
+    "abut",
+    "allot",
+    "alto",
+    "atoll",
+    "auto",
+    "bailout",
+    "bait",
+    "ballot",
+    "blat",
+    "bloat",
+    "blot",
+    "boat",
+    "bobtail",
+    "bolt",
+    "boot",
+    "bout",
+    "built",
+    "iota",
+    "lilt",
+    "loot",
+    "lotto",
+    "lout",
+    "obit",
+    "taboo",
+    "tail",
+    "tall",
+    "tattoo",
+    "taut",
+    "tibia",
+    "till",
+    "tilt",
+    "toil",
+    "toll",
+    "tool",
+    "toot",
+    "total",
+    "tout",
+    "tuba",
+    "tutu"
+  ],
+  "date": "2035-06-08",
+  "hints": {
+    "by_length": {
+      "4": 27,
+      "5": 10,
+      "6": 2,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 7,
+      "B": 12,
+      "I": 1,
+      "L": 4,
+      "O": 1,
+      "T": 16
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 4
+      },
+      "B": {
+        "4": 7,
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "4": 12,
+        "5": 3,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 3,
+      "AL": 2,
+      "AT": 1,
+      "AU": 1,
+      "BA": 3,
+      "BL": 3,
+      "BO": 5,
+      "BU": 1,
+      "IO": 1,
+      "LI": 1,
+      "LO": 3,
+      "OB": 1,
+      "TA": 5,
+      "TI": 3,
+      "TO": 6,
+      "TU": 2
+    }
+  }
+}

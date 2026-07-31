@@ -1,0 +1,84 @@
+{
+  "pangram": "walkout",
+  "center_letter": "a",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 72,
+  "answer_pangrams": [
+    "walkout"
+  ],
+  "answers": [
+    "allot",
+    "allow",
+    "alto",
+    "atoll",
+    "auto",
+    "koala",
+    "luau",
+    "outlaw",
+    "talk",
+    "tall",
+    "tallow",
+    "tattoo",
+    "taut",
+    "total",
+    "walk",
+    "walkout",
+    "wall",
+    "wallow",
+    "watt"
+  ],
+  "date": "2032-04-22",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 5,
+      "6": 4,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "K": 1,
+      "L": 1,
+      "O": 1,
+      "T": 6,
+      "W": 5
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3
+      },
+      "K": {
+        "5": 1
+      },
+      "L": {
+        "4": 1
+      },
+      "O": {
+        "6": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 1,
+        "6": 2
+      },
+      "W": {
+        "4": 3,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 3,
+      "AT": 1,
+      "AU": 1,
+      "KO": 1,
+      "LU": 1,
+      "OU": 1,
+      "TA": 5,
+      "TO": 1,
+      "WA": 5
+    }
+  }
+}

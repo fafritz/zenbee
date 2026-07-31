@@ -1,0 +1,130 @@
+{
+  "pangram": "twinkle",
+  "center_letter": "t",
+  "num_answers": 48,
+  "num_pangrams": 1,
+  "possible_points": 188,
+  "answer_pangrams": [
+    "twinkle"
+  ],
+  "answers": [
+    "elite",
+    "entente",
+    "entitle",
+    "entwine",
+    "inlet",
+    "intel",
+    "intent",
+    "kettle",
+    "kilt",
+    "kite",
+    "kitten",
+    "knelt",
+    "knit",
+    "lenient",
+    "lent",
+    "lentil",
+    "lilt",
+    "linnet",
+    "lint",
+    "lintel",
+    "lite",
+    "little",
+    "nettle",
+    "newt",
+    "nineteen",
+    "nitwit",
+    "teen",
+    "tell",
+    "telnet",
+    "tenet",
+    "tent",
+    "tile",
+    "till",
+    "tilt",
+    "tine",
+    "tinkle",
+    "tint",
+    "title",
+    "tittle",
+    "tweet",
+    "twill",
+    "twin",
+    "twine",
+    "twinkle",
+    "twit",
+    "welt",
+    "went",
+    "wilt"
+  ],
+  "date": "2036-03-28",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 9,
+      "6": 12,
+      "7": 5,
+      "8": 1
+    },
+    "by_first_letter": {
+      "E": 4,
+      "I": 3,
+      "K": 6,
+      "L": 9,
+      "N": 4,
+      "T": 19,
+      "W": 3
+    },
+    "grid": {
+      "E": {
+        "5": 1,
+        "7": 3
+      },
+      "I": {
+        "5": 2,
+        "6": 1
+      },
+      "K": {
+        "4": 3,
+        "5": 1,
+        "6": 2
+      },
+      "L": {
+        "4": 4,
+        "6": 4,
+        "7": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 2,
+        "8": 1
+      },
+      "T": {
+        "4": 10,
+        "5": 5,
+        "6": 3,
+        "7": 1
+      },
+      "W": {
+        "4": 3
+      }
+    },
+    "two_letter_list": {
+      "EL": 1,
+      "EN": 3,
+      "IN": 3,
+      "KE": 1,
+      "KI": 3,
+      "KN": 2,
+      "LE": 3,
+      "LI": 6,
+      "NE": 2,
+      "NI": 2,
+      "TE": 5,
+      "TI": 8,
+      "TW": 6,
+      "WE": 2,
+      "WI": 1
+    }
+  }
+}

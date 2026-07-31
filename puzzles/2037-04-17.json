@@ -1,0 +1,81 @@
+{
+  "pangram": "pecking",
+  "center_letter": "c",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 92,
+  "answer_pangrams": [
+    "pecking"
+  ],
+  "answers": [
+    "epic",
+    "icing",
+    "kick",
+    "kicking",
+    "neck",
+    "necking",
+    "nice",
+    "nick",
+    "nicking",
+    "niece",
+    "peck",
+    "pecking",
+    "pence",
+    "pick",
+    "picking",
+    "picnic",
+    "picnicking",
+    "piece",
+    "piecing"
+  ],
+  "date": "2037-04-17",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 4,
+      "6": 1,
+      "7": 6,
+      "10": 1
+    },
+    "by_first_letter": {
+      "E": 1,
+      "I": 1,
+      "K": 2,
+      "N": 6,
+      "P": 9
+    },
+    "grid": {
+      "E": {
+        "4": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "K": {
+        "4": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 1,
+        "7": 2
+      },
+      "P": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 3,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "EP": 1,
+      "IC": 1,
+      "KI": 2,
+      "NE": 2,
+      "NI": 4,
+      "PE": 3,
+      "PI": 6
+    }
+  }
+}

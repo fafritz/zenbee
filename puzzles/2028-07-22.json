@@ -1,0 +1,125 @@
+{
+  "pangram": "coupled",
+  "center_letter": "u",
+  "num_answers": 46,
+  "num_pangrams": 1,
+  "possible_points": 221,
+  "answer_pangrams": [
+    "coupled"
+  ],
+  "answers": [
+    "cloud",
+    "clouded",
+    "clue",
+    "clued",
+    "collude",
+    "colluded",
+    "could",
+    "coup",
+    "coupe",
+    "couple",
+    "coupled",
+    "cuddle",
+    "cuddled",
+    "cued",
+    "cull",
+    "culled",
+    "cupped",
+    "deduce",
+    "deduced",
+    "delude",
+    "deluded",
+    "deuce",
+    "dude",
+    "duded",
+    "duel",
+    "dueled",
+    "dull",
+    "dulled",
+    "dupe",
+    "duped",
+    "elude",
+    "eluded",
+    "loud",
+    "lull",
+    "lulled",
+    "lulu",
+    "occlude",
+    "occluded",
+    "puddle",
+    "puddled",
+    "pull",
+    "pulled",
+    "pulp",
+    "pulped",
+    "pupped",
+    "upped"
+  ],
+  "date": "2028-07-22",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 9,
+      "6": 14,
+      "7": 8,
+      "8": 2
+    },
+    "by_first_letter": {
+      "C": 17,
+      "D": 13,
+      "E": 2,
+      "L": 4,
+      "O": 2,
+      "P": 7,
+      "U": 1
+    },
+    "grid": {
+      "C": {
+        "4": 4,
+        "5": 4,
+        "6": 4,
+        "7": 4,
+        "8": 1
+      },
+      "D": {
+        "4": 4,
+        "5": 3,
+        "6": 4,
+        "7": 2
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 3,
+        "6": 1
+      },
+      "O": {
+        "7": 1,
+        "8": 1
+      },
+      "P": {
+        "4": 2,
+        "6": 4,
+        "7": 1
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 4,
+      "CO": 7,
+      "CU": 6,
+      "DE": 5,
+      "DU": 8,
+      "EL": 2,
+      "LO": 1,
+      "LU": 3,
+      "OC": 2,
+      "PU": 7,
+      "UP": 1
+    }
+  }
+}

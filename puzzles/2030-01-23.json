@@ -1,0 +1,106 @@
+{
+  "pangram": "warding",
+  "center_letter": "w",
+  "num_answers": 37,
+  "num_pangrams": 3,
+  "possible_points": 216,
+  "answer_pangrams": [
+    "awarding",
+    "drawing",
+    "warding"
+  ],
+  "answers": [
+    "award",
+    "awarding",
+    "awing",
+    "awning",
+    "dawn",
+    "dawning",
+    "draw",
+    "drawing",
+    "drawn",
+    "gnaw",
+    "gnawing",
+    "inward",
+    "wadding",
+    "wadi",
+    "wading",
+    "wagging",
+    "waging",
+    "wand",
+    "waning",
+    "ward",
+    "warding",
+    "warn",
+    "warning",
+    "warring",
+    "wigging",
+    "wigwag",
+    "wigwagging",
+    "wind",
+    "winding",
+    "windward",
+    "wing",
+    "winging",
+    "wining",
+    "winning",
+    "wiring",
+    "wring",
+    "wringing"
+  ],
+  "date": "2030-01-23",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 4,
+      "6": 8,
+      "7": 12,
+      "8": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "D": 5,
+      "G": 2,
+      "I": 1,
+      "W": 25
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 1,
+        "7": 2
+      },
+      "G": {
+        "4": 1,
+        "7": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "W": {
+        "4": 6,
+        "5": 1,
+        "6": 6,
+        "7": 9,
+        "8": 2,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AW": 4,
+      "DA": 2,
+      "DR": 3,
+      "GN": 2,
+      "IN": 1,
+      "WA": 12,
+      "WI": 11,
+      "WR": 2
+    }
+  }
+}

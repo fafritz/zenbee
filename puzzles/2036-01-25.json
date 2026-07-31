@@ -1,0 +1,100 @@
+{
+  "pangram": "frankly",
+  "center_letter": "a",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 86,
+  "answer_pangrams": [
+    "frankly"
+  ],
+  "answers": [
+    "afar",
+    "alfalfa",
+    "allay",
+    "ally",
+    "anal",
+    "array",
+    "fall",
+    "fanny",
+    "flak",
+    "flaky",
+    "flan",
+    "flank",
+    "flay",
+    "frank",
+    "frankly",
+    "fray",
+    "kayak",
+    "lank",
+    "lanky",
+    "lark",
+    "naan",
+    "nana",
+    "nanny",
+    "rally",
+    "rank",
+    "yank",
+    "yarn"
+  ],
+  "date": "2036-01-25",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 10,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 6,
+      "F": 10,
+      "K": 1,
+      "L": 3,
+      "N": 3,
+      "R": 2,
+      "Y": 2
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2,
+        "7": 1
+      },
+      "F": {
+        "4": 5,
+        "5": 4,
+        "7": 1
+      },
+      "K": {
+        "5": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1
+      },
+      "Y": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AF": 1,
+      "AL": 3,
+      "AN": 1,
+      "AR": 1,
+      "FA": 2,
+      "FL": 5,
+      "FR": 3,
+      "KA": 1,
+      "LA": 3,
+      "NA": 3,
+      "RA": 2,
+      "YA": 2
+    }
+  }
+}

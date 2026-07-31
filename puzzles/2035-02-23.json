@@ -1,0 +1,87 @@
+{
+  "pangram": "duality",
+  "center_letter": "d",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 92,
+  "answer_pangrams": [
+    "duality"
+  ],
+  "answers": [
+    "adult",
+    "audit",
+    "daddy",
+    "daily",
+    "dally",
+    "data",
+    "dial",
+    "dill",
+    "dilly",
+    "dillydally",
+    "ditty",
+    "dual",
+    "duality",
+    "dull",
+    "dully",
+    "duly",
+    "duty",
+    "idly",
+    "idyll",
+    "lady",
+    "laid",
+    "laud",
+    "tidal",
+    "tidily",
+    "tidy"
+  ],
+  "date": "2035-02-23",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 10,
+      "6": 1,
+      "7": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "D": 15,
+      "I": 2,
+      "L": 3,
+      "T": 3
+    },
+    "grid": {
+      "A": {
+        "5": 2
+      },
+      "D": {
+        "4": 7,
+        "5": 6,
+        "7": 1,
+        "10": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 3
+      },
+      "T": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AU": 1,
+      "DA": 4,
+      "DI": 5,
+      "DU": 6,
+      "ID": 2,
+      "LA": 3,
+      "TI": 3
+    }
+  }
+}

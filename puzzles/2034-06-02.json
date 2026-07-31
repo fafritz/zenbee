@@ -1,0 +1,94 @@
+{
+  "pangram": "plonked",
+  "center_letter": "k",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 112,
+  "answer_pangrams": [
+    "plonked"
+  ],
+  "answers": [
+    "eked",
+    "keel",
+    "keeled",
+    "keen",
+    "keened",
+    "keep",
+    "kelp",
+    "kenned",
+    "kennel",
+    "kenneled",
+    "knee",
+    "kneed",
+    "kneel",
+    "knell",
+    "knelled",
+    "knoll",
+    "kook",
+    "leek",
+    "look",
+    "looked",
+    "nook",
+    "peek",
+    "peeked",
+    "pekoe",
+    "plonk",
+    "plonked",
+    "poke",
+    "poked"
+  ],
+  "date": "2034-06-02",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 7,
+      "6": 6,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "E": 1,
+      "K": 16,
+      "L": 3,
+      "N": 1,
+      "P": 7
+    },
+    "grid": {
+      "E": {
+        "4": 1
+      },
+      "K": {
+        "4": 6,
+        "5": 4,
+        "6": 4,
+        "7": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 2,
+        "6": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "P": {
+        "4": 2,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "EK": 1,
+      "KE": 9,
+      "KN": 6,
+      "KO": 1,
+      "LE": 1,
+      "LO": 2,
+      "NO": 1,
+      "PE": 3,
+      "PL": 2,
+      "PO": 2
+    }
+  }
+}

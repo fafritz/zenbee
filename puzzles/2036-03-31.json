@@ -1,0 +1,96 @@
+{
+  "pangram": "jointly",
+  "center_letter": "o",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 77,
+  "answer_pangrams": [
+    "jointly"
+  ],
+  "answers": [
+    "into",
+    "join",
+    "joint",
+    "jointly",
+    "jollity",
+    "jolly",
+    "jolt",
+    "lion",
+    "loin",
+    "loll",
+    "loon",
+    "loot",
+    "lotion",
+    "lotto",
+    "noon",
+    "notion",
+    "nylon",
+    "oily",
+    "olio",
+    "onion",
+    "only",
+    "onto",
+    "toil",
+    "toll",
+    "tony",
+    "tool",
+    "toon",
+    "toot"
+  ],
+  "date": "2036-03-31",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 5,
+      "6": 2,
+      "7": 2
+    },
+    "by_first_letter": {
+      "I": 1,
+      "J": 6,
+      "L": 7,
+      "N": 3,
+      "O": 5,
+      "T": 6
+    },
+    "grid": {
+      "I": {
+        "4": 1
+      },
+      "J": {
+        "4": 2,
+        "5": 2,
+        "7": 2
+      },
+      "L": {
+        "4": 5,
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 4,
+        "5": 1
+      },
+      "T": {
+        "4": 6
+      }
+    },
+    "two_letter_list": {
+      "IN": 1,
+      "JO": 6,
+      "LI": 1,
+      "LO": 6,
+      "NO": 2,
+      "NY": 1,
+      "OI": 1,
+      "OL": 1,
+      "ON": 3,
+      "TO": 6
+    }
+  }
+}

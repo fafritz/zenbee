@@ -1,0 +1,92 @@
+{
+  "pangram": "hemlock",
+  "center_letter": "c",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 94,
+  "answer_pangrams": [
+    "hemlock"
+  ],
+  "answers": [
+    "cell",
+    "cello",
+    "check",
+    "cheek",
+    "chem",
+    "chock",
+    "choke",
+    "cloche",
+    "clock",
+    "cockle",
+    "coke",
+    "come",
+    "cook",
+    "cool",
+    "echo",
+    "emcee",
+    "heck",
+    "heckle",
+    "hemlock",
+    "hock",
+    "hooch",
+    "leech",
+    "lock",
+    "loco",
+    "mock",
+    "mooch"
+  ],
+  "date": "2032-01-19",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 10,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 14,
+      "E": 2,
+      "H": 5,
+      "L": 3,
+      "M": 2
+    },
+    "grid": {
+      "C": {
+        "4": 6,
+        "5": 6,
+        "6": 2
+      },
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1
+      },
+      "M": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 2,
+      "CH": 5,
+      "CL": 2,
+      "CO": 5,
+      "EC": 1,
+      "EM": 1,
+      "HE": 3,
+      "HO": 2,
+      "LE": 1,
+      "LO": 2,
+      "MO": 2
+    }
+  }
+}

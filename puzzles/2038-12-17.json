@@ -1,0 +1,146 @@
+{
+  "pangram": "potable",
+  "center_letter": "p",
+  "num_answers": 58,
+  "num_pangrams": 1,
+  "possible_points": 224,
+  "answer_pangrams": [
+    "potable"
+  ],
+  "answers": [
+    "appall",
+    "appeal",
+    "appellate",
+    "apple",
+    "atop",
+    "bebop",
+    "beep",
+    "bleep",
+    "elope",
+    "epee",
+    "lapel",
+    "laptop",
+    "leap",
+    "leapt",
+    "loop",
+    "lope",
+    "opal",
+    "palatable",
+    "palatal",
+    "palate",
+    "pale",
+    "palette",
+    "pall",
+    "pallet",
+    "palpable",
+    "palpate",
+    "papa",
+    "papal",
+    "pate",
+    "patella",
+    "peal",
+    "peat",
+    "pebble",
+    "peel",
+    "peep",
+    "pellet",
+    "pelt",
+    "people",
+    "petal",
+    "plate",
+    "platelet",
+    "plea",
+    "pleat",
+    "plop",
+    "plot",
+    "poet",
+    "pole",
+    "poll",
+    "polo",
+    "pool",
+    "poop",
+    "pope",
+    "potable",
+    "potato",
+    "tape",
+    "teapot",
+    "tepee",
+    "topple"
+  ],
+  "date": "2038-12-17",
+  "hints": {
+    "by_length": {
+      "4": 27,
+      "5": 11,
+      "6": 11,
+      "7": 5,
+      "8": 2,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 3,
+      "E": 2,
+      "L": 6,
+      "O": 1,
+      "P": 37,
+      "T": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "9": 1
+      },
+      "B": {
+        "4": 1,
+        "5": 2
+      },
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 2,
+        "6": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 19,
+        "5": 4,
+        "6": 6,
+        "7": 5,
+        "8": 2,
+        "9": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AP": 4,
+      "AT": 1,
+      "BE": 2,
+      "BL": 1,
+      "EL": 1,
+      "EP": 1,
+      "LA": 2,
+      "LE": 2,
+      "LO": 2,
+      "OP": 1,
+      "PA": 13,
+      "PE": 9,
+      "PL": 6,
+      "PO": 9,
+      "TA": 1,
+      "TE": 2,
+      "TO": 1
+    }
+  }
+}

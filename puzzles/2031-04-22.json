@@ -1,0 +1,140 @@
+{
+  "pangram": "baneful",
+  "center_letter": "a",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 188,
+  "answer_pangrams": [
+    "baneful"
+  ],
+  "answers": [
+    "abbe",
+    "able",
+    "affable",
+    "alfalfa",
+    "anal",
+    "anneal",
+    "annual",
+    "annul",
+    "baba",
+    "babble",
+    "babe",
+    "babel",
+    "baffle",
+    "bale",
+    "baleen",
+    "baleful",
+    "ball",
+    "banal",
+    "banana",
+    "bane",
+    "baneful",
+    "bauble",
+    "bean",
+    "beau",
+    "befall",
+    "befallen",
+    "blab",
+    "elan",
+    "enable",
+    "fable",
+    "fall",
+    "fallen",
+    "faun",
+    "fauna",
+    "flab",
+    "flan",
+    "flannel",
+    "flea",
+    "label",
+    "lane",
+    "leaf",
+    "lean",
+    "luau",
+    "naan",
+    "nana",
+    "nebula",
+    "nebulae",
+    "ulna",
+    "ulnae",
+    "unable"
+  ],
+  "date": "2031-04-22",
+  "hints": {
+    "by_length": {
+      "4": 24,
+      "5": 7,
+      "6": 12,
+      "7": 6,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "B": 19,
+      "E": 2,
+      "F": 9,
+      "L": 5,
+      "N": 4,
+      "U": 3
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 1,
+        "6": 2,
+        "7": 2
+      },
+      "B": {
+        "4": 8,
+        "5": 2,
+        "6": 6,
+        "7": 2,
+        "8": 1
+      },
+      "E": {
+        "4": 1,
+        "6": 1
+      },
+      "F": {
+        "4": 5,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 1
+      },
+      "N": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 2,
+      "AF": 1,
+      "AL": 1,
+      "AN": 4,
+      "BA": 14,
+      "BE": 4,
+      "BL": 1,
+      "EL": 1,
+      "EN": 1,
+      "FA": 5,
+      "FL": 4,
+      "LA": 2,
+      "LE": 2,
+      "LU": 1,
+      "NA": 2,
+      "NE": 2,
+      "UL": 2,
+      "UN": 1
+    }
+  }
+}

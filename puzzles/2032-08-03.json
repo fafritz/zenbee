@@ -1,0 +1,142 @@
+{
+  "pangram": "whaling",
+  "center_letter": "a",
+  "num_answers": 55,
+  "num_pangrams": 1,
+  "possible_points": 281,
+  "answer_pangrams": [
+    "whaling"
+  ],
+  "answers": [
+    "again",
+    "aging",
+    "ailing",
+    "alga",
+    "align",
+    "aligning",
+    "anal",
+    "angina",
+    "angling",
+    "awing",
+    "awning",
+    "gagging",
+    "gain",
+    "gaining",
+    "gala",
+    "gall",
+    "galling",
+    "gang",
+    "ganging",
+    "ganglia",
+    "gangling",
+    "gnaw",
+    "gnawing",
+    "haggling",
+    "hail",
+    "hailing",
+    "halal",
+    "haling",
+    "hall",
+    "hang",
+    "hanging",
+    "hangnail",
+    "hawing",
+    "inhaling",
+    "lagging",
+    "lain",
+    "lawn",
+    "naan",
+    "nagging",
+    "nail",
+    "nailing",
+    "nana",
+    "wagging",
+    "waggling",
+    "waging",
+    "wail",
+    "wailing",
+    "waling",
+    "wall",
+    "walling",
+    "wangling",
+    "waning",
+    "whaling",
+    "wigwag",
+    "wigwagging"
+  ],
+  "date": "2032-08-03",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 5,
+      "6": 9,
+      "7": 16,
+      "8": 7,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 11,
+      "G": 12,
+      "H": 10,
+      "I": 1,
+      "L": 3,
+      "N": 5,
+      "W": 13
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 4,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 5,
+        "7": 6,
+        "8": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2
+      },
+      "I": {
+        "8": 1
+      },
+      "L": {
+        "4": 2,
+        "7": 1
+      },
+      "N": {
+        "4": 3,
+        "7": 2
+      },
+      "W": {
+        "4": 2,
+        "6": 4,
+        "7": 4,
+        "8": 2,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 1,
+      "AL": 3,
+      "AN": 3,
+      "AW": 2,
+      "GA": 10,
+      "GN": 2,
+      "HA": 10,
+      "IN": 1,
+      "LA": 3,
+      "NA": 5,
+      "WA": 10,
+      "WH": 1,
+      "WI": 2
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "pangram": "couplet",
+  "center_letter": "p",
+  "num_answers": 39,
+  "num_pangrams": 1,
+  "possible_points": 124,
+  "answer_pangrams": [
+    "couplet"
+  ],
+  "answers": [
+    "clop",
+    "coop",
+    "cope",
+    "coup",
+    "coupe",
+    "couple",
+    "couplet",
+    "cutup",
+    "elope",
+    "epee",
+    "letup",
+    "loop",
+    "lope",
+    "output",
+    "peel",
+    "peep",
+    "pellet",
+    "pelt",
+    "people",
+    "plop",
+    "plot",
+    "poet",
+    "pole",
+    "poll",
+    "pollute",
+    "polo",
+    "pool",
+    "poop",
+    "pope",
+    "pout",
+    "pull",
+    "pullet",
+    "pullout",
+    "pulp",
+    "puppet",
+    "putt",
+    "tepee",
+    "topple",
+    "toupee"
+  ],
+  "date": "2035-12-21",
+  "hints": {
+    "by_length": {
+      "4": 23,
+      "5": 5,
+      "6": 8,
+      "7": 3
+    },
+    "by_first_letter": {
+      "C": 8,
+      "E": 2,
+      "L": 3,
+      "O": 1,
+      "P": 22,
+      "T": 3
+    },
+    "grid": {
+      "C": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1
+      },
+      "O": {
+        "6": 1
+      },
+      "P": {
+        "4": 16,
+        "6": 4,
+        "7": 2
+      },
+      "T": {
+        "5": 1,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "CL": 1,
+      "CO": 6,
+      "CU": 1,
+      "EL": 1,
+      "EP": 1,
+      "LE": 1,
+      "LO": 2,
+      "OU": 1,
+      "PE": 5,
+      "PL": 2,
+      "PO": 9,
+      "PU": 6,
+      "TE": 1,
+      "TO": 2
+    }
+  }
+}

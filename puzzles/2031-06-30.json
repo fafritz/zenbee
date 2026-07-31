@@ -1,0 +1,125 @@
+{
+  "pangram": "flaking",
+  "center_letter": "a",
+  "num_answers": 51,
+  "num_pangrams": 2,
+  "possible_points": 247,
+  "answer_pangrams": [
+    "flaking",
+    "flanking"
+  ],
+  "answers": [
+    "again",
+    "aging",
+    "ailing",
+    "akin",
+    "alfalfa",
+    "alga",
+    "align",
+    "aligning",
+    "alkali",
+    "anal",
+    "angina",
+    "angling",
+    "fail",
+    "failing",
+    "faking",
+    "fall",
+    "falling",
+    "fang",
+    "fanning",
+    "filial",
+    "finagling",
+    "final",
+    "flag",
+    "flagging",
+    "flail",
+    "flailing",
+    "flak",
+    "flaking",
+    "flan",
+    "flank",
+    "flanking",
+    "gaff",
+    "gaffing",
+    "gagging",
+    "gain",
+    "gaining",
+    "gala",
+    "gall",
+    "galling",
+    "gang",
+    "ganging",
+    "ganglia",
+    "gangling",
+    "lagging",
+    "lain",
+    "lank",
+    "naan",
+    "nagging",
+    "nail",
+    "nailing",
+    "nana"
+  ],
+  "date": "2031-06-30",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 6,
+      "6": 5,
+      "7": 15,
+      "8": 5,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 12,
+      "F": 19,
+      "G": 12,
+      "L": 3,
+      "N": 5
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 3,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      },
+      "F": {
+        "4": 6,
+        "5": 3,
+        "6": 2,
+        "7": 4,
+        "8": 3,
+        "9": 1
+      },
+      "G": {
+        "4": 5,
+        "7": 6,
+        "8": 1
+      },
+      "L": {
+        "4": 2,
+        "7": 1
+      },
+      "N": {
+        "4": 3,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 1,
+      "AK": 1,
+      "AL": 5,
+      "AN": 3,
+      "FA": 7,
+      "FI": 3,
+      "FL": 9,
+      "GA": 12,
+      "LA": 3,
+      "NA": 5
+    }
+  }
+}

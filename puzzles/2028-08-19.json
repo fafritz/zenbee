@@ -1,0 +1,129 @@
+{
+  "pangram": "voltaic",
+  "center_letter": "c",
+  "num_answers": 47,
+  "num_pangrams": 1,
+  "possible_points": 201,
+  "answer_pangrams": [
+    "voltaic"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "attic",
+    "cacao",
+    "cacti",
+    "calico",
+    "call",
+    "calla",
+    "catcall",
+    "cattail",
+    "cavil",
+    "cilia",
+    "civic",
+    "civil",
+    "clot",
+    "coal",
+    "coat",
+    "coca",
+    "cocci",
+    "cocoa",
+    "coil",
+    "coital",
+    "cola",
+    "colic",
+    "colt",
+    "cool",
+    "coot",
+    "illicit",
+    "italic",
+    "lactic",
+    "licit",
+    "lilac",
+    "local",
+    "loci",
+    "loco",
+    "lolcat",
+    "octal",
+    "tacit",
+    "taco",
+    "tact",
+    "tactic",
+    "tactical",
+    "tailcoat",
+    "talc",
+    "vocal",
+    "vocalic",
+    "voltaic"
+  ],
+  "date": "2028-08-19",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 17,
+      "6": 7,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 24,
+      "I": 2,
+      "L": 7,
+      "O": 1,
+      "T": 7,
+      "V": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "C": {
+        "4": 10,
+        "5": 10,
+        "6": 2,
+        "7": 2
+      },
+      "I": {
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 3,
+        "6": 2
+      },
+      "O": {
+        "5": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "8": 2
+      },
+      "V": {
+        "5": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AT": 1,
+      "CA": 8,
+      "CI": 3,
+      "CL": 1,
+      "CO": 12,
+      "IL": 1,
+      "IT": 1,
+      "LA": 1,
+      "LI": 2,
+      "LO": 4,
+      "OC": 1,
+      "TA": 7,
+      "VO": 3
+    }
+  }
+}

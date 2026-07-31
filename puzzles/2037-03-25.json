@@ -1,0 +1,125 @@
+{
+  "pangram": "pickled",
+  "center_letter": "l",
+  "num_answers": 43,
+  "num_pangrams": 1,
+  "possible_points": 179,
+  "answer_pangrams": [
+    "pickled"
+  ],
+  "answers": [
+    "cell",
+    "click",
+    "clicked",
+    "clip",
+    "clipped",
+    "deckle",
+    "deli",
+    "dell",
+    "diddle",
+    "diddled",
+    "dill",
+    "elide",
+    "elided",
+    "icicle",
+    "idle",
+    "idled",
+    "keel",
+    "keeled",
+    "kelp",
+    "kill",
+    "killed",
+    "leek",
+    "lice",
+    "lick",
+    "licked",
+    "lidded",
+    "lied",
+    "like",
+    "liked",
+    "lipid",
+    "peddle",
+    "peddled",
+    "peel",
+    "peeled",
+    "pickle",
+    "pickled",
+    "piddle",
+    "piddled",
+    "pile",
+    "piled",
+    "pill",
+    "pilled",
+    "plied"
+  ],
+  "date": "2037-03-25",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 7,
+      "6": 13,
+      "7": 6
+    },
+    "by_first_letter": {
+      "C": 5,
+      "D": 6,
+      "E": 2,
+      "I": 3,
+      "K": 5,
+      "L": 9,
+      "P": 13
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 1,
+        "7": 2
+      },
+      "D": {
+        "4": 3,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "K": {
+        "4": 3,
+        "6": 2
+      },
+      "L": {
+        "4": 5,
+        "5": 2,
+        "6": 2
+      },
+      "P": {
+        "4": 3,
+        "5": 2,
+        "6": 5,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "CE": 1,
+      "CL": 4,
+      "DE": 3,
+      "DI": 3,
+      "EL": 2,
+      "IC": 1,
+      "ID": 2,
+      "KE": 3,
+      "KI": 2,
+      "LE": 1,
+      "LI": 8,
+      "PE": 4,
+      "PI": 8,
+      "PL": 1
+    }
+  }
+}

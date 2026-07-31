@@ -1,0 +1,89 @@
+{
+  "pangram": "fancily",
+  "center_letter": "f",
+  "num_answers": 25,
+  "num_pangrams": 2,
+  "possible_points": 138,
+  "answer_pangrams": [
+    "fancily",
+    "financially"
+  ],
+  "answers": [
+    "alfalfa",
+    "calcify",
+    "calf",
+    "cliff",
+    "facial",
+    "facially",
+    "fail",
+    "fall",
+    "fallacy",
+    "fancily",
+    "fancy",
+    "fanny",
+    "filial",
+    "fill",
+    "filly",
+    "final",
+    "finally",
+    "financial",
+    "financially",
+    "finny",
+    "flail",
+    "flan",
+    "flay",
+    "iffy",
+    "infancy"
+  ],
+  "date": "2035-05-09",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 7,
+      "6": 2,
+      "7": 6,
+      "8": 1,
+      "9": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 3,
+      "F": 19,
+      "I": 2
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "F": {
+        "4": 5,
+        "5": 6,
+        "6": 2,
+        "7": 3,
+        "8": 1,
+        "9": 1,
+        "11": 1
+      },
+      "I": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "CA": 2,
+      "CL": 1,
+      "FA": 8,
+      "FI": 8,
+      "FL": 3,
+      "IF": 1,
+      "IN": 1
+    }
+  }
+}

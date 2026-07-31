@@ -1,0 +1,136 @@
+{
+  "pangram": "implant",
+  "center_letter": "l",
+  "num_answers": 49,
+  "num_pangrams": 1,
+  "possible_points": 206,
+  "answer_pangrams": [
+    "implant"
+  ],
+  "answers": [
+    "anal",
+    "animal",
+    "appall",
+    "impala",
+    "implant",
+    "initial",
+    "lain",
+    "lama",
+    "lamp",
+    "lilt",
+    "limit",
+    "limn",
+    "limp",
+    "lint",
+    "llama",
+    "mail",
+    "mailman",
+    "mall",
+    "malt",
+    "mammal",
+    "mammalian",
+    "mantilla",
+    "militant",
+    "militia",
+    "militiaman",
+    "mill",
+    "minimal",
+    "nail",
+    "napalm",
+    "natal",
+    "pail",
+    "palatal",
+    "palatial",
+    "pall",
+    "palm",
+    "papal",
+    "papilla",
+    "pill",
+    "plain",
+    "plaint",
+    "plait",
+    "plan",
+    "plant",
+    "plantain",
+    "pliant",
+    "tail",
+    "tall",
+    "till",
+    "tilt"
+  ],
+  "date": "2033-03-09",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 7,
+      "6": 7,
+      "7": 7,
+      "8": 4,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "I": 3,
+      "L": 9,
+      "M": 12,
+      "N": 3,
+      "P": 15,
+      "T": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 2
+      },
+      "I": {
+        "6": 1,
+        "7": 2
+      },
+      "L": {
+        "4": 7,
+        "5": 2
+      },
+      "M": {
+        "4": 4,
+        "6": 1,
+        "7": 3,
+        "8": 2,
+        "9": 1,
+        "10": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "P": {
+        "4": 5,
+        "5": 4,
+        "6": 2,
+        "7": 2,
+        "8": 2
+      },
+      "T": {
+        "4": 4
+      }
+    },
+    "two_letter_list": {
+      "AN": 2,
+      "AP": 1,
+      "IM": 2,
+      "IN": 1,
+      "LA": 3,
+      "LI": 5,
+      "LL": 1,
+      "MA": 7,
+      "MI": 5,
+      "NA": 3,
+      "PA": 7,
+      "PI": 1,
+      "PL": 7,
+      "TA": 2,
+      "TI": 2
+    }
+  }
+}

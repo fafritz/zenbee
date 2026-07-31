@@ -1,0 +1,91 @@
+{
+  "pangram": "hobnail",
+  "center_letter": "b",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 115,
+  "answer_pangrams": [
+    "hobnail"
+  ],
+  "answers": [
+    "albino",
+    "alibi",
+    "baba",
+    "baboon",
+    "bail",
+    "ball",
+    "balloon",
+    "banal",
+    "banana",
+    "baobab",
+    "bill",
+    "billion",
+    "blab",
+    "blah",
+    "blob",
+    "bobbin",
+    "boil",
+    "bola",
+    "boll",
+    "bonbon",
+    "boob",
+    "booboo",
+    "boon",
+    "hobnail",
+    "hobnob",
+    "hobo",
+    "labia",
+    "labial",
+    "nabob"
+  ],
+  "date": "2035-12-13",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 4,
+      "6": 9,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 21,
+      "H": 3,
+      "L": 2,
+      "N": 1
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1
+      },
+      "B": {
+        "4": 12,
+        "5": 1,
+        "6": 6,
+        "7": 2
+      },
+      "H": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "BA": 8,
+      "BI": 2,
+      "BL": 3,
+      "BO": 8,
+      "HO": 3,
+      "LA": 2,
+      "NA": 1
+    }
+  }
+}

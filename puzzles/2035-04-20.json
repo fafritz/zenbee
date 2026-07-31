@@ -1,0 +1,103 @@
+{
+  "pangram": "weaving",
+  "center_letter": "v",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 126,
+  "answer_pangrams": [
+    "weaving"
+  ],
+  "answers": [
+    "agave",
+    "avenge",
+    "avenging",
+    "avian",
+    "even",
+    "evening",
+    "gave",
+    "give",
+    "given",
+    "giving",
+    "naive",
+    "nave",
+    "vain",
+    "vane",
+    "vanning",
+    "vegan",
+    "veggie",
+    "vein",
+    "veining",
+    "view",
+    "viewing",
+    "vine",
+    "waive",
+    "waiving",
+    "wave",
+    "waving",
+    "weave",
+    "weaving"
+  ],
+  "date": "2035-04-20",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 7,
+      "6": 4,
+      "7": 6,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "E": 2,
+      "G": 4,
+      "N": 2,
+      "V": 10,
+      "W": 6
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "E": {
+        "4": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1
+      },
+      "V": {
+        "4": 5,
+        "5": 1,
+        "6": 1,
+        "7": 3
+      },
+      "W": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AV": 3,
+      "EV": 2,
+      "GA": 1,
+      "GI": 3,
+      "NA": 2,
+      "VA": 3,
+      "VE": 4,
+      "VI": 3,
+      "WA": 4,
+      "WE": 2
+    }
+  }
+}

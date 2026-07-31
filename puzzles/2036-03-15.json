@@ -1,0 +1,103 @@
+{
+  "pangram": "damping",
+  "center_letter": "p",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 166,
+  "answer_pangrams": [
+    "damping"
+  ],
+  "answers": [
+    "aping",
+    "damp",
+    "damping",
+    "dipping",
+    "gaping",
+    "impinging",
+    "ipad",
+    "mapping",
+    "napping",
+    "nipping",
+    "padding",
+    "pagan",
+    "paging",
+    "paid",
+    "pain",
+    "paining",
+    "panda",
+    "pang",
+    "panning",
+    "papa",
+    "pidgin",
+    "pigging",
+    "pimp",
+    "pimping",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "piping",
+    "pippin",
+    "pipping"
+  ],
+  "date": "2036-03-15",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 3,
+      "6": 6,
+      "7": 13,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "D": 3,
+      "G": 1,
+      "I": 2,
+      "M": 1,
+      "N": 2,
+      "P": 21
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "D": {
+        "4": 1,
+        "7": 2
+      },
+      "G": {
+        "6": 1
+      },
+      "I": {
+        "4": 1,
+        "9": 1
+      },
+      "M": {
+        "7": 1
+      },
+      "N": {
+        "7": 2
+      },
+      "P": {
+        "4": 6,
+        "5": 2,
+        "6": 5,
+        "7": 8
+      }
+    },
+    "two_letter_list": {
+      "AP": 1,
+      "DA": 2,
+      "DI": 1,
+      "GA": 1,
+      "IM": 1,
+      "IP": 1,
+      "MA": 1,
+      "NA": 1,
+      "NI": 1,
+      "PA": 10,
+      "PI": 11
+    }
+  }
+}

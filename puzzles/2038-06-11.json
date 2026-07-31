@@ -1,0 +1,97 @@
+{
+  "pangram": "fouling",
+  "center_letter": "u",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 140,
+  "answer_pangrams": [
+    "fouling"
+  ],
+  "answers": [
+    "fluff",
+    "fluffing",
+    "flung",
+    "foul",
+    "fouling",
+    "fulfill",
+    "fulfilling",
+    "full",
+    "fulling",
+    "fungi",
+    "gluing",
+    "gouging",
+    "guff",
+    "gulf",
+    "gull",
+    "gulling",
+    "gunning",
+    "lounging",
+    "lugging",
+    "lull",
+    "lulling",
+    "lulu",
+    "lung",
+    "lunging",
+    "nonunion",
+    "noun",
+    "null",
+    "union"
+  ],
+  "date": "2038-06-11",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 4,
+      "6": 1,
+      "7": 9,
+      "8": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "F": 10,
+      "G": 7,
+      "L": 7,
+      "N": 3,
+      "U": 1
+    },
+    "grid": {
+      "F": {
+        "4": 2,
+        "5": 3,
+        "7": 3,
+        "8": 1,
+        "10": 1
+      },
+      "G": {
+        "4": 3,
+        "6": 1,
+        "7": 3
+      },
+      "L": {
+        "4": 3,
+        "7": 3,
+        "8": 1
+      },
+      "N": {
+        "4": 2,
+        "8": 1
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "FL": 3,
+      "FO": 2,
+      "FU": 5,
+      "GL": 1,
+      "GO": 1,
+      "GU": 5,
+      "LO": 1,
+      "LU": 6,
+      "NO": 2,
+      "NU": 1,
+      "UN": 1
+    }
+  }
+}

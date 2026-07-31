@@ -1,0 +1,100 @@
+{
+  "pangram": "decking",
+  "center_letter": "c",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 156,
+  "answer_pangrams": [
+    "decking"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "ceding",
+    "decide",
+    "decided",
+    "deciding",
+    "deck",
+    "decked",
+    "decking",
+    "deice",
+    "deiced",
+    "deicing",
+    "dice",
+    "diced",
+    "dicing",
+    "iced",
+    "icing",
+    "incidence",
+    "indigence",
+    "kick",
+    "kicked",
+    "kicking",
+    "neck",
+    "necked",
+    "necking",
+    "nice",
+    "nick",
+    "nicked",
+    "nicking",
+    "niece"
+  ],
+  "date": "2035-07-13",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 5,
+      "6": 8,
+      "7": 6,
+      "8": 1,
+      "9": 2
+    },
+    "by_first_letter": {
+      "C": 3,
+      "D": 12,
+      "I": 4,
+      "K": 3,
+      "N": 8
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 2,
+        "6": 4,
+        "7": 3,
+        "8": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "9": 2
+      },
+      "K": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 1,
+        "6": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "CE": 3,
+      "DE": 9,
+      "DI": 3,
+      "IC": 2,
+      "IN": 2,
+      "KI": 3,
+      "NE": 3,
+      "NI": 5
+    }
+  }
+}

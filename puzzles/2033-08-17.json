@@ -1,0 +1,106 @@
+{
+  "pangram": "clothed",
+  "center_letter": "h",
+  "num_answers": 39,
+  "num_pangrams": 1,
+  "possible_points": 176,
+  "answer_pangrams": [
+    "clothed"
+  ],
+  "answers": [
+    "cloche",
+    "cloth",
+    "clothe",
+    "clothed",
+    "echo",
+    "echoed",
+    "etch",
+    "etched",
+    "heed",
+    "heeded",
+    "heel",
+    "heeled",
+    "held",
+    "hell",
+    "hellhole",
+    "hello",
+    "helot",
+    "hoed",
+    "hold",
+    "hole",
+    "holed",
+    "hooch",
+    "hood",
+    "hooded",
+    "hoodoo",
+    "hoodooed",
+    "hoot",
+    "hooted",
+    "hotel",
+    "leech",
+    "leeched",
+    "tech",
+    "teeth",
+    "teethe",
+    "teethed",
+    "thee",
+    "toehold",
+    "tooth",
+    "toothed"
+  ],
+  "date": "2033-08-17",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 9,
+      "6": 10,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "C": 4,
+      "E": 4,
+      "H": 21,
+      "L": 2,
+      "T": 8
+    },
+    "grid": {
+      "C": {
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "4": 2,
+        "6": 2
+      },
+      "H": {
+        "4": 9,
+        "5": 5,
+        "6": 5,
+        "8": 2
+      },
+      "L": {
+        "5": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "CL": 4,
+      "EC": 2,
+      "ET": 2,
+      "HE": 9,
+      "HO": 12,
+      "LE": 2,
+      "TE": 4,
+      "TH": 1,
+      "TO": 3
+    }
+  }
+}

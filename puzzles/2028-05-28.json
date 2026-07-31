@@ -1,0 +1,94 @@
+{
+  "pangram": "quoited",
+  "center_letter": "i",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 117,
+  "answer_pangrams": [
+    "quoited"
+  ],
+  "answers": [
+    "died",
+    "diet",
+    "dieted",
+    "diode",
+    "ditto",
+    "dittoed",
+    "eddied",
+    "edit",
+    "edited",
+    "etiquette",
+    "idiot",
+    "outdid",
+    "quid",
+    "quiet",
+    "quieted",
+    "quietude",
+    "quit",
+    "quite",
+    "quoit",
+    "quoited",
+    "tide",
+    "tided",
+    "tidied",
+    "tied"
+  ],
+  "date": "2028-05-28",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 7,
+      "6": 5,
+      "7": 3,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "D": 6,
+      "E": 4,
+      "I": 1,
+      "O": 1,
+      "Q": 8,
+      "T": 4
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "6": 2,
+        "9": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "O": {
+        "6": 1
+      },
+      "Q": {
+        "4": 2,
+        "5": 3,
+        "7": 2,
+        "8": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "DI": 6,
+      "ED": 3,
+      "ET": 1,
+      "ID": 1,
+      "OU": 1,
+      "QU": 8,
+      "TI": 4
+    }
+  }
+}

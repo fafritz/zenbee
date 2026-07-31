@@ -1,0 +1,68 @@
+{
+  "pangram": "compute",
+  "center_letter": "c",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 86,
+  "answer_pangrams": [
+    "compute"
+  ],
+  "answers": [
+    "come",
+    "comet",
+    "commute",
+    "comp",
+    "compete",
+    "compo",
+    "compote",
+    "compute",
+    "coop",
+    "coot",
+    "cope",
+    "cote",
+    "coup",
+    "coupe",
+    "cute",
+    "cutout",
+    "cutup",
+    "emcee",
+    "octet",
+    "outcome"
+  ],
+  "date": "2031-07-18",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 6,
+      "6": 1,
+      "7": 5
+    },
+    "by_first_letter": {
+      "C": 17,
+      "E": 1,
+      "O": 2
+    },
+    "grid": {
+      "C": {
+        "4": 8,
+        "5": 4,
+        "6": 1,
+        "7": 4
+      },
+      "E": {
+        "5": 1
+      },
+      "O": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 14,
+      "CU": 3,
+      "EM": 1,
+      "OC": 1,
+      "OU": 1
+    }
+  }
+}

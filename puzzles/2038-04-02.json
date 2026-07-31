@@ -1,0 +1,92 @@
+{
+  "pangram": "jocular",
+  "center_letter": "r",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 101,
+  "answer_pangrams": [
+    "jocular"
+  ],
+  "answers": [
+    "accrual",
+    "ajar",
+    "aura",
+    "aural",
+    "carol",
+    "collar",
+    "color",
+    "coral",
+    "corolla",
+    "corral",
+    "curl",
+    "jocular",
+    "juror",
+    "occur",
+    "ocular",
+    "oracular",
+    "oral",
+    "roar",
+    "rococo",
+    "roll",
+    "rural"
+  ],
+  "date": "2038-04-02",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 7,
+      "6": 4,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 7,
+      "J": 2,
+      "O": 4,
+      "R": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "J": {
+        "5": 1,
+        "7": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AJ": 1,
+      "AU": 2,
+      "CA": 1,
+      "CO": 5,
+      "CU": 1,
+      "JO": 1,
+      "JU": 1,
+      "OC": 2,
+      "OR": 2,
+      "RO": 3,
+      "RU": 1
+    }
+  }
+}

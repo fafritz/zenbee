@@ -1,0 +1,124 @@
+{
+  "pangram": "howling",
+  "center_letter": "l",
+  "num_answers": 38,
+  "num_pangrams": 2,
+  "possible_points": 194,
+  "answer_pangrams": [
+    "hollowing",
+    "howling"
+  ],
+  "answers": [
+    "giggling",
+    "gigolo",
+    "gill",
+    "glow",
+    "glowing",
+    "goggling",
+    "googling",
+    "hill",
+    "holing",
+    "hollow",
+    "hollowing",
+    "howl",
+    "howling",
+    "igloo",
+    "lingo",
+    "lining",
+    "lion",
+    "logging",
+    "login",
+    "logo",
+    "loin",
+    "loll",
+    "lolling",
+    "long",
+    "longing",
+    "loon",
+    "lowing",
+    "niggling",
+    "ogling",
+    "oiling",
+    "olio",
+    "whiling",
+    "wiggling",
+    "wiling",
+    "will",
+    "willing",
+    "willow",
+    "wool"
+  ],
+  "date": "2038-07-23",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 3,
+      "6": 9,
+      "7": 7,
+      "8": 5,
+      "9": 1
+    },
+    "by_first_letter": {
+      "G": 7,
+      "H": 6,
+      "I": 1,
+      "L": 13,
+      "N": 1,
+      "O": 3,
+      "W": 7
+    },
+    "grid": {
+      "G": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "8": 3
+      },
+      "H": {
+        "4": 2,
+        "6": 2,
+        "7": 1,
+        "9": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "L": {
+        "4": 6,
+        "5": 2,
+        "6": 2,
+        "7": 3
+      },
+      "N": {
+        "8": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 2
+      },
+      "W": {
+        "4": 2,
+        "6": 2,
+        "7": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 3,
+      "GL": 2,
+      "GO": 2,
+      "HI": 1,
+      "HO": 5,
+      "IG": 1,
+      "LI": 3,
+      "LO": 10,
+      "NI": 1,
+      "OG": 1,
+      "OI": 1,
+      "OL": 1,
+      "WH": 1,
+      "WI": 5,
+      "WO": 1
+    }
+  }
+}

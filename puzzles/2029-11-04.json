@@ -1,0 +1,109 @@
+{
+  "pangram": "forking",
+  "center_letter": "r",
+  "num_answers": 35,
+  "num_pangrams": 1,
+  "possible_points": 185,
+  "answer_pangrams": [
+    "forking"
+  ],
+  "answers": [
+    "firing",
+    "forging",
+    "forgo",
+    "forgoing",
+    "fork",
+    "forking",
+    "fringing",
+    "frog",
+    "frogging",
+    "gorging",
+    "goring",
+    "griffin",
+    "grin",
+    "grinning",
+    "grog",
+    "groin",
+    "grok",
+    "grokking",
+    "ignoring",
+    "infringing",
+    "irking",
+    "iron",
+    "ironing",
+    "origin",
+    "riff",
+    "riffing",
+    "rigging",
+    "rigor",
+    "ring",
+    "ringing",
+    "rink",
+    "roof",
+    "roofing",
+    "rook",
+    "rooking"
+  ],
+  "date": "2029-11-04",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 3,
+      "6": 4,
+      "7": 10,
+      "8": 6,
+      "10": 1
+    },
+    "by_first_letter": {
+      "F": 9,
+      "G": 9,
+      "I": 5,
+      "O": 1,
+      "R": 11
+    },
+    "grid": {
+      "F": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 3
+      },
+      "G": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 2
+      },
+      "I": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "10": 1
+      },
+      "O": {
+        "6": 1
+      },
+      "R": {
+        "4": 5,
+        "5": 1,
+        "7": 5
+      }
+    },
+    "two_letter_list": {
+      "FI": 1,
+      "FO": 5,
+      "FR": 3,
+      "GO": 2,
+      "GR": 7,
+      "IG": 1,
+      "IN": 1,
+      "IR": 3,
+      "OR": 1,
+      "RI": 7,
+      "RO": 4
+    }
+  }
+}

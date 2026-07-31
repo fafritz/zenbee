@@ -1,0 +1,109 @@
+{
+  "pangram": "proving",
+  "center_letter": "r",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 167,
+  "answer_pangrams": [
+    "proving"
+  ],
+  "answers": [
+    "gorging",
+    "goring",
+    "gorp",
+    "grin",
+    "grinning",
+    "grip",
+    "griping",
+    "gripping",
+    "grog",
+    "groin",
+    "grooving",
+    "ignoring",
+    "iron",
+    "ironing",
+    "origin",
+    "poor",
+    "poring",
+    "prig",
+    "prior",
+    "pron",
+    "prong",
+    "prop",
+    "propping",
+    "proving",
+    "rigging",
+    "rigor",
+    "ring",
+    "ringing",
+    "ripping",
+    "roping",
+    "roving",
+    "vigor",
+    "virgin"
+  ],
+  "date": "2032-11-13",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 5
+    },
+    "by_first_letter": {
+      "G": 11,
+      "I": 3,
+      "O": 1,
+      "P": 9,
+      "R": 7,
+      "V": 2
+    },
+    "grid": {
+      "G": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 3
+      },
+      "I": {
+        "4": 1,
+        "7": 1,
+        "8": 1
+      },
+      "O": {
+        "6": 1
+      },
+      "P": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 3
+      },
+      "V": {
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "GO": 3,
+      "GR": 8,
+      "IG": 1,
+      "IR": 2,
+      "OR": 1,
+      "PO": 2,
+      "PR": 7,
+      "RI": 5,
+      "RO": 2,
+      "VI": 2
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "pangram": "albumin",
+  "center_letter": "n",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 148,
+  "answer_pangrams": [
+    "albumin"
+  ],
+  "answers": [
+    "albumin",
+    "aluminum",
+    "alumna",
+    "alumni",
+    "anal",
+    "animal",
+    "annual",
+    "annul",
+    "banal",
+    "banana",
+    "biannual",
+    "lain",
+    "limn",
+    "mailman",
+    "main",
+    "mammalian",
+    "mania",
+    "manna",
+    "manual",
+    "mini",
+    "minim",
+    "minima",
+    "minimal",
+    "minimum",
+    "naan",
+    "nail",
+    "nana",
+    "nimbi",
+    "null",
+    "numb",
+    "ulna",
+    "unman"
+  ],
+  "date": "2030-04-04",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 7,
+      "6": 7,
+      "7": 4,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "B": 3,
+      "L": 2,
+      "M": 11,
+      "N": 6,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 4,
+        "7": 1,
+        "8": 1
+      },
+      "B": {
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 2
+      },
+      "M": {
+        "4": 2,
+        "5": 3,
+        "6": 2,
+        "7": 3,
+        "9": 1
+      },
+      "N": {
+        "4": 5,
+        "5": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 4,
+      "AN": 4,
+      "BA": 2,
+      "BI": 1,
+      "LA": 1,
+      "LI": 1,
+      "MA": 6,
+      "MI": 5,
+      "NA": 3,
+      "NI": 1,
+      "NU": 2,
+      "UL": 1,
+      "UN": 1
+    }
+  }
+}

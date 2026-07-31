@@ -1,0 +1,116 @@
+{
+  "pangram": "clowned",
+  "center_letter": "c",
+  "num_answers": 45,
+  "num_pangrams": 1,
+  "possible_points": 229,
+  "answer_pangrams": [
+    "clowned"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "cell",
+    "cello",
+    "clew",
+    "clewed",
+    "clod",
+    "clone",
+    "cloned",
+    "clown",
+    "clowned",
+    "cocoon",
+    "cocooned",
+    "coddle",
+    "coddled",
+    "code",
+    "coded",
+    "coed",
+    "cold",
+    "colon",
+    "colonel",
+    "concede",
+    "conceded",
+    "condo",
+    "condole",
+    "condoled",
+    "condolence",
+    "condone",
+    "condoned",
+    "cone",
+    "conned",
+    "cooed",
+    "cool",
+    "cooled",
+    "cowed",
+    "cowl",
+    "decode",
+    "decoded",
+    "encode",
+    "encoded",
+    "loco",
+    "locoweed",
+    "neocon",
+    "nonce",
+    "once"
+  ],
+  "date": "2027-07-21",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 10,
+      "6": 9,
+      "7": 8,
+      "8": 5,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 36,
+      "D": 2,
+      "E": 2,
+      "L": 2,
+      "N": 2,
+      "O": 1
+    },
+    "grid": {
+      "C": {
+        "4": 10,
+        "5": 9,
+        "6": 6,
+        "7": 6,
+        "8": 4,
+        "10": 1
+      },
+      "D": {
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "8": 1
+      },
+      "N": {
+        "5": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 4,
+      "CL": 7,
+      "CO": 25,
+      "DE": 2,
+      "EN": 2,
+      "LO": 2,
+      "NE": 1,
+      "NO": 1,
+      "ON": 1
+    }
+  }
+}

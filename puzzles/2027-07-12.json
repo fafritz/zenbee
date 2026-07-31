@@ -1,0 +1,117 @@
+{
+  "pangram": "ducting",
+  "center_letter": "g",
+  "num_answers": 37,
+  "num_pangrams": 2,
+  "possible_points": 257,
+  "answer_pangrams": [
+    "ducting",
+    "inducting"
+  ],
+  "answers": [
+    "citing",
+    "cuing",
+    "cunning",
+    "cutting",
+    "dicing",
+    "digging",
+    "digit",
+    "ding",
+    "dinging",
+    "dining",
+    "dinning",
+    "ducting",
+    "duding",
+    "dung",
+    "dunging",
+    "dunning",
+    "gigging",
+    "ginning",
+    "guiding",
+    "gunning",
+    "gutting",
+    "icing",
+    "igniting",
+    "inciting",
+    "indicting",
+    "inducing",
+    "inducting",
+    "inning",
+    "intuiting",
+    "nudging",
+    "nutting",
+    "tiding",
+    "tinning",
+    "tinting",
+    "tugging",
+    "tuning",
+    "uniting"
+  ],
+  "date": "2027-07-12",
+  "hints": {
+    "by_length": {
+      "4": 2,
+      "5": 3,
+      "6": 7,
+      "7": 19,
+      "8": 3,
+      "9": 3
+    },
+    "by_first_letter": {
+      "C": 4,
+      "D": 12,
+      "G": 5,
+      "I": 8,
+      "N": 2,
+      "T": 5,
+      "U": 1
+    },
+    "grid": {
+      "C": {
+        "5": 1,
+        "6": 1,
+        "7": 2
+      },
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 6
+      },
+      "G": {
+        "7": 5
+      },
+      "I": {
+        "5": 1,
+        "6": 1,
+        "8": 3,
+        "9": 3
+      },
+      "N": {
+        "7": 2
+      },
+      "T": {
+        "6": 2,
+        "7": 3
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CI": 1,
+      "CU": 3,
+      "DI": 7,
+      "DU": 5,
+      "GI": 2,
+      "GU": 3,
+      "IC": 1,
+      "IG": 1,
+      "IN": 6,
+      "NU": 2,
+      "TI": 3,
+      "TU": 2,
+      "UN": 1
+    }
+  }
+}

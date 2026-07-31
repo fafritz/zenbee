@@ -1,0 +1,141 @@
+{
+  "pangram": "pelagic",
+  "center_letter": "l",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 202,
+  "answer_pangrams": [
+    "pelagic"
+  ],
+  "answers": [
+    "agile",
+    "alga",
+    "algae",
+    "allege",
+    "alpaca",
+    "appall",
+    "appeal",
+    "apple",
+    "call",
+    "calla",
+    "cell",
+    "cilia",
+    "clap",
+    "clip",
+    "eagle",
+    "elegiac",
+    "gaggle",
+    "gala",
+    "gale",
+    "gall",
+    "giggle",
+    "gill",
+    "glacial",
+    "glee",
+    "icicle",
+    "illegal",
+    "lace",
+    "lapel",
+    "leap",
+    "legal",
+    "lice",
+    "liege",
+    "lilac",
+    "pail",
+    "palace",
+    "pale",
+    "pall",
+    "papal",
+    "papilla",
+    "papillae",
+    "peal",
+    "peel",
+    "pelagic",
+    "piccalilli",
+    "pile",
+    "pill",
+    "pillage",
+    "place",
+    "plaice",
+    "plea"
+  ],
+  "date": "2035-09-18",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 12,
+      "6": 9,
+      "7": 6,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "C": 6,
+      "E": 2,
+      "G": 8,
+      "I": 2,
+      "L": 7,
+      "P": 17
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 4
+      },
+      "C": {
+        "4": 4,
+        "5": 2
+      },
+      "E": {
+        "5": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 5,
+        "6": 2,
+        "7": 1
+      },
+      "I": {
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 4
+      },
+      "P": {
+        "4": 8,
+        "5": 2,
+        "6": 2,
+        "7": 3,
+        "8": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AL": 4,
+      "AP": 3,
+      "CA": 2,
+      "CE": 1,
+      "CI": 1,
+      "CL": 2,
+      "EA": 1,
+      "EL": 1,
+      "GA": 4,
+      "GI": 2,
+      "GL": 2,
+      "IC": 1,
+      "IL": 1,
+      "LA": 2,
+      "LE": 2,
+      "LI": 3,
+      "PA": 7,
+      "PE": 3,
+      "PI": 4,
+      "PL": 3
+    }
+  }
+}

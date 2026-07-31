@@ -1,0 +1,126 @@
+{
+  "pangram": "cabinet",
+  "center_letter": "i",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 204,
+  "answer_pangrams": [
+    "cabinet"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acetic",
+    "ancient",
+    "anti",
+    "antic",
+    "attain",
+    "attic",
+    "bait",
+    "bite",
+    "bitten",
+    "cabin",
+    "cabinet",
+    "cacti",
+    "canine",
+    "ciabatta",
+    "cite",
+    "entice",
+    "inane",
+    "incite",
+    "initiate",
+    "innate",
+    "intact",
+    "intent",
+    "niacin",
+    "nice",
+    "niece",
+    "nine",
+    "nineteen",
+    "tacit",
+    "tactic",
+    "tactician",
+    "taint",
+    "tannin",
+    "tibia",
+    "tibiae",
+    "tine",
+    "tint",
+    "titan",
+    "titanic"
+  ],
+  "date": "2033-08-30",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 10,
+      "6": 14,
+      "7": 3,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "B": 3,
+      "C": 6,
+      "E": 1,
+      "I": 6,
+      "N": 5,
+      "T": 11
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      },
+      "B": {
+        "4": 2,
+        "6": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "6": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 4,
+        "8": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 4,
+        "6": 3,
+        "7": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AN": 3,
+      "AT": 2,
+      "BA": 1,
+      "BI": 2,
+      "CA": 4,
+      "CI": 2,
+      "EN": 1,
+      "IN": 6,
+      "NI": 5,
+      "TA": 5,
+      "TI": 6
+    }
+  }
+}

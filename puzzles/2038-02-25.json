@@ -1,0 +1,102 @@
+{
+  "pangram": "cranium",
+  "center_letter": "n",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 121,
+  "answer_pangrams": [
+    "cranium"
+  ],
+  "answers": [
+    "airman",
+    "cairn",
+    "cancan",
+    "canna",
+    "cranium",
+    "cumin",
+    "incur",
+    "main",
+    "mania",
+    "maniac",
+    "manic",
+    "manna",
+    "marina",
+    "mini",
+    "minim",
+    "minima",
+    "minimum",
+    "naan",
+    "nana",
+    "narc",
+    "niacin",
+    "rain",
+    "ruin",
+    "runic",
+    "unman",
+    "uranium"
+  ],
+  "date": "2038-02-25",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 10,
+      "6": 6,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 5,
+      "I": 1,
+      "M": 10,
+      "N": 4,
+      "R": 3,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "6": 1
+      },
+      "C": {
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "M": {
+        "4": 2,
+        "5": 4,
+        "6": 3,
+        "7": 1
+      },
+      "N": {
+        "4": 3,
+        "6": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1
+      },
+      "U": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "CA": 3,
+      "CR": 1,
+      "CU": 1,
+      "IN": 1,
+      "MA": 6,
+      "MI": 4,
+      "NA": 3,
+      "NI": 1,
+      "RA": 1,
+      "RU": 2,
+      "UN": 1,
+      "UR": 1
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "pangram": "gumdrop",
+  "center_letter": "u",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 55,
+  "answer_pangrams": [
+    "gumdrop"
+  ],
+  "answers": [
+    "dour",
+    "drug",
+    "drum",
+    "dump",
+    "gourd",
+    "group",
+    "gumdrop",
+    "guru",
+    "murmur",
+    "muumuu",
+    "pour",
+    "proud",
+    "pump",
+    "purr",
+    "rumor",
+    "rump"
+  ],
+  "date": "2034-05-09",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 4,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "D": 4,
+      "G": 4,
+      "M": 2,
+      "P": 4,
+      "R": 2
+    },
+    "grid": {
+      "D": {
+        "4": 4
+      },
+      "G": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      },
+      "M": {
+        "6": 2
+      },
+      "P": {
+        "4": 3,
+        "5": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 1,
+      "DR": 2,
+      "DU": 1,
+      "GO": 1,
+      "GR": 1,
+      "GU": 2,
+      "MU": 2,
+      "PO": 1,
+      "PR": 1,
+      "PU": 2,
+      "RU": 2
+    }
+  }
+}

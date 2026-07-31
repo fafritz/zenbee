@@ -1,0 +1,132 @@
+{
+  "pangram": "minuted",
+  "center_letter": "u",
+  "num_answers": 44,
+  "num_pangrams": 2,
+  "possible_points": 242,
+  "answer_pangrams": [
+    "minuted",
+    "mutinied"
+  ],
+  "answers": [
+    "denude",
+    "denuded",
+    "dude",
+    "duded",
+    "duet",
+    "dune",
+    "dunned",
+    "endue",
+    "endued",
+    "ennui",
+    "etude",
+    "immune",
+    "intuit",
+    "intuited",
+    "medium",
+    "menu",
+    "minimum",
+    "minuend",
+    "minuet",
+    "minute",
+    "minuted",
+    "minutemen",
+    "muddied",
+    "mute",
+    "muted",
+    "mutinied",
+    "mutt",
+    "muumuu",
+    "nutted",
+    "tedium",
+    "tumid",
+    "tune",
+    "tuned",
+    "tutu",
+    "undid",
+    "undue",
+    "unedited",
+    "unintended",
+    "unit",
+    "unite",
+    "united",
+    "unneeded",
+    "untie",
+    "untied"
+  ],
+  "date": "2030-02-04",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 11,
+      "6": 13,
+      "7": 5,
+      "8": 4,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "D": 7,
+      "E": 4,
+      "I": 3,
+      "M": 14,
+      "N": 1,
+      "T": 5,
+      "U": 10
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "5": 3,
+        "6": 1
+      },
+      "I": {
+        "6": 2,
+        "8": 1
+      },
+      "M": {
+        "4": 3,
+        "5": 1,
+        "6": 4,
+        "7": 4,
+        "8": 1,
+        "9": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 2,
+        "6": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 4,
+        "6": 2,
+        "8": 2,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 2,
+      "DU": 5,
+      "EN": 3,
+      "ET": 1,
+      "IM": 1,
+      "IN": 2,
+      "ME": 2,
+      "MI": 6,
+      "MU": 6,
+      "NU": 1,
+      "TE": 1,
+      "TU": 4,
+      "UN": 10
+    }
+  }
+}

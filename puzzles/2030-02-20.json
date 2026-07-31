@@ -1,0 +1,123 @@
+{
+  "pangram": "violent",
+  "center_letter": "v",
+  "num_answers": 40,
+  "num_pangrams": 2,
+  "possible_points": 195,
+  "answer_pangrams": [
+    "nonviolent",
+    "violent"
+  ],
+  "answers": [
+    "eleven",
+    "enliven",
+    "even",
+    "event",
+    "evil",
+    "evolve",
+    "invent",
+    "invention",
+    "inventive",
+    "invite",
+    "involve",
+    "levee",
+    "level",
+    "live",
+    "liven",
+    "love",
+    "nonevent",
+    "nonviolent",
+    "novel",
+    "novelette",
+    "olive",
+    "oven",
+    "veil",
+    "vein",
+    "velvet",
+    "velveteen",
+    "vent",
+    "veto",
+    "vile",
+    "vine",
+    "viol",
+    "violent",
+    "violet",
+    "violin",
+    "voile",
+    "vole",
+    "volition",
+    "volt",
+    "vote",
+    "votive"
+  ],
+  "date": "2030-02-20",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 7,
+      "6": 8,
+      "7": 3,
+      "8": 2,
+      "9": 4,
+      "10": 1
+    },
+    "by_first_letter": {
+      "E": 6,
+      "I": 5,
+      "L": 5,
+      "N": 4,
+      "O": 2,
+      "V": 18
+    },
+    "grid": {
+      "E": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "I": {
+        "6": 2,
+        "7": 1,
+        "9": 2
+      },
+      "L": {
+        "4": 2,
+        "5": 3
+      },
+      "N": {
+        "5": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1
+      },
+      "V": {
+        "4": 10,
+        "5": 1,
+        "6": 4,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "EL": 1,
+      "EN": 1,
+      "EV": 4,
+      "IN": 5,
+      "LE": 2,
+      "LI": 2,
+      "LO": 1,
+      "NO": 4,
+      "OL": 1,
+      "OV": 1,
+      "VE": 6,
+      "VI": 6,
+      "VO": 6
+    }
+  }
+}

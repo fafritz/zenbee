@@ -1,0 +1,122 @@
+{
+  "pangram": "harming",
+  "center_letter": "r",
+  "num_answers": 44,
+  "num_pangrams": 1,
+  "possible_points": 245,
+  "answer_pangrams": [
+    "harming"
+  ],
+  "answers": [
+    "agar",
+    "agrarian",
+    "airing",
+    "airman",
+    "anagram",
+    "aria",
+    "arming",
+    "arraign",
+    "arraigning",
+    "arranging",
+    "garaging",
+    "grain",
+    "gram",
+    "grammar",
+    "grammarian",
+    "grim",
+    "griming",
+    "grin",
+    "grinning",
+    "hair",
+    "hangar",
+    "haring",
+    "harm",
+    "harming",
+    "hiring",
+    "maharani",
+    "margin",
+    "maria",
+    "marina",
+    "marring",
+    "miring",
+    "raga",
+    "ragging",
+    "raging",
+    "rain",
+    "raining",
+    "ramming",
+    "rang",
+    "ranging",
+    "raring",
+    "rigging",
+    "riming",
+    "ring",
+    "ringing"
+  ],
+  "date": "2038-05-21",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 2,
+      "6": 12,
+      "7": 12,
+      "8": 4,
+      "9": 1,
+      "10": 2
+    },
+    "by_first_letter": {
+      "A": 10,
+      "G": 9,
+      "H": 6,
+      "M": 6,
+      "R": 13
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 1,
+        "7": 2,
+        "8": 2,
+        "10": 1
+      },
+      "H": {
+        "4": 2,
+        "6": 3,
+        "7": 1
+      },
+      "M": {
+        "5": 1,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "R": {
+        "4": 4,
+        "6": 3,
+        "7": 6
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 2,
+      "AN": 1,
+      "AR": 5,
+      "GA": 1,
+      "GR": 8,
+      "HA": 5,
+      "HI": 1,
+      "MA": 5,
+      "MI": 1,
+      "RA": 9,
+      "RI": 4
+    }
+  }
+}

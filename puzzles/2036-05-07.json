@@ -1,0 +1,122 @@
+{
+  "pangram": "chained",
+  "center_letter": "h",
+  "num_answers": 41,
+  "num_pangrams": 2,
+  "possible_points": 200,
+  "answer_pangrams": [
+    "chained",
+    "hacienda"
+  ],
+  "answers": [
+    "ache",
+    "ached",
+    "ahead",
+    "cache",
+    "cached",
+    "chad",
+    "chain",
+    "chained",
+    "chance",
+    "chanced",
+    "chic",
+    "chide",
+    "chided",
+    "chin",
+    "china",
+    "chinned",
+    "cinch",
+    "cinched",
+    "dacha",
+    "each",
+    "enhance",
+    "enhanced",
+    "hacienda",
+    "hand",
+    "handed",
+    "head",
+    "headache",
+    "headed",
+    "heed",
+    "heeded",
+    "hence",
+    "henna",
+    "hennaed",
+    "hidden",
+    "hide",
+    "hided",
+    "hied",
+    "hind",
+    "inch",
+    "inched",
+    "niche"
+  ],
+  "date": "2036-05-07",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 12,
+      "6": 8,
+      "7": 6,
+      "8": 3
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 15,
+      "D": 1,
+      "E": 3,
+      "H": 16,
+      "I": 2,
+      "N": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2
+      },
+      "C": {
+        "4": 3,
+        "5": 5,
+        "6": 3,
+        "7": 4
+      },
+      "D": {
+        "5": 1
+      },
+      "E": {
+        "4": 1,
+        "7": 1,
+        "8": 1
+      },
+      "H": {
+        "4": 6,
+        "5": 3,
+        "6": 4,
+        "7": 1,
+        "8": 2
+      },
+      "I": {
+        "4": 1,
+        "6": 1
+      },
+      "N": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AH": 1,
+      "CA": 2,
+      "CH": 11,
+      "CI": 2,
+      "DA": 1,
+      "EA": 1,
+      "EN": 2,
+      "HA": 3,
+      "HE": 8,
+      "HI": 5,
+      "IN": 2,
+      "NI": 1
+    }
+  }
+}

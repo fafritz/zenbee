@@ -1,0 +1,138 @@
+{
+  "pangram": "draping",
+  "center_letter": "d",
+  "num_answers": 50,
+  "num_pangrams": 2,
+  "possible_points": 268,
+  "answer_pangrams": [
+    "draping",
+    "parading"
+  ],
+  "answers": [
+    "adding",
+    "aiding",
+    "arid",
+    "daring",
+    "darn",
+    "darning",
+    "digging",
+    "dinar",
+    "ding",
+    "dinging",
+    "dining",
+    "dinning",
+    "dipping",
+    "drag",
+    "dragging",
+    "drain",
+    "draining",
+    "draping",
+    "drip",
+    "dripping",
+    "gadding",
+    "gird",
+    "girding",
+    "grad",
+    "grading",
+    "grand",
+    "grandpa",
+    "grid",
+    "grind",
+    "grinding",
+    "ipad",
+    "nadir",
+    "naiad",
+    "padding",
+    "paid",
+    "panda",
+    "parading",
+    "pidgin",
+    "priding",
+    "radar",
+    "radian",
+    "radii",
+    "raid",
+    "raiding",
+    "rapid",
+    "ridding",
+    "ridging",
+    "riding",
+    "rigid",
+    "rind"
+  ],
+  "date": "2030-12-21",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 11,
+      "6": 7,
+      "7": 15,
+      "8": 5
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 17,
+      "G": 10,
+      "I": 1,
+      "N": 2,
+      "P": 6,
+      "R": 11
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 2
+      },
+      "D": {
+        "4": 4,
+        "5": 2,
+        "6": 2,
+        "7": 6,
+        "8": 3
+      },
+      "G": {
+        "4": 3,
+        "5": 2,
+        "7": 4,
+        "8": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "N": {
+        "5": 2
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 4,
+        "6": 2,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AI": 1,
+      "AR": 1,
+      "DA": 3,
+      "DI": 7,
+      "DR": 7,
+      "GA": 1,
+      "GI": 2,
+      "GR": 7,
+      "IP": 1,
+      "NA": 2,
+      "PA": 4,
+      "PI": 1,
+      "PR": 1,
+      "RA": 6,
+      "RI": 5
+    }
+  }
+}

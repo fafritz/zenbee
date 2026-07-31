@@ -1,0 +1,76 @@
+{
+  "pangram": "bawdily",
+  "center_letter": "w",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 71,
+  "answer_pangrams": [
+    "bawdily"
+  ],
+  "answers": [
+    "away",
+    "bawdily",
+    "bawdy",
+    "bawl",
+    "bylaw",
+    "byway",
+    "layaway",
+    "wadi",
+    "wail",
+    "wall",
+    "wallaby",
+    "waylaid",
+    "waylay",
+    "wild",
+    "wildly",
+    "will",
+    "wily",
+    "yawl"
+  ],
+  "date": "2026-07-15",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 3,
+      "6": 2,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 5,
+      "L": 1,
+      "W": 10,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "B": {
+        "4": 1,
+        "5": 3,
+        "7": 1
+      },
+      "L": {
+        "7": 1
+      },
+      "W": {
+        "4": 6,
+        "6": 2,
+        "7": 2
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AW": 1,
+      "BA": 3,
+      "BY": 2,
+      "LA": 1,
+      "WA": 6,
+      "WI": 4,
+      "YA": 1
+    }
+  }
+}

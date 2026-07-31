@@ -1,0 +1,106 @@
+{
+  "pangram": "frailty",
+  "center_letter": "y",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 144,
+  "answer_pangrams": [
+    "frailty"
+  ],
+  "answers": [
+    "airily",
+    "airy",
+    "allay",
+    "ally",
+    "array",
+    "arty",
+    "fairly",
+    "fairy",
+    "fatality",
+    "fatally",
+    "fatty",
+    "fifty",
+    "filly",
+    "fitly",
+    "flatly",
+    "flay",
+    "frailty",
+    "fray",
+    "frilly",
+    "iffy",
+    "laity",
+    "lily",
+    "rally",
+    "rarity",
+    "ratify",
+    "ratty",
+    "taffy",
+    "tally",
+    "tartly",
+    "tatty",
+    "tray"
+  ],
+  "date": "2031-10-30",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 13,
+      "6": 7,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "F": 13,
+      "I": 1,
+      "L": 2,
+      "R": 4,
+      "T": 5
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2,
+        "6": 1
+      },
+      "F": {
+        "4": 2,
+        "5": 5,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1
+      },
+      "R": {
+        "5": 2,
+        "6": 2
+      },
+      "T": {
+        "4": 1,
+        "5": 3,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 2,
+      "AL": 2,
+      "AR": 2,
+      "FA": 5,
+      "FI": 3,
+      "FL": 2,
+      "FR": 3,
+      "IF": 1,
+      "LA": 1,
+      "LI": 1,
+      "RA": 4,
+      "TA": 4,
+      "TR": 1
+    }
+  }
+}

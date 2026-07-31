@@ -1,0 +1,155 @@
+{
+  "pangram": "ethical",
+  "center_letter": "i",
+  "num_answers": 55,
+  "num_pangrams": 2,
+  "possible_points": 274,
+  "answer_pangrams": [
+    "athletic",
+    "ethical"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acetic",
+    "athletic",
+    "attic",
+    "cacti",
+    "calcite",
+    "cattail",
+    "chalice",
+    "chic",
+    "chicle",
+    "chili",
+    "chill",
+    "chit",
+    "chitchat",
+    "cilia",
+    "cite",
+    "cliche",
+    "eclectic",
+    "elicit",
+    "elite",
+    "ethic",
+    "ethical",
+    "hail",
+    "hectic",
+    "helical",
+    "hill",
+    "hilt",
+    "hitch",
+    "icicle",
+    "illicit",
+    "italic",
+    "itch",
+    "lactic",
+    "lattice",
+    "lice",
+    "licit",
+    "lilac",
+    "lilt",
+    "litchi",
+    "lite",
+    "lithe",
+    "little",
+    "tacit",
+    "tactic",
+    "tactical",
+    "tactile",
+    "tail",
+    "tile",
+    "till",
+    "tilt",
+    "tithe",
+    "titillate",
+    "title",
+    "tittle"
+  ],
+  "date": "2038-07-08",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 14,
+      "6": 13,
+      "7": 8,
+      "8": 4,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 13,
+      "E": 5,
+      "H": 6,
+      "I": 4,
+      "L": 10,
+      "T": 12
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "8": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 4,
+        "6": 2,
+        "7": 3,
+        "8": 1
+      },
+      "E": {
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 3,
+        "6": 3,
+        "7": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 3,
+        "6": 2,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AT": 2,
+      "CA": 3,
+      "CH": 7,
+      "CI": 2,
+      "CL": 1,
+      "EC": 1,
+      "EL": 2,
+      "ET": 2,
+      "HA": 1,
+      "HE": 2,
+      "HI": 3,
+      "IC": 1,
+      "IL": 1,
+      "IT": 2,
+      "LA": 2,
+      "LI": 8,
+      "TA": 5,
+      "TI": 7
+    }
+  }
+}

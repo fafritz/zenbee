@@ -1,0 +1,113 @@
+{
+  "pangram": "heaving",
+  "center_letter": "v",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 141,
+  "answer_pangrams": [
+    "heaving"
+  ],
+  "answers": [
+    "agave",
+    "avenge",
+    "avenging",
+    "avian",
+    "even",
+    "evening",
+    "gave",
+    "give",
+    "given",
+    "giving",
+    "have",
+    "haven",
+    "having",
+    "heave",
+    "heaven",
+    "heaving",
+    "hive",
+    "hiving",
+    "inveigh",
+    "inveighing",
+    "naive",
+    "nave",
+    "vain",
+    "vane",
+    "vanning",
+    "vegan",
+    "veggie",
+    "vein",
+    "veining",
+    "vine"
+  ],
+  "date": "2030-01-24",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 7,
+      "6": 6,
+      "7": 5,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "E": 2,
+      "G": 4,
+      "H": 8,
+      "I": 2,
+      "N": 2,
+      "V": 8
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "E": {
+        "4": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      },
+      "I": {
+        "7": 1,
+        "10": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1
+      },
+      "V": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AV": 3,
+      "EV": 2,
+      "GA": 1,
+      "GI": 3,
+      "HA": 3,
+      "HE": 3,
+      "HI": 2,
+      "IN": 2,
+      "NA": 2,
+      "VA": 3,
+      "VE": 4,
+      "VI": 1
+    }
+  }
+}

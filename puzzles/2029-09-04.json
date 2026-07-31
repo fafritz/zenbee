@@ -1,0 +1,114 @@
+{
+  "pangram": "pigment",
+  "center_letter": "p",
+  "num_answers": 41,
+  "num_pangrams": 4,
+  "possible_points": 251,
+  "answer_pangrams": [
+    "impingement",
+    "pigment",
+    "temping",
+    "tempting"
+  ],
+  "answers": [
+    "epee",
+    "impenitent",
+    "impinge",
+    "impingement",
+    "impinging",
+    "inept",
+    "nipping",
+    "peeing",
+    "peen",
+    "peep",
+    "peeping",
+    "penitent",
+    "penning",
+    "pent",
+    "pepping",
+    "petite",
+    "petting",
+    "pieing",
+    "pigging",
+    "pigment",
+    "pigpen",
+    "pimp",
+    "pimping",
+    "pine",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "pint",
+    "pipe",
+    "piping",
+    "pipit",
+    "pippin",
+    "pipping",
+    "pitting",
+    "temp",
+    "temping",
+    "tempt",
+    "tempting",
+    "tepee",
+    "tipping"
+  ],
+  "date": "2029-09-04",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 4,
+      "6": 7,
+      "7": 15,
+      "8": 2,
+      "9": 1,
+      "10": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "E": 1,
+      "I": 5,
+      "N": 1,
+      "P": 28,
+      "T": 6
+    },
+    "grid": {
+      "E": {
+        "4": 1
+      },
+      "I": {
+        "5": 1,
+        "7": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1
+      },
+      "N": {
+        "7": 1
+      },
+      "P": {
+        "4": 8,
+        "5": 1,
+        "6": 7,
+        "7": 11,
+        "8": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 2,
+        "7": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "EP": 1,
+      "IM": 4,
+      "IN": 1,
+      "NI": 1,
+      "PE": 10,
+      "PI": 18,
+      "TE": 5,
+      "TI": 1
+    }
+  }
+}

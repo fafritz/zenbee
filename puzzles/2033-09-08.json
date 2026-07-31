@@ -1,0 +1,74 @@
+{
+  "pangram": "wrinkly",
+  "center_letter": "i",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 33,
+  "answer_pangrams": [
+    "wrinkly"
+  ],
+  "answers": [
+    "inky",
+    "kill",
+    "kiln",
+    "kink",
+    "kiwi",
+    "lily",
+    "link",
+    "ninny",
+    "rill",
+    "rink",
+    "wiki",
+    "will",
+    "wily",
+    "wink",
+    "wiry",
+    "wrinkly"
+  ],
+  "date": "2033-09-08",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "I": 1,
+      "K": 4,
+      "L": 2,
+      "N": 1,
+      "R": 2,
+      "W": 6
+    },
+    "grid": {
+      "I": {
+        "4": 1
+      },
+      "K": {
+        "4": 4
+      },
+      "L": {
+        "4": 2
+      },
+      "N": {
+        "5": 1
+      },
+      "R": {
+        "4": 2
+      },
+      "W": {
+        "4": 5,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "IN": 1,
+      "KI": 4,
+      "LI": 2,
+      "NI": 1,
+      "RI": 2,
+      "WI": 5,
+      "WR": 1
+    }
+  }
+}

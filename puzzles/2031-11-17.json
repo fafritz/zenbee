@@ -1,0 +1,143 @@
+{
+  "pangram": "hurting",
+  "center_letter": "t",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 275,
+  "answer_pangrams": [
+    "hurting"
+  ],
+  "answers": [
+    "girt",
+    "girth",
+    "girting",
+    "grit",
+    "gritting",
+    "grunt",
+    "grunting",
+    "gutting",
+    "hint",
+    "hinting",
+    "hitting",
+    "hunt",
+    "hunting",
+    "hurt",
+    "hurting",
+    "igniting",
+    "intriguing",
+    "intuit",
+    "intuiting",
+    "night",
+    "ninth",
+    "nurturing",
+    "nutting",
+    "right",
+    "righting",
+    "runt",
+    "rutting",
+    "thigh",
+    "thin",
+    "thing",
+    "thinning",
+    "thug",
+    "tight",
+    "tinning",
+    "tint",
+    "tinting",
+    "tiring",
+    "tithing",
+    "truing",
+    "truth",
+    "tugging",
+    "tuning",
+    "turn",
+    "turning",
+    "tutu",
+    "unhurt",
+    "unit",
+    "uniting",
+    "untiring",
+    "untruth"
+  ],
+  "date": "2031-11-17",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 9,
+      "6": 5,
+      "7": 15,
+      "8": 6,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "G": 8,
+      "H": 7,
+      "I": 4,
+      "N": 4,
+      "R": 4,
+      "T": 18,
+      "U": 5
+    },
+    "grid": {
+      "G": {
+        "4": 2,
+        "5": 2,
+        "7": 2,
+        "8": 2
+      },
+      "H": {
+        "4": 3,
+        "7": 4
+      },
+      "I": {
+        "6": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "N": {
+        "5": 2,
+        "7": 1,
+        "9": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 4,
+        "6": 3,
+        "7": 5,
+        "8": 1
+      },
+      "U": {
+        "4": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 3,
+      "GR": 4,
+      "GU": 1,
+      "HI": 3,
+      "HU": 4,
+      "IG": 1,
+      "IN": 3,
+      "NI": 2,
+      "NU": 2,
+      "RI": 2,
+      "RU": 2,
+      "TH": 5,
+      "TI": 6,
+      "TR": 2,
+      "TU": 5,
+      "UN": 5
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "pangram": "unmoral",
+  "center_letter": "m",
+  "num_answers": 46,
+  "num_pangrams": 2,
+  "possible_points": 186,
+  "answer_pangrams": [
+    "monaural",
+    "unmoral"
+  ],
+  "answers": [
+    "alarm",
+    "alum",
+    "alumna",
+    "ammo",
+    "amoral",
+    "amour",
+    "armor",
+    "aroma",
+    "lama",
+    "llama",
+    "loam",
+    "loom",
+    "mall",
+    "mama",
+    "mamma",
+    "mammal",
+    "manna",
+    "manor",
+    "manual",
+    "maroon",
+    "maul",
+    "moan",
+    "molar",
+    "moll",
+    "momma",
+    "monaural",
+    "mono",
+    "moon",
+    "moor",
+    "moral",
+    "morn",
+    "moron",
+    "mourn",
+    "mull",
+    "mural",
+    "murmur",
+    "muumuu",
+    "norm",
+    "normal",
+    "ormolu",
+    "roam",
+    "roman",
+    "room",
+    "rumor",
+    "unman",
+    "unmoral"
+  ],
+  "date": "2033-11-21",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 17,
+      "6": 9,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "L": 4,
+      "M": 25,
+      "N": 2,
+      "O": 1,
+      "R": 4,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 4,
+        "6": 2
+      },
+      "L": {
+        "4": 3,
+        "5": 1
+      },
+      "M": {
+        "4": 10,
+        "5": 9,
+        "6": 5,
+        "8": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "O": {
+        "6": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 2
+      },
+      "U": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 3,
+      "AM": 3,
+      "AR": 2,
+      "LA": 1,
+      "LL": 1,
+      "LO": 2,
+      "MA": 9,
+      "MO": 12,
+      "MU": 4,
+      "NO": 2,
+      "OR": 1,
+      "RO": 3,
+      "RU": 1,
+      "UN": 2
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "pangram": "fumbled",
+  "center_letter": "f",
+  "num_answers": 39,
+  "num_pangrams": 1,
+  "possible_points": 173,
+  "answer_pangrams": [
+    "fumbled"
+  ],
+  "answers": [
+    "beef",
+    "beefed",
+    "befell",
+    "befuddle",
+    "befuddled",
+    "bluff",
+    "bluffed",
+    "buff",
+    "buffed",
+    "duff",
+    "feeble",
+    "feed",
+    "feel",
+    "fell",
+    "felled",
+    "feud",
+    "feuded",
+    "fled",
+    "flee",
+    "flub",
+    "flubbed",
+    "flue",
+    "fluff",
+    "fluffed",
+    "flume",
+    "fuddle",
+    "fuddled",
+    "fuel",
+    "fueled",
+    "full",
+    "fulled",
+    "fumble",
+    "fumbled",
+    "fume",
+    "fumed",
+    "muff",
+    "muffed",
+    "muffle",
+    "muffled"
+  ],
+  "date": "2035-07-20",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 4,
+      "6": 12,
+      "7": 6,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "B": 9,
+      "D": 1,
+      "F": 25,
+      "M": 4
+    },
+    "grid": {
+      "B": {
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "D": {
+        "4": 1
+      },
+      "F": {
+        "4": 11,
+        "5": 3,
+        "6": 7,
+        "7": 4
+      },
+      "M": {
+        "4": 1,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 5,
+      "BL": 2,
+      "BU": 2,
+      "DU": 1,
+      "FE": 7,
+      "FL": 8,
+      "FU": 10,
+      "MU": 4
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "pangram": "jacking",
+  "center_letter": "a",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 138,
+  "answer_pangrams": [
+    "jacking"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acing",
+    "again",
+    "aging",
+    "akin",
+    "angina",
+    "caging",
+    "caking",
+    "cancan",
+    "caning",
+    "canna",
+    "canning",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "jack",
+    "jacking",
+    "knack",
+    "knickknack",
+    "naan",
+    "nagging",
+    "nana",
+    "niacin",
+    "ninja"
+  ],
+  "date": "2026-08-23",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 6,
+      "6": 7,
+      "7": 6,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "C": 6,
+      "G": 5,
+      "J": 2,
+      "K": 2,
+      "N": 5
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "6": 2
+      },
+      "C": {
+        "5": 1,
+        "6": 4,
+        "7": 1
+      },
+      "G": {
+        "4": 2,
+        "7": 3
+      },
+      "J": {
+        "4": 1,
+        "7": 1
+      },
+      "K": {
+        "5": 1,
+        "10": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AG": 2,
+      "AK": 1,
+      "AN": 1,
+      "CA": 6,
+      "GA": 5,
+      "JA": 2,
+      "KN": 2,
+      "NA": 3,
+      "NI": 2
+    }
+  }
+}

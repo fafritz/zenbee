@@ -1,0 +1,86 @@
+{
+  "pangram": "primacy",
+  "center_letter": "c",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 93,
+  "answer_pangrams": [
+    "primacy"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "camp",
+    "campy",
+    "carp",
+    "carpi",
+    "carry",
+    "circa",
+    "cirri",
+    "cram",
+    "cramp",
+    "cray",
+    "crimp",
+    "maraca",
+    "mica",
+    "mimic",
+    "mimicry",
+    "papacy",
+    "pica",
+    "piracy",
+    "primacy",
+    "racy"
+  ],
+  "date": "2029-05-25",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 8,
+      "6": 4,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 11,
+      "M": 4,
+      "P": 4,
+      "R": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1
+      },
+      "C": {
+        "4": 4,
+        "5": 7
+      },
+      "M": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 1,
+        "6": 2,
+        "7": 1
+      },
+      "R": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "CA": 5,
+      "CI": 2,
+      "CR": 4,
+      "MA": 1,
+      "MI": 3,
+      "PA": 1,
+      "PI": 2,
+      "PR": 1,
+      "RA": 1
+    }
+  }
+}

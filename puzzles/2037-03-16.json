@@ -1,0 +1,96 @@
+{
+  "pangram": "opacity",
+  "center_letter": "p",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 118,
+  "answer_pangrams": [
+    "opacity"
+  ],
+  "answers": [
+    "atop",
+    "capacity",
+    "capo",
+    "coop",
+    "copay",
+    "copy",
+    "copycat",
+    "opacity",
+    "optic",
+    "pact",
+    "papa",
+    "papacy",
+    "papaya",
+    "patio",
+    "patty",
+    "pica",
+    "pipit",
+    "pita",
+    "pity",
+    "poop",
+    "poppy",
+    "potato",
+    "potty",
+    "tapioca",
+    "tiptop",
+    "topcoat",
+    "topic",
+    "typo"
+  ],
+  "date": "2037-03-16",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 8,
+      "6": 4,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 6,
+      "O": 2,
+      "P": 14,
+      "T": 5
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "O": {
+        "5": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 6,
+        "5": 5,
+        "6": 3
+      },
+      "T": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AT": 1,
+      "CA": 2,
+      "CO": 4,
+      "OP": 2,
+      "PA": 6,
+      "PI": 4,
+      "PO": 4,
+      "TA": 1,
+      "TI": 1,
+      "TO": 2,
+      "TY": 1
+    }
+  }
+}

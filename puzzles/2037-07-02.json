@@ -1,0 +1,65 @@
+{
+  "pangram": "bauxite",
+  "center_letter": "a",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 42,
+  "answer_pangrams": [
+    "bauxite"
+  ],
+  "answers": [
+    "abate",
+    "abbe",
+    "abet",
+    "abut",
+    "baba",
+    "babe",
+    "bait",
+    "bauxite",
+    "beat",
+    "beau",
+    "beta",
+    "taut",
+    "taxi",
+    "tibia",
+    "tibiae",
+    "tuba"
+  ],
+  "date": "2037-07-02",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 2,
+      "6": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "B": 7,
+      "T": 5
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 1
+      },
+      "B": {
+        "4": 6,
+        "7": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 4,
+      "BA": 4,
+      "BE": 3,
+      "TA": 2,
+      "TI": 2,
+      "TU": 1
+    }
+  }
+}

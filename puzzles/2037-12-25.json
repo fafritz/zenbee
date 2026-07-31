@@ -1,0 +1,96 @@
+{
+  "pangram": "howling",
+  "center_letter": "w",
+  "num_answers": 29,
+  "num_pangrams": 2,
+  "possible_points": 169,
+  "answer_pangrams": [
+    "hollowing",
+    "howling"
+  ],
+  "answers": [
+    "glow",
+    "glowing",
+    "gown",
+    "gowning",
+    "hollow",
+    "hollowing",
+    "howl",
+    "howling",
+    "lowing",
+    "owing",
+    "owning",
+    "whiling",
+    "whining",
+    "wigging",
+    "wiggling",
+    "wiling",
+    "will",
+    "willing",
+    "willow",
+    "wing",
+    "winging",
+    "wining",
+    "winning",
+    "winnow",
+    "winnowing",
+    "wino",
+    "wooing",
+    "wool",
+    "wowing"
+  ],
+  "date": "2037-12-25",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 1,
+      "6": 9,
+      "7": 9,
+      "8": 1,
+      "9": 2
+    },
+    "by_first_letter": {
+      "G": 4,
+      "H": 4,
+      "L": 1,
+      "O": 2,
+      "W": 18
+    },
+    "grid": {
+      "G": {
+        "4": 2,
+        "7": 2
+      },
+      "H": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "L": {
+        "6": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1
+      },
+      "W": {
+        "4": 4,
+        "6": 6,
+        "7": 6,
+        "8": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "GL": 2,
+      "GO": 2,
+      "HO": 4,
+      "LO": 1,
+      "OW": 2,
+      "WH": 2,
+      "WI": 13,
+      "WO": 3
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "pangram": "painful",
+  "center_letter": "n",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 73,
+  "answer_pangrams": [
+    "painful"
+  ],
+  "answers": [
+    "anal",
+    "annual",
+    "annul",
+    "faun",
+    "fauna",
+    "final",
+    "flan",
+    "lain",
+    "naan",
+    "nail",
+    "nana",
+    "null",
+    "pain",
+    "painful",
+    "pinup",
+    "pippin",
+    "plain",
+    "plan",
+    "puffin",
+    "ulna",
+    "unpin"
+  ],
+  "date": "2033-04-20",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 6,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "F": 4,
+      "L": 1,
+      "N": 4,
+      "P": 7,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "F": {
+        "4": 2,
+        "5": 2
+      },
+      "L": {
+        "4": 1
+      },
+      "N": {
+        "4": 4
+      },
+      "P": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 3,
+      "FA": 2,
+      "FI": 1,
+      "FL": 1,
+      "LA": 1,
+      "NA": 3,
+      "NU": 1,
+      "PA": 2,
+      "PI": 2,
+      "PL": 2,
+      "PU": 1,
+      "UL": 1,
+      "UN": 1
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "pangram": "expound",
+  "center_letter": "p",
+  "num_answers": 42,
+  "num_pangrams": 2,
+  "possible_points": 195,
+  "answer_pangrams": [
+    "expound",
+    "expounded"
+  ],
+  "answers": [
+    "deep",
+    "deepen",
+    "deepened",
+    "depend",
+    "depended",
+    "dope",
+    "doped",
+    "dupe",
+    "duped",
+    "epee",
+    "expend",
+    "expended",
+    "expo",
+    "expound",
+    "expounded",
+    "nope",
+    "open",
+    "opened",
+    "peed",
+    "peen",
+    "peep",
+    "peeped",
+    "penned",
+    "pennon",
+    "peon",
+    "pepped",
+    "podded",
+    "pond",
+    "pone",
+    "poop",
+    "pooped",
+    "pope",
+    "popped",
+    "pound",
+    "pounded",
+    "punned",
+    "pupped",
+    "unopened",
+    "upend",
+    "upended",
+    "upon",
+    "upped"
+  ],
+  "date": "2038-03-26",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 5,
+      "6": 13,
+      "7": 3,
+      "8": 4,
+      "9": 1
+    },
+    "by_first_letter": {
+      "D": 9,
+      "E": 6,
+      "N": 1,
+      "O": 2,
+      "P": 19,
+      "U": 5
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "8": 2
+      },
+      "E": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 1
+      },
+      "P": {
+        "4": 8,
+        "5": 1,
+        "6": 9,
+        "7": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 2,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 5,
+      "DO": 2,
+      "DU": 2,
+      "EP": 1,
+      "EX": 5,
+      "NO": 1,
+      "OP": 2,
+      "PE": 8,
+      "PO": 9,
+      "PU": 2,
+      "UN": 1,
+      "UP": 4
+    }
+  }
+}

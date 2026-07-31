@@ -1,0 +1,89 @@
+{
+  "pangram": "dumping",
+  "center_letter": "m",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 128,
+  "answer_pangrams": [
+    "dumping"
+  ],
+  "answers": [
+    "dimming",
+    "dump",
+    "dumping",
+    "gumming",
+    "impinging",
+    "impugn",
+    "impugning",
+    "miming",
+    "mind",
+    "minding",
+    "mini",
+    "minim",
+    "minimum",
+    "mining",
+    "mugging",
+    "munging",
+    "muumuu",
+    "pimp",
+    "pimping",
+    "pump",
+    "pumping",
+    "umping"
+  ],
+  "date": "2034-10-29",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 1,
+      "6": 5,
+      "7": 9,
+      "9": 2
+    },
+    "by_first_letter": {
+      "D": 3,
+      "G": 1,
+      "I": 3,
+      "M": 10,
+      "P": 4,
+      "U": 1
+    },
+    "grid": {
+      "D": {
+        "4": 1,
+        "7": 2
+      },
+      "G": {
+        "7": 1
+      },
+      "I": {
+        "6": 1,
+        "9": 2
+      },
+      "M": {
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 4
+      },
+      "P": {
+        "4": 2,
+        "7": 2
+      },
+      "U": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "DI": 1,
+      "DU": 2,
+      "GU": 1,
+      "IM": 3,
+      "MI": 7,
+      "MU": 3,
+      "PI": 2,
+      "PU": 2,
+      "UM": 1
+    }
+  }
+}

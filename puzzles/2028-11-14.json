@@ -1,0 +1,104 @@
+{
+  "pangram": "blocked",
+  "center_letter": "c",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 180,
+  "answer_pangrams": [
+    "blocked"
+  ],
+  "answers": [
+    "beck",
+    "bedeck",
+    "bedecked",
+    "bloc",
+    "block",
+    "blocked",
+    "cede",
+    "ceded",
+    "cell",
+    "cello",
+    "clock",
+    "clocked",
+    "clod",
+    "cobble",
+    "cobbled",
+    "cocked",
+    "cockle",
+    "coddle",
+    "coddled",
+    "code",
+    "coded",
+    "coed",
+    "coke",
+    "coked",
+    "cold",
+    "cooed",
+    "cook",
+    "cookbook",
+    "cooked",
+    "cool",
+    "cooled",
+    "deck",
+    "decked",
+    "deckle",
+    "decode",
+    "decoded",
+    "dock",
+    "docked",
+    "lock",
+    "locked",
+    "loco"
+  ],
+  "date": "2028-11-14",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 7,
+      "6": 12,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "B": 6,
+      "C": 25,
+      "D": 7,
+      "L": 3
+    },
+    "grid": {
+      "B": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "C": {
+        "4": 9,
+        "5": 6,
+        "6": 6,
+        "7": 3,
+        "8": 1
+      },
+      "D": {
+        "4": 2,
+        "6": 4,
+        "7": 1
+      },
+      "L": {
+        "4": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 3,
+      "BL": 3,
+      "CE": 4,
+      "CL": 3,
+      "CO": 18,
+      "DE": 5,
+      "DO": 2,
+      "LO": 3
+    }
+  }
+}

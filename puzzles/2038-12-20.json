@@ -1,0 +1,95 @@
+{
+  "pangram": "hacking",
+  "center_letter": "k",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 101,
+  "answer_pangrams": [
+    "hacking"
+  ],
+  "answers": [
+    "akin",
+    "ankh",
+    "caking",
+    "chick",
+    "chink",
+    "chinking",
+    "hack",
+    "hacking",
+    "hank",
+    "hick",
+    "hiking",
+    "inking",
+    "khaki",
+    "khan",
+    "kick",
+    "kicking",
+    "king",
+    "kink",
+    "kinking",
+    "knack",
+    "knickknack",
+    "nick",
+    "nicking"
+  ],
+  "date": "2038-12-20",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 4,
+      "6": 3,
+      "7": 4,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 4,
+      "H": 5,
+      "I": 1,
+      "K": 9,
+      "N": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2
+      },
+      "C": {
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "H": {
+        "4": 3,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "K": {
+        "4": 4,
+        "5": 2,
+        "7": 2,
+        "10": 1
+      },
+      "N": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AK": 1,
+      "AN": 1,
+      "CA": 1,
+      "CH": 3,
+      "HA": 3,
+      "HI": 2,
+      "IN": 1,
+      "KH": 2,
+      "KI": 5,
+      "KN": 2,
+      "NI": 2
+    }
+  }
+}

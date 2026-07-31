@@ -1,0 +1,127 @@
+{
+  "pangram": "towhead",
+  "center_letter": "t",
+  "num_answers": 50,
+  "num_pangrams": 2,
+  "possible_points": 225,
+  "answer_pangrams": [
+    "towhead",
+    "towheaded"
+  ],
+  "answers": [
+    "data",
+    "date",
+    "dated",
+    "death",
+    "dote",
+    "doted",
+    "dotted",
+    "hate",
+    "hated",
+    "hatted",
+    "heat",
+    "heated",
+    "heath",
+    "hoot",
+    "hooted",
+    "hothead",
+    "hotheaded",
+    "oath",
+    "tatted",
+    "tattoo",
+    "tattooed",
+    "teed",
+    "teeth",
+    "teethe",
+    "teethed",
+    "that",
+    "thaw",
+    "thawed",
+    "thee",
+    "theta",
+    "toad",
+    "toed",
+    "toot",
+    "tooted",
+    "tooth",
+    "toothed",
+    "tote",
+    "toted",
+    "totted",
+    "towed",
+    "towhead",
+    "towheaded",
+    "tweed",
+    "tweet",
+    "tweeted",
+    "watt",
+    "what",
+    "wheat",
+    "whet",
+    "whetted"
+  ],
+  "date": "2037-07-17",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 13,
+      "6": 10,
+      "7": 6,
+      "8": 1,
+      "9": 2
+    },
+    "by_first_letter": {
+      "D": 7,
+      "H": 10,
+      "O": 1,
+      "T": 27,
+      "W": 5
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "5": 3,
+        "6": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 1,
+        "9": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "4": 8,
+        "5": 7,
+        "6": 6,
+        "7": 4,
+        "8": 1,
+        "9": 1
+      },
+      "W": {
+        "4": 3,
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "DA": 3,
+      "DE": 1,
+      "DO": 3,
+      "HA": 3,
+      "HE": 3,
+      "HO": 4,
+      "OA": 1,
+      "TA": 3,
+      "TE": 4,
+      "TH": 5,
+      "TO": 12,
+      "TW": 3,
+      "WA": 1,
+      "WH": 4
+    }
+  }
+}

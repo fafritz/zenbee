@@ -1,0 +1,100 @@
+{
+  "pangram": "upfront",
+  "center_letter": "n",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 98,
+  "answer_pangrams": [
+    "upfront"
+  ],
+  "answers": [
+    "font",
+    "fount",
+    "front",
+    "futon",
+    "noon",
+    "noun",
+    "onto",
+    "outrun",
+    "pontoon",
+    "pron",
+    "pronoun",
+    "pronto",
+    "proton",
+    "punt",
+    "runoff",
+    "runt",
+    "toon",
+    "torn",
+    "turn",
+    "turnoff",
+    "turnout",
+    "upfront",
+    "upon",
+    "upturn"
+  ],
+  "date": "2028-09-28",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 3,
+      "6": 5,
+      "7": 5
+    },
+    "by_first_letter": {
+      "F": 4,
+      "N": 2,
+      "O": 2,
+      "P": 6,
+      "R": 2,
+      "T": 5,
+      "U": 3
+    },
+    "grid": {
+      "F": {
+        "4": 1,
+        "5": 3
+      },
+      "N": {
+        "4": 2
+      },
+      "O": {
+        "4": 1,
+        "6": 1
+      },
+      "P": {
+        "4": 2,
+        "6": 2,
+        "7": 2
+      },
+      "R": {
+        "4": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 3,
+        "7": 2
+      },
+      "U": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "FO": 2,
+      "FR": 1,
+      "FU": 1,
+      "NO": 2,
+      "ON": 1,
+      "OU": 1,
+      "PO": 1,
+      "PR": 4,
+      "PU": 1,
+      "RU": 2,
+      "TO": 2,
+      "TU": 3,
+      "UP": 3
+    }
+  }
+}

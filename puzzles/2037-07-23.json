@@ -1,0 +1,92 @@
+{
+  "pangram": "uniform",
+  "center_letter": "n",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 99,
+  "answer_pangrams": [
+    "uniform"
+  ],
+  "answers": [
+    "infirm",
+    "info",
+    "inform",
+    "iron",
+    "mini",
+    "minim",
+    "minimum",
+    "minion",
+    "minor",
+    "mono",
+    "moon",
+    "morn",
+    "moron",
+    "mourn",
+    "muffin",
+    "nonunion",
+    "noon",
+    "norm",
+    "noun",
+    "onion",
+    "ruin",
+    "runoff",
+    "uniform",
+    "union"
+  ],
+  "date": "2037-07-23",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 6,
+      "6": 5,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "I": 4,
+      "M": 11,
+      "N": 4,
+      "O": 1,
+      "R": 2,
+      "U": 2
+    },
+    "grid": {
+      "I": {
+        "4": 2,
+        "6": 2
+      },
+      "M": {
+        "4": 4,
+        "5": 4,
+        "6": 2,
+        "7": 1
+      },
+      "N": {
+        "4": 3,
+        "8": 1
+      },
+      "O": {
+        "5": 1
+      },
+      "R": {
+        "4": 1,
+        "6": 1
+      },
+      "U": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "IN": 3,
+      "IR": 1,
+      "MI": 5,
+      "MO": 5,
+      "MU": 1,
+      "NO": 4,
+      "ON": 1,
+      "RU": 2,
+      "UN": 2
+    }
+  }
+}

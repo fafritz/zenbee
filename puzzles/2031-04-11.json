@@ -1,0 +1,98 @@
+{
+  "pangram": "waltzed",
+  "center_letter": "w",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 169,
+  "answer_pangrams": [
+    "waltzed"
+  ],
+  "answers": [
+    "awed",
+    "dawdle",
+    "dawdled",
+    "dwell",
+    "dwelt",
+    "lewd",
+    "twaddle",
+    "twaddled",
+    "tweed",
+    "tweet",
+    "tweeted",
+    "wadded",
+    "waddle",
+    "waddled",
+    "wade",
+    "waded",
+    "wale",
+    "waled",
+    "wall",
+    "walled",
+    "wallet",
+    "waltz",
+    "waltzed",
+    "watt",
+    "wattle",
+    "wattled",
+    "weal",
+    "wedded",
+    "weed",
+    "weeded",
+    "weld",
+    "welded",
+    "well",
+    "welled",
+    "welt",
+    "welted"
+  ],
+  "date": "2031-04-11",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 7,
+      "6": 11,
+      "7": 6,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "D": 4,
+      "L": 1,
+      "T": 5,
+      "W": 25
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "D": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 1
+      },
+      "T": {
+        "5": 2,
+        "7": 2,
+        "8": 1
+      },
+      "W": {
+        "4": 9,
+        "5": 3,
+        "6": 10,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "AW": 1,
+      "DA": 2,
+      "DW": 2,
+      "LE": 1,
+      "TW": 5,
+      "WA": 15,
+      "WE": 10
+    }
+  }
+}

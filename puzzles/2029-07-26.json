@@ -1,0 +1,140 @@
+{
+  "pangram": "include",
+  "center_letter": "i",
+  "num_answers": 52,
+  "num_pangrams": 2,
+  "possible_points": 264,
+  "answer_pangrams": [
+    "include",
+    "included"
+  ],
+  "answers": [
+    "clinic",
+    "decide",
+    "decided",
+    "decline",
+    "declined",
+    "deice",
+    "deiced",
+    "deli",
+    "denied",
+    "dice",
+    "diced",
+    "diddle",
+    "diddled",
+    "died",
+    "dill",
+    "dine",
+    "dined",
+    "dinned",
+    "eddied",
+    "elide",
+    "elided",
+    "ennui",
+    "iced",
+    "icicle",
+    "idle",
+    "idled",
+    "incidence",
+    "incline",
+    "inclined",
+    "include",
+    "included",
+    "indeed",
+    "induce",
+    "induced",
+    "inline",
+    "lice",
+    "lidded",
+    "lied",
+    "lien",
+    "lieu",
+    "linden",
+    "line",
+    "lined",
+    "linen",
+    "lucid",
+    "nice",
+    "niece",
+    "nine",
+    "nuclei",
+    "nucleic",
+    "undecided",
+    "undid"
+  ],
+  "date": "2029-07-26",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 11,
+      "6": 15,
+      "7": 7,
+      "8": 3,
+      "9": 2
+    },
+    "by_first_letter": {
+      "C": 1,
+      "D": 17,
+      "E": 4,
+      "I": 13,
+      "L": 10,
+      "N": 5,
+      "U": 2
+    },
+    "grid": {
+      "C": {
+        "6": 1
+      },
+      "D": {
+        "4": 5,
+        "5": 3,
+        "6": 5,
+        "7": 3,
+        "8": 1
+      },
+      "E": {
+        "5": 2,
+        "6": 2
+      },
+      "I": {
+        "4": 2,
+        "5": 1,
+        "6": 4,
+        "7": 3,
+        "8": 2,
+        "9": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 3,
+        "6": 2
+      },
+      "N": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "U": {
+        "5": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 1,
+      "DE": 8,
+      "DI": 9,
+      "ED": 1,
+      "EL": 2,
+      "EN": 1,
+      "IC": 2,
+      "ID": 2,
+      "IN": 9,
+      "LI": 9,
+      "LU": 1,
+      "NI": 3,
+      "NU": 2,
+      "UN": 2
+    }
+  }
+}

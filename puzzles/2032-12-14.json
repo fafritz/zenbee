@@ -1,0 +1,154 @@
+{
+  "pangram": "pelican",
+  "center_letter": "i",
+  "num_answers": 55,
+  "num_pangrams": 3,
+  "possible_points": 288,
+  "answer_pangrams": [
+    "appliance",
+    "pelican",
+    "pinnacle"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "alien",
+    "alliance",
+    "alpine",
+    "apiece",
+    "appliance",
+    "calcine",
+    "canine",
+    "cilia",
+    "clinic",
+    "clinical",
+    "clinician",
+    "clip",
+    "epic",
+    "icicle",
+    "inane",
+    "incline",
+    "inline",
+    "ipecac",
+    "lain",
+    "lice",
+    "lien",
+    "lilac",
+    "line",
+    "lineal",
+    "linen",
+    "nail",
+    "niacin",
+    "nice",
+    "niece",
+    "nine",
+    "pail",
+    "pain",
+    "panic",
+    "papilla",
+    "papillae",
+    "pelican",
+    "pencil",
+    "penicillin",
+    "penile",
+    "pica",
+    "piccalilli",
+    "picnic",
+    "piece",
+    "pile",
+    "pill",
+    "pine",
+    "pineapple",
+    "pinnacle",
+    "pipe",
+    "pipeline",
+    "pippin",
+    "plaice",
+    "plain"
+  ],
+  "date": "2032-12-14",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 9,
+      "6": 15,
+      "7": 4,
+      "8": 5,
+      "9": 3,
+      "10": 2
+    },
+    "by_first_letter": {
+      "A": 7,
+      "C": 7,
+      "E": 1,
+      "I": 5,
+      "L": 7,
+      "N": 5,
+      "P": 23
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "8": 1,
+        "9": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 3,
+        "7": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 2,
+        "6": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "P": {
+        "4": 7,
+        "5": 3,
+        "6": 5,
+        "7": 2,
+        "8": 3,
+        "9": 1,
+        "10": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AL": 3,
+      "AP": 2,
+      "CA": 2,
+      "CI": 1,
+      "CL": 4,
+      "EP": 1,
+      "IC": 1,
+      "IN": 3,
+      "IP": 1,
+      "LA": 1,
+      "LI": 6,
+      "NA": 1,
+      "NI": 4,
+      "PA": 5,
+      "PE": 4,
+      "PI": 12,
+      "PL": 2
+    }
+  }
+}

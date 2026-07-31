@@ -1,0 +1,84 @@
+{
+  "pangram": "witched",
+  "center_letter": "w",
+  "num_answers": 25,
+  "num_pangrams": 2,
+  "possible_points": 122,
+  "answer_pangrams": [
+    "twitched",
+    "witched"
+  ],
+  "answers": [
+    "chew",
+    "chewed",
+    "hewed",
+    "tweed",
+    "tweet",
+    "tweeted",
+    "twice",
+    "twit",
+    "twitch",
+    "twitched",
+    "twitted",
+    "wedded",
+    "weed",
+    "weeded",
+    "whet",
+    "whetted",
+    "whew",
+    "which",
+    "whit",
+    "white",
+    "wide",
+    "width",
+    "witch",
+    "witched",
+    "with"
+  ],
+  "date": "2038-12-06",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 8,
+      "6": 4,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 2,
+      "H": 1,
+      "T": 8,
+      "W": 14
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "6": 1
+      },
+      "H": {
+        "5": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "W": {
+        "4": 6,
+        "5": 4,
+        "6": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "CH": 2,
+      "HE": 1,
+      "TW": 8,
+      "WE": 3,
+      "WH": 6,
+      "WI": 5
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "pangram": "antique",
+  "center_letter": "e",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 201,
+  "answer_pangrams": [
+    "antique"
+  ],
+  "answers": [
+    "ante",
+    "antenna",
+    "antennae",
+    "antique",
+    "attenuate",
+    "attune",
+    "eaten",
+    "ennui",
+    "entente",
+    "equate",
+    "equine",
+    "etiquette",
+    "inane",
+    "initiate",
+    "innate",
+    "intent",
+    "neat",
+    "nene",
+    "netiquette",
+    "nine",
+    "nineteen",
+    "queen",
+    "queue",
+    "quiet",
+    "quinine",
+    "quintet",
+    "quite",
+    "teen",
+    "tenant",
+    "tenet",
+    "tent",
+    "tine",
+    "tune",
+    "uneaten",
+    "unique",
+    "unite",
+    "untie"
+  ],
+  "date": "2031-10-07",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 10,
+      "6": 7,
+      "7": 6,
+      "8": 3,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "E": 6,
+      "I": 4,
+      "N": 5,
+      "Q": 6,
+      "T": 6,
+      "U": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1,
+        "9": 1
+      },
+      "E": {
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "9": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 3,
+        "8": 1,
+        "10": 1
+      },
+      "Q": {
+        "5": 4,
+        "7": 2
+      },
+      "T": {
+        "4": 4,
+        "5": 1,
+        "6": 1
+      },
+      "U": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 4,
+      "AT": 2,
+      "EA": 1,
+      "EN": 2,
+      "EQ": 2,
+      "ET": 1,
+      "IN": 4,
+      "NE": 3,
+      "NI": 2,
+      "QU": 6,
+      "TE": 4,
+      "TI": 1,
+      "TU": 1,
+      "UN": 4
+    }
+  }
+}

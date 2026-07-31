@@ -1,0 +1,77 @@
+{
+  "pangram": "triumph",
+  "center_letter": "m",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 59,
+  "answer_pangrams": [
+    "triumph"
+  ],
+  "answers": [
+    "hump",
+    "mirth",
+    "mitt",
+    "murmur",
+    "mutt",
+    "muumuu",
+    "pimp",
+    "prim",
+    "primp",
+    "pump",
+    "rump",
+    "thrum",
+    "thump",
+    "trim",
+    "triumph",
+    "trump"
+  ],
+  "date": "2029-07-12",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 5,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "H": 1,
+      "M": 5,
+      "P": 4,
+      "R": 1,
+      "T": 5
+    },
+    "grid": {
+      "H": {
+        "4": 1
+      },
+      "M": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "P": {
+        "4": 3,
+        "5": 1
+      },
+      "R": {
+        "4": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 3,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "HU": 1,
+      "MI": 2,
+      "MU": 3,
+      "PI": 1,
+      "PR": 2,
+      "PU": 1,
+      "RU": 1,
+      "TH": 2,
+      "TR": 3
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "pangram": "ketchup",
+  "center_letter": "p",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 64,
+  "answer_pangrams": [
+    "ketchup"
+  ],
+  "answers": [
+    "checkup",
+    "cheep",
+    "cutup",
+    "epee",
+    "keep",
+    "kept",
+    "ketchup",
+    "peck",
+    "peek",
+    "peep",
+    "puck",
+    "puke",
+    "puppet",
+    "putt",
+    "tepee",
+    "upchuck",
+    "upkeep"
+  ],
+  "date": "2034-09-06",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 3,
+      "6": 2,
+      "7": 3
+    },
+    "by_first_letter": {
+      "C": 3,
+      "E": 1,
+      "K": 3,
+      "P": 7,
+      "T": 1,
+      "U": 2
+    },
+    "grid": {
+      "C": {
+        "5": 2,
+        "7": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "K": {
+        "4": 2,
+        "7": 1
+      },
+      "P": {
+        "4": 6,
+        "6": 1
+      },
+      "T": {
+        "5": 1
+      },
+      "U": {
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 2,
+      "CU": 1,
+      "EP": 1,
+      "KE": 3,
+      "PE": 3,
+      "PU": 4,
+      "TE": 1,
+      "UP": 2
+    }
+  }
+}

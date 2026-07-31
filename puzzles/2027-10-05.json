@@ -1,0 +1,101 @@
+{
+  "pangram": "bitumen",
+  "center_letter": "u",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 106,
+  "answer_pangrams": [
+    "bitumen"
+  ],
+  "answers": [
+    "benumb",
+    "bitumen",
+    "bunt",
+    "butte",
+    "ennui",
+    "imbue",
+    "immune",
+    "intuit",
+    "menu",
+    "minimum",
+    "minuet",
+    "minute",
+    "minutemen",
+    "mute",
+    "mutt",
+    "muumuu",
+    "numb",
+    "tube",
+    "tune",
+    "tutu",
+    "unbent",
+    "unit",
+    "unite",
+    "untie"
+  ],
+  "date": "2027-10-05",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 5,
+      "6": 7,
+      "7": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "B": 4,
+      "E": 1,
+      "I": 3,
+      "M": 8,
+      "N": 1,
+      "T": 3,
+      "U": 4
+    },
+    "grid": {
+      "B": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 2
+      },
+      "M": {
+        "4": 3,
+        "6": 3,
+        "7": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "T": {
+        "4": 3
+      },
+      "U": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 1,
+      "BI": 1,
+      "BU": 2,
+      "EN": 1,
+      "IM": 2,
+      "IN": 1,
+      "ME": 1,
+      "MI": 4,
+      "MU": 3,
+      "NU": 1,
+      "TU": 3,
+      "UN": 4
+    }
+  }
+}

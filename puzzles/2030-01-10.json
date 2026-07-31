@@ -1,0 +1,140 @@
+{
+  "pangram": "pickled",
+  "center_letter": "i",
+  "num_answers": 58,
+  "num_pangrams": 1,
+  "possible_points": 243,
+  "answer_pangrams": [
+    "pickled"
+  ],
+  "answers": [
+    "click",
+    "clicked",
+    "clip",
+    "clipped",
+    "decide",
+    "decided",
+    "deice",
+    "deiced",
+    "deli",
+    "dice",
+    "diced",
+    "diddle",
+    "diddled",
+    "died",
+    "dike",
+    "diked",
+    "dill",
+    "dipped",
+    "eddied",
+    "elide",
+    "elided",
+    "epic",
+    "iced",
+    "icicle",
+    "idle",
+    "idled",
+    "kick",
+    "kicked",
+    "kidded",
+    "kill",
+    "killed",
+    "lice",
+    "lick",
+    "licked",
+    "lidded",
+    "lied",
+    "like",
+    "liked",
+    "lipid",
+    "pick",
+    "picked",
+    "pickle",
+    "pickled",
+    "piddle",
+    "piddled",
+    "piece",
+    "pieced",
+    "pied",
+    "pike",
+    "piked",
+    "pile",
+    "piled",
+    "pill",
+    "pilled",
+    "pipe",
+    "piped",
+    "pipped",
+    "plied"
+  ],
+  "date": "2030-01-10",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 13,
+      "6": 18,
+      "7": 6
+    },
+    "by_first_letter": {
+      "C": 4,
+      "D": 14,
+      "E": 4,
+      "I": 4,
+      "K": 5,
+      "L": 8,
+      "P": 19
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 1,
+        "7": 2
+      },
+      "D": {
+        "4": 5,
+        "5": 3,
+        "6": 4,
+        "7": 2
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "I": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "K": {
+        "4": 2,
+        "6": 3
+      },
+      "L": {
+        "4": 4,
+        "5": 2,
+        "6": 2
+      },
+      "P": {
+        "4": 6,
+        "5": 5,
+        "6": 6,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "CL": 4,
+      "DE": 5,
+      "DI": 9,
+      "ED": 1,
+      "EL": 2,
+      "EP": 1,
+      "IC": 2,
+      "ID": 2,
+      "KI": 5,
+      "LI": 8,
+      "PI": 18,
+      "PL": 1
+    }
+  }
+}

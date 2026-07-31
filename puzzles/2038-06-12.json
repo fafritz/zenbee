@@ -1,0 +1,99 @@
+{
+  "pangram": "handily",
+  "center_letter": "a",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 113,
+  "answer_pangrams": [
+    "handily"
+  ],
+  "answers": [
+    "allay",
+    "ally",
+    "anal",
+    "daddy",
+    "dahlia",
+    "daily",
+    "dally",
+    "dandy",
+    "dial",
+    "dillydally",
+    "hail",
+    "halal",
+    "hall",
+    "hand",
+    "handily",
+    "handy",
+    "inlaid",
+    "inland",
+    "inlay",
+    "lady",
+    "laid",
+    "lain",
+    "land",
+    "landlady",
+    "naan",
+    "naiad",
+    "nail",
+    "nana",
+    "nanny"
+  ],
+  "date": "2038-06-12",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 10,
+      "6": 3,
+      "7": 1,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 7,
+      "H": 6,
+      "I": 3,
+      "L": 5,
+      "N": 5
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 4,
+        "6": 1,
+        "10": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 2,
+        "7": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 2
+      },
+      "L": {
+        "4": 4,
+        "8": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "AN": 1,
+      "DA": 5,
+      "DI": 2,
+      "HA": 6,
+      "IN": 3,
+      "LA": 5,
+      "NA": 5
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "pangram": "flounce",
+  "center_letter": "o",
+  "num_answers": 28,
+  "num_pangrams": 2,
+  "possible_points": 102,
+  "answer_pangrams": [
+    "confluence",
+    "flounce"
+  ],
+  "answers": [
+    "cello",
+    "clone",
+    "cocoon",
+    "coffee",
+    "colon",
+    "colonel",
+    "cone",
+    "confluence",
+    "cool",
+    "felon",
+    "floe",
+    "flounce",
+    "fool",
+    "foul",
+    "loco",
+    "loll",
+    "lone",
+    "loon",
+    "neocon",
+    "neon",
+    "noel",
+    "nonce",
+    "none",
+    "noon",
+    "noun",
+    "oleo",
+    "once",
+    "ounce"
+  ],
+  "date": "2036-06-17",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 6,
+      "6": 3,
+      "7": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 9,
+      "F": 5,
+      "L": 4,
+      "N": 7,
+      "O": 3
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 3,
+        "6": 2,
+        "7": 1,
+        "10": 1
+      },
+      "F": {
+        "4": 3,
+        "5": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 4
+      },
+      "N": {
+        "4": 5,
+        "5": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 2,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 1,
+      "CL": 1,
+      "CO": 7,
+      "FE": 1,
+      "FL": 2,
+      "FO": 2,
+      "LO": 4,
+      "NE": 2,
+      "NO": 5,
+      "OL": 1,
+      "ON": 1,
+      "OU": 1
+    }
+  }
+}

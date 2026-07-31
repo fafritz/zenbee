@@ -1,0 +1,90 @@
+{
+  "pangram": "tequila",
+  "center_letter": "a",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 88,
+  "answer_pangrams": [
+    "tequila"
+  ],
+  "answers": [
+    "aqua",
+    "elate",
+    "equal",
+    "equate",
+    "late",
+    "latte",
+    "luau",
+    "quail",
+    "tail",
+    "tale",
+    "tall",
+    "tattle",
+    "tattletale",
+    "taut",
+    "teal",
+    "telltale",
+    "tequila",
+    "titillate",
+    "ululate"
+  ],
+  "date": "2028-07-29",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 4,
+      "6": 2,
+      "7": 2,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "E": 3,
+      "L": 3,
+      "Q": 1,
+      "T": 10,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "E": {
+        "5": 2,
+        "6": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1
+      },
+      "Q": {
+        "5": 1
+      },
+      "T": {
+        "4": 5,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AQ": 1,
+      "EL": 1,
+      "EQ": 2,
+      "LA": 2,
+      "LU": 1,
+      "QU": 1,
+      "TA": 6,
+      "TE": 3,
+      "TI": 1,
+      "UL": 1
+    }
+  }
+}

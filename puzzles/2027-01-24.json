@@ -1,0 +1,89 @@
+{
+  "pangram": "vouched",
+  "center_letter": "c",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 108,
+  "answer_pangrams": [
+    "vouched"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "code",
+    "coded",
+    "coed",
+    "cooed",
+    "couch",
+    "couched",
+    "cove",
+    "cued",
+    "decode",
+    "decoded",
+    "deduce",
+    "deduced",
+    "deuce",
+    "douche",
+    "douched",
+    "echo",
+    "echoed",
+    "hooch",
+    "ouch",
+    "vouch",
+    "vouched"
+  ],
+  "date": "2027-01-24",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 7,
+      "6": 4,
+      "7": 5
+    },
+    "by_first_letter": {
+      "C": 10,
+      "D": 7,
+      "E": 2,
+      "H": 1,
+      "O": 1,
+      "V": 2
+    },
+    "grid": {
+      "C": {
+        "4": 5,
+        "5": 4,
+        "7": 1
+      },
+      "D": {
+        "5": 1,
+        "6": 3,
+        "7": 3
+      },
+      "E": {
+        "4": 1,
+        "6": 1
+      },
+      "H": {
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "V": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 2,
+      "CO": 7,
+      "CU": 1,
+      "DE": 5,
+      "DO": 2,
+      "EC": 2,
+      "HO": 1,
+      "OU": 1,
+      "VO": 2
+    }
+  }
+}

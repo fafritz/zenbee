@@ -1,0 +1,87 @@
+{
+  "pangram": "grandly",
+  "center_letter": "d",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 106,
+  "answer_pangrams": [
+    "grandly"
+  ],
+  "answers": [
+    "daddy",
+    "dally",
+    "dandy",
+    "darn",
+    "drag",
+    "dray",
+    "dryad",
+    "dryly",
+    "gangland",
+    "garland",
+    "glad",
+    "gladly",
+    "gland",
+    "grad",
+    "grand",
+    "grandly",
+    "lady",
+    "laggard",
+    "land",
+    "landlady",
+    "lanyard",
+    "lard",
+    "radar",
+    "yard"
+  ],
+  "date": "2031-07-05",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 8,
+      "6": 1,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "D": 8,
+      "G": 8,
+      "L": 6,
+      "R": 1,
+      "Y": 1
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "5": 5
+      },
+      "G": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "L": {
+        "4": 3,
+        "7": 2,
+        "8": 1
+      },
+      "R": {
+        "5": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "DA": 4,
+      "DR": 4,
+      "GA": 2,
+      "GL": 3,
+      "GR": 3,
+      "LA": 6,
+      "RA": 1,
+      "YA": 1
+    }
+  }
+}

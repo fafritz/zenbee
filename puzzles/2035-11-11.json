@@ -1,0 +1,96 @@
+{
+  "pangram": "flawing",
+  "center_letter": "w",
+  "num_answers": 32,
+  "num_pangrams": 2,
+  "possible_points": 182,
+  "answer_pangrams": [
+    "flawing",
+    "waffling"
+  ],
+  "answers": [
+    "awing",
+    "awning",
+    "fawn",
+    "fawning",
+    "flaw",
+    "flawing",
+    "gnaw",
+    "gnawing",
+    "lawn",
+    "waffling",
+    "wagging",
+    "waggling",
+    "waging",
+    "waif",
+    "wail",
+    "wailing",
+    "waling",
+    "wall",
+    "walling",
+    "wangling",
+    "waning",
+    "wigging",
+    "wiggling",
+    "wigwag",
+    "wigwagging",
+    "wiling",
+    "will",
+    "willing",
+    "wing",
+    "winging",
+    "wining",
+    "winning"
+  ],
+  "date": "2035-11-11",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 1,
+      "6": 7,
+      "7": 10,
+      "8": 4,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "F": 4,
+      "G": 2,
+      "L": 1,
+      "W": 23
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1
+      },
+      "F": {
+        "4": 2,
+        "7": 2
+      },
+      "G": {
+        "4": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 1
+      },
+      "W": {
+        "4": 5,
+        "6": 6,
+        "7": 7,
+        "8": 4,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AW": 2,
+      "FA": 2,
+      "FL": 2,
+      "GN": 2,
+      "LA": 1,
+      "WA": 12,
+      "WI": 11
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "pangram": "mindful",
+  "center_letter": "l",
+  "num_answers": 17,
+  "num_pangrams": 2,
+  "possible_points": 59,
+  "answer_pangrams": [
+    "mindful",
+    "unmindful"
+  ],
+  "answers": [
+    "dill",
+    "dull",
+    "fill",
+    "film",
+    "fluff",
+    "fluid",
+    "fulfill",
+    "full",
+    "limn",
+    "lull",
+    "lulu",
+    "mild",
+    "mill",
+    "mindful",
+    "mull",
+    "null",
+    "unmindful"
+  ],
+  "date": "2028-01-18",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 2,
+      "7": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "D": 2,
+      "F": 6,
+      "L": 3,
+      "M": 4,
+      "N": 1,
+      "U": 1
+    },
+    "grid": {
+      "D": {
+        "4": 2
+      },
+      "F": {
+        "4": 3,
+        "5": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 3
+      },
+      "M": {
+        "4": 3,
+        "7": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "U": {
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "DI": 1,
+      "DU": 1,
+      "FI": 2,
+      "FL": 2,
+      "FU": 2,
+      "LI": 1,
+      "LU": 2,
+      "MI": 3,
+      "MU": 1,
+      "NU": 1,
+      "UN": 1
+    }
+  }
+}

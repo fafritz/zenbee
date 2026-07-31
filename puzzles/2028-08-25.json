@@ -1,0 +1,151 @@
+{
+  "pangram": "talking",
+  "center_letter": "t",
+  "num_answers": 58,
+  "num_pangrams": 1,
+  "possible_points": 330,
+  "answer_pangrams": [
+    "talking"
+  ],
+  "answers": [
+    "agitating",
+    "anti",
+    "attain",
+    "attaining",
+    "gait",
+    "gallant",
+    "gating",
+    "giant",
+    "gilt",
+    "glint",
+    "glinting",
+    "gnat",
+    "igniting",
+    "initial",
+    "initialing",
+    "initiating",
+    "kilt",
+    "kiting",
+    "knit",
+    "knitting",
+    "lilt",
+    "lilting",
+    "lint",
+    "linting",
+    "litigant",
+    "litigating",
+    "natal",
+    "tagging",
+    "tail",
+    "tailgating",
+    "tailing",
+    "taint",
+    "tainting",
+    "taking",
+    "talk",
+    "talking",
+    "tall",
+    "tang",
+    "tangling",
+    "tank",
+    "tanking",
+    "tannin",
+    "tanning",
+    "tatting",
+    "tattling",
+    "tiling",
+    "till",
+    "tilling",
+    "tilt",
+    "tilting",
+    "tingling",
+    "tinkling",
+    "tinning",
+    "tint",
+    "tinting",
+    "titan",
+    "titillating",
+    "titling"
+  ],
+  "date": "2028-08-25",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 5,
+      "6": 6,
+      "7": 15,
+      "8": 9,
+      "9": 2,
+      "10": 4,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "G": 8,
+      "I": 4,
+      "K": 4,
+      "L": 6,
+      "N": 1,
+      "T": 31
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1,
+        "9": 2
+      },
+      "G": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "I": {
+        "7": 1,
+        "8": 1,
+        "10": 2
+      },
+      "K": {
+        "4": 2,
+        "6": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 2,
+        "7": 2,
+        "8": 1,
+        "10": 1
+      },
+      "N": {
+        "5": 1
+      },
+      "T": {
+        "4": 8,
+        "5": 2,
+        "6": 3,
+        "7": 11,
+        "8": 5,
+        "10": 1,
+        "11": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AN": 1,
+      "AT": 2,
+      "GA": 3,
+      "GI": 2,
+      "GL": 2,
+      "GN": 1,
+      "IG": 1,
+      "IN": 3,
+      "KI": 2,
+      "KN": 2,
+      "LI": 6,
+      "NA": 1,
+      "TA": 18,
+      "TI": 13
+    }
+  }
+}

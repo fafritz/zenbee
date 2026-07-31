@@ -1,0 +1,91 @@
+{
+  "pangram": "digraph",
+  "center_letter": "i",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 53,
+  "answer_pangrams": [
+    "digraph"
+  ],
+  "answers": [
+    "aphid",
+    "aria",
+    "arid",
+    "digraph",
+    "drip",
+    "gird",
+    "grid",
+    "grip",
+    "hair",
+    "high",
+    "ipad",
+    "paid",
+    "pair",
+    "pariah",
+    "prig",
+    "radii",
+    "raid",
+    "rapid",
+    "rigid"
+  ],
+  "date": "2028-05-09",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 4,
+      "6": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 2,
+      "G": 3,
+      "H": 2,
+      "I": 1,
+      "P": 4,
+      "R": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "D": {
+        "4": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 3
+      },
+      "H": {
+        "4": 2
+      },
+      "I": {
+        "4": 1
+      },
+      "P": {
+        "4": 3,
+        "6": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 3
+      }
+    },
+    "two_letter_list": {
+      "AP": 1,
+      "AR": 2,
+      "DI": 1,
+      "DR": 1,
+      "GI": 1,
+      "GR": 2,
+      "HA": 1,
+      "HI": 1,
+      "IP": 1,
+      "PA": 3,
+      "PR": 1,
+      "RA": 3,
+      "RI": 1
+    }
+  }
+}

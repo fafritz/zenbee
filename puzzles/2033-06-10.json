@@ -1,0 +1,99 @@
+{
+  "pangram": "vomited",
+  "center_letter": "v",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 170,
+  "answer_pangrams": [
+    "vomited"
+  ],
+  "answers": [
+    "devoid",
+    "devote",
+    "devoted",
+    "devotee",
+    "dive",
+    "dived",
+    "divide",
+    "divided",
+    "divot",
+    "divvied",
+    "dove",
+    "emotive",
+    "motive",
+    "move",
+    "moved",
+    "movie",
+    "ovoid",
+    "veto",
+    "vetoed",
+    "vetted",
+    "video",
+    "videoed",
+    "vied",
+    "vivid",
+    "void",
+    "voided",
+    "vomit",
+    "vomited",
+    "voodoo",
+    "voodooed",
+    "vote",
+    "voted",
+    "votive"
+  ],
+  "date": "2033-06-10",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 9,
+      "6": 9,
+      "7": 7,
+      "8": 1
+    },
+    "by_first_letter": {
+      "D": 11,
+      "E": 1,
+      "M": 4,
+      "O": 1,
+      "V": 16
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "7": 4
+      },
+      "E": {
+        "7": 1
+      },
+      "M": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      },
+      "O": {
+        "5": 1
+      },
+      "V": {
+        "4": 4,
+        "5": 4,
+        "6": 5,
+        "7": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 4,
+      "DI": 6,
+      "DO": 1,
+      "EM": 1,
+      "MO": 4,
+      "OV": 1,
+      "VE": 3,
+      "VI": 4,
+      "VO": 9
+    }
+  }
+}

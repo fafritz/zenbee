@@ -1,0 +1,113 @@
+{
+  "pangram": "peafowl",
+  "center_letter": "p",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 105,
+  "answer_pangrams": [
+    "peafowl"
+  ],
+  "answers": [
+    "appall",
+    "appeal",
+    "apple",
+    "elope",
+    "epee",
+    "flap",
+    "flop",
+    "lapel",
+    "leap",
+    "loop",
+    "lope",
+    "opal",
+    "pale",
+    "pall",
+    "papa",
+    "papal",
+    "pawl",
+    "pawpaw",
+    "peafowl",
+    "peal",
+    "peel",
+    "peep",
+    "peewee",
+    "people",
+    "pewee",
+    "plea",
+    "plop",
+    "plow",
+    "pole",
+    "poll",
+    "polo",
+    "pool",
+    "poop",
+    "pope",
+    "powwow",
+    "wallop",
+    "weep"
+  ],
+  "date": "2036-06-28",
+  "hints": {
+    "by_length": {
+      "4": 24,
+      "5": 5,
+      "6": 7,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "E": 2,
+      "F": 2,
+      "L": 4,
+      "O": 1,
+      "P": 23,
+      "W": 2
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 2
+      },
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "F": {
+        "4": 2
+      },
+      "L": {
+        "4": 3,
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 16,
+        "5": 2,
+        "6": 4,
+        "7": 1
+      },
+      "W": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AP": 3,
+      "EL": 1,
+      "EP": 1,
+      "FL": 2,
+      "LA": 1,
+      "LE": 1,
+      "LO": 2,
+      "OP": 1,
+      "PA": 6,
+      "PE": 7,
+      "PL": 3,
+      "PO": 7,
+      "WA": 1,
+      "WE": 1
+    }
+  }
+}

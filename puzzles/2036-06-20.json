@@ -1,0 +1,123 @@
+{
+  "pangram": "include",
+  "center_letter": "c",
+  "num_answers": 40,
+  "num_pangrams": 2,
+  "possible_points": 220,
+  "answer_pangrams": [
+    "include",
+    "included"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "cell",
+    "clinic",
+    "clue",
+    "clued",
+    "cuddle",
+    "cuddled",
+    "cued",
+    "cull",
+    "culled",
+    "decide",
+    "decided",
+    "decline",
+    "declined",
+    "deduce",
+    "deduced",
+    "deice",
+    "deiced",
+    "deuce",
+    "dice",
+    "diced",
+    "dunce",
+    "iced",
+    "icicle",
+    "incidence",
+    "incline",
+    "inclined",
+    "include",
+    "included",
+    "induce",
+    "induced",
+    "lice",
+    "lucid",
+    "nice",
+    "niece",
+    "nuclei",
+    "nucleic",
+    "uncle",
+    "undecided"
+  ],
+  "date": "2036-06-20",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 9,
+      "6": 9,
+      "7": 8,
+      "8": 3,
+      "9": 2
+    },
+    "by_first_letter": {
+      "C": 11,
+      "D": 12,
+      "I": 9,
+      "L": 2,
+      "N": 4,
+      "U": 2
+    },
+    "grid": {
+      "C": {
+        "4": 5,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 4,
+        "6": 3,
+        "7": 3,
+        "8": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 2,
+        "7": 3,
+        "8": 2,
+        "9": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "U": {
+        "5": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 3,
+      "CL": 3,
+      "CU": 5,
+      "DE": 9,
+      "DI": 2,
+      "DU": 1,
+      "IC": 2,
+      "IN": 7,
+      "LI": 1,
+      "LU": 1,
+      "NI": 2,
+      "NU": 2,
+      "UN": 2
+    }
+  }
+}

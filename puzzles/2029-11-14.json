@@ -1,0 +1,116 @@
+{
+  "pangram": "mocking",
+  "center_letter": "c",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 192,
+  "answer_pangrams": [
+    "mocking"
+  ],
+  "answers": [
+    "cocci",
+    "cocking",
+    "cocoon",
+    "cocooning",
+    "coin",
+    "coining",
+    "coking",
+    "comic",
+    "coming",
+    "common",
+    "conic",
+    "conk",
+    "conking",
+    "conning",
+    "cooing",
+    "cook",
+    "cooking",
+    "gimmick",
+    "icing",
+    "icon",
+    "incoming",
+    "kick",
+    "kicking",
+    "knock",
+    "knocking",
+    "mimic",
+    "mimicking",
+    "mincing",
+    "mock",
+    "mocking",
+    "nick",
+    "nicking",
+    "noncom",
+    "oncoming"
+  ],
+  "date": "2029-11-14",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 6,
+      "6": 6,
+      "7": 10,
+      "8": 3,
+      "9": 2
+    },
+    "by_first_letter": {
+      "C": 17,
+      "G": 1,
+      "I": 3,
+      "K": 4,
+      "M": 5,
+      "N": 3,
+      "O": 1
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 3,
+        "6": 5,
+        "7": 5,
+        "9": 1
+      },
+      "G": {
+        "7": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "8": 1
+      },
+      "K": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "M": {
+        "4": 1,
+        "5": 1,
+        "7": 2,
+        "9": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "O": {
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 17,
+      "GI": 1,
+      "IC": 2,
+      "IN": 1,
+      "KI": 2,
+      "KN": 2,
+      "MI": 3,
+      "MO": 2,
+      "NI": 2,
+      "NO": 1,
+      "ON": 1
+    }
+  }
+}

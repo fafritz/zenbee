@@ -1,0 +1,128 @@
+{
+  "pangram": "baloney",
+  "center_letter": "b",
+  "num_answers": 55,
+  "num_pangrams": 1,
+  "possible_points": 204,
+  "answer_pangrams": [
+    "baloney"
+  ],
+  "answers": [
+    "abalone",
+    "abbe",
+    "abbey",
+    "able",
+    "ably",
+    "baba",
+    "babble",
+    "babe",
+    "babel",
+    "baboon",
+    "baby",
+    "bale",
+    "baleen",
+    "ball",
+    "balloon",
+    "baloney",
+    "banal",
+    "banana",
+    "bane",
+    "banyan",
+    "baobab",
+    "bean",
+    "been",
+    "belay",
+    "bell",
+    "bellboy",
+    "belle",
+    "belly",
+    "blab",
+    "blob",
+    "bobble",
+    "bobby",
+    "bola",
+    "bole",
+    "boll",
+    "bonbon",
+    "bone",
+    "bony",
+    "boob",
+    "booboo",
+    "booby",
+    "boon",
+    "ebay",
+    "ebony",
+    "enable",
+    "ennoble",
+    "eyeball",
+    "label",
+    "lobby",
+    "lobe",
+    "nabob",
+    "noble",
+    "nobly",
+    "obey",
+    "oboe"
+  ],
+  "date": "2037-05-09",
+  "hints": {
+    "by_length": {
+      "4": 25,
+      "5": 14,
+      "6": 10,
+      "7": 6
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 37,
+      "E": 5,
+      "L": 3,
+      "N": 3,
+      "O": 2
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 1,
+        "7": 1
+      },
+      "B": {
+        "4": 18,
+        "5": 7,
+        "6": 9,
+        "7": 3
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 2
+      },
+      "L": {
+        "4": 1,
+        "5": 2
+      },
+      "N": {
+        "5": 3
+      },
+      "O": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 5,
+      "BA": 16,
+      "BE": 7,
+      "BL": 2,
+      "BO": 12,
+      "EB": 2,
+      "EN": 2,
+      "EY": 1,
+      "LA": 1,
+      "LO": 2,
+      "NA": 1,
+      "NO": 2,
+      "OB": 2
+    }
+  }
+}

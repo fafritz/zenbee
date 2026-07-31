@@ -1,0 +1,147 @@
+{
+  "pangram": "blinked",
+  "center_letter": "n",
+  "num_answers": 59,
+  "num_pangrams": 1,
+  "possible_points": 280,
+  "answer_pangrams": [
+    "blinked"
+  ],
+  "answers": [
+    "beeline",
+    "been",
+    "bend",
+    "bidden",
+    "bikini",
+    "bind",
+    "binned",
+    "blend",
+    "blended",
+    "blind",
+    "blinded",
+    "blink",
+    "blinked",
+    "denied",
+    "dine",
+    "dined",
+    "dink",
+    "dinned",
+    "ended",
+    "indeed",
+    "indelible",
+    "inedible",
+    "inked",
+    "inline",
+    "keen",
+    "keened",
+    "kenned",
+    "kennel",
+    "kenneled",
+    "kiln",
+    "kilned",
+    "kind",
+    "kindle",
+    "kindled",
+    "kink",
+    "kinked",
+    "knee",
+    "kneed",
+    "kneel",
+    "knell",
+    "knelled",
+    "lend",
+    "lien",
+    "liken",
+    "likened",
+    "linden",
+    "line",
+    "lined",
+    "linen",
+    "link",
+    "linked",
+    "need",
+    "needed",
+    "needle",
+    "needled",
+    "nene",
+    "nibble",
+    "nibbled",
+    "nine"
+  ],
+  "date": "2038-12-13",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 12,
+      "6": 18,
+      "7": 9,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "B": 13,
+      "D": 5,
+      "E": 1,
+      "I": 5,
+      "K": 17,
+      "L": 10,
+      "N": 8
+    },
+    "grid": {
+      "B": {
+        "4": 3,
+        "5": 3,
+        "6": 3,
+        "7": 4
+      },
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "E": {
+        "5": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 2,
+        "8": 1,
+        "9": 1
+      },
+      "K": {
+        "4": 5,
+        "5": 3,
+        "6": 6,
+        "7": 2,
+        "8": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "N": {
+        "4": 3,
+        "6": 3,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "BE": 3,
+      "BI": 4,
+      "BL": 6,
+      "DE": 1,
+      "DI": 4,
+      "EN": 1,
+      "IN": 5,
+      "KE": 5,
+      "KI": 7,
+      "KN": 5,
+      "LE": 1,
+      "LI": 9,
+      "NE": 5,
+      "NI": 3
+    }
+  }
+}

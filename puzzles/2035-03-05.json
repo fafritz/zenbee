@@ -1,0 +1,100 @@
+{
+  "pangram": "buoyant",
+  "center_letter": "b",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 166,
+  "answer_pangrams": [
+    "buoyant"
+  ],
+  "answers": [
+    "abbot",
+    "about",
+    "abut",
+    "baba",
+    "baboon",
+    "baby",
+    "banana",
+    "banyan",
+    "baobab",
+    "baton",
+    "batty",
+    "bayou",
+    "boat",
+    "bobby",
+    "bonbon",
+    "bony",
+    "boob",
+    "booboo",
+    "booby",
+    "boon",
+    "boot",
+    "booty",
+    "botany",
+    "bounty",
+    "bout",
+    "bunny",
+    "bunt",
+    "buoy",
+    "buoyant",
+    "button",
+    "buyout",
+    "nabob",
+    "nanobot",
+    "tabby",
+    "taboo",
+    "tuba",
+    "tubby",
+    "unbutton"
+  ],
+  "date": "2035-03-05",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 13,
+      "6": 10,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 28,
+      "N": 2,
+      "T": 4,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2
+      },
+      "B": {
+        "4": 10,
+        "5": 7,
+        "6": 10,
+        "7": 1
+      },
+      "N": {
+        "5": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 3
+      },
+      "U": {
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 3,
+      "BA": 9,
+      "BO": 13,
+      "BU": 6,
+      "NA": 2,
+      "TA": 2,
+      "TU": 2,
+      "UN": 1
+    }
+  }
+}

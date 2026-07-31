@@ -1,0 +1,101 @@
+{
+  "pangram": "tickled",
+  "center_letter": "k",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 127,
+  "answer_pangrams": [
+    "tickled"
+  ],
+  "answers": [
+    "click",
+    "clicked",
+    "deck",
+    "decked",
+    "deckle",
+    "dike",
+    "diked",
+    "eked",
+    "keel",
+    "keeled",
+    "kettle",
+    "kick",
+    "kicked",
+    "kidded",
+    "kill",
+    "killed",
+    "kilt",
+    "kite",
+    "kited",
+    "leek",
+    "lick",
+    "licked",
+    "like",
+    "liked",
+    "tick",
+    "ticked",
+    "ticket",
+    "ticketed",
+    "tickle",
+    "tickled"
+  ],
+  "date": "2032-03-07",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 4,
+      "6": 11,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 2,
+      "D": 5,
+      "E": 1,
+      "K": 11,
+      "L": 5,
+      "T": 6
+    },
+    "grid": {
+      "C": {
+        "5": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "E": {
+        "4": 1
+      },
+      "K": {
+        "4": 5,
+        "5": 1,
+        "6": 5
+      },
+      "L": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 1,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 2,
+      "DE": 3,
+      "DI": 2,
+      "EK": 1,
+      "KE": 3,
+      "KI": 8,
+      "LE": 1,
+      "LI": 4,
+      "TI": 6
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "pangram": "glorify",
+  "center_letter": "f",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 71,
+  "answer_pangrams": [
+    "glorify"
+  ],
+  "answers": [
+    "fill",
+    "filly",
+    "flog",
+    "floor",
+    "foggy",
+    "fogy",
+    "foil",
+    "folio",
+    "folly",
+    "fool",
+    "forgo",
+    "frill",
+    "frilly",
+    "frog",
+    "glorify",
+    "golf",
+    "goof",
+    "goofy",
+    "iffy",
+    "riff",
+    "roof"
+  ],
+  "date": "2032-10-19",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 8,
+      "6": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "F": 14,
+      "G": 4,
+      "I": 1,
+      "R": 2
+    },
+    "grid": {
+      "F": {
+        "4": 6,
+        "5": 7,
+        "6": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "R": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "FI": 2,
+      "FL": 2,
+      "FO": 7,
+      "FR": 3,
+      "GL": 1,
+      "GO": 3,
+      "IF": 1,
+      "RI": 1,
+      "RO": 1
+    }
+  }
+}

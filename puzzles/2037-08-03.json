@@ -1,0 +1,75 @@
+{
+  "pangram": "dynamic",
+  "center_letter": "y",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 84,
+  "answer_pangrams": [
+    "dynamic"
+  ],
+  "answers": [
+    "candidacy",
+    "candy",
+    "canny",
+    "cyan",
+    "cynic",
+    "daddy",
+    "dandy",
+    "dyadic",
+    "dynamic",
+    "many",
+    "mayday",
+    "midday",
+    "middy",
+    "myna",
+    "nanny",
+    "ninny"
+  ],
+  "date": "2037-08-03",
+  "hints": {
+    "by_length": {
+      "4": 3,
+      "5": 8,
+      "6": 3,
+      "7": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 5,
+      "D": 4,
+      "M": 5,
+      "N": 2
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 3,
+        "9": 1
+      },
+      "D": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "M": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "N": {
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "CA": 3,
+      "CY": 2,
+      "DA": 2,
+      "DY": 2,
+      "MA": 2,
+      "MI": 2,
+      "MY": 1,
+      "NA": 1,
+      "NI": 1
+    }
+  }
+}

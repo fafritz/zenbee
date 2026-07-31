@@ -1,0 +1,115 @@
+{
+  "pangram": "novelty",
+  "center_letter": "n",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 132,
+  "answer_pangrams": [
+    "novelty"
+  ],
+  "answers": [
+    "eleven",
+    "entente",
+    "envoy",
+    "envy",
+    "even",
+    "evenly",
+    "event",
+    "lent",
+    "lone",
+    "lonely",
+    "loon",
+    "nene",
+    "neon",
+    "nettle",
+    "noel",
+    "none",
+    "nonevent",
+    "noon",
+    "note",
+    "novel",
+    "novelette",
+    "novelty",
+    "nylon",
+    "only",
+    "onto",
+    "oven",
+    "teen",
+    "teeny",
+    "telnet",
+    "tenet",
+    "tenon",
+    "tent",
+    "tone",
+    "tony",
+    "toon",
+    "velveteen",
+    "vent"
+  ],
+  "date": "2032-01-20",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 7,
+      "6": 5,
+      "7": 2,
+      "8": 1,
+      "9": 2
+    },
+    "by_first_letter": {
+      "E": 7,
+      "L": 4,
+      "N": 12,
+      "O": 3,
+      "T": 9,
+      "V": 2
+    },
+    "grid": {
+      "E": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 3,
+        "6": 1
+      },
+      "N": {
+        "4": 6,
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "O": {
+        "4": 3
+      },
+      "T": {
+        "4": 5,
+        "5": 3,
+        "6": 1
+      },
+      "V": {
+        "4": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "EL": 1,
+      "EN": 3,
+      "EV": 3,
+      "LE": 1,
+      "LO": 3,
+      "NE": 3,
+      "NO": 8,
+      "NY": 1,
+      "ON": 2,
+      "OV": 1,
+      "TE": 6,
+      "TO": 3,
+      "VE": 2
+    }
+  }
+}

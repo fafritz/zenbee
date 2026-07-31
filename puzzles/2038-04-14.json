@@ -1,0 +1,115 @@
+{
+  "pangram": "touched",
+  "center_letter": "c",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 168,
+  "answer_pangrams": [
+    "touched"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "chute",
+    "code",
+    "coded",
+    "coed",
+    "cooed",
+    "coot",
+    "cote",
+    "couch",
+    "couched",
+    "cued",
+    "cute",
+    "cutout",
+    "decode",
+    "decoded",
+    "deduce",
+    "deduced",
+    "deduct",
+    "deducted",
+    "detect",
+    "detected",
+    "deuce",
+    "douche",
+    "douched",
+    "duct",
+    "echo",
+    "echoed",
+    "etch",
+    "etched",
+    "hooch",
+    "hutch",
+    "octet",
+    "ouch",
+    "tech",
+    "touch",
+    "touched"
+  ],
+  "date": "2038-04-14",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 10,
+      "6": 8,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "C": 14,
+      "D": 12,
+      "E": 4,
+      "H": 2,
+      "O": 2,
+      "T": 3
+    },
+    "grid": {
+      "C": {
+        "4": 7,
+        "5": 5,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 1,
+        "6": 5,
+        "7": 3,
+        "8": 2
+      },
+      "E": {
+        "4": 2,
+        "6": 2
+      },
+      "H": {
+        "5": 2
+      },
+      "O": {
+        "4": 1,
+        "5": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 2,
+      "CH": 1,
+      "CO": 8,
+      "CU": 3,
+      "DE": 9,
+      "DO": 2,
+      "DU": 1,
+      "EC": 2,
+      "ET": 2,
+      "HO": 1,
+      "HU": 1,
+      "OC": 1,
+      "OU": 1,
+      "TE": 1,
+      "TO": 2
+    }
+  }
+}

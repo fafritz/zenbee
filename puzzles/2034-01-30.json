@@ -1,0 +1,89 @@
+{
+  "pangram": "impound",
+  "center_letter": "m",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 88,
+  "answer_pangrams": [
+    "impound"
+  ],
+  "answers": [
+    "dominion",
+    "domino",
+    "doom",
+    "dump",
+    "idiom",
+    "impound",
+    "mind",
+    "mini",
+    "minim",
+    "minimum",
+    "minion",
+    "mono",
+    "mood",
+    "moon",
+    "mound",
+    "muumuu",
+    "odium",
+    "opium",
+    "pimp",
+    "podium",
+    "pomp",
+    "pump"
+  ],
+  "date": "2034-01-30",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 5,
+      "6": 4,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "D": 4,
+      "I": 2,
+      "M": 10,
+      "O": 2,
+      "P": 4
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "6": 1,
+        "8": 1
+      },
+      "I": {
+        "5": 1,
+        "7": 1
+      },
+      "M": {
+        "4": 5,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "O": {
+        "5": 2
+      },
+      "P": {
+        "4": 3,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 3,
+      "DU": 1,
+      "ID": 1,
+      "IM": 1,
+      "MI": 5,
+      "MO": 4,
+      "MU": 1,
+      "OD": 1,
+      "OP": 1,
+      "PI": 1,
+      "PO": 2,
+      "PU": 1
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "pangram": "frantic",
+  "center_letter": "c",
+  "num_answers": 39,
+  "num_pangrams": 2,
+  "possible_points": 230,
+  "answer_pangrams": [
+    "antiaircraft",
+    "frantic"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "aircraft",
+    "antarctic",
+    "antiaircraft",
+    "antic",
+    "arctic",
+    "artifact",
+    "attic",
+    "attract",
+    "cacti",
+    "caftan",
+    "cairn",
+    "cancan",
+    "canna",
+    "cant",
+    "cantata",
+    "carat",
+    "cart",
+    "cataract",
+    "circa",
+    "cirri",
+    "citric",
+    "craft",
+    "critic",
+    "fact",
+    "fanatic",
+    "franc",
+    "frantic",
+    "intact",
+    "narc",
+    "niacin",
+    "tacit",
+    "tact",
+    "tactic",
+    "tactician",
+    "titanic",
+    "tract",
+    "traffic"
+  ],
+  "date": "2039-01-13",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 12,
+      "6": 9,
+      "7": 6,
+      "8": 3,
+      "9": 2,
+      "12": 1
+    },
+    "by_first_letter": {
+      "A": 10,
+      "C": 15,
+      "F": 4,
+      "I": 1,
+      "N": 2,
+      "T": 7
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "8": 2,
+        "9": 1,
+        "12": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 7,
+        "6": 4,
+        "7": 1,
+        "8": 1
+      },
+      "F": {
+        "4": 1,
+        "5": 1,
+        "7": 2
+      },
+      "I": {
+        "6": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 2,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AI": 1,
+      "AN": 3,
+      "AR": 2,
+      "AT": 2,
+      "CA": 10,
+      "CI": 3,
+      "CR": 2,
+      "FA": 2,
+      "FR": 2,
+      "IN": 1,
+      "NA": 1,
+      "NI": 1,
+      "TA": 4,
+      "TI": 1,
+      "TR": 2
+    }
+  }
+}

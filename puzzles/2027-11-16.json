@@ -1,0 +1,154 @@
+{
+  "pangram": "gambled",
+  "center_letter": "m",
+  "num_answers": 61,
+  "num_pangrams": 1,
+  "possible_points": 292,
+  "answer_pangrams": [
+    "gambled"
+  ],
+  "answers": [
+    "abeam",
+    "agleam",
+    "amalgam",
+    "amble",
+    "ambled",
+    "ballgame",
+    "balm",
+    "beam",
+    "beamed",
+    "bedlam",
+    "blame",
+    "blamed",
+    "damage",
+    "damaged",
+    "dame",
+    "dammed",
+    "deem",
+    "deemed",
+    "edamame",
+    "edema",
+    "embalm",
+    "embalmed",
+    "embed",
+    "embedded",
+    "emblem",
+    "gamble",
+    "gambled",
+    "game",
+    "gamed",
+    "gamma",
+    "gleam",
+    "gleamed",
+    "lama",
+    "lamb",
+    "lambda",
+    "lambed",
+    "lame",
+    "lamed",
+    "lammed",
+    "lemma",
+    "llama",
+    "madam",
+    "madame",
+    "made",
+    "magma",
+    "male",
+    "mall",
+    "malleable",
+    "mama",
+    "mamma",
+    "mammae",
+    "mammal",
+    "mead",
+    "meal",
+    "medal",
+    "meddle",
+    "meddled",
+    "meld",
+    "melded",
+    "melee",
+    "meme"
+  ],
+  "date": "2027-11-16",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 16,
+      "6": 19,
+      "7": 6,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 7,
+      "D": 6,
+      "E": 7,
+      "G": 7,
+      "L": 9,
+      "M": 20
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "B": {
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "8": 1
+      },
+      "D": {
+        "4": 2,
+        "6": 3,
+        "7": 1
+      },
+      "E": {
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "8": 2
+      },
+      "G": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 2
+      },
+      "L": {
+        "4": 3,
+        "5": 3,
+        "6": 3
+      },
+      "M": {
+        "4": 8,
+        "5": 5,
+        "6": 5,
+        "7": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AG": 1,
+      "AM": 3,
+      "BA": 2,
+      "BE": 3,
+      "BL": 2,
+      "DA": 4,
+      "DE": 2,
+      "ED": 2,
+      "EM": 5,
+      "GA": 5,
+      "GL": 2,
+      "LA": 7,
+      "LE": 1,
+      "LL": 1,
+      "MA": 11,
+      "ME": 9
+    }
+  }
+}

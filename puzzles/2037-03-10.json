@@ -1,0 +1,92 @@
+{
+  "pangram": "womanly",
+  "center_letter": "w",
+  "num_answers": 20,
+  "num_pangrams": 2,
+  "possible_points": 98,
+  "answer_pangrams": [
+    "laywoman",
+    "womanly"
+  ],
+  "answers": [
+    "allow",
+    "anyway",
+    "away",
+    "lawn",
+    "layaway",
+    "laywoman",
+    "lowly",
+    "mallow",
+    "noway",
+    "wall",
+    "wallow",
+    "wanly",
+    "waylay",
+    "woman",
+    "womanly",
+    "wool",
+    "woolly",
+    "yawl",
+    "yawn",
+    "yowl"
+  ],
+  "date": "2037-03-10",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 5,
+      "6": 5,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "L": 4,
+      "M": 1,
+      "N": 1,
+      "W": 8,
+      "Y": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "M": {
+        "6": 1
+      },
+      "N": {
+        "5": 1
+      },
+      "W": {
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      },
+      "Y": {
+        "4": 3
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AN": 1,
+      "AW": 1,
+      "LA": 3,
+      "LO": 1,
+      "MA": 1,
+      "NO": 1,
+      "WA": 4,
+      "WO": 4,
+      "YA": 2,
+      "YO": 1
+    }
+  }
+}

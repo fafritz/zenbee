@@ -1,0 +1,106 @@
+{
+  "pangram": "chomped",
+  "center_letter": "m",
+  "num_answers": 35,
+  "num_pangrams": 1,
+  "possible_points": 131,
+  "answer_pangrams": [
+    "chomped"
+  ],
+  "answers": [
+    "chem",
+    "chomp",
+    "chomped",
+    "come",
+    "commode",
+    "comp",
+    "compo",
+    "deem",
+    "deemed",
+    "demo",
+    "demoed",
+    "dome",
+    "domed",
+    "doom",
+    "doomed",
+    "emcee",
+    "emceed",
+    "hemmed",
+    "hemp",
+    "home",
+    "homed",
+    "meme",
+    "memo",
+    "modded",
+    "mode",
+    "modem",
+    "mooch",
+    "mooched",
+    "mood",
+    "mooed",
+    "mope",
+    "moped",
+    "mopped",
+    "poem",
+    "pomp"
+  ],
+  "date": "2027-04-29",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 9,
+      "6": 7,
+      "7": 3
+    },
+    "by_first_letter": {
+      "C": 7,
+      "D": 8,
+      "E": 2,
+      "H": 4,
+      "M": 12,
+      "P": 2
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 2,
+        "7": 2
+      },
+      "D": {
+        "4": 4,
+        "5": 1,
+        "6": 3
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "M": {
+        "4": 5,
+        "5": 4,
+        "6": 2,
+        "7": 1
+      },
+      "P": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "CH": 3,
+      "CO": 4,
+      "DE": 4,
+      "DO": 4,
+      "EM": 2,
+      "HE": 2,
+      "HO": 2,
+      "ME": 2,
+      "MO": 10,
+      "PO": 2
+    }
+  }
+}

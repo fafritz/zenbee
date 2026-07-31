@@ -1,0 +1,107 @@
+{
+  "pangram": "pyramid",
+  "center_letter": "d",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 123,
+  "answer_pangrams": [
+    "pyramid"
+  ],
+  "answers": [
+    "amid",
+    "arid",
+    "armada",
+    "daddy",
+    "dairy",
+    "damp",
+    "diary",
+    "dram",
+    "drama",
+    "dray",
+    "drip",
+    "dryad",
+    "ipad",
+    "madam",
+    "maid",
+    "mayday",
+    "midair",
+    "midday",
+    "middy",
+    "myriad",
+    "paddy",
+    "paid",
+    "payday",
+    "pyramid",
+    "radar",
+    "radii",
+    "raid",
+    "rapid",
+    "yard",
+    "yardarm"
+  ],
+  "date": "2037-03-18",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 11,
+      "6": 6,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 9,
+      "I": 1,
+      "M": 7,
+      "P": 4,
+      "R": 4,
+      "Y": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 1
+      },
+      "D": {
+        "4": 4,
+        "5": 5
+      },
+      "I": {
+        "4": 1
+      },
+      "M": {
+        "4": 1,
+        "5": 2,
+        "6": 4
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 3
+      },
+      "Y": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AM": 1,
+      "AR": 2,
+      "DA": 3,
+      "DI": 1,
+      "DR": 5,
+      "IP": 1,
+      "MA": 3,
+      "MI": 3,
+      "MY": 1,
+      "PA": 3,
+      "PY": 1,
+      "RA": 4,
+      "YA": 2
+    }
+  }
+}

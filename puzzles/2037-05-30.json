@@ -1,0 +1,141 @@
+{
+  "pangram": "heading",
+  "center_letter": "a",
+  "num_answers": 52,
+  "num_pangrams": 1,
+  "possible_points": 271,
+  "answer_pangrams": [
+    "heading"
+  ],
+  "answers": [
+    "adage",
+    "added",
+    "addend",
+    "addenda",
+    "adding",
+    "again",
+    "aged",
+    "agenda",
+    "aging",
+    "ahead",
+    "aide",
+    "aided",
+    "aiding",
+    "angina",
+    "dead",
+    "deaden",
+    "deadened",
+    "deadening",
+    "dean",
+    "egghead",
+    "engage",
+    "engaged",
+    "engaging",
+    "gadded",
+    "gadding",
+    "gagged",
+    "gagging",
+    "gain",
+    "gained",
+    "gaining",
+    "gang",
+    "ganged",
+    "ganging",
+    "hand",
+    "handed",
+    "handing",
+    "hang",
+    "hanged",
+    "hanging",
+    "head",
+    "headed",
+    "heading",
+    "henna",
+    "hennaed",
+    "hennaing",
+    "idea",
+    "inane",
+    "naan",
+    "nagged",
+    "nagging",
+    "naiad",
+    "nana"
+  ],
+  "date": "2037-05-30",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 9,
+      "6": 15,
+      "7": 12,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 14,
+      "D": 5,
+      "E": 4,
+      "G": 10,
+      "H": 12,
+      "I": 2,
+      "N": 5
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 6,
+        "6": 5,
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "6": 1,
+        "8": 1,
+        "9": 1
+      },
+      "E": {
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "G": {
+        "4": 2,
+        "6": 4,
+        "7": 4
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 4,
+        "8": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 5,
+      "AG": 4,
+      "AH": 1,
+      "AI": 3,
+      "AN": 1,
+      "DE": 5,
+      "EG": 1,
+      "EN": 3,
+      "GA": 10,
+      "HA": 6,
+      "HE": 6,
+      "ID": 1,
+      "IN": 1,
+      "NA": 5
+    }
+  }
+}

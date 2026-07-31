@@ -1,0 +1,123 @@
+{
+  "pangram": "vaguely",
+  "center_letter": "l",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 156,
+  "answer_pangrams": [
+    "vaguely"
+  ],
+  "answers": [
+    "alga",
+    "algae",
+    "allay",
+    "allege",
+    "alley",
+    "ally",
+    "eagle",
+    "elegy",
+    "gaggle",
+    "gala",
+    "gale",
+    "gall",
+    "galley",
+    "gavel",
+    "glee",
+    "glue",
+    "gluey",
+    "gull",
+    "gully",
+    "lava",
+    "league",
+    "leave",
+    "legal",
+    "legally",
+    "leggy",
+    "levee",
+    "level",
+    "levy",
+    "luau",
+    "luggage",
+    "lull",
+    "lulu",
+    "ugly",
+    "uvula",
+    "vaguely",
+    "vale",
+    "valley",
+    "value",
+    "valve",
+    "veal",
+    "yell",
+    "yule"
+  ],
+  "date": "2038-04-03",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 16,
+      "6": 5,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 6,
+      "E": 2,
+      "G": 11,
+      "L": 13,
+      "U": 2,
+      "V": 6,
+      "Y": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "6": 1
+      },
+      "E": {
+        "5": 2
+      },
+      "G": {
+        "4": 6,
+        "5": 3,
+        "6": 2
+      },
+      "L": {
+        "4": 5,
+        "5": 5,
+        "6": 1,
+        "7": 2
+      },
+      "U": {
+        "4": 1,
+        "5": 1
+      },
+      "V": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "Y": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 6,
+      "EA": 1,
+      "EL": 1,
+      "GA": 6,
+      "GL": 3,
+      "GU": 2,
+      "LA": 1,
+      "LE": 8,
+      "LU": 4,
+      "UG": 1,
+      "UV": 1,
+      "VA": 5,
+      "VE": 1,
+      "YE": 1,
+      "YU": 1
+    }
+  }
+}

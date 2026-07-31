@@ -1,0 +1,107 @@
+{
+  "pangram": "packing",
+  "center_letter": "p",
+  "num_answers": 37,
+  "num_pangrams": 4,
+  "possible_points": 233,
+  "answer_pangrams": [
+    "packaging",
+    "packing",
+    "pancaking",
+    "panicking"
+  ],
+  "answers": [
+    "aping",
+    "capping",
+    "gaping",
+    "kingpin",
+    "napkin",
+    "napping",
+    "nipping",
+    "pacing",
+    "pack",
+    "packaging",
+    "packing",
+    "pagan",
+    "paging",
+    "pain",
+    "paining",
+    "pancaking",
+    "pang",
+    "panic",
+    "panicking",
+    "panning",
+    "papa",
+    "pica",
+    "pick",
+    "picking",
+    "picnic",
+    "picnicking",
+    "pigging",
+    "piking",
+    "ping",
+    "pinging",
+    "pining",
+    "pink",
+    "pinking",
+    "pinning",
+    "piping",
+    "pippin",
+    "pipping"
+  ],
+  "date": "2033-03-21",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 3,
+      "6": 9,
+      "7": 13,
+      "9": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 1,
+      "G": 1,
+      "K": 1,
+      "N": 3,
+      "P": 30
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "C": {
+        "7": 1
+      },
+      "G": {
+        "6": 1
+      },
+      "K": {
+        "7": 1
+      },
+      "N": {
+        "6": 1,
+        "7": 2
+      },
+      "P": {
+        "4": 8,
+        "5": 2,
+        "6": 7,
+        "7": 9,
+        "9": 3,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AP": 1,
+      "CA": 1,
+      "GA": 1,
+      "KI": 1,
+      "NA": 2,
+      "NI": 1,
+      "PA": 14,
+      "PI": 16
+    }
+  }
+}

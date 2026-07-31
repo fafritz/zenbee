@@ -1,0 +1,137 @@
+{
+  "pangram": "carding",
+  "center_letter": "d",
+  "num_answers": 52,
+  "num_pangrams": 2,
+  "possible_points": 286,
+  "answer_pangrams": [
+    "cardigan",
+    "carding"
+  ],
+  "answers": [
+    "acid",
+    "acidic",
+    "acrid",
+    "adding",
+    "aiding",
+    "arid",
+    "cadging",
+    "canard",
+    "candid",
+    "card",
+    "cardiac",
+    "cardigan",
+    "carding",
+    "cicada",
+    "circadian",
+    "dancing",
+    "daring",
+    "darn",
+    "darning",
+    "dicing",
+    "digging",
+    "dinar",
+    "ding",
+    "dinging",
+    "dining",
+    "dinning",
+    "drag",
+    "dragging",
+    "drain",
+    "draining",
+    "gadding",
+    "gird",
+    "girding",
+    "grad",
+    "grading",
+    "grand",
+    "grid",
+    "grind",
+    "grinding",
+    "nadir",
+    "naiad",
+    "radar",
+    "radian",
+    "radii",
+    "raid",
+    "raiding",
+    "rancid",
+    "ridding",
+    "ridging",
+    "riding",
+    "rigid",
+    "rind"
+  ],
+  "date": "2036-11-26",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 10,
+      "6": 12,
+      "7": 14,
+      "8": 4,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 9,
+      "D": 15,
+      "G": 9,
+      "N": 2,
+      "R": 11
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 3
+      },
+      "C": {
+        "4": 1,
+        "6": 3,
+        "7": 3,
+        "8": 1,
+        "9": 1
+      },
+      "D": {
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 5,
+        "8": 2
+      },
+      "G": {
+        "4": 3,
+        "5": 2,
+        "7": 3,
+        "8": 1
+      },
+      "N": {
+        "5": 2
+      },
+      "R": {
+        "4": 2,
+        "5": 3,
+        "6": 3,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AD": 1,
+      "AI": 1,
+      "AR": 1,
+      "CA": 7,
+      "CI": 2,
+      "DA": 4,
+      "DI": 7,
+      "DR": 4,
+      "GA": 1,
+      "GI": 2,
+      "GR": 6,
+      "NA": 2,
+      "RA": 6,
+      "RI": 5
+    }
+  }
+}

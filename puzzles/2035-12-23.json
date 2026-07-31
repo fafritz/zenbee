@@ -1,0 +1,134 @@
+{
+  "pangram": "lumping",
+  "center_letter": "l",
+  "num_answers": 48,
+  "num_pangrams": 3,
+  "possible_points": 251,
+  "answer_pangrams": [
+    "lumping",
+    "pluming",
+    "plumping"
+  ],
+  "answers": [
+    "giggling",
+    "gill",
+    "gluing",
+    "glum",
+    "gull",
+    "gulling",
+    "gulp",
+    "gulping",
+    "illumining",
+    "liming",
+    "limn",
+    "limning",
+    "limp",
+    "limping",
+    "lining",
+    "lugging",
+    "lull",
+    "lulling",
+    "lulu",
+    "lump",
+    "lumping",
+    "lung",
+    "lunging",
+    "mill",
+    "milling",
+    "mingling",
+    "mull",
+    "mulling",
+    "niggling",
+    "null",
+    "piling",
+    "pill",
+    "pilling",
+    "plug",
+    "plugging",
+    "plugin",
+    "plum",
+    "pluming",
+    "plump",
+    "plumping",
+    "plunging",
+    "pull",
+    "pulling",
+    "pulp",
+    "pulping",
+    "pupil",
+    "unplug",
+    "unplugging"
+  ],
+  "date": "2035-12-23",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 2,
+      "6": 6,
+      "7": 14,
+      "8": 6,
+      "10": 2
+    },
+    "by_first_letter": {
+      "G": 8,
+      "I": 1,
+      "L": 14,
+      "M": 5,
+      "N": 2,
+      "P": 16,
+      "U": 2
+    },
+    "grid": {
+      "G": {
+        "4": 4,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "I": {
+        "10": 1
+      },
+      "L": {
+        "4": 6,
+        "6": 2,
+        "7": 6
+      },
+      "M": {
+        "4": 2,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 1,
+        "8": 1
+      },
+      "P": {
+        "4": 5,
+        "5": 2,
+        "6": 2,
+        "7": 4,
+        "8": 3
+      },
+      "U": {
+        "6": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 2,
+      "GL": 2,
+      "GU": 4,
+      "IL": 1,
+      "LI": 6,
+      "LU": 8,
+      "MI": 3,
+      "MU": 2,
+      "NI": 1,
+      "NU": 1,
+      "PI": 3,
+      "PL": 8,
+      "PU": 5,
+      "UN": 2
+    }
+  }
+}

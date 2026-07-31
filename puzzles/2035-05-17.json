@@ -1,0 +1,115 @@
+{
+  "pangram": "thimble",
+  "center_letter": "i",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 118,
+  "answer_pangrams": [
+    "thimble"
+  ],
+  "answers": [
+    "belie",
+    "belittle",
+    "bible",
+    "bile",
+    "bill",
+    "billet",
+    "bite",
+    "blithe",
+    "elite",
+    "emit",
+    "hill",
+    "hilt",
+    "imbibe",
+    "item",
+    "libel",
+    "lilt",
+    "limb",
+    "lime",
+    "limit",
+    "lite",
+    "lithe",
+    "little",
+    "mile",
+    "mill",
+    "millet",
+    "mime",
+    "mite",
+    "mitt",
+    "thimble",
+    "tile",
+    "till",
+    "tilt",
+    "time",
+    "tithe",
+    "title",
+    "tittle"
+  ],
+  "date": "2035-05-17",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 8,
+      "6": 6,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "B": 8,
+      "E": 2,
+      "H": 2,
+      "I": 2,
+      "L": 8,
+      "M": 6,
+      "T": 8
+    },
+    "grid": {
+      "B": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "8": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "H": {
+        "4": 2
+      },
+      "I": {
+        "4": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 3,
+        "6": 1
+      },
+      "M": {
+        "4": 5,
+        "6": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 2,
+      "BI": 5,
+      "BL": 1,
+      "EL": 1,
+      "EM": 1,
+      "HI": 2,
+      "IM": 1,
+      "IT": 1,
+      "LI": 8,
+      "MI": 6,
+      "TH": 1,
+      "TI": 7
+    }
+  }
+}

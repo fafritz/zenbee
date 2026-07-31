@@ -1,0 +1,80 @@
+{
+  "pangram": "vacuity",
+  "center_letter": "c",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 87,
+  "answer_pangrams": [
+    "vacuity"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "activity",
+    "acuity",
+    "attic",
+    "cacti",
+    "catty",
+    "cavity",
+    "city",
+    "civic",
+    "tacit",
+    "tact",
+    "tactic",
+    "vacuity",
+    "vivacity",
+    "yucca"
+  ],
+  "date": "2028-04-14",
+  "hints": {
+    "by_length": {
+      "4": 3,
+      "5": 6,
+      "6": 4,
+      "7": 1,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 5,
+      "T": 3,
+      "V": 2,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "8": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 3,
+        "6": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "V": {
+        "7": 1,
+        "8": 1
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 4,
+      "AT": 1,
+      "CA": 3,
+      "CI": 2,
+      "TA": 3,
+      "VA": 1,
+      "VI": 1,
+      "YU": 1
+    }
+  }
+}

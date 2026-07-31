@@ -1,0 +1,92 @@
+{
+  "pangram": "phoenix",
+  "center_letter": "n",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 78,
+  "answer_pangrams": [
+    "phoenix"
+  ],
+  "answers": [
+    "hone",
+    "iphone",
+    "nene",
+    "neon",
+    "nine",
+    "none",
+    "noon",
+    "nope",
+    "onion",
+    "open",
+    "opine",
+    "opinion",
+    "oxen",
+    "peen",
+    "pennon",
+    "peon",
+    "phoenix",
+    "phone",
+    "pine",
+    "pinion",
+    "pippin",
+    "pone",
+    "xenon"
+  ],
+  "date": "2028-01-27",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 4,
+      "6": 4,
+      "7": 2
+    },
+    "by_first_letter": {
+      "H": 1,
+      "I": 1,
+      "N": 6,
+      "O": 5,
+      "P": 9,
+      "X": 1
+    },
+    "grid": {
+      "H": {
+        "4": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "N": {
+        "4": 6
+      },
+      "O": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "P": {
+        "4": 4,
+        "5": 1,
+        "6": 3,
+        "7": 1
+      },
+      "X": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "HO": 1,
+      "IP": 1,
+      "NE": 2,
+      "NI": 1,
+      "NO": 3,
+      "ON": 1,
+      "OP": 3,
+      "OX": 1,
+      "PE": 3,
+      "PH": 2,
+      "PI": 3,
+      "PO": 1,
+      "XE": 1
+    }
+  }
+}

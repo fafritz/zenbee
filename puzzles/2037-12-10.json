@@ -1,0 +1,133 @@
+{
+  "pangram": "lazying",
+  "center_letter": "i",
+  "num_answers": 46,
+  "num_pangrams": 2,
+  "possible_points": 288,
+  "answer_pangrams": [
+    "analyzing",
+    "lazying"
+  ],
+  "answers": [
+    "again",
+    "aging",
+    "ailing",
+    "align",
+    "aligning",
+    "allaying",
+    "allying",
+    "analyzing",
+    "angina",
+    "angling",
+    "gagging",
+    "gain",
+    "gaining",
+    "galling",
+    "ganging",
+    "ganglia",
+    "gangling",
+    "gazing",
+    "gigging",
+    "giggling",
+    "giggly",
+    "gill",
+    "ginning",
+    "glazing",
+    "inlay",
+    "inlaying",
+    "inning",
+    "lagging",
+    "lain",
+    "laying",
+    "lazily",
+    "lazing",
+    "lazying",
+    "lily",
+    "lining",
+    "lying",
+    "nagging",
+    "nail",
+    "nailing",
+    "niggling",
+    "ninny",
+    "zigzag",
+    "zigzagging",
+    "zing",
+    "zinging",
+    "zinnia"
+  ],
+  "date": "2037-12-10",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 6,
+      "6": 11,
+      "7": 15,
+      "8": 6,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 10,
+      "G": 14,
+      "I": 3,
+      "L": 9,
+      "N": 5,
+      "Z": 5
+    },
+    "grid": {
+      "A": {
+        "5": 3,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 1
+      },
+      "G": {
+        "4": 2,
+        "6": 2,
+        "7": 8,
+        "8": 2
+      },
+      "I": {
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "6": 4,
+        "7": 2
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "7": 2,
+        "8": 1
+      },
+      "Z": {
+        "4": 1,
+        "6": 2,
+        "7": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 1,
+      "AL": 4,
+      "AN": 3,
+      "GA": 8,
+      "GI": 5,
+      "GL": 1,
+      "IN": 3,
+      "LA": 6,
+      "LI": 2,
+      "LY": 1,
+      "NA": 3,
+      "NI": 2,
+      "ZI": 5
+    }
+  }
+}

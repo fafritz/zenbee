@@ -1,0 +1,87 @@
+{
+  "pangram": "chimney",
+  "center_letter": "c",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 90,
+  "answer_pangrams": [
+    "chimney"
+  ],
+  "answers": [
+    "chem",
+    "chic",
+    "chime",
+    "chimney",
+    "chin",
+    "cinch",
+    "cynic",
+    "emcee",
+    "eminence",
+    "hence",
+    "henchmen",
+    "imminence",
+    "inch",
+    "mice",
+    "mimic",
+    "mince",
+    "nice",
+    "niche",
+    "niece"
+  ],
+  "date": "2030-09-20",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 9,
+      "7": 1,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 7,
+      "E": 2,
+      "H": 2,
+      "I": 2,
+      "M": 3,
+      "N": 3
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 3,
+        "7": 1
+      },
+      "E": {
+        "5": 1,
+        "8": 1
+      },
+      "H": {
+        "5": 1,
+        "8": 1
+      },
+      "I": {
+        "4": 1,
+        "9": 1
+      },
+      "M": {
+        "4": 1,
+        "5": 2
+      },
+      "N": {
+        "4": 1,
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "CH": 5,
+      "CI": 1,
+      "CY": 1,
+      "EM": 2,
+      "HE": 2,
+      "IM": 1,
+      "IN": 1,
+      "MI": 3,
+      "NI": 3
+    }
+  }
+}

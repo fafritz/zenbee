@@ -1,0 +1,134 @@
+{
+  "pangram": "factory",
+  "center_letter": "r",
+  "num_answers": 48,
+  "num_pangrams": 1,
+  "possible_points": 189,
+  "answer_pangrams": [
+    "factory"
+  ],
+  "answers": [
+    "actor",
+    "afar",
+    "aorta",
+    "array",
+    "arroyo",
+    "arty",
+    "attar",
+    "attract",
+    "carat",
+    "carrot",
+    "carry",
+    "cart",
+    "cataract",
+    "cottar",
+    "craft",
+    "crafty",
+    "cray",
+    "factor",
+    "factory",
+    "fart",
+    "foray",
+    "fort",
+    "forty",
+    "frat",
+    "fray",
+    "orator",
+    "oratory",
+    "racy",
+    "raft",
+    "ratatat",
+    "ratty",
+    "roar",
+    "rococo",
+    "roof",
+    "root",
+    "rotary",
+    "rotor",
+    "taro",
+    "tarot",
+    "tart",
+    "tartar",
+    "tort",
+    "tract",
+    "tractor",
+    "tray",
+    "trot",
+    "troy",
+    "tyro"
+  ],
+  "date": "2037-11-09",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 13,
+      "6": 9,
+      "7": 5,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "C": 9,
+      "F": 8,
+      "O": 2,
+      "R": 10,
+      "T": 11
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 4,
+        "6": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 3,
+        "6": 3,
+        "8": 1
+      },
+      "F": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "O": {
+        "6": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 5,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "T": {
+        "4": 7,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AF": 1,
+      "AO": 1,
+      "AR": 3,
+      "AT": 2,
+      "CA": 5,
+      "CO": 1,
+      "CR": 3,
+      "FA": 3,
+      "FO": 3,
+      "FR": 2,
+      "OR": 2,
+      "RA": 4,
+      "RO": 6,
+      "TA": 4,
+      "TO": 1,
+      "TR": 5,
+      "TY": 1
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "pangram": "charity",
+  "center_letter": "a",
+  "num_answers": 58,
+  "num_pangrams": 1,
+  "possible_points": 262,
+  "answer_pangrams": [
+    "charity"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "achy",
+    "airy",
+    "arch",
+    "archaic",
+    "arctic",
+    "aria",
+    "array",
+    "arthritic",
+    "arty",
+    "atria",
+    "attach",
+    "attar",
+    "attic",
+    "attract",
+    "cacti",
+    "carat",
+    "carry",
+    "cart",
+    "cataract",
+    "catarrh",
+    "catch",
+    "catchy",
+    "cathartic",
+    "catty",
+    "chair",
+    "char",
+    "charity",
+    "chart",
+    "chary",
+    "chat",
+    "chatty",
+    "chitchat",
+    "circa",
+    "cray",
+    "hair",
+    "hairy",
+    "harry",
+    "hart",
+    "hatch",
+    "racy",
+    "rarity",
+    "ratatat",
+    "ratty",
+    "tacit",
+    "tact",
+    "tactic",
+    "tart",
+    "tartar",
+    "tatty",
+    "that",
+    "thatch",
+    "tiara",
+    "tract",
+    "trait",
+    "tray",
+    "yacht"
+  ],
+  "date": "2038-08-22",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 23,
+      "6": 9,
+      "7": 5,
+      "8": 2,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 16,
+      "C": 20,
+      "H": 5,
+      "R": 4,
+      "T": 12,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 6,
+        "5": 4,
+        "6": 3,
+        "7": 2,
+        "9": 1
+      },
+      "C": {
+        "4": 4,
+        "5": 9,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 3
+      },
+      "R": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 5,
+        "6": 3
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AI": 1,
+      "AR": 7,
+      "AT": 5,
+      "CA": 10,
+      "CH": 8,
+      "CI": 1,
+      "CR": 1,
+      "HA": 5,
+      "RA": 4,
+      "TA": 6,
+      "TH": 2,
+      "TI": 1,
+      "TR": 3,
+      "YA": 1
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "pangram": "nightly",
+  "center_letter": "i",
+  "num_answers": 61,
+  "num_pangrams": 1,
+  "possible_points": 323,
+  "answer_pangrams": [
+    "nightly"
+  ],
+  "answers": [
+    "gigging",
+    "giggling",
+    "giggly",
+    "gill",
+    "gilt",
+    "ginning",
+    "glint",
+    "glinting",
+    "high",
+    "highlight",
+    "highlighting",
+    "highly",
+    "hill",
+    "hilly",
+    "hilt",
+    "hing",
+    "hinging",
+    "hint",
+    "hinting",
+    "hitting",
+    "igniting",
+    "inning",
+    "light",
+    "lighting",
+    "lightly",
+    "lightning",
+    "lilt",
+    "lilting",
+    "lily",
+    "lining",
+    "lint",
+    "linting",
+    "lying",
+    "niggling",
+    "nigh",
+    "night",
+    "nightly",
+    "ninny",
+    "ninth",
+    "thigh",
+    "thin",
+    "thing",
+    "thinly",
+    "thinning",
+    "tight",
+    "tightly",
+    "tiling",
+    "till",
+    "tilling",
+    "tilt",
+    "tilting",
+    "tingling",
+    "tingly",
+    "tinning",
+    "tinny",
+    "tint",
+    "tinting",
+    "tiny",
+    "tithing",
+    "titling",
+    "tying"
+  ],
+  "date": "2038-04-01",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 12,
+      "6": 7,
+      "7": 16,
+      "8": 7,
+      "9": 2,
+      "12": 1
+    },
+    "by_first_letter": {
+      "G": 8,
+      "H": 12,
+      "I": 2,
+      "L": 11,
+      "N": 6,
+      "T": 22
+    },
+    "grid": {
+      "G": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 2
+      },
+      "H": {
+        "4": 5,
+        "5": 1,
+        "6": 1,
+        "7": 3,
+        "9": 1,
+        "12": 1
+      },
+      "I": {
+        "6": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 3,
+        "8": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 3,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 5,
+        "6": 3,
+        "7": 7,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "GI": 6,
+      "GL": 2,
+      "HI": 12,
+      "IG": 1,
+      "IN": 1,
+      "LI": 10,
+      "LY": 1,
+      "NI": 6,
+      "TH": 5,
+      "TI": 16,
+      "TY": 1
+    }
+  }
+}

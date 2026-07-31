@@ -1,0 +1,104 @@
+{
+  "pangram": "dubiety",
+  "center_letter": "t",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 130,
+  "answer_pangrams": [
+    "dubiety"
+  ],
+  "answers": [
+    "beet",
+    "betided",
+    "bidet",
+    "bite",
+    "butte",
+    "butted",
+    "byte",
+    "debit",
+    "debited",
+    "debt",
+    "debut",
+    "debuted",
+    "deity",
+    "diet",
+    "dieted",
+    "ditty",
+    "dubiety",
+    "duet",
+    "duty",
+    "edit",
+    "edited",
+    "etude",
+    "teed",
+    "tidbit",
+    "tide",
+    "tided",
+    "tidied",
+    "tidy",
+    "tied",
+    "tubby",
+    "tube",
+    "tubed",
+    "tutu",
+    "yeti"
+  ],
+  "date": "2029-06-27",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 10,
+      "6": 5,
+      "7": 4
+    },
+    "by_first_letter": {
+      "B": 7,
+      "D": 12,
+      "E": 3,
+      "T": 11,
+      "Y": 1
+    },
+    "grid": {
+      "B": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 4,
+        "5": 4,
+        "6": 1,
+        "7": 3
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 3,
+        "6": 2
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 2,
+      "BI": 2,
+      "BU": 2,
+      "BY": 1,
+      "DE": 6,
+      "DI": 3,
+      "DU": 3,
+      "ED": 2,
+      "ET": 1,
+      "TE": 1,
+      "TI": 6,
+      "TU": 4,
+      "YE": 1
+    }
+  }
+}

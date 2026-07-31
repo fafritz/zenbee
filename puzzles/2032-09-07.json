@@ -1,0 +1,107 @@
+{
+  "pangram": "gaudily",
+  "center_letter": "l",
+  "num_answers": 35,
+  "num_pangrams": 1,
+  "possible_points": 105,
+  "answer_pangrams": [
+    "gaudily"
+  ],
+  "answers": [
+    "alga",
+    "allay",
+    "ally",
+    "daily",
+    "dally",
+    "dial",
+    "dill",
+    "dilly",
+    "dillydally",
+    "dual",
+    "dull",
+    "dully",
+    "duly",
+    "gala",
+    "gall",
+    "gaudily",
+    "giddily",
+    "giggly",
+    "gild",
+    "gill",
+    "glad",
+    "gladly",
+    "guild",
+    "gull",
+    "gully",
+    "idly",
+    "idyll",
+    "lady",
+    "laid",
+    "laud",
+    "lily",
+    "luau",
+    "lull",
+    "lulu",
+    "ugly"
+  ],
+  "date": "2032-09-07",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 8,
+      "6": 2,
+      "7": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 10,
+      "G": 12,
+      "I": 2,
+      "L": 7,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "D": {
+        "4": 5,
+        "5": 4,
+        "10": 1
+      },
+      "G": {
+        "4": 6,
+        "5": 2,
+        "6": 2,
+        "7": 2
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 7
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 3,
+      "DA": 2,
+      "DI": 4,
+      "DU": 4,
+      "GA": 3,
+      "GI": 4,
+      "GL": 2,
+      "GU": 3,
+      "ID": 2,
+      "LA": 3,
+      "LI": 1,
+      "LU": 3,
+      "UG": 1
+    }
+  }
+}

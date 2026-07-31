@@ -1,0 +1,160 @@
+{
+  "pangram": "declaim",
+  "center_letter": "c",
+  "num_answers": 63,
+  "num_pangrams": 7,
+  "possible_points": 346,
+  "answer_pangrams": [
+    "academical",
+    "acclaimed",
+    "claimed",
+    "decimal",
+    "declaim",
+    "declaimed",
+    "medical"
+  ],
+  "answers": [
+    "acacia",
+    "academic",
+    "academical",
+    "acai",
+    "accede",
+    "acceded",
+    "acclaim",
+    "acclaimed",
+    "aced",
+    "acid",
+    "acidic",
+    "acme",
+    "caddie",
+    "caddied",
+    "call",
+    "calla",
+    "called",
+    "calm",
+    "calmed",
+    "came",
+    "camel",
+    "camellia",
+    "cede",
+    "ceded",
+    "cedilla",
+    "cell",
+    "cicada",
+    "cilia",
+    "clad",
+    "claim",
+    "claimed",
+    "clam",
+    "clammed",
+    "clime",
+    "decade",
+    "decal",
+    "decide",
+    "decided",
+    "decimal",
+    "declaim",
+    "declaimed",
+    "deice",
+    "deiced",
+    "dice",
+    "diced",
+    "emcee",
+    "emceed",
+    "iced",
+    "icicle",
+    "lace",
+    "laced",
+    "lice",
+    "lilac",
+    "macadam",
+    "mace",
+    "maced",
+    "malice",
+    "mecca",
+    "medic",
+    "medical",
+    "mica",
+    "mice",
+    "mimic"
+  ],
+  "date": "2030-03-12",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 16,
+      "6": 13,
+      "7": 11,
+      "8": 2,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 12,
+      "C": 22,
+      "D": 11,
+      "E": 2,
+      "I": 2,
+      "L": 4,
+      "M": 10
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "C": {
+        "4": 7,
+        "5": 6,
+        "6": 4,
+        "7": 4,
+        "8": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 3,
+        "6": 3,
+        "7": 3,
+        "9": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 2
+      },
+      "M": {
+        "4": 3,
+        "5": 4,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 12,
+      "CA": 10,
+      "CE": 4,
+      "CI": 2,
+      "CL": 6,
+      "DE": 9,
+      "DI": 2,
+      "EM": 2,
+      "IC": 2,
+      "LA": 2,
+      "LI": 2,
+      "MA": 4,
+      "ME": 3,
+      "MI": 3
+    }
+  }
+}

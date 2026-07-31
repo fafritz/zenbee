@@ -1,0 +1,88 @@
+{
+  "pangram": "company",
+  "center_letter": "m",
+  "num_answers": 25,
+  "num_pangrams": 2,
+  "possible_points": 95,
+  "answer_pangrams": [
+    "accompany",
+    "company"
+  ],
+  "answers": [
+    "accompany",
+    "ammo",
+    "camo",
+    "camp",
+    "campo",
+    "campy",
+    "coma",
+    "comma",
+    "common",
+    "comp",
+    "company",
+    "compo",
+    "mama",
+    "mamma",
+    "manna",
+    "many",
+    "mayo",
+    "moan",
+    "momma",
+    "mommy",
+    "mono",
+    "moon",
+    "myna",
+    "noncom",
+    "pomp"
+  ],
+  "date": "2030-09-26",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 8,
+      "6": 2,
+      "7": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 10,
+      "M": 11,
+      "N": 1,
+      "P": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "9": 1
+      },
+      "C": {
+        "4": 4,
+        "5": 4,
+        "6": 1,
+        "7": 1
+      },
+      "M": {
+        "4": 7,
+        "5": 4
+      },
+      "N": {
+        "6": 1
+      },
+      "P": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AM": 1,
+      "CA": 4,
+      "CO": 6,
+      "MA": 5,
+      "MO": 5,
+      "MY": 1,
+      "NO": 1,
+      "PO": 1
+    }
+  }
+}

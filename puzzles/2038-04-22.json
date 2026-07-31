@@ -1,0 +1,122 @@
+{
+  "pangram": "purling",
+  "center_letter": "l",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 208,
+  "answer_pangrams": [
+    "purling"
+  ],
+  "answers": [
+    "giggling",
+    "gill",
+    "girl",
+    "gluing",
+    "grill",
+    "grilling",
+    "gull",
+    "gulling",
+    "gulp",
+    "gulping",
+    "gurgling",
+    "lining",
+    "lugging",
+    "lull",
+    "lulling",
+    "lulu",
+    "lung",
+    "lunging",
+    "luring",
+    "niggling",
+    "null",
+    "piling",
+    "pill",
+    "pilling",
+    "plug",
+    "plugging",
+    "plugin",
+    "plunging",
+    "pull",
+    "pulling",
+    "pulp",
+    "pulping",
+    "pupil",
+    "purl",
+    "purling",
+    "riling",
+    "rill",
+    "rippling",
+    "ruling",
+    "unplug",
+    "unplugging"
+  ],
+  "date": "2038-04-22",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 2,
+      "6": 8,
+      "7": 9,
+      "8": 7,
+      "10": 1
+    },
+    "by_first_letter": {
+      "G": 11,
+      "L": 8,
+      "N": 2,
+      "P": 14,
+      "R": 4,
+      "U": 2
+    },
+    "grid": {
+      "G": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 3
+      },
+      "L": {
+        "4": 3,
+        "6": 2,
+        "7": 3
+      },
+      "N": {
+        "4": 1,
+        "8": 1
+      },
+      "P": {
+        "4": 5,
+        "5": 1,
+        "6": 2,
+        "7": 4,
+        "8": 2
+      },
+      "R": {
+        "4": 1,
+        "6": 2,
+        "8": 1
+      },
+      "U": {
+        "6": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 3,
+      "GL": 1,
+      "GR": 2,
+      "GU": 5,
+      "LI": 1,
+      "LU": 7,
+      "NI": 1,
+      "NU": 1,
+      "PI": 3,
+      "PL": 4,
+      "PU": 7,
+      "RI": 3,
+      "RU": 1,
+      "UN": 2
+    }
+  }
+}

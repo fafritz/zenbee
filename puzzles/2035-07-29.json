@@ -1,0 +1,95 @@
+{
+  "pangram": "mocking",
+  "center_letter": "m",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 135,
+  "answer_pangrams": [
+    "mocking"
+  ],
+  "answers": [
+    "comic",
+    "coming",
+    "common",
+    "gimmick",
+    "incoming",
+    "kimono",
+    "miking",
+    "mimic",
+    "mimicking",
+    "miming",
+    "mincing",
+    "mini",
+    "minim",
+    "mining",
+    "minion",
+    "mink",
+    "mock",
+    "mocking",
+    "monk",
+    "mono",
+    "mooing",
+    "moon",
+    "mooning",
+    "noncom",
+    "oncoming"
+  ],
+  "date": "2035-07-29",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 3,
+      "6": 9,
+      "7": 4,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 3,
+      "G": 1,
+      "I": 1,
+      "K": 1,
+      "M": 17,
+      "N": 1,
+      "O": 1
+    },
+    "grid": {
+      "C": {
+        "5": 1,
+        "6": 2
+      },
+      "G": {
+        "7": 1
+      },
+      "I": {
+        "8": 1
+      },
+      "K": {
+        "6": 1
+      },
+      "M": {
+        "4": 6,
+        "5": 2,
+        "6": 5,
+        "7": 3,
+        "9": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "O": {
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 3,
+      "GI": 1,
+      "IN": 1,
+      "KI": 1,
+      "MI": 10,
+      "MO": 7,
+      "NO": 1,
+      "ON": 1
+    }
+  }
+}

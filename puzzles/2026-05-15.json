@@ -1,0 +1,105 @@
+{
+  "pangram": "raunchy",
+  "center_letter": "y",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 122,
+  "answer_pangrams": [
+    "raunchy"
+  ],
+  "answers": [
+    "accuracy",
+    "achy",
+    "anarchy",
+    "array",
+    "canary",
+    "canny",
+    "carry",
+    "chancy",
+    "chary",
+    "cranny",
+    "cray",
+    "crunchy",
+    "curacy",
+    "curry",
+    "cyan",
+    "harry",
+    "hurry",
+    "nanny",
+    "racy",
+    "raunchy",
+    "runny",
+    "uncanny",
+    "yarn",
+    "yucca"
+  ],
+  "date": "2026-05-15",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 10,
+      "6": 4,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 11,
+      "H": 2,
+      "N": 1,
+      "R": 3,
+      "U": 1,
+      "Y": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 4,
+        "6": 4,
+        "7": 1
+      },
+      "H": {
+        "5": 2
+      },
+      "N": {
+        "5": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "U": {
+        "7": 1
+      },
+      "Y": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AN": 1,
+      "AR": 1,
+      "CA": 3,
+      "CH": 2,
+      "CR": 3,
+      "CU": 2,
+      "CY": 1,
+      "HA": 1,
+      "HU": 1,
+      "NA": 1,
+      "RA": 2,
+      "RU": 1,
+      "UN": 1,
+      "YA": 1,
+      "YU": 1
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "pangram": "formula",
+  "center_letter": "u",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 108,
+  "answer_pangrams": [
+    "formula"
+  ],
+  "answers": [
+    "afoul",
+    "alum",
+    "amour",
+    "armful",
+    "aura",
+    "aural",
+    "flour",
+    "fluff",
+    "formula",
+    "forum",
+    "foul",
+    "four",
+    "full",
+    "furl",
+    "furor",
+    "luau",
+    "lull",
+    "lulu",
+    "maul",
+    "muff",
+    "mull",
+    "mural",
+    "murmur",
+    "muumuu",
+    "ormolu",
+    "roomful",
+    "ruff",
+    "rumor",
+    "rural"
+  ],
+  "date": "2027-10-08",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 10,
+      "6": 4,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 6,
+      "F": 9,
+      "L": 3,
+      "M": 6,
+      "O": 1,
+      "R": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "6": 1
+      },
+      "F": {
+        "4": 4,
+        "5": 4,
+        "7": 1
+      },
+      "L": {
+        "4": 3
+      },
+      "M": {
+        "4": 3,
+        "5": 1,
+        "6": 2
+      },
+      "O": {
+        "6": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AF": 1,
+      "AL": 1,
+      "AM": 1,
+      "AR": 1,
+      "AU": 2,
+      "FL": 2,
+      "FO": 4,
+      "FU": 3,
+      "LU": 3,
+      "MA": 1,
+      "MU": 5,
+      "OR": 1,
+      "RO": 1,
+      "RU": 3
+    }
+  }
+}

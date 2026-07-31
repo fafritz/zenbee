@@ -1,0 +1,110 @@
+{
+  "pangram": "pelting",
+  "center_letter": "p",
+  "num_answers": 45,
+  "num_pangrams": 2,
+  "possible_points": 244,
+  "answer_pangrams": [
+    "pelleting",
+    "pelting"
+  ],
+  "answers": [
+    "epee",
+    "inept",
+    "nipping",
+    "peeing",
+    "peel",
+    "peeling",
+    "peen",
+    "peep",
+    "peeping",
+    "pellet",
+    "pelleting",
+    "pelt",
+    "pelting",
+    "penile",
+    "penitent",
+    "penning",
+    "pent",
+    "pepping",
+    "petite",
+    "petting",
+    "pieing",
+    "pigging",
+    "piglet",
+    "pigpen",
+    "pile",
+    "piling",
+    "pill",
+    "pilling",
+    "pine",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "pint",
+    "pipe",
+    "pipeline",
+    "piping",
+    "pipit",
+    "pippin",
+    "pipping",
+    "pitting",
+    "tepee",
+    "tipping",
+    "tipple",
+    "tippling"
+  ],
+  "date": "2037-03-08",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 3,
+      "6": 12,
+      "7": 14,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "E": 1,
+      "I": 1,
+      "N": 1,
+      "P": 38,
+      "T": 4
+    },
+    "grid": {
+      "E": {
+        "4": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "N": {
+        "7": 1
+      },
+      "P": {
+        "4": 11,
+        "5": 1,
+        "6": 11,
+        "7": 12,
+        "8": 2,
+        "9": 1
+      },
+      "T": {
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "EP": 1,
+      "IN": 1,
+      "NI": 1,
+      "PE": 17,
+      "PI": 21,
+      "TE": 1,
+      "TI": 3
+    }
+  }
+}

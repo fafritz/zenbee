@@ -1,0 +1,122 @@
+{
+  "pangram": "inboard",
+  "center_letter": "b",
+  "num_answers": 47,
+  "num_pangrams": 1,
+  "possible_points": 200,
+  "answer_pangrams": [
+    "inboard"
+  ],
+  "answers": [
+    "abandon",
+    "aboard",
+    "abroad",
+    "arbor",
+    "baba",
+    "baboon",
+    "banana",
+    "band",
+    "bandanna",
+    "baobab",
+    "barb",
+    "barbarian",
+    "bard",
+    "barn",
+    "baron",
+    "barrio",
+    "bind",
+    "bird",
+    "boar",
+    "board",
+    "bobbin",
+    "bonbon",
+    "bond",
+    "boob",
+    "booboo",
+    "boon",
+    "boor",
+    "born",
+    "boron",
+    "brad",
+    "braid",
+    "brain",
+    "bran",
+    "brand",
+    "briar",
+    "broad",
+    "broadband",
+    "brood",
+    "drab",
+    "ibid",
+    "inboard",
+    "inborn",
+    "nabob",
+    "rabbi",
+    "rabid",
+    "ribbon",
+    "robin"
+  ],
+  "date": "2032-05-25",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 14,
+      "6": 11,
+      "7": 2,
+      "8": 1,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 4,
+      "B": 34,
+      "D": 1,
+      "I": 3,
+      "N": 1,
+      "R": 4
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "B": {
+        "4": 15,
+        "5": 9,
+        "6": 7,
+        "8": 1,
+        "9": 2
+      },
+      "D": {
+        "4": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "5": 1
+      },
+      "R": {
+        "5": 3,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 3,
+      "AR": 1,
+      "BA": 12,
+      "BI": 2,
+      "BO": 11,
+      "BR": 9,
+      "DR": 1,
+      "IB": 1,
+      "IN": 2,
+      "NA": 1,
+      "RA": 2,
+      "RI": 1,
+      "RO": 1
+    }
+  }
+}

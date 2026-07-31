@@ -1,0 +1,90 @@
+{
+  "pangram": "carving",
+  "center_letter": "v",
+  "num_answers": 18,
+  "num_pangrams": 2,
+  "possible_points": 124,
+  "answer_pangrams": [
+    "carving",
+    "craving"
+  ],
+  "answers": [
+    "arriving",
+    "avian",
+    "caravan",
+    "carving",
+    "caviar",
+    "caving",
+    "civic",
+    "craving",
+    "giving",
+    "graving",
+    "nirvana",
+    "ravaging",
+    "raving",
+    "vain",
+    "vanning",
+    "vicar",
+    "vicing",
+    "virgin"
+  ],
+  "date": "2037-05-07",
+  "hints": {
+    "by_length": {
+      "4": 1,
+      "5": 3,
+      "6": 6,
+      "7": 6,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 6,
+      "G": 2,
+      "N": 1,
+      "R": 2,
+      "V": 5
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "8": 1
+      },
+      "C": {
+        "5": 1,
+        "6": 2,
+        "7": 3
+      },
+      "G": {
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "7": 1
+      },
+      "R": {
+        "6": 1,
+        "8": 1
+      },
+      "V": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AR": 1,
+      "AV": 1,
+      "CA": 4,
+      "CI": 1,
+      "CR": 1,
+      "GI": 1,
+      "GR": 1,
+      "NI": 1,
+      "RA": 2,
+      "VA": 2,
+      "VI": 3
+    }
+  }
+}

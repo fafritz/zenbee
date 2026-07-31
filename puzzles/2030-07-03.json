@@ -1,0 +1,121 @@
+{
+  "pangram": "debauch",
+  "center_letter": "a",
+  "num_answers": 39,
+  "num_pangrams": 2,
+  "possible_points": 185,
+  "answer_pangrams": [
+    "debauch",
+    "debauched"
+  ],
+  "answers": [
+    "abbe",
+    "accede",
+    "acceded",
+    "aced",
+    "ache",
+    "ached",
+    "added",
+    "adduce",
+    "adduced",
+    "ahead",
+    "baaed",
+    "baba",
+    "babe",
+    "bade",
+    "baud",
+    "beach",
+    "beached",
+    "beachhead",
+    "bead",
+    "beaded",
+    "beau",
+    "behead",
+    "beheaded",
+    "cabbed",
+    "cache",
+    "cached",
+    "chad",
+    "dabbed",
+    "dacha",
+    "daub",
+    "daubed",
+    "dead",
+    "debauch",
+    "debauched",
+    "decade",
+    "each",
+    "head",
+    "headache",
+    "headed"
+  ],
+  "date": "2030-07-03",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 7,
+      "6": 10,
+      "7": 4,
+      "8": 2,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 10,
+      "B": 13,
+      "C": 4,
+      "D": 8,
+      "E": 1,
+      "H": 3
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 3,
+        "6": 2,
+        "7": 2
+      },
+      "B": {
+        "4": 6,
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 1,
+        "9": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "H": {
+        "4": 1,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AC": 5,
+      "AD": 3,
+      "AH": 1,
+      "BA": 5,
+      "BE": 8,
+      "CA": 3,
+      "CH": 1,
+      "DA": 4,
+      "DE": 4,
+      "EA": 1,
+      "HE": 3
+    }
+  }
+}

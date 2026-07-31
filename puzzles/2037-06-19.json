@@ -1,0 +1,100 @@
+{
+  "pangram": "majorly",
+  "center_letter": "r",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 160,
+  "answer_pangrams": [
+    "majorly"
+  ],
+  "answers": [
+    "ajar",
+    "alarm",
+    "amoral",
+    "amorally",
+    "armor",
+    "armory",
+    "army",
+    "aroma",
+    "array",
+    "arroyo",
+    "lorry",
+    "major",
+    "majorly",
+    "mammary",
+    "marjoram",
+    "marry",
+    "mayor",
+    "mayoral",
+    "molar",
+    "moor",
+    "moral",
+    "morally",
+    "moray",
+    "oral",
+    "orally",
+    "rally",
+    "roam",
+    "roar",
+    "roll",
+    "room",
+    "roomy",
+    "royal",
+    "royally"
+  ],
+  "date": "2037-06-19",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 14,
+      "6": 4,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 10,
+      "L": 1,
+      "M": 12,
+      "O": 2,
+      "R": 8
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 4,
+        "6": 3,
+        "8": 1
+      },
+      "L": {
+        "5": 1
+      },
+      "M": {
+        "4": 1,
+        "5": 6,
+        "7": 4,
+        "8": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 1
+      },
+      "R": {
+        "4": 4,
+        "5": 3,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AJ": 1,
+      "AL": 1,
+      "AM": 2,
+      "AR": 6,
+      "LO": 1,
+      "MA": 7,
+      "MO": 5,
+      "OR": 2,
+      "RA": 1,
+      "RO": 7
+    }
+  }
+}

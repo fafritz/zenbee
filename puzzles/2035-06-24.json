@@ -1,0 +1,134 @@
+{
+  "pangram": "beatnik",
+  "center_letter": "e",
+  "num_answers": 49,
+  "num_pangrams": 1,
+  "possible_points": 175,
+  "answer_pangrams": [
+    "beatnik"
+  ],
+  "answers": [
+    "abate",
+    "abbe",
+    "abet",
+    "ante",
+    "antenna",
+    "antennae",
+    "babe",
+    "bake",
+    "bane",
+    "batten",
+    "beak",
+    "bean",
+    "beat",
+    "beaten",
+    "beatnik",
+    "been",
+    "beet",
+    "bent",
+    "beta",
+    "betake",
+    "betaken",
+    "bike",
+    "bite",
+    "bitten",
+    "eaten",
+    "entente",
+    "inane",
+    "initiate",
+    "innate",
+    "intake",
+    "intent",
+    "kebab",
+    "keen",
+    "kite",
+    "kitten",
+    "knee",
+    "neat",
+    "nene",
+    "nine",
+    "nineteen",
+    "take",
+    "taken",
+    "teak",
+    "teen",
+    "tenant",
+    "tenet",
+    "tent",
+    "tibiae",
+    "tine"
+  ],
+  "date": "2035-06-24",
+  "hints": {
+    "by_length": {
+      "4": 26,
+      "5": 6,
+      "6": 10,
+      "7": 4,
+      "8": 3
+    },
+    "by_first_letter": {
+      "A": 6,
+      "B": 18,
+      "E": 2,
+      "I": 5,
+      "K": 5,
+      "N": 4,
+      "T": 9
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "B": {
+        "4": 12,
+        "6": 4,
+        "7": 2
+      },
+      "E": {
+        "5": 1,
+        "7": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 3,
+        "8": 1
+      },
+      "K": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "4": 3,
+        "8": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 2,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 3,
+      "AN": 3,
+      "BA": 4,
+      "BE": 11,
+      "BI": 3,
+      "EA": 1,
+      "EN": 1,
+      "IN": 5,
+      "KE": 2,
+      "KI": 2,
+      "KN": 1,
+      "NE": 2,
+      "NI": 2,
+      "TA": 2,
+      "TE": 5,
+      "TI": 2
+    }
+  }
+}

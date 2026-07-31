@@ -1,0 +1,108 @@
+{
+  "pangram": "prodigy",
+  "center_letter": "o",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 96,
+  "answer_pangrams": [
+    "prodigy"
+  ],
+  "answers": [
+    "dodgy",
+    "dodo",
+    "doggy",
+    "door",
+    "dory",
+    "droid",
+    "droop",
+    "droopy",
+    "drop",
+    "good",
+    "goody",
+    "goop",
+    "gorp",
+    "gory",
+    "grog",
+    "groggy",
+    "gyro",
+    "ipod",
+    "odor",
+    "opioid",
+    "poop",
+    "poor",
+    "poppy",
+    "prior",
+    "priory",
+    "prod",
+    "prodigy",
+    "prop",
+    "rigor",
+    "rood",
+    "yogi"
+  ],
+  "date": "2035-01-06",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 8,
+      "6": 4,
+      "7": 1
+    },
+    "by_first_letter": {
+      "D": 9,
+      "G": 8,
+      "I": 1,
+      "O": 2,
+      "P": 8,
+      "R": 2,
+      "Y": 1
+    },
+    "grid": {
+      "D": {
+        "4": 4,
+        "5": 4,
+        "6": 1
+      },
+      "G": {
+        "4": 6,
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 1
+      },
+      "P": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 5,
+      "DR": 4,
+      "GO": 5,
+      "GR": 2,
+      "GY": 1,
+      "IP": 1,
+      "OD": 1,
+      "OP": 1,
+      "PO": 3,
+      "PR": 5,
+      "RI": 1,
+      "RO": 1,
+      "YO": 1
+    }
+  }
+}

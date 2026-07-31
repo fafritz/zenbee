@@ -1,0 +1,84 @@
+{
+  "pangram": "buckram",
+  "center_letter": "r",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 61,
+  "answer_pangrams": [
+    "buckram"
+  ],
+  "answers": [
+    "aura",
+    "barb",
+    "bark",
+    "buckram",
+    "burka",
+    "burr",
+    "crab",
+    "crack",
+    "cram",
+    "crumb",
+    "curb",
+    "karma",
+    "maraca",
+    "mark",
+    "murk",
+    "murmur",
+    "rack",
+    "rumba"
+  ],
+  "date": "2028-03-18",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 5,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 5,
+      "C": 5,
+      "K": 1,
+      "M": 4,
+      "R": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "B": {
+        "4": 3,
+        "5": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 2
+      },
+      "K": {
+        "5": 1
+      },
+      "M": {
+        "4": 2,
+        "6": 2
+      },
+      "R": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AU": 1,
+      "BA": 2,
+      "BU": 3,
+      "CR": 4,
+      "CU": 1,
+      "KA": 1,
+      "MA": 2,
+      "MU": 2,
+      "RA": 1,
+      "RU": 1
+    }
+  }
+}

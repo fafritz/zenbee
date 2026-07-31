@@ -1,0 +1,110 @@
+{
+  "pangram": "outlive",
+  "center_letter": "e",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 132,
+  "answer_pangrams": [
+    "outlive"
+  ],
+  "answers": [
+    "elite",
+    "evil",
+    "evolve",
+    "levee",
+    "level",
+    "lieu",
+    "lite",
+    "little",
+    "live",
+    "love",
+    "lute",
+    "oleo",
+    "olive",
+    "outlet",
+    "outlive",
+    "outvote",
+    "ovule",
+    "tell",
+    "tile",
+    "title",
+    "tittle",
+    "toilet",
+    "toilette",
+    "tote",
+    "tulle",
+    "veil",
+    "velvet",
+    "veto",
+    "vile",
+    "violet",
+    "voile",
+    "vole",
+    "vote",
+    "votive"
+  ],
+  "date": "2033-03-19",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 8,
+      "6": 8,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "E": 3,
+      "L": 8,
+      "O": 6,
+      "T": 8,
+      "V": 9
+    },
+    "grid": {
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 2,
+        "6": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "T": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "8": 1
+      },
+      "V": {
+        "4": 5,
+        "5": 1,
+        "6": 3
+      }
+    },
+    "two_letter_list": {
+      "EL": 1,
+      "EV": 2,
+      "LE": 2,
+      "LI": 4,
+      "LO": 1,
+      "LU": 1,
+      "OL": 2,
+      "OU": 3,
+      "OV": 1,
+      "TE": 1,
+      "TI": 3,
+      "TO": 3,
+      "TU": 1,
+      "VE": 3,
+      "VI": 2,
+      "VO": 4
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "pangram": "krypton",
+  "center_letter": "o",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 102,
+  "answer_pangrams": [
+    "krypton"
+  ],
+  "answers": [
+    "knot",
+    "knotty",
+    "kook",
+    "kooky",
+    "krypton",
+    "nook",
+    "noon",
+    "onto",
+    "poky",
+    "pontoon",
+    "pony",
+    "poop",
+    "poor",
+    "poppy",
+    "pork",
+    "port",
+    "potty",
+    "pron",
+    "pronto",
+    "prop",
+    "proton",
+    "rook",
+    "root",
+    "rotor",
+    "tony",
+    "took",
+    "toon",
+    "toot",
+    "topknot",
+    "torn",
+    "torpor",
+    "tort",
+    "troop",
+    "trot",
+    "troy",
+    "typo",
+    "tyro"
+  ],
+  "date": "2037-08-23",
+  "hints": {
+    "by_length": {
+      "4": 25,
+      "5": 5,
+      "6": 4,
+      "7": 3
+    },
+    "by_first_letter": {
+      "K": 5,
+      "N": 2,
+      "O": 1,
+      "P": 13,
+      "R": 3,
+      "T": 13
+    },
+    "grid": {
+      "K": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 2
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 8,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1
+      },
+      "T": {
+        "4": 10,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "KN": 2,
+      "KO": 2,
+      "KR": 1,
+      "NO": 2,
+      "ON": 1,
+      "PO": 9,
+      "PR": 4,
+      "RO": 3,
+      "TO": 8,
+      "TR": 3,
+      "TY": 2
+    }
+  }
+}

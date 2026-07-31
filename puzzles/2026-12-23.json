@@ -1,0 +1,123 @@
+{
+  "pangram": "farting",
+  "center_letter": "f",
+  "num_answers": 42,
+  "num_pangrams": 3,
+  "possible_points": 231,
+  "answer_pangrams": [
+    "farting",
+    "grafting",
+    "rafting"
+  ],
+  "answers": [
+    "afar",
+    "affair",
+    "faint",
+    "fainting",
+    "fair",
+    "fang",
+    "fanning",
+    "farina",
+    "faring",
+    "fart",
+    "farting",
+    "fating",
+    "fiat",
+    "fining",
+    "firing",
+    "fitting",
+    "frag",
+    "fragrant",
+    "frat",
+    "friar",
+    "fringing",
+    "gaff",
+    "gaffing",
+    "gift",
+    "gifting",
+    "graffiti",
+    "graft",
+    "grafting",
+    "griffin",
+    "infant",
+    "infringing",
+    "raffia",
+    "raft",
+    "rafting",
+    "riff",
+    "riffing",
+    "riffraff",
+    "rift",
+    "rifting",
+    "tariff",
+    "tiff",
+    "tiffing"
+  ],
+  "date": "2026-12-23",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 3,
+      "6": 9,
+      "7": 10,
+      "8": 6,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "F": 19,
+      "G": 8,
+      "I": 2,
+      "R": 8,
+      "T": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1
+      },
+      "F": {
+        "4": 6,
+        "5": 2,
+        "6": 5,
+        "7": 3,
+        "8": 3
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "7": 3,
+        "8": 2
+      },
+      "I": {
+        "6": 1,
+        "10": 1
+      },
+      "R": {
+        "4": 3,
+        "6": 1,
+        "7": 3,
+        "8": 1
+      },
+      "T": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AF": 2,
+      "FA": 10,
+      "FI": 4,
+      "FR": 5,
+      "GA": 2,
+      "GI": 2,
+      "GR": 4,
+      "IN": 2,
+      "RA": 3,
+      "RI": 5,
+      "TA": 1,
+      "TI": 2
+    }
+  }
+}

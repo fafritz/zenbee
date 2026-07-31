@@ -1,0 +1,81 @@
+{
+  "pangram": "roughly",
+  "center_letter": "u",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 56,
+  "answer_pangrams": [
+    "roughly"
+  ],
+  "answers": [
+    "ghoul",
+    "gull",
+    "gully",
+    "guru",
+    "hour",
+    "hourly",
+    "hull",
+    "hurl",
+    "hurry",
+    "lull",
+    "lulu",
+    "rough",
+    "roughly",
+    "ugly",
+    "urology",
+    "your"
+  ],
+  "date": "2031-04-07",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 4,
+      "6": 1,
+      "7": 2
+    },
+    "by_first_letter": {
+      "G": 4,
+      "H": 5,
+      "L": 2,
+      "R": 2,
+      "U": 2,
+      "Y": 1
+    },
+    "grid": {
+      "G": {
+        "4": 2,
+        "5": 2
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 2
+      },
+      "R": {
+        "5": 1,
+        "7": 1
+      },
+      "U": {
+        "4": 1,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "GH": 1,
+      "GU": 3,
+      "HO": 2,
+      "HU": 3,
+      "LU": 2,
+      "RO": 2,
+      "UG": 1,
+      "UR": 1,
+      "YO": 1
+    }
+  }
+}

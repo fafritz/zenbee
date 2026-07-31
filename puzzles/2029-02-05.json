@@ -1,0 +1,101 @@
+{
+  "pangram": "catbird",
+  "center_letter": "b",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 103,
+  "answer_pangrams": [
+    "catbird"
+  ],
+  "answers": [
+    "abracadabra",
+    "adiabatic",
+    "baba",
+    "bait",
+    "barb",
+    "barbaric",
+    "bard",
+    "bird",
+    "bract",
+    "brad",
+    "braid",
+    "brat",
+    "briar",
+    "catbird",
+    "ciabatta",
+    "crab",
+    "crib",
+    "drab",
+    "ibid",
+    "rabbi",
+    "rabbit",
+    "rabid",
+    "tibia",
+    "tidbit"
+  ],
+  "date": "2029-02-05",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 6,
+      "6": 2,
+      "7": 1,
+      "8": 2,
+      "9": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 11,
+      "C": 4,
+      "D": 1,
+      "I": 1,
+      "R": 3,
+      "T": 2
+    },
+    "grid": {
+      "A": {
+        "9": 1,
+        "11": 1
+      },
+      "B": {
+        "4": 7,
+        "5": 3,
+        "8": 1
+      },
+      "C": {
+        "4": 2,
+        "7": 1,
+        "8": 1
+      },
+      "D": {
+        "4": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "R": {
+        "5": 2,
+        "6": 1
+      },
+      "T": {
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AD": 1,
+      "BA": 5,
+      "BI": 1,
+      "BR": 5,
+      "CA": 1,
+      "CI": 1,
+      "CR": 2,
+      "DR": 1,
+      "IB": 1,
+      "RA": 3,
+      "TI": 2
+    }
+  }
+}

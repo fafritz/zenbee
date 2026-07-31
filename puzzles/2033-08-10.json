@@ -1,0 +1,151 @@
+{
+  "pangram": "amenity",
+  "center_letter": "m",
+  "num_answers": 64,
+  "num_pangrams": 2,
+  "possible_points": 270,
+  "answer_pangrams": [
+    "amenity",
+    "anytime"
+  ],
+  "answers": [
+    "amen",
+    "amenity",
+    "amity",
+    "anemia",
+    "animate",
+    "anime",
+    "anytime",
+    "attainment",
+    "emanate",
+    "eminent",
+    "emit",
+    "enema",
+    "enemy",
+    "enmity",
+    "imam",
+    "imitate",
+    "immanent",
+    "imminent",
+    "inanimate",
+    "inmate",
+    "intimate",
+    "item",
+    "maim",
+    "main",
+    "maintain",
+    "mama",
+    "mamma",
+    "mammae",
+    "manatee",
+    "mane",
+    "mania",
+    "manna",
+    "many",
+    "mate",
+    "matinee",
+    "matte",
+    "mean",
+    "meant",
+    "meantime",
+    "meat",
+    "meaty",
+    "meet",
+    "meme",
+    "meta",
+    "mete",
+    "mien",
+    "mime",
+    "mine",
+    "mini",
+    "minim",
+    "minima",
+    "mint",
+    "minty",
+    "mite",
+    "mitt",
+    "mitten",
+    "myna",
+    "name",
+    "tame",
+    "team",
+    "teammate",
+    "teem",
+    "tenement",
+    "time"
+  ],
+  "date": "2033-08-10",
+  "hints": {
+    "by_length": {
+      "4": 29,
+      "5": 12,
+      "6": 6,
+      "7": 8,
+      "8": 7,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "E": 6,
+      "I": 8,
+      "M": 35,
+      "N": 1,
+      "T": 6
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 3,
+        "10": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "I": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "8": 3,
+        "9": 1
+      },
+      "M": {
+        "4": 20,
+        "5": 8,
+        "6": 3,
+        "7": 2,
+        "8": 2
+      },
+      "N": {
+        "4": 1
+      },
+      "T": {
+        "4": 4,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "AM": 3,
+      "AN": 4,
+      "AT": 1,
+      "EM": 3,
+      "EN": 3,
+      "IM": 4,
+      "IN": 3,
+      "IT": 1,
+      "MA": 14,
+      "ME": 9,
+      "MI": 11,
+      "MY": 1,
+      "NA": 1,
+      "TA": 1,
+      "TE": 4,
+      "TI": 1
+    }
+  }
+}

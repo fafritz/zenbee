@@ -1,0 +1,94 @@
+{
+  "pangram": "heading",
+  "center_letter": "h",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 180,
+  "answer_pangrams": [
+    "heading"
+  ],
+  "answers": [
+    "ahead",
+    "egghead",
+    "hand",
+    "handed",
+    "handing",
+    "hang",
+    "hanged",
+    "hanging",
+    "head",
+    "headed",
+    "heading",
+    "hedge",
+    "hedged",
+    "hedging",
+    "heed",
+    "heeded",
+    "heeding",
+    "henna",
+    "hennaed",
+    "hennaing",
+    "hidden",
+    "hide",
+    "hided",
+    "hiding",
+    "hied",
+    "hieing",
+    "high",
+    "hind",
+    "hing",
+    "hinge",
+    "hinged",
+    "hinging",
+    "neigh",
+    "neighed",
+    "neighing",
+    "nigh"
+  ],
+  "date": "2033-08-05",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 6,
+      "6": 9,
+      "7": 9,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "E": 1,
+      "H": 30,
+      "N": 4
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "E": {
+        "7": 1
+      },
+      "H": {
+        "4": 9,
+        "5": 4,
+        "6": 9,
+        "7": 7,
+        "8": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AH": 1,
+      "EG": 1,
+      "HA": 6,
+      "HE": 12,
+      "HI": 12,
+      "NE": 3,
+      "NI": 1
+    }
+  }
+}

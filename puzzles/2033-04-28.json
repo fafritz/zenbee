@@ -1,0 +1,82 @@
+{
+  "pangram": "caribou",
+  "center_letter": "o",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 91,
+  "answer_pangrams": [
+    "caribou"
+  ],
+  "answers": [
+    "arbor",
+    "baobab",
+    "barbacoa",
+    "barrio",
+    "boar",
+    "boob",
+    "booboo",
+    "boor",
+    "burro",
+    "cacao",
+    "caribou",
+    "cobra",
+    "coca",
+    "cocci",
+    "cocoa",
+    "curio",
+    "occur",
+    "roar",
+    "rococo"
+  ],
+  "date": "2033-04-28",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 8,
+      "6": 4,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 8,
+      "C": 7,
+      "O": 1,
+      "R": 2
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "B": {
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "8": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 5,
+        "7": 1
+      },
+      "O": {
+        "5": 1
+      },
+      "R": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AR": 1,
+      "BA": 3,
+      "BO": 4,
+      "BU": 1,
+      "CA": 2,
+      "CO": 4,
+      "CU": 1,
+      "OC": 1,
+      "RO": 2
+    }
+  }
+}

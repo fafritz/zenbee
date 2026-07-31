@@ -1,0 +1,129 @@
+{
+  "pangram": "cordial",
+  "center_letter": "d",
+  "num_answers": 46,
+  "num_pangrams": 1,
+  "possible_points": 168,
+  "answer_pangrams": [
+    "cordial"
+  ],
+  "answers": [
+    "accord",
+    "acid",
+    "acidic",
+    "acrid",
+    "ardor",
+    "arid",
+    "card",
+    "cardiac",
+    "cardio",
+    "cicada",
+    "clad",
+    "clod",
+    "coda",
+    "codicil",
+    "cold",
+    "colloid",
+    "cord",
+    "cordial",
+    "corridor",
+    "dado",
+    "dial",
+    "dill",
+    "dodo",
+    "doll",
+    "dollar",
+    "doodad",
+    "door",
+    "drill",
+    "droid",
+    "droll",
+    "drool",
+    "idol",
+    "laid",
+    "lard",
+    "load",
+    "lord",
+    "odor",
+    "radar",
+    "radial",
+    "radical",
+    "radii",
+    "radio",
+    "raid",
+    "railroad",
+    "road",
+    "rood"
+  ],
+  "date": "2028-03-29",
+  "hints": {
+    "by_length": {
+      "4": 23,
+      "5": 9,
+      "6": 7,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 13,
+      "D": 12,
+      "I": 1,
+      "L": 4,
+      "O": 1,
+      "R": 9
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "6": 2
+      },
+      "C": {
+        "4": 6,
+        "6": 2,
+        "7": 4,
+        "8": 1
+      },
+      "D": {
+        "4": 6,
+        "5": 4,
+        "6": 2
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "4": 4
+      },
+      "O": {
+        "4": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 4,
+      "AR": 2,
+      "CA": 3,
+      "CI": 1,
+      "CL": 2,
+      "CO": 7,
+      "DA": 1,
+      "DI": 2,
+      "DO": 5,
+      "DR": 4,
+      "ID": 1,
+      "LA": 2,
+      "LO": 2,
+      "OD": 1,
+      "RA": 7,
+      "RO": 2
+    }
+  }
+}

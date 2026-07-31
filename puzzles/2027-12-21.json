@@ -1,0 +1,100 @@
+{
+  "pangram": "fidgety",
+  "center_letter": "f",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 120,
+  "answer_pangrams": [
+    "fidgety"
+  ],
+  "answers": [
+    "defied",
+    "deft",
+    "defy",
+    "deified",
+    "deify",
+    "diff",
+    "diffed",
+    "edified",
+    "edify",
+    "effete",
+    "effigy",
+    "feed",
+    "feet",
+    "fete",
+    "feted",
+    "fetid",
+    "fidget",
+    "fidgeted",
+    "fidgety",
+    "fief",
+    "fife",
+    "fifty",
+    "fitted",
+    "gift",
+    "gifted",
+    "iffy",
+    "tiff",
+    "tiffed"
+  ],
+  "date": "2027-12-21",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 5,
+      "6": 8,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "D": 7,
+      "E": 4,
+      "F": 12,
+      "G": 2,
+      "I": 1,
+      "T": 2
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "F": {
+        "4": 5,
+        "5": 3,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "T": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 5,
+      "DI": 2,
+      "ED": 2,
+      "EF": 2,
+      "FE": 5,
+      "FI": 7,
+      "GI": 2,
+      "IF": 1,
+      "TI": 2
+    }
+  }
+}

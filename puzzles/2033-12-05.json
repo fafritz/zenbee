@@ -1,0 +1,90 @@
+{
+  "pangram": "complex",
+  "center_letter": "p",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 72,
+  "answer_pangrams": [
+    "complex"
+  ],
+  "answers": [
+    "clomp",
+    "clop",
+    "comp",
+    "compel",
+    "complex",
+    "compo",
+    "coop",
+    "cope",
+    "elope",
+    "epee",
+    "expel",
+    "expo",
+    "loop",
+    "lope",
+    "mope",
+    "peel",
+    "peep",
+    "people",
+    "plop",
+    "poem",
+    "pole",
+    "poll",
+    "polo",
+    "pommel",
+    "pomp",
+    "pool",
+    "poop",
+    "pope"
+  ],
+  "date": "2033-12-05",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 4,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 8,
+      "E": 4,
+      "L": 2,
+      "M": 1,
+      "P": 13
+    },
+    "grid": {
+      "C": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 2,
+        "5": 2
+      },
+      "L": {
+        "4": 2
+      },
+      "M": {
+        "4": 1
+      },
+      "P": {
+        "4": 11,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "CL": 2,
+      "CO": 6,
+      "EL": 1,
+      "EP": 1,
+      "EX": 2,
+      "LO": 2,
+      "MO": 1,
+      "PE": 3,
+      "PL": 1,
+      "PO": 9
+    }
+  }
+}

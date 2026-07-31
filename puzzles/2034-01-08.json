@@ -1,0 +1,94 @@
+{
+  "pangram": "outlive",
+  "center_letter": "o",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 96,
+  "answer_pangrams": [
+    "outlive"
+  ],
+  "answers": [
+    "evolve",
+    "loll",
+    "loot",
+    "lotto",
+    "lout",
+    "love",
+    "oleo",
+    "olio",
+    "olive",
+    "outlet",
+    "outlive",
+    "outvote",
+    "ovule",
+    "toil",
+    "toilet",
+    "toilette",
+    "toll",
+    "tool",
+    "toot",
+    "tote",
+    "tout",
+    "veto",
+    "viol",
+    "violet",
+    "voile",
+    "vole",
+    "volt",
+    "vote",
+    "votive"
+  ],
+  "date": "2034-01-08",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 4,
+      "6": 5,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "E": 1,
+      "L": 5,
+      "O": 7,
+      "T": 8,
+      "V": 8
+    },
+    "grid": {
+      "E": {
+        "6": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 1
+      },
+      "O": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "T": {
+        "4": 6,
+        "6": 1,
+        "8": 1
+      },
+      "V": {
+        "4": 5,
+        "5": 1,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "EV": 1,
+      "LO": 5,
+      "OL": 3,
+      "OU": 3,
+      "OV": 1,
+      "TO": 8,
+      "VE": 1,
+      "VI": 2,
+      "VO": 5
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "pangram": "frogman",
+  "center_letter": "r",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 126,
+  "answer_pangrams": [
+    "frogman"
+  ],
+  "answers": [
+    "afar",
+    "agar",
+    "anagram",
+    "angora",
+    "argon",
+    "armor",
+    "aroma",
+    "farm",
+    "forgo",
+    "form",
+    "frag",
+    "frog",
+    "frogman",
+    "from",
+    "gram",
+    "grammar",
+    "groan",
+    "grog",
+    "groom",
+    "mammogram",
+    "manor",
+    "maroon",
+    "monogram",
+    "moor",
+    "morn",
+    "moron",
+    "norm",
+    "organ",
+    "raga",
+    "rang",
+    "roam",
+    "roan",
+    "roar",
+    "roman",
+    "roof",
+    "room"
+  ],
+  "date": "2026-06-13",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 10,
+      "6": 2,
+      "7": 3,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "F": 7,
+      "G": 5,
+      "M": 7,
+      "N": 1,
+      "O": 1,
+      "R": 8
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "F": {
+        "4": 5,
+        "5": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "M": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "8": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "O": {
+        "5": 1
+      },
+      "R": {
+        "4": 7,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AF": 1,
+      "AG": 1,
+      "AN": 2,
+      "AR": 3,
+      "FA": 1,
+      "FO": 2,
+      "FR": 4,
+      "GR": 5,
+      "MA": 3,
+      "MO": 4,
+      "NO": 1,
+      "OR": 1,
+      "RA": 2,
+      "RO": 6
+    }
+  }
+}

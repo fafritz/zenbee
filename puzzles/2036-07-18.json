@@ -1,0 +1,105 @@
+{
+  "pangram": "painful",
+  "center_letter": "a",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 111,
+  "answer_pangrams": [
+    "painful"
+  ],
+  "answers": [
+    "alfalfa",
+    "anal",
+    "annual",
+    "annul",
+    "appall",
+    "fail",
+    "fall",
+    "faun",
+    "fauna",
+    "filial",
+    "final",
+    "flail",
+    "flan",
+    "flap",
+    "lain",
+    "luau",
+    "naan",
+    "nail",
+    "nana",
+    "pail",
+    "pailful",
+    "pain",
+    "painful",
+    "pall",
+    "papa",
+    "papal",
+    "papilla",
+    "pilaf",
+    "plain",
+    "plan",
+    "pupa",
+    "pupal",
+    "ulna"
+  ],
+  "date": "2036-07-18",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 8,
+      "6": 3,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 5,
+      "F": 9,
+      "L": 2,
+      "N": 3,
+      "P": 13,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "F": {
+        "4": 5,
+        "5": 3,
+        "6": 1
+      },
+      "L": {
+        "4": 2
+      },
+      "N": {
+        "4": 3
+      },
+      "P": {
+        "4": 6,
+        "5": 4,
+        "7": 3
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AN": 3,
+      "AP": 1,
+      "FA": 4,
+      "FI": 2,
+      "FL": 3,
+      "LA": 1,
+      "LU": 1,
+      "NA": 3,
+      "PA": 8,
+      "PI": 1,
+      "PL": 2,
+      "PU": 2,
+      "UL": 1
+    }
+  }
+}

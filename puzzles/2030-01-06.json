@@ -1,0 +1,135 @@
+{
+  "pangram": "dumping",
+  "center_letter": "i",
+  "num_answers": 53,
+  "num_pangrams": 1,
+  "possible_points": 333,
+  "answer_pangrams": [
+    "dumping"
+  ],
+  "answers": [
+    "digging",
+    "dimming",
+    "ding",
+    "dinging",
+    "dining",
+    "dinning",
+    "dipping",
+    "duding",
+    "dumping",
+    "dunging",
+    "dunning",
+    "duping",
+    "gigging",
+    "ginning",
+    "guiding",
+    "gumming",
+    "gunning",
+    "impinging",
+    "impugn",
+    "impugning",
+    "inning",
+    "miming",
+    "mind",
+    "minding",
+    "mini",
+    "minim",
+    "minimum",
+    "mining",
+    "mugging",
+    "munging",
+    "nipping",
+    "nudging",
+    "pidgin",
+    "pigging",
+    "pimp",
+    "pimping",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "pinup",
+    "piping",
+    "pippin",
+    "pipping",
+    "pudding",
+    "pumping",
+    "punning",
+    "pupping",
+    "umping",
+    "undid",
+    "unpin",
+    "unpinning",
+    "upping"
+  ],
+  "date": "2030-01-06",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 4,
+      "6": 13,
+      "7": 28,
+      "9": 3
+    },
+    "by_first_letter": {
+      "D": 12,
+      "G": 5,
+      "I": 4,
+      "M": 9,
+      "N": 2,
+      "P": 16,
+      "U": 5
+    },
+    "grid": {
+      "D": {
+        "4": 1,
+        "6": 3,
+        "7": 8
+      },
+      "G": {
+        "7": 5
+      },
+      "I": {
+        "6": 2,
+        "9": 2
+      },
+      "M": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 4
+      },
+      "N": {
+        "7": 2
+      },
+      "P": {
+        "4": 2,
+        "5": 1,
+        "6": 4,
+        "7": 9
+      },
+      "U": {
+        "5": 2,
+        "6": 2,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "DI": 7,
+      "DU": 5,
+      "GI": 2,
+      "GU": 3,
+      "IM": 3,
+      "IN": 1,
+      "MI": 7,
+      "MU": 2,
+      "NI": 1,
+      "NU": 1,
+      "PI": 12,
+      "PU": 4,
+      "UM": 1,
+      "UN": 3,
+      "UP": 1
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "pangram": "tombing",
+  "center_letter": "b",
+  "num_answers": 35,
+  "num_pangrams": 2,
+  "possible_points": 196,
+  "answer_pangrams": [
+    "bottoming",
+    "tombing"
+  ],
+  "answers": [
+    "bigot",
+    "bingo",
+    "binning",
+    "biting",
+    "bobbin",
+    "bobbing",
+    "bogging",
+    "bomb",
+    "bombing",
+    "bonbon",
+    "bong",
+    "bonging",
+    "bongo",
+    "boning",
+    "bonito",
+    "boob",
+    "boobing",
+    "booboo",
+    "booing",
+    "boom",
+    "booming",
+    "boon",
+    "boot",
+    "booting",
+    "bottom",
+    "bottoming",
+    "gibbon",
+    "gibing",
+    "gobbing",
+    "imbibing",
+    "mobbing",
+    "nimbi",
+    "obit",
+    "tomb",
+    "tombing"
+  ],
+  "date": "2028-05-23",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 4,
+      "6": 10,
+      "7": 11,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "B": 26,
+      "G": 3,
+      "I": 1,
+      "M": 1,
+      "N": 1,
+      "O": 1,
+      "T": 2
+    },
+    "grid": {
+      "B": {
+        "4": 6,
+        "5": 3,
+        "6": 8,
+        "7": 8,
+        "9": 1
+      },
+      "G": {
+        "6": 2,
+        "7": 1
+      },
+      "I": {
+        "8": 1
+      },
+      "M": {
+        "7": 1
+      },
+      "N": {
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "BI": 4,
+      "BO": 22,
+      "GI": 2,
+      "GO": 1,
+      "IM": 1,
+      "MO": 1,
+      "NI": 1,
+      "OB": 1,
+      "TO": 2
+    }
+  }
+}

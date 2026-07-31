@@ -1,0 +1,159 @@
+{
+  "pangram": "policed",
+  "center_letter": "i",
+  "num_answers": 65,
+  "num_pangrams": 1,
+  "possible_points": 300,
+  "answer_pangrams": [
+    "policed"
+  ],
+  "answers": [
+    "clip",
+    "clipped",
+    "cocci",
+    "codicil",
+    "coil",
+    "coiled",
+    "colic",
+    "collide",
+    "collided",
+    "collie",
+    "colloid",
+    "coolie",
+    "copied",
+    "decide",
+    "decided",
+    "deice",
+    "deiced",
+    "deli",
+    "dice",
+    "diced",
+    "diddle",
+    "diddled",
+    "died",
+    "dill",
+    "diode",
+    "dipole",
+    "dipped",
+    "docile",
+    "eddied",
+    "elide",
+    "elided",
+    "epic",
+    "iced",
+    "icicle",
+    "idle",
+    "idled",
+    "idol",
+    "ipod",
+    "lice",
+    "lidded",
+    "lied",
+    "lipid",
+    "loci",
+    "lollipop",
+    "oiled",
+    "oldie",
+    "olio",
+    "opioid",
+    "piccolo",
+    "piddle",
+    "piddled",
+    "piece",
+    "pieced",
+    "pied",
+    "pile",
+    "piled",
+    "pill",
+    "pilled",
+    "pipe",
+    "piped",
+    "pipped",
+    "plied",
+    "police",
+    "policed",
+    "polio"
+  ],
+  "date": "2038-10-01",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 15,
+      "6": 20,
+      "7": 9,
+      "8": 2
+    },
+    "by_first_letter": {
+      "C": 13,
+      "D": 15,
+      "E": 4,
+      "I": 6,
+      "L": 6,
+      "O": 4,
+      "P": 17
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 2,
+        "6": 4,
+        "7": 4,
+        "8": 1
+      },
+      "D": {
+        "4": 4,
+        "5": 3,
+        "6": 6,
+        "7": 2
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "I": {
+        "4": 4,
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      },
+      "P": {
+        "4": 4,
+        "5": 5,
+        "6": 5,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "CL": 2,
+      "CO": 11,
+      "DE": 5,
+      "DI": 9,
+      "DO": 1,
+      "ED": 1,
+      "EL": 2,
+      "EP": 1,
+      "IC": 2,
+      "ID": 3,
+      "IP": 1,
+      "LI": 4,
+      "LO": 2,
+      "OI": 1,
+      "OL": 2,
+      "OP": 1,
+      "PI": 13,
+      "PL": 1,
+      "PO": 3
+    }
+  }
+}

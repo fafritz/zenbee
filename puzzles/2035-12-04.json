@@ -1,0 +1,84 @@
+{
+  "pangram": "okaying",
+  "center_letter": "y",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 85,
+  "answer_pangrams": [
+    "okaying"
+  ],
+  "answers": [
+    "agony",
+    "annoy",
+    "annoying",
+    "inky",
+    "kayak",
+    "kayaking",
+    "kooky",
+    "nanny",
+    "ninny",
+    "okay",
+    "okaying",
+    "yakking",
+    "yank",
+    "yanking",
+    "yoga",
+    "yogi",
+    "yoking"
+  ],
+  "date": "2035-12-04",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 6,
+      "6": 1,
+      "7": 3,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "I": 1,
+      "K": 3,
+      "N": 2,
+      "O": 2,
+      "Y": 6
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "8": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "K": {
+        "5": 2,
+        "8": 1
+      },
+      "N": {
+        "5": 2
+      },
+      "O": {
+        "4": 1,
+        "7": 1
+      },
+      "Y": {
+        "4": 3,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AN": 2,
+      "IN": 1,
+      "KA": 2,
+      "KO": 1,
+      "NA": 1,
+      "NI": 1,
+      "OK": 2,
+      "YA": 3,
+      "YO": 3
+    }
+  }
+}

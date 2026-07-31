@@ -1,0 +1,95 @@
+{
+  "pangram": "pivotal",
+  "center_letter": "p",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 117,
+  "answer_pangrams": [
+    "pivotal"
+  ],
+  "answers": [
+    "appall",
+    "atop",
+    "laptop",
+    "lollipop",
+    "loop",
+    "opal",
+    "pail",
+    "palatal",
+    "palatial",
+    "pall",
+    "papa",
+    "papal",
+    "papilla",
+    "patio",
+    "pill",
+    "pilot",
+    "pipit",
+    "pita",
+    "pivot",
+    "pivotal",
+    "plait",
+    "plop",
+    "plot",
+    "polio",
+    "poll",
+    "polo",
+    "pool",
+    "poop",
+    "potato",
+    "tiptop"
+  ],
+  "date": "2037-03-02",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 7,
+      "6": 4,
+      "7": 3,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "L": 3,
+      "O": 1,
+      "P": 23,
+      "T": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 1,
+        "6": 1,
+        "8": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 11,
+        "5": 7,
+        "6": 1,
+        "7": 3,
+        "8": 1
+      },
+      "T": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AP": 1,
+      "AT": 1,
+      "LA": 1,
+      "LO": 2,
+      "OP": 1,
+      "PA": 8,
+      "PI": 6,
+      "PL": 3,
+      "PO": 6,
+      "TI": 1
+    }
+  }
+}

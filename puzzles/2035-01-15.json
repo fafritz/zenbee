@@ -1,0 +1,91 @@
+{
+  "pangram": "clomped",
+  "center_letter": "c",
+  "num_answers": 34,
+  "num_pangrams": 2,
+  "possible_points": 153,
+  "answer_pangrams": [
+    "clomped",
+    "compelled"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "cell",
+    "cello",
+    "clod",
+    "clomp",
+    "clomped",
+    "clop",
+    "clopped",
+    "coddle",
+    "coddled",
+    "code",
+    "coded",
+    "coed",
+    "cold",
+    "come",
+    "commode",
+    "comp",
+    "compel",
+    "compelled",
+    "compo",
+    "cooed",
+    "cool",
+    "cooled",
+    "coop",
+    "cooped",
+    "cope",
+    "coped",
+    "copped",
+    "decode",
+    "decoded",
+    "emcee",
+    "emceed",
+    "loco"
+  ],
+  "date": "2035-01-15",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 8,
+      "6": 7,
+      "7": 5,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 29,
+      "D": 2,
+      "E": 2,
+      "L": 1
+    },
+    "grid": {
+      "C": {
+        "4": 12,
+        "5": 7,
+        "6": 5,
+        "7": 4,
+        "9": 1
+      },
+      "D": {
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 4,
+      "CL": 5,
+      "CO": 20,
+      "DE": 2,
+      "EM": 2,
+      "LO": 1
+    }
+  }
+}

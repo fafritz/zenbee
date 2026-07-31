@@ -1,0 +1,87 @@
+{
+  "pangram": "painful",
+  "center_letter": "i",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 102,
+  "answer_pangrams": [
+    "painful"
+  ],
+  "answers": [
+    "fail",
+    "filial",
+    "fill",
+    "fillip",
+    "final",
+    "flail",
+    "flip",
+    "fulfill",
+    "lain",
+    "nail",
+    "pail",
+    "pailful",
+    "pain",
+    "painful",
+    "papilla",
+    "pilaf",
+    "pill",
+    "pinup",
+    "pippin",
+    "plain",
+    "puffin",
+    "pupil",
+    "unpin"
+  ],
+  "date": "2026-09-15",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 7,
+      "6": 4,
+      "7": 4
+    },
+    "by_first_letter": {
+      "F": 8,
+      "L": 1,
+      "N": 1,
+      "P": 12,
+      "U": 1
+    },
+    "grid": {
+      "F": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 4,
+        "6": 2,
+        "7": 3
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "FA": 1,
+      "FI": 4,
+      "FL": 2,
+      "FU": 1,
+      "LA": 1,
+      "NA": 1,
+      "PA": 5,
+      "PI": 4,
+      "PL": 1,
+      "PU": 2,
+      "UN": 1
+    }
+  }
+}

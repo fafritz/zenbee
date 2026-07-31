@@ -1,0 +1,115 @@
+{
+  "pangram": "carping",
+  "center_letter": "c",
+  "num_answers": 33,
+  "num_pangrams": 2,
+  "possible_points": 188,
+  "answer_pangrams": [
+    "carping",
+    "prancing"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acing",
+    "arcing",
+    "caging",
+    "cairn",
+    "cancan",
+    "caning",
+    "canna",
+    "canning",
+    "capping",
+    "caring",
+    "carp",
+    "carpi",
+    "carping",
+    "cigar",
+    "circa",
+    "cirri",
+    "crag",
+    "craning",
+    "cringing",
+    "gracing",
+    "icing",
+    "narc",
+    "niacin",
+    "pacing",
+    "panic",
+    "pica",
+    "picnic",
+    "prancing",
+    "pricing",
+    "racing",
+    "ricing"
+  ],
+  "date": "2037-04-18",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 9,
+      "6": 11,
+      "7": 6,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 17,
+      "G": 1,
+      "I": 1,
+      "N": 2,
+      "P": 6,
+      "R": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "C": {
+        "4": 2,
+        "5": 6,
+        "6": 4,
+        "7": 4,
+        "8": 1
+      },
+      "G": {
+        "7": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "R": {
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AR": 1,
+      "CA": 11,
+      "CI": 3,
+      "CR": 3,
+      "GR": 1,
+      "IC": 1,
+      "NA": 1,
+      "NI": 1,
+      "PA": 2,
+      "PI": 2,
+      "PR": 2,
+      "RA": 1,
+      "RI": 1
+    }
+  }
+}

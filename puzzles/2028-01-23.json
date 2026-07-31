@@ -1,0 +1,140 @@
+{
+  "pangram": "poniard",
+  "center_letter": "o",
+  "num_answers": 46,
+  "num_pangrams": 3,
+  "possible_points": 201,
+  "answer_pangrams": [
+    "paranoid",
+    "poniard",
+    "raindrop"
+  ],
+  "answers": [
+    "adorn",
+    "airdrop",
+    "andiron",
+    "android",
+    "anion",
+    "anon",
+    "apron",
+    "ardor",
+    "dado",
+    "dodo",
+    "donor",
+    "doodad",
+    "door",
+    "droid",
+    "droop",
+    "drop",
+    "indoor",
+    "inroad",
+    "ipod",
+    "iron",
+    "noon",
+    "odor",
+    "onion",
+    "opinion",
+    "opioid",
+    "ordain",
+    "paranoia",
+    "paranoid",
+    "pardon",
+    "piano",
+    "pinion",
+    "pond",
+    "poniard",
+    "poop",
+    "poor",
+    "prior",
+    "prod",
+    "pron",
+    "prop",
+    "radio",
+    "radon",
+    "raindrop",
+    "road",
+    "roan",
+    "roar",
+    "rood"
+  ],
+  "date": "2028-01-23",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 12,
+      "6": 7,
+      "7": 5,
+      "8": 3
+    },
+    "by_first_letter": {
+      "A": 8,
+      "D": 8,
+      "I": 4,
+      "N": 1,
+      "O": 5,
+      "P": 13,
+      "R": 7
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 4,
+        "7": 3
+      },
+      "D": {
+        "4": 4,
+        "5": 3,
+        "6": 1
+      },
+      "I": {
+        "4": 2,
+        "6": 2
+      },
+      "N": {
+        "4": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "P": {
+        "4": 6,
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "8": 2
+      },
+      "R": {
+        "4": 4,
+        "5": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AI": 1,
+      "AN": 4,
+      "AP": 1,
+      "AR": 1,
+      "DA": 1,
+      "DO": 4,
+      "DR": 3,
+      "IN": 2,
+      "IP": 1,
+      "IR": 1,
+      "NO": 1,
+      "OD": 1,
+      "ON": 1,
+      "OP": 2,
+      "OR": 1,
+      "PA": 3,
+      "PI": 2,
+      "PO": 4,
+      "PR": 4,
+      "RA": 3,
+      "RO": 4
+    }
+  }
+}

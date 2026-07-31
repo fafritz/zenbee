@@ -1,0 +1,104 @@
+{
+  "pangram": "vamping",
+  "center_letter": "m",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 160,
+  "answer_pangrams": [
+    "vamping"
+  ],
+  "answers": [
+    "aiming",
+    "gaming",
+    "gamma",
+    "imaging",
+    "imagining",
+    "imam",
+    "impinging",
+    "magma",
+    "maim",
+    "maiming",
+    "main",
+    "mama",
+    "mamma",
+    "managing",
+    "manga",
+    "mania",
+    "manna",
+    "manning",
+    "mapping",
+    "miming",
+    "mini",
+    "minim",
+    "minima",
+    "mining",
+    "minivan",
+    "naming",
+    "pimp",
+    "pimping",
+    "vamp",
+    "vamping"
+  ],
+  "date": "2036-10-22",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 7,
+      "6": 6,
+      "7": 7,
+      "8": 1,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "G": 2,
+      "I": 4,
+      "M": 18,
+      "N": 1,
+      "P": 2,
+      "V": 2
+    },
+    "grid": {
+      "A": {
+        "6": 1
+      },
+      "G": {
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 1,
+        "7": 1,
+        "9": 2
+      },
+      "M": {
+        "4": 4,
+        "5": 6,
+        "6": 3,
+        "7": 4,
+        "8": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "P": {
+        "4": 1,
+        "7": 1
+      },
+      "V": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "GA": 2,
+      "IM": 4,
+      "MA": 12,
+      "MI": 6,
+      "NA": 1,
+      "PI": 2,
+      "VA": 2
+    }
+  }
+}

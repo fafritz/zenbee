@@ -1,0 +1,91 @@
+{
+  "pangram": "weaving",
+  "center_letter": "w",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 152,
+  "answer_pangrams": [
+    "weaving"
+  ],
+  "answers": [
+    "anew",
+    "awing",
+    "awning",
+    "gewgaw",
+    "gnaw",
+    "gnawing",
+    "view",
+    "viewing",
+    "wage",
+    "wagging",
+    "waging",
+    "waive",
+    "waiving",
+    "wane",
+    "waning",
+    "wave",
+    "waving",
+    "wean",
+    "weaning",
+    "weave",
+    "weaving",
+    "weeing",
+    "wigging",
+    "wigwag",
+    "wigwagging",
+    "wine",
+    "wing",
+    "winging",
+    "wining",
+    "winning"
+  ],
+  "date": "2036-08-07",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 3,
+      "6": 8,
+      "7": 9,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "G": 3,
+      "V": 2,
+      "W": 22
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "V": {
+        "4": 1,
+        "7": 1
+      },
+      "W": {
+        "4": 6,
+        "5": 2,
+        "6": 6,
+        "7": 7,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "AW": 2,
+      "GE": 1,
+      "GN": 2,
+      "VI": 2,
+      "WA": 9,
+      "WE": 5,
+      "WI": 8
+    }
+  }
+}

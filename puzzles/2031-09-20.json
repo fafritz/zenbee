@@ -1,0 +1,77 @@
+{
+  "pangram": "buoying",
+  "center_letter": "u",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 96,
+  "answer_pangrams": [
+    "buoying"
+  ],
+  "answers": [
+    "bugging",
+    "buggy",
+    "bung",
+    "bunging",
+    "bunion",
+    "bunny",
+    "buoy",
+    "buoying",
+    "buying",
+    "gouging",
+    "gunning",
+    "gunny",
+    "guying",
+    "nonunion",
+    "noun",
+    "union",
+    "young"
+  ],
+  "date": "2031-09-20",
+  "hints": {
+    "by_length": {
+      "4": 3,
+      "5": 5,
+      "6": 3,
+      "7": 5,
+      "8": 1
+    },
+    "by_first_letter": {
+      "B": 9,
+      "G": 4,
+      "N": 2,
+      "U": 1,
+      "Y": 1
+    },
+    "grid": {
+      "B": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 3
+      },
+      "G": {
+        "5": 1,
+        "6": 1,
+        "7": 2
+      },
+      "N": {
+        "4": 1,
+        "8": 1
+      },
+      "U": {
+        "5": 1
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "BU": 9,
+      "GO": 1,
+      "GU": 3,
+      "NO": 2,
+      "UN": 1,
+      "YO": 1
+    }
+  }
+}

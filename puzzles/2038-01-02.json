@@ -1,0 +1,128 @@
+{
+  "pangram": "mouthed",
+  "center_letter": "o",
+  "num_answers": 53,
+  "num_pangrams": 1,
+  "possible_points": 214,
+  "answer_pangrams": [
+    "mouthed"
+  ],
+  "answers": [
+    "demo",
+    "demoed",
+    "demote",
+    "demoted",
+    "dodo",
+    "dome",
+    "domed",
+    "doom",
+    "doomed",
+    "dote",
+    "doted",
+    "dotted",
+    "emote",
+    "emoted",
+    "hoed",
+    "home",
+    "homed",
+    "hood",
+    "hooded",
+    "hoodoo",
+    "hoodooed",
+    "hoot",
+    "hooted",
+    "memo",
+    "method",
+    "modded",
+    "mode",
+    "modem",
+    "mood",
+    "mooed",
+    "moot",
+    "mooted",
+    "mote",
+    "moth",
+    "motto",
+    "mouth",
+    "mouthed",
+    "outdo",
+    "outed",
+    "outmoded",
+    "thou",
+    "toed",
+    "tome",
+    "toot",
+    "tooted",
+    "tooth",
+    "toothed",
+    "tote",
+    "toted",
+    "totem",
+    "totted",
+    "tout",
+    "touted"
+  ],
+  "date": "2038-01-02",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 13,
+      "6": 14,
+      "7": 3,
+      "8": 2
+    },
+    "by_first_letter": {
+      "D": 12,
+      "E": 2,
+      "H": 9,
+      "M": 14,
+      "O": 3,
+      "T": 13
+    },
+    "grid": {
+      "D": {
+        "4": 5,
+        "5": 2,
+        "6": 4,
+        "7": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 4,
+        "5": 1,
+        "6": 3,
+        "8": 1
+      },
+      "M": {
+        "4": 6,
+        "5": 4,
+        "6": 3,
+        "7": 1
+      },
+      "O": {
+        "5": 2,
+        "8": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 3,
+        "6": 3,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 4,
+      "DO": 8,
+      "EM": 2,
+      "HO": 9,
+      "ME": 2,
+      "MO": 12,
+      "OU": 3,
+      "TH": 1,
+      "TO": 12
+    }
+  }
+}

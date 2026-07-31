@@ -1,0 +1,98 @@
+{
+  "pangram": "caulked",
+  "center_letter": "k",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 128,
+  "answer_pangrams": [
+    "caulked"
+  ],
+  "answers": [
+    "cackle",
+    "cackled",
+    "cake",
+    "caked",
+    "calked",
+    "caulk",
+    "caulked",
+    "clack",
+    "clacked",
+    "cluck",
+    "clucked",
+    "deck",
+    "decked",
+    "deckle",
+    "duck",
+    "ducked",
+    "duke",
+    "eked",
+    "kale",
+    "keel",
+    "keeled",
+    "lack",
+    "lacked",
+    "lake",
+    "leak",
+    "leaked",
+    "leek",
+    "luck",
+    "lucked",
+    "ukulele"
+  ],
+  "date": "2027-02-22",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 4,
+      "6": 9,
+      "7": 5
+    },
+    "by_first_letter": {
+      "C": 11,
+      "D": 6,
+      "E": 1,
+      "K": 3,
+      "L": 8,
+      "U": 1
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 4,
+        "6": 2,
+        "7": 4
+      },
+      "D": {
+        "4": 3,
+        "6": 3
+      },
+      "E": {
+        "4": 1
+      },
+      "K": {
+        "4": 2,
+        "6": 1
+      },
+      "L": {
+        "4": 5,
+        "6": 3
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CA": 7,
+      "CL": 4,
+      "DE": 3,
+      "DU": 3,
+      "EK": 1,
+      "KA": 1,
+      "KE": 2,
+      "LA": 3,
+      "LE": 3,
+      "LU": 2,
+      "UK": 1
+    }
+  }
+}

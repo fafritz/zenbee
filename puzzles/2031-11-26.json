@@ -1,0 +1,153 @@
+{
+  "pangram": "talking",
+  "center_letter": "l",
+  "num_answers": 60,
+  "num_pangrams": 1,
+  "possible_points": 319,
+  "answer_pangrams": [
+    "talking"
+  ],
+  "answers": [
+    "ailing",
+    "alga",
+    "align",
+    "aligning",
+    "alkali",
+    "anal",
+    "angling",
+    "gala",
+    "gall",
+    "gallant",
+    "galling",
+    "ganglia",
+    "gangling",
+    "giggling",
+    "gill",
+    "gilt",
+    "glint",
+    "glinting",
+    "initial",
+    "initialing",
+    "inkling",
+    "kill",
+    "killing",
+    "kiln",
+    "kilning",
+    "kilt",
+    "lagging",
+    "lain",
+    "lank",
+    "liking",
+    "lilt",
+    "lilting",
+    "lining",
+    "link",
+    "linking",
+    "lint",
+    "linting",
+    "litigant",
+    "litigating",
+    "nail",
+    "nailing",
+    "natal",
+    "niggling",
+    "tail",
+    "tailgating",
+    "tailing",
+    "talk",
+    "talking",
+    "tall",
+    "tangling",
+    "tattling",
+    "tiling",
+    "till",
+    "tilling",
+    "tilt",
+    "tilting",
+    "tingling",
+    "tinkling",
+    "titillating",
+    "titling"
+  ],
+  "date": "2031-11-26",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 3,
+      "6": 5,
+      "7": 18,
+      "8": 10,
+      "10": 3,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "G": 11,
+      "I": 3,
+      "K": 5,
+      "L": 13,
+      "N": 4,
+      "T": 17
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 4,
+        "5": 1,
+        "7": 3,
+        "8": 3
+      },
+      "I": {
+        "7": 2,
+        "10": 1
+      },
+      "K": {
+        "4": 3,
+        "7": 2
+      },
+      "L": {
+        "4": 5,
+        "6": 2,
+        "7": 4,
+        "8": 1,
+        "10": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 5,
+        "6": 1,
+        "7": 5,
+        "8": 4,
+        "10": 1,
+        "11": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AL": 4,
+      "AN": 2,
+      "GA": 6,
+      "GI": 3,
+      "GL": 2,
+      "IN": 3,
+      "KI": 5,
+      "LA": 3,
+      "LI": 10,
+      "NA": 3,
+      "NI": 1,
+      "TA": 8,
+      "TI": 9
+    }
+  }
+}

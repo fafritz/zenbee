@@ -1,0 +1,81 @@
+{
+  "pangram": "thorium",
+  "center_letter": "u",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 84,
+  "answer_pangrams": [
+    "thorium"
+  ],
+  "answers": [
+    "hour",
+    "humor",
+    "hurt",
+    "motormouth",
+    "mouth",
+    "murmur",
+    "mutt",
+    "muumuu",
+    "rout",
+    "rumor",
+    "thorium",
+    "thou",
+    "thrum",
+    "tour",
+    "tout",
+    "trout",
+    "truth",
+    "tumor",
+    "tutor",
+    "tutu"
+  ],
+  "date": "2031-05-27",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 8,
+      "6": 2,
+      "7": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "H": 3,
+      "M": 5,
+      "R": 2,
+      "T": 10
+    },
+    "grid": {
+      "H": {
+        "4": 2,
+        "5": 1
+      },
+      "M": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "10": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 5,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "HO": 1,
+      "HU": 2,
+      "MO": 2,
+      "MU": 3,
+      "RO": 1,
+      "RU": 1,
+      "TH": 3,
+      "TO": 2,
+      "TR": 2,
+      "TU": 3
+    }
+  }
+}

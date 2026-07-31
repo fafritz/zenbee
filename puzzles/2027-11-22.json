@@ -1,0 +1,109 @@
+{
+  "pangram": "fumbled",
+  "center_letter": "m",
+  "num_answers": 35,
+  "num_pangrams": 1,
+  "possible_points": 185,
+  "answer_pangrams": [
+    "fumbled"
+  ],
+  "answers": [
+    "bumble",
+    "bumblebee",
+    "bumbled",
+    "bummed",
+    "deem",
+    "deemed",
+    "dumb",
+    "dumbbell",
+    "embed",
+    "embedded",
+    "emblem",
+    "flume",
+    "fumble",
+    "fumbled",
+    "fume",
+    "fumed",
+    "meddle",
+    "meddled",
+    "meld",
+    "melded",
+    "melee",
+    "meme",
+    "muddle",
+    "muddled",
+    "muff",
+    "muffed",
+    "muffle",
+    "muffled",
+    "mule",
+    "mull",
+    "mulled",
+    "mumble",
+    "mumbled",
+    "muumuu",
+    "umbel"
+  ],
+  "date": "2027-11-22",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 5,
+      "6": 13,
+      "7": 6,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "B": 4,
+      "D": 4,
+      "E": 3,
+      "F": 5,
+      "M": 18,
+      "U": 1
+    },
+    "grid": {
+      "B": {
+        "6": 2,
+        "7": 1,
+        "9": 1
+      },
+      "D": {
+        "4": 2,
+        "6": 1,
+        "8": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "F": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "M": {
+        "4": 5,
+        "5": 1,
+        "6": 8,
+        "7": 4
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "BU": 4,
+      "DE": 2,
+      "DU": 2,
+      "EM": 3,
+      "FL": 1,
+      "FU": 4,
+      "ME": 6,
+      "MU": 12,
+      "UM": 1
+    }
+  }
+}

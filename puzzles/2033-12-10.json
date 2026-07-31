@@ -1,0 +1,102 @@
+{
+  "pangram": "probity",
+  "center_letter": "o",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 113,
+  "answer_pangrams": [
+    "probity"
+  ],
+  "answers": [
+    "bobby",
+    "boob",
+    "booboo",
+    "booby",
+    "boor",
+    "boot",
+    "booty",
+    "obit",
+    "orbit",
+    "poop",
+    "poor",
+    "poppy",
+    "port",
+    "potty",
+    "prior",
+    "priority",
+    "priory",
+    "probity",
+    "prop",
+    "riot",
+    "robot",
+    "root",
+    "rotor",
+    "tiptop",
+    "toot",
+    "torpor",
+    "tort",
+    "trio",
+    "troop",
+    "trot",
+    "troy",
+    "typo",
+    "tyro"
+  ],
+  "date": "2033-12-10",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 10,
+      "6": 4,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "B": 7,
+      "O": 2,
+      "P": 10,
+      "R": 4,
+      "T": 10
+    },
+    "grid": {
+      "B": {
+        "4": 3,
+        "5": 3,
+        "6": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1
+      },
+      "P": {
+        "4": 4,
+        "5": 3,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 2
+      },
+      "T": {
+        "4": 7,
+        "5": 1,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "BO": 7,
+      "OB": 1,
+      "OR": 1,
+      "PO": 5,
+      "PR": 5,
+      "RI": 1,
+      "RO": 3,
+      "TI": 1,
+      "TO": 3,
+      "TR": 4,
+      "TY": 2
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "pangram": "hurling",
+  "center_letter": "r",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 131,
+  "answer_pangrams": [
+    "hurling"
+  ],
+  "answers": [
+    "girl",
+    "grill",
+    "grilling",
+    "grin",
+    "grinning",
+    "gunrunning",
+    "gurgling",
+    "guru",
+    "hiring",
+    "hurl",
+    "hurling",
+    "inuring",
+    "luring",
+    "rigging",
+    "riling",
+    "rill",
+    "ring",
+    "ringing",
+    "ruin",
+    "ruing",
+    "ruining",
+    "ruling",
+    "rung",
+    "running",
+    "urging"
+  ],
+  "date": "2038-12-09",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 2,
+      "6": 5,
+      "7": 6,
+      "8": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "G": 8,
+      "H": 3,
+      "I": 1,
+      "L": 1,
+      "R": 11,
+      "U": 1
+    },
+    "grid": {
+      "G": {
+        "4": 3,
+        "5": 1,
+        "8": 3,
+        "10": 1
+      },
+      "H": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "7": 1
+      },
+      "L": {
+        "6": 1
+      },
+      "R": {
+        "4": 4,
+        "5": 1,
+        "6": 2,
+        "7": 4
+      },
+      "U": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 1,
+      "GR": 4,
+      "GU": 3,
+      "HI": 1,
+      "HU": 2,
+      "IN": 1,
+      "LU": 1,
+      "RI": 5,
+      "RU": 6,
+      "UR": 1
+    }
+  }
+}

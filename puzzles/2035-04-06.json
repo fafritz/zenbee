@@ -1,0 +1,150 @@
+{
+  "pangram": "beaming",
+  "center_letter": "e",
+  "num_answers": 57,
+  "num_pangrams": 1,
+  "possible_points": 253,
+  "answer_pangrams": [
+    "beaming"
+  ],
+  "answers": [
+    "abbe",
+    "abeam",
+    "amen",
+    "anemia",
+    "anime",
+    "babe",
+    "baggage",
+    "bane",
+    "beam",
+    "beaming",
+    "bean",
+    "beaning",
+    "been",
+    "began",
+    "begging",
+    "begin",
+    "beginning",
+    "beige",
+    "being",
+    "benign",
+    "biggie",
+    "binge",
+    "bingeing",
+    "ebbing",
+    "egging",
+    "enema",
+    "engage",
+    "engaging",
+    "engine",
+    "enigma",
+    "game",
+    "gamine",
+    "geeing",
+    "gene",
+    "genie",
+    "genii",
+    "gibe",
+    "gimme",
+    "image",
+    "imagine",
+    "imbibe",
+    "inane",
+    "mammae",
+    "manage",
+    "mane",
+    "manege",
+    "mange",
+    "mean",
+    "meaning",
+    "meme",
+    "menage",
+    "mien",
+    "mime",
+    "mine",
+    "name",
+    "nene",
+    "nine"
+  ],
+  "date": "2035-04-06",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 14,
+      "6": 15,
+      "7": 6,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 18,
+      "E": 7,
+      "G": 8,
+      "I": 4,
+      "M": 12,
+      "N": 3
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "6": 1
+      },
+      "B": {
+        "4": 5,
+        "5": 5,
+        "6": 2,
+        "7": 4,
+        "8": 1,
+        "9": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 5,
+        "8": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 3,
+        "6": 2
+      },
+      "I": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "M": {
+        "4": 6,
+        "5": 1,
+        "6": 4,
+        "7": 1
+      },
+      "N": {
+        "4": 3
+      }
+    },
+    "two_letter_list": {
+      "AB": 2,
+      "AM": 1,
+      "AN": 2,
+      "BA": 3,
+      "BE": 12,
+      "BI": 3,
+      "EB": 1,
+      "EG": 1,
+      "EN": 5,
+      "GA": 2,
+      "GE": 4,
+      "GI": 2,
+      "IM": 3,
+      "IN": 1,
+      "MA": 5,
+      "ME": 4,
+      "MI": 3,
+      "NA": 1,
+      "NE": 1,
+      "NI": 1
+    }
+  }
+}

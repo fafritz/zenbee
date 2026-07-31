@@ -1,0 +1,64 @@
+{
+  "pangram": "gaudily",
+  "center_letter": "g",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 61,
+  "answer_pangrams": [
+    "gaudily"
+  ],
+  "answers": [
+    "alga",
+    "gala",
+    "gall",
+    "gaudily",
+    "gaudy",
+    "giddily",
+    "giddy",
+    "giggly",
+    "gild",
+    "gill",
+    "glad",
+    "gladly",
+    "guild",
+    "gull",
+    "gully",
+    "ugly"
+  ],
+  "date": "2034-12-15",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 4,
+      "6": 2,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "G": 14,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "G": {
+        "4": 6,
+        "5": 4,
+        "6": 2,
+        "7": 2
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "GA": 4,
+      "GI": 5,
+      "GL": 2,
+      "GU": 3,
+      "UG": 1
+    }
+  }
+}

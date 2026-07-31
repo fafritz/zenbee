@@ -1,0 +1,90 @@
+{
+  "pangram": "lunched",
+  "center_letter": "c",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 124,
+  "answer_pangrams": [
+    "lunched"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "cell",
+    "clench",
+    "clenched",
+    "clue",
+    "clued",
+    "cuddle",
+    "cuddled",
+    "cued",
+    "cull",
+    "culled",
+    "deduce",
+    "deduced",
+    "deuce",
+    "dunce",
+    "hence",
+    "hunch",
+    "hunched",
+    "leech",
+    "leeched",
+    "lunch",
+    "lunched",
+    "uncle"
+  ],
+  "date": "2026-05-19",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 9,
+      "6": 4,
+      "7": 5,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 12,
+      "D": 4,
+      "H": 3,
+      "L": 4,
+      "U": 1
+    },
+    "grid": {
+      "C": {
+        "4": 5,
+        "5": 2,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "D": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "H": {
+        "5": 2,
+        "7": 1
+      },
+      "L": {
+        "5": 2,
+        "7": 2
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 3,
+      "CL": 4,
+      "CU": 5,
+      "DE": 3,
+      "DU": 1,
+      "HE": 1,
+      "HU": 2,
+      "LE": 2,
+      "LU": 2,
+      "UN": 1
+    }
+  }
+}

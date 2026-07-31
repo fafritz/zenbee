@@ -1,0 +1,98 @@
+{
+  "pangram": "aground",
+  "center_letter": "g",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 105,
+  "answer_pangrams": [
+    "aground"
+  ],
+  "answers": [
+    "agar",
+    "agog",
+    "aground",
+    "angora",
+    "argon",
+    "augur",
+    "drag",
+    "dragon",
+    "dragoon",
+    "drug",
+    "dung",
+    "gang",
+    "goad",
+    "gonad",
+    "gong",
+    "gonna",
+    "good",
+    "goon",
+    "gourd",
+    "grad",
+    "grand",
+    "groan",
+    "grog",
+    "ground",
+    "guano",
+    "guard",
+    "guru",
+    "organ",
+    "raga",
+    "rang",
+    "rung"
+  ],
+  "date": "2028-12-05",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 10,
+      "6": 3,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 6,
+      "D": 5,
+      "G": 16,
+      "O": 1,
+      "R": 3
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 3,
+        "6": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 8,
+        "5": 7,
+        "6": 1
+      },
+      "O": {
+        "5": 1
+      },
+      "R": {
+        "4": 3
+      }
+    },
+    "two_letter_list": {
+      "AG": 3,
+      "AN": 1,
+      "AR": 1,
+      "AU": 1,
+      "DR": 4,
+      "DU": 1,
+      "GA": 1,
+      "GO": 7,
+      "GR": 5,
+      "GU": 3,
+      "OR": 1,
+      "RA": 2,
+      "RU": 1
+    }
+  }
+}

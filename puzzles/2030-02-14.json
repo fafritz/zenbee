@@ -1,0 +1,125 @@
+{
+  "pangram": "chantey",
+  "center_letter": "c",
+  "num_answers": 46,
+  "num_pangrams": 1,
+  "possible_points": 224,
+  "answer_pangrams": [
+    "chantey"
+  ],
+  "answers": [
+    "accent",
+    "acetate",
+    "ache",
+    "achy",
+    "acne",
+    "attach",
+    "attache",
+    "cache",
+    "cachet",
+    "cancan",
+    "cane",
+    "canna",
+    "canny",
+    "cant",
+    "cantata",
+    "canteen",
+    "catch",
+    "catchy",
+    "catty",
+    "cayenne",
+    "cent",
+    "cetacean",
+    "chance",
+    "chancy",
+    "chant",
+    "chantey",
+    "chat",
+    "chatty",
+    "cheat",
+    "cheetah",
+    "cyan",
+    "each",
+    "enact",
+    "enchant",
+    "enhance",
+    "etch",
+    "hatch",
+    "hatchet",
+    "hence",
+    "tact",
+    "teach",
+    "tech",
+    "tenancy",
+    "thatch",
+    "thence",
+    "yacht"
+  ],
+  "date": "2030-02-14",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 12,
+      "6": 10,
+      "7": 11,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "C": 24,
+      "E": 5,
+      "H": 3,
+      "T": 6,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "6": 2,
+        "7": 2
+      },
+      "C": {
+        "4": 5,
+        "5": 7,
+        "6": 6,
+        "7": 5,
+        "8": 1
+      },
+      "E": {
+        "4": 2,
+        "5": 1,
+        "7": 2
+      },
+      "H": {
+        "5": 2,
+        "7": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 5,
+      "AT": 2,
+      "CA": 13,
+      "CE": 2,
+      "CH": 8,
+      "CY": 1,
+      "EA": 1,
+      "EN": 3,
+      "ET": 1,
+      "HA": 2,
+      "HE": 1,
+      "TA": 1,
+      "TE": 3,
+      "TH": 2,
+      "YA": 1
+    }
+  }
+}

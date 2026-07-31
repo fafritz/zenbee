@@ -1,0 +1,112 @@
+{
+  "pangram": "tongued",
+  "center_letter": "g",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 171,
+  "answer_pangrams": [
+    "tongued"
+  ],
+  "answers": [
+    "dodge",
+    "dodged",
+    "dogged",
+    "doggone",
+    "dudgeon",
+    "dugout",
+    "dung",
+    "dunged",
+    "dungeon",
+    "edge",
+    "edged",
+    "egged",
+    "eggnog",
+    "geed",
+    "gene",
+    "gent",
+    "geode",
+    "gone",
+    "gong",
+    "gonged",
+    "good",
+    "goon",
+    "gotten",
+    "gouge",
+    "gouged",
+    "gout",
+    "gunned",
+    "gutted",
+    "nudge",
+    "nudged",
+    "nugget",
+    "outgo",
+    "tongue",
+    "tongued",
+    "tugged",
+    "unguent"
+  ],
+  "date": "2028-09-16",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 7,
+      "6": 14,
+      "7": 5
+    },
+    "by_first_letter": {
+      "D": 9,
+      "E": 4,
+      "G": 15,
+      "N": 3,
+      "O": 1,
+      "T": 3,
+      "U": 1
+    },
+    "grid": {
+      "D": {
+        "4": 1,
+        "5": 1,
+        "6": 4,
+        "7": 3
+      },
+      "E": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      },
+      "G": {
+        "4": 8,
+        "5": 2,
+        "6": 5
+      },
+      "N": {
+        "5": 1,
+        "6": 2
+      },
+      "O": {
+        "5": 1
+      },
+      "T": {
+        "6": 2,
+        "7": 1
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 4,
+      "DU": 5,
+      "ED": 2,
+      "EG": 2,
+      "GE": 4,
+      "GO": 9,
+      "GU": 2,
+      "NU": 3,
+      "OU": 1,
+      "TO": 2,
+      "TU": 1,
+      "UN": 1
+    }
+  }
+}

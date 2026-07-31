@@ -1,0 +1,85 @@
+{
+  "pangram": "probity",
+  "center_letter": "r",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 71,
+  "answer_pangrams": [
+    "probity"
+  ],
+  "answers": [
+    "boor",
+    "orbit",
+    "poor",
+    "port",
+    "prior",
+    "priority",
+    "priory",
+    "probity",
+    "prop",
+    "riot",
+    "robot",
+    "root",
+    "rotor",
+    "torpor",
+    "tort",
+    "trio",
+    "trip",
+    "troop",
+    "trot",
+    "troy",
+    "tyro"
+  ],
+  "date": "2038-08-03",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 5,
+      "6": 2,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "B": 1,
+      "O": 1,
+      "P": 7,
+      "R": 4,
+      "T": 8
+    },
+    "grid": {
+      "B": {
+        "4": 1
+      },
+      "O": {
+        "5": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 2
+      },
+      "T": {
+        "4": 6,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "BO": 1,
+      "OR": 1,
+      "PO": 2,
+      "PR": 5,
+      "RI": 1,
+      "RO": 3,
+      "TO": 2,
+      "TR": 5,
+      "TY": 1
+    }
+  }
+}

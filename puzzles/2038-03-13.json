@@ -1,0 +1,136 @@
+{
+  "pangram": "cording",
+  "center_letter": "d",
+  "num_answers": 47,
+  "num_pangrams": 3,
+  "possible_points": 283,
+  "answer_pangrams": [
+    "cording",
+    "cordoning",
+    "corroding"
+  ],
+  "answers": [
+    "coding",
+    "coinciding",
+    "concord",
+    "condo",
+    "condoning",
+    "condor",
+    "cord",
+    "cording",
+    "cordon",
+    "cordoning",
+    "corridor",
+    "corroding",
+    "dicing",
+    "digging",
+    "ding",
+    "dinging",
+    "dingo",
+    "dining",
+    "dinning",
+    "dodging",
+    "dodo",
+    "dogging",
+    "doggoning",
+    "doing",
+    "donning",
+    "donor",
+    "door",
+    "droid",
+    "droning",
+    "gird",
+    "girding",
+    "good",
+    "grid",
+    "gridiron",
+    "grind",
+    "grinding",
+    "indigo",
+    "indoor",
+    "nodding",
+    "nonrigid",
+    "odor",
+    "ridding",
+    "ridging",
+    "riding",
+    "rigid",
+    "rind",
+    "rood"
+  ],
+  "date": "2038-03-13",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 7,
+      "6": 8,
+      "7": 13,
+      "8": 4,
+      "9": 4,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 12,
+      "D": 17,
+      "G": 7,
+      "I": 2,
+      "N": 2,
+      "O": 1,
+      "R": 6
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 3,
+        "10": 1
+      },
+      "D": {
+        "4": 3,
+        "5": 4,
+        "6": 2,
+        "7": 7,
+        "9": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 1,
+        "7": 1,
+        "8": 2
+      },
+      "I": {
+        "6": 2
+      },
+      "N": {
+        "7": 1,
+        "8": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "CO": 12,
+      "DI": 7,
+      "DO": 8,
+      "DR": 2,
+      "GI": 2,
+      "GO": 1,
+      "GR": 4,
+      "IN": 2,
+      "NO": 2,
+      "OD": 1,
+      "RI": 5,
+      "RO": 1
+    }
+  }
+}

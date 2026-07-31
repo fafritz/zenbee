@@ -1,0 +1,92 @@
+{
+  "pangram": "humidor",
+  "center_letter": "r",
+  "num_answers": 21,
+  "num_pangrams": 2,
+  "possible_points": 95,
+  "answer_pangrams": [
+    "humidor",
+    "rhodium"
+  ],
+  "answers": [
+    "door",
+    "dorm",
+    "dour",
+    "droid",
+    "druid",
+    "drum",
+    "horrid",
+    "horror",
+    "hour",
+    "humdrum",
+    "humidor",
+    "humor",
+    "iridium",
+    "mirror",
+    "moor",
+    "murmur",
+    "odor",
+    "rhodium",
+    "rood",
+    "room",
+    "rumor"
+  ],
+  "date": "2027-09-17",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 4,
+      "6": 4,
+      "7": 4
+    },
+    "by_first_letter": {
+      "D": 6,
+      "H": 6,
+      "I": 1,
+      "M": 3,
+      "O": 1,
+      "R": 4
+    },
+    "grid": {
+      "D": {
+        "4": 4,
+        "5": 2
+      },
+      "H": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 2
+      },
+      "I": {
+        "7": 1
+      },
+      "M": {
+        "4": 1,
+        "6": 2
+      },
+      "O": {
+        "4": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 3,
+      "DR": 3,
+      "HO": 3,
+      "HU": 3,
+      "IR": 1,
+      "MI": 1,
+      "MO": 1,
+      "MU": 1,
+      "OD": 1,
+      "RH": 1,
+      "RO": 2,
+      "RU": 1
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "pangram": "fixedly",
+  "center_letter": "l",
+  "num_answers": 44,
+  "num_pangrams": 1,
+  "possible_points": 187,
+  "answer_pangrams": [
+    "fixedly"
+  ],
+  "answers": [
+    "defile",
+    "defiled",
+    "deli",
+    "dell",
+    "diddle",
+    "diddled",
+    "dill",
+    "dilly",
+    "elide",
+    "elided",
+    "exile",
+    "exiled",
+    "eyelid",
+    "feel",
+    "fell",
+    "felled",
+    "fiddle",
+    "fiddled",
+    "fiddly",
+    "field",
+    "fielded",
+    "file",
+    "filed",
+    "fill",
+    "filled",
+    "filly",
+    "fixedly",
+    "fled",
+    "flee",
+    "flex",
+    "flexed",
+    "flied",
+    "idle",
+    "idled",
+    "idly",
+    "idyll",
+    "lidded",
+    "lied",
+    "life",
+    "lily",
+    "yell",
+    "yelled",
+    "yield",
+    "yielded"
+  ],
+  "date": "2032-06-04",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 10,
+      "6": 12,
+      "7": 6
+    },
+    "by_first_letter": {
+      "D": 8,
+      "E": 5,
+      "F": 19,
+      "I": 4,
+      "L": 4,
+      "Y": 4
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "5": 1,
+        "6": 2,
+        "7": 2
+      },
+      "E": {
+        "5": 2,
+        "6": 3
+      },
+      "F": {
+        "4": 7,
+        "5": 4,
+        "6": 5,
+        "7": 3
+      },
+      "I": {
+        "4": 2,
+        "5": 2
+      },
+      "L": {
+        "4": 3,
+        "6": 1
+      },
+      "Y": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 4,
+      "DI": 4,
+      "EL": 2,
+      "EX": 2,
+      "EY": 1,
+      "FE": 3,
+      "FI": 11,
+      "FL": 5,
+      "ID": 4,
+      "LI": 4,
+      "YE": 2,
+      "YI": 2
+    }
+  }
+}

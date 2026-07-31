@@ -1,0 +1,159 @@
+{
+  "pangram": "placebo",
+  "center_letter": "l",
+  "num_answers": 66,
+  "num_pangrams": 1,
+  "possible_points": 213,
+  "answer_pangrams": [
+    "placebo"
+  ],
+  "answers": [
+    "able",
+    "aloe",
+    "alpaca",
+    "appall",
+    "appeal",
+    "apple",
+    "babble",
+    "babel",
+    "bale",
+    "ball",
+    "bell",
+    "belle",
+    "blab",
+    "bleep",
+    "blob",
+    "bloc",
+    "bobble",
+    "bola",
+    "bole",
+    "boll",
+    "cabal",
+    "cable",
+    "call",
+    "calla",
+    "callable",
+    "capable",
+    "cell",
+    "cello",
+    "clap",
+    "clop",
+    "coal",
+    "cobble",
+    "cola",
+    "cool",
+    "elope",
+    "label",
+    "lace",
+    "lapel",
+    "leap",
+    "lobe",
+    "local",
+    "locale",
+    "loco",
+    "loll",
+    "loop",
+    "lope",
+    "oleo",
+    "opal",
+    "palace",
+    "pale",
+    "pall",
+    "palpable",
+    "papal",
+    "peaceable",
+    "peal",
+    "pebble",
+    "peel",
+    "people",
+    "place",
+    "placebo",
+    "plea",
+    "plop",
+    "pole",
+    "poll",
+    "polo",
+    "pool"
+  ],
+  "date": "2039-01-05",
+  "hints": {
+    "by_length": {
+      "4": 37,
+      "5": 14,
+      "6": 10,
+      "7": 2,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "B": 14,
+      "C": 14,
+      "E": 1,
+      "L": 11,
+      "O": 2,
+      "P": 18
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 3
+      },
+      "B": {
+        "4": 9,
+        "5": 3,
+        "6": 2
+      },
+      "C": {
+        "4": 7,
+        "5": 4,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "L": {
+        "4": 7,
+        "5": 3,
+        "6": 1
+      },
+      "O": {
+        "4": 2
+      },
+      "P": {
+        "4": 10,
+        "5": 2,
+        "6": 3,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AL": 2,
+      "AP": 3,
+      "BA": 4,
+      "BE": 2,
+      "BL": 4,
+      "BO": 4,
+      "CA": 6,
+      "CE": 2,
+      "CL": 2,
+      "CO": 4,
+      "EL": 1,
+      "LA": 3,
+      "LE": 1,
+      "LO": 7,
+      "OL": 1,
+      "OP": 1,
+      "PA": 5,
+      "PE": 5,
+      "PL": 4,
+      "PO": 4
+    }
+  }
+}

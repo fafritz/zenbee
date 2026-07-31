@@ -1,0 +1,107 @@
+{
+  "pangram": "frantic",
+  "center_letter": "f",
+  "num_answers": 27,
+  "num_pangrams": 2,
+  "possible_points": 137,
+  "answer_pangrams": [
+    "antiaircraft",
+    "frantic"
+  ],
+  "answers": [
+    "afar",
+    "affair",
+    "aircraft",
+    "antiaircraft",
+    "artifact",
+    "caftan",
+    "craft",
+    "fact",
+    "faint",
+    "fair",
+    "fanatic",
+    "farina",
+    "fart",
+    "fiat",
+    "franc",
+    "frantic",
+    "frat",
+    "friar",
+    "infant",
+    "raffia",
+    "raft",
+    "riff",
+    "riffraff",
+    "rift",
+    "tariff",
+    "tiff",
+    "traffic"
+  ],
+  "date": "2035-11-25",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 4,
+      "6": 6,
+      "7": 3,
+      "8": 3,
+      "12": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 2,
+      "F": 11,
+      "I": 1,
+      "R": 5,
+      "T": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1,
+        "8": 2,
+        "12": 1
+      },
+      "C": {
+        "5": 1,
+        "6": 1
+      },
+      "F": {
+        "4": 5,
+        "5": 3,
+        "6": 1,
+        "7": 2
+      },
+      "I": {
+        "6": 1
+      },
+      "R": {
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AF": 2,
+      "AI": 1,
+      "AN": 1,
+      "AR": 1,
+      "CA": 1,
+      "CR": 1,
+      "FA": 6,
+      "FI": 1,
+      "FR": 4,
+      "IN": 1,
+      "RA": 2,
+      "RI": 3,
+      "TA": 1,
+      "TI": 1,
+      "TR": 1
+    }
+  }
+}

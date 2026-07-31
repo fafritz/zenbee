@@ -1,0 +1,102 @@
+{
+  "pangram": "cohabit",
+  "center_letter": "i",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 111,
+  "answer_pangrams": [
+    "cohabit"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "attic",
+    "bait",
+    "cacti",
+    "chaotic",
+    "chic",
+    "chit",
+    "chitchat",
+    "ciabatta",
+    "cocci",
+    "cohabit",
+    "habit",
+    "habitat",
+    "hibachi",
+    "hitch",
+    "hobbit",
+    "iota",
+    "itch",
+    "obit",
+    "tacit",
+    "tactic",
+    "tibia"
+  ],
+  "date": "2027-10-13",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 7,
+      "6": 3,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 1,
+      "C": 8,
+      "H": 5,
+      "I": 2,
+      "O": 1,
+      "T": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "B": {
+        "4": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 2,
+        "7": 2,
+        "8": 2
+      },
+      "H": {
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "I": {
+        "4": 2
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AT": 1,
+      "BA": 1,
+      "CA": 1,
+      "CH": 4,
+      "CI": 1,
+      "CO": 2,
+      "HA": 2,
+      "HI": 2,
+      "HO": 1,
+      "IO": 1,
+      "IT": 1,
+      "OB": 1,
+      "TA": 2,
+      "TI": 1
+    }
+  }
+}

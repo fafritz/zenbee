@@ -1,0 +1,134 @@
+{
+  "pangram": "nomadic",
+  "center_letter": "i",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 200,
+  "answer_pangrams": [
+    "nomadic"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acid",
+    "acidic",
+    "admin",
+    "amid",
+    "amino",
+    "ammonia",
+    "anion",
+    "candid",
+    "cicada",
+    "cinnamon",
+    "cocci",
+    "coin",
+    "comic",
+    "conic",
+    "diamond",
+    "domain",
+    "dominion",
+    "domino",
+    "icon",
+    "idiom",
+    "imam",
+    "maid",
+    "maim",
+    "main",
+    "mania",
+    "maniac",
+    "manic",
+    "mica",
+    "mimic",
+    "mind",
+    "mini",
+    "minim",
+    "minima",
+    "minion",
+    "monomania",
+    "monomaniac",
+    "naiad",
+    "niacin",
+    "nomadic",
+    "onion"
+  ],
+  "date": "2028-02-06",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 13,
+      "6": 10,
+      "7": 3,
+      "8": 2,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 9,
+      "C": 7,
+      "D": 4,
+      "I": 3,
+      "M": 15,
+      "N": 3,
+      "O": 1
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 3,
+        "6": 2,
+        "8": 1
+      },
+      "D": {
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "I": {
+        "4": 2,
+        "5": 1
+      },
+      "M": {
+        "4": 6,
+        "5": 4,
+        "6": 3,
+        "9": 1,
+        "10": 1
+      },
+      "N": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "O": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 4,
+      "AD": 1,
+      "AM": 3,
+      "AN": 1,
+      "CA": 1,
+      "CI": 2,
+      "CO": 4,
+      "DI": 1,
+      "DO": 3,
+      "IC": 1,
+      "ID": 1,
+      "IM": 1,
+      "MA": 6,
+      "MI": 7,
+      "MO": 2,
+      "NA": 1,
+      "NI": 1,
+      "NO": 1,
+      "ON": 1
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "pangram": "patched",
+  "center_letter": "p",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 177,
+  "answer_pangrams": [
+    "patched"
+  ],
+  "answers": [
+    "accept",
+    "accepted",
+    "adapt",
+    "adapted",
+    "adept",
+    "apace",
+    "aped",
+    "cape",
+    "caped",
+    "capped",
+    "chap",
+    "chapped",
+    "cheap",
+    "cheep",
+    "cheeped",
+    "deep",
+    "depth",
+    "epee",
+    "heap",
+    "heaped",
+    "pace",
+    "paced",
+    "pact",
+    "padded",
+    "papa",
+    "patch",
+    "patched",
+    "pate",
+    "path",
+    "patted",
+    "peace",
+    "peach",
+    "peat",
+    "peed",
+    "peep",
+    "peeped",
+    "pepped",
+    "petted",
+    "tape",
+    "taped",
+    "tapped",
+    "tepee"
+  ],
+  "date": "2035-04-16",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 13,
+      "6": 9,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "C": 8,
+      "D": 2,
+      "E": 1,
+      "H": 2,
+      "P": 18,
+      "T": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 3,
+        "6": 1,
+        "7": 2
+      },
+      "D": {
+        "4": 1,
+        "5": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "H": {
+        "4": 1,
+        "6": 1
+      },
+      "P": {
+        "4": 8,
+        "5": 4,
+        "6": 5,
+        "7": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AD": 3,
+      "AP": 2,
+      "CA": 3,
+      "CH": 5,
+      "DE": 2,
+      "EP": 1,
+      "HE": 2,
+      "PA": 10,
+      "PE": 8,
+      "TA": 3,
+      "TE": 1
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "pangram": "unlaced",
+  "center_letter": "u",
+  "num_answers": 60,
+  "num_pangrams": 2,
+  "possible_points": 312,
+  "answer_pangrams": [
+    "uncalled",
+    "unlaced"
+  ],
+  "answers": [
+    "adduce",
+    "adduced",
+    "allude",
+    "alluded",
+    "annual",
+    "annul",
+    "annulled",
+    "cannula",
+    "canula",
+    "caudal",
+    "clue",
+    "clued",
+    "cuddle",
+    "cuddled",
+    "cued",
+    "cull",
+    "culled",
+    "deduce",
+    "deduced",
+    "delude",
+    "deluded",
+    "denude",
+    "denuded",
+    "deuce",
+    "dual",
+    "ducal",
+    "dude",
+    "duded",
+    "duel",
+    "dueled",
+    "dull",
+    "dulled",
+    "dunce",
+    "dune",
+    "dunned",
+    "elude",
+    "eluded",
+    "endue",
+    "endued",
+    "lacuna",
+    "lacunae",
+    "laud",
+    "lauded",
+    "luau",
+    "lull",
+    "lulled",
+    "lulu",
+    "nuance",
+    "nuanced",
+    "null",
+    "ulna",
+    "ulnae",
+    "uncalled",
+    "uncle",
+    "unclean",
+    "undue",
+    "unlace",
+    "unlaced",
+    "unleaded",
+    "unneeded"
+  ],
+  "date": "2028-12-12",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 11,
+      "6": 20,
+      "7": 11,
+      "8": 4
+    },
+    "by_first_letter": {
+      "A": 7,
+      "C": 10,
+      "D": 18,
+      "E": 4,
+      "L": 8,
+      "N": 3,
+      "U": 10
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 1,
+        "6": 4,
+        "7": 2
+      },
+      "D": {
+        "4": 5,
+        "5": 4,
+        "6": 6,
+        "7": 3
+      },
+      "E": {
+        "5": 2,
+        "6": 2
+      },
+      "L": {
+        "4": 4,
+        "6": 3,
+        "7": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 2,
+        "8": 3
+      }
+    },
+    "two_letter_list": {
+      "AD": 2,
+      "AL": 2,
+      "AN": 3,
+      "CA": 3,
+      "CL": 2,
+      "CU": 5,
+      "DE": 7,
+      "DU": 11,
+      "EL": 2,
+      "EN": 2,
+      "LA": 4,
+      "LU": 4,
+      "NU": 3,
+      "UL": 2,
+      "UN": 8
+    }
+  }
+}

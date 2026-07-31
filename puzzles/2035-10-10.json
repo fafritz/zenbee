@@ -1,0 +1,141 @@
+{
+  "pangram": "machine",
+  "center_letter": "n",
+  "num_answers": 51,
+  "num_pangrams": 2,
+  "possible_points": 235,
+  "answer_pangrams": [
+    "machine",
+    "mechanic"
+  ],
+  "answers": [
+    "acne",
+    "amen",
+    "anemia",
+    "anemic",
+    "anime",
+    "cancan",
+    "cane",
+    "canine",
+    "canna",
+    "chain",
+    "chance",
+    "chin",
+    "china",
+    "cinch",
+    "cinema",
+    "eminence",
+    "enema",
+    "enhance",
+    "hence",
+    "henchman",
+    "henchmen",
+    "henna",
+    "immanence",
+    "imminence",
+    "inane",
+    "inch",
+    "machine",
+    "main",
+    "mane",
+    "mania",
+    "maniac",
+    "manic",
+    "manna",
+    "mean",
+    "mechanic",
+    "menace",
+    "mien",
+    "mince",
+    "mine",
+    "mini",
+    "minim",
+    "minima",
+    "naan",
+    "name",
+    "nana",
+    "nene",
+    "niacin",
+    "nice",
+    "niche",
+    "niece",
+    "nine"
+  ],
+  "date": "2035-10-10",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 16,
+      "6": 10,
+      "7": 2,
+      "8": 4,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 10,
+      "E": 3,
+      "H": 4,
+      "I": 4,
+      "M": 16,
+      "N": 9
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "C": {
+        "4": 2,
+        "5": 4,
+        "6": 4
+      },
+      "E": {
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "H": {
+        "5": 2,
+        "8": 2
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "9": 2
+      },
+      "M": {
+        "4": 6,
+        "5": 5,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 6,
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AM": 1,
+      "AN": 3,
+      "CA": 4,
+      "CH": 4,
+      "CI": 2,
+      "EM": 1,
+      "EN": 2,
+      "HE": 4,
+      "IM": 2,
+      "IN": 2,
+      "MA": 7,
+      "ME": 3,
+      "MI": 6,
+      "NA": 3,
+      "NE": 1,
+      "NI": 5
+    }
+  }
+}

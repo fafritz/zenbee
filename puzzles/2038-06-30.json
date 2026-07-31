@@ -1,0 +1,84 @@
+{
+  "pangram": "thirdly",
+  "center_letter": "l",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 65,
+  "answer_pangrams": [
+    "thirdly"
+  ],
+  "answers": [
+    "dill",
+    "dilly",
+    "drill",
+    "dryly",
+    "hill",
+    "hilly",
+    "hilt",
+    "idly",
+    "idyll",
+    "lilt",
+    "lily",
+    "rill",
+    "thirdly",
+    "thrill",
+    "tidily",
+    "till",
+    "tilt",
+    "trill"
+  ],
+  "date": "2038-06-30",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 6,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "D": 4,
+      "H": 3,
+      "I": 2,
+      "L": 2,
+      "R": 1,
+      "T": 6
+    },
+    "grid": {
+      "D": {
+        "4": 1,
+        "5": 3
+      },
+      "H": {
+        "4": 2,
+        "5": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 2
+      },
+      "R": {
+        "4": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "DI": 2,
+      "DR": 2,
+      "HI": 3,
+      "ID": 2,
+      "LI": 2,
+      "RI": 1,
+      "TH": 2,
+      "TI": 3,
+      "TR": 1
+    }
+  }
+}

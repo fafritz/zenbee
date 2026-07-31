@@ -1,0 +1,106 @@
+{
+  "pangram": "flicked",
+  "center_letter": "c",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 147,
+  "answer_pangrams": [
+    "flicked"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "cell",
+    "clef",
+    "click",
+    "clicked",
+    "cliff",
+    "decide",
+    "decided",
+    "deck",
+    "decked",
+    "deckle",
+    "deice",
+    "deiced",
+    "dice",
+    "diced",
+    "edifice",
+    "fickle",
+    "fleck",
+    "flecked",
+    "fleece",
+    "fleeced",
+    "flick",
+    "flicked",
+    "iced",
+    "icicle",
+    "kick",
+    "kicked",
+    "lice",
+    "lick",
+    "licked"
+  ],
+  "date": "2027-08-22",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 7,
+      "6": 9,
+      "7": 6
+    },
+    "by_first_letter": {
+      "C": 7,
+      "D": 9,
+      "E": 1,
+      "F": 7,
+      "I": 2,
+      "K": 2,
+      "L": 3
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 3,
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 2,
+        "6": 4,
+        "7": 1
+      },
+      "E": {
+        "7": 1
+      },
+      "F": {
+        "5": 2,
+        "6": 2,
+        "7": 3
+      },
+      "I": {
+        "4": 1,
+        "6": 1
+      },
+      "K": {
+        "4": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 3,
+      "CL": 4,
+      "DE": 7,
+      "DI": 2,
+      "ED": 1,
+      "FI": 1,
+      "FL": 6,
+      "IC": 2,
+      "KI": 2,
+      "LI": 3
+    }
+  }
+}

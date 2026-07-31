@@ -1,0 +1,85 @@
+{
+  "pangram": "hotlink",
+  "center_letter": "k",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 53,
+  "answer_pangrams": [
+    "hotlink"
+  ],
+  "answers": [
+    "honk",
+    "hook",
+    "hotlink",
+    "kill",
+    "kiln",
+    "kilo",
+    "kiloton",
+    "kilt",
+    "kink",
+    "knit",
+    "knoll",
+    "knot",
+    "kook",
+    "link",
+    "look",
+    "nook",
+    "oink",
+    "think",
+    "took",
+    "toolkit"
+  ],
+  "date": "2033-03-25",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 2,
+      "7": 3
+    },
+    "by_first_letter": {
+      "H": 3,
+      "K": 10,
+      "L": 2,
+      "N": 1,
+      "O": 1,
+      "T": 3
+    },
+    "grid": {
+      "H": {
+        "4": 2,
+        "7": 1
+      },
+      "K": {
+        "4": 8,
+        "5": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 2
+      },
+      "N": {
+        "4": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "HO": 3,
+      "KI": 6,
+      "KN": 3,
+      "KO": 1,
+      "LI": 1,
+      "LO": 1,
+      "NO": 1,
+      "OI": 1,
+      "TH": 1,
+      "TO": 2
+    }
+  }
+}

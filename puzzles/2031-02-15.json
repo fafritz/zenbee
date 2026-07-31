@@ -1,0 +1,82 @@
+{
+  "pangram": "hemlock",
+  "center_letter": "k",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 63,
+  "answer_pangrams": [
+    "hemlock"
+  ],
+  "answers": [
+    "check",
+    "cheek",
+    "chock",
+    "choke",
+    "clock",
+    "cockle",
+    "coke",
+    "cook",
+    "heck",
+    "heckle",
+    "hemlock",
+    "hock",
+    "hook",
+    "keel",
+    "kook",
+    "leek",
+    "lock",
+    "look",
+    "meek",
+    "mock"
+  ],
+  "date": "2031-02-15",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 5,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 8,
+      "H": 5,
+      "K": 2,
+      "L": 3,
+      "M": 2
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 5,
+        "6": 1
+      },
+      "H": {
+        "4": 3,
+        "6": 1,
+        "7": 1
+      },
+      "K": {
+        "4": 2
+      },
+      "L": {
+        "4": 3
+      },
+      "M": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "CH": 4,
+      "CL": 1,
+      "CO": 3,
+      "HE": 3,
+      "HO": 2,
+      "KE": 1,
+      "KO": 1,
+      "LE": 1,
+      "LO": 2,
+      "ME": 1,
+      "MO": 1
+    }
+  }
+}

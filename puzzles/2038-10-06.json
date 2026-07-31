@@ -1,0 +1,79 @@
+{
+  "pangram": "quality",
+  "center_letter": "l",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 67,
+  "answer_pangrams": [
+    "quality"
+  ],
+  "answers": [
+    "allay",
+    "ally",
+    "laity",
+    "lilt",
+    "lily",
+    "luau",
+    "lull",
+    "lulu",
+    "quail",
+    "quality",
+    "quill",
+    "quilt",
+    "tail",
+    "tall",
+    "tally",
+    "tautly",
+    "till",
+    "tilt",
+    "utility"
+  ],
+  "date": "2038-10-06",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 6,
+      "6": 1,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "L": 6,
+      "Q": 4,
+      "T": 6,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 1
+      },
+      "Q": {
+        "5": 3,
+        "7": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 1,
+        "6": 1
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "LA": 1,
+      "LI": 2,
+      "LU": 3,
+      "QU": 4,
+      "TA": 4,
+      "TI": 2,
+      "UT": 1
+    }
+  }
+}

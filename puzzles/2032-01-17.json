@@ -1,0 +1,91 @@
+{
+  "pangram": "upbraid",
+  "center_letter": "a",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 65,
+  "answer_pangrams": [
+    "upbraid"
+  ],
+  "answers": [
+    "aria",
+    "arid",
+    "aura",
+    "baba",
+    "barb",
+    "bard",
+    "baud",
+    "brad",
+    "braid",
+    "briar",
+    "daub",
+    "drab",
+    "ipad",
+    "paid",
+    "pair",
+    "papa",
+    "pupa",
+    "rabbi",
+    "rabid",
+    "radar",
+    "radii",
+    "raid",
+    "rapid",
+    "upbraid"
+  ],
+  "date": "2032-01-17",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 7,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 7,
+      "D": 2,
+      "I": 1,
+      "P": 4,
+      "R": 6,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 3
+      },
+      "B": {
+        "4": 5,
+        "5": 2
+      },
+      "D": {
+        "4": 2
+      },
+      "I": {
+        "4": 1
+      },
+      "P": {
+        "4": 4
+      },
+      "R": {
+        "4": 1,
+        "5": 5
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AR": 2,
+      "AU": 1,
+      "BA": 4,
+      "BR": 3,
+      "DA": 1,
+      "DR": 1,
+      "IP": 1,
+      "PA": 3,
+      "PU": 1,
+      "RA": 6,
+      "UP": 1
+    }
+  }
+}

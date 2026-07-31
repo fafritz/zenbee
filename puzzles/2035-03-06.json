@@ -1,0 +1,125 @@
+{
+  "pangram": "albumen",
+  "center_letter": "n",
+  "num_answers": 39,
+  "num_pangrams": 1,
+  "possible_points": 150,
+  "answer_pangrams": [
+    "albumen"
+  ],
+  "answers": [
+    "albumen",
+    "alumna",
+    "alumnae",
+    "amen",
+    "amenable",
+    "anal",
+    "anneal",
+    "annual",
+    "annul",
+    "baleen",
+    "banal",
+    "banana",
+    "bane",
+    "bean",
+    "been",
+    "benumb",
+    "elan",
+    "enable",
+    "enamel",
+    "enema",
+    "lane",
+    "lean",
+    "mane",
+    "manna",
+    "manual",
+    "mean",
+    "menu",
+    "naan",
+    "name",
+    "nana",
+    "nebula",
+    "nebulae",
+    "nene",
+    "null",
+    "numb",
+    "ulna",
+    "ulnae",
+    "unable",
+    "unman"
+  ],
+  "date": "2035-03-06",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 6,
+      "6": 11,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 9,
+      "B": 7,
+      "E": 4,
+      "L": 2,
+      "M": 5,
+      "N": 8,
+      "U": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      },
+      "B": {
+        "4": 3,
+        "5": 1,
+        "6": 3
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "L": {
+        "4": 2
+      },
+      "M": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "4": 6,
+        "6": 1,
+        "7": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 3,
+      "AM": 2,
+      "AN": 4,
+      "BA": 4,
+      "BE": 3,
+      "EL": 1,
+      "EN": 3,
+      "LA": 1,
+      "LE": 1,
+      "MA": 3,
+      "ME": 2,
+      "NA": 3,
+      "NE": 3,
+      "NU": 2,
+      "UL": 2,
+      "UN": 2
+    }
+  }
+}

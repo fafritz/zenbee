@@ -1,0 +1,85 @@
+{
+  "pangram": "hateful",
+  "center_letter": "u",
+  "num_answers": 22,
+  "num_pangrams": 2,
+  "possible_points": 78,
+  "answer_pangrams": [
+    "hateful",
+    "healthful"
+  ],
+  "answers": [
+    "fateful",
+    "fault",
+    "flue",
+    "fluff",
+    "flute",
+    "fuel",
+    "full",
+    "hateful",
+    "haul",
+    "healthful",
+    "huff",
+    "hula",
+    "hull",
+    "luau",
+    "lull",
+    "lulu",
+    "lute",
+    "taut",
+    "tuft",
+    "tulle",
+    "tutu",
+    "ululate"
+  ],
+  "date": "2026-12-05",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 4,
+      "7": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "F": 7,
+      "H": 6,
+      "L": 4,
+      "T": 4,
+      "U": 1
+    },
+    "grid": {
+      "F": {
+        "4": 3,
+        "5": 3,
+        "7": 1
+      },
+      "H": {
+        "4": 4,
+        "7": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 4
+      },
+      "T": {
+        "4": 3,
+        "5": 1
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "FA": 2,
+      "FL": 3,
+      "FU": 2,
+      "HA": 2,
+      "HE": 1,
+      "HU": 3,
+      "LU": 4,
+      "TA": 1,
+      "TU": 3,
+      "UL": 1
+    }
+  }
+}

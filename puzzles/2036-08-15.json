@@ -1,0 +1,82 @@
+{
+  "pangram": "turmoil",
+  "center_letter": "i",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 49,
+  "answer_pangrams": [
+    "turmoil"
+  ],
+  "answers": [
+    "lilt",
+    "limit",
+    "limo",
+    "mill",
+    "mirror",
+    "mitt",
+    "multi",
+    "olio",
+    "omit",
+    "rill",
+    "riot",
+    "roil",
+    "till",
+    "tilt",
+    "toil",
+    "trill",
+    "trim",
+    "trio",
+    "turmoil"
+  ],
+  "date": "2036-08-15",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 3,
+      "6": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "L": 3,
+      "M": 4,
+      "O": 2,
+      "R": 3,
+      "T": 7
+    },
+    "grid": {
+      "L": {
+        "4": 2,
+        "5": 1
+      },
+      "M": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 2
+      },
+      "R": {
+        "4": 3
+      },
+      "T": {
+        "4": 5,
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "LI": 3,
+      "MI": 3,
+      "MU": 1,
+      "OL": 1,
+      "OM": 1,
+      "RI": 2,
+      "RO": 1,
+      "TI": 2,
+      "TO": 1,
+      "TR": 3,
+      "TU": 1
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "pangram": "cyanide",
+  "center_letter": "c",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 266,
+  "answer_pangrams": [
+    "cyanide"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "accede",
+    "acceded",
+    "aced",
+    "acid",
+    "acidic",
+    "acne",
+    "caddie",
+    "caddied",
+    "cadence",
+    "cancan",
+    "candid",
+    "candidacy",
+    "candied",
+    "candy",
+    "cane",
+    "caned",
+    "canine",
+    "canna",
+    "canned",
+    "canny",
+    "cayenne",
+    "cede",
+    "ceded",
+    "cicada",
+    "cyan",
+    "cyanide",
+    "cynic",
+    "dance",
+    "danced",
+    "decade",
+    "decadence",
+    "decay",
+    "decayed",
+    "decency",
+    "decide",
+    "decided",
+    "deice",
+    "deiced",
+    "dice",
+    "diced",
+    "dicey",
+    "dyadic",
+    "iced",
+    "incidence",
+    "indecency",
+    "niacin",
+    "nice",
+    "niece"
+  ],
+  "date": "2028-03-11",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 12,
+      "6": 15,
+      "7": 9,
+      "9": 4
+    },
+    "by_first_letter": {
+      "A": 8,
+      "C": 21,
+      "D": 15,
+      "I": 3,
+      "N": 3
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "6": 3,
+        "7": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 6,
+        "6": 6,
+        "7": 5,
+        "9": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 5,
+        "6": 5,
+        "7": 3,
+        "9": 1
+      },
+      "I": {
+        "4": 1,
+        "9": 2
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 8,
+      "CA": 15,
+      "CE": 2,
+      "CI": 1,
+      "CY": 3,
+      "DA": 2,
+      "DE": 9,
+      "DI": 3,
+      "DY": 1,
+      "IC": 1,
+      "IN": 2,
+      "NI": 3
+    }
+  }
+}

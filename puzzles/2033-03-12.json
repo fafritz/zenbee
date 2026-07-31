@@ -1,0 +1,95 @@
+{
+  "pangram": "wrought",
+  "center_letter": "h",
+  "num_answers": 22,
+  "num_pangrams": 2,
+  "possible_points": 126,
+  "answer_pangrams": [
+    "outgrowth",
+    "wrought"
+  ],
+  "answers": [
+    "growth",
+    "hoot",
+    "horror",
+    "hour",
+    "hurt",
+    "ought",
+    "outgrowth",
+    "rough",
+    "thorough",
+    "thou",
+    "though",
+    "thought",
+    "through",
+    "throughout",
+    "throw",
+    "thug",
+    "tooth",
+    "tough",
+    "trough",
+    "truth",
+    "worth",
+    "wrought"
+  ],
+  "date": "2033-03-12",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 7,
+      "6": 4,
+      "7": 3,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "G": 1,
+      "H": 4,
+      "O": 2,
+      "R": 1,
+      "T": 12,
+      "W": 2
+    },
+    "grid": {
+      "G": {
+        "6": 1
+      },
+      "H": {
+        "4": 3,
+        "6": 1
+      },
+      "O": {
+        "5": 1,
+        "9": 1
+      },
+      "R": {
+        "5": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 4,
+        "6": 2,
+        "7": 2,
+        "8": 1,
+        "10": 1
+      },
+      "W": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "GR": 1,
+      "HO": 3,
+      "HU": 1,
+      "OU": 2,
+      "RO": 1,
+      "TH": 8,
+      "TO": 2,
+      "TR": 2,
+      "WO": 1,
+      "WR": 1
+    }
+  }
+}

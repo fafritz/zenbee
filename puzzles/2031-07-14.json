@@ -1,0 +1,88 @@
+{
+  "pangram": "drought",
+  "center_letter": "d",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 72,
+  "answer_pangrams": [
+    "drought"
+  ],
+  "answers": [
+    "dodo",
+    "dogtrot",
+    "door",
+    "dough",
+    "dour",
+    "drought",
+    "drug",
+    "dugout",
+    "godhood",
+    "good",
+    "gourd",
+    "hood",
+    "hoodoo",
+    "odor",
+    "outdo",
+    "outdoor",
+    "rood",
+    "thud",
+    "trod"
+  ],
+  "date": "2031-07-14",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 3,
+      "6": 2,
+      "7": 4
+    },
+    "by_first_letter": {
+      "D": 8,
+      "G": 3,
+      "H": 2,
+      "O": 3,
+      "R": 1,
+      "T": 2
+    },
+    "grid": {
+      "D": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 2
+      },
+      "G": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 1
+      },
+      "T": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "DO": 5,
+      "DR": 2,
+      "DU": 1,
+      "GO": 3,
+      "HO": 2,
+      "OD": 1,
+      "OU": 2,
+      "RO": 1,
+      "TH": 1,
+      "TR": 1
+    }
+  }
+}

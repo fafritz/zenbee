@@ -1,0 +1,120 @@
+{
+  "pangram": "alimony",
+  "center_letter": "i",
+  "num_answers": 38,
+  "num_pangrams": 2,
+  "possible_points": 174,
+  "answer_pangrams": [
+    "alimony",
+    "nominally"
+  ],
+  "answers": [
+    "alimony",
+    "amino",
+    "ammonia",
+    "animal",
+    "anion",
+    "imam",
+    "inlay",
+    "lain",
+    "lanolin",
+    "lily",
+    "limn",
+    "limo",
+    "limy",
+    "lion",
+    "loin",
+    "mail",
+    "mailman",
+    "maim",
+    "main",
+    "mainly",
+    "mammalian",
+    "mania",
+    "mill",
+    "million",
+    "mini",
+    "minim",
+    "minima",
+    "minimal",
+    "minimally",
+    "minion",
+    "monomania",
+    "nail",
+    "ninny",
+    "nominal",
+    "nominally",
+    "oily",
+    "olio",
+    "onion"
+  ],
+  "date": "2032-03-04",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 7,
+      "6": 4,
+      "7": 7,
+      "9": 4
+    },
+    "by_first_letter": {
+      "A": 5,
+      "I": 2,
+      "L": 8,
+      "M": 16,
+      "N": 4,
+      "O": 3
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 7,
+        "7": 1
+      },
+      "M": {
+        "4": 5,
+        "5": 2,
+        "6": 3,
+        "7": 3,
+        "9": 3
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "9": 1
+      },
+      "O": {
+        "4": 2,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AM": 2,
+      "AN": 2,
+      "IM": 1,
+      "IN": 1,
+      "LA": 2,
+      "LI": 5,
+      "LO": 1,
+      "MA": 7,
+      "MI": 8,
+      "MO": 1,
+      "NA": 1,
+      "NI": 1,
+      "NO": 2,
+      "OI": 1,
+      "OL": 1,
+      "ON": 1
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "pangram": "wealthy",
+  "center_letter": "w",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 116,
+  "answer_pangrams": [
+    "wealthy"
+  ],
+  "answers": [
+    "alleyway",
+    "away",
+    "hallway",
+    "layaway",
+    "leeway",
+    "thaw",
+    "tweet",
+    "wale",
+    "wall",
+    "wallet",
+    "walleye",
+    "watt",
+    "wattle",
+    "waylay",
+    "weal",
+    "wealth",
+    "wealthy",
+    "well",
+    "welt",
+    "wetly",
+    "whale",
+    "what",
+    "wheal",
+    "wheat",
+    "wheel",
+    "whet",
+    "whew",
+    "whey",
+    "yawl"
+  ],
+  "date": "2028-07-04",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 6,
+      "6": 5,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "H": 1,
+      "L": 2,
+      "T": 2,
+      "W": 21,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "8": 1
+      },
+      "H": {
+        "7": 1
+      },
+      "L": {
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1
+      },
+      "W": {
+        "4": 10,
+        "5": 5,
+        "6": 4,
+        "7": 2
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AW": 1,
+      "HA": 1,
+      "LA": 1,
+      "LE": 1,
+      "TH": 1,
+      "TW": 1,
+      "WA": 7,
+      "WE": 6,
+      "WH": 8,
+      "YA": 1
+    }
+  }
+}

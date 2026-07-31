@@ -1,0 +1,100 @@
+{
+  "pangram": "racking",
+  "center_letter": "k",
+  "num_answers": 27,
+  "num_pangrams": 3,
+  "possible_points": 150,
+  "answer_pangrams": [
+    "cracking",
+    "cranking",
+    "racking"
+  ],
+  "answers": [
+    "akin",
+    "caking",
+    "crack",
+    "cracking",
+    "crank",
+    "cranking",
+    "crick",
+    "cricking",
+    "inking",
+    "irking",
+    "kick",
+    "kicking",
+    "king",
+    "kink",
+    "kinking",
+    "knack",
+    "knickknack",
+    "nick",
+    "nicking",
+    "rack",
+    "racking",
+    "raking",
+    "rank",
+    "ranking",
+    "rick",
+    "ricking",
+    "rink"
+  ],
+  "date": "2031-10-21",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 4,
+      "6": 4,
+      "7": 6,
+      "8": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 7,
+      "I": 2,
+      "K": 7,
+      "N": 2,
+      "R": 8
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "C": {
+        "5": 3,
+        "6": 1,
+        "8": 3
+      },
+      "I": {
+        "6": 2
+      },
+      "K": {
+        "4": 3,
+        "5": 1,
+        "7": 2,
+        "10": 1
+      },
+      "N": {
+        "4": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 4,
+        "6": 1,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "AK": 1,
+      "CA": 1,
+      "CR": 6,
+      "IN": 1,
+      "IR": 1,
+      "KI": 5,
+      "KN": 2,
+      "NI": 2,
+      "RA": 5,
+      "RI": 3
+    }
+  }
+}

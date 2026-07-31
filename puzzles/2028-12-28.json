@@ -1,0 +1,107 @@
+{
+  "pangram": "outback",
+  "center_letter": "o",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 134,
+  "answer_pangrams": [
+    "outback"
+  ],
+  "answers": [
+    "abbot",
+    "about",
+    "auto",
+    "baobab",
+    "boat",
+    "bobcat",
+    "boob",
+    "booboo",
+    "book",
+    "boot",
+    "bout",
+    "buttock",
+    "cacao",
+    "catboat",
+    "coat",
+    "coca",
+    "cockatoo",
+    "cocoa",
+    "cook",
+    "cookbook",
+    "cookout",
+    "coot",
+    "cuckoo",
+    "cutout",
+    "kook",
+    "outback",
+    "taboo",
+    "taco",
+    "tattoo",
+    "tobacco",
+    "took",
+    "toot",
+    "tout"
+  ],
+  "date": "2028-12-28",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 5,
+      "6": 6,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 9,
+      "C": 12,
+      "K": 1,
+      "O": 1,
+      "T": 7
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2
+      },
+      "B": {
+        "4": 5,
+        "6": 3,
+        "7": 1
+      },
+      "C": {
+        "4": 4,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2
+      },
+      "K": {
+        "4": 1
+      },
+      "O": {
+        "7": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 2,
+      "AU": 1,
+      "BA": 1,
+      "BO": 7,
+      "BU": 1,
+      "CA": 2,
+      "CO": 8,
+      "CU": 2,
+      "KO": 1,
+      "OU": 1,
+      "TA": 3,
+      "TO": 4
+    }
+  }
+}

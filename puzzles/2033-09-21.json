@@ -1,0 +1,97 @@
+{
+  "pangram": "burdock",
+  "center_letter": "o",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 85,
+  "answer_pangrams": [
+    "burdock"
+  ],
+  "answers": [
+    "boob",
+    "booboo",
+    "book",
+    "boor",
+    "brood",
+    "brook",
+    "burdock",
+    "burro",
+    "cook",
+    "cookbook",
+    "cord",
+    "cork",
+    "crock",
+    "crook",
+    "cuckoo",
+    "dock",
+    "dodo",
+    "door",
+    "dour",
+    "kook",
+    "occur",
+    "odor",
+    "rock",
+    "rococo",
+    "rood",
+    "rook"
+  ],
+  "date": "2033-09-21",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 6,
+      "6": 3,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "B": 8,
+      "C": 7,
+      "D": 4,
+      "K": 1,
+      "O": 2,
+      "R": 4
+    },
+    "grid": {
+      "B": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "D": {
+        "4": 4
+      },
+      "K": {
+        "4": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1
+      },
+      "R": {
+        "4": 3,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "BO": 4,
+      "BR": 2,
+      "BU": 2,
+      "CO": 4,
+      "CR": 2,
+      "CU": 1,
+      "DO": 4,
+      "KO": 1,
+      "OC": 1,
+      "OD": 1,
+      "RO": 4
+    }
+  }
+}

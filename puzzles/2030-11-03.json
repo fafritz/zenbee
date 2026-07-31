@@ -1,0 +1,127 @@
+{
+  "pangram": "lazying",
+  "center_letter": "g",
+  "num_answers": 43,
+  "num_pangrams": 2,
+  "possible_points": 267,
+  "answer_pangrams": [
+    "analyzing",
+    "lazying"
+  ],
+  "answers": [
+    "again",
+    "aging",
+    "ailing",
+    "alga",
+    "align",
+    "aligning",
+    "allaying",
+    "allying",
+    "analyzing",
+    "angina",
+    "angling",
+    "gagging",
+    "gain",
+    "gaining",
+    "gala",
+    "gall",
+    "galling",
+    "gang",
+    "ganging",
+    "ganglia",
+    "gangling",
+    "gazing",
+    "gigging",
+    "giggling",
+    "giggly",
+    "gill",
+    "ginning",
+    "glazing",
+    "inlaying",
+    "inning",
+    "lagging",
+    "laying",
+    "lazing",
+    "lazying",
+    "lining",
+    "lying",
+    "nagging",
+    "nailing",
+    "niggling",
+    "zigzag",
+    "zigzagging",
+    "zing",
+    "zinging"
+  ],
+  "date": "2030-11-03",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 4,
+      "6": 9,
+      "7": 15,
+      "8": 6,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 11,
+      "G": 17,
+      "I": 2,
+      "L": 6,
+      "N": 3,
+      "Z": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 1
+      },
+      "G": {
+        "4": 5,
+        "6": 2,
+        "7": 8,
+        "8": 2
+      },
+      "I": {
+        "6": 1,
+        "8": 1
+      },
+      "L": {
+        "5": 1,
+        "6": 3,
+        "7": 2
+      },
+      "N": {
+        "7": 2,
+        "8": 1
+      },
+      "Z": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 1,
+      "AL": 5,
+      "AN": 3,
+      "GA": 11,
+      "GI": 5,
+      "GL": 1,
+      "IN": 2,
+      "LA": 4,
+      "LI": 1,
+      "LY": 1,
+      "NA": 2,
+      "NI": 1,
+      "ZI": 4
+    }
+  }
+}

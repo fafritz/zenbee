@@ -1,0 +1,107 @@
+{
+  "pangram": "pitched",
+  "center_letter": "p",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 176,
+  "answer_pangrams": [
+    "pitched"
+  ],
+  "answers": [
+    "cheep",
+    "cheeped",
+    "chip",
+    "chipped",
+    "deep",
+    "depict",
+    "depicted",
+    "depth",
+    "dipped",
+    "epee",
+    "epic",
+    "epithet",
+    "hipped",
+    "hippie",
+    "peed",
+    "peep",
+    "peeped",
+    "pepped",
+    "peptic",
+    "petite",
+    "petted",
+    "piece",
+    "pieced",
+    "pied",
+    "pipe",
+    "piped",
+    "pipit",
+    "pipped",
+    "pitch",
+    "pitched",
+    "pith",
+    "pitied",
+    "pitted",
+    "tepee",
+    "tepid",
+    "tipped"
+  ],
+  "date": "2031-02-10",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 8,
+      "6": 14,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 4,
+      "D": 5,
+      "E": 3,
+      "H": 2,
+      "P": 19,
+      "T": 3
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 1,
+        "7": 2
+      },
+      "D": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "8": 1
+      },
+      "E": {
+        "4": 2,
+        "7": 1
+      },
+      "H": {
+        "6": 2
+      },
+      "P": {
+        "4": 5,
+        "5": 4,
+        "6": 9,
+        "7": 1
+      },
+      "T": {
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 4,
+      "DE": 4,
+      "DI": 1,
+      "EP": 3,
+      "HI": 2,
+      "PE": 7,
+      "PI": 12,
+      "TE": 2,
+      "TI": 1
+    }
+  }
+}

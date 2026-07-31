@@ -1,0 +1,138 @@
+{
+  "pangram": "combing",
+  "center_letter": "i",
+  "num_answers": 50,
+  "num_pangrams": 2,
+  "possible_points": 319,
+  "answer_pangrams": [
+    "combing",
+    "combining"
+  ],
+  "answers": [
+    "bingo",
+    "binning",
+    "bionic",
+    "bobbin",
+    "bobbing",
+    "bogging",
+    "bombing",
+    "bonging",
+    "boning",
+    "boobing",
+    "booing",
+    "booming",
+    "cocci",
+    "cocooning",
+    "coin",
+    "coining",
+    "combing",
+    "combining",
+    "comic",
+    "coming",
+    "conic",
+    "conning",
+    "cooing",
+    "gibbon",
+    "gibing",
+    "gigging",
+    "ginning",
+    "gobbing",
+    "going",
+    "gonging",
+    "icing",
+    "icon",
+    "imbibing",
+    "incoming",
+    "inning",
+    "mimic",
+    "miming",
+    "mincing",
+    "mini",
+    "minim",
+    "mining",
+    "minion",
+    "mobbing",
+    "mooing",
+    "mooning",
+    "nimbi",
+    "noggin",
+    "oncoming",
+    "ongoing",
+    "onion"
+  ],
+  "date": "2030-04-02",
+  "hints": {
+    "by_length": {
+      "4": 3,
+      "5": 10,
+      "6": 14,
+      "7": 18,
+      "8": 3,
+      "9": 2
+    },
+    "by_first_letter": {
+      "B": 12,
+      "C": 11,
+      "G": 7,
+      "I": 5,
+      "M": 10,
+      "N": 2,
+      "O": 3
+    },
+    "grid": {
+      "B": {
+        "5": 1,
+        "6": 4,
+        "7": 7
+      },
+      "C": {
+        "4": 1,
+        "5": 3,
+        "6": 2,
+        "7": 3,
+        "9": 2
+      },
+      "G": {
+        "5": 1,
+        "6": 2,
+        "7": 4
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "8": 2
+      },
+      "M": {
+        "4": 1,
+        "5": 2,
+        "6": 4,
+        "7": 3
+      },
+      "N": {
+        "5": 1,
+        "6": 1
+      },
+      "O": {
+        "5": 1,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "BI": 3,
+      "BO": 9,
+      "CO": 11,
+      "GI": 4,
+      "GO": 3,
+      "IC": 2,
+      "IM": 1,
+      "IN": 2,
+      "MI": 7,
+      "MO": 3,
+      "NI": 1,
+      "NO": 1,
+      "ON": 3
+    }
+  }
+}

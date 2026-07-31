@@ -1,0 +1,79 @@
+{
+  "pangram": "cowhand",
+  "center_letter": "d",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 60,
+  "answer_pangrams": [
+    "cowhand"
+  ],
+  "answers": [
+    "anaconda",
+    "chad",
+    "coda",
+    "condo",
+    "cowhand",
+    "dacha",
+    "dado",
+    "dawn",
+    "dodo",
+    "doodad",
+    "down",
+    "hand",
+    "hood",
+    "hoodoo",
+    "howdah",
+    "wand",
+    "wood"
+  ],
+  "date": "2028-09-10",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 2,
+      "6": 3,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 4,
+      "D": 6,
+      "H": 4,
+      "W": 2
+    },
+    "grid": {
+      "A": {
+        "8": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 4,
+        "5": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 2,
+        "6": 2
+      },
+      "W": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "CH": 1,
+      "CO": 3,
+      "DA": 3,
+      "DO": 3,
+      "HA": 1,
+      "HO": 3,
+      "WA": 1,
+      "WO": 1
+    }
+  }
+}

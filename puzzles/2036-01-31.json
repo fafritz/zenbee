@@ -1,0 +1,83 @@
+{
+  "pangram": "hemlock",
+  "center_letter": "h",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 84,
+  "answer_pangrams": [
+    "hemlock"
+  ],
+  "answers": [
+    "check",
+    "cheek",
+    "chem",
+    "chock",
+    "choke",
+    "cloche",
+    "echo",
+    "heck",
+    "heckle",
+    "heel",
+    "hell",
+    "hellhole",
+    "hello",
+    "helm",
+    "hemlock",
+    "hock",
+    "hole",
+    "home",
+    "hooch",
+    "hook",
+    "leech",
+    "mooch"
+  ],
+  "date": "2036-01-31",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 8,
+      "6": 2,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 6,
+      "E": 1,
+      "H": 13,
+      "L": 1,
+      "M": 1
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 4,
+        "6": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "H": {
+        "4": 8,
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "L": {
+        "5": 1
+      },
+      "M": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 5,
+      "CL": 1,
+      "EC": 1,
+      "HE": 8,
+      "HO": 5,
+      "LE": 1,
+      "MO": 1
+    }
+  }
+}

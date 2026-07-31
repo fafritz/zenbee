@@ -1,0 +1,90 @@
+{
+  "pangram": "figment",
+  "center_letter": "f",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 123,
+  "answer_pangrams": [
+    "figment"
+  ],
+  "answers": [
+    "effete",
+    "feet",
+    "feign",
+    "feigning",
+    "feint",
+    "feinting",
+    "feminine",
+    "fete",
+    "feting",
+    "fief",
+    "fife",
+    "fifteen",
+    "figment",
+    "fine",
+    "fining",
+    "finite",
+    "fitting",
+    "gift",
+    "gifting",
+    "infinite",
+    "miff",
+    "miffing",
+    "tiff",
+    "tiffing"
+  ],
+  "date": "2036-05-20",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 2,
+      "6": 4,
+      "7": 6,
+      "8": 4
+    },
+    "by_first_letter": {
+      "E": 1,
+      "F": 16,
+      "G": 2,
+      "I": 1,
+      "M": 2,
+      "T": 2
+    },
+    "grid": {
+      "E": {
+        "6": 1
+      },
+      "F": {
+        "4": 5,
+        "5": 2,
+        "6": 3,
+        "7": 3,
+        "8": 3
+      },
+      "G": {
+        "4": 1,
+        "7": 1
+      },
+      "I": {
+        "8": 1
+      },
+      "M": {
+        "4": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "EF": 1,
+      "FE": 8,
+      "FI": 8,
+      "GI": 2,
+      "IN": 1,
+      "MI": 2,
+      "TI": 2
+    }
+  }
+}

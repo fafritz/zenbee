@@ -1,0 +1,93 @@
+{
+  "pangram": "valuing",
+  "center_letter": "v",
+  "num_answers": 21,
+  "num_pangrams": 2,
+  "possible_points": 130,
+  "answer_pangrams": [
+    "unavailing",
+    "valuing"
+  ],
+  "answers": [
+    "alluvial",
+    "anvil",
+    "avail",
+    "availing",
+    "avian",
+    "giving",
+    "guava",
+    "lava",
+    "living",
+    "naval",
+    "unavailing",
+    "uvula",
+    "vain",
+    "valuing",
+    "valving",
+    "vanilla",
+    "vanning",
+    "vial",
+    "vigil",
+    "villa",
+    "villain"
+  ],
+  "date": "2038-08-08",
+  "hints": {
+    "by_length": {
+      "4": 3,
+      "5": 8,
+      "6": 2,
+      "7": 5,
+      "8": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "G": 2,
+      "L": 2,
+      "N": 1,
+      "U": 2,
+      "V": 9
+    },
+    "grid": {
+      "A": {
+        "5": 3,
+        "8": 2
+      },
+      "G": {
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 1,
+        "6": 1
+      },
+      "N": {
+        "5": 1
+      },
+      "U": {
+        "5": 1,
+        "10": 1
+      },
+      "V": {
+        "4": 2,
+        "5": 2,
+        "7": 5
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AN": 1,
+      "AV": 3,
+      "GI": 1,
+      "GU": 1,
+      "LA": 1,
+      "LI": 1,
+      "NA": 1,
+      "UN": 1,
+      "UV": 1,
+      "VA": 5,
+      "VI": 4
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "pangram": "quoting",
+  "center_letter": "o",
+  "num_answers": 38,
+  "num_pangrams": 3,
+  "possible_points": 219,
+  "answer_pangrams": [
+    "quoiting",
+    "quoting",
+    "unquoting"
+  ],
+  "answers": [
+    "going",
+    "gong",
+    "gonging",
+    "goon",
+    "gouging",
+    "gout",
+    "ignition",
+    "ingot",
+    "into",
+    "intoning",
+    "intuition",
+    "noggin",
+    "nonunion",
+    "noon",
+    "noting",
+    "notion",
+    "noun",
+    "ongoing",
+    "onion",
+    "onto",
+    "outgo",
+    "outgoing",
+    "outing",
+    "quoit",
+    "quoiting",
+    "quoting",
+    "tonguing",
+    "toning",
+    "toon",
+    "toot",
+    "tooting",
+    "toting",
+    "totting",
+    "tout",
+    "touting",
+    "tuition",
+    "union",
+    "unquoting"
+  ],
+  "date": "2030-11-14",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 6,
+      "6": 6,
+      "7": 8,
+      "8": 6,
+      "9": 2
+    },
+    "by_first_letter": {
+      "G": 6,
+      "I": 5,
+      "N": 6,
+      "O": 6,
+      "Q": 3,
+      "T": 10,
+      "U": 2
+    },
+    "grid": {
+      "G": {
+        "4": 3,
+        "5": 1,
+        "7": 2
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "8": 2,
+        "9": 1
+      },
+      "N": {
+        "4": 2,
+        "6": 3,
+        "8": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "Q": {
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 3,
+        "6": 2,
+        "7": 4,
+        "8": 1
+      },
+      "U": {
+        "5": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "GO": 6,
+      "IG": 1,
+      "IN": 4,
+      "NO": 6,
+      "ON": 3,
+      "OU": 3,
+      "QU": 3,
+      "TO": 9,
+      "TU": 1,
+      "UN": 2
+    }
+  }
+}

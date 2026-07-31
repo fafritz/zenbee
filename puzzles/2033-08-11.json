@@ -1,0 +1,97 @@
+{
+  "pangram": "crumbly",
+  "center_letter": "u",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 108,
+  "answer_pangrams": [
+    "crumbly"
+  ],
+  "answers": [
+    "blur",
+    "blurb",
+    "blurry",
+    "bubbly",
+    "bulb",
+    "bull",
+    "bully",
+    "burly",
+    "burr",
+    "bury",
+    "club",
+    "crumb",
+    "crumbly",
+    "crumby",
+    "crummy",
+    "cull",
+    "curb",
+    "curl",
+    "curly",
+    "curry",
+    "lull",
+    "lulu",
+    "mull",
+    "mummy",
+    "murmur",
+    "muumuu",
+    "ruby",
+    "rummy",
+    "yummy"
+  ],
+  "date": "2033-08-11",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 9,
+      "6": 6,
+      "7": 1
+    },
+    "by_first_letter": {
+      "B": 10,
+      "C": 10,
+      "L": 2,
+      "M": 4,
+      "R": 2,
+      "Y": 1
+    },
+    "grid": {
+      "B": {
+        "4": 5,
+        "5": 3,
+        "6": 2
+      },
+      "C": {
+        "4": 4,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 2
+      },
+      "M": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "R": {
+        "4": 1,
+        "5": 1
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "BL": 3,
+      "BU": 7,
+      "CL": 1,
+      "CR": 4,
+      "CU": 5,
+      "LU": 2,
+      "MU": 4,
+      "RU": 2,
+      "YU": 1
+    }
+  }
+}

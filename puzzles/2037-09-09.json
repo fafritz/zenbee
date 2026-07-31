@@ -1,0 +1,92 @@
+{
+  "pangram": "outward",
+  "center_letter": "d",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 68,
+  "answer_pangrams": [
+    "outward"
+  ],
+  "answers": [
+    "ardor",
+    "award",
+    "dado",
+    "dart",
+    "data",
+    "dodo",
+    "doodad",
+    "door",
+    "dour",
+    "draw",
+    "odor",
+    "outdo",
+    "outdoor",
+    "outward",
+    "radar",
+    "road",
+    "rood",
+    "toad",
+    "toward",
+    "trod",
+    "ward",
+    "wood",
+    "word"
+  ],
+  "date": "2037-09-09",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 4,
+      "6": 2,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "D": 8,
+      "O": 4,
+      "R": 3,
+      "T": 3,
+      "W": 3
+    },
+    "grid": {
+      "A": {
+        "5": 2
+      },
+      "D": {
+        "4": 7,
+        "6": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1,
+        "7": 2
+      },
+      "R": {
+        "4": 2,
+        "5": 1
+      },
+      "T": {
+        "4": 2,
+        "6": 1
+      },
+      "W": {
+        "4": 3
+      }
+    },
+    "two_letter_list": {
+      "AR": 1,
+      "AW": 1,
+      "DA": 3,
+      "DO": 4,
+      "DR": 1,
+      "OD": 1,
+      "OU": 3,
+      "RA": 1,
+      "RO": 2,
+      "TO": 2,
+      "TR": 1,
+      "WA": 1,
+      "WO": 2
+    }
+  }
+}

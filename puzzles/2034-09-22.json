@@ -1,0 +1,118 @@
+{
+  "pangram": "plowing",
+  "center_letter": "p",
+  "num_answers": 46,
+  "num_pangrams": 2,
+  "possible_points": 265,
+  "answer_pangrams": [
+    "pillowing",
+    "plowing"
+  ],
+  "answers": [
+    "glop",
+    "goop",
+    "lollipop",
+    "loop",
+    "looping",
+    "loping",
+    "lopping",
+    "nipping",
+    "opining",
+    "opinion",
+    "pigging",
+    "piling",
+    "pill",
+    "pilling",
+    "pillion",
+    "pillow",
+    "pillowing",
+    "ping",
+    "pinging",
+    "pining",
+    "pinion",
+    "pinioning",
+    "pinning",
+    "piping",
+    "pippin",
+    "pipping",
+    "plop",
+    "plopping",
+    "plow",
+    "plowing",
+    "poling",
+    "polio",
+    "poll",
+    "polling",
+    "polliwog",
+    "polo",
+    "pool",
+    "pooling",
+    "poop",
+    "pooping",
+    "poplin",
+    "popping",
+    "powwow",
+    "powwowing",
+    "pwning",
+    "wiping"
+  ],
+  "date": "2034-09-22",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 1,
+      "6": 12,
+      "7": 16,
+      "8": 3,
+      "9": 3
+    },
+    "by_first_letter": {
+      "G": 2,
+      "L": 5,
+      "N": 1,
+      "O": 2,
+      "P": 35,
+      "W": 1
+    },
+    "grid": {
+      "G": {
+        "4": 2
+      },
+      "L": {
+        "4": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "7": 1
+      },
+      "O": {
+        "7": 2
+      },
+      "P": {
+        "4": 8,
+        "5": 1,
+        "6": 10,
+        "7": 11,
+        "8": 2,
+        "9": 3
+      },
+      "W": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "GL": 1,
+      "GO": 1,
+      "LO": 5,
+      "NI": 1,
+      "OP": 2,
+      "PI": 16,
+      "PL": 4,
+      "PO": 14,
+      "PW": 1,
+      "WI": 1
+    }
+  }
+}

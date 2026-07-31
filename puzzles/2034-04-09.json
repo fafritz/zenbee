@@ -1,0 +1,130 @@
+{
+  "pangram": "buckled",
+  "center_letter": "d",
+  "num_answers": 52,
+  "num_pangrams": 1,
+  "possible_points": 258,
+  "answer_pangrams": [
+    "buckled"
+  ],
+  "answers": [
+    "bedded",
+    "bedeck",
+    "bedecked",
+    "belled",
+    "bled",
+    "bleed",
+    "blued",
+    "bubbled",
+    "bucked",
+    "buckled",
+    "budded",
+    "bulked",
+    "bulled",
+    "cede",
+    "ceded",
+    "clubbed",
+    "clucked",
+    "clued",
+    "cubed",
+    "cuddle",
+    "cuddled",
+    "cued",
+    "culled",
+    "deck",
+    "decked",
+    "deckle",
+    "deduce",
+    "deduced",
+    "deed",
+    "deeded",
+    "dell",
+    "delude",
+    "deluded",
+    "deuce",
+    "dubbed",
+    "duck",
+    "ducked",
+    "dude",
+    "duded",
+    "duel",
+    "dueled",
+    "duke",
+    "dull",
+    "dulled",
+    "ebbed",
+    "eked",
+    "elude",
+    "eluded",
+    "keeled",
+    "lubed",
+    "lucked",
+    "lulled"
+  ],
+  "date": "2034-04-09",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 10,
+      "6": 22,
+      "7": 7,
+      "8": 1
+    },
+    "by_first_letter": {
+      "B": 13,
+      "C": 10,
+      "D": 21,
+      "E": 4,
+      "K": 1,
+      "L": 3
+    },
+    "grid": {
+      "B": {
+        "4": 1,
+        "5": 2,
+        "6": 7,
+        "7": 2,
+        "8": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 3,
+        "6": 2,
+        "7": 3
+      },
+      "D": {
+        "4": 8,
+        "5": 2,
+        "6": 9,
+        "7": 2
+      },
+      "E": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      },
+      "K": {
+        "6": 1
+      },
+      "L": {
+        "5": 1,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "BE": 4,
+      "BL": 3,
+      "BU": 6,
+      "CE": 2,
+      "CL": 3,
+      "CU": 5,
+      "DE": 11,
+      "DU": 10,
+      "EB": 1,
+      "EK": 1,
+      "EL": 2,
+      "KE": 1,
+      "LU": 3
+    }
+  }
+}

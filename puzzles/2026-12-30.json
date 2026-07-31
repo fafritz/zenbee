@@ -1,0 +1,118 @@
+{
+  "pangram": "crazing",
+  "center_letter": "r",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 226,
+  "answer_pangrams": [
+    "crazing"
+  ],
+  "answers": [
+    "agar",
+    "agrarian",
+    "airing",
+    "arcing",
+    "aria",
+    "arraign",
+    "arraigning",
+    "arranging",
+    "cairn",
+    "caring",
+    "cigar",
+    "circa",
+    "cirri",
+    "crag",
+    "craning",
+    "crazing",
+    "cringing",
+    "czar",
+    "czarina",
+    "garaging",
+    "gracing",
+    "grain",
+    "grazing",
+    "grin",
+    "grinning",
+    "narc",
+    "racing",
+    "raga",
+    "ragging",
+    "raging",
+    "rain",
+    "raining",
+    "rang",
+    "ranging",
+    "raring",
+    "razing",
+    "razz",
+    "razzing",
+    "ricing",
+    "rigging",
+    "ring",
+    "ringing"
+  ],
+  "date": "2026-12-30",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 5,
+      "6": 8,
+      "7": 12,
+      "8": 4,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "C": 11,
+      "G": 6,
+      "N": 1,
+      "R": 16
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 2,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 4,
+        "6": 1,
+        "7": 3,
+        "8": 1
+      },
+      "G": {
+        "4": 1,
+        "5": 1,
+        "7": 2,
+        "8": 2
+      },
+      "N": {
+        "4": 1
+      },
+      "R": {
+        "4": 5,
+        "6": 5,
+        "7": 6
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 1,
+      "AR": 5,
+      "CA": 2,
+      "CI": 3,
+      "CR": 4,
+      "CZ": 2,
+      "GA": 1,
+      "GR": 5,
+      "NA": 1,
+      "RA": 12,
+      "RI": 4
+    }
+  }
+}

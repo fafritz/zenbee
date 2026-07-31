@@ -1,0 +1,99 @@
+{
+  "pangram": "hideout",
+  "center_letter": "o",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 145,
+  "answer_pangrams": [
+    "hideout"
+  ],
+  "answers": [
+    "dhoti",
+    "diode",
+    "ditto",
+    "dittoed",
+    "dodo",
+    "dote",
+    "doted",
+    "dotted",
+    "hideout",
+    "hoed",
+    "hood",
+    "hooded",
+    "hoodie",
+    "hoodoo",
+    "hoodooed",
+    "hoot",
+    "hooted",
+    "idiot",
+    "outdid",
+    "outdo",
+    "outed",
+    "thou",
+    "toed",
+    "toot",
+    "tooted",
+    "tooth",
+    "toothed",
+    "tote",
+    "toted",
+    "totted",
+    "tout",
+    "touted"
+  ],
+  "date": "2026-07-08",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 9,
+      "6": 9,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "D": 8,
+      "H": 9,
+      "I": 1,
+      "O": 3,
+      "T": 11
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 4,
+        "6": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 3,
+        "6": 4,
+        "7": 1,
+        "8": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "O": {
+        "5": 2,
+        "6": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "DH": 1,
+      "DI": 3,
+      "DO": 4,
+      "HI": 1,
+      "HO": 8,
+      "ID": 1,
+      "OU": 3,
+      "TH": 1,
+      "TO": 10
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "pangram": "workday",
+  "center_letter": "y",
+  "num_answers": 25,
+  "num_pangrams": 2,
+  "possible_points": 123,
+  "answer_pangrams": [
+    "workaday",
+    "workday"
+  ],
+  "answers": [
+    "array",
+    "arroyo",
+    "away",
+    "awry",
+    "daddy",
+    "doorway",
+    "dorky",
+    "dory",
+    "dowdy",
+    "dowry",
+    "dray",
+    "dryad",
+    "kayak",
+    "kooky",
+    "okay",
+    "roadway",
+    "rowdy",
+    "wary",
+    "wayward",
+    "woody",
+    "wordy",
+    "workaday",
+    "workday",
+    "worry",
+    "yard"
+  ],
+  "date": "2030-07-27",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 12,
+      "6": 1,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "D": 8,
+      "K": 2,
+      "O": 1,
+      "R": 2,
+      "W": 7,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 5,
+        "7": 1
+      },
+      "K": {
+        "5": 2
+      },
+      "O": {
+        "4": 1
+      },
+      "R": {
+        "5": 1,
+        "7": 1
+      },
+      "W": {
+        "4": 1,
+        "5": 3,
+        "7": 2,
+        "8": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AR": 2,
+      "AW": 2,
+      "DA": 1,
+      "DO": 5,
+      "DR": 2,
+      "KA": 1,
+      "KO": 1,
+      "OK": 1,
+      "RO": 2,
+      "WA": 2,
+      "WO": 5,
+      "YA": 1
+    }
+  }
+}

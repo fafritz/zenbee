@@ -1,0 +1,68 @@
+{
+  "pangram": "clumped",
+  "center_letter": "c",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 88,
+  "answer_pangrams": [
+    "clumped"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "cell",
+    "clue",
+    "clued",
+    "clump",
+    "clumped",
+    "cuddle",
+    "cuddled",
+    "cued",
+    "cull",
+    "culled",
+    "cupped",
+    "deduce",
+    "deduced",
+    "deuce",
+    "emcee",
+    "emceed"
+  ],
+  "date": "2034-11-29",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 5,
+      "6": 5,
+      "7": 3
+    },
+    "by_first_letter": {
+      "C": 13,
+      "D": 3,
+      "E": 2
+    },
+    "grid": {
+      "C": {
+        "4": 5,
+        "5": 3,
+        "6": 3,
+        "7": 2
+      },
+      "D": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 3,
+      "CL": 4,
+      "CU": 6,
+      "DE": 3,
+      "EM": 2
+    }
+  }
+}

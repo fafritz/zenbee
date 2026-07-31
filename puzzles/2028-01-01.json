@@ -1,0 +1,97 @@
+{
+  "pangram": "agonize",
+  "center_letter": "a",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 131,
+  "answer_pangrams": [
+    "agonize"
+  ],
+  "answers": [
+    "again",
+    "aging",
+    "agog",
+    "agonize",
+    "agonizing",
+    "angina",
+    "anion",
+    "anon",
+    "engage",
+    "engaging",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "gaze",
+    "gazing",
+    "gonna",
+    "inane",
+    "naan",
+    "nagging",
+    "nana",
+    "zigzag",
+    "zigzagging",
+    "zinnia"
+  ],
+  "date": "2028-01-01",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 5,
+      "6": 5,
+      "7": 5,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "E": 2,
+      "G": 8,
+      "I": 1,
+      "N": 3,
+      "Z": 3
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "E": {
+        "6": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 3
+      },
+      "I": {
+        "5": 1
+      },
+      "N": {
+        "4": 2,
+        "7": 1
+      },
+      "Z": {
+        "6": 2,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 5,
+      "AN": 3,
+      "EN": 2,
+      "GA": 7,
+      "GO": 1,
+      "IN": 1,
+      "NA": 3,
+      "ZI": 3
+    }
+  }
+}

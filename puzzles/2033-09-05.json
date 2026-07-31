@@ -1,0 +1,114 @@
+{
+  "pangram": "foaming",
+  "center_letter": "o",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 153,
+  "answer_pangrams": [
+    "foaming"
+  ],
+  "answers": [
+    "agog",
+    "amigo",
+    "amino",
+    "ammo",
+    "ammonia",
+    "among",
+    "anion",
+    "anon",
+    "foam",
+    "foaming",
+    "fogging",
+    "going",
+    "gong",
+    "gonging",
+    "gonna",
+    "goof",
+    "goofing",
+    "goon",
+    "info",
+    "mango",
+    "minion",
+    "moan",
+    "moaning",
+    "momma",
+    "mono",
+    "monomania",
+    "mooing",
+    "moon",
+    "mooning",
+    "noggin",
+    "noon",
+    "offing",
+    "ongoing",
+    "onion"
+  ],
+  "date": "2033-09-05",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 9,
+      "6": 4,
+      "7": 8,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "F": 3,
+      "G": 7,
+      "I": 1,
+      "M": 10,
+      "N": 2,
+      "O": 3
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 4,
+        "7": 1
+      },
+      "F": {
+        "4": 1,
+        "7": 2
+      },
+      "G": {
+        "4": 3,
+        "5": 2,
+        "7": 2
+      },
+      "I": {
+        "4": 1
+      },
+      "M": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "9": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AM": 5,
+      "AN": 2,
+      "FO": 3,
+      "GO": 7,
+      "IN": 1,
+      "MA": 1,
+      "MI": 1,
+      "MO": 8,
+      "NO": 2,
+      "OF": 1,
+      "ON": 2
+    }
+  }
+}

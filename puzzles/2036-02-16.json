@@ -1,0 +1,100 @@
+{
+  "pangram": "trilogy",
+  "center_letter": "i",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 77,
+  "answer_pangrams": [
+    "trilogy"
+  ],
+  "answers": [
+    "giggly",
+    "gigolo",
+    "gill",
+    "gilt",
+    "girl",
+    "girt",
+    "grill",
+    "grit",
+    "gritty",
+    "groggily",
+    "igloo",
+    "lilt",
+    "lily",
+    "oily",
+    "olio",
+    "rigor",
+    "rill",
+    "riot",
+    "roil",
+    "till",
+    "tilt",
+    "toil",
+    "trill",
+    "trilogy",
+    "trio",
+    "yogi"
+  ],
+  "date": "2036-02-16",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 4,
+      "6": 3,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "G": 10,
+      "I": 1,
+      "L": 2,
+      "O": 2,
+      "R": 4,
+      "T": 6,
+      "Y": 1
+    },
+    "grid": {
+      "G": {
+        "4": 5,
+        "5": 1,
+        "6": 3,
+        "8": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "L": {
+        "4": 2
+      },
+      "O": {
+        "4": 2
+      },
+      "R": {
+        "4": 3,
+        "5": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 1,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 6,
+      "GR": 4,
+      "IG": 1,
+      "LI": 2,
+      "OI": 1,
+      "OL": 1,
+      "RI": 3,
+      "RO": 1,
+      "TI": 2,
+      "TO": 1,
+      "TR": 3,
+      "YO": 1
+    }
+  }
+}

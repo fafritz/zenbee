@@ -1,0 +1,86 @@
+{
+  "pangram": "hexagon",
+  "center_letter": "o",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 47,
+  "answer_pangrams": [
+    "hexagon"
+  ],
+  "answers": [
+    "agog",
+    "anon",
+    "axon",
+    "eggnog",
+    "gone",
+    "gong",
+    "gonna",
+    "goon",
+    "hexagon",
+    "hoax",
+    "hogan",
+    "hone",
+    "neon",
+    "none",
+    "noon",
+    "oxen",
+    "xenon"
+  ],
+  "date": "2038-05-26",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 3,
+      "6": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "E": 1,
+      "G": 4,
+      "H": 4,
+      "N": 3,
+      "O": 1,
+      "X": 1
+    },
+    "grid": {
+      "A": {
+        "4": 3
+      },
+      "E": {
+        "6": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 3
+      },
+      "O": {
+        "4": 1
+      },
+      "X": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AN": 1,
+      "AX": 1,
+      "EG": 1,
+      "GO": 4,
+      "HE": 1,
+      "HO": 3,
+      "NE": 1,
+      "NO": 2,
+      "OX": 1,
+      "XE": 1
+    }
+  }
+}

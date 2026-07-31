@@ -1,0 +1,131 @@
+{
+  "pangram": "audible",
+  "center_letter": "i",
+  "num_answers": 49,
+  "num_pangrams": 1,
+  "possible_points": 226,
+  "answer_pangrams": [
+    "audible"
+  ],
+  "answers": [
+    "abide",
+    "adieu",
+    "aide",
+    "aided",
+    "ailed",
+    "alibi",
+    "alibied",
+    "allied",
+    "audible",
+    "babied",
+    "bail",
+    "bailed",
+    "belie",
+    "belied",
+    "bellied",
+    "bible",
+    "bile",
+    "bill",
+    "billed",
+    "build",
+    "bullied",
+    "dallied",
+    "deli",
+    "dial",
+    "dialed",
+    "dibble",
+    "dibbled",
+    "diddle",
+    "diddled",
+    "died",
+    "dill",
+    "eddied",
+    "edible",
+    "elide",
+    "elided",
+    "ibid",
+    "idea",
+    "ideal",
+    "idle",
+    "idled",
+    "labia",
+    "labial",
+    "laid",
+    "liable",
+    "libel",
+    "libeled",
+    "lidded",
+    "lied",
+    "lieu"
+  ],
+  "date": "2035-09-08",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 13,
+      "6": 14,
+      "7": 8
+    },
+    "by_first_letter": {
+      "A": 9,
+      "B": 12,
+      "D": 10,
+      "E": 4,
+      "I": 5,
+      "L": 9
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 5,
+        "6": 1,
+        "7": 2
+      },
+      "B": {
+        "4": 3,
+        "5": 3,
+        "6": 4,
+        "7": 2
+      },
+      "D": {
+        "4": 4,
+        "6": 3,
+        "7": 3
+      },
+      "E": {
+        "5": 1,
+        "6": 3
+      },
+      "I": {
+        "4": 3,
+        "5": 2
+      },
+      "L": {
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AD": 1,
+      "AI": 3,
+      "AL": 3,
+      "AU": 1,
+      "BA": 3,
+      "BE": 3,
+      "BI": 4,
+      "BU": 2,
+      "DA": 1,
+      "DE": 1,
+      "DI": 8,
+      "ED": 2,
+      "EL": 2,
+      "IB": 1,
+      "ID": 4,
+      "LA": 3,
+      "LI": 6
+    }
+  }
+}

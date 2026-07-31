@@ -1,0 +1,104 @@
+{
+  "pangram": "coupled",
+  "center_letter": "c",
+  "num_answers": 46,
+  "num_pangrams": 1,
+  "possible_points": 211,
+  "answer_pangrams": [
+    "coupled"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "cell",
+    "cello",
+    "clod",
+    "clop",
+    "clopped",
+    "cloud",
+    "clouded",
+    "clue",
+    "clued",
+    "coddle",
+    "coddled",
+    "code",
+    "coded",
+    "coed",
+    "cold",
+    "collude",
+    "colluded",
+    "cooed",
+    "cool",
+    "cooled",
+    "coop",
+    "cooped",
+    "cope",
+    "coped",
+    "copped",
+    "could",
+    "coup",
+    "coupe",
+    "couple",
+    "coupled",
+    "cuddle",
+    "cuddled",
+    "cued",
+    "cull",
+    "culled",
+    "cupped",
+    "decode",
+    "decoded",
+    "deduce",
+    "deduced",
+    "deuce",
+    "loco",
+    "occlude",
+    "occluded"
+  ],
+  "date": "2030-11-04",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 10,
+      "6": 10,
+      "7": 9,
+      "8": 2
+    },
+    "by_first_letter": {
+      "C": 38,
+      "D": 5,
+      "L": 1,
+      "O": 2
+    },
+    "grid": {
+      "C": {
+        "4": 14,
+        "5": 9,
+        "6": 8,
+        "7": 6,
+        "8": 1
+      },
+      "D": {
+        "5": 1,
+        "6": 2,
+        "7": 2
+      },
+      "L": {
+        "4": 1
+      },
+      "O": {
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 4,
+      "CL": 7,
+      "CO": 21,
+      "CU": 6,
+      "DE": 5,
+      "LO": 1,
+      "OC": 2
+    }
+  }
+}

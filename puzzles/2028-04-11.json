@@ -1,0 +1,117 @@
+{
+  "pangram": "rapidly",
+  "center_letter": "y",
+  "num_answers": 34,
+  "num_pangrams": 2,
+  "possible_points": 167,
+  "answer_pangrams": [
+    "lapidary",
+    "rapidly"
+  ],
+  "answers": [
+    "airily",
+    "airy",
+    "allay",
+    "ally",
+    "apiary",
+    "apply",
+    "array",
+    "daddy",
+    "daily",
+    "dairy",
+    "dally",
+    "diary",
+    "dilly",
+    "dillydally",
+    "dray",
+    "dryad",
+    "dryly",
+    "idly",
+    "idyll",
+    "lady",
+    "lapidary",
+    "lily",
+    "paddy",
+    "papaya",
+    "papyri",
+    "parlay",
+    "parry",
+    "payday",
+    "play",
+    "pray",
+    "radially",
+    "rally",
+    "rapidly",
+    "yard"
+  ],
+  "date": "2028-04-11",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 15,
+      "6": 6,
+      "7": 1,
+      "8": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "D": 10,
+      "I": 2,
+      "L": 3,
+      "P": 8,
+      "R": 3,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "6": 2
+      },
+      "D": {
+        "4": 1,
+        "5": 8,
+        "10": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 2,
+        "8": 1
+      },
+      "P": {
+        "4": 2,
+        "5": 2,
+        "6": 4
+      },
+      "R": {
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 2,
+      "AL": 2,
+      "AP": 2,
+      "AR": 1,
+      "DA": 4,
+      "DI": 3,
+      "DR": 3,
+      "ID": 2,
+      "LA": 2,
+      "LI": 1,
+      "PA": 6,
+      "PL": 1,
+      "PR": 1,
+      "RA": 3,
+      "YA": 1
+    }
+  }
+}

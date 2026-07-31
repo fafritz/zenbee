@@ -1,0 +1,75 @@
+{
+  "pangram": "padlock",
+  "center_letter": "k",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 59,
+  "answer_pangrams": [
+    "padlock"
+  ],
+  "answers": [
+    "clack",
+    "cloak",
+    "clock",
+    "cook",
+    "dock",
+    "kapok",
+    "koala",
+    "kook",
+    "lack",
+    "lock",
+    "look",
+    "pack",
+    "paddock",
+    "padlock",
+    "pock",
+    "polka"
+  ],
+  "date": "2034-01-02",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 6,
+      "7": 2
+    },
+    "by_first_letter": {
+      "C": 4,
+      "D": 1,
+      "K": 3,
+      "L": 3,
+      "P": 5
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 3
+      },
+      "D": {
+        "4": 1
+      },
+      "K": {
+        "4": 1,
+        "5": 2
+      },
+      "L": {
+        "4": 3
+      },
+      "P": {
+        "4": 2,
+        "5": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "CL": 3,
+      "CO": 1,
+      "DO": 1,
+      "KA": 1,
+      "KO": 2,
+      "LA": 1,
+      "LO": 2,
+      "PA": 3,
+      "PO": 2
+    }
+  }
+}

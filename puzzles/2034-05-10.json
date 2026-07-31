@@ -1,0 +1,104 @@
+{
+  "pangram": "padlock",
+  "center_letter": "a",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 104,
+  "answer_pangrams": [
+    "padlock"
+  ],
+  "answers": [
+    "alpaca",
+    "appall",
+    "cacao",
+    "call",
+    "calla",
+    "capo",
+    "clack",
+    "clad",
+    "clap",
+    "cloak",
+    "coal",
+    "coca",
+    "cocoa",
+    "coda",
+    "cola",
+    "dado",
+    "doodad",
+    "kapok",
+    "koala",
+    "lack",
+    "load",
+    "local",
+    "opal",
+    "pack",
+    "paddock",
+    "padlock",
+    "pall",
+    "papa",
+    "papal",
+    "polka"
+  ],
+  "date": "2034-05-10",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 10,
+      "6": 3,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 13,
+      "D": 2,
+      "K": 2,
+      "L": 3,
+      "O": 1,
+      "P": 7
+    },
+    "grid": {
+      "A": {
+        "6": 2
+      },
+      "C": {
+        "4": 8,
+        "5": 5
+      },
+      "D": {
+        "4": 1,
+        "6": 1
+      },
+      "K": {
+        "5": 2
+      },
+      "L": {
+        "4": 2,
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AP": 1,
+      "CA": 4,
+      "CL": 4,
+      "CO": 5,
+      "DA": 1,
+      "DO": 1,
+      "KA": 1,
+      "KO": 1,
+      "LA": 1,
+      "LO": 2,
+      "OP": 1,
+      "PA": 6,
+      "PO": 1
+    }
+  }
+}

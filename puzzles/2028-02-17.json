@@ -1,0 +1,99 @@
+{
+  "pangram": "lapwing",
+  "center_letter": "w",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 190,
+  "answer_pangrams": [
+    "lapwing"
+  ],
+  "answers": [
+    "awing",
+    "awning",
+    "gnaw",
+    "gnawing",
+    "lapwing",
+    "lawn",
+    "pawing",
+    "pawl",
+    "pawn",
+    "pawning",
+    "pawpaw",
+    "pwning",
+    "wagging",
+    "waggling",
+    "waging",
+    "wail",
+    "wailing",
+    "waling",
+    "wall",
+    "walling",
+    "wangling",
+    "waning",
+    "wigging",
+    "wiggling",
+    "wigwag",
+    "wigwagging",
+    "wiling",
+    "will",
+    "willing",
+    "wing",
+    "winging",
+    "wining",
+    "winning",
+    "wiping"
+  ],
+  "date": "2028-02-17",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 1,
+      "6": 11,
+      "7": 10,
+      "8": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "G": 2,
+      "L": 2,
+      "P": 6,
+      "W": 22
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1
+      },
+      "G": {
+        "4": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 2,
+        "6": 3,
+        "7": 1
+      },
+      "W": {
+        "4": 4,
+        "6": 7,
+        "7": 7,
+        "8": 3,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AW": 2,
+      "GN": 2,
+      "LA": 2,
+      "PA": 5,
+      "PW": 1,
+      "WA": 10,
+      "WI": 12
+    }
+  }
+}

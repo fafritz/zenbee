@@ -1,0 +1,81 @@
+{
+  "pangram": "turmoil",
+  "center_letter": "u",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 72,
+  "answer_pangrams": [
+    "turmoil"
+  ],
+  "answers": [
+    "lout",
+    "lull",
+    "lulu",
+    "mull",
+    "multi",
+    "murmur",
+    "mutt",
+    "muumuu",
+    "ormolu",
+    "rout",
+    "rumor",
+    "tour",
+    "tout",
+    "trout",
+    "tumor",
+    "tumult",
+    "turmoil",
+    "tutor",
+    "tutu"
+  ],
+  "date": "2037-09-05",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 5,
+      "6": 4,
+      "7": 1
+    },
+    "by_first_letter": {
+      "L": 3,
+      "M": 5,
+      "O": 1,
+      "R": 2,
+      "T": 8
+    },
+    "grid": {
+      "L": {
+        "4": 3
+      },
+      "M": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "O": {
+        "6": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "LO": 1,
+      "LU": 2,
+      "MU": 5,
+      "OR": 1,
+      "RO": 1,
+      "RU": 1,
+      "TO": 2,
+      "TR": 1,
+      "TU": 5
+    }
+  }
+}

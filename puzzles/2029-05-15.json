@@ -1,0 +1,91 @@
+{
+  "pangram": "aground",
+  "center_letter": "u",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 73,
+  "answer_pangrams": [
+    "aground"
+  ],
+  "answers": [
+    "aground",
+    "around",
+    "augur",
+    "aura",
+    "dour",
+    "drug",
+    "dung",
+    "dunno",
+    "gourd",
+    "ground",
+    "guano",
+    "guard",
+    "guru",
+    "noun",
+    "round",
+    "runaround",
+    "rung",
+    "undo"
+  ],
+  "date": "2029-05-15",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 6,
+      "6": 2,
+      "7": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "D": 4,
+      "G": 5,
+      "N": 1,
+      "R": 3,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 3,
+        "5": 1
+      },
+      "G": {
+        "4": 1,
+        "5": 3,
+        "6": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1,
+        "9": 1
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AR": 1,
+      "AU": 2,
+      "DO": 1,
+      "DR": 1,
+      "DU": 2,
+      "GO": 1,
+      "GR": 1,
+      "GU": 3,
+      "NO": 1,
+      "RO": 1,
+      "RU": 2,
+      "UN": 1
+    }
+  }
+}

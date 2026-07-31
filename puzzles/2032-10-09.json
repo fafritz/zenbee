@@ -1,0 +1,110 @@
+{
+  "pangram": "pecking",
+  "center_letter": "e",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 174,
+  "answer_pangrams": [
+    "pecking"
+  ],
+  "answers": [
+    "egging",
+    "eking",
+    "engine",
+    "epee",
+    "epic",
+    "geeing",
+    "geek",
+    "gene",
+    "genie",
+    "genii",
+    "keen",
+    "keening",
+    "keep",
+    "keeping",
+    "kenning",
+    "knee",
+    "kneeing",
+    "neck",
+    "necking",
+    "nene",
+    "nice",
+    "niece",
+    "nine",
+    "peck",
+    "pecking",
+    "peeing",
+    "peek",
+    "peeking",
+    "peen",
+    "peep",
+    "peeping",
+    "pence",
+    "penning",
+    "pepping",
+    "piece",
+    "piecing",
+    "pieing",
+    "pigpen",
+    "pike",
+    "pine",
+    "pinkie",
+    "pipe"
+  ],
+  "date": "2032-10-09",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 6,
+      "6": 7,
+      "7": 11
+    },
+    "by_first_letter": {
+      "E": 5,
+      "G": 5,
+      "K": 7,
+      "N": 6,
+      "P": 19
+    },
+    "grid": {
+      "E": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "G": {
+        "4": 2,
+        "5": 2,
+        "6": 1
+      },
+      "K": {
+        "4": 3,
+        "7": 4
+      },
+      "N": {
+        "4": 4,
+        "5": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 7,
+        "5": 2,
+        "6": 4,
+        "7": 6
+      }
+    },
+    "two_letter_list": {
+      "EG": 1,
+      "EK": 1,
+      "EN": 1,
+      "EP": 2,
+      "GE": 5,
+      "KE": 5,
+      "KN": 2,
+      "NE": 3,
+      "NI": 3,
+      "PE": 11,
+      "PI": 8
+    }
+  }
+}

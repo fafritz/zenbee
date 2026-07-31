@@ -1,0 +1,148 @@
+{
+  "pangram": "chaplet",
+  "center_letter": "c",
+  "num_answers": 55,
+  "num_pangrams": 1,
+  "possible_points": 255,
+  "answer_pangrams": [
+    "chaplet"
+  ],
+  "answers": [
+    "accept",
+    "acetate",
+    "ache",
+    "alpaca",
+    "apace",
+    "attach",
+    "attache",
+    "cache",
+    "cachet",
+    "call",
+    "calla",
+    "cape",
+    "caplet",
+    "catalpa",
+    "catcall",
+    "catch",
+    "catchall",
+    "cattle",
+    "cell",
+    "chalet",
+    "chap",
+    "chapel",
+    "chaplet",
+    "chat",
+    "chattel",
+    "cheap",
+    "cheat",
+    "cheep",
+    "cheetah",
+    "clap",
+    "cleat",
+    "each",
+    "eclat",
+    "elect",
+    "etch",
+    "hatch",
+    "hatchet",
+    "lace",
+    "lactate",
+    "latch",
+    "leach",
+    "leech",
+    "pace",
+    "pact",
+    "palace",
+    "patch",
+    "peace",
+    "peach",
+    "placate",
+    "place",
+    "tact",
+    "talc",
+    "teach",
+    "tech",
+    "thatch"
+  ],
+  "date": "2032-09-04",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 19,
+      "6": 10,
+      "7": 10,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "C": 24,
+      "E": 4,
+      "H": 2,
+      "L": 5,
+      "P": 8,
+      "T": 5
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 2
+      },
+      "C": {
+        "4": 6,
+        "5": 7,
+        "6": 5,
+        "7": 5,
+        "8": 1
+      },
+      "E": {
+        "4": 2,
+        "5": 2
+      },
+      "H": {
+        "5": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 3,
+        "7": 1
+      },
+      "P": {
+        "4": 2,
+        "5": 4,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AL": 1,
+      "AP": 1,
+      "AT": 2,
+      "CA": 11,
+      "CE": 1,
+      "CH": 10,
+      "CL": 2,
+      "EA": 1,
+      "EC": 1,
+      "EL": 1,
+      "ET": 1,
+      "HA": 2,
+      "LA": 3,
+      "LE": 2,
+      "PA": 4,
+      "PE": 2,
+      "PL": 2,
+      "TA": 2,
+      "TE": 2,
+      "TH": 1
+    }
+  }
+}

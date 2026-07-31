@@ -1,0 +1,150 @@
+{
+  "pangram": "blanket",
+  "center_letter": "t",
+  "num_answers": 57,
+  "num_pangrams": 1,
+  "possible_points": 252,
+  "answer_pangrams": [
+    "blanket"
+  ],
+  "answers": [
+    "abate",
+    "abet",
+    "anklet",
+    "ante",
+    "antenna",
+    "antennae",
+    "ballet",
+    "batten",
+    "battle",
+    "beat",
+    "beaten",
+    "beet",
+    "beetle",
+    "belt",
+    "bent",
+    "beta",
+    "betake",
+    "betaken",
+    "blanket",
+    "blat",
+    "blatant",
+    "bleat",
+    "eatable",
+    "eaten",
+    "elate",
+    "entente",
+    "kettle",
+    "knelt",
+    "late",
+    "latent",
+    "latte",
+    "lent",
+    "natal",
+    "neat",
+    "nettle",
+    "table",
+    "tablet",
+    "take",
+    "taken",
+    "tale",
+    "talent",
+    "talk",
+    "tall",
+    "tank",
+    "tattle",
+    "tattletale",
+    "teak",
+    "teakettle",
+    "teal",
+    "teen",
+    "tell",
+    "telltale",
+    "telnet",
+    "tenable",
+    "tenant",
+    "tenet",
+    "tent"
+  ],
+  "date": "2035-01-21",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 10,
+      "6": 15,
+      "7": 7,
+      "8": 2,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "B": 16,
+      "E": 4,
+      "K": 2,
+      "L": 4,
+      "N": 3,
+      "T": 22
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "B": {
+        "4": 6,
+        "5": 1,
+        "6": 6,
+        "7": 3
+      },
+      "E": {
+        "5": 2,
+        "7": 2
+      },
+      "K": {
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 10,
+        "5": 3,
+        "6": 5,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 2,
+      "AN": 4,
+      "BA": 3,
+      "BE": 9,
+      "BL": 4,
+      "EA": 2,
+      "EL": 1,
+      "EN": 1,
+      "KE": 1,
+      "KN": 1,
+      "LA": 3,
+      "LE": 1,
+      "NA": 1,
+      "NE": 2,
+      "TA": 11,
+      "TE": 11
+    }
+  }
+}

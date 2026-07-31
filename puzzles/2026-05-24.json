@@ -1,0 +1,83 @@
+{
+  "pangram": "glorify",
+  "center_letter": "r",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 79,
+  "answer_pangrams": [
+    "glorify"
+  ],
+  "answers": [
+    "floor",
+    "forgo",
+    "frill",
+    "frilly",
+    "frog",
+    "girl",
+    "glorify",
+    "glory",
+    "gory",
+    "grill",
+    "grog",
+    "groggily",
+    "groggy",
+    "gyro",
+    "lorry",
+    "riff",
+    "rigor",
+    "rill",
+    "roil",
+    "roll",
+    "roof"
+  ],
+  "date": "2026-05-24",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 7,
+      "6": 2,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "F": 5,
+      "G": 9,
+      "L": 1,
+      "R": 6
+    },
+    "grid": {
+      "F": {
+        "4": 1,
+        "5": 3,
+        "6": 1
+      },
+      "G": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "L": {
+        "5": 1
+      },
+      "R": {
+        "4": 5,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "FL": 1,
+      "FO": 1,
+      "FR": 3,
+      "GI": 1,
+      "GL": 2,
+      "GO": 1,
+      "GR": 4,
+      "GY": 1,
+      "LO": 1,
+      "RI": 3,
+      "RO": 3
+    }
+  }
+}

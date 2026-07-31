@@ -1,0 +1,144 @@
+{
+  "pangram": "pigment",
+  "center_letter": "g",
+  "num_answers": 53,
+  "num_pangrams": 4,
+  "possible_points": 368,
+  "answer_pangrams": [
+    "impingement",
+    "pigment",
+    "temping",
+    "tempting"
+  ],
+  "answers": [
+    "egging",
+    "emitting",
+    "engine",
+    "geeing",
+    "gene",
+    "genie",
+    "genii",
+    "gent",
+    "getting",
+    "gigging",
+    "gimme",
+    "ginning",
+    "ignite",
+    "igniting",
+    "impinge",
+    "impingement",
+    "impinging",
+    "inning",
+    "meeting",
+    "meting",
+    "miming",
+    "mining",
+    "minting",
+    "netting",
+    "nipping",
+    "peeing",
+    "peeping",
+    "penning",
+    "pepping",
+    "petting",
+    "pieing",
+    "pigging",
+    "pigment",
+    "pigpen",
+    "pimping",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "piping",
+    "pipping",
+    "pitting",
+    "teeing",
+    "teeming",
+    "temping",
+    "tempting",
+    "tenting",
+    "timing",
+    "tinge",
+    "tingeing",
+    "tinning",
+    "tinting",
+    "tipping"
+  ],
+  "date": "2029-04-20",
+  "hints": {
+    "by_length": {
+      "4": 3,
+      "5": 4,
+      "6": 15,
+      "7": 25,
+      "8": 4,
+      "9": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "E": 3,
+      "G": 9,
+      "I": 6,
+      "M": 5,
+      "N": 2,
+      "P": 17,
+      "T": 11
+    },
+    "grid": {
+      "E": {
+        "6": 2,
+        "8": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 3,
+        "6": 1,
+        "7": 3
+      },
+      "I": {
+        "6": 2,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "11": 1
+      },
+      "M": {
+        "6": 3,
+        "7": 2
+      },
+      "N": {
+        "7": 2
+      },
+      "P": {
+        "4": 1,
+        "6": 5,
+        "7": 11
+      },
+      "T": {
+        "5": 1,
+        "6": 2,
+        "7": 6,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "EG": 1,
+      "EM": 1,
+      "EN": 1,
+      "GE": 6,
+      "GI": 3,
+      "IG": 2,
+      "IM": 3,
+      "IN": 1,
+      "ME": 2,
+      "MI": 3,
+      "NE": 1,
+      "NI": 1,
+      "PE": 5,
+      "PI": 12,
+      "TE": 5,
+      "TI": 6
+    }
+  }
+}

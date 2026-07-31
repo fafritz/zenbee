@@ -1,0 +1,104 @@
+{
+  "pangram": "maypole",
+  "center_letter": "y",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 137,
+  "answer_pangrams": [
+    "maypole"
+  ],
+  "answers": [
+    "allay",
+    "alley",
+    "alloy",
+    "ally",
+    "amply",
+    "apply",
+    "employ",
+    "employee",
+    "lamely",
+    "laypeople",
+    "loamy",
+    "loopy",
+    "loyal",
+    "loyally",
+    "mayo",
+    "maypole",
+    "mealy",
+    "mommy",
+    "palmy",
+    "papaya",
+    "payee",
+    "peppy",
+    "play",
+    "ploy",
+    "polyp",
+    "poppy",
+    "yell",
+    "yelp"
+  ],
+  "date": "2034-06-13",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 15,
+      "6": 3,
+      "7": 2,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "E": 2,
+      "L": 6,
+      "M": 4,
+      "P": 8,
+      "Y": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 5
+      },
+      "E": {
+        "6": 1,
+        "8": 1
+      },
+      "L": {
+        "5": 3,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "M": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      },
+      "P": {
+        "4": 2,
+        "5": 5,
+        "6": 1
+      },
+      "Y": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 4,
+      "AM": 1,
+      "AP": 1,
+      "EM": 2,
+      "LA": 2,
+      "LO": 4,
+      "MA": 2,
+      "ME": 1,
+      "MO": 1,
+      "PA": 3,
+      "PE": 1,
+      "PL": 2,
+      "PO": 2,
+      "YE": 2
+    }
+  }
+}

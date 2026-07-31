@@ -1,0 +1,120 @@
+{
+  "pangram": "exploit",
+  "center_letter": "l",
+  "num_answers": 49,
+  "num_pangrams": 1,
+  "possible_points": 172,
+  "answer_pangrams": [
+    "exploit"
+  ],
+  "answers": [
+    "elite",
+    "elope",
+    "exile",
+    "expel",
+    "exploit",
+    "extol",
+    "lilt",
+    "lite",
+    "little",
+    "loll",
+    "lollipop",
+    "loop",
+    "loot",
+    "lope",
+    "lotto",
+    "oleo",
+    "olio",
+    "peel",
+    "pellet",
+    "pelt",
+    "people",
+    "petiole",
+    "pile",
+    "pill",
+    "pilot",
+    "pixel",
+    "plop",
+    "plot",
+    "pole",
+    "polio",
+    "polite",
+    "poll",
+    "polo",
+    "pool",
+    "telex",
+    "tell",
+    "textile",
+    "tile",
+    "till",
+    "tilt",
+    "tipple",
+    "title",
+    "tittle",
+    "toil",
+    "toilet",
+    "toilette",
+    "toll",
+    "tool",
+    "topple"
+  ],
+  "date": "2039-02-04",
+  "hints": {
+    "by_length": {
+      "4": 25,
+      "5": 11,
+      "6": 8,
+      "7": 3,
+      "8": 2
+    },
+    "by_first_letter": {
+      "E": 6,
+      "L": 9,
+      "O": 2,
+      "P": 17,
+      "T": 15
+    },
+    "grid": {
+      "E": {
+        "5": 5,
+        "7": 1
+      },
+      "L": {
+        "4": 6,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "O": {
+        "4": 2
+      },
+      "P": {
+        "4": 10,
+        "5": 3,
+        "6": 3,
+        "7": 1
+      },
+      "T": {
+        "4": 7,
+        "5": 2,
+        "6": 4,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "EL": 2,
+      "EX": 4,
+      "LI": 3,
+      "LO": 6,
+      "OL": 2,
+      "PE": 5,
+      "PI": 4,
+      "PL": 2,
+      "PO": 6,
+      "TE": 3,
+      "TI": 6,
+      "TO": 6
+    }
+  }
+}

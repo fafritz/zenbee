@@ -1,0 +1,93 @@
+{
+  "pangram": "nightly",
+  "center_letter": "h",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 156,
+  "answer_pangrams": [
+    "nightly"
+  ],
+  "answers": [
+    "high",
+    "highlight",
+    "highlighting",
+    "highly",
+    "hill",
+    "hilly",
+    "hilt",
+    "hing",
+    "hinging",
+    "hint",
+    "hinting",
+    "hitting",
+    "light",
+    "lighting",
+    "lightly",
+    "lightning",
+    "nigh",
+    "night",
+    "nightly",
+    "ninth",
+    "thigh",
+    "thin",
+    "thing",
+    "thinly",
+    "thinning",
+    "tight",
+    "tightly",
+    "tithing"
+  ],
+  "date": "2031-06-08",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 7,
+      "6": 2,
+      "7": 7,
+      "8": 2,
+      "9": 2,
+      "12": 1
+    },
+    "by_first_letter": {
+      "H": 12,
+      "L": 4,
+      "N": 4,
+      "T": 8
+    },
+    "grid": {
+      "H": {
+        "4": 5,
+        "5": 1,
+        "6": 1,
+        "7": 3,
+        "9": 1,
+        "12": 1
+      },
+      "L": {
+        "5": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "HI": 12,
+      "LI": 4,
+      "NI": 4,
+      "TH": 5,
+      "TI": 3
+    }
+  }
+}

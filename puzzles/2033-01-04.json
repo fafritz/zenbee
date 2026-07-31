@@ -1,0 +1,79 @@
+{
+  "pangram": "obviate",
+  "center_letter": "b",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 77,
+  "answer_pangrams": [
+    "obviate"
+  ],
+  "answers": [
+    "abate",
+    "abbe",
+    "abbot",
+    "abet",
+    "above",
+    "baba",
+    "babe",
+    "bait",
+    "baobab",
+    "beat",
+    "beet",
+    "beta",
+    "bite",
+    "boat",
+    "boob",
+    "booboo",
+    "boot",
+    "bootee",
+    "obit",
+    "oboe",
+    "obviate",
+    "taboo",
+    "tibia",
+    "tibiae"
+  ],
+  "date": "2033-01-04",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 5,
+      "6": 4,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 13,
+      "O": 3,
+      "T": 3
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3
+      },
+      "B": {
+        "4": 10,
+        "6": 3
+      },
+      "O": {
+        "4": 2,
+        "7": 1
+      },
+      "T": {
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 5,
+      "BA": 4,
+      "BE": 3,
+      "BI": 1,
+      "BO": 5,
+      "OB": 3,
+      "TA": 1,
+      "TI": 2
+    }
+  }
+}

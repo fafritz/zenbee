@@ -1,0 +1,129 @@
+{
+  "pangram": "playing",
+  "center_letter": "p",
+  "num_answers": 51,
+  "num_pangrams": 3,
+  "possible_points": 307,
+  "answer_pangrams": [
+    "appallingly",
+    "applying",
+    "playing"
+  ],
+  "answers": [
+    "aping",
+    "appall",
+    "appalling",
+    "appallingly",
+    "apply",
+    "applying",
+    "gaping",
+    "gypping",
+    "lapping",
+    "napping",
+    "nappy",
+    "nipping",
+    "nippy",
+    "pagan",
+    "paging",
+    "pail",
+    "pain",
+    "paining",
+    "paling",
+    "pall",
+    "palling",
+    "pang",
+    "panning",
+    "papa",
+    "papal",
+    "papaya",
+    "papilla",
+    "paying",
+    "pigging",
+    "piggy",
+    "piling",
+    "pill",
+    "pillaging",
+    "pilling",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "piping",
+    "pippin",
+    "pipping",
+    "plain",
+    "plainly",
+    "plan",
+    "planing",
+    "planning",
+    "play",
+    "playing",
+    "plying",
+    "yapping",
+    "yipping"
+  ],
+  "date": "2031-09-02",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 8,
+      "6": 11,
+      "7": 18,
+      "8": 2,
+      "9": 2,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "G": 2,
+      "L": 1,
+      "N": 4,
+      "P": 36,
+      "Y": 2
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "6": 1,
+        "8": 1,
+        "9": 1,
+        "11": 1
+      },
+      "G": {
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "7": 1
+      },
+      "N": {
+        "5": 2,
+        "7": 2
+      },
+      "P": {
+        "4": 9,
+        "5": 4,
+        "6": 9,
+        "7": 12,
+        "8": 1,
+        "9": 1
+      },
+      "Y": {
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AP": 6,
+      "GA": 1,
+      "GY": 1,
+      "LA": 1,
+      "NA": 2,
+      "NI": 2,
+      "PA": 15,
+      "PI": 13,
+      "PL": 8,
+      "YA": 1,
+      "YI": 1
+    }
+  }
+}

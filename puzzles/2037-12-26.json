@@ -1,0 +1,148 @@
+{
+  "pangram": "watched",
+  "center_letter": "t",
+  "num_answers": 58,
+  "num_pangrams": 1,
+  "possible_points": 283,
+  "answer_pangrams": [
+    "watched"
+  ],
+  "answers": [
+    "acetate",
+    "acted",
+    "attach",
+    "attache",
+    "attached",
+    "cachet",
+    "cadet",
+    "catch",
+    "catted",
+    "chat",
+    "chatted",
+    "cheat",
+    "cheated",
+    "cheetah",
+    "data",
+    "date",
+    "dated",
+    "death",
+    "detach",
+    "detached",
+    "detect",
+    "detected",
+    "etch",
+    "etched",
+    "hatch",
+    "hatched",
+    "hatchet",
+    "hate",
+    "hated",
+    "hatted",
+    "heat",
+    "heated",
+    "heath",
+    "tact",
+    "tatted",
+    "teach",
+    "tech",
+    "teed",
+    "teeth",
+    "teethe",
+    "teethed",
+    "that",
+    "thatch",
+    "thatched",
+    "thaw",
+    "thawed",
+    "thee",
+    "theta",
+    "tweed",
+    "tweet",
+    "tweeted",
+    "watch",
+    "watched",
+    "watt",
+    "what",
+    "wheat",
+    "whet",
+    "whetted"
+  ],
+  "date": "2037-12-26",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 16,
+      "6": 12,
+      "7": 11,
+      "8": 4
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 9,
+      "D": 8,
+      "E": 2,
+      "H": 9,
+      "T": 18,
+      "W": 7
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 3,
+        "6": 2,
+        "7": 3
+      },
+      "D": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "8": 2
+      },
+      "E": {
+        "4": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 3,
+        "6": 2,
+        "7": 2
+      },
+      "T": {
+        "4": 6,
+        "5": 5,
+        "6": 4,
+        "7": 2,
+        "8": 1
+      },
+      "W": {
+        "4": 3,
+        "5": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AT": 3,
+      "CA": 4,
+      "CH": 5,
+      "DA": 3,
+      "DE": 5,
+      "ET": 2,
+      "HA": 6,
+      "HE": 3,
+      "TA": 2,
+      "TE": 6,
+      "TH": 7,
+      "TW": 3,
+      "WA": 3,
+      "WH": 4
+    }
+  }
+}

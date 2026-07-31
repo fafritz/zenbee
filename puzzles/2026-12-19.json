@@ -1,0 +1,85 @@
+{
+  "pangram": "outplay",
+  "center_letter": "u",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 78,
+  "answer_pangrams": [
+    "outplay"
+  ],
+  "answers": [
+    "auto",
+    "layout",
+    "lout",
+    "luau",
+    "lull",
+    "lulu",
+    "outlay",
+    "outplay",
+    "output",
+    "pout",
+    "pull",
+    "pullout",
+    "pulp",
+    "pulpy",
+    "pupa",
+    "pupal",
+    "puppy",
+    "putt",
+    "putty",
+    "taut",
+    "tautly",
+    "tout",
+    "tutu"
+  ],
+  "date": "2026-12-19",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 4,
+      "6": 4,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "L": 5,
+      "O": 3,
+      "P": 10,
+      "T": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "L": {
+        "4": 4,
+        "6": 1
+      },
+      "O": {
+        "6": 2,
+        "7": 1
+      },
+      "P": {
+        "4": 5,
+        "5": 4,
+        "7": 1
+      },
+      "T": {
+        "4": 3,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AU": 1,
+      "LA": 1,
+      "LO": 1,
+      "LU": 3,
+      "OU": 3,
+      "PO": 1,
+      "PU": 9,
+      "TA": 2,
+      "TO": 1,
+      "TU": 1
+    }
+  }
+}

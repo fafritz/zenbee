@@ -1,0 +1,119 @@
+{
+  "pangram": "truancy",
+  "center_letter": "r",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 172,
+  "answer_pangrams": [
+    "truancy"
+  ],
+  "answers": [
+    "accuracy",
+    "actuary",
+    "arrant",
+    "array",
+    "arty",
+    "attar",
+    "attract",
+    "aura",
+    "canary",
+    "carat",
+    "carry",
+    "cart",
+    "cataract",
+    "cranny",
+    "cray",
+    "curacy",
+    "currant",
+    "curry",
+    "curt",
+    "narc",
+    "racy",
+    "rant",
+    "ratatat",
+    "rattan",
+    "ratty",
+    "runny",
+    "runt",
+    "tart",
+    "tartan",
+    "tartar",
+    "tract",
+    "tray",
+    "truancy",
+    "truant",
+    "turn",
+    "tyranny",
+    "tyrant",
+    "yarn"
+  ],
+  "date": "2038-02-15",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 8,
+      "6": 9,
+      "7": 6,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 8,
+      "C": 11,
+      "N": 1,
+      "R": 7,
+      "T": 10,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 3,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 1,
+        "6": 4,
+        "7": 2
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AR": 3,
+      "AT": 2,
+      "AU": 1,
+      "CA": 5,
+      "CR": 2,
+      "CU": 4,
+      "NA": 1,
+      "RA": 5,
+      "RU": 2,
+      "TA": 3,
+      "TR": 4,
+      "TU": 1,
+      "TY": 2,
+      "YA": 1
+    }
+  }
+}

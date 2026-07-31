@@ -1,0 +1,88 @@
+{
+  "pangram": "lynched",
+  "center_letter": "l",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 88,
+  "answer_pangrams": [
+    "lynched"
+  ],
+  "answers": [
+    "cell",
+    "clench",
+    "clenched",
+    "cycle",
+    "cycled",
+    "dell",
+    "heel",
+    "heeled",
+    "held",
+    "hell",
+    "leech",
+    "leeched",
+    "lend",
+    "lynch",
+    "lynched",
+    "needle",
+    "needled",
+    "yell",
+    "yelled"
+  ],
+  "date": "2037-03-03",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 3,
+      "6": 5,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 5,
+      "D": 1,
+      "H": 4,
+      "L": 5,
+      "N": 2,
+      "Y": 2
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "8": 1
+      },
+      "D": {
+        "4": 1
+      },
+      "H": {
+        "4": 3,
+        "6": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 2,
+        "7": 2
+      },
+      "N": {
+        "6": 1,
+        "7": 1
+      },
+      "Y": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 1,
+      "CL": 2,
+      "CY": 2,
+      "DE": 1,
+      "HE": 4,
+      "LE": 3,
+      "LY": 2,
+      "NE": 2,
+      "YE": 2
+    }
+  }
+}

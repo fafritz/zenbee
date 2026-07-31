@@ -1,0 +1,138 @@
+{
+  "pangram": "thicken",
+  "center_letter": "n",
+  "num_answers": 45,
+  "num_pangrams": 3,
+  "possible_points": 206,
+  "answer_pangrams": [
+    "kitchen",
+    "kitchenette",
+    "thicken"
+  ],
+  "answers": [
+    "cent",
+    "chicken",
+    "chin",
+    "chink",
+    "cinch",
+    "entente",
+    "entice",
+    "ethnic",
+    "hence",
+    "hint",
+    "inch",
+    "incite",
+    "intent",
+    "keen",
+    "kinetic",
+    "kink",
+    "kitchen",
+    "kitchenette",
+    "kitten",
+    "knee",
+    "knit",
+    "neck",
+    "necktie",
+    "nene",
+    "nice",
+    "niche",
+    "nick",
+    "niece",
+    "nine",
+    "nineteen",
+    "nineteenth",
+    "ninetieth",
+    "ninth",
+    "teen",
+    "tenet",
+    "tent",
+    "tenth",
+    "then",
+    "thence",
+    "thicken",
+    "thin",
+    "thine",
+    "think",
+    "tine",
+    "tint"
+  ],
+  "date": "2028-03-21",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 10,
+      "6": 6,
+      "7": 6,
+      "8": 1,
+      "9": 1,
+      "10": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "C": 5,
+      "E": 3,
+      "H": 2,
+      "I": 3,
+      "K": 8,
+      "N": 12,
+      "T": 12
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "E": {
+        "6": 2,
+        "7": 1
+      },
+      "H": {
+        "4": 1,
+        "5": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 2
+      },
+      "K": {
+        "4": 4,
+        "6": 1,
+        "7": 2,
+        "11": 1
+      },
+      "N": {
+        "4": 5,
+        "5": 3,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 4,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 1,
+      "CH": 3,
+      "CI": 1,
+      "EN": 2,
+      "ET": 1,
+      "HE": 1,
+      "HI": 1,
+      "IN": 3,
+      "KE": 1,
+      "KI": 5,
+      "KN": 2,
+      "NE": 3,
+      "NI": 9,
+      "TE": 4,
+      "TH": 6,
+      "TI": 2
+    }
+  }
+}

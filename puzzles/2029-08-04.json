@@ -1,0 +1,150 @@
+{
+  "pangram": "patched",
+  "center_letter": "c",
+  "num_answers": 60,
+  "num_pangrams": 1,
+  "possible_points": 307,
+  "answer_pangrams": [
+    "patched"
+  ],
+  "answers": [
+    "accede",
+    "acceded",
+    "accept",
+    "accepted",
+    "aced",
+    "acetate",
+    "ache",
+    "ached",
+    "acted",
+    "apace",
+    "attach",
+    "attache",
+    "attached",
+    "cache",
+    "cached",
+    "cachet",
+    "cadet",
+    "cape",
+    "caped",
+    "capped",
+    "catch",
+    "catted",
+    "cede",
+    "ceded",
+    "chad",
+    "chap",
+    "chapped",
+    "chat",
+    "chatted",
+    "cheap",
+    "cheat",
+    "cheated",
+    "cheep",
+    "cheeped",
+    "cheetah",
+    "dacha",
+    "decade",
+    "detach",
+    "detached",
+    "detect",
+    "detected",
+    "each",
+    "etch",
+    "etched",
+    "hatch",
+    "hatched",
+    "hatchet",
+    "headache",
+    "pace",
+    "paced",
+    "pact",
+    "patch",
+    "patched",
+    "peace",
+    "peach",
+    "tact",
+    "teach",
+    "tech",
+    "thatch",
+    "thatched"
+  ],
+  "date": "2029-08-04",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 18,
+      "6": 12,
+      "7": 11,
+      "8": 6
+    },
+    "by_first_letter": {
+      "A": 13,
+      "C": 22,
+      "D": 6,
+      "E": 3,
+      "H": 4,
+      "P": 7,
+      "T": 5
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "6": 3,
+        "7": 3,
+        "8": 2
+      },
+      "C": {
+        "4": 5,
+        "5": 8,
+        "6": 4,
+        "7": 5
+      },
+      "D": {
+        "5": 1,
+        "6": 3,
+        "8": 2
+      },
+      "E": {
+        "4": 2,
+        "6": 1
+      },
+      "H": {
+        "5": 1,
+        "7": 2,
+        "8": 1
+      },
+      "P": {
+        "4": 2,
+        "5": 4,
+        "7": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 9,
+      "AP": 1,
+      "AT": 3,
+      "CA": 9,
+      "CE": 2,
+      "CH": 11,
+      "DA": 1,
+      "DE": 5,
+      "EA": 1,
+      "ET": 2,
+      "HA": 3,
+      "HE": 1,
+      "PA": 5,
+      "PE": 2,
+      "TA": 1,
+      "TE": 2,
+      "TH": 2
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "pangram": "gambled",
+  "center_letter": "g",
+  "num_answers": 52,
+  "num_pangrams": 1,
+  "possible_points": 258,
+  "answer_pangrams": [
+    "gambled"
+  ],
+  "answers": [
+    "adage",
+    "aged",
+    "agleam",
+    "alga",
+    "algae",
+    "allege",
+    "alleged",
+    "amalgam",
+    "badge",
+    "bagel",
+    "baggage",
+    "bagged",
+    "ballgame",
+    "beagle",
+    "begged",
+    "damage",
+    "damaged",
+    "eagle",
+    "edge",
+    "edged",
+    "egged",
+    "gabbed",
+    "gabble",
+    "gabbled",
+    "gable",
+    "gabled",
+    "gadded",
+    "gagged",
+    "gaggle",
+    "gala",
+    "gale",
+    "gall",
+    "galled",
+    "gamble",
+    "gambled",
+    "game",
+    "gamed",
+    "gamma",
+    "geed",
+    "geld",
+    "gelded",
+    "gelled",
+    "glad",
+    "glade",
+    "gleam",
+    "gleamed",
+    "glee",
+    "lagged",
+    "ledge",
+    "legal",
+    "legged",
+    "magma"
+  ],
+  "date": "2032-04-14",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 15,
+      "6": 18,
+      "7": 7,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "B": 7,
+      "D": 2,
+      "E": 4,
+      "G": 26,
+      "L": 4,
+      "M": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2
+      },
+      "B": {
+        "5": 2,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "D": {
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 3
+      },
+      "G": {
+        "4": 8,
+        "5": 5,
+        "6": 10,
+        "7": 3
+      },
+      "L": {
+        "5": 2,
+        "6": 2
+      },
+      "M": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AG": 2,
+      "AL": 4,
+      "AM": 1,
+      "BA": 5,
+      "BE": 2,
+      "DA": 2,
+      "EA": 1,
+      "ED": 2,
+      "EG": 1,
+      "GA": 17,
+      "GE": 4,
+      "GL": 5,
+      "LA": 1,
+      "LE": 3,
+      "MA": 1
+    }
+  }
+}

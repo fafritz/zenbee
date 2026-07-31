@@ -1,0 +1,128 @@
+{
+  "pangram": "vaulted",
+  "center_letter": "u",
+  "num_answers": 40,
+  "num_pangrams": 2,
+  "possible_points": 202,
+  "answer_pangrams": [
+    "evaluated",
+    "vaulted"
+  ],
+  "answers": [
+    "adulate",
+    "adulated",
+    "adult",
+    "allude",
+    "alluded",
+    "delude",
+    "deluded",
+    "devalue",
+    "devalued",
+    "dual",
+    "dude",
+    "duded",
+    "duel",
+    "dueled",
+    "duet",
+    "dull",
+    "dulled",
+    "duvet",
+    "elude",
+    "eluded",
+    "etude",
+    "evaluate",
+    "evaluated",
+    "laud",
+    "lauded",
+    "luau",
+    "lull",
+    "lulled",
+    "lulu",
+    "lute",
+    "taut",
+    "tulle",
+    "tutu",
+    "ululate",
+    "ululated",
+    "uvula",
+    "value",
+    "valued",
+    "vault",
+    "vaulted"
+  ],
+  "date": "2036-04-14",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 9,
+      "6": 8,
+      "7": 6,
+      "8": 4,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "D": 13,
+      "E": 5,
+      "L": 7,
+      "T": 3,
+      "U": 3,
+      "V": 4
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "D": {
+        "4": 5,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      },
+      "E": {
+        "5": 2,
+        "6": 1,
+        "8": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 5,
+        "6": 2
+      },
+      "T": {
+        "4": 2,
+        "5": 1
+      },
+      "U": {
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "V": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 3,
+      "AL": 2,
+      "DE": 4,
+      "DU": 9,
+      "EL": 2,
+      "ET": 1,
+      "EV": 2,
+      "LA": 2,
+      "LU": 5,
+      "TA": 1,
+      "TU": 2,
+      "UL": 2,
+      "UV": 1,
+      "VA": 4
+    }
+  }
+}

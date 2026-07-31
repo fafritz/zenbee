@@ -1,0 +1,104 @@
+{
+  "pangram": "notably",
+  "center_letter": "b",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 173,
+  "answer_pangrams": [
+    "notably"
+  ],
+  "answers": [
+    "abbot",
+    "ably",
+    "baba",
+    "baboon",
+    "baby",
+    "ball",
+    "balloon",
+    "ballot",
+    "banal",
+    "banana",
+    "banyan",
+    "baobab",
+    "baton",
+    "batty",
+    "blab",
+    "blat",
+    "blatant",
+    "blatantly",
+    "bloat",
+    "blob",
+    "blot",
+    "boat",
+    "bobby",
+    "bola",
+    "boll",
+    "bolt",
+    "bonbon",
+    "bony",
+    "boob",
+    "booboo",
+    "booby",
+    "boon",
+    "boot",
+    "booty",
+    "botany",
+    "lobby",
+    "nabob",
+    "nanobot",
+    "nobly",
+    "notably",
+    "tabby",
+    "taboo"
+  ],
+  "date": "2031-08-15",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 13,
+      "6": 8,
+      "7": 4,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 33,
+      "L": 1,
+      "N": 4,
+      "T": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1
+      },
+      "B": {
+        "4": 15,
+        "5": 7,
+        "6": 8,
+        "7": 2,
+        "9": 1
+      },
+      "L": {
+        "5": 1
+      },
+      "N": {
+        "5": 2,
+        "7": 2
+      },
+      "T": {
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 2,
+      "BA": 12,
+      "BL": 7,
+      "BO": 14,
+      "LO": 1,
+      "NA": 2,
+      "NO": 2,
+      "TA": 2
+    }
+  }
+}

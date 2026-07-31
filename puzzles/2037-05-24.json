@@ -1,0 +1,107 @@
+{
+  "pangram": "voyaged",
+  "center_letter": "d",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 145,
+  "answer_pangrams": [
+    "voyaged"
+  ],
+  "answers": [
+    "adage",
+    "added",
+    "aged",
+    "daddy",
+    "dado",
+    "dead",
+    "deed",
+    "deeded",
+    "dodge",
+    "dodged",
+    "dodgy",
+    "dodo",
+    "dogged",
+    "doggy",
+    "doodad",
+    "dove",
+    "dyed",
+    "eddy",
+    "edge",
+    "edged",
+    "edgy",
+    "egged",
+    "evade",
+    "evaded",
+    "eyed",
+    "gadded",
+    "gagged",
+    "geed",
+    "geode",
+    "goad",
+    "goaded",
+    "good",
+    "goody",
+    "voodoo",
+    "voodooed",
+    "voyaged"
+  ],
+  "date": "2037-05-24",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 11,
+      "6": 9,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 14,
+      "E": 8,
+      "G": 8,
+      "V": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2
+      },
+      "D": {
+        "4": 6,
+        "5": 4,
+        "6": 4
+      },
+      "E": {
+        "4": 4,
+        "5": 3,
+        "6": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 2,
+        "6": 3
+      },
+      "V": {
+        "6": 1,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 2,
+      "AG": 1,
+      "DA": 2,
+      "DE": 3,
+      "DO": 8,
+      "DY": 1,
+      "ED": 4,
+      "EG": 1,
+      "EV": 2,
+      "EY": 1,
+      "GA": 2,
+      "GE": 2,
+      "GO": 4,
+      "VO": 3
+    }
+  }
+}

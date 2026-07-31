@@ -1,0 +1,108 @@
+{
+  "pangram": "heavily",
+  "center_letter": "l",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 117,
+  "answer_pangrams": [
+    "heavily"
+  ],
+  "answers": [
+    "alive",
+    "allay",
+    "alley",
+    "ally",
+    "avail",
+    "evil",
+    "evilly",
+    "hail",
+    "halal",
+    "hale",
+    "hall",
+    "halve",
+    "heal",
+    "heavily",
+    "heel",
+    "hell",
+    "hill",
+    "hilly",
+    "lava",
+    "leave",
+    "levee",
+    "level",
+    "levy",
+    "lily",
+    "live",
+    "lively",
+    "vale",
+    "valley",
+    "valve",
+    "veal",
+    "veil",
+    "vial",
+    "vile",
+    "vilely",
+    "villa",
+    "yell"
+  ],
+  "date": "2030-10-26",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 12,
+      "6": 4,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "E": 2,
+      "H": 11,
+      "L": 8,
+      "V": 9,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 4
+      },
+      "E": {
+        "4": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 7,
+        "5": 3,
+        "7": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 3,
+        "6": 1
+      },
+      "V": {
+        "4": 5,
+        "5": 2,
+        "6": 2
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 4,
+      "AV": 1,
+      "EV": 2,
+      "HA": 5,
+      "HE": 4,
+      "HI": 2,
+      "LA": 1,
+      "LE": 4,
+      "LI": 3,
+      "VA": 3,
+      "VE": 2,
+      "VI": 4,
+      "YE": 1
+    }
+  }
+}

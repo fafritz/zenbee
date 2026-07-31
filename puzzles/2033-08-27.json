@@ -1,0 +1,162 @@
+{
+  "pangram": "caution",
+  "center_letter": "i",
+  "num_answers": 55,
+  "num_pangrams": 4,
+  "possible_points": 362,
+  "answer_pangrams": [
+    "auction",
+    "caution",
+    "continua",
+    "continuation"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "action",
+    "anion",
+    "annotation",
+    "anoint",
+    "anti",
+    "antic",
+    "attain",
+    "attic",
+    "auction",
+    "cacti",
+    "catatonic",
+    "cation",
+    "caution",
+    "citation",
+    "cocci",
+    "coin",
+    "concoction",
+    "conic",
+    "connotation",
+    "contain",
+    "continua",
+    "continuation",
+    "icon",
+    "inaction",
+    "incantation",
+    "initiation",
+    "intact",
+    "into",
+    "intonation",
+    "intuit",
+    "intuition",
+    "iota",
+    "nation",
+    "niacin",
+    "nonunion",
+    "notation",
+    "notion",
+    "nuncio",
+    "onion",
+    "tacit",
+    "tactic",
+    "tactician",
+    "taint",
+    "tannin",
+    "tint",
+    "titan",
+    "titanic",
+    "tonic",
+    "tuition",
+    "tunic",
+    "unction",
+    "union",
+    "unit"
+  ],
+  "date": "2033-08-27",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 13,
+      "6": 13,
+      "7": 6,
+      "8": 5,
+      "9": 3,
+      "10": 4,
+      "11": 2,
+      "12": 1
+    },
+    "by_first_letter": {
+      "A": 11,
+      "C": 13,
+      "I": 10,
+      "N": 6,
+      "O": 1,
+      "T": 11,
+      "U": 3
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "6": 4,
+        "7": 1,
+        "10": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 2,
+        "8": 2,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1
+      },
+      "I": {
+        "4": 3,
+        "6": 2,
+        "8": 1,
+        "9": 1,
+        "10": 2,
+        "11": 1
+      },
+      "N": {
+        "6": 4,
+        "8": 2
+      },
+      "O": {
+        "5": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 5,
+        "6": 2,
+        "7": 2,
+        "9": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AN": 5,
+      "AT": 2,
+      "AU": 1,
+      "CA": 4,
+      "CI": 1,
+      "CO": 8,
+      "IC": 1,
+      "IN": 8,
+      "IO": 1,
+      "NA": 1,
+      "NI": 1,
+      "NO": 3,
+      "NU": 1,
+      "ON": 1,
+      "TA": 5,
+      "TI": 3,
+      "TO": 1,
+      "TU": 2,
+      "UN": 3
+    }
+  }
+}

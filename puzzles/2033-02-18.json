@@ -1,0 +1,79 @@
+{
+  "pangram": "botched",
+  "center_letter": "b",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 94,
+  "answer_pangrams": [
+    "botched"
+  ],
+  "answers": [
+    "bedded",
+    "beech",
+    "beet",
+    "bobbed",
+    "bode",
+    "boded",
+    "boob",
+    "boobed",
+    "booboo",
+    "booed",
+    "boot",
+    "booted",
+    "bootee",
+    "booth",
+    "botch",
+    "botched",
+    "both",
+    "debt",
+    "ebbed",
+    "hobo",
+    "hotbed",
+    "oboe"
+  ],
+  "date": "2033-02-18",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 6,
+      "6": 7,
+      "7": 1
+    },
+    "by_first_letter": {
+      "B": 17,
+      "D": 1,
+      "E": 1,
+      "H": 2,
+      "O": 1
+    },
+    "grid": {
+      "B": {
+        "4": 5,
+        "5": 5,
+        "6": 6,
+        "7": 1
+      },
+      "D": {
+        "4": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "H": {
+        "4": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 3,
+      "BO": 14,
+      "DE": 1,
+      "EB": 1,
+      "HO": 2,
+      "OB": 1
+    }
+  }
+}

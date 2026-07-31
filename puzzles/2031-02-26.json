@@ -1,0 +1,89 @@
+{
+  "pangram": "curbing",
+  "center_letter": "b",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 135,
+  "answer_pangrams": [
+    "curbing"
+  ],
+  "answers": [
+    "binning",
+    "bribing",
+    "brig",
+    "bring",
+    "bringing",
+    "bruin",
+    "bugging",
+    "bung",
+    "bunging",
+    "burg",
+    "burn",
+    "burning",
+    "burr",
+    "burring",
+    "crib",
+    "cribbing",
+    "cubic",
+    "cubing",
+    "curb",
+    "curbing",
+    "gibing",
+    "grub",
+    "grubbing",
+    "ribbing",
+    "rubbing",
+    "rubric"
+  ],
+  "date": "2031-02-26",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 3,
+      "6": 3,
+      "7": 9,
+      "8": 3
+    },
+    "by_first_letter": {
+      "B": 14,
+      "C": 6,
+      "G": 3,
+      "R": 3
+    },
+    "grid": {
+      "B": {
+        "4": 5,
+        "5": 2,
+        "7": 6,
+        "8": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 1,
+        "8": 1
+      },
+      "R": {
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "BI": 1,
+      "BR": 5,
+      "BU": 8,
+      "CR": 2,
+      "CU": 4,
+      "GI": 1,
+      "GR": 2,
+      "RI": 1,
+      "RU": 2
+    }
+  }
+}

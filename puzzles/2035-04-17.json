@@ -1,0 +1,122 @@
+{
+  "pangram": "rocking",
+  "center_letter": "k",
+  "num_answers": 38,
+  "num_pangrams": 3,
+  "possible_points": 189,
+  "answer_pangrams": [
+    "corking",
+    "crooking",
+    "rocking"
+  ],
+  "answers": [
+    "cocking",
+    "coking",
+    "conk",
+    "conking",
+    "cook",
+    "cooking",
+    "cork",
+    "corking",
+    "crick",
+    "cricking",
+    "crock",
+    "crook",
+    "crooking",
+    "ginkgo",
+    "grok",
+    "grokking",
+    "inking",
+    "irking",
+    "kick",
+    "kicking",
+    "king",
+    "kink",
+    "kinking",
+    "knock",
+    "knocking",
+    "kook",
+    "nick",
+    "nicking",
+    "nook",
+    "oink",
+    "oinking",
+    "rick",
+    "ricking",
+    "rink",
+    "rock",
+    "rocking",
+    "rook",
+    "rooking"
+  ],
+  "date": "2035-04-17",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 4,
+      "6": 4,
+      "7": 11,
+      "8": 4
+    },
+    "by_first_letter": {
+      "C": 13,
+      "G": 3,
+      "I": 2,
+      "K": 8,
+      "N": 3,
+      "O": 2,
+      "R": 7
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "7": 4,
+        "8": 2
+      },
+      "G": {
+        "4": 1,
+        "6": 1,
+        "8": 1
+      },
+      "I": {
+        "6": 2
+      },
+      "K": {
+        "4": 4,
+        "5": 1,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 2,
+        "7": 1
+      },
+      "O": {
+        "4": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 4,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "CO": 8,
+      "CR": 5,
+      "GI": 1,
+      "GR": 2,
+      "IN": 1,
+      "IR": 1,
+      "KI": 5,
+      "KN": 2,
+      "KO": 1,
+      "NI": 2,
+      "NO": 1,
+      "OI": 2,
+      "RI": 3,
+      "RO": 4
+    }
+  }
+}

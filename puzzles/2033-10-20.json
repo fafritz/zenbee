@@ -1,0 +1,86 @@
+{
+  "pangram": "fluency",
+  "center_letter": "e",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 70,
+  "answer_pangrams": [
+    "fluency"
+  ],
+  "answers": [
+    "cell",
+    "clef",
+    "clue",
+    "cycle",
+    "eyeful",
+    "feel",
+    "fell",
+    "fence",
+    "fennel",
+    "flee",
+    "fleece",
+    "fleecy",
+    "flue",
+    "fluency",
+    "fuel",
+    "funnel",
+    "nene",
+    "uncle",
+    "yell",
+    "yule"
+  ],
+  "date": "2033-10-20",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 3,
+      "6": 5,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 4,
+      "E": 1,
+      "F": 11,
+      "N": 1,
+      "U": 1,
+      "Y": 2
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 1
+      },
+      "E": {
+        "6": 1
+      },
+      "F": {
+        "4": 5,
+        "5": 1,
+        "6": 4,
+        "7": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "U": {
+        "5": 1
+      },
+      "Y": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "CE": 1,
+      "CL": 2,
+      "CY": 1,
+      "EY": 1,
+      "FE": 4,
+      "FL": 5,
+      "FU": 2,
+      "NE": 1,
+      "UN": 1,
+      "YE": 1,
+      "YU": 1
+    }
+  }
+}

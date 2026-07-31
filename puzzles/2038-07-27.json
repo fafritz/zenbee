@@ -1,0 +1,152 @@
+{
+  "pangram": "flanked",
+  "center_letter": "n",
+  "num_answers": 58,
+  "num_pangrams": 1,
+  "possible_points": 283,
+  "answer_pangrams": [
+    "flanked"
+  ],
+  "answers": [
+    "addend",
+    "addenda",
+    "anal",
+    "ankle",
+    "anneal",
+    "annealed",
+    "dandle",
+    "dandled",
+    "dank",
+    "deaden",
+    "deadened",
+    "deafen",
+    "deafened",
+    "dean",
+    "defend",
+    "defended",
+    "elan",
+    "ended",
+    "fallen",
+    "fanned",
+    "fend",
+    "fended",
+    "fennel",
+    "flan",
+    "flank",
+    "flanked",
+    "flannel",
+    "flanneled",
+    "keen",
+    "keened",
+    "kenned",
+    "kennel",
+    "kenneled",
+    "knead",
+    "kneaded",
+    "knee",
+    "kneed",
+    "kneel",
+    "knell",
+    "knelled",
+    "laden",
+    "land",
+    "landed",
+    "landfall",
+    "lane",
+    "lank",
+    "leaden",
+    "lean",
+    "leaned",
+    "lend",
+    "naan",
+    "naked",
+    "nana",
+    "need",
+    "needed",
+    "needle",
+    "needled",
+    "nene"
+  ],
+  "date": "2038-07-27",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 9,
+      "6": 18,
+      "7": 7,
+      "8": 6,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "D": 10,
+      "E": 2,
+      "F": 10,
+      "K": 12,
+      "L": 10,
+      "N": 8
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "D": {
+        "4": 2,
+        "6": 4,
+        "7": 1,
+        "8": 3
+      },
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "F": {
+        "4": 2,
+        "5": 1,
+        "6": 4,
+        "7": 2,
+        "9": 1
+      },
+      "K": {
+        "4": 2,
+        "5": 4,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 1,
+        "6": 3,
+        "8": 1
+      },
+      "N": {
+        "4": 4,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 2,
+      "AN": 4,
+      "DA": 3,
+      "DE": 7,
+      "EL": 1,
+      "EN": 1,
+      "FA": 2,
+      "FE": 3,
+      "FL": 5,
+      "KE": 5,
+      "KN": 7,
+      "LA": 6,
+      "LE": 4,
+      "NA": 3,
+      "NE": 5
+    }
+  }
+}

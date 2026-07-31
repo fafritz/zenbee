@@ -1,0 +1,82 @@
+{
+  "pangram": "ducking",
+  "center_letter": "u",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 103,
+  "answer_pangrams": [
+    "ducking"
+  ],
+  "answers": [
+    "cuing",
+    "cunning",
+    "duck",
+    "ducking",
+    "duding",
+    "dung",
+    "dunging",
+    "dunk",
+    "dunking",
+    "dunning",
+    "guiding",
+    "gunk",
+    "gunning",
+    "inducing",
+    "nudging",
+    "nuking",
+    "undid",
+    "unkind"
+  ],
+  "date": "2033-06-21",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 2,
+      "6": 3,
+      "7": 8,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 2,
+      "D": 8,
+      "G": 3,
+      "I": 1,
+      "N": 2,
+      "U": 2
+    },
+    "grid": {
+      "C": {
+        "5": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 3,
+        "6": 1,
+        "7": 4
+      },
+      "G": {
+        "4": 1,
+        "7": 2
+      },
+      "I": {
+        "8": 1
+      },
+      "N": {
+        "6": 1,
+        "7": 1
+      },
+      "U": {
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CU": 2,
+      "DU": 8,
+      "GU": 3,
+      "IN": 1,
+      "NU": 2,
+      "UN": 2
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "pangram": "holiday",
+  "center_letter": "o",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 86,
+  "answer_pangrams": [
+    "holiday"
+  ],
+  "answers": [
+    "ahoy",
+    "alloy",
+    "aloha",
+    "dado",
+    "dodo",
+    "doily",
+    "doll",
+    "dolly",
+    "doodad",
+    "halo",
+    "hold",
+    "holiday",
+    "holly",
+    "holy",
+    "hood",
+    "hoodoo",
+    "idol",
+    "load",
+    "loll",
+    "loyal",
+    "loyally",
+    "oddly",
+    "oily",
+    "olio",
+    "yahoo"
+  ],
+  "date": "2033-11-04",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 8,
+      "6": 2,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 6,
+      "H": 7,
+      "I": 1,
+      "L": 4,
+      "O": 3,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2
+      },
+      "D": {
+        "4": 3,
+        "5": 2,
+        "6": 1
+      },
+      "H": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "O": {
+        "4": 2,
+        "5": 1
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AH": 1,
+      "AL": 2,
+      "DA": 1,
+      "DO": 5,
+      "HA": 1,
+      "HO": 6,
+      "ID": 1,
+      "LO": 4,
+      "OD": 1,
+      "OI": 1,
+      "OL": 1,
+      "YA": 1
+    }
+  }
+}

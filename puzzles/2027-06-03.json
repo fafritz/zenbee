@@ -1,0 +1,105 @@
+{
+  "pangram": "bungled",
+  "center_letter": "b",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 211,
+  "answer_pangrams": [
+    "bungled"
+  ],
+  "answers": [
+    "bedbug",
+    "bedded",
+    "been",
+    "begged",
+    "begun",
+    "bell",
+    "belle",
+    "belled",
+    "bend",
+    "bled",
+    "bleed",
+    "blend",
+    "blended",
+    "blue",
+    "bluebell",
+    "blued",
+    "bubble",
+    "bubbled",
+    "budded",
+    "budge",
+    "budged",
+    "bugged",
+    "bugle",
+    "bugled",
+    "bulb",
+    "bulge",
+    "bulged",
+    "bull",
+    "bulled",
+    "bundle",
+    "bundled",
+    "bung",
+    "bunged",
+    "bungle",
+    "bungled",
+    "debug",
+    "debugged",
+    "dubbed",
+    "ebbed",
+    "lube",
+    "lubed",
+    "unbend"
+  ],
+  "date": "2027-06-03",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 11,
+      "6": 16,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "B": 35,
+      "D": 3,
+      "E": 1,
+      "L": 2,
+      "U": 1
+    },
+    "grid": {
+      "B": {
+        "4": 8,
+        "5": 8,
+        "6": 14,
+        "7": 4,
+        "8": 1
+      },
+      "D": {
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1
+      },
+      "U": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 9,
+      "BL": 7,
+      "BU": 19,
+      "DE": 2,
+      "DU": 1,
+      "EB": 1,
+      "LU": 2,
+      "UN": 1
+    }
+  }
+}

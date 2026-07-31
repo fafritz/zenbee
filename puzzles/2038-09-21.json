@@ -1,0 +1,145 @@
+{
+  "pangram": "wealthy",
+  "center_letter": "e",
+  "num_answers": 54,
+  "num_pangrams": 1,
+  "possible_points": 230,
+  "answer_pangrams": [
+    "wealthy"
+  ],
+  "answers": [
+    "alley",
+    "alleyway",
+    "athlete",
+    "elate",
+    "eyelet",
+    "eyeteeth",
+    "hale",
+    "hate",
+    "heal",
+    "health",
+    "healthy",
+    "heat",
+    "heath",
+    "heel",
+    "hell",
+    "late",
+    "lately",
+    "lathe",
+    "latte",
+    "layette",
+    "leeway",
+    "lethal",
+    "lethally",
+    "tale",
+    "tattle",
+    "tattletale",
+    "teal",
+    "teeth",
+    "teethe",
+    "tell",
+    "telltale",
+    "thee",
+    "theta",
+    "they",
+    "tweet",
+    "wale",
+    "wallet",
+    "walleye",
+    "wattle",
+    "weal",
+    "wealth",
+    "wealthy",
+    "well",
+    "welt",
+    "wetly",
+    "whale",
+    "wheal",
+    "wheat",
+    "wheel",
+    "whet",
+    "whew",
+    "whey",
+    "yeah",
+    "yell"
+  ],
+  "date": "2038-09-21",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 13,
+      "6": 10,
+      "7": 5,
+      "8": 4,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "E": 3,
+      "H": 9,
+      "L": 8,
+      "T": 12,
+      "W": 17,
+      "Y": 2
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "H": {
+        "4": 6,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 2,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 3,
+        "6": 2,
+        "8": 1,
+        "10": 1
+      },
+      "W": {
+        "4": 7,
+        "5": 5,
+        "6": 3,
+        "7": 2
+      },
+      "Y": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "AT": 1,
+      "EL": 1,
+      "EY": 2,
+      "HA": 2,
+      "HE": 7,
+      "LA": 5,
+      "LE": 3,
+      "TA": 3,
+      "TE": 5,
+      "TH": 3,
+      "TW": 1,
+      "WA": 4,
+      "WE": 6,
+      "WH": 7,
+      "YE": 2
+    }
+  }
+}

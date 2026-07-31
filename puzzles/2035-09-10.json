@@ -1,0 +1,106 @@
+{
+  "pangram": "outplay",
+  "center_letter": "p",
+  "num_answers": 39,
+  "num_pangrams": 1,
+  "possible_points": 137,
+  "answer_pangrams": [
+    "outplay"
+  ],
+  "answers": [
+    "appall",
+    "apply",
+    "aptly",
+    "atop",
+    "laptop",
+    "loop",
+    "loopy",
+    "opal",
+    "outplay",
+    "output",
+    "palatal",
+    "pall",
+    "papa",
+    "papal",
+    "papaya",
+    "patty",
+    "play",
+    "plop",
+    "plot",
+    "ploy",
+    "poll",
+    "polo",
+    "polyp",
+    "pool",
+    "poop",
+    "poppy",
+    "potato",
+    "potty",
+    "pout",
+    "pull",
+    "pullout",
+    "pulp",
+    "pulpy",
+    "pupa",
+    "pupal",
+    "puppy",
+    "putt",
+    "putty",
+    "typo"
+  ],
+  "date": "2035-09-10",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 12,
+      "6": 5,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 4,
+      "L": 3,
+      "O": 3,
+      "P": 28,
+      "T": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 15,
+        "5": 9,
+        "6": 2,
+        "7": 2
+      },
+      "T": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AP": 3,
+      "AT": 1,
+      "LA": 1,
+      "LO": 2,
+      "OP": 1,
+      "OU": 2,
+      "PA": 6,
+      "PL": 4,
+      "PO": 9,
+      "PU": 9,
+      "TY": 1
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "pangram": "exuding",
+  "center_letter": "u",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 198,
+  "answer_pangrams": [
+    "exuding"
+  ],
+  "answers": [
+    "denude",
+    "denuded",
+    "denuding",
+    "dude",
+    "duded",
+    "duding",
+    "dune",
+    "dung",
+    "dunged",
+    "dunging",
+    "dunned",
+    "dunning",
+    "endue",
+    "endued",
+    "enduing",
+    "ennui",
+    "exude",
+    "exuded",
+    "exuding",
+    "genuine",
+    "guide",
+    "guided",
+    "guiding",
+    "gunned",
+    "gunning",
+    "ingenue",
+    "nudge",
+    "nudged",
+    "nudging",
+    "undid",
+    "undue",
+    "unending",
+    "unneeded"
+  ],
+  "date": "2027-06-07",
+  "hints": {
+    "by_length": {
+      "4": 3,
+      "5": 8,
+      "6": 9,
+      "7": 10,
+      "8": 3
+    },
+    "by_first_letter": {
+      "D": 12,
+      "E": 7,
+      "G": 6,
+      "I": 1,
+      "N": 3,
+      "U": 4
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "5": 1,
+        "6": 4,
+        "7": 3,
+        "8": 1
+      },
+      "E": {
+        "5": 3,
+        "6": 2,
+        "7": 2
+      },
+      "G": {
+        "5": 1,
+        "6": 2,
+        "7": 3
+      },
+      "I": {
+        "7": 1
+      },
+      "N": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "U": {
+        "5": 2,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "DE": 3,
+      "DU": 9,
+      "EN": 4,
+      "EX": 3,
+      "GE": 1,
+      "GU": 5,
+      "IN": 1,
+      "NU": 3,
+      "UN": 4
+    }
+  }
+}

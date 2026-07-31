@@ -1,0 +1,116 @@
+{
+  "pangram": "audibly",
+  "center_letter": "l",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 145,
+  "answer_pangrams": [
+    "audibly"
+  ],
+  "answers": [
+    "ably",
+    "alibi",
+    "allay",
+    "ally",
+    "audibly",
+    "badly",
+    "bail",
+    "bald",
+    "baldly",
+    "ball",
+    "ballad",
+    "bill",
+    "billy",
+    "blab",
+    "bubbly",
+    "build",
+    "bulb",
+    "bull",
+    "bully",
+    "daily",
+    "dally",
+    "dial",
+    "dill",
+    "dilly",
+    "dillydally",
+    "dual",
+    "dull",
+    "dully",
+    "duly",
+    "idly",
+    "idyll",
+    "labia",
+    "labial",
+    "lady",
+    "laid",
+    "laud",
+    "laudably",
+    "lily",
+    "luau",
+    "lull",
+    "lullaby",
+    "lulu"
+  ],
+  "date": "2030-10-27",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 12,
+      "6": 4,
+      "7": 2,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 14,
+      "D": 10,
+      "I": 2,
+      "L": 11
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "B": {
+        "4": 7,
+        "5": 4,
+        "6": 3
+      },
+      "D": {
+        "4": 5,
+        "5": 4,
+        "10": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 7,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AL": 3,
+      "AU": 1,
+      "BA": 6,
+      "BI": 2,
+      "BL": 1,
+      "BU": 5,
+      "DA": 2,
+      "DI": 4,
+      "DU": 4,
+      "ID": 2,
+      "LA": 6,
+      "LI": 1,
+      "LU": 4
+    }
+  }
+}

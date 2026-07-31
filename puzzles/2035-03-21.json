@@ -1,0 +1,95 @@
+{
+  "pangram": "plaudit",
+  "center_letter": "i",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 93,
+  "answer_pangrams": [
+    "plaudit"
+  ],
+  "answers": [
+    "audit",
+    "dial",
+    "dill",
+    "ipad",
+    "laid",
+    "lilt",
+    "lipid",
+    "paid",
+    "pail",
+    "palatial",
+    "pallid",
+    "papilla",
+    "pill",
+    "pipit",
+    "pita",
+    "plaid",
+    "plait",
+    "plaudit",
+    "pulpit",
+    "pupil",
+    "tail",
+    "tidal",
+    "till",
+    "tilt",
+    "tulip"
+  ],
+  "date": "2035-03-21",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 8,
+      "6": 2,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "D": 2,
+      "I": 1,
+      "L": 3,
+      "P": 13,
+      "T": 5
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "D": {
+        "4": 2
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1
+      },
+      "P": {
+        "4": 4,
+        "5": 4,
+        "6": 2,
+        "7": 2,
+        "8": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "AU": 1,
+      "DI": 2,
+      "IP": 1,
+      "LA": 1,
+      "LI": 2,
+      "PA": 5,
+      "PI": 3,
+      "PL": 3,
+      "PU": 2,
+      "TA": 1,
+      "TI": 3,
+      "TU": 1
+    }
+  }
+}

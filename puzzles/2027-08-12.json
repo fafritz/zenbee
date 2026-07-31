@@ -1,0 +1,121 @@
+{
+  "pangram": "blacked",
+  "center_letter": "k",
+  "num_answers": 37,
+  "num_pangrams": 2,
+  "possible_points": 172,
+  "answer_pangrams": [
+    "blackballed",
+    "blacked"
+  ],
+  "answers": [
+    "aback",
+    "back",
+    "backed",
+    "bake",
+    "baked",
+    "balk",
+    "balked",
+    "beak",
+    "beck",
+    "bedeck",
+    "bedecked",
+    "black",
+    "blackball",
+    "blackballed",
+    "blacked",
+    "bleak",
+    "cackle",
+    "cackled",
+    "cake",
+    "caked",
+    "calked",
+    "clack",
+    "clacked",
+    "deck",
+    "decked",
+    "deckle",
+    "eked",
+    "kale",
+    "kebab",
+    "keel",
+    "keeled",
+    "lack",
+    "lacked",
+    "lake",
+    "leak",
+    "leaked",
+    "leek"
+  ],
+  "date": "2027-08-12",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 7,
+      "6": 10,
+      "7": 3,
+      "8": 1,
+      "9": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 15,
+      "C": 7,
+      "D": 3,
+      "E": 1,
+      "K": 4,
+      "L": 6
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "B": {
+        "4": 5,
+        "5": 3,
+        "6": 3,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "11": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 2
+      },
+      "D": {
+        "4": 1,
+        "6": 2
+      },
+      "E": {
+        "4": 1
+      },
+      "K": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 4,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "BA": 6,
+      "BE": 4,
+      "BL": 5,
+      "CA": 5,
+      "CL": 2,
+      "DE": 3,
+      "EK": 1,
+      "KA": 1,
+      "KE": 3,
+      "LA": 3,
+      "LE": 3
+    }
+  }
+}

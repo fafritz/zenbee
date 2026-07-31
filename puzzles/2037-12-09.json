@@ -1,0 +1,105 @@
+{
+  "pangram": "quilted",
+  "center_letter": "u",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 168,
+  "answer_pangrams": [
+    "quilted"
+  ],
+  "answers": [
+    "delude",
+    "deluded",
+    "dilute",
+    "diluted",
+    "dude",
+    "duded",
+    "duel",
+    "dueled",
+    "duet",
+    "dull",
+    "dulled",
+    "elude",
+    "eluded",
+    "etiquette",
+    "etude",
+    "lieu",
+    "liquid",
+    "lull",
+    "lulled",
+    "lulu",
+    "lute",
+    "quell",
+    "quelled",
+    "queue",
+    "queued",
+    "quid",
+    "quiet",
+    "quieted",
+    "quietude",
+    "quill",
+    "quilt",
+    "quilted",
+    "quit",
+    "quite",
+    "tulle",
+    "tutu"
+  ],
+  "date": "2037-12-09",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 10,
+      "6": 8,
+      "7": 5,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "D": 11,
+      "E": 4,
+      "L": 6,
+      "Q": 13,
+      "T": 2
+    },
+    "grid": {
+      "D": {
+        "4": 4,
+        "5": 1,
+        "6": 4,
+        "7": 2
+      },
+      "E": {
+        "5": 2,
+        "6": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 4,
+        "6": 2
+      },
+      "Q": {
+        "4": 2,
+        "5": 6,
+        "6": 1,
+        "7": 3,
+        "8": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 2,
+      "DI": 2,
+      "DU": 7,
+      "EL": 2,
+      "ET": 2,
+      "LI": 2,
+      "LU": 4,
+      "QU": 13,
+      "TU": 2
+    }
+  }
+}

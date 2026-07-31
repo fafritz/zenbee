@@ -1,0 +1,111 @@
+{
+  "pangram": "auditor",
+  "center_letter": "d",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 127,
+  "answer_pangrams": [
+    "auditor"
+  ],
+  "answers": [
+    "adroit",
+    "ardor",
+    "arid",
+    "audio",
+    "audit",
+    "auditor",
+    "dado",
+    "dart",
+    "data",
+    "dirt",
+    "ditto",
+    "dodo",
+    "doodad",
+    "door",
+    "dour",
+    "droid",
+    "druid",
+    "idiot",
+    "odor",
+    "outdid",
+    "outdo",
+    "outdoor",
+    "radar",
+    "radiator",
+    "radii",
+    "radio",
+    "raid",
+    "road",
+    "rood",
+    "toad",
+    "torrid",
+    "triad",
+    "trod"
+  ],
+  "date": "2032-02-15",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 12,
+      "6": 4,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "D": 11,
+      "I": 1,
+      "O": 4,
+      "R": 7,
+      "T": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 7,
+        "5": 3,
+        "6": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 3,
+        "8": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AR": 2,
+      "AU": 3,
+      "DA": 3,
+      "DI": 2,
+      "DO": 4,
+      "DR": 2,
+      "ID": 1,
+      "OD": 1,
+      "OU": 3,
+      "RA": 5,
+      "RO": 2,
+      "TO": 2,
+      "TR": 2
+    }
+  }
+}

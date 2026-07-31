@@ -1,0 +1,108 @@
+{
+  "pangram": "unkempt",
+  "center_letter": "e",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 86,
+  "answer_pangrams": [
+    "unkempt"
+  ],
+  "answers": [
+    "entente",
+    "epee",
+    "keen",
+    "keep",
+    "kept",
+    "knee",
+    "meek",
+    "meet",
+    "meme",
+    "menu",
+    "mete",
+    "mute",
+    "nene",
+    "nuke",
+    "peek",
+    "peen",
+    "peep",
+    "pent",
+    "puke",
+    "puppet",
+    "teem",
+    "teen",
+    "temp",
+    "tempt",
+    "tenement",
+    "tenet",
+    "tent",
+    "tepee",
+    "tune",
+    "umpteen",
+    "unkempt",
+    "upkeep"
+  ],
+  "date": "2034-02-03",
+  "hints": {
+    "by_length": {
+      "4": 23,
+      "5": 3,
+      "6": 2,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "E": 2,
+      "K": 4,
+      "M": 6,
+      "N": 2,
+      "P": 6,
+      "T": 9,
+      "U": 3
+    },
+    "grid": {
+      "E": {
+        "4": 1,
+        "7": 1
+      },
+      "K": {
+        "4": 4
+      },
+      "M": {
+        "4": 6
+      },
+      "N": {
+        "4": 2
+      },
+      "P": {
+        "4": 5,
+        "6": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 3,
+        "8": 1
+      },
+      "U": {
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "EN": 1,
+      "EP": 1,
+      "KE": 3,
+      "KN": 1,
+      "ME": 5,
+      "MU": 1,
+      "NE": 1,
+      "NU": 1,
+      "PE": 4,
+      "PU": 2,
+      "TE": 8,
+      "TU": 1,
+      "UM": 1,
+      "UN": 1,
+      "UP": 1
+    }
+  }
+}

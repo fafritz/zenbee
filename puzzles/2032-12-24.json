@@ -1,0 +1,137 @@
+{
+  "pangram": "pecking",
+  "center_letter": "i",
+  "num_answers": 58,
+  "num_pangrams": 1,
+  "possible_points": 312,
+  "answer_pangrams": [
+    "pecking"
+  ],
+  "answers": [
+    "egging",
+    "eking",
+    "engine",
+    "epic",
+    "geeing",
+    "genie",
+    "genii",
+    "gigging",
+    "ginning",
+    "icing",
+    "inking",
+    "inning",
+    "keening",
+    "keeping",
+    "kenning",
+    "kick",
+    "kicking",
+    "king",
+    "kingpin",
+    "kink",
+    "kinking",
+    "kneeing",
+    "necking",
+    "nice",
+    "nick",
+    "nicking",
+    "niece",
+    "nine",
+    "nipping",
+    "pecking",
+    "peeing",
+    "peeking",
+    "peeping",
+    "penning",
+    "pepping",
+    "pick",
+    "picking",
+    "picnic",
+    "picnicking",
+    "piece",
+    "piecing",
+    "pieing",
+    "pigging",
+    "pigpen",
+    "pike",
+    "piking",
+    "pine",
+    "ping",
+    "pinging",
+    "pining",
+    "pink",
+    "pinkie",
+    "pinking",
+    "pinning",
+    "pipe",
+    "piping",
+    "pippin",
+    "pipping"
+  ],
+  "date": "2032-12-24",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 6,
+      "6": 14,
+      "7": 24,
+      "10": 1
+    },
+    "by_first_letter": {
+      "E": 4,
+      "G": 5,
+      "I": 3,
+      "K": 10,
+      "N": 7,
+      "P": 29
+    },
+    "grid": {
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "G": {
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "I": {
+        "5": 1,
+        "6": 2
+      },
+      "K": {
+        "4": 3,
+        "7": 7
+      },
+      "N": {
+        "4": 3,
+        "5": 1,
+        "7": 3
+      },
+      "P": {
+        "4": 6,
+        "5": 1,
+        "6": 9,
+        "7": 12,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "EG": 1,
+      "EK": 1,
+      "EN": 1,
+      "EP": 1,
+      "GE": 3,
+      "GI": 2,
+      "IC": 1,
+      "IN": 2,
+      "KE": 3,
+      "KI": 6,
+      "KN": 1,
+      "NE": 1,
+      "NI": 6,
+      "PE": 6,
+      "PI": 23
+    }
+  }
+}

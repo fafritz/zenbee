@@ -1,0 +1,119 @@
+{
+  "pangram": "romping",
+  "center_letter": "m",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 209,
+  "answer_pangrams": [
+    "romping"
+  ],
+  "answers": [
+    "grim",
+    "griming",
+    "groom",
+    "grooming",
+    "impinging",
+    "miming",
+    "mini",
+    "minim",
+    "mining",
+    "minion",
+    "minor",
+    "minoring",
+    "miring",
+    "mirror",
+    "mirroring",
+    "mono",
+    "mooing",
+    "moon",
+    "mooning",
+    "moor",
+    "mooring",
+    "moping",
+    "mopping",
+    "morn",
+    "morning",
+    "moron",
+    "norm",
+    "pimp",
+    "pimping",
+    "pogrom",
+    "pomp",
+    "prim",
+    "priming",
+    "primp",
+    "primping",
+    "prom",
+    "promo",
+    "riming",
+    "romp",
+    "romping",
+    "room",
+    "rooming"
+  ],
+  "date": "2032-03-28",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 6,
+      "6": 9,
+      "7": 9,
+      "8": 3,
+      "9": 2
+    },
+    "by_first_letter": {
+      "G": 4,
+      "I": 1,
+      "M": 21,
+      "N": 1,
+      "P": 10,
+      "R": 5
+    },
+    "grid": {
+      "G": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "I": {
+        "9": 1
+      },
+      "M": {
+        "4": 5,
+        "5": 3,
+        "6": 7,
+        "7": 4,
+        "8": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "P": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "R": {
+        "4": 2,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "GR": 4,
+      "IM": 1,
+      "MI": 10,
+      "MO": 11,
+      "NO": 1,
+      "PI": 2,
+      "PO": 2,
+      "PR": 6,
+      "RI": 1,
+      "RO": 4
+    }
+  }
+}

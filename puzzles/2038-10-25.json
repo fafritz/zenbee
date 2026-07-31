@@ -1,0 +1,85 @@
+{
+  "pangram": "flounce",
+  "center_letter": "u",
+  "num_answers": 17,
+  "num_pangrams": 2,
+  "possible_points": 63,
+  "answer_pangrams": [
+    "confluence",
+    "flounce"
+  ],
+  "answers": [
+    "clue",
+    "confluence",
+    "cuff",
+    "cull",
+    "flounce",
+    "flue",
+    "fluff",
+    "foul",
+    "fuel",
+    "full",
+    "funnel",
+    "lull",
+    "lulu",
+    "noun",
+    "null",
+    "ounce",
+    "uncle"
+  ],
+  "date": "2038-10-25",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 3,
+      "6": 1,
+      "7": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 4,
+      "F": 7,
+      "L": 2,
+      "N": 2,
+      "O": 1,
+      "U": 1
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "10": 1
+      },
+      "F": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 2
+      },
+      "N": {
+        "4": 2
+      },
+      "O": {
+        "5": 1
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 1,
+      "CO": 1,
+      "CU": 2,
+      "FL": 3,
+      "FO": 1,
+      "FU": 3,
+      "LU": 2,
+      "NO": 1,
+      "NU": 1,
+      "OU": 1,
+      "UN": 1
+    }
+  }
+}

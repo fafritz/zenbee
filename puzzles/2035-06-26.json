@@ -1,0 +1,81 @@
+{
+  "pangram": "halcyon",
+  "center_letter": "h",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 88,
+  "answer_pangrams": [
+    "halcyon"
+  ],
+  "answers": [
+    "achoo",
+    "achy",
+    "ahoy",
+    "alcohol",
+    "aloha",
+    "chancy",
+    "coach",
+    "conch",
+    "halal",
+    "halcyon",
+    "hall",
+    "halo",
+    "halon",
+    "holly",
+    "holy",
+    "honcho",
+    "hooch",
+    "lynch",
+    "yahoo"
+  ],
+  "date": "2035-06-26",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 10,
+      "6": 2,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 3,
+      "H": 9,
+      "L": 1,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "C": {
+        "5": 2,
+        "6": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 4,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "5": 1
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AH": 1,
+      "AL": 2,
+      "CH": 1,
+      "CO": 2,
+      "HA": 5,
+      "HO": 4,
+      "LY": 1,
+      "YA": 1
+    }
+  }
+}

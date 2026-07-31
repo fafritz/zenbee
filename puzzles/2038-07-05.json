@@ -1,0 +1,92 @@
+{
+  "pangram": "balcony",
+  "center_letter": "b",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 130,
+  "answer_pangrams": [
+    "balcony"
+  ],
+  "answers": [
+    "ably",
+    "baba",
+    "baboon",
+    "baby",
+    "bacon",
+    "balcony",
+    "ball",
+    "balloon",
+    "banal",
+    "banana",
+    "banyan",
+    "baobab",
+    "blab",
+    "blob",
+    "bloc",
+    "bobby",
+    "bola",
+    "boll",
+    "bonbon",
+    "bony",
+    "boob",
+    "booboo",
+    "booby",
+    "boon",
+    "cabal",
+    "cabana",
+    "cabby",
+    "cannonball",
+    "lobby",
+    "nabob",
+    "nobly"
+  ],
+  "date": "2038-07-05",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 9,
+      "6": 7,
+      "7": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 23,
+      "C": 4,
+      "L": 1,
+      "N": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "B": {
+        "4": 11,
+        "5": 4,
+        "6": 6,
+        "7": 2
+      },
+      "C": {
+        "5": 2,
+        "6": 1,
+        "10": 1
+      },
+      "L": {
+        "5": 1
+      },
+      "N": {
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "BA": 11,
+      "BL": 3,
+      "BO": 9,
+      "CA": 4,
+      "LO": 1,
+      "NA": 1,
+      "NO": 1
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "pangram": "exactly",
+  "center_letter": "a",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 171,
+  "answer_pangrams": [
+    "exactly"
+  ],
+  "answers": [
+    "acetate",
+    "allay",
+    "alley",
+    "ally",
+    "axle",
+    "call",
+    "calla",
+    "calyx",
+    "catcall",
+    "cattle",
+    "catty",
+    "clay",
+    "clayey",
+    "cleat",
+    "eclat",
+    "elate",
+    "exact",
+    "exactly",
+    "exalt",
+    "lace",
+    "lactate",
+    "lacy",
+    "late",
+    "lately",
+    "latex",
+    "latte",
+    "laxly",
+    "layette",
+    "tact",
+    "talc",
+    "tale",
+    "tall",
+    "tally",
+    "tattle",
+    "tattletale",
+    "tatty",
+    "teal",
+    "telltale"
+  ],
+  "date": "2031-03-31",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 15,
+      "6": 4,
+      "7": 5,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 9,
+      "E": 5,
+      "L": 9,
+      "T": 10
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 4,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "5": 4,
+        "7": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "7": 2
+      },
+      "T": {
+        "4": 5,
+        "5": 2,
+        "6": 1,
+        "8": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AL": 3,
+      "AX": 1,
+      "CA": 6,
+      "CL": 3,
+      "EC": 1,
+      "EL": 1,
+      "EX": 3,
+      "LA": 9,
+      "TA": 8,
+      "TE": 2
+    }
+  }
+}

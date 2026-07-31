@@ -1,0 +1,83 @@
+{
+  "pangram": "lambkin",
+  "center_letter": "k",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 70,
+  "answer_pangrams": [
+    "lambkin"
+  ],
+  "answers": [
+    "akin",
+    "alkali",
+    "balalaika",
+    "balk",
+    "bank",
+    "bikini",
+    "bilk",
+    "blank",
+    "blink",
+    "kill",
+    "kiln",
+    "kink",
+    "lambkin",
+    "lank",
+    "link",
+    "manikin",
+    "milk",
+    "milkman",
+    "mink"
+  ],
+  "date": "2029-06-18",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 2,
+      "6": 2,
+      "7": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 7,
+      "K": 3,
+      "L": 3,
+      "M": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1
+      },
+      "B": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "9": 1
+      },
+      "K": {
+        "4": 3
+      },
+      "L": {
+        "4": 2,
+        "7": 1
+      },
+      "M": {
+        "4": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AK": 1,
+      "AL": 1,
+      "BA": 3,
+      "BI": 2,
+      "BL": 2,
+      "KI": 3,
+      "LA": 2,
+      "LI": 1,
+      "MA": 1,
+      "MI": 3
+    }
+  }
+}

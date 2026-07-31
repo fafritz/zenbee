@@ -1,0 +1,96 @@
+{
+  "pangram": "flytrap",
+  "center_letter": "r",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 111,
+  "answer_pangrams": [
+    "flytrap"
+  ],
+  "answers": [
+    "afar",
+    "altar",
+    "apart",
+    "array",
+    "arty",
+    "attar",
+    "fart",
+    "flytrap",
+    "frat",
+    "fray",
+    "paltry",
+    "parlay",
+    "parry",
+    "part",
+    "partly",
+    "party",
+    "pray",
+    "raft",
+    "rally",
+    "rapt",
+    "ratatat",
+    "rattrap",
+    "ratty",
+    "tarp",
+    "tart",
+    "tartar",
+    "tartly",
+    "trap",
+    "tray"
+  ],
+  "date": "2033-09-27",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 8,
+      "6": 5,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 6,
+      "F": 4,
+      "P": 7,
+      "R": 6,
+      "T": 6
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 4
+      },
+      "F": {
+        "4": 3,
+        "7": 1
+      },
+      "P": {
+        "4": 2,
+        "5": 2,
+        "6": 3
+      },
+      "R": {
+        "4": 2,
+        "5": 2,
+        "7": 2
+      },
+      "T": {
+        "4": 4,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AF": 1,
+      "AL": 1,
+      "AP": 1,
+      "AR": 2,
+      "AT": 1,
+      "FA": 1,
+      "FL": 1,
+      "FR": 2,
+      "PA": 6,
+      "PR": 1,
+      "RA": 6,
+      "TA": 4,
+      "TR": 2
+    }
+  }
+}

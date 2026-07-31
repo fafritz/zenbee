@@ -1,0 +1,111 @@
+{
+  "pangram": "product",
+  "center_letter": "u",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 121,
+  "answer_pangrams": [
+    "product"
+  ],
+  "answers": [
+    "corrupt",
+    "coup",
+    "court",
+    "croup",
+    "crud",
+    "curd",
+    "curt",
+    "cutout",
+    "cutup",
+    "dour",
+    "dropout",
+    "duct",
+    "occur",
+    "outcrop",
+    "outdo",
+    "outdoor",
+    "output",
+    "pour",
+    "pout",
+    "product",
+    "proud",
+    "purport",
+    "purr",
+    "putt",
+    "rout",
+    "tour",
+    "tout",
+    "trout",
+    "tutor",
+    "tutu",
+    "uproot"
+  ],
+  "date": "2030-02-11",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 8,
+      "6": 3,
+      "7": 6
+    },
+    "by_first_letter": {
+      "C": 9,
+      "D": 3,
+      "O": 5,
+      "P": 7,
+      "R": 1,
+      "T": 5,
+      "U": 1
+    },
+    "grid": {
+      "C": {
+        "4": 4,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "7": 1
+      },
+      "O": {
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "P": {
+        "4": 4,
+        "5": 1,
+        "7": 2
+      },
+      "R": {
+        "4": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 2
+      },
+      "U": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 3,
+      "CR": 2,
+      "CU": 4,
+      "DO": 1,
+      "DR": 1,
+      "DU": 1,
+      "OC": 1,
+      "OU": 4,
+      "PO": 2,
+      "PR": 2,
+      "PU": 3,
+      "RO": 1,
+      "TO": 2,
+      "TR": 1,
+      "TU": 2,
+      "UP": 1
+    }
+  }
+}

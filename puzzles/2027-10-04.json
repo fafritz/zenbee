@@ -1,0 +1,113 @@
+{
+  "pangram": "fancily",
+  "center_letter": "n",
+  "num_answers": 33,
+  "num_pangrams": 2,
+  "possible_points": 186,
+  "answer_pangrams": [
+    "fancily",
+    "financially"
+  ],
+  "answers": [
+    "anal",
+    "canal",
+    "cancan",
+    "canna",
+    "cannily",
+    "canny",
+    "clan",
+    "clinic",
+    "clinical",
+    "clinically",
+    "clinician",
+    "cyan",
+    "cynic",
+    "cynical",
+    "cynically",
+    "fancily",
+    "fancy",
+    "fanny",
+    "final",
+    "finally",
+    "financial",
+    "financially",
+    "finny",
+    "flan",
+    "infancy",
+    "inlay",
+    "lain",
+    "naan",
+    "nail",
+    "nana",
+    "nanny",
+    "niacin",
+    "ninny"
+  ],
+  "date": "2027-10-04",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 11,
+      "6": 3,
+      "7": 5,
+      "8": 1,
+      "9": 3,
+      "10": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 14,
+      "F": 9,
+      "I": 2,
+      "L": 1,
+      "N": 6
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 4,
+        "6": 2,
+        "7": 2,
+        "8": 1,
+        "9": 2,
+        "10": 1
+      },
+      "F": {
+        "4": 1,
+        "5": 4,
+        "7": 2,
+        "9": 1,
+        "11": 1
+      },
+      "I": {
+        "5": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "CA": 5,
+      "CL": 5,
+      "CY": 4,
+      "FA": 3,
+      "FI": 5,
+      "FL": 1,
+      "IN": 2,
+      "LA": 1,
+      "NA": 4,
+      "NI": 2
+    }
+  }
+}

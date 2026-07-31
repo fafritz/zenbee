@@ -1,0 +1,119 @@
+{
+  "pangram": "naively",
+  "center_letter": "i",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 179,
+  "answer_pangrams": [
+    "naively"
+  ],
+  "answers": [
+    "alien",
+    "alive",
+    "anvil",
+    "avail",
+    "avian",
+    "enliven",
+    "evil",
+    "evilly",
+    "inane",
+    "inanely",
+    "inlay",
+    "inline",
+    "lain",
+    "lien",
+    "lily",
+    "line",
+    "lineal",
+    "lineally",
+    "linen",
+    "live",
+    "lively",
+    "liven",
+    "nail",
+    "naive",
+    "naively",
+    "nine",
+    "ninny",
+    "vain",
+    "vainly",
+    "vanilla",
+    "veil",
+    "vein",
+    "venial",
+    "vial",
+    "vile",
+    "vilely",
+    "villa",
+    "villain",
+    "villainy",
+    "vine",
+    "vinyl"
+  ],
+  "date": "2038-11-19",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 13,
+      "6": 7,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "E": 3,
+      "I": 4,
+      "L": 10,
+      "N": 5,
+      "V": 14
+    },
+    "grid": {
+      "A": {
+        "5": 5
+      },
+      "E": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 2,
+        "6": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "V": {
+        "4": 6,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "AN": 1,
+      "AV": 2,
+      "EN": 1,
+      "EV": 2,
+      "IN": 4,
+      "LA": 1,
+      "LI": 9,
+      "NA": 3,
+      "NI": 2,
+      "VA": 3,
+      "VE": 3,
+      "VI": 8
+    }
+  }
+}

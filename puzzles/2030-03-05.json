@@ -1,0 +1,134 @@
+{
+  "pangram": "typical",
+  "center_letter": "t",
+  "num_answers": 44,
+  "num_pangrams": 4,
+  "possible_points": 259,
+  "answer_pangrams": [
+    "atypical",
+    "atypically",
+    "typical",
+    "typically"
+  ],
+  "answers": [
+    "aptly",
+    "attic",
+    "atypical",
+    "atypically",
+    "cacti",
+    "capacity",
+    "capital",
+    "catalpa",
+    "catalytic",
+    "catcall",
+    "cattail",
+    "cattily",
+    "catty",
+    "city",
+    "illicit",
+    "illicitly",
+    "italic",
+    "lactic",
+    "laity",
+    "licit",
+    "lilt",
+    "pact",
+    "palatal",
+    "palatial",
+    "patty",
+    "pipit",
+    "pita",
+    "pity",
+    "plait",
+    "tacit",
+    "tacitly",
+    "tact",
+    "tactic",
+    "tactical",
+    "tactically",
+    "tail",
+    "talc",
+    "tall",
+    "tally",
+    "tatty",
+    "till",
+    "tilt",
+    "typical",
+    "typically"
+  ],
+  "date": "2030-03-05",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 12,
+      "6": 3,
+      "7": 9,
+      "8": 4,
+      "9": 3,
+      "10": 2
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 10,
+      "I": 3,
+      "L": 4,
+      "P": 8,
+      "T": 15
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "8": 1,
+        "10": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 2,
+        "7": 5,
+        "8": 1,
+        "9": 1
+      },
+      "I": {
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 3,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 3,
+        "6": 1,
+        "7": 2,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AP": 1,
+      "AT": 3,
+      "CA": 9,
+      "CI": 1,
+      "IL": 2,
+      "IT": 1,
+      "LA": 2,
+      "LI": 2,
+      "PA": 4,
+      "PI": 3,
+      "PL": 1,
+      "TA": 11,
+      "TI": 2,
+      "TY": 2
+    }
+  }
+}

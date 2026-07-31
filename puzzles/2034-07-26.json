@@ -1,0 +1,86 @@
+{
+  "pangram": "faculty",
+  "center_letter": "f",
+  "num_answers": 25,
+  "num_pangrams": 3,
+  "possible_points": 137,
+  "answer_pangrams": [
+    "factually",
+    "faculty",
+    "tactfully"
+  ],
+  "answers": [
+    "alfalfa",
+    "calf",
+    "cuff",
+    "fact",
+    "factual",
+    "factually",
+    "faculty",
+    "fall",
+    "fallacy",
+    "fatal",
+    "fatally",
+    "fatty",
+    "fault",
+    "faulty",
+    "flat",
+    "flatly",
+    "flay",
+    "fluff",
+    "fluffy",
+    "full",
+    "fully",
+    "tactful",
+    "tactfully",
+    "taffy",
+    "tuft"
+  ],
+  "date": "2034-07-26",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 6,
+      "6": 3,
+      "7": 6,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 2,
+      "F": 18,
+      "T": 4
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "C": {
+        "4": 2
+      },
+      "F": {
+        "4": 5,
+        "5": 5,
+        "6": 3,
+        "7": 4,
+        "9": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "CA": 1,
+      "CU": 1,
+      "FA": 11,
+      "FL": 5,
+      "FU": 2,
+      "TA": 3,
+      "TU": 1
+    }
+  }
+}

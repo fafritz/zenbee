@@ -1,0 +1,102 @@
+{
+  "pangram": "cajoled",
+  "center_letter": "c",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 163,
+  "answer_pangrams": [
+    "cajoled"
+  ],
+  "answers": [
+    "accede",
+    "acceded",
+    "accolade",
+    "aced",
+    "cacao",
+    "cajole",
+    "cajoled",
+    "call",
+    "calla",
+    "called",
+    "cede",
+    "ceded",
+    "cell",
+    "cello",
+    "clad",
+    "clod",
+    "coal",
+    "coaled",
+    "coca",
+    "cocoa",
+    "coda",
+    "coddle",
+    "coddled",
+    "code",
+    "coded",
+    "coed",
+    "cola",
+    "cold",
+    "cooed",
+    "cool",
+    "cooled",
+    "decade",
+    "decal",
+    "decode",
+    "decoded",
+    "lace",
+    "laced",
+    "local",
+    "locale",
+    "loco"
+  ],
+  "date": "2034-12-17",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 10,
+      "6": 9,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 27,
+      "D": 4,
+      "L": 5
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "C": {
+        "4": 13,
+        "5": 7,
+        "6": 5,
+        "7": 2
+      },
+      "D": {
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 4,
+      "CA": 6,
+      "CE": 4,
+      "CL": 2,
+      "CO": 15,
+      "DE": 4,
+      "LA": 2,
+      "LO": 3
+    }
+  }
+}

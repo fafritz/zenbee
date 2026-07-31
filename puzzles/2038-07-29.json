@@ -1,0 +1,98 @@
+{
+  "pangram": "curtain",
+  "center_letter": "u",
+  "num_answers": 23,
+  "num_pangrams": 2,
+  "possible_points": 97,
+  "answer_pangrams": [
+    "curtain",
+    "taciturn"
+  ],
+  "answers": [
+    "aunt",
+    "aura",
+    "circuit",
+    "currant",
+    "curt",
+    "curtain",
+    "incur",
+    "intuit",
+    "nutria",
+    "ruin",
+    "runic",
+    "runt",
+    "taciturn",
+    "taunt",
+    "taut",
+    "truant",
+    "tuna",
+    "tunic",
+    "turn",
+    "tutu",
+    "uncut",
+    "unit",
+    "uric"
+  ],
+  "date": "2038-07-29",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 5,
+      "6": 3,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 4,
+      "I": 2,
+      "N": 1,
+      "R": 3,
+      "T": 8,
+      "U": 3
+    },
+    "grid": {
+      "A": {
+        "4": 2
+      },
+      "C": {
+        "4": 1,
+        "7": 3
+      },
+      "I": {
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "U": {
+        "4": 2,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AU": 2,
+      "CI": 1,
+      "CU": 3,
+      "IN": 2,
+      "NU": 1,
+      "RU": 3,
+      "TA": 3,
+      "TR": 1,
+      "TU": 4,
+      "UN": 2,
+      "UR": 1
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "pangram": "tacking",
+  "center_letter": "k",
+  "num_answers": 25,
+  "num_pangrams": 2,
+  "possible_points": 133,
+  "answer_pangrams": [
+    "attacking",
+    "tacking"
+  ],
+  "answers": [
+    "akin",
+    "attack",
+    "attacking",
+    "caking",
+    "catkin",
+    "inking",
+    "kick",
+    "kicking",
+    "king",
+    "kink",
+    "kinking",
+    "kiting",
+    "knack",
+    "knickknack",
+    "knit",
+    "knitting",
+    "nick",
+    "nicking",
+    "tack",
+    "tacking",
+    "taking",
+    "tank",
+    "tanking",
+    "tick",
+    "ticking"
+  ],
+  "date": "2028-03-07",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 1,
+      "6": 6,
+      "7": 6,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 2,
+      "I": 1,
+      "K": 10,
+      "N": 2,
+      "T": 7
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1,
+        "9": 1
+      },
+      "C": {
+        "6": 2
+      },
+      "I": {
+        "6": 1
+      },
+      "K": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1,
+        "10": 1
+      },
+      "N": {
+        "4": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 3,
+        "6": 1,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "AK": 1,
+      "AT": 2,
+      "CA": 2,
+      "IN": 1,
+      "KI": 6,
+      "KN": 4,
+      "NI": 2,
+      "TA": 5,
+      "TI": 2
+    }
+  }
+}

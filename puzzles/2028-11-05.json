@@ -1,0 +1,89 @@
+{
+  "pangram": "flaking",
+  "center_letter": "f",
+  "num_answers": 31,
+  "num_pangrams": 2,
+  "possible_points": 171,
+  "answer_pangrams": [
+    "flaking",
+    "flanking"
+  ],
+  "answers": [
+    "alfalfa",
+    "fail",
+    "failing",
+    "faking",
+    "fall",
+    "falling",
+    "fang",
+    "fanning",
+    "filial",
+    "filing",
+    "fill",
+    "filling",
+    "finagling",
+    "final",
+    "fining",
+    "fink",
+    "finking",
+    "flag",
+    "flagging",
+    "flail",
+    "flailing",
+    "flak",
+    "flaking",
+    "flan",
+    "flank",
+    "flanking",
+    "fling",
+    "flinging",
+    "gaff",
+    "gaffing",
+    "knifing"
+  ],
+  "date": "2028-11-05",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 4,
+      "6": 4,
+      "7": 9,
+      "8": 4,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "F": 27,
+      "G": 2,
+      "K": 1
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "F": {
+        "4": 8,
+        "5": 4,
+        "6": 4,
+        "7": 6,
+        "8": 4,
+        "9": 1
+      },
+      "G": {
+        "4": 1,
+        "7": 1
+      },
+      "K": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "FA": 7,
+      "FI": 9,
+      "FL": 11,
+      "GA": 2,
+      "KN": 1
+    }
+  }
+}

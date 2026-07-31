@@ -1,0 +1,144 @@
+{
+  "pangram": "proving",
+  "center_letter": "i",
+  "num_answers": 51,
+  "num_pangrams": 1,
+  "possible_points": 310,
+  "answer_pangrams": [
+    "proving"
+  ],
+  "answers": [
+    "gigging",
+    "ginning",
+    "giving",
+    "going",
+    "gonging",
+    "gorging",
+    "goring",
+    "grin",
+    "grinning",
+    "grip",
+    "griping",
+    "gripping",
+    "groin",
+    "grooving",
+    "ignoring",
+    "inning",
+    "iron",
+    "ironing",
+    "nipping",
+    "noggin",
+    "ongoing",
+    "onion",
+    "opining",
+    "opinion",
+    "origin",
+    "pigging",
+    "ping",
+    "pinging",
+    "pining",
+    "pinion",
+    "pinioning",
+    "pinning",
+    "piping",
+    "pippin",
+    "pipping",
+    "pooping",
+    "popping",
+    "poring",
+    "prig",
+    "prior",
+    "propping",
+    "proving",
+    "rigging",
+    "rigor",
+    "ring",
+    "ringing",
+    "ripping",
+    "roping",
+    "roving",
+    "vigor",
+    "virgin"
+  ],
+  "date": "2032-12-23",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 6,
+      "6": 13,
+      "7": 20,
+      "8": 5,
+      "9": 1
+    },
+    "by_first_letter": {
+      "G": 14,
+      "I": 4,
+      "N": 2,
+      "O": 5,
+      "P": 17,
+      "R": 7,
+      "V": 2
+    },
+    "grid": {
+      "G": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 5,
+        "8": 3
+      },
+      "I": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "6": 1,
+        "7": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1,
+        "7": 3
+      },
+      "P": {
+        "4": 2,
+        "5": 1,
+        "6": 5,
+        "7": 7,
+        "8": 1,
+        "9": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 3
+      },
+      "V": {
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 3,
+      "GO": 4,
+      "GR": 7,
+      "IG": 1,
+      "IN": 1,
+      "IR": 2,
+      "NI": 1,
+      "NO": 1,
+      "ON": 2,
+      "OP": 2,
+      "OR": 1,
+      "PI": 10,
+      "PO": 3,
+      "PR": 4,
+      "RI": 5,
+      "RO": 2,
+      "VI": 2
+    }
+  }
+}

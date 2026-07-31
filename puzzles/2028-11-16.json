@@ -1,0 +1,125 @@
+{
+  "pangram": "acutely",
+  "center_letter": "t",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 208,
+  "answer_pangrams": [
+    "acutely"
+  ],
+  "answers": [
+    "acetate",
+    "actual",
+    "actually",
+    "actuate",
+    "acute",
+    "acutely",
+    "calculate",
+    "catcall",
+    "cattle",
+    "catty",
+    "cleat",
+    "cult",
+    "cute",
+    "cutely",
+    "cutlet",
+    "eclat",
+    "elate",
+    "elect",
+    "eyelet",
+    "lactate",
+    "late",
+    "lately",
+    "latte",
+    "layette",
+    "lettuce",
+    "lute",
+    "tact",
+    "talc",
+    "tale",
+    "tall",
+    "tally",
+    "tattle",
+    "tattletale",
+    "tatty",
+    "taut",
+    "tautly",
+    "teal",
+    "tell",
+    "telltale",
+    "tulle",
+    "tutu",
+    "ululate"
+  ],
+  "date": "2028-11-16",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 10,
+      "6": 8,
+      "7": 8,
+      "8": 2,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 9,
+      "E": 4,
+      "L": 7,
+      "T": 15,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1,
+        "7": 3,
+        "8": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "7": 1,
+        "9": 1
+      },
+      "E": {
+        "5": 3,
+        "6": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 3
+      },
+      "T": {
+        "4": 8,
+        "5": 3,
+        "6": 2,
+        "8": 1,
+        "10": 1
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 6,
+      "CA": 4,
+      "CL": 1,
+      "CU": 4,
+      "EC": 1,
+      "EL": 2,
+      "EY": 1,
+      "LA": 5,
+      "LE": 1,
+      "LU": 1,
+      "TA": 10,
+      "TE": 3,
+      "TU": 2,
+      "UL": 1
+    }
+  }
+}

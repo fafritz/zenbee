@@ -1,0 +1,72 @@
+{
+  "pangram": "foundry",
+  "center_letter": "f",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 62,
+  "answer_pangrams": [
+    "foundry"
+  ],
+  "answers": [
+    "doff",
+    "duff",
+    "fond",
+    "food",
+    "ford",
+    "found",
+    "foundry",
+    "four",
+    "frond",
+    "fund",
+    "funny",
+    "furor",
+    "furry",
+    "fury",
+    "roof",
+    "ruff",
+    "runoff",
+    "unfunny"
+  ],
+  "date": "2034-12-16",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 5,
+      "6": 1,
+      "7": 2
+    },
+    "by_first_letter": {
+      "D": 2,
+      "F": 12,
+      "R": 3,
+      "U": 1
+    },
+    "grid": {
+      "D": {
+        "4": 2
+      },
+      "F": {
+        "4": 6,
+        "5": 5,
+        "7": 1
+      },
+      "R": {
+        "4": 2,
+        "6": 1
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 1,
+      "DU": 1,
+      "FO": 6,
+      "FR": 1,
+      "FU": 5,
+      "RO": 1,
+      "RU": 2,
+      "UN": 1
+    }
+  }
+}

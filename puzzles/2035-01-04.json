@@ -1,0 +1,118 @@
+{
+  "pangram": "lynched",
+  "center_letter": "e",
+  "num_answers": 35,
+  "num_pangrams": 1,
+  "possible_points": 137,
+  "answer_pangrams": [
+    "lynched"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "cell",
+    "clench",
+    "clenched",
+    "cycle",
+    "cycled",
+    "decency",
+    "deed",
+    "deeded",
+    "dell",
+    "deny",
+    "dyed",
+    "eddy",
+    "ended",
+    "eyed",
+    "heed",
+    "heeded",
+    "heel",
+    "heeled",
+    "held",
+    "hell",
+    "hence",
+    "leech",
+    "leeched",
+    "lend",
+    "lynched",
+    "need",
+    "needed",
+    "needle",
+    "needled",
+    "needy",
+    "nene",
+    "yell",
+    "yelled"
+  ],
+  "date": "2035-01-04",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 6,
+      "6": 8,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 7,
+      "D": 6,
+      "E": 3,
+      "H": 7,
+      "L": 4,
+      "N": 6,
+      "Y": 2
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "8": 1
+      },
+      "D": {
+        "4": 4,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 2,
+        "5": 1
+      },
+      "H": {
+        "4": 4,
+        "5": 1,
+        "6": 2
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "7": 2
+      },
+      "N": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "Y": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 3,
+      "CL": 2,
+      "CY": 2,
+      "DE": 5,
+      "DY": 1,
+      "ED": 1,
+      "EN": 1,
+      "EY": 1,
+      "HE": 7,
+      "LE": 3,
+      "LY": 1,
+      "NE": 6,
+      "YE": 2
+    }
+  }
+}

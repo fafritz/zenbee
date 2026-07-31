@@ -1,0 +1,103 @@
+{
+  "pangram": "glorify",
+  "center_letter": "l",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 100,
+  "answer_pangrams": [
+    "glorify"
+  ],
+  "answers": [
+    "fill",
+    "filly",
+    "flog",
+    "floor",
+    "foil",
+    "folio",
+    "folly",
+    "fool",
+    "frill",
+    "frilly",
+    "giggly",
+    "gigolo",
+    "gill",
+    "girl",
+    "glorify",
+    "glory",
+    "golf",
+    "grill",
+    "groggily",
+    "igloo",
+    "lily",
+    "logo",
+    "loll",
+    "lorry",
+    "oily",
+    "olio",
+    "rill",
+    "roil",
+    "roll"
+  ],
+  "date": "2036-01-12",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 9,
+      "6": 3,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "F": 10,
+      "G": 9,
+      "I": 1,
+      "L": 4,
+      "O": 2,
+      "R": 3
+    },
+    "grid": {
+      "F": {
+        "4": 4,
+        "5": 5,
+        "6": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1
+      },
+      "O": {
+        "4": 2
+      },
+      "R": {
+        "4": 3
+      }
+    },
+    "two_letter_list": {
+      "FI": 2,
+      "FL": 2,
+      "FO": 4,
+      "FR": 2,
+      "GI": 4,
+      "GL": 2,
+      "GO": 1,
+      "GR": 2,
+      "IG": 1,
+      "LI": 1,
+      "LO": 3,
+      "OI": 1,
+      "OL": 1,
+      "RI": 1,
+      "RO": 2
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "pangram": "beatify",
+  "center_letter": "f",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 69,
+  "answer_pangrams": [
+    "beatify"
+  ],
+  "answers": [
+    "abaft",
+    "beatify",
+    "beef",
+    "beefy",
+    "befit",
+    "biff",
+    "effete",
+    "fate",
+    "fatty",
+    "feat",
+    "feet",
+    "feta",
+    "fete",
+    "fiat",
+    "fief",
+    "fife",
+    "fifty",
+    "iffy",
+    "taffeta",
+    "taffy",
+    "tiff"
+  ],
+  "date": "2037-10-28",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 6,
+      "6": 1,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 5,
+      "E": 1,
+      "F": 10,
+      "I": 1,
+      "T": 3
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "B": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "E": {
+        "6": 1
+      },
+      "F": {
+        "4": 8,
+        "5": 2
+      },
+      "I": {
+        "4": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "BE": 4,
+      "BI": 1,
+      "EF": 1,
+      "FA": 2,
+      "FE": 4,
+      "FI": 4,
+      "IF": 1,
+      "TA": 2,
+      "TI": 1
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "pangram": "product",
+  "center_letter": "c",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 82,
+  "answer_pangrams": [
+    "product"
+  ],
+  "answers": [
+    "coop",
+    "coot",
+    "cord",
+    "corrupt",
+    "coup",
+    "court",
+    "crop",
+    "croup",
+    "crud",
+    "curd",
+    "curt",
+    "cutout",
+    "cutup",
+    "doctor",
+    "duct",
+    "occur",
+    "outcrop",
+    "proctor",
+    "product",
+    "rococo"
+  ],
+  "date": "2030-03-21",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 4,
+      "6": 3,
+      "7": 4
+    },
+    "by_first_letter": {
+      "C": 13,
+      "D": 2,
+      "O": 2,
+      "P": 2,
+      "R": 1
+    },
+    "grid": {
+      "C": {
+        "4": 8,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 1,
+        "6": 1
+      },
+      "O": {
+        "5": 1,
+        "7": 1
+      },
+      "P": {
+        "7": 2
+      },
+      "R": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 6,
+      "CR": 3,
+      "CU": 4,
+      "DO": 1,
+      "DU": 1,
+      "OC": 1,
+      "OU": 1,
+      "PR": 2,
+      "RO": 1
+    }
+  }
+}

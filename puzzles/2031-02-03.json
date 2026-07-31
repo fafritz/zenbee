@@ -1,0 +1,150 @@
+{
+  "pangram": "temping",
+  "center_letter": "t",
+  "num_answers": 55,
+  "num_pangrams": 4,
+  "possible_points": 307,
+  "answer_pangrams": [
+    "impingement",
+    "pigment",
+    "temping",
+    "tempting"
+  ],
+  "answers": [
+    "eminent",
+    "emit",
+    "emitting",
+    "entente",
+    "gent",
+    "getting",
+    "ignite",
+    "igniting",
+    "imminent",
+    "impenitent",
+    "impingement",
+    "inept",
+    "intent",
+    "item",
+    "meet",
+    "meeting",
+    "mete",
+    "meting",
+    "mint",
+    "minting",
+    "mite",
+    "mitt",
+    "mitten",
+    "netting",
+    "nineteen",
+    "penitent",
+    "pent",
+    "petite",
+    "petting",
+    "pigment",
+    "pint",
+    "pipit",
+    "pitting",
+    "teeing",
+    "teem",
+    "teeming",
+    "teen",
+    "temp",
+    "temping",
+    "tempt",
+    "tempting",
+    "tenement",
+    "tenet",
+    "tent",
+    "tenting",
+    "tepee",
+    "time",
+    "timing",
+    "tine",
+    "tinge",
+    "tingeing",
+    "tinning",
+    "tint",
+    "tinting",
+    "tipping"
+  ],
+  "date": "2031-02-03",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 6,
+      "6": 7,
+      "7": 15,
+      "8": 8,
+      "10": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "E": 4,
+      "G": 2,
+      "I": 8,
+      "M": 9,
+      "N": 2,
+      "P": 8,
+      "T": 22
+    },
+    "grid": {
+      "E": {
+        "4": 1,
+        "7": 2,
+        "8": 1
+      },
+      "G": {
+        "4": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "8": 2,
+        "10": 1,
+        "11": 1
+      },
+      "M": {
+        "4": 5,
+        "6": 2,
+        "7": 2
+      },
+      "N": {
+        "7": 1,
+        "8": 1
+      },
+      "P": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 3,
+        "8": 1
+      },
+      "T": {
+        "4": 7,
+        "5": 4,
+        "6": 2,
+        "7": 6,
+        "8": 3
+      }
+    },
+    "two_letter_list": {
+      "EM": 3,
+      "EN": 1,
+      "GE": 2,
+      "IG": 2,
+      "IM": 3,
+      "IN": 2,
+      "IT": 1,
+      "ME": 4,
+      "MI": 5,
+      "NE": 1,
+      "NI": 1,
+      "PE": 4,
+      "PI": 4,
+      "TE": 13,
+      "TI": 9
+    }
+  }
+}

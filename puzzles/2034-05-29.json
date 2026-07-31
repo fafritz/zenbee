@@ -1,0 +1,126 @@
+{
+  "pangram": "harping",
+  "center_letter": "r",
+  "num_answers": 45,
+  "num_pangrams": 3,
+  "possible_points": 269,
+  "answer_pangrams": [
+    "graphing",
+    "harping",
+    "paragraphing"
+  ],
+  "answers": [
+    "agar",
+    "agrarian",
+    "airing",
+    "aria",
+    "arraign",
+    "arraigning",
+    "arranging",
+    "garaging",
+    "grain",
+    "graph",
+    "graphing",
+    "grin",
+    "grinning",
+    "grip",
+    "griping",
+    "gripping",
+    "hair",
+    "hairpin",
+    "hangar",
+    "haring",
+    "harp",
+    "harping",
+    "hiring",
+    "pair",
+    "pairing",
+    "paragraph",
+    "paragraphing",
+    "pariah",
+    "paring",
+    "parring",
+    "piranha",
+    "prig",
+    "raga",
+    "ragging",
+    "raging",
+    "rain",
+    "raining",
+    "rang",
+    "ranging",
+    "rapping",
+    "raring",
+    "rigging",
+    "ring",
+    "ringing",
+    "ripping"
+  ],
+  "date": "2034-05-29",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 2,
+      "6": 8,
+      "7": 14,
+      "8": 5,
+      "9": 2,
+      "10": 1,
+      "12": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "G": 9,
+      "H": 7,
+      "P": 9,
+      "R": 13
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 2,
+        "7": 1,
+        "8": 4
+      },
+      "H": {
+        "4": 2,
+        "6": 3,
+        "7": 2
+      },
+      "P": {
+        "4": 2,
+        "6": 2,
+        "7": 3,
+        "9": 1,
+        "12": 1
+      },
+      "R": {
+        "4": 4,
+        "6": 2,
+        "7": 7
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 1,
+      "AR": 4,
+      "GA": 1,
+      "GR": 8,
+      "HA": 6,
+      "HI": 1,
+      "PA": 7,
+      "PI": 1,
+      "PR": 1,
+      "RA": 9,
+      "RI": 4
+    }
+  }
+}

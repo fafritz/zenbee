@@ -1,0 +1,107 @@
+{
+  "pangram": "airlock",
+  "center_letter": "i",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 108,
+  "answer_pangrams": [
+    "airlock"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "airlock",
+    "alkali",
+    "aria",
+    "calico",
+    "caloric",
+    "cilia",
+    "circa",
+    "cirri",
+    "click",
+    "cocci",
+    "coil",
+    "colic",
+    "crick",
+    "kick",
+    "kill",
+    "kilo",
+    "lair",
+    "liar",
+    "lick",
+    "lilac",
+    "lira",
+    "loci",
+    "olio",
+    "racial",
+    "rail",
+    "rick",
+    "rill",
+    "roil",
+    "rollick"
+  ],
+  "date": "2030-07-08",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 8,
+      "6": 4,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 10,
+      "K": 3,
+      "L": 6,
+      "O": 1,
+      "R": 6
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 2,
+        "7": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 7,
+        "6": 1,
+        "7": 1
+      },
+      "K": {
+        "4": 3
+      },
+      "L": {
+        "4": 5,
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "R": {
+        "4": 4,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AI": 1,
+      "AL": 1,
+      "AR": 1,
+      "CA": 2,
+      "CI": 3,
+      "CL": 1,
+      "CO": 3,
+      "CR": 1,
+      "KI": 3,
+      "LA": 1,
+      "LI": 4,
+      "LO": 1,
+      "OL": 1,
+      "RA": 2,
+      "RI": 2,
+      "RO": 2
+    }
+  }
+}

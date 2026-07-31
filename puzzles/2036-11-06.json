@@ -1,0 +1,82 @@
+{
+  "pangram": "quondam",
+  "center_letter": "o",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 52,
+  "answer_pangrams": [
+    "quondam"
+  ],
+  "answers": [
+    "ammo",
+    "anon",
+    "dado",
+    "dodo",
+    "doodad",
+    "doom",
+    "dunno",
+    "moan",
+    "momma",
+    "mono",
+    "mood",
+    "moon",
+    "mound",
+    "nomad",
+    "noon",
+    "noun",
+    "quondam",
+    "undo"
+  ],
+  "date": "2036-11-06",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 4,
+      "6": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "D": 5,
+      "M": 6,
+      "N": 3,
+      "Q": 1,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2
+      },
+      "D": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "M": {
+        "4": 4,
+        "5": 2
+      },
+      "N": {
+        "4": 2,
+        "5": 1
+      },
+      "Q": {
+        "7": 1
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AM": 1,
+      "AN": 1,
+      "DA": 1,
+      "DO": 3,
+      "DU": 1,
+      "MO": 6,
+      "NO": 3,
+      "QU": 1,
+      "UN": 1
+    }
+  }
+}

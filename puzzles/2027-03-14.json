@@ -1,0 +1,129 @@
+{
+  "pangram": "include",
+  "center_letter": "u",
+  "num_answers": 45,
+  "num_pangrams": 2,
+  "possible_points": 232,
+  "answer_pangrams": [
+    "include",
+    "included"
+  ],
+  "answers": [
+    "clue",
+    "clued",
+    "cuddle",
+    "cuddled",
+    "cued",
+    "cull",
+    "culled",
+    "deduce",
+    "deduced",
+    "delude",
+    "deluded",
+    "denude",
+    "denuded",
+    "deuce",
+    "dude",
+    "duded",
+    "duel",
+    "dueled",
+    "dull",
+    "dulled",
+    "dunce",
+    "dune",
+    "dunned",
+    "elude",
+    "eluded",
+    "endue",
+    "endued",
+    "ennui",
+    "include",
+    "included",
+    "induce",
+    "induced",
+    "lieu",
+    "lucid",
+    "lull",
+    "lulled",
+    "lulu",
+    "nuclei",
+    "nucleic",
+    "null",
+    "uncle",
+    "undecided",
+    "undid",
+    "undue",
+    "unneeded"
+  ],
+  "date": "2027-03-14",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 11,
+      "6": 13,
+      "7": 7,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 7,
+      "D": 16,
+      "E": 5,
+      "I": 4,
+      "L": 5,
+      "N": 3,
+      "U": 5
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "D": {
+        "4": 4,
+        "5": 3,
+        "6": 6,
+        "7": 3
+      },
+      "E": {
+        "5": 3,
+        "6": 2
+      },
+      "I": {
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "U": {
+        "5": 3,
+        "8": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 2,
+      "CU": 5,
+      "DE": 7,
+      "DU": 9,
+      "EL": 2,
+      "EN": 3,
+      "IN": 4,
+      "LI": 1,
+      "LU": 4,
+      "NU": 3,
+      "UN": 5
+    }
+  }
+}

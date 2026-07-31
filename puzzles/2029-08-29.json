@@ -1,0 +1,127 @@
+{
+  "pangram": "pinched",
+  "center_letter": "n",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 208,
+  "answer_pangrams": [
+    "pinched"
+  ],
+  "answers": [
+    "chin",
+    "chinned",
+    "cinch",
+    "cinched",
+    "deepen",
+    "deepened",
+    "denied",
+    "depend",
+    "depended",
+    "dependence",
+    "dine",
+    "dined",
+    "dinned",
+    "ended",
+    "hence",
+    "hidden",
+    "hind",
+    "inch",
+    "inched",
+    "incidence",
+    "indeed",
+    "independence",
+    "need",
+    "needed",
+    "nene",
+    "nice",
+    "niche",
+    "niece",
+    "nine",
+    "nipped",
+    "peen",
+    "pence",
+    "penned",
+    "picnic",
+    "pinch",
+    "pinched",
+    "pine",
+    "pined",
+    "pinned",
+    "pippin"
+  ],
+  "date": "2029-08-29",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 9,
+      "6": 13,
+      "7": 3,
+      "8": 2,
+      "9": 1,
+      "10": 1,
+      "12": 1
+    },
+    "by_first_letter": {
+      "C": 4,
+      "D": 9,
+      "E": 1,
+      "H": 3,
+      "I": 5,
+      "N": 8,
+      "P": 10
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 1,
+        "7": 2
+      },
+      "D": {
+        "4": 1,
+        "5": 1,
+        "6": 4,
+        "8": 2,
+        "10": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "H": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 2,
+        "9": 1,
+        "12": 1
+      },
+      "N": {
+        "4": 4,
+        "5": 2,
+        "6": 2
+      },
+      "P": {
+        "4": 2,
+        "5": 3,
+        "6": 4,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 2,
+      "CI": 2,
+      "DE": 6,
+      "DI": 3,
+      "EN": 1,
+      "HE": 1,
+      "HI": 2,
+      "IN": 5,
+      "NE": 3,
+      "NI": 5,
+      "PE": 3,
+      "PI": 7
+    }
+  }
+}

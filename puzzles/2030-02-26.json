@@ -1,0 +1,104 @@
+{
+  "pangram": "uniform",
+  "center_letter": "o",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 100,
+  "answer_pangrams": [
+    "uniform"
+  ],
+  "answers": [
+    "form",
+    "forum",
+    "four",
+    "from",
+    "furor",
+    "info",
+    "inform",
+    "iron",
+    "minion",
+    "minor",
+    "mirror",
+    "mono",
+    "moon",
+    "moor",
+    "morn",
+    "moron",
+    "mourn",
+    "nonunion",
+    "noon",
+    "norm",
+    "noun",
+    "onion",
+    "roof",
+    "room",
+    "rumor",
+    "runoff",
+    "uniform",
+    "union"
+  ],
+  "date": "2030-02-26",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 8,
+      "6": 4,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "F": 5,
+      "I": 3,
+      "M": 9,
+      "N": 4,
+      "O": 1,
+      "R": 4,
+      "U": 2
+    },
+    "grid": {
+      "F": {
+        "4": 3,
+        "5": 2
+      },
+      "I": {
+        "4": 2,
+        "6": 1
+      },
+      "M": {
+        "4": 4,
+        "5": 3,
+        "6": 2
+      },
+      "N": {
+        "4": 3,
+        "8": 1
+      },
+      "O": {
+        "5": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "U": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "FO": 3,
+      "FR": 1,
+      "FU": 1,
+      "IN": 2,
+      "IR": 1,
+      "MI": 3,
+      "MO": 6,
+      "NO": 4,
+      "ON": 1,
+      "RO": 2,
+      "RU": 2,
+      "UN": 2
+    }
+  }
+}

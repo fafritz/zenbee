@@ -1,0 +1,135 @@
+{
+  "pangram": "cowhide",
+  "center_letter": "e",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 216,
+  "answer_pangrams": [
+    "cowhide"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "chew",
+    "chewed",
+    "chide",
+    "chided",
+    "choice",
+    "chowed",
+    "code",
+    "coded",
+    "coed",
+    "cooed",
+    "cowed",
+    "cowhide",
+    "decide",
+    "decided",
+    "decode",
+    "decoded",
+    "deed",
+    "deeded",
+    "deice",
+    "deiced",
+    "dice",
+    "diced",
+    "died",
+    "diode",
+    "echo",
+    "echoed",
+    "eddied",
+    "heed",
+    "heeded",
+    "hewed",
+    "hide",
+    "hided",
+    "hied",
+    "hoed",
+    "hooded",
+    "hoodie",
+    "hoodooed",
+    "iced",
+    "owed",
+    "wedded",
+    "weed",
+    "weeded",
+    "whew",
+    "wide",
+    "widowed",
+    "wooded",
+    "wooed",
+    "wowed"
+  ],
+  "date": "2028-09-05",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 12,
+      "6": 16,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 14,
+      "D": 12,
+      "E": 3,
+      "H": 10,
+      "I": 1,
+      "O": 1,
+      "W": 9
+    },
+    "grid": {
+      "C": {
+        "4": 4,
+        "5": 5,
+        "6": 4,
+        "7": 1
+      },
+      "D": {
+        "4": 3,
+        "5": 3,
+        "6": 4,
+        "7": 2
+      },
+      "E": {
+        "4": 1,
+        "6": 2
+      },
+      "H": {
+        "4": 4,
+        "5": 2,
+        "6": 3,
+        "8": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "W": {
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 2,
+      "CH": 6,
+      "CO": 6,
+      "DE": 8,
+      "DI": 4,
+      "EC": 2,
+      "ED": 1,
+      "HE": 3,
+      "HI": 3,
+      "HO": 4,
+      "IC": 1,
+      "OW": 1,
+      "WE": 3,
+      "WH": 1,
+      "WI": 2,
+      "WO": 3
+    }
+  }
+}

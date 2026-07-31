@@ -1,0 +1,89 @@
+{
+  "pangram": "grandly",
+  "center_letter": "l",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 103,
+  "answer_pangrams": [
+    "grandly"
+  ],
+  "answers": [
+    "alga",
+    "allay",
+    "ally",
+    "anal",
+    "dally",
+    "dryly",
+    "gala",
+    "gall",
+    "gangland",
+    "garland",
+    "glad",
+    "gladly",
+    "gland",
+    "gnarly",
+    "grandly",
+    "lady",
+    "laggard",
+    "land",
+    "landlady",
+    "lanyard",
+    "lard",
+    "raglan",
+    "rally"
+  ],
+  "date": "2031-10-03",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 5,
+      "6": 3,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 4,
+      "D": 2,
+      "G": 9,
+      "L": 6,
+      "R": 2
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 1
+      },
+      "D": {
+        "5": 2
+      },
+      "G": {
+        "4": 3,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 1
+      },
+      "L": {
+        "4": 3,
+        "7": 2,
+        "8": 1
+      },
+      "R": {
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 3,
+      "AN": 1,
+      "DA": 1,
+      "DR": 1,
+      "GA": 4,
+      "GL": 3,
+      "GN": 1,
+      "GR": 1,
+      "LA": 6,
+      "RA": 2
+    }
+  }
+}

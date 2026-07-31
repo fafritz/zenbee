@@ -1,0 +1,88 @@
+{
+  "pangram": "chintzy",
+  "center_letter": "i",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 71,
+  "answer_pangrams": [
+    "chintzy"
+  ],
+  "answers": [
+    "chic",
+    "chin",
+    "chintz",
+    "chintzy",
+    "chit",
+    "cinch",
+    "city",
+    "cynic",
+    "hint",
+    "hitch",
+    "inch",
+    "itch",
+    "itchy",
+    "ninny",
+    "ninth",
+    "thin",
+    "tinny",
+    "tint",
+    "tiny",
+    "tizzy",
+    "zinc"
+  ],
+  "date": "2036-05-30",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 8,
+      "6": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 8,
+      "H": 2,
+      "I": 3,
+      "N": 2,
+      "T": 5,
+      "Z": 1
+    },
+    "grid": {
+      "C": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 1,
+        "5": 1
+      },
+      "I": {
+        "4": 2,
+        "5": 1
+      },
+      "N": {
+        "5": 2
+      },
+      "T": {
+        "4": 3,
+        "5": 2
+      },
+      "Z": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 5,
+      "CI": 2,
+      "CY": 1,
+      "HI": 2,
+      "IN": 1,
+      "IT": 2,
+      "NI": 2,
+      "TH": 1,
+      "TI": 4,
+      "ZI": 1
+    }
+  }
+}

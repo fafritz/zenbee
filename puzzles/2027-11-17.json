@@ -1,0 +1,111 @@
+{
+  "pangram": "conduit",
+  "center_letter": "u",
+  "num_answers": 28,
+  "num_pangrams": 3,
+  "possible_points": 168,
+  "answer_pangrams": [
+    "conduction",
+    "conduit",
+    "induction"
+  ],
+  "answers": [
+    "coconut",
+    "conduct",
+    "conduction",
+    "conduit",
+    "count",
+    "cutout",
+    "donut",
+    "duct",
+    "dunno",
+    "induct",
+    "induction",
+    "intuit",
+    "intuition",
+    "nonunion",
+    "noun",
+    "nuncio",
+    "outdid",
+    "outdo",
+    "tout",
+    "tuition",
+    "tunic",
+    "tutu",
+    "unction",
+    "uncut",
+    "undid",
+    "undo",
+    "union",
+    "unit"
+  ],
+  "date": "2027-11-17",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 8,
+      "6": 5,
+      "7": 5,
+      "8": 1,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 6,
+      "D": 3,
+      "I": 4,
+      "N": 3,
+      "O": 2,
+      "T": 4,
+      "U": 6
+    },
+    "grid": {
+      "C": {
+        "5": 1,
+        "6": 1,
+        "7": 3,
+        "10": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 2
+      },
+      "I": {
+        "6": 2,
+        "9": 2
+      },
+      "N": {
+        "4": 1,
+        "6": 1,
+        "8": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "U": {
+        "4": 2,
+        "5": 3,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 5,
+      "CU": 1,
+      "DO": 1,
+      "DU": 2,
+      "IN": 4,
+      "NO": 2,
+      "NU": 1,
+      "OU": 2,
+      "TO": 1,
+      "TU": 3,
+      "UN": 6
+    }
+  }
+}

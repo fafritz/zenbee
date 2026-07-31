@@ -1,0 +1,102 @@
+{
+  "pangram": "caribou",
+  "center_letter": "r",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 104,
+  "answer_pangrams": [
+    "caribou"
+  ],
+  "answers": [
+    "arbor",
+    "aria",
+    "aura",
+    "barb",
+    "barbacoa",
+    "barbaric",
+    "barrio",
+    "boar",
+    "boor",
+    "briar",
+    "burr",
+    "burro",
+    "caribou",
+    "circa",
+    "cirri",
+    "cobra",
+    "crab",
+    "crib",
+    "curb",
+    "curio",
+    "occur",
+    "rabbi",
+    "roar",
+    "rococo",
+    "rubric",
+    "uric"
+  ],
+  "date": "2038-09-06",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 9,
+      "6": 3,
+      "7": 1,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 9,
+      "C": 8,
+      "O": 1,
+      "R": 4,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "B": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "8": 2
+      },
+      "C": {
+        "4": 3,
+        "5": 4,
+        "7": 1
+      },
+      "O": {
+        "5": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AR": 2,
+      "AU": 1,
+      "BA": 4,
+      "BO": 2,
+      "BR": 1,
+      "BU": 2,
+      "CA": 1,
+      "CI": 2,
+      "CO": 1,
+      "CR": 2,
+      "CU": 2,
+      "OC": 1,
+      "RA": 1,
+      "RO": 2,
+      "RU": 1,
+      "UR": 1
+    }
+  }
+}

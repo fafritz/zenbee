@@ -1,0 +1,130 @@
+{
+  "pangram": "tackled",
+  "center_letter": "c",
+  "num_answers": 49,
+  "num_pangrams": 1,
+  "possible_points": 247,
+  "answer_pangrams": [
+    "tackled"
+  ],
+  "answers": [
+    "accede",
+    "acceded",
+    "aced",
+    "acetate",
+    "acted",
+    "attack",
+    "attacked",
+    "cackle",
+    "cackled",
+    "cadet",
+    "cake",
+    "caked",
+    "calked",
+    "call",
+    "calla",
+    "called",
+    "catcall",
+    "catcalled",
+    "catted",
+    "cattle",
+    "cede",
+    "ceded",
+    "cell",
+    "clack",
+    "clacked",
+    "clad",
+    "cleat",
+    "decade",
+    "decal",
+    "deck",
+    "decked",
+    "deckle",
+    "detect",
+    "detected",
+    "eclat",
+    "elect",
+    "elected",
+    "lace",
+    "laced",
+    "lack",
+    "lacked",
+    "lactate",
+    "lactated",
+    "tack",
+    "tacked",
+    "tackle",
+    "tackled",
+    "tact",
+    "talc"
+  ],
+  "date": "2031-07-24",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 11,
+      "6": 14,
+      "7": 8,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "C": 20,
+      "D": 7,
+      "E": 3,
+      "L": 6,
+      "T": 6
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 1
+      },
+      "C": {
+        "4": 5,
+        "5": 6,
+        "6": 5,
+        "7": 3,
+        "9": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 1,
+        "6": 4,
+        "8": 1
+      },
+      "E": {
+        "5": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 3,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 5,
+      "AT": 2,
+      "CA": 13,
+      "CE": 3,
+      "CL": 4,
+      "DE": 7,
+      "EC": 1,
+      "EL": 2,
+      "LA": 6,
+      "TA": 6
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "pangram": "plucked",
+  "center_letter": "d",
+  "num_answers": 54,
+  "num_pangrams": 1,
+  "possible_points": 260,
+  "answer_pangrams": [
+    "plucked"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "clucked",
+    "clued",
+    "cuddle",
+    "cuddled",
+    "cued",
+    "culled",
+    "cupped",
+    "deck",
+    "decked",
+    "deckle",
+    "deduce",
+    "deduced",
+    "deed",
+    "deeded",
+    "deep",
+    "dell",
+    "delude",
+    "deluded",
+    "deuce",
+    "duck",
+    "ducked",
+    "dude",
+    "duded",
+    "duel",
+    "dueled",
+    "duke",
+    "dull",
+    "dulled",
+    "dupe",
+    "duped",
+    "eked",
+    "elude",
+    "eluded",
+    "keeled",
+    "lucked",
+    "lulled",
+    "pecked",
+    "peddle",
+    "peddled",
+    "peed",
+    "peeked",
+    "peeled",
+    "peeped",
+    "pepped",
+    "plucked",
+    "puddle",
+    "puddled",
+    "puked",
+    "pulled",
+    "pulped",
+    "pupped",
+    "upped"
+  ],
+  "date": "2038-08-31",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 8,
+      "6": 25,
+      "7": 7
+    },
+    "by_first_letter": {
+      "C": 9,
+      "D": 23,
+      "E": 3,
+      "K": 1,
+      "L": 2,
+      "P": 15,
+      "U": 1
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "7": 2
+      },
+      "D": {
+        "4": 10,
+        "5": 3,
+        "6": 8,
+        "7": 2
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "K": {
+        "6": 1
+      },
+      "L": {
+        "6": 2
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "6": 10,
+        "7": 3
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 2,
+      "CL": 2,
+      "CU": 5,
+      "DE": 12,
+      "DU": 11,
+      "EK": 1,
+      "EL": 2,
+      "KE": 1,
+      "LU": 2,
+      "PE": 8,
+      "PL": 1,
+      "PU": 6,
+      "UP": 1
+    }
+  }
+}

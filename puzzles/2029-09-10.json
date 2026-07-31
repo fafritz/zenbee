@@ -1,0 +1,80 @@
+{
+  "pangram": "pinhole",
+  "center_letter": "h",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 89,
+  "answer_pangrams": [
+    "pinhole"
+  ],
+  "answers": [
+    "heel",
+    "hell",
+    "hellhole",
+    "hellion",
+    "hello",
+    "help",
+    "helpline",
+    "hill",
+    "hippie",
+    "hippo",
+    "hole",
+    "hone",
+    "hoop",
+    "hope",
+    "iphone",
+    "loophole",
+    "peephole",
+    "phone",
+    "pinhole",
+    "pooh"
+  ],
+  "date": "2029-09-10",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 3,
+      "6": 2,
+      "7": 2,
+      "8": 4
+    },
+    "by_first_letter": {
+      "H": 14,
+      "I": 1,
+      "L": 1,
+      "P": 4
+    },
+    "grid": {
+      "H": {
+        "4": 8,
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "8": 2
+      },
+      "I": {
+        "6": 1
+      },
+      "L": {
+        "8": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "HE": 7,
+      "HI": 3,
+      "HO": 4,
+      "IP": 1,
+      "LO": 1,
+      "PE": 1,
+      "PH": 1,
+      "PI": 1,
+      "PO": 1
+    }
+  }
+}

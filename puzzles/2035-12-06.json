@@ -1,0 +1,82 @@
+{
+  "pangram": "meowing",
+  "center_letter": "m",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 100,
+  "answer_pangrams": [
+    "meowing"
+  ],
+  "answers": [
+    "gimme",
+    "gnome",
+    "meme",
+    "memo",
+    "meow",
+    "meowing",
+    "mewing",
+    "mien",
+    "mime",
+    "miming",
+    "mine",
+    "mini",
+    "minim",
+    "mining",
+    "minion",
+    "minnow",
+    "mono",
+    "mooing",
+    "moon",
+    "mooning",
+    "mowing",
+    "nominee",
+    "omen",
+    "women"
+  ],
+  "date": "2035-12-06",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 4,
+      "6": 7,
+      "7": 3
+    },
+    "by_first_letter": {
+      "G": 2,
+      "M": 19,
+      "N": 1,
+      "O": 1,
+      "W": 1
+    },
+    "grid": {
+      "G": {
+        "5": 2
+      },
+      "M": {
+        "4": 9,
+        "5": 1,
+        "6": 7,
+        "7": 2
+      },
+      "N": {
+        "7": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "W": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 1,
+      "GN": 1,
+      "ME": 5,
+      "MI": 9,
+      "MO": 5,
+      "NO": 1,
+      "OM": 1,
+      "WO": 1
+    }
+  }
+}

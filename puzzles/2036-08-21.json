@@ -1,0 +1,106 @@
+{
+  "pangram": "curving",
+  "center_letter": "g",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 173,
+  "answer_pangrams": [
+    "curving"
+  ],
+  "answers": [
+    "cringing",
+    "cuing",
+    "cunning",
+    "curing",
+    "curving",
+    "gigging",
+    "ginning",
+    "giving",
+    "grin",
+    "grinning",
+    "gunning",
+    "gunrunning",
+    "guru",
+    "icing",
+    "incurring",
+    "inning",
+    "inuring",
+    "ricing",
+    "rigging",
+    "ring",
+    "ringing",
+    "ruing",
+    "ruining",
+    "rung",
+    "running",
+    "urging",
+    "vicing",
+    "virgin"
+  ],
+  "date": "2036-08-21",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 3,
+      "6": 7,
+      "7": 10,
+      "8": 2,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 5,
+      "G": 8,
+      "I": 4,
+      "R": 8,
+      "U": 1,
+      "V": 2
+    },
+    "grid": {
+      "C": {
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "G": {
+        "4": 2,
+        "6": 1,
+        "7": 3,
+        "8": 1,
+        "10": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 4
+      },
+      "U": {
+        "6": 1
+      },
+      "V": {
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "CR": 1,
+      "CU": 4,
+      "GI": 3,
+      "GR": 2,
+      "GU": 3,
+      "IC": 1,
+      "IN": 3,
+      "RI": 4,
+      "RU": 4,
+      "UR": 1,
+      "VI": 2
+    }
+  }
+}

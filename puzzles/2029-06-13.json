@@ -1,0 +1,125 @@
+{
+  "pangram": "unpaved",
+  "center_letter": "p",
+  "num_answers": 43,
+  "num_pangrams": 1,
+  "possible_points": 194,
+  "answer_pangrams": [
+    "unpaved"
+  ],
+  "answers": [
+    "aped",
+    "append",
+    "appended",
+    "deadpan",
+    "deadpanned",
+    "deep",
+    "deepen",
+    "deepened",
+    "depend",
+    "depended",
+    "dupe",
+    "duped",
+    "epee",
+    "nape",
+    "napped",
+    "neap",
+    "padded",
+    "paean",
+    "panda",
+    "pane",
+    "panned",
+    "papa",
+    "pave",
+    "paved",
+    "peed",
+    "peen",
+    "peep",
+    "peeped",
+    "peeve",
+    "peeved",
+    "penned",
+    "pepped",
+    "punned",
+    "pupa",
+    "pupae",
+    "pupped",
+    "unpaved",
+    "upend",
+    "upended",
+    "upped",
+    "vape",
+    "vaped",
+    "veep"
+  ],
+  "date": "2029-06-13",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 9,
+      "6": 12,
+      "7": 3,
+      "8": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 9,
+      "E": 1,
+      "N": 3,
+      "P": 20,
+      "U": 4,
+      "V": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1,
+        "8": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 2,
+        "10": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "N": {
+        "4": 2,
+        "6": 1
+      },
+      "P": {
+        "4": 7,
+        "5": 5,
+        "6": 8
+      },
+      "U": {
+        "5": 2,
+        "7": 2
+      },
+      "V": {
+        "4": 2,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AP": 3,
+      "DE": 7,
+      "DU": 2,
+      "EP": 1,
+      "NA": 2,
+      "NE": 1,
+      "PA": 8,
+      "PE": 8,
+      "PU": 4,
+      "UN": 1,
+      "UP": 3,
+      "VA": 2,
+      "VE": 1
+    }
+  }
+}

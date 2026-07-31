@@ -1,0 +1,103 @@
+{
+  "pangram": "camping",
+  "center_letter": "c",
+  "num_answers": 27,
+  "num_pangrams": 3,
+  "possible_points": 169,
+  "answer_pangrams": [
+    "campaign",
+    "campaigning",
+    "camping"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acing",
+    "caging",
+    "camp",
+    "campaign",
+    "campaigning",
+    "camping",
+    "cancan",
+    "caning",
+    "canna",
+    "canning",
+    "capping",
+    "icing",
+    "macing",
+    "magic",
+    "magician",
+    "maniac",
+    "manic",
+    "mica",
+    "mimic",
+    "mincing",
+    "niacin",
+    "pacing",
+    "panic",
+    "pica",
+    "picnic"
+  ],
+  "date": "2034-09-08",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 7,
+      "6": 9,
+      "7": 4,
+      "8": 2,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 10,
+      "I": 1,
+      "M": 8,
+      "N": 1,
+      "P": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 1,
+        "11": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "M": {
+        "4": 1,
+        "5": 3,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "CA": 10,
+      "IC": 1,
+      "MA": 5,
+      "MI": 3,
+      "NI": 1,
+      "PA": 2,
+      "PI": 2
+    }
+  }
+}

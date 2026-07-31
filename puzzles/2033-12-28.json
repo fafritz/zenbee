@@ -1,0 +1,112 @@
+{
+  "pangram": "echoing",
+  "center_letter": "e",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 130,
+  "answer_pangrams": [
+    "echoing"
+  ],
+  "answers": [
+    "choice",
+    "cone",
+    "echo",
+    "echoing",
+    "egging",
+    "eggnog",
+    "engine",
+    "geeing",
+    "gene",
+    "genie",
+    "genii",
+    "gone",
+    "hence",
+    "hieing",
+    "hinge",
+    "hoeing",
+    "hone",
+    "innocence",
+    "neigh",
+    "neighing",
+    "nene",
+    "neocon",
+    "neon",
+    "nice",
+    "niche",
+    "niece",
+    "nine",
+    "nonce",
+    "none",
+    "once"
+  ],
+  "date": "2033-12-28",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 8,
+      "6": 8,
+      "7": 1,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 2,
+      "E": 5,
+      "G": 5,
+      "H": 5,
+      "I": 1,
+      "N": 11,
+      "O": 1
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "6": 1
+      },
+      "E": {
+        "4": 1,
+        "6": 3,
+        "7": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 2,
+        "6": 1
+      },
+      "H": {
+        "4": 1,
+        "5": 2,
+        "6": 2
+      },
+      "I": {
+        "9": 1
+      },
+      "N": {
+        "4": 5,
+        "5": 4,
+        "6": 1,
+        "8": 1
+      },
+      "O": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 1,
+      "CO": 1,
+      "EC": 2,
+      "EG": 2,
+      "EN": 1,
+      "GE": 4,
+      "GO": 1,
+      "HE": 1,
+      "HI": 2,
+      "HO": 2,
+      "IN": 1,
+      "NE": 5,
+      "NI": 4,
+      "NO": 2,
+      "ON": 1
+    }
+  }
+}

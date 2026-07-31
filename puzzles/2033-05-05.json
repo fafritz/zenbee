@@ -1,0 +1,95 @@
+{
+  "pangram": "okaying",
+  "center_letter": "k",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 88,
+  "answer_pangrams": [
+    "okaying"
+  ],
+  "answers": [
+    "akin",
+    "ginkgo",
+    "inking",
+    "inky",
+    "kayak",
+    "kayaking",
+    "king",
+    "kink",
+    "kinking",
+    "koan",
+    "kook",
+    "kooky",
+    "nook",
+    "oink",
+    "oinking",
+    "okay",
+    "okaying",
+    "yakking",
+    "yank",
+    "yanking",
+    "yoking"
+  ],
+  "date": "2033-05-05",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 2,
+      "6": 3,
+      "7": 5,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "G": 1,
+      "I": 2,
+      "K": 8,
+      "N": 1,
+      "O": 4,
+      "Y": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "G": {
+        "6": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 1
+      },
+      "K": {
+        "4": 4,
+        "5": 2,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "O": {
+        "4": 2,
+        "7": 2
+      },
+      "Y": {
+        "4": 1,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AK": 1,
+      "GI": 1,
+      "IN": 2,
+      "KA": 2,
+      "KI": 3,
+      "KO": 3,
+      "NO": 1,
+      "OI": 2,
+      "OK": 2,
+      "YA": 3,
+      "YO": 1
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "pangram": "coinage",
+  "center_letter": "g",
+  "num_answers": 47,
+  "num_pangrams": 3,
+  "possible_points": 282,
+  "answer_pangrams": [
+    "canoeing",
+    "coinage",
+    "oceangoing"
+  ],
+  "answers": [
+    "acing",
+    "again",
+    "aging",
+    "agog",
+    "angina",
+    "cage",
+    "caging",
+    "caning",
+    "canning",
+    "cannoning",
+    "canoeing",
+    "cocooning",
+    "cognac",
+    "coinage",
+    "coining",
+    "conga",
+    "congaing",
+    "conning",
+    "cooing",
+    "egging",
+    "eggnog",
+    "engage",
+    "engaging",
+    "engine",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "geeing",
+    "gene",
+    "genie",
+    "genii",
+    "gigging",
+    "ginning",
+    "going",
+    "gone",
+    "gong",
+    "gonging",
+    "gonna",
+    "goon",
+    "icing",
+    "inning",
+    "nagging",
+    "noggin",
+    "oceangoing",
+    "ongoing"
+  ],
+  "date": "2029-07-06",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 9,
+      "6": 12,
+      "7": 12,
+      "8": 3,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 14,
+      "E": 5,
+      "G": 17,
+      "I": 2,
+      "N": 2,
+      "O": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 1,
+        "6": 4,
+        "7": 4,
+        "8": 2,
+        "9": 2
+      },
+      "E": {
+        "6": 4,
+        "8": 1
+      },
+      "G": {
+        "4": 6,
+        "5": 4,
+        "6": 1,
+        "7": 6
+      },
+      "I": {
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "6": 1,
+        "7": 1
+      },
+      "O": {
+        "7": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AG": 3,
+      "AN": 1,
+      "CA": 6,
+      "CO": 8,
+      "EG": 2,
+      "EN": 3,
+      "GA": 5,
+      "GE": 4,
+      "GI": 2,
+      "GO": 6,
+      "IC": 1,
+      "IN": 1,
+      "NA": 1,
+      "NO": 1,
+      "OC": 1,
+      "ON": 1
+    }
+  }
+}

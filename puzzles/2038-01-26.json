@@ -1,0 +1,134 @@
+{
+  "pangram": "helping",
+  "center_letter": "g",
+  "num_answers": 49,
+  "num_pangrams": 1,
+  "possible_points": 282,
+  "answer_pangrams": [
+    "helping"
+  ],
+  "answers": [
+    "egging",
+    "engine",
+    "geeing",
+    "gelling",
+    "gene",
+    "genie",
+    "genii",
+    "gigging",
+    "giggle",
+    "giggling",
+    "gill",
+    "ginning",
+    "glee",
+    "glen",
+    "heeling",
+    "helping",
+    "hieing",
+    "high",
+    "hing",
+    "hinge",
+    "hinging",
+    "hipping",
+    "inning",
+    "legging",
+    "liege",
+    "lining",
+    "negligee",
+    "neigh",
+    "neighing",
+    "niggle",
+    "niggling",
+    "nigh",
+    "nipping",
+    "peeing",
+    "peeling",
+    "peeping",
+    "penning",
+    "pepping",
+    "pieing",
+    "pigging",
+    "pigpen",
+    "piling",
+    "pilling",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "piping",
+    "pipping"
+  ],
+  "date": "2038-01-26",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 5,
+      "6": 14,
+      "7": 18,
+      "8": 4
+    },
+    "by_first_letter": {
+      "E": 2,
+      "G": 12,
+      "H": 8,
+      "I": 1,
+      "L": 3,
+      "N": 7,
+      "P": 16
+    },
+    "grid": {
+      "E": {
+        "6": 2
+      },
+      "G": {
+        "4": 4,
+        "5": 2,
+        "6": 2,
+        "7": 3,
+        "8": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 4
+      },
+      "I": {
+        "6": 1
+      },
+      "L": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 3
+      },
+      "P": {
+        "4": 1,
+        "6": 6,
+        "7": 9
+      }
+    },
+    "two_letter_list": {
+      "EG": 1,
+      "EN": 1,
+      "GE": 5,
+      "GI": 5,
+      "GL": 2,
+      "HE": 2,
+      "HI": 6,
+      "IN": 1,
+      "LE": 1,
+      "LI": 2,
+      "NE": 3,
+      "NI": 4,
+      "PE": 5,
+      "PI": 11
+    }
+  }
+}

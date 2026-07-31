@@ -1,0 +1,88 @@
+{
+  "pangram": "flighty",
+  "center_letter": "l",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 97,
+  "answer_pangrams": [
+    "flighty"
+  ],
+  "answers": [
+    "fill",
+    "filly",
+    "filth",
+    "filthy",
+    "fitly",
+    "flight",
+    "flighty",
+    "flit",
+    "giggly",
+    "gill",
+    "gilt",
+    "highlight",
+    "highly",
+    "hill",
+    "hilly",
+    "hilt",
+    "lift",
+    "light",
+    "lightly",
+    "lilt",
+    "lily",
+    "tightly",
+    "till",
+    "tilt"
+  ],
+  "date": "2028-01-12",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 5,
+      "6": 4,
+      "7": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "F": 8,
+      "G": 3,
+      "H": 5,
+      "L": 5,
+      "T": 3
+    },
+    "grid": {
+      "F": {
+        "4": 2,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "G": {
+        "4": 2,
+        "6": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "FI": 5,
+      "FL": 3,
+      "GI": 3,
+      "HI": 5,
+      "LI": 5,
+      "TI": 3
+    }
+  }
+}

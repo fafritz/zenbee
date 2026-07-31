@@ -1,0 +1,93 @@
+{
+  "pangram": "padlock",
+  "center_letter": "p",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 70,
+  "answer_pangrams": [
+    "padlock"
+  ],
+  "answers": [
+    "alpaca",
+    "appall",
+    "capo",
+    "clap",
+    "clop",
+    "coop",
+    "dollop",
+    "kapok",
+    "loop",
+    "opal",
+    "pack",
+    "paddock",
+    "padlock",
+    "pall",
+    "papa",
+    "papal",
+    "plod",
+    "plop",
+    "pock",
+    "polka",
+    "poll",
+    "polo",
+    "pool",
+    "poop"
+  ],
+  "date": "2038-05-11",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 3,
+      "6": 3,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 4,
+      "D": 1,
+      "K": 1,
+      "L": 1,
+      "O": 1,
+      "P": 14
+    },
+    "grid": {
+      "A": {
+        "6": 2
+      },
+      "C": {
+        "4": 4
+      },
+      "D": {
+        "6": 1
+      },
+      "K": {
+        "5": 1
+      },
+      "L": {
+        "4": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 10,
+        "5": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AP": 1,
+      "CA": 1,
+      "CL": 2,
+      "CO": 1,
+      "DO": 1,
+      "KA": 1,
+      "LO": 1,
+      "OP": 1,
+      "PA": 6,
+      "PL": 2,
+      "PO": 6
+    }
+  }
+}

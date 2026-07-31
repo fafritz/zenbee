@@ -1,0 +1,90 @@
+{
+  "pangram": "fetlock",
+  "center_letter": "c",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 103,
+  "answer_pangrams": [
+    "fetlock"
+  ],
+  "answers": [
+    "cell",
+    "cello",
+    "clef",
+    "cleft",
+    "clock",
+    "clot",
+    "cockle",
+    "coffee",
+    "coke",
+    "collect",
+    "colt",
+    "cook",
+    "cool",
+    "coot",
+    "cote",
+    "effect",
+    "elect",
+    "fetlock",
+    "fleck",
+    "fleece",
+    "flock",
+    "lock",
+    "locket",
+    "loco",
+    "ocelot",
+    "octet"
+  ],
+  "date": "2034-09-09",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 7,
+      "6": 6,
+      "7": 2
+    },
+    "by_first_letter": {
+      "C": 15,
+      "E": 2,
+      "F": 4,
+      "L": 3,
+      "O": 2
+    },
+    "grid": {
+      "C": {
+        "4": 9,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "F": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 2,
+        "6": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 2,
+      "CL": 4,
+      "CO": 9,
+      "EF": 1,
+      "EL": 1,
+      "FE": 1,
+      "FL": 3,
+      "LO": 3,
+      "OC": 2
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "pangram": "glamour",
+  "center_letter": "a",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 149,
+  "answer_pangrams": [
+    "glamour"
+  ],
+  "answers": [
+    "agar",
+    "agog",
+    "alarm",
+    "alga",
+    "alum",
+    "amalgam",
+    "ammo",
+    "amoral",
+    "amour",
+    "armor",
+    "aroma",
+    "augur",
+    "aura",
+    "aural",
+    "gala",
+    "gall",
+    "gamma",
+    "glamour",
+    "goal",
+    "gram",
+    "grammar",
+    "lama",
+    "largo",
+    "llama",
+    "loam",
+    "luau",
+    "magma",
+    "mall",
+    "mama",
+    "mamma",
+    "mammal",
+    "mammogram",
+    "maul",
+    "molar",
+    "momma",
+    "moral",
+    "mural",
+    "oral",
+    "raga",
+    "roam",
+    "roar",
+    "rural"
+  ],
+  "date": "2038-11-04",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 16,
+      "6": 2,
+      "7": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 14,
+      "G": 7,
+      "L": 5,
+      "M": 11,
+      "O": 1,
+      "R": 4
+    },
+    "grid": {
+      "A": {
+        "4": 6,
+        "5": 6,
+        "6": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 4,
+        "5": 1,
+        "7": 2
+      },
+      "L": {
+        "4": 3,
+        "5": 2
+      },
+      "M": {
+        "4": 3,
+        "5": 6,
+        "6": 1,
+        "9": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AL": 3,
+      "AM": 4,
+      "AR": 2,
+      "AU": 3,
+      "GA": 3,
+      "GL": 1,
+      "GO": 1,
+      "GR": 2,
+      "LA": 2,
+      "LL": 1,
+      "LO": 1,
+      "LU": 1,
+      "MA": 7,
+      "MO": 3,
+      "MU": 1,
+      "OR": 1,
+      "RA": 1,
+      "RO": 2,
+      "RU": 1
+    }
+  }
+}

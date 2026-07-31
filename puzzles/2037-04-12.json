@@ -1,0 +1,91 @@
+{
+  "pangram": "furlong",
+  "center_letter": "o",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 71,
+  "answer_pangrams": [
+    "furlong"
+  ],
+  "answers": [
+    "flog",
+    "floor",
+    "flour",
+    "fool",
+    "forgo",
+    "forlorn",
+    "foul",
+    "four",
+    "frog",
+    "furlong",
+    "furor",
+    "golf",
+    "gong",
+    "goof",
+    "goon",
+    "grog",
+    "logo",
+    "loll",
+    "long",
+    "loon",
+    "noon",
+    "noun",
+    "roll",
+    "roof",
+    "runoff",
+    "unroll"
+  ],
+  "date": "2037-04-12",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 4,
+      "6": 2,
+      "7": 2
+    },
+    "by_first_letter": {
+      "F": 11,
+      "G": 5,
+      "L": 4,
+      "N": 2,
+      "R": 3,
+      "U": 1
+    },
+    "grid": {
+      "F": {
+        "4": 5,
+        "5": 4,
+        "7": 2
+      },
+      "G": {
+        "4": 5
+      },
+      "L": {
+        "4": 4
+      },
+      "N": {
+        "4": 2
+      },
+      "R": {
+        "4": 2,
+        "6": 1
+      },
+      "U": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "FL": 3,
+      "FO": 5,
+      "FR": 1,
+      "FU": 2,
+      "GO": 4,
+      "GR": 1,
+      "LO": 4,
+      "NO": 2,
+      "RO": 2,
+      "RU": 1,
+      "UN": 1
+    }
+  }
+}

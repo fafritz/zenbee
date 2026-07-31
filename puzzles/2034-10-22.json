@@ -1,0 +1,116 @@
+{
+  "pangram": "latency",
+  "center_letter": "c",
+  "num_answers": 43,
+  "num_pangrams": 2,
+  "possible_points": 211,
+  "answer_pangrams": [
+    "acetylene",
+    "latency"
+  ],
+  "answers": [
+    "accent",
+    "acetate",
+    "acetylene",
+    "acne",
+    "call",
+    "calla",
+    "canal",
+    "cancan",
+    "cancel",
+    "cane",
+    "canna",
+    "canny",
+    "cant",
+    "cantata",
+    "canteen",
+    "catcall",
+    "cattle",
+    "catty",
+    "cayenne",
+    "cell",
+    "cent",
+    "cetacean",
+    "clan",
+    "clay",
+    "clayey",
+    "clean",
+    "cleanly",
+    "cleat",
+    "cyan",
+    "cycle",
+    "eclat",
+    "elect",
+    "enact",
+    "lace",
+    "lactate",
+    "lacy",
+    "lance",
+    "lancet",
+    "latency",
+    "tact",
+    "talc",
+    "tenancy",
+    "tentacle"
+  ],
+  "date": "2034-10-22",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 12,
+      "6": 6,
+      "7": 9,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 26,
+      "E": 3,
+      "L": 6,
+      "T": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "C": {
+        "4": 8,
+        "5": 8,
+        "6": 4,
+        "7": 5,
+        "8": 1
+      },
+      "E": {
+        "5": 3
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 2
+      },
+      "T": {
+        "4": 2,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 4,
+      "CA": 15,
+      "CE": 3,
+      "CL": 6,
+      "CY": 2,
+      "EC": 1,
+      "EL": 1,
+      "EN": 1,
+      "LA": 6,
+      "TA": 2,
+      "TE": 2
+    }
+  }
+}

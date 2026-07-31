@@ -1,0 +1,131 @@
+{
+  "pangram": "palming",
+  "center_letter": "p",
+  "num_answers": 49,
+  "num_pangrams": 3,
+  "possible_points": 284,
+  "answer_pangrams": [
+    "impaling",
+    "napalming",
+    "palming"
+  ],
+  "answers": [
+    "aping",
+    "appall",
+    "appalling",
+    "gaping",
+    "impala",
+    "impaling",
+    "impinging",
+    "lamp",
+    "lapping",
+    "limp",
+    "limping",
+    "mapping",
+    "napalm",
+    "napalming",
+    "napping",
+    "nipping",
+    "pagan",
+    "paging",
+    "pail",
+    "pain",
+    "paining",
+    "paling",
+    "pall",
+    "palling",
+    "palm",
+    "palming",
+    "pang",
+    "panning",
+    "papa",
+    "papal",
+    "papilla",
+    "pigging",
+    "piling",
+    "pill",
+    "pillaging",
+    "pilling",
+    "pimp",
+    "pimping",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "piping",
+    "pippin",
+    "pipping",
+    "plain",
+    "plan",
+    "planing",
+    "planning"
+  ],
+  "date": "2037-01-31",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 4,
+      "6": 10,
+      "7": 17,
+      "8": 2,
+      "9": 4
+    },
+    "by_first_letter": {
+      "A": 3,
+      "G": 1,
+      "I": 3,
+      "L": 4,
+      "M": 1,
+      "N": 4,
+      "P": 33
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1,
+        "9": 1
+      },
+      "G": {
+        "6": 1
+      },
+      "I": {
+        "6": 1,
+        "8": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 2,
+        "7": 2
+      },
+      "M": {
+        "7": 1
+      },
+      "N": {
+        "6": 1,
+        "7": 2,
+        "9": 1
+      },
+      "P": {
+        "4": 10,
+        "5": 3,
+        "6": 6,
+        "7": 12,
+        "8": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AP": 3,
+      "GA": 1,
+      "IM": 3,
+      "LA": 2,
+      "LI": 2,
+      "MA": 1,
+      "NA": 3,
+      "NI": 1,
+      "PA": 15,
+      "PI": 14,
+      "PL": 4
+    }
+  }
+}

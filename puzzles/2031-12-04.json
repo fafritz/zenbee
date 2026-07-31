@@ -1,0 +1,115 @@
+{
+  "pangram": "yelping",
+  "center_letter": "l",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 165,
+  "answer_pangrams": [
+    "yelping"
+  ],
+  "answers": [
+    "elegy",
+    "gelling",
+    "giggle",
+    "giggling",
+    "giggly",
+    "gill",
+    "glee",
+    "glen",
+    "inline",
+    "legging",
+    "leggy",
+    "liege",
+    "lien",
+    "lily",
+    "line",
+    "linen",
+    "lining",
+    "lying",
+    "negligee",
+    "niggle",
+    "niggling",
+    "peel",
+    "peeling",
+    "penile",
+    "pile",
+    "piling",
+    "pill",
+    "pilling",
+    "pipeline",
+    "plying",
+    "yell",
+    "yelling",
+    "yelp",
+    "yelping"
+  ],
+  "date": "2031-12-04",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 5,
+      "6": 8,
+      "7": 6,
+      "8": 4
+    },
+    "by_first_letter": {
+      "E": 1,
+      "G": 7,
+      "I": 1,
+      "L": 9,
+      "N": 3,
+      "P": 9,
+      "Y": 4
+    },
+    "grid": {
+      "E": {
+        "5": 1
+      },
+      "G": {
+        "4": 3,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 4,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "6": 1,
+        "8": 2
+      },
+      "P": {
+        "4": 3,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      },
+      "Y": {
+        "4": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "EL": 1,
+      "GE": 1,
+      "GI": 4,
+      "GL": 2,
+      "IN": 1,
+      "LE": 2,
+      "LI": 6,
+      "LY": 1,
+      "NE": 1,
+      "NI": 2,
+      "PE": 3,
+      "PI": 5,
+      "PL": 1,
+      "YE": 4
+    }
+  }
+}

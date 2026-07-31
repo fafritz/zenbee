@@ -1,0 +1,127 @@
+{
+  "pangram": "marking",
+  "center_letter": "m",
+  "num_answers": 45,
+  "num_pangrams": 1,
+  "possible_points": 242,
+  "answer_pangrams": [
+    "marking"
+  ],
+  "answers": [
+    "aiming",
+    "airman",
+    "anagram",
+    "arming",
+    "gaming",
+    "gamma",
+    "gram",
+    "grammar",
+    "grammarian",
+    "grim",
+    "griming",
+    "imaging",
+    "imagining",
+    "imam",
+    "karma",
+    "magma",
+    "maim",
+    "maiming",
+    "main",
+    "making",
+    "mama",
+    "mamma",
+    "managing",
+    "manga",
+    "mania",
+    "manikin",
+    "manna",
+    "manning",
+    "margin",
+    "maria",
+    "marina",
+    "mark",
+    "marking",
+    "marring",
+    "miking",
+    "miming",
+    "mini",
+    "minim",
+    "minima",
+    "mining",
+    "mink",
+    "miring",
+    "naming",
+    "ramming",
+    "riming"
+  ],
+  "date": "2032-10-01",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 9,
+      "6": 14,
+      "7": 10,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "G": 7,
+      "I": 3,
+      "K": 1,
+      "M": 27,
+      "N": 1,
+      "R": 2
+    },
+    "grid": {
+      "A": {
+        "6": 3,
+        "7": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "10": 1
+      },
+      "I": {
+        "4": 1,
+        "7": 1,
+        "9": 1
+      },
+      "K": {
+        "5": 1
+      },
+      "M": {
+        "4": 6,
+        "5": 7,
+        "6": 8,
+        "7": 5,
+        "8": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "R": {
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 2,
+      "AN": 1,
+      "AR": 1,
+      "GA": 2,
+      "GR": 5,
+      "IM": 3,
+      "KA": 1,
+      "MA": 19,
+      "MI": 8,
+      "NA": 1,
+      "RA": 1,
+      "RI": 1
+    }
+  }
+}

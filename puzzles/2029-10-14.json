@@ -1,0 +1,105 @@
+{
+  "pangram": "lambkin",
+  "center_letter": "n",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 125,
+  "answer_pangrams": [
+    "lambkin"
+  ],
+  "answers": [
+    "akin",
+    "anal",
+    "animal",
+    "banal",
+    "banana",
+    "bank",
+    "bikini",
+    "blank",
+    "blink",
+    "kiln",
+    "kink",
+    "lain",
+    "lambkin",
+    "lank",
+    "limn",
+    "link",
+    "mailman",
+    "main",
+    "mammalian",
+    "mania",
+    "manikin",
+    "manna",
+    "milkman",
+    "mini",
+    "minim",
+    "minima",
+    "minimal",
+    "mink",
+    "naan",
+    "nail",
+    "nana",
+    "nimbi"
+  ],
+  "date": "2029-10-14",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 7,
+      "6": 4,
+      "7": 5,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 6,
+      "K": 2,
+      "L": 5,
+      "M": 12,
+      "N": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 1
+      },
+      "B": {
+        "4": 1,
+        "5": 3,
+        "6": 2
+      },
+      "K": {
+        "4": 2
+      },
+      "L": {
+        "4": 4,
+        "7": 1
+      },
+      "M": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "7": 4,
+        "9": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AK": 1,
+      "AN": 2,
+      "BA": 3,
+      "BI": 1,
+      "BL": 2,
+      "KI": 2,
+      "LA": 3,
+      "LI": 2,
+      "MA": 6,
+      "MI": 6,
+      "NA": 3,
+      "NI": 1
+    }
+  }
+}

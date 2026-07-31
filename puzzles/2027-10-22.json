@@ -1,0 +1,123 @@
+{
+  "pangram": "bayonet",
+  "center_letter": "o",
+  "num_answers": 45,
+  "num_pangrams": 1,
+  "possible_points": 175,
+  "answer_pangrams": [
+    "bayonet"
+  ],
+  "answers": [
+    "abbot",
+    "annotate",
+    "annoy",
+    "anon",
+    "anyone",
+    "atone",
+    "baboon",
+    "baobab",
+    "baton",
+    "bayonet",
+    "boat",
+    "bobby",
+    "bonbon",
+    "bone",
+    "bonnet",
+    "bony",
+    "boob",
+    "booboo",
+    "booby",
+    "boon",
+    "boot",
+    "bootee",
+    "booty",
+    "botany",
+    "botnet",
+    "ebony",
+    "nabob",
+    "nanobot",
+    "neon",
+    "neonate",
+    "none",
+    "noon",
+    "note",
+    "oaten",
+    "obey",
+    "oboe",
+    "onto",
+    "taboo",
+    "tattoo",
+    "tenon",
+    "tone",
+    "tony",
+    "toon",
+    "toot",
+    "tote"
+  ],
+  "date": "2027-10-22",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 12,
+      "6": 10,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "B": 19,
+      "E": 1,
+      "N": 7,
+      "O": 4,
+      "T": 8
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "8": 1
+      },
+      "B": {
+        "4": 6,
+        "5": 4,
+        "6": 8,
+        "7": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "N": {
+        "4": 4,
+        "5": 1,
+        "7": 2
+      },
+      "O": {
+        "4": 3,
+        "5": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AN": 4,
+      "AT": 1,
+      "BA": 4,
+      "BO": 15,
+      "EB": 1,
+      "NA": 2,
+      "NE": 2,
+      "NO": 3,
+      "OA": 1,
+      "OB": 2,
+      "ON": 1,
+      "TA": 2,
+      "TE": 1,
+      "TO": 5
+    }
+  }
+}

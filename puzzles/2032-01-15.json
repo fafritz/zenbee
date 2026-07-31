@@ -1,0 +1,87 @@
+{
+  "pangram": "unitary",
+  "center_letter": "u",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 75,
+  "answer_pangrams": [
+    "unitary"
+  ],
+  "answers": [
+    "annuity",
+    "aunt",
+    "aura",
+    "intuit",
+    "nutria",
+    "nutty",
+    "ruin",
+    "runny",
+    "runt",
+    "taunt",
+    "taut",
+    "truant",
+    "tuna",
+    "turn",
+    "tutu",
+    "unit",
+    "unitary",
+    "unity",
+    "urinary"
+  ],
+  "date": "2032-01-15",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 4,
+      "6": 3,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 3,
+      "I": 1,
+      "N": 2,
+      "R": 3,
+      "T": 6,
+      "U": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "7": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "N": {
+        "5": 1,
+        "6": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 1,
+        "6": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "AU": 2,
+      "IN": 1,
+      "NU": 2,
+      "RU": 3,
+      "TA": 2,
+      "TR": 1,
+      "TU": 3,
+      "UN": 3,
+      "UR": 1
+    }
+  }
+}

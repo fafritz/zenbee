@@ -1,0 +1,82 @@
+{
+  "pangram": "kingdom",
+  "center_letter": "m",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 123,
+  "answer_pangrams": [
+    "kingdom"
+  ],
+  "answers": [
+    "dimming",
+    "doming",
+    "dominion",
+    "domino",
+    "doom",
+    "dooming",
+    "idiom",
+    "kimono",
+    "kingdom",
+    "miking",
+    "miming",
+    "mind",
+    "minding",
+    "mini",
+    "minim",
+    "mining",
+    "minion",
+    "mink",
+    "modding",
+    "monk",
+    "mono",
+    "mood",
+    "mooing",
+    "moon",
+    "mooning"
+  ],
+  "date": "2036-03-20",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 2,
+      "6": 8,
+      "7": 6,
+      "8": 1
+    },
+    "by_first_letter": {
+      "D": 6,
+      "I": 1,
+      "K": 2,
+      "M": 16
+    },
+    "grid": {
+      "D": {
+        "4": 1,
+        "6": 2,
+        "7": 2,
+        "8": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "K": {
+        "6": 1,
+        "7": 1
+      },
+      "M": {
+        "4": 7,
+        "5": 1,
+        "6": 5,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "DI": 1,
+      "DO": 5,
+      "ID": 1,
+      "KI": 2,
+      "MI": 9,
+      "MO": 7
+    }
+  }
+}

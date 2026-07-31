@@ -1,0 +1,146 @@
+{
+  "pangram": "typical",
+  "center_letter": "i",
+  "num_answers": 47,
+  "num_pangrams": 4,
+  "possible_points": 277,
+  "answer_pangrams": [
+    "atypical",
+    "atypically",
+    "typical",
+    "typically"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "attic",
+    "atypical",
+    "atypically",
+    "cacti",
+    "capacity",
+    "capital",
+    "catalytic",
+    "cattail",
+    "cattily",
+    "cilia",
+    "city",
+    "clip",
+    "cyclic",
+    "cyclical",
+    "cyclically",
+    "icily",
+    "illicit",
+    "illicitly",
+    "italic",
+    "lactic",
+    "laity",
+    "licit",
+    "lilac",
+    "lilt",
+    "lily",
+    "pail",
+    "palatial",
+    "papilla",
+    "pica",
+    "piccalilli",
+    "pill",
+    "pipit",
+    "pita",
+    "pity",
+    "plait",
+    "tacit",
+    "tacitly",
+    "tactic",
+    "tactical",
+    "tactically",
+    "tail",
+    "till",
+    "tilt",
+    "typical",
+    "typically"
+  ],
+  "date": "2034-07-04",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 10,
+      "6": 5,
+      "7": 7,
+      "8": 5,
+      "9": 3,
+      "10": 4
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 12,
+      "I": 4,
+      "L": 6,
+      "P": 10,
+      "T": 10
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "8": 1,
+        "10": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 3,
+        "8": 2,
+        "9": 1,
+        "10": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 3,
+        "6": 1
+      },
+      "P": {
+        "4": 5,
+        "5": 2,
+        "7": 1,
+        "8": 1,
+        "10": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AT": 3,
+      "CA": 6,
+      "CI": 2,
+      "CL": 1,
+      "CY": 3,
+      "IC": 1,
+      "IL": 2,
+      "IT": 1,
+      "LA": 2,
+      "LI": 4,
+      "PA": 3,
+      "PI": 6,
+      "PL": 1,
+      "TA": 6,
+      "TI": 2,
+      "TY": 2
+    }
+  }
+}

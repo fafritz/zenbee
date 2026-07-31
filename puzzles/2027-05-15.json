@@ -1,0 +1,95 @@
+{
+  "pangram": "anytime",
+  "center_letter": "y",
+  "num_answers": 20,
+  "num_pangrams": 2,
+  "possible_points": 107,
+  "answer_pangrams": [
+    "amenity",
+    "anytime"
+  ],
+  "answers": [
+    "amenity",
+    "amity",
+    "anytime",
+    "enemy",
+    "enmity",
+    "entity",
+    "inanity",
+    "many",
+    "meaty",
+    "minty",
+    "myna",
+    "nanny",
+    "natty",
+    "ninety",
+    "ninny",
+    "tatty",
+    "teeny",
+    "tinny",
+    "tiny",
+    "yeti"
+  ],
+  "date": "2027-05-15",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 10,
+      "6": 3,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 3,
+      "E": 3,
+      "I": 1,
+      "M": 4,
+      "N": 4,
+      "T": 4,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "7": 2
+      },
+      "E": {
+        "5": 1,
+        "6": 2
+      },
+      "I": {
+        "7": 1
+      },
+      "M": {
+        "4": 2,
+        "5": 2
+      },
+      "N": {
+        "5": 3,
+        "6": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 3
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AM": 2,
+      "AN": 1,
+      "EN": 3,
+      "IN": 1,
+      "MA": 1,
+      "ME": 1,
+      "MI": 1,
+      "MY": 1,
+      "NA": 2,
+      "NI": 2,
+      "TA": 1,
+      "TE": 1,
+      "TI": 2,
+      "YE": 1
+    }
+  }
+}

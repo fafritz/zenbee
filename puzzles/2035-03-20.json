@@ -1,0 +1,80 @@
+{
+  "pangram": "hoaxing",
+  "center_letter": "a",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 94,
+  "answer_pangrams": [
+    "hoaxing"
+  ],
+  "answers": [
+    "again",
+    "aging",
+    "agog",
+    "angina",
+    "anion",
+    "anon",
+    "axing",
+    "axon",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "gonna",
+    "hang",
+    "hanging",
+    "hoax",
+    "hoaxing",
+    "hogan",
+    "naan",
+    "nagging",
+    "nana"
+  ],
+  "date": "2035-03-20",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 6,
+      "6": 1,
+      "7": 6
+    },
+    "by_first_letter": {
+      "A": 8,
+      "G": 6,
+      "H": 5,
+      "N": 3
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 4,
+        "6": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "7": 3
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "7": 2
+      },
+      "N": {
+        "4": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 3,
+      "AN": 3,
+      "AX": 2,
+      "GA": 5,
+      "GO": 1,
+      "HA": 2,
+      "HO": 3,
+      "NA": 3
+    }
+  }
+}

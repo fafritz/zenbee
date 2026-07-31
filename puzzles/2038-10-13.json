@@ -1,0 +1,78 @@
+{
+  "pangram": "alchemy",
+  "center_letter": "y",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 70,
+  "answer_pangrams": [
+    "alchemy"
+  ],
+  "answers": [
+    "achy",
+    "alchemy",
+    "allay",
+    "alley",
+    "ally",
+    "calmly",
+    "clammy",
+    "clay",
+    "clayey",
+    "cycle",
+    "lacy",
+    "lamely",
+    "mayhem",
+    "mealy",
+    "yeah",
+    "yell"
+  ],
+  "date": "2038-10-13",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 4,
+      "6": 5,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 5,
+      "L": 2,
+      "M": 2,
+      "Y": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 1,
+        "6": 3
+      },
+      "L": {
+        "4": 1,
+        "6": 1
+      },
+      "M": {
+        "5": 1,
+        "6": 1
+      },
+      "Y": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AL": 4,
+      "CA": 1,
+      "CL": 3,
+      "CY": 1,
+      "LA": 2,
+      "MA": 1,
+      "ME": 1,
+      "YE": 2
+    }
+  }
+}

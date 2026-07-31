@@ -1,0 +1,92 @@
+{
+  "pangram": "painful",
+  "center_letter": "u",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 86,
+  "answer_pangrams": [
+    "painful"
+  ],
+  "answers": [
+    "annual",
+    "annul",
+    "faun",
+    "fauna",
+    "fluff",
+    "fulfill",
+    "full",
+    "luau",
+    "lull",
+    "lulu",
+    "null",
+    "pailful",
+    "painful",
+    "pinup",
+    "puff",
+    "puffin",
+    "pull",
+    "pulp",
+    "pupa",
+    "pupal",
+    "pupil",
+    "ulna",
+    "unpin"
+  ],
+  "date": "2030-03-04",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 7,
+      "6": 2,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 2,
+      "F": 5,
+      "L": 3,
+      "N": 1,
+      "P": 10,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1
+      },
+      "F": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 3
+      },
+      "N": {
+        "4": 1
+      },
+      "P": {
+        "4": 4,
+        "5": 3,
+        "6": 1,
+        "7": 2
+      },
+      "U": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 2,
+      "FA": 2,
+      "FL": 1,
+      "FU": 2,
+      "LU": 3,
+      "NU": 1,
+      "PA": 2,
+      "PI": 1,
+      "PU": 7,
+      "UL": 1,
+      "UN": 1
+    }
+  }
+}

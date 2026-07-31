@@ -1,0 +1,102 @@
+{
+  "pangram": "equably",
+  "center_letter": "e",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 122,
+  "answer_pangrams": [
+    "equably"
+  ],
+  "answers": [
+    "abbe",
+    "abbey",
+    "able",
+    "alley",
+    "babble",
+    "babe",
+    "babel",
+    "bale",
+    "bauble",
+    "beau",
+    "belay",
+    "bell",
+    "belle",
+    "belly",
+    "blue",
+    "bluebell",
+    "bubble",
+    "ebay",
+    "equable",
+    "equably",
+    "equal",
+    "equally",
+    "eyeball",
+    "label",
+    "lube",
+    "quell",
+    "queue",
+    "yell",
+    "yule"
+  ],
+  "date": "2034-07-21",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 10,
+      "6": 3,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "B": 13,
+      "E": 6,
+      "L": 2,
+      "Q": 2,
+      "Y": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2
+      },
+      "B": {
+        "4": 5,
+        "5": 4,
+        "6": 3,
+        "8": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "7": 4
+      },
+      "L": {
+        "4": 1,
+        "5": 1
+      },
+      "Q": {
+        "5": 2
+      },
+      "Y": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 3,
+      "AL": 1,
+      "BA": 5,
+      "BE": 5,
+      "BL": 2,
+      "BU": 1,
+      "EB": 1,
+      "EQ": 4,
+      "EY": 1,
+      "LA": 1,
+      "LU": 1,
+      "QU": 2,
+      "YE": 1,
+      "YU": 1
+    }
+  }
+}

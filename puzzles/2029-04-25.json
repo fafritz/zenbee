@@ -1,0 +1,90 @@
+{
+  "pangram": "potluck",
+  "center_letter": "k",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 84,
+  "answer_pangrams": [
+    "potluck"
+  ],
+  "answers": [
+    "clock",
+    "cluck",
+    "cook",
+    "cookout",
+    "cuckoo",
+    "kook",
+    "lock",
+    "lockout",
+    "lockup",
+    "look",
+    "lookout",
+    "lookup",
+    "luck",
+    "outlook",
+    "pluck",
+    "pock",
+    "potluck",
+    "puck",
+    "took",
+    "tuck"
+  ],
+  "date": "2029-04-25",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 3,
+      "6": 3,
+      "7": 5
+    },
+    "by_first_letter": {
+      "C": 5,
+      "K": 1,
+      "L": 7,
+      "O": 1,
+      "P": 4,
+      "T": 2
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "K": {
+        "4": 1
+      },
+      "L": {
+        "4": 3,
+        "6": 2,
+        "7": 2
+      },
+      "O": {
+        "7": 1
+      },
+      "P": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "CL": 2,
+      "CO": 2,
+      "CU": 1,
+      "KO": 1,
+      "LO": 6,
+      "LU": 1,
+      "OU": 1,
+      "PL": 1,
+      "PO": 2,
+      "PU": 1,
+      "TO": 1,
+      "TU": 1
+    }
+  }
+}

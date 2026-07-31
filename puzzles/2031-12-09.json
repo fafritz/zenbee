@@ -1,0 +1,138 @@
+{
+  "pangram": "lambent",
+  "center_letter": "b",
+  "num_answers": 55,
+  "num_pangrams": 3,
+  "possible_points": 259,
+  "answer_pangrams": [
+    "battlement",
+    "lambent",
+    "lamentable"
+  ],
+  "answers": [
+    "abate",
+    "abatement",
+    "abbe",
+    "abeam",
+    "abet",
+    "able",
+    "amble",
+    "amenable",
+    "baba",
+    "babble",
+    "babe",
+    "babel",
+    "bale",
+    "baleen",
+    "ball",
+    "ballet",
+    "balm",
+    "banal",
+    "banana",
+    "bane",
+    "bantam",
+    "batten",
+    "battle",
+    "battlement",
+    "beam",
+    "bean",
+    "beat",
+    "beaten",
+    "been",
+    "beet",
+    "beetle",
+    "bell",
+    "belle",
+    "belt",
+    "bent",
+    "beta",
+    "blab",
+    "blame",
+    "blat",
+    "blatant",
+    "bleat",
+    "eatable",
+    "embalm",
+    "emblem",
+    "enable",
+    "label",
+    "lamb",
+    "lambent",
+    "lamentable",
+    "malleable",
+    "meatball",
+    "table",
+    "tablet",
+    "tamable",
+    "tenable"
+  ],
+  "date": "2031-12-09",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 10,
+      "6": 13,
+      "7": 5,
+      "8": 2,
+      "9": 2,
+      "10": 2
+    },
+    "by_first_letter": {
+      "A": 8,
+      "B": 33,
+      "E": 4,
+      "L": 4,
+      "M": 2,
+      "T": 4
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 3,
+        "8": 1,
+        "9": 1
+      },
+      "B": {
+        "4": 17,
+        "5": 5,
+        "6": 9,
+        "7": 1,
+        "10": 1
+      },
+      "E": {
+        "6": 3,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "10": 1
+      },
+      "M": {
+        "8": 1,
+        "9": 1
+      },
+      "T": {
+        "5": 1,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 6,
+      "AM": 2,
+      "BA": 16,
+      "BE": 12,
+      "BL": 5,
+      "EA": 1,
+      "EM": 2,
+      "EN": 1,
+      "LA": 4,
+      "MA": 1,
+      "ME": 1,
+      "TA": 3,
+      "TE": 1
+    }
+  }
+}

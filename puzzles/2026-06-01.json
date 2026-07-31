@@ -1,0 +1,132 @@
+{
+  "pangram": "include",
+  "center_letter": "n",
+  "num_answers": 47,
+  "num_pangrams": 2,
+  "possible_points": 256,
+  "answer_pangrams": [
+    "include",
+    "included"
+  ],
+  "answers": [
+    "clinic",
+    "decline",
+    "declined",
+    "denied",
+    "denude",
+    "denuded",
+    "dine",
+    "dined",
+    "dinned",
+    "dunce",
+    "dune",
+    "dunned",
+    "ended",
+    "endue",
+    "endued",
+    "ennui",
+    "incidence",
+    "incline",
+    "inclined",
+    "include",
+    "included",
+    "indeed",
+    "induce",
+    "induced",
+    "inline",
+    "lend",
+    "lien",
+    "linden",
+    "line",
+    "lined",
+    "linen",
+    "need",
+    "needed",
+    "needle",
+    "needled",
+    "nene",
+    "nice",
+    "niece",
+    "nine",
+    "nuclei",
+    "nucleic",
+    "null",
+    "uncle",
+    "undecided",
+    "undid",
+    "undue",
+    "unneeded"
+  ],
+  "date": "2026-06-01",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 11,
+      "6": 13,
+      "7": 7,
+      "8": 4,
+      "9": 2
+    },
+    "by_first_letter": {
+      "C": 1,
+      "D": 11,
+      "E": 4,
+      "I": 9,
+      "L": 6,
+      "N": 11,
+      "U": 5
+    },
+    "grid": {
+      "C": {
+        "6": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 2,
+        "6": 4,
+        "7": 2,
+        "8": 1
+      },
+      "E": {
+        "5": 3,
+        "6": 1
+      },
+      "I": {
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 2,
+        "6": 1
+      },
+      "N": {
+        "4": 5,
+        "5": 1,
+        "6": 3,
+        "7": 2
+      },
+      "U": {
+        "5": 3,
+        "8": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 1,
+      "DE": 5,
+      "DI": 3,
+      "DU": 3,
+      "EN": 4,
+      "IN": 9,
+      "LE": 1,
+      "LI": 5,
+      "NE": 5,
+      "NI": 3,
+      "NU": 3,
+      "UN": 5
+    }
+  }
+}

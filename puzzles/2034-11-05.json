@@ -1,0 +1,110 @@
+{
+  "pangram": "placebo",
+  "center_letter": "b",
+  "num_answers": 35,
+  "num_pangrams": 1,
+  "possible_points": 134,
+  "answer_pangrams": [
+    "placebo"
+  ],
+  "answers": [
+    "abbe",
+    "able",
+    "baba",
+    "babble",
+    "babe",
+    "babel",
+    "bale",
+    "ball",
+    "baobab",
+    "bebop",
+    "beep",
+    "bell",
+    "belle",
+    "blab",
+    "bleep",
+    "blob",
+    "bloc",
+    "bobble",
+    "bola",
+    "bole",
+    "boll",
+    "boob",
+    "booboo",
+    "cabal",
+    "cable",
+    "callable",
+    "capable",
+    "cobble",
+    "label",
+    "lobe",
+    "oboe",
+    "palpable",
+    "peaceable",
+    "pebble",
+    "placebo"
+  ],
+  "date": "2034-11-05",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 7,
+      "6": 6,
+      "7": 2,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 21,
+      "C": 5,
+      "L": 2,
+      "O": 1,
+      "P": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2
+      },
+      "B": {
+        "4": 13,
+        "5": 4,
+        "6": 4
+      },
+      "C": {
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 2,
+      "BA": 7,
+      "BE": 4,
+      "BL": 4,
+      "BO": 6,
+      "CA": 4,
+      "CO": 1,
+      "LA": 1,
+      "LO": 1,
+      "OB": 1,
+      "PA": 1,
+      "PE": 2,
+      "PL": 1
+    }
+  }
+}

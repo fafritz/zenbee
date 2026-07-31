@@ -1,0 +1,94 @@
+{
+  "pangram": "forking",
+  "center_letter": "k",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 85,
+  "answer_pangrams": [
+    "forking"
+  ],
+  "answers": [
+    "fink",
+    "finking",
+    "fork",
+    "forking",
+    "ginkgo",
+    "grok",
+    "grokking",
+    "inking",
+    "irking",
+    "king",
+    "kink",
+    "kinking",
+    "knifing",
+    "kook",
+    "nook",
+    "oink",
+    "oinking",
+    "rink",
+    "rook",
+    "rooking"
+  ],
+  "date": "2030-11-25",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "6": 3,
+      "7": 6,
+      "8": 1
+    },
+    "by_first_letter": {
+      "F": 4,
+      "G": 3,
+      "I": 2,
+      "K": 5,
+      "N": 1,
+      "O": 2,
+      "R": 3
+    },
+    "grid": {
+      "F": {
+        "4": 2,
+        "7": 2
+      },
+      "G": {
+        "4": 1,
+        "6": 1,
+        "8": 1
+      },
+      "I": {
+        "6": 2
+      },
+      "K": {
+        "4": 3,
+        "7": 2
+      },
+      "N": {
+        "4": 1
+      },
+      "O": {
+        "4": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "FI": 2,
+      "FO": 2,
+      "GI": 1,
+      "GR": 2,
+      "IN": 1,
+      "IR": 1,
+      "KI": 3,
+      "KN": 1,
+      "KO": 1,
+      "NO": 1,
+      "OI": 2,
+      "RI": 1,
+      "RO": 2
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "pangram": "diurnal",
+  "center_letter": "a",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 137,
+  "answer_pangrams": [
+    "diurnal"
+  ],
+  "answers": [
+    "anal",
+    "annual",
+    "annul",
+    "annular",
+    "aria",
+    "arid",
+    "aura",
+    "aural",
+    "darn",
+    "dial",
+    "dinar",
+    "diurnal",
+    "drain",
+    "dual",
+    "dullard",
+    "inlaid",
+    "inland",
+    "laid",
+    "lain",
+    "lair",
+    "land",
+    "lard",
+    "laud",
+    "liar",
+    "lira",
+    "luau",
+    "lunar",
+    "naan",
+    "nadir",
+    "naiad",
+    "nail",
+    "nana",
+    "radar",
+    "radial",
+    "radian",
+    "radii",
+    "raid",
+    "rail",
+    "rain",
+    "rural",
+    "ulna",
+    "urinal"
+  ],
+  "date": "2032-11-21",
+  "hints": {
+    "by_length": {
+      "4": 23,
+      "5": 10,
+      "6": 6,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 8,
+      "D": 7,
+      "I": 2,
+      "L": 10,
+      "N": 5,
+      "R": 8,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 3,
+        "5": 2,
+        "7": 2
+      },
+      "I": {
+        "6": 2
+      },
+      "L": {
+        "4": 9,
+        "5": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 2
+      },
+      "R": {
+        "4": 3,
+        "5": 3,
+        "6": 2
+      },
+      "U": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 4,
+      "AR": 2,
+      "AU": 2,
+      "DA": 1,
+      "DI": 3,
+      "DR": 1,
+      "DU": 2,
+      "IN": 2,
+      "LA": 6,
+      "LI": 2,
+      "LU": 2,
+      "NA": 5,
+      "RA": 7,
+      "RU": 1,
+      "UL": 1,
+      "UR": 1
+    }
+  }
+}

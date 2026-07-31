@@ -1,0 +1,110 @@
+{
+  "pangram": "flowing",
+  "center_letter": "w",
+  "num_answers": 35,
+  "num_pangrams": 4,
+  "possible_points": 204,
+  "answer_pangrams": [
+    "flowing",
+    "following",
+    "fowling",
+    "wolfing"
+  ],
+  "answers": [
+    "flow",
+    "flowing",
+    "flown",
+    "follow",
+    "following",
+    "fowl",
+    "fowling",
+    "glow",
+    "glowing",
+    "gown",
+    "gowning",
+    "inflow",
+    "lowing",
+    "owing",
+    "owning",
+    "wigging",
+    "wiggling",
+    "wiling",
+    "will",
+    "willing",
+    "willow",
+    "wing",
+    "winging",
+    "wining",
+    "winning",
+    "winnow",
+    "winnowing",
+    "wino",
+    "wolf",
+    "wolfing",
+    "woof",
+    "woofing",
+    "wooing",
+    "wool",
+    "wowing"
+  ],
+  "date": "2028-10-16",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 2,
+      "6": 10,
+      "7": 10,
+      "8": 1,
+      "9": 2
+    },
+    "by_first_letter": {
+      "F": 7,
+      "G": 4,
+      "I": 1,
+      "L": 1,
+      "O": 2,
+      "W": 20
+    },
+    "grid": {
+      "F": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "9": 1
+      },
+      "G": {
+        "4": 2,
+        "7": 2
+      },
+      "I": {
+        "6": 1
+      },
+      "L": {
+        "6": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1
+      },
+      "W": {
+        "4": 6,
+        "6": 6,
+        "7": 6,
+        "8": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "FL": 3,
+      "FO": 4,
+      "GL": 2,
+      "GO": 2,
+      "IN": 1,
+      "LO": 1,
+      "OW": 2,
+      "WI": 13,
+      "WO": 7
+    }
+  }
+}

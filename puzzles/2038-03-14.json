@@ -1,0 +1,133 @@
+{
+  "pangram": "turfing",
+  "center_letter": "r",
+  "num_answers": 46,
+  "num_pangrams": 2,
+  "possible_points": 264,
+  "answer_pangrams": [
+    "fruiting",
+    "turfing"
+  ],
+  "answers": [
+    "figuring",
+    "firing",
+    "fringing",
+    "fruit",
+    "fruiting",
+    "furring",
+    "girt",
+    "girting",
+    "griffin",
+    "grin",
+    "grinning",
+    "grit",
+    "gritting",
+    "gruff",
+    "grunt",
+    "grunting",
+    "gunrunning",
+    "guru",
+    "infringing",
+    "intriguing",
+    "inuring",
+    "nurturing",
+    "riff",
+    "riffing",
+    "rift",
+    "rifting",
+    "rigging",
+    "ring",
+    "ringing",
+    "ruff",
+    "ruffing",
+    "ruin",
+    "ruing",
+    "ruining",
+    "rung",
+    "running",
+    "runt",
+    "rutting",
+    "tiring",
+    "truing",
+    "turf",
+    "turfing",
+    "turn",
+    "turning",
+    "untiring",
+    "urging"
+  ],
+  "date": "2038-03-14",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 4,
+      "6": 4,
+      "7": 14,
+      "8": 7,
+      "9": 1,
+      "10": 3
+    },
+    "by_first_letter": {
+      "F": 6,
+      "G": 12,
+      "I": 3,
+      "N": 1,
+      "R": 16,
+      "T": 6,
+      "U": 2
+    },
+    "grid": {
+      "F": {
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 3
+      },
+      "G": {
+        "4": 4,
+        "5": 2,
+        "7": 2,
+        "8": 3,
+        "10": 1
+      },
+      "I": {
+        "7": 1,
+        "10": 2
+      },
+      "N": {
+        "9": 1
+      },
+      "R": {
+        "4": 7,
+        "5": 1,
+        "7": 8
+      },
+      "T": {
+        "4": 2,
+        "6": 2,
+        "7": 2
+      },
+      "U": {
+        "6": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "FI": 2,
+      "FR": 3,
+      "FU": 1,
+      "GI": 2,
+      "GR": 8,
+      "GU": 2,
+      "IN": 3,
+      "NU": 1,
+      "RI": 7,
+      "RU": 9,
+      "TI": 1,
+      "TR": 1,
+      "TU": 4,
+      "UN": 1,
+      "UR": 1
+    }
+  }
+}

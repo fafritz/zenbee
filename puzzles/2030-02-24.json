@@ -1,0 +1,99 @@
+{
+  "pangram": "flaming",
+  "center_letter": "f",
+  "num_answers": 32,
+  "num_pangrams": 3,
+  "possible_points": 196,
+  "answer_pangrams": [
+    "flaming",
+    "flimflamming",
+    "inflaming"
+  ],
+  "answers": [
+    "alfalfa",
+    "fail",
+    "failing",
+    "fall",
+    "falling",
+    "familial",
+    "fang",
+    "fanning",
+    "filial",
+    "filing",
+    "fill",
+    "filling",
+    "film",
+    "filming",
+    "finagling",
+    "final",
+    "fining",
+    "flag",
+    "flagging",
+    "flail",
+    "flailing",
+    "flaming",
+    "flan",
+    "flimflam",
+    "flimflamming",
+    "fling",
+    "flinging",
+    "gaff",
+    "gaffing",
+    "inflaming",
+    "miff",
+    "miffing"
+  ],
+  "date": "2030-02-24",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 3,
+      "6": 3,
+      "7": 9,
+      "8": 5,
+      "9": 2,
+      "12": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "F": 26,
+      "G": 2,
+      "I": 1,
+      "M": 2
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "F": {
+        "4": 7,
+        "5": 3,
+        "6": 3,
+        "7": 6,
+        "8": 5,
+        "9": 1,
+        "12": 1
+      },
+      "G": {
+        "4": 1,
+        "7": 1
+      },
+      "I": {
+        "9": 1
+      },
+      "M": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "FA": 7,
+      "FI": 9,
+      "FL": 10,
+      "GA": 2,
+      "IN": 1,
+      "MI": 2
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pangram": "upbraid",
+  "center_letter": "b",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 46,
+  "answer_pangrams": [
+    "upbraid"
+  ],
+  "answers": [
+    "baba",
+    "barb",
+    "bard",
+    "baud",
+    "bird",
+    "brad",
+    "braid",
+    "briar",
+    "burp",
+    "burr",
+    "daub",
+    "drab",
+    "drub",
+    "ibid",
+    "rabbi",
+    "rabid",
+    "upbraid"
+  ],
+  "date": "2030-06-27",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 4,
+      "7": 1
+    },
+    "by_first_letter": {
+      "B": 10,
+      "D": 3,
+      "I": 1,
+      "R": 2,
+      "U": 1
+    },
+    "grid": {
+      "B": {
+        "4": 8,
+        "5": 2
+      },
+      "D": {
+        "4": 3
+      },
+      "I": {
+        "4": 1
+      },
+      "R": {
+        "5": 2
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "BA": 4,
+      "BI": 1,
+      "BR": 3,
+      "BU": 2,
+      "DA": 1,
+      "DR": 2,
+      "IB": 1,
+      "RA": 2,
+      "UP": 1
+    }
+  }
+}

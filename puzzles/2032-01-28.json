@@ -1,0 +1,72 @@
+{
+  "pangram": "whaling",
+  "center_letter": "h",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 97,
+  "answer_pangrams": [
+    "whaling"
+  ],
+  "answers": [
+    "haggling",
+    "hail",
+    "hailing",
+    "halal",
+    "haling",
+    "hall",
+    "hang",
+    "hanging",
+    "hangnail",
+    "hawing",
+    "high",
+    "hill",
+    "hing",
+    "hinging",
+    "inhaling",
+    "nigh",
+    "whaling",
+    "whiling",
+    "whining"
+  ],
+  "date": "2032-01-28",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 1,
+      "6": 2,
+      "7": 6,
+      "8": 3
+    },
+    "by_first_letter": {
+      "H": 14,
+      "I": 1,
+      "N": 1,
+      "W": 3
+    },
+    "grid": {
+      "H": {
+        "4": 6,
+        "5": 1,
+        "6": 2,
+        "7": 3,
+        "8": 2
+      },
+      "I": {
+        "8": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "W": {
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "HA": 10,
+      "HI": 4,
+      "IN": 1,
+      "NI": 1,
+      "WH": 3
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "pangram": "unlatch",
+  "center_letter": "a",
+  "num_answers": 49,
+  "num_pangrams": 1,
+  "possible_points": 187,
+  "answer_pangrams": [
+    "unlatch"
+  ],
+  "answers": [
+    "actual",
+    "anal",
+    "annual",
+    "annul",
+    "attach",
+    "aunt",
+    "call",
+    "calla",
+    "canal",
+    "cancan",
+    "canna",
+    "cannula",
+    "cant",
+    "cantata",
+    "canula",
+    "catcall",
+    "catch",
+    "catchall",
+    "chant",
+    "chat",
+    "clan",
+    "halal",
+    "hall",
+    "halt",
+    "hatch",
+    "haul",
+    "haunch",
+    "haunt",
+    "hula",
+    "lacuna",
+    "latch",
+    "lath",
+    "launch",
+    "luau",
+    "naan",
+    "nana",
+    "natal",
+    "nuthatch",
+    "tact",
+    "talc",
+    "tall",
+    "taunt",
+    "taut",
+    "than",
+    "that",
+    "thatch",
+    "tuna",
+    "ulna",
+    "unlatch"
+  ],
+  "date": "2038-11-25",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 12,
+      "6": 9,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 15,
+      "H": 8,
+      "L": 5,
+      "N": 4,
+      "T": 9,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 3
+      },
+      "C": {
+        "4": 4,
+        "5": 5,
+        "6": 2,
+        "7": 3,
+        "8": 1
+      },
+      "H": {
+        "4": 4,
+        "5": 3,
+        "6": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "N": {
+        "4": 2,
+        "5": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 7,
+        "5": 1,
+        "6": 1
+      },
+      "U": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AN": 3,
+      "AT": 1,
+      "AU": 1,
+      "CA": 12,
+      "CH": 2,
+      "CL": 1,
+      "HA": 7,
+      "HU": 1,
+      "LA": 4,
+      "LU": 1,
+      "NA": 3,
+      "NU": 1,
+      "TA": 5,
+      "TH": 3,
+      "TU": 1,
+      "UL": 1,
+      "UN": 1
+    }
+  }
+}

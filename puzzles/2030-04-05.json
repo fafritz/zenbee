@@ -1,0 +1,105 @@
+{
+  "pangram": "molting",
+  "center_letter": "m",
+  "num_answers": 38,
+  "num_pangrams": 2,
+  "possible_points": 193,
+  "answer_pangrams": [
+    "molting",
+    "mottling"
+  ],
+  "answers": [
+    "gloom",
+    "liming",
+    "limit",
+    "limiting",
+    "limn",
+    "limning",
+    "limo",
+    "loom",
+    "looming",
+    "mill",
+    "milling",
+    "million",
+    "miming",
+    "mingling",
+    "mini",
+    "minim",
+    "mining",
+    "minion",
+    "mint",
+    "minting",
+    "mitt",
+    "moll",
+    "molt",
+    "molting",
+    "mono",
+    "mooing",
+    "moon",
+    "mooning",
+    "moonlit",
+    "moot",
+    "mooting",
+    "motion",
+    "motioning",
+    "mottling",
+    "motto",
+    "omit",
+    "omitting",
+    "timing"
+  ],
+  "date": "2030-04-05",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 4,
+      "6": 7,
+      "7": 9,
+      "8": 4,
+      "9": 1
+    },
+    "by_first_letter": {
+      "G": 1,
+      "L": 8,
+      "M": 26,
+      "O": 2,
+      "T": 1
+    },
+    "grid": {
+      "G": {
+        "5": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "M": {
+        "4": 9,
+        "5": 2,
+        "6": 5,
+        "7": 7,
+        "8": 2,
+        "9": 1
+      },
+      "O": {
+        "4": 1,
+        "8": 1
+      },
+      "T": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "GL": 1,
+      "LI": 6,
+      "LO": 2,
+      "MI": 12,
+      "MO": 14,
+      "OM": 2,
+      "TI": 1
+    }
+  }
+}

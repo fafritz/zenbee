@@ -1,0 +1,125 @@
+{
+  "pangram": "heaping",
+  "center_letter": "a",
+  "num_answers": 41,
+  "num_pangrams": 2,
+  "possible_points": 197,
+  "answer_pangrams": [
+    "happening",
+    "heaping"
+  ],
+  "answers": [
+    "again",
+    "agape",
+    "aging",
+    "angina",
+    "aping",
+    "engage",
+    "engaging",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "gape",
+    "gaping",
+    "hang",
+    "hanging",
+    "happen",
+    "happening",
+    "heap",
+    "heaping",
+    "henna",
+    "hennaing",
+    "inane",
+    "naan",
+    "nagging",
+    "nana",
+    "nape",
+    "napping",
+    "neap",
+    "paean",
+    "pagan",
+    "page",
+    "paging",
+    "pain",
+    "paining",
+    "pane",
+    "pang",
+    "panning",
+    "papa",
+    "peahen",
+    "phage"
+  ],
+  "date": "2029-02-16",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 9,
+      "6": 6,
+      "7": 9,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "E": 2,
+      "G": 7,
+      "H": 8,
+      "I": 1,
+      "N": 6,
+      "P": 12
+    },
+    "grid": {
+      "A": {
+        "5": 4,
+        "6": 1
+      },
+      "E": {
+        "6": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 3,
+        "6": 1,
+        "7": 3
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1,
+        "9": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "N": {
+        "4": 4,
+        "7": 2
+      },
+      "P": {
+        "4": 5,
+        "5": 3,
+        "6": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AG": 3,
+      "AN": 1,
+      "AP": 1,
+      "EN": 2,
+      "GA": 7,
+      "HA": 4,
+      "HE": 4,
+      "IN": 1,
+      "NA": 5,
+      "NE": 1,
+      "PA": 10,
+      "PE": 1,
+      "PH": 1
+    }
+  }
+}

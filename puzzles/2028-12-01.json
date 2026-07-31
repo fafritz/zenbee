@@ -1,0 +1,108 @@
+{
+  "pangram": "wildcat",
+  "center_letter": "c",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 140,
+  "answer_pangrams": [
+    "wildcat"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acid",
+    "acidic",
+    "addict",
+    "attic",
+    "cacti",
+    "call",
+    "calla",
+    "catcall",
+    "cattail",
+    "cicada",
+    "cilia",
+    "clad",
+    "claw",
+    "dicta",
+    "didactic",
+    "illicit",
+    "italic",
+    "lactic",
+    "licit",
+    "lilac",
+    "tacit",
+    "tact",
+    "tactic",
+    "tactical",
+    "talc",
+    "wildcat"
+  ],
+  "date": "2028-12-01",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 8,
+      "6": 7,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 9,
+      "D": 2,
+      "I": 2,
+      "L": 3,
+      "T": 5,
+      "W": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 3
+      },
+      "C": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "7": 2
+      },
+      "D": {
+        "5": 1,
+        "8": 1
+      },
+      "I": {
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "5": 2,
+        "6": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "W": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 4,
+      "AD": 1,
+      "AT": 1,
+      "CA": 5,
+      "CI": 2,
+      "CL": 2,
+      "DI": 2,
+      "IL": 1,
+      "IT": 1,
+      "LA": 1,
+      "LI": 2,
+      "TA": 5,
+      "WI": 1
+    }
+  }
+}

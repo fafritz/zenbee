@@ -1,0 +1,149 @@
+{
+  "pangram": "palming",
+  "center_letter": "m",
+  "num_answers": 59,
+  "num_pangrams": 3,
+  "possible_points": 338,
+  "answer_pangrams": [
+    "impaling",
+    "napalming",
+    "palming"
+  ],
+  "answers": [
+    "aiming",
+    "amalgam",
+    "animal",
+    "gaming",
+    "gamma",
+    "imaging",
+    "imagining",
+    "imam",
+    "impala",
+    "impaling",
+    "impinging",
+    "lama",
+    "laming",
+    "lamming",
+    "lamp",
+    "liming",
+    "limn",
+    "limning",
+    "limp",
+    "limping",
+    "llama",
+    "magma",
+    "mail",
+    "mailing",
+    "mailman",
+    "maim",
+    "maiming",
+    "main",
+    "mainlining",
+    "malign",
+    "maligning",
+    "mall",
+    "mama",
+    "mamma",
+    "mammal",
+    "mammalian",
+    "managing",
+    "manga",
+    "mangling",
+    "mania",
+    "manna",
+    "manning",
+    "mapping",
+    "mill",
+    "milling",
+    "miming",
+    "mingling",
+    "mini",
+    "minim",
+    "minima",
+    "minimal",
+    "mining",
+    "naming",
+    "napalm",
+    "napalming",
+    "palm",
+    "palming",
+    "pimp",
+    "pimping"
+  ],
+  "date": "2038-07-06",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 8,
+      "6": 13,
+      "7": 14,
+      "8": 4,
+      "9": 5,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "G": 2,
+      "I": 6,
+      "L": 10,
+      "M": 31,
+      "N": 3,
+      "P": 4
+    },
+    "grid": {
+      "A": {
+        "6": 2,
+        "7": 1
+      },
+      "G": {
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 2
+      },
+      "L": {
+        "4": 4,
+        "5": 1,
+        "6": 2,
+        "7": 3
+      },
+      "M": {
+        "4": 7,
+        "5": 6,
+        "6": 5,
+        "7": 7,
+        "8": 3,
+        "9": 2,
+        "10": 1
+      },
+      "N": {
+        "6": 2,
+        "9": 1
+      },
+      "P": {
+        "4": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AM": 1,
+      "AN": 1,
+      "GA": 2,
+      "IM": 6,
+      "LA": 4,
+      "LI": 5,
+      "LL": 1,
+      "MA": 22,
+      "MI": 9,
+      "NA": 3,
+      "PA": 2,
+      "PI": 2
+    }
+  }
+}

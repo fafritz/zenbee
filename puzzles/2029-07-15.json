@@ -1,0 +1,99 @@
+{
+  "pangram": "walking",
+  "center_letter": "w",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 189,
+  "answer_pangrams": [
+    "walking"
+  ],
+  "answers": [
+    "awaking",
+    "awing",
+    "awning",
+    "gawk",
+    "gawking",
+    "gnaw",
+    "gnawing",
+    "kiwi",
+    "lawn",
+    "wagging",
+    "waggling",
+    "waging",
+    "wail",
+    "wailing",
+    "waking",
+    "waling",
+    "walk",
+    "walking",
+    "wall",
+    "walling",
+    "wangling",
+    "waning",
+    "wigging",
+    "wiggling",
+    "wigwag",
+    "wigwagging",
+    "wiki",
+    "wiling",
+    "will",
+    "willing",
+    "wing",
+    "winging",
+    "wining",
+    "wink",
+    "winking",
+    "winning"
+  ],
+  "date": "2029-07-15",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 1,
+      "6": 8,
+      "7": 12,
+      "8": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "G": 4,
+      "K": 1,
+      "L": 1,
+      "W": 27
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 2,
+        "7": 2
+      },
+      "K": {
+        "4": 1
+      },
+      "L": {
+        "4": 1
+      },
+      "W": {
+        "4": 7,
+        "6": 7,
+        "7": 9,
+        "8": 3,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AW": 3,
+      "GA": 2,
+      "GN": 2,
+      "KI": 1,
+      "LA": 1,
+      "WA": 13,
+      "WI": 14
+    }
+  }
+}

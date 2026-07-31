@@ -1,0 +1,94 @@
+{
+  "pangram": "digraph",
+  "center_letter": "r",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 77,
+  "answer_pangrams": [
+    "digraph"
+  ],
+  "answers": [
+    "agar",
+    "aria",
+    "arid",
+    "digraph",
+    "drag",
+    "drip",
+    "gird",
+    "grad",
+    "graph",
+    "grid",
+    "grip",
+    "haggard",
+    "hair",
+    "hard",
+    "harp",
+    "pair",
+    "paragraph",
+    "pariah",
+    "prig",
+    "radar",
+    "radii",
+    "raga",
+    "raid",
+    "rapid",
+    "rigid"
+  ],
+  "date": "2035-09-15",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 5,
+      "6": 1,
+      "7": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 3,
+      "G": 5,
+      "H": 4,
+      "P": 4,
+      "R": 6
+    },
+    "grid": {
+      "A": {
+        "4": 3
+      },
+      "D": {
+        "4": 2,
+        "7": 1
+      },
+      "G": {
+        "4": 4,
+        "5": 1
+      },
+      "H": {
+        "4": 3,
+        "7": 1
+      },
+      "P": {
+        "4": 2,
+        "6": 1,
+        "9": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 4
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AR": 2,
+      "DI": 1,
+      "DR": 2,
+      "GI": 1,
+      "GR": 4,
+      "HA": 4,
+      "PA": 3,
+      "PR": 1,
+      "RA": 5,
+      "RI": 1
+    }
+  }
+}

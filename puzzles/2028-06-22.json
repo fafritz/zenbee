@@ -1,0 +1,115 @@
+{
+  "pangram": "parking",
+  "center_letter": "r",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 220,
+  "answer_pangrams": [
+    "parking"
+  ],
+  "answers": [
+    "agar",
+    "agrarian",
+    "airing",
+    "aria",
+    "arraign",
+    "arraigning",
+    "arranging",
+    "garaging",
+    "grain",
+    "grin",
+    "grinning",
+    "grip",
+    "griping",
+    "gripping",
+    "irking",
+    "pair",
+    "pairing",
+    "paprika",
+    "paring",
+    "park",
+    "parka",
+    "parking",
+    "parring",
+    "prank",
+    "prig",
+    "raga",
+    "ragging",
+    "raging",
+    "rain",
+    "raining",
+    "raking",
+    "rang",
+    "ranging",
+    "rank",
+    "ranking",
+    "rapping",
+    "raring",
+    "rigging",
+    "ring",
+    "ringing",
+    "rink",
+    "ripping"
+  ],
+  "date": "2028-06-22",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 3,
+      "6": 6,
+      "7": 14,
+      "8": 4,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "G": 7,
+      "I": 1,
+      "P": 10,
+      "R": 17
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "7": 1,
+        "8": 3
+      },
+      "I": {
+        "6": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 4
+      },
+      "R": {
+        "4": 6,
+        "6": 3,
+        "7": 8
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 1,
+      "AR": 4,
+      "GA": 1,
+      "GR": 6,
+      "IR": 1,
+      "PA": 8,
+      "PR": 2,
+      "RA": 12,
+      "RI": 5
+    }
+  }
+}

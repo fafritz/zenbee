@@ -1,0 +1,110 @@
+{
+  "pangram": "cranium",
+  "center_letter": "a",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 127,
+  "answer_pangrams": [
+    "cranium"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "airman",
+    "aria",
+    "aura",
+    "cairn",
+    "cancan",
+    "canna",
+    "circa",
+    "cram",
+    "cranium",
+    "imam",
+    "maim",
+    "main",
+    "mama",
+    "mamma",
+    "mania",
+    "maniac",
+    "manic",
+    "manna",
+    "maraca",
+    "maria",
+    "marina",
+    "mica",
+    "minima",
+    "naan",
+    "nana",
+    "narc",
+    "niacin",
+    "rain",
+    "unman",
+    "uranium"
+  ],
+  "date": "2031-03-27",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 9,
+      "6": 8,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 6,
+      "I": 1,
+      "M": 13,
+      "N": 4,
+      "R": 1,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "6": 2
+      },
+      "C": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "M": {
+        "4": 4,
+        "5": 5,
+        "6": 4
+      },
+      "N": {
+        "4": 3,
+        "6": 1
+      },
+      "R": {
+        "4": 1
+      },
+      "U": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AI": 1,
+      "AR": 1,
+      "AU": 1,
+      "CA": 3,
+      "CI": 1,
+      "CR": 2,
+      "IM": 1,
+      "MA": 11,
+      "MI": 2,
+      "NA": 3,
+      "NI": 1,
+      "RA": 1,
+      "UN": 1,
+      "UR": 1
+    }
+  }
+}

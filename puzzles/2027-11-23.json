@@ -1,0 +1,84 @@
+{
+  "pangram": "vouched",
+  "center_letter": "h",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 87,
+  "answer_pangrams": [
+    "vouched"
+  ],
+  "answers": [
+    "couch",
+    "couched",
+    "douche",
+    "douched",
+    "echo",
+    "echoed",
+    "heed",
+    "heeded",
+    "hoed",
+    "hooch",
+    "hood",
+    "hooded",
+    "hoodoo",
+    "hoodooed",
+    "hove",
+    "ouch",
+    "vouch",
+    "vouched"
+  ],
+  "date": "2027-11-23",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 3,
+      "6": 5,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 2,
+      "D": 2,
+      "E": 2,
+      "H": 9,
+      "O": 1,
+      "V": 2
+    },
+    "grid": {
+      "C": {
+        "5": 1,
+        "7": 1
+      },
+      "D": {
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 4,
+        "5": 1,
+        "6": 3,
+        "8": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "V": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 2,
+      "DO": 2,
+      "EC": 2,
+      "HE": 2,
+      "HO": 7,
+      "OU": 1,
+      "VO": 2
+    }
+  }
+}

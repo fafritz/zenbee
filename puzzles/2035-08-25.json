@@ -1,0 +1,97 @@
+{
+  "pangram": "lurking",
+  "center_letter": "u",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 133,
+  "answer_pangrams": [
+    "lurking"
+  ],
+  "answers": [
+    "gluing",
+    "gull",
+    "gulling",
+    "gunk",
+    "gunning",
+    "gunrunning",
+    "gurgling",
+    "guru",
+    "inuring",
+    "lugging",
+    "lull",
+    "lulling",
+    "lulu",
+    "lung",
+    "lunging",
+    "luring",
+    "lurk",
+    "lurking",
+    "nuking",
+    "null",
+    "ruin",
+    "ruing",
+    "ruining",
+    "ruling",
+    "rung",
+    "running",
+    "urging"
+  ],
+  "date": "2035-08-25",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 1,
+      "6": 5,
+      "7": 9,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "G": 8,
+      "I": 1,
+      "L": 9,
+      "N": 2,
+      "R": 6,
+      "U": 1
+    },
+    "grid": {
+      "G": {
+        "4": 3,
+        "6": 1,
+        "7": 2,
+        "8": 1,
+        "10": 1
+      },
+      "I": {
+        "7": 1
+      },
+      "L": {
+        "4": 4,
+        "6": 1,
+        "7": 4
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 2
+      },
+      "U": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "GL": 1,
+      "GU": 7,
+      "IN": 1,
+      "LU": 9,
+      "NU": 2,
+      "RU": 6,
+      "UR": 1
+    }
+  }
+}

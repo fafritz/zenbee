@@ -1,0 +1,137 @@
+{
+  "pangram": "lapwing",
+  "center_letter": "l",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 260,
+  "answer_pangrams": [
+    "lapwing"
+  ],
+  "answers": [
+    "ailing",
+    "alga",
+    "align",
+    "aligning",
+    "anal",
+    "angling",
+    "appall",
+    "appalling",
+    "gala",
+    "gall",
+    "galling",
+    "ganglia",
+    "gangling",
+    "giggling",
+    "gill",
+    "lagging",
+    "lain",
+    "lapping",
+    "lapwing",
+    "lawn",
+    "lining",
+    "nail",
+    "nailing",
+    "niggling",
+    "pail",
+    "paling",
+    "pall",
+    "palling",
+    "papal",
+    "papilla",
+    "pawl",
+    "piling",
+    "pill",
+    "pillaging",
+    "pilling",
+    "plain",
+    "plan",
+    "planing",
+    "planning",
+    "waggling",
+    "wail",
+    "wailing",
+    "waling",
+    "wall",
+    "walling",
+    "wangling",
+    "wiggling",
+    "wiling",
+    "will",
+    "willing"
+  ],
+  "date": "2031-05-22",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 3,
+      "6": 7,
+      "7": 14,
+      "8": 8,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 8,
+      "G": 7,
+      "L": 6,
+      "N": 3,
+      "P": 15,
+      "W": 11
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "G": {
+        "4": 3,
+        "7": 2,
+        "8": 2
+      },
+      "L": {
+        "4": 2,
+        "6": 1,
+        "7": 3
+      },
+      "N": {
+        "4": 1,
+        "7": 1,
+        "8": 1
+      },
+      "P": {
+        "4": 5,
+        "5": 2,
+        "6": 2,
+        "7": 4,
+        "8": 1,
+        "9": 1
+      },
+      "W": {
+        "4": 3,
+        "6": 2,
+        "7": 3,
+        "8": 3
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AL": 3,
+      "AN": 2,
+      "AP": 2,
+      "GA": 5,
+      "GI": 2,
+      "LA": 5,
+      "LI": 1,
+      "NA": 2,
+      "NI": 1,
+      "PA": 7,
+      "PI": 4,
+      "PL": 4,
+      "WA": 7,
+      "WI": 4
+    }
+  }
+}

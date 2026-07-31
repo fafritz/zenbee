@@ -1,0 +1,118 @@
+{
+  "pangram": "menthol",
+  "center_letter": "l",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 138,
+  "answer_pangrams": [
+    "menthol"
+  ],
+  "answers": [
+    "element",
+    "heel",
+    "hell",
+    "hellhole",
+    "hello",
+    "helm",
+    "helmet",
+    "helot",
+    "hole",
+    "hotel",
+    "lemon",
+    "lent",
+    "loll",
+    "lone",
+    "loom",
+    "loon",
+    "loot",
+    "lotto",
+    "melee",
+    "melon",
+    "melt",
+    "menthol",
+    "mettle",
+    "mole",
+    "moll",
+    "molt",
+    "molten",
+    "motel",
+    "mottle",
+    "nettle",
+    "noel",
+    "oleo",
+    "omelet",
+    "telethon",
+    "tell",
+    "telnet",
+    "toll",
+    "tool"
+  ],
+  "date": "2032-01-23",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 8,
+      "6": 7,
+      "7": 2,
+      "8": 2
+    },
+    "by_first_letter": {
+      "E": 1,
+      "H": 9,
+      "L": 8,
+      "M": 11,
+      "N": 2,
+      "O": 2,
+      "T": 5
+    },
+    "grid": {
+      "E": {
+        "7": 1
+      },
+      "H": {
+        "4": 4,
+        "5": 3,
+        "6": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 6,
+        "5": 2
+      },
+      "M": {
+        "4": 4,
+        "5": 3,
+        "6": 3,
+        "7": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 3,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "EL": 1,
+      "HE": 7,
+      "HO": 2,
+      "LE": 2,
+      "LO": 6,
+      "ME": 5,
+      "MO": 6,
+      "NE": 1,
+      "NO": 1,
+      "OL": 1,
+      "OM": 1,
+      "TE": 3,
+      "TO": 2
+    }
+  }
+}

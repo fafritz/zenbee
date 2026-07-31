@@ -1,0 +1,144 @@
+{
+  "pangram": "yelping",
+  "center_letter": "n",
+  "num_answers": 55,
+  "num_pangrams": 1,
+  "possible_points": 311,
+  "answer_pangrams": [
+    "yelping"
+  ],
+  "answers": [
+    "egging",
+    "engine",
+    "eyeing",
+    "geeing",
+    "gelling",
+    "gene",
+    "genie",
+    "genii",
+    "gigging",
+    "giggling",
+    "ginning",
+    "glen",
+    "gypping",
+    "inline",
+    "inning",
+    "legging",
+    "lien",
+    "line",
+    "linen",
+    "lining",
+    "lying",
+    "negligee",
+    "nene",
+    "niggle",
+    "niggling",
+    "nine",
+    "ninny",
+    "nipping",
+    "nippy",
+    "peeing",
+    "peeling",
+    "peen",
+    "peeping",
+    "penile",
+    "penning",
+    "penny",
+    "pepping",
+    "pieing",
+    "pigging",
+    "pigpen",
+    "piling",
+    "pilling",
+    "pine",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "pipeline",
+    "piping",
+    "pippin",
+    "pipping",
+    "plying",
+    "yelling",
+    "yelping",
+    "yipping"
+  ],
+  "date": "2031-02-18",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 7,
+      "6": 17,
+      "7": 18,
+      "8": 4
+    },
+    "by_first_letter": {
+      "E": 3,
+      "G": 10,
+      "I": 2,
+      "L": 6,
+      "N": 8,
+      "P": 23,
+      "Y": 3
+    },
+    "grid": {
+      "E": {
+        "6": 3
+      },
+      "G": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 4,
+        "8": 1
+      },
+      "I": {
+        "6": 2
+      },
+      "L": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "8": 2
+      },
+      "P": {
+        "4": 3,
+        "5": 1,
+        "6": 9,
+        "7": 9,
+        "8": 1
+      },
+      "Y": {
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "EG": 1,
+      "EN": 1,
+      "EY": 1,
+      "GE": 5,
+      "GI": 3,
+      "GL": 1,
+      "GY": 1,
+      "IN": 2,
+      "LE": 1,
+      "LI": 4,
+      "LY": 1,
+      "NE": 2,
+      "NI": 6,
+      "PE": 8,
+      "PI": 14,
+      "PL": 1,
+      "YE": 2,
+      "YI": 1
+    }
+  }
+}

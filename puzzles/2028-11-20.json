@@ -1,0 +1,83 @@
+{
+  "pangram": "bronchi",
+  "center_letter": "h",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 91,
+  "answer_pangrams": [
+    "bronchi"
+  ],
+  "answers": [
+    "birch",
+    "bronchi",
+    "brooch",
+    "chic",
+    "chin",
+    "chino",
+    "choir",
+    "chronic",
+    "cinch",
+    "conch",
+    "hobnob",
+    "hobo",
+    "honcho",
+    "honor",
+    "hooch",
+    "horn",
+    "horror",
+    "inch",
+    "rhino",
+    "rich"
+  ],
+  "date": "2028-11-20",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 8,
+      "6": 4,
+      "7": 2
+    },
+    "by_first_letter": {
+      "B": 3,
+      "C": 7,
+      "H": 7,
+      "I": 1,
+      "R": 2
+    },
+    "grid": {
+      "B": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 4,
+        "7": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 2,
+        "6": 3
+      },
+      "I": {
+        "4": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "BI": 1,
+      "BR": 2,
+      "CH": 5,
+      "CI": 1,
+      "CO": 1,
+      "HO": 7,
+      "IN": 1,
+      "RH": 1,
+      "RI": 1
+    }
+  }
+}

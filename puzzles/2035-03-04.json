@@ -1,0 +1,147 @@
+{
+  "pangram": "windbag",
+  "center_letter": "i",
+  "num_answers": 58,
+  "num_pangrams": 1,
+  "possible_points": 353,
+  "answer_pangrams": [
+    "windbag"
+  ],
+  "answers": [
+    "abiding",
+    "adding",
+    "again",
+    "aging",
+    "aiding",
+    "angina",
+    "awing",
+    "awning",
+    "baaing",
+    "bagging",
+    "bandaging",
+    "banding",
+    "banging",
+    "banning",
+    "bidding",
+    "biding",
+    "bigwig",
+    "bind",
+    "binding",
+    "binning",
+    "dabbing",
+    "dawning",
+    "digging",
+    "ding",
+    "dinging",
+    "dining",
+    "dinning",
+    "gabbing",
+    "gadding",
+    "gagging",
+    "gain",
+    "gaining",
+    "ganging",
+    "gibing",
+    "gigging",
+    "ginning",
+    "gnawing",
+    "ibid",
+    "inning",
+    "nabbing",
+    "nagging",
+    "naiad",
+    "wadding",
+    "wadi",
+    "wading",
+    "wagging",
+    "waging",
+    "waning",
+    "wigging",
+    "wigwag",
+    "wigwagging",
+    "wind",
+    "windbag",
+    "winding",
+    "wing",
+    "winging",
+    "wining",
+    "winning"
+  ],
+  "date": "2035-03-04",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 4,
+      "6": 15,
+      "7": 30,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "B": 12,
+      "D": 7,
+      "G": 10,
+      "I": 2,
+      "N": 3,
+      "W": 16
+    },
+    "grid": {
+      "A": {
+        "5": 3,
+        "6": 4,
+        "7": 1
+      },
+      "B": {
+        "4": 1,
+        "6": 3,
+        "7": 7,
+        "9": 1
+      },
+      "D": {
+        "4": 1,
+        "6": 1,
+        "7": 5
+      },
+      "G": {
+        "4": 1,
+        "6": 1,
+        "7": 8
+      },
+      "I": {
+        "4": 1,
+        "6": 1
+      },
+      "N": {
+        "5": 1,
+        "7": 2
+      },
+      "W": {
+        "4": 3,
+        "6": 5,
+        "7": 7,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AD": 1,
+      "AG": 2,
+      "AI": 1,
+      "AN": 1,
+      "AW": 2,
+      "BA": 6,
+      "BI": 6,
+      "DA": 2,
+      "DI": 5,
+      "GA": 6,
+      "GI": 3,
+      "GN": 1,
+      "IB": 1,
+      "IN": 1,
+      "NA": 3,
+      "WA": 6,
+      "WI": 10
+    }
+  }
+}

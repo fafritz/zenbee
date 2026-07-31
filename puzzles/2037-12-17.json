@@ -1,0 +1,114 @@
+{
+  "pangram": "caulked",
+  "center_letter": "u",
+  "num_answers": 43,
+  "num_pangrams": 1,
+  "possible_points": 196,
+  "answer_pangrams": [
+    "caulked"
+  ],
+  "answers": [
+    "adduce",
+    "adduced",
+    "allude",
+    "alluded",
+    "caudal",
+    "caulk",
+    "caulked",
+    "cluck",
+    "clucked",
+    "clue",
+    "clued",
+    "cuddle",
+    "cuddled",
+    "cued",
+    "cull",
+    "culled",
+    "deduce",
+    "deduced",
+    "delude",
+    "deluded",
+    "deuce",
+    "dual",
+    "ducal",
+    "duck",
+    "ducked",
+    "dude",
+    "duded",
+    "duel",
+    "dueled",
+    "duke",
+    "dull",
+    "dulled",
+    "elude",
+    "eluded",
+    "laud",
+    "lauded",
+    "luau",
+    "luck",
+    "lucked",
+    "lull",
+    "lulled",
+    "lulu",
+    "ukulele"
+  ],
+  "date": "2037-12-17",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 7,
+      "6": 14,
+      "7": 8
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 12,
+      "D": 16,
+      "E": 2,
+      "L": 8,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "6": 2,
+        "7": 2
+      },
+      "C": {
+        "4": 3,
+        "5": 3,
+        "6": 3,
+        "7": 3
+      },
+      "D": {
+        "4": 6,
+        "5": 3,
+        "6": 5,
+        "7": 2
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 5,
+        "6": 3
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 2,
+      "AL": 2,
+      "CA": 3,
+      "CL": 4,
+      "CU": 5,
+      "DE": 5,
+      "DU": 11,
+      "EL": 2,
+      "LA": 2,
+      "LU": 6,
+      "UK": 1
+    }
+  }
+}

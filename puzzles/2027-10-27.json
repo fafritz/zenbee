@@ -1,0 +1,85 @@
+{
+  "pangram": "journal",
+  "center_letter": "n",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 59,
+  "answer_pangrams": [
+    "journal"
+  ],
+  "answers": [
+    "anal",
+    "annual",
+    "annul",
+    "annular",
+    "anon",
+    "journal",
+    "llano",
+    "loan",
+    "loon",
+    "lunar",
+    "naan",
+    "nana",
+    "noon",
+    "noun",
+    "null",
+    "roan",
+    "ulna",
+    "unroll"
+  ],
+  "date": "2027-10-27",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 3,
+      "6": 2,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "J": 1,
+      "L": 4,
+      "N": 5,
+      "R": 1,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "J": {
+        "7": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 2
+      },
+      "N": {
+        "4": 5
+      },
+      "R": {
+        "4": 1
+      },
+      "U": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 5,
+      "JO": 1,
+      "LL": 1,
+      "LO": 2,
+      "LU": 1,
+      "NA": 2,
+      "NO": 2,
+      "NU": 1,
+      "RO": 1,
+      "UL": 1,
+      "UN": 1
+    }
+  }
+}

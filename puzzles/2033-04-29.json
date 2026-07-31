@@ -1,0 +1,104 @@
+{
+  "pangram": "airlock",
+  "center_letter": "r",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 133,
+  "answer_pangrams": [
+    "airlock"
+  ],
+  "answers": [
+    "airlock",
+    "aria",
+    "caloric",
+    "carol",
+    "circa",
+    "cirri",
+    "collar",
+    "color",
+    "coral",
+    "cork",
+    "corolla",
+    "corral",
+    "crack",
+    "crick",
+    "croak",
+    "crock",
+    "crook",
+    "lair",
+    "lark",
+    "liar",
+    "lira",
+    "oarlock",
+    "okra",
+    "oral",
+    "racial",
+    "rack",
+    "rail",
+    "rick",
+    "rill",
+    "roar",
+    "rock",
+    "rococo",
+    "roil",
+    "roll",
+    "rollick",
+    "rook"
+  ],
+  "date": "2033-04-29",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 10,
+      "6": 4,
+      "7": 5
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 15,
+      "L": 4,
+      "O": 3,
+      "R": 12
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 10,
+        "6": 2,
+        "7": 2
+      },
+      "L": {
+        "4": 4
+      },
+      "O": {
+        "4": 2,
+        "7": 1
+      },
+      "R": {
+        "4": 9,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AR": 1,
+      "CA": 2,
+      "CI": 2,
+      "CO": 6,
+      "CR": 5,
+      "LA": 2,
+      "LI": 2,
+      "OA": 1,
+      "OK": 1,
+      "OR": 1,
+      "RA": 3,
+      "RI": 2,
+      "RO": 7
+    }
+  }
+}

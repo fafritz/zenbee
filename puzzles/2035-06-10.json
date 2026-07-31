@@ -1,0 +1,98 @@
+{
+  "pangram": "folding",
+  "center_letter": "f",
+  "num_answers": 34,
+  "num_pangrams": 3,
+  "possible_points": 177,
+  "answer_pangrams": [
+    "flooding",
+    "folding",
+    "fondling"
+  ],
+  "answers": [
+    "diff",
+    "diffing",
+    "doff",
+    "doffing",
+    "fiddling",
+    "filing",
+    "fill",
+    "filling",
+    "find",
+    "finding",
+    "fining",
+    "fling",
+    "flinging",
+    "flog",
+    "flogging",
+    "flood",
+    "flooding",
+    "fogging",
+    "foil",
+    "foiling",
+    "fold",
+    "folding",
+    "folio",
+    "fond",
+    "fondling",
+    "food",
+    "fool",
+    "fooling",
+    "golf",
+    "golfing",
+    "goof",
+    "goofing",
+    "info",
+    "offing"
+  ],
+  "date": "2035-06-10",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 3,
+      "6": 3,
+      "7": 10,
+      "8": 5
+    },
+    "by_first_letter": {
+      "D": 4,
+      "F": 24,
+      "G": 4,
+      "I": 1,
+      "O": 1
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "7": 2
+      },
+      "F": {
+        "4": 8,
+        "5": 3,
+        "6": 2,
+        "7": 6,
+        "8": 5
+      },
+      "G": {
+        "4": 2,
+        "7": 2
+      },
+      "I": {
+        "4": 1
+      },
+      "O": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "DI": 2,
+      "DO": 2,
+      "FI": 7,
+      "FL": 6,
+      "FO": 11,
+      "GO": 4,
+      "IN": 1,
+      "OF": 1
+    }
+  }
+}

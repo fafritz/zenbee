@@ -1,0 +1,145 @@
+{
+  "pangram": "hepatic",
+  "center_letter": "a",
+  "num_answers": 54,
+  "num_pangrams": 3,
+  "possible_points": 245,
+  "answer_pangrams": [
+    "apathetic",
+    "hepatic",
+    "pathetic"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "accept",
+    "acetate",
+    "acetic",
+    "ache",
+    "apace",
+    "apathetic",
+    "apiece",
+    "appetite",
+    "attach",
+    "attache",
+    "attic",
+    "cache",
+    "cachet",
+    "cacti",
+    "cape",
+    "catch",
+    "chap",
+    "chat",
+    "cheap",
+    "cheat",
+    "cheetah",
+    "chitchat",
+    "each",
+    "epitaph",
+    "hatch",
+    "hatchet",
+    "hate",
+    "heap",
+    "heat",
+    "heath",
+    "hepatic",
+    "ipecac",
+    "pace",
+    "pact",
+    "papa",
+    "patch",
+    "pate",
+    "path",
+    "pathetic",
+    "peace",
+    "peach",
+    "peat",
+    "pica",
+    "pita",
+    "tacit",
+    "tact",
+    "tactic",
+    "tape",
+    "teach",
+    "that",
+    "thatch",
+    "theta"
+  ],
+  "date": "2037-10-29",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 15,
+      "6": 9,
+      "7": 6,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 13,
+      "C": 11,
+      "E": 2,
+      "H": 7,
+      "I": 1,
+      "P": 12,
+      "T": 8
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "6": 5,
+        "7": 2,
+        "8": 1,
+        "9": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 5,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "4": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 2,
+        "7": 2
+      },
+      "I": {
+        "6": 1
+      },
+      "P": {
+        "4": 8,
+        "5": 3,
+        "8": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 3,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 6,
+      "AP": 4,
+      "AT": 3,
+      "CA": 5,
+      "CH": 6,
+      "EA": 1,
+      "EP": 1,
+      "HA": 3,
+      "HE": 4,
+      "IP": 1,
+      "PA": 7,
+      "PE": 3,
+      "PI": 2,
+      "TA": 4,
+      "TE": 1,
+      "TH": 3
+    }
+  }
+}

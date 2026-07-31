@@ -1,0 +1,142 @@
+{
+  "pangram": "unlaced",
+  "center_letter": "c",
+  "num_answers": 60,
+  "num_pangrams": 2,
+  "possible_points": 318,
+  "answer_pangrams": [
+    "uncalled",
+    "unlaced"
+  ],
+  "answers": [
+    "accede",
+    "acceded",
+    "aced",
+    "acne",
+    "adduce",
+    "adduced",
+    "cadence",
+    "call",
+    "calla",
+    "called",
+    "canal",
+    "cancan",
+    "cancel",
+    "canceled",
+    "candle",
+    "candled",
+    "cane",
+    "caned",
+    "canna",
+    "canned",
+    "cannula",
+    "canula",
+    "caudal",
+    "cede",
+    "ceded",
+    "cell",
+    "clad",
+    "clan",
+    "clean",
+    "cleaned",
+    "clue",
+    "clued",
+    "cuddle",
+    "cuddled",
+    "cued",
+    "cull",
+    "culled",
+    "dance",
+    "danced",
+    "decade",
+    "decadence",
+    "decal",
+    "deduce",
+    "deduced",
+    "deuce",
+    "ducal",
+    "dunce",
+    "lace",
+    "laced",
+    "lacuna",
+    "lacunae",
+    "lance",
+    "lanced",
+    "nuance",
+    "nuanced",
+    "uncalled",
+    "uncle",
+    "unclean",
+    "unlace",
+    "unlaced"
+  ],
+  "date": "2035-12-15",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 15,
+      "6": 18,
+      "7": 12,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 31,
+      "D": 10,
+      "L": 6,
+      "N": 2,
+      "U": 5
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 2,
+        "7": 2
+      },
+      "C": {
+        "4": 9,
+        "5": 7,
+        "6": 9,
+        "7": 5,
+        "8": 1
+      },
+      "D": {
+        "5": 5,
+        "6": 3,
+        "7": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "N": {
+        "6": 1,
+        "7": 1
+      },
+      "U": {
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 4,
+      "AD": 2,
+      "CA": 17,
+      "CE": 3,
+      "CL": 6,
+      "CU": 5,
+      "DA": 2,
+      "DE": 6,
+      "DU": 2,
+      "LA": 6,
+      "NU": 2,
+      "UN": 5
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "pangram": "virtual",
+  "center_letter": "v",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 109,
+  "answer_pangrams": [
+    "virtual"
+  ],
+  "answers": [
+    "alluvial",
+    "arrival",
+    "avail",
+    "avatar",
+    "larva",
+    "larval",
+    "lava",
+    "rival",
+    "travail",
+    "trivia",
+    "trivial",
+    "uvula",
+    "uvular",
+    "vault",
+    "vial",
+    "villa",
+    "viral",
+    "virtual",
+    "vital"
+  ],
+  "date": "2030-05-29",
+  "hints": {
+    "by_length": {
+      "4": 2,
+      "5": 8,
+      "6": 4,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "L": 3,
+      "R": 1,
+      "T": 3,
+      "U": 2,
+      "V": 6
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "R": {
+        "5": 1
+      },
+      "T": {
+        "6": 1,
+        "7": 2
+      },
+      "U": {
+        "5": 1,
+        "6": 1
+      },
+      "V": {
+        "4": 1,
+        "5": 4,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AR": 1,
+      "AV": 2,
+      "LA": 3,
+      "RI": 1,
+      "TR": 3,
+      "UV": 2,
+      "VA": 1,
+      "VI": 5
+    }
+  }
+}

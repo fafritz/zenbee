@@ -1,0 +1,104 @@
+{
+  "pangram": "glamour",
+  "center_letter": "o",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 105,
+  "answer_pangrams": [
+    "glamour"
+  ],
+  "answers": [
+    "agog",
+    "ammo",
+    "amoral",
+    "amour",
+    "armor",
+    "aroma",
+    "glamour",
+    "gloom",
+    "goal",
+    "grog",
+    "groom",
+    "largo",
+    "loam",
+    "logo",
+    "loll",
+    "loom",
+    "mammogram",
+    "mogul",
+    "molar",
+    "moll",
+    "momma",
+    "moor",
+    "moral",
+    "oral",
+    "ormolu",
+    "roam",
+    "roar",
+    "roll",
+    "room",
+    "rumor"
+  ],
+  "date": "2031-11-22",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 11,
+      "6": 2,
+      "7": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "G": 5,
+      "L": 5,
+      "M": 7,
+      "O": 2,
+      "R": 5
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "6": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 1
+      },
+      "M": {
+        "4": 2,
+        "5": 4,
+        "9": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 1
+      },
+      "R": {
+        "4": 4,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AM": 3,
+      "AR": 2,
+      "GL": 2,
+      "GO": 1,
+      "GR": 2,
+      "LA": 1,
+      "LO": 4,
+      "MA": 1,
+      "MO": 6,
+      "OR": 2,
+      "RO": 4,
+      "RU": 1
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "pangram": "company",
+  "center_letter": "p",
+  "num_answers": 21,
+  "num_pangrams": 2,
+  "possible_points": 92,
+  "answer_pangrams": [
+    "accompany",
+    "company"
+  ],
+  "answers": [
+    "accompany",
+    "camp",
+    "campo",
+    "campy",
+    "canopy",
+    "capo",
+    "capon",
+    "comp",
+    "company",
+    "compo",
+    "coop",
+    "copay",
+    "copy",
+    "nappy",
+    "papa",
+    "papacy",
+    "papaya",
+    "pomp",
+    "pony",
+    "poop",
+    "poppy"
+  ],
+  "date": "2033-04-02",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 7,
+      "6": 3,
+      "7": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 12,
+      "N": 1,
+      "P": 7
+    },
+    "grid": {
+      "A": {
+        "9": 1
+      },
+      "C": {
+        "4": 5,
+        "5": 5,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "5": 1
+      },
+      "P": {
+        "4": 4,
+        "5": 1,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "CA": 6,
+      "CO": 6,
+      "NA": 1,
+      "PA": 3,
+      "PO": 4
+    }
+  }
+}

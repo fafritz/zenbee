@@ -1,0 +1,88 @@
+{
+  "pangram": "culprit",
+  "center_letter": "l",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 61,
+  "answer_pangrams": [
+    "culprit"
+  ],
+  "answers": [
+    "clip",
+    "cull",
+    "culprit",
+    "cult",
+    "curl",
+    "illicit",
+    "licit",
+    "lilt",
+    "lull",
+    "lulu",
+    "pill",
+    "pull",
+    "pulp",
+    "pulpit",
+    "pupil",
+    "purl",
+    "rill",
+    "till",
+    "tilt",
+    "trill",
+    "tulip"
+  ],
+  "date": "2029-04-02",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 4,
+      "6": 1,
+      "7": 2
+    },
+    "by_first_letter": {
+      "C": 5,
+      "I": 1,
+      "L": 4,
+      "P": 6,
+      "R": 1,
+      "T": 4
+    },
+    "grid": {
+      "C": {
+        "4": 4,
+        "7": 1
+      },
+      "I": {
+        "7": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1
+      },
+      "P": {
+        "4": 4,
+        "5": 1,
+        "6": 1
+      },
+      "R": {
+        "4": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "CL": 1,
+      "CU": 4,
+      "IL": 1,
+      "LI": 2,
+      "LU": 2,
+      "PI": 1,
+      "PU": 5,
+      "RI": 1,
+      "TI": 2,
+      "TR": 1,
+      "TU": 1
+    }
+  }
+}

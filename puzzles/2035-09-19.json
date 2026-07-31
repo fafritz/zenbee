@@ -1,0 +1,143 @@
+{
+  "pangram": "figment",
+  "center_letter": "t",
+  "num_answers": 53,
+  "num_pangrams": 1,
+  "possible_points": 263,
+  "answer_pangrams": [
+    "figment"
+  ],
+  "answers": [
+    "effete",
+    "eminent",
+    "emit",
+    "emitting",
+    "entente",
+    "feet",
+    "feint",
+    "feinting",
+    "fete",
+    "feting",
+    "fifteen",
+    "figment",
+    "finite",
+    "fitting",
+    "gent",
+    "getting",
+    "gift",
+    "gifting",
+    "ignite",
+    "igniting",
+    "imminent",
+    "infinite",
+    "intent",
+    "item",
+    "meet",
+    "meeting",
+    "mete",
+    "meting",
+    "mint",
+    "minting",
+    "mite",
+    "mitt",
+    "mitten",
+    "netting",
+    "nineteen",
+    "teeing",
+    "teem",
+    "teeming",
+    "teen",
+    "tenement",
+    "tenet",
+    "tent",
+    "tenting",
+    "tiff",
+    "tiffing",
+    "time",
+    "timing",
+    "tine",
+    "tinge",
+    "tingeing",
+    "tinning",
+    "tint",
+    "tinting"
+  ],
+  "date": "2035-09-19",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 3,
+      "6": 9,
+      "7": 15,
+      "8": 8
+    },
+    "by_first_letter": {
+      "E": 5,
+      "F": 9,
+      "G": 4,
+      "I": 6,
+      "M": 9,
+      "N": 2,
+      "T": 18
+    },
+    "grid": {
+      "E": {
+        "4": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "F": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 3,
+        "8": 1
+      },
+      "G": {
+        "4": 2,
+        "7": 2
+      },
+      "I": {
+        "4": 1,
+        "6": 2,
+        "8": 3
+      },
+      "M": {
+        "4": 5,
+        "6": 2,
+        "7": 2
+      },
+      "N": {
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 7,
+        "5": 2,
+        "6": 2,
+        "7": 5,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "EF": 1,
+      "EM": 3,
+      "EN": 1,
+      "FE": 5,
+      "FI": 4,
+      "GE": 2,
+      "GI": 2,
+      "IG": 2,
+      "IM": 1,
+      "IN": 2,
+      "IT": 1,
+      "ME": 4,
+      "MI": 5,
+      "NE": 1,
+      "NI": 1,
+      "TE": 8,
+      "TI": 10
+    }
+  }
+}

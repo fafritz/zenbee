@@ -1,0 +1,130 @@
+{
+  "pangram": "whaling",
+  "center_letter": "l",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 218,
+  "answer_pangrams": [
+    "whaling"
+  ],
+  "answers": [
+    "ailing",
+    "alga",
+    "align",
+    "aligning",
+    "anal",
+    "angling",
+    "gala",
+    "gall",
+    "galling",
+    "ganglia",
+    "gangling",
+    "giggling",
+    "gill",
+    "haggling",
+    "hail",
+    "hailing",
+    "halal",
+    "haling",
+    "hall",
+    "hangnail",
+    "hill",
+    "inhaling",
+    "lagging",
+    "lain",
+    "lawn",
+    "lining",
+    "nail",
+    "nailing",
+    "niggling",
+    "waggling",
+    "wail",
+    "wailing",
+    "waling",
+    "wall",
+    "walling",
+    "wangling",
+    "whaling",
+    "whiling",
+    "wiggling",
+    "wiling",
+    "will",
+    "willing"
+  ],
+  "date": "2026-09-16",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 2,
+      "6": 5,
+      "7": 11,
+      "8": 10
+    },
+    "by_first_letter": {
+      "A": 6,
+      "G": 7,
+      "H": 8,
+      "I": 1,
+      "L": 4,
+      "N": 3,
+      "W": 13
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 3,
+        "7": 2,
+        "8": 2
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 2
+      },
+      "I": {
+        "8": 1
+      },
+      "L": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 1,
+        "7": 1,
+        "8": 1
+      },
+      "W": {
+        "4": 3,
+        "6": 2,
+        "7": 5,
+        "8": 3
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AL": 3,
+      "AN": 2,
+      "GA": 5,
+      "GI": 2,
+      "HA": 7,
+      "HI": 1,
+      "IN": 1,
+      "LA": 3,
+      "LI": 1,
+      "NA": 2,
+      "NI": 1,
+      "WA": 7,
+      "WH": 2,
+      "WI": 4
+    }
+  }
+}

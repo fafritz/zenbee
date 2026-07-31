@@ -1,0 +1,95 @@
+{
+  "pangram": "courtly",
+  "center_letter": "u",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 96,
+  "answer_pangrams": [
+    "courtly"
+  ],
+  "answers": [
+    "clout",
+    "court",
+    "courtly",
+    "cull",
+    "cult",
+    "curl",
+    "curly",
+    "curry",
+    "curt",
+    "curtly",
+    "cutout",
+    "lout",
+    "lull",
+    "lulu",
+    "occult",
+    "occur",
+    "outcry",
+    "rout",
+    "tour",
+    "tout",
+    "trout",
+    "truly",
+    "tryout",
+    "tutor",
+    "tutu",
+    "your"
+  ],
+  "date": "2033-08-22",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 8,
+      "6": 5,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 11,
+      "L": 3,
+      "O": 3,
+      "R": 1,
+      "T": 7,
+      "Y": 1
+    },
+    "grid": {
+      "C": {
+        "4": 4,
+        "5": 4,
+        "6": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 3
+      },
+      "O": {
+        "5": 1,
+        "6": 2
+      },
+      "R": {
+        "4": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 3,
+        "6": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 1,
+      "CO": 2,
+      "CU": 8,
+      "LO": 1,
+      "LU": 2,
+      "OC": 2,
+      "OU": 1,
+      "RO": 1,
+      "TO": 2,
+      "TR": 3,
+      "TU": 2,
+      "YO": 1
+    }
+  }
+}

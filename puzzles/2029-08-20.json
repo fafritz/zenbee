@@ -1,0 +1,67 @@
+{
+  "pangram": "mucking",
+  "center_letter": "m",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 107,
+  "answer_pangrams": [
+    "mucking"
+  ],
+  "answers": [
+    "cumin",
+    "gimmick",
+    "gumming",
+    "miking",
+    "mimic",
+    "mimicking",
+    "miming",
+    "mincing",
+    "mini",
+    "minim",
+    "minimum",
+    "mining",
+    "mink",
+    "muck",
+    "mucking",
+    "mugging",
+    "munging",
+    "muumuu"
+  ],
+  "date": "2029-08-20",
+  "hints": {
+    "by_length": {
+      "4": 3,
+      "5": 3,
+      "6": 4,
+      "7": 7,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 1,
+      "G": 2,
+      "M": 15
+    },
+    "grid": {
+      "C": {
+        "5": 1
+      },
+      "G": {
+        "7": 2
+      },
+      "M": {
+        "4": 3,
+        "5": 2,
+        "6": 4,
+        "7": 5,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "CU": 1,
+      "GI": 1,
+      "GU": 1,
+      "MI": 10,
+      "MU": 5
+    }
+  }
+}

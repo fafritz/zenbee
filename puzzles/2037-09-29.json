@@ -1,0 +1,137 @@
+{
+  "pangram": "phonied",
+  "center_letter": "n",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 218,
+  "answer_pangrams": [
+    "phonied"
+  ],
+  "answers": [
+    "deepen",
+    "deepened",
+    "denied",
+    "depend",
+    "depended",
+    "dine",
+    "dined",
+    "dinned",
+    "done",
+    "donned",
+    "ended",
+    "hidden",
+    "hind",
+    "hone",
+    "honed",
+    "indeed",
+    "iodine",
+    "iphone",
+    "need",
+    "needed",
+    "nene",
+    "neon",
+    "nine",
+    "nipped",
+    "nodded",
+    "node",
+    "none",
+    "noon",
+    "nope",
+    "onion",
+    "open",
+    "opened",
+    "opine",
+    "opined",
+    "opinion",
+    "peen",
+    "penned",
+    "pennon",
+    "peon",
+    "phone",
+    "phoned",
+    "phonied",
+    "pine",
+    "pined",
+    "pinion",
+    "pinioned",
+    "pinned",
+    "pippin",
+    "pond",
+    "pone"
+  ],
+  "date": "2037-09-29",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 7,
+      "6": 20,
+      "7": 2,
+      "8": 3
+    },
+    "by_first_letter": {
+      "D": 10,
+      "E": 1,
+      "H": 4,
+      "I": 3,
+      "N": 11,
+      "O": 6,
+      "P": 15
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 5,
+        "8": 2
+      },
+      "E": {
+        "5": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "6": 3
+      },
+      "N": {
+        "4": 8,
+        "6": 3
+      },
+      "O": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "P": {
+        "4": 5,
+        "5": 2,
+        "6": 6,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 5,
+      "DI": 3,
+      "DO": 2,
+      "EN": 1,
+      "HI": 2,
+      "HO": 2,
+      "IN": 1,
+      "IO": 1,
+      "IP": 1,
+      "NE": 4,
+      "NI": 2,
+      "NO": 5,
+      "ON": 1,
+      "OP": 5,
+      "PE": 4,
+      "PH": 3,
+      "PI": 6,
+      "PO": 2
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "pangram": "plaudit",
+  "center_letter": "l",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 125,
+  "answer_pangrams": [
+    "plaudit"
+  ],
+  "answers": [
+    "adult",
+    "appall",
+    "applaud",
+    "dial",
+    "dill",
+    "dual",
+    "dull",
+    "laid",
+    "laud",
+    "lilt",
+    "lipid",
+    "luau",
+    "lull",
+    "lulu",
+    "pail",
+    "palatal",
+    "palatial",
+    "pall",
+    "pallid",
+    "papal",
+    "papilla",
+    "pill",
+    "plaid",
+    "plait",
+    "plaudit",
+    "pull",
+    "pulp",
+    "pulpit",
+    "pupal",
+    "pupil",
+    "tail",
+    "tall",
+    "tidal",
+    "till",
+    "tilt",
+    "tulip"
+  ],
+  "date": "2036-12-25",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 9,
+      "6": 3,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 4,
+      "L": 7,
+      "P": 16,
+      "T": 6
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 4
+      },
+      "L": {
+        "4": 6,
+        "5": 1
+      },
+      "P": {
+        "4": 5,
+        "5": 5,
+        "6": 2,
+        "7": 3,
+        "8": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AP": 2,
+      "DI": 2,
+      "DU": 2,
+      "LA": 2,
+      "LI": 2,
+      "LU": 3,
+      "PA": 7,
+      "PI": 1,
+      "PL": 3,
+      "PU": 5,
+      "TA": 2,
+      "TI": 3,
+      "TU": 1
+    }
+  }
+}

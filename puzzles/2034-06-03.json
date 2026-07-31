@@ -1,0 +1,108 @@
+{
+  "pangram": "tabloid",
+  "center_letter": "b",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 125,
+  "answer_pangrams": [
+    "tabloid"
+  ],
+  "answers": [
+    "abbot",
+    "alibi",
+    "baba",
+    "bail",
+    "bait",
+    "bald",
+    "ball",
+    "ballad",
+    "ballot",
+    "baobab",
+    "bill",
+    "blab",
+    "blat",
+    "bloat",
+    "blob",
+    "blood",
+    "blot",
+    "boat",
+    "bobtail",
+    "boil",
+    "bola",
+    "bold",
+    "boll",
+    "bolt",
+    "boob",
+    "booboo",
+    "boot",
+    "ibid",
+    "labia",
+    "labial",
+    "libido",
+    "obit",
+    "oddball",
+    "tabloid",
+    "taboo",
+    "tibia",
+    "tidbit"
+  ],
+  "date": "2034-06-03",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 7,
+      "6": 7,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 25,
+      "I": 1,
+      "L": 3,
+      "O": 2,
+      "T": 4
+    },
+    "grid": {
+      "A": {
+        "5": 2
+      },
+      "B": {
+        "4": 18,
+        "5": 2,
+        "6": 4,
+        "7": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "5": 1,
+        "6": 2
+      },
+      "O": {
+        "4": 1,
+        "7": 1
+      },
+      "T": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AL": 1,
+      "BA": 8,
+      "BI": 1,
+      "BL": 6,
+      "BO": 10,
+      "IB": 1,
+      "LA": 2,
+      "LI": 1,
+      "OB": 1,
+      "OD": 1,
+      "TA": 2,
+      "TI": 2
+    }
+  }
+}

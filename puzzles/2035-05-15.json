@@ -1,0 +1,79 @@
+{
+  "pangram": "fibulae",
+  "center_letter": "u",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 78,
+  "answer_pangrams": [
+    "fibulae"
+  ],
+  "answers": [
+    "baleful",
+    "bauble",
+    "beau",
+    "blue",
+    "bluebell",
+    "bluff",
+    "bubble",
+    "buff",
+    "bulb",
+    "bull",
+    "fibula",
+    "fibulae",
+    "flub",
+    "flue",
+    "fluff",
+    "fuel",
+    "fulfill",
+    "full",
+    "lieu",
+    "luau",
+    "lube",
+    "lull",
+    "lulu"
+  ],
+  "date": "2035-05-15",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 2,
+      "6": 3,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "B": 10,
+      "F": 8,
+      "L": 5
+    },
+    "grid": {
+      "B": {
+        "4": 5,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "F": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 2
+      },
+      "L": {
+        "4": 5
+      }
+    },
+    "two_letter_list": {
+      "BA": 2,
+      "BE": 1,
+      "BL": 3,
+      "BU": 4,
+      "FI": 2,
+      "FL": 3,
+      "FU": 3,
+      "LI": 1,
+      "LU": 4
+    }
+  }
+}

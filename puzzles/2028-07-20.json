@@ -1,0 +1,87 @@
+{
+  "pangram": "hauling",
+  "center_letter": "h",
+  "num_answers": 25,
+  "num_pangrams": 2,
+  "possible_points": 124,
+  "answer_pangrams": [
+    "hauling",
+    "laughing"
+  ],
+  "answers": [
+    "haggling",
+    "hail",
+    "hailing",
+    "halal",
+    "haling",
+    "hall",
+    "hang",
+    "hanging",
+    "hangnail",
+    "haul",
+    "hauling",
+    "high",
+    "hill",
+    "hing",
+    "hinging",
+    "hugging",
+    "hula",
+    "hull",
+    "hulling",
+    "hung",
+    "inhaling",
+    "laugh",
+    "laughing",
+    "nigh",
+    "unhinging"
+  ],
+  "date": "2028-07-20",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 2,
+      "6": 1,
+      "7": 6,
+      "8": 4,
+      "9": 1
+    },
+    "by_first_letter": {
+      "H": 20,
+      "I": 1,
+      "L": 2,
+      "N": 1,
+      "U": 1
+    },
+    "grid": {
+      "H": {
+        "4": 10,
+        "5": 1,
+        "6": 1,
+        "7": 6,
+        "8": 2
+      },
+      "I": {
+        "8": 1
+      },
+      "L": {
+        "5": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "U": {
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "HA": 11,
+      "HI": 4,
+      "HU": 5,
+      "IN": 1,
+      "LA": 2,
+      "NI": 1,
+      "UN": 1
+    }
+  }
+}

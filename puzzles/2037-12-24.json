@@ -1,0 +1,74 @@
+{
+  "pangram": "raunchy",
+  "center_letter": "h",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 91,
+  "answer_pangrams": [
+    "raunchy"
+  ],
+  "answers": [
+    "achy",
+    "anarchy",
+    "arch",
+    "chancy",
+    "char",
+    "chary",
+    "church",
+    "churn",
+    "crunch",
+    "crunchy",
+    "harry",
+    "haunch",
+    "hunch",
+    "hurrah",
+    "hurry",
+    "ranch",
+    "raunchy"
+  ],
+  "date": "2037-12-24",
+  "hints": {
+    "by_length": {
+      "4": 3,
+      "5": 6,
+      "6": 5,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 7,
+      "H": 5,
+      "R": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "7": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      },
+      "H": {
+        "5": 3,
+        "6": 2
+      },
+      "R": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AN": 1,
+      "AR": 1,
+      "CH": 5,
+      "CR": 2,
+      "HA": 2,
+      "HU": 3,
+      "RA": 2
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "pangram": "vomited",
+  "center_letter": "i",
+  "num_answers": 49,
+  "num_pangrams": 1,
+  "possible_points": 214,
+  "answer_pangrams": [
+    "vomited"
+  ],
+  "answers": [
+    "devoid",
+    "died",
+    "diet",
+    "dieted",
+    "dime",
+    "dimmed",
+    "diode",
+    "ditto",
+    "dittoed",
+    "dive",
+    "dived",
+    "divide",
+    "divided",
+    "divot",
+    "divvied",
+    "eddied",
+    "edit",
+    "edited",
+    "emit",
+    "emitted",
+    "emotive",
+    "idiom",
+    "idiot",
+    "item",
+    "mime",
+    "mimed",
+    "mite",
+    "mitt",
+    "motive",
+    "movie",
+    "omit",
+    "omitted",
+    "ovoid",
+    "tide",
+    "tided",
+    "tidied",
+    "tied",
+    "time",
+    "timed",
+    "timid",
+    "video",
+    "videoed",
+    "vied",
+    "vivid",
+    "void",
+    "voided",
+    "vomit",
+    "vomited",
+    "votive"
+  ],
+  "date": "2037-06-28",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 15,
+      "6": 10,
+      "7": 8
+    },
+    "by_first_letter": {
+      "D": 15,
+      "E": 6,
+      "I": 3,
+      "M": 6,
+      "O": 3,
+      "T": 7,
+      "V": 9
+    },
+    "grid": {
+      "D": {
+        "4": 4,
+        "5": 4,
+        "6": 4,
+        "7": 3
+      },
+      "E": {
+        "4": 2,
+        "6": 2,
+        "7": 2
+      },
+      "I": {
+        "4": 1,
+        "5": 2
+      },
+      "M": {
+        "4": 3,
+        "5": 2,
+        "6": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 3,
+        "6": 1
+      },
+      "V": {
+        "4": 2,
+        "5": 3,
+        "6": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "DE": 1,
+      "DI": 14,
+      "ED": 3,
+      "EM": 3,
+      "ID": 2,
+      "IT": 1,
+      "MI": 4,
+      "MO": 2,
+      "OM": 2,
+      "OV": 1,
+      "TI": 7,
+      "VI": 4,
+      "VO": 5
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "pangram": "plaudit",
+  "center_letter": "u",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 64,
+  "answer_pangrams": [
+    "plaudit"
+  ],
+  "answers": [
+    "adult",
+    "applaud",
+    "audit",
+    "dual",
+    "dull",
+    "laud",
+    "luau",
+    "lull",
+    "lulu",
+    "plaudit",
+    "pull",
+    "pulp",
+    "pulpit",
+    "pupa",
+    "pupal",
+    "pupil",
+    "putt",
+    "taut",
+    "tulip",
+    "tutu"
+  ],
+  "date": "2037-02-05",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 5,
+      "6": 1,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 2,
+      "L": 4,
+      "P": 8,
+      "T": 3
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "7": 1
+      },
+      "D": {
+        "4": 2
+      },
+      "L": {
+        "4": 4
+      },
+      "P": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AP": 1,
+      "AU": 1,
+      "DU": 2,
+      "LA": 1,
+      "LU": 3,
+      "PL": 1,
+      "PU": 7,
+      "TA": 1,
+      "TU": 2
+    }
+  }
+}

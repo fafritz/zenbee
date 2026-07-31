@@ -1,0 +1,141 @@
+{
+  "pangram": "witched",
+  "center_letter": "i",
+  "num_answers": 52,
+  "num_pangrams": 2,
+  "possible_points": 234,
+  "answer_pangrams": [
+    "twitched",
+    "witched"
+  ],
+  "answers": [
+    "chic",
+    "chide",
+    "chided",
+    "chit",
+    "cite",
+    "cited",
+    "deceit",
+    "decide",
+    "decided",
+    "deice",
+    "deiced",
+    "dice",
+    "diced",
+    "died",
+    "diet",
+    "dieted",
+    "dietetic",
+    "ditch",
+    "ditched",
+    "eddied",
+    "edict",
+    "edit",
+    "edited",
+    "ethic",
+    "hectic",
+    "hide",
+    "hided",
+    "hied",
+    "hitch",
+    "hitched",
+    "iced",
+    "itch",
+    "itched",
+    "tide",
+    "tided",
+    "tidied",
+    "tied",
+    "tithe",
+    "tithed",
+    "twice",
+    "twit",
+    "twitch",
+    "twitched",
+    "twitted",
+    "which",
+    "whit",
+    "white",
+    "wide",
+    "width",
+    "witch",
+    "witched",
+    "with"
+  ],
+  "date": "2038-11-22",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 16,
+      "6": 12,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "C": 6,
+      "D": 13,
+      "E": 5,
+      "H": 6,
+      "I": 3,
+      "T": 11,
+      "W": 8
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 2,
+        "6": 1
+      },
+      "D": {
+        "4": 3,
+        "5": 3,
+        "6": 4,
+        "7": 2,
+        "8": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 2,
+        "6": 2
+      },
+      "H": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 2,
+        "6": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 3,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "W": {
+        "4": 3,
+        "5": 4,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 4,
+      "CI": 2,
+      "DE": 5,
+      "DI": 8,
+      "ED": 4,
+      "ET": 1,
+      "HE": 1,
+      "HI": 5,
+      "IC": 1,
+      "IT": 2,
+      "TI": 6,
+      "TW": 5,
+      "WH": 3,
+      "WI": 5
+    }
+  }
+}

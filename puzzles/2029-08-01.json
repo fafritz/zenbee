@@ -1,0 +1,98 @@
+{
+  "pangram": "yowling",
+  "center_letter": "w",
+  "num_answers": 32,
+  "num_pangrams": 2,
+  "possible_points": 183,
+  "answer_pangrams": [
+    "glowingly",
+    "yowling"
+  ],
+  "answers": [
+    "glow",
+    "glowing",
+    "glowingly",
+    "gown",
+    "gowning",
+    "lowing",
+    "lowly",
+    "owing",
+    "owning",
+    "wigging",
+    "wiggling",
+    "wiggly",
+    "wiling",
+    "will",
+    "willing",
+    "willingly",
+    "willow",
+    "willowy",
+    "wily",
+    "wing",
+    "winging",
+    "wining",
+    "winning",
+    "winnow",
+    "winnowing",
+    "wino",
+    "wooing",
+    "wool",
+    "woolly",
+    "wowing",
+    "yowl",
+    "yowling"
+  ],
+  "date": "2029-08-01",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 2,
+      "6": 10,
+      "7": 8,
+      "8": 1,
+      "9": 3
+    },
+    "by_first_letter": {
+      "G": 5,
+      "L": 2,
+      "O": 2,
+      "W": 21,
+      "Y": 2
+    },
+    "grid": {
+      "G": {
+        "4": 2,
+        "7": 2,
+        "9": 1
+      },
+      "L": {
+        "5": 1,
+        "6": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1
+      },
+      "W": {
+        "4": 5,
+        "6": 8,
+        "7": 5,
+        "8": 1,
+        "9": 2
+      },
+      "Y": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "GL": 3,
+      "GO": 2,
+      "LO": 2,
+      "OW": 2,
+      "WI": 17,
+      "WO": 4,
+      "YO": 2
+    }
+  }
+}

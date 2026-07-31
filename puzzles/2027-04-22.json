@@ -1,0 +1,123 @@
+{
+  "pangram": "dynamic",
+  "center_letter": "a",
+  "num_answers": 44,
+  "num_pangrams": 1,
+  "possible_points": 187,
+  "answer_pangrams": [
+    "dynamic"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acid",
+    "acidic",
+    "adman",
+    "admin",
+    "amid",
+    "cancan",
+    "candid",
+    "candidacy",
+    "candy",
+    "canna",
+    "canny",
+    "cicada",
+    "cyan",
+    "daddy",
+    "damn",
+    "dandy",
+    "dyadic",
+    "dynamic",
+    "imam",
+    "macadam",
+    "madam",
+    "madman",
+    "maid",
+    "maim",
+    "main",
+    "mama",
+    "mamma",
+    "mania",
+    "maniac",
+    "manic",
+    "manna",
+    "many",
+    "mayday",
+    "mica",
+    "midday",
+    "minima",
+    "myna",
+    "naan",
+    "naiad",
+    "nana",
+    "nanny",
+    "niacin"
+  ],
+  "date": "2027-04-22",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 14,
+      "6": 12,
+      "7": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "C": 8,
+      "D": 5,
+      "I": 1,
+      "M": 18,
+      "N": 5
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2,
+        "6": 2
+      },
+      "C": {
+        "4": 1,
+        "5": 3,
+        "6": 3,
+        "9": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "M": {
+        "4": 7,
+        "5": 5,
+        "6": 5,
+        "7": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 4,
+      "AD": 2,
+      "AM": 1,
+      "CA": 6,
+      "CI": 1,
+      "CY": 1,
+      "DA": 3,
+      "DY": 2,
+      "IM": 1,
+      "MA": 14,
+      "MI": 3,
+      "MY": 1,
+      "NA": 4,
+      "NI": 1
+    }
+  }
+}

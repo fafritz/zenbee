@@ -1,0 +1,111 @@
+{
+  "pangram": "blitzed",
+  "center_letter": "b",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 195,
+  "answer_pangrams": [
+    "blitzed"
+  ],
+  "answers": [
+    "bedded",
+    "beet",
+    "beetle",
+    "beetled",
+    "belie",
+    "belied",
+    "belittle",
+    "belittled",
+    "bell",
+    "belle",
+    "belled",
+    "bellied",
+    "belt",
+    "belted",
+    "betided",
+    "bible",
+    "bidet",
+    "bile",
+    "bill",
+    "billed",
+    "billet",
+    "billeted",
+    "bite",
+    "bled",
+    "bleed",
+    "blitz",
+    "blitzed",
+    "debit",
+    "debited",
+    "debt",
+    "dibble",
+    "dibbled",
+    "ebbed",
+    "edible",
+    "ibid",
+    "libel",
+    "libeled",
+    "tidbit"
+  ],
+  "date": "2034-08-31",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 9,
+      "6": 10,
+      "7": 7,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "B": 27,
+      "D": 5,
+      "E": 2,
+      "I": 1,
+      "L": 2,
+      "T": 1
+    },
+    "grid": {
+      "B": {
+        "4": 7,
+        "5": 6,
+        "6": 7,
+        "7": 4,
+        "8": 2,
+        "9": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 2
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "5": 1,
+        "7": 1
+      },
+      "T": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 15,
+      "BI": 8,
+      "BL": 4,
+      "DE": 3,
+      "DI": 2,
+      "EB": 1,
+      "ED": 1,
+      "IB": 1,
+      "LI": 2,
+      "TI": 1
+    }
+  }
+}

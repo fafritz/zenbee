@@ -1,0 +1,111 @@
+{
+  "pangram": "javelin",
+  "center_letter": "v",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 138,
+  "answer_pangrams": [
+    "javelin"
+  ],
+  "answers": [
+    "alive",
+    "anvil",
+    "avail",
+    "avian",
+    "eleven",
+    "enliven",
+    "even",
+    "evil",
+    "javelin",
+    "jive",
+    "lava",
+    "leave",
+    "leaven",
+    "levee",
+    "level",
+    "live",
+    "liven",
+    "naive",
+    "naval",
+    "nave",
+    "navel",
+    "vain",
+    "vale",
+    "valve",
+    "vane",
+    "vanilla",
+    "veal",
+    "veil",
+    "vein",
+    "venal",
+    "venial",
+    "vial",
+    "vile",
+    "villa",
+    "villain",
+    "vine"
+  ],
+  "date": "2035-08-28",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 14,
+      "6": 3,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 4,
+      "E": 4,
+      "J": 2,
+      "L": 7,
+      "N": 4,
+      "V": 15
+    },
+    "grid": {
+      "A": {
+        "5": 4
+      },
+      "E": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      },
+      "J": {
+        "4": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 4,
+        "6": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 3
+      },
+      "V": {
+        "4": 9,
+        "5": 3,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AN": 1,
+      "AV": 2,
+      "EL": 1,
+      "EN": 1,
+      "EV": 2,
+      "JA": 1,
+      "JI": 1,
+      "LA": 1,
+      "LE": 4,
+      "LI": 2,
+      "NA": 4,
+      "VA": 5,
+      "VE": 5,
+      "VI": 5
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "pangram": "inflect",
+  "center_letter": "n",
+  "num_answers": 51,
+  "num_pangrams": 1,
+  "possible_points": 266,
+  "answer_pangrams": [
+    "inflect"
+  ],
+  "answers": [
+    "cent",
+    "client",
+    "clientele",
+    "clinic",
+    "efficient",
+    "elfin",
+    "entente",
+    "entice",
+    "entitle",
+    "feint",
+    "feline",
+    "fence",
+    "fennel",
+    "fifteen",
+    "fine",
+    "finite",
+    "flint",
+    "incite",
+    "incline",
+    "inefficient",
+    "infect",
+    "infinite",
+    "inflect",
+    "inflict",
+    "inlet",
+    "inline",
+    "intel",
+    "intellect",
+    "intent",
+    "lenient",
+    "lent",
+    "lentil",
+    "lien",
+    "lifeline",
+    "line",
+    "linen",
+    "linnet",
+    "lint",
+    "lintel",
+    "nene",
+    "nettle",
+    "nice",
+    "niece",
+    "nine",
+    "nineteen",
+    "teen",
+    "telnet",
+    "tenet",
+    "tent",
+    "tine",
+    "tint"
+  ],
+  "date": "2038-03-25",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 9,
+      "6": 15,
+      "7": 7,
+      "8": 3,
+      "9": 3,
+      "11": 1
+    },
+    "by_first_letter": {
+      "C": 4,
+      "E": 5,
+      "F": 8,
+      "I": 12,
+      "L": 10,
+      "N": 6,
+      "T": 6
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "6": 2,
+        "9": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "9": 1
+      },
+      "F": {
+        "4": 1,
+        "5": 3,
+        "6": 3,
+        "7": 1
+      },
+      "I": {
+        "5": 2,
+        "6": 4,
+        "7": 3,
+        "8": 1,
+        "9": 1,
+        "11": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 1,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 1,
+      "CL": 3,
+      "EF": 1,
+      "EL": 1,
+      "EN": 3,
+      "FE": 4,
+      "FI": 3,
+      "FL": 1,
+      "IN": 12,
+      "LE": 3,
+      "LI": 7,
+      "NE": 2,
+      "NI": 4,
+      "TE": 4,
+      "TI": 2
+    }
+  }
+}

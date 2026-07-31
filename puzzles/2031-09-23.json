@@ -1,0 +1,132 @@
+{
+  "pangram": "pinhead",
+  "center_letter": "a",
+  "num_answers": 46,
+  "num_pangrams": 1,
+  "possible_points": 203,
+  "answer_pangrams": [
+    "pinhead"
+  ],
+  "answers": [
+    "added",
+    "addend",
+    "addenda",
+    "ahead",
+    "aide",
+    "aided",
+    "aped",
+    "aphid",
+    "append",
+    "appended",
+    "dead",
+    "deaden",
+    "deadened",
+    "deadpan",
+    "deadpanned",
+    "dean",
+    "hand",
+    "handed",
+    "happen",
+    "happened",
+    "head",
+    "headed",
+    "heap",
+    "heaped",
+    "henna",
+    "hennaed",
+    "idea",
+    "inane",
+    "ipad",
+    "naan",
+    "naiad",
+    "nana",
+    "nape",
+    "napped",
+    "neap",
+    "padded",
+    "paean",
+    "paid",
+    "pain",
+    "pained",
+    "panda",
+    "pane",
+    "panned",
+    "papa",
+    "peahen",
+    "pinhead"
+  ],
+  "date": "2031-09-23",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 9,
+      "6": 12,
+      "7": 4,
+      "8": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 10,
+      "D": 6,
+      "H": 10,
+      "I": 3,
+      "N": 6,
+      "P": 11
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 4,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "D": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "10": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 4,
+        "7": 1,
+        "8": 1
+      },
+      "I": {
+        "4": 2,
+        "5": 1
+      },
+      "N": {
+        "4": 4,
+        "5": 1,
+        "6": 1
+      },
+      "P": {
+        "4": 4,
+        "5": 2,
+        "6": 4,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 3,
+      "AH": 1,
+      "AI": 2,
+      "AP": 4,
+      "DE": 6,
+      "HA": 4,
+      "HE": 6,
+      "ID": 1,
+      "IN": 1,
+      "IP": 1,
+      "NA": 5,
+      "NE": 1,
+      "PA": 9,
+      "PE": 1,
+      "PI": 1
+    }
+  }
+}

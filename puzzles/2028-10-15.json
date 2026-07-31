@@ -1,0 +1,123 @@
+{
+  "pangram": "blacken",
+  "center_letter": "n",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 150,
+  "answer_pangrams": [
+    "blacken"
+  ],
+  "answers": [
+    "acne",
+    "anal",
+    "ankle",
+    "anneal",
+    "balance",
+    "baleen",
+    "banal",
+    "banana",
+    "bane",
+    "bank",
+    "bean",
+    "been",
+    "blacken",
+    "blank",
+    "cabana",
+    "canal",
+    "cancan",
+    "cancel",
+    "cane",
+    "canna",
+    "clan",
+    "clank",
+    "clean",
+    "elan",
+    "enable",
+    "keen",
+    "kennel",
+    "knack",
+    "knee",
+    "kneel",
+    "knell",
+    "lance",
+    "lane",
+    "lank",
+    "lean",
+    "naan",
+    "nana",
+    "neck",
+    "necklace",
+    "nene"
+  ],
+  "date": "2028-10-15",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 11,
+      "6": 8,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "B": 10,
+      "C": 9,
+      "E": 2,
+      "K": 6,
+      "L": 4,
+      "N": 5
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "B": {
+        "4": 4,
+        "5": 2,
+        "6": 2,
+        "7": 2
+      },
+      "C": {
+        "4": 2,
+        "5": 4,
+        "6": 3
+      },
+      "E": {
+        "4": 1,
+        "6": 1
+      },
+      "K": {
+        "4": 2,
+        "5": 3,
+        "6": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1
+      },
+      "N": {
+        "4": 4,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AN": 3,
+      "BA": 6,
+      "BE": 2,
+      "BL": 2,
+      "CA": 6,
+      "CL": 3,
+      "EL": 1,
+      "EN": 1,
+      "KE": 2,
+      "KN": 4,
+      "LA": 3,
+      "LE": 1,
+      "NA": 2,
+      "NE": 3
+    }
+  }
+}

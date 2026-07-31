@@ -1,0 +1,133 @@
+{
+  "pangram": "larking",
+  "center_letter": "l",
+  "num_answers": 46,
+  "num_pangrams": 2,
+  "possible_points": 223,
+  "answer_pangrams": [
+    "larking",
+    "rankling"
+  ],
+  "answers": [
+    "ailing",
+    "alga",
+    "align",
+    "aligning",
+    "alkali",
+    "anal",
+    "angling",
+    "gala",
+    "gall",
+    "galling",
+    "ganglia",
+    "gangling",
+    "gargling",
+    "giggling",
+    "gill",
+    "girl",
+    "glaring",
+    "grail",
+    "grill",
+    "grilling",
+    "inkling",
+    "kill",
+    "killing",
+    "kiln",
+    "kilning",
+    "lagging",
+    "lain",
+    "lair",
+    "lank",
+    "lark",
+    "larking",
+    "liar",
+    "liking",
+    "lining",
+    "link",
+    "linking",
+    "lira",
+    "nail",
+    "nailing",
+    "niggling",
+    "raglan",
+    "rail",
+    "railing",
+    "rankling",
+    "riling",
+    "rill"
+  ],
+  "date": "2035-07-01",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 3,
+      "6": 6,
+      "7": 12,
+      "8": 7
+    },
+    "by_first_letter": {
+      "A": 7,
+      "G": 13,
+      "I": 1,
+      "K": 4,
+      "L": 12,
+      "N": 3,
+      "R": 6
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 4,
+        "5": 2,
+        "7": 3,
+        "8": 4
+      },
+      "I": {
+        "7": 1
+      },
+      "K": {
+        "4": 2,
+        "7": 2
+      },
+      "L": {
+        "4": 7,
+        "6": 2,
+        "7": 3
+      },
+      "N": {
+        "4": 1,
+        "7": 1,
+        "8": 1
+      },
+      "R": {
+        "4": 2,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AL": 4,
+      "AN": 2,
+      "GA": 6,
+      "GI": 3,
+      "GL": 1,
+      "GR": 3,
+      "IN": 1,
+      "KI": 4,
+      "LA": 6,
+      "LI": 6,
+      "NA": 2,
+      "NI": 1,
+      "RA": 4,
+      "RI": 2
+    }
+  }
+}

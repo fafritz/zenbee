@@ -1,0 +1,123 @@
+{
+  "pangram": "plowmen",
+  "center_letter": "e",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 118,
+  "answer_pangrams": [
+    "plowmen"
+  ],
+  "answers": [
+    "elope",
+    "epee",
+    "lemon",
+    "lone",
+    "lope",
+    "melee",
+    "mellow",
+    "melon",
+    "meme",
+    "memo",
+    "meow",
+    "mewl",
+    "mole",
+    "mope",
+    "nene",
+    "neon",
+    "newel",
+    "noel",
+    "none",
+    "nope",
+    "oleo",
+    "omen",
+    "open",
+    "peel",
+    "peen",
+    "peep",
+    "peewee",
+    "pennon",
+    "peon",
+    "people",
+    "pewee",
+    "plowmen",
+    "poem",
+    "pole",
+    "pollen",
+    "pommel",
+    "pone",
+    "pope",
+    "weep",
+    "well",
+    "women",
+    "woolen"
+  ],
+  "date": "2036-06-24",
+  "hints": {
+    "by_length": {
+      "4": 27,
+      "5": 7,
+      "6": 7,
+      "7": 1
+    },
+    "by_first_letter": {
+      "E": 2,
+      "L": 3,
+      "M": 9,
+      "N": 6,
+      "O": 3,
+      "P": 15,
+      "W": 4
+    },
+    "grid": {
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1
+      },
+      "M": {
+        "4": 6,
+        "5": 2,
+        "6": 1
+      },
+      "N": {
+        "4": 5,
+        "5": 1
+      },
+      "O": {
+        "4": 3
+      },
+      "P": {
+        "4": 8,
+        "5": 1,
+        "6": 5,
+        "7": 1
+      },
+      "W": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "EL": 1,
+      "EP": 1,
+      "LE": 1,
+      "LO": 2,
+      "ME": 7,
+      "MO": 2,
+      "NE": 3,
+      "NO": 3,
+      "OL": 1,
+      "OM": 1,
+      "OP": 1,
+      "PE": 8,
+      "PL": 1,
+      "PO": 6,
+      "WE": 2,
+      "WO": 2
+    }
+  }
+}

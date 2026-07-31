@@ -1,0 +1,129 @@
+{
+  "pangram": "nodular",
+  "center_letter": "a",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 149,
+  "answer_pangrams": [
+    "nodular"
+  ],
+  "answers": [
+    "adorn",
+    "aloud",
+    "anal",
+    "annual",
+    "annul",
+    "annular",
+    "anon",
+    "ardor",
+    "around",
+    "aura",
+    "aural",
+    "dado",
+    "darn",
+    "dollar",
+    "doodad",
+    "dual",
+    "dullard",
+    "land",
+    "landlord",
+    "lard",
+    "laud",
+    "llano",
+    "load",
+    "loan",
+    "luau",
+    "lunar",
+    "naan",
+    "nana",
+    "nodal",
+    "nodular",
+    "oral",
+    "radar",
+    "radon",
+    "road",
+    "roan",
+    "roar",
+    "runaround",
+    "rural",
+    "ulna",
+    "unload"
+  ],
+  "date": "2037-10-14",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 11,
+      "6": 5,
+      "7": 3,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 11,
+      "D": 6,
+      "L": 9,
+      "N": 4,
+      "O": 1,
+      "R": 7,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 5,
+        "6": 2,
+        "7": 1
+      },
+      "D": {
+        "4": 3,
+        "6": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 6,
+        "5": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 3,
+        "9": 1
+      },
+      "U": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AL": 1,
+      "AN": 5,
+      "AR": 2,
+      "AU": 2,
+      "DA": 2,
+      "DO": 2,
+      "DU": 2,
+      "LA": 4,
+      "LL": 1,
+      "LO": 2,
+      "LU": 2,
+      "NA": 2,
+      "NO": 2,
+      "OR": 1,
+      "RA": 2,
+      "RO": 3,
+      "RU": 2,
+      "UL": 1,
+      "UN": 1
+    }
+  }
+}

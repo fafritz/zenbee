@@ -1,0 +1,81 @@
+{
+  "pangram": "fetlock",
+  "center_letter": "k",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 58,
+  "answer_pangrams": [
+    "fetlock"
+  ],
+  "answers": [
+    "clock",
+    "cockle",
+    "coke",
+    "cook",
+    "fetlock",
+    "fleck",
+    "flock",
+    "folk",
+    "keel",
+    "keto",
+    "kettle",
+    "kook",
+    "leek",
+    "lock",
+    "locket",
+    "look",
+    "toke",
+    "took"
+  ],
+  "date": "2031-11-28",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 3,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 4,
+      "F": 4,
+      "K": 4,
+      "L": 4,
+      "T": 2
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "F": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      },
+      "K": {
+        "4": 3,
+        "6": 1
+      },
+      "L": {
+        "4": 3,
+        "6": 1
+      },
+      "T": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "CL": 1,
+      "CO": 3,
+      "FE": 1,
+      "FL": 2,
+      "FO": 1,
+      "KE": 3,
+      "KO": 1,
+      "LE": 1,
+      "LO": 3,
+      "TO": 2
+    }
+  }
+}

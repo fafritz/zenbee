@@ -1,0 +1,105 @@
+{
+  "pangram": "outward",
+  "center_letter": "a",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 110,
+  "answer_pangrams": [
+    "outward"
+  ],
+  "answers": [
+    "aorta",
+    "ardor",
+    "arrow",
+    "arrowroot",
+    "attar",
+    "aura",
+    "auto",
+    "award",
+    "dado",
+    "dart",
+    "data",
+    "doodad",
+    "draw",
+    "orator",
+    "outward",
+    "radar",
+    "ratatat",
+    "road",
+    "roar",
+    "taro",
+    "tarot",
+    "tart",
+    "tartar",
+    "tattoo",
+    "taut",
+    "toad",
+    "toward",
+    "ward",
+    "wart",
+    "watt"
+  ],
+  "date": "2032-10-27",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 7,
+      "6": 5,
+      "7": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "D": 5,
+      "O": 2,
+      "R": 4,
+      "T": 8,
+      "W": 3
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 5,
+        "9": 1
+      },
+      "D": {
+        "4": 4,
+        "6": 1
+      },
+      "O": {
+        "6": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 1,
+        "6": 3
+      },
+      "W": {
+        "4": 3
+      }
+    },
+    "two_letter_list": {
+      "AO": 1,
+      "AR": 3,
+      "AT": 1,
+      "AU": 2,
+      "AW": 1,
+      "DA": 3,
+      "DO": 1,
+      "DR": 1,
+      "OR": 1,
+      "OU": 1,
+      "RA": 2,
+      "RO": 2,
+      "TA": 6,
+      "TO": 2,
+      "WA": 3
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "pangram": "bucking",
+  "center_letter": "g",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 140,
+  "answer_pangrams": [
+    "bucking"
+  ],
+  "answers": [
+    "biking",
+    "binning",
+    "bucking",
+    "bugging",
+    "bung",
+    "bunging",
+    "bunking",
+    "cubing",
+    "cuing",
+    "cunning",
+    "gibing",
+    "gigging",
+    "ginning",
+    "gunk",
+    "gunning",
+    "icing",
+    "inking",
+    "inning",
+    "kicking",
+    "king",
+    "kinking",
+    "nicking",
+    "nuking"
+  ],
+  "date": "2031-03-26",
+  "hints": {
+    "by_length": {
+      "4": 3,
+      "5": 2,
+      "6": 6,
+      "7": 12
+    },
+    "by_first_letter": {
+      "B": 7,
+      "C": 3,
+      "G": 5,
+      "I": 3,
+      "K": 3,
+      "N": 2
+    },
+    "grid": {
+      "B": {
+        "4": 1,
+        "6": 1,
+        "7": 5
+      },
+      "C": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 1,
+        "7": 3
+      },
+      "I": {
+        "5": 1,
+        "6": 2
+      },
+      "K": {
+        "4": 1,
+        "7": 2
+      },
+      "N": {
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "BI": 2,
+      "BU": 5,
+      "CU": 3,
+      "GI": 3,
+      "GU": 2,
+      "IC": 1,
+      "IN": 2,
+      "KI": 3,
+      "NI": 1,
+      "NU": 1
+    }
+  }
+}

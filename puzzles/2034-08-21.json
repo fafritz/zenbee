@@ -1,0 +1,131 @@
+{
+  "pangram": "melodic",
+  "center_letter": "c",
+  "num_answers": 51,
+  "num_pangrams": 3,
+  "possible_points": 255,
+  "answer_pangrams": [
+    "domicile",
+    "domiciled",
+    "melodic"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "cell",
+    "cello",
+    "clime",
+    "clod",
+    "cocci",
+    "coddle",
+    "coddled",
+    "code",
+    "coded",
+    "codicil",
+    "coed",
+    "coil",
+    "coiled",
+    "cold",
+    "colic",
+    "collide",
+    "collided",
+    "collie",
+    "colloid",
+    "come",
+    "comedic",
+    "comic",
+    "commode",
+    "cooed",
+    "cool",
+    "cooled",
+    "coolie",
+    "decide",
+    "decided",
+    "decode",
+    "decoded",
+    "deice",
+    "deiced",
+    "dice",
+    "diced",
+    "docile",
+    "domicile",
+    "domiciled",
+    "emcee",
+    "emceed",
+    "iced",
+    "icicle",
+    "lice",
+    "loci",
+    "loco",
+    "medic",
+    "melodic",
+    "mice",
+    "mimic"
+  ],
+  "date": "2034-08-21",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 13,
+      "6": 11,
+      "7": 9,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 29,
+      "D": 11,
+      "E": 2,
+      "I": 2,
+      "L": 3,
+      "M": 4
+    },
+    "grid": {
+      "C": {
+        "4": 9,
+        "5": 8,
+        "6": 5,
+        "7": 6,
+        "8": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 2,
+        "6": 4,
+        "7": 2,
+        "8": 1,
+        "9": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 3
+      },
+      "M": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 4,
+      "CL": 2,
+      "CO": 23,
+      "DE": 6,
+      "DI": 2,
+      "DO": 3,
+      "EM": 2,
+      "IC": 2,
+      "LI": 1,
+      "LO": 2,
+      "ME": 2,
+      "MI": 2
+    }
+  }
+}

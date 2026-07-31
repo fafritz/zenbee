@@ -1,0 +1,126 @@
+{
+  "pangram": "violate",
+  "center_letter": "a",
+  "num_answers": 38,
+  "num_pangrams": 2,
+  "possible_points": 185,
+  "answer_pangrams": [
+    "violate",
+    "volatile"
+  ],
+  "answers": [
+    "alive",
+    "alleviate",
+    "allot",
+    "aloe",
+    "alto",
+    "atoll",
+    "avail",
+    "elate",
+    "elevate",
+    "iota",
+    "late",
+    "latte",
+    "lava",
+    "leave",
+    "levitate",
+    "oval",
+    "tail",
+    "tale",
+    "tall",
+    "tattle",
+    "tattletale",
+    "tattoo",
+    "teal",
+    "teetotal",
+    "telltale",
+    "titillate",
+    "total",
+    "vale",
+    "valet",
+    "valve",
+    "veal",
+    "vial",
+    "villa",
+    "viola",
+    "violate",
+    "vital",
+    "vitiate",
+    "volatile"
+  ],
+  "date": "2037-01-14",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 13,
+      "6": 2,
+      "7": 3,
+      "8": 4,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "E": 2,
+      "I": 1,
+      "L": 5,
+      "O": 1,
+      "T": 11,
+      "V": 11
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 4,
+        "9": 1
+      },
+      "E": {
+        "5": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 2,
+        "8": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 1,
+        "6": 2,
+        "8": 2,
+        "9": 1,
+        "10": 1
+      },
+      "V": {
+        "4": 3,
+        "5": 5,
+        "7": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 5,
+      "AT": 1,
+      "AV": 1,
+      "EL": 2,
+      "IO": 1,
+      "LA": 3,
+      "LE": 2,
+      "OV": 1,
+      "TA": 6,
+      "TE": 3,
+      "TI": 1,
+      "TO": 1,
+      "VA": 3,
+      "VE": 1,
+      "VI": 6,
+      "VO": 1
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "pangram": "adjunct",
+  "center_letter": "t",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 67,
+  "answer_pangrams": [
+    "adjunct"
+  ],
+  "answers": [
+    "adjunct",
+    "adjutant",
+    "aunt",
+    "cant",
+    "cantata",
+    "data",
+    "daunt",
+    "ducat",
+    "duct",
+    "jaunt",
+    "junta",
+    "tact",
+    "taunt",
+    "taut",
+    "tuna",
+    "tutu",
+    "uncut"
+  ],
+  "date": "2032-02-24",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 6,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 2,
+      "D": 4,
+      "J": 2,
+      "T": 5,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "7": 1,
+        "8": 1
+      },
+      "C": {
+        "4": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 2
+      },
+      "J": {
+        "5": 2
+      },
+      "T": {
+        "4": 4,
+        "5": 1
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 2,
+      "AU": 1,
+      "CA": 2,
+      "DA": 2,
+      "DU": 2,
+      "JA": 1,
+      "JU": 1,
+      "TA": 3,
+      "TU": 2,
+      "UN": 1
+    }
+  }
+}

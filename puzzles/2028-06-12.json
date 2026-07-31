@@ -1,0 +1,79 @@
+{
+  "pangram": "marking",
+  "center_letter": "k",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 77,
+  "answer_pangrams": [
+    "marking"
+  ],
+  "answers": [
+    "akin",
+    "inking",
+    "irking",
+    "karma",
+    "king",
+    "kink",
+    "kinking",
+    "making",
+    "manikin",
+    "mark",
+    "marking",
+    "miking",
+    "mink",
+    "raking",
+    "rank",
+    "ranking",
+    "rink"
+  ],
+  "date": "2028-06-12",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 1,
+      "6": 5,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 1,
+      "I": 2,
+      "K": 4,
+      "M": 6,
+      "R": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "I": {
+        "6": 2
+      },
+      "K": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "M": {
+        "4": 2,
+        "6": 2,
+        "7": 2
+      },
+      "R": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AK": 1,
+      "IN": 1,
+      "IR": 1,
+      "KA": 1,
+      "KI": 3,
+      "MA": 4,
+      "MI": 2,
+      "RA": 3,
+      "RI": 1
+    }
+  }
+}

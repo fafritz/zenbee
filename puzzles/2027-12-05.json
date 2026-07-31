@@ -1,0 +1,120 @@
+{
+  "pangram": "hangout",
+  "center_letter": "t",
+  "num_answers": 39,
+  "num_pangrams": 1,
+  "possible_points": 130,
+  "answer_pangrams": [
+    "hangout"
+  ],
+  "answers": [
+    "aught",
+    "aunt",
+    "auto",
+    "gaunt",
+    "gnat",
+    "goat",
+    "gout",
+    "hangout",
+    "haunt",
+    "hoot",
+    "hunt",
+    "naught",
+    "nougat",
+    "oath",
+    "onto",
+    "ought",
+    "outgo",
+    "tang",
+    "tango",
+    "tattoo",
+    "taught",
+    "taunt",
+    "taut",
+    "than",
+    "that",
+    "thong",
+    "thou",
+    "though",
+    "thought",
+    "thug",
+    "toga",
+    "toon",
+    "toot",
+    "tooth",
+    "tough",
+    "tout",
+    "tuna",
+    "tutu",
+    "untaught"
+  ],
+  "date": "2027-12-05",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 10,
+      "6": 5,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "G": 4,
+      "H": 4,
+      "N": 2,
+      "O": 4,
+      "T": 21,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "N": {
+        "6": 2
+      },
+      "O": {
+        "4": 2,
+        "5": 2
+      },
+      "T": {
+        "4": 12,
+        "5": 5,
+        "6": 3,
+        "7": 1
+      },
+      "U": {
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AU": 3,
+      "GA": 1,
+      "GN": 1,
+      "GO": 2,
+      "HA": 2,
+      "HO": 1,
+      "HU": 1,
+      "NA": 1,
+      "NO": 1,
+      "OA": 1,
+      "ON": 1,
+      "OU": 2,
+      "TA": 6,
+      "TH": 7,
+      "TO": 6,
+      "TU": 2,
+      "UN": 1
+    }
+  }
+}

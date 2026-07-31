@@ -1,0 +1,101 @@
+{
+  "pangram": "unmoved",
+  "center_letter": "u",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 116,
+  "answer_pangrams": [
+    "unmoved"
+  ],
+  "answers": [
+    "denude",
+    "denuded",
+    "dude",
+    "duded",
+    "dune",
+    "dunned",
+    "dunno",
+    "duodenum",
+    "endue",
+    "endued",
+    "menu",
+    "mound",
+    "mounded",
+    "muumuu",
+    "noun",
+    "ovum",
+    "undo",
+    "undone",
+    "undue",
+    "uneven",
+    "unmoved",
+    "unneeded",
+    "venue"
+  ],
+  "date": "2030-12-26",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 6,
+      "6": 6,
+      "7": 3,
+      "8": 2
+    },
+    "by_first_letter": {
+      "D": 8,
+      "E": 2,
+      "M": 4,
+      "N": 1,
+      "O": 1,
+      "U": 6,
+      "V": 1
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "M": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "V": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 2,
+      "DU": 6,
+      "EN": 2,
+      "ME": 1,
+      "MO": 2,
+      "MU": 1,
+      "NO": 1,
+      "OV": 1,
+      "UN": 6,
+      "VE": 1
+    }
+  }
+}

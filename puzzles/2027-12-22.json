@@ -1,0 +1,113 @@
+{
+  "pangram": "congaed",
+  "center_letter": "g",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 168,
+  "answer_pangrams": [
+    "congaed"
+  ],
+  "answers": [
+    "adage",
+    "aged",
+    "agenda",
+    "agog",
+    "cadge",
+    "cadged",
+    "cage",
+    "caged",
+    "cognac",
+    "conga",
+    "congaed",
+    "dodge",
+    "dodged",
+    "dogged",
+    "doggone",
+    "edge",
+    "edged",
+    "egged",
+    "eggnog",
+    "engage",
+    "engaged",
+    "gadded",
+    "gagged",
+    "gang",
+    "ganged",
+    "geed",
+    "gene",
+    "geode",
+    "goad",
+    "goaded",
+    "gonad",
+    "gone",
+    "gong",
+    "gonged",
+    "gonna",
+    "good",
+    "goon",
+    "nagged"
+  ],
+  "date": "2027-12-22",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 10,
+      "6": 13,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 7,
+      "D": 4,
+      "E": 6,
+      "G": 16,
+      "N": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "D": {
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "G": {
+        "4": 8,
+        "5": 3,
+        "6": 5
+      },
+      "N": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AG": 3,
+      "CA": 4,
+      "CO": 3,
+      "DO": 4,
+      "ED": 2,
+      "EG": 2,
+      "EN": 2,
+      "GA": 4,
+      "GE": 3,
+      "GO": 9,
+      "NA": 1
+    }
+  }
+}

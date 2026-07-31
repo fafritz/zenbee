@@ -1,0 +1,112 @@
+{
+  "pangram": "placket",
+  "center_letter": "c",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 157,
+  "answer_pangrams": [
+    "placket"
+  ],
+  "answers": [
+    "accept",
+    "acetate",
+    "alpaca",
+    "apace",
+    "attack",
+    "cackle",
+    "cake",
+    "call",
+    "calla",
+    "cape",
+    "caplet",
+    "catalpa",
+    "catcall",
+    "cattle",
+    "cell",
+    "clack",
+    "clap",
+    "cleat",
+    "eclat",
+    "elect",
+    "lace",
+    "lack",
+    "lactate",
+    "pace",
+    "pack",
+    "packet",
+    "pact",
+    "palace",
+    "peace",
+    "peck",
+    "placate",
+    "place",
+    "placket",
+    "tack",
+    "tackle",
+    "tact",
+    "talc"
+  ],
+  "date": "2034-07-10",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 8,
+      "6": 9,
+      "7": 6
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 13,
+      "E": 2,
+      "L": 3,
+      "P": 10,
+      "T": 4
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 3,
+        "7": 1
+      },
+      "C": {
+        "4": 5,
+        "5": 3,
+        "6": 3,
+        "7": 2
+      },
+      "E": {
+        "5": 2
+      },
+      "L": {
+        "4": 2,
+        "7": 1
+      },
+      "P": {
+        "4": 4,
+        "5": 2,
+        "6": 2,
+        "7": 2
+      },
+      "T": {
+        "4": 3,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AL": 1,
+      "AP": 1,
+      "AT": 1,
+      "CA": 9,
+      "CE": 1,
+      "CL": 3,
+      "EC": 1,
+      "EL": 1,
+      "LA": 3,
+      "PA": 5,
+      "PE": 2,
+      "PL": 3,
+      "TA": 4
+    }
+  }
+}

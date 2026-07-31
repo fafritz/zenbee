@@ -1,0 +1,114 @@
+{
+  "pangram": "humbled",
+  "center_letter": "b",
+  "num_answers": 35,
+  "num_pangrams": 1,
+  "possible_points": 188,
+  "answer_pangrams": [
+    "humbled"
+  ],
+  "answers": [
+    "bedded",
+    "beheld",
+    "bell",
+    "belle",
+    "belled",
+    "bled",
+    "bleed",
+    "blue",
+    "bluebell",
+    "blued",
+    "bubble",
+    "bubbled",
+    "budded",
+    "bulb",
+    "bull",
+    "bulled",
+    "bumble",
+    "bumblebee",
+    "bumbled",
+    "bummed",
+    "dubbed",
+    "dumb",
+    "dumbbell",
+    "ebbed",
+    "embed",
+    "embedded",
+    "emblem",
+    "hubbub",
+    "humble",
+    "humbled",
+    "lube",
+    "lubed",
+    "mumble",
+    "mumbled",
+    "umbel"
+  ],
+  "date": "2029-01-11",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 7,
+      "6": 13,
+      "7": 4,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "B": 20,
+      "D": 3,
+      "E": 4,
+      "H": 3,
+      "L": 2,
+      "M": 2,
+      "U": 1
+    },
+    "grid": {
+      "B": {
+        "4": 5,
+        "5": 3,
+        "6": 8,
+        "7": 2,
+        "8": 1,
+        "9": 1
+      },
+      "D": {
+        "4": 1,
+        "6": 1,
+        "8": 1
+      },
+      "E": {
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "H": {
+        "6": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1
+      },
+      "M": {
+        "6": 1,
+        "7": 1
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 5,
+      "BL": 5,
+      "BU": 10,
+      "DU": 3,
+      "EB": 1,
+      "EM": 3,
+      "HU": 3,
+      "LU": 2,
+      "MU": 2,
+      "UM": 1
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "pangram": "dubiety",
+  "center_letter": "i",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 97,
+  "answer_pangrams": [
+    "dubiety"
+  ],
+  "answers": [
+    "betided",
+    "biddy",
+    "bidet",
+    "bite",
+    "debit",
+    "debited",
+    "deity",
+    "died",
+    "diet",
+    "dieted",
+    "ditty",
+    "dubiety",
+    "eddied",
+    "edit",
+    "edited",
+    "ibid",
+    "tidbit",
+    "tide",
+    "tided",
+    "tidied",
+    "tidy",
+    "tied",
+    "yeti"
+  ],
+  "date": "2038-11-24",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 6,
+      "6": 5,
+      "7": 3
+    },
+    "by_first_letter": {
+      "B": 4,
+      "D": 8,
+      "E": 3,
+      "I": 1,
+      "T": 6,
+      "Y": 1
+    },
+    "grid": {
+      "B": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 3,
+        "6": 1,
+        "7": 2
+      },
+      "E": {
+        "4": 1,
+        "6": 2
+      },
+      "I": {
+        "4": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 1,
+        "6": 2
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 1,
+      "BI": 3,
+      "DE": 3,
+      "DI": 4,
+      "DU": 1,
+      "ED": 3,
+      "IB": 1,
+      "TI": 6,
+      "YE": 1
+    }
+  }
+}

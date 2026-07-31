@@ -1,0 +1,90 @@
+{
+  "pangram": "yowling",
+  "center_letter": "y",
+  "num_answers": 18,
+  "num_pangrams": 2,
+  "possible_points": 99,
+  "answer_pangrams": [
+    "glowingly",
+    "yowling"
+  ],
+  "answers": [
+    "giggly",
+    "glowingly",
+    "lily",
+    "longingly",
+    "lowly",
+    "lying",
+    "ninny",
+    "nylon",
+    "oily",
+    "only",
+    "wiggly",
+    "willingly",
+    "willowy",
+    "wily",
+    "woolly",
+    "yogi",
+    "yowl",
+    "yowling"
+  ],
+  "date": "2027-09-20",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 4,
+      "6": 3,
+      "7": 2,
+      "9": 3
+    },
+    "by_first_letter": {
+      "G": 2,
+      "L": 4,
+      "N": 2,
+      "O": 2,
+      "W": 5,
+      "Y": 3
+    },
+    "grid": {
+      "G": {
+        "6": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 2,
+        "9": 1
+      },
+      "N": {
+        "5": 2
+      },
+      "O": {
+        "4": 2
+      },
+      "W": {
+        "4": 1,
+        "6": 2,
+        "7": 1,
+        "9": 1
+      },
+      "Y": {
+        "4": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 1,
+      "GL": 1,
+      "LI": 1,
+      "LO": 2,
+      "LY": 1,
+      "NI": 1,
+      "NY": 1,
+      "OI": 1,
+      "ON": 1,
+      "WI": 4,
+      "WO": 1,
+      "YO": 3
+    }
+  }
+}

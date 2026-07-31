@@ -1,0 +1,111 @@
+{
+  "pangram": "acronym",
+  "center_letter": "c",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 203,
+  "answer_pangrams": [
+    "acronym"
+  ],
+  "answers": [
+    "acorn",
+    "acronym",
+    "cacao",
+    "camo",
+    "canary",
+    "cancan",
+    "canna",
+    "cannon",
+    "canny",
+    "canon",
+    "canyon",
+    "carom",
+    "carry",
+    "coca",
+    "cocoa",
+    "cocoon",
+    "coma",
+    "comma",
+    "common",
+    "corm",
+    "corn",
+    "corny",
+    "corona",
+    "coronary",
+    "cram",
+    "cranny",
+    "cray",
+    "crayon",
+    "crony",
+    "croon",
+    "cyan",
+    "macaroon",
+    "macro",
+    "macron",
+    "maraca",
+    "morocco",
+    "narc",
+    "noncom",
+    "raccoon",
+    "racy",
+    "rancor",
+    "rococo"
+  ],
+  "date": "2030-10-29",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 13,
+      "6": 14,
+      "7": 3,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 29,
+      "M": 5,
+      "N": 2,
+      "R": 4
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 8,
+        "5": 11,
+        "6": 9,
+        "8": 1
+      },
+      "M": {
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "R": {
+        "4": 1,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "CA": 11,
+      "CO": 11,
+      "CR": 6,
+      "CY": 1,
+      "MA": 4,
+      "MO": 1,
+      "NA": 1,
+      "NO": 1,
+      "RA": 3,
+      "RO": 1
+    }
+  }
+}

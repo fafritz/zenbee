@@ -1,0 +1,138 @@
+{
+  "pangram": "witched",
+  "center_letter": "t",
+  "num_answers": 50,
+  "num_pangrams": 2,
+  "possible_points": 238,
+  "answer_pangrams": [
+    "twitched",
+    "witched"
+  ],
+  "answers": [
+    "chit",
+    "cite",
+    "cited",
+    "deceit",
+    "detect",
+    "detected",
+    "diet",
+    "dieted",
+    "dietetic",
+    "ditch",
+    "ditched",
+    "edict",
+    "edit",
+    "edited",
+    "etch",
+    "etched",
+    "ethic",
+    "hectic",
+    "hitch",
+    "hitched",
+    "itch",
+    "itched",
+    "tech",
+    "teed",
+    "teeth",
+    "teethe",
+    "teethed",
+    "thee",
+    "tide",
+    "tided",
+    "tidied",
+    "tied",
+    "tithe",
+    "tithed",
+    "tweed",
+    "tweet",
+    "tweeted",
+    "twice",
+    "twit",
+    "twitch",
+    "twitched",
+    "twitted",
+    "whet",
+    "whetted",
+    "whit",
+    "white",
+    "width",
+    "witch",
+    "witched",
+    "with"
+  ],
+  "date": "2036-01-01",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 14,
+      "6": 11,
+      "7": 7,
+      "8": 3
+    },
+    "by_first_letter": {
+      "C": 3,
+      "D": 8,
+      "E": 6,
+      "H": 3,
+      "I": 2,
+      "T": 20,
+      "W": 8
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 1,
+        "8": 2
+      },
+      "E": {
+        "4": 2,
+        "5": 2,
+        "6": 2
+      },
+      "H": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 6,
+        "6": 4,
+        "7": 3,
+        "8": 1
+      },
+      "W": {
+        "4": 3,
+        "5": 3,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "CH": 1,
+      "CI": 2,
+      "DE": 3,
+      "DI": 5,
+      "ED": 3,
+      "ET": 3,
+      "HE": 1,
+      "HI": 2,
+      "IT": 2,
+      "TE": 5,
+      "TH": 1,
+      "TI": 6,
+      "TW": 8,
+      "WH": 4,
+      "WI": 4
+    }
+  }
+}

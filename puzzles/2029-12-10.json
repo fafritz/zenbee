@@ -1,0 +1,149 @@
+{
+  "pangram": "ignobly",
+  "center_letter": "l",
+  "num_answers": 59,
+  "num_pangrams": 3,
+  "possible_points": 317,
+  "answer_pangrams": [
+    "ignobly",
+    "lobbying",
+    "obligingly"
+  ],
+  "answers": [
+    "bill",
+    "billing",
+    "billion",
+    "billy",
+    "biology",
+    "bling",
+    "blob",
+    "blobbing",
+    "blog",
+    "blogging",
+    "bobbling",
+    "boggling",
+    "boil",
+    "boiling",
+    "boll",
+    "giggling",
+    "giggly",
+    "gigolo",
+    "gill",
+    "glib",
+    "glibly",
+    "glob",
+    "globing",
+    "gobbling",
+    "goblin",
+    "goggling",
+    "googling",
+    "igloo",
+    "ignobly",
+    "lily",
+    "lingo",
+    "lining",
+    "lion",
+    "lobbing",
+    "lobby",
+    "lobbying",
+    "logging",
+    "login",
+    "logo",
+    "loin",
+    "loll",
+    "lolling",
+    "long",
+    "longing",
+    "longingly",
+    "loon",
+    "lying",
+    "nibbling",
+    "niggling",
+    "nobly",
+    "nylon",
+    "obliging",
+    "obligingly",
+    "oblong",
+    "ogling",
+    "oiling",
+    "oily",
+    "olio",
+    "only"
+  ],
+  "date": "2029-12-10",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 9,
+      "6": 8,
+      "7": 10,
+      "8": 12,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "B": 15,
+      "G": 12,
+      "I": 2,
+      "L": 18,
+      "N": 4,
+      "O": 8
+    },
+    "grid": {
+      "B": {
+        "4": 5,
+        "5": 2,
+        "7": 4,
+        "8": 4
+      },
+      "G": {
+        "4": 3,
+        "6": 4,
+        "7": 1,
+        "8": 4
+      },
+      "I": {
+        "5": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 7,
+        "5": 4,
+        "6": 1,
+        "7": 4,
+        "8": 1,
+        "9": 1
+      },
+      "N": {
+        "5": 2,
+        "8": 2
+      },
+      "O": {
+        "4": 3,
+        "6": 3,
+        "8": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "BI": 5,
+      "BL": 5,
+      "BO": 5,
+      "GI": 4,
+      "GL": 4,
+      "GO": 4,
+      "IG": 2,
+      "LI": 4,
+      "LO": 13,
+      "LY": 1,
+      "NI": 2,
+      "NO": 1,
+      "NY": 1,
+      "OB": 3,
+      "OG": 1,
+      "OI": 2,
+      "OL": 1,
+      "ON": 1
+    }
+  }
+}

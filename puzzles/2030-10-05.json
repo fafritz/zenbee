@@ -1,0 +1,127 @@
+{
+  "pangram": "acronym",
+  "center_letter": "r",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 222,
+  "answer_pangrams": [
+    "acronym"
+  ],
+  "answers": [
+    "acorn",
+    "acronym",
+    "armor",
+    "armory",
+    "army",
+    "aroma",
+    "array",
+    "arroyo",
+    "canary",
+    "carom",
+    "carry",
+    "corm",
+    "corn",
+    "corny",
+    "corona",
+    "coronary",
+    "cram",
+    "cranny",
+    "cray",
+    "crayon",
+    "crony",
+    "croon",
+    "macaroon",
+    "macro",
+    "macron",
+    "mammary",
+    "manor",
+    "maraca",
+    "maroon",
+    "marry",
+    "mayor",
+    "moor",
+    "moray",
+    "morn",
+    "morocco",
+    "moron",
+    "narc",
+    "norm",
+    "raccoon",
+    "racy",
+    "rancor",
+    "rayon",
+    "roam",
+    "roan",
+    "roar",
+    "rococo",
+    "roman",
+    "room",
+    "roomy",
+    "yarn"
+  ],
+  "date": "2030-10-05",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 18,
+      "6": 11,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 8,
+      "C": 14,
+      "M": 14,
+      "N": 2,
+      "R": 11,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 4,
+        "6": 2,
+        "7": 1
+      },
+      "C": {
+        "4": 4,
+        "5": 5,
+        "6": 4,
+        "8": 1
+      },
+      "M": {
+        "4": 2,
+        "5": 6,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 2
+      },
+      "R": {
+        "4": 5,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AR": 6,
+      "CA": 3,
+      "CO": 5,
+      "CR": 6,
+      "MA": 9,
+      "MO": 5,
+      "NA": 1,
+      "NO": 1,
+      "RA": 4,
+      "RO": 7,
+      "YA": 1
+    }
+  }
+}

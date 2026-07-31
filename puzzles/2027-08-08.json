@@ -1,0 +1,98 @@
+{
+  "pangram": "humanly",
+  "center_letter": "n",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 105,
+  "answer_pangrams": [
+    "humanly"
+  ],
+  "answers": [
+    "alumna",
+    "anal",
+    "annual",
+    "annually",
+    "annul",
+    "human",
+    "humanly",
+    "hymn",
+    "hymnal",
+    "layman",
+    "manly",
+    "manna",
+    "manual",
+    "manually",
+    "many",
+    "myna",
+    "naan",
+    "nana",
+    "nanny",
+    "null",
+    "ulna",
+    "unman",
+    "unmanly"
+  ],
+  "date": "2027-08-08",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 6,
+      "6": 5,
+      "7": 2,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "H": 4,
+      "L": 1,
+      "M": 6,
+      "N": 4,
+      "U": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "8": 1
+      },
+      "H": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "6": 1
+      },
+      "M": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AN": 4,
+      "HU": 2,
+      "HY": 2,
+      "LA": 1,
+      "MA": 5,
+      "MY": 1,
+      "NA": 3,
+      "NU": 1,
+      "UL": 1,
+      "UN": 2
+    }
+  }
+}

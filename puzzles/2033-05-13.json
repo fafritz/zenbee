@@ -1,0 +1,103 @@
+{
+  "pangram": "bathing",
+  "center_letter": "b",
+  "num_answers": 29,
+  "num_pangrams": 2,
+  "possible_points": 192,
+  "answer_pangrams": [
+    "bathing",
+    "inhabiting"
+  ],
+  "answers": [
+    "abating",
+    "baaing",
+    "baba",
+    "bagging",
+    "bait",
+    "baiting",
+    "banana",
+    "bang",
+    "banging",
+    "banning",
+    "bath",
+    "bathing",
+    "batting",
+    "bight",
+    "binning",
+    "biting",
+    "gabbing",
+    "gibing",
+    "gigabit",
+    "habit",
+    "habitat",
+    "inhabit",
+    "inhabitant",
+    "inhabiting",
+    "inhibit",
+    "inhibiting",
+    "nabbing",
+    "tabbing",
+    "tibia"
+  ],
+  "date": "2033-05-13",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 3,
+      "6": 4,
+      "7": 15,
+      "10": 3
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 15,
+      "G": 3,
+      "H": 2,
+      "I": 5,
+      "N": 1,
+      "T": 2
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "B": {
+        "4": 4,
+        "5": 1,
+        "6": 3,
+        "7": 7
+      },
+      "G": {
+        "6": 1,
+        "7": 2
+      },
+      "H": {
+        "5": 1,
+        "7": 1
+      },
+      "I": {
+        "7": 2,
+        "10": 3
+      },
+      "N": {
+        "7": 1
+      },
+      "T": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "BA": 12,
+      "BI": 3,
+      "GA": 1,
+      "GI": 2,
+      "HA": 2,
+      "IN": 5,
+      "NA": 1,
+      "TA": 1,
+      "TI": 1
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "pangram": "witched",
+  "center_letter": "h",
+  "num_answers": 41,
+  "num_pangrams": 2,
+  "possible_points": 185,
+  "answer_pangrams": [
+    "twitched",
+    "witched"
+  ],
+  "answers": [
+    "chew",
+    "chewed",
+    "chic",
+    "chide",
+    "chided",
+    "chit",
+    "ditch",
+    "ditched",
+    "etch",
+    "etched",
+    "ethic",
+    "hectic",
+    "heed",
+    "heeded",
+    "hewed",
+    "hide",
+    "hided",
+    "hied",
+    "hitch",
+    "hitched",
+    "itch",
+    "itched",
+    "tech",
+    "teeth",
+    "teethe",
+    "teethed",
+    "thee",
+    "tithe",
+    "tithed",
+    "twitch",
+    "twitched",
+    "whet",
+    "whetted",
+    "whew",
+    "which",
+    "whit",
+    "white",
+    "width",
+    "witch",
+    "witched",
+    "with"
+  ],
+  "date": "2029-12-07",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 12,
+      "6": 9,
+      "7": 5,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 6,
+      "D": 2,
+      "E": 3,
+      "H": 9,
+      "I": 2,
+      "T": 9,
+      "W": 10
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 1,
+        "6": 2
+      },
+      "D": {
+        "5": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "W": {
+        "4": 4,
+        "5": 4,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "CH": 6,
+      "DI": 2,
+      "ET": 3,
+      "HE": 4,
+      "HI": 5,
+      "IT": 2,
+      "TE": 4,
+      "TH": 1,
+      "TI": 2,
+      "TW": 2,
+      "WH": 6,
+      "WI": 4
+    }
+  }
+}

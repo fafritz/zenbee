@@ -1,0 +1,102 @@
+{
+  "pangram": "pouched",
+  "center_letter": "h",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 142,
+  "answer_pangrams": [
+    "pouched"
+  ],
+  "answers": [
+    "cheep",
+    "cheeped",
+    "chop",
+    "chopped",
+    "couch",
+    "couched",
+    "douche",
+    "douched",
+    "echo",
+    "echoed",
+    "epoch",
+    "heed",
+    "heeded",
+    "hoed",
+    "hooch",
+    "hood",
+    "hooded",
+    "hoodoo",
+    "hoodooed",
+    "hoop",
+    "hooped",
+    "hope",
+    "hoped",
+    "hopped",
+    "ouch",
+    "pooch",
+    "pooh",
+    "poohed",
+    "pouch",
+    "pouched"
+  ],
+  "date": "2034-02-12",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 7,
+      "6": 8,
+      "7": 5,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 6,
+      "D": 2,
+      "E": 3,
+      "H": 13,
+      "O": 1,
+      "P": 5
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 2,
+        "7": 3
+      },
+      "D": {
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 5,
+        "5": 2,
+        "6": 5,
+        "8": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 4,
+      "CO": 2,
+      "DO": 2,
+      "EC": 2,
+      "EP": 1,
+      "HE": 2,
+      "HO": 11,
+      "OU": 1,
+      "PO": 5
+    }
+  }
+}

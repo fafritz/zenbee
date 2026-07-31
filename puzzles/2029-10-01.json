@@ -1,0 +1,139 @@
+{
+  "pangram": "ordinal",
+  "center_letter": "a",
+  "num_answers": 53,
+  "num_pangrams": 1,
+  "possible_points": 190,
+  "answer_pangrams": [
+    "ordinal"
+  ],
+  "answers": [
+    "adorn",
+    "anal",
+    "andiron",
+    "android",
+    "anion",
+    "anon",
+    "ardor",
+    "aria",
+    "arid",
+    "dado",
+    "darn",
+    "dial",
+    "dinar",
+    "dollar",
+    "doodad",
+    "drain",
+    "inlaid",
+    "inland",
+    "inroad",
+    "laid",
+    "lain",
+    "lair",
+    "land",
+    "landlord",
+    "lanolin",
+    "lard",
+    "liar",
+    "lira",
+    "llano",
+    "load",
+    "loan",
+    "naan",
+    "nadir",
+    "naiad",
+    "nail",
+    "nana",
+    "nodal",
+    "oral",
+    "ordain",
+    "ordinal",
+    "radar",
+    "radial",
+    "radian",
+    "radii",
+    "radio",
+    "radon",
+    "raid",
+    "rail",
+    "railroad",
+    "rain",
+    "road",
+    "roan",
+    "roar"
+  ],
+  "date": "2029-10-01",
+  "hints": {
+    "by_length": {
+      "4": 26,
+      "5": 13,
+      "6": 8,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 9,
+      "D": 7,
+      "I": 3,
+      "L": 12,
+      "N": 6,
+      "O": 3,
+      "R": 13
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "5": 3,
+        "7": 2
+      },
+      "D": {
+        "4": 3,
+        "5": 2,
+        "6": 2
+      },
+      "I": {
+        "6": 3
+      },
+      "L": {
+        "4": 9,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 3
+      },
+      "O": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 6,
+        "5": 4,
+        "6": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AN": 5,
+      "AR": 3,
+      "DA": 2,
+      "DI": 2,
+      "DO": 2,
+      "DR": 1,
+      "IN": 3,
+      "LA": 7,
+      "LI": 2,
+      "LL": 1,
+      "LO": 2,
+      "NA": 5,
+      "NO": 1,
+      "OR": 3,
+      "RA": 10,
+      "RO": 3
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "pangram": "tickled",
+  "center_letter": "t",
+  "num_answers": 51,
+  "num_pangrams": 1,
+  "possible_points": 242,
+  "answer_pangrams": [
+    "tickled"
+  ],
+  "answers": [
+    "cite",
+    "cited",
+    "deceit",
+    "delete",
+    "deleted",
+    "detect",
+    "detected",
+    "diet",
+    "dieted",
+    "dietetic",
+    "eclectic",
+    "edict",
+    "edit",
+    "edited",
+    "elect",
+    "elected",
+    "elicit",
+    "elicited",
+    "elite",
+    "illicit",
+    "kettle",
+    "kilt",
+    "kite",
+    "kited",
+    "licit",
+    "lilt",
+    "lilted",
+    "lite",
+    "little",
+    "teed",
+    "tell",
+    "tick",
+    "ticked",
+    "ticket",
+    "ticketed",
+    "tickle",
+    "tickled",
+    "tide",
+    "tided",
+    "tidied",
+    "tied",
+    "tilde",
+    "tile",
+    "tiled",
+    "till",
+    "tilled",
+    "tilt",
+    "tilted",
+    "title",
+    "titled",
+    "tittle"
+  ],
+  "date": "2026-12-06",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 10,
+      "6": 17,
+      "7": 4,
+      "8": 5
+    },
+    "by_first_letter": {
+      "C": 2,
+      "D": 8,
+      "E": 9,
+      "I": 1,
+      "K": 4,
+      "L": 5,
+      "T": 22
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 1
+      },
+      "D": {
+        "4": 1,
+        "6": 4,
+        "7": 1,
+        "8": 2
+      },
+      "E": {
+        "4": 1,
+        "5": 3,
+        "6": 2,
+        "7": 1,
+        "8": 2
+      },
+      "I": {
+        "7": 1
+      },
+      "K": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "T": {
+        "4": 8,
+        "5": 4,
+        "6": 8,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "CI": 2,
+      "DE": 5,
+      "DI": 3,
+      "EC": 1,
+      "ED": 3,
+      "EL": 5,
+      "IL": 1,
+      "KE": 1,
+      "KI": 3,
+      "LI": 5,
+      "TE": 2,
+      "TI": 20
+    }
+  }
+}

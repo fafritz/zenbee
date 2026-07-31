@@ -1,0 +1,120 @@
+{
+  "pangram": "plowman",
+  "center_letter": "a",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 124,
+  "answer_pangrams": [
+    "plowman"
+  ],
+  "answers": [
+    "allow",
+    "ammo",
+    "anal",
+    "anon",
+    "appall",
+    "lama",
+    "lamp",
+    "lampoon",
+    "lawn",
+    "llama",
+    "llano",
+    "loam",
+    "loan",
+    "mall",
+    "mallow",
+    "mama",
+    "mamma",
+    "mammal",
+    "manna",
+    "moan",
+    "momma",
+    "naan",
+    "nana",
+    "napalm",
+    "opal",
+    "pall",
+    "palm",
+    "papa",
+    "papal",
+    "pawl",
+    "pawn",
+    "pawpaw",
+    "plan",
+    "plowman",
+    "wall",
+    "wallop",
+    "wallow",
+    "woman"
+  ],
+  "date": "2038-04-20",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 8,
+      "6": 7,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "L": 8,
+      "M": 8,
+      "N": 3,
+      "O": 1,
+      "P": 9,
+      "W": 4
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 2,
+        "7": 1
+      },
+      "M": {
+        "4": 3,
+        "5": 3,
+        "6": 2
+      },
+      "N": {
+        "4": 2,
+        "6": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 6,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "W": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AM": 1,
+      "AN": 2,
+      "AP": 1,
+      "LA": 4,
+      "LL": 2,
+      "LO": 2,
+      "MA": 6,
+      "MO": 2,
+      "NA": 3,
+      "OP": 1,
+      "PA": 7,
+      "PL": 2,
+      "WA": 3,
+      "WO": 1
+    }
+  }
+}

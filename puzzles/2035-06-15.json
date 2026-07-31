@@ -1,0 +1,116 @@
+{
+  "pangram": "unlatch",
+  "center_letter": "l",
+  "num_answers": 35,
+  "num_pangrams": 1,
+  "possible_points": 125,
+  "answer_pangrams": [
+    "unlatch"
+  ],
+  "answers": [
+    "actual",
+    "anal",
+    "annual",
+    "annul",
+    "call",
+    "calla",
+    "canal",
+    "cannula",
+    "canula",
+    "catcall",
+    "catchall",
+    "clan",
+    "clutch",
+    "cull",
+    "cult",
+    "halal",
+    "hall",
+    "halt",
+    "haul",
+    "hula",
+    "hull",
+    "lacuna",
+    "latch",
+    "lath",
+    "launch",
+    "luau",
+    "lull",
+    "lulu",
+    "lunch",
+    "natal",
+    "null",
+    "talc",
+    "tall",
+    "ulna",
+    "unlatch"
+  ],
+  "date": "2035-06-15",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 7,
+      "6": 6,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 11,
+      "H": 6,
+      "L": 8,
+      "N": 2,
+      "T": 2,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "C": {
+        "4": 4,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 1
+      },
+      "H": {
+        "4": 5,
+        "5": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 2,
+        "6": 2
+      },
+      "N": {
+        "4": 1,
+        "5": 1
+      },
+      "T": {
+        "4": 2
+      },
+      "U": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AN": 3,
+      "CA": 7,
+      "CL": 2,
+      "CU": 2,
+      "HA": 4,
+      "HU": 2,
+      "LA": 4,
+      "LU": 4,
+      "NA": 1,
+      "NU": 1,
+      "TA": 2,
+      "UL": 1,
+      "UN": 1
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "pangram": "begonia",
+  "center_letter": "a",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 182,
+  "answer_pangrams": [
+    "begonia"
+  ],
+  "answers": [
+    "abbe",
+    "again",
+    "aging",
+    "agog",
+    "angina",
+    "anion",
+    "anon",
+    "baaing",
+    "baba",
+    "babe",
+    "baboon",
+    "baggage",
+    "bagging",
+    "banana",
+    "bane",
+    "bang",
+    "banging",
+    "banning",
+    "baobab",
+    "bean",
+    "beaning",
+    "began",
+    "begonia",
+    "engage",
+    "engaging",
+    "gabbing",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "gonna",
+    "inane",
+    "naan",
+    "nabbing",
+    "nabob",
+    "nagging",
+    "nana"
+  ],
+  "date": "2037-12-30",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 7,
+      "6": 6,
+      "7": 12,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "B": 16,
+      "E": 2,
+      "G": 7,
+      "I": 1,
+      "N": 5
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 3,
+        "6": 1
+      },
+      "B": {
+        "4": 5,
+        "5": 1,
+        "6": 4,
+        "7": 6
+      },
+      "E": {
+        "6": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "7": 4
+      },
+      "I": {
+        "5": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AG": 3,
+      "AN": 3,
+      "BA": 12,
+      "BE": 4,
+      "EN": 2,
+      "GA": 6,
+      "GO": 1,
+      "IN": 1,
+      "NA": 5
+    }
+  }
+}

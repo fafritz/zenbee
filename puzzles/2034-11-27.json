@@ -1,0 +1,82 @@
+{
+  "pangram": "impeach",
+  "center_letter": "h",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 70,
+  "answer_pangrams": [
+    "impeach"
+  ],
+  "answers": [
+    "ache",
+    "ahem",
+    "cache",
+    "champ",
+    "chap",
+    "cheap",
+    "cheep",
+    "chem",
+    "chic",
+    "chime",
+    "chimp",
+    "chip",
+    "each",
+    "hammam",
+    "heap",
+    "hemp",
+    "hippie",
+    "impeach",
+    "peach"
+  ],
+  "date": "2034-11-27",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 7,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 10,
+      "E": 1,
+      "H": 4,
+      "I": 1,
+      "P": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2
+      },
+      "C": {
+        "4": 4,
+        "5": 6
+      },
+      "E": {
+        "4": 1
+      },
+      "H": {
+        "4": 2,
+        "6": 2
+      },
+      "I": {
+        "7": 1
+      },
+      "P": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AH": 1,
+      "CA": 1,
+      "CH": 9,
+      "EA": 1,
+      "HA": 1,
+      "HE": 2,
+      "HI": 1,
+      "IM": 1,
+      "PE": 1
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "pangram": "outrank",
+  "center_letter": "o",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 113,
+  "answer_pangrams": [
+    "outrank"
+  ],
+  "answers": [
+    "anon",
+    "aorta",
+    "auto",
+    "knot",
+    "koan",
+    "kook",
+    "krona",
+    "kronur",
+    "narrator",
+    "nook",
+    "noon",
+    "noun",
+    "okra",
+    "onto",
+    "orator",
+    "outran",
+    "outrank",
+    "outrun",
+    "roan",
+    "roar",
+    "rook",
+    "root",
+    "rotor",
+    "rout",
+    "taro",
+    "tarot",
+    "tattoo",
+    "took",
+    "toon",
+    "toot",
+    "torn",
+    "tort",
+    "tour",
+    "tout",
+    "trot",
+    "trout",
+    "turnout",
+    "tutor"
+  ],
+  "date": "2029-09-30",
+  "hints": {
+    "by_length": {
+      "4": 24,
+      "5": 6,
+      "6": 5,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "K": 5,
+      "N": 4,
+      "O": 6,
+      "R": 6,
+      "T": 14
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "K": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "4": 3,
+        "8": 1
+      },
+      "O": {
+        "4": 2,
+        "6": 3,
+        "7": 1
+      },
+      "R": {
+        "4": 5,
+        "5": 1
+      },
+      "T": {
+        "4": 9,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "AO": 1,
+      "AU": 1,
+      "KN": 1,
+      "KO": 2,
+      "KR": 2,
+      "NA": 1,
+      "NO": 3,
+      "OK": 1,
+      "ON": 1,
+      "OR": 1,
+      "OU": 3,
+      "RO": 6,
+      "TA": 3,
+      "TO": 7,
+      "TR": 2,
+      "TU": 2
+    }
+  }
+}

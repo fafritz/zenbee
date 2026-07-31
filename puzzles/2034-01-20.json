@@ -1,0 +1,77 @@
+{
+  "pangram": "gaudily",
+  "center_letter": "a",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 66,
+  "answer_pangrams": [
+    "gaudily"
+  ],
+  "answers": [
+    "alga",
+    "allay",
+    "ally",
+    "daddy",
+    "daily",
+    "dally",
+    "dial",
+    "dillydally",
+    "dual",
+    "gala",
+    "gall",
+    "gaudily",
+    "gaudy",
+    "glad",
+    "gladly",
+    "lady",
+    "laid",
+    "laud",
+    "luau"
+  ],
+  "date": "2034-01-20",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 5,
+      "6": 1,
+      "7": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 6,
+      "G": 6,
+      "L": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 3,
+        "10": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 4
+      }
+    },
+    "two_letter_list": {
+      "AL": 3,
+      "DA": 3,
+      "DI": 2,
+      "DU": 1,
+      "GA": 4,
+      "GL": 2,
+      "LA": 3,
+      "LU": 1
+    }
+  }
+}

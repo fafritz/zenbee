@@ -1,0 +1,120 @@
+{
+  "pangram": "twanged",
+  "center_letter": "g",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 189,
+  "answer_pangrams": [
+    "twanged"
+  ],
+  "answers": [
+    "adage",
+    "agate",
+    "aged",
+    "agenda",
+    "agent",
+    "edge",
+    "edged",
+    "egged",
+    "engage",
+    "engaged",
+    "gadded",
+    "gadget",
+    "gagged",
+    "gang",
+    "ganged",
+    "gannet",
+    "gate",
+    "gated",
+    "geed",
+    "gene",
+    "gent",
+    "gewgaw",
+    "gnat",
+    "gnaw",
+    "gnawed",
+    "nagged",
+    "negate",
+    "negated",
+    "tagged",
+    "tang",
+    "tangent",
+    "teenage",
+    "twang",
+    "twanged",
+    "wage",
+    "waged",
+    "wagged",
+    "wattage",
+    "wedge",
+    "wedged"
+  ],
+  "date": "2027-02-24",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 9,
+      "6": 14,
+      "7": 6
+    },
+    "by_first_letter": {
+      "A": 5,
+      "E": 5,
+      "G": 15,
+      "N": 3,
+      "T": 6,
+      "W": 6
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 7,
+        "5": 1,
+        "6": 7
+      },
+      "N": {
+        "6": 2,
+        "7": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 3
+      },
+      "W": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AG": 4,
+      "ED": 2,
+      "EG": 1,
+      "EN": 2,
+      "GA": 8,
+      "GE": 4,
+      "GN": 3,
+      "NA": 1,
+      "NE": 2,
+      "TA": 3,
+      "TE": 1,
+      "TW": 2,
+      "WA": 4,
+      "WE": 2
+    }
+  }
+}

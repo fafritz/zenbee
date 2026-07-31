@@ -1,0 +1,93 @@
+{
+  "pangram": "bawling",
+  "center_letter": "w",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 164,
+  "answer_pangrams": [
+    "bawling"
+  ],
+  "answers": [
+    "awing",
+    "awning",
+    "bawl",
+    "bawling",
+    "bigwig",
+    "gnaw",
+    "gnawing",
+    "lawn",
+    "wagging",
+    "waggling",
+    "waging",
+    "wail",
+    "wailing",
+    "waling",
+    "wall",
+    "walling",
+    "wangling",
+    "waning",
+    "wigging",
+    "wiggling",
+    "wigwag",
+    "wigwagging",
+    "wiling",
+    "will",
+    "willing",
+    "wing",
+    "winging",
+    "wining",
+    "winning"
+  ],
+  "date": "2033-09-18",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 1,
+      "6": 8,
+      "7": 9,
+      "8": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 3,
+      "G": 2,
+      "L": 1,
+      "W": 21
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1
+      },
+      "B": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 1
+      },
+      "W": {
+        "4": 4,
+        "6": 6,
+        "7": 7,
+        "8": 3,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AW": 2,
+      "BA": 2,
+      "BI": 1,
+      "GN": 2,
+      "LA": 1,
+      "WA": 10,
+      "WI": 11
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "pangram": "fixated",
+  "center_letter": "d",
+  "num_answers": 48,
+  "num_pangrams": 1,
+  "possible_points": 200,
+  "answer_pangrams": [
+    "fixated"
+  ],
+  "answers": [
+    "added",
+    "affixed",
+    "aide",
+    "aided",
+    "axed",
+    "data",
+    "date",
+    "dated",
+    "dead",
+    "deaf",
+    "deed",
+    "deeded",
+    "defeat",
+    "defeated",
+    "defied",
+    "deft",
+    "deified",
+    "died",
+    "diet",
+    "dieted",
+    "diff",
+    "diffed",
+    "eddied",
+    "edified",
+    "edit",
+    "edited",
+    "exited",
+    "fade",
+    "faded",
+    "fated",
+    "faxed",
+    "feed",
+    "feted",
+    "fetid",
+    "fitted",
+    "fixated",
+    "fixed",
+    "idea",
+    "tatted",
+    "taxed",
+    "taxied",
+    "teed",
+    "texted",
+    "tide",
+    "tided",
+    "tidied",
+    "tied",
+    "tiffed"
+  ],
+  "date": "2032-07-22",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 11,
+      "6": 14,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "D": 17,
+      "E": 5,
+      "F": 10,
+      "I": 1,
+      "T": 10
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "D": {
+        "4": 9,
+        "5": 1,
+        "6": 5,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "4": 1,
+        "6": 3,
+        "7": 1
+      },
+      "F": {
+        "4": 2,
+        "5": 6,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 2,
+        "6": 5
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AF": 1,
+      "AI": 2,
+      "AX": 1,
+      "DA": 3,
+      "DE": 9,
+      "DI": 5,
+      "ED": 4,
+      "EX": 1,
+      "FA": 4,
+      "FE": 3,
+      "FI": 3,
+      "ID": 1,
+      "TA": 3,
+      "TE": 2,
+      "TI": 5
+    }
+  }
+}

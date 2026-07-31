@@ -1,0 +1,132 @@
+{
+  "pangram": "minuted",
+  "center_letter": "m",
+  "num_answers": 56,
+  "num_pangrams": 2,
+  "possible_points": 253,
+  "answer_pangrams": [
+    "minuted",
+    "mutinied"
+  ],
+  "answers": [
+    "deem",
+    "deemed",
+    "demented",
+    "denim",
+    "dime",
+    "dimmed",
+    "emend",
+    "emended",
+    "eminent",
+    "emit",
+    "emitted",
+    "imminent",
+    "immune",
+    "item",
+    "medium",
+    "meet",
+    "meme",
+    "mend",
+    "mended",
+    "menu",
+    "mete",
+    "meted",
+    "mien",
+    "mime",
+    "mimed",
+    "mind",
+    "minded",
+    "mine",
+    "mined",
+    "mini",
+    "minim",
+    "minimum",
+    "mint",
+    "minted",
+    "minuend",
+    "minuet",
+    "minute",
+    "minuted",
+    "minutemen",
+    "mite",
+    "mitt",
+    "mitten",
+    "muddied",
+    "mute",
+    "muted",
+    "mutinied",
+    "mutt",
+    "muumuu",
+    "tedium",
+    "teem",
+    "teemed",
+    "tenement",
+    "time",
+    "timed",
+    "timid",
+    "tumid"
+  ],
+  "date": "2028-01-21",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 10,
+      "6": 13,
+      "7": 7,
+      "8": 4,
+      "9": 1
+    },
+    "by_first_letter": {
+      "D": 6,
+      "E": 5,
+      "I": 3,
+      "M": 34,
+      "T": 8
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "8": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "7": 3
+      },
+      "I": {
+        "4": 1,
+        "6": 1,
+        "8": 1
+      },
+      "M": {
+        "4": 15,
+        "5": 5,
+        "6": 8,
+        "7": 4,
+        "8": 1,
+        "9": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 3,
+        "6": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 4,
+      "DI": 2,
+      "EM": 5,
+      "IM": 2,
+      "IT": 1,
+      "ME": 8,
+      "MI": 20,
+      "MU": 6,
+      "TE": 4,
+      "TI": 3,
+      "TU": 1
+    }
+  }
+}

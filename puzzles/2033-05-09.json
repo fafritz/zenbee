@@ -1,0 +1,102 @@
+{
+  "pangram": "poniard",
+  "center_letter": "p",
+  "num_answers": 30,
+  "num_pangrams": 3,
+  "possible_points": 134,
+  "answer_pangrams": [
+    "paranoid",
+    "poniard",
+    "raindrop"
+  ],
+  "answers": [
+    "airdrop",
+    "apron",
+    "drip",
+    "droop",
+    "drop",
+    "ipad",
+    "ipod",
+    "opinion",
+    "opioid",
+    "paid",
+    "pain",
+    "pair",
+    "panda",
+    "papa",
+    "paranoia",
+    "paranoid",
+    "pardon",
+    "piano",
+    "pinion",
+    "pippin",
+    "pond",
+    "poniard",
+    "poop",
+    "poor",
+    "prior",
+    "prod",
+    "pron",
+    "prop",
+    "raindrop",
+    "rapid"
+  ],
+  "date": "2033-05-09",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 6,
+      "6": 4,
+      "7": 3,
+      "8": 3
+    },
+    "by_first_letter": {
+      "A": 2,
+      "D": 3,
+      "I": 2,
+      "O": 2,
+      "P": 19,
+      "R": 2
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 1
+      },
+      "I": {
+        "4": 2
+      },
+      "O": {
+        "6": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 10,
+        "5": 3,
+        "6": 3,
+        "7": 1,
+        "8": 2
+      },
+      "R": {
+        "5": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AP": 1,
+      "DR": 3,
+      "IP": 2,
+      "OP": 2,
+      "PA": 8,
+      "PI": 3,
+      "PO": 4,
+      "PR": 4,
+      "RA": 2
+    }
+  }
+}

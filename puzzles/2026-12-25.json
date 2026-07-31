@@ -1,0 +1,130 @@
+{
+  "pangram": "placing",
+  "center_letter": "c",
+  "num_answers": 42,
+  "num_pangrams": 2,
+  "possible_points": 257,
+  "answer_pangrams": [
+    "clapping",
+    "placing"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acing",
+    "alpaca",
+    "caging",
+    "calcining",
+    "call",
+    "calla",
+    "calling",
+    "canal",
+    "cancan",
+    "caning",
+    "canna",
+    "canning",
+    "capping",
+    "cilia",
+    "clan",
+    "clang",
+    "clanging",
+    "clap",
+    "clapping",
+    "cling",
+    "clinging",
+    "clinic",
+    "clinical",
+    "clinician",
+    "clip",
+    "clipping",
+    "glacial",
+    "glancing",
+    "icing",
+    "inclining",
+    "lacing",
+    "lancing",
+    "lilac",
+    "niacin",
+    "pacing",
+    "panic",
+    "pica",
+    "piccalilli",
+    "picnic",
+    "placing"
+  ],
+  "date": "2026-12-25",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 10,
+      "6": 10,
+      "7": 6,
+      "8": 6,
+      "9": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 24,
+      "G": 2,
+      "I": 2,
+      "L": 3,
+      "N": 1,
+      "P": 6
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "C": {
+        "4": 4,
+        "5": 6,
+        "6": 4,
+        "7": 3,
+        "8": 5,
+        "9": 2
+      },
+      "G": {
+        "7": 1,
+        "8": 1
+      },
+      "I": {
+        "5": 1,
+        "9": 1
+      },
+      "L": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AL": 1,
+      "CA": 11,
+      "CI": 1,
+      "CL": 12,
+      "GL": 2,
+      "IC": 1,
+      "IN": 1,
+      "LA": 2,
+      "LI": 1,
+      "NI": 1,
+      "PA": 2,
+      "PI": 3,
+      "PL": 1
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "pangram": "ovulate",
+  "center_letter": "t",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 158,
+  "answer_pangrams": [
+    "ovulate"
+  ],
+  "answers": [
+    "allot",
+    "alto",
+    "atoll",
+    "auto",
+    "elate",
+    "elevate",
+    "evaluate",
+    "late",
+    "latte",
+    "loot",
+    "lotto",
+    "lout",
+    "lute",
+    "outlet",
+    "outvote",
+    "ovulate",
+    "tale",
+    "tall",
+    "tattle",
+    "tattletale",
+    "tattoo",
+    "taut",
+    "teal",
+    "teetotal",
+    "tell",
+    "telltale",
+    "toll",
+    "tool",
+    "toot",
+    "total",
+    "tote",
+    "tout",
+    "tulle",
+    "tutu",
+    "ululate",
+    "valet",
+    "vault",
+    "velvet",
+    "veto",
+    "volt",
+    "vote"
+  ],
+  "date": "2029-11-16",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 9,
+      "6": 4,
+      "7": 4,
+      "8": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "E": 3,
+      "L": 6,
+      "O": 3,
+      "T": 18,
+      "U": 1,
+      "V": 6
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2
+      },
+      "E": {
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 2
+      },
+      "O": {
+        "6": 1,
+        "7": 2
+      },
+      "T": {
+        "4": 11,
+        "5": 2,
+        "6": 2,
+        "8": 2,
+        "10": 1
+      },
+      "U": {
+        "7": 1
+      },
+      "V": {
+        "4": 3,
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "AT": 1,
+      "AU": 1,
+      "EL": 2,
+      "EV": 1,
+      "LA": 2,
+      "LO": 3,
+      "LU": 1,
+      "OU": 2,
+      "OV": 1,
+      "TA": 6,
+      "TE": 4,
+      "TO": 6,
+      "TU": 2,
+      "UL": 1,
+      "VA": 2,
+      "VE": 2,
+      "VO": 2
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "pangram": "languor",
+  "center_letter": "u",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 89,
+  "answer_pangrams": [
+    "languor"
+  ],
+  "answers": [
+    "angular",
+    "annual",
+    "annul",
+    "annular",
+    "augur",
+    "aura",
+    "aural",
+    "granular",
+    "guano",
+    "gull",
+    "guru",
+    "languor",
+    "luau",
+    "lull",
+    "lulu",
+    "lunar",
+    "lung",
+    "noun",
+    "null",
+    "rung",
+    "rural",
+    "ulna",
+    "unroll"
+  ],
+  "date": "2028-06-21",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 6,
+      "6": 2,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "G": 4,
+      "L": 6,
+      "N": 2,
+      "R": 2,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 2
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 2
+      },
+      "R": {
+        "4": 1,
+        "5": 1
+      },
+      "U": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 4,
+      "AU": 3,
+      "GR": 1,
+      "GU": 3,
+      "LA": 1,
+      "LU": 5,
+      "NO": 1,
+      "NU": 1,
+      "RU": 2,
+      "UL": 1,
+      "UN": 1
+    }
+  }
+}

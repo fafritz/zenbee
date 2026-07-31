@@ -1,0 +1,124 @@
+{
+  "pangram": "clarion",
+  "center_letter": "r",
+  "num_answers": 40,
+  "num_pangrams": 3,
+  "possible_points": 189,
+  "answer_pangrams": [
+    "carillon",
+    "clarion",
+    "ironical"
+  ],
+  "answers": [
+    "acorn",
+    "aria",
+    "cairn",
+    "caloric",
+    "carillon",
+    "carnal",
+    "carol",
+    "carrion",
+    "circa",
+    "cirri",
+    "clarion",
+    "collar",
+    "color",
+    "coral",
+    "corn",
+    "corolla",
+    "corona",
+    "corral",
+    "cranial",
+    "croon",
+    "iron",
+    "ironic",
+    "ironical",
+    "lair",
+    "liar",
+    "lira",
+    "narc",
+    "ocarina",
+    "oral",
+    "raccoon",
+    "racial",
+    "rail",
+    "rain",
+    "rancor",
+    "rill",
+    "roan",
+    "roar",
+    "rococo",
+    "roil",
+    "roll"
+  ],
+  "date": "2034-05-20",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 8,
+      "6": 8,
+      "7": 7,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 18,
+      "I": 3,
+      "L": 3,
+      "N": 1,
+      "O": 2,
+      "R": 11
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 7,
+        "6": 4,
+        "7": 5,
+        "8": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 3
+      },
+      "N": {
+        "4": 1
+      },
+      "O": {
+        "4": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 7,
+        "6": 3,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AR": 1,
+      "CA": 6,
+      "CI": 2,
+      "CL": 1,
+      "CO": 7,
+      "CR": 2,
+      "IR": 3,
+      "LA": 1,
+      "LI": 2,
+      "NA": 1,
+      "OC": 1,
+      "OR": 1,
+      "RA": 5,
+      "RI": 1,
+      "RO": 5
+    }
+  }
+}

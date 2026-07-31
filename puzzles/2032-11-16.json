@@ -1,0 +1,103 @@
+{
+  "pangram": "crazing",
+  "center_letter": "c",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 144,
+  "answer_pangrams": [
+    "crazing"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acing",
+    "arcing",
+    "caging",
+    "cairn",
+    "cancan",
+    "caning",
+    "canna",
+    "canning",
+    "caring",
+    "cigar",
+    "circa",
+    "cirri",
+    "crag",
+    "craning",
+    "crazing",
+    "cringing",
+    "czar",
+    "czarina",
+    "gracing",
+    "icing",
+    "narc",
+    "niacin",
+    "racing",
+    "ricing",
+    "zinc"
+  ],
+  "date": "2032-11-16",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 7,
+      "6": 9,
+      "7": 5,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 16,
+      "G": 1,
+      "I": 1,
+      "N": 2,
+      "R": 2,
+      "Z": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "C": {
+        "4": 2,
+        "5": 5,
+        "6": 4,
+        "7": 4,
+        "8": 1
+      },
+      "G": {
+        "7": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "R": {
+        "6": 2
+      },
+      "Z": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AR": 1,
+      "CA": 7,
+      "CI": 3,
+      "CR": 4,
+      "CZ": 2,
+      "GR": 1,
+      "IC": 1,
+      "NA": 1,
+      "NI": 1,
+      "RA": 1,
+      "RI": 1,
+      "ZI": 1
+    }
+  }
+}

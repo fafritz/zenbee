@@ -1,0 +1,115 @@
+{
+  "pangram": "balking",
+  "center_letter": "b",
+  "num_answers": 44,
+  "num_pangrams": 2,
+  "possible_points": 251,
+  "answer_pangrams": [
+    "balking",
+    "blanking"
+  ],
+  "answers": [
+    "alibi",
+    "alibiing",
+    "baaing",
+    "baba",
+    "babbling",
+    "bagging",
+    "bail",
+    "bailing",
+    "baking",
+    "balalaika",
+    "baling",
+    "balk",
+    "balking",
+    "ball",
+    "balling",
+    "banal",
+    "banana",
+    "bang",
+    "banging",
+    "bank",
+    "banking",
+    "banning",
+    "biking",
+    "bikini",
+    "bilk",
+    "bilking",
+    "bill",
+    "billing",
+    "binning",
+    "blab",
+    "blabbing",
+    "blank",
+    "blanking",
+    "bling",
+    "blink",
+    "blinking",
+    "gabbing",
+    "gabbling",
+    "gibing",
+    "glib",
+    "labia",
+    "labial",
+    "nabbing",
+    "nibbling"
+  ],
+  "date": "2029-01-20",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 6,
+      "6": 8,
+      "7": 12,
+      "8": 7,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 34,
+      "G": 4,
+      "L": 2,
+      "N": 2
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "8": 1
+      },
+      "B": {
+        "4": 9,
+        "5": 4,
+        "6": 6,
+        "7": 10,
+        "8": 4,
+        "9": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "L": {
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "BA": 20,
+      "BI": 7,
+      "BL": 7,
+      "GA": 2,
+      "GI": 1,
+      "GL": 1,
+      "LA": 2,
+      "NA": 1,
+      "NI": 1
+    }
+  }
+}

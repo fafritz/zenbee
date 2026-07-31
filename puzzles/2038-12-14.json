@@ -1,0 +1,52 @@
+{
+  "pangram": "bulwark",
+  "center_letter": "b",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 41,
+  "answer_pangrams": [
+    "bulwark"
+  ],
+  "answers": [
+    "baba",
+    "balk",
+    "ball",
+    "barb",
+    "bark",
+    "bawl",
+    "blab",
+    "blur",
+    "blurb",
+    "brawl",
+    "bulb",
+    "bulk",
+    "bull",
+    "bulwark",
+    "burka",
+    "burr"
+  ],
+  "date": "2038-12-14",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "B": 16
+    },
+    "grid": {
+      "B": {
+        "4": 12,
+        "5": 3,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "BA": 6,
+      "BL": 3,
+      "BR": 1,
+      "BU": 6
+    }
+  }
+}

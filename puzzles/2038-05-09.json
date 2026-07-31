@@ -1,0 +1,97 @@
+{
+  "pangram": "avowing",
+  "center_letter": "w",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 168,
+  "answer_pangrams": [
+    "avowing"
+  ],
+  "answers": [
+    "avow",
+    "avowing",
+    "awing",
+    "awning",
+    "gnaw",
+    "gnawing",
+    "gown",
+    "gowning",
+    "owing",
+    "owning",
+    "vowing",
+    "wagging",
+    "waging",
+    "wagon",
+    "waiving",
+    "waning",
+    "waving",
+    "wigging",
+    "wigwag",
+    "wigwagging",
+    "wing",
+    "winging",
+    "wining",
+    "winning",
+    "winnow",
+    "winnowing",
+    "wino",
+    "wooing",
+    "wowing"
+  ],
+  "date": "2038-05-09",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 3,
+      "6": 11,
+      "7": 8,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "G": 4,
+      "O": 2,
+      "V": 1,
+      "W": 18
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 2,
+        "7": 2
+      },
+      "O": {
+        "5": 1,
+        "6": 1
+      },
+      "V": {
+        "6": 1
+      },
+      "W": {
+        "4": 2,
+        "5": 1,
+        "6": 8,
+        "7": 5,
+        "9": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AV": 2,
+      "AW": 2,
+      "GN": 2,
+      "GO": 2,
+      "OW": 2,
+      "VO": 1,
+      "WA": 6,
+      "WI": 10,
+      "WO": 2
+    }
+  }
+}

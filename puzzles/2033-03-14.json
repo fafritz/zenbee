@@ -1,0 +1,73 @@
+{
+  "pangram": "chiefly",
+  "center_letter": "f",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 62,
+  "answer_pangrams": [
+    "chiefly"
+  ],
+  "answers": [
+    "chef",
+    "chief",
+    "chiefly",
+    "clef",
+    "cliff",
+    "feel",
+    "fell",
+    "fiche",
+    "fief",
+    "fife",
+    "filch",
+    "file",
+    "fill",
+    "filly",
+    "flee",
+    "fleece",
+    "fleecy",
+    "iffy",
+    "life"
+  ],
+  "date": "2033-03-14",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 5,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 5,
+      "F": 12,
+      "I": 1,
+      "L": 1
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "F": {
+        "4": 7,
+        "5": 3,
+        "6": 2
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 3,
+      "CL": 2,
+      "FE": 2,
+      "FI": 7,
+      "FL": 3,
+      "IF": 1,
+      "LI": 1
+    }
+  }
+}

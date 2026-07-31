@@ -1,0 +1,125 @@
+{
+  "pangram": "opulent",
+  "center_letter": "t",
+  "num_answers": 48,
+  "num_pangrams": 1,
+  "possible_points": 171,
+  "answer_pangrams": [
+    "opulent"
+  ],
+  "answers": [
+    "entente",
+    "lent",
+    "letup",
+    "loot",
+    "lotto",
+    "lout",
+    "lute",
+    "nettle",
+    "note",
+    "onto",
+    "opponent",
+    "opulent",
+    "outlet",
+    "output",
+    "pellet",
+    "pelt",
+    "pent",
+    "plot",
+    "poet",
+    "pollute",
+    "pontoon",
+    "potent",
+    "pout",
+    "pullet",
+    "pullout",
+    "punt",
+    "puppet",
+    "putt",
+    "teen",
+    "tell",
+    "telnet",
+    "tenet",
+    "tenon",
+    "tent",
+    "tepee",
+    "toll",
+    "tone",
+    "tool",
+    "toon",
+    "toot",
+    "topple",
+    "tote",
+    "toupee",
+    "tout",
+    "tulle",
+    "tune",
+    "tunnel",
+    "tutu"
+  ],
+  "date": "2028-12-29",
+  "hints": {
+    "by_length": {
+      "4": 25,
+      "5": 6,
+      "6": 11,
+      "7": 5,
+      "8": 1
+    },
+    "by_first_letter": {
+      "E": 1,
+      "L": 6,
+      "N": 2,
+      "O": 5,
+      "P": 14,
+      "T": 20
+    },
+    "grid": {
+      "E": {
+        "7": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 2
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "P": {
+        "4": 7,
+        "6": 4,
+        "7": 3
+      },
+      "T": {
+        "4": 12,
+        "5": 4,
+        "6": 4
+      }
+    },
+    "two_letter_list": {
+      "EN": 1,
+      "LE": 2,
+      "LO": 3,
+      "LU": 1,
+      "NE": 1,
+      "NO": 1,
+      "ON": 1,
+      "OP": 2,
+      "OU": 2,
+      "PE": 3,
+      "PL": 1,
+      "PO": 5,
+      "PU": 5,
+      "TE": 7,
+      "TO": 9,
+      "TU": 4
+    }
+  }
+}

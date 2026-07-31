@@ -1,0 +1,97 @@
+{
+  "pangram": "hemlock",
+  "center_letter": "l",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 81,
+  "answer_pangrams": [
+    "hemlock"
+  ],
+  "answers": [
+    "cell",
+    "cello",
+    "cloche",
+    "clock",
+    "cockle",
+    "cool",
+    "heckle",
+    "heel",
+    "hell",
+    "hellhole",
+    "hello",
+    "helm",
+    "hemlock",
+    "hole",
+    "keel",
+    "leech",
+    "leek",
+    "lock",
+    "loco",
+    "loll",
+    "look",
+    "loom",
+    "melee",
+    "mole",
+    "moll",
+    "oleo"
+  ],
+  "date": "2028-01-29",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 5,
+      "6": 3,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 6,
+      "H": 8,
+      "K": 1,
+      "L": 7,
+      "M": 3,
+      "O": 1
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 2,
+        "6": 2
+      },
+      "H": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "K": {
+        "4": 1
+      },
+      "L": {
+        "4": 6,
+        "5": 1
+      },
+      "M": {
+        "4": 2,
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 2,
+      "CL": 2,
+      "CO": 2,
+      "HE": 7,
+      "HO": 1,
+      "KE": 1,
+      "LE": 2,
+      "LO": 5,
+      "ME": 1,
+      "MO": 2,
+      "OL": 1
+    }
+  }
+}

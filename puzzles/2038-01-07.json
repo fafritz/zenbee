@@ -1,0 +1,106 @@
+{
+  "pangram": "hardily",
+  "center_letter": "r",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 126,
+  "answer_pangrams": [
+    "hardily"
+  ],
+  "answers": [
+    "airily",
+    "airy",
+    "aria",
+    "arid",
+    "array",
+    "dairy",
+    "diary",
+    "dray",
+    "drill",
+    "dryad",
+    "dryly",
+    "hair",
+    "hairy",
+    "halyard",
+    "hard",
+    "hardily",
+    "hardly",
+    "hardy",
+    "harry",
+    "hydra",
+    "lair",
+    "lard",
+    "liar",
+    "lira",
+    "radar",
+    "radial",
+    "radially",
+    "radii",
+    "raid",
+    "rail",
+    "rally",
+    "rill",
+    "yard"
+  ],
+  "date": "2038-01-07",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 13,
+      "6": 3,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "D": 6,
+      "H": 9,
+      "L": 4,
+      "R": 8,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 5
+      },
+      "H": {
+        "4": 2,
+        "5": 4,
+        "6": 1,
+        "7": 2
+      },
+      "L": {
+        "4": 4
+      },
+      "R": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "8": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 2,
+      "AR": 3,
+      "DA": 1,
+      "DI": 1,
+      "DR": 4,
+      "HA": 8,
+      "HY": 1,
+      "LA": 2,
+      "LI": 2,
+      "RA": 7,
+      "RI": 1,
+      "YA": 1
+    }
+  }
+}

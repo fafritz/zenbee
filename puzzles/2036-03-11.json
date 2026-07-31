@@ -1,0 +1,114 @@
+{
+  "pangram": "jounced",
+  "center_letter": "c",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 204,
+  "answer_pangrams": [
+    "jounced"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "cocoon",
+    "cocooned",
+    "code",
+    "coded",
+    "coed",
+    "concede",
+    "conceded",
+    "condo",
+    "condone",
+    "condoned",
+    "conduce",
+    "conduced",
+    "cone",
+    "conned",
+    "cooed",
+    "cued",
+    "decode",
+    "decoded",
+    "deduce",
+    "deduced",
+    "denounce",
+    "denounced",
+    "deuce",
+    "dunce",
+    "encode",
+    "encoded",
+    "jocund",
+    "jounce",
+    "jounced",
+    "junco",
+    "neocon",
+    "nonce",
+    "once",
+    "ounce"
+  ],
+  "date": "2036-03-11",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 9,
+      "6": 8,
+      "7": 7,
+      "8": 5,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 18,
+      "D": 8,
+      "E": 2,
+      "J": 4,
+      "N": 2,
+      "O": 2
+    },
+    "grid": {
+      "C": {
+        "4": 5,
+        "5": 4,
+        "6": 2,
+        "7": 3,
+        "8": 4
+      },
+      "D": {
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 1,
+        "9": 1
+      },
+      "E": {
+        "6": 1,
+        "7": 1
+      },
+      "J": {
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "N": {
+        "5": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 2,
+      "CO": 15,
+      "CU": 1,
+      "DE": 7,
+      "DU": 1,
+      "EN": 2,
+      "JO": 3,
+      "JU": 1,
+      "NE": 1,
+      "NO": 1,
+      "ON": 1,
+      "OU": 1
+    }
+  }
+}

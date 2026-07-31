@@ -1,0 +1,120 @@
+{
+  "pangram": "braying",
+  "center_letter": "b",
+  "num_answers": 49,
+  "num_pangrams": 1,
+  "possible_points": 272,
+  "answer_pangrams": [
+    "braying"
+  ],
+  "answers": [
+    "airbag",
+    "baaing",
+    "baba",
+    "baby",
+    "babying",
+    "bagging",
+    "baggy",
+    "banana",
+    "bang",
+    "banging",
+    "banning",
+    "banyan",
+    "barb",
+    "barbarian",
+    "barbing",
+    "bargain",
+    "bargaining",
+    "barging",
+    "baring",
+    "barn",
+    "barraging",
+    "barring",
+    "baying",
+    "binary",
+    "binning",
+    "brag",
+    "bragging",
+    "brain",
+    "braining",
+    "brainy",
+    "bran",
+    "bray",
+    "braying",
+    "briar",
+    "bribing",
+    "brig",
+    "bring",
+    "bringing",
+    "briny",
+    "gabbing",
+    "gabby",
+    "garb",
+    "garbing",
+    "gibing",
+    "grab",
+    "grabbing",
+    "nabbing",
+    "rabbi",
+    "ribbing"
+  ],
+  "date": "2027-07-11",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 7,
+      "6": 9,
+      "7": 15,
+      "8": 4,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 38,
+      "G": 7,
+      "N": 1,
+      "R": 2
+    },
+    "grid": {
+      "A": {
+        "6": 1
+      },
+      "B": {
+        "4": 9,
+        "5": 5,
+        "6": 7,
+        "7": 11,
+        "8": 3,
+        "9": 2,
+        "10": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "7": 1
+      },
+      "R": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "BA": 22,
+      "BI": 2,
+      "BR": 14,
+      "GA": 4,
+      "GI": 1,
+      "GR": 2,
+      "NA": 1,
+      "RA": 1,
+      "RI": 1
+    }
+  }
+}

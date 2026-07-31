@@ -1,0 +1,140 @@
+{
+  "pangram": "naivety",
+  "center_letter": "t",
+  "num_answers": 45,
+  "num_pangrams": 1,
+  "possible_points": 250,
+  "answer_pangrams": [
+    "naivety"
+  ],
+  "answers": [
+    "ante",
+    "antenna",
+    "antennae",
+    "anti",
+    "attain",
+    "attentive",
+    "eaten",
+    "entente",
+    "entity",
+    "event",
+    "inanity",
+    "inattentive",
+    "initiate",
+    "initiative",
+    "innate",
+    "intent",
+    "invent",
+    "inventive",
+    "invite",
+    "naivete",
+    "naivety",
+    "native",
+    "nativity",
+    "natty",
+    "neat",
+    "nineteen",
+    "ninety",
+    "taint",
+    "tannin",
+    "tatty",
+    "teen",
+    "teeny",
+    "tenant",
+    "tenet",
+    "tent",
+    "tentative",
+    "tine",
+    "tinny",
+    "tint",
+    "tiny",
+    "titan",
+    "vanity",
+    "vent",
+    "vitiate",
+    "yeti"
+  ],
+  "date": "2029-11-26",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 9,
+      "6": 11,
+      "7": 6,
+      "8": 4,
+      "9": 3,
+      "10": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "E": 4,
+      "I": 9,
+      "N": 8,
+      "T": 14,
+      "V": 3,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "E": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "6": 4,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2
+      },
+      "T": {
+        "4": 5,
+        "5": 6,
+        "6": 2,
+        "9": 1
+      },
+      "V": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 4,
+      "AT": 2,
+      "EA": 1,
+      "EN": 2,
+      "EV": 1,
+      "IN": 9,
+      "NA": 5,
+      "NE": 1,
+      "NI": 2,
+      "TA": 3,
+      "TE": 6,
+      "TI": 5,
+      "VA": 1,
+      "VE": 1,
+      "VI": 1,
+      "YE": 1
+    }
+  }
+}

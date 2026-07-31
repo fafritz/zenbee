@@ -1,0 +1,85 @@
+{
+  "pangram": "mouthed",
+  "center_letter": "h",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 126,
+  "answer_pangrams": [
+    "mouthed"
+  ],
+  "answers": [
+    "heed",
+    "heeded",
+    "hemmed",
+    "hoed",
+    "home",
+    "homed",
+    "hood",
+    "hooded",
+    "hoodoo",
+    "hoodooed",
+    "hoot",
+    "hooted",
+    "hummed",
+    "method",
+    "moth",
+    "mouth",
+    "mouthed",
+    "teeth",
+    "teethe",
+    "teethed",
+    "thee",
+    "them",
+    "theme",
+    "thou",
+    "thud",
+    "thudded",
+    "tooth",
+    "toothed"
+  ],
+  "date": "2035-10-31",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 5,
+      "6": 8,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "H": 13,
+      "M": 4,
+      "T": 11
+    },
+    "grid": {
+      "H": {
+        "4": 5,
+        "5": 1,
+        "6": 6,
+        "8": 1
+      },
+      "M": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 3,
+        "6": 1,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "HE": 3,
+      "HO": 9,
+      "HU": 1,
+      "ME": 1,
+      "MO": 3,
+      "TE": 3,
+      "TH": 6,
+      "TO": 2
+    }
+  }
+}

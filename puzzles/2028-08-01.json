@@ -1,0 +1,124 @@
+{
+  "pangram": "clewing",
+  "center_letter": "e",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 170,
+  "answer_pangrams": [
+    "clewing"
+  ],
+  "answers": [
+    "ceiling",
+    "cell",
+    "clew",
+    "clewing",
+    "egging",
+    "engine",
+    "geeing",
+    "gelling",
+    "gene",
+    "genie",
+    "genii",
+    "giggle",
+    "glee",
+    "glen",
+    "icicle",
+    "incline",
+    "inline",
+    "legging",
+    "lice",
+    "liege",
+    "lien",
+    "line",
+    "linen",
+    "negligee",
+    "negligence",
+    "nene",
+    "newel",
+    "nice",
+    "niece",
+    "niggle",
+    "nine",
+    "weeing",
+    "well",
+    "welling",
+    "wiggle",
+    "wile",
+    "wince",
+    "wine"
+  ],
+  "date": "2028-08-01",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 7,
+      "6": 9,
+      "7": 6,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 4,
+      "E": 2,
+      "G": 8,
+      "I": 3,
+      "L": 6,
+      "N": 8,
+      "W": 7
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "7": 2
+      },
+      "E": {
+        "6": 2
+      },
+      "G": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "I": {
+        "6": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 2,
+        "7": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "8": 1,
+        "10": 1
+      },
+      "W": {
+        "4": 3,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 2,
+      "CL": 2,
+      "EG": 1,
+      "EN": 1,
+      "GE": 5,
+      "GI": 1,
+      "GL": 2,
+      "IC": 1,
+      "IN": 2,
+      "LE": 1,
+      "LI": 5,
+      "NE": 4,
+      "NI": 4,
+      "WE": 3,
+      "WI": 4
+    }
+  }
+}

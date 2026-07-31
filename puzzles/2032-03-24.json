@@ -1,0 +1,89 @@
+{
+  "pangram": "jointly",
+  "center_letter": "t",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 65,
+  "answer_pangrams": [
+    "jointly"
+  ],
+  "answers": [
+    "into",
+    "jilt",
+    "joint",
+    "jointly",
+    "jollity",
+    "jolt",
+    "lilt",
+    "lint",
+    "loot",
+    "lotion",
+    "lotto",
+    "notion",
+    "onto",
+    "till",
+    "tilt",
+    "tinny",
+    "tint",
+    "tiny",
+    "toil",
+    "toll",
+    "tony",
+    "tool",
+    "toon",
+    "toot"
+  ],
+  "date": "2032-03-24",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 3,
+      "6": 2,
+      "7": 2
+    },
+    "by_first_letter": {
+      "I": 1,
+      "J": 5,
+      "L": 5,
+      "N": 1,
+      "O": 1,
+      "T": 11
+    },
+    "grid": {
+      "I": {
+        "4": 1
+      },
+      "J": {
+        "4": 2,
+        "5": 1,
+        "7": 2
+      },
+      "L": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "4": 10,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "IN": 1,
+      "JI": 1,
+      "JO": 4,
+      "LI": 2,
+      "LO": 3,
+      "NO": 1,
+      "ON": 1,
+      "TI": 5,
+      "TO": 6
+    }
+  }
+}

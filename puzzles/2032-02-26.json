@@ -1,0 +1,82 @@
+{
+  "pangram": "flexing",
+  "center_letter": "f",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 126,
+  "answer_pangrams": [
+    "flexing"
+  ],
+  "answers": [
+    "elfin",
+    "feel",
+    "feeling",
+    "feign",
+    "feigning",
+    "feline",
+    "fell",
+    "felling",
+    "fennel",
+    "fief",
+    "fife",
+    "file",
+    "filing",
+    "fill",
+    "filling",
+    "fine",
+    "fining",
+    "fixing",
+    "flee",
+    "fleeing",
+    "flex",
+    "flexing",
+    "fling",
+    "flinging",
+    "infix",
+    "life",
+    "lifeline"
+  ],
+  "date": "2032-02-26",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 4,
+      "6": 5,
+      "7": 5,
+      "8": 3
+    },
+    "by_first_letter": {
+      "E": 1,
+      "F": 23,
+      "I": 1,
+      "L": 2
+    },
+    "grid": {
+      "E": {
+        "5": 1
+      },
+      "F": {
+        "4": 9,
+        "5": 2,
+        "6": 5,
+        "7": 5,
+        "8": 2
+      },
+      "I": {
+        "5": 1
+      },
+      "L": {
+        "4": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "EL": 1,
+      "FE": 8,
+      "FI": 9,
+      "FL": 6,
+      "IN": 1,
+      "LI": 2
+    }
+  }
+}

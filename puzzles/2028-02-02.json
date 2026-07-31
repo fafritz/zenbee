@@ -1,0 +1,153 @@
+{
+  "pangram": "heaping",
+  "center_letter": "g",
+  "num_answers": 60,
+  "num_pangrams": 2,
+  "possible_points": 339,
+  "answer_pangrams": [
+    "happening",
+    "heaping"
+  ],
+  "answers": [
+    "again",
+    "agape",
+    "aging",
+    "angina",
+    "aping",
+    "egging",
+    "engage",
+    "engaging",
+    "engine",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "gape",
+    "gaping",
+    "geeing",
+    "gene",
+    "genie",
+    "genii",
+    "gigging",
+    "ginning",
+    "hang",
+    "hanging",
+    "happening",
+    "heaping",
+    "hennaing",
+    "hieing",
+    "high",
+    "hing",
+    "hinge",
+    "hinging",
+    "hipping",
+    "inning",
+    "nagging",
+    "napping",
+    "neigh",
+    "neighing",
+    "nigh",
+    "nipping",
+    "pagan",
+    "page",
+    "paging",
+    "paining",
+    "pang",
+    "panning",
+    "peeing",
+    "peeping",
+    "penning",
+    "pepping",
+    "phage",
+    "pieing",
+    "pigging",
+    "pigpen",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "piping",
+    "pipping"
+  ],
+  "date": "2028-02-02",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 10,
+      "6": 14,
+      "7": 21,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "E": 4,
+      "G": 13,
+      "H": 11,
+      "I": 1,
+      "N": 6,
+      "P": 20
+    },
+    "grid": {
+      "A": {
+        "5": 4,
+        "6": 1
+      },
+      "E": {
+        "6": 3,
+        "8": 1
+      },
+      "G": {
+        "4": 4,
+        "5": 2,
+        "6": 2,
+        "7": 5
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 4,
+        "8": 1,
+        "9": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "7": 3,
+        "8": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 2,
+        "6": 6,
+        "7": 9
+      }
+    },
+    "two_letter_list": {
+      "AG": 3,
+      "AN": 1,
+      "AP": 1,
+      "EG": 1,
+      "EN": 3,
+      "GA": 7,
+      "GE": 4,
+      "GI": 2,
+      "HA": 3,
+      "HE": 2,
+      "HI": 6,
+      "IN": 1,
+      "NA": 2,
+      "NE": 2,
+      "NI": 2,
+      "PA": 6,
+      "PE": 4,
+      "PH": 1,
+      "PI": 9
+    }
+  }
+}

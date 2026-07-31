@@ -1,0 +1,79 @@
+{
+  "pangram": "toughen",
+  "center_letter": "h",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 84,
+  "answer_pangrams": [
+    "toughen"
+  ],
+  "answers": [
+    "enough",
+    "ghetto",
+    "hone",
+    "hoot",
+    "huge",
+    "hung",
+    "hunt",
+    "ought",
+    "teeth",
+    "teethe",
+    "tenth",
+    "thee",
+    "then",
+    "thong",
+    "thou",
+    "though",
+    "thought",
+    "thug",
+    "tooth",
+    "tough",
+    "toughen"
+  ],
+  "date": "2030-01-18",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 6,
+      "6": 4,
+      "7": 2
+    },
+    "by_first_letter": {
+      "E": 1,
+      "G": 1,
+      "H": 5,
+      "O": 1,
+      "T": 13
+    },
+    "grid": {
+      "E": {
+        "6": 1
+      },
+      "G": {
+        "6": 1
+      },
+      "H": {
+        "4": 5
+      },
+      "O": {
+        "5": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 5,
+        "6": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "EN": 1,
+      "GH": 1,
+      "HO": 2,
+      "HU": 3,
+      "OU": 1,
+      "TE": 3,
+      "TH": 7,
+      "TO": 3
+    }
+  }
+}

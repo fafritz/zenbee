@@ -1,0 +1,133 @@
+{
+  "pangram": "rotunda",
+  "center_letter": "n",
+  "num_answers": 40,
+  "num_pangrams": 2,
+  "possible_points": 179,
+  "answer_pangrams": [
+    "rotunda",
+    "turnaround"
+  ],
+  "answers": [
+    "adorn",
+    "anon",
+    "around",
+    "arrant",
+    "aunt",
+    "darn",
+    "daunt",
+    "donor",
+    "donut",
+    "dunno",
+    "naan",
+    "nana",
+    "narrator",
+    "noon",
+    "noun",
+    "onto",
+    "orotund",
+    "outran",
+    "outrun",
+    "radon",
+    "rant",
+    "rattan",
+    "roan",
+    "rotund",
+    "rotunda",
+    "round",
+    "runaround",
+    "runt",
+    "tartan",
+    "taunt",
+    "toon",
+    "torn",
+    "tornado",
+    "truant",
+    "tuna",
+    "tundra",
+    "turn",
+    "turnaround",
+    "turnout",
+    "undo"
+  ],
+  "date": "2034-12-08",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 8,
+      "6": 9,
+      "7": 4,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "D": 5,
+      "N": 5,
+      "O": 4,
+      "R": 9,
+      "T": 11,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "D": {
+        "4": 1,
+        "5": 4
+      },
+      "N": {
+        "4": 4,
+        "8": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 2,
+        "7": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "9": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "10": 1
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AN": 1,
+      "AR": 2,
+      "AU": 1,
+      "DA": 2,
+      "DO": 2,
+      "DU": 1,
+      "NA": 3,
+      "NO": 2,
+      "ON": 1,
+      "OR": 1,
+      "OU": 2,
+      "RA": 3,
+      "RO": 4,
+      "RU": 2,
+      "TA": 2,
+      "TO": 3,
+      "TR": 1,
+      "TU": 5,
+      "UN": 1
+    }
+  }
+}

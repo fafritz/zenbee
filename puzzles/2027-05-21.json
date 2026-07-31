@@ -1,0 +1,118 @@
+{
+  "pangram": "clunked",
+  "center_letter": "n",
+  "num_answers": 38,
+  "num_pangrams": 2,
+  "possible_points": 193,
+  "answer_pangrams": [
+    "clunked",
+    "knuckled"
+  ],
+  "answers": [
+    "clunk",
+    "clunked",
+    "denude",
+    "denuded",
+    "dunce",
+    "dune",
+    "dunk",
+    "dunked",
+    "dunned",
+    "ended",
+    "endue",
+    "endued",
+    "keen",
+    "keened",
+    "kenned",
+    "kennel",
+    "kenneled",
+    "knee",
+    "kneed",
+    "kneel",
+    "knell",
+    "knelled",
+    "knuckle",
+    "knuckled",
+    "lend",
+    "neck",
+    "necked",
+    "need",
+    "needed",
+    "needle",
+    "needled",
+    "nene",
+    "nuke",
+    "nuked",
+    "null",
+    "uncle",
+    "undue",
+    "unneeded"
+  ],
+  "date": "2027-05-21",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 10,
+      "6": 10,
+      "7": 5,
+      "8": 3
+    },
+    "by_first_letter": {
+      "C": 2,
+      "D": 7,
+      "E": 3,
+      "K": 12,
+      "L": 1,
+      "N": 10,
+      "U": 3
+    },
+    "grid": {
+      "C": {
+        "5": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 1
+      },
+      "E": {
+        "5": 2,
+        "6": 1
+      },
+      "K": {
+        "4": 2,
+        "5": 3,
+        "6": 3,
+        "7": 2,
+        "8": 2
+      },
+      "L": {
+        "4": 1
+      },
+      "N": {
+        "4": 5,
+        "5": 1,
+        "6": 3,
+        "7": 1
+      },
+      "U": {
+        "5": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 2,
+      "DE": 2,
+      "DU": 5,
+      "EN": 3,
+      "KE": 5,
+      "KN": 7,
+      "LE": 1,
+      "NE": 7,
+      "NU": 3,
+      "UN": 3
+    }
+  }
+}

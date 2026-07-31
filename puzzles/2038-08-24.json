@@ -1,0 +1,114 @@
+{
+  "pangram": "anxiety",
+  "center_letter": "n",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 181,
+  "answer_pangrams": [
+    "anxiety"
+  ],
+  "answers": [
+    "annex",
+    "ante",
+    "antenna",
+    "antennae",
+    "anti",
+    "anxiety",
+    "attain",
+    "eaten",
+    "entente",
+    "entity",
+    "extant",
+    "extent",
+    "inane",
+    "inanity",
+    "initiate",
+    "innate",
+    "intent",
+    "naan",
+    "nana",
+    "nanny",
+    "natty",
+    "neat",
+    "nene",
+    "next",
+    "nine",
+    "nineteen",
+    "ninety",
+    "ninny",
+    "taint",
+    "tannin",
+    "teen",
+    "teeny",
+    "tenant",
+    "tenet",
+    "tent",
+    "tine",
+    "tinny",
+    "tint",
+    "tiny",
+    "titan"
+  ],
+  "date": "2038-08-24",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 11,
+      "6": 9,
+      "7": 4,
+      "8": 3
+    },
+    "by_first_letter": {
+      "A": 7,
+      "E": 5,
+      "I": 5,
+      "N": 11,
+      "T": 12
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 3,
+        "7": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 6,
+        "5": 3,
+        "6": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 5,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AN": 6,
+      "AT": 1,
+      "EA": 1,
+      "EN": 2,
+      "EX": 2,
+      "IN": 5,
+      "NA": 4,
+      "NE": 3,
+      "NI": 4,
+      "TA": 2,
+      "TE": 5,
+      "TI": 5
+    }
+  }
+}

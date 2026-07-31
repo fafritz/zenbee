@@ -1,0 +1,97 @@
+{
+  "pangram": "rainbow",
+  "center_letter": "a",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 124,
+  "answer_pangrams": [
+    "rainbow"
+  ],
+  "answers": [
+    "anion",
+    "anon",
+    "arbor",
+    "aria",
+    "arrow",
+    "baba",
+    "baboon",
+    "banana",
+    "baobab",
+    "barb",
+    "barbarian",
+    "barn",
+    "baron",
+    "barrio",
+    "barrow",
+    "boar",
+    "brain",
+    "bran",
+    "brawn",
+    "briar",
+    "naan",
+    "nabob",
+    "nana",
+    "narrow",
+    "rabbi",
+    "rain",
+    "rainbow",
+    "roan",
+    "roar",
+    "warn",
+    "warrior"
+  ],
+  "date": "2031-05-15",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 9,
+      "6": 6,
+      "7": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 15,
+      "N": 4,
+      "R": 5,
+      "W": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3
+      },
+      "B": {
+        "4": 5,
+        "5": 4,
+        "6": 5,
+        "9": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 1,
+        "7": 1
+      },
+      "W": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 2,
+      "AR": 3,
+      "BA": 10,
+      "BO": 1,
+      "BR": 4,
+      "NA": 4,
+      "RA": 3,
+      "RO": 2,
+      "WA": 2
+    }
+  }
+}

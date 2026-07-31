@@ -1,0 +1,108 @@
+{
+  "pangram": "bawdily",
+  "center_letter": "y",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 132,
+  "answer_pangrams": [
+    "bawdily"
+  ],
+  "answers": [
+    "ably",
+    "allay",
+    "ally",
+    "away",
+    "baby",
+    "badly",
+    "baldly",
+    "bawdily",
+    "bawdy",
+    "biddy",
+    "billy",
+    "bylaw",
+    "byway",
+    "daddy",
+    "daily",
+    "dally",
+    "dilly",
+    "dillydally",
+    "idly",
+    "idyll",
+    "lady",
+    "layaway",
+    "lily",
+    "wallaby",
+    "waylaid",
+    "waylay",
+    "wildly",
+    "wily",
+    "yawl"
+  ],
+  "date": "2034-04-11",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 12,
+      "6": 3,
+      "7": 4,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "B": 9,
+      "D": 5,
+      "I": 2,
+      "L": 3,
+      "W": 5,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 1
+      },
+      "B": {
+        "4": 1,
+        "5": 6,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "5": 4,
+        "10": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 2,
+        "7": 1
+      },
+      "W": {
+        "4": 1,
+        "6": 2,
+        "7": 2
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AL": 2,
+      "AW": 1,
+      "BA": 5,
+      "BI": 2,
+      "BY": 2,
+      "DA": 3,
+      "DI": 2,
+      "ID": 2,
+      "LA": 2,
+      "LI": 1,
+      "WA": 3,
+      "WI": 2,
+      "YA": 1
+    }
+  }
+}

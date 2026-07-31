@@ -1,0 +1,140 @@
+{
+  "pangram": "tackled",
+  "center_letter": "t",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 252,
+  "answer_pangrams": [
+    "tackled"
+  ],
+  "answers": [
+    "acetate",
+    "acted",
+    "attack",
+    "attacked",
+    "cadet",
+    "catcall",
+    "catcalled",
+    "catted",
+    "cattle",
+    "cleat",
+    "data",
+    "date",
+    "dated",
+    "dealt",
+    "delete",
+    "deleted",
+    "delta",
+    "detect",
+    "detected",
+    "eclat",
+    "elate",
+    "elated",
+    "elect",
+    "elected",
+    "kettle",
+    "lactate",
+    "lactated",
+    "late",
+    "latte",
+    "tack",
+    "tacked",
+    "tackle",
+    "tackled",
+    "tact",
+    "take",
+    "talc",
+    "tale",
+    "talk",
+    "talked",
+    "tall",
+    "tatted",
+    "tattle",
+    "tattled",
+    "tattletale",
+    "teak",
+    "teakettle",
+    "teal",
+    "teed",
+    "tell",
+    "telltale"
+  ],
+  "date": "2027-12-13",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 10,
+      "6": 12,
+      "7": 7,
+      "8": 4,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 6,
+      "D": 9,
+      "E": 5,
+      "K": 1,
+      "L": 4,
+      "T": 21
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "C": {
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "9": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 3,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "K": {
+        "6": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 11,
+        "6": 5,
+        "7": 2,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AT": 2,
+      "CA": 5,
+      "CL": 1,
+      "DA": 3,
+      "DE": 6,
+      "EC": 1,
+      "EL": 4,
+      "KE": 1,
+      "LA": 4,
+      "TA": 15,
+      "TE": 6
+    }
+  }
+}

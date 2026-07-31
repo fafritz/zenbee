@@ -1,0 +1,103 @@
+{
+  "pangram": "flytrap",
+  "center_letter": "t",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 144,
+  "answer_pangrams": [
+    "flytrap"
+  ],
+  "answers": [
+    "altar",
+    "apart",
+    "aptly",
+    "arty",
+    "attar",
+    "fart",
+    "fatal",
+    "fatally",
+    "fatty",
+    "flat",
+    "flatly",
+    "flytrap",
+    "frat",
+    "palatal",
+    "paltry",
+    "part",
+    "partly",
+    "party",
+    "patty",
+    "raft",
+    "rapt",
+    "ratatat",
+    "rattrap",
+    "ratty",
+    "taffy",
+    "tall",
+    "tally",
+    "tarp",
+    "tart",
+    "tartar",
+    "tartly",
+    "tatty",
+    "trap",
+    "tray"
+  ],
+  "date": "2033-10-17",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 12,
+      "6": 5,
+      "7": 5
+    },
+    "by_first_letter": {
+      "A": 5,
+      "F": 8,
+      "P": 6,
+      "R": 5,
+      "T": 10
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 4
+      },
+      "F": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "P": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1,
+        "7": 2
+      },
+      "T": {
+        "4": 5,
+        "5": 3,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AP": 2,
+      "AR": 1,
+      "AT": 1,
+      "FA": 4,
+      "FL": 3,
+      "FR": 1,
+      "PA": 6,
+      "RA": 5,
+      "TA": 8,
+      "TR": 2
+    }
+  }
+}

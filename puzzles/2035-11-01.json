@@ -1,0 +1,117 @@
+{
+  "pangram": "airlock",
+  "center_letter": "o",
+  "num_answers": 45,
+  "num_pangrams": 1,
+  "possible_points": 158,
+  "answer_pangrams": [
+    "airlock"
+  ],
+  "answers": [
+    "airlock",
+    "cacao",
+    "calico",
+    "caloric",
+    "carol",
+    "cloak",
+    "clock",
+    "coal",
+    "coca",
+    "cocci",
+    "cocoa",
+    "coil",
+    "cola",
+    "colic",
+    "collar",
+    "color",
+    "cook",
+    "cool",
+    "coral",
+    "cork",
+    "corolla",
+    "corral",
+    "croak",
+    "crock",
+    "crook",
+    "kilo",
+    "koala",
+    "kook",
+    "local",
+    "loci",
+    "lock",
+    "loco",
+    "loll",
+    "look",
+    "oarlock",
+    "okra",
+    "olio",
+    "oral",
+    "roar",
+    "rock",
+    "rococo",
+    "roil",
+    "roll",
+    "rollick",
+    "rook"
+  ],
+  "date": "2035-11-01",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 14,
+      "6": 4,
+      "7": 5
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 24,
+      "K": 3,
+      "L": 6,
+      "O": 4,
+      "R": 7
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "C": {
+        "4": 7,
+        "5": 12,
+        "6": 3,
+        "7": 2
+      },
+      "K": {
+        "4": 2,
+        "5": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 1
+      },
+      "O": {
+        "4": 3,
+        "7": 1
+      },
+      "R": {
+        "4": 5,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "CA": 4,
+      "CL": 2,
+      "CO": 15,
+      "CR": 3,
+      "KI": 1,
+      "KO": 2,
+      "LO": 6,
+      "OA": 1,
+      "OK": 1,
+      "OL": 1,
+      "OR": 1,
+      "RO": 7
+    }
+  }
+}

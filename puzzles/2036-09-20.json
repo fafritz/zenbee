@@ -1,0 +1,85 @@
+{
+  "pangram": "equably",
+  "center_letter": "y",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 78,
+  "answer_pangrams": [
+    "equably"
+  ],
+  "answers": [
+    "abbey",
+    "ably",
+    "allay",
+    "alley",
+    "ally",
+    "baby",
+    "belay",
+    "belly",
+    "bubbly",
+    "bully",
+    "ebay",
+    "equably",
+    "equally",
+    "eyeball",
+    "lullaby",
+    "quay",
+    "yell",
+    "yule"
+  ],
+  "date": "2036-09-20",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 6,
+      "6": 1,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 5,
+      "E": 4,
+      "L": 1,
+      "Q": 1,
+      "Y": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3
+      },
+      "B": {
+        "4": 1,
+        "5": 3,
+        "6": 1
+      },
+      "E": {
+        "4": 1,
+        "7": 3
+      },
+      "L": {
+        "7": 1
+      },
+      "Q": {
+        "4": 1
+      },
+      "Y": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 2,
+      "AL": 3,
+      "BA": 1,
+      "BE": 2,
+      "BU": 2,
+      "EB": 1,
+      "EQ": 2,
+      "EY": 1,
+      "LU": 1,
+      "QU": 1,
+      "YE": 1,
+      "YU": 1
+    }
+  }
+}

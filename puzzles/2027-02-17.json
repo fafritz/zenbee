@@ -1,0 +1,89 @@
+{
+  "pangram": "hotcake",
+  "center_letter": "k",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 74,
+  "answer_pangrams": [
+    "hotcake"
+  ],
+  "answers": [
+    "attack",
+    "cake",
+    "check",
+    "cheek",
+    "chock",
+    "choke",
+    "cockatoo",
+    "coke",
+    "cook",
+    "hack",
+    "hake",
+    "heck",
+    "hock",
+    "hook",
+    "hookah",
+    "hotcake",
+    "ketch",
+    "keto",
+    "kook",
+    "tack",
+    "take",
+    "teak",
+    "toke",
+    "took"
+  ],
+  "date": "2027-02-17",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 5,
+      "6": 2,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 8,
+      "H": 7,
+      "K": 3,
+      "T": 5
+    },
+    "grid": {
+      "A": {
+        "6": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 4,
+        "8": 1
+      },
+      "H": {
+        "4": 5,
+        "6": 1,
+        "7": 1
+      },
+      "K": {
+        "4": 2,
+        "5": 1
+      },
+      "T": {
+        "4": 5
+      }
+    },
+    "two_letter_list": {
+      "AT": 1,
+      "CA": 1,
+      "CH": 4,
+      "CO": 3,
+      "HA": 2,
+      "HE": 1,
+      "HO": 4,
+      "KE": 2,
+      "KO": 1,
+      "TA": 2,
+      "TE": 1,
+      "TO": 2
+    }
+  }
+}

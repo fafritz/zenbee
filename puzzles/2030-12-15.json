@@ -1,0 +1,150 @@
+{
+  "pangram": "combing",
+  "center_letter": "n",
+  "num_answers": 59,
+  "num_pangrams": 2,
+  "possible_points": 340,
+  "answer_pangrams": [
+    "combing",
+    "combining"
+  ],
+  "answers": [
+    "bingo",
+    "binning",
+    "bionic",
+    "bobbin",
+    "bobbing",
+    "bogging",
+    "bombing",
+    "bonbon",
+    "bong",
+    "bonging",
+    "bongo",
+    "boning",
+    "boobing",
+    "booing",
+    "booming",
+    "boon",
+    "cocoon",
+    "cocooning",
+    "coin",
+    "coining",
+    "combing",
+    "combining",
+    "coming",
+    "common",
+    "conic",
+    "conning",
+    "cooing",
+    "gibbon",
+    "gibing",
+    "gigging",
+    "ginning",
+    "gobbing",
+    "going",
+    "gong",
+    "gonging",
+    "goon",
+    "icing",
+    "icon",
+    "imbibing",
+    "incoming",
+    "inning",
+    "miming",
+    "mincing",
+    "mini",
+    "minim",
+    "mining",
+    "minion",
+    "mobbing",
+    "mono",
+    "mooing",
+    "moon",
+    "mooning",
+    "nimbi",
+    "noggin",
+    "noncom",
+    "noon",
+    "oncoming",
+    "ongoing",
+    "onion"
+  ],
+  "date": "2030-12-15",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 8,
+      "6": 18,
+      "7": 18,
+      "8": 3,
+      "9": 2
+    },
+    "by_first_letter": {
+      "B": 16,
+      "C": 11,
+      "G": 9,
+      "I": 5,
+      "M": 11,
+      "N": 4,
+      "O": 3
+    },
+    "grid": {
+      "B": {
+        "4": 2,
+        "5": 2,
+        "6": 5,
+        "7": 7
+      },
+      "C": {
+        "4": 1,
+        "5": 1,
+        "6": 4,
+        "7": 3,
+        "9": 2
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 4
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "8": 2
+      },
+      "M": {
+        "4": 3,
+        "5": 1,
+        "6": 4,
+        "7": 3
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "O": {
+        "5": 1,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "BI": 3,
+      "BO": 13,
+      "CO": 11,
+      "GI": 4,
+      "GO": 5,
+      "IC": 2,
+      "IM": 1,
+      "IN": 2,
+      "MI": 6,
+      "MO": 5,
+      "NI": 1,
+      "NO": 3,
+      "ON": 3
+    }
+  }
+}

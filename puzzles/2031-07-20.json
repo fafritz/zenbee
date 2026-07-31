@@ -1,0 +1,95 @@
+{
+  "pangram": "updraft",
+  "center_letter": "t",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 69,
+  "answer_pangrams": [
+    "updraft"
+  ],
+  "answers": [
+    "adapt",
+    "apart",
+    "attar",
+    "dart",
+    "data",
+    "draft",
+    "fart",
+    "frat",
+    "part",
+    "putt",
+    "raft",
+    "rapt",
+    "ratatat",
+    "rattrap",
+    "tarp",
+    "tart",
+    "tartar",
+    "taut",
+    "trap",
+    "tuft",
+    "turf",
+    "tutu",
+    "updraft"
+  ],
+  "date": "2031-07-20",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 4,
+      "6": 1,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 3,
+      "F": 2,
+      "P": 2,
+      "R": 4,
+      "T": 8,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "5": 3
+      },
+      "D": {
+        "4": 2,
+        "5": 1
+      },
+      "F": {
+        "4": 2
+      },
+      "P": {
+        "4": 2
+      },
+      "R": {
+        "4": 2,
+        "7": 2
+      },
+      "T": {
+        "4": 7,
+        "6": 1
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AP": 1,
+      "AT": 1,
+      "DA": 2,
+      "DR": 1,
+      "FA": 1,
+      "FR": 1,
+      "PA": 1,
+      "PU": 1,
+      "RA": 4,
+      "TA": 4,
+      "TR": 1,
+      "TU": 3,
+      "UP": 1
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "pangram": "anchovy",
+  "center_letter": "a",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 109,
+  "answer_pangrams": [
+    "anchovy"
+  ],
+  "answers": [
+    "achoo",
+    "achy",
+    "ahoy",
+    "anchovy",
+    "annoy",
+    "anon",
+    "cacao",
+    "cancan",
+    "canna",
+    "cannon",
+    "canny",
+    "canon",
+    "canyon",
+    "chancy",
+    "coach",
+    "coca",
+    "cocoa",
+    "cyan",
+    "havoc",
+    "naan",
+    "nana",
+    "nanny",
+    "navy",
+    "nova",
+    "vacancy",
+    "yahoo"
+  ],
+  "date": "2028-01-11",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 11,
+      "6": 4,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 12,
+      "H": 1,
+      "N": 5,
+      "V": 1,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2,
+        "7": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 6,
+        "6": 4
+      },
+      "H": {
+        "5": 1
+      },
+      "N": {
+        "4": 4,
+        "5": 1
+      },
+      "V": {
+        "7": 1
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AH": 1,
+      "AN": 3,
+      "CA": 7,
+      "CH": 1,
+      "CO": 3,
+      "CY": 1,
+      "HA": 1,
+      "NA": 4,
+      "NO": 1,
+      "VA": 1,
+      "YA": 1
+    }
+  }
+}

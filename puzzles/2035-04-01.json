@@ -1,0 +1,98 @@
+{
+  "pangram": "tankful",
+  "center_letter": "a",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 85,
+  "answer_pangrams": [
+    "tankful"
+  ],
+  "answers": [
+    "alfalfa",
+    "anal",
+    "annual",
+    "annul",
+    "aunt",
+    "fall",
+    "fatal",
+    "fault",
+    "faun",
+    "fauna",
+    "flak",
+    "flan",
+    "flank",
+    "flat",
+    "flaunt",
+    "lank",
+    "luau",
+    "naan",
+    "nana",
+    "natal",
+    "talk",
+    "tall",
+    "tank",
+    "tankful",
+    "taunt",
+    "taut",
+    "tuna",
+    "ulna"
+  ],
+  "date": "2035-04-01",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 7,
+      "6": 2,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "F": 10,
+      "L": 2,
+      "N": 3,
+      "T": 7,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "F": {
+        "4": 5,
+        "5": 4,
+        "6": 1
+      },
+      "L": {
+        "4": 2
+      },
+      "N": {
+        "4": 2,
+        "5": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 1,
+        "7": 1
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AN": 3,
+      "AU": 1,
+      "FA": 5,
+      "FL": 5,
+      "LA": 1,
+      "LU": 1,
+      "NA": 3,
+      "TA": 6,
+      "TU": 1,
+      "UL": 1
+    }
+  }
+}

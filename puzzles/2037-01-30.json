@@ -1,0 +1,121 @@
+{
+  "pangram": "naivety",
+  "center_letter": "a",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 195,
+  "answer_pangrams": [
+    "naivety"
+  ],
+  "answers": [
+    "ante",
+    "antenna",
+    "antennae",
+    "anti",
+    "attain",
+    "attentive",
+    "avian",
+    "eaten",
+    "inane",
+    "inanity",
+    "inattentive",
+    "initiate",
+    "initiative",
+    "innate",
+    "naan",
+    "naive",
+    "naivete",
+    "naivety",
+    "nana",
+    "nanny",
+    "native",
+    "nativity",
+    "natty",
+    "nave",
+    "navy",
+    "neat",
+    "taint",
+    "tannin",
+    "tatty",
+    "tenant",
+    "tentative",
+    "titan",
+    "vain",
+    "vane",
+    "vanity",
+    "vitiate"
+  ],
+  "date": "2037-01-30",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 9,
+      "6": 6,
+      "7": 5,
+      "8": 3,
+      "9": 2,
+      "10": 1,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "E": 1,
+      "I": 6,
+      "N": 12,
+      "T": 6,
+      "V": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "10": 1,
+        "11": 1
+      },
+      "N": {
+        "4": 5,
+        "5": 3,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "T": {
+        "5": 3,
+        "6": 2,
+        "9": 1
+      },
+      "V": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 4,
+      "AT": 2,
+      "AV": 1,
+      "EA": 1,
+      "IN": 6,
+      "NA": 11,
+      "NE": 1,
+      "TA": 3,
+      "TE": 2,
+      "TI": 1,
+      "VA": 3,
+      "VI": 1
+    }
+  }
+}

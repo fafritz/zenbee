@@ -1,0 +1,130 @@
+{
+  "pangram": "tabloid",
+  "center_letter": "l",
+  "num_answers": 49,
+  "num_pangrams": 1,
+  "possible_points": 130,
+  "answer_pangrams": [
+    "tabloid"
+  ],
+  "answers": [
+    "alibi",
+    "allot",
+    "alto",
+    "atoll",
+    "bail",
+    "bald",
+    "ball",
+    "ballad",
+    "ballot",
+    "bill",
+    "blab",
+    "blat",
+    "bloat",
+    "blob",
+    "blood",
+    "blot",
+    "bobtail",
+    "boil",
+    "bola",
+    "bold",
+    "boll",
+    "bolt",
+    "dial",
+    "dill",
+    "doll",
+    "dolt",
+    "idol",
+    "labia",
+    "labial",
+    "laid",
+    "libido",
+    "lilt",
+    "load",
+    "loll",
+    "loot",
+    "lotto",
+    "oddball",
+    "olio",
+    "tabloid",
+    "tail",
+    "tall",
+    "tidal",
+    "till",
+    "tilt",
+    "toil",
+    "told",
+    "toll",
+    "tool",
+    "total"
+  ],
+  "date": "2032-02-19",
+  "hints": {
+    "by_length": {
+      "4": 33,
+      "5": 9,
+      "6": 4,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 4,
+      "B": 18,
+      "D": 4,
+      "I": 1,
+      "L": 9,
+      "O": 2,
+      "T": 11
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3
+      },
+      "B": {
+        "4": 13,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "D": {
+        "4": 4
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 2,
+        "6": 2
+      },
+      "O": {
+        "4": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 8,
+        "5": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 3,
+      "AT": 1,
+      "BA": 5,
+      "BI": 1,
+      "BL": 6,
+      "BO": 6,
+      "DI": 2,
+      "DO": 2,
+      "ID": 1,
+      "LA": 3,
+      "LI": 2,
+      "LO": 4,
+      "OD": 1,
+      "OL": 1,
+      "TA": 3,
+      "TI": 3,
+      "TO": 5
+    }
+  }
+}

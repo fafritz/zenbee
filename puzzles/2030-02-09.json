@@ -1,0 +1,108 @@
+{
+  "pangram": "compute",
+  "center_letter": "o",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 127,
+  "answer_pangrams": [
+    "compute"
+  ],
+  "answers": [
+    "come",
+    "comet",
+    "commute",
+    "comp",
+    "compete",
+    "compo",
+    "compote",
+    "compute",
+    "coop",
+    "coot",
+    "cope",
+    "cote",
+    "coup",
+    "coupe",
+    "cutout",
+    "emote",
+    "memo",
+    "moot",
+    "mope",
+    "moppet",
+    "mote",
+    "motto",
+    "octet",
+    "outcome",
+    "output",
+    "poem",
+    "poet",
+    "pomp",
+    "poop",
+    "pope",
+    "pout",
+    "tempo",
+    "tome",
+    "toot",
+    "tote",
+    "totem",
+    "toupee",
+    "tout"
+  ],
+  "date": "2030-02-09",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 8,
+      "6": 4,
+      "7": 5
+    },
+    "by_first_letter": {
+      "C": 15,
+      "E": 1,
+      "M": 6,
+      "O": 3,
+      "P": 6,
+      "T": 7
+    },
+    "grid": {
+      "C": {
+        "4": 7,
+        "5": 3,
+        "6": 1,
+        "7": 4
+      },
+      "E": {
+        "5": 1
+      },
+      "M": {
+        "4": 4,
+        "5": 1,
+        "6": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 6
+      },
+      "T": {
+        "4": 4,
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 14,
+      "CU": 1,
+      "EM": 1,
+      "ME": 1,
+      "MO": 5,
+      "OC": 1,
+      "OU": 2,
+      "PO": 6,
+      "TE": 1,
+      "TO": 6
+    }
+  }
+}

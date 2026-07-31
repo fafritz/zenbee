@@ -1,0 +1,111 @@
+{
+  "pangram": "captive",
+  "center_letter": "i",
+  "num_answers": 29,
+  "num_pangrams": 2,
+  "possible_points": 154,
+  "answer_pangrams": [
+    "captivate",
+    "captive"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acetic",
+    "activate",
+    "active",
+    "apiece",
+    "appetite",
+    "attic",
+    "cacti",
+    "captivate",
+    "captive",
+    "cite",
+    "civet",
+    "civic",
+    "epic",
+    "evict",
+    "ipecac",
+    "peptic",
+    "petite",
+    "pica",
+    "piece",
+    "pipe",
+    "pipit",
+    "pita",
+    "tacit",
+    "tactic",
+    "vice",
+    "vitiate",
+    "vivace"
+  ],
+  "date": "2031-02-12",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 8,
+      "6": 9,
+      "7": 2,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "C": 6,
+      "E": 2,
+      "I": 1,
+      "P": 7,
+      "T": 2,
+      "V": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 4,
+        "8": 2
+      },
+      "C": {
+        "4": 1,
+        "5": 3,
+        "7": 1,
+        "9": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 2,
+        "6": 2
+      },
+      "T": {
+        "5": 1,
+        "6": 1
+      },
+      "V": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 5,
+      "AP": 2,
+      "AT": 1,
+      "CA": 3,
+      "CI": 3,
+      "EP": 1,
+      "EV": 1,
+      "IP": 1,
+      "PE": 2,
+      "PI": 5,
+      "TA": 2,
+      "VI": 3
+    }
+  }
+}

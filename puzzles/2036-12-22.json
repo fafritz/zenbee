@@ -1,0 +1,93 @@
+{
+  "pangram": "chantey",
+  "center_letter": "y",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 98,
+  "answer_pangrams": [
+    "chantey"
+  ],
+  "answers": [
+    "achy",
+    "canny",
+    "catchy",
+    "catty",
+    "cayenne",
+    "chancy",
+    "chantey",
+    "chatty",
+    "cyan",
+    "eyeteeth",
+    "hyena",
+    "nanny",
+    "natty",
+    "tatty",
+    "teeny",
+    "tenancy",
+    "they",
+    "yacht",
+    "yeah"
+  ],
+  "date": "2036-12-22",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 8,
+      "6": 3,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 8,
+      "E": 1,
+      "H": 1,
+      "N": 2,
+      "T": 4,
+      "Y": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 2,
+        "6": 3,
+        "7": 2
+      },
+      "E": {
+        "8": 1
+      },
+      "H": {
+        "5": 1
+      },
+      "N": {
+        "5": 2
+      },
+      "T": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      },
+      "Y": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "CA": 4,
+      "CH": 3,
+      "CY": 1,
+      "EY": 1,
+      "HY": 1,
+      "NA": 2,
+      "TA": 1,
+      "TE": 2,
+      "TH": 1,
+      "YA": 1,
+      "YE": 1
+    }
+  }
+}

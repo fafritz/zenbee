@@ -1,0 +1,85 @@
+{
+  "pangram": "lumbago",
+  "center_letter": "g",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 75,
+  "answer_pangrams": [
+    "lumbago"
+  ],
+  "answers": [
+    "agog",
+    "alga",
+    "amalgam",
+    "blog",
+    "bugaboo",
+    "gala",
+    "gall",
+    "gambol",
+    "gamma",
+    "glob",
+    "global",
+    "gloom",
+    "glum",
+    "goal",
+    "gull",
+    "gumbo",
+    "logo",
+    "lumbago",
+    "magma",
+    "mogul"
+  ],
+  "date": "2033-10-21",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 5,
+      "6": 2,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 2,
+      "G": 11,
+      "L": 2,
+      "M": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "7": 1
+      },
+      "B": {
+        "4": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 6,
+        "5": 3,
+        "6": 2
+      },
+      "L": {
+        "4": 1,
+        "7": 1
+      },
+      "M": {
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AL": 1,
+      "AM": 1,
+      "BL": 1,
+      "BU": 1,
+      "GA": 4,
+      "GL": 4,
+      "GO": 1,
+      "GU": 2,
+      "LO": 1,
+      "LU": 1,
+      "MA": 1,
+      "MO": 1
+    }
+  }
+}

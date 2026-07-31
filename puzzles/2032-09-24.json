@@ -1,0 +1,113 @@
+{
+  "pangram": "outplay",
+  "center_letter": "a",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 167,
+  "answer_pangrams": [
+    "outplay"
+  ],
+  "answers": [
+    "allay",
+    "allot",
+    "alloy",
+    "ally",
+    "alto",
+    "appall",
+    "apply",
+    "aptly",
+    "atoll",
+    "atop",
+    "auto",
+    "laptop",
+    "layout",
+    "loyal",
+    "loyally",
+    "loyalty",
+    "luau",
+    "opal",
+    "outlay",
+    "outplay",
+    "palatal",
+    "pall",
+    "papa",
+    "papal",
+    "papaya",
+    "patty",
+    "play",
+    "potato",
+    "pupa",
+    "pupal",
+    "tall",
+    "tally",
+    "tattoo",
+    "tatty",
+    "taut",
+    "tautly",
+    "total",
+    "totally"
+  ],
+  "date": "2032-09-24",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 13,
+      "6": 8,
+      "7": 5
+    },
+    "by_first_letter": {
+      "A": 11,
+      "L": 6,
+      "O": 3,
+      "P": 10,
+      "T": 8
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "5": 6,
+        "6": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 2
+      },
+      "O": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 4,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 5,
+      "AP": 3,
+      "AT": 2,
+      "AU": 1,
+      "LA": 2,
+      "LO": 3,
+      "LU": 1,
+      "OP": 1,
+      "OU": 2,
+      "PA": 6,
+      "PL": 1,
+      "PO": 1,
+      "PU": 2,
+      "TA": 6,
+      "TO": 2
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "pangram": "jumping",
+  "center_letter": "n",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 243,
+  "answer_pangrams": [
+    "jumping"
+  ],
+  "answers": [
+    "gigging",
+    "ginning",
+    "gumming",
+    "gunning",
+    "impinging",
+    "impugn",
+    "impugning",
+    "inning",
+    "jigging",
+    "jinni",
+    "jugging",
+    "jumping",
+    "miming",
+    "mini",
+    "minim",
+    "minimum",
+    "mining",
+    "mugging",
+    "munging",
+    "nipping",
+    "pigging",
+    "pimping",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "pinup",
+    "piping",
+    "pippin",
+    "pipping",
+    "pumping",
+    "punning",
+    "pupping",
+    "umping",
+    "unpin",
+    "unpinning",
+    "upping"
+  ],
+  "date": "2031-02-23",
+  "hints": {
+    "by_length": {
+      "4": 2,
+      "5": 4,
+      "6": 9,
+      "7": 19,
+      "9": 3
+    },
+    "by_first_letter": {
+      "G": 4,
+      "I": 4,
+      "J": 4,
+      "M": 7,
+      "N": 1,
+      "P": 13,
+      "U": 4
+    },
+    "grid": {
+      "G": {
+        "7": 4
+      },
+      "I": {
+        "6": 2,
+        "9": 2
+      },
+      "J": {
+        "5": 1,
+        "7": 3
+      },
+      "M": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 3
+      },
+      "N": {
+        "7": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 8
+      },
+      "U": {
+        "5": 1,
+        "6": 2,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 2,
+      "GU": 2,
+      "IM": 3,
+      "IN": 1,
+      "JI": 2,
+      "JU": 2,
+      "MI": 5,
+      "MU": 2,
+      "NI": 1,
+      "PI": 10,
+      "PU": 3,
+      "UM": 1,
+      "UN": 2,
+      "UP": 1
+    }
+  }
+}

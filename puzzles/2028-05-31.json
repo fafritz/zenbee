@@ -1,0 +1,122 @@
+{
+  "pangram": "dumping",
+  "center_letter": "g",
+  "num_answers": 45,
+  "num_pangrams": 1,
+  "possible_points": 298,
+  "answer_pangrams": [
+    "dumping"
+  ],
+  "answers": [
+    "digging",
+    "dimming",
+    "ding",
+    "dinging",
+    "dining",
+    "dinning",
+    "dipping",
+    "duding",
+    "dumping",
+    "dung",
+    "dunging",
+    "dunning",
+    "duping",
+    "gigging",
+    "ginning",
+    "guiding",
+    "gumming",
+    "gunning",
+    "impinging",
+    "impugn",
+    "impugning",
+    "inning",
+    "miming",
+    "minding",
+    "mining",
+    "mugging",
+    "munging",
+    "nipping",
+    "nudging",
+    "pidgin",
+    "pigging",
+    "pimping",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "piping",
+    "pipping",
+    "pudding",
+    "pumping",
+    "punning",
+    "pupping",
+    "umping",
+    "unpinning",
+    "upping"
+  ],
+  "date": "2028-05-31",
+  "hints": {
+    "by_length": {
+      "4": 3,
+      "6": 12,
+      "7": 27,
+      "9": 3
+    },
+    "by_first_letter": {
+      "D": 13,
+      "G": 5,
+      "I": 4,
+      "M": 5,
+      "N": 2,
+      "P": 13,
+      "U": 3
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "6": 3,
+        "7": 8
+      },
+      "G": {
+        "7": 5
+      },
+      "I": {
+        "6": 2,
+        "9": 2
+      },
+      "M": {
+        "6": 2,
+        "7": 3
+      },
+      "N": {
+        "7": 2
+      },
+      "P": {
+        "4": 1,
+        "6": 3,
+        "7": 9
+      },
+      "U": {
+        "6": 2,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "DI": 7,
+      "DU": 6,
+      "GI": 2,
+      "GU": 3,
+      "IM": 3,
+      "IN": 1,
+      "MI": 3,
+      "MU": 2,
+      "NI": 1,
+      "NU": 1,
+      "PI": 9,
+      "PU": 4,
+      "UM": 1,
+      "UN": 1,
+      "UP": 1
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "pangram": "gumdrop",
+  "center_letter": "p",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 55,
+  "answer_pangrams": [
+    "gumdrop"
+  ],
+  "answers": [
+    "droop",
+    "drop",
+    "dump",
+    "goop",
+    "gorp",
+    "group",
+    "gumdrop",
+    "pogrom",
+    "pomp",
+    "poop",
+    "poor",
+    "pour",
+    "prod",
+    "prom",
+    "promo",
+    "prop",
+    "proud",
+    "pump",
+    "purr",
+    "romp",
+    "rump"
+  ],
+  "date": "2034-10-26",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 4,
+      "6": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "D": 3,
+      "G": 4,
+      "P": 12,
+      "R": 2
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 9,
+        "5": 2,
+        "6": 1
+      },
+      "R": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "DR": 2,
+      "DU": 1,
+      "GO": 2,
+      "GR": 1,
+      "GU": 1,
+      "PO": 5,
+      "PR": 5,
+      "PU": 2,
+      "RO": 1,
+      "RU": 1
+    }
+  }
+}

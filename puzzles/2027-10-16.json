@@ -1,0 +1,150 @@
+{
+  "pangram": "blazing",
+  "center_letter": "i",
+  "num_answers": 59,
+  "num_pangrams": 1,
+  "possible_points": 360,
+  "answer_pangrams": [
+    "blazing"
+  ],
+  "answers": [
+    "again",
+    "aging",
+    "ailing",
+    "alibi",
+    "alibiing",
+    "align",
+    "aligning",
+    "angina",
+    "angling",
+    "baaing",
+    "babbling",
+    "bagging",
+    "bail",
+    "bailing",
+    "baling",
+    "balling",
+    "banging",
+    "banning",
+    "bill",
+    "billing",
+    "binning",
+    "blabbing",
+    "blazing",
+    "bling",
+    "gabbing",
+    "gabbling",
+    "gagging",
+    "gain",
+    "gaining",
+    "galling",
+    "ganging",
+    "ganglia",
+    "gangling",
+    "gazing",
+    "gibing",
+    "gigging",
+    "giggling",
+    "gill",
+    "ginning",
+    "glazing",
+    "glib",
+    "inning",
+    "labia",
+    "labial",
+    "lagging",
+    "lain",
+    "lazing",
+    "lining",
+    "nabbing",
+    "nagging",
+    "nail",
+    "nailing",
+    "nibbling",
+    "niggling",
+    "zigzag",
+    "zigzagging",
+    "zing",
+    "zinging",
+    "zinnia"
+  ],
+  "date": "2027-10-16",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 6,
+      "6": 12,
+      "7": 23,
+      "8": 9,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 9,
+      "B": 15,
+      "G": 17,
+      "I": 1,
+      "L": 6,
+      "N": 6,
+      "Z": 5
+    },
+    "grid": {
+      "A": {
+        "5": 4,
+        "6": 2,
+        "7": 1,
+        "8": 2
+      },
+      "B": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 8,
+        "8": 2
+      },
+      "G": {
+        "4": 3,
+        "6": 2,
+        "7": 9,
+        "8": 3
+      },
+      "I": {
+        "6": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 1
+      },
+      "N": {
+        "4": 1,
+        "7": 3,
+        "8": 2
+      },
+      "Z": {
+        "4": 1,
+        "6": 2,
+        "7": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 1,
+      "AL": 4,
+      "AN": 2,
+      "BA": 9,
+      "BI": 3,
+      "BL": 3,
+      "GA": 10,
+      "GI": 5,
+      "GL": 2,
+      "IN": 1,
+      "LA": 5,
+      "LI": 1,
+      "NA": 4,
+      "NI": 2,
+      "ZI": 5
+    }
+  }
+}

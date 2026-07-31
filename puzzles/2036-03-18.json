@@ -1,0 +1,116 @@
+{
+  "pangram": "amplify",
+  "center_letter": "a",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 148,
+  "answer_pangrams": [
+    "amplify"
+  ],
+  "answers": [
+    "alfalfa",
+    "allay",
+    "ally",
+    "amplify",
+    "amply",
+    "appall",
+    "apply",
+    "fail",
+    "fall",
+    "familial",
+    "family",
+    "filial",
+    "flail",
+    "flap",
+    "flay",
+    "flimflam",
+    "imam",
+    "impala",
+    "lama",
+    "lamp",
+    "llama",
+    "mail",
+    "maim",
+    "mall",
+    "mama",
+    "mamma",
+    "mammal",
+    "mayfly",
+    "pail",
+    "pall",
+    "palm",
+    "palmy",
+    "papa",
+    "papal",
+    "papaya",
+    "papilla",
+    "pilaf",
+    "play"
+  ],
+  "date": "2036-03-18",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 9,
+      "6": 7,
+      "7": 3,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 7,
+      "F": 9,
+      "I": 2,
+      "L": 3,
+      "M": 7,
+      "P": 10
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 2
+      },
+      "F": {
+        "4": 4,
+        "5": 1,
+        "6": 2,
+        "8": 2
+      },
+      "I": {
+        "4": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1
+      },
+      "M": {
+        "4": 4,
+        "5": 1,
+        "6": 2
+      },
+      "P": {
+        "4": 5,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 3,
+      "AM": 2,
+      "AP": 2,
+      "FA": 4,
+      "FI": 1,
+      "FL": 4,
+      "IM": 2,
+      "LA": 2,
+      "LL": 1,
+      "MA": 7,
+      "PA": 8,
+      "PI": 1,
+      "PL": 1
+    }
+  }
+}

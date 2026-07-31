@@ -1,0 +1,127 @@
+{
+  "pangram": "tamping",
+  "center_letter": "m",
+  "num_answers": 43,
+  "num_pangrams": 1,
+  "possible_points": 251,
+  "answer_pangrams": [
+    "tamping"
+  ],
+  "answers": [
+    "aiming",
+    "animating",
+    "gaming",
+    "gamma",
+    "imaging",
+    "imagining",
+    "imam",
+    "imitating",
+    "impinging",
+    "intimating",
+    "magma",
+    "maim",
+    "maiming",
+    "main",
+    "maintain",
+    "maintaining",
+    "mama",
+    "mamma",
+    "managing",
+    "manga",
+    "mania",
+    "manna",
+    "manning",
+    "mapping",
+    "mating",
+    "matting",
+    "miming",
+    "mini",
+    "minim",
+    "minima",
+    "mining",
+    "mint",
+    "minting",
+    "mitigating",
+    "mitt",
+    "naming",
+    "pimp",
+    "pimping",
+    "taming",
+    "tamp",
+    "tamping",
+    "timing",
+    "timpani"
+  ],
+  "date": "2028-05-22",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 7,
+      "6": 9,
+      "7": 9,
+      "8": 2,
+      "9": 4,
+      "10": 2,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "G": 2,
+      "I": 6,
+      "M": 25,
+      "N": 1,
+      "P": 2,
+      "T": 5
+    },
+    "grid": {
+      "A": {
+        "6": 1,
+        "9": 1
+      },
+      "G": {
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 1,
+        "7": 1,
+        "9": 3,
+        "10": 1
+      },
+      "M": {
+        "4": 6,
+        "5": 6,
+        "6": 4,
+        "7": 5,
+        "8": 2,
+        "10": 1,
+        "11": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "P": {
+        "4": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 1,
+        "6": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AN": 1,
+      "GA": 2,
+      "IM": 5,
+      "IN": 1,
+      "MA": 16,
+      "MI": 9,
+      "NA": 1,
+      "PI": 2,
+      "TA": 3,
+      "TI": 2
+    }
+  }
+}

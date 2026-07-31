@@ -1,0 +1,140 @@
+{
+  "pangram": "beating",
+  "center_letter": "b",
+  "num_answers": 59,
+  "num_pangrams": 4,
+  "possible_points": 337,
+  "answer_pangrams": [
+    "abetting",
+    "abnegating",
+    "battening",
+    "beating"
+  ],
+  "answers": [
+    "abate",
+    "abating",
+    "abbe",
+    "abet",
+    "abetting",
+    "abnegate",
+    "abnegating",
+    "baaing",
+    "baba",
+    "babe",
+    "baggage",
+    "bagging",
+    "bait",
+    "baiting",
+    "banana",
+    "bane",
+    "bang",
+    "banging",
+    "banning",
+    "batten",
+    "battening",
+    "batting",
+    "bean",
+    "beaning",
+    "beat",
+    "beaten",
+    "beating",
+    "been",
+    "beet",
+    "began",
+    "beget",
+    "begetting",
+    "begging",
+    "begin",
+    "beginning",
+    "beige",
+    "being",
+    "benign",
+    "bent",
+    "beta",
+    "betting",
+    "biggie",
+    "binge",
+    "bingeing",
+    "binning",
+    "bite",
+    "biting",
+    "bitten",
+    "ebbing",
+    "gabbing",
+    "gibbet",
+    "gibbeting",
+    "gibe",
+    "gibing",
+    "gigabit",
+    "nabbing",
+    "tabbing",
+    "tibia",
+    "tibiae"
+  ],
+  "date": "2036-12-31",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 8,
+      "6": 12,
+      "7": 16,
+      "8": 3,
+      "9": 4,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "B": 41,
+      "E": 1,
+      "G": 6,
+      "N": 1,
+      "T": 3
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "7": 1,
+        "8": 2,
+        "10": 1
+      },
+      "B": {
+        "4": 12,
+        "5": 6,
+        "6": 8,
+        "7": 11,
+        "8": 1,
+        "9": 3
+      },
+      "E": {
+        "6": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 2,
+        "7": 2,
+        "9": 1
+      },
+      "N": {
+        "7": 1
+      },
+      "T": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 7,
+      "BA": 15,
+      "BE": 19,
+      "BI": 7,
+      "EB": 1,
+      "GA": 1,
+      "GI": 5,
+      "NA": 1,
+      "TA": 1,
+      "TI": 2
+    }
+  }
+}

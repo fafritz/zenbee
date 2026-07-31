@@ -1,0 +1,153 @@
+{
+  "pangram": "inflame",
+  "center_letter": "i",
+  "num_answers": 61,
+  "num_pangrams": 1,
+  "possible_points": 260,
+  "answer_pangrams": [
+    "inflame"
+  ],
+  "answers": [
+    "alien",
+    "anemia",
+    "animal",
+    "anime",
+    "elfin",
+    "email",
+    "fail",
+    "familial",
+    "famine",
+    "feline",
+    "feminine",
+    "fief",
+    "fife",
+    "file",
+    "filial",
+    "fill",
+    "film",
+    "final",
+    "finale",
+    "fine",
+    "flail",
+    "flimflam",
+    "imam",
+    "inane",
+    "inflame",
+    "inline",
+    "lain",
+    "lien",
+    "life",
+    "lifeline",
+    "lime",
+    "limn",
+    "line",
+    "lineal",
+    "lineman",
+    "linemen",
+    "linen",
+    "mail",
+    "mailman",
+    "mailmen",
+    "maim",
+    "main",
+    "mainline",
+    "mammalian",
+    "mania",
+    "melanin",
+    "menial",
+    "mien",
+    "miff",
+    "mile",
+    "mill",
+    "millennia",
+    "millennial",
+    "mime",
+    "mine",
+    "mini",
+    "minim",
+    "minima",
+    "minimal",
+    "nail",
+    "nine"
+  ],
+  "date": "2038-07-30",
+  "hints": {
+    "by_length": {
+      "4": 26,
+      "5": 10,
+      "6": 10,
+      "7": 7,
+      "8": 5,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "E": 2,
+      "F": 16,
+      "I": 4,
+      "L": 11,
+      "M": 22,
+      "N": 2
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "6": 2
+      },
+      "E": {
+        "5": 2
+      },
+      "F": {
+        "4": 7,
+        "5": 2,
+        "6": 4,
+        "8": 3
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 6,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "M": {
+        "4": 10,
+        "5": 2,
+        "6": 2,
+        "7": 4,
+        "8": 1,
+        "9": 2,
+        "10": 1
+      },
+      "N": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AN": 3,
+      "EL": 1,
+      "EM": 1,
+      "FA": 3,
+      "FE": 2,
+      "FI": 9,
+      "FL": 2,
+      "IM": 1,
+      "IN": 3,
+      "LA": 1,
+      "LI": 10,
+      "MA": 8,
+      "ME": 2,
+      "MI": 12,
+      "NA": 1,
+      "NI": 1
+    }
+  }
+}

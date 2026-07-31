@@ -1,0 +1,151 @@
+{
+  "pangram": "damping",
+  "center_letter": "a",
+  "num_answers": 61,
+  "num_pangrams": 1,
+  "possible_points": 296,
+  "answer_pangrams": [
+    "damping"
+  ],
+  "answers": [
+    "adding",
+    "adman",
+    "admin",
+    "again",
+    "aging",
+    "aiding",
+    "aiming",
+    "amid",
+    "angina",
+    "aping",
+    "damaging",
+    "damming",
+    "damn",
+    "damning",
+    "damp",
+    "damping",
+    "gadding",
+    "gagging",
+    "gain",
+    "gaining",
+    "gaming",
+    "gamma",
+    "gang",
+    "ganging",
+    "gaping",
+    "imaging",
+    "imagining",
+    "imam",
+    "ipad",
+    "madam",
+    "madman",
+    "magma",
+    "maid",
+    "maim",
+    "maiming",
+    "main",
+    "mama",
+    "mamma",
+    "managing",
+    "manga",
+    "mania",
+    "manna",
+    "manning",
+    "mapping",
+    "minima",
+    "naan",
+    "nagging",
+    "naiad",
+    "naming",
+    "nana",
+    "napping",
+    "padding",
+    "pagan",
+    "paging",
+    "paid",
+    "pain",
+    "paining",
+    "panda",
+    "pang",
+    "panning",
+    "papa"
+  ],
+  "date": "2029-08-18",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 15,
+      "6": 10,
+      "7": 16,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 10,
+      "D": 6,
+      "G": 9,
+      "I": 4,
+      "M": 16,
+      "N": 6,
+      "P": 10
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 5,
+        "6": 4
+      },
+      "D": {
+        "4": 2,
+        "7": 3,
+        "8": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 4
+      },
+      "I": {
+        "4": 2,
+        "7": 1,
+        "9": 1
+      },
+      "M": {
+        "4": 4,
+        "5": 6,
+        "6": 2,
+        "7": 3,
+        "8": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 2
+      },
+      "P": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "AD": 3,
+      "AG": 2,
+      "AI": 2,
+      "AM": 1,
+      "AN": 1,
+      "AP": 1,
+      "DA": 6,
+      "GA": 9,
+      "IM": 3,
+      "IP": 1,
+      "MA": 15,
+      "MI": 1,
+      "NA": 6,
+      "PA": 10
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "pangram": "amplify",
+  "center_letter": "f",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 96,
+  "answer_pangrams": [
+    "amplify"
+  ],
+  "answers": [
+    "alfalfa",
+    "amplify",
+    "fail",
+    "fall",
+    "familial",
+    "family",
+    "filial",
+    "fill",
+    "fillip",
+    "filly",
+    "film",
+    "filmy",
+    "flail",
+    "flap",
+    "flay",
+    "flimflam",
+    "flip",
+    "flippy",
+    "iffy",
+    "mayfly",
+    "miff",
+    "pilaf"
+  ],
+  "date": "2031-11-09",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 4,
+      "6": 5,
+      "7": 2,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "F": 16,
+      "I": 1,
+      "M": 2,
+      "P": 1
+    },
+    "grid": {
+      "A": {
+        "7": 2
+      },
+      "F": {
+        "4": 7,
+        "5": 3,
+        "6": 4,
+        "8": 2
+      },
+      "I": {
+        "4": 1
+      },
+      "M": {
+        "4": 1,
+        "6": 1
+      },
+      "P": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AM": 1,
+      "FA": 4,
+      "FI": 6,
+      "FL": 6,
+      "IF": 1,
+      "MA": 1,
+      "MI": 1,
+      "PI": 1
+    }
+  }
+}

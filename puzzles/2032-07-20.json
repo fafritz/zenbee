@@ -1,0 +1,85 @@
+{
+  "pangram": "adjourn",
+  "center_letter": "r",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 74,
+  "answer_pangrams": [
+    "adjourn"
+  ],
+  "answers": [
+    "adjourn",
+    "adorn",
+    "ajar",
+    "ardor",
+    "around",
+    "aura",
+    "darn",
+    "donor",
+    "door",
+    "dour",
+    "juror",
+    "odor",
+    "radar",
+    "radon",
+    "road",
+    "roan",
+    "roar",
+    "rood",
+    "round",
+    "runaround"
+  ],
+  "date": "2032-07-20",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 7,
+      "6": 1,
+      "7": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "D": 4,
+      "J": 1,
+      "O": 1,
+      "R": 8
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 3,
+        "5": 1
+      },
+      "J": {
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "R": {
+        "4": 4,
+        "5": 3,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 2,
+      "AJ": 1,
+      "AR": 2,
+      "AU": 1,
+      "DA": 1,
+      "DO": 3,
+      "JU": 1,
+      "OD": 1,
+      "RA": 2,
+      "RO": 5,
+      "RU": 1
+    }
+  }
+}

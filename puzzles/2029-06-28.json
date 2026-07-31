@@ -1,0 +1,108 @@
+{
+  "pangram": "craving",
+  "center_letter": "c",
+  "num_answers": 31,
+  "num_pangrams": 2,
+  "possible_points": 184,
+  "answer_pangrams": [
+    "carving",
+    "craving"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acing",
+    "arcing",
+    "caging",
+    "cairn",
+    "cancan",
+    "caning",
+    "canna",
+    "canning",
+    "caravan",
+    "caring",
+    "carving",
+    "caviar",
+    "caving",
+    "cigar",
+    "circa",
+    "cirri",
+    "civic",
+    "crag",
+    "craning",
+    "craving",
+    "cringing",
+    "gracing",
+    "icing",
+    "narc",
+    "niacin",
+    "racing",
+    "ricing",
+    "vicar",
+    "vicing"
+  ],
+  "date": "2029-06-28",
+  "hints": {
+    "by_length": {
+      "4": 3,
+      "5": 9,
+      "6": 12,
+      "7": 6,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 19,
+      "G": 1,
+      "I": 1,
+      "N": 2,
+      "R": 2,
+      "V": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "C": {
+        "4": 1,
+        "5": 6,
+        "6": 6,
+        "7": 5,
+        "8": 1
+      },
+      "G": {
+        "7": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "R": {
+        "6": 2
+      },
+      "V": {
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AR": 1,
+      "CA": 11,
+      "CI": 4,
+      "CR": 4,
+      "GR": 1,
+      "IC": 1,
+      "NA": 1,
+      "NI": 1,
+      "RA": 1,
+      "RI": 1,
+      "VI": 2
+    }
+  }
+}

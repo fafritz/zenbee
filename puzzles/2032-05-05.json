@@ -1,0 +1,123 @@
+{
+  "pangram": "vibrato",
+  "center_letter": "o",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 154,
+  "answer_pangrams": [
+    "vibrato"
+  ],
+  "answers": [
+    "abattoir",
+    "abbot",
+    "abort",
+    "aorta",
+    "arbitrator",
+    "arbor",
+    "aviator",
+    "baobab",
+    "barrio",
+    "boar",
+    "boat",
+    "boob",
+    "booboo",
+    "boor",
+    "boot",
+    "bravo",
+    "iota",
+    "obit",
+    "orator",
+    "oratorio",
+    "orbit",
+    "ratio",
+    "riot",
+    "roar",
+    "robot",
+    "root",
+    "rotor",
+    "taboo",
+    "taro",
+    "tarot",
+    "tattoo",
+    "toot",
+    "tort",
+    "traitor",
+    "trio",
+    "trot",
+    "vibrato"
+  ],
+  "date": "2032-05-05",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 11,
+      "6": 5,
+      "7": 3,
+      "8": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "B": 9,
+      "I": 1,
+      "O": 4,
+      "R": 6,
+      "T": 9,
+      "V": 1
+    },
+    "grid": {
+      "A": {
+        "5": 4,
+        "7": 1,
+        "8": 1,
+        "10": 1
+      },
+      "B": {
+        "4": 5,
+        "5": 1,
+        "6": 3
+      },
+      "I": {
+        "4": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 3
+      },
+      "T": {
+        "4": 5,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "V": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 3,
+      "AO": 1,
+      "AR": 2,
+      "AV": 1,
+      "BA": 2,
+      "BO": 6,
+      "BR": 1,
+      "IO": 1,
+      "OB": 1,
+      "OR": 3,
+      "RA": 1,
+      "RI": 1,
+      "RO": 4,
+      "TA": 4,
+      "TO": 2,
+      "TR": 3,
+      "VI": 1
+    }
+  }
+}

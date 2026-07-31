@@ -1,0 +1,77 @@
+{
+  "pangram": "quicken",
+  "center_letter": "e",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 73,
+  "answer_pangrams": [
+    "quicken"
+  ],
+  "answers": [
+    "ennui",
+    "equine",
+    "keen",
+    "knee",
+    "neck",
+    "nene",
+    "nice",
+    "niece",
+    "nine",
+    "nuke",
+    "queen",
+    "queue",
+    "quicken",
+    "quickie",
+    "quince",
+    "quinine",
+    "unique"
+  ],
+  "date": "2038-06-05",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 4,
+      "6": 3,
+      "7": 3
+    },
+    "by_first_letter": {
+      "E": 2,
+      "K": 2,
+      "N": 6,
+      "Q": 6,
+      "U": 1
+    },
+    "grid": {
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "K": {
+        "4": 2
+      },
+      "N": {
+        "4": 5,
+        "5": 1
+      },
+      "Q": {
+        "5": 2,
+        "6": 1,
+        "7": 3
+      },
+      "U": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "EN": 1,
+      "EQ": 1,
+      "KE": 1,
+      "KN": 1,
+      "NE": 2,
+      "NI": 3,
+      "NU": 1,
+      "QU": 6,
+      "UN": 1
+    }
+  }
+}

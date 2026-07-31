@@ -1,0 +1,153 @@
+{
+  "pangram": "dormant",
+  "center_letter": "r",
+  "num_answers": 63,
+  "num_pangrams": 2,
+  "possible_points": 262,
+  "answer_pangrams": [
+    "dormant",
+    "mordant"
+  ],
+  "answers": [
+    "adorn",
+    "aorta",
+    "ardor",
+    "armada",
+    "armor",
+    "aroma",
+    "arrant",
+    "attar",
+    "darn",
+    "dart",
+    "donor",
+    "door",
+    "doorman",
+    "doormat",
+    "dorm",
+    "dormant",
+    "dram",
+    "drama",
+    "manor",
+    "mantra",
+    "marmot",
+    "maroon",
+    "mart",
+    "matador",
+    "matron",
+    "moor",
+    "mordant",
+    "morn",
+    "moron",
+    "mortar",
+    "motor",
+    "motorman",
+    "narrator",
+    "norm",
+    "odor",
+    "orator",
+    "radar",
+    "radon",
+    "ramrod",
+    "random",
+    "rant",
+    "ratatat",
+    "rattan",
+    "road",
+    "roam",
+    "roan",
+    "roar",
+    "roman",
+    "rood",
+    "room",
+    "root",
+    "rotor",
+    "taro",
+    "tarot",
+    "tart",
+    "tartan",
+    "tartar",
+    "torn",
+    "tornado",
+    "tort",
+    "tram",
+    "trod",
+    "trot"
+  ],
+  "date": "2032-01-02",
+  "hints": {
+    "by_length": {
+      "4": 25,
+      "5": 16,
+      "6": 13,
+      "7": 7,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 8,
+      "D": 10,
+      "M": 14,
+      "N": 2,
+      "O": 2,
+      "R": 16,
+      "T": 11
+    },
+    "grid": {
+      "A": {
+        "5": 6,
+        "6": 2
+      },
+      "D": {
+        "4": 5,
+        "5": 2,
+        "7": 3
+      },
+      "M": {
+        "4": 3,
+        "5": 3,
+        "6": 5,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 1,
+        "8": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 1
+      },
+      "R": {
+        "4": 8,
+        "5": 4,
+        "6": 3,
+        "7": 1
+      },
+      "T": {
+        "4": 7,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AO": 1,
+      "AR": 5,
+      "AT": 1,
+      "DA": 2,
+      "DO": 6,
+      "DR": 2,
+      "MA": 7,
+      "MO": 7,
+      "NA": 1,
+      "NO": 1,
+      "OD": 1,
+      "OR": 1,
+      "RA": 7,
+      "RO": 9,
+      "TA": 5,
+      "TO": 3,
+      "TR": 3
+    }
+  }
+}

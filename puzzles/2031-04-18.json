@@ -1,0 +1,102 @@
+{
+  "pangram": "plucked",
+  "center_letter": "k",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 104,
+  "answer_pangrams": [
+    "plucked"
+  ],
+  "answers": [
+    "cluck",
+    "clucked",
+    "deck",
+    "decked",
+    "deckle",
+    "duck",
+    "ducked",
+    "duke",
+    "eked",
+    "keel",
+    "keeled",
+    "keep",
+    "kelp",
+    "leek",
+    "luck",
+    "lucked",
+    "peck",
+    "pecked",
+    "peek",
+    "peeked",
+    "pluck",
+    "plucked",
+    "puck",
+    "puke",
+    "puked",
+    "ukulele",
+    "upkeep"
+  ],
+  "date": "2031-04-18",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 3,
+      "6": 8,
+      "7": 3
+    },
+    "by_first_letter": {
+      "C": 2,
+      "D": 6,
+      "E": 1,
+      "K": 4,
+      "L": 3,
+      "P": 9,
+      "U": 2
+    },
+    "grid": {
+      "C": {
+        "5": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 3,
+        "6": 3
+      },
+      "E": {
+        "4": 1
+      },
+      "K": {
+        "4": 3,
+        "6": 1
+      },
+      "L": {
+        "4": 2,
+        "6": 1
+      },
+      "P": {
+        "4": 4,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "U": {
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 2,
+      "DE": 3,
+      "DU": 3,
+      "EK": 1,
+      "KE": 4,
+      "LE": 1,
+      "LU": 2,
+      "PE": 4,
+      "PL": 2,
+      "PU": 3,
+      "UK": 1,
+      "UP": 1
+    }
+  }
+}

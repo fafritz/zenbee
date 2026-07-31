@@ -1,0 +1,85 @@
+{
+  "pangram": "fetlock",
+  "center_letter": "f",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 83,
+  "answer_pangrams": [
+    "fetlock"
+  ],
+  "answers": [
+    "clef",
+    "cleft",
+    "coffee",
+    "effect",
+    "effete",
+    "feel",
+    "feet",
+    "fell",
+    "felt",
+    "fete",
+    "fetlock",
+    "fettle",
+    "fleck",
+    "flee",
+    "fleece",
+    "fleet",
+    "flock",
+    "floe",
+    "folk",
+    "fool",
+    "foot",
+    "left",
+    "loft",
+    "toffee"
+  ],
+  "date": "2027-10-20",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 4,
+      "6": 6,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 3,
+      "E": 2,
+      "F": 16,
+      "L": 2,
+      "T": 1
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "E": {
+        "6": 2
+      },
+      "F": {
+        "4": 10,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 2
+      },
+      "T": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 2,
+      "CO": 1,
+      "EF": 2,
+      "FE": 7,
+      "FL": 6,
+      "FO": 3,
+      "LE": 1,
+      "LO": 1,
+      "TO": 1
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "pangram": "fidgety",
+  "center_letter": "y",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 58,
+  "answer_pangrams": [
+    "fidgety"
+  ],
+  "answers": [
+    "defy",
+    "deify",
+    "deity",
+    "ditty",
+    "dyed",
+    "eddy",
+    "edgy",
+    "edify",
+    "effigy",
+    "eyed",
+    "fidgety",
+    "fifty",
+    "giddy",
+    "iffy",
+    "tidy",
+    "yeti"
+  ],
+  "date": "2027-03-26",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 6,
+      "6": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "D": 5,
+      "E": 5,
+      "F": 2,
+      "G": 1,
+      "I": 1,
+      "T": 1,
+      "Y": 1
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 3
+      },
+      "E": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "F": {
+        "5": 1,
+        "7": 1
+      },
+      "G": {
+        "5": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "T": {
+        "4": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 3,
+      "DI": 1,
+      "DY": 1,
+      "ED": 3,
+      "EF": 1,
+      "EY": 1,
+      "FI": 2,
+      "GI": 1,
+      "IF": 1,
+      "TI": 1,
+      "YE": 1
+    }
+  }
+}

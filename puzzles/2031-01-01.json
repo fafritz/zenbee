@@ -1,0 +1,79 @@
+{
+  "pangram": "viaduct",
+  "center_letter": "t",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 74,
+  "answer_pangrams": [
+    "viaduct"
+  ],
+  "answers": [
+    "addict",
+    "attic",
+    "audit",
+    "cacti",
+    "data",
+    "davit",
+    "dicta",
+    "didactic",
+    "ducat",
+    "duct",
+    "tacit",
+    "tact",
+    "tactic",
+    "taut",
+    "tutu",
+    "viaduct"
+  ],
+  "date": "2031-01-01",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 7,
+      "6": 2,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 1,
+      "D": 6,
+      "T": 5,
+      "V": 1
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "6": 1
+      },
+      "C": {
+        "5": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 3,
+        "8": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "V": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AT": 1,
+      "AU": 1,
+      "CA": 1,
+      "DA": 2,
+      "DI": 2,
+      "DU": 2,
+      "TA": 4,
+      "TU": 1,
+      "VI": 1
+    }
+  }
+}

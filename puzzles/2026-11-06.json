@@ -1,0 +1,102 @@
+{
+  "pangram": "beatnik",
+  "center_letter": "i",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 120,
+  "answer_pangrams": [
+    "beatnik"
+  ],
+  "answers": [
+    "akin",
+    "anti",
+    "attain",
+    "bait",
+    "batik",
+    "beatnik",
+    "bike",
+    "bikini",
+    "bite",
+    "bitten",
+    "inane",
+    "initiate",
+    "innate",
+    "intake",
+    "intent",
+    "kink",
+    "kite",
+    "kitten",
+    "knit",
+    "nine",
+    "nineteen",
+    "taint",
+    "tannin",
+    "tibia",
+    "tibiae",
+    "tine",
+    "tint",
+    "titan"
+  ],
+  "date": "2026-11-06",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 5,
+      "6": 9,
+      "7": 1,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 7,
+      "I": 5,
+      "K": 4,
+      "N": 2,
+      "T": 7
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 1
+      },
+      "B": {
+        "4": 3,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 3,
+        "8": 1
+      },
+      "K": {
+        "4": 3,
+        "6": 1
+      },
+      "N": {
+        "4": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 3,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AK": 1,
+      "AN": 1,
+      "AT": 1,
+      "BA": 2,
+      "BE": 1,
+      "BI": 4,
+      "IN": 5,
+      "KI": 3,
+      "KN": 1,
+      "NI": 2,
+      "TA": 2,
+      "TI": 5
+    }
+  }
+}

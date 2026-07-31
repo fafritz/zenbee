@@ -1,0 +1,136 @@
+{
+  "pangram": "flatbed",
+  "center_letter": "f",
+  "num_answers": 54,
+  "num_pangrams": 1,
+  "possible_points": 236,
+  "answer_pangrams": [
+    "flatbed"
+  ],
+  "answers": [
+    "abaft",
+    "affable",
+    "alfalfa",
+    "baffle",
+    "baffled",
+    "beef",
+    "beefed",
+    "befall",
+    "befell",
+    "deaf",
+    "defeat",
+    "defeated",
+    "deflate",
+    "deflated",
+    "deft",
+    "effete",
+    "fable",
+    "fabled",
+    "fade",
+    "faded",
+    "fall",
+    "fatal",
+    "fate",
+    "fated",
+    "feat",
+    "feeble",
+    "feed",
+    "feel",
+    "feet",
+    "fell",
+    "felled",
+    "felt",
+    "felted",
+    "feta",
+    "fetal",
+    "fete",
+    "feted",
+    "fettle",
+    "flab",
+    "flat",
+    "flatbed",
+    "flatfeet",
+    "flatted",
+    "flea",
+    "fled",
+    "flee",
+    "fleet",
+    "fleeted",
+    "leaf",
+    "leafed",
+    "leaflet",
+    "leafleted",
+    "left",
+    "taffeta"
+  ],
+  "date": "2034-09-13",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 8,
+      "6": 12,
+      "7": 9,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 6,
+      "D": 6,
+      "E": 1,
+      "F": 32,
+      "L": 5,
+      "T": 1
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "7": 2
+      },
+      "B": {
+        "4": 1,
+        "6": 4,
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "8": 2
+      },
+      "E": {
+        "6": 1
+      },
+      "F": {
+        "4": 16,
+        "5": 7,
+        "6": 5,
+        "7": 3,
+        "8": 1
+      },
+      "L": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "T": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AF": 1,
+      "AL": 1,
+      "BA": 2,
+      "BE": 4,
+      "DE": 6,
+      "EF": 1,
+      "FA": 8,
+      "FE": 14,
+      "FL": 10,
+      "LE": 5,
+      "TA": 1
+    }
+  }
+}

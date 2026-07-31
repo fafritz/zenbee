@@ -1,0 +1,97 @@
+{
+  "pangram": "confirm",
+  "center_letter": "r",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 103,
+  "answer_pangrams": [
+    "confirm"
+  ],
+  "answers": [
+    "cirri",
+    "confirm",
+    "conform",
+    "corm",
+    "corn",
+    "croon",
+    "firm",
+    "form",
+    "from",
+    "infirm",
+    "inform",
+    "iron",
+    "ironic",
+    "micron",
+    "minor",
+    "mirror",
+    "moor",
+    "morn",
+    "morocco",
+    "moron",
+    "moronic",
+    "norm",
+    "riff",
+    "rococo",
+    "roof",
+    "room"
+  ],
+  "date": "2030-10-11",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 4,
+      "6": 6,
+      "7": 4
+    },
+    "by_first_letter": {
+      "C": 6,
+      "F": 3,
+      "I": 4,
+      "M": 8,
+      "N": 1,
+      "R": 4
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 2,
+        "7": 2
+      },
+      "F": {
+        "4": 3
+      },
+      "I": {
+        "4": 1,
+        "6": 3
+      },
+      "M": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2
+      },
+      "N": {
+        "4": 1
+      },
+      "R": {
+        "4": 3,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CI": 1,
+      "CO": 4,
+      "CR": 1,
+      "FI": 1,
+      "FO": 1,
+      "FR": 1,
+      "IN": 2,
+      "IR": 2,
+      "MI": 3,
+      "MO": 5,
+      "NO": 1,
+      "RI": 1,
+      "RO": 3
+    }
+  }
+}

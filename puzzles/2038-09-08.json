@@ -1,0 +1,147 @@
+{
+  "pangram": "forcing",
+  "center_letter": "g",
+  "num_answers": 52,
+  "num_pangrams": 1,
+  "possible_points": 326,
+  "answer_pangrams": [
+    "forcing"
+  ],
+  "answers": [
+    "cocooning",
+    "coffining",
+    "coiffing",
+    "coining",
+    "confining",
+    "conning",
+    "cooing",
+    "coring",
+    "corning",
+    "cringing",
+    "crooning",
+    "fining",
+    "firing",
+    "fogging",
+    "forcing",
+    "forging",
+    "forgo",
+    "forgoing",
+    "fringing",
+    "frog",
+    "frogging",
+    "gigging",
+    "ginning",
+    "going",
+    "gong",
+    "gonging",
+    "goof",
+    "goofing",
+    "goon",
+    "gorging",
+    "goring",
+    "griffin",
+    "grin",
+    "grinning",
+    "grog",
+    "groin",
+    "icing",
+    "ignoring",
+    "infringing",
+    "inning",
+    "ironing",
+    "noggin",
+    "offing",
+    "ongoing",
+    "origin",
+    "ricing",
+    "riffing",
+    "rigging",
+    "rigor",
+    "ring",
+    "ringing",
+    "roofing"
+  ],
+  "date": "2038-09-08",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 5,
+      "6": 10,
+      "7": 18,
+      "8": 8,
+      "9": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 11,
+      "F": 10,
+      "G": 15,
+      "I": 5,
+      "N": 1,
+      "O": 3,
+      "R": 7
+    },
+    "grid": {
+      "C": {
+        "6": 2,
+        "7": 3,
+        "8": 3,
+        "9": 3
+      },
+      "F": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 3,
+        "8": 3
+      },
+      "G": {
+        "4": 5,
+        "5": 2,
+        "6": 1,
+        "7": 6,
+        "8": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "10": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "O": {
+        "6": 2,
+        "7": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 4
+      }
+    },
+    "two_letter_list": {
+      "CO": 9,
+      "CR": 2,
+      "FI": 2,
+      "FO": 5,
+      "FR": 3,
+      "GI": 2,
+      "GO": 8,
+      "GR": 5,
+      "IC": 1,
+      "IG": 1,
+      "IN": 2,
+      "IR": 1,
+      "NO": 1,
+      "OF": 1,
+      "ON": 1,
+      "OR": 1,
+      "RI": 6,
+      "RO": 1
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "pangram": "atrophy",
+  "center_letter": "o",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 206,
+  "answer_pangrams": [
+    "atrophy"
+  ],
+  "answers": [
+    "ahoy",
+    "aorta",
+    "arroyo",
+    "atop",
+    "atrophy",
+    "hoary",
+    "hoop",
+    "hooray",
+    "hoot",
+    "horror",
+    "hypo",
+    "oath",
+    "orator",
+    "oratory",
+    "parrot",
+    "pharaoh",
+    "photo",
+    "pooh",
+    "poop",
+    "poor",
+    "poppy",
+    "porphyry",
+    "port",
+    "portray",
+    "potato",
+    "potty",
+    "prop",
+    "rapport",
+    "roar",
+    "root",
+    "rotary",
+    "rotor",
+    "taproot",
+    "taro",
+    "tarot",
+    "tattoo",
+    "throat",
+    "throaty",
+    "toot",
+    "tooth",
+    "toothy",
+    "torpor",
+    "tort",
+    "troop",
+    "trophy",
+    "trot",
+    "troy",
+    "typo",
+    "tyro",
+    "yahoo"
+  ],
+  "date": "2036-01-24",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 10,
+      "6": 12,
+      "7": 7,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "H": 6,
+      "O": 3,
+      "P": 13,
+      "R": 5,
+      "T": 17,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 2
+      },
+      "O": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 5,
+        "5": 3,
+        "6": 2,
+        "7": 2,
+        "8": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 7,
+        "5": 3,
+        "6": 5,
+        "7": 2
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AH": 1,
+      "AO": 1,
+      "AR": 1,
+      "AT": 2,
+      "HO": 5,
+      "HY": 1,
+      "OA": 1,
+      "OR": 2,
+      "PA": 1,
+      "PH": 2,
+      "PO": 9,
+      "PR": 1,
+      "RA": 1,
+      "RO": 4,
+      "TA": 4,
+      "TH": 2,
+      "TO": 5,
+      "TR": 4,
+      "TY": 2,
+      "YA": 1
+    }
+  }
+}

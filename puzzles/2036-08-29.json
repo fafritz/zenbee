@@ -1,0 +1,101 @@
+{
+  "pangram": "fluxing",
+  "center_letter": "l",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 154,
+  "answer_pangrams": [
+    "fluxing"
+  ],
+  "answers": [
+    "filing",
+    "fill",
+    "filling",
+    "fling",
+    "flinging",
+    "fluff",
+    "fluffing",
+    "flung",
+    "flux",
+    "fluxing",
+    "fulfill",
+    "fulfilling",
+    "full",
+    "fulling",
+    "giggling",
+    "gill",
+    "gluing",
+    "gulf",
+    "gull",
+    "gulling",
+    "influx",
+    "lining",
+    "lugging",
+    "lull",
+    "lulling",
+    "lulu",
+    "lung",
+    "lunging",
+    "niggling",
+    "null"
+  ],
+  "date": "2036-08-29",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 3,
+      "6": 4,
+      "7": 8,
+      "8": 4,
+      "10": 1
+    },
+    "by_first_letter": {
+      "F": 14,
+      "G": 6,
+      "I": 1,
+      "L": 7,
+      "N": 2
+    },
+    "grid": {
+      "F": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "7": 4,
+        "8": 2,
+        "10": 1
+      },
+      "G": {
+        "4": 3,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "L": {
+        "4": 3,
+        "6": 1,
+        "7": 3
+      },
+      "N": {
+        "4": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "FI": 3,
+      "FL": 7,
+      "FU": 4,
+      "GI": 2,
+      "GL": 1,
+      "GU": 3,
+      "IN": 1,
+      "LI": 1,
+      "LU": 6,
+      "NI": 1,
+      "NU": 1
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "pangram": "wolfram",
+  "center_letter": "a",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 164,
+  "answer_pangrams": [
+    "wolfram"
+  ],
+  "answers": [
+    "afar",
+    "alarm",
+    "alfalfa",
+    "allow",
+    "aloof",
+    "ammo",
+    "amoral",
+    "armor",
+    "aroma",
+    "arrow",
+    "fall",
+    "falloff",
+    "fallow",
+    "farm",
+    "farrow",
+    "flaw",
+    "flora",
+    "floral",
+    "foal",
+    "foam",
+    "formal",
+    "lama",
+    "llama",
+    "loaf",
+    "loam",
+    "mall",
+    "mallow",
+    "mama",
+    "mamma",
+    "mammal",
+    "marrow",
+    "molar",
+    "momma",
+    "moral",
+    "offal",
+    "oral",
+    "roam",
+    "roar",
+    "wall",
+    "wallow",
+    "warm",
+    "wolfram"
+  ],
+  "date": "2036-07-19",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 13,
+      "6": 9,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 10,
+      "F": 11,
+      "L": 4,
+      "M": 9,
+      "O": 2,
+      "R": 2,
+      "W": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 6,
+        "6": 1,
+        "7": 1
+      },
+      "F": {
+        "4": 5,
+        "5": 1,
+        "6": 4,
+        "7": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1
+      },
+      "M": {
+        "4": 2,
+        "5": 4,
+        "6": 3
+      },
+      "O": {
+        "4": 1,
+        "5": 1
+      },
+      "R": {
+        "4": 2
+      },
+      "W": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AF": 1,
+      "AL": 4,
+      "AM": 2,
+      "AR": 3,
+      "FA": 5,
+      "FL": 3,
+      "FO": 3,
+      "LA": 1,
+      "LL": 1,
+      "LO": 2,
+      "MA": 6,
+      "MO": 3,
+      "OF": 1,
+      "OR": 1,
+      "RO": 2,
+      "WA": 3,
+      "WO": 1
+    }
+  }
+}

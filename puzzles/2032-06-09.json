@@ -1,0 +1,137 @@
+{
+  "pangram": "violate",
+  "center_letter": "t",
+  "num_answers": 51,
+  "num_pangrams": 2,
+  "possible_points": 223,
+  "answer_pangrams": [
+    "violate",
+    "volatile"
+  ],
+  "answers": [
+    "alleviate",
+    "allot",
+    "alto",
+    "atoll",
+    "elate",
+    "elevate",
+    "elite",
+    "iota",
+    "late",
+    "latte",
+    "levitate",
+    "lilt",
+    "lite",
+    "little",
+    "loot",
+    "lotto",
+    "tail",
+    "tale",
+    "tall",
+    "tattle",
+    "tattletale",
+    "tattoo",
+    "teal",
+    "teetotal",
+    "tell",
+    "telltale",
+    "tile",
+    "till",
+    "tilt",
+    "titillate",
+    "title",
+    "tittle",
+    "toil",
+    "toilet",
+    "toilette",
+    "toll",
+    "tool",
+    "toot",
+    "total",
+    "tote",
+    "valet",
+    "velvet",
+    "veto",
+    "violate",
+    "violet",
+    "vital",
+    "vitiate",
+    "volatile",
+    "volt",
+    "vote",
+    "votive"
+  ],
+  "date": "2032-06-09",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 10,
+      "6": 8,
+      "7": 3,
+      "8": 5,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "E": 3,
+      "I": 1,
+      "L": 8,
+      "T": 24,
+      "V": 11
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "9": 1
+      },
+      "E": {
+        "5": 2,
+        "7": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 13,
+        "5": 2,
+        "6": 4,
+        "8": 3,
+        "9": 1,
+        "10": 1
+      },
+      "V": {
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 3,
+      "AT": 1,
+      "EL": 3,
+      "IO": 1,
+      "LA": 2,
+      "LE": 1,
+      "LI": 3,
+      "LO": 2,
+      "TA": 6,
+      "TE": 4,
+      "TI": 6,
+      "TO": 8,
+      "VA": 1,
+      "VE": 2,
+      "VI": 4,
+      "VO": 4
+    }
+  }
+}

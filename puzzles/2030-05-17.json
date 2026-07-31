@@ -1,0 +1,108 @@
+{
+  "pangram": "daubing",
+  "center_letter": "a",
+  "num_answers": 35,
+  "num_pangrams": 1,
+  "possible_points": 189,
+  "answer_pangrams": [
+    "daubing"
+  ],
+  "answers": [
+    "abiding",
+    "adding",
+    "again",
+    "aging",
+    "aiding",
+    "angina",
+    "baaing",
+    "baba",
+    "bagging",
+    "banana",
+    "band",
+    "bandaging",
+    "bandanna",
+    "banding",
+    "bang",
+    "banging",
+    "banning",
+    "baud",
+    "dabbing",
+    "daub",
+    "daubing",
+    "gabbing",
+    "gadding",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "gauging",
+    "iguana",
+    "naan",
+    "nabbing",
+    "nagging",
+    "naiad",
+    "nana"
+  ],
+  "date": "2030-05-17",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 3,
+      "6": 6,
+      "7": 15,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "B": 12,
+      "D": 3,
+      "G": 8,
+      "I": 1,
+      "N": 5
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "6": 3,
+        "7": 1
+      },
+      "B": {
+        "4": 4,
+        "6": 2,
+        "7": 4,
+        "8": 1,
+        "9": 1
+      },
+      "D": {
+        "4": 1,
+        "7": 2
+      },
+      "G": {
+        "4": 2,
+        "7": 6
+      },
+      "I": {
+        "6": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AD": 1,
+      "AG": 2,
+      "AI": 1,
+      "AN": 1,
+      "BA": 12,
+      "DA": 3,
+      "GA": 8,
+      "IG": 1,
+      "NA": 5
+    }
+  }
+}

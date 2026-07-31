@@ -1,0 +1,74 @@
+{
+  "pangram": "liquefy",
+  "center_letter": "u",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 65,
+  "answer_pangrams": [
+    "liquefy"
+  ],
+  "answers": [
+    "eyeful",
+    "flue",
+    "fluff",
+    "fluffy",
+    "fuel",
+    "fulfill",
+    "full",
+    "fully",
+    "lieu",
+    "liquefy",
+    "lull",
+    "lulu",
+    "quell",
+    "queue",
+    "quill",
+    "yule"
+  ],
+  "date": "2026-08-21",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 5,
+      "6": 2,
+      "7": 2
+    },
+    "by_first_letter": {
+      "E": 1,
+      "F": 7,
+      "L": 4,
+      "Q": 3,
+      "Y": 1
+    },
+    "grid": {
+      "E": {
+        "6": 1
+      },
+      "F": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 3,
+        "7": 1
+      },
+      "Q": {
+        "5": 3
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "EY": 1,
+      "FL": 3,
+      "FU": 4,
+      "LI": 2,
+      "LU": 2,
+      "QU": 3,
+      "YU": 1
+    }
+  }
+}

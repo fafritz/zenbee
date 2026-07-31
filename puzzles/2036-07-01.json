@@ -1,0 +1,108 @@
+{
+  "pangram": "roundly",
+  "center_letter": "o",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 111,
+  "answer_pangrams": [
+    "roundly"
+  ],
+  "answers": [
+    "dodo",
+    "doll",
+    "dolly",
+    "donor",
+    "door",
+    "dory",
+    "dour",
+    "dourly",
+    "droll",
+    "drolly",
+    "drool",
+    "dunno",
+    "loll",
+    "loon",
+    "lord",
+    "lordly",
+    "lorry",
+    "loud",
+    "loudly",
+    "noddy",
+    "noon",
+    "noun",
+    "nylon",
+    "oddly",
+    "odor",
+    "only",
+    "roll",
+    "rood",
+    "round",
+    "roundly",
+    "undo",
+    "unroll",
+    "your"
+  ],
+  "date": "2036-07-01",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 10,
+      "6": 5,
+      "7": 1
+    },
+    "by_first_letter": {
+      "D": 12,
+      "L": 7,
+      "N": 4,
+      "O": 3,
+      "R": 4,
+      "U": 2,
+      "Y": 1
+    },
+    "grid": {
+      "D": {
+        "4": 5,
+        "5": 5,
+        "6": 2
+      },
+      "L": {
+        "4": 4,
+        "5": 1,
+        "6": 2
+      },
+      "N": {
+        "4": 2,
+        "5": 2
+      },
+      "O": {
+        "4": 2,
+        "5": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "U": {
+        "4": 1,
+        "6": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 8,
+      "DR": 3,
+      "DU": 1,
+      "LO": 7,
+      "NO": 3,
+      "NY": 1,
+      "OD": 2,
+      "ON": 1,
+      "RO": 4,
+      "UN": 2,
+      "YO": 1
+    }
+  }
+}

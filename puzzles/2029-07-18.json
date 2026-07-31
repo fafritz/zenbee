@@ -1,0 +1,135 @@
+{
+  "pangram": "vamping",
+  "center_letter": "g",
+  "num_answers": 49,
+  "num_pangrams": 1,
+  "possible_points": 303,
+  "answer_pangrams": [
+    "vamping"
+  ],
+  "answers": [
+    "again",
+    "aging",
+    "aiming",
+    "angina",
+    "aping",
+    "gagging",
+    "gain",
+    "gaining",
+    "gaming",
+    "gamma",
+    "gang",
+    "ganging",
+    "gaping",
+    "gigging",
+    "ginning",
+    "giving",
+    "imaging",
+    "imagining",
+    "impinging",
+    "inning",
+    "magma",
+    "maiming",
+    "managing",
+    "manga",
+    "manning",
+    "mapping",
+    "miming",
+    "mining",
+    "nagging",
+    "naming",
+    "napping",
+    "nipping",
+    "pagan",
+    "paging",
+    "paining",
+    "pang",
+    "panning",
+    "paving",
+    "pigging",
+    "pimping",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "piping",
+    "pipping",
+    "vamping",
+    "vanning",
+    "vaping"
+  ],
+  "date": "2029-07-18",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 7,
+      "6": 14,
+      "7": 21,
+      "8": 1,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "G": 11,
+      "I": 4,
+      "M": 8,
+      "N": 4,
+      "P": 14,
+      "V": 3
+    },
+    "grid": {
+      "A": {
+        "5": 3,
+        "6": 2
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 5
+      },
+      "I": {
+        "6": 1,
+        "7": 1,
+        "9": 2
+      },
+      "M": {
+        "5": 2,
+        "6": 2,
+        "7": 3,
+        "8": 1
+      },
+      "N": {
+        "6": 1,
+        "7": 3
+      },
+      "P": {
+        "4": 2,
+        "5": 1,
+        "6": 4,
+        "7": 7
+      },
+      "V": {
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 1,
+      "AN": 1,
+      "AP": 1,
+      "GA": 8,
+      "GI": 3,
+      "IM": 3,
+      "IN": 1,
+      "MA": 6,
+      "MI": 2,
+      "NA": 3,
+      "NI": 1,
+      "PA": 6,
+      "PI": 8,
+      "VA": 3
+    }
+  }
+}

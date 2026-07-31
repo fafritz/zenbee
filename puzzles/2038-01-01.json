@@ -1,0 +1,85 @@
+{
+  "pangram": "quoited",
+  "center_letter": "o",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 113,
+  "answer_pangrams": [
+    "quoited"
+  ],
+  "answers": [
+    "diode",
+    "ditto",
+    "dittoed",
+    "dodo",
+    "dote",
+    "doted",
+    "dotted",
+    "idiot",
+    "outdid",
+    "outdo",
+    "outed",
+    "quoit",
+    "quoited",
+    "quote",
+    "quoted",
+    "toed",
+    "toot",
+    "tooted",
+    "toque",
+    "tote",
+    "toted",
+    "totted",
+    "tout",
+    "touted"
+  ],
+  "date": "2038-01-01",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 10,
+      "6": 6,
+      "7": 2
+    },
+    "by_first_letter": {
+      "D": 7,
+      "I": 1,
+      "O": 3,
+      "Q": 4,
+      "T": 9
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "O": {
+        "5": 2,
+        "6": 1
+      },
+      "Q": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 2,
+        "6": 3
+      }
+    },
+    "two_letter_list": {
+      "DI": 3,
+      "DO": 4,
+      "ID": 1,
+      "OU": 3,
+      "QU": 4,
+      "TO": 9
+    }
+  }
+}

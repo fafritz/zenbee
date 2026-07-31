@@ -1,0 +1,100 @@
+{
+  "pangram": "halfwit",
+  "center_letter": "a",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 80,
+  "answer_pangrams": [
+    "halfwit"
+  ],
+  "answers": [
+    "alfalfa",
+    "await",
+    "fail",
+    "faith",
+    "fall",
+    "fatal",
+    "fiat",
+    "filial",
+    "flail",
+    "flat",
+    "flaw",
+    "haft",
+    "hail",
+    "halal",
+    "half",
+    "halfwit",
+    "hall",
+    "halt",
+    "lath",
+    "tail",
+    "tall",
+    "that",
+    "thaw",
+    "waft",
+    "waif",
+    "wail",
+    "wait",
+    "wall",
+    "watt",
+    "what",
+    "withal"
+  ],
+  "date": "2035-08-12",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 5,
+      "6": 2,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "F": 9,
+      "H": 7,
+      "L": 1,
+      "T": 4,
+      "W": 8
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "7": 1
+      },
+      "F": {
+        "4": 5,
+        "5": 3,
+        "6": 1
+      },
+      "H": {
+        "4": 5,
+        "5": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 1
+      },
+      "T": {
+        "4": 4
+      },
+      "W": {
+        "4": 7,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AW": 1,
+      "FA": 4,
+      "FI": 2,
+      "FL": 3,
+      "HA": 7,
+      "LA": 1,
+      "TA": 2,
+      "TH": 2,
+      "WA": 6,
+      "WH": 1,
+      "WI": 1
+    }
+  }
+}

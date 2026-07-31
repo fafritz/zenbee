@@ -1,0 +1,88 @@
+{
+  "pangram": "lockjaw",
+  "center_letter": "a",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 82,
+  "answer_pangrams": [
+    "lockjaw"
+  ],
+  "answers": [
+    "allow",
+    "cacao",
+    "call",
+    "calla",
+    "callow",
+    "clack",
+    "claw",
+    "cloak",
+    "coal",
+    "coca",
+    "cocoa",
+    "cola",
+    "jack",
+    "jackal",
+    "koala",
+    "lack",
+    "local",
+    "lockjaw",
+    "wack",
+    "walk",
+    "wall",
+    "wallow"
+  ],
+  "date": "2026-10-07",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 8,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 11,
+      "J": 2,
+      "K": 1,
+      "L": 3,
+      "W": 4
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "C": {
+        "4": 5,
+        "5": 5,
+        "6": 1
+      },
+      "J": {
+        "4": 1,
+        "6": 1
+      },
+      "K": {
+        "5": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "W": {
+        "4": 3,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "CA": 4,
+      "CL": 3,
+      "CO": 4,
+      "JA": 2,
+      "KO": 1,
+      "LA": 1,
+      "LO": 2,
+      "WA": 4
+    }
+  }
+}

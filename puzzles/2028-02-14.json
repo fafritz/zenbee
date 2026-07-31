@@ -1,0 +1,93 @@
+{
+  "pangram": "faculty",
+  "center_letter": "t",
+  "num_answers": 28,
+  "num_pangrams": 3,
+  "possible_points": 150,
+  "answer_pangrams": [
+    "factually",
+    "faculty",
+    "tactfully"
+  ],
+  "answers": [
+    "actual",
+    "actually",
+    "catcall",
+    "catty",
+    "cult",
+    "fact",
+    "factual",
+    "factually",
+    "faculty",
+    "fatal",
+    "fatally",
+    "fatty",
+    "fault",
+    "faulty",
+    "flat",
+    "flatly",
+    "tact",
+    "tactful",
+    "tactfully",
+    "taffy",
+    "talc",
+    "tall",
+    "tally",
+    "tatty",
+    "taut",
+    "tautly",
+    "tuft",
+    "tutu"
+  ],
+  "date": "2028-02-14",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 7,
+      "6": 4,
+      "7": 5,
+      "8": 1,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 3,
+      "F": 11,
+      "T": 12
+    },
+    "grid": {
+      "A": {
+        "6": 1,
+        "8": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "F": {
+        "4": 2,
+        "5": 3,
+        "6": 2,
+        "7": 3,
+        "9": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 3,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "CA": 2,
+      "CU": 1,
+      "FA": 9,
+      "FL": 2,
+      "TA": 10,
+      "TU": 2
+    }
+  }
+}

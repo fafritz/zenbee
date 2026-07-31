@@ -1,0 +1,137 @@
+{
+  "pangram": "optimal",
+  "center_letter": "a",
+  "num_answers": 46,
+  "num_pangrams": 1,
+  "possible_points": 160,
+  "answer_pangrams": [
+    "optimal"
+  ],
+  "answers": [
+    "allot",
+    "alto",
+    "ammo",
+    "appall",
+    "atoll",
+    "atom",
+    "atop",
+    "imam",
+    "impala",
+    "iota",
+    "lama",
+    "lamp",
+    "laptop",
+    "llama",
+    "loam",
+    "mail",
+    "maim",
+    "mall",
+    "malt",
+    "mama",
+    "mamma",
+    "mammal",
+    "militia",
+    "moat",
+    "momma",
+    "opal",
+    "optima",
+    "optimal",
+    "pail",
+    "palatal",
+    "palatial",
+    "pall",
+    "palm",
+    "papa",
+    "papal",
+    "papilla",
+    "patio",
+    "pita",
+    "plait",
+    "potato",
+    "tail",
+    "tall",
+    "tamp",
+    "tattoo",
+    "tomato",
+    "total"
+  ],
+  "date": "2037-12-23",
+  "hints": {
+    "by_length": {
+      "4": 24,
+      "5": 9,
+      "6": 8,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "I": 3,
+      "L": 5,
+      "M": 10,
+      "O": 3,
+      "P": 12,
+      "T": 6
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "5": 2,
+        "6": 1
+      },
+      "I": {
+        "4": 2,
+        "6": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "M": {
+        "4": 6,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 5,
+        "5": 3,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 1,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "AM": 1,
+      "AP": 1,
+      "AT": 3,
+      "IM": 2,
+      "IO": 1,
+      "LA": 3,
+      "LL": 1,
+      "LO": 1,
+      "MA": 7,
+      "MI": 1,
+      "MO": 2,
+      "OP": 3,
+      "PA": 9,
+      "PI": 1,
+      "PL": 1,
+      "PO": 1,
+      "TA": 4,
+      "TO": 2
+    }
+  }
+}

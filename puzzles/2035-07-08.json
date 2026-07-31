@@ -1,0 +1,153 @@
+{
+  "pangram": "planked",
+  "center_letter": "p",
+  "num_answers": 71,
+  "num_pangrams": 1,
+  "possible_points": 341,
+  "answer_pangrams": [
+    "planked"
+  ],
+  "answers": [
+    "aped",
+    "appall",
+    "appalled",
+    "appeal",
+    "appealed",
+    "append",
+    "appended",
+    "apple",
+    "dapple",
+    "dappled",
+    "deadpan",
+    "deadpanned",
+    "deep",
+    "deepen",
+    "deepened",
+    "depend",
+    "depended",
+    "deplane",
+    "deplaned",
+    "epee",
+    "keep",
+    "kelp",
+    "lapel",
+    "lapped",
+    "leap",
+    "leaped",
+    "nape",
+    "napped",
+    "neap",
+    "padded",
+    "paddle",
+    "paddled",
+    "paean",
+    "pale",
+    "paled",
+    "pall",
+    "palled",
+    "panda",
+    "pane",
+    "panel",
+    "paneled",
+    "panned",
+    "papa",
+    "papal",
+    "peak",
+    "peaked",
+    "peal",
+    "pealed",
+    "pedal",
+    "pedaled",
+    "peddle",
+    "peddled",
+    "peed",
+    "peek",
+    "peeked",
+    "peel",
+    "peeled",
+    "peen",
+    "peep",
+    "peeped",
+    "penal",
+    "penned",
+    "pepped",
+    "plan",
+    "plane",
+    "planed",
+    "plank",
+    "planked",
+    "planned",
+    "plea",
+    "plead"
+  ],
+  "date": "2035-07-08",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 12,
+      "6": 22,
+      "7": 9,
+      "8": 6,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "D": 11,
+      "E": 1,
+      "K": 2,
+      "L": 4,
+      "N": 3,
+      "P": 42
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "8": 3
+      },
+      "D": {
+        "4": 1,
+        "6": 3,
+        "7": 3,
+        "8": 3,
+        "10": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "K": {
+        "4": 2
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "N": {
+        "4": 2,
+        "6": 1
+      },
+      "P": {
+        "4": 13,
+        "5": 10,
+        "6": 13,
+        "7": 6
+      }
+    },
+    "two_letter_list": {
+      "AP": 8,
+      "DA": 2,
+      "DE": 9,
+      "EP": 1,
+      "KE": 2,
+      "LA": 2,
+      "LE": 2,
+      "NA": 2,
+      "NE": 1,
+      "PA": 15,
+      "PE": 19,
+      "PL": 8
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "pangram": "matched",
+  "center_letter": "m",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 197,
+  "answer_pangrams": [
+    "matched"
+  ],
+  "answers": [
+    "acme",
+    "ahem",
+    "came",
+    "chem",
+    "dame",
+    "dammed",
+    "deem",
+    "deemed",
+    "edamame",
+    "edema",
+    "emcee",
+    "emceed",
+    "hammam",
+    "hammed",
+    "hemmed",
+    "macadam",
+    "mace",
+    "maced",
+    "machete",
+    "madam",
+    "madame",
+    "made",
+    "mahatma",
+    "mama",
+    "mamma",
+    "mammae",
+    "match",
+    "matched",
+    "mate",
+    "mated",
+    "math",
+    "matte",
+    "matted",
+    "mead",
+    "meat",
+    "mecca",
+    "meet",
+    "meme",
+    "meta",
+    "mete",
+    "meted",
+    "tame",
+    "tamed",
+    "team",
+    "teamed",
+    "teammate",
+    "teem",
+    "teemed",
+    "them",
+    "theme"
+  ],
+  "date": "2033-06-24",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 12,
+      "6": 11,
+      "7": 5,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 2,
+      "D": 4,
+      "E": 4,
+      "H": 3,
+      "M": 26,
+      "T": 9
+    },
+    "grid": {
+      "A": {
+        "4": 2
+      },
+      "C": {
+        "4": 2
+      },
+      "D": {
+        "4": 2,
+        "6": 2
+      },
+      "E": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "H": {
+        "6": 3
+      },
+      "M": {
+        "4": 11,
+        "5": 8,
+        "6": 3,
+        "7": 4
+      },
+      "T": {
+        "4": 4,
+        "5": 2,
+        "6": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AH": 1,
+      "CA": 1,
+      "CH": 1,
+      "DA": 2,
+      "DE": 2,
+      "ED": 2,
+      "EM": 2,
+      "HA": 2,
+      "HE": 1,
+      "MA": 18,
+      "ME": 8,
+      "TA": 2,
+      "TE": 5,
+      "TH": 2
+    }
+  }
+}

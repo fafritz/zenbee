@@ -1,0 +1,134 @@
+{
+  "pangram": "pouting",
+  "center_letter": "u",
+  "num_answers": 42,
+  "num_pangrams": 3,
+  "possible_points": 260,
+  "answer_pangrams": [
+    "gunpoint",
+    "outputting",
+    "pouting"
+  ],
+  "answers": [
+    "gouging",
+    "gout",
+    "gunning",
+    "gunpoint",
+    "gutting",
+    "input",
+    "inputting",
+    "intuit",
+    "intuiting",
+    "intuition",
+    "nonunion",
+    "noun",
+    "nutting",
+    "outgo",
+    "outgoing",
+    "outing",
+    "output",
+    "outputting",
+    "pinup",
+    "popgun",
+    "pout",
+    "pouting",
+    "punning",
+    "punt",
+    "punting",
+    "pupping",
+    "putt",
+    "putting",
+    "tonguing",
+    "tout",
+    "touting",
+    "tugging",
+    "tuition",
+    "tuning",
+    "tutu",
+    "union",
+    "unit",
+    "uniting",
+    "unpin",
+    "unpinning",
+    "upon",
+    "upping"
+  ],
+  "date": "2031-04-28",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 5,
+      "6": 6,
+      "7": 13,
+      "8": 4,
+      "9": 4,
+      "10": 1
+    },
+    "by_first_letter": {
+      "G": 5,
+      "I": 5,
+      "N": 3,
+      "O": 5,
+      "P": 10,
+      "T": 7,
+      "U": 7
+    },
+    "grid": {
+      "G": {
+        "4": 1,
+        "7": 3,
+        "8": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 1,
+        "9": 3
+      },
+      "N": {
+        "4": 1,
+        "7": 1,
+        "8": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 2,
+        "8": 1,
+        "10": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 5
+      },
+      "T": {
+        "4": 2,
+        "6": 1,
+        "7": 3,
+        "8": 1
+      },
+      "U": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "GO": 2,
+      "GU": 3,
+      "IN": 5,
+      "NO": 2,
+      "NU": 1,
+      "OU": 5,
+      "PI": 1,
+      "PO": 3,
+      "PU": 6,
+      "TO": 3,
+      "TU": 4,
+      "UN": 5,
+      "UP": 2
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "pangram": "cloaked",
+  "center_letter": "o",
+  "num_answers": 61,
+  "num_pangrams": 3,
+  "possible_points": 265,
+  "answer_pangrams": [
+    "cloaked",
+    "deadlock",
+    "deadlocked"
+  ],
+  "answers": [
+    "accolade",
+    "aloe",
+    "cacao",
+    "cello",
+    "cloak",
+    "cloaked",
+    "clock",
+    "clocked",
+    "clod",
+    "coal",
+    "coaled",
+    "coca",
+    "cockade",
+    "cocked",
+    "cockle",
+    "cocoa",
+    "coda",
+    "coddle",
+    "coddled",
+    "code",
+    "coded",
+    "coed",
+    "coke",
+    "coked",
+    "cola",
+    "cold",
+    "cooed",
+    "cook",
+    "cooked",
+    "cool",
+    "cooled",
+    "dado",
+    "deadlock",
+    "deadlocked",
+    "decode",
+    "decoded",
+    "dock",
+    "docked",
+    "dodo",
+    "dole",
+    "doled",
+    "doll",
+    "dolled",
+    "doodad",
+    "doodle",
+    "doodled",
+    "koala",
+    "kook",
+    "load",
+    "loaded",
+    "local",
+    "locale",
+    "lock",
+    "locked",
+    "loco",
+    "lode",
+    "loll",
+    "lolled",
+    "look",
+    "looked",
+    "oleo"
+  ],
+  "date": "2032-08-02",
+  "hints": {
+    "by_length": {
+      "4": 25,
+      "5": 11,
+      "6": 16,
+      "7": 6,
+      "8": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 29,
+      "D": 15,
+      "K": 2,
+      "L": 12,
+      "O": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "8": 1
+      },
+      "C": {
+        "4": 11,
+        "5": 8,
+        "6": 6,
+        "7": 4
+      },
+      "D": {
+        "4": 5,
+        "5": 1,
+        "6": 5,
+        "7": 2,
+        "8": 1,
+        "10": 1
+      },
+      "K": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 6,
+        "5": 1,
+        "6": 5
+      },
+      "O": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AL": 1,
+      "CA": 1,
+      "CE": 1,
+      "CL": 5,
+      "CO": 22,
+      "DA": 1,
+      "DE": 4,
+      "DO": 10,
+      "KO": 2,
+      "LO": 12,
+      "OL": 1
+    }
+  }
+}

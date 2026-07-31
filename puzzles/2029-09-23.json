@@ -1,0 +1,124 @@
+{
+  "pangram": "pluming",
+  "center_letter": "p",
+  "num_answers": 47,
+  "num_pangrams": 3,
+  "possible_points": 279,
+  "answer_pangrams": [
+    "lumping",
+    "pluming",
+    "plumping"
+  ],
+  "answers": [
+    "gulp",
+    "gulping",
+    "impinging",
+    "impugn",
+    "impugning",
+    "limp",
+    "limping",
+    "lump",
+    "lumping",
+    "nipping",
+    "pigging",
+    "piling",
+    "pill",
+    "pilling",
+    "pimp",
+    "pimping",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "pinup",
+    "piping",
+    "pippin",
+    "pipping",
+    "plug",
+    "plugging",
+    "plugin",
+    "plum",
+    "pluming",
+    "plump",
+    "plumping",
+    "plunging",
+    "pull",
+    "pulling",
+    "pulp",
+    "pulping",
+    "pump",
+    "pumping",
+    "punning",
+    "pupil",
+    "pupping",
+    "umping",
+    "unpin",
+    "unpinning",
+    "unplug",
+    "unplugging",
+    "upping"
+  ],
+  "date": "2029-09-23",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 4,
+      "6": 9,
+      "7": 16,
+      "8": 3,
+      "9": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "G": 2,
+      "I": 3,
+      "L": 4,
+      "N": 1,
+      "P": 31,
+      "U": 6
+    },
+    "grid": {
+      "G": {
+        "4": 1,
+        "7": 1
+      },
+      "I": {
+        "6": 1,
+        "9": 2
+      },
+      "L": {
+        "4": 2,
+        "7": 2
+      },
+      "N": {
+        "7": 1
+      },
+      "P": {
+        "4": 8,
+        "5": 3,
+        "6": 5,
+        "7": 12,
+        "8": 3
+      },
+      "U": {
+        "5": 1,
+        "6": 3,
+        "9": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "GU": 2,
+      "IM": 3,
+      "LI": 2,
+      "LU": 2,
+      "NI": 1,
+      "PI": 14,
+      "PL": 8,
+      "PU": 9,
+      "UM": 1,
+      "UN": 4,
+      "UP": 1
+    }
+  }
+}

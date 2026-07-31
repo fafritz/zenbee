@@ -1,0 +1,90 @@
+{
+  "pangram": "whacked",
+  "center_letter": "k",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 87,
+  "answer_pangrams": [
+    "whacked"
+  ],
+  "answers": [
+    "awake",
+    "cake",
+    "caked",
+    "check",
+    "checked",
+    "cheek",
+    "cheeked",
+    "deck",
+    "decked",
+    "eked",
+    "hack",
+    "hacked",
+    "hake",
+    "hawk",
+    "hawked",
+    "heck",
+    "wack",
+    "wake",
+    "waked",
+    "weak",
+    "week",
+    "whack",
+    "whacked"
+  ],
+  "date": "2027-03-15",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 6,
+      "6": 3,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 6,
+      "D": 2,
+      "E": 1,
+      "H": 6,
+      "W": 7
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 3,
+        "7": 2
+      },
+      "D": {
+        "4": 1,
+        "6": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "H": {
+        "4": 4,
+        "6": 2
+      },
+      "W": {
+        "4": 4,
+        "5": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AW": 1,
+      "CA": 2,
+      "CH": 4,
+      "DE": 2,
+      "EK": 1,
+      "HA": 5,
+      "HE": 1,
+      "WA": 3,
+      "WE": 2,
+      "WH": 2
+    }
+  }
+}

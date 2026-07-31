@@ -1,0 +1,73 @@
+{
+  "pangram": "fluency",
+  "center_letter": "f",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 85,
+  "answer_pangrams": [
+    "fluency"
+  ],
+  "answers": [
+    "clef",
+    "cuff",
+    "eyeful",
+    "feel",
+    "fell",
+    "fence",
+    "fennel",
+    "flee",
+    "fleece",
+    "fleecy",
+    "flue",
+    "fluency",
+    "fluff",
+    "fluffy",
+    "fuel",
+    "full",
+    "fully",
+    "funnel",
+    "funny",
+    "unfunny"
+  ],
+  "date": "2028-09-15",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 4,
+      "6": 6,
+      "7": 2
+    },
+    "by_first_letter": {
+      "C": 2,
+      "E": 1,
+      "F": 16,
+      "U": 1
+    },
+    "grid": {
+      "C": {
+        "4": 2
+      },
+      "E": {
+        "6": 1
+      },
+      "F": {
+        "4": 6,
+        "5": 4,
+        "6": 5,
+        "7": 1
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 1,
+      "CU": 1,
+      "EY": 1,
+      "FE": 4,
+      "FL": 7,
+      "FU": 5,
+      "UN": 1
+    }
+  }
+}

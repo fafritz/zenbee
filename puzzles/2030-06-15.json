@@ -1,0 +1,92 @@
+{
+  "pangram": "panicky",
+  "center_letter": "c",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 97,
+  "answer_pangrams": [
+    "panicky"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "cancan",
+    "canna",
+    "canny",
+    "cyan",
+    "cynic",
+    "icky",
+    "kick",
+    "kicky",
+    "knack",
+    "knickknack",
+    "niacin",
+    "nick",
+    "pack",
+    "panic",
+    "panicky",
+    "papacy",
+    "pica",
+    "pick",
+    "picky",
+    "picnic"
+  ],
+  "date": "2030-06-15",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 7,
+      "6": 5,
+      "7": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 5,
+      "I": 1,
+      "K": 4,
+      "N": 2,
+      "P": 8
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 3,
+        "6": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "K": {
+        "4": 1,
+        "5": 2,
+        "10": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "CA": 3,
+      "CY": 2,
+      "IC": 1,
+      "KI": 2,
+      "KN": 2,
+      "NI": 2,
+      "PA": 4,
+      "PI": 4
+    }
+  }
+}

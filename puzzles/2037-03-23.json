@@ -1,0 +1,140 @@
+{
+  "pangram": "debauch",
+  "center_letter": "e",
+  "num_answers": 53,
+  "num_pangrams": 2,
+  "possible_points": 255,
+  "answer_pangrams": [
+    "debauch",
+    "debauched"
+  ],
+  "answers": [
+    "abbe",
+    "accede",
+    "acceded",
+    "aced",
+    "ache",
+    "ached",
+    "added",
+    "adduce",
+    "adduced",
+    "ahead",
+    "baaed",
+    "babe",
+    "bade",
+    "beach",
+    "beached",
+    "beachhead",
+    "bead",
+    "beaded",
+    "beau",
+    "bedded",
+    "beech",
+    "behead",
+    "beheaded",
+    "budded",
+    "cabbed",
+    "cache",
+    "cached",
+    "cede",
+    "ceded",
+    "cube",
+    "cubed",
+    "cued",
+    "dabbed",
+    "daubed",
+    "dead",
+    "debauch",
+    "debauched",
+    "decade",
+    "deduce",
+    "deduced",
+    "deed",
+    "deeded",
+    "deuce",
+    "dubbed",
+    "dude",
+    "duded",
+    "each",
+    "ebbed",
+    "head",
+    "headache",
+    "headed",
+    "heed",
+    "heeded"
+  ],
+  "date": "2037-03-23",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 12,
+      "6": 16,
+      "7": 5,
+      "8": 2,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 10,
+      "B": 14,
+      "C": 8,
+      "D": 14,
+      "E": 2,
+      "H": 5
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 3,
+        "6": 2,
+        "7": 2
+      },
+      "B": {
+        "4": 4,
+        "5": 3,
+        "6": 4,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 3,
+        "6": 2
+      },
+      "D": {
+        "4": 3,
+        "5": 2,
+        "6": 6,
+        "7": 2,
+        "9": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "H": {
+        "4": 2,
+        "6": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AC": 5,
+      "AD": 3,
+      "AH": 1,
+      "BA": 3,
+      "BE": 10,
+      "BU": 1,
+      "CA": 3,
+      "CE": 2,
+      "CU": 3,
+      "DA": 2,
+      "DE": 9,
+      "DU": 3,
+      "EA": 1,
+      "EB": 1,
+      "HE": 5
+    }
+  }
+}

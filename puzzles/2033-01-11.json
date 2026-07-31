@@ -1,0 +1,86 @@
+{
+  "pangram": "rubdown",
+  "center_letter": "u",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 85,
+  "answer_pangrams": [
+    "rubdown"
+  ],
+  "answers": [
+    "bound",
+    "bourbon",
+    "burn",
+    "burr",
+    "burro",
+    "burrow",
+    "dour",
+    "drub",
+    "dunno",
+    "noun",
+    "round",
+    "rubdown",
+    "rundown",
+    "unborn",
+    "unbound",
+    "undo",
+    "unwound",
+    "wound"
+  ],
+  "date": "2033-01-11",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 5,
+      "6": 2,
+      "7": 5
+    },
+    "by_first_letter": {
+      "B": 6,
+      "D": 3,
+      "N": 1,
+      "R": 3,
+      "U": 4,
+      "W": 1
+    },
+    "grid": {
+      "B": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "R": {
+        "5": 1,
+        "7": 2
+      },
+      "U": {
+        "4": 1,
+        "6": 1,
+        "7": 2
+      },
+      "W": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "BO": 2,
+      "BU": 4,
+      "DO": 1,
+      "DR": 1,
+      "DU": 1,
+      "NO": 1,
+      "RO": 1,
+      "RU": 2,
+      "UN": 4,
+      "WO": 1
+    }
+  }
+}

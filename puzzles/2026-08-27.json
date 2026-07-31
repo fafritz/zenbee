@@ -1,0 +1,85 @@
+{
+  "pangram": "clewing",
+  "center_letter": "c",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 98,
+  "answer_pangrams": [
+    "clewing"
+  ],
+  "answers": [
+    "ceiling",
+    "cell",
+    "clew",
+    "clewing",
+    "cling",
+    "clinging",
+    "clinic",
+    "icicle",
+    "icing",
+    "incline",
+    "inclining",
+    "lice",
+    "negligence",
+    "nice",
+    "niece",
+    "wince",
+    "wincing"
+  ],
+  "date": "2026-08-27",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 4,
+      "6": 2,
+      "7": 4,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 7,
+      "I": 4,
+      "L": 1,
+      "N": 3,
+      "W": 2
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "10": 1
+      },
+      "W": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 2,
+      "CL": 5,
+      "IC": 2,
+      "IN": 2,
+      "LI": 1,
+      "NE": 1,
+      "NI": 2,
+      "WI": 2
+    }
+  }
+}

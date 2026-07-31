@@ -1,0 +1,97 @@
+{
+  "pangram": "cloying",
+  "center_letter": "c",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 200,
+  "answer_pangrams": [
+    "cloying"
+  ],
+  "answers": [
+    "cling",
+    "clinging",
+    "clinic",
+    "clog",
+    "clogging",
+    "cloning",
+    "cloy",
+    "cloying",
+    "cocci",
+    "cocoon",
+    "cocooning",
+    "coil",
+    "coiling",
+    "coin",
+    "coining",
+    "colic",
+    "colon",
+    "colony",
+    "conic",
+    "conning",
+    "cooing",
+    "cool",
+    "cooling",
+    "coolly",
+    "coyly",
+    "cyclic",
+    "cycling",
+    "cyclonic",
+    "cynic",
+    "icily",
+    "icing",
+    "icon",
+    "inclining",
+    "loci",
+    "loco",
+    "logic",
+    "oncology"
+  ],
+  "date": "2037-02-16",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 10,
+      "6": 6,
+      "7": 7,
+      "8": 4,
+      "9": 2
+    },
+    "by_first_letter": {
+      "C": 29,
+      "I": 4,
+      "L": 3,
+      "O": 1
+    },
+    "grid": {
+      "C": {
+        "4": 5,
+        "5": 7,
+        "6": 6,
+        "7": 7,
+        "8": 3,
+        "9": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 2,
+        "9": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1
+      },
+      "O": {
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 8,
+      "CO": 17,
+      "CY": 4,
+      "IC": 3,
+      "IN": 1,
+      "LO": 3,
+      "ON": 1
+    }
+  }
+}

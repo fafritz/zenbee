@@ -1,0 +1,91 @@
+{
+  "pangram": "hackney",
+  "center_letter": "c",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 97,
+  "answer_pangrams": [
+    "hackney"
+  ],
+  "answers": [
+    "ache",
+    "achy",
+    "acne",
+    "cache",
+    "cake",
+    "cancan",
+    "cane",
+    "canna",
+    "canny",
+    "cayenne",
+    "chance",
+    "chancy",
+    "check",
+    "cheek",
+    "cheeky",
+    "cyan",
+    "each",
+    "enhance",
+    "hack",
+    "hackney",
+    "heck",
+    "hence",
+    "knack",
+    "neck"
+  ],
+  "date": "2036-01-04",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 7,
+      "6": 4,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 13,
+      "E": 2,
+      "H": 4,
+      "K": 1,
+      "N": 1
+    },
+    "grid": {
+      "A": {
+        "4": 3
+      },
+      "C": {
+        "4": 3,
+        "5": 5,
+        "6": 4,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "K": {
+        "5": 1
+      },
+      "N": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "CA": 7,
+      "CH": 5,
+      "CY": 1,
+      "EA": 1,
+      "EN": 1,
+      "HA": 2,
+      "HE": 2,
+      "KN": 1,
+      "NE": 1
+    }
+  }
+}

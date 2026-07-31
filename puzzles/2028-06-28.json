@@ -1,0 +1,101 @@
+{
+  "pangram": "workman",
+  "center_letter": "r",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 94,
+  "answer_pangrams": [
+    "workman"
+  ],
+  "answers": [
+    "armor",
+    "aroma",
+    "arrow",
+    "karma",
+    "krona",
+    "manor",
+    "mark",
+    "maroon",
+    "marrow",
+    "moor",
+    "morn",
+    "moron",
+    "morrow",
+    "narrow",
+    "norm",
+    "okra",
+    "rank",
+    "roam",
+    "roan",
+    "roar",
+    "roman",
+    "rook",
+    "room",
+    "warm",
+    "warn",
+    "work",
+    "workman",
+    "worm",
+    "worn"
+  ],
+  "date": "2028-06-28",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 8,
+      "6": 4,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "K": 2,
+      "M": 8,
+      "N": 2,
+      "O": 1,
+      "R": 7,
+      "W": 6
+    },
+    "grid": {
+      "A": {
+        "5": 3
+      },
+      "K": {
+        "5": 2
+      },
+      "M": {
+        "4": 3,
+        "5": 2,
+        "6": 3
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "R": {
+        "4": 6,
+        "5": 1
+      },
+      "W": {
+        "4": 5,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AR": 3,
+      "KA": 1,
+      "KR": 1,
+      "MA": 4,
+      "MO": 4,
+      "NA": 1,
+      "NO": 1,
+      "OK": 1,
+      "RA": 1,
+      "RO": 6,
+      "WA": 2,
+      "WO": 4
+    }
+  }
+}

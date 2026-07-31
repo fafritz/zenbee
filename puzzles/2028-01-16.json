@@ -1,0 +1,116 @@
+{
+  "pangram": "outward",
+  "center_letter": "r",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 125,
+  "answer_pangrams": [
+    "outward"
+  ],
+  "answers": [
+    "aorta",
+    "ardor",
+    "arrow",
+    "arrowroot",
+    "attar",
+    "aura",
+    "award",
+    "dart",
+    "door",
+    "dour",
+    "draw",
+    "odor",
+    "orator",
+    "outdoor",
+    "outward",
+    "radar",
+    "ratatat",
+    "road",
+    "roar",
+    "rood",
+    "root",
+    "rotor",
+    "rout",
+    "taro",
+    "tarot",
+    "tart",
+    "tartar",
+    "tort",
+    "tour",
+    "toward",
+    "trod",
+    "trot",
+    "trout",
+    "tutor",
+    "ward",
+    "wart",
+    "word"
+  ],
+  "date": "2028-01-16",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 10,
+      "6": 3,
+      "7": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "D": 4,
+      "O": 4,
+      "R": 8,
+      "T": 11,
+      "W": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 5,
+        "9": 1
+      },
+      "D": {
+        "4": 4
+      },
+      "O": {
+        "4": 1,
+        "6": 1,
+        "7": 2
+      },
+      "R": {
+        "4": 5,
+        "5": 2,
+        "7": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 3,
+        "6": 2
+      },
+      "W": {
+        "4": 3
+      }
+    },
+    "two_letter_list": {
+      "AO": 1,
+      "AR": 3,
+      "AT": 1,
+      "AU": 1,
+      "AW": 1,
+      "DA": 1,
+      "DO": 2,
+      "DR": 1,
+      "OD": 1,
+      "OR": 1,
+      "OU": 2,
+      "RA": 2,
+      "RO": 6,
+      "TA": 4,
+      "TO": 3,
+      "TR": 3,
+      "TU": 1,
+      "WA": 2,
+      "WO": 1
+    }
+  }
+}

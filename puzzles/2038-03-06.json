@@ -1,0 +1,83 @@
+{
+  "pangram": "midtown",
+  "center_letter": "d",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 91,
+  "answer_pangrams": [
+    "midtown"
+  ],
+  "answers": [
+    "dint",
+    "ditto",
+    "dodo",
+    "dominion",
+    "domino",
+    "doom",
+    "down",
+    "downtown",
+    "downwind",
+    "idiom",
+    "idiot",
+    "midtown",
+    "mind",
+    "mood",
+    "timid",
+    "widow",
+    "wind",
+    "window",
+    "wood",
+    "woodwind"
+  ],
+  "date": "2038-03-06",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 5,
+      "6": 2,
+      "7": 1,
+      "8": 4
+    },
+    "by_first_letter": {
+      "D": 9,
+      "I": 2,
+      "M": 3,
+      "T": 1,
+      "W": 5
+    },
+    "grid": {
+      "D": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "8": 3
+      },
+      "I": {
+        "5": 2
+      },
+      "M": {
+        "4": 2,
+        "7": 1
+      },
+      "T": {
+        "5": 1
+      },
+      "W": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "DI": 2,
+      "DO": 7,
+      "ID": 2,
+      "MI": 2,
+      "MO": 1,
+      "TI": 1,
+      "WI": 3,
+      "WO": 2
+    }
+  }
+}

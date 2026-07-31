@@ -1,0 +1,132 @@
+{
+  "pangram": "cohabit",
+  "center_letter": "t",
+  "num_answers": 45,
+  "num_pangrams": 1,
+  "possible_points": 182,
+  "answer_pangrams": [
+    "cohabit"
+  ],
+  "answers": [
+    "abbot",
+    "attach",
+    "attic",
+    "bait",
+    "batch",
+    "bath",
+    "boat",
+    "bobcat",
+    "boot",
+    "booth",
+    "botch",
+    "both",
+    "cacti",
+    "catboat",
+    "catch",
+    "chaotic",
+    "chat",
+    "chit",
+    "chitchat",
+    "ciabatta",
+    "coat",
+    "cohabit",
+    "coot",
+    "habit",
+    "habitat",
+    "hatch",
+    "hitch",
+    "hobbit",
+    "hoot",
+    "iota",
+    "itch",
+    "oath",
+    "obit",
+    "taboo",
+    "tacit",
+    "taco",
+    "tact",
+    "tactic",
+    "tattoo",
+    "that",
+    "thatch",
+    "tibia",
+    "tobacco",
+    "toot",
+    "tooth"
+  ],
+  "date": "2029-02-19",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 14,
+      "6": 6,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 9,
+      "C": 11,
+      "H": 6,
+      "I": 2,
+      "O": 2,
+      "T": 12
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "6": 1
+      },
+      "B": {
+        "4": 5,
+        "5": 3,
+        "6": 1
+      },
+      "C": {
+        "4": 4,
+        "5": 2,
+        "7": 3,
+        "8": 2
+      },
+      "H": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 2
+      },
+      "O": {
+        "4": 2
+      },
+      "T": {
+        "4": 4,
+        "5": 4,
+        "6": 3,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AT": 2,
+      "BA": 3,
+      "BO": 6,
+      "CA": 3,
+      "CH": 4,
+      "CI": 1,
+      "CO": 3,
+      "HA": 3,
+      "HI": 1,
+      "HO": 2,
+      "IO": 1,
+      "IT": 1,
+      "OA": 1,
+      "OB": 1,
+      "TA": 6,
+      "TH": 2,
+      "TI": 1,
+      "TO": 3
+    }
+  }
+}

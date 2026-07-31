@@ -1,0 +1,93 @@
+{
+  "pangram": "drought",
+  "center_letter": "h",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 114,
+  "answer_pangrams": [
+    "drought"
+  ],
+  "answers": [
+    "dough",
+    "drought",
+    "godhood",
+    "hood",
+    "hoodoo",
+    "hoot",
+    "horror",
+    "hour",
+    "hurt",
+    "ought",
+    "rough",
+    "thorough",
+    "thou",
+    "though",
+    "thought",
+    "through",
+    "throughout",
+    "thud",
+    "thug",
+    "tooth",
+    "tough",
+    "trough",
+    "truth"
+  ],
+  "date": "2037-11-25",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 6,
+      "6": 4,
+      "7": 4,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "D": 2,
+      "G": 1,
+      "H": 6,
+      "O": 1,
+      "R": 1,
+      "T": 12
+    },
+    "grid": {
+      "D": {
+        "5": 1,
+        "7": 1
+      },
+      "G": {
+        "7": 1
+      },
+      "H": {
+        "4": 4,
+        "6": 2
+      },
+      "O": {
+        "5": 1
+      },
+      "R": {
+        "5": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 3,
+        "6": 2,
+        "7": 2,
+        "8": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 1,
+      "DR": 1,
+      "GO": 1,
+      "HO": 5,
+      "HU": 1,
+      "OU": 1,
+      "RO": 1,
+      "TH": 8,
+      "TO": 2,
+      "TR": 2
+    }
+  }
+}

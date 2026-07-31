@@ -1,0 +1,117 @@
+{
+  "pangram": "warthog",
+  "center_letter": "r",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 141,
+  "answer_pangrams": [
+    "warthog"
+  ],
+  "answers": [
+    "agar",
+    "aorta",
+    "argot",
+    "arrow",
+    "arrowroot",
+    "attar",
+    "grog",
+    "grotto",
+    "grow",
+    "growth",
+    "harrow",
+    "hart",
+    "horror",
+    "orator",
+    "raga",
+    "ragtag",
+    "ratatat",
+    "roar",
+    "root",
+    "rotor",
+    "taro",
+    "tarot",
+    "tart",
+    "tartar",
+    "throat",
+    "throw",
+    "thwart",
+    "tort",
+    "trot",
+    "wart",
+    "warthog",
+    "worth",
+    "wrath"
+  ],
+  "date": "2038-11-09",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 9,
+      "6": 9,
+      "7": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "G": 4,
+      "H": 3,
+      "O": 1,
+      "R": 6,
+      "T": 9,
+      "W": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 4,
+        "9": 1
+      },
+      "G": {
+        "4": 2,
+        "6": 2
+      },
+      "H": {
+        "4": 1,
+        "6": 2
+      },
+      "O": {
+        "6": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 2,
+        "6": 3
+      },
+      "W": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AO": 1,
+      "AR": 3,
+      "AT": 1,
+      "GR": 4,
+      "HA": 2,
+      "HO": 1,
+      "OR": 1,
+      "RA": 3,
+      "RO": 3,
+      "TA": 4,
+      "TH": 3,
+      "TO": 1,
+      "TR": 1,
+      "WA": 2,
+      "WO": 1,
+      "WR": 1
+    }
+  }
+}

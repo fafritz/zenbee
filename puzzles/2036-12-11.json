@@ -1,0 +1,88 @@
+{
+  "pangram": "charily",
+  "center_letter": "h",
+  "num_answers": 24,
+  "num_pangrams": 2,
+  "possible_points": 111,
+  "answer_pangrams": [
+    "archaically",
+    "charily"
+  ],
+  "answers": [
+    "achy",
+    "arch",
+    "archaic",
+    "archaically",
+    "archly",
+    "chair",
+    "char",
+    "charily",
+    "chary",
+    "chic",
+    "chili",
+    "chill",
+    "chilly",
+    "hail",
+    "hair",
+    "hairy",
+    "halal",
+    "hall",
+    "harry",
+    "hill",
+    "hilly",
+    "larch",
+    "rich",
+    "richly"
+  ],
+  "date": "2036-12-11",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 9,
+      "6": 3,
+      "7": 2,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 8,
+      "H": 8,
+      "L": 1,
+      "R": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "11": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 4,
+        "6": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 4,
+        "5": 4
+      },
+      "L": {
+        "5": 1
+      },
+      "R": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AR": 4,
+      "CH": 8,
+      "HA": 6,
+      "HI": 2,
+      "LA": 1,
+      "RI": 2
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "pangram": "tardily",
+  "center_letter": "i",
+  "num_answers": 47,
+  "num_pangrams": 1,
+  "possible_points": 179,
+  "answer_pangrams": [
+    "tardily"
+  ],
+  "answers": [
+    "airily",
+    "airy",
+    "aria",
+    "arid",
+    "aridity",
+    "atria",
+    "daily",
+    "dairy",
+    "dial",
+    "diary",
+    "dill",
+    "dilly",
+    "dillydally",
+    "dirt",
+    "dirty",
+    "ditty",
+    "drill",
+    "idly",
+    "idyll",
+    "laid",
+    "lair",
+    "laity",
+    "lariat",
+    "liar",
+    "lilt",
+    "lily",
+    "lira",
+    "radial",
+    "radially",
+    "radii",
+    "raid",
+    "rail",
+    "rarity",
+    "rill",
+    "tail",
+    "tardily",
+    "tiara",
+    "tidal",
+    "tidily",
+    "tidy",
+    "till",
+    "tilt",
+    "trail",
+    "trait",
+    "triad",
+    "trial",
+    "trill"
+  ],
+  "date": "2033-06-13",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 18,
+      "6": 5,
+      "7": 2,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "D": 11,
+      "I": 2,
+      "L": 8,
+      "R": 7,
+      "T": 13
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 3,
+        "5": 7,
+        "10": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 6,
+        "5": 1,
+        "6": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 1,
+        "6": 2,
+        "8": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 7,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 2,
+      "AR": 3,
+      "AT": 1,
+      "DA": 2,
+      "DI": 8,
+      "DR": 1,
+      "ID": 2,
+      "LA": 4,
+      "LI": 4,
+      "RA": 6,
+      "RI": 1,
+      "TA": 2,
+      "TI": 6,
+      "TR": 5
+    }
+  }
+}

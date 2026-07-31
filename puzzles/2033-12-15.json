@@ -1,0 +1,89 @@
+{
+  "pangram": "graphic",
+  "center_letter": "i",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 74,
+  "answer_pangrams": [
+    "graphic"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "archaic",
+    "aria",
+    "carpi",
+    "chair",
+    "chic",
+    "chip",
+    "chirp",
+    "cigar",
+    "circa",
+    "cirri",
+    "graphic",
+    "grip",
+    "hair",
+    "high",
+    "pair",
+    "pariah",
+    "pica",
+    "prig",
+    "rich"
+  ],
+  "date": "2033-12-15",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 6,
+      "6": 2,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 8,
+      "G": 2,
+      "H": 2,
+      "P": 4,
+      "R": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 6
+      },
+      "G": {
+        "4": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 2
+      },
+      "P": {
+        "4": 3,
+        "6": 1
+      },
+      "R": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AR": 2,
+      "CA": 1,
+      "CH": 4,
+      "CI": 3,
+      "GR": 2,
+      "HA": 1,
+      "HI": 1,
+      "PA": 2,
+      "PI": 1,
+      "PR": 1,
+      "RI": 1
+    }
+  }
+}

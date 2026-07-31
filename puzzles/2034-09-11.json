@@ -1,0 +1,104 @@
+{
+  "pangram": "amplify",
+  "center_letter": "i",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 120,
+  "answer_pangrams": [
+    "amplify"
+  ],
+  "answers": [
+    "amplify",
+    "fail",
+    "familial",
+    "family",
+    "filial",
+    "fill",
+    "fillip",
+    "filly",
+    "film",
+    "filmy",
+    "flail",
+    "flimflam",
+    "flip",
+    "flippy",
+    "iffy",
+    "imam",
+    "impala",
+    "imply",
+    "lily",
+    "limp",
+    "limply",
+    "limy",
+    "mail",
+    "maim",
+    "miff",
+    "mill",
+    "pail",
+    "papilla",
+    "pilaf",
+    "pill",
+    "pimp",
+    "pimply"
+  ],
+  "date": "2034-09-11",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 5,
+      "6": 7,
+      "7": 2,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "F": 13,
+      "I": 4,
+      "L": 4,
+      "M": 4,
+      "P": 6
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "F": {
+        "4": 4,
+        "5": 3,
+        "6": 4,
+        "8": 2
+      },
+      "I": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 3,
+        "6": 1
+      },
+      "M": {
+        "4": 4
+      },
+      "P": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AM": 1,
+      "FA": 3,
+      "FI": 6,
+      "FL": 4,
+      "IF": 1,
+      "IM": 3,
+      "LI": 4,
+      "MA": 2,
+      "MI": 2,
+      "PA": 2,
+      "PI": 4
+    }
+  }
+}

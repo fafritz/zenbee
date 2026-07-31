@@ -1,0 +1,124 @@
+{
+  "pangram": "acolyte",
+  "center_letter": "c",
+  "num_answers": 49,
+  "num_pangrams": 1,
+  "possible_points": 205,
+  "answer_pangrams": [
+    "acolyte"
+  ],
+  "answers": [
+    "acetate",
+    "acolyte",
+    "allocate",
+    "cacao",
+    "call",
+    "calla",
+    "catcall",
+    "cattle",
+    "catty",
+    "cell",
+    "cello",
+    "clay",
+    "clayey",
+    "cleat",
+    "clot",
+    "cloy",
+    "coal",
+    "coat",
+    "coca",
+    "cocoa",
+    "cola",
+    "collate",
+    "collect",
+    "collocate",
+    "colt",
+    "cool",
+    "coolly",
+    "coot",
+    "cote",
+    "coyly",
+    "coyote",
+    "cycle",
+    "eclat",
+    "elect",
+    "lace",
+    "lactate",
+    "lacy",
+    "local",
+    "locale",
+    "locally",
+    "locate",
+    "loco",
+    "lolcat",
+    "ocelot",
+    "octal",
+    "octet",
+    "taco",
+    "tact",
+    "talc"
+  ],
+  "date": "2037-07-10",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 13,
+      "6": 8,
+      "7": 7,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 29,
+      "E": 2,
+      "L": 9,
+      "O": 3,
+      "T": 3
+    },
+    "grid": {
+      "A": {
+        "7": 2,
+        "8": 1
+      },
+      "C": {
+        "4": 13,
+        "5": 8,
+        "6": 4,
+        "7": 3,
+        "9": 1
+      },
+      "E": {
+        "5": 2
+      },
+      "L": {
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 2
+      },
+      "O": {
+        "5": 2,
+        "6": 1
+      },
+      "T": {
+        "4": 3
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AL": 1,
+      "CA": 6,
+      "CE": 2,
+      "CL": 5,
+      "CO": 15,
+      "CY": 1,
+      "EC": 1,
+      "EL": 1,
+      "LA": 3,
+      "LO": 6,
+      "OC": 3,
+      "TA": 3
+    }
+  }
+}

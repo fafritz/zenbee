@@ -1,0 +1,97 @@
+{
+  "pangram": "poultry",
+  "center_letter": "u",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 91,
+  "answer_pangrams": [
+    "poultry"
+  ],
+  "answers": [
+    "lout",
+    "lull",
+    "lulu",
+    "output",
+    "poultry",
+    "pour",
+    "pout",
+    "pull",
+    "pullout",
+    "pulp",
+    "pulpy",
+    "puppy",
+    "purl",
+    "purport",
+    "purr",
+    "putt",
+    "putty",
+    "rout",
+    "tour",
+    "tout",
+    "trout",
+    "truly",
+    "tryout",
+    "tutor",
+    "tutu",
+    "uproot",
+    "your"
+  ],
+  "date": "2034-11-07",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 6,
+      "6": 3,
+      "7": 3
+    },
+    "by_first_letter": {
+      "L": 3,
+      "O": 1,
+      "P": 13,
+      "R": 1,
+      "T": 7,
+      "U": 1,
+      "Y": 1
+    },
+    "grid": {
+      "L": {
+        "4": 3
+      },
+      "O": {
+        "6": 1
+      },
+      "P": {
+        "4": 7,
+        "5": 3,
+        "7": 3
+      },
+      "R": {
+        "4": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 3,
+        "6": 1
+      },
+      "U": {
+        "6": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "LO": 1,
+      "LU": 2,
+      "OU": 1,
+      "PO": 3,
+      "PU": 10,
+      "RO": 1,
+      "TO": 2,
+      "TR": 3,
+      "TU": 2,
+      "UP": 1,
+      "YO": 1
+    }
+  }
+}

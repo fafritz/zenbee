@@ -1,0 +1,159 @@
+{
+  "pangram": "weaving",
+  "center_letter": "n",
+  "num_answers": 64,
+  "num_pangrams": 1,
+  "possible_points": 312,
+  "answer_pangrams": [
+    "weaving"
+  ],
+  "answers": [
+    "again",
+    "aging",
+    "anew",
+    "angina",
+    "avenge",
+    "avenging",
+    "avian",
+    "awing",
+    "awning",
+    "egging",
+    "engage",
+    "engaging",
+    "engine",
+    "even",
+    "evening",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "geeing",
+    "gene",
+    "genie",
+    "genii",
+    "gigging",
+    "ginning",
+    "given",
+    "giving",
+    "gnaw",
+    "gnawing",
+    "inane",
+    "inning",
+    "naan",
+    "nagging",
+    "naive",
+    "nana",
+    "nave",
+    "nene",
+    "nine",
+    "vain",
+    "vane",
+    "vanning",
+    "vegan",
+    "vein",
+    "veining",
+    "viewing",
+    "vine",
+    "wagging",
+    "waging",
+    "waiving",
+    "wane",
+    "waning",
+    "waving",
+    "wean",
+    "weaning",
+    "weaving",
+    "weeing",
+    "wigging",
+    "wigwagging",
+    "wine",
+    "wing",
+    "winging",
+    "wining",
+    "winning"
+  ],
+  "date": "2030-05-08",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 10,
+      "6": 14,
+      "7": 18,
+      "8": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 9,
+      "E": 6,
+      "G": 15,
+      "I": 2,
+      "N": 7,
+      "V": 8,
+      "W": 17
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 4,
+        "6": 3,
+        "8": 1
+      },
+      "E": {
+        "4": 1,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 4,
+        "5": 3,
+        "6": 2,
+        "7": 6
+      },
+      "I": {
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "4": 5,
+        "5": 1,
+        "7": 1
+      },
+      "V": {
+        "4": 4,
+        "5": 1,
+        "7": 3
+      },
+      "W": {
+        "4": 4,
+        "6": 5,
+        "7": 7,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AN": 2,
+      "AV": 3,
+      "AW": 2,
+      "EG": 1,
+      "EN": 3,
+      "EV": 2,
+      "GA": 5,
+      "GE": 4,
+      "GI": 4,
+      "GN": 2,
+      "IN": 2,
+      "NA": 5,
+      "NE": 1,
+      "NI": 1,
+      "VA": 3,
+      "VE": 3,
+      "VI": 2,
+      "WA": 6,
+      "WE": 4,
+      "WI": 7
+    }
+  }
+}

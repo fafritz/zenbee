@@ -1,0 +1,115 @@
+{
+  "pangram": "upfront",
+  "center_letter": "r",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 146,
+  "answer_pangrams": [
+    "upfront"
+  ],
+  "answers": [
+    "fort",
+    "four",
+    "front",
+    "furor",
+    "outrun",
+    "poor",
+    "port",
+    "pour",
+    "prof",
+    "pron",
+    "pronoun",
+    "pronto",
+    "proof",
+    "prop",
+    "proton",
+    "purport",
+    "purr",
+    "roof",
+    "rooftop",
+    "root",
+    "rotor",
+    "rout",
+    "ruff",
+    "runoff",
+    "runt",
+    "torn",
+    "torpor",
+    "tort",
+    "tour",
+    "troop",
+    "trot",
+    "trout",
+    "turf",
+    "turn",
+    "turnoff",
+    "turnout",
+    "tutor",
+    "upfront",
+    "uproot",
+    "upturn"
+  ],
+  "date": "2036-10-21",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 7,
+      "6": 7,
+      "7": 6
+    },
+    "by_first_letter": {
+      "F": 4,
+      "O": 1,
+      "P": 12,
+      "R": 8,
+      "T": 12,
+      "U": 3
+    },
+    "grid": {
+      "F": {
+        "4": 2,
+        "5": 2
+      },
+      "O": {
+        "6": 1
+      },
+      "P": {
+        "4": 7,
+        "5": 1,
+        "6": 2,
+        "7": 2
+      },
+      "R": {
+        "4": 5,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 3,
+        "6": 1,
+        "7": 2
+      },
+      "U": {
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "FO": 2,
+      "FR": 1,
+      "FU": 1,
+      "OU": 1,
+      "PO": 3,
+      "PR": 7,
+      "PU": 2,
+      "RO": 5,
+      "RU": 3,
+      "TO": 4,
+      "TR": 3,
+      "TU": 5,
+      "UP": 3
+    }
+  }
+}

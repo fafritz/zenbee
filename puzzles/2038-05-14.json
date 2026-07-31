@@ -1,0 +1,148 @@
+{
+  "pangram": "clangor",
+  "center_letter": "a",
+  "num_answers": 61,
+  "num_pangrams": 1,
+  "possible_points": 237,
+  "answer_pangrams": [
+    "clangor"
+  ],
+  "answers": [
+    "acorn",
+    "agar",
+    "agog",
+    "alga",
+    "along",
+    "anal",
+    "analog",
+    "angora",
+    "anon",
+    "argon",
+    "cacao",
+    "call",
+    "calla",
+    "canal",
+    "cancan",
+    "canna",
+    "cannon",
+    "canon",
+    "cargo",
+    "carnal",
+    "carol",
+    "clan",
+    "clang",
+    "clangor",
+    "coal",
+    "coca",
+    "cocoa",
+    "cognac",
+    "cola",
+    "collar",
+    "conga",
+    "coral",
+    "corolla",
+    "corona",
+    "corral",
+    "crag",
+    "gala",
+    "gall",
+    "gallon",
+    "gang",
+    "goal",
+    "gonna",
+    "granola",
+    "groan",
+    "lagoon",
+    "largo",
+    "llano",
+    "loan",
+    "local",
+    "naan",
+    "nana",
+    "narc",
+    "oral",
+    "organ",
+    "raccoon",
+    "raga",
+    "raglan",
+    "rancor",
+    "rang",
+    "roan",
+    "roar"
+  ],
+  "date": "2038-05-14",
+  "hints": {
+    "by_length": {
+      "4": 24,
+      "5": 20,
+      "6": 13,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 10,
+      "C": 26,
+      "G": 8,
+      "L": 5,
+      "N": 3,
+      "O": 2,
+      "R": 7
+    },
+    "grid": {
+      "A": {
+        "4": 5,
+        "5": 3,
+        "6": 2
+      },
+      "C": {
+        "4": 6,
+        "5": 11,
+        "6": 7,
+        "7": 2
+      },
+      "G": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 3,
+        "6": 1
+      },
+      "N": {
+        "4": 3
+      },
+      "O": {
+        "4": 1,
+        "5": 1
+      },
+      "R": {
+        "4": 4,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AG": 2,
+      "AL": 2,
+      "AN": 4,
+      "AR": 1,
+      "CA": 11,
+      "CL": 3,
+      "CO": 11,
+      "CR": 1,
+      "GA": 4,
+      "GO": 2,
+      "GR": 2,
+      "LA": 2,
+      "LL": 1,
+      "LO": 2,
+      "NA": 3,
+      "OR": 2,
+      "RA": 5,
+      "RO": 2
+    }
+  }
+}

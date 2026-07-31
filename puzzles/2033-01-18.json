@@ -1,0 +1,120 @@
+{
+  "pangram": "cheaply",
+  "center_letter": "p",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 149,
+  "answer_pangrams": [
+    "cheaply"
+  ],
+  "answers": [
+    "alpaca",
+    "alpha",
+    "apace",
+    "appall",
+    "appeal",
+    "apple",
+    "apply",
+    "cape",
+    "chap",
+    "chapel",
+    "cheap",
+    "cheaply",
+    "cheep",
+    "clap",
+    "epee",
+    "happy",
+    "heap",
+    "help",
+    "hype",
+    "lapel",
+    "leap",
+    "pace",
+    "palace",
+    "pale",
+    "pall",
+    "papa",
+    "papacy",
+    "papal",
+    "papaya",
+    "payee",
+    "peace",
+    "peach",
+    "peal",
+    "peel",
+    "peep",
+    "peppy",
+    "phyla",
+    "place",
+    "play",
+    "plea",
+    "yelp"
+  ],
+  "date": "2033-01-18",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 15,
+      "6": 7,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "C": 7,
+      "E": 1,
+      "H": 4,
+      "L": 2,
+      "P": 19,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "5": 4,
+        "6": 3
+      },
+      "C": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1
+      },
+      "P": {
+        "4": 9,
+        "5": 7,
+        "6": 3
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "AP": 5,
+      "CA": 1,
+      "CH": 5,
+      "CL": 1,
+      "EP": 1,
+      "HA": 1,
+      "HE": 2,
+      "HY": 1,
+      "LA": 1,
+      "LE": 1,
+      "PA": 9,
+      "PE": 6,
+      "PH": 1,
+      "PL": 3,
+      "YE": 1
+    }
+  }
+}

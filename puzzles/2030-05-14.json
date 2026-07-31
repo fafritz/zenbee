@@ -1,0 +1,83 @@
+{
+  "pangram": "hickory",
+  "center_letter": "k",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 75,
+  "answer_pangrams": [
+    "hickory"
+  ],
+  "answers": [
+    "chick",
+    "chock",
+    "cocky",
+    "cook",
+    "cork",
+    "crick",
+    "crock",
+    "crook",
+    "hick",
+    "hickory",
+    "hock",
+    "hook",
+    "hooky",
+    "icky",
+    "kick",
+    "kicky",
+    "kook",
+    "kooky",
+    "rick",
+    "rock",
+    "rocky",
+    "rook"
+  ],
+  "date": "2030-05-14",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 10,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 8,
+      "H": 5,
+      "I": 1,
+      "K": 4,
+      "R": 4
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 6
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "K": {
+        "4": 2,
+        "5": 2
+      },
+      "R": {
+        "4": 3,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 2,
+      "CO": 3,
+      "CR": 3,
+      "HI": 2,
+      "HO": 3,
+      "IC": 1,
+      "KI": 2,
+      "KO": 2,
+      "RI": 1,
+      "RO": 3
+    }
+  }
+}

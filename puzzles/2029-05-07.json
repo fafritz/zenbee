@@ -1,0 +1,117 @@
+{
+  "pangram": "audible",
+  "center_letter": "u",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 182,
+  "answer_pangrams": [
+    "audible"
+  ],
+  "answers": [
+    "adieu",
+    "allude",
+    "alluded",
+    "audible",
+    "bauble",
+    "baud",
+    "beau",
+    "blue",
+    "bluebell",
+    "blued",
+    "bubble",
+    "bubbled",
+    "budded",
+    "build",
+    "bulb",
+    "bull",
+    "bulled",
+    "bullied",
+    "daub",
+    "daubed",
+    "delude",
+    "deluded",
+    "dual",
+    "dubbed",
+    "dude",
+    "duded",
+    "duel",
+    "dueled",
+    "dull",
+    "dulled",
+    "elude",
+    "eluded",
+    "laud",
+    "laudable",
+    "lauded",
+    "lieu",
+    "luau",
+    "lube",
+    "lubed",
+    "lull",
+    "lulled",
+    "lulu"
+  ],
+  "date": "2029-05-07",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 6,
+      "6": 13,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 4,
+      "B": 14,
+      "D": 12,
+      "E": 2,
+      "L": 10
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1,
+        "7": 2
+      },
+      "B": {
+        "4": 5,
+        "5": 2,
+        "6": 4,
+        "7": 2,
+        "8": 1
+      },
+      "D": {
+        "4": 5,
+        "5": 1,
+        "6": 5,
+        "7": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 6,
+        "5": 1,
+        "6": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AL": 2,
+      "AU": 1,
+      "BA": 2,
+      "BE": 1,
+      "BL": 3,
+      "BU": 8,
+      "DA": 2,
+      "DE": 2,
+      "DU": 8,
+      "EL": 2,
+      "LA": 3,
+      "LI": 1,
+      "LU": 6
+    }
+  }
+}

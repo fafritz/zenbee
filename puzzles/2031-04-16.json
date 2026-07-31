@@ -1,0 +1,74 @@
+{
+  "pangram": "jawbone",
+  "center_letter": "b",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 64,
+  "answer_pangrams": [
+    "jawbone"
+  ],
+  "answers": [
+    "abbe",
+    "baba",
+    "babe",
+    "baboon",
+    "banana",
+    "bane",
+    "banjo",
+    "baobab",
+    "bean",
+    "been",
+    "bonbon",
+    "bone",
+    "boob",
+    "booboo",
+    "boon",
+    "jawbone",
+    "nabob",
+    "oboe"
+  ],
+  "date": "2031-04-16",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 2,
+      "6": 5,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 14,
+      "J": 1,
+      "N": 1,
+      "O": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "B": {
+        "4": 8,
+        "5": 1,
+        "6": 5
+      },
+      "J": {
+        "7": 1
+      },
+      "N": {
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "BA": 7,
+      "BE": 2,
+      "BO": 5,
+      "JA": 1,
+      "NA": 1,
+      "OB": 1
+    }
+  }
+}

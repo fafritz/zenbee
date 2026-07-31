@@ -1,0 +1,124 @@
+{
+  "pangram": "poached",
+  "center_letter": "p",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 198,
+  "answer_pangrams": [
+    "poached"
+  ],
+  "answers": [
+    "apace",
+    "aped",
+    "cape",
+    "caped",
+    "capo",
+    "capped",
+    "chap",
+    "chapped",
+    "cheap",
+    "cheep",
+    "cheeped",
+    "chop",
+    "chopped",
+    "coop",
+    "cooped",
+    "cope",
+    "coped",
+    "copped",
+    "deep",
+    "dope",
+    "doped",
+    "epee",
+    "epoch",
+    "heap",
+    "heaped",
+    "hoop",
+    "hooped",
+    "hope",
+    "hoped",
+    "hopped",
+    "pace",
+    "paced",
+    "padded",
+    "papa",
+    "peace",
+    "peach",
+    "peed",
+    "peep",
+    "peeped",
+    "pepped",
+    "poach",
+    "poached",
+    "podded",
+    "pooch",
+    "pooh",
+    "poohed",
+    "poop",
+    "pooped",
+    "pope",
+    "popped"
+  ],
+  "date": "2034-01-06",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 13,
+      "6": 13,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 16,
+      "D": 3,
+      "E": 2,
+      "H": 7,
+      "P": 20
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1
+      },
+      "C": {
+        "4": 6,
+        "5": 4,
+        "6": 3,
+        "7": 3
+      },
+      "D": {
+        "4": 2,
+        "5": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 3
+      },
+      "P": {
+        "4": 7,
+        "5": 5,
+        "6": 7,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AP": 2,
+      "CA": 4,
+      "CH": 7,
+      "CO": 5,
+      "DE": 1,
+      "DO": 2,
+      "EP": 2,
+      "HE": 2,
+      "HO": 5,
+      "PA": 4,
+      "PE": 6,
+      "PO": 10
+    }
+  }
+}

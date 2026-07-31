@@ -1,0 +1,118 @@
+{
+  "pangram": "balcony",
+  "center_letter": "l",
+  "num_answers": 43,
+  "num_pangrams": 1,
+  "possible_points": 149,
+  "answer_pangrams": [
+    "balcony"
+  ],
+  "answers": [
+    "ably",
+    "allay",
+    "alloy",
+    "ally",
+    "anal",
+    "balcony",
+    "ball",
+    "balloon",
+    "banal",
+    "blab",
+    "blob",
+    "bloc",
+    "bola",
+    "boll",
+    "cabal",
+    "call",
+    "calla",
+    "canal",
+    "cannonball",
+    "clan",
+    "clay",
+    "cloy",
+    "coal",
+    "cola",
+    "colon",
+    "colony",
+    "cool",
+    "coolly",
+    "coyly",
+    "lacy",
+    "llano",
+    "loan",
+    "lobby",
+    "local",
+    "locally",
+    "loco",
+    "loll",
+    "loon",
+    "loyal",
+    "loyally",
+    "nobly",
+    "nylon",
+    "only"
+  ],
+  "date": "2028-10-05",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 14,
+      "6": 2,
+      "7": 4,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 9,
+      "C": 15,
+      "L": 11,
+      "N": 2,
+      "O": 1
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2
+      },
+      "B": {
+        "4": 6,
+        "5": 1,
+        "7": 2
+      },
+      "C": {
+        "4": 7,
+        "5": 5,
+        "6": 2,
+        "10": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 4,
+        "7": 2
+      },
+      "N": {
+        "5": 2
+      },
+      "O": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AL": 3,
+      "AN": 1,
+      "BA": 4,
+      "BL": 3,
+      "BO": 2,
+      "CA": 5,
+      "CL": 3,
+      "CO": 7,
+      "LA": 1,
+      "LL": 1,
+      "LO": 9,
+      "NO": 1,
+      "NY": 1,
+      "ON": 1
+    }
+  }
+}

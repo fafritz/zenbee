@@ -1,0 +1,126 @@
+{
+  "pangram": "mewling",
+  "center_letter": "e",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 175,
+  "answer_pangrams": [
+    "mewling"
+  ],
+  "answers": [
+    "egging",
+    "engine",
+    "geeing",
+    "gelling",
+    "gene",
+    "genie",
+    "genii",
+    "giggle",
+    "gimme",
+    "glee",
+    "glen",
+    "inline",
+    "legging",
+    "legmen",
+    "lemming",
+    "liege",
+    "lien",
+    "lime",
+    "line",
+    "linemen",
+    "linen",
+    "melee",
+    "meme",
+    "mewing",
+    "mewl",
+    "mewling",
+    "mien",
+    "mile",
+    "mime",
+    "mine",
+    "mingle",
+    "negligee",
+    "nene",
+    "newel",
+    "niggle",
+    "nine",
+    "weeing",
+    "well",
+    "welling",
+    "wiggle",
+    "wile",
+    "wine"
+  ],
+  "date": "2036-03-22",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 7,
+      "6": 11,
+      "7": 6,
+      "8": 1
+    },
+    "by_first_letter": {
+      "E": 2,
+      "G": 9,
+      "I": 1,
+      "L": 9,
+      "M": 10,
+      "N": 5,
+      "W": 6
+    },
+    "grid": {
+      "E": {
+        "6": 2
+      },
+      "G": {
+        "4": 3,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 3
+      },
+      "M": {
+        "4": 6,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "W": {
+        "4": 3,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "EG": 1,
+      "EN": 1,
+      "GE": 5,
+      "GI": 2,
+      "GL": 2,
+      "IN": 1,
+      "LE": 3,
+      "LI": 6,
+      "ME": 5,
+      "MI": 5,
+      "NE": 3,
+      "NI": 2,
+      "WE": 3,
+      "WI": 3
+    }
+  }
+}

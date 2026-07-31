@@ -1,0 +1,98 @@
+{
+  "pangram": "docking",
+  "center_letter": "c",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 161,
+  "answer_pangrams": [
+    "docking"
+  ],
+  "answers": [
+    "cocci",
+    "cocking",
+    "cocoon",
+    "cocooning",
+    "coding",
+    "coin",
+    "coinciding",
+    "coining",
+    "coking",
+    "condo",
+    "condoning",
+    "conic",
+    "conk",
+    "conking",
+    "conning",
+    "cooing",
+    "cook",
+    "cooking",
+    "dicing",
+    "dock",
+    "docking",
+    "icing",
+    "icon",
+    "kick",
+    "kicking",
+    "knock",
+    "knocking",
+    "nick",
+    "nicking"
+  ],
+  "date": "2036-06-22",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 5,
+      "6": 5,
+      "7": 8,
+      "8": 1,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 18,
+      "D": 3,
+      "I": 2,
+      "K": 4,
+      "N": 2
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 3,
+        "6": 4,
+        "7": 5,
+        "9": 2,
+        "10": 1
+      },
+      "D": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "K": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 18,
+      "DI": 1,
+      "DO": 2,
+      "IC": 2,
+      "KI": 2,
+      "KN": 2,
+      "NI": 2
+    }
+  }
+}

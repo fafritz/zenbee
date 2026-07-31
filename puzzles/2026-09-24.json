@@ -1,0 +1,96 @@
+{
+  "pangram": "acolyte",
+  "center_letter": "y",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 129,
+  "answer_pangrams": [
+    "acolyte"
+  ],
+  "answers": [
+    "acolyte",
+    "allay",
+    "alley",
+    "alloy",
+    "ally",
+    "catty",
+    "clay",
+    "clayey",
+    "cloy",
+    "coolly",
+    "coyly",
+    "coyote",
+    "cycle",
+    "eyelet",
+    "lacy",
+    "lately",
+    "layette",
+    "locally",
+    "loyal",
+    "loyally",
+    "loyalty",
+    "tally",
+    "tatty",
+    "totally",
+    "yell"
+  ],
+  "date": "2026-09-24",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 9,
+      "6": 5,
+      "7": 6
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 8,
+      "E": 1,
+      "L": 7,
+      "T": 3,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "7": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 3,
+        "6": 3
+      },
+      "E": {
+        "6": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 4
+      },
+      "T": {
+        "5": 2,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AL": 4,
+      "CA": 1,
+      "CL": 3,
+      "CO": 3,
+      "CY": 1,
+      "EY": 1,
+      "LA": 3,
+      "LO": 4,
+      "TA": 2,
+      "TO": 1,
+      "YE": 1
+    }
+  }
+}

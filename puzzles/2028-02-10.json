@@ -1,0 +1,117 @@
+{
+  "pangram": "etching",
+  "center_letter": "c",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 156,
+  "answer_pangrams": [
+    "etching"
+  ],
+  "answers": [
+    "cent",
+    "chic",
+    "chin",
+    "chinning",
+    "chit",
+    "cinch",
+    "cinching",
+    "cite",
+    "citing",
+    "entice",
+    "enticing",
+    "etch",
+    "etching",
+    "ethic",
+    "ethnic",
+    "genetic",
+    "hectic",
+    "hence",
+    "hitch",
+    "hitching",
+    "icing",
+    "inch",
+    "inching",
+    "incite",
+    "inciting",
+    "itch",
+    "itching",
+    "nice",
+    "niche",
+    "niece",
+    "tech",
+    "thence"
+  ],
+  "date": "2028-02-10",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 7,
+      "6": 6,
+      "7": 4,
+      "8": 5
+    },
+    "by_first_letter": {
+      "C": 9,
+      "E": 6,
+      "G": 1,
+      "H": 4,
+      "I": 7,
+      "N": 3,
+      "T": 2
+    },
+    "grid": {
+      "C": {
+        "4": 5,
+        "5": 1,
+        "6": 1,
+        "8": 2
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "G": {
+        "7": 1
+      },
+      "H": {
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "I": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 2
+      },
+      "T": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 1,
+      "CH": 4,
+      "CI": 4,
+      "EN": 2,
+      "ET": 4,
+      "GE": 1,
+      "HE": 2,
+      "HI": 2,
+      "IC": 1,
+      "IN": 4,
+      "IT": 2,
+      "NI": 3,
+      "TE": 1,
+      "TH": 1
+    }
+  }
+}

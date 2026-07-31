@@ -1,0 +1,56 @@
+{
+  "pangram": "humbled",
+  "center_letter": "h",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 81,
+  "answer_pangrams": [
+    "humbled"
+  ],
+  "answers": [
+    "beheld",
+    "heed",
+    "heeded",
+    "heel",
+    "heeled",
+    "held",
+    "hell",
+    "helm",
+    "hemmed",
+    "hubbub",
+    "huddle",
+    "huddled",
+    "hull",
+    "hulled",
+    "humble",
+    "humbled",
+    "hummed"
+  ],
+  "date": "2028-05-24",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "6": 9,
+      "7": 2
+    },
+    "by_first_letter": {
+      "B": 1,
+      "H": 16
+    },
+    "grid": {
+      "B": {
+        "6": 1
+      },
+      "H": {
+        "4": 6,
+        "6": 8,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "BE": 1,
+      "HE": 8,
+      "HU": 8
+    }
+  }
+}

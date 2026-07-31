@@ -1,0 +1,158 @@
+{
+  "pangram": "tabling",
+  "center_letter": "t",
+  "num_answers": 60,
+  "num_pangrams": 2,
+  "possible_points": 361,
+  "answer_pangrams": [
+    "battling",
+    "tabling"
+  ],
+  "answers": [
+    "abating",
+    "agitating",
+    "anti",
+    "attain",
+    "attaining",
+    "bait",
+    "baiting",
+    "batting",
+    "battling",
+    "biting",
+    "blat",
+    "blatant",
+    "gait",
+    "gallant",
+    "gating",
+    "giant",
+    "gigabit",
+    "gilt",
+    "glint",
+    "glinting",
+    "gnat",
+    "igniting",
+    "initial",
+    "initialing",
+    "initiating",
+    "lilt",
+    "lilting",
+    "lint",
+    "linting",
+    "litigant",
+    "litigating",
+    "natal",
+    "tabbing",
+    "tabling",
+    "tagging",
+    "tail",
+    "tailgating",
+    "tailing",
+    "taint",
+    "tainting",
+    "tall",
+    "tang",
+    "tangling",
+    "tannin",
+    "tanning",
+    "tatting",
+    "tattling",
+    "tibia",
+    "tiling",
+    "till",
+    "tilling",
+    "tilt",
+    "tilting",
+    "tingling",
+    "tinning",
+    "tint",
+    "tinting",
+    "titan",
+    "titillating",
+    "titling"
+  ],
+  "date": "2031-04-29",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 6,
+      "6": 5,
+      "7": 20,
+      "8": 8,
+      "9": 2,
+      "10": 4,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 7,
+      "G": 9,
+      "I": 4,
+      "L": 6,
+      "N": 1,
+      "T": 28
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "9": 2
+      },
+      "B": {
+        "4": 2,
+        "6": 1,
+        "7": 3,
+        "8": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "I": {
+        "7": 1,
+        "8": 1,
+        "10": 2
+      },
+      "L": {
+        "4": 2,
+        "7": 2,
+        "8": 1,
+        "10": 1
+      },
+      "N": {
+        "5": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 3,
+        "6": 2,
+        "7": 11,
+        "8": 4,
+        "10": 1,
+        "11": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AG": 1,
+      "AN": 1,
+      "AT": 2,
+      "BA": 4,
+      "BI": 1,
+      "BL": 2,
+      "GA": 3,
+      "GI": 3,
+      "GL": 2,
+      "GN": 1,
+      "IG": 1,
+      "IN": 3,
+      "LI": 6,
+      "NA": 1,
+      "TA": 15,
+      "TI": 13
+    }
+  }
+}

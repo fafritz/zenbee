@@ -1,0 +1,88 @@
+{
+  "pangram": "plowman",
+  "center_letter": "p",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 72,
+  "answer_pangrams": [
+    "plowman"
+  ],
+  "answers": [
+    "appall",
+    "lamp",
+    "lampoon",
+    "loop",
+    "napalm",
+    "opal",
+    "pall",
+    "palm",
+    "papa",
+    "papal",
+    "pawl",
+    "pawn",
+    "pawpaw",
+    "plan",
+    "plop",
+    "plow",
+    "plowman",
+    "poll",
+    "polo",
+    "pomp",
+    "pool",
+    "poop",
+    "powwow",
+    "wallop"
+  ],
+  "date": "2037-04-16",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 1,
+      "6": 5,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "L": 3,
+      "N": 1,
+      "O": 1,
+      "P": 17,
+      "W": 1
+    },
+    "grid": {
+      "A": {
+        "6": 1
+      },
+      "L": {
+        "4": 2,
+        "7": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 13,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "W": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AP": 1,
+      "LA": 2,
+      "LO": 1,
+      "NA": 1,
+      "OP": 1,
+      "PA": 7,
+      "PL": 4,
+      "PO": 6,
+      "WA": 1
+    }
+  }
+}

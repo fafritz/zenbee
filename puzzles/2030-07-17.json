@@ -1,0 +1,108 @@
+{
+  "pangram": "toxemia",
+  "center_letter": "t",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 86,
+  "answer_pangrams": [
+    "toxemia"
+  ],
+  "answers": [
+    "atom",
+    "emit",
+    "emote",
+    "exit",
+    "imitate",
+    "iota",
+    "item",
+    "mate",
+    "matte",
+    "meat",
+    "meet",
+    "meta",
+    "mete",
+    "mite",
+    "mitt",
+    "moat",
+    "moot",
+    "mote",
+    "motto",
+    "omit",
+    "tame",
+    "tattoo",
+    "taxi",
+    "team",
+    "teammate",
+    "teem",
+    "text",
+    "time",
+    "tomato",
+    "tome",
+    "toot",
+    "tote",
+    "totem",
+    "toxemia"
+  ],
+  "date": "2030-07-17",
+  "hints": {
+    "by_length": {
+      "4": 25,
+      "5": 4,
+      "6": 2,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "E": 3,
+      "I": 3,
+      "M": 12,
+      "O": 1,
+      "T": 14
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "E": {
+        "4": 2,
+        "5": 1
+      },
+      "I": {
+        "4": 2,
+        "7": 1
+      },
+      "M": {
+        "4": 10,
+        "5": 2
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "4": 9,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AT": 1,
+      "EM": 2,
+      "EX": 1,
+      "IM": 1,
+      "IO": 1,
+      "IT": 1,
+      "MA": 2,
+      "ME": 4,
+      "MI": 2,
+      "MO": 4,
+      "OM": 1,
+      "TA": 3,
+      "TE": 4,
+      "TI": 1,
+      "TO": 6
+    }
+  }
+}

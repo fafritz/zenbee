@@ -1,0 +1,115 @@
+{
+  "pangram": "chowing",
+  "center_letter": "o",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 189,
+  "answer_pangrams": [
+    "chowing"
+  ],
+  "answers": [
+    "chignon",
+    "chino",
+    "chow",
+    "chowing",
+    "cocci",
+    "cocoon",
+    "cocooning",
+    "coin",
+    "coining",
+    "conch",
+    "conic",
+    "conning",
+    "cooing",
+    "cowing",
+    "going",
+    "gong",
+    "gonging",
+    "goon",
+    "gown",
+    "gowning",
+    "hogging",
+    "honcho",
+    "honing",
+    "hooch",
+    "icon",
+    "noggin",
+    "noon",
+    "ongoing",
+    "onion",
+    "owing",
+    "owning",
+    "winnow",
+    "winnowing",
+    "wino",
+    "wooing",
+    "wowing"
+  ],
+  "date": "2028-05-10",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 8,
+      "6": 10,
+      "7": 8,
+      "9": 2
+    },
+    "by_first_letter": {
+      "C": 14,
+      "G": 6,
+      "H": 4,
+      "I": 1,
+      "N": 2,
+      "O": 4,
+      "W": 5
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 4,
+        "6": 3,
+        "7": 4,
+        "9": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 1,
+        "7": 2
+      },
+      "H": {
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "O": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "W": {
+        "4": 1,
+        "6": 3,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 4,
+      "CO": 10,
+      "GO": 6,
+      "HO": 4,
+      "IC": 1,
+      "NO": 2,
+      "ON": 2,
+      "OW": 2,
+      "WI": 3,
+      "WO": 2
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "pangram": "blunted",
+  "center_letter": "n",
+  "num_answers": 49,
+  "num_pangrams": 1,
+  "possible_points": 231,
+  "answer_pangrams": [
+    "blunted"
+  ],
+  "answers": [
+    "been",
+    "bend",
+    "bent",
+    "blend",
+    "blended",
+    "blunt",
+    "blunted",
+    "bundle",
+    "bundled",
+    "bunt",
+    "bunted",
+    "dent",
+    "dented",
+    "denude",
+    "denuded",
+    "detente",
+    "dune",
+    "dunned",
+    "ended",
+    "endue",
+    "endued",
+    "entente",
+    "lend",
+    "lent",
+    "need",
+    "needed",
+    "needle",
+    "needled",
+    "nene",
+    "netted",
+    "nettle",
+    "nettled",
+    "null",
+    "nutted",
+    "teen",
+    "telnet",
+    "tend",
+    "tended",
+    "tenet",
+    "tent",
+    "tented",
+    "tune",
+    "tuned",
+    "tunnel",
+    "tunneled",
+    "unbend",
+    "unbent",
+    "undue",
+    "unneeded"
+  ],
+  "date": "2033-07-27",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 7,
+      "6": 17,
+      "7": 8,
+      "8": 2
+    },
+    "by_first_letter": {
+      "B": 11,
+      "D": 7,
+      "E": 4,
+      "L": 2,
+      "N": 10,
+      "T": 11,
+      "U": 4
+    },
+    "grid": {
+      "B": {
+        "4": 4,
+        "5": 2,
+        "6": 2,
+        "7": 3
+      },
+      "D": {
+        "4": 2,
+        "6": 3,
+        "7": 2
+      },
+      "E": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 2
+      },
+      "N": {
+        "4": 3,
+        "6": 5,
+        "7": 2
+      },
+      "T": {
+        "4": 4,
+        "5": 2,
+        "6": 4,
+        "8": 1
+      },
+      "U": {
+        "5": 1,
+        "6": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 3,
+      "BL": 4,
+      "BU": 4,
+      "DE": 5,
+      "DU": 2,
+      "EN": 4,
+      "LE": 2,
+      "NE": 8,
+      "NU": 2,
+      "TE": 7,
+      "TU": 4,
+      "UN": 4
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "pangram": "albumen",
+  "center_letter": "b",
+  "num_answers": 48,
+  "num_pangrams": 1,
+  "possible_points": 198,
+  "answer_pangrams": [
+    "albumen"
+  ],
+  "answers": [
+    "abbe",
+    "abeam",
+    "able",
+    "album",
+    "albumen",
+    "amble",
+    "amenable",
+    "baba",
+    "babble",
+    "babe",
+    "babel",
+    "bale",
+    "baleen",
+    "ball",
+    "balm",
+    "banal",
+    "banana",
+    "bane",
+    "bauble",
+    "beam",
+    "bean",
+    "beau",
+    "been",
+    "bell",
+    "belle",
+    "benumb",
+    "blab",
+    "blame",
+    "blue",
+    "bluebell",
+    "bubble",
+    "bulb",
+    "bull",
+    "bumble",
+    "bumblebee",
+    "embalm",
+    "emblem",
+    "enable",
+    "label",
+    "lamb",
+    "lube",
+    "malleable",
+    "mumble",
+    "nebula",
+    "nebulae",
+    "numb",
+    "umbel",
+    "unable"
+  ],
+  "date": "2029-10-07",
+  "hints": {
+    "by_length": {
+      "4": 20,
+      "5": 9,
+      "6": 13,
+      "7": 2,
+      "8": 2,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 7,
+      "B": 28,
+      "E": 3,
+      "L": 3,
+      "M": 2,
+      "N": 3,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "7": 1,
+        "8": 1
+      },
+      "B": {
+        "4": 15,
+        "5": 4,
+        "6": 7,
+        "8": 1,
+        "9": 1
+      },
+      "E": {
+        "6": 3
+      },
+      "L": {
+        "4": 2,
+        "5": 1
+      },
+      "M": {
+        "6": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "U": {
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 3,
+      "AL": 2,
+      "AM": 2,
+      "BA": 12,
+      "BE": 7,
+      "BL": 4,
+      "BU": 5,
+      "EM": 2,
+      "EN": 1,
+      "LA": 2,
+      "LU": 1,
+      "MA": 1,
+      "MU": 1,
+      "NE": 2,
+      "NU": 1,
+      "UM": 1,
+      "UN": 1
+    }
+  }
+}

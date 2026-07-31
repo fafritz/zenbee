@@ -1,0 +1,97 @@
+{
+  "pangram": "cloying",
+  "center_letter": "y",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 105,
+  "answer_pangrams": [
+    "cloying"
+  ],
+  "answers": [
+    "cloy",
+    "cloying",
+    "colony",
+    "coolly",
+    "coyly",
+    "cyclic",
+    "cycling",
+    "cyclonic",
+    "cynic",
+    "giggly",
+    "icily",
+    "lily",
+    "longingly",
+    "lying",
+    "ninny",
+    "nylon",
+    "oily",
+    "oncology",
+    "only",
+    "yogi"
+  ],
+  "date": "2033-03-01",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 6,
+      "6": 4,
+      "7": 2,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 9,
+      "G": 1,
+      "I": 1,
+      "L": 3,
+      "N": 2,
+      "O": 3,
+      "Y": 1
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      },
+      "G": {
+        "6": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "9": 1
+      },
+      "N": {
+        "5": 2
+      },
+      "O": {
+        "4": 2,
+        "8": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 2,
+      "CO": 3,
+      "CY": 4,
+      "GI": 1,
+      "IC": 1,
+      "LI": 1,
+      "LO": 1,
+      "LY": 1,
+      "NI": 1,
+      "NY": 1,
+      "OI": 1,
+      "ON": 2,
+      "YO": 1
+    }
+  }
+}

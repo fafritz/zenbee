@@ -1,0 +1,88 @@
+{
+  "pangram": "jackpot",
+  "center_letter": "a",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 73,
+  "answer_pangrams": [
+    "jackpot"
+  ],
+  "answers": [
+    "atop",
+    "attack",
+    "cacao",
+    "capo",
+    "coat",
+    "coca",
+    "cockatoo",
+    "cocoa",
+    "jack",
+    "jackpot",
+    "kapok",
+    "pack",
+    "pact",
+    "papa",
+    "potato",
+    "tack",
+    "taco",
+    "tact",
+    "tattoo",
+    "topcoat"
+  ],
+  "date": "2032-04-16",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 3,
+      "6": 3,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 6,
+      "J": 2,
+      "K": 1,
+      "P": 4,
+      "T": 5
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 2,
+        "8": 1
+      },
+      "J": {
+        "4": 1,
+        "7": 1
+      },
+      "K": {
+        "5": 1
+      },
+      "P": {
+        "4": 3,
+        "6": 1
+      },
+      "T": {
+        "4": 3,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AT": 2,
+      "CA": 2,
+      "CO": 4,
+      "JA": 2,
+      "KA": 1,
+      "PA": 3,
+      "PO": 1,
+      "TA": 4,
+      "TO": 1
+    }
+  }
+}

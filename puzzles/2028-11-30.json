@@ -1,0 +1,98 @@
+{
+  "pangram": "foliage",
+  "center_letter": "f",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 89,
+  "answer_pangrams": [
+    "foliage"
+  ],
+  "answers": [
+    "alfalfa",
+    "aloof",
+    "fail",
+    "fall",
+    "falloff",
+    "feel",
+    "fell",
+    "fief",
+    "fife",
+    "file",
+    "filial",
+    "fill",
+    "flag",
+    "flagella",
+    "flail",
+    "flea",
+    "flee",
+    "floe",
+    "flog",
+    "foal",
+    "foil",
+    "foliage",
+    "folio",
+    "fool",
+    "gaff",
+    "gaffe",
+    "golf",
+    "goof",
+    "leaf",
+    "life",
+    "loaf",
+    "offal"
+  ],
+  "date": "2028-11-30",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 5,
+      "6": 1,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "F": 22,
+      "G": 4,
+      "L": 3,
+      "O": 1
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "7": 1
+      },
+      "F": {
+        "4": 16,
+        "5": 2,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 1
+      },
+      "L": {
+        "4": 3
+      },
+      "O": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "FA": 3,
+      "FE": 2,
+      "FI": 5,
+      "FL": 7,
+      "FO": 5,
+      "GA": 2,
+      "GO": 2,
+      "LE": 1,
+      "LI": 1,
+      "LO": 1,
+      "OF": 1
+    }
+  }
+}

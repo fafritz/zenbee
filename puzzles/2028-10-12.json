@@ -1,0 +1,90 @@
+{
+  "pangram": "brought",
+  "center_letter": "g",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 108,
+  "answer_pangrams": [
+    "brought"
+  ],
+  "answers": [
+    "borough",
+    "bough",
+    "bought",
+    "brought",
+    "burg",
+    "gout",
+    "grog",
+    "grotto",
+    "grub",
+    "guru",
+    "ought",
+    "outgo",
+    "rough",
+    "thorough",
+    "though",
+    "thought",
+    "through",
+    "throughout",
+    "thug",
+    "tough",
+    "trough"
+  ],
+  "date": "2028-10-12",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 5,
+      "6": 4,
+      "7": 4,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "B": 5,
+      "G": 5,
+      "O": 2,
+      "R": 1,
+      "T": 8
+    },
+    "grid": {
+      "B": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 2
+      },
+      "G": {
+        "4": 4,
+        "6": 1
+      },
+      "O": {
+        "5": 2
+      },
+      "R": {
+        "5": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "BO": 3,
+      "BR": 1,
+      "BU": 1,
+      "GO": 1,
+      "GR": 3,
+      "GU": 1,
+      "OU": 2,
+      "RO": 1,
+      "TH": 6,
+      "TO": 1,
+      "TR": 1
+    }
+  }
+}

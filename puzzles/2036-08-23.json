@@ -1,0 +1,115 @@
+{
+  "pangram": "pliancy",
+  "center_letter": "c",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 194,
+  "answer_pangrams": [
+    "pliancy"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "alpaca",
+    "call",
+    "calla",
+    "canal",
+    "cancan",
+    "canna",
+    "cannily",
+    "canny",
+    "cilia",
+    "clan",
+    "clap",
+    "clay",
+    "clinic",
+    "clinical",
+    "clinically",
+    "clinician",
+    "clip",
+    "cyan",
+    "cyclic",
+    "cyclical",
+    "cyclically",
+    "cynic",
+    "cynical",
+    "cynically",
+    "icily",
+    "lacy",
+    "lilac",
+    "niacin",
+    "panic",
+    "papacy",
+    "pica",
+    "piccalilli",
+    "picnic",
+    "pliancy"
+  ],
+  "date": "2036-08-23",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 9,
+      "6": 8,
+      "7": 3,
+      "8": 2,
+      "9": 2,
+      "10": 3
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 23,
+      "I": 1,
+      "L": 2,
+      "N": 1,
+      "P": 6
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 2
+      },
+      "C": {
+        "4": 6,
+        "5": 6,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2
+      },
+      "I": {
+        "5": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AL": 1,
+      "CA": 7,
+      "CI": 1,
+      "CL": 8,
+      "CY": 7,
+      "IC": 1,
+      "LA": 1,
+      "LI": 1,
+      "NI": 1,
+      "PA": 2,
+      "PI": 3,
+      "PL": 1
+    }
+  }
+}

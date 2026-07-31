@@ -1,0 +1,78 @@
+{
+  "pangram": "tucking",
+  "center_letter": "k",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 76,
+  "answer_pangrams": [
+    "tucking"
+  ],
+  "answers": [
+    "gunk",
+    "inking",
+    "kick",
+    "kicking",
+    "king",
+    "kink",
+    "kinking",
+    "kiting",
+    "knit",
+    "knitting",
+    "nick",
+    "nicking",
+    "nuking",
+    "tick",
+    "ticking",
+    "tuck",
+    "tucking"
+  ],
+  "date": "2036-03-24",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "6": 3,
+      "7": 5,
+      "8": 1
+    },
+    "by_first_letter": {
+      "G": 1,
+      "I": 1,
+      "K": 8,
+      "N": 3,
+      "T": 4
+    },
+    "grid": {
+      "G": {
+        "4": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "K": {
+        "4": 4,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "GU": 1,
+      "IN": 1,
+      "KI": 6,
+      "KN": 2,
+      "NI": 2,
+      "NU": 1,
+      "TI": 2,
+      "TU": 2
+    }
+  }
+}

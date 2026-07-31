@@ -1,0 +1,150 @@
+{
+  "pangram": "epochal",
+  "center_letter": "e",
+  "num_answers": 55,
+  "num_pangrams": 1,
+  "possible_points": 192,
+  "answer_pangrams": [
+    "epochal"
+  ],
+  "answers": [
+    "ache",
+    "aloe",
+    "apace",
+    "appeal",
+    "apple",
+    "cache",
+    "cape",
+    "cell",
+    "cello",
+    "chapel",
+    "cheap",
+    "cheep",
+    "cloche",
+    "cochlea",
+    "cochleae",
+    "cope",
+    "each",
+    "echo",
+    "elope",
+    "epee",
+    "epoch",
+    "epochal",
+    "hale",
+    "heal",
+    "heap",
+    "heel",
+    "hell",
+    "hellhole",
+    "hello",
+    "help",
+    "hole",
+    "hope",
+    "lace",
+    "lapel",
+    "leach",
+    "leap",
+    "leech",
+    "locale",
+    "loophole",
+    "lope",
+    "oleo",
+    "pace",
+    "palace",
+    "pale",
+    "peace",
+    "peach",
+    "peal",
+    "peel",
+    "peep",
+    "peephole",
+    "people",
+    "place",
+    "plea",
+    "pole",
+    "pope"
+  ],
+  "date": "2030-01-26",
+  "hints": {
+    "by_length": {
+      "4": 28,
+      "5": 15,
+      "6": 6,
+      "7": 2,
+      "8": 4
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 11,
+      "E": 6,
+      "H": 10,
+      "L": 8,
+      "O": 1,
+      "P": 14
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "6": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 4,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "4": 3,
+        "5": 2,
+        "7": 1
+      },
+      "H": {
+        "4": 8,
+        "5": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "8": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 8,
+        "5": 3,
+        "6": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AL": 1,
+      "AP": 3,
+      "CA": 2,
+      "CE": 2,
+      "CH": 3,
+      "CL": 1,
+      "CO": 3,
+      "EA": 1,
+      "EC": 1,
+      "EL": 1,
+      "EP": 3,
+      "HA": 1,
+      "HE": 7,
+      "HO": 2,
+      "LA": 2,
+      "LE": 3,
+      "LO": 3,
+      "OL": 1,
+      "PA": 3,
+      "PE": 7,
+      "PL": 2,
+      "PO": 2
+    }
+  }
+}

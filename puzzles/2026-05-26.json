@@ -1,0 +1,145 @@
+{
+  "pangram": "frantic",
+  "center_letter": "i",
+  "num_answers": 50,
+  "num_pangrams": 2,
+  "possible_points": 273,
+  "answer_pangrams": [
+    "antiaircraft",
+    "frantic"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "affair",
+    "aircraft",
+    "antarctic",
+    "anti",
+    "antiaircraft",
+    "antic",
+    "arctic",
+    "aria",
+    "artifact",
+    "atria",
+    "attain",
+    "attic",
+    "cacti",
+    "cairn",
+    "circa",
+    "cirri",
+    "citric",
+    "critic",
+    "faint",
+    "fair",
+    "fanatic",
+    "farina",
+    "fiat",
+    "frantic",
+    "friar",
+    "infant",
+    "intact",
+    "irritant",
+    "niacin",
+    "raffia",
+    "rain",
+    "riff",
+    "riffraff",
+    "rift",
+    "tacit",
+    "tactic",
+    "tactician",
+    "taint",
+    "tannin",
+    "tariff",
+    "tiara",
+    "tiff",
+    "tint",
+    "titan",
+    "titanic",
+    "traffic",
+    "train",
+    "trait"
+  ],
+  "date": "2026-05-26",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 15,
+      "6": 14,
+      "7": 4,
+      "8": 4,
+      "9": 2,
+      "12": 1
+    },
+    "by_first_letter": {
+      "A": 14,
+      "C": 6,
+      "F": 7,
+      "I": 3,
+      "N": 1,
+      "R": 5,
+      "T": 14
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 3,
+        "6": 4,
+        "8": 2,
+        "9": 1,
+        "12": 1
+      },
+      "C": {
+        "5": 4,
+        "6": 2
+      },
+      "F": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "I": {
+        "6": 2,
+        "8": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "R": {
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 6,
+        "6": 3,
+        "7": 2,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AF": 1,
+      "AI": 1,
+      "AN": 4,
+      "AR": 3,
+      "AT": 3,
+      "CA": 2,
+      "CI": 3,
+      "CR": 1,
+      "FA": 4,
+      "FI": 1,
+      "FR": 2,
+      "IN": 2,
+      "IR": 1,
+      "NI": 1,
+      "RA": 2,
+      "RI": 3,
+      "TA": 6,
+      "TI": 5,
+      "TR": 3
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "pangram": "amoebic",
+  "center_letter": "o",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 100,
+  "answer_pangrams": [
+    "amoebic"
+  ],
+  "answers": [
+    "ammo",
+    "amoeba",
+    "amoebic",
+    "bamboo",
+    "baobab",
+    "become",
+    "bomb",
+    "boob",
+    "booboo",
+    "boom",
+    "cacao",
+    "cameo",
+    "camo",
+    "coca",
+    "cocci",
+    "cocoa",
+    "coma",
+    "comb",
+    "combo",
+    "come",
+    "comic",
+    "comma",
+    "mambo",
+    "memo",
+    "momma",
+    "oboe"
+  ],
+  "date": "2028-10-18",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 9,
+      "6": 5,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 7,
+      "C": 12,
+      "M": 3,
+      "O": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "B": {
+        "4": 3,
+        "6": 4
+      },
+      "C": {
+        "4": 5,
+        "5": 7
+      },
+      "M": {
+        "4": 1,
+        "5": 2
+      },
+      "O": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AM": 3,
+      "BA": 2,
+      "BE": 1,
+      "BO": 4,
+      "CA": 3,
+      "CO": 9,
+      "MA": 1,
+      "ME": 1,
+      "MO": 1,
+      "OB": 1
+    }
+  }
+}

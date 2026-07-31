@@ -1,0 +1,126 @@
+{
+  "pangram": "varmint",
+  "center_letter": "i",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 193,
+  "answer_pangrams": [
+    "varmint"
+  ],
+  "answers": [
+    "airman",
+    "anti",
+    "aria",
+    "atria",
+    "attain",
+    "avian",
+    "imam",
+    "invariant",
+    "irritant",
+    "maim",
+    "main",
+    "maintain",
+    "mania",
+    "maria",
+    "marina",
+    "martian",
+    "martin",
+    "martini",
+    "mini",
+    "minim",
+    "minima",
+    "minivan",
+    "mint",
+    "mitt",
+    "nirvana",
+    "rain",
+    "taint",
+    "tannin",
+    "tiara",
+    "tint",
+    "titan",
+    "train",
+    "trait",
+    "trim",
+    "trimaran",
+    "trivia",
+    "vain",
+    "variant",
+    "varmint",
+    "vitamin"
+  ],
+  "date": "2037-05-18",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 10,
+      "6": 7,
+      "7": 7,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "I": 3,
+      "M": 15,
+      "N": 1,
+      "R": 1,
+      "T": 10,
+      "V": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "6": 2
+      },
+      "I": {
+        "4": 1,
+        "8": 1,
+        "9": 1
+      },
+      "M": {
+        "4": 5,
+        "5": 3,
+        "6": 3,
+        "7": 3,
+        "8": 1
+      },
+      "N": {
+        "7": 1
+      },
+      "R": {
+        "4": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 5,
+        "6": 2,
+        "8": 1
+      },
+      "V": {
+        "4": 1,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AN": 1,
+      "AR": 1,
+      "AT": 2,
+      "AV": 1,
+      "IM": 1,
+      "IN": 1,
+      "IR": 1,
+      "MA": 9,
+      "MI": 6,
+      "NI": 1,
+      "RA": 1,
+      "TA": 2,
+      "TI": 3,
+      "TR": 5,
+      "VA": 3,
+      "VI": 1
+    }
+  }
+}

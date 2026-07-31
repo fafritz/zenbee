@@ -1,0 +1,80 @@
+{
+  "pangram": "prodigy",
+  "center_letter": "g",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 66,
+  "answer_pangrams": [
+    "prodigy"
+  ],
+  "answers": [
+    "dodgy",
+    "doggy",
+    "giddy",
+    "gird",
+    "good",
+    "goody",
+    "goop",
+    "gorp",
+    "gory",
+    "grid",
+    "grip",
+    "grog",
+    "groggy",
+    "gyro",
+    "piggy",
+    "prig",
+    "prodigy",
+    "rigid",
+    "rigor",
+    "yogi"
+  ],
+  "date": "2035-12-27",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 7,
+      "6": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "D": 2,
+      "G": 12,
+      "P": 3,
+      "R": 2,
+      "Y": 1
+    },
+    "grid": {
+      "D": {
+        "5": 2
+      },
+      "G": {
+        "4": 9,
+        "5": 2,
+        "6": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "R": {
+        "5": 2
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 2,
+      "GI": 2,
+      "GO": 5,
+      "GR": 4,
+      "GY": 1,
+      "PI": 1,
+      "PR": 2,
+      "RI": 2,
+      "YO": 1
+    }
+  }
+}

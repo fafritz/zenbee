@@ -1,0 +1,90 @@
+{
+  "pangram": "thickly",
+  "center_letter": "l",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 87,
+  "answer_pangrams": [
+    "thickly"
+  ],
+  "answers": [
+    "chili",
+    "chill",
+    "chilly",
+    "click",
+    "cyclic",
+    "hill",
+    "hilly",
+    "hilt",
+    "icily",
+    "illicit",
+    "illicitly",
+    "kill",
+    "kilt",
+    "licit",
+    "lick",
+    "lilt",
+    "lily",
+    "litchi",
+    "thickly",
+    "till",
+    "tilt"
+  ],
+  "date": "2030-02-16",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 6,
+      "6": 3,
+      "7": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 5,
+      "H": 3,
+      "I": 3,
+      "K": 2,
+      "L": 5,
+      "T": 3
+    },
+    "grid": {
+      "C": {
+        "5": 3,
+        "6": 2
+      },
+      "H": {
+        "4": 2,
+        "5": 1
+      },
+      "I": {
+        "5": 1,
+        "7": 1,
+        "9": 1
+      },
+      "K": {
+        "4": 2
+      },
+      "L": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 3,
+      "CL": 1,
+      "CY": 1,
+      "HI": 3,
+      "IC": 1,
+      "IL": 2,
+      "KI": 2,
+      "LI": 5,
+      "TH": 1,
+      "TI": 2
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "pangram": "curtail",
+  "center_letter": "u",
+  "num_answers": 26,
+  "num_pangrams": 2,
+  "possible_points": 128,
+  "answer_pangrams": [
+    "actuarial",
+    "curtail"
+  ],
+  "answers": [
+    "accrual",
+    "actual",
+    "actuarial",
+    "aura",
+    "aural",
+    "calculi",
+    "circuit",
+    "circular",
+    "crucial",
+    "cull",
+    "cult",
+    "cultural",
+    "curl",
+    "curricula",
+    "curt",
+    "curtail",
+    "luau",
+    "lull",
+    "lulu",
+    "ritual",
+    "rural",
+    "taut",
+    "titular",
+    "tutu",
+    "ultra",
+    "uric"
+  ],
+  "date": "2027-03-05",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 3,
+      "6": 2,
+      "7": 6,
+      "8": 2,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 11,
+      "L": 3,
+      "R": 2,
+      "T": 3,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "C": {
+        "4": 4,
+        "7": 4,
+        "8": 2,
+        "9": 1
+      },
+      "L": {
+        "4": 3
+      },
+      "R": {
+        "5": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 2,
+        "7": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AU": 2,
+      "CA": 1,
+      "CI": 2,
+      "CR": 1,
+      "CU": 7,
+      "LU": 3,
+      "RI": 1,
+      "RU": 1,
+      "TA": 1,
+      "TI": 1,
+      "TU": 1,
+      "UL": 1,
+      "UR": 1
+    }
+  }
+}

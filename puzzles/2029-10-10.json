@@ -1,0 +1,140 @@
+{
+  "pangram": "outline",
+  "center_letter": "l",
+  "num_answers": 55,
+  "num_pangrams": 1,
+  "possible_points": 195,
+  "answer_pangrams": [
+    "outline"
+  ],
+  "answers": [
+    "elite",
+    "entitle",
+    "inlet",
+    "inline",
+    "intel",
+    "lenient",
+    "lent",
+    "lentil",
+    "leonine",
+    "lien",
+    "lieu",
+    "lilt",
+    "line",
+    "linen",
+    "linnet",
+    "lint",
+    "lintel",
+    "lion",
+    "lite",
+    "little",
+    "loin",
+    "loll",
+    "lone",
+    "loon",
+    "loonie",
+    "loot",
+    "lotion",
+    "lotto",
+    "lout",
+    "lull",
+    "lulu",
+    "lute",
+    "nettle",
+    "noel",
+    "null",
+    "oleo",
+    "olio",
+    "online",
+    "outlet",
+    "outline",
+    "tell",
+    "telnet",
+    "tile",
+    "till",
+    "tilt",
+    "title",
+    "tittle",
+    "toil",
+    "toilet",
+    "toilette",
+    "toll",
+    "tool",
+    "tulle",
+    "tunnel",
+    "until"
+  ],
+  "date": "2029-10-10",
+  "hints": {
+    "by_length": {
+      "4": 28,
+      "5": 8,
+      "6": 14,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "E": 2,
+      "I": 3,
+      "L": 27,
+      "N": 3,
+      "O": 5,
+      "T": 14,
+      "U": 1
+    },
+    "grid": {
+      "E": {
+        "5": 1,
+        "7": 1
+      },
+      "I": {
+        "5": 2,
+        "6": 1
+      },
+      "L": {
+        "4": 17,
+        "5": 2,
+        "6": 6,
+        "7": 2
+      },
+      "N": {
+        "4": 2,
+        "6": 1
+      },
+      "O": {
+        "4": 2,
+        "6": 2,
+        "7": 1
+      },
+      "T": {
+        "4": 7,
+        "5": 2,
+        "6": 4,
+        "8": 1
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "EL": 1,
+      "EN": 1,
+      "IN": 3,
+      "LE": 4,
+      "LI": 11,
+      "LO": 9,
+      "LU": 3,
+      "NE": 1,
+      "NO": 1,
+      "NU": 1,
+      "OL": 2,
+      "ON": 1,
+      "OU": 2,
+      "TE": 2,
+      "TI": 5,
+      "TO": 5,
+      "TU": 2,
+      "UN": 1
+    }
+  }
+}

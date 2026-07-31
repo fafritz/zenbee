@@ -1,0 +1,92 @@
+{
+  "pangram": "parboil",
+  "center_letter": "b",
+  "num_answers": 28,
+  "num_pangrams": 2,
+  "possible_points": 109,
+  "answer_pangrams": [
+    "bipolar",
+    "parboil"
+  ],
+  "answers": [
+    "alibi",
+    "arbor",
+    "baba",
+    "bail",
+    "ball",
+    "baobab",
+    "barb",
+    "barrio",
+    "bill",
+    "bipolar",
+    "blab",
+    "blip",
+    "blob",
+    "boar",
+    "boil",
+    "bola",
+    "boll",
+    "boob",
+    "booboo",
+    "boor",
+    "briar",
+    "broil",
+    "labia",
+    "labial",
+    "labor",
+    "parabola",
+    "parboil",
+    "rabbi"
+  ],
+  "date": "2035-02-02",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 7,
+      "6": 4,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 20,
+      "L": 3,
+      "P": 2,
+      "R": 1
+    },
+    "grid": {
+      "A": {
+        "5": 2
+      },
+      "B": {
+        "4": 14,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      },
+      "L": {
+        "5": 2,
+        "6": 1
+      },
+      "P": {
+        "7": 1,
+        "8": 1
+      },
+      "R": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AR": 1,
+      "BA": 6,
+      "BI": 2,
+      "BL": 3,
+      "BO": 7,
+      "BR": 2,
+      "LA": 3,
+      "PA": 2,
+      "RA": 1
+    }
+  }
+}

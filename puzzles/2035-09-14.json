@@ -1,0 +1,135 @@
+{
+  "pangram": "varying",
+  "center_letter": "g",
+  "num_answers": 51,
+  "num_pangrams": 1,
+  "possible_points": 302,
+  "answer_pangrams": [
+    "varying"
+  ],
+  "answers": [
+    "again",
+    "agar",
+    "aging",
+    "agrarian",
+    "airing",
+    "angina",
+    "angry",
+    "arraign",
+    "arraigning",
+    "arranging",
+    "arraying",
+    "arriving",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "garaging",
+    "gigging",
+    "ginning",
+    "giving",
+    "grain",
+    "grainy",
+    "granary",
+    "granny",
+    "graving",
+    "gravy",
+    "gray",
+    "graying",
+    "grin",
+    "grinning",
+    "inning",
+    "nagging",
+    "raga",
+    "ragging",
+    "raging",
+    "raining",
+    "rang",
+    "ranging",
+    "rangy",
+    "raring",
+    "ravaging",
+    "raving",
+    "rigging",
+    "ring",
+    "ringing",
+    "vagary",
+    "vanning",
+    "varying",
+    "virgin",
+    "vying"
+  ],
+  "date": "2035-09-14",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 7,
+      "6": 11,
+      "7": 17,
+      "8": 6,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 12,
+      "G": 19,
+      "I": 1,
+      "N": 1,
+      "R": 13,
+      "V": 5
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 2,
+        "7": 1,
+        "8": 3,
+        "9": 1,
+        "10": 1
+      },
+      "G": {
+        "4": 4,
+        "5": 2,
+        "6": 3,
+        "7": 8,
+        "8": 2
+      },
+      "I": {
+        "6": 1
+      },
+      "N": {
+        "7": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 5,
+        "8": 1
+      },
+      "V": {
+        "5": 1,
+        "6": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AG": 4,
+      "AI": 1,
+      "AN": 2,
+      "AR": 5,
+      "GA": 6,
+      "GI": 3,
+      "GR": 10,
+      "IN": 1,
+      "NA": 1,
+      "RA": 10,
+      "RI": 3,
+      "VA": 3,
+      "VI": 1,
+      "VY": 1
+    }
+  }
+}

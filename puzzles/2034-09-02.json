@@ -1,0 +1,96 @@
+{
+  "pangram": "habitue",
+  "center_letter": "t",
+  "num_answers": 31,
+  "num_pangrams": 2,
+  "possible_points": 117,
+  "answer_pangrams": [
+    "habituate",
+    "habitue"
+  ],
+  "answers": [
+    "abate",
+    "abet",
+    "abut",
+    "bait",
+    "bath",
+    "bathe",
+    "bathtub",
+    "beat",
+    "beet",
+    "beta",
+    "bite",
+    "butte",
+    "habit",
+    "habitat",
+    "habituate",
+    "habitue",
+    "hate",
+    "heat",
+    "heath",
+    "taut",
+    "teeth",
+    "teethe",
+    "that",
+    "thee",
+    "theta",
+    "tibia",
+    "tibiae",
+    "tithe",
+    "tuba",
+    "tube",
+    "tutu"
+  ],
+  "date": "2034-09-02",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 9,
+      "6": 2,
+      "7": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 9,
+      "H": 7,
+      "T": 12
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "B": {
+        "4": 6,
+        "5": 2,
+        "7": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 2,
+        "7": 2,
+        "9": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 4,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 3,
+      "BA": 4,
+      "BE": 3,
+      "BI": 1,
+      "BU": 1,
+      "HA": 5,
+      "HE": 2,
+      "TA": 1,
+      "TE": 2,
+      "TH": 3,
+      "TI": 3,
+      "TU": 3
+    }
+  }
+}

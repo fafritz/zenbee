@@ -1,0 +1,85 @@
+{
+  "pangram": "flytrap",
+  "center_letter": "p",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 102,
+  "answer_pangrams": [
+    "flytrap"
+  ],
+  "answers": [
+    "apart",
+    "appall",
+    "apply",
+    "aptly",
+    "flap",
+    "flytrap",
+    "palatal",
+    "pall",
+    "paltry",
+    "papa",
+    "papal",
+    "papaya",
+    "parlay",
+    "parry",
+    "part",
+    "partly",
+    "party",
+    "patty",
+    "play",
+    "pray",
+    "rapt",
+    "rattrap",
+    "tarp",
+    "trap"
+  ],
+  "date": "2033-12-25",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 7,
+      "6": 5,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 4,
+      "F": 2,
+      "P": 14,
+      "R": 2,
+      "T": 2
+    },
+    "grid": {
+      "A": {
+        "5": 3,
+        "6": 1
+      },
+      "F": {
+        "4": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 5,
+        "5": 4,
+        "6": 4,
+        "7": 1
+      },
+      "R": {
+        "4": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AP": 4,
+      "FL": 2,
+      "PA": 12,
+      "PL": 1,
+      "PR": 1,
+      "RA": 2,
+      "TA": 1,
+      "TR": 1
+    }
+  }
+}

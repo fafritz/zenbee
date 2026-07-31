@@ -1,0 +1,88 @@
+{
+  "pangram": "womanly",
+  "center_letter": "m",
+  "num_answers": 27,
+  "num_pangrams": 2,
+  "possible_points": 107,
+  "answer_pangrams": [
+    "laywoman",
+    "womanly"
+  ],
+  "answers": [
+    "ammo",
+    "anomaly",
+    "lama",
+    "layman",
+    "laywoman",
+    "llama",
+    "loam",
+    "loamy",
+    "loom",
+    "mall",
+    "mallow",
+    "mama",
+    "mamma",
+    "mammal",
+    "manly",
+    "manna",
+    "many",
+    "mayo",
+    "moan",
+    "moll",
+    "momma",
+    "mommy",
+    "mono",
+    "moon",
+    "myna",
+    "woman",
+    "womanly"
+  ],
+  "date": "2027-04-01",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 8,
+      "6": 3,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "L": 7,
+      "M": 16,
+      "W": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "M": {
+        "4": 9,
+        "5": 5,
+        "6": 2
+      },
+      "W": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AM": 1,
+      "AN": 1,
+      "LA": 3,
+      "LL": 1,
+      "LO": 3,
+      "MA": 9,
+      "MO": 6,
+      "MY": 1,
+      "WO": 2
+    }
+  }
+}

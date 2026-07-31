@@ -1,0 +1,131 @@
+{
+  "pangram": "cleanup",
+  "center_letter": "n",
+  "num_answers": 47,
+  "num_pangrams": 1,
+  "possible_points": 196,
+  "answer_pangrams": [
+    "cleanup"
+  ],
+  "answers": [
+    "acne",
+    "anal",
+    "anneal",
+    "annual",
+    "annul",
+    "canal",
+    "canape",
+    "canape",
+    "cancan",
+    "cancel",
+    "cane",
+    "canna",
+    "cannula",
+    "canula",
+    "clan",
+    "clean",
+    "cleanup",
+    "elan",
+    "lacuna",
+    "lacunae",
+    "lance",
+    "lane",
+    "lean",
+    "naan",
+    "nana",
+    "nape",
+    "neap",
+    "nene",
+    "nuance",
+    "null",
+    "paean",
+    "panacea",
+    "pane",
+    "panel",
+    "pecan",
+    "peen",
+    "penal",
+    "penance",
+    "pence",
+    "plan",
+    "plane",
+    "ulna",
+    "ulnae",
+    "uncap",
+    "uncle",
+    "unclean",
+    "unlace"
+  ],
+  "date": "2032-06-16",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 14,
+      "6": 10,
+      "7": 6
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 12,
+      "E": 1,
+      "L": 5,
+      "N": 7,
+      "P": 11,
+      "U": 6
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "C": {
+        "4": 2,
+        "5": 3,
+        "6": 5,
+        "7": 2
+      },
+      "E": {
+        "4": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 6,
+        "6": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 6,
+        "7": 2
+      },
+      "U": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AN": 4,
+      "CA": 9,
+      "CL": 3,
+      "EL": 1,
+      "LA": 4,
+      "LE": 1,
+      "NA": 3,
+      "NE": 2,
+      "NU": 2,
+      "PA": 4,
+      "PE": 5,
+      "PL": 2,
+      "UL": 2,
+      "UN": 4
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "pangram": "cowhide",
+  "center_letter": "h",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 120,
+  "answer_pangrams": [
+    "cowhide"
+  ],
+  "answers": [
+    "chew",
+    "chewed",
+    "chic",
+    "chide",
+    "chided",
+    "choice",
+    "chow",
+    "chowed",
+    "cowhide",
+    "echo",
+    "echoed",
+    "heed",
+    "heeded",
+    "hewed",
+    "hide",
+    "hided",
+    "hied",
+    "hoed",
+    "hooch",
+    "hood",
+    "hooded",
+    "hoodie",
+    "hoodoo",
+    "hoodooed",
+    "whew",
+    "which",
+    "widowhood"
+  ],
+  "date": "2031-07-02",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 5,
+      "6": 9,
+      "7": 1,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 9,
+      "E": 2,
+      "H": 13,
+      "W": 3
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 1,
+        "6": 4,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 5,
+        "5": 3,
+        "6": 4,
+        "8": 1
+      },
+      "W": {
+        "4": 1,
+        "5": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 8,
+      "CO": 1,
+      "EC": 2,
+      "HE": 3,
+      "HI": 3,
+      "HO": 7,
+      "WH": 2,
+      "WI": 1
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "pangram": "rocking",
+  "center_letter": "r",
+  "num_answers": 41,
+  "num_pangrams": 3,
+  "possible_points": 228,
+  "answer_pangrams": [
+    "corking",
+    "crooking",
+    "rocking"
+  ],
+  "answers": [
+    "cirri",
+    "coring",
+    "cork",
+    "corking",
+    "corn",
+    "corning",
+    "crick",
+    "cricking",
+    "cringing",
+    "crock",
+    "crook",
+    "crooking",
+    "croon",
+    "crooning",
+    "gorging",
+    "goring",
+    "grin",
+    "grinning",
+    "grog",
+    "groin",
+    "grok",
+    "grokking",
+    "ignoring",
+    "irking",
+    "iron",
+    "ironic",
+    "ironing",
+    "origin",
+    "ricing",
+    "rick",
+    "ricking",
+    "rigging",
+    "rigor",
+    "ring",
+    "ringing",
+    "rink",
+    "rock",
+    "rocking",
+    "rococo",
+    "rook",
+    "rooking"
+  ],
+  "date": "2034-10-28",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 7,
+      "6": 7,
+      "7": 9,
+      "8": 7
+    },
+    "by_first_letter": {
+      "C": 14,
+      "G": 8,
+      "I": 5,
+      "O": 1,
+      "R": 13
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 5,
+        "6": 1,
+        "7": 2,
+        "8": 4
+      },
+      "G": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 2
+      },
+      "I": {
+        "4": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "O": {
+        "6": 1
+      },
+      "R": {
+        "4": 5,
+        "5": 1,
+        "6": 2,
+        "7": 5
+      }
+    },
+    "two_letter_list": {
+      "CI": 1,
+      "CO": 5,
+      "CR": 8,
+      "GO": 2,
+      "GR": 6,
+      "IG": 1,
+      "IR": 4,
+      "OR": 1,
+      "RI": 8,
+      "RO": 5
+    }
+  }
+}

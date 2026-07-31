@@ -1,0 +1,113 @@
+{
+  "pangram": "outrank",
+  "center_letter": "a",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 124,
+  "answer_pangrams": [
+    "outrank"
+  ],
+  "answers": [
+    "anon",
+    "aorta",
+    "arrant",
+    "attar",
+    "aunt",
+    "aura",
+    "auto",
+    "karat",
+    "koan",
+    "krona",
+    "naan",
+    "nana",
+    "narrator",
+    "okra",
+    "orator",
+    "outran",
+    "outrank",
+    "rank",
+    "rant",
+    "ratatat",
+    "rattan",
+    "roan",
+    "roar",
+    "tank",
+    "taro",
+    "tarot",
+    "tart",
+    "tartan",
+    "tartar",
+    "tattoo",
+    "taunt",
+    "taut",
+    "truant",
+    "tuna"
+  ],
+  "date": "2028-01-31",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 6,
+      "6": 8,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "K": 3,
+      "N": 3,
+      "O": 4,
+      "R": 6,
+      "T": 11
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "5": 2,
+        "6": 1
+      },
+      "K": {
+        "4": 1,
+        "5": 2
+      },
+      "N": {
+        "4": 2,
+        "8": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 2,
+        "7": 1
+      },
+      "R": {
+        "4": 4,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 2,
+        "6": 4
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "AO": 1,
+      "AR": 1,
+      "AT": 1,
+      "AU": 3,
+      "KA": 1,
+      "KO": 1,
+      "KR": 1,
+      "NA": 3,
+      "OK": 1,
+      "OR": 1,
+      "OU": 2,
+      "RA": 4,
+      "RO": 2,
+      "TA": 9,
+      "TR": 1,
+      "TU": 1
+    }
+  }
+}

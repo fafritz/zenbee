@@ -1,0 +1,137 @@
+{
+  "pangram": "deathly",
+  "center_letter": "t",
+  "num_answers": 53,
+  "num_pangrams": 2,
+  "possible_points": 263,
+  "answer_pangrams": [
+    "deathly",
+    "heatedly"
+  ],
+  "answers": [
+    "athlete",
+    "data",
+    "date",
+    "dated",
+    "dealt",
+    "death",
+    "deathly",
+    "delete",
+    "deleted",
+    "delta",
+    "elate",
+    "elated",
+    "eyelet",
+    "eyeteeth",
+    "halt",
+    "halted",
+    "hate",
+    "hated",
+    "hatted",
+    "health",
+    "healthy",
+    "heat",
+    "heated",
+    "heatedly",
+    "heath",
+    "late",
+    "lately",
+    "lath",
+    "lathe",
+    "lathed",
+    "latte",
+    "layette",
+    "lethal",
+    "lethally",
+    "tale",
+    "tall",
+    "tally",
+    "tatted",
+    "tattle",
+    "tattled",
+    "tattletale",
+    "tatty",
+    "teal",
+    "teed",
+    "teeth",
+    "teethe",
+    "teethed",
+    "tell",
+    "telltale",
+    "that",
+    "thee",
+    "theta",
+    "they"
+  ],
+  "date": "2033-03-05",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 13,
+      "6": 13,
+      "7": 7,
+      "8": 4,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "D": 9,
+      "E": 4,
+      "H": 11,
+      "L": 9,
+      "T": 19
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 4,
+        "6": 1,
+        "7": 2
+      },
+      "E": {
+        "5": 1,
+        "6": 2,
+        "8": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 2,
+        "6": 4,
+        "7": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 8,
+        "5": 4,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AT": 1,
+      "DA": 3,
+      "DE": 6,
+      "EL": 2,
+      "EY": 2,
+      "HA": 5,
+      "HE": 6,
+      "LA": 7,
+      "LE": 2,
+      "TA": 8,
+      "TE": 7,
+      "TH": 4
+    }
+  }
+}

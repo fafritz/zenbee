@@ -1,0 +1,136 @@
+{
+  "pangram": "mordant",
+  "center_letter": "t",
+  "num_answers": 46,
+  "num_pangrams": 2,
+  "possible_points": 201,
+  "answer_pangrams": [
+    "dormant",
+    "mordant"
+  ],
+  "answers": [
+    "adamant",
+    "aorta",
+    "arrant",
+    "atom",
+    "attar",
+    "dart",
+    "data",
+    "doormat",
+    "dormant",
+    "mantra",
+    "marmot",
+    "mart",
+    "matador",
+    "matron",
+    "moat",
+    "moot",
+    "mordant",
+    "mortar",
+    "motor",
+    "motorman",
+    "motto",
+    "narrator",
+    "onto",
+    "orator",
+    "ottoman",
+    "rant",
+    "ratatat",
+    "rattan",
+    "root",
+    "rotor",
+    "taro",
+    "tarot",
+    "tart",
+    "tartan",
+    "tartar",
+    "tattoo",
+    "toad",
+    "tomato",
+    "toon",
+    "toot",
+    "torn",
+    "tornado",
+    "tort",
+    "tram",
+    "trod",
+    "trot"
+  ],
+  "date": "2037-09-21",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 6,
+      "6": 11,
+      "7": 8,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "D": 4,
+      "M": 12,
+      "N": 1,
+      "O": 3,
+      "R": 5,
+      "T": 16
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "7": 2
+      },
+      "M": {
+        "4": 3,
+        "5": 2,
+        "6": 4,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "8": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 10,
+        "5": 1,
+        "6": 4,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AO": 1,
+      "AR": 1,
+      "AT": 2,
+      "DA": 2,
+      "DO": 2,
+      "MA": 5,
+      "MO": 7,
+      "NA": 1,
+      "ON": 1,
+      "OR": 1,
+      "OT": 1,
+      "RA": 3,
+      "RO": 2,
+      "TA": 6,
+      "TO": 7,
+      "TR": 3
+    }
+  }
+}

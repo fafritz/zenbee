@@ -1,0 +1,73 @@
+{
+  "pangram": "quacked",
+  "center_letter": "a",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 77,
+  "answer_pangrams": [
+    "quacked"
+  ],
+  "answers": [
+    "accede",
+    "acceded",
+    "aced",
+    "added",
+    "adduce",
+    "adduced",
+    "aqua",
+    "cake",
+    "caked",
+    "dead",
+    "decade",
+    "quack",
+    "quacked",
+    "quad",
+    "quake",
+    "quaked"
+  ],
+  "date": "2036-06-29",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 4,
+      "6": 4,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 7,
+      "C": 2,
+      "D": 2,
+      "Q": 5
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2
+      },
+      "C": {
+        "4": 1,
+        "5": 1
+      },
+      "D": {
+        "4": 1,
+        "6": 1
+      },
+      "Q": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AD": 3,
+      "AQ": 1,
+      "CA": 2,
+      "DE": 2,
+      "QU": 5
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "pangram": "warlock",
+  "center_letter": "o",
+  "num_answers": 44,
+  "num_pangrams": 1,
+  "possible_points": 158,
+  "answer_pangrams": [
+    "warlock"
+  ],
+  "answers": [
+    "allow",
+    "arrow",
+    "cacao",
+    "callow",
+    "carol",
+    "cloak",
+    "clock",
+    "clockwork",
+    "coal",
+    "coca",
+    "cocoa",
+    "cola",
+    "collar",
+    "color",
+    "cook",
+    "cool",
+    "coral",
+    "cork",
+    "corolla",
+    "corral",
+    "cowl",
+    "croak",
+    "crock",
+    "crook",
+    "crow",
+    "koala",
+    "kook",
+    "local",
+    "lock",
+    "loco",
+    "loll",
+    "look",
+    "oarlock",
+    "okra",
+    "oral",
+    "roar",
+    "rock",
+    "rococo",
+    "roll",
+    "rook",
+    "wallow",
+    "warlock",
+    "wool",
+    "work"
+  ],
+  "date": "2030-10-06",
+  "hints": {
+    "by_length": {
+      "4": 21,
+      "5": 14,
+      "6": 5,
+      "7": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 23,
+      "K": 2,
+      "L": 5,
+      "O": 3,
+      "R": 5,
+      "W": 4
+    },
+    "grid": {
+      "A": {
+        "5": 2
+      },
+      "C": {
+        "4": 8,
+        "5": 10,
+        "6": 3,
+        "7": 1,
+        "9": 1
+      },
+      "K": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 1
+      },
+      "O": {
+        "4": 2,
+        "7": 1
+      },
+      "R": {
+        "4": 4,
+        "6": 1
+      },
+      "W": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AR": 1,
+      "CA": 3,
+      "CL": 3,
+      "CO": 13,
+      "CR": 4,
+      "KO": 2,
+      "LO": 5,
+      "OA": 1,
+      "OK": 1,
+      "OR": 1,
+      "RO": 5,
+      "WA": 2,
+      "WO": 2
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "pangram": "buoying",
+  "center_letter": "b",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 165,
+  "answer_pangrams": [
+    "buoying"
+  ],
+  "answers": [
+    "bingo",
+    "binning",
+    "bobbin",
+    "bobbing",
+    "bobby",
+    "bogging",
+    "boggy",
+    "bonbon",
+    "bong",
+    "bonging",
+    "bongo",
+    "boning",
+    "bony",
+    "boob",
+    "boobing",
+    "booboo",
+    "booby",
+    "booing",
+    "boon",
+    "bugging",
+    "buggy",
+    "bung",
+    "bunging",
+    "bunion",
+    "bunny",
+    "buoy",
+    "buoying",
+    "buying",
+    "gibbon",
+    "gibing",
+    "gobbing"
+  ],
+  "date": "2031-01-10",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 7,
+      "6": 9,
+      "7": 9
+    },
+    "by_first_letter": {
+      "B": 28,
+      "G": 3
+    },
+    "grid": {
+      "B": {
+        "4": 6,
+        "5": 7,
+        "6": 7,
+        "7": 8
+      },
+      "G": {
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "BI": 2,
+      "BO": 17,
+      "BU": 9,
+      "GI": 2,
+      "GO": 1
+    }
+  }
+}

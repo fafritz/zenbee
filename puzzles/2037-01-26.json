@@ -1,0 +1,98 @@
+{
+  "pangram": "grandly",
+  "center_letter": "y",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 115,
+  "answer_pangrams": [
+    "grandly"
+  ],
+  "answers": [
+    "allay",
+    "ally",
+    "angry",
+    "array",
+    "daddy",
+    "dally",
+    "dandy",
+    "dray",
+    "dryad",
+    "dryly",
+    "gladly",
+    "gnarly",
+    "granary",
+    "grandly",
+    "granny",
+    "gray",
+    "lady",
+    "landlady",
+    "lanyard",
+    "nanny",
+    "rally",
+    "rangy",
+    "yard",
+    "yarn"
+  ],
+  "date": "2037-01-26",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 11,
+      "6": 3,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "D": 6,
+      "G": 6,
+      "L": 3,
+      "N": 1,
+      "R": 2,
+      "Y": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3
+      },
+      "D": {
+        "4": 1,
+        "5": 5
+      },
+      "G": {
+        "4": 1,
+        "6": 3,
+        "7": 2
+      },
+      "L": {
+        "4": 1,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "5": 1
+      },
+      "R": {
+        "5": 2
+      },
+      "Y": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "AN": 1,
+      "AR": 1,
+      "DA": 3,
+      "DR": 3,
+      "GL": 1,
+      "GN": 1,
+      "GR": 4,
+      "LA": 3,
+      "NA": 1,
+      "RA": 2,
+      "YA": 2
+    }
+  }
+}

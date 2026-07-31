@@ -1,0 +1,102 @@
+{
+  "pangram": "pivotal",
+  "center_letter": "i",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 105,
+  "answer_pangrams": [
+    "pivotal"
+  ],
+  "answers": [
+    "avail",
+    "iota",
+    "lilt",
+    "lollipop",
+    "olio",
+    "pail",
+    "palatial",
+    "papilla",
+    "patio",
+    "pill",
+    "pilot",
+    "pipit",
+    "pita",
+    "pivot",
+    "pivotal",
+    "plait",
+    "polio",
+    "tail",
+    "till",
+    "tilt",
+    "tiptop",
+    "toil",
+    "vial",
+    "villa",
+    "viol",
+    "viola",
+    "vital"
+  ],
+  "date": "2026-10-26",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 10,
+      "6": 1,
+      "7": 2,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "I": 1,
+      "L": 2,
+      "O": 1,
+      "P": 12,
+      "T": 5,
+      "V": 5
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "4": 1,
+        "8": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 6,
+        "7": 2,
+        "8": 1
+      },
+      "T": {
+        "4": 4,
+        "6": 1
+      },
+      "V": {
+        "4": 2,
+        "5": 3
+      }
+    },
+    "two_letter_list": {
+      "AV": 1,
+      "IO": 1,
+      "LI": 1,
+      "LO": 1,
+      "OL": 1,
+      "PA": 4,
+      "PI": 6,
+      "PL": 1,
+      "PO": 1,
+      "TA": 1,
+      "TI": 3,
+      "TO": 1,
+      "VI": 5
+    }
+  }
+}

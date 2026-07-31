@@ -1,0 +1,81 @@
+{
+  "pangram": "cabinet",
+  "center_letter": "b",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 86,
+  "answer_pangrams": [
+    "cabinet"
+  ],
+  "answers": [
+    "abate",
+    "abbe",
+    "abet",
+    "baba",
+    "babe",
+    "bait",
+    "banana",
+    "bane",
+    "batten",
+    "bean",
+    "beat",
+    "beaten",
+    "been",
+    "beet",
+    "bent",
+    "beta",
+    "bite",
+    "bitten",
+    "cabana",
+    "cabin",
+    "cabinet",
+    "ciabatta",
+    "tibia",
+    "tibiae"
+  ],
+  "date": "2033-05-30",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 3,
+      "6": 6,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 15,
+      "C": 4,
+      "T": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "B": {
+        "4": 11,
+        "6": 4
+      },
+      "C": {
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 3,
+      "BA": 6,
+      "BE": 7,
+      "BI": 2,
+      "CA": 3,
+      "CI": 1,
+      "TI": 2
+    }
+  }
+}

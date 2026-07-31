@@ -1,0 +1,114 @@
+{
+  "pangram": "coaxing",
+  "center_letter": "g",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 210,
+  "answer_pangrams": [
+    "coaxing"
+  ],
+  "answers": [
+    "acing",
+    "again",
+    "aging",
+    "agog",
+    "angina",
+    "axing",
+    "caging",
+    "caning",
+    "canning",
+    "cannoning",
+    "coaxing",
+    "cocooning",
+    "cognac",
+    "coining",
+    "conga",
+    "congaing",
+    "conning",
+    "cooing",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "gigging",
+    "ginning",
+    "going",
+    "gong",
+    "gonging",
+    "gonna",
+    "goon",
+    "icing",
+    "inning",
+    "nagging",
+    "nixing",
+    "noggin",
+    "ongoing"
+  ],
+  "date": "2027-01-17",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 8,
+      "6": 8,
+      "7": 12,
+      "8": 1,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 12,
+      "G": 12,
+      "I": 2,
+      "N": 3,
+      "O": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 4,
+        "6": 1
+      },
+      "C": {
+        "5": 1,
+        "6": 4,
+        "7": 4,
+        "8": 1,
+        "9": 2
+      },
+      "G": {
+        "4": 4,
+        "5": 2,
+        "7": 6
+      },
+      "I": {
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "6": 2,
+        "7": 1
+      },
+      "O": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AG": 3,
+      "AN": 1,
+      "AX": 1,
+      "CA": 4,
+      "CO": 8,
+      "GA": 5,
+      "GI": 2,
+      "GO": 5,
+      "IC": 1,
+      "IN": 1,
+      "NA": 1,
+      "NI": 1,
+      "NO": 1,
+      "ON": 1
+    }
+  }
+}

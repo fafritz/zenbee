@@ -1,0 +1,103 @@
+{
+  "pangram": "chiefly",
+  "center_letter": "l",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 115,
+  "answer_pangrams": [
+    "chiefly"
+  ],
+  "answers": [
+    "cell",
+    "chicle",
+    "chiefly",
+    "chili",
+    "chill",
+    "chilly",
+    "clef",
+    "cliche",
+    "cliff",
+    "cycle",
+    "cyclic",
+    "feel",
+    "fell",
+    "filch",
+    "file",
+    "fill",
+    "filly",
+    "flee",
+    "fleece",
+    "fleecy",
+    "heel",
+    "hell",
+    "hill",
+    "hilly",
+    "icicle",
+    "icily",
+    "leech",
+    "lice",
+    "life",
+    "lily",
+    "yell"
+  ],
+  "date": "2031-08-21",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 9,
+      "6": 7,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 11,
+      "F": 9,
+      "H": 4,
+      "I": 2,
+      "L": 4,
+      "Y": 1
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 4,
+        "6": 4,
+        "7": 1
+      },
+      "F": {
+        "4": 5,
+        "5": 2,
+        "6": 2
+      },
+      "H": {
+        "4": 3,
+        "5": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 1,
+      "CH": 5,
+      "CL": 3,
+      "CY": 2,
+      "FE": 2,
+      "FI": 4,
+      "FL": 3,
+      "HE": 2,
+      "HI": 2,
+      "IC": 2,
+      "LE": 1,
+      "LI": 3,
+      "YE": 1
+    }
+  }
+}

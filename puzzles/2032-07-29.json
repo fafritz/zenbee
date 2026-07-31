@@ -1,0 +1,119 @@
+{
+  "pangram": "haircut",
+  "center_letter": "a",
+  "num_answers": 43,
+  "num_pangrams": 1,
+  "possible_points": 201,
+  "answer_pangrams": [
+    "haircut"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "arch",
+    "archaic",
+    "arctic",
+    "aria",
+    "arthritic",
+    "atria",
+    "attach",
+    "attar",
+    "attic",
+    "attract",
+    "aura",
+    "cacti",
+    "carat",
+    "cart",
+    "cataract",
+    "catarrh",
+    "catch",
+    "cathartic",
+    "chair",
+    "char",
+    "chart",
+    "chat",
+    "chitchat",
+    "circa",
+    "hair",
+    "haircut",
+    "hart",
+    "hatch",
+    "hurrah",
+    "ratatat",
+    "tacit",
+    "tact",
+    "tactic",
+    "tart",
+    "tartar",
+    "taut",
+    "that",
+    "thatch",
+    "tiara",
+    "tract",
+    "trait"
+  ],
+  "date": "2032-07-29",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 14,
+      "6": 7,
+      "7": 5,
+      "8": 2,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 13,
+      "C": 13,
+      "H": 5,
+      "R": 1,
+      "T": 11
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "5": 3,
+        "6": 3,
+        "7": 2,
+        "9": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 6,
+        "7": 1,
+        "8": 2,
+        "9": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "R": {
+        "7": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 4,
+        "6": 3
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AR": 5,
+      "AT": 5,
+      "AU": 1,
+      "CA": 7,
+      "CH": 5,
+      "CI": 1,
+      "HA": 4,
+      "HU": 1,
+      "RA": 1,
+      "TA": 6,
+      "TH": 2,
+      "TI": 1,
+      "TR": 2
+    }
+  }
+}

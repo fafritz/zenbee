@@ -1,0 +1,103 @@
+{
+  "pangram": "wildcat",
+  "center_letter": "l",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 102,
+  "answer_pangrams": [
+    "wildcat"
+  ],
+  "answers": [
+    "call",
+    "calla",
+    "catcall",
+    "cattail",
+    "cilia",
+    "clad",
+    "claw",
+    "dial",
+    "dill",
+    "illicit",
+    "italic",
+    "lactic",
+    "laid",
+    "licit",
+    "lilac",
+    "lilt",
+    "tactical",
+    "tail",
+    "talc",
+    "tall",
+    "tidal",
+    "till",
+    "tilt",
+    "twill",
+    "wail",
+    "wall",
+    "wild",
+    "wildcat",
+    "will",
+    "wilt"
+  ],
+  "date": "2035-12-14",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 6,
+      "6": 2,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 7,
+      "D": 2,
+      "I": 2,
+      "L": 5,
+      "T": 8,
+      "W": 6
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 2,
+        "7": 2
+      },
+      "D": {
+        "4": 2
+      },
+      "I": {
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 2,
+        "6": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 2,
+        "8": 1
+      },
+      "W": {
+        "4": 5,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CA": 4,
+      "CI": 1,
+      "CL": 2,
+      "DI": 2,
+      "IL": 1,
+      "IT": 1,
+      "LA": 2,
+      "LI": 3,
+      "TA": 4,
+      "TI": 3,
+      "TW": 1,
+      "WA": 2,
+      "WI": 4
+    }
+  }
+}

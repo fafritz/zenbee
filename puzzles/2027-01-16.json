@@ -1,0 +1,92 @@
+{
+  "pangram": "whaling",
+  "center_letter": "w",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 177,
+  "answer_pangrams": [
+    "whaling"
+  ],
+  "answers": [
+    "awing",
+    "awning",
+    "gnaw",
+    "gnawing",
+    "hawing",
+    "lawn",
+    "wagging",
+    "waggling",
+    "waging",
+    "wail",
+    "wailing",
+    "waling",
+    "wall",
+    "walling",
+    "wangling",
+    "waning",
+    "whaling",
+    "whiling",
+    "whining",
+    "wigging",
+    "wiggling",
+    "wigwag",
+    "wigwagging",
+    "wiling",
+    "will",
+    "willing",
+    "wing",
+    "winging",
+    "wining",
+    "winning"
+  ],
+  "date": "2027-01-16",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 1,
+      "6": 8,
+      "7": 11,
+      "8": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "G": 2,
+      "H": 1,
+      "L": 1,
+      "W": 24
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1
+      },
+      "G": {
+        "4": 1,
+        "7": 1
+      },
+      "H": {
+        "6": 1
+      },
+      "L": {
+        "4": 1
+      },
+      "W": {
+        "4": 4,
+        "6": 6,
+        "7": 10,
+        "8": 3,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AW": 2,
+      "GN": 2,
+      "HA": 1,
+      "LA": 1,
+      "WA": 10,
+      "WH": 3,
+      "WI": 11
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "pangram": "tumbled",
+  "center_letter": "m",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 200,
+  "answer_pangrams": [
+    "tumbled"
+  ],
+  "answers": [
+    "bumble",
+    "bumblebee",
+    "bumbled",
+    "bummed",
+    "deem",
+    "deemed",
+    "dumb",
+    "dumbbell",
+    "embed",
+    "embedded",
+    "emblem",
+    "meddle",
+    "meddled",
+    "meet",
+    "meld",
+    "melded",
+    "melee",
+    "melt",
+    "melted",
+    "meme",
+    "mete",
+    "meted",
+    "mettle",
+    "muddle",
+    "muddled",
+    "mule",
+    "mull",
+    "mulled",
+    "mullet",
+    "mumble",
+    "mumbled",
+    "mute",
+    "muted",
+    "mutt",
+    "muumuu",
+    "teem",
+    "teemed",
+    "tumble",
+    "tumbled",
+    "tumult",
+    "umbel"
+  ],
+  "date": "2035-12-08",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 5,
+      "6": 16,
+      "7": 5,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "B": 4,
+      "D": 4,
+      "E": 3,
+      "M": 24,
+      "T": 5,
+      "U": 1
+    },
+    "grid": {
+      "B": {
+        "6": 2,
+        "7": 1,
+        "9": 1
+      },
+      "D": {
+        "4": 2,
+        "6": 1,
+        "8": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "M": {
+        "4": 9,
+        "5": 3,
+        "6": 9,
+        "7": 3
+      },
+      "T": {
+        "4": 1,
+        "6": 3,
+        "7": 1
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "BU": 4,
+      "DE": 2,
+      "DU": 2,
+      "EM": 3,
+      "ME": 12,
+      "MU": 12,
+      "TE": 2,
+      "TU": 3,
+      "UM": 1
+    }
+  }
+}

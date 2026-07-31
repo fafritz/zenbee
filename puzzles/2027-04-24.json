@@ -1,0 +1,92 @@
+{
+  "pangram": "invoked",
+  "center_letter": "k",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 91,
+  "answer_pangrams": [
+    "invoked"
+  ],
+  "answers": [
+    "dike",
+    "diked",
+    "dink",
+    "eked",
+    "evoke",
+    "evoked",
+    "inked",
+    "invoke",
+    "invoked",
+    "keen",
+    "keened",
+    "kenned",
+    "kidded",
+    "kiddo",
+    "kind",
+    "kink",
+    "kinked",
+    "knee",
+    "kneed",
+    "kook",
+    "nook",
+    "oink",
+    "oinked"
+  ],
+  "date": "2027-04-24",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 5,
+      "6": 7,
+      "7": 1
+    },
+    "by_first_letter": {
+      "D": 3,
+      "E": 3,
+      "I": 3,
+      "K": 11,
+      "N": 1,
+      "O": 2
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "K": {
+        "4": 5,
+        "5": 2,
+        "6": 4
+      },
+      "N": {
+        "4": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "DI": 3,
+      "EK": 1,
+      "EV": 2,
+      "IN": 3,
+      "KE": 3,
+      "KI": 5,
+      "KN": 2,
+      "KO": 1,
+      "NO": 1,
+      "OI": 2
+    }
+  }
+}

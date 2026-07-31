@@ -1,0 +1,93 @@
+{
+  "pangram": "confirm",
+  "center_letter": "n",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 123,
+  "answer_pangrams": [
+    "confirm"
+  ],
+  "answers": [
+    "cocoon",
+    "coffin",
+    "coin",
+    "common",
+    "confirm",
+    "conform",
+    "conic",
+    "corn",
+    "croon",
+    "icon",
+    "infirm",
+    "info",
+    "inform",
+    "iron",
+    "ironic",
+    "micron",
+    "mini",
+    "minim",
+    "minion",
+    "minor",
+    "mono",
+    "moon",
+    "morn",
+    "moron",
+    "moronic",
+    "noncom",
+    "noon",
+    "norm",
+    "onion"
+  ],
+  "date": "2032-02-16",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 6,
+      "6": 9,
+      "7": 3
+    },
+    "by_first_letter": {
+      "C": 9,
+      "I": 6,
+      "M": 10,
+      "N": 3,
+      "O": 1
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "7": 2
+      },
+      "I": {
+        "4": 3,
+        "6": 3
+      },
+      "M": {
+        "4": 4,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "N": {
+        "4": 2,
+        "6": 1
+      },
+      "O": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 8,
+      "CR": 1,
+      "IC": 1,
+      "IN": 3,
+      "IR": 2,
+      "MI": 5,
+      "MO": 5,
+      "NO": 3,
+      "ON": 1
+    }
+  }
+}

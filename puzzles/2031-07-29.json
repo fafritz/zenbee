@@ -1,0 +1,109 @@
+{
+  "pangram": "womanly",
+  "center_letter": "n",
+  "num_answers": 29,
+  "num_pangrams": 2,
+  "possible_points": 108,
+  "answer_pangrams": [
+    "laywoman",
+    "womanly"
+  ],
+  "answers": [
+    "anal",
+    "annoy",
+    "anomaly",
+    "anon",
+    "anyway",
+    "lawn",
+    "layman",
+    "laywoman",
+    "llano",
+    "loan",
+    "loon",
+    "manly",
+    "manna",
+    "many",
+    "moan",
+    "mono",
+    "moon",
+    "myna",
+    "naan",
+    "nana",
+    "nanny",
+    "noon",
+    "noway",
+    "nylon",
+    "only",
+    "wanly",
+    "woman",
+    "womanly",
+    "yawn"
+  ],
+  "date": "2031-07-29",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 9,
+      "6": 2,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "L": 6,
+      "M": 7,
+      "N": 6,
+      "O": 1,
+      "W": 3,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "M": {
+        "4": 5,
+        "5": 2
+      },
+      "N": {
+        "4": 3,
+        "5": 3
+      },
+      "O": {
+        "4": 1
+      },
+      "W": {
+        "5": 2,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 5,
+      "LA": 3,
+      "LL": 1,
+      "LO": 2,
+      "MA": 3,
+      "MO": 3,
+      "MY": 1,
+      "NA": 3,
+      "NO": 2,
+      "NY": 1,
+      "ON": 1,
+      "WA": 1,
+      "WO": 2,
+      "YA": 1
+    }
+  }
+}

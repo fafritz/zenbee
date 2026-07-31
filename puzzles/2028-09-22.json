@@ -1,0 +1,80 @@
+{
+  "pangram": "cowhide",
+  "center_letter": "w",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 97,
+  "answer_pangrams": [
+    "cowhide"
+  ],
+  "answers": [
+    "chew",
+    "chewed",
+    "chow",
+    "chowed",
+    "cowed",
+    "cowhide",
+    "hewed",
+    "owed",
+    "wedded",
+    "weed",
+    "weeded",
+    "whew",
+    "which",
+    "wide",
+    "widow",
+    "widowed",
+    "widowhood",
+    "wood",
+    "wooded",
+    "wooed",
+    "wowed"
+  ],
+  "date": "2028-09-22",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 6,
+      "6": 5,
+      "7": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 6,
+      "H": 1,
+      "O": 1,
+      "W": 13
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "H": {
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "W": {
+        "4": 4,
+        "5": 4,
+        "6": 3,
+        "7": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 4,
+      "CO": 2,
+      "HE": 1,
+      "OW": 1,
+      "WE": 3,
+      "WH": 2,
+      "WI": 4,
+      "WO": 4
+    }
+  }
+}

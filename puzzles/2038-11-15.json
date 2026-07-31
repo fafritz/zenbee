@@ -1,0 +1,101 @@
+{
+  "pangram": "airlock",
+  "center_letter": "k",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 100,
+  "answer_pangrams": [
+    "airlock"
+  ],
+  "answers": [
+    "airlock",
+    "alkali",
+    "clack",
+    "click",
+    "cloak",
+    "clock",
+    "cook",
+    "cork",
+    "crack",
+    "crick",
+    "croak",
+    "crock",
+    "crook",
+    "kick",
+    "kill",
+    "kilo",
+    "koala",
+    "kook",
+    "lack",
+    "lark",
+    "lick",
+    "lock",
+    "look",
+    "oarlock",
+    "okra",
+    "rack",
+    "rick",
+    "rock",
+    "rollick",
+    "rook"
+  ],
+  "date": "2038-11-15",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 10,
+      "6": 1,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 11,
+      "K": 5,
+      "L": 5,
+      "O": 2,
+      "R": 5
+    },
+    "grid": {
+      "A": {
+        "6": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 9
+      },
+      "K": {
+        "4": 4,
+        "5": 1
+      },
+      "L": {
+        "4": 5
+      },
+      "O": {
+        "4": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 4,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AL": 1,
+      "CL": 4,
+      "CO": 2,
+      "CR": 5,
+      "KI": 3,
+      "KO": 2,
+      "LA": 2,
+      "LI": 1,
+      "LO": 2,
+      "OA": 1,
+      "OK": 1,
+      "RA": 1,
+      "RI": 1,
+      "RO": 3
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "pangram": "potency",
+  "center_letter": "y",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 72,
+  "answer_pangrams": [
+    "potency"
+  ],
+  "answers": [
+    "copy",
+    "coyote",
+    "penny",
+    "peony",
+    "peppy",
+    "petty",
+    "peyote",
+    "pony",
+    "poppy",
+    "potency",
+    "potty",
+    "teeny",
+    "tony",
+    "tycoon",
+    "type",
+    "typo"
+  ],
+  "date": "2030-01-14",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 7,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 2,
+      "P": 9,
+      "T": 5
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "6": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 6,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 2,
+      "PE": 5,
+      "PO": 4,
+      "TE": 1,
+      "TO": 1,
+      "TY": 3
+    }
+  }
+}

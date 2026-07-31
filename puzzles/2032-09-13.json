@@ -1,0 +1,121 @@
+{
+  "pangram": "beltway",
+  "center_letter": "t",
+  "num_answers": 39,
+  "num_pangrams": 1,
+  "possible_points": 169,
+  "answer_pangrams": [
+    "beltway"
+  ],
+  "answers": [
+    "abate",
+    "abet",
+    "ballet",
+    "battle",
+    "batty",
+    "beat",
+    "beet",
+    "beetle",
+    "belt",
+    "beltway",
+    "beta",
+    "blat",
+    "bleat",
+    "byte",
+    "eatable",
+    "elate",
+    "eyelet",
+    "late",
+    "lately",
+    "latte",
+    "layette",
+    "tabby",
+    "table",
+    "tablet",
+    "tale",
+    "tall",
+    "tally",
+    "tattle",
+    "tattletale",
+    "tatty",
+    "teal",
+    "tell",
+    "telltale",
+    "tweet",
+    "wallet",
+    "watt",
+    "wattle",
+    "welt",
+    "wetly"
+  ],
+  "date": "2032-09-13",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 11,
+      "6": 9,
+      "7": 3,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 12,
+      "E": 3,
+      "L": 4,
+      "T": 13,
+      "W": 5
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1
+      },
+      "B": {
+        "4": 6,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 5,
+        "6": 2,
+        "8": 1,
+        "10": 1
+      },
+      "W": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 2,
+      "BA": 3,
+      "BE": 6,
+      "BL": 2,
+      "BY": 1,
+      "EA": 1,
+      "EL": 1,
+      "EY": 1,
+      "LA": 4,
+      "TA": 9,
+      "TE": 3,
+      "TW": 1,
+      "WA": 3,
+      "WE": 2
+    }
+  }
+}

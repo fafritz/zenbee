@@ -1,0 +1,105 @@
+{
+  "pangram": "plaudit",
+  "center_letter": "a",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 111,
+  "answer_pangrams": [
+    "plaudit"
+  ],
+  "answers": [
+    "adapt",
+    "adult",
+    "appall",
+    "applaud",
+    "audit",
+    "data",
+    "dial",
+    "dual",
+    "ipad",
+    "laid",
+    "laud",
+    "luau",
+    "paid",
+    "pail",
+    "palatal",
+    "palatial",
+    "pall",
+    "pallid",
+    "papa",
+    "papal",
+    "papilla",
+    "pita",
+    "plaid",
+    "plait",
+    "plaudit",
+    "pupa",
+    "pupal",
+    "tail",
+    "tall",
+    "taut",
+    "tidal"
+  ],
+  "date": "2034-05-25",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 8,
+      "6": 2,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "D": 3,
+      "I": 1,
+      "L": 3,
+      "P": 15,
+      "T": 4
+    },
+    "grid": {
+      "A": {
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 3
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "4": 3
+      },
+      "P": {
+        "4": 6,
+        "5": 4,
+        "6": 1,
+        "7": 3,
+        "8": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 2,
+      "AP": 2,
+      "AU": 1,
+      "DA": 1,
+      "DI": 1,
+      "DU": 1,
+      "IP": 1,
+      "LA": 2,
+      "LU": 1,
+      "PA": 9,
+      "PI": 1,
+      "PL": 3,
+      "PU": 2,
+      "TA": 3,
+      "TI": 1
+    }
+  }
+}

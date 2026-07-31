@@ -1,0 +1,147 @@
+{
+  "pangram": "apricot",
+  "center_letter": "c",
+  "num_answers": 54,
+  "num_pangrams": 4,
+  "possible_points": 302,
+  "answer_pangrams": [
+    "apricot",
+    "capacitor",
+    "participator",
+    "patriotic"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "actor",
+    "apricot",
+    "arctic",
+    "attic",
+    "attract",
+    "cacao",
+    "cacti",
+    "capacitor",
+    "capo",
+    "captor",
+    "carat",
+    "carp",
+    "carpi",
+    "carport",
+    "carrot",
+    "cart",
+    "cataract",
+    "circa",
+    "cirri",
+    "citric",
+    "coat",
+    "coca",
+    "cocci",
+    "cocoa",
+    "coop",
+    "coot",
+    "copra",
+    "corpora",
+    "cottar",
+    "critic",
+    "crop",
+    "optic",
+    "pact",
+    "participator",
+    "patriotic",
+    "pica",
+    "portico",
+    "proctor",
+    "protract",
+    "protractor",
+    "ricotta",
+    "rococo",
+    "tacit",
+    "taco",
+    "tact",
+    "tactic",
+    "tapioca",
+    "topcoat",
+    "topic",
+    "tract",
+    "tractor",
+    "tropic"
+  ],
+  "date": "2036-05-19",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 15,
+      "6": 10,
+      "7": 10,
+      "8": 2,
+      "9": 2,
+      "10": 1,
+      "12": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "C": 26,
+      "O": 1,
+      "P": 8,
+      "R": 2,
+      "T": 10
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 2
+      },
+      "C": {
+        "4": 8,
+        "5": 9,
+        "6": 5,
+        "7": 2,
+        "8": 1,
+        "9": 1
+      },
+      "O": {
+        "5": 1
+      },
+      "P": {
+        "4": 2,
+        "7": 2,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "12": 1
+      },
+      "R": {
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 3,
+        "6": 2,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AP": 1,
+      "AR": 1,
+      "AT": 2,
+      "CA": 12,
+      "CI": 3,
+      "CO": 9,
+      "CR": 2,
+      "OP": 1,
+      "PA": 3,
+      "PI": 1,
+      "PO": 1,
+      "PR": 3,
+      "RI": 1,
+      "RO": 1,
+      "TA": 5,
+      "TO": 2,
+      "TR": 3
+    }
+  }
+}

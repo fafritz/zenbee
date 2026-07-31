@@ -1,0 +1,130 @@
+{
+  "pangram": "meowing",
+  "center_letter": "i",
+  "num_answers": 46,
+  "num_pangrams": 1,
+  "possible_points": 250,
+  "answer_pangrams": [
+    "meowing"
+  ],
+  "answers": [
+    "egging",
+    "engine",
+    "geeing",
+    "genie",
+    "genii",
+    "gigging",
+    "gimme",
+    "ginning",
+    "going",
+    "gonging",
+    "gowning",
+    "inning",
+    "meowing",
+    "mewing",
+    "mien",
+    "mime",
+    "miming",
+    "mine",
+    "mini",
+    "minim",
+    "mining",
+    "minion",
+    "minnow",
+    "mooing",
+    "mooning",
+    "mowing",
+    "nine",
+    "noggin",
+    "nominee",
+    "ongoing",
+    "onion",
+    "owing",
+    "owning",
+    "weeing",
+    "wigeon",
+    "wigging",
+    "wine",
+    "wing",
+    "winging",
+    "wining",
+    "winning",
+    "winnow",
+    "winnowing",
+    "wino",
+    "wooing",
+    "wowing"
+  ],
+  "date": "2032-09-25",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 7,
+      "6": 19,
+      "7": 11,
+      "9": 1
+    },
+    "by_first_letter": {
+      "E": 2,
+      "G": 9,
+      "I": 1,
+      "M": 14,
+      "N": 3,
+      "O": 4,
+      "W": 13
+    },
+    "grid": {
+      "E": {
+        "6": 2
+      },
+      "G": {
+        "5": 4,
+        "6": 1,
+        "7": 4
+      },
+      "I": {
+        "6": 1
+      },
+      "M": {
+        "4": 4,
+        "5": 1,
+        "6": 7,
+        "7": 2
+      },
+      "N": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "O": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "W": {
+        "4": 3,
+        "6": 6,
+        "7": 3,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "EG": 1,
+      "EN": 1,
+      "GE": 3,
+      "GI": 3,
+      "GO": 3,
+      "IN": 1,
+      "ME": 2,
+      "MI": 9,
+      "MO": 3,
+      "NI": 1,
+      "NO": 2,
+      "ON": 2,
+      "OW": 2,
+      "WE": 1,
+      "WI": 10,
+      "WO": 2
+    }
+  }
+}

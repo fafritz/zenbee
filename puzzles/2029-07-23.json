@@ -1,0 +1,123 @@
+{
+  "pangram": "explain",
+  "center_letter": "l",
+  "num_answers": 44,
+  "num_pangrams": 1,
+  "possible_points": 172,
+  "answer_pangrams": [
+    "explain"
+  ],
+  "answers": [
+    "alien",
+    "alpine",
+    "anal",
+    "anneal",
+    "appall",
+    "appeal",
+    "apple",
+    "axial",
+    "axle",
+    "elan",
+    "exile",
+    "expel",
+    "explain",
+    "inline",
+    "lain",
+    "lane",
+    "lapel",
+    "lean",
+    "leap",
+    "lien",
+    "line",
+    "lineal",
+    "linen",
+    "nail",
+    "pail",
+    "pale",
+    "pall",
+    "panel",
+    "papal",
+    "papilla",
+    "papillae",
+    "peal",
+    "peel",
+    "penal",
+    "penile",
+    "pile",
+    "pill",
+    "pineapple",
+    "pipeline",
+    "pixel",
+    "plain",
+    "plan",
+    "plane",
+    "plea"
+  ],
+  "date": "2029-07-23",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 13,
+      "6": 7,
+      "7": 2,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 9,
+      "E": 4,
+      "I": 1,
+      "L": 9,
+      "N": 1,
+      "P": 20
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "6": 4
+      },
+      "E": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "L": {
+        "4": 6,
+        "5": 2,
+        "6": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "P": {
+        "4": 9,
+        "5": 6,
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "AN": 2,
+      "AP": 3,
+      "AX": 2,
+      "EL": 1,
+      "EX": 3,
+      "IN": 1,
+      "LA": 3,
+      "LE": 2,
+      "LI": 4,
+      "NA": 1,
+      "PA": 7,
+      "PE": 4,
+      "PI": 5,
+      "PL": 4
+    }
+  }
+}

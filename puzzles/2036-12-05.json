@@ -1,0 +1,83 @@
+{
+  "pangram": "oviduct",
+  "center_letter": "o",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 74,
+  "answer_pangrams": [
+    "oviduct"
+  ],
+  "answers": [
+    "cocci",
+    "coot",
+    "cutout",
+    "ditto",
+    "divot",
+    "dodo",
+    "idiot",
+    "idiotic",
+    "outdid",
+    "outdo",
+    "oviduct",
+    "ovoid",
+    "toot",
+    "tout",
+    "void",
+    "voodoo"
+  ],
+  "date": "2036-12-05",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 6,
+      "6": 3,
+      "7": 2
+    },
+    "by_first_letter": {
+      "C": 3,
+      "D": 3,
+      "I": 2,
+      "O": 4,
+      "T": 2,
+      "V": 2
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 2
+      },
+      "I": {
+        "5": 1,
+        "7": 1
+      },
+      "O": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 2
+      },
+      "V": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 2,
+      "CU": 1,
+      "DI": 2,
+      "DO": 1,
+      "ID": 2,
+      "OU": 2,
+      "OV": 2,
+      "TO": 2,
+      "VO": 2
+    }
+  }
+}

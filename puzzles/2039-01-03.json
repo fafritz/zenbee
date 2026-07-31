@@ -1,0 +1,80 @@
+{
+  "pangram": "upright",
+  "center_letter": "t",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 59,
+  "answer_pangrams": [
+    "upright"
+  ],
+  "answers": [
+    "girt",
+    "girth",
+    "grit",
+    "hurt",
+    "pipit",
+    "pith",
+    "putt",
+    "right",
+    "thigh",
+    "thug",
+    "tight",
+    "trip",
+    "truth",
+    "tutu",
+    "upright",
+    "uptight"
+  ],
+  "date": "2039-01-03",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 6,
+      "7": 2
+    },
+    "by_first_letter": {
+      "G": 3,
+      "H": 1,
+      "P": 3,
+      "R": 1,
+      "T": 6,
+      "U": 2
+    },
+    "grid": {
+      "G": {
+        "4": 2,
+        "5": 1
+      },
+      "H": {
+        "4": 1
+      },
+      "P": {
+        "4": 2,
+        "5": 1
+      },
+      "R": {
+        "5": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 3
+      },
+      "U": {
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "GI": 2,
+      "GR": 1,
+      "HU": 1,
+      "PI": 2,
+      "PU": 1,
+      "RI": 1,
+      "TH": 2,
+      "TI": 1,
+      "TR": 2,
+      "TU": 1,
+      "UP": 2
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "pangram": "cranium",
+  "center_letter": "r",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 82,
+  "answer_pangrams": [
+    "cranium"
+  ],
+  "answers": [
+    "airman",
+    "aria",
+    "aura",
+    "cairn",
+    "circa",
+    "cirri",
+    "cram",
+    "cranium",
+    "incur",
+    "maraca",
+    "maria",
+    "marina",
+    "murmur",
+    "narc",
+    "rain",
+    "ruin",
+    "runic",
+    "uranium",
+    "uric"
+  ],
+  "date": "2028-08-21",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 6,
+      "6": 4,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 5,
+      "I": 1,
+      "M": 4,
+      "N": 1,
+      "R": 3,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 3,
+        "7": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "M": {
+        "5": 1,
+        "6": 3
+      },
+      "N": {
+        "4": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1
+      },
+      "U": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AR": 1,
+      "AU": 1,
+      "CA": 1,
+      "CI": 2,
+      "CR": 2,
+      "IN": 1,
+      "MA": 3,
+      "MU": 1,
+      "NA": 1,
+      "RA": 1,
+      "RU": 2,
+      "UR": 2
+    }
+  }
+}

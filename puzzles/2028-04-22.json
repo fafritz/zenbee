@@ -1,0 +1,90 @@
+{
+  "pangram": "mailbox",
+  "center_letter": "b",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 85,
+  "answer_pangrams": [
+    "mailbox"
+  ],
+  "answers": [
+    "abloom",
+    "alibi",
+    "baba",
+    "bail",
+    "ball",
+    "balm",
+    "bamboo",
+    "baobab",
+    "bill",
+    "blab",
+    "blob",
+    "bloom",
+    "boil",
+    "bola",
+    "boll",
+    "bomb",
+    "boob",
+    "booboo",
+    "boom",
+    "iamb",
+    "labia",
+    "labial",
+    "lamb",
+    "limb",
+    "limbo",
+    "mailbox",
+    "mambo"
+  ],
+  "date": "2028-04-22",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 5,
+      "6": 5,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 17,
+      "I": 1,
+      "L": 5,
+      "M": 2
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1
+      },
+      "B": {
+        "4": 13,
+        "5": 1,
+        "6": 3
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 2,
+        "6": 1
+      },
+      "M": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AL": 1,
+      "BA": 6,
+      "BI": 1,
+      "BL": 3,
+      "BO": 7,
+      "IA": 1,
+      "LA": 3,
+      "LI": 2,
+      "MA": 2
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "pangram": "gunboat",
+  "center_letter": "n",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 126,
+  "answer_pangrams": [
+    "gunboat"
+  ],
+  "answers": [
+    "anon",
+    "aunt",
+    "baboon",
+    "banana",
+    "bang",
+    "baton",
+    "bonbon",
+    "bong",
+    "bongo",
+    "boon",
+    "bung",
+    "bunt",
+    "button",
+    "gang",
+    "gaunt",
+    "gnat",
+    "gong",
+    "gonna",
+    "goon",
+    "guano",
+    "gunboat",
+    "naan",
+    "nabob",
+    "nana",
+    "nanobot",
+    "noon",
+    "nougat",
+    "noun",
+    "onto",
+    "tang",
+    "tango",
+    "taunt",
+    "toboggan",
+    "toon",
+    "tuna",
+    "unbutton"
+  ],
+  "date": "2030-05-23",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 8,
+      "6": 5,
+      "7": 2,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 11,
+      "G": 8,
+      "N": 7,
+      "O": 1,
+      "T": 6,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2
+      },
+      "B": {
+        "4": 5,
+        "5": 2,
+        "6": 4
+      },
+      "G": {
+        "4": 4,
+        "5": 3,
+        "7": 1
+      },
+      "N": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 2,
+        "8": 1
+      },
+      "U": {
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "AU": 1,
+      "BA": 4,
+      "BO": 4,
+      "BU": 3,
+      "GA": 2,
+      "GN": 1,
+      "GO": 3,
+      "GU": 2,
+      "NA": 4,
+      "NO": 3,
+      "ON": 1,
+      "TA": 3,
+      "TO": 2,
+      "TU": 1,
+      "UN": 1
+    }
+  }
+}

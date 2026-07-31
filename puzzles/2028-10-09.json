@@ -1,0 +1,126 @@
+{
+  "pangram": "walking",
+  "center_letter": "l",
+  "num_answers": 43,
+  "num_pangrams": 1,
+  "possible_points": 211,
+  "answer_pangrams": [
+    "walking"
+  ],
+  "answers": [
+    "ailing",
+    "alga",
+    "align",
+    "aligning",
+    "alkali",
+    "anal",
+    "angling",
+    "gala",
+    "gall",
+    "galling",
+    "ganglia",
+    "gangling",
+    "giggling",
+    "gill",
+    "inkling",
+    "kill",
+    "killing",
+    "kiln",
+    "kilning",
+    "lagging",
+    "lain",
+    "lank",
+    "lawn",
+    "liking",
+    "lining",
+    "link",
+    "linking",
+    "nail",
+    "nailing",
+    "niggling",
+    "waggling",
+    "wail",
+    "wailing",
+    "waling",
+    "walk",
+    "walking",
+    "wall",
+    "walling",
+    "wangling",
+    "wiggling",
+    "wiling",
+    "will",
+    "willing"
+  ],
+  "date": "2028-10-09",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 1,
+      "6": 6,
+      "7": 13,
+      "8": 7
+    },
+    "by_first_letter": {
+      "A": 7,
+      "G": 7,
+      "I": 1,
+      "K": 4,
+      "L": 8,
+      "N": 3,
+      "W": 13
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 3,
+        "7": 2,
+        "8": 2
+      },
+      "I": {
+        "7": 1
+      },
+      "K": {
+        "4": 2,
+        "7": 2
+      },
+      "L": {
+        "4": 4,
+        "6": 2,
+        "7": 2
+      },
+      "N": {
+        "4": 1,
+        "7": 1,
+        "8": 1
+      },
+      "W": {
+        "4": 4,
+        "6": 2,
+        "7": 4,
+        "8": 3
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AL": 4,
+      "AN": 2,
+      "GA": 5,
+      "GI": 2,
+      "IN": 1,
+      "KI": 4,
+      "LA": 4,
+      "LI": 4,
+      "NA": 2,
+      "NI": 1,
+      "WA": 9,
+      "WI": 4
+    }
+  }
+}

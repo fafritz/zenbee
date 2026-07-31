@@ -1,0 +1,94 @@
+{
+  "pangram": "lockjaw",
+  "center_letter": "l",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 82,
+  "answer_pangrams": [
+    "lockjaw"
+  ],
+  "answers": [
+    "allow",
+    "call",
+    "calla",
+    "callow",
+    "clack",
+    "claw",
+    "cloak",
+    "clock",
+    "coal",
+    "cola",
+    "cool",
+    "cowl",
+    "jackal",
+    "jowl",
+    "koala",
+    "lack",
+    "local",
+    "lock",
+    "lockjaw",
+    "loco",
+    "loll",
+    "look",
+    "walk",
+    "wall",
+    "wallow",
+    "wool"
+  ],
+  "date": "2035-07-30",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 7,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 11,
+      "J": 2,
+      "K": 1,
+      "L": 7,
+      "W": 4
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "C": {
+        "4": 6,
+        "5": 4,
+        "6": 1
+      },
+      "J": {
+        "4": 1,
+        "6": 1
+      },
+      "K": {
+        "5": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 1,
+        "7": 1
+      },
+      "W": {
+        "4": 3,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "CA": 3,
+      "CL": 4,
+      "CO": 4,
+      "JA": 1,
+      "JO": 1,
+      "KO": 1,
+      "LA": 1,
+      "LO": 6,
+      "WA": 3,
+      "WO": 1
+    }
+  }
+}

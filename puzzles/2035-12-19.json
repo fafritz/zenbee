@@ -1,0 +1,121 @@
+{
+  "pangram": "defunct",
+  "center_letter": "t",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 190,
+  "answer_pangrams": [
+    "defunct"
+  ],
+  "answers": [
+    "cent",
+    "cute",
+    "decedent",
+    "decent",
+    "deduct",
+    "deducted",
+    "defect",
+    "defected",
+    "deft",
+    "defunct",
+    "dent",
+    "dented",
+    "detect",
+    "detected",
+    "detente",
+    "duct",
+    "duet",
+    "effect",
+    "effected",
+    "effete",
+    "entente",
+    "etude",
+    "feet",
+    "fete",
+    "feted",
+    "netted",
+    "nutted",
+    "teed",
+    "teen",
+    "tend",
+    "tended",
+    "tenet",
+    "tent",
+    "tented",
+    "tuft",
+    "tufted",
+    "tune",
+    "tuned",
+    "tutu",
+    "uncut",
+    "undetected"
+  ],
+  "date": "2035-12-19",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 5,
+      "6": 12,
+      "7": 3,
+      "8": 5,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 2,
+      "D": 15,
+      "E": 5,
+      "F": 3,
+      "N": 2,
+      "T": 12,
+      "U": 2
+    },
+    "grid": {
+      "C": {
+        "4": 2
+      },
+      "D": {
+        "4": 4,
+        "6": 5,
+        "7": 2,
+        "8": 4
+      },
+      "E": {
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "F": {
+        "4": 2,
+        "5": 1
+      },
+      "N": {
+        "6": 2
+      },
+      "T": {
+        "4": 7,
+        "5": 2,
+        "6": 3
+      },
+      "U": {
+        "5": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 1,
+      "CU": 1,
+      "DE": 13,
+      "DU": 2,
+      "EF": 3,
+      "EN": 1,
+      "ET": 1,
+      "FE": 3,
+      "NE": 1,
+      "NU": 1,
+      "TE": 7,
+      "TU": 5,
+      "UN": 2
+    }
+  }
+}

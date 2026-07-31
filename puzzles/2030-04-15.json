@@ -1,0 +1,112 @@
+{
+  "pangram": "penalty",
+  "center_letter": "y",
+  "num_answers": 31,
+  "num_pangrams": 3,
+  "possible_points": 175,
+  "answer_pangrams": [
+    "aplenty",
+    "patently",
+    "penalty"
+  ],
+  "answers": [
+    "allay",
+    "alley",
+    "ally",
+    "aplenty",
+    "apply",
+    "aptly",
+    "eyelet",
+    "lately",
+    "layette",
+    "nanny",
+    "nappy",
+    "natty",
+    "neatly",
+    "papaya",
+    "patently",
+    "patty",
+    "payee",
+    "penalty",
+    "penny",
+    "peppy",
+    "petty",
+    "play",
+    "playpen",
+    "plenty",
+    "tally",
+    "tatty",
+    "teeny",
+    "teletype",
+    "type",
+    "yell",
+    "yelp"
+  ],
+  "date": "2030-04-15",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 15,
+      "6": 5,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 6,
+      "E": 1,
+      "L": 2,
+      "N": 4,
+      "P": 11,
+      "T": 5,
+      "Y": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 4,
+        "7": 1
+      },
+      "E": {
+        "6": 1
+      },
+      "L": {
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "5": 3,
+        "6": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 5,
+        "6": 2,
+        "7": 2,
+        "8": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 3,
+        "8": 1
+      },
+      "Y": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 3,
+      "AP": 3,
+      "EY": 1,
+      "LA": 2,
+      "NA": 3,
+      "NE": 1,
+      "PA": 4,
+      "PE": 4,
+      "PL": 3,
+      "TA": 2,
+      "TE": 2,
+      "TY": 1,
+      "YE": 2
+    }
+  }
+}

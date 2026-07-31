@@ -1,0 +1,102 @@
+{
+  "pangram": "complex",
+  "center_letter": "o",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 78,
+  "answer_pangrams": [
+    "complex"
+  ],
+  "answers": [
+    "cello",
+    "clomp",
+    "clop",
+    "come",
+    "comp",
+    "compel",
+    "complex",
+    "compo",
+    "cool",
+    "coop",
+    "cope",
+    "elope",
+    "expo",
+    "loco",
+    "loll",
+    "loom",
+    "loop",
+    "lope",
+    "memo",
+    "mole",
+    "moll",
+    "mope",
+    "oleo",
+    "people",
+    "plop",
+    "poem",
+    "pole",
+    "poll",
+    "polo",
+    "pommel",
+    "pomp",
+    "pool",
+    "poop",
+    "pope"
+  ],
+  "date": "2036-04-16",
+  "hints": {
+    "by_length": {
+      "4": 26,
+      "5": 4,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 11,
+      "E": 2,
+      "L": 5,
+      "M": 4,
+      "O": 1,
+      "P": 11
+    },
+    "grid": {
+      "C": {
+        "4": 6,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 5
+      },
+      "M": {
+        "4": 4
+      },
+      "O": {
+        "4": 1
+      },
+      "P": {
+        "4": 9,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "CE": 1,
+      "CL": 2,
+      "CO": 8,
+      "EL": 1,
+      "EX": 1,
+      "LO": 5,
+      "ME": 1,
+      "MO": 3,
+      "OL": 1,
+      "PE": 1,
+      "PL": 1,
+      "PO": 9
+    }
+  }
+}

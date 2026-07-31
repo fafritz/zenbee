@@ -1,0 +1,117 @@
+{
+  "pangram": "laundry",
+  "center_letter": "a",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 145,
+  "answer_pangrams": [
+    "laundry"
+  ],
+  "answers": [
+    "allay",
+    "ally",
+    "anal",
+    "annual",
+    "annually",
+    "annul",
+    "annular",
+    "array",
+    "aura",
+    "aural",
+    "aurally",
+    "daddy",
+    "dally",
+    "dandy",
+    "darn",
+    "dray",
+    "dryad",
+    "dual",
+    "dullard",
+    "lady",
+    "land",
+    "landlady",
+    "lanyard",
+    "lard",
+    "laud",
+    "laundry",
+    "luau",
+    "lunar",
+    "naan",
+    "nana",
+    "nanny",
+    "radar",
+    "rally",
+    "rural",
+    "ulna",
+    "yard",
+    "yarn"
+  ],
+  "date": "2030-11-16",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 13,
+      "6": 1,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 11,
+      "D": 8,
+      "L": 9,
+      "N": 3,
+      "R": 3,
+      "U": 1,
+      "Y": 2
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 4,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "D": {
+        "4": 3,
+        "5": 4,
+        "7": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 1,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 2,
+        "5": 1
+      },
+      "R": {
+        "5": 3
+      },
+      "U": {
+        "4": 1
+      },
+      "Y": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "AN": 5,
+      "AR": 1,
+      "AU": 3,
+      "DA": 4,
+      "DR": 2,
+      "DU": 2,
+      "LA": 7,
+      "LU": 2,
+      "NA": 3,
+      "RA": 2,
+      "RU": 1,
+      "UL": 1,
+      "YA": 2
+    }
+  }
+}

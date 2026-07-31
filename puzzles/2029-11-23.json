@@ -1,0 +1,104 @@
+{
+  "pangram": "haunted",
+  "center_letter": "h",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 167,
+  "answer_pangrams": [
+    "haunted"
+  ],
+  "answers": [
+    "ahead",
+    "death",
+    "hand",
+    "handed",
+    "hate",
+    "hated",
+    "hatted",
+    "haunt",
+    "haunted",
+    "head",
+    "headed",
+    "heat",
+    "heated",
+    "heath",
+    "heathen",
+    "heed",
+    "heeded",
+    "henna",
+    "hennaed",
+    "hunt",
+    "hunted",
+    "neath",
+    "teeth",
+    "teethe",
+    "teethed",
+    "tenth",
+    "than",
+    "that",
+    "thee",
+    "then",
+    "theta",
+    "thud",
+    "thudded",
+    "unhand",
+    "unhanded",
+    "unheeded"
+  ],
+  "date": "2029-11-23",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 10,
+      "6": 8,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "D": 1,
+      "H": 19,
+      "N": 1,
+      "T": 11,
+      "U": 3
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "D": {
+        "5": 1
+      },
+      "H": {
+        "4": 6,
+        "5": 4,
+        "6": 6,
+        "7": 3
+      },
+      "N": {
+        "5": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 3,
+        "6": 1,
+        "7": 2
+      },
+      "U": {
+        "6": 1,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "AH": 1,
+      "DE": 1,
+      "HA": 7,
+      "HE": 10,
+      "HU": 2,
+      "NE": 1,
+      "TE": 4,
+      "TH": 7,
+      "UN": 3
+    }
+  }
+}

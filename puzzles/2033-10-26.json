@@ -1,0 +1,108 @@
+{
+  "pangram": "drought",
+  "center_letter": "r",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 116,
+  "answer_pangrams": [
+    "drought"
+  ],
+  "answers": [
+    "dogtrot",
+    "door",
+    "dour",
+    "drought",
+    "drug",
+    "gourd",
+    "grog",
+    "grotto",
+    "guru",
+    "horror",
+    "hour",
+    "hurt",
+    "odor",
+    "outdoor",
+    "rood",
+    "root",
+    "rotor",
+    "rough",
+    "rout",
+    "thorough",
+    "through",
+    "throughout",
+    "tort",
+    "tour",
+    "trod",
+    "trot",
+    "trough",
+    "trout",
+    "truth",
+    "tutor"
+  ],
+  "date": "2033-10-26",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 6,
+      "6": 3,
+      "7": 4,
+      "8": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "D": 5,
+      "G": 4,
+      "H": 3,
+      "O": 2,
+      "R": 5,
+      "T": 11
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "7": 2
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 2,
+        "6": 1
+      },
+      "O": {
+        "4": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 3,
+        "5": 2
+      },
+      "T": {
+        "4": 4,
+        "5": 3,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 3,
+      "DR": 2,
+      "GO": 1,
+      "GR": 2,
+      "GU": 1,
+      "HO": 2,
+      "HU": 1,
+      "OD": 1,
+      "OU": 1,
+      "RO": 5,
+      "TH": 3,
+      "TO": 2,
+      "TR": 5,
+      "TU": 1
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "pangram": "peafowl",
+  "center_letter": "w",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 92,
+  "answer_pangrams": [
+    "peafowl"
+  ],
+  "answers": [
+    "allow",
+    "fallow",
+    "fellow",
+    "flaw",
+    "flew",
+    "flow",
+    "follow",
+    "fowl",
+    "pawl",
+    "pawpaw",
+    "peafowl",
+    "peewee",
+    "pewee",
+    "plow",
+    "powwow",
+    "waffle",
+    "wale",
+    "wall",
+    "wallop",
+    "wallow",
+    "weal",
+    "weep",
+    "well",
+    "wolf",
+    "woof",
+    "wool"
+  ],
+  "date": "2034-06-23",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 2,
+      "6": 9,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "F": 7,
+      "P": 7,
+      "W": 11
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "F": {
+        "4": 4,
+        "6": 3
+      },
+      "P": {
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 1
+      },
+      "W": {
+        "4": 8,
+        "6": 3
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "FA": 1,
+      "FE": 1,
+      "FL": 3,
+      "FO": 2,
+      "PA": 2,
+      "PE": 3,
+      "PL": 1,
+      "PO": 1,
+      "WA": 5,
+      "WE": 3,
+      "WO": 3
+    }
+  }
+}

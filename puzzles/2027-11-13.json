@@ -1,0 +1,90 @@
+{
+  "pangram": "privacy",
+  "center_letter": "r",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 92,
+  "answer_pangrams": [
+    "privacy"
+  ],
+  "answers": [
+    "airy",
+    "apiary",
+    "aria",
+    "array",
+    "aviary",
+    "carp",
+    "carpi",
+    "carry",
+    "caviar",
+    "circa",
+    "cirri",
+    "cray",
+    "pair",
+    "papyri",
+    "parry",
+    "piracy",
+    "pray",
+    "privacy",
+    "privy",
+    "racy",
+    "vary",
+    "vicar"
+  ],
+  "date": "2027-11-13",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 8,
+      "6": 5,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 7,
+      "P": 7,
+      "R": 1,
+      "V": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "C": {
+        "4": 2,
+        "5": 4,
+        "6": 1
+      },
+      "P": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "R": {
+        "4": 1
+      },
+      "V": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AP": 1,
+      "AR": 2,
+      "AV": 1,
+      "CA": 4,
+      "CI": 2,
+      "CR": 1,
+      "PA": 3,
+      "PI": 1,
+      "PR": 3,
+      "RA": 1,
+      "VA": 1,
+      "VI": 1
+    }
+  }
+}

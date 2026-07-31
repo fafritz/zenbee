@@ -1,0 +1,139 @@
+{
+  "pangram": "cowling",
+  "center_letter": "l",
+  "num_answers": 51,
+  "num_pangrams": 2,
+  "possible_points": 255,
+  "answer_pangrams": [
+    "clowning",
+    "cowling"
+  ],
+  "answers": [
+    "cling",
+    "clinging",
+    "clinic",
+    "clog",
+    "clogging",
+    "cloning",
+    "clown",
+    "clowning",
+    "coil",
+    "coiling",
+    "colic",
+    "colon",
+    "cool",
+    "cooling",
+    "cowl",
+    "cowling",
+    "giggling",
+    "gigolo",
+    "gill",
+    "glow",
+    "glowing",
+    "goggling",
+    "googling",
+    "igloo",
+    "inclining",
+    "lingo",
+    "lining",
+    "lion",
+    "loci",
+    "loco",
+    "logging",
+    "logic",
+    "login",
+    "logo",
+    "loin",
+    "loll",
+    "lolling",
+    "long",
+    "longing",
+    "loon",
+    "lowing",
+    "niggling",
+    "ogling",
+    "oiling",
+    "olio",
+    "wiggling",
+    "wiling",
+    "will",
+    "willing",
+    "willow",
+    "wool"
+  ],
+  "date": "2033-01-02",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 8,
+      "6": 8,
+      "7": 9,
+      "8": 8,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 16,
+      "G": 7,
+      "I": 2,
+      "L": 16,
+      "N": 1,
+      "O": 3,
+      "W": 6
+    },
+    "grid": {
+      "C": {
+        "4": 4,
+        "5": 4,
+        "6": 1,
+        "7": 4,
+        "8": 3
+      },
+      "G": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "8": 3
+      },
+      "I": {
+        "5": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 8,
+        "5": 3,
+        "6": 2,
+        "7": 3
+      },
+      "N": {
+        "8": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 2
+      },
+      "W": {
+        "4": 2,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 8,
+      "CO": 8,
+      "GI": 3,
+      "GL": 2,
+      "GO": 2,
+      "IG": 1,
+      "IN": 1,
+      "LI": 3,
+      "LO": 13,
+      "NI": 1,
+      "OG": 1,
+      "OI": 1,
+      "OL": 1,
+      "WI": 5,
+      "WO": 1
+    }
+  }
+}

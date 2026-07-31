@@ -1,0 +1,88 @@
+{
+  "pangram": "outback",
+  "center_letter": "b",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 98,
+  "answer_pangrams": [
+    "outback"
+  ],
+  "answers": [
+    "aback",
+    "abbot",
+    "about",
+    "abut",
+    "baba",
+    "back",
+    "baobab",
+    "boat",
+    "bobcat",
+    "boob",
+    "booboo",
+    "book",
+    "boot",
+    "bout",
+    "buck",
+    "buttock",
+    "catboat",
+    "cookbook",
+    "cutback",
+    "outback",
+    "taboo",
+    "tobacco",
+    "tuba"
+  ],
+  "date": "2035-08-17",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 4,
+      "6": 3,
+      "7": 5,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "B": 12,
+      "C": 3,
+      "O": 1,
+      "T": 3
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3
+      },
+      "B": {
+        "4": 8,
+        "6": 3,
+        "7": 1
+      },
+      "C": {
+        "7": 2,
+        "8": 1
+      },
+      "O": {
+        "7": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 4,
+      "BA": 3,
+      "BO": 7,
+      "BU": 2,
+      "CA": 1,
+      "CO": 1,
+      "CU": 1,
+      "OU": 1,
+      "TA": 1,
+      "TO": 1,
+      "TU": 1
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "pangram": "hayloft",
+  "center_letter": "f",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 136,
+  "answer_pangrams": [
+    "hayloft"
+  ],
+  "answers": [
+    "afloat",
+    "afoot",
+    "alfalfa",
+    "aloft",
+    "aloof",
+    "fall",
+    "falloff",
+    "fatal",
+    "fatally",
+    "fatty",
+    "flat",
+    "flatfoot",
+    "flatly",
+    "flay",
+    "float",
+    "foal",
+    "folly",
+    "fool",
+    "foot",
+    "footfall",
+    "haft",
+    "half",
+    "hayloft",
+    "hoof",
+    "layoff",
+    "loaf",
+    "loft",
+    "lofty",
+    "loofah",
+    "offal",
+    "taffy"
+  ],
+  "date": "2032-03-25",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 10,
+      "6": 4,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "F": 15,
+      "H": 4,
+      "L": 5,
+      "O": 1,
+      "T": 1
+    },
+    "grid": {
+      "A": {
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "F": {
+        "4": 6,
+        "5": 4,
+        "6": 1,
+        "7": 2,
+        "8": 2
+      },
+      "H": {
+        "4": 3,
+        "7": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "O": {
+        "5": 1
+      },
+      "T": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AF": 2,
+      "AL": 3,
+      "FA": 5,
+      "FL": 5,
+      "FO": 5,
+      "HA": 3,
+      "HO": 1,
+      "LA": 1,
+      "LO": 4,
+      "OF": 1,
+      "TA": 1
+    }
+  }
+}

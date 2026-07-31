@@ -1,0 +1,126 @@
+{
+  "pangram": "albumin",
+  "center_letter": "l",
+  "num_answers": 45,
+  "num_pangrams": 1,
+  "possible_points": 157,
+  "answer_pangrams": [
+    "albumin"
+  ],
+  "answers": [
+    "album",
+    "albumin",
+    "alibi",
+    "alum",
+    "aluminum",
+    "alumna",
+    "alumni",
+    "anal",
+    "animal",
+    "annual",
+    "annul",
+    "bail",
+    "ball",
+    "balm",
+    "banal",
+    "biannual",
+    "bill",
+    "blab",
+    "bulb",
+    "bulimia",
+    "bull",
+    "labia",
+    "labial",
+    "lain",
+    "lama",
+    "lamb",
+    "limb",
+    "limn",
+    "llama",
+    "luau",
+    "lull",
+    "lulu",
+    "mail",
+    "mailman",
+    "mall",
+    "mammal",
+    "mammalian",
+    "manual",
+    "maul",
+    "mill",
+    "minimal",
+    "mull",
+    "nail",
+    "null",
+    "ulna"
+  ],
+  "date": "2038-02-26",
+  "hints": {
+    "by_length": {
+      "4": 25,
+      "5": 6,
+      "6": 7,
+      "7": 4,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 11,
+      "B": 10,
+      "L": 11,
+      "M": 10,
+      "N": 2,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "6": 4,
+        "7": 1,
+        "8": 1
+      },
+      "B": {
+        "4": 7,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      },
+      "L": {
+        "4": 8,
+        "5": 2,
+        "6": 1
+      },
+      "M": {
+        "4": 5,
+        "6": 2,
+        "7": 2,
+        "9": 1
+      },
+      "N": {
+        "4": 2
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 7,
+      "AN": 4,
+      "BA": 4,
+      "BI": 2,
+      "BL": 1,
+      "BU": 3,
+      "LA": 5,
+      "LI": 2,
+      "LL": 1,
+      "LU": 3,
+      "MA": 7,
+      "MI": 2,
+      "MU": 1,
+      "NA": 1,
+      "NU": 1,
+      "UL": 1
+    }
+  }
+}

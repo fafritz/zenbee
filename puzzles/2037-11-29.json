@@ -1,0 +1,104 @@
+{
+  "pangram": "alimony",
+  "center_letter": "y",
+  "num_answers": 26,
+  "num_pangrams": 2,
+  "possible_points": 128,
+  "answer_pangrams": [
+    "alimony",
+    "nominally"
+  ],
+  "answers": [
+    "alimony",
+    "allay",
+    "alloy",
+    "ally",
+    "annoy",
+    "anomaly",
+    "inlay",
+    "layman",
+    "lily",
+    "limy",
+    "loamy",
+    "loyal",
+    "loyally",
+    "mainly",
+    "manly",
+    "many",
+    "mayo",
+    "minimally",
+    "mommy",
+    "myna",
+    "nanny",
+    "ninny",
+    "nominally",
+    "nylon",
+    "oily",
+    "only"
+  ],
+  "date": "2037-11-29",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 11,
+      "6": 2,
+      "7": 3,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 6,
+      "I": 1,
+      "L": 6,
+      "M": 7,
+      "N": 4,
+      "O": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "7": 2
+      },
+      "I": {
+        "5": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "M": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "9": 1
+      },
+      "N": {
+        "5": 3,
+        "9": 1
+      },
+      "O": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AL": 4,
+      "AN": 2,
+      "IN": 1,
+      "LA": 1,
+      "LI": 2,
+      "LO": 3,
+      "MA": 4,
+      "MI": 1,
+      "MO": 1,
+      "MY": 1,
+      "NA": 1,
+      "NI": 1,
+      "NO": 1,
+      "NY": 1,
+      "OI": 1,
+      "ON": 1
+    }
+  }
+}

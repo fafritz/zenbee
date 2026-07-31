@@ -1,0 +1,99 @@
+{
+  "pangram": "cowgirl",
+  "center_letter": "l",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 73,
+  "answer_pangrams": [
+    "cowgirl"
+  ],
+  "answers": [
+    "clog",
+    "coil",
+    "colic",
+    "color",
+    "cool",
+    "cowgirl",
+    "cowl",
+    "gigolo",
+    "gill",
+    "girl",
+    "glow",
+    "grill",
+    "growl",
+    "igloo",
+    "loci",
+    "loco",
+    "logic",
+    "logo",
+    "loll",
+    "olio",
+    "rill",
+    "roil",
+    "roll",
+    "will",
+    "willow",
+    "wool"
+  ],
+  "date": "2026-05-02",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 6,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 7,
+      "G": 6,
+      "I": 1,
+      "L": 5,
+      "O": 1,
+      "R": 3,
+      "W": 3
+    },
+    "grid": {
+      "C": {
+        "4": 4,
+        "5": 2,
+        "7": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 2,
+        "6": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "R": {
+        "4": 3
+      },
+      "W": {
+        "4": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 1,
+      "CO": 6,
+      "GI": 3,
+      "GL": 1,
+      "GR": 2,
+      "IG": 1,
+      "LO": 5,
+      "OL": 1,
+      "RI": 1,
+      "RO": 2,
+      "WI": 2,
+      "WO": 1
+    }
+  }
+}

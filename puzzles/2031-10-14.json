@@ -1,0 +1,92 @@
+{
+  "pangram": "alchemy",
+  "center_letter": "c",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 86,
+  "answer_pangrams": [
+    "alchemy"
+  ],
+  "answers": [
+    "ache",
+    "achy",
+    "acme",
+    "alchemy",
+    "cache",
+    "call",
+    "calla",
+    "calm",
+    "calmly",
+    "came",
+    "camel",
+    "cell",
+    "chem",
+    "clam",
+    "clammy",
+    "clay",
+    "clayey",
+    "cycle",
+    "each",
+    "emcee",
+    "lace",
+    "lacy",
+    "leach",
+    "leech",
+    "mace",
+    "mecca"
+  ],
+  "date": "2031-10-14",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 8,
+      "6": 3,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 14,
+      "E": 2,
+      "L": 4,
+      "M": 2
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "7": 1
+      },
+      "C": {
+        "4": 7,
+        "5": 4,
+        "6": 3
+      },
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 2
+      },
+      "M": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 3,
+      "AL": 1,
+      "CA": 7,
+      "CE": 1,
+      "CH": 1,
+      "CL": 4,
+      "CY": 1,
+      "EA": 1,
+      "EM": 1,
+      "LA": 2,
+      "LE": 2,
+      "MA": 1,
+      "ME": 1
+    }
+  }
+}

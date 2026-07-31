@@ -1,0 +1,127 @@
+{
+  "pangram": "biplane",
+  "center_letter": "i",
+  "num_answers": 43,
+  "num_pangrams": 2,
+  "possible_points": 211,
+  "answer_pangrams": [
+    "biplane",
+    "plebeian"
+  ],
+  "answers": [
+    "alibi",
+    "alien",
+    "alienable",
+    "alpine",
+    "bail",
+    "beeline",
+    "belie",
+    "bible",
+    "biennial",
+    "bile",
+    "bill",
+    "biplane",
+    "blip",
+    "inalienable",
+    "inane",
+    "inline",
+    "labia",
+    "labial",
+    "lain",
+    "liable",
+    "libel",
+    "lien",
+    "line",
+    "lineal",
+    "linen",
+    "nail",
+    "nibble",
+    "nine",
+    "pail",
+    "pain",
+    "papilla",
+    "papillae",
+    "penile",
+    "pile",
+    "pill",
+    "pine",
+    "pineapple",
+    "pipe",
+    "pipeline",
+    "pippin",
+    "plain",
+    "plebeian",
+    "pliable"
+  ],
+  "date": "2033-05-25",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 9,
+      "6": 8,
+      "7": 4,
+      "8": 4,
+      "9": 2,
+      "11": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "B": 9,
+      "I": 3,
+      "L": 9,
+      "N": 3,
+      "P": 15
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "6": 1,
+        "9": 1
+      },
+      "B": {
+        "4": 4,
+        "5": 2,
+        "7": 2,
+        "8": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 1,
+        "11": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 3,
+        "6": 3
+      },
+      "N": {
+        "4": 2,
+        "6": 1
+      },
+      "P": {
+        "4": 6,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 3,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 4,
+      "BA": 1,
+      "BE": 2,
+      "BI": 5,
+      "BL": 1,
+      "IN": 3,
+      "LA": 3,
+      "LI": 6,
+      "NA": 1,
+      "NI": 2,
+      "PA": 4,
+      "PE": 1,
+      "PI": 7,
+      "PL": 3
+    }
+  }
+}

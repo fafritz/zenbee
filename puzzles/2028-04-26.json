@@ -1,0 +1,131 @@
+{
+  "pangram": "curtain",
+  "center_letter": "c",
+  "num_answers": 39,
+  "num_pangrams": 2,
+  "possible_points": 215,
+  "answer_pangrams": [
+    "curtain",
+    "taciturn"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "antarctic",
+    "antic",
+    "arctic",
+    "attic",
+    "attract",
+    "cacti",
+    "cairn",
+    "cancan",
+    "canna",
+    "cant",
+    "cantata",
+    "carat",
+    "cart",
+    "cataract",
+    "circa",
+    "circuit",
+    "cirri",
+    "citric",
+    "critic",
+    "currant",
+    "curt",
+    "curtain",
+    "incur",
+    "intact",
+    "narc",
+    "niacin",
+    "runic",
+    "tacit",
+    "taciturn",
+    "tact",
+    "tactic",
+    "tactician",
+    "titanic",
+    "tract",
+    "tunic",
+    "uncut",
+    "uric"
+  ],
+  "date": "2028-04-26",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 14,
+      "6": 8,
+      "7": 6,
+      "8": 2,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 7,
+      "C": 17,
+      "I": 2,
+      "N": 2,
+      "R": 1,
+      "T": 8,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "9": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 6,
+        "6": 3,
+        "7": 4,
+        "8": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "R": {
+        "5": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "U": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AN": 2,
+      "AR": 1,
+      "AT": 2,
+      "CA": 9,
+      "CI": 4,
+      "CR": 1,
+      "CU": 3,
+      "IN": 2,
+      "NA": 1,
+      "NI": 1,
+      "RU": 1,
+      "TA": 5,
+      "TI": 1,
+      "TR": 1,
+      "TU": 1,
+      "UN": 1,
+      "UR": 1
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "pangram": "poultry",
+  "center_letter": "l",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 93,
+  "answer_pangrams": [
+    "poultry"
+  ],
+  "answers": [
+    "loll",
+    "loop",
+    "loopy",
+    "loot",
+    "lorry",
+    "lotto",
+    "lout",
+    "lull",
+    "lulu",
+    "plop",
+    "plot",
+    "ploy",
+    "poll",
+    "polo",
+    "polyp",
+    "pool",
+    "poorly",
+    "portly",
+    "poultry",
+    "pull",
+    "pullout",
+    "pulp",
+    "pulpy",
+    "purl",
+    "roll",
+    "toll",
+    "tool",
+    "troll",
+    "trollop",
+    "truly"
+  ],
+  "date": "2026-10-11",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 7,
+      "6": 2,
+      "7": 3
+    },
+    "by_first_letter": {
+      "L": 9,
+      "P": 15,
+      "R": 1,
+      "T": 5
+    },
+    "grid": {
+      "L": {
+        "4": 6,
+        "5": 3
+      },
+      "P": {
+        "4": 9,
+        "5": 2,
+        "6": 2,
+        "7": 2
+      },
+      "R": {
+        "4": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "LO": 7,
+      "LU": 2,
+      "PL": 3,
+      "PO": 7,
+      "PU": 5,
+      "RO": 1,
+      "TO": 2,
+      "TR": 3
+    }
+  }
+}

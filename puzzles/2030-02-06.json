@@ -1,0 +1,128 @@
+{
+  "pangram": "varying",
+  "center_letter": "r",
+  "num_answers": 45,
+  "num_pangrams": 1,
+  "possible_points": 246,
+  "answer_pangrams": [
+    "varying"
+  ],
+  "answers": [
+    "agar",
+    "agrarian",
+    "airing",
+    "airy",
+    "angry",
+    "aria",
+    "arraign",
+    "arraigning",
+    "arranging",
+    "array",
+    "arraying",
+    "arriving",
+    "aviary",
+    "garaging",
+    "grain",
+    "grainy",
+    "granary",
+    "granny",
+    "graving",
+    "gravy",
+    "gray",
+    "graying",
+    "grin",
+    "grinning",
+    "nirvana",
+    "raga",
+    "ragging",
+    "raging",
+    "rain",
+    "raining",
+    "rainy",
+    "rang",
+    "ranging",
+    "rangy",
+    "raring",
+    "ravaging",
+    "raving",
+    "rigging",
+    "ring",
+    "ringing",
+    "vagary",
+    "vary",
+    "varying",
+    "virgin",
+    "yarn"
+  ],
+  "date": "2030-02-06",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 6,
+      "6": 9,
+      "7": 11,
+      "8": 6,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 13,
+      "G": 11,
+      "N": 1,
+      "R": 15,
+      "V": 4,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "8": 3,
+        "9": 1,
+        "10": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 3,
+        "8": 2
+      },
+      "N": {
+        "7": 1
+      },
+      "R": {
+        "4": 4,
+        "5": 2,
+        "6": 3,
+        "7": 5,
+        "8": 1
+      },
+      "V": {
+        "4": 1,
+        "6": 2,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 2,
+      "AN": 1,
+      "AR": 7,
+      "AV": 1,
+      "GA": 1,
+      "GR": 10,
+      "NI": 1,
+      "RA": 12,
+      "RI": 3,
+      "VA": 3,
+      "VI": 1,
+      "YA": 1
+    }
+  }
+}

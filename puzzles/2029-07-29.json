@@ -1,0 +1,152 @@
+{
+  "pangram": "mutable",
+  "center_letter": "m",
+  "num_answers": 61,
+  "num_pangrams": 1,
+  "possible_points": 245,
+  "answer_pangrams": [
+    "mutable"
+  ],
+  "answers": [
+    "abeam",
+    "album",
+    "alum",
+    "amble",
+    "amulet",
+    "balm",
+    "beam",
+    "blame",
+    "bumble",
+    "bumblebee",
+    "embalm",
+    "emblem",
+    "emulate",
+    "lama",
+    "lamb",
+    "lame",
+    "lemma",
+    "llama",
+    "male",
+    "mall",
+    "malleable",
+    "mallet",
+    "malt",
+    "mama",
+    "mamma",
+    "mammae",
+    "mammal",
+    "mate",
+    "matte",
+    "maul",
+    "meal",
+    "meat",
+    "meatball",
+    "meet",
+    "melee",
+    "melt",
+    "meme",
+    "meta",
+    "metal",
+    "mete",
+    "mettle",
+    "mule",
+    "mull",
+    "mullet",
+    "mumble",
+    "mutable",
+    "mutate",
+    "mute",
+    "mutt",
+    "mutual",
+    "muumuu",
+    "tamable",
+    "tamale",
+    "tame",
+    "team",
+    "teammate",
+    "teem",
+    "tumble",
+    "tumult",
+    "umbel",
+    "umlaut"
+  ],
+  "date": "2029-07-29",
+  "hints": {
+    "by_length": {
+      "4": 26,
+      "5": 11,
+      "6": 17,
+      "7": 3,
+      "8": 2,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 5,
+      "B": 5,
+      "E": 3,
+      "L": 5,
+      "M": 33,
+      "T": 8,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 1
+      },
+      "B": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "9": 1
+      },
+      "E": {
+        "6": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 2
+      },
+      "M": {
+        "4": 17,
+        "5": 4,
+        "6": 9,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "T": {
+        "4": 3,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "U": {
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AL": 2,
+      "AM": 2,
+      "BA": 1,
+      "BE": 1,
+      "BL": 1,
+      "BU": 2,
+      "EM": 3,
+      "LA": 3,
+      "LE": 1,
+      "LL": 1,
+      "MA": 12,
+      "ME": 11,
+      "MU": 10,
+      "TA": 3,
+      "TE": 3,
+      "TU": 2,
+      "UM": 2
+    }
+  }
+}

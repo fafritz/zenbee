@@ -1,0 +1,114 @@
+{
+  "pangram": "aground",
+  "center_letter": "a",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 136,
+  "answer_pangrams": [
+    "aground"
+  ],
+  "answers": [
+    "adorn",
+    "agar",
+    "agog",
+    "aground",
+    "angora",
+    "anon",
+    "ardor",
+    "argon",
+    "around",
+    "augur",
+    "aura",
+    "dado",
+    "darn",
+    "doodad",
+    "drag",
+    "dragon",
+    "dragoon",
+    "gang",
+    "goad",
+    "gonad",
+    "gonna",
+    "grad",
+    "grand",
+    "groan",
+    "guano",
+    "guard",
+    "naan",
+    "nana",
+    "organ",
+    "radar",
+    "radon",
+    "raga",
+    "rang",
+    "road",
+    "roan",
+    "roar",
+    "runaround"
+  ],
+  "date": "2027-09-01",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 13,
+      "6": 4,
+      "7": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 11,
+      "D": 6,
+      "G": 9,
+      "N": 2,
+      "O": 1,
+      "R": 8
+    },
+    "grid": {
+      "A": {
+        "4": 4,
+        "5": 4,
+        "6": 2,
+        "7": 1
+      },
+      "D": {
+        "4": 3,
+        "6": 2,
+        "7": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 6
+      },
+      "N": {
+        "4": 2
+      },
+      "O": {
+        "5": 1
+      },
+      "R": {
+        "4": 5,
+        "5": 2,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AG": 3,
+      "AN": 2,
+      "AR": 3,
+      "AU": 2,
+      "DA": 2,
+      "DO": 1,
+      "DR": 3,
+      "GA": 1,
+      "GO": 3,
+      "GR": 3,
+      "GU": 2,
+      "NA": 2,
+      "OR": 1,
+      "RA": 4,
+      "RO": 3,
+      "RU": 1
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "pangram": "halogen",
+  "center_letter": "n",
+  "num_answers": 43,
+  "num_pangrams": 1,
+  "possible_points": 137,
+  "answer_pangrams": [
+    "halogen"
+  ],
+  "answers": [
+    "alone",
+    "along",
+    "anal",
+    "analog",
+    "angel",
+    "angle",
+    "anneal",
+    "anon",
+    "eggnog",
+    "elan",
+    "engage",
+    "galena",
+    "galleon",
+    "gallon",
+    "gang",
+    "gene",
+    "glean",
+    "glen",
+    "gone",
+    "gong",
+    "gonna",
+    "goon",
+    "halogen",
+    "halon",
+    "hang",
+    "henna",
+    "hogan",
+    "hone",
+    "lagoon",
+    "lane",
+    "lean",
+    "llano",
+    "loan",
+    "lone",
+    "long",
+    "loon",
+    "naan",
+    "nana",
+    "nene",
+    "neon",
+    "noel",
+    "none",
+    "noon"
+  ],
+  "date": "2029-06-30",
+  "hints": {
+    "by_length": {
+      "4": 24,
+      "5": 10,
+      "6": 7,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 8,
+      "E": 3,
+      "G": 11,
+      "H": 6,
+      "L": 8,
+      "N": 7
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 4,
+        "6": 2
+      },
+      "E": {
+        "4": 1,
+        "6": 2
+      },
+      "G": {
+        "4": 6,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 3,
+        "7": 1
+      },
+      "L": {
+        "4": 6,
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "4": 7
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "AN": 6,
+      "EG": 1,
+      "EL": 1,
+      "EN": 1,
+      "GA": 4,
+      "GE": 1,
+      "GL": 2,
+      "GO": 4,
+      "HA": 3,
+      "HE": 1,
+      "HO": 2,
+      "LA": 2,
+      "LE": 1,
+      "LL": 1,
+      "LO": 4,
+      "NA": 2,
+      "NE": 2,
+      "NO": 3
+    }
+  }
+}

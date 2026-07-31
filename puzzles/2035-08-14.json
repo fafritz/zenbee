@@ -1,0 +1,132 @@
+{
+  "pangram": "acolyte",
+  "center_letter": "e",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 202,
+  "answer_pangrams": [
+    "acolyte"
+  ],
+  "answers": [
+    "acetate",
+    "acolyte",
+    "alley",
+    "allocate",
+    "aloe",
+    "cattle",
+    "cell",
+    "cello",
+    "clayey",
+    "cleat",
+    "collate",
+    "collect",
+    "collocate",
+    "cote",
+    "coyote",
+    "cycle",
+    "eclat",
+    "elate",
+    "elect",
+    "eyelet",
+    "lace",
+    "lactate",
+    "late",
+    "lately",
+    "latte",
+    "layette",
+    "locale",
+    "locate",
+    "ocelot",
+    "octet",
+    "oleo",
+    "tale",
+    "tattle",
+    "tattletale",
+    "teal",
+    "teetotal",
+    "tell",
+    "telltale",
+    "tote",
+    "yell"
+  ],
+  "date": "2035-08-14",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 9,
+      "6": 9,
+      "7": 6,
+      "8": 3,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 11,
+      "E": 4,
+      "L": 8,
+      "O": 3,
+      "T": 8,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "7": 2,
+        "8": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 3,
+        "6": 3,
+        "7": 2,
+        "9": 1
+      },
+      "E": {
+        "5": 3,
+        "6": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2
+      },
+      "O": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 4,
+        "6": 1,
+        "8": 2,
+        "10": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AL": 3,
+      "CA": 1,
+      "CE": 2,
+      "CL": 2,
+      "CO": 5,
+      "CY": 1,
+      "EC": 1,
+      "EL": 2,
+      "EY": 1,
+      "LA": 6,
+      "LO": 2,
+      "OC": 2,
+      "OL": 1,
+      "TA": 3,
+      "TE": 4,
+      "TO": 1,
+      "YE": 1
+    }
+  }
+}

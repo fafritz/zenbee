@@ -1,0 +1,87 @@
+{
+  "pangram": "upfront",
+  "center_letter": "p",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 101,
+  "answer_pangrams": [
+    "upfront"
+  ],
+  "answers": [
+    "output",
+    "pontoon",
+    "poop",
+    "poor",
+    "port",
+    "pour",
+    "pout",
+    "prof",
+    "pron",
+    "pronoun",
+    "pronto",
+    "proof",
+    "prop",
+    "proton",
+    "puff",
+    "punt",
+    "purport",
+    "purr",
+    "putt",
+    "rooftop",
+    "torpor",
+    "troop",
+    "upfront",
+    "upon",
+    "uproot",
+    "upturn"
+  ],
+  "date": "2027-03-01",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 2,
+      "6": 6,
+      "7": 5
+    },
+    "by_first_letter": {
+      "O": 1,
+      "P": 18,
+      "R": 1,
+      "T": 2,
+      "U": 4
+    },
+    "grid": {
+      "O": {
+        "6": 1
+      },
+      "P": {
+        "4": 12,
+        "5": 1,
+        "6": 2,
+        "7": 3
+      },
+      "R": {
+        "7": 1
+      },
+      "T": {
+        "5": 1,
+        "6": 1
+      },
+      "U": {
+        "4": 1,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "OU": 1,
+      "PO": 6,
+      "PR": 7,
+      "PU": 5,
+      "RO": 1,
+      "TO": 1,
+      "TR": 1,
+      "UP": 4
+    }
+  }
+}

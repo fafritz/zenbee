@@ -1,0 +1,143 @@
+{
+  "pangram": "forking",
+  "center_letter": "i",
+  "num_answers": 51,
+  "num_pangrams": 1,
+  "possible_points": 295,
+  "answer_pangrams": [
+    "forking"
+  ],
+  "answers": [
+    "fining",
+    "fink",
+    "finking",
+    "firing",
+    "fogging",
+    "forging",
+    "forgoing",
+    "forking",
+    "fringing",
+    "frogging",
+    "gigging",
+    "ginkgo",
+    "ginning",
+    "going",
+    "gonging",
+    "goofing",
+    "gorging",
+    "goring",
+    "griffin",
+    "grin",
+    "grinning",
+    "groin",
+    "grokking",
+    "ignoring",
+    "info",
+    "infringing",
+    "inking",
+    "inning",
+    "irking",
+    "iron",
+    "ironing",
+    "king",
+    "kink",
+    "kinking",
+    "knifing",
+    "noggin",
+    "offing",
+    "oink",
+    "oinking",
+    "ongoing",
+    "onion",
+    "origin",
+    "riff",
+    "riffing",
+    "rigging",
+    "rigor",
+    "ring",
+    "ringing",
+    "rink",
+    "roofing",
+    "rooking"
+  ],
+  "date": "2028-07-17",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 4,
+      "6": 10,
+      "7": 20,
+      "8": 6,
+      "10": 1
+    },
+    "by_first_letter": {
+      "F": 10,
+      "G": 13,
+      "I": 8,
+      "K": 4,
+      "N": 1,
+      "O": 6,
+      "R": 9
+    },
+    "grid": {
+      "F": {
+        "4": 1,
+        "6": 2,
+        "7": 4,
+        "8": 3
+      },
+      "G": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 6,
+        "8": 2
+      },
+      "I": {
+        "4": 2,
+        "6": 3,
+        "7": 1,
+        "8": 1,
+        "10": 1
+      },
+      "K": {
+        "4": 2,
+        "7": 2
+      },
+      "N": {
+        "6": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 2
+      },
+      "R": {
+        "4": 3,
+        "5": 1,
+        "7": 5
+      }
+    },
+    "two_letter_list": {
+      "FI": 4,
+      "FO": 4,
+      "FR": 2,
+      "GI": 3,
+      "GO": 5,
+      "GR": 5,
+      "IG": 1,
+      "IN": 4,
+      "IR": 3,
+      "KI": 3,
+      "KN": 1,
+      "NO": 1,
+      "OF": 1,
+      "OI": 2,
+      "ON": 2,
+      "OR": 1,
+      "RI": 7,
+      "RO": 2
+    }
+  }
+}

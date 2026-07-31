@@ -1,0 +1,130 @@
+{
+  "pangram": "optimal",
+  "center_letter": "t",
+  "num_answers": 43,
+  "num_pangrams": 1,
+  "possible_points": 145,
+  "answer_pangrams": [
+    "optimal"
+  ],
+  "answers": [
+    "allot",
+    "alto",
+    "atoll",
+    "atom",
+    "atop",
+    "iota",
+    "laptop",
+    "lilt",
+    "limit",
+    "loot",
+    "lotto",
+    "malt",
+    "militia",
+    "mitt",
+    "moat",
+    "molt",
+    "moot",
+    "motto",
+    "omit",
+    "optima",
+    "optimal",
+    "palatal",
+    "palatial",
+    "patio",
+    "pilot",
+    "pipit",
+    "pita",
+    "plait",
+    "plot",
+    "potato",
+    "tail",
+    "tall",
+    "tamp",
+    "tattoo",
+    "till",
+    "tilt",
+    "tiptop",
+    "toil",
+    "toll",
+    "tomato",
+    "tool",
+    "toot",
+    "total"
+  ],
+  "date": "2034-10-13",
+  "hints": {
+    "by_length": {
+      "4": 23,
+      "5": 10,
+      "6": 6,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "I": 1,
+      "L": 5,
+      "M": 7,
+      "O": 3,
+      "P": 9,
+      "T": 13
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 2,
+        "6": 1
+      },
+      "M": {
+        "4": 5,
+        "5": 1,
+        "7": 1
+      },
+      "O": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 2,
+        "5": 4,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 9,
+        "5": 1,
+        "6": 3
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "AT": 3,
+      "IO": 1,
+      "LA": 1,
+      "LI": 2,
+      "LO": 2,
+      "MA": 1,
+      "MI": 2,
+      "MO": 4,
+      "OM": 1,
+      "OP": 2,
+      "PA": 3,
+      "PI": 3,
+      "PL": 2,
+      "PO": 1,
+      "TA": 4,
+      "TI": 3,
+      "TO": 6
+    }
+  }
+}

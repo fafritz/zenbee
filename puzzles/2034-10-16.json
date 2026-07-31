@@ -1,0 +1,107 @@
+{
+  "pangram": "blacken",
+  "center_letter": "k",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 115,
+  "answer_pangrams": [
+    "blacken"
+  ],
+  "answers": [
+    "aback",
+    "ankle",
+    "back",
+    "bake",
+    "balk",
+    "bank",
+    "beak",
+    "beck",
+    "black",
+    "blackball",
+    "blacken",
+    "blank",
+    "bleak",
+    "cackle",
+    "cake",
+    "clack",
+    "clank",
+    "kale",
+    "kebab",
+    "keel",
+    "keen",
+    "kennel",
+    "knack",
+    "knee",
+    "kneel",
+    "knell",
+    "lack",
+    "lake",
+    "lank",
+    "leak",
+    "leek",
+    "neck",
+    "necklace"
+  ],
+  "date": "2034-10-16",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 11,
+      "6": 2,
+      "7": 1,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 11,
+      "C": 4,
+      "K": 9,
+      "L": 5,
+      "N": 2
+    },
+    "grid": {
+      "A": {
+        "5": 2
+      },
+      "B": {
+        "4": 6,
+        "5": 3,
+        "7": 1,
+        "9": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      },
+      "K": {
+        "4": 4,
+        "5": 4,
+        "6": 1
+      },
+      "L": {
+        "4": 5
+      },
+      "N": {
+        "4": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AN": 1,
+      "BA": 4,
+      "BE": 2,
+      "BL": 5,
+      "CA": 2,
+      "CL": 2,
+      "KA": 1,
+      "KE": 4,
+      "KN": 4,
+      "LA": 3,
+      "LE": 2,
+      "NE": 2
+    }
+  }
+}

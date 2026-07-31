@@ -1,0 +1,100 @@
+{
+  "pangram": "combing",
+  "center_letter": "m",
+  "num_answers": 28,
+  "num_pangrams": 2,
+  "possible_points": 162,
+  "answer_pangrams": [
+    "combing",
+    "combining"
+  ],
+  "answers": [
+    "bomb",
+    "bombing",
+    "boom",
+    "booming",
+    "comb",
+    "combing",
+    "combining",
+    "combo",
+    "comic",
+    "coming",
+    "common",
+    "imbibing",
+    "incoming",
+    "mimic",
+    "miming",
+    "mincing",
+    "mini",
+    "minim",
+    "mining",
+    "minion",
+    "mobbing",
+    "mono",
+    "mooing",
+    "moon",
+    "mooning",
+    "nimbi",
+    "noncom",
+    "oncoming"
+  ],
+  "date": "2038-09-12",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 5,
+      "6": 7,
+      "7": 6,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "B": 4,
+      "C": 7,
+      "I": 2,
+      "M": 12,
+      "N": 2,
+      "O": 1
+    },
+    "grid": {
+      "B": {
+        "4": 2,
+        "7": 2
+      },
+      "C": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "9": 1
+      },
+      "I": {
+        "8": 2
+      },
+      "M": {
+        "4": 3,
+        "5": 2,
+        "6": 4,
+        "7": 3
+      },
+      "N": {
+        "5": 1,
+        "6": 1
+      },
+      "O": {
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "BO": 4,
+      "CO": 7,
+      "IM": 1,
+      "IN": 1,
+      "MI": 7,
+      "MO": 5,
+      "NI": 1,
+      "NO": 1,
+      "ON": 1
+    }
+  }
+}

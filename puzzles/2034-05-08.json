@@ -1,0 +1,101 @@
+{
+  "pangram": "typical",
+  "center_letter": "p",
+  "num_answers": 32,
+  "num_pangrams": 4,
+  "possible_points": 181,
+  "answer_pangrams": [
+    "atypical",
+    "atypically",
+    "typical",
+    "typically"
+  ],
+  "answers": [
+    "alpaca",
+    "appall",
+    "apply",
+    "aptly",
+    "atypical",
+    "atypically",
+    "capacity",
+    "capital",
+    "catalpa",
+    "clap",
+    "clip",
+    "pact",
+    "pail",
+    "palatal",
+    "palatial",
+    "pall",
+    "papa",
+    "papacy",
+    "papal",
+    "papaya",
+    "papilla",
+    "patty",
+    "pica",
+    "piccalilli",
+    "pill",
+    "pipit",
+    "pita",
+    "pity",
+    "plait",
+    "play",
+    "typical",
+    "typically"
+  ],
+  "date": "2034-05-08",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 6,
+      "6": 4,
+      "7": 5,
+      "8": 3,
+      "9": 1,
+      "10": 2
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 5,
+      "P": 19,
+      "T": 2
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "6": 2,
+        "8": 1,
+        "10": 1
+      },
+      "C": {
+        "4": 2,
+        "7": 2,
+        "8": 1
+      },
+      "P": {
+        "4": 9,
+        "5": 4,
+        "6": 2,
+        "7": 2,
+        "8": 1,
+        "10": 1
+      },
+      "T": {
+        "7": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AP": 3,
+      "AT": 2,
+      "CA": 3,
+      "CL": 2,
+      "PA": 11,
+      "PI": 6,
+      "PL": 2,
+      "TY": 2
+    }
+  }
+}

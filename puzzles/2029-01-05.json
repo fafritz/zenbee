@@ -1,0 +1,109 @@
+{
+  "pangram": "tumbled",
+  "center_letter": "t",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 151,
+  "answer_pangrams": [
+    "tumbled"
+  ],
+  "answers": [
+    "beet",
+    "beetle",
+    "beetled",
+    "belt",
+    "belted",
+    "bullet",
+    "butte",
+    "butted",
+    "debt",
+    "debut",
+    "debuted",
+    "delete",
+    "deleted",
+    "duet",
+    "etude",
+    "lute",
+    "meet",
+    "melt",
+    "melted",
+    "mete",
+    "meted",
+    "mettle",
+    "mullet",
+    "mute",
+    "muted",
+    "mutt",
+    "teed",
+    "teem",
+    "teemed",
+    "tell",
+    "tube",
+    "tubed",
+    "tulle",
+    "tumble",
+    "tumbled",
+    "tumult",
+    "tutu"
+  ],
+  "date": "2029-01-05",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 7,
+      "6": 11,
+      "7": 4
+    },
+    "by_first_letter": {
+      "B": 8,
+      "D": 6,
+      "E": 1,
+      "L": 1,
+      "M": 10,
+      "T": 11
+    },
+    "grid": {
+      "B": {
+        "4": 2,
+        "5": 1,
+        "6": 4,
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 2
+      },
+      "E": {
+        "5": 1
+      },
+      "L": {
+        "4": 1
+      },
+      "M": {
+        "4": 5,
+        "5": 2,
+        "6": 3
+      },
+      "T": {
+        "4": 5,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "BE": 5,
+      "BU": 3,
+      "DE": 5,
+      "DU": 1,
+      "ET": 1,
+      "LU": 1,
+      "ME": 6,
+      "MU": 4,
+      "TE": 4,
+      "TU": 7
+    }
+  }
+}

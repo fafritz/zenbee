@@ -1,0 +1,109 @@
+{
+  "pangram": "mocking",
+  "center_letter": "k",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 134,
+  "answer_pangrams": [
+    "mocking"
+  ],
+  "answers": [
+    "cocking",
+    "coking",
+    "conk",
+    "conking",
+    "cook",
+    "cooking",
+    "gimmick",
+    "ginkgo",
+    "inking",
+    "kick",
+    "kicking",
+    "kimono",
+    "king",
+    "kink",
+    "kinking",
+    "knock",
+    "knocking",
+    "kook",
+    "miking",
+    "mimicking",
+    "mink",
+    "mock",
+    "mocking",
+    "monk",
+    "nick",
+    "nicking",
+    "nook",
+    "oink",
+    "oinking"
+  ],
+  "date": "2039-01-15",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 1,
+      "6": 5,
+      "7": 9,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 6,
+      "G": 2,
+      "I": 1,
+      "K": 9,
+      "M": 6,
+      "N": 3,
+      "O": 2
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "6": 1,
+        "7": 3
+      },
+      "G": {
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "K": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "M": {
+        "4": 3,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 2,
+        "7": 1
+      },
+      "O": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 6,
+      "GI": 2,
+      "IN": 1,
+      "KI": 6,
+      "KN": 2,
+      "KO": 1,
+      "MI": 3,
+      "MO": 3,
+      "NI": 2,
+      "NO": 1,
+      "OI": 2
+    }
+  }
+}

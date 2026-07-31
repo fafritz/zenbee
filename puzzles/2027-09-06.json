@@ -1,0 +1,101 @@
+{
+  "pangram": "chomped",
+  "center_letter": "c",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 149,
+  "answer_pangrams": [
+    "chomped"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "cheep",
+    "cheeped",
+    "chem",
+    "chomp",
+    "chomped",
+    "chop",
+    "chopped",
+    "code",
+    "coded",
+    "coed",
+    "come",
+    "commode",
+    "comp",
+    "compo",
+    "cooed",
+    "coop",
+    "cooped",
+    "cope",
+    "coped",
+    "copped",
+    "decode",
+    "decoded",
+    "echo",
+    "echoed",
+    "emcee",
+    "emceed",
+    "epoch",
+    "hooch",
+    "mooch",
+    "mooched",
+    "pooch"
+  ],
+  "date": "2027-09-06",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 12,
+      "6": 5,
+      "7": 6
+    },
+    "by_first_letter": {
+      "C": 22,
+      "D": 2,
+      "E": 5,
+      "H": 1,
+      "M": 2,
+      "P": 1
+    },
+    "grid": {
+      "C": {
+        "4": 9,
+        "5": 7,
+        "6": 2,
+        "7": 4
+      },
+      "D": {
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 2,
+        "6": 2
+      },
+      "H": {
+        "5": 1
+      },
+      "M": {
+        "5": 1,
+        "7": 1
+      },
+      "P": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 2,
+      "CH": 7,
+      "CO": 13,
+      "DE": 2,
+      "EC": 2,
+      "EM": 2,
+      "EP": 1,
+      "HO": 1,
+      "MO": 2,
+      "PO": 1
+    }
+  }
+}

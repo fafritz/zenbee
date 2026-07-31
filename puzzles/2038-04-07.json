@@ -1,0 +1,102 @@
+{
+  "pangram": "camphor",
+  "center_letter": "h",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 124,
+  "answer_pangrams": [
+    "camphor"
+  ],
+  "answers": [
+    "achoo",
+    "approach",
+    "arch",
+    "camphor",
+    "champ",
+    "chap",
+    "char",
+    "charm",
+    "chomp",
+    "chop",
+    "coach",
+    "hammam",
+    "harm",
+    "harp",
+    "hooch",
+    "hoop",
+    "horror",
+    "macho",
+    "march",
+    "mocha",
+    "mooch",
+    "parch",
+    "pharaoh",
+    "poach",
+    "pooch",
+    "pooh",
+    "porch",
+    "roach"
+  ],
+  "date": "2038-04-07",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 15,
+      "6": 2,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 8,
+      "H": 6,
+      "M": 4,
+      "P": 6,
+      "R": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "8": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 4,
+        "7": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 2
+      },
+      "M": {
+        "5": 4
+      },
+      "P": {
+        "4": 1,
+        "5": 4,
+        "7": 1
+      },
+      "R": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AP": 1,
+      "AR": 1,
+      "CA": 1,
+      "CH": 6,
+      "CO": 1,
+      "HA": 3,
+      "HO": 3,
+      "MA": 2,
+      "MO": 2,
+      "PA": 1,
+      "PH": 1,
+      "PO": 4,
+      "RO": 1
+    }
+  }
+}

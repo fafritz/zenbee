@@ -1,0 +1,84 @@
+{
+  "pangram": "windbag",
+  "center_letter": "w",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 133,
+  "answer_pangrams": [
+    "windbag"
+  ],
+  "answers": [
+    "awing",
+    "awning",
+    "bigwig",
+    "dawn",
+    "dawning",
+    "gnaw",
+    "gnawing",
+    "wadding",
+    "wadi",
+    "wading",
+    "wagging",
+    "waging",
+    "wand",
+    "waning",
+    "wigging",
+    "wigwag",
+    "wigwagging",
+    "wind",
+    "windbag",
+    "winding",
+    "wing",
+    "winging",
+    "wining",
+    "winning"
+  ],
+  "date": "2031-04-03",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 1,
+      "6": 7,
+      "7": 9,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 1,
+      "D": 2,
+      "G": 2,
+      "W": 17
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1
+      },
+      "B": {
+        "6": 1
+      },
+      "D": {
+        "4": 1,
+        "7": 1
+      },
+      "G": {
+        "4": 1,
+        "7": 1
+      },
+      "W": {
+        "4": 4,
+        "6": 5,
+        "7": 7,
+        "10": 1
+      }
+    },
+    "two_letter_list": {
+      "AW": 2,
+      "BI": 1,
+      "DA": 2,
+      "GN": 2,
+      "WA": 7,
+      "WI": 10
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "pangram": "mucking",
+  "center_letter": "i",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 181,
+  "answer_pangrams": [
+    "mucking"
+  ],
+  "answers": [
+    "cuing",
+    "cumin",
+    "cunning",
+    "gigging",
+    "gimmick",
+    "ginning",
+    "gumming",
+    "gunning",
+    "icing",
+    "inking",
+    "inning",
+    "kick",
+    "kicking",
+    "king",
+    "kink",
+    "kinking",
+    "miking",
+    "mimic",
+    "mimicking",
+    "miming",
+    "mincing",
+    "mini",
+    "minim",
+    "minimum",
+    "mining",
+    "mink",
+    "mucking",
+    "mugging",
+    "munging",
+    "nick",
+    "nicking",
+    "nuking"
+  ],
+  "date": "2029-05-13",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 5,
+      "6": 6,
+      "7": 14,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 3,
+      "G": 5,
+      "I": 3,
+      "K": 5,
+      "M": 13,
+      "N": 3
+    },
+    "grid": {
+      "C": {
+        "5": 2,
+        "7": 1
+      },
+      "G": {
+        "7": 5
+      },
+      "I": {
+        "5": 1,
+        "6": 2
+      },
+      "K": {
+        "4": 3,
+        "7": 2
+      },
+      "M": {
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "7": 5,
+        "9": 1
+      },
+      "N": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CU": 3,
+      "GI": 3,
+      "GU": 2,
+      "IC": 1,
+      "IN": 2,
+      "KI": 5,
+      "MI": 10,
+      "MU": 3,
+      "NI": 2,
+      "NU": 1
+    }
+  }
+}

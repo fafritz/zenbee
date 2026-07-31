@@ -1,0 +1,94 @@
+{
+  "pangram": "cranium",
+  "center_letter": "c",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 94,
+  "answer_pangrams": [
+    "cranium"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "cairn",
+    "cancan",
+    "canna",
+    "circa",
+    "cirri",
+    "cram",
+    "cranium",
+    "cumin",
+    "incur",
+    "maniac",
+    "manic",
+    "maraca",
+    "mica",
+    "mimic",
+    "narc",
+    "niacin",
+    "runic",
+    "uric"
+  ],
+  "date": "2036-04-06",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 9,
+      "6": 5,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 8,
+      "I": 1,
+      "M": 5,
+      "N": 2,
+      "R": 1,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 5,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "M": {
+        "4": 1,
+        "5": 2,
+        "6": 2
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "R": {
+        "5": 1
+      },
+      "U": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "CA": 3,
+      "CI": 2,
+      "CR": 2,
+      "CU": 1,
+      "IN": 1,
+      "MA": 3,
+      "MI": 2,
+      "NA": 1,
+      "NI": 1,
+      "RU": 1,
+      "UR": 1
+    }
+  }
+}

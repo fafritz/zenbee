@@ -1,0 +1,123 @@
+{
+  "pangram": "hepatic",
+  "center_letter": "p",
+  "num_answers": 40,
+  "num_pangrams": 3,
+  "possible_points": 171,
+  "answer_pangrams": [
+    "apathetic",
+    "hepatic",
+    "pathetic"
+  ],
+  "answers": [
+    "accept",
+    "apace",
+    "apathetic",
+    "apiece",
+    "appetite",
+    "cape",
+    "chap",
+    "cheap",
+    "cheep",
+    "chip",
+    "epee",
+    "epic",
+    "epitaph",
+    "epithet",
+    "heap",
+    "hepatic",
+    "hippie",
+    "ipecac",
+    "pace",
+    "pact",
+    "papa",
+    "patch",
+    "pate",
+    "path",
+    "pathetic",
+    "peace",
+    "peach",
+    "peat",
+    "peep",
+    "peptic",
+    "petite",
+    "pica",
+    "piece",
+    "pipe",
+    "pipit",
+    "pita",
+    "pitch",
+    "pith",
+    "tape",
+    "tepee"
+  ],
+  "date": "2036-05-22",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 10,
+      "6": 6,
+      "7": 3,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 5,
+      "E": 4,
+      "H": 3,
+      "I": 1,
+      "P": 20,
+      "T": 2
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 2,
+        "8": 1,
+        "9": 1
+      },
+      "C": {
+        "4": 3,
+        "5": 2
+      },
+      "E": {
+        "4": 2,
+        "7": 2
+      },
+      "H": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "P": {
+        "4": 11,
+        "5": 6,
+        "6": 2,
+        "8": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AP": 4,
+      "CA": 1,
+      "CH": 4,
+      "EP": 4,
+      "HE": 2,
+      "HI": 1,
+      "IP": 1,
+      "PA": 7,
+      "PE": 6,
+      "PI": 7,
+      "TA": 1,
+      "TE": 1
+    }
+  }
+}

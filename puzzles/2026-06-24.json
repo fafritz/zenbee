@@ -1,0 +1,102 @@
+{
+  "pangram": "bumping",
+  "center_letter": "u",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 161,
+  "answer_pangrams": [
+    "bumping"
+  ],
+  "answers": [
+    "bugging",
+    "bumming",
+    "bump",
+    "bumping",
+    "bung",
+    "bunging",
+    "gumming",
+    "gunning",
+    "imbuing",
+    "impugn",
+    "impugning",
+    "minimum",
+    "mugging",
+    "munging",
+    "muumuu",
+    "numb",
+    "numbing",
+    "pinup",
+    "pump",
+    "pumping",
+    "punning",
+    "pupping",
+    "umping",
+    "unpin",
+    "unpinning",
+    "upping"
+  ],
+  "date": "2026-06-24",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 2,
+      "6": 4,
+      "7": 14,
+      "9": 2
+    },
+    "by_first_letter": {
+      "B": 6,
+      "G": 2,
+      "I": 3,
+      "M": 4,
+      "N": 2,
+      "P": 5,
+      "U": 4
+    },
+    "grid": {
+      "B": {
+        "4": 2,
+        "7": 4
+      },
+      "G": {
+        "7": 2
+      },
+      "I": {
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "M": {
+        "6": 1,
+        "7": 3
+      },
+      "N": {
+        "4": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "7": 3
+      },
+      "U": {
+        "5": 1,
+        "6": 2,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "BU": 6,
+      "GU": 2,
+      "IM": 3,
+      "MI": 1,
+      "MU": 3,
+      "NU": 2,
+      "PI": 1,
+      "PU": 4,
+      "UM": 1,
+      "UN": 2,
+      "UP": 1
+    }
+  }
+}

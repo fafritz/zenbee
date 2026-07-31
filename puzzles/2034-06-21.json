@@ -1,0 +1,105 @@
+{
+  "pangram": "climbed",
+  "center_letter": "m",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 155,
+  "answer_pangrams": [
+    "climbed"
+  ],
+  "answers": [
+    "climb",
+    "climbed",
+    "clime",
+    "deem",
+    "deemed",
+    "dime",
+    "dimmed",
+    "embed",
+    "embedded",
+    "emblem",
+    "emcee",
+    "emceed",
+    "imbecilic",
+    "imbibe",
+    "imbibed",
+    "limb",
+    "lime",
+    "limed",
+    "meddle",
+    "meddled",
+    "medic",
+    "meld",
+    "melded",
+    "melee",
+    "meme",
+    "mice",
+    "middle",
+    "mild",
+    "mile",
+    "mill",
+    "milled",
+    "mime",
+    "mimed",
+    "mimic"
+  ],
+  "date": "2034-06-21",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 9,
+      "6": 9,
+      "7": 3,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 3,
+      "D": 4,
+      "E": 5,
+      "I": 3,
+      "L": 3,
+      "M": 16
+    },
+    "grid": {
+      "C": {
+        "5": 2,
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "6": 2
+      },
+      "E": {
+        "5": 2,
+        "6": 2,
+        "8": 1
+      },
+      "I": {
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1
+      },
+      "M": {
+        "4": 7,
+        "5": 4,
+        "6": 4,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 3,
+      "DE": 2,
+      "DI": 2,
+      "EM": 5,
+      "IM": 3,
+      "LI": 3,
+      "ME": 7,
+      "MI": 9
+    }
+  }
+}

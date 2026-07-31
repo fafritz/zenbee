@@ -1,0 +1,92 @@
+{
+  "pangram": "handout",
+  "center_letter": "t",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 68,
+  "answer_pangrams": [
+    "handout"
+  ],
+  "answers": [
+    "aunt",
+    "auto",
+    "data",
+    "daunt",
+    "donut",
+    "handout",
+    "haunt",
+    "hoot",
+    "hunt",
+    "oath",
+    "onto",
+    "outdo",
+    "tattoo",
+    "taunt",
+    "taut",
+    "than",
+    "that",
+    "thou",
+    "thud",
+    "toad",
+    "toon",
+    "toot",
+    "tooth",
+    "tout",
+    "tuna",
+    "tutu"
+  ],
+  "date": "2034-04-03",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 6,
+      "6": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "D": 3,
+      "H": 4,
+      "O": 3,
+      "T": 14
+    },
+    "grid": {
+      "A": {
+        "4": 2
+      },
+      "D": {
+        "4": 1,
+        "5": 2
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "O": {
+        "4": 2,
+        "5": 1
+      },
+      "T": {
+        "4": 11,
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AU": 2,
+      "DA": 2,
+      "DO": 1,
+      "HA": 2,
+      "HO": 1,
+      "HU": 1,
+      "OA": 1,
+      "ON": 1,
+      "OU": 1,
+      "TA": 3,
+      "TH": 4,
+      "TO": 5,
+      "TU": 2
+    }
+  }
+}

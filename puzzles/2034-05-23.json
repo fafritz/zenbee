@@ -1,0 +1,112 @@
+{
+  "pangram": "beaming",
+  "center_letter": "b",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 189,
+  "answer_pangrams": [
+    "beaming"
+  ],
+  "answers": [
+    "abbe",
+    "abeam",
+    "baaing",
+    "baba",
+    "babe",
+    "baggage",
+    "bagging",
+    "banana",
+    "bane",
+    "bang",
+    "banging",
+    "banning",
+    "beam",
+    "beaming",
+    "bean",
+    "beaning",
+    "been",
+    "began",
+    "begging",
+    "begin",
+    "beginning",
+    "beige",
+    "being",
+    "benign",
+    "biggie",
+    "binge",
+    "bingeing",
+    "binning",
+    "ebbing",
+    "gabbing",
+    "gibe",
+    "gibing",
+    "iamb",
+    "imbibe",
+    "imbibing",
+    "nabbing",
+    "nimbi"
+  ],
+  "date": "2034-05-23",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 7,
+      "6": 7,
+      "7": 10,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 26,
+      "E": 1,
+      "G": 3,
+      "I": 3,
+      "N": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1
+      },
+      "B": {
+        "4": 7,
+        "5": 5,
+        "6": 4,
+        "7": 8,
+        "8": 1,
+        "9": 1
+      },
+      "E": {
+        "6": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 1,
+        "8": 1
+      },
+      "N": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 2,
+      "BA": 10,
+      "BE": 12,
+      "BI": 4,
+      "EB": 1,
+      "GA": 1,
+      "GI": 2,
+      "IA": 1,
+      "IM": 2,
+      "NA": 1,
+      "NI": 1
+    }
+  }
+}

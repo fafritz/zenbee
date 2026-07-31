@@ -1,0 +1,79 @@
+{
+  "pangram": "ungodly",
+  "center_letter": "g",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 65,
+  "answer_pangrams": [
+    "ungodly"
+  ],
+  "answers": [
+    "dodgy",
+    "doggy",
+    "dung",
+    "godly",
+    "gold",
+    "gong",
+    "good",
+    "goodly",
+    "goody",
+    "goon",
+    "gull",
+    "gully",
+    "gunny",
+    "logo",
+    "long",
+    "lung",
+    "ugly",
+    "ungodly",
+    "young"
+  ],
+  "date": "2027-10-12",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 7,
+      "6": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "D": 3,
+      "G": 10,
+      "L": 3,
+      "U": 2,
+      "Y": 1
+    },
+    "grid": {
+      "D": {
+        "4": 1,
+        "5": 2
+      },
+      "G": {
+        "4": 5,
+        "5": 4,
+        "6": 1
+      },
+      "L": {
+        "4": 3
+      },
+      "U": {
+        "4": 1,
+        "7": 1
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "DO": 2,
+      "DU": 1,
+      "GO": 7,
+      "GU": 3,
+      "LO": 2,
+      "LU": 1,
+      "UG": 1,
+      "UN": 1,
+      "YO": 1
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "pangram": "levying",
+  "center_letter": "v",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 186,
+  "answer_pangrams": [
+    "levying"
+  ],
+  "answers": [
+    "eleven",
+    "enliven",
+    "enlivening",
+    "envy",
+    "envying",
+    "even",
+    "evening",
+    "evenly",
+    "evil",
+    "evilly",
+    "give",
+    "given",
+    "giving",
+    "inveigle",
+    "inveigling",
+    "levee",
+    "level",
+    "leveling",
+    "levy",
+    "levying",
+    "live",
+    "lively",
+    "liven",
+    "livening",
+    "living",
+    "veggie",
+    "veil",
+    "veiling",
+    "vein",
+    "veining",
+    "vigil",
+    "vile",
+    "vilely",
+    "vine",
+    "vinyl",
+    "vying"
+  ],
+  "date": "2037-06-10",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 7,
+      "6": 8,
+      "7": 6,
+      "8": 3,
+      "10": 2
+    },
+    "by_first_letter": {
+      "E": 10,
+      "G": 3,
+      "I": 2,
+      "L": 10,
+      "V": 11
+    },
+    "grid": {
+      "E": {
+        "4": 3,
+        "6": 3,
+        "7": 3,
+        "10": 1
+      },
+      "G": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "8": 1,
+        "10": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 3,
+        "6": 2,
+        "7": 1,
+        "8": 2
+      },
+      "V": {
+        "4": 4,
+        "5": 3,
+        "6": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "EL": 1,
+      "EN": 4,
+      "EV": 5,
+      "GI": 3,
+      "IN": 2,
+      "LE": 5,
+      "LI": 5,
+      "VE": 5,
+      "VI": 5,
+      "VY": 1
+    }
+  }
+}

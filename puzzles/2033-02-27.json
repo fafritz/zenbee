@@ -1,0 +1,102 @@
+{
+  "pangram": "harmful",
+  "center_letter": "a",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 101,
+  "answer_pangrams": [
+    "harmful"
+  ],
+  "answers": [
+    "afar",
+    "alarm",
+    "alfalfa",
+    "alum",
+    "armful",
+    "aura",
+    "aural",
+    "fall",
+    "farm",
+    "halal",
+    "half",
+    "hall",
+    "hammam",
+    "harm",
+    "harmful",
+    "haul",
+    "hula",
+    "hurrah",
+    "lama",
+    "llama",
+    "luau",
+    "mall",
+    "mama",
+    "mamma",
+    "mammal",
+    "maul",
+    "mullah",
+    "mural",
+    "rural"
+  ],
+  "date": "2033-02-27",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 7,
+      "6": 5,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 7,
+      "F": 2,
+      "H": 9,
+      "L": 3,
+      "M": 7,
+      "R": 1
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "F": {
+        "4": 2
+      },
+      "H": {
+        "4": 5,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1
+      },
+      "M": {
+        "4": 3,
+        "5": 2,
+        "6": 2
+      },
+      "R": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AF": 1,
+      "AL": 3,
+      "AR": 1,
+      "AU": 2,
+      "FA": 2,
+      "HA": 7,
+      "HU": 2,
+      "LA": 1,
+      "LL": 1,
+      "LU": 1,
+      "MA": 5,
+      "MU": 2,
+      "RU": 1
+    }
+  }
+}

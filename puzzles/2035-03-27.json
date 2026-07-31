@@ -1,0 +1,119 @@
+{
+  "pangram": "towhead",
+  "center_letter": "h",
+  "num_answers": 44,
+  "num_pangrams": 2,
+  "possible_points": 208,
+  "answer_pangrams": [
+    "towhead",
+    "towheaded"
+  ],
+  "answers": [
+    "ahead",
+    "death",
+    "hate",
+    "hated",
+    "hatted",
+    "hawed",
+    "head",
+    "headed",
+    "heat",
+    "heated",
+    "heath",
+    "heed",
+    "heeded",
+    "heehawed",
+    "hewed",
+    "hoed",
+    "hood",
+    "hooded",
+    "hoodoo",
+    "hoodooed",
+    "hoot",
+    "hooted",
+    "hothead",
+    "hotheaded",
+    "howdah",
+    "oath",
+    "teeth",
+    "teethe",
+    "teethed",
+    "that",
+    "thaw",
+    "thawed",
+    "thee",
+    "theta",
+    "tooth",
+    "toothed",
+    "towhead",
+    "towheaded",
+    "what",
+    "wheat",
+    "whet",
+    "whetted",
+    "whew",
+    "whoa"
+  ],
+  "date": "2035-03-27",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 10,
+      "6": 10,
+      "7": 5,
+      "8": 2,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "D": 1,
+      "H": 23,
+      "O": 1,
+      "T": 12,
+      "W": 6
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "D": {
+        "5": 1
+      },
+      "H": {
+        "4": 7,
+        "5": 4,
+        "6": 8,
+        "7": 1,
+        "8": 2,
+        "9": 1
+      },
+      "O": {
+        "4": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 3,
+        "6": 2,
+        "7": 3,
+        "9": 1
+      },
+      "W": {
+        "4": 4,
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AH": 1,
+      "DE": 1,
+      "HA": 4,
+      "HE": 9,
+      "HO": 10,
+      "OA": 1,
+      "TE": 3,
+      "TH": 5,
+      "TO": 4,
+      "WH": 6
+    }
+  }
+}

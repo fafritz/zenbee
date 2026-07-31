@@ -1,0 +1,137 @@
+{
+  "pangram": "varying",
+  "center_letter": "i",
+  "num_answers": 49,
+  "num_pangrams": 1,
+  "possible_points": 295,
+  "answer_pangrams": [
+    "varying"
+  ],
+  "answers": [
+    "again",
+    "aging",
+    "agrarian",
+    "airing",
+    "airy",
+    "angina",
+    "aria",
+    "arraign",
+    "arraigning",
+    "arranging",
+    "arraying",
+    "arriving",
+    "avian",
+    "aviary",
+    "gagging",
+    "gain",
+    "gaining",
+    "ganging",
+    "garaging",
+    "gigging",
+    "ginning",
+    "giving",
+    "grain",
+    "grainy",
+    "graving",
+    "graying",
+    "grin",
+    "grinning",
+    "inning",
+    "nagging",
+    "ninny",
+    "nirvana",
+    "ragging",
+    "raging",
+    "rain",
+    "raining",
+    "rainy",
+    "ranging",
+    "raring",
+    "ravaging",
+    "raving",
+    "rigging",
+    "ring",
+    "ringing",
+    "vain",
+    "vanning",
+    "varying",
+    "virgin",
+    "vying"
+  ],
+  "date": "2038-04-12",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 7,
+      "6": 10,
+      "7": 17,
+      "8": 6,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 14,
+      "G": 14,
+      "I": 1,
+      "N": 3,
+      "R": 12,
+      "V": 5
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "6": 3,
+        "7": 1,
+        "8": 3,
+        "9": 1,
+        "10": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 7,
+        "8": 2
+      },
+      "I": {
+        "6": 1
+      },
+      "N": {
+        "5": 1,
+        "7": 2
+      },
+      "R": {
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 5,
+        "8": 1
+      },
+      "V": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "AG": 3,
+      "AI": 2,
+      "AN": 1,
+      "AR": 6,
+      "AV": 2,
+      "GA": 5,
+      "GI": 3,
+      "GR": 6,
+      "IN": 1,
+      "NA": 1,
+      "NI": 2,
+      "RA": 9,
+      "RI": 3,
+      "VA": 3,
+      "VI": 1,
+      "VY": 1
+    }
+  }
+}

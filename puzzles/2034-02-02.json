@@ -1,0 +1,107 @@
+{
+  "pangram": "decking",
+  "center_letter": "k",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 163,
+  "answer_pangrams": [
+    "decking"
+  ],
+  "answers": [
+    "deck",
+    "decked",
+    "decking",
+    "dike",
+    "diked",
+    "diking",
+    "dink",
+    "eked",
+    "eking",
+    "geek",
+    "inked",
+    "inking",
+    "keen",
+    "keened",
+    "keening",
+    "kenned",
+    "kenning",
+    "kick",
+    "kicked",
+    "kicking",
+    "kidded",
+    "kidding",
+    "kind",
+    "king",
+    "kink",
+    "kinked",
+    "kinking",
+    "knee",
+    "kneed",
+    "kneeing",
+    "neck",
+    "necked",
+    "necking",
+    "nick",
+    "nicked",
+    "nicking"
+  ],
+  "date": "2034-02-02",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 4,
+      "6": 10,
+      "7": 9
+    },
+    "by_first_letter": {
+      "D": 7,
+      "E": 2,
+      "G": 1,
+      "I": 2,
+      "K": 18,
+      "N": 6
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "G": {
+        "4": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 1
+      },
+      "K": {
+        "4": 6,
+        "5": 1,
+        "6": 5,
+        "7": 6
+      },
+      "N": {
+        "4": 2,
+        "6": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "DE": 3,
+      "DI": 4,
+      "EK": 2,
+      "GE": 1,
+      "IN": 2,
+      "KE": 5,
+      "KI": 10,
+      "KN": 3,
+      "NE": 3,
+      "NI": 3
+    }
+  }
+}

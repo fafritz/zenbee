@@ -1,0 +1,87 @@
+{
+  "pangram": "pinched",
+  "center_letter": "h",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 121,
+  "answer_pangrams": [
+    "pinched"
+  ],
+  "answers": [
+    "cheep",
+    "cheeped",
+    "chic",
+    "chide",
+    "chided",
+    "chin",
+    "chinned",
+    "chip",
+    "chipped",
+    "cinch",
+    "cinched",
+    "heed",
+    "heeded",
+    "hence",
+    "hidden",
+    "hide",
+    "hided",
+    "hied",
+    "hind",
+    "hipped",
+    "hippie",
+    "inch",
+    "inched",
+    "niche",
+    "pinch",
+    "pinched"
+  ],
+  "date": "2032-07-24",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 7,
+      "6": 6,
+      "7": 5
+    },
+    "by_first_letter": {
+      "C": 11,
+      "H": 10,
+      "I": 2,
+      "N": 1,
+      "P": 2
+    },
+    "grid": {
+      "C": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "7": 4
+      },
+      "H": {
+        "4": 4,
+        "5": 2,
+        "6": 4
+      },
+      "I": {
+        "4": 1,
+        "6": 1
+      },
+      "N": {
+        "5": 1
+      },
+      "P": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 9,
+      "CI": 2,
+      "HE": 3,
+      "HI": 7,
+      "IN": 2,
+      "NI": 1,
+      "PI": 2
+    }
+  }
+}

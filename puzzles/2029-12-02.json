@@ -1,0 +1,109 @@
+{
+  "pangram": "cordial",
+  "center_letter": "c",
+  "num_answers": 48,
+  "num_pangrams": 1,
+  "possible_points": 210,
+  "answer_pangrams": [
+    "cordial"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "accord",
+    "acid",
+    "acidic",
+    "acrid",
+    "cacao",
+    "calico",
+    "call",
+    "calla",
+    "caloric",
+    "card",
+    "cardiac",
+    "cardio",
+    "carol",
+    "cicada",
+    "cilia",
+    "circa",
+    "cirri",
+    "clad",
+    "clod",
+    "coal",
+    "coca",
+    "cocci",
+    "cocoa",
+    "coda",
+    "codicil",
+    "coil",
+    "cola",
+    "cold",
+    "colic",
+    "collar",
+    "colloid",
+    "color",
+    "cool",
+    "coral",
+    "cord",
+    "cordial",
+    "corolla",
+    "corral",
+    "corridor",
+    "lilac",
+    "local",
+    "loci",
+    "loco",
+    "racial",
+    "radical",
+    "rococo"
+  ],
+  "date": "2029-12-02",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 14,
+      "6": 10,
+      "7": 7,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 35,
+      "L": 4,
+      "R": 3
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 3
+      },
+      "C": {
+        "4": 12,
+        "5": 11,
+        "6": 5,
+        "7": 6,
+        "8": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 2
+      },
+      "R": {
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 6,
+      "CA": 9,
+      "CI": 4,
+      "CL": 2,
+      "CO": 20,
+      "LI": 1,
+      "LO": 3,
+      "RA": 2,
+      "RO": 1
+    }
+  }
+}

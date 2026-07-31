@@ -1,0 +1,157 @@
+{
+  "pangram": "calking",
+  "center_letter": "g",
+  "num_answers": 63,
+  "num_pangrams": 5,
+  "possible_points": 426,
+  "answer_pangrams": [
+    "cackling",
+    "calking",
+    "clacking",
+    "clanking",
+    "lacking"
+  ],
+  "answers": [
+    "acing",
+    "again",
+    "aging",
+    "ailing",
+    "alga",
+    "align",
+    "aligning",
+    "angina",
+    "angling",
+    "cackling",
+    "caging",
+    "caking",
+    "calcining",
+    "calking",
+    "calling",
+    "caning",
+    "canning",
+    "clacking",
+    "clang",
+    "clanging",
+    "clanking",
+    "clicking",
+    "cling",
+    "clinging",
+    "clinking",
+    "gagging",
+    "gain",
+    "gaining",
+    "gala",
+    "gall",
+    "galling",
+    "gang",
+    "ganging",
+    "ganglia",
+    "gangling",
+    "gigging",
+    "giggling",
+    "gill",
+    "ginning",
+    "glacial",
+    "glancing",
+    "icing",
+    "inclining",
+    "inking",
+    "inkling",
+    "inning",
+    "kicking",
+    "killing",
+    "kilning",
+    "king",
+    "kinking",
+    "lacing",
+    "lacking",
+    "lagging",
+    "lancing",
+    "licking",
+    "liking",
+    "lining",
+    "linking",
+    "nagging",
+    "nailing",
+    "nicking",
+    "niggling"
+  ],
+  "date": "2034-03-12",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 7,
+      "6": 10,
+      "7": 25,
+      "8": 12,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 9,
+      "C": 16,
+      "G": 16,
+      "I": 5,
+      "K": 5,
+      "L": 8,
+      "N": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 4,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "C": {
+        "5": 2,
+        "6": 3,
+        "7": 3,
+        "8": 7,
+        "9": 1
+      },
+      "G": {
+        "4": 5,
+        "7": 8,
+        "8": 3
+      },
+      "I": {
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "9": 1
+      },
+      "K": {
+        "4": 1,
+        "7": 4
+      },
+      "L": {
+        "6": 3,
+        "7": 5
+      },
+      "N": {
+        "7": 3,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AG": 2,
+      "AI": 1,
+      "AL": 3,
+      "AN": 2,
+      "CA": 8,
+      "CL": 8,
+      "GA": 10,
+      "GI": 4,
+      "GL": 2,
+      "IC": 1,
+      "IN": 4,
+      "KI": 5,
+      "LA": 4,
+      "LI": 4,
+      "NA": 2,
+      "NI": 2
+    }
+  }
+}

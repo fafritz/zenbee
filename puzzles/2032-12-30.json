@@ -1,0 +1,97 @@
+{
+  "pangram": "vamping",
+  "center_letter": "p",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 151,
+  "answer_pangrams": [
+    "vamping"
+  ],
+  "answers": [
+    "aping",
+    "gaping",
+    "impinging",
+    "mapping",
+    "napping",
+    "nipping",
+    "pagan",
+    "paging",
+    "pain",
+    "paining",
+    "pang",
+    "panning",
+    "papa",
+    "paving",
+    "pigging",
+    "pimp",
+    "pimping",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "piping",
+    "pippin",
+    "pipping",
+    "vamp",
+    "vamping",
+    "vaping"
+  ],
+  "date": "2032-12-30",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 2,
+      "6": 7,
+      "7": 11,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "G": 1,
+      "I": 1,
+      "M": 1,
+      "N": 2,
+      "P": 18,
+      "V": 3
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "G": {
+        "6": 1
+      },
+      "I": {
+        "9": 1
+      },
+      "M": {
+        "7": 1
+      },
+      "N": {
+        "7": 2
+      },
+      "P": {
+        "4": 5,
+        "5": 1,
+        "6": 5,
+        "7": 7
+      },
+      "V": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AP": 1,
+      "GA": 1,
+      "IM": 1,
+      "MA": 1,
+      "NA": 1,
+      "NI": 1,
+      "PA": 8,
+      "PI": 10,
+      "VA": 3
+    }
+  }
+}

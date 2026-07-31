@@ -1,0 +1,119 @@
+{
+  "pangram": "calumny",
+  "center_letter": "l",
+  "num_answers": 41,
+  "num_pangrams": 1,
+  "possible_points": 160,
+  "answer_pangrams": [
+    "calumny"
+  ],
+  "answers": [
+    "allay",
+    "ally",
+    "almanac",
+    "alum",
+    "alumna",
+    "anal",
+    "annual",
+    "annually",
+    "annul",
+    "call",
+    "calla",
+    "calm",
+    "calmly",
+    "calumny",
+    "canal",
+    "cannula",
+    "canula",
+    "clam",
+    "clammy",
+    "clan",
+    "clay",
+    "cull",
+    "lacuna",
+    "lacy",
+    "lama",
+    "layman",
+    "llama",
+    "luau",
+    "lull",
+    "lulu",
+    "lunacy",
+    "mall",
+    "mammal",
+    "manly",
+    "manual",
+    "manually",
+    "maul",
+    "mull",
+    "null",
+    "ulna",
+    "unmanly"
+  ],
+  "date": "2029-01-02",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 6,
+      "6": 10,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 9,
+      "C": 13,
+      "L": 9,
+      "M": 7,
+      "N": 1,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "C": {
+        "4": 6,
+        "5": 2,
+        "6": 3,
+        "7": 2
+      },
+      "L": {
+        "4": 5,
+        "5": 1,
+        "6": 3
+      },
+      "M": {
+        "4": 3,
+        "5": 1,
+        "6": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "U": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 5,
+      "AN": 4,
+      "CA": 8,
+      "CL": 4,
+      "CU": 1,
+      "LA": 4,
+      "LL": 1,
+      "LU": 4,
+      "MA": 6,
+      "MU": 1,
+      "NU": 1,
+      "UL": 1,
+      "UN": 1
+    }
+  }
+}

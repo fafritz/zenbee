@@ -1,0 +1,111 @@
+{
+  "pangram": "beltway",
+  "center_letter": "y",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 149,
+  "answer_pangrams": [
+    "beltway"
+  ],
+  "answers": [
+    "abbey",
+    "ably",
+    "allay",
+    "alley",
+    "alleyway",
+    "ally",
+    "away",
+    "baby",
+    "batty",
+    "belay",
+    "belly",
+    "beltway",
+    "bylaw",
+    "byte",
+    "byway",
+    "ebay",
+    "eyeball",
+    "eyelet",
+    "lately",
+    "layaway",
+    "layette",
+    "leeway",
+    "tabby",
+    "tally",
+    "tatty",
+    "wallaby",
+    "walleye",
+    "waylay",
+    "wetly",
+    "yawl",
+    "yell"
+  ],
+  "date": "2034-04-23",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 12,
+      "6": 4,
+      "7": 6,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "B": 8,
+      "E": 3,
+      "L": 4,
+      "T": 3,
+      "W": 4,
+      "Y": 2
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 3,
+        "8": 1
+      },
+      "B": {
+        "4": 2,
+        "5": 5,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "6": 2,
+        "7": 2
+      },
+      "T": {
+        "5": 3
+      },
+      "W": {
+        "5": 1,
+        "6": 1,
+        "7": 2
+      },
+      "Y": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 2,
+      "AL": 4,
+      "AW": 1,
+      "BA": 2,
+      "BE": 3,
+      "BY": 3,
+      "EB": 1,
+      "EY": 2,
+      "LA": 3,
+      "LE": 1,
+      "TA": 3,
+      "WA": 3,
+      "WE": 1,
+      "YA": 1,
+      "YE": 1
+    }
+  }
+}

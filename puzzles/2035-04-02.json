@@ -1,0 +1,96 @@
+{
+  "pangram": "thyroid",
+  "center_letter": "t",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 100,
+  "answer_pangrams": [
+    "thyroid"
+  ],
+  "answers": [
+    "dhoti",
+    "dirt",
+    "dirty",
+    "ditto",
+    "ditty",
+    "dotty",
+    "hoot",
+    "idiot",
+    "oddity",
+    "riot",
+    "root",
+    "rotor",
+    "third",
+    "thirty",
+    "thyroid",
+    "tidy",
+    "toddy",
+    "toot",
+    "tooth",
+    "toothy",
+    "torrid",
+    "tort",
+    "trio",
+    "trod",
+    "trot",
+    "troy",
+    "tyro"
+  ],
+  "date": "2035-04-02",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 10,
+      "6": 4,
+      "7": 1
+    },
+    "by_first_letter": {
+      "D": 6,
+      "H": 1,
+      "I": 1,
+      "O": 1,
+      "R": 3,
+      "T": 15
+    },
+    "grid": {
+      "D": {
+        "4": 1,
+        "5": 5
+      },
+      "H": {
+        "4": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "O": {
+        "6": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 1
+      },
+      "T": {
+        "4": 8,
+        "5": 3,
+        "6": 3,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "DH": 1,
+      "DI": 4,
+      "DO": 1,
+      "HO": 1,
+      "ID": 1,
+      "OD": 1,
+      "RI": 1,
+      "RO": 2,
+      "TH": 3,
+      "TI": 1,
+      "TO": 6,
+      "TR": 4,
+      "TY": 1
+    }
+  }
+}

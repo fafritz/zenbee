@@ -1,0 +1,96 @@
+{
+  "pangram": "futzing",
+  "center_letter": "t",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 134,
+  "answer_pangrams": [
+    "futzing"
+  ],
+  "answers": [
+    "fitting",
+    "futz",
+    "futzing",
+    "gift",
+    "gifting",
+    "gutting",
+    "igniting",
+    "intuit",
+    "intuiting",
+    "nutting",
+    "tiff",
+    "tiffing",
+    "tinning",
+    "tint",
+    "tinting",
+    "tuft",
+    "tufting",
+    "tugging",
+    "tuning",
+    "tutu",
+    "unfit",
+    "unfitting",
+    "unit",
+    "uniting"
+  ],
+  "date": "2027-10-18",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 1,
+      "6": 2,
+      "7": 11,
+      "8": 1,
+      "9": 2
+    },
+    "by_first_letter": {
+      "F": 3,
+      "G": 3,
+      "I": 3,
+      "N": 1,
+      "T": 10,
+      "U": 4
+    },
+    "grid": {
+      "F": {
+        "4": 1,
+        "7": 2
+      },
+      "G": {
+        "4": 1,
+        "7": 2
+      },
+      "I": {
+        "6": 1,
+        "8": 1,
+        "9": 1
+      },
+      "N": {
+        "7": 1
+      },
+      "T": {
+        "4": 4,
+        "6": 1,
+        "7": 5
+      },
+      "U": {
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "FI": 1,
+      "FU": 2,
+      "GI": 2,
+      "GU": 1,
+      "IG": 1,
+      "IN": 2,
+      "NU": 1,
+      "TI": 5,
+      "TU": 5,
+      "UN": 4
+    }
+  }
+}

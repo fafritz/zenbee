@@ -1,0 +1,89 @@
+{
+  "pangram": "quaking",
+  "center_letter": "i",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 121,
+  "answer_pangrams": [
+    "quaking"
+  ],
+  "answers": [
+    "again",
+    "aging",
+    "akin",
+    "angina",
+    "gagging",
+    "gain",
+    "gaining",
+    "ganging",
+    "gauging",
+    "gigging",
+    "ginning",
+    "gunning",
+    "iguana",
+    "inking",
+    "inning",
+    "king",
+    "kink",
+    "kinking",
+    "nagging",
+    "nuking",
+    "quaking"
+  ],
+  "date": "2037-05-11",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 2,
+      "6": 5,
+      "7": 10
+    },
+    "by_first_letter": {
+      "A": 4,
+      "G": 8,
+      "I": 3,
+      "K": 3,
+      "N": 2,
+      "Q": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      },
+      "G": {
+        "4": 1,
+        "7": 7
+      },
+      "I": {
+        "6": 3
+      },
+      "K": {
+        "4": 2,
+        "7": 1
+      },
+      "N": {
+        "6": 1,
+        "7": 1
+      },
+      "Q": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AK": 1,
+      "AN": 1,
+      "GA": 5,
+      "GI": 2,
+      "GU": 1,
+      "IG": 1,
+      "IN": 2,
+      "KI": 3,
+      "NA": 1,
+      "NU": 1,
+      "QU": 1
+    }
+  }
+}

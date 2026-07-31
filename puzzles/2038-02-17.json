@@ -1,0 +1,100 @@
+{
+  "pangram": "expound",
+  "center_letter": "u",
+  "num_answers": 29,
+  "num_pangrams": 2,
+  "possible_points": 160,
+  "answer_pangrams": [
+    "expound",
+    "expounded"
+  ],
+  "answers": [
+    "denude",
+    "denuded",
+    "dude",
+    "duded",
+    "dune",
+    "dunned",
+    "dunno",
+    "dupe",
+    "duped",
+    "endue",
+    "endued",
+    "expound",
+    "expounded",
+    "exude",
+    "exuded",
+    "noun",
+    "pound",
+    "pounded",
+    "punned",
+    "pupped",
+    "undo",
+    "undone",
+    "undue",
+    "unneeded",
+    "unopened",
+    "upend",
+    "upended",
+    "upon",
+    "upped"
+  ],
+  "date": "2038-02-17",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 9,
+      "6": 7,
+      "7": 4,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "D": 9,
+      "E": 6,
+      "N": 1,
+      "P": 4,
+      "U": 9
+    },
+    "grid": {
+      "D": {
+        "4": 3,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "P": {
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "U": {
+        "4": 2,
+        "5": 3,
+        "6": 1,
+        "7": 1,
+        "8": 2
+      }
+    },
+    "two_letter_list": {
+      "DE": 2,
+      "DU": 7,
+      "EN": 2,
+      "EX": 4,
+      "NO": 1,
+      "PO": 2,
+      "PU": 2,
+      "UN": 5,
+      "UP": 4
+    }
+  }
+}

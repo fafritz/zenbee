@@ -1,0 +1,99 @@
+{
+  "pangram": "bathing",
+  "center_letter": "h",
+  "num_answers": 31,
+  "num_pangrams": 2,
+  "possible_points": 172,
+  "answer_pangrams": [
+    "bathing",
+    "inhabiting"
+  ],
+  "answers": [
+    "bath",
+    "bathing",
+    "bight",
+    "habit",
+    "habitat",
+    "hang",
+    "hanging",
+    "hating",
+    "hatting",
+    "high",
+    "hing",
+    "hinging",
+    "hint",
+    "hinting",
+    "hitting",
+    "inhabit",
+    "inhabitant",
+    "inhabiting",
+    "inhibit",
+    "inhibiting",
+    "nigh",
+    "night",
+    "ninth",
+    "than",
+    "that",
+    "thigh",
+    "thin",
+    "thing",
+    "thinning",
+    "tight",
+    "tithing"
+  ],
+  "date": "2034-06-29",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 7,
+      "6": 1,
+      "7": 10,
+      "8": 1,
+      "10": 3
+    },
+    "by_first_letter": {
+      "B": 3,
+      "H": 12,
+      "I": 5,
+      "N": 3,
+      "T": 8
+    },
+    "grid": {
+      "B": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 4,
+        "5": 1,
+        "6": 1,
+        "7": 6
+      },
+      "I": {
+        "7": 2,
+        "10": 3
+      },
+      "N": {
+        "4": 1,
+        "5": 2
+      },
+      "T": {
+        "4": 3,
+        "5": 3,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "BA": 2,
+      "BI": 1,
+      "HA": 6,
+      "HI": 6,
+      "IN": 5,
+      "NI": 3,
+      "TH": 6,
+      "TI": 2
+    }
+  }
+}

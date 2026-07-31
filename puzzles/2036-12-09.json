@@ -1,0 +1,131 @@
+{
+  "pangram": "poniard",
+  "center_letter": "n",
+  "num_answers": 38,
+  "num_pangrams": 3,
+  "possible_points": 187,
+  "answer_pangrams": [
+    "paranoid",
+    "poniard",
+    "raindrop"
+  ],
+  "answers": [
+    "adorn",
+    "andiron",
+    "android",
+    "anion",
+    "anon",
+    "apron",
+    "darn",
+    "dinar",
+    "donor",
+    "drain",
+    "indoor",
+    "inroad",
+    "iron",
+    "naan",
+    "nadir",
+    "naiad",
+    "nana",
+    "noon",
+    "onion",
+    "opinion",
+    "ordain",
+    "pain",
+    "panda",
+    "paranoia",
+    "paranoid",
+    "pardon",
+    "piano",
+    "pinion",
+    "pippin",
+    "pond",
+    "poniard",
+    "pron",
+    "radian",
+    "radon",
+    "rain",
+    "raindrop",
+    "rind",
+    "roan"
+  ],
+  "date": "2036-12-09",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 12,
+      "6": 7,
+      "7": 4,
+      "8": 3
+    },
+    "by_first_letter": {
+      "A": 6,
+      "D": 4,
+      "I": 3,
+      "N": 5,
+      "O": 3,
+      "P": 11,
+      "R": 6
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "7": 2
+      },
+      "D": {
+        "4": 1,
+        "5": 3
+      },
+      "I": {
+        "4": 1,
+        "6": 2
+      },
+      "N": {
+        "4": 3,
+        "5": 2
+      },
+      "O": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 1,
+        "8": 2
+      },
+      "R": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AN": 4,
+      "AP": 1,
+      "DA": 1,
+      "DI": 1,
+      "DO": 1,
+      "DR": 1,
+      "IN": 2,
+      "IR": 1,
+      "NA": 4,
+      "NO": 1,
+      "ON": 1,
+      "OP": 1,
+      "OR": 1,
+      "PA": 5,
+      "PI": 3,
+      "PO": 2,
+      "PR": 1,
+      "RA": 4,
+      "RI": 1,
+      "RO": 1
+    }
+  }
+}

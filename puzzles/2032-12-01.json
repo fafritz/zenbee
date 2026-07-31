@@ -1,0 +1,131 @@
+{
+  "pangram": "camphor",
+  "center_letter": "o",
+  "num_answers": 52,
+  "num_pangrams": 1,
+  "possible_points": 192,
+  "answer_pangrams": [
+    "camphor"
+  ],
+  "answers": [
+    "achoo",
+    "ammo",
+    "approach",
+    "armor",
+    "aroma",
+    "cacao",
+    "camo",
+    "camphor",
+    "campo",
+    "capo",
+    "carom",
+    "chomp",
+    "chop",
+    "coach",
+    "coca",
+    "cocoa",
+    "coma",
+    "comma",
+    "comp",
+    "compo",
+    "coop",
+    "copra",
+    "corm",
+    "corpora",
+    "crop",
+    "hooch",
+    "hoop",
+    "horror",
+    "macho",
+    "macro",
+    "mocha",
+    "momma",
+    "mooch",
+    "moor",
+    "morocco",
+    "pharaoh",
+    "poach",
+    "pomp",
+    "pooch",
+    "pooh",
+    "poop",
+    "poor",
+    "porch",
+    "prom",
+    "promo",
+    "prop",
+    "roach",
+    "roam",
+    "roar",
+    "rococo",
+    "romp",
+    "room"
+  ],
+  "date": "2032-12-01",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 23,
+      "6": 2,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "C": 20,
+      "H": 3,
+      "M": 7,
+      "P": 11,
+      "R": 6
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "8": 1
+      },
+      "C": {
+        "4": 9,
+        "5": 9,
+        "7": 2
+      },
+      "H": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "M": {
+        "4": 1,
+        "5": 5,
+        "7": 1
+      },
+      "P": {
+        "4": 6,
+        "5": 4,
+        "7": 1
+      },
+      "R": {
+        "4": 4,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AM": 1,
+      "AP": 1,
+      "AR": 2,
+      "CA": 6,
+      "CH": 2,
+      "CO": 11,
+      "CR": 1,
+      "HO": 3,
+      "MA": 2,
+      "MO": 5,
+      "PH": 1,
+      "PO": 7,
+      "PR": 3,
+      "RO": 6
+    }
+  }
+}

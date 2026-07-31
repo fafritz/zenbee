@@ -1,0 +1,95 @@
+{
+  "pangram": "thimble",
+  "center_letter": "m",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 76,
+  "answer_pangrams": [
+    "thimble"
+  ],
+  "answers": [
+    "emblem",
+    "emit",
+    "helm",
+    "helmet",
+    "imbibe",
+    "item",
+    "limb",
+    "lime",
+    "limit",
+    "meet",
+    "melee",
+    "melt",
+    "meme",
+    "mete",
+    "mettle",
+    "mile",
+    "mill",
+    "millet",
+    "mime",
+    "mite",
+    "mitt",
+    "teem",
+    "them",
+    "theme",
+    "thimble",
+    "time"
+  ],
+  "date": "2035-12-20",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 3,
+      "6": 5,
+      "7": 1
+    },
+    "by_first_letter": {
+      "E": 2,
+      "H": 2,
+      "I": 2,
+      "L": 3,
+      "M": 12,
+      "T": 5
+    },
+    "grid": {
+      "E": {
+        "4": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1
+      },
+      "M": {
+        "4": 9,
+        "5": 1,
+        "6": 2
+      },
+      "T": {
+        "4": 3,
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "EM": 2,
+      "HE": 2,
+      "IM": 1,
+      "IT": 1,
+      "LI": 3,
+      "ME": 6,
+      "MI": 6,
+      "TE": 1,
+      "TH": 3,
+      "TI": 1
+    }
+  }
+}

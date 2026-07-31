@@ -1,0 +1,109 @@
+{
+  "pangram": "quailed",
+  "center_letter": "a",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 135,
+  "answer_pangrams": [
+    "quailed"
+  ],
+  "answers": [
+    "added",
+    "addle",
+    "addled",
+    "adieu",
+    "aide",
+    "aided",
+    "ailed",
+    "allied",
+    "allude",
+    "alluded",
+    "aqua",
+    "dale",
+    "dallied",
+    "dead",
+    "deal",
+    "dial",
+    "dialed",
+    "dual",
+    "equal",
+    "equaled",
+    "idea",
+    "ideal",
+    "ladle",
+    "ladled",
+    "laid",
+    "laud",
+    "lauded",
+    "lead",
+    "leaded",
+    "luau",
+    "quad",
+    "quail",
+    "quailed"
+  ],
+  "date": "2028-02-07",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 9,
+      "6": 7,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 11,
+      "D": 7,
+      "E": 2,
+      "I": 2,
+      "L": 8,
+      "Q": 3
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 5,
+        "6": 3,
+        "7": 1
+      },
+      "D": {
+        "4": 5,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "5": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 1,
+        "6": 3
+      },
+      "Q": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 4,
+      "AI": 3,
+      "AL": 3,
+      "AQ": 1,
+      "DA": 2,
+      "DE": 2,
+      "DI": 2,
+      "DU": 1,
+      "EQ": 2,
+      "ID": 2,
+      "LA": 5,
+      "LE": 2,
+      "LU": 1,
+      "QU": 3
+    }
+  }
+}

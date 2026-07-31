@@ -1,0 +1,84 @@
+{
+  "pangram": "captive",
+  "center_letter": "v",
+  "num_answers": 17,
+  "num_pangrams": 2,
+  "possible_points": 94,
+  "answer_pangrams": [
+    "captivate",
+    "captive"
+  ],
+  "answers": [
+    "activate",
+    "active",
+    "captivate",
+    "captive",
+    "cave",
+    "caveat",
+    "civet",
+    "civic",
+    "evict",
+    "pave",
+    "peeve",
+    "vacate",
+    "vape",
+    "veep",
+    "vice",
+    "vitiate",
+    "vivace"
+  ],
+  "date": "2031-02-07",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 4,
+      "6": 4,
+      "7": 2,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 6,
+      "E": 1,
+      "P": 2,
+      "V": 6
+    },
+    "grid": {
+      "A": {
+        "6": 1,
+        "8": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 1
+      },
+      "V": {
+        "4": 3,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "CA": 4,
+      "CI": 2,
+      "EV": 1,
+      "PA": 1,
+      "PE": 1,
+      "VA": 2,
+      "VE": 1,
+      "VI": 3
+    }
+  }
+}

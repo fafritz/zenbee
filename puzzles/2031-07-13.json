@@ -1,0 +1,96 @@
+{
+  "pangram": "docking",
+  "center_letter": "d",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 154,
+  "answer_pangrams": [
+    "docking"
+  ],
+  "answers": [
+    "coding",
+    "coinciding",
+    "condo",
+    "condoning",
+    "dicing",
+    "digging",
+    "diking",
+    "ding",
+    "dinging",
+    "dingo",
+    "dining",
+    "dink",
+    "dinning",
+    "dock",
+    "docking",
+    "dodging",
+    "dodo",
+    "dogging",
+    "doggoning",
+    "doing",
+    "donning",
+    "good",
+    "indigo",
+    "kidding",
+    "kiddo",
+    "kind",
+    "nodding"
+  ],
+  "date": "2031-07-13",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 4,
+      "6": 5,
+      "7": 9,
+      "9": 2,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 4,
+      "D": 17,
+      "G": 1,
+      "I": 1,
+      "K": 3,
+      "N": 1
+    },
+    "grid": {
+      "C": {
+        "5": 1,
+        "6": 1,
+        "9": 1,
+        "10": 1
+      },
+      "D": {
+        "4": 4,
+        "5": 2,
+        "6": 3,
+        "7": 7,
+        "9": 1
+      },
+      "G": {
+        "4": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "K": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "N": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 4,
+      "DI": 9,
+      "DO": 8,
+      "GO": 1,
+      "IN": 1,
+      "KI": 3,
+      "NO": 1
+    }
+  }
+}

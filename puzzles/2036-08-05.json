@@ -1,0 +1,88 @@
+{
+  "pangram": "viaduct",
+  "center_letter": "a",
+  "num_answers": 21,
+  "num_pangrams": 1,
+  "possible_points": 94,
+  "answer_pangrams": [
+    "viaduct"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acid",
+    "acidic",
+    "addict",
+    "attic",
+    "audit",
+    "avid",
+    "cacti",
+    "cicada",
+    "data",
+    "davit",
+    "dicta",
+    "didactic",
+    "diva",
+    "ducat",
+    "tacit",
+    "tact",
+    "tactic",
+    "taut",
+    "viaduct"
+  ],
+  "date": "2036-08-05",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 7,
+      "6": 5,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "C": 2,
+      "D": 6,
+      "T": 4,
+      "V": 1
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2,
+        "6": 3
+      },
+      "C": {
+        "5": 1,
+        "6": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 3,
+        "8": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "V": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 4,
+      "AD": 1,
+      "AT": 1,
+      "AU": 1,
+      "AV": 1,
+      "CA": 1,
+      "CI": 1,
+      "DA": 2,
+      "DI": 3,
+      "DU": 1,
+      "TA": 4,
+      "VI": 1
+    }
+  }
+}

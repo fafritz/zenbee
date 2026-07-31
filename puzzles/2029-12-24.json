@@ -1,0 +1,65 @@
+{
+  "pangram": "complex",
+  "center_letter": "c",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 54,
+  "answer_pangrams": [
+    "complex"
+  ],
+  "answers": [
+    "cell",
+    "cello",
+    "clomp",
+    "clop",
+    "come",
+    "comp",
+    "compel",
+    "complex",
+    "compo",
+    "cool",
+    "coop",
+    "cope",
+    "emcee",
+    "excel",
+    "exec",
+    "loco"
+  ],
+  "date": "2029-12-24",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 5,
+      "6": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 12,
+      "E": 3,
+      "L": 1
+    },
+    "grid": {
+      "C": {
+        "4": 7,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 2
+      },
+      "L": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 2,
+      "CL": 2,
+      "CO": 8,
+      "EM": 1,
+      "EX": 2,
+      "LO": 1
+    }
+  }
+}

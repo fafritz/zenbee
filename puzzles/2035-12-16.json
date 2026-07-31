@@ -1,0 +1,105 @@
+{
+  "pangram": "worming",
+  "center_letter": "w",
+  "num_answers": 31,
+  "num_pangrams": 2,
+  "possible_points": 182,
+  "answer_pangrams": [
+    "ringworm",
+    "worming"
+  ],
+  "answers": [
+    "gown",
+    "gowning",
+    "grow",
+    "growing",
+    "grown",
+    "ingrown",
+    "minnow",
+    "morrow",
+    "mowing",
+    "owing",
+    "owning",
+    "ringworm",
+    "rowing",
+    "wigging",
+    "wing",
+    "winging",
+    "wining",
+    "winning",
+    "winnow",
+    "winnowing",
+    "wino",
+    "wiring",
+    "wooing",
+    "worm",
+    "worming",
+    "worn",
+    "wowing",
+    "wring",
+    "wringing",
+    "wrong",
+    "wronging"
+  ],
+  "date": "2035-12-16",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 4,
+      "6": 10,
+      "7": 7,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "G": 5,
+      "I": 1,
+      "M": 3,
+      "O": 2,
+      "R": 2,
+      "W": 18
+    },
+    "grid": {
+      "G": {
+        "4": 2,
+        "5": 1,
+        "7": 2
+      },
+      "I": {
+        "7": 1
+      },
+      "M": {
+        "6": 3
+      },
+      "O": {
+        "5": 1,
+        "6": 1
+      },
+      "R": {
+        "6": 1,
+        "8": 1
+      },
+      "W": {
+        "4": 4,
+        "5": 2,
+        "6": 5,
+        "7": 4,
+        "8": 2,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "GO": 2,
+      "GR": 3,
+      "IN": 1,
+      "MI": 1,
+      "MO": 2,
+      "OW": 2,
+      "RI": 1,
+      "RO": 1,
+      "WI": 9,
+      "WO": 5,
+      "WR": 4
+    }
+  }
+}

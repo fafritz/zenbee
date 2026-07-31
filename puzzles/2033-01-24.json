@@ -1,0 +1,94 @@
+{
+  "pangram": "rubdown",
+  "center_letter": "n",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 103,
+  "answer_pangrams": [
+    "rubdown"
+  ],
+  "answers": [
+    "bonbon",
+    "bond",
+    "boon",
+    "born",
+    "boron",
+    "bound",
+    "bourbon",
+    "brown",
+    "burn",
+    "donor",
+    "down",
+    "drown",
+    "dunno",
+    "noon",
+    "noun",
+    "round",
+    "rubdown",
+    "rundown",
+    "unborn",
+    "unbound",
+    "undo",
+    "unwound",
+    "worn",
+    "wound"
+  ],
+  "date": "2033-01-24",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 8,
+      "6": 2,
+      "7": 5
+    },
+    "by_first_letter": {
+      "B": 9,
+      "D": 4,
+      "N": 2,
+      "R": 3,
+      "U": 4,
+      "W": 2
+    },
+    "grid": {
+      "B": {
+        "4": 4,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 3
+      },
+      "N": {
+        "4": 2
+      },
+      "R": {
+        "5": 1,
+        "7": 2
+      },
+      "U": {
+        "4": 1,
+        "6": 1,
+        "7": 2
+      },
+      "W": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "BO": 7,
+      "BR": 1,
+      "BU": 1,
+      "DO": 2,
+      "DR": 1,
+      "DU": 1,
+      "NO": 2,
+      "RO": 1,
+      "RU": 2,
+      "UN": 4,
+      "WO": 2
+    }
+  }
+}

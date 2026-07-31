@@ -1,0 +1,76 @@
+{
+  "pangram": "mewling",
+  "center_letter": "m",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 111,
+  "answer_pangrams": [
+    "mewling"
+  ],
+  "answers": [
+    "gimme",
+    "legmen",
+    "lemming",
+    "lime",
+    "liming",
+    "limn",
+    "limning",
+    "linemen",
+    "melee",
+    "meme",
+    "mewing",
+    "mewl",
+    "mewling",
+    "mien",
+    "mile",
+    "mill",
+    "milling",
+    "mime",
+    "miming",
+    "mine",
+    "mingle",
+    "mingling",
+    "mini",
+    "minim",
+    "mining"
+  ],
+  "date": "2033-02-13",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 3,
+      "6": 6,
+      "7": 5,
+      "8": 1
+    },
+    "by_first_letter": {
+      "G": 1,
+      "L": 7,
+      "M": 17
+    },
+    "grid": {
+      "G": {
+        "5": 1
+      },
+      "L": {
+        "4": 2,
+        "6": 2,
+        "7": 3
+      },
+      "M": {
+        "4": 8,
+        "5": 2,
+        "6": 4,
+        "7": 2,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "GI": 1,
+      "LE": 2,
+      "LI": 5,
+      "ME": 5,
+      "MI": 12
+    }
+  }
+}

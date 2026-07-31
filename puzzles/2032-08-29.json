@@ -1,0 +1,92 @@
+{
+  "pangram": "thumbed",
+  "center_letter": "u",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 113,
+  "answer_pangrams": [
+    "thumbed"
+  ],
+  "answers": [
+    "budded",
+    "bummed",
+    "butte",
+    "butted",
+    "debut",
+    "debuted",
+    "dubbed",
+    "dude",
+    "duded",
+    "duet",
+    "dumb",
+    "etude",
+    "hubbub",
+    "hummed",
+    "mute",
+    "muted",
+    "mutt",
+    "muumuu",
+    "thud",
+    "thudded",
+    "thumb",
+    "thumbed",
+    "tube",
+    "tubed",
+    "tutu"
+  ],
+  "date": "2032-08-29",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 7,
+      "6": 7,
+      "7": 3
+    },
+    "by_first_letter": {
+      "B": 4,
+      "D": 7,
+      "E": 1,
+      "H": 2,
+      "M": 4,
+      "T": 7
+    },
+    "grid": {
+      "B": {
+        "5": 1,
+        "6": 3
+      },
+      "D": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "H": {
+        "6": 2
+      },
+      "M": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "BU": 4,
+      "DE": 2,
+      "DU": 5,
+      "ET": 1,
+      "HU": 2,
+      "MU": 4,
+      "TH": 4,
+      "TU": 3
+    }
+  }
+}

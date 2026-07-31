@@ -1,0 +1,116 @@
+{
+  "pangram": "bitumen",
+  "center_letter": "i",
+  "num_answers": 35,
+  "num_pangrams": 1,
+  "possible_points": 146,
+  "answer_pangrams": [
+    "bitumen"
+  ],
+  "answers": [
+    "bite",
+    "bitten",
+    "bitumen",
+    "eminent",
+    "emit",
+    "ennui",
+    "imbibe",
+    "imbue",
+    "imminent",
+    "immune",
+    "intent",
+    "intuit",
+    "item",
+    "mien",
+    "mime",
+    "mine",
+    "mini",
+    "minim",
+    "minimum",
+    "mint",
+    "minuet",
+    "minute",
+    "minutemen",
+    "mite",
+    "mitt",
+    "mitten",
+    "nimbi",
+    "nine",
+    "nineteen",
+    "time",
+    "tine",
+    "tint",
+    "unit",
+    "unite",
+    "untie"
+  ],
+  "date": "2029-02-21",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 6,
+      "6": 8,
+      "7": 3,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "B": 3,
+      "E": 3,
+      "I": 7,
+      "M": 13,
+      "N": 3,
+      "T": 3,
+      "U": 3
+    },
+    "grid": {
+      "B": {
+        "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "6": 4,
+        "8": 1
+      },
+      "M": {
+        "4": 7,
+        "5": 1,
+        "6": 3,
+        "7": 1,
+        "9": 1
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 3
+      },
+      "U": {
+        "4": 1,
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "BI": 3,
+      "EM": 2,
+      "EN": 1,
+      "IM": 4,
+      "IN": 2,
+      "IT": 1,
+      "MI": 13,
+      "NI": 3,
+      "TI": 3,
+      "UN": 3
+    }
+  }
+}

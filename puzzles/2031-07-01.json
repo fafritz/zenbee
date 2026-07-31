@@ -1,0 +1,128 @@
+{
+  "pangram": "policed",
+  "center_letter": "c",
+  "num_answers": 54,
+  "num_pangrams": 1,
+  "possible_points": 243,
+  "answer_pangrams": [
+    "policed"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "cell",
+    "cello",
+    "clip",
+    "clipped",
+    "clod",
+    "clop",
+    "clopped",
+    "cocci",
+    "coddle",
+    "coddled",
+    "code",
+    "coded",
+    "codicil",
+    "coed",
+    "coil",
+    "coiled",
+    "cold",
+    "colic",
+    "collide",
+    "collided",
+    "collie",
+    "colloid",
+    "cooed",
+    "cool",
+    "cooled",
+    "coolie",
+    "coop",
+    "cooped",
+    "cope",
+    "coped",
+    "copied",
+    "copped",
+    "decide",
+    "decided",
+    "decode",
+    "decoded",
+    "deice",
+    "deiced",
+    "dice",
+    "diced",
+    "docile",
+    "epic",
+    "iced",
+    "icicle",
+    "lice",
+    "loci",
+    "loco",
+    "piccolo",
+    "piece",
+    "pieced",
+    "police",
+    "policed"
+  ],
+  "date": "2031-07-01",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 10,
+      "6": 15,
+      "7": 10,
+      "8": 1
+    },
+    "by_first_letter": {
+      "C": 34,
+      "D": 9,
+      "E": 1,
+      "I": 2,
+      "L": 3,
+      "P": 5
+    },
+    "grid": {
+      "C": {
+        "4": 12,
+        "5": 7,
+        "6": 8,
+        "7": 6,
+        "8": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 2,
+        "6": 4,
+        "7": 2
+      },
+      "E": {
+        "4": 1
+      },
+      "I": {
+        "4": 1,
+        "6": 1
+      },
+      "L": {
+        "4": 3
+      },
+      "P": {
+        "5": 1,
+        "6": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "CE": 4,
+      "CL": 5,
+      "CO": 25,
+      "DE": 6,
+      "DI": 2,
+      "DO": 1,
+      "EP": 1,
+      "IC": 2,
+      "LI": 1,
+      "LO": 2,
+      "PI": 3,
+      "PO": 2
+    }
+  }
+}

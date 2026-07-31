@@ -1,0 +1,98 @@
+{
+  "pangram": "empathy",
+  "center_letter": "m",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 106,
+  "answer_pangrams": [
+    "empathy"
+  ],
+  "answers": [
+    "ahem",
+    "attempt",
+    "empathy",
+    "empty",
+    "hammam",
+    "hemp",
+    "mahatma",
+    "mama",
+    "mamma",
+    "mammae",
+    "mate",
+    "math",
+    "matte",
+    "mayhem",
+    "meat",
+    "meaty",
+    "meet",
+    "meme",
+    "meta",
+    "mete",
+    "myth",
+    "tame",
+    "tamp",
+    "team",
+    "teammate",
+    "teem",
+    "temp",
+    "tempt",
+    "them",
+    "theme",
+    "thyme"
+  ],
+  "date": "2037-01-11",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 7,
+      "6": 3,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "E": 2,
+      "H": 2,
+      "M": 15,
+      "T": 10
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "7": 1
+      },
+      "E": {
+        "5": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 1,
+        "6": 1
+      },
+      "M": {
+        "4": 9,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "T": {
+        "4": 6,
+        "5": 3,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AH": 1,
+      "AT": 1,
+      "EM": 2,
+      "HA": 1,
+      "HE": 1,
+      "MA": 8,
+      "ME": 6,
+      "MY": 1,
+      "TA": 2,
+      "TE": 5,
+      "TH": 3
+    }
+  }
+}

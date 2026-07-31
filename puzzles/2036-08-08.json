@@ -1,0 +1,118 @@
+{
+  "pangram": "loafing",
+  "center_letter": "f",
+  "num_answers": 45,
+  "num_pangrams": 2,
+  "possible_points": 228,
+  "answer_pangrams": [
+    "foaling",
+    "loafing"
+  ],
+  "answers": [
+    "alfalfa",
+    "aloof",
+    "fail",
+    "failing",
+    "fall",
+    "falling",
+    "falloff",
+    "fang",
+    "fanning",
+    "filial",
+    "filing",
+    "fill",
+    "filling",
+    "finagling",
+    "final",
+    "fining",
+    "flag",
+    "flagging",
+    "flagon",
+    "flail",
+    "flailing",
+    "flan",
+    "fling",
+    "flinging",
+    "flog",
+    "flogging",
+    "foal",
+    "foaling",
+    "fogging",
+    "foil",
+    "foiling",
+    "folio",
+    "fool",
+    "fooling",
+    "gaff",
+    "gaffing",
+    "golf",
+    "golfing",
+    "goof",
+    "goofing",
+    "info",
+    "loaf",
+    "loafing",
+    "offal",
+    "offing"
+  ],
+  "date": "2036-08-08",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 6,
+      "6": 5,
+      "7": 14,
+      "8": 4,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "F": 32,
+      "G": 6,
+      "I": 1,
+      "L": 2,
+      "O": 2
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "7": 1
+      },
+      "F": {
+        "4": 10,
+        "5": 4,
+        "6": 4,
+        "7": 9,
+        "8": 4,
+        "9": 1
+      },
+      "G": {
+        "4": 3,
+        "7": 3
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "4": 1,
+        "7": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 2,
+      "FA": 7,
+      "FI": 7,
+      "FL": 10,
+      "FO": 8,
+      "GA": 2,
+      "GO": 4,
+      "IN": 1,
+      "LO": 2,
+      "OF": 2
+    }
+  }
+}

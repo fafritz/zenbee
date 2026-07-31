@@ -1,0 +1,95 @@
+{
+  "pangram": "toughen",
+  "center_letter": "g",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 104,
+  "answer_pangrams": [
+    "toughen"
+  ],
+  "answers": [
+    "eggnog",
+    "enough",
+    "gene",
+    "gent",
+    "ghetto",
+    "gone",
+    "gong",
+    "goon",
+    "gotten",
+    "gouge",
+    "gout",
+    "huge",
+    "hung",
+    "nugget",
+    "ought",
+    "outgo",
+    "thong",
+    "though",
+    "thought",
+    "thug",
+    "tongue",
+    "tough",
+    "toughen",
+    "unguent"
+  ],
+  "date": "2036-06-03",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 5,
+      "6": 7,
+      "7": 3
+    },
+    "by_first_letter": {
+      "E": 2,
+      "G": 9,
+      "H": 2,
+      "N": 1,
+      "O": 2,
+      "T": 7,
+      "U": 1
+    },
+    "grid": {
+      "E": {
+        "6": 2
+      },
+      "G": {
+        "4": 6,
+        "5": 1,
+        "6": 2
+      },
+      "H": {
+        "4": 2
+      },
+      "N": {
+        "6": 1
+      },
+      "O": {
+        "5": 2
+      },
+      "T": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 2
+      },
+      "U": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "EG": 1,
+      "EN": 1,
+      "GE": 2,
+      "GH": 1,
+      "GO": 6,
+      "HU": 2,
+      "NU": 1,
+      "OU": 2,
+      "TH": 4,
+      "TO": 3,
+      "UN": 1
+    }
+  }
+}

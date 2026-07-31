@@ -1,0 +1,113 @@
+{
+  "pangram": "pouched",
+  "center_letter": "p",
+  "num_answers": 40,
+  "num_pangrams": 1,
+  "possible_points": 165,
+  "answer_pangrams": [
+    "pouched"
+  ],
+  "answers": [
+    "cheep",
+    "cheeped",
+    "chop",
+    "chopped",
+    "coop",
+    "cooped",
+    "cope",
+    "coped",
+    "copped",
+    "coup",
+    "coupe",
+    "cupped",
+    "deep",
+    "dope",
+    "doped",
+    "dupe",
+    "duped",
+    "epee",
+    "epoch",
+    "hoop",
+    "hooped",
+    "hope",
+    "hoped",
+    "hopped",
+    "peed",
+    "peep",
+    "peeped",
+    "pepped",
+    "podded",
+    "pooch",
+    "pooh",
+    "poohed",
+    "poop",
+    "pooped",
+    "pope",
+    "popped",
+    "pouch",
+    "pouched",
+    "pupped",
+    "upped"
+  ],
+  "date": "2029-12-04",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 10,
+      "6": 12,
+      "7": 3
+    },
+    "by_first_letter": {
+      "C": 12,
+      "D": 5,
+      "E": 2,
+      "H": 5,
+      "P": 15,
+      "U": 1
+    },
+    "grid": {
+      "C": {
+        "4": 4,
+        "5": 3,
+        "6": 3,
+        "7": 2
+      },
+      "D": {
+        "4": 3,
+        "5": 2
+      },
+      "E": {
+        "4": 1,
+        "5": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "P": {
+        "4": 5,
+        "5": 2,
+        "6": 7,
+        "7": 1
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 4,
+      "CO": 7,
+      "CU": 1,
+      "DE": 1,
+      "DO": 2,
+      "DU": 2,
+      "EP": 2,
+      "HO": 5,
+      "PE": 4,
+      "PO": 10,
+      "PU": 1,
+      "UP": 1
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "pangram": "rapidly",
+  "center_letter": "p",
+  "num_answers": 28,
+  "num_pangrams": 2,
+  "possible_points": 129,
+  "answer_pangrams": [
+    "lapidary",
+    "rapidly"
+  ],
+  "answers": [
+    "apiary",
+    "appall",
+    "apply",
+    "drip",
+    "ipad",
+    "lapidary",
+    "lipid",
+    "paddy",
+    "paid",
+    "pail",
+    "pair",
+    "pall",
+    "pallid",
+    "papa",
+    "papal",
+    "papaya",
+    "papilla",
+    "papyri",
+    "parlay",
+    "parry",
+    "payday",
+    "pill",
+    "pillar",
+    "plaid",
+    "play",
+    "pray",
+    "rapid",
+    "rapidly"
+  ],
+  "date": "2038-02-12",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 7,
+      "6": 8,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "D": 1,
+      "I": 1,
+      "L": 2,
+      "P": 19,
+      "R": 2
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 2
+      },
+      "D": {
+        "4": 1
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "5": 1,
+        "8": 1
+      },
+      "P": {
+        "4": 8,
+        "5": 4,
+        "6": 6,
+        "7": 1
+      },
+      "R": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AP": 3,
+      "DR": 1,
+      "IP": 1,
+      "LA": 1,
+      "LI": 1,
+      "PA": 14,
+      "PI": 2,
+      "PL": 2,
+      "PR": 1,
+      "RA": 2
+    }
+  }
+}

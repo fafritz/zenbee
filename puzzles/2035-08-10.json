@@ -1,0 +1,66 @@
+{
+  "pangram": "probity",
+  "center_letter": "p",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 72,
+  "answer_pangrams": [
+    "probity"
+  ],
+  "answers": [
+    "pipit",
+    "pity",
+    "poop",
+    "poor",
+    "poppy",
+    "port",
+    "potty",
+    "prior",
+    "priority",
+    "priory",
+    "probity",
+    "prop",
+    "tiptop",
+    "torpor",
+    "trip",
+    "troop",
+    "typo"
+  ],
+  "date": "2035-08-10",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 5,
+      "6": 3,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "P": 12,
+      "T": 5
+    },
+    "grid": {
+      "P": {
+        "4": 5,
+        "5": 4,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "PI": 2,
+      "PO": 5,
+      "PR": 5,
+      "TI": 1,
+      "TO": 1,
+      "TR": 2,
+      "TY": 1
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "pangram": "calumny",
+  "center_letter": "c",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 104,
+  "answer_pangrams": [
+    "calumny"
+  ],
+  "answers": [
+    "almanac",
+    "call",
+    "calla",
+    "calm",
+    "calmly",
+    "calumny",
+    "canal",
+    "cancan",
+    "canna",
+    "cannula",
+    "canny",
+    "canula",
+    "clam",
+    "clammy",
+    "clan",
+    "clay",
+    "cull",
+    "cyan",
+    "lacuna",
+    "lacy",
+    "lunacy",
+    "uncanny",
+    "yucca"
+  ],
+  "date": "2027-12-19",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 5,
+      "6": 6,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 17,
+      "L": 3,
+      "U": 1,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "C": {
+        "4": 7,
+        "5": 4,
+        "6": 4,
+        "7": 2
+      },
+      "L": {
+        "4": 1,
+        "6": 2
+      },
+      "U": {
+        "7": 1
+      },
+      "Y": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "CA": 11,
+      "CL": 4,
+      "CU": 1,
+      "CY": 1,
+      "LA": 2,
+      "LU": 1,
+      "UN": 1,
+      "YU": 1
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "pangram": "manhole",
+  "center_letter": "e",
+  "num_answers": 45,
+  "num_pangrams": 1,
+  "possible_points": 125,
+  "answer_pangrams": [
+    "manhole"
+  ],
+  "answers": [
+    "ahem",
+    "aloe",
+    "alone",
+    "amen",
+    "anemone",
+    "anneal",
+    "elan",
+    "enamel",
+    "enema",
+    "hale",
+    "heal",
+    "heel",
+    "hell",
+    "hellhole",
+    "hello",
+    "helm",
+    "henna",
+    "hole",
+    "home",
+    "hone",
+    "lame",
+    "lane",
+    "lean",
+    "lemma",
+    "lemon",
+    "lone",
+    "male",
+    "mammae",
+    "mane",
+    "manhole",
+    "meal",
+    "mean",
+    "melanoma",
+    "melee",
+    "melon",
+    "meme",
+    "memo",
+    "mole",
+    "name",
+    "nene",
+    "neon",
+    "noel",
+    "none",
+    "oleo",
+    "omen"
+  ],
+  "date": "2027-10-10",
+  "hints": {
+    "by_length": {
+      "4": 30,
+      "5": 8,
+      "6": 3,
+      "7": 2,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 6,
+      "E": 3,
+      "H": 11,
+      "L": 6,
+      "M": 12,
+      "N": 5,
+      "O": 2
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 8,
+        "5": 2,
+        "8": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 2
+      },
+      "M": {
+        "4": 7,
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "N": {
+        "4": 5
+      },
+      "O": {
+        "4": 2
+      }
+    },
+    "two_letter_list": {
+      "AH": 1,
+      "AL": 2,
+      "AM": 1,
+      "AN": 2,
+      "EL": 1,
+      "EN": 2,
+      "HA": 1,
+      "HE": 7,
+      "HO": 3,
+      "LA": 2,
+      "LE": 3,
+      "LO": 1,
+      "MA": 4,
+      "ME": 7,
+      "MO": 1,
+      "NA": 1,
+      "NE": 2,
+      "NO": 2,
+      "OL": 1,
+      "OM": 1
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "pangram": "cheaply",
+  "center_letter": "c",
+  "num_answers": 29,
+  "num_pangrams": 1,
+  "possible_points": 111,
+  "answer_pangrams": [
+    "cheaply"
+  ],
+  "answers": [
+    "ache",
+    "achy",
+    "alpaca",
+    "apace",
+    "cache",
+    "call",
+    "calla",
+    "cape",
+    "cell",
+    "chap",
+    "chapel",
+    "cheap",
+    "cheaply",
+    "cheep",
+    "clap",
+    "clay",
+    "clayey",
+    "cycle",
+    "each",
+    "lace",
+    "lacy",
+    "leach",
+    "leech",
+    "pace",
+    "palace",
+    "papacy",
+    "peace",
+    "peach",
+    "place"
+  ],
+  "date": "2035-04-30",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 11,
+      "6": 5,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 14,
+      "E": 1,
+      "L": 4,
+      "P": 6
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "C": {
+        "4": 6,
+        "5": 5,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 2
+      },
+      "P": {
+        "4": 1,
+        "5": 3,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "AL": 1,
+      "AP": 1,
+      "CA": 4,
+      "CE": 1,
+      "CH": 5,
+      "CL": 3,
+      "CY": 1,
+      "EA": 1,
+      "LA": 2,
+      "LE": 2,
+      "PA": 3,
+      "PE": 2,
+      "PL": 1
+    }
+  }
+}

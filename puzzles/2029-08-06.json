@@ -1,0 +1,128 @@
+{
+  "pangram": "wealthy",
+  "center_letter": "t",
+  "num_answers": 45,
+  "num_pangrams": 1,
+  "possible_points": 195,
+  "answer_pangrams": [
+    "wealthy"
+  ],
+  "answers": [
+    "athlete",
+    "elate",
+    "eyelet",
+    "eyeteeth",
+    "halt",
+    "hate",
+    "health",
+    "healthy",
+    "heat",
+    "heath",
+    "late",
+    "lately",
+    "lath",
+    "lathe",
+    "latte",
+    "layette",
+    "lethal",
+    "lethally",
+    "tale",
+    "tall",
+    "tally",
+    "tattle",
+    "tattletale",
+    "tatty",
+    "teal",
+    "teeth",
+    "teethe",
+    "tell",
+    "telltale",
+    "that",
+    "thaw",
+    "thee",
+    "theta",
+    "they",
+    "tweet",
+    "wallet",
+    "watt",
+    "wattle",
+    "wealth",
+    "wealthy",
+    "welt",
+    "wetly",
+    "what",
+    "wheat",
+    "whet"
+  ],
+  "date": "2029-08-06",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 11,
+      "6": 9,
+      "7": 4,
+      "8": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "E": 3,
+      "H": 6,
+      "L": 8,
+      "T": 17,
+      "W": 10
+    },
+    "grid": {
+      "A": {
+        "7": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 8,
+        "5": 5,
+        "6": 2,
+        "8": 1,
+        "10": 1
+      },
+      "W": {
+        "4": 4,
+        "5": 2,
+        "6": 3,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AT": 1,
+      "EL": 1,
+      "EY": 2,
+      "HA": 2,
+      "HE": 4,
+      "LA": 6,
+      "LE": 2,
+      "TA": 6,
+      "TE": 5,
+      "TH": 5,
+      "TW": 1,
+      "WA": 3,
+      "WE": 4,
+      "WH": 3
+    }
+  }
+}

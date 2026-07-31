@@ -1,0 +1,115 @@
+{
+  "pangram": "wangled",
+  "center_letter": "w",
+  "num_answers": 46,
+  "num_pangrams": 1,
+  "possible_points": 190,
+  "answer_pangrams": [
+    "wangled"
+  ],
+  "answers": [
+    "anew",
+    "awed",
+    "dawdle",
+    "dawdled",
+    "dawn",
+    "dawned",
+    "dwell",
+    "gewgaw",
+    "gnaw",
+    "gnawed",
+    "lawn",
+    "lewd",
+    "newel",
+    "wadded",
+    "waddle",
+    "waddled",
+    "wade",
+    "waded",
+    "wage",
+    "waged",
+    "wagged",
+    "waggle",
+    "waggled",
+    "wale",
+    "waled",
+    "wall",
+    "walled",
+    "wand",
+    "wane",
+    "waned",
+    "wangle",
+    "wangled",
+    "weal",
+    "wean",
+    "weaned",
+    "wedded",
+    "wedge",
+    "wedged",
+    "weed",
+    "weeded",
+    "weld",
+    "welded",
+    "well",
+    "welled",
+    "wend",
+    "wended"
+  ],
+  "date": "2027-09-16",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 7,
+      "6": 17,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 2,
+      "D": 5,
+      "G": 3,
+      "L": 2,
+      "N": 1,
+      "W": 33
+    },
+    "grid": {
+      "A": {
+        "4": 2
+      },
+      "D": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 2
+      },
+      "L": {
+        "4": 2
+      },
+      "N": {
+        "5": 1
+      },
+      "W": {
+        "4": 12,
+        "5": 5,
+        "6": 13,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "AW": 1,
+      "DA": 4,
+      "DW": 1,
+      "GE": 1,
+      "GN": 2,
+      "LA": 1,
+      "LE": 1,
+      "NE": 1,
+      "WA": 19,
+      "WE": 14
+    }
+  }
+}

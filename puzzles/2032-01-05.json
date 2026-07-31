@@ -1,0 +1,111 @@
+{
+  "pangram": "foliage",
+  "center_letter": "a",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 122,
+  "answer_pangrams": [
+    "foliage"
+  ],
+  "answers": [
+    "agile",
+    "agog",
+    "alfalfa",
+    "alga",
+    "algae",
+    "allege",
+    "aloe",
+    "aloof",
+    "eagle",
+    "fail",
+    "fall",
+    "falloff",
+    "filial",
+    "flag",
+    "flagella",
+    "flail",
+    "flea",
+    "foal",
+    "foliage",
+    "gaff",
+    "gaffe",
+    "gaggle",
+    "gala",
+    "gale",
+    "gall",
+    "goal",
+    "goalie",
+    "illegal",
+    "leaf",
+    "legal",
+    "loaf",
+    "offal"
+  ],
+  "date": "2032-01-05",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 8,
+      "6": 4,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 8,
+      "E": 1,
+      "F": 10,
+      "G": 8,
+      "I": 1,
+      "L": 3,
+      "O": 1
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "F": {
+        "4": 5,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "G": {
+        "4": 5,
+        "5": 1,
+        "6": 2
+      },
+      "I": {
+        "7": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1
+      },
+      "O": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AL": 6,
+      "EA": 1,
+      "FA": 3,
+      "FI": 1,
+      "FL": 4,
+      "FO": 2,
+      "GA": 6,
+      "GO": 2,
+      "IL": 1,
+      "LE": 2,
+      "LO": 1,
+      "OF": 1
+    }
+  }
+}

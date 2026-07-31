@@ -1,0 +1,150 @@
+{
+  "pangram": "peaking",
+  "center_letter": "i",
+  "num_answers": 62,
+  "num_pangrams": 1,
+  "possible_points": 345,
+  "answer_pangrams": [
+    "peaking"
+  ],
+  "answers": [
+    "again",
+    "aging",
+    "akin",
+    "angina",
+    "aping",
+    "egging",
+    "eking",
+    "engaging",
+    "engine",
+    "gagging",
+    "gain",
+    "gaining",
+    "ganging",
+    "gaping",
+    "geeing",
+    "genie",
+    "genii",
+    "gigging",
+    "ginning",
+    "inane",
+    "inking",
+    "inning",
+    "keening",
+    "keeping",
+    "kenning",
+    "king",
+    "kingpin",
+    "kink",
+    "kinking",
+    "kneeing",
+    "nagging",
+    "napkin",
+    "napping",
+    "nine",
+    "nipping",
+    "paging",
+    "pain",
+    "paining",
+    "panning",
+    "peaking",
+    "peeing",
+    "peeking",
+    "peeping",
+    "penning",
+    "pepping",
+    "pieing",
+    "pigging",
+    "pigpen",
+    "pike",
+    "piking",
+    "pine",
+    "ping",
+    "pinging",
+    "pining",
+    "pink",
+    "pinkie",
+    "pinking",
+    "pinning",
+    "pipe",
+    "piping",
+    "pippin",
+    "pipping"
+  ],
+  "date": "2036-11-16",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 7,
+      "6": 17,
+      "7": 26,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 5,
+      "E": 4,
+      "G": 10,
+      "I": 3,
+      "K": 8,
+      "N": 5,
+      "P": 27
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 3,
+        "6": 1
+      },
+      "E": {
+        "5": 1,
+        "6": 2,
+        "8": 1
+      },
+      "G": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 5
+      },
+      "I": {
+        "5": 1,
+        "6": 2
+      },
+      "K": {
+        "4": 2,
+        "7": 6
+      },
+      "N": {
+        "4": 1,
+        "6": 1,
+        "7": 3
+      },
+      "P": {
+        "4": 6,
+        "6": 9,
+        "7": 12
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AK": 1,
+      "AN": 1,
+      "AP": 1,
+      "EG": 1,
+      "EK": 1,
+      "EN": 2,
+      "GA": 5,
+      "GE": 3,
+      "GI": 2,
+      "IN": 3,
+      "KE": 3,
+      "KI": 4,
+      "KN": 1,
+      "NA": 3,
+      "NI": 2,
+      "PA": 4,
+      "PE": 6,
+      "PI": 17
+    }
+  }
+}

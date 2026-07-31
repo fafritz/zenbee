@@ -1,0 +1,130 @@
+{
+  "pangram": "copying",
+  "center_letter": "i",
+  "num_answers": 44,
+  "num_pangrams": 1,
+  "possible_points": 268,
+  "answer_pangrams": [
+    "copying"
+  ],
+  "answers": [
+    "cocci",
+    "cocooning",
+    "coin",
+    "coining",
+    "conic",
+    "conning",
+    "cooing",
+    "cooping",
+    "coping",
+    "copping",
+    "copying",
+    "cynic",
+    "gigging",
+    "ginning",
+    "going",
+    "gonging",
+    "gypping",
+    "icing",
+    "icon",
+    "inning",
+    "ninny",
+    "nipping",
+    "nippy",
+    "noggin",
+    "ongoing",
+    "onion",
+    "opining",
+    "opinion",
+    "picnic",
+    "pigging",
+    "piggy",
+    "ping",
+    "pinging",
+    "pining",
+    "pinion",
+    "pinioning",
+    "pinning",
+    "piping",
+    "pippin",
+    "pipping",
+    "pooping",
+    "popping",
+    "yipping",
+    "yogi"
+  ],
+  "date": "2036-04-21",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 9,
+      "6": 9,
+      "7": 20,
+      "9": 2
+    },
+    "by_first_letter": {
+      "C": 12,
+      "G": 5,
+      "I": 3,
+      "N": 4,
+      "O": 4,
+      "P": 14,
+      "Y": 2
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "5": 3,
+        "6": 2,
+        "7": 5,
+        "9": 1
+      },
+      "G": {
+        "5": 1,
+        "7": 4
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "N": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "O": {
+        "5": 1,
+        "7": 3
+      },
+      "P": {
+        "4": 1,
+        "5": 1,
+        "6": 5,
+        "7": 6,
+        "9": 1
+      },
+      "Y": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 11,
+      "CY": 1,
+      "GI": 2,
+      "GO": 2,
+      "GY": 1,
+      "IC": 2,
+      "IN": 1,
+      "NI": 3,
+      "NO": 1,
+      "ON": 2,
+      "OP": 2,
+      "PI": 12,
+      "PO": 2,
+      "YI": 1,
+      "YO": 1
+    }
+  }
+}

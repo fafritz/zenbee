@@ -1,0 +1,116 @@
+{
+  "pangram": "unlatch",
+  "center_letter": "t",
+  "num_answers": 33,
+  "num_pangrams": 1,
+  "possible_points": 128,
+  "answer_pangrams": [
+    "unlatch"
+  ],
+  "answers": [
+    "actual",
+    "attach",
+    "aunt",
+    "cant",
+    "cantata",
+    "catcall",
+    "catch",
+    "catchall",
+    "chant",
+    "chat",
+    "clutch",
+    "cult",
+    "halt",
+    "hatch",
+    "haunt",
+    "hunt",
+    "hutch",
+    "latch",
+    "lath",
+    "natal",
+    "nuthatch",
+    "tact",
+    "talc",
+    "tall",
+    "taunt",
+    "taut",
+    "than",
+    "that",
+    "thatch",
+    "tuna",
+    "tutu",
+    "uncut",
+    "unlatch"
+  ],
+  "date": "2032-07-07",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 9,
+      "6": 4,
+      "7": 3,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "C": 9,
+      "H": 5,
+      "L": 2,
+      "N": 2,
+      "T": 10,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 2
+      },
+      "C": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 2,
+        "8": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 3
+      },
+      "L": {
+        "4": 1,
+        "5": 1
+      },
+      "N": {
+        "5": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 8,
+        "5": 1,
+        "6": 1
+      },
+      "U": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AT": 1,
+      "AU": 1,
+      "CA": 5,
+      "CH": 2,
+      "CL": 1,
+      "CU": 1,
+      "HA": 3,
+      "HU": 2,
+      "LA": 2,
+      "NA": 1,
+      "NU": 1,
+      "TA": 5,
+      "TH": 3,
+      "TU": 2,
+      "UN": 2
+    }
+  }
+}

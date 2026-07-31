@@ -1,0 +1,91 @@
+{
+  "pangram": "combing",
+  "center_letter": "c",
+  "num_answers": 23,
+  "num_pangrams": 2,
+  "possible_points": 145,
+  "answer_pangrams": [
+    "combing",
+    "combining"
+  ],
+  "answers": [
+    "bionic",
+    "cocci",
+    "cocoon",
+    "cocooning",
+    "coin",
+    "coining",
+    "comb",
+    "combing",
+    "combining",
+    "combo",
+    "comic",
+    "coming",
+    "common",
+    "conic",
+    "conning",
+    "cooing",
+    "icing",
+    "icon",
+    "incoming",
+    "mimic",
+    "mincing",
+    "noncom",
+    "oncoming"
+  ],
+  "date": "2035-04-05",
+  "hints": {
+    "by_length": {
+      "4": 3,
+      "5": 6,
+      "6": 6,
+      "7": 4,
+      "8": 2,
+      "9": 2
+    },
+    "by_first_letter": {
+      "B": 1,
+      "C": 15,
+      "I": 3,
+      "M": 2,
+      "N": 1,
+      "O": 1
+    },
+    "grid": {
+      "B": {
+        "6": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 4,
+        "6": 4,
+        "7": 3,
+        "9": 2
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "8": 1
+      },
+      "M": {
+        "5": 1,
+        "7": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "O": {
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "BI": 1,
+      "CO": 15,
+      "IC": 2,
+      "IN": 1,
+      "MI": 2,
+      "NO": 1,
+      "ON": 1
+    }
+  }
+}

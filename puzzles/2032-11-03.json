@@ -1,0 +1,126 @@
+{
+  "pangram": "balcony",
+  "center_letter": "o",
+  "num_answers": 50,
+  "num_pangrams": 1,
+  "possible_points": 203,
+  "answer_pangrams": [
+    "balcony"
+  ],
+  "answers": [
+    "alloy",
+    "annoy",
+    "anon",
+    "baboon",
+    "bacon",
+    "balcony",
+    "balloon",
+    "baobab",
+    "blob",
+    "bloc",
+    "bobby",
+    "bola",
+    "boll",
+    "bonbon",
+    "bony",
+    "boob",
+    "booboo",
+    "booby",
+    "boon",
+    "cacao",
+    "cannon",
+    "cannonball",
+    "canon",
+    "canyon",
+    "cloy",
+    "coal",
+    "coca",
+    "cocoa",
+    "cocoon",
+    "cola",
+    "colon",
+    "colony",
+    "cool",
+    "coolly",
+    "coyly",
+    "llano",
+    "loan",
+    "lobby",
+    "local",
+    "locally",
+    "loco",
+    "loll",
+    "loon",
+    "loyal",
+    "loyally",
+    "nabob",
+    "nobly",
+    "noon",
+    "nylon",
+    "only"
+  ],
+  "date": "2032-11-03",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 17,
+      "6": 9,
+      "7": 4,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 16,
+      "C": 16,
+      "L": 10,
+      "N": 4,
+      "O": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2
+      },
+      "B": {
+        "4": 7,
+        "5": 3,
+        "6": 4,
+        "7": 2
+      },
+      "C": {
+        "4": 5,
+        "5": 5,
+        "6": 5,
+        "10": 1
+      },
+      "L": {
+        "4": 4,
+        "5": 4,
+        "7": 2
+      },
+      "N": {
+        "4": 1,
+        "5": 3
+      },
+      "O": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AN": 2,
+      "BA": 5,
+      "BL": 2,
+      "BO": 9,
+      "CA": 5,
+      "CL": 1,
+      "CO": 10,
+      "LL": 1,
+      "LO": 9,
+      "NA": 1,
+      "NO": 2,
+      "NY": 1,
+      "ON": 1
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "pangram": "burdock",
+  "center_letter": "c",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 59,
+  "answer_pangrams": [
+    "burdock"
+  ],
+  "answers": [
+    "buck",
+    "burdock",
+    "cook",
+    "cookbook",
+    "cord",
+    "cork",
+    "crock",
+    "crook",
+    "crud",
+    "cuckoo",
+    "curb",
+    "curd",
+    "dock",
+    "duck",
+    "occur",
+    "rock",
+    "rococo"
+  ],
+  "date": "2028-08-14",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 3,
+      "6": 2,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "B": 2,
+      "C": 10,
+      "D": 2,
+      "O": 1,
+      "R": 2
+    },
+    "grid": {
+      "B": {
+        "4": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 6,
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "D": {
+        "4": 2
+      },
+      "O": {
+        "5": 1
+      },
+      "R": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "BU": 2,
+      "CO": 4,
+      "CR": 3,
+      "CU": 3,
+      "DO": 1,
+      "DU": 1,
+      "OC": 1,
+      "RO": 2
+    }
+  }
+}

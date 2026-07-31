@@ -1,0 +1,77 @@
+{
+  "pangram": "hafnium",
+  "center_letter": "m",
+  "num_answers": 20,
+  "num_pangrams": 1,
+  "possible_points": 89,
+  "answer_pangrams": [
+    "hafnium"
+  ],
+  "answers": [
+    "hafnium",
+    "hammam",
+    "human",
+    "imam",
+    "inhuman",
+    "maim",
+    "main",
+    "mama",
+    "mamma",
+    "mania",
+    "manna",
+    "miff",
+    "mini",
+    "minim",
+    "minima",
+    "minimum",
+    "muff",
+    "muffin",
+    "muumuu",
+    "unman"
+  ],
+  "date": "2032-06-18",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 6,
+      "6": 4,
+      "7": 3
+    },
+    "by_first_letter": {
+      "H": 3,
+      "I": 2,
+      "M": 14,
+      "U": 1
+    },
+    "grid": {
+      "H": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1,
+        "7": 1
+      },
+      "M": {
+        "4": 6,
+        "5": 4,
+        "6": 3,
+        "7": 1
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "HA": 2,
+      "HU": 1,
+      "IM": 1,
+      "IN": 1,
+      "MA": 6,
+      "MI": 5,
+      "MU": 3,
+      "UN": 1
+    }
+  }
+}

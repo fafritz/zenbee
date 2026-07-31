@@ -1,0 +1,98 @@
+{
+  "pangram": "hexagon",
+  "center_letter": "n",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 67,
+  "answer_pangrams": [
+    "hexagon"
+  ],
+  "answers": [
+    "annex",
+    "anon",
+    "axon",
+    "eggnog",
+    "engage",
+    "gang",
+    "gene",
+    "gone",
+    "gong",
+    "gonna",
+    "goon",
+    "hang",
+    "henna",
+    "hexagon",
+    "hogan",
+    "hone",
+    "naan",
+    "nana",
+    "nene",
+    "neon",
+    "none",
+    "noon",
+    "oxen",
+    "xenon"
+  ],
+  "date": "2031-08-02",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 5,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "E": 2,
+      "G": 6,
+      "H": 5,
+      "N": 6,
+      "O": 1,
+      "X": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1
+      },
+      "E": {
+        "6": 2
+      },
+      "G": {
+        "4": 5,
+        "5": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "N": {
+        "4": 6
+      },
+      "O": {
+        "4": 1
+      },
+      "X": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 2,
+      "AX": 1,
+      "EG": 1,
+      "EN": 1,
+      "GA": 1,
+      "GE": 1,
+      "GO": 4,
+      "HA": 1,
+      "HE": 2,
+      "HO": 2,
+      "NA": 2,
+      "NE": 2,
+      "NO": 2,
+      "OX": 1,
+      "XE": 1
+    }
+  }
+}

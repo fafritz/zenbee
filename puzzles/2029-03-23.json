@@ -1,0 +1,117 @@
+{
+  "pangram": "whacked",
+  "center_letter": "a",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 154,
+  "answer_pangrams": [
+    "whacked"
+  ],
+  "answers": [
+    "accede",
+    "acceded",
+    "aced",
+    "ache",
+    "ached",
+    "added",
+    "ahead",
+    "awake",
+    "awed",
+    "cache",
+    "cached",
+    "cake",
+    "caked",
+    "cawed",
+    "chad",
+    "dacha",
+    "dead",
+    "decade",
+    "each",
+    "hack",
+    "hacked",
+    "hake",
+    "hawed",
+    "hawk",
+    "hawked",
+    "head",
+    "headache",
+    "headed",
+    "heehawed",
+    "wack",
+    "wadded",
+    "wade",
+    "waded",
+    "wake",
+    "waked",
+    "weak",
+    "whack",
+    "whacked"
+  ],
+  "date": "2029-03-23",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 12,
+      "6": 7,
+      "7": 2,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 9,
+      "C": 6,
+      "D": 3,
+      "E": 1,
+      "H": 10,
+      "W": 9
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 4,
+        "6": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 3,
+        "6": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "E": {
+        "4": 1
+      },
+      "H": {
+        "4": 4,
+        "5": 1,
+        "6": 3,
+        "8": 2
+      },
+      "W": {
+        "4": 4,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 5,
+      "AD": 1,
+      "AH": 1,
+      "AW": 2,
+      "CA": 5,
+      "CH": 1,
+      "DA": 1,
+      "DE": 2,
+      "EA": 1,
+      "HA": 6,
+      "HE": 4,
+      "WA": 6,
+      "WE": 1,
+      "WH": 2
+    }
+  }
+}

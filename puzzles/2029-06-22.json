@@ -1,0 +1,97 @@
+{
+  "pangram": "fixedly",
+  "center_letter": "f",
+  "num_answers": 35,
+  "num_pangrams": 1,
+  "possible_points": 146,
+  "answer_pangrams": [
+    "fixedly"
+  ],
+  "answers": [
+    "defied",
+    "defile",
+    "defiled",
+    "defy",
+    "deified",
+    "deify",
+    "diff",
+    "diffed",
+    "edified",
+    "edify",
+    "feed",
+    "feel",
+    "fell",
+    "felled",
+    "fiddle",
+    "fiddled",
+    "fiddly",
+    "fief",
+    "field",
+    "fielded",
+    "fife",
+    "file",
+    "filed",
+    "fill",
+    "filled",
+    "filly",
+    "fixed",
+    "fixedly",
+    "fled",
+    "flee",
+    "flex",
+    "flexed",
+    "flied",
+    "iffy",
+    "life"
+  ],
+  "date": "2029-06-22",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 7,
+      "6": 8,
+      "7": 6
+    },
+    "by_first_letter": {
+      "D": 8,
+      "E": 2,
+      "F": 23,
+      "I": 1,
+      "L": 1
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2
+      },
+      "E": {
+        "5": 1,
+        "7": 1
+      },
+      "F": {
+        "4": 10,
+        "5": 5,
+        "6": 5,
+        "7": 3
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 6,
+      "DI": 2,
+      "ED": 2,
+      "FE": 4,
+      "FI": 14,
+      "FL": 5,
+      "IF": 1,
+      "LI": 1
+    }
+  }
+}

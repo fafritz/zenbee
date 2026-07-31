@@ -1,0 +1,109 @@
+{
+  "pangram": "fixable",
+  "center_letter": "b",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 152,
+  "answer_pangrams": [
+    "fixable"
+  ],
+  "answers": [
+    "abbe",
+    "able",
+    "affable",
+    "alibi",
+    "baba",
+    "babble",
+    "babe",
+    "babel",
+    "baffle",
+    "bail",
+    "bailiff",
+    "bale",
+    "ball",
+    "beef",
+    "befall",
+    "befell",
+    "belie",
+    "belief",
+    "bell",
+    "belle",
+    "bible",
+    "biff",
+    "bile",
+    "bill",
+    "blab",
+    "fable",
+    "fallible",
+    "feeble",
+    "fixable",
+    "flab",
+    "flexible",
+    "ibex",
+    "label",
+    "labia",
+    "labial",
+    "liable",
+    "libel"
+  ],
+  "date": "2031-12-19",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 9,
+      "6": 8,
+      "7": 3,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 4,
+      "B": 21,
+      "F": 6,
+      "I": 1,
+      "L": 5
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "B": {
+        "4": 11,
+        "5": 4,
+        "6": 5,
+        "7": 1
+      },
+      "F": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 2
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "5": 3,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "AB": 2,
+      "AF": 1,
+      "AL": 1,
+      "BA": 9,
+      "BE": 7,
+      "BI": 4,
+      "BL": 1,
+      "FA": 2,
+      "FE": 1,
+      "FI": 1,
+      "FL": 2,
+      "IB": 1,
+      "LA": 3,
+      "LI": 2
+    }
+  }
+}

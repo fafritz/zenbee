@@ -1,0 +1,104 @@
+{
+  "pangram": "changed",
+  "center_letter": "c",
+  "num_answers": 35,
+  "num_pangrams": 1,
+  "possible_points": 179,
+  "answer_pangrams": [
+    "changed"
+  ],
+  "answers": [
+    "accede",
+    "acceded",
+    "aced",
+    "ache",
+    "ached",
+    "acne",
+    "cache",
+    "cached",
+    "cadence",
+    "cadge",
+    "cadged",
+    "cage",
+    "caged",
+    "cancan",
+    "cane",
+    "caned",
+    "canna",
+    "canned",
+    "cede",
+    "ceded",
+    "chad",
+    "chance",
+    "chanced",
+    "change",
+    "changed",
+    "dacha",
+    "dance",
+    "danced",
+    "decade",
+    "decadence",
+    "each",
+    "enhance",
+    "enhanced",
+    "headache",
+    "hence"
+  ],
+  "date": "2027-04-05",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 10,
+      "6": 9,
+      "7": 5,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 6,
+      "C": 19,
+      "D": 5,
+      "E": 3,
+      "H": 2
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 4,
+        "5": 6,
+        "6": 6,
+        "7": 3
+      },
+      "D": {
+        "5": 2,
+        "6": 2,
+        "9": 1
+      },
+      "E": {
+        "4": 1,
+        "7": 1,
+        "8": 1
+      },
+      "H": {
+        "5": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 6,
+      "CA": 12,
+      "CE": 2,
+      "CH": 5,
+      "DA": 3,
+      "DE": 2,
+      "EA": 1,
+      "EN": 2,
+      "HE": 2
+    }
+  }
+}

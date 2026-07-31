@@ -1,0 +1,95 @@
+{
+  "pangram": "impound",
+  "center_letter": "u",
+  "num_answers": 19,
+  "num_pangrams": 1,
+  "possible_points": 91,
+  "answer_pangrams": [
+    "impound"
+  ],
+  "answers": [
+    "dump",
+    "dunno",
+    "impound",
+    "minimum",
+    "mound",
+    "muumuu",
+    "nonunion",
+    "noun",
+    "odium",
+    "opium",
+    "pinup",
+    "podium",
+    "pound",
+    "pump",
+    "undid",
+    "undo",
+    "union",
+    "unpin",
+    "upon"
+  ],
+  "date": "2030-04-18",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 9,
+      "6": 2,
+      "7": 2,
+      "8": 1
+    },
+    "by_first_letter": {
+      "D": 2,
+      "I": 1,
+      "M": 3,
+      "N": 2,
+      "O": 2,
+      "P": 4,
+      "U": 5
+    },
+    "grid": {
+      "D": {
+        "4": 1,
+        "5": 1
+      },
+      "I": {
+        "7": 1
+      },
+      "M": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 1,
+        "8": 1
+      },
+      "O": {
+        "5": 2
+      },
+      "P": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      },
+      "U": {
+        "4": 2,
+        "5": 3
+      }
+    },
+    "two_letter_list": {
+      "DU": 2,
+      "IM": 1,
+      "MI": 1,
+      "MO": 1,
+      "MU": 1,
+      "NO": 2,
+      "OD": 1,
+      "OP": 1,
+      "PI": 1,
+      "PO": 2,
+      "PU": 1,
+      "UN": 4,
+      "UP": 1
+    }
+  }
+}

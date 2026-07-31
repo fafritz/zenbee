@@ -1,0 +1,116 @@
+{
+  "pangram": "curling",
+  "center_letter": "l",
+  "num_answers": 34,
+  "num_pangrams": 2,
+  "possible_points": 190,
+  "answer_pangrams": [
+    "curlicuing",
+    "curling"
+  ],
+  "answers": [
+    "circling",
+    "cling",
+    "clinging",
+    "clinic",
+    "cluing",
+    "clung",
+    "cull",
+    "culling",
+    "curl",
+    "curlicuing",
+    "curling",
+    "giggling",
+    "gill",
+    "girl",
+    "gluing",
+    "grill",
+    "grilling",
+    "gull",
+    "gulling",
+    "gurgling",
+    "inclining",
+    "lining",
+    "lugging",
+    "lull",
+    "lulling",
+    "lulu",
+    "lung",
+    "lunging",
+    "luring",
+    "niggling",
+    "null",
+    "riling",
+    "rill",
+    "ruling"
+  ],
+  "date": "2033-12-01",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 3,
+      "6": 7,
+      "7": 6,
+      "8": 6,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 11,
+      "G": 9,
+      "I": 1,
+      "L": 8,
+      "N": 2,
+      "R": 3
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "10": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 3
+      },
+      "I": {
+        "9": 1
+      },
+      "L": {
+        "4": 3,
+        "6": 2,
+        "7": 3
+      },
+      "N": {
+        "4": 1,
+        "8": 1
+      },
+      "R": {
+        "4": 1,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "CI": 1,
+      "CL": 5,
+      "CU": 5,
+      "GI": 3,
+      "GL": 1,
+      "GR": 2,
+      "GU": 3,
+      "IN": 1,
+      "LI": 1,
+      "LU": 7,
+      "NI": 1,
+      "NU": 1,
+      "RI": 2,
+      "RU": 1
+    }
+  }
+}

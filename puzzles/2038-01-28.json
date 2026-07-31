@@ -1,0 +1,93 @@
+{
+  "pangram": "glorify",
+  "center_letter": "g",
+  "num_answers": 24,
+  "num_pangrams": 1,
+  "possible_points": 87,
+  "answer_pangrams": [
+    "glorify"
+  ],
+  "answers": [
+    "flog",
+    "foggy",
+    "fogy",
+    "forgo",
+    "frog",
+    "giggly",
+    "gigolo",
+    "gill",
+    "girl",
+    "glorify",
+    "glory",
+    "golf",
+    "goof",
+    "goofy",
+    "gory",
+    "grill",
+    "grog",
+    "groggily",
+    "groggy",
+    "gyro",
+    "igloo",
+    "logo",
+    "rigor",
+    "yogi"
+  ],
+  "date": "2038-01-28",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 7,
+      "6": 3,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "F": 5,
+      "G": 15,
+      "I": 1,
+      "L": 1,
+      "R": 1,
+      "Y": 1
+    },
+    "grid": {
+      "F": {
+        "4": 3,
+        "5": 2
+      },
+      "G": {
+        "4": 7,
+        "5": 3,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "L": {
+        "4": 1
+      },
+      "R": {
+        "5": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "FL": 1,
+      "FO": 3,
+      "FR": 1,
+      "GI": 4,
+      "GL": 2,
+      "GO": 4,
+      "GR": 4,
+      "GY": 1,
+      "IG": 1,
+      "LO": 1,
+      "RI": 1,
+      "YO": 1
+    }
+  }
+}

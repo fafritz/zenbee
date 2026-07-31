@@ -1,0 +1,84 @@
+{
+  "pangram": "confirm",
+  "center_letter": "c",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 112,
+  "answer_pangrams": [
+    "confirm"
+  ],
+  "answers": [
+    "cirri",
+    "cocci",
+    "cocoon",
+    "coffin",
+    "coif",
+    "coin",
+    "comic",
+    "common",
+    "confirm",
+    "conform",
+    "conic",
+    "corm",
+    "corn",
+    "croon",
+    "icon",
+    "ironic",
+    "micron",
+    "mimic",
+    "morocco",
+    "moronic",
+    "noncom",
+    "rococo"
+  ],
+  "date": "2033-12-07",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 6,
+      "6": 7,
+      "7": 4
+    },
+    "by_first_letter": {
+      "C": 14,
+      "I": 2,
+      "M": 4,
+      "N": 1,
+      "R": 1
+    },
+    "grid": {
+      "C": {
+        "4": 4,
+        "5": 5,
+        "6": 3,
+        "7": 2
+      },
+      "I": {
+        "4": 1,
+        "6": 1
+      },
+      "M": {
+        "5": 1,
+        "6": 1,
+        "7": 2
+      },
+      "N": {
+        "6": 1
+      },
+      "R": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "CI": 1,
+      "CO": 12,
+      "CR": 1,
+      "IC": 1,
+      "IR": 1,
+      "MI": 2,
+      "MO": 2,
+      "NO": 1,
+      "RO": 1
+    }
+  }
+}

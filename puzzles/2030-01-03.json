@@ -1,0 +1,88 @@
+{
+  "pangram": "rubdown",
+  "center_letter": "d",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 81,
+  "answer_pangrams": [
+    "rubdown"
+  ],
+  "answers": [
+    "bond",
+    "bound",
+    "brood",
+    "dodo",
+    "donor",
+    "door",
+    "dour",
+    "down",
+    "drown",
+    "drub",
+    "dunno",
+    "odor",
+    "rood",
+    "round",
+    "rubdown",
+    "rundown",
+    "unbound",
+    "undo",
+    "unwound",
+    "wood",
+    "word",
+    "wound"
+  ],
+  "date": "2030-01-03",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 7,
+      "7": 4
+    },
+    "by_first_letter": {
+      "B": 3,
+      "D": 8,
+      "O": 1,
+      "R": 4,
+      "U": 3,
+      "W": 3
+    },
+    "grid": {
+      "B": {
+        "4": 1,
+        "5": 2
+      },
+      "D": {
+        "4": 5,
+        "5": 3
+      },
+      "O": {
+        "4": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1,
+        "7": 2
+      },
+      "U": {
+        "4": 1,
+        "7": 2
+      },
+      "W": {
+        "4": 2,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "BO": 2,
+      "BR": 1,
+      "DO": 5,
+      "DR": 2,
+      "DU": 1,
+      "OD": 1,
+      "RO": 2,
+      "RU": 2,
+      "UN": 3,
+      "WO": 3
+    }
+  }
+}

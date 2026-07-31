@@ -1,0 +1,88 @@
+{
+  "pangram": "backing",
+  "center_letter": "b",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 134,
+  "answer_pangrams": [
+    "backing"
+  ],
+  "answers": [
+    "aback",
+    "baaing",
+    "baba",
+    "back",
+    "backing",
+    "bagging",
+    "baking",
+    "banana",
+    "bang",
+    "banging",
+    "bank",
+    "banking",
+    "banning",
+    "biking",
+    "bikini",
+    "binning",
+    "cabana",
+    "cabbing",
+    "cabin",
+    "gabbing",
+    "gibing",
+    "kickback",
+    "nabbing"
+  ],
+  "date": "2036-04-20",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "5": 2,
+      "6": 7,
+      "7": 9,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 15,
+      "C": 3,
+      "G": 2,
+      "K": 1,
+      "N": 1
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "B": {
+        "4": 4,
+        "6": 5,
+        "7": 6
+      },
+      "C": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "G": {
+        "6": 1,
+        "7": 1
+      },
+      "K": {
+        "8": 1
+      },
+      "N": {
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "BA": 12,
+      "BI": 3,
+      "CA": 3,
+      "GA": 1,
+      "GI": 1,
+      "KI": 1,
+      "NA": 1
+    }
+  }
+}

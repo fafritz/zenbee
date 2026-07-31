@@ -1,0 +1,107 @@
+{
+  "pangram": "imputed",
+  "center_letter": "u",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 139,
+  "answer_pangrams": [
+    "imputed"
+  ],
+  "answers": [
+    "depute",
+    "deputed",
+    "dude",
+    "duded",
+    "duet",
+    "dump",
+    "dumped",
+    "dupe",
+    "duped",
+    "etude",
+    "impute",
+    "imputed",
+    "medium",
+    "muddied",
+    "mute",
+    "muted",
+    "mutt",
+    "muumuu",
+    "pump",
+    "pumped",
+    "pupped",
+    "puppet",
+    "putt",
+    "putted",
+    "puttied",
+    "tedium",
+    "tumid",
+    "tutu",
+    "umped",
+    "upped"
+  ],
+  "date": "2034-07-20",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 7,
+      "6": 10,
+      "7": 4
+    },
+    "by_first_letter": {
+      "D": 9,
+      "E": 1,
+      "I": 2,
+      "M": 6,
+      "P": 7,
+      "T": 3,
+      "U": 2
+    },
+    "grid": {
+      "D": {
+        "4": 4,
+        "5": 2,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "I": {
+        "6": 1,
+        "7": 1
+      },
+      "M": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "P": {
+        "4": 2,
+        "6": 4,
+        "7": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "U": {
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "DE": 2,
+      "DU": 7,
+      "ET": 1,
+      "IM": 2,
+      "ME": 1,
+      "MU": 5,
+      "PU": 7,
+      "TE": 1,
+      "TU": 2,
+      "UM": 1,
+      "UP": 1
+    }
+  }
+}

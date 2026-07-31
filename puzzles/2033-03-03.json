@@ -1,0 +1,84 @@
+{
+  "pangram": "chutney",
+  "center_letter": "n",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 69,
+  "answer_pangrams": [
+    "chutney"
+  ],
+  "answers": [
+    "cent",
+    "chutney",
+    "entente",
+    "hence",
+    "hunch",
+    "hunt",
+    "nene",
+    "nutty",
+    "teen",
+    "teeny",
+    "tenet",
+    "tent",
+    "tenth",
+    "then",
+    "thence",
+    "tune",
+    "uncut"
+  ],
+  "date": "2033-03-03",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 7,
+      "6": 1,
+      "7": 2
+    },
+    "by_first_letter": {
+      "C": 2,
+      "E": 1,
+      "H": 3,
+      "N": 2,
+      "T": 8,
+      "U": 1
+    },
+    "grid": {
+      "C": {
+        "4": 1,
+        "7": 1
+      },
+      "E": {
+        "7": 1
+      },
+      "H": {
+        "4": 1,
+        "5": 2
+      },
+      "N": {
+        "4": 1,
+        "5": 1
+      },
+      "T": {
+        "4": 4,
+        "5": 3,
+        "6": 1
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 1,
+      "CH": 1,
+      "EN": 1,
+      "HE": 1,
+      "HU": 2,
+      "NE": 1,
+      "NU": 1,
+      "TE": 5,
+      "TH": 2,
+      "TU": 1,
+      "UN": 1
+    }
+  }
+}

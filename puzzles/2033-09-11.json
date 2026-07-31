@@ -1,0 +1,126 @@
+{
+  "pangram": "broadly",
+  "center_letter": "y",
+  "num_answers": 38,
+  "num_pangrams": 2,
+  "possible_points": 185,
+  "answer_pangrams": [
+    "adorably",
+    "broadly"
+  ],
+  "answers": [
+    "ably",
+    "adorably",
+    "allay",
+    "alloy",
+    "ally",
+    "array",
+    "arroyo",
+    "baby",
+    "badly",
+    "baldly",
+    "bloody",
+    "bobby",
+    "body",
+    "boldly",
+    "booby",
+    "bray",
+    "broadly",
+    "daddy",
+    "dally",
+    "dolly",
+    "dory",
+    "drably",
+    "dray",
+    "drolly",
+    "dryad",
+    "dryly",
+    "lady",
+    "lobby",
+    "lordly",
+    "lorry",
+    "loyal",
+    "loyally",
+    "oddly",
+    "orally",
+    "rally",
+    "royal",
+    "royally",
+    "yard"
+  ],
+  "date": "2033-09-11",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 17,
+      "6": 8,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "B": 10,
+      "D": 9,
+      "L": 6,
+      "O": 2,
+      "R": 3,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "6": 1,
+        "8": 1
+      },
+      "B": {
+        "4": 3,
+        "5": 3,
+        "6": 3,
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 5,
+        "6": 2
+      },
+      "L": {
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1
+      },
+      "R": {
+        "5": 2,
+        "7": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AD": 1,
+      "AL": 3,
+      "AR": 2,
+      "BA": 3,
+      "BL": 1,
+      "BO": 4,
+      "BR": 2,
+      "DA": 2,
+      "DO": 2,
+      "DR": 5,
+      "LA": 1,
+      "LO": 5,
+      "OD": 1,
+      "OR": 1,
+      "RA": 1,
+      "RO": 2,
+      "YA": 1
+    }
+  }
+}

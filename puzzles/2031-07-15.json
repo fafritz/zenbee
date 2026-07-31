@@ -1,0 +1,102 @@
+{
+  "pangram": "plowing",
+  "center_letter": "w",
+  "num_answers": 32,
+  "num_pangrams": 2,
+  "possible_points": 190,
+  "answer_pangrams": [
+    "pillowing",
+    "plowing"
+  ],
+  "answers": [
+    "glow",
+    "glowing",
+    "gown",
+    "gowning",
+    "lowing",
+    "owing",
+    "owning",
+    "pillow",
+    "pillowing",
+    "plow",
+    "plowing",
+    "polliwog",
+    "powwow",
+    "powwowing",
+    "pwning",
+    "wigging",
+    "wiggling",
+    "wiling",
+    "will",
+    "willing",
+    "willow",
+    "wing",
+    "winging",
+    "wining",
+    "winning",
+    "winnow",
+    "winnowing",
+    "wino",
+    "wiping",
+    "wooing",
+    "wool",
+    "wowing"
+  ],
+  "date": "2031-07-15",
+  "hints": {
+    "by_length": {
+      "4": 7,
+      "5": 1,
+      "6": 12,
+      "7": 7,
+      "8": 2,
+      "9": 3
+    },
+    "by_first_letter": {
+      "G": 4,
+      "L": 1,
+      "O": 2,
+      "P": 8,
+      "W": 17
+    },
+    "grid": {
+      "G": {
+        "4": 2,
+        "7": 2
+      },
+      "L": {
+        "6": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1
+      },
+      "P": {
+        "4": 1,
+        "6": 3,
+        "7": 1,
+        "8": 1,
+        "9": 2
+      },
+      "W": {
+        "4": 4,
+        "6": 7,
+        "7": 4,
+        "8": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "GL": 2,
+      "GO": 2,
+      "LO": 1,
+      "OW": 2,
+      "PI": 2,
+      "PL": 2,
+      "PO": 3,
+      "PW": 1,
+      "WI": 14,
+      "WO": 3
+    }
+  }
+}

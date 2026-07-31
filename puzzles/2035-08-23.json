@@ -1,0 +1,83 @@
+{
+  "pangram": "hackney",
+  "center_letter": "k",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 51,
+  "answer_pangrams": [
+    "hackney"
+  ],
+  "answers": [
+    "ankh",
+    "cake",
+    "check",
+    "cheek",
+    "cheeky",
+    "hack",
+    "hackney",
+    "hake",
+    "hank",
+    "heck",
+    "kayak",
+    "keen",
+    "khan",
+    "knack",
+    "knee",
+    "neck",
+    "yank"
+  ],
+  "date": "2035-08-23",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 4,
+      "6": 1,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "C": 4,
+      "H": 5,
+      "K": 5,
+      "N": 1,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "C": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      },
+      "H": {
+        "4": 4,
+        "7": 1
+      },
+      "K": {
+        "4": 3,
+        "5": 2
+      },
+      "N": {
+        "4": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "CA": 1,
+      "CH": 3,
+      "HA": 4,
+      "HE": 1,
+      "KA": 1,
+      "KE": 1,
+      "KH": 1,
+      "KN": 2,
+      "NE": 1,
+      "YA": 1
+    }
+  }
+}

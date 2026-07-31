@@ -1,0 +1,132 @@
+{
+  "pangram": "unmoved",
+  "center_letter": "n",
+  "num_answers": 45,
+  "num_pangrams": 1,
+  "possible_points": 186,
+  "answer_pangrams": [
+    "unmoved"
+  ],
+  "answers": [
+    "demon",
+    "denude",
+    "denuded",
+    "done",
+    "donned",
+    "dune",
+    "dunned",
+    "dunno",
+    "duodenum",
+    "emend",
+    "emended",
+    "ended",
+    "endue",
+    "endued",
+    "even",
+    "evened",
+    "mend",
+    "mended",
+    "menu",
+    "mono",
+    "moon",
+    "mooned",
+    "mound",
+    "mounded",
+    "need",
+    "needed",
+    "nene",
+    "neon",
+    "nodded",
+    "node",
+    "none",
+    "noon",
+    "noun",
+    "omen",
+    "oven",
+    "undo",
+    "undone",
+    "undue",
+    "uneven",
+    "unmoved",
+    "unneeded",
+    "vend",
+    "vended",
+    "venom",
+    "venue"
+  ],
+  "date": "2031-01-07",
+  "hints": {
+    "by_length": {
+      "4": 18,
+      "5": 9,
+      "6": 12,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "D": 9,
+      "E": 7,
+      "M": 8,
+      "N": 9,
+      "O": 2,
+      "U": 6,
+      "V": 4
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 3,
+        "6": 2,
+        "7": 1
+      },
+      "M": {
+        "4": 4,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "N": {
+        "4": 7,
+        "6": 2
+      },
+      "O": {
+        "4": 2
+      },
+      "U": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "V": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 3,
+      "DO": 2,
+      "DU": 4,
+      "EM": 2,
+      "EN": 3,
+      "EV": 2,
+      "ME": 3,
+      "MO": 5,
+      "NE": 4,
+      "NO": 5,
+      "OM": 1,
+      "OV": 1,
+      "UN": 6,
+      "VE": 4
+    }
+  }
+}

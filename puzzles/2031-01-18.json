@@ -1,0 +1,84 @@
+{
+  "pangram": "laughed",
+  "center_letter": "h",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 132,
+  "answer_pangrams": [
+    "laughed"
+  ],
+  "answers": [
+    "ahead",
+    "egghead",
+    "haggle",
+    "haggled",
+    "halal",
+    "hale",
+    "haled",
+    "hall",
+    "haul",
+    "hauled",
+    "head",
+    "headed",
+    "heal",
+    "healed",
+    "hedge",
+    "hedged",
+    "heed",
+    "heeded",
+    "heel",
+    "heeled",
+    "held",
+    "hell",
+    "huddle",
+    "huddled",
+    "huge",
+    "hugged",
+    "hula",
+    "hull",
+    "hulled",
+    "laugh",
+    "laughed"
+  ],
+  "date": "2031-01-18",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 5,
+      "6": 10,
+      "7": 4
+    },
+    "by_first_letter": {
+      "A": 1,
+      "E": 1,
+      "H": 27,
+      "L": 2
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "E": {
+        "7": 1
+      },
+      "H": {
+        "4": 12,
+        "5": 3,
+        "6": 10,
+        "7": 2
+      },
+      "L": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AH": 1,
+      "EG": 1,
+      "HA": 8,
+      "HE": 12,
+      "HU": 7,
+      "LA": 2
+    }
+  }
+}

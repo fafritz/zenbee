@@ -1,0 +1,103 @@
+{
+  "pangram": "alright",
+  "center_letter": "g",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 113,
+  "answer_pangrams": [
+    "alright"
+  ],
+  "answers": [
+    "agar",
+    "airtight",
+    "alga",
+    "alight",
+    "alright",
+    "aright",
+    "gait",
+    "gala",
+    "gall",
+    "gill",
+    "gilt",
+    "girl",
+    "girt",
+    "girth",
+    "grail",
+    "grill",
+    "grit",
+    "high",
+    "highlight",
+    "hightail",
+    "light",
+    "raga",
+    "ragtag",
+    "right",
+    "taillight",
+    "thigh",
+    "tight"
+  ],
+  "date": "2027-06-05",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 7,
+      "6": 3,
+      "7": 1,
+      "8": 2,
+      "9": 2
+    },
+    "by_first_letter": {
+      "A": 6,
+      "G": 11,
+      "H": 3,
+      "L": 1,
+      "R": 3,
+      "T": 3
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "G": {
+        "4": 8,
+        "5": 3
+      },
+      "H": {
+        "4": 1,
+        "8": 1,
+        "9": 1
+      },
+      "L": {
+        "5": 1
+      },
+      "R": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "T": {
+        "5": 2,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AI": 1,
+      "AL": 3,
+      "AR": 1,
+      "GA": 3,
+      "GI": 5,
+      "GR": 3,
+      "HI": 3,
+      "LI": 1,
+      "RA": 2,
+      "RI": 1,
+      "TA": 1,
+      "TH": 1,
+      "TI": 1
+    }
+  }
+}

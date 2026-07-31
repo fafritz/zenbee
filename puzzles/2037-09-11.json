@@ -1,0 +1,93 @@
+{
+  "pangram": "handful",
+  "center_letter": "u",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 57,
+  "answer_pangrams": [
+    "handful"
+  ],
+  "answers": [
+    "annual",
+    "annul",
+    "dual",
+    "duff",
+    "dull",
+    "faun",
+    "fauna",
+    "fluff",
+    "full",
+    "fund",
+    "handful",
+    "haul",
+    "huff",
+    "hula",
+    "hull",
+    "laud",
+    "luau",
+    "lull",
+    "lulu",
+    "null",
+    "ulna",
+    "unhand"
+  ],
+  "date": "2037-09-11",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 3,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "D": 3,
+      "F": 5,
+      "H": 5,
+      "L": 4,
+      "N": 1,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "5": 1,
+        "6": 1
+      },
+      "D": {
+        "4": 3
+      },
+      "F": {
+        "4": 3,
+        "5": 2
+      },
+      "H": {
+        "4": 4,
+        "7": 1
+      },
+      "L": {
+        "4": 4
+      },
+      "N": {
+        "4": 1
+      },
+      "U": {
+        "4": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 2,
+      "DU": 3,
+      "FA": 2,
+      "FL": 1,
+      "FU": 2,
+      "HA": 2,
+      "HU": 3,
+      "LA": 1,
+      "LU": 3,
+      "NU": 1,
+      "UL": 1,
+      "UN": 1
+    }
+  }
+}

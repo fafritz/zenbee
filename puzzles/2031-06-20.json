@@ -1,0 +1,140 @@
+{
+  "pangram": "antique",
+  "center_letter": "n",
+  "num_answers": 48,
+  "num_pangrams": 1,
+  "possible_points": 231,
+  "answer_pangrams": [
+    "antique"
+  ],
+  "answers": [
+    "ante",
+    "antenna",
+    "antennae",
+    "anti",
+    "antique",
+    "aquanaut",
+    "attain",
+    "attenuate",
+    "attune",
+    "aunt",
+    "eaten",
+    "ennui",
+    "entente",
+    "equine",
+    "inane",
+    "initiate",
+    "innate",
+    "intent",
+    "intuit",
+    "naan",
+    "nana",
+    "neat",
+    "nene",
+    "netiquette",
+    "nine",
+    "nineteen",
+    "quaint",
+    "quanta",
+    "queen",
+    "quinine",
+    "quintet",
+    "taint",
+    "tannin",
+    "taunt",
+    "teen",
+    "tenant",
+    "tenet",
+    "tent",
+    "tine",
+    "tint",
+    "titan",
+    "tuna",
+    "tune",
+    "uneaten",
+    "unique",
+    "unit",
+    "unite",
+    "untie"
+  ],
+  "date": "2031-06-20",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 10,
+      "6": 11,
+      "7": 6,
+      "8": 4,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 10,
+      "E": 4,
+      "I": 5,
+      "N": 7,
+      "Q": 5,
+      "T": 12,
+      "U": 5
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 1
+      },
+      "E": {
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 3,
+        "8": 1
+      },
+      "N": {
+        "4": 5,
+        "8": 1,
+        "10": 1
+      },
+      "Q": {
+        "5": 1,
+        "6": 2,
+        "7": 2
+      },
+      "T": {
+        "4": 6,
+        "5": 4,
+        "6": 2
+      },
+      "U": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 5,
+      "AQ": 1,
+      "AT": 3,
+      "AU": 1,
+      "EA": 1,
+      "EN": 2,
+      "EQ": 1,
+      "IN": 5,
+      "NA": 2,
+      "NE": 3,
+      "NI": 2,
+      "QU": 5,
+      "TA": 3,
+      "TE": 4,
+      "TI": 3,
+      "TU": 2,
+      "UN": 5
+    }
+  }
+}

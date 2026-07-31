@@ -1,0 +1,101 @@
+{
+  "pangram": "harmony",
+  "center_letter": "m",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 132,
+  "answer_pangrams": [
+    "harmony"
+  ],
+  "answers": [
+    "ammo",
+    "armor",
+    "armory",
+    "army",
+    "aroma",
+    "hammam",
+    "harm",
+    "harmony",
+    "homonym",
+    "hymn",
+    "mama",
+    "mamma",
+    "mammary",
+    "manna",
+    "manor",
+    "many",
+    "maroon",
+    "marry",
+    "mayo",
+    "mayor",
+    "moan",
+    "momma",
+    "mommy",
+    "mono",
+    "moon",
+    "moor",
+    "moray",
+    "morn",
+    "moron",
+    "myna",
+    "myrrh",
+    "norm",
+    "roam",
+    "roman",
+    "room",
+    "roomy"
+  ],
+  "date": "2029-04-11",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 14,
+      "6": 3,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 5,
+      "H": 5,
+      "M": 21,
+      "N": 1,
+      "R": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "6": 1
+      },
+      "H": {
+        "4": 2,
+        "6": 1,
+        "7": 2
+      },
+      "M": {
+        "4": 9,
+        "5": 10,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 1
+      },
+      "R": {
+        "4": 2,
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "AM": 1,
+      "AR": 4,
+      "HA": 3,
+      "HO": 1,
+      "HY": 1,
+      "MA": 10,
+      "MO": 9,
+      "MY": 2,
+      "NO": 1,
+      "RO": 4
+    }
+  }
+}

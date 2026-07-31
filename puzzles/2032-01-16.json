@@ -1,0 +1,83 @@
+{
+  "pangram": "handily",
+  "center_letter": "n",
+  "num_answers": 18,
+  "num_pangrams": 1,
+  "possible_points": 72,
+  "answer_pangrams": [
+    "handily"
+  ],
+  "answers": [
+    "anal",
+    "dandy",
+    "hand",
+    "handily",
+    "handy",
+    "hind",
+    "inlaid",
+    "inland",
+    "inlay",
+    "lain",
+    "land",
+    "landlady",
+    "naan",
+    "naiad",
+    "nail",
+    "nana",
+    "nanny",
+    "ninny"
+  ],
+  "date": "2032-01-16",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 6,
+      "6": 2,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "D": 1,
+      "H": 4,
+      "I": 3,
+      "L": 3,
+      "N": 6
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "D": {
+        "5": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 2
+      },
+      "L": {
+        "4": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 3
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "DA": 1,
+      "HA": 3,
+      "HI": 1,
+      "IN": 3,
+      "LA": 3,
+      "NA": 5,
+      "NI": 1
+    }
+  }
+}

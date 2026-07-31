@@ -1,0 +1,119 @@
+{
+  "pangram": "larking",
+  "center_letter": "r",
+  "num_answers": 44,
+  "num_pangrams": 2,
+  "possible_points": 224,
+  "answer_pangrams": [
+    "larking",
+    "rankling"
+  ],
+  "answers": [
+    "agar",
+    "agrarian",
+    "airing",
+    "aria",
+    "arraign",
+    "arraigning",
+    "arranging",
+    "garaging",
+    "gargling",
+    "girl",
+    "glaring",
+    "grail",
+    "grain",
+    "grill",
+    "grilling",
+    "grin",
+    "grinning",
+    "irking",
+    "lair",
+    "lark",
+    "larking",
+    "liar",
+    "lira",
+    "raga",
+    "ragging",
+    "raging",
+    "raglan",
+    "rail",
+    "railing",
+    "rain",
+    "raining",
+    "raking",
+    "rang",
+    "ranging",
+    "rank",
+    "ranking",
+    "rankling",
+    "raring",
+    "rigging",
+    "riling",
+    "rill",
+    "ring",
+    "ringing",
+    "rink"
+  ],
+  "date": "2032-03-27",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 3,
+      "6": 7,
+      "7": 10,
+      "8": 6,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 7,
+      "G": 10,
+      "I": 1,
+      "L": 5,
+      "R": 21
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "G": {
+        "4": 2,
+        "5": 3,
+        "7": 1,
+        "8": 4
+      },
+      "I": {
+        "6": 1
+      },
+      "L": {
+        "4": 4,
+        "7": 1
+      },
+      "R": {
+        "4": 8,
+        "6": 5,
+        "7": 7,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 2,
+      "AI": 1,
+      "AR": 4,
+      "GA": 2,
+      "GI": 1,
+      "GL": 1,
+      "GR": 6,
+      "IR": 1,
+      "LA": 3,
+      "LI": 2,
+      "RA": 15,
+      "RI": 6
+    }
+  }
+}

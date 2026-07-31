@@ -1,0 +1,102 @@
+{
+  "pangram": "hefting",
+  "center_letter": "f",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 163,
+  "answer_pangrams": [
+    "hefting"
+  ],
+  "answers": [
+    "effete",
+    "feet",
+    "feign",
+    "feigning",
+    "feint",
+    "feinting",
+    "fete",
+    "feting",
+    "fief",
+    "fife",
+    "fifteen",
+    "fifteenth",
+    "fifth",
+    "fiftieth",
+    "fight",
+    "fighting",
+    "fine",
+    "fining",
+    "finite",
+    "fitting",
+    "gift",
+    "gifting",
+    "heft",
+    "hefting",
+    "infighting",
+    "infinite",
+    "theft",
+    "thief",
+    "tiff",
+    "tiffing"
+  ],
+  "date": "2033-08-02",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 6,
+      "6": 4,
+      "7": 5,
+      "8": 5,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "E": 1,
+      "F": 19,
+      "G": 2,
+      "H": 2,
+      "I": 2,
+      "T": 4
+    },
+    "grid": {
+      "E": {
+        "6": 1
+      },
+      "F": {
+        "4": 5,
+        "5": 4,
+        "6": 3,
+        "7": 2,
+        "8": 4,
+        "9": 1
+      },
+      "G": {
+        "4": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 1,
+        "7": 1
+      },
+      "I": {
+        "8": 1,
+        "10": 1
+      },
+      "T": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "EF": 1,
+      "FE": 7,
+      "FI": 12,
+      "GI": 2,
+      "HE": 2,
+      "IN": 2,
+      "TH": 2,
+      "TI": 2
+    }
+  }
+}

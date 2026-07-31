@@ -1,0 +1,103 @@
+{
+  "pangram": "fording",
+  "center_letter": "f",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 156,
+  "answer_pangrams": [
+    "fording"
+  ],
+  "answers": [
+    "diff",
+    "diffing",
+    "doff",
+    "doffing",
+    "find",
+    "finding",
+    "fining",
+    "firing",
+    "fogging",
+    "fond",
+    "food",
+    "ford",
+    "fording",
+    "forging",
+    "forgo",
+    "forgoing",
+    "frigid",
+    "fringing",
+    "frog",
+    "frogging",
+    "frond",
+    "goof",
+    "goofing",
+    "griffin",
+    "info",
+    "infringing",
+    "offing",
+    "riff",
+    "riffing",
+    "roof",
+    "roofing"
+  ],
+  "date": "2035-12-05",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 2,
+      "6": 4,
+      "7": 10,
+      "8": 3,
+      "10": 1
+    },
+    "by_first_letter": {
+      "D": 4,
+      "F": 17,
+      "G": 3,
+      "I": 2,
+      "O": 1,
+      "R": 4
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "7": 2
+      },
+      "F": {
+        "4": 5,
+        "5": 2,
+        "6": 3,
+        "7": 4,
+        "8": 3
+      },
+      "G": {
+        "4": 1,
+        "7": 2
+      },
+      "I": {
+        "4": 1,
+        "10": 1
+      },
+      "O": {
+        "6": 1
+      },
+      "R": {
+        "4": 2,
+        "7": 2
+      }
+    },
+    "two_letter_list": {
+      "DI": 2,
+      "DO": 2,
+      "FI": 4,
+      "FO": 8,
+      "FR": 5,
+      "GO": 2,
+      "GR": 1,
+      "IN": 2,
+      "OF": 1,
+      "RI": 2,
+      "RO": 2
+    }
+  }
+}

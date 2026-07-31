@@ -1,0 +1,135 @@
+{
+  "pangram": "menthol",
+  "center_letter": "o",
+  "num_answers": 55,
+  "num_pangrams": 1,
+  "possible_points": 167,
+  "answer_pangrams": [
+    "menthol"
+  ],
+  "answers": [
+    "emote",
+    "hellhole",
+    "hello",
+    "helot",
+    "hole",
+    "home",
+    "hone",
+    "hoot",
+    "hotel",
+    "lemon",
+    "loll",
+    "lone",
+    "loom",
+    "loon",
+    "loot",
+    "lotto",
+    "melon",
+    "memento",
+    "memo",
+    "menthol",
+    "mole",
+    "moll",
+    "molt",
+    "molten",
+    "moment",
+    "mono",
+    "monotone",
+    "month",
+    "moon",
+    "moot",
+    "mote",
+    "motel",
+    "moth",
+    "mottle",
+    "motto",
+    "neon",
+    "noel",
+    "none",
+    "noon",
+    "note",
+    "oleo",
+    "omelet",
+    "omen",
+    "onto",
+    "telethon",
+    "tenon",
+    "toll",
+    "tome",
+    "tone",
+    "tool",
+    "toon",
+    "toot",
+    "tooth",
+    "tote",
+    "totem"
+  ],
+  "date": "2026-08-25",
+  "hints": {
+    "by_length": {
+      "4": 33,
+      "5": 13,
+      "6": 4,
+      "7": 2,
+      "8": 3
+    },
+    "by_first_letter": {
+      "E": 1,
+      "H": 8,
+      "L": 7,
+      "M": 19,
+      "N": 5,
+      "O": 4,
+      "T": 11
+    },
+    "grid": {
+      "E": {
+        "5": 1
+      },
+      "H": {
+        "4": 4,
+        "5": 3,
+        "8": 1
+      },
+      "L": {
+        "4": 5,
+        "5": 2
+      },
+      "M": {
+        "4": 9,
+        "5": 4,
+        "6": 3,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 5
+      },
+      "O": {
+        "4": 3,
+        "6": 1
+      },
+      "T": {
+        "4": 7,
+        "5": 3,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "EM": 1,
+      "HE": 3,
+      "HO": 5,
+      "LE": 1,
+      "LO": 6,
+      "ME": 4,
+      "MO": 15,
+      "NE": 1,
+      "NO": 4,
+      "OL": 1,
+      "OM": 2,
+      "ON": 1,
+      "TE": 2,
+      "TO": 9
+    }
+  }
+}

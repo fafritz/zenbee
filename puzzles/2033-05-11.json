@@ -1,0 +1,108 @@
+{
+  "pangram": "framing",
+  "center_letter": "f",
+  "num_answers": 30,
+  "num_pangrams": 3,
+  "possible_points": 174,
+  "answer_pangrams": [
+    "affirming",
+    "farming",
+    "framing"
+  ],
+  "answers": [
+    "afar",
+    "affair",
+    "affirm",
+    "affirming",
+    "fair",
+    "fang",
+    "fanning",
+    "farina",
+    "faring",
+    "farm",
+    "farming",
+    "fining",
+    "firing",
+    "firm",
+    "firming",
+    "frag",
+    "framing",
+    "friar",
+    "fringing",
+    "gaff",
+    "gaffing",
+    "griffin",
+    "infirm",
+    "infringing",
+    "miff",
+    "miffing",
+    "raffia",
+    "riff",
+    "riffing",
+    "riffraff"
+  ],
+  "date": "2033-05-11",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 1,
+      "6": 8,
+      "7": 8,
+      "8": 2,
+      "9": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "F": 15,
+      "G": 3,
+      "I": 2,
+      "M": 2,
+      "R": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 2,
+        "9": 1
+      },
+      "F": {
+        "4": 5,
+        "5": 1,
+        "6": 4,
+        "7": 4,
+        "8": 1
+      },
+      "G": {
+        "4": 1,
+        "7": 2
+      },
+      "I": {
+        "6": 1,
+        "10": 1
+      },
+      "M": {
+        "4": 1,
+        "7": 1
+      },
+      "R": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "AF": 4,
+      "FA": 7,
+      "FI": 4,
+      "FR": 4,
+      "GA": 2,
+      "GR": 1,
+      "IN": 2,
+      "MI": 2,
+      "RA": 1,
+      "RI": 3
+    }
+  }
+}

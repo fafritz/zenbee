@@ -1,0 +1,70 @@
+{
+  "pangram": "flytrap",
+  "center_letter": "f",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 58,
+  "answer_pangrams": [
+    "flytrap"
+  ],
+  "answers": [
+    "afar",
+    "alfalfa",
+    "fall",
+    "fart",
+    "fatal",
+    "fatally",
+    "fatty",
+    "flap",
+    "flat",
+    "flatly",
+    "flay",
+    "flytrap",
+    "frat",
+    "fray",
+    "raft",
+    "taffy"
+  ],
+  "date": "2038-12-19",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 3,
+      "6": 1,
+      "7": 3
+    },
+    "by_first_letter": {
+      "A": 2,
+      "F": 12,
+      "R": 1,
+      "T": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "7": 1
+      },
+      "F": {
+        "4": 7,
+        "5": 2,
+        "6": 1,
+        "7": 2
+      },
+      "R": {
+        "4": 1
+      },
+      "T": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AF": 1,
+      "AL": 1,
+      "FA": 5,
+      "FL": 5,
+      "FR": 2,
+      "RA": 1,
+      "TA": 1
+    }
+  }
+}

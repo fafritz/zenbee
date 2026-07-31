@@ -1,0 +1,116 @@
+{
+  "pangram": "choking",
+  "center_letter": "k",
+  "num_answers": 35,
+  "num_pangrams": 3,
+  "possible_points": 179,
+  "answer_pangrams": [
+    "chocking",
+    "choking",
+    "hocking"
+  ],
+  "answers": [
+    "chick",
+    "chink",
+    "chinking",
+    "chock",
+    "chocking",
+    "choking",
+    "cocking",
+    "coking",
+    "conk",
+    "conking",
+    "cook",
+    "cooking",
+    "ginkgo",
+    "hick",
+    "hiking",
+    "hock",
+    "hocking",
+    "honk",
+    "honking",
+    "hook",
+    "hooking",
+    "inking",
+    "kick",
+    "kicking",
+    "king",
+    "kink",
+    "kinking",
+    "knock",
+    "knocking",
+    "kook",
+    "nick",
+    "nicking",
+    "nook",
+    "oink",
+    "oinking"
+  ],
+  "date": "2031-08-03",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 4,
+      "6": 4,
+      "7": 11,
+      "8": 3
+    },
+    "by_first_letter": {
+      "C": 12,
+      "G": 1,
+      "H": 8,
+      "I": 1,
+      "K": 8,
+      "N": 3,
+      "O": 2
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 3,
+        "6": 1,
+        "7": 4,
+        "8": 2
+      },
+      "G": {
+        "6": 1
+      },
+      "H": {
+        "4": 4,
+        "6": 1,
+        "7": 3
+      },
+      "I": {
+        "6": 1
+      },
+      "K": {
+        "4": 4,
+        "5": 1,
+        "7": 2,
+        "8": 1
+      },
+      "N": {
+        "4": 2,
+        "7": 1
+      },
+      "O": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 6,
+      "CO": 6,
+      "GI": 1,
+      "HI": 2,
+      "HO": 6,
+      "IN": 1,
+      "KI": 5,
+      "KN": 2,
+      "KO": 1,
+      "NI": 2,
+      "NO": 1,
+      "OI": 2
+    }
+  }
+}

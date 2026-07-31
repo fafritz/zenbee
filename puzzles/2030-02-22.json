@@ -1,0 +1,147 @@
+{
+  "pangram": "flaming",
+  "center_letter": "m",
+  "num_answers": 55,
+  "num_pangrams": 3,
+  "possible_points": 328,
+  "answer_pangrams": [
+    "flaming",
+    "flimflamming",
+    "inflaming"
+  ],
+  "answers": [
+    "aiming",
+    "amalgam",
+    "animal",
+    "familial",
+    "film",
+    "filming",
+    "flaming",
+    "flimflam",
+    "flimflamming",
+    "gaming",
+    "gamma",
+    "imaging",
+    "imagining",
+    "imam",
+    "inflaming",
+    "lama",
+    "laming",
+    "lamming",
+    "liming",
+    "limn",
+    "limning",
+    "llama",
+    "magma",
+    "mail",
+    "mailing",
+    "mailman",
+    "maim",
+    "maiming",
+    "main",
+    "mainlining",
+    "malign",
+    "maligning",
+    "mall",
+    "mama",
+    "mamma",
+    "mammal",
+    "mammalian",
+    "managing",
+    "manga",
+    "mangling",
+    "mania",
+    "manna",
+    "manning",
+    "miff",
+    "miffing",
+    "mill",
+    "milling",
+    "miming",
+    "mingling",
+    "mini",
+    "minim",
+    "minima",
+    "minimal",
+    "mining",
+    "naming"
+  ],
+  "date": "2030-02-22",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 8,
+      "6": 11,
+      "7": 13,
+      "8": 5,
+      "9": 4,
+      "10": 1,
+      "12": 1
+    },
+    "by_first_letter": {
+      "A": 3,
+      "F": 6,
+      "G": 2,
+      "I": 4,
+      "L": 7,
+      "M": 32,
+      "N": 1
+    },
+    "grid": {
+      "A": {
+        "6": 2,
+        "7": 1
+      },
+      "F": {
+        "4": 1,
+        "7": 2,
+        "8": 2,
+        "12": 1
+      },
+      "G": {
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 1,
+        "7": 1,
+        "9": 2
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2
+      },
+      "M": {
+        "4": 8,
+        "5": 6,
+        "6": 5,
+        "7": 7,
+        "8": 3,
+        "9": 2,
+        "10": 1
+      },
+      "N": {
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AI": 1,
+      "AM": 1,
+      "AN": 1,
+      "FA": 1,
+      "FI": 2,
+      "FL": 3,
+      "GA": 2,
+      "IM": 3,
+      "IN": 1,
+      "LA": 3,
+      "LI": 3,
+      "LL": 1,
+      "MA": 21,
+      "MI": 11,
+      "NA": 1
+    }
+  }
+}

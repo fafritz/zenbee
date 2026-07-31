@@ -1,0 +1,94 @@
+{
+  "pangram": "beltway",
+  "center_letter": "w",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 97,
+  "answer_pangrams": [
+    "beltway"
+  ],
+  "answers": [
+    "alleyway",
+    "away",
+    "bawl",
+    "beltway",
+    "blew",
+    "bylaw",
+    "byway",
+    "layaway",
+    "leeway",
+    "tweet",
+    "wale",
+    "wall",
+    "wallaby",
+    "wallet",
+    "walleye",
+    "watt",
+    "wattle",
+    "waylay",
+    "weal",
+    "well",
+    "welt",
+    "wetly",
+    "yawl"
+  ],
+  "date": "2030-08-29",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 4,
+      "6": 4,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "B": 5,
+      "L": 2,
+      "T": 1,
+      "W": 12,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "8": 1
+      },
+      "B": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "L": {
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "5": 1
+      },
+      "W": {
+        "4": 6,
+        "5": 1,
+        "6": 3,
+        "7": 2
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AW": 1,
+      "BA": 1,
+      "BE": 1,
+      "BL": 1,
+      "BY": 2,
+      "LA": 1,
+      "LE": 1,
+      "TW": 1,
+      "WA": 8,
+      "WE": 4,
+      "YA": 1
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "pangram": "alimony",
+  "center_letter": "m",
+  "num_answers": 49,
+  "num_pangrams": 2,
+  "possible_points": 207,
+  "answer_pangrams": [
+    "alimony",
+    "nominally"
+  ],
+  "answers": [
+    "alimony",
+    "amino",
+    "ammo",
+    "ammonia",
+    "animal",
+    "anomaly",
+    "imam",
+    "lama",
+    "layman",
+    "limn",
+    "limo",
+    "limy",
+    "llama",
+    "loam",
+    "loamy",
+    "loom",
+    "mail",
+    "mailman",
+    "maim",
+    "main",
+    "mainly",
+    "mall",
+    "mama",
+    "mamma",
+    "mammal",
+    "mammalian",
+    "mania",
+    "manly",
+    "manna",
+    "many",
+    "mayo",
+    "mill",
+    "million",
+    "mini",
+    "minim",
+    "minima",
+    "minimal",
+    "minimally",
+    "minion",
+    "moan",
+    "moll",
+    "momma",
+    "mommy",
+    "mono",
+    "monomania",
+    "moon",
+    "myna",
+    "nominal",
+    "nominally"
+  ],
+  "date": "2029-08-07",
+  "hints": {
+    "by_length": {
+      "4": 22,
+      "5": 10,
+      "6": 6,
+      "7": 7,
+      "9": 4
+    },
+    "by_first_letter": {
+      "A": 6,
+      "I": 1,
+      "L": 9,
+      "M": 31,
+      "N": 2
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 3
+      },
+      "I": {
+        "4": 1
+      },
+      "L": {
+        "4": 6,
+        "5": 2,
+        "6": 1
+      },
+      "M": {
+        "4": 14,
+        "5": 7,
+        "6": 4,
+        "7": 3,
+        "9": 3
+      },
+      "N": {
+        "7": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AM": 3,
+      "AN": 2,
+      "IM": 1,
+      "LA": 2,
+      "LI": 3,
+      "LL": 1,
+      "LO": 3,
+      "MA": 15,
+      "MI": 8,
+      "MO": 7,
+      "MY": 1,
+      "NO": 2
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "pangram": "hideout",
+  "center_letter": "h",
+  "num_answers": 26,
+  "num_pangrams": 1,
+  "possible_points": 119,
+  "answer_pangrams": [
+    "hideout"
+  ],
+  "answers": [
+    "dhoti",
+    "heed",
+    "heeded",
+    "hide",
+    "hided",
+    "hideout",
+    "hied",
+    "hoed",
+    "hood",
+    "hooded",
+    "hoodie",
+    "hoodoo",
+    "hoodooed",
+    "hoot",
+    "hooted",
+    "teeth",
+    "teethe",
+    "teethed",
+    "thee",
+    "thou",
+    "thud",
+    "thudded",
+    "tithe",
+    "tithed",
+    "tooth",
+    "toothed"
+  ],
+  "date": "2028-09-17",
+  "hints": {
+    "by_length": {
+      "4": 9,
+      "5": 5,
+      "6": 7,
+      "7": 4,
+      "8": 1
+    },
+    "by_first_letter": {
+      "D": 1,
+      "H": 14,
+      "T": 11
+    },
+    "grid": {
+      "D": {
+        "5": 1
+      },
+      "H": {
+        "4": 6,
+        "5": 1,
+        "6": 5,
+        "7": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 3,
+        "6": 2,
+        "7": 3
+      }
+    },
+    "two_letter_list": {
+      "DH": 1,
+      "HE": 2,
+      "HI": 4,
+      "HO": 8,
+      "TE": 3,
+      "TH": 4,
+      "TI": 2,
+      "TO": 2
+    }
+  }
+}

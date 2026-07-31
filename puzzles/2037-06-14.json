@@ -1,0 +1,69 @@
+{
+  "pangram": "flounce",
+  "center_letter": "f",
+  "num_answers": 20,
+  "num_pangrams": 2,
+  "possible_points": 81,
+  "answer_pangrams": [
+    "confluence",
+    "flounce"
+  ],
+  "answers": [
+    "clef",
+    "coffee",
+    "confluence",
+    "cuff",
+    "feel",
+    "fell",
+    "felon",
+    "fence",
+    "fennel",
+    "flee",
+    "fleece",
+    "floe",
+    "flounce",
+    "flue",
+    "fluff",
+    "fool",
+    "foul",
+    "fuel",
+    "full",
+    "funnel"
+  ],
+  "date": "2037-06-14",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 3,
+      "6": 4,
+      "7": 1,
+      "10": 1
+    },
+    "by_first_letter": {
+      "C": 4,
+      "F": 16
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "6": 1,
+        "10": 1
+      },
+      "F": {
+        "4": 9,
+        "5": 3,
+        "6": 3,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "CL": 1,
+      "CO": 2,
+      "CU": 1,
+      "FE": 5,
+      "FL": 6,
+      "FO": 2,
+      "FU": 3
+    }
+  }
+}

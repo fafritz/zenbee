@@ -1,0 +1,110 @@
+{
+  "pangram": "working",
+  "center_letter": "w",
+  "num_answers": 35,
+  "num_pangrams": 1,
+  "possible_points": 180,
+  "answer_pangrams": [
+    "working"
+  ],
+  "answers": [
+    "gown",
+    "gowning",
+    "grow",
+    "growing",
+    "grown",
+    "ingrown",
+    "ironwork",
+    "kiwi",
+    "know",
+    "knowing",
+    "known",
+    "owing",
+    "owning",
+    "rowing",
+    "wigging",
+    "wiki",
+    "wing",
+    "winging",
+    "wining",
+    "wink",
+    "winking",
+    "winning",
+    "winnow",
+    "winnowing",
+    "wino",
+    "wiring",
+    "wooing",
+    "work",
+    "working",
+    "worn",
+    "wowing",
+    "wring",
+    "wringing",
+    "wrong",
+    "wronging"
+  ],
+  "date": "2035-07-04",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 5,
+      "6": 7,
+      "7": 9,
+      "8": 3,
+      "9": 1
+    },
+    "by_first_letter": {
+      "G": 5,
+      "I": 2,
+      "K": 4,
+      "O": 2,
+      "R": 1,
+      "W": 21
+    },
+    "grid": {
+      "G": {
+        "4": 2,
+        "5": 1,
+        "7": 2
+      },
+      "I": {
+        "7": 1,
+        "8": 1
+      },
+      "K": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "O": {
+        "5": 1,
+        "6": 1
+      },
+      "R": {
+        "6": 1
+      },
+      "W": {
+        "4": 6,
+        "5": 2,
+        "6": 5,
+        "7": 5,
+        "8": 2,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "GO": 2,
+      "GR": 3,
+      "IN": 1,
+      "IR": 1,
+      "KI": 1,
+      "KN": 3,
+      "OW": 2,
+      "RO": 1,
+      "WI": 12,
+      "WO": 5,
+      "WR": 4
+    }
+  }
+}

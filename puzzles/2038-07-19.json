@@ -1,0 +1,117 @@
+{
+  "pangram": "glanced",
+  "center_letter": "c",
+  "num_answers": 43,
+  "num_pangrams": 2,
+  "possible_points": 222,
+  "answer_pangrams": [
+    "clanged",
+    "glanced"
+  ],
+  "answers": [
+    "accede",
+    "acceded",
+    "aced",
+    "acne",
+    "cadence",
+    "cadge",
+    "cadged",
+    "cage",
+    "caged",
+    "call",
+    "calla",
+    "called",
+    "canal",
+    "cancan",
+    "cancel",
+    "canceled",
+    "candle",
+    "candled",
+    "cane",
+    "caned",
+    "canna",
+    "canned",
+    "cede",
+    "ceded",
+    "cell",
+    "clad",
+    "clan",
+    "clang",
+    "clanged",
+    "clean",
+    "cleaned",
+    "dance",
+    "danced",
+    "decade",
+    "decadence",
+    "decal",
+    "elegance",
+    "glance",
+    "glanced",
+    "lace",
+    "laced",
+    "lance",
+    "lanced"
+  ],
+  "date": "2038-07-19",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 13,
+      "6": 11,
+      "7": 6,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 27,
+      "D": 5,
+      "E": 1,
+      "G": 2,
+      "L": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 7,
+        "5": 9,
+        "6": 6,
+        "7": 4,
+        "8": 1
+      },
+      "D": {
+        "5": 2,
+        "6": 2,
+        "9": 1
+      },
+      "E": {
+        "8": 1
+      },
+      "G": {
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 4,
+      "CA": 18,
+      "CE": 3,
+      "CL": 6,
+      "DA": 2,
+      "DE": 3,
+      "EL": 1,
+      "GL": 2,
+      "LA": 4
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "pangram": "lunatic",
+  "center_letter": "u",
+  "num_answers": 26,
+  "num_pangrams": 2,
+  "possible_points": 110,
+  "answer_pangrams": [
+    "lunatic",
+    "nautical"
+  ],
+  "answers": [
+    "actual",
+    "annual",
+    "annul",
+    "aunt",
+    "calculi",
+    "cannula",
+    "canula",
+    "cull",
+    "cult",
+    "intuit",
+    "lacuna",
+    "luau",
+    "lull",
+    "lulu",
+    "lunatic",
+    "nautical",
+    "null",
+    "taunt",
+    "taut",
+    "tuna",
+    "tunic",
+    "tutu",
+    "ulna",
+    "uncut",
+    "unit",
+    "until"
+  ],
+  "date": "2032-01-30",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 5,
+      "6": 5,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 5,
+      "I": 1,
+      "L": 5,
+      "N": 2,
+      "T": 5,
+      "U": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 2
+      },
+      "C": {
+        "4": 2,
+        "6": 1,
+        "7": 2
+      },
+      "I": {
+        "6": 1
+      },
+      "L": {
+        "4": 3,
+        "6": 1,
+        "7": 1
+      },
+      "N": {
+        "4": 1,
+        "8": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 2
+      },
+      "U": {
+        "4": 2,
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "AC": 1,
+      "AN": 2,
+      "AU": 1,
+      "CA": 3,
+      "CU": 2,
+      "IN": 1,
+      "LA": 1,
+      "LU": 4,
+      "NA": 1,
+      "NU": 1,
+      "TA": 2,
+      "TU": 3,
+      "UL": 1,
+      "UN": 3
+    }
+  }
+}

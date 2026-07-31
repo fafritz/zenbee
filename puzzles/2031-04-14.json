@@ -1,0 +1,97 @@
+{
+  "pangram": "outlaid",
+  "center_letter": "d",
+  "num_answers": 27,
+  "num_pangrams": 1,
+  "possible_points": 82,
+  "answer_pangrams": [
+    "outlaid"
+  ],
+  "answers": [
+    "adult",
+    "aloud",
+    "audio",
+    "audit",
+    "dado",
+    "data",
+    "dial",
+    "dill",
+    "ditto",
+    "dodo",
+    "doll",
+    "dolt",
+    "doodad",
+    "dual",
+    "dull",
+    "idiot",
+    "idol",
+    "laid",
+    "laud",
+    "load",
+    "loud",
+    "outdid",
+    "outdo",
+    "outlaid",
+    "tidal",
+    "toad",
+    "told"
+  ],
+  "date": "2031-04-14",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 8,
+      "6": 2,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "D": 11,
+      "I": 2,
+      "L": 4,
+      "O": 3,
+      "T": 3
+    },
+    "grid": {
+      "A": {
+        "5": 4
+      },
+      "D": {
+        "4": 9,
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1
+      },
+      "L": {
+        "4": 4
+      },
+      "O": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AD": 1,
+      "AL": 1,
+      "AU": 2,
+      "DA": 2,
+      "DI": 3,
+      "DO": 4,
+      "DU": 2,
+      "ID": 2,
+      "LA": 2,
+      "LO": 2,
+      "OU": 3,
+      "TI": 1,
+      "TO": 2
+    }
+  }
+}

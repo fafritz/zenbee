@@ -1,0 +1,108 @@
+{
+  "pangram": "plunged",
+  "center_letter": "p",
+  "num_answers": 40,
+  "num_pangrams": 2,
+  "possible_points": 209,
+  "answer_pangrams": [
+    "plunged",
+    "unplugged"
+  ],
+  "answers": [
+    "deep",
+    "deepen",
+    "deepened",
+    "depend",
+    "depended",
+    "dupe",
+    "duped",
+    "epee",
+    "gulp",
+    "gulped",
+    "peddle",
+    "peddled",
+    "peed",
+    "peel",
+    "peeled",
+    "peen",
+    "peep",
+    "peeped",
+    "pegged",
+    "penned",
+    "pepped",
+    "pledge",
+    "pledged",
+    "plug",
+    "plugged",
+    "plunge",
+    "plunged",
+    "puddle",
+    "puddled",
+    "pull",
+    "pulled",
+    "pulp",
+    "pulped",
+    "punned",
+    "pupped",
+    "unplug",
+    "unplugged",
+    "upend",
+    "upended",
+    "upped"
+  ],
+  "date": "2029-05-08",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 3,
+      "6": 17,
+      "7": 6,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "D": 7,
+      "E": 1,
+      "G": 2,
+      "P": 25,
+      "U": 5
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "8": 2
+      },
+      "E": {
+        "4": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 1
+      },
+      "P": {
+        "4": 7,
+        "6": 13,
+        "7": 5
+      },
+      "U": {
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 5,
+      "DU": 2,
+      "EP": 1,
+      "GU": 2,
+      "PE": 11,
+      "PL": 6,
+      "PU": 8,
+      "UN": 2,
+      "UP": 3
+    }
+  }
+}

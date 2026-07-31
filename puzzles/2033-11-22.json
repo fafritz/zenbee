@@ -1,0 +1,111 @@
+{
+  "pangram": "notably",
+  "center_letter": "n",
+  "num_answers": 36,
+  "num_pangrams": 1,
+  "possible_points": 153,
+  "answer_pangrams": [
+    "notably"
+  ],
+  "answers": [
+    "anal",
+    "annoy",
+    "anon",
+    "atonal",
+    "baboon",
+    "balloon",
+    "banal",
+    "banana",
+    "banyan",
+    "baton",
+    "blatant",
+    "blatantly",
+    "bonbon",
+    "bony",
+    "boon",
+    "botany",
+    "llano",
+    "loan",
+    "loon",
+    "naan",
+    "nabob",
+    "nana",
+    "nanny",
+    "nanobot",
+    "natal",
+    "natty",
+    "nobly",
+    "noon",
+    "notably",
+    "nylon",
+    "only",
+    "onto",
+    "talon",
+    "tonal",
+    "tony",
+    "toon"
+  ],
+  "date": "2033-11-22",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 12,
+      "6": 6,
+      "7": 4,
+      "9": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "B": 12,
+      "L": 3,
+      "N": 11,
+      "O": 2,
+      "T": 4
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "B": {
+        "4": 2,
+        "5": 2,
+        "6": 5,
+        "7": 2,
+        "9": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1
+      },
+      "N": {
+        "4": 3,
+        "5": 6,
+        "7": 2
+      },
+      "O": {
+        "4": 2
+      },
+      "T": {
+        "4": 2,
+        "5": 2
+      }
+    },
+    "two_letter_list": {
+      "AN": 3,
+      "AT": 1,
+      "BA": 6,
+      "BL": 2,
+      "BO": 4,
+      "LL": 1,
+      "LO": 2,
+      "NA": 7,
+      "NO": 3,
+      "NY": 1,
+      "ON": 2,
+      "TA": 1,
+      "TO": 3
+    }
+  }
+}

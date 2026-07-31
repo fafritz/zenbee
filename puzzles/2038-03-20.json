@@ -1,0 +1,141 @@
+{
+  "pangram": "haloing",
+  "center_letter": "o",
+  "num_answers": 49,
+  "num_pangrams": 2,
+  "possible_points": 238,
+  "answer_pangrams": [
+    "haloing",
+    "hooligan"
+  ],
+  "answers": [
+    "agog",
+    "aloha",
+    "along",
+    "analog",
+    "anion",
+    "anon",
+    "gallon",
+    "ganglion",
+    "gigolo",
+    "goal",
+    "goggling",
+    "going",
+    "gong",
+    "gonging",
+    "gonna",
+    "googling",
+    "goon",
+    "halo",
+    "haloing",
+    "halon",
+    "hogan",
+    "hogging",
+    "holing",
+    "honing",
+    "hooligan",
+    "igloo",
+    "lagoon",
+    "lanolin",
+    "lingo",
+    "lion",
+    "llano",
+    "loan",
+    "loaning",
+    "logging",
+    "login",
+    "logo",
+    "loin",
+    "loll",
+    "lolling",
+    "long",
+    "longing",
+    "loon",
+    "noggin",
+    "noon",
+    "ogling",
+    "oiling",
+    "olio",
+    "ongoing",
+    "onion"
+  ],
+  "date": "2038-03-20",
+  "hints": {
+    "by_length": {
+      "4": 15,
+      "5": 12,
+      "6": 9,
+      "7": 9,
+      "8": 4
+    },
+    "by_first_letter": {
+      "A": 6,
+      "G": 11,
+      "H": 8,
+      "I": 1,
+      "L": 16,
+      "N": 2,
+      "O": 5
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 3,
+        "6": 1
+      },
+      "G": {
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "7": 1,
+        "8": 3
+      },
+      "H": {
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 1
+      },
+      "I": {
+        "5": 1
+      },
+      "L": {
+        "4": 7,
+        "5": 3,
+        "6": 1,
+        "7": 5
+      },
+      "N": {
+        "4": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AG": 1,
+      "AL": 2,
+      "AN": 3,
+      "GA": 2,
+      "GI": 1,
+      "GO": 8,
+      "HA": 3,
+      "HO": 5,
+      "IG": 1,
+      "LA": 2,
+      "LI": 2,
+      "LL": 1,
+      "LO": 11,
+      "NO": 2,
+      "OG": 1,
+      "OI": 1,
+      "OL": 1,
+      "ON": 2
+    }
+  }
+}

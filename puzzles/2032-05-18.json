@@ -1,0 +1,85 @@
+{
+  "pangram": "wakeful",
+  "center_letter": "a",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 64,
+  "answer_pangrams": [
+    "wakeful"
+  ],
+  "answers": [
+    "alfalfa",
+    "awake",
+    "awful",
+    "fake",
+    "fall",
+    "flak",
+    "flake",
+    "flaw",
+    "flea",
+    "kale",
+    "lake",
+    "lawful",
+    "leaf",
+    "leak",
+    "luau",
+    "waffle",
+    "wake",
+    "wakeful",
+    "wale",
+    "walk",
+    "wall",
+    "weak",
+    "weal"
+  ],
+  "date": "2032-05-18",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 3,
+      "6": 2,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 3,
+      "F": 6,
+      "K": 1,
+      "L": 5,
+      "W": 8
+    },
+    "grid": {
+      "A": {
+        "5": 2,
+        "7": 1
+      },
+      "F": {
+        "4": 5,
+        "5": 1
+      },
+      "K": {
+        "4": 1
+      },
+      "L": {
+        "4": 4,
+        "6": 1
+      },
+      "W": {
+        "4": 6,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "AW": 2,
+      "FA": 2,
+      "FL": 4,
+      "KA": 1,
+      "LA": 2,
+      "LE": 2,
+      "LU": 1,
+      "WA": 6,
+      "WE": 2
+    }
+  }
+}

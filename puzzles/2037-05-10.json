@@ -1,0 +1,85 @@
+{
+  "pangram": "grouchy",
+  "center_letter": "o",
+  "num_answers": 17,
+  "num_pangrams": 1,
+  "possible_points": 75,
+  "answer_pangrams": [
+    "grouchy"
+  ],
+  "answers": [
+    "couch",
+    "cough",
+    "crouch",
+    "gory",
+    "grog",
+    "groggy",
+    "grouch",
+    "grouchy",
+    "gyro",
+    "hooch",
+    "horror",
+    "hour",
+    "occur",
+    "ouch",
+    "rococo",
+    "rough",
+    "your"
+  ],
+  "date": "2037-05-10",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 5,
+      "6": 5,
+      "7": 1
+    },
+    "by_first_letter": {
+      "C": 3,
+      "G": 6,
+      "H": 3,
+      "O": 2,
+      "R": 2,
+      "Y": 1
+    },
+    "grid": {
+      "C": {
+        "5": 2,
+        "6": 1
+      },
+      "G": {
+        "4": 3,
+        "6": 2,
+        "7": 1
+      },
+      "H": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1
+      },
+      "R": {
+        "5": 1,
+        "6": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "CO": 2,
+      "CR": 1,
+      "GO": 1,
+      "GR": 4,
+      "GY": 1,
+      "HO": 3,
+      "OC": 1,
+      "OU": 1,
+      "RO": 2,
+      "YO": 1
+    }
+  }
+}

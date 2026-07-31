@@ -1,0 +1,86 @@
+{
+  "pangram": "ducking",
+  "center_letter": "d",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 126,
+  "answer_pangrams": [
+    "ducking"
+  ],
+  "answers": [
+    "dicing",
+    "digging",
+    "diking",
+    "ding",
+    "dinging",
+    "dining",
+    "dink",
+    "dinning",
+    "duck",
+    "ducking",
+    "duding",
+    "dung",
+    "dunging",
+    "dunk",
+    "dunking",
+    "dunning",
+    "guiding",
+    "inducing",
+    "kidding",
+    "kind",
+    "nudging",
+    "undid",
+    "unkind"
+  ],
+  "date": "2029-02-27",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 1,
+      "6": 5,
+      "7": 10,
+      "8": 1
+    },
+    "by_first_letter": {
+      "D": 16,
+      "G": 1,
+      "I": 1,
+      "K": 2,
+      "N": 1,
+      "U": 2
+    },
+    "grid": {
+      "D": {
+        "4": 5,
+        "6": 4,
+        "7": 7
+      },
+      "G": {
+        "7": 1
+      },
+      "I": {
+        "8": 1
+      },
+      "K": {
+        "4": 1,
+        "7": 1
+      },
+      "N": {
+        "7": 1
+      },
+      "U": {
+        "5": 1,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "DI": 8,
+      "DU": 8,
+      "GU": 1,
+      "IN": 1,
+      "KI": 2,
+      "NU": 1,
+      "UN": 2
+    }
+  }
+}

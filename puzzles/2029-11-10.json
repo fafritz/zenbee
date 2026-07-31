@@ -1,0 +1,77 @@
+{
+  "pangram": "privacy",
+  "center_letter": "c",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 73,
+  "answer_pangrams": [
+    "privacy"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "carp",
+    "carpi",
+    "carry",
+    "caviar",
+    "circa",
+    "cirri",
+    "civic",
+    "cray",
+    "papacy",
+    "pica",
+    "piracy",
+    "privacy",
+    "racy",
+    "vicar"
+  ],
+  "date": "2029-11-10",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 6,
+      "6": 4,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 2,
+      "C": 8,
+      "P": 4,
+      "R": 1,
+      "V": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "6": 1
+      },
+      "C": {
+        "4": 2,
+        "5": 5,
+        "6": 1
+      },
+      "P": {
+        "4": 1,
+        "6": 2,
+        "7": 1
+      },
+      "R": {
+        "4": 1
+      },
+      "V": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 2,
+      "CA": 4,
+      "CI": 3,
+      "CR": 1,
+      "PA": 1,
+      "PI": 2,
+      "PR": 1,
+      "RA": 1,
+      "VI": 1
+    }
+  }
+}

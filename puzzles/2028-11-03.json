@@ -1,0 +1,85 @@
+{
+  "pangram": "beatnik",
+  "center_letter": "k",
+  "num_answers": 22,
+  "num_pangrams": 1,
+  "possible_points": 73,
+  "answer_pangrams": [
+    "beatnik"
+  ],
+  "answers": [
+    "akin",
+    "bake",
+    "bank",
+    "batik",
+    "beak",
+    "beatnik",
+    "betake",
+    "betaken",
+    "bike",
+    "bikini",
+    "intake",
+    "kebab",
+    "keen",
+    "kink",
+    "kite",
+    "kitten",
+    "knee",
+    "knit",
+    "take",
+    "taken",
+    "tank",
+    "teak"
+  ],
+  "date": "2028-11-03",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 3,
+      "6": 4,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 9,
+      "I": 1,
+      "K": 7,
+      "T": 4
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "B": {
+        "4": 4,
+        "5": 1,
+        "6": 2,
+        "7": 2
+      },
+      "I": {
+        "6": 1
+      },
+      "K": {
+        "4": 5,
+        "5": 1,
+        "6": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AK": 1,
+      "BA": 3,
+      "BE": 4,
+      "BI": 2,
+      "IN": 1,
+      "KE": 2,
+      "KI": 3,
+      "KN": 2,
+      "TA": 3,
+      "TE": 1
+    }
+  }
+}

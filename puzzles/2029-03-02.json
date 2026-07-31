@@ -1,0 +1,103 @@
+{
+  "pangram": "nuptial",
+  "center_letter": "p",
+  "num_answers": 38,
+  "num_pangrams": 1,
+  "possible_points": 159,
+  "answer_pangrams": [
+    "nuptial"
+  ],
+  "answers": [
+    "appall",
+    "inapt",
+    "input",
+    "nuptial",
+    "pail",
+    "pain",
+    "paint",
+    "palatal",
+    "palatial",
+    "pall",
+    "pant",
+    "papa",
+    "papal",
+    "papilla",
+    "patina",
+    "pill",
+    "pint",
+    "pinup",
+    "pipit",
+    "pippin",
+    "pita",
+    "plain",
+    "plaint",
+    "plait",
+    "plan",
+    "plant",
+    "plantain",
+    "pliant",
+    "pull",
+    "pulp",
+    "pulpit",
+    "punt",
+    "pupa",
+    "pupal",
+    "pupil",
+    "putt",
+    "tulip",
+    "unpin"
+  ],
+  "date": "2029-03-02",
+  "hints": {
+    "by_length": {
+      "4": 14,
+      "5": 13,
+      "6": 6,
+      "7": 3,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "I": 2,
+      "N": 1,
+      "P": 32,
+      "T": 1,
+      "U": 1
+    },
+    "grid": {
+      "A": {
+        "6": 1
+      },
+      "I": {
+        "5": 2
+      },
+      "N": {
+        "7": 1
+      },
+      "P": {
+        "4": 14,
+        "5": 9,
+        "6": 5,
+        "7": 2,
+        "8": 2
+      },
+      "T": {
+        "5": 1
+      },
+      "U": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AP": 1,
+      "IN": 2,
+      "NU": 1,
+      "PA": 11,
+      "PI": 6,
+      "PL": 7,
+      "PU": 8,
+      "TU": 1,
+      "UN": 1
+    }
+  }
+}

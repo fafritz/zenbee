@@ -1,0 +1,127 @@
+{
+  "pangram": "champed",
+  "center_letter": "c",
+  "num_answers": 43,
+  "num_pangrams": 1,
+  "possible_points": 194,
+  "answer_pangrams": [
+    "champed"
+  ],
+  "answers": [
+    "accede",
+    "acceded",
+    "aced",
+    "ache",
+    "ached",
+    "acme",
+    "apace",
+    "cache",
+    "cached",
+    "came",
+    "camp",
+    "camped",
+    "cape",
+    "caped",
+    "capped",
+    "cede",
+    "ceded",
+    "chad",
+    "champ",
+    "champed",
+    "chap",
+    "chapped",
+    "cheap",
+    "cheep",
+    "cheeped",
+    "chem",
+    "dacha",
+    "decade",
+    "decamp",
+    "decamped",
+    "each",
+    "emcee",
+    "emceed",
+    "headache",
+    "macadam",
+    "mace",
+    "maced",
+    "madcap",
+    "mecca",
+    "pace",
+    "paced",
+    "peace",
+    "peach"
+  ],
+  "date": "2036-11-11",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 15,
+      "6": 8,
+      "7": 5,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 7,
+      "C": 19,
+      "D": 4,
+      "E": 3,
+      "H": 1,
+      "M": 5,
+      "P": 4
+    },
+    "grid": {
+      "A": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 7,
+        "5": 6,
+        "6": 3,
+        "7": 3
+      },
+      "D": {
+        "5": 1,
+        "6": 2,
+        "8": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "H": {
+        "8": 1
+      },
+      "M": {
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 1,
+        "5": 3
+      }
+    },
+    "two_letter_list": {
+      "AC": 6,
+      "AP": 1,
+      "CA": 8,
+      "CE": 2,
+      "CH": 9,
+      "DA": 1,
+      "DE": 3,
+      "EA": 1,
+      "EM": 2,
+      "HE": 1,
+      "MA": 4,
+      "ME": 1,
+      "PA": 2,
+      "PE": 2
+    }
+  }
+}

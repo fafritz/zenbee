@@ -1,0 +1,134 @@
+{
+  "pangram": "watched",
+  "center_letter": "c",
+  "num_answers": 47,
+  "num_pangrams": 1,
+  "possible_points": 246,
+  "answer_pangrams": [
+    "watched"
+  ],
+  "answers": [
+    "accede",
+    "acceded",
+    "aced",
+    "acetate",
+    "ache",
+    "ached",
+    "acted",
+    "attach",
+    "attache",
+    "attached",
+    "cache",
+    "cached",
+    "cachet",
+    "cadet",
+    "catch",
+    "catted",
+    "cawed",
+    "cede",
+    "ceded",
+    "chad",
+    "chat",
+    "chatted",
+    "cheat",
+    "cheated",
+    "cheetah",
+    "chew",
+    "chewed",
+    "dacha",
+    "decade",
+    "detach",
+    "detached",
+    "detect",
+    "detected",
+    "each",
+    "etch",
+    "etched",
+    "hatch",
+    "hatched",
+    "hatchet",
+    "headache",
+    "tact",
+    "teach",
+    "tech",
+    "thatch",
+    "thatched",
+    "watch",
+    "watched"
+  ],
+  "date": "2027-05-03",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 12,
+      "6": 11,
+      "7": 9,
+      "8": 5
+    },
+    "by_first_letter": {
+      "A": 10,
+      "C": 17,
+      "D": 6,
+      "E": 3,
+      "H": 4,
+      "T": 5,
+      "W": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 3,
+        "8": 1
+      },
+      "C": {
+        "4": 4,
+        "5": 6,
+        "6": 4,
+        "7": 3
+      },
+      "D": {
+        "5": 1,
+        "6": 3,
+        "8": 2
+      },
+      "E": {
+        "4": 2,
+        "6": 1
+      },
+      "H": {
+        "5": 1,
+        "7": 2,
+        "8": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "8": 1
+      },
+      "W": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 7,
+      "AT": 3,
+      "CA": 7,
+      "CE": 2,
+      "CH": 8,
+      "DA": 1,
+      "DE": 5,
+      "EA": 1,
+      "ET": 2,
+      "HA": 3,
+      "HE": 1,
+      "TA": 1,
+      "TE": 2,
+      "TH": 2,
+      "WA": 2
+    }
+  }
+}

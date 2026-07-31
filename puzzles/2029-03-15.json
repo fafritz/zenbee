@@ -1,0 +1,108 @@
+{
+  "pangram": "exclaim",
+  "center_letter": "c",
+  "num_answers": 31,
+  "num_pangrams": 1,
+  "possible_points": 123,
+  "answer_pangrams": [
+    "exclaim"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acclaim",
+    "acme",
+    "call",
+    "calla",
+    "calm",
+    "came",
+    "camel",
+    "camellia",
+    "cell",
+    "cilia",
+    "claim",
+    "clam",
+    "climax",
+    "clime",
+    "emcee",
+    "excel",
+    "exclaim",
+    "exec",
+    "icicle",
+    "lace",
+    "lexical",
+    "lice",
+    "lilac",
+    "mace",
+    "malice",
+    "mecca",
+    "mica",
+    "mice",
+    "mimic"
+  ],
+  "date": "2029-03-15",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 10,
+      "6": 4,
+      "7": 3,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "C": 12,
+      "E": 4,
+      "I": 1,
+      "L": 4,
+      "M": 6
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      },
+      "C": {
+        "4": 5,
+        "5": 5,
+        "6": 1,
+        "8": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 2,
+        "7": 1
+      },
+      "I": {
+        "6": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "7": 1
+      },
+      "M": {
+        "4": 3,
+        "5": 2,
+        "6": 1
+      }
+    },
+    "two_letter_list": {
+      "AC": 4,
+      "CA": 6,
+      "CE": 1,
+      "CI": 1,
+      "CL": 4,
+      "EM": 1,
+      "EX": 3,
+      "IC": 1,
+      "LA": 1,
+      "LE": 1,
+      "LI": 2,
+      "MA": 2,
+      "ME": 1,
+      "MI": 3
+    }
+  }
+}

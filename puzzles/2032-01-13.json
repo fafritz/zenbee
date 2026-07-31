@@ -1,0 +1,117 @@
+{
+  "pangram": "puritan",
+  "center_letter": "i",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 145,
+  "answer_pangrams": [
+    "puritan"
+  ],
+  "answers": [
+    "anti",
+    "aria",
+    "atria",
+    "attain",
+    "inapt",
+    "input",
+    "intuit",
+    "irritant",
+    "nutria",
+    "pain",
+    "paint",
+    "pair",
+    "patina",
+    "pint",
+    "pinup",
+    "pipit",
+    "pippin",
+    "pita",
+    "print",
+    "puritan",
+    "rain",
+    "ruin",
+    "taint",
+    "tannin",
+    "tapir",
+    "tiara",
+    "tint",
+    "titan",
+    "train",
+    "trait",
+    "trip",
+    "turnip",
+    "unit",
+    "unpin"
+  ],
+  "date": "2032-01-13",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 14,
+      "6": 7,
+      "7": 1,
+      "8": 1
+    },
+    "by_first_letter": {
+      "A": 4,
+      "I": 4,
+      "N": 1,
+      "P": 11,
+      "R": 2,
+      "T": 10,
+      "U": 2
+    },
+    "grid": {
+      "A": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "I": {
+        "5": 2,
+        "6": 1,
+        "8": 1
+      },
+      "N": {
+        "6": 1
+      },
+      "P": {
+        "4": 4,
+        "5": 4,
+        "6": 2,
+        "7": 1
+      },
+      "R": {
+        "4": 2
+      },
+      "T": {
+        "4": 2,
+        "5": 6,
+        "6": 2
+      },
+      "U": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AN": 1,
+      "AR": 1,
+      "AT": 2,
+      "IN": 3,
+      "IR": 1,
+      "NU": 1,
+      "PA": 4,
+      "PI": 5,
+      "PR": 1,
+      "PU": 1,
+      "RA": 1,
+      "RU": 1,
+      "TA": 3,
+      "TI": 3,
+      "TR": 3,
+      "TU": 1,
+      "UN": 2
+    }
+  }
+}

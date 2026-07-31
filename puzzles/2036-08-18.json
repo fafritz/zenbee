@@ -1,0 +1,106 @@
+{
+  "pangram": "tabloid",
+  "center_letter": "i",
+  "num_answers": 28,
+  "num_pangrams": 1,
+  "possible_points": 86,
+  "answer_pangrams": [
+    "tabloid"
+  ],
+  "answers": [
+    "alibi",
+    "bail",
+    "bait",
+    "bill",
+    "bobtail",
+    "boil",
+    "dial",
+    "dill",
+    "ditto",
+    "ibid",
+    "idiot",
+    "idol",
+    "iota",
+    "labia",
+    "labial",
+    "laid",
+    "libido",
+    "lilt",
+    "obit",
+    "olio",
+    "tabloid",
+    "tail",
+    "tibia",
+    "tidal",
+    "tidbit",
+    "till",
+    "tilt",
+    "toil"
+  ],
+  "date": "2036-08-18",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 6,
+      "6": 3,
+      "7": 2
+    },
+    "by_first_letter": {
+      "A": 1,
+      "B": 5,
+      "D": 3,
+      "I": 4,
+      "L": 5,
+      "O": 2,
+      "T": 8
+    },
+    "grid": {
+      "A": {
+        "5": 1
+      },
+      "B": {
+        "4": 4,
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 1
+      },
+      "I": {
+        "4": 3,
+        "5": 1
+      },
+      "L": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "O": {
+        "4": 2
+      },
+      "T": {
+        "4": 4,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AL": 1,
+      "BA": 2,
+      "BI": 1,
+      "BO": 2,
+      "DI": 3,
+      "IB": 1,
+      "ID": 2,
+      "IO": 1,
+      "LA": 3,
+      "LI": 2,
+      "OB": 1,
+      "OL": 1,
+      "TA": 2,
+      "TI": 5,
+      "TO": 1
+    }
+  }
+}
