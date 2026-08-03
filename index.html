@@ -2059,6 +2059,12 @@
       let foundWords = [];
       let score = 0;
       let overlayCount = 0; // reference counter — body scroll-lock held while > 0
+      // Set synchronously at Init (see bottom of file), before any fetch
+      // yields control to the browser — so if today's game_stats record
+      // has words already found, the splash never gets a chance to paint.
+      // loadPuzzle() reads this once PUZZLE is available to restore
+      // foundWords/score. null means "no in-progress game to resume."
+      let resumeRecord = null;
 
       // ═══════════════════════════════════════════════════════════════
       //  CONSTANTS
@@ -3144,8 +3150,16 @@
         RANKS.forEach((r) => {
           dist[r.label] = 0;
         });
+        // Bucket by rankIdx, not the raw rank string — a Queen Bee day's
+        // rank string is literally "Queen Bee", which isn't a RANKS
+        // entry, so keying off g.rank silently dropped every completed
+        // day from this chart while stat-best-rank/stat-queen-bee-days
+        // (both rankIdx/complete-based) correctly counted them. This was
+        // the source of the bars-vs-text mismatch. Falls back to a
+        // string lookup only for records saved before rankIdx existed.
         filtered.forEach((g) => {
-          if (g.rank && dist[g.rank] !== undefined) dist[g.rank]++;
+          const idx = g.rankIdx ?? RANKS.findIndex((r) => r.label === g.rank);
+          if (idx >= 0 && RANKS[idx]) dist[RANKS[idx].label]++;
         });
 
         const maxCount = Math.max(1, ...Object.values(dist));
@@ -3975,6 +3989,19 @@
             ];
           }
 
+          // ── Restore in-progress game, if resuming today's puzzle ────
+          // saveGameProgress() has always saved foundWordsList correctly
+          // on every word — this was the missing read-back half of that
+          // pipeline. resumeRecord was captured synchronously at Init,
+          // before this fetch even started (see bottom of file). Score
+          // is recomputed via wordScore() rather than trusting the
+          // stored number, so it stays correct even if scoring rules
+          // ever change between saves.
+          if (resumeRecord) {
+            foundWords = [...resumeRecord.foundWordsList];
+            score = foundWords.reduce((sum, w) => sum + wordScore(w), 0);
+          }
+
           // themes.json and today's puzzle file are fetched concurrently
           // (see boot sequence below) — this await guarantees THEME is
           // populated before renderHoneycomb() reads it, without giving
@@ -4042,6 +4069,25 @@
       addSwipeDismiss(document.querySelector(".stats-panel"), closeStats);
       addSwipeDismiss(document.querySelector(".hints-panel"), closeHints);
       addSwipeDismiss(document.querySelector(".help-panel"), closeHelp);
+
+      // ── Resume in-progress game silently, no splash ────────────────
+      // Runs synchronously, before any fetch below yields control back
+      // to the browser — so on a resume, the splash never gets a chance
+      // to paint even for one frame. localStorage reads are synchronous,
+      // which is what makes this possible without an async round-trip.
+      // loadPuzzle() uses this same resumeRecord once PUZZLE is fetched
+      // to restore foundWords/score (see inside loadPuzzle for that half).
+      {
+        const todayStr = new Date().toLocaleDateString("en-CA");
+        const savedToday = loadStats().find(
+          (g) => g.date === todayStr && g.wordsFound > 0,
+        );
+        if (savedToday) {
+          resumeRecord = savedToday;
+          document.getElementById("splash-screen").style.display = "none";
+          document.body.classList.remove("game-hidden");
+        }
+      }
 
       // themes.json and today's puzzle file are independent — neither's
       // *fetch* depends on the other — so both are kicked off here at
