@@ -131,9 +131,9 @@
     />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-    <meta name="apple-mobile-web-app-title" content="CalmBee" />
+    <meta name="apple-mobile-web-app-title" content="ZenBee" />
     <meta name="theme-color" content="#150D01" />
-    <title>CalmBee</title>
+    <title>ZenBee</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link
       href="https://fonts.googleapis.com/css2?family=Lora:wght@500;700&family=Nunito:wght@400;500;600;700&display=swap"
@@ -2065,6 +2065,11 @@
       // loadPuzzle() reads this once PUZZLE is available to restore
       // foundWords/score. null means "no in-progress game to resume."
       let resumeRecord = null;
+      // Set synchronously at Init to today's date (en-CA, matching every
+      // other date string in this file). checkForNewDay() compares this
+      // against the live date on each visibilitychange; a mismatch means
+      // the calendar day has rolled over while the app was backgrounded.
+      let currentDate = "";
 
       // ═══════════════════════════════════════════════════════════════
       //  CONSTANTS
@@ -3487,6 +3492,91 @@
       }
 
       // ═══════════════════════════════════════════════════════════════
+      //  NEW DAY — detect calendar-day rollover on resume and re-show
+      //  the splash so the player consciously starts tomorrow's puzzle,
+      //  rather than the app silently swapping the board under them.
+      //
+      //  checkForNewDay() is wired to visibilitychange only (not a live
+      //  timer, not plain window focus) — see design discussion: this
+      //  matches how a backgrounded PWA actually resumes on iOS, and
+      //  avoids the added complexity of a timer running while the app
+      //  sits idle.
+      // ═══════════════════════════════════════════════════════════════
+      function checkForNewDay() {
+        if (document.visibilityState !== "visible") return;
+        const today = new Date().toLocaleDateString("en-CA");
+        if (today === currentDate) return; // still the same day
+        currentDate = today;
+        presentNewDay();
+      }
+
+      // Swaps the splash back to its default "start the day" copy,
+      // refreshes THEME/splash photo for the new date, and reveals the
+      // splash using the same fade-in sequence as showQueenBeeCelebration.
+      //
+      // Also reachable from swipe-to-refresh on the honeycomb (Batch 1,
+      // part 2) once that's wired — both paths land here so there is
+      // only one "show the new day" code path to maintain.
+      //
+      // Game state (foundWords/score/currentInput/resumeRecord) is reset
+      // BEFORE loadTheme()/splash reveal, not after — otherwise a player
+      // who backgrounds the app mid-drag or double-taps Play could
+      // briefly see yesterday's found-words count under the new splash.
+      async function presentNewDay() {
+        foundWords = [];
+        score = 0;
+        currentInput = "";
+        resumeRecord = null;
+
+        // loadTheme() hashes *today's* date internally on every call, so
+        // simply calling it again — with no date argument — is what
+        // picks up tomorrow's flower theme and splash photo.
+        await loadTheme();
+
+        // Restore default splash copy in case today ended on a Queen Bee
+        // celebration (which overwrites title/subtitle/button text) and
+        // the player never tapped Continue before the day rolled over.
+        document.getElementById("splash-title").textContent = window.BRAND_NAME;
+        document.getElementById("splash-subtitle").textContent =
+          "Seven letters. Take your time.";
+        const btn = document.getElementById("play-btn");
+        btn.textContent = "Play";
+        btn.setAttribute("aria-label", "Start today's puzzle");
+
+        // { once: true } matches every other Play/Continue wiring in
+        // this file. Edge case accepted rather than engineered around:
+        // if a stray Queen Bee "Continue" listener is still attached
+        // (player got Queen Bee, never tapped Continue, and the day
+        // rolled over in the background), both listeners fire on the
+        // next tap. Harmless — showGame()/loadPuzzle() are idempotent
+        // enough that firing twice just repeats the same work.
+        btn.addEventListener("click", startNewPuzzle, { once: true });
+
+        const splash = document.getElementById("splash-screen");
+        splash.style.display = "";
+        splash.style.pointerEvents = "auto";
+        // eslint-disable-next-line no-unused-expressions
+        splash.offsetHeight; // force reflow so the opacity transition runs
+        requestAnimationFrame(() => {
+          splash.style.opacity = "1";
+        });
+      }
+
+      // Play button target once a new day's splash is showing. Distinct
+      // from showGame() (which just reveals whatever puzzle is already
+      // loaded) because here there is no puzzle loaded yet for the new
+      // date — loadPuzzle() must actually fetch it.
+      //
+      // themePromise is Promise.resolve() rather than a fresh loadTheme()
+      // call: presentNewDay() already awaited loadTheme() before this
+      // button became clickable, so THEME is guaranteed populated —
+      // loadPuzzle() just needs *something* thenable to await.
+      function startNewPuzzle() {
+        showGame();
+        loadPuzzle(Promise.resolve());
+      }
+
+      // ═══════════════════════════════════════════════════════════════
       //  SWIPE-DOWN TO DISMISS
       //
       //  addSwipeDismiss(panelEl, closeFn) attaches touch listeners to
@@ -4079,6 +4169,7 @@
       // to restore foundWords/score (see inside loadPuzzle for that half).
       {
         const todayStr = new Date().toLocaleDateString("en-CA");
+        currentDate = todayStr; // baseline for checkForNewDay() comparisons
         const savedToday = loadStats().find(
           (g) => g.date === todayStr && g.wordsFound > 0,
         );
@@ -4088,6 +4179,10 @@
           document.body.classList.remove("game-hidden");
         }
       }
+
+      // ── New-day detection on resume ─────────────────────────────────
+      // See checkForNewDay()/presentNewDay() above for full design notes.
+      document.addEventListener("visibilitychange", checkForNewDay);
 
       // themes.json and today's puzzle file are independent — neither's
       // *fetch* depends on the other — so both are kicked off here at
