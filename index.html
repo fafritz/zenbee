@@ -374,11 +374,22 @@
       .game-hidden .input-display,
       .game-hidden .toast-area,
       .game-hidden .honeycomb,
-      .game-hidden .controls,
-      .game-hidden .ad-banner {
+      .game-hidden .controls {
         opacity: 0;
         pointer-events: none;
         animation-play-state: paused;
+      }
+      /* Separate rule (not just opacity:0, unlike the elements above):
+         this is empty/placeholder content with nothing to fade in yet
+         ("Reserved for future banner ad"), so there's no fadeUp visual
+         to preserve — display:none removes it from body's flex layout
+         entirely while hidden. That matters here specifically because
+         it sits last in body's flow (margin-top: auto), so opacity:0
+         alone left it reserving 50px of height, making body taller
+         than the viewport and exposing a gap below the fixed splash
+         screen at the very bottom of the layout. */
+      .game-hidden .ad-banner {
+        display: none;
       }
 
       /* ── HEADER ─────────────────────────────────────────────────── */
