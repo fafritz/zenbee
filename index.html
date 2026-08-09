@@ -183,7 +183,15 @@
         -webkit-tap-highlight-color: transparent;
       }
       html {
-        height: 100dvh;
+        /* 100vh, not 100dvh: dvh is not reliably initialized on PWA
+           cold start in standalone mode — it can under-report height
+           until the viewport is "exercised" via an orientation change,
+           which matches the exact rotation-fixes-it symptom seen in
+           testing. Standalone mode has no browser toolbar, so there's
+           no toolbar-driven vh/dvh discrepancy here the way there would
+           be in a normal Safari tab — vh is simply correct from the
+           first paint. */
+        height: 100vh;
         background: var(
           --theme-bg,
           #150d01
@@ -226,7 +234,7 @@
         background-attachment: fixed;
         color: var(--cream);
         font-family: "Nunito", sans-serif;
-        min-height: 100dvh;
+        min-height: 100vh; /* not 100dvh — see html{} rule above */
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -633,7 +641,7 @@
            fill most of the screen on a standard iPhone without covering
            the status bar. The inner .found-words scrolls if content
            overflows, so this is a ceiling, not a fixed height. */
-        max-height: 72dvh;
+        max-height: 72vh; /* not dvh — see html{} rule for why */
       }
 
       .found-words {
@@ -641,7 +649,7 @@
         flex-wrap: wrap;
         gap: 6px 7px;
         padding: 10px 4px 4px;
-        max-height: calc(72dvh - 44px); /* leave room for .found-mw-hint */
+        max-height: calc(72vh - 44px); /* leave room for .found-mw-hint */
         overflow-y: auto;
         -ms-overflow-style: none;
         scrollbar-width: none;
@@ -982,7 +990,7 @@
         border-radius: 24px 24px 0 0;
         width: 100%;
         max-width: 480px;
-        max-height: 92dvh;
+        max-height: 92vh; /* not dvh — see html{} rule for why */
         display: flex;
         flex-direction: column;
         transform: translateY(32px);
