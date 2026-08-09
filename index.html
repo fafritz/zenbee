@@ -4299,6 +4299,30 @@
         }
       }
 
+      // ── Cold-launch dvh settling workaround ──────────────────────────
+      // Confirmed via testing: on a fresh launch, #splash-screen's
+      // height:100dvh sometimes locks in a value calculated a frame or
+      // two before iOS finishes reporting the true safe-area/viewport
+      // geometry, leaving a gap at the bottom. Rotating the device
+      // forces the browser to recompute — and the recomputed value is
+      // correct — which is why rotation "fixes" it. This forces that
+      // same recalculation automatically on load, without requiring the
+      // player to rotate their phone.
+      //
+      // Mechanism: toggling display:none → reflow → restoring display
+      // forces the browser to recompute layout for #splash-screen from
+      // scratch on the *next* frame, by which point iOS has settled.
+      // requestAnimationFrame (not setTimeout) ties this to the actual
+      // paint cycle rather than guessing at a delay in milliseconds.
+      requestAnimationFrame(() => {
+        const splash = document.getElementById("splash-screen");
+        if (!splash || splash.style.display === "none") return;
+        const prevDisplay = splash.style.display;
+        splash.style.display = "none";
+        void splash.offsetHeight; // force synchronous reflow
+        splash.style.display = prevDisplay;
+      });
+
       // ── New-day detection on resume ─────────────────────────────────
       // See checkForNewDay()/presentNewDay() above for full design notes.
       document.addEventListener("visibilitychange", checkForNewDay);
