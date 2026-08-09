@@ -4299,29 +4299,32 @@
         }
       }
 
-      // ── Cold-launch dvh settling workaround ──────────────────────────
-      // Confirmed via testing: on a fresh launch, #splash-screen's
-      // height:100dvh sometimes locks in a value calculated a frame or
-      // two before iOS finishes reporting the true safe-area/viewport
-      // geometry, leaving a gap at the bottom. Rotating the device
-      // forces the browser to recompute — and the recomputed value is
-      // correct — which is why rotation "fixes" it. This forces that
-      // same recalculation automatically on load, without requiring the
-      // player to rotate their phone.
+      // ── Cold-launch viewport-height workaround ────────────────────────
+      // Confirmed via testing: on a fresh launch, height:100dvh on
+      // #splash-screen sometimes locks in a value calculated before iOS
+      // finishes settling the real safe-area/viewport geometry, leaving
+      // a gap at the bottom. Rotating the device fixes it — but a first
+      // attempt at forcing a plain layout reflow (display:none → reflow
+      // → restore) did NOT fix it, which tells us the browser's cached
+      // viewport number itself was stale, not just the rendering pass.
+      // Reflowing with a stale number just redraws the same wrong size.
       //
-      // Mechanism: toggling display:none → reflow → restoring display
-      // forces the browser to recompute layout for #splash-screen from
-      // scratch on the *next* frame, by which point iOS has settled.
-      // requestAnimationFrame (not setTimeout) ties this to the actual
-      // paint cycle rather than guessing at a delay in milliseconds.
-      requestAnimationFrame(() => {
+      // window.visualViewport.height is the live API iOS uses to report
+      // real, current viewport geometry — the same source a rotation's
+      // resize event ultimately reads from. Setting it directly, in
+      // pixels, sidesteps whatever dvh had cached.
+      //
+      // Re-runs on resize/orientationchange too, so this stays correct
+      // if geometry legitimately changes later (keyboard, rotation),
+      // not just once at load.
+      function syncSplashHeight() {
         const splash = document.getElementById("splash-screen");
-        if (!splash || splash.style.display === "none") return;
-        const prevDisplay = splash.style.display;
-        splash.style.display = "none";
-        void splash.offsetHeight; // force synchronous reflow
-        splash.style.display = prevDisplay;
-      });
+        if (!splash || !window.visualViewport) return;
+        splash.style.height = `${window.visualViewport.height}px`;
+      }
+      syncSplashHeight();
+      requestAnimationFrame(syncSplashHeight); // catch late-settling geometry
+      window.visualViewport?.addEventListener("resize", syncSplashHeight);
 
       // ── New-day detection on resume ─────────────────────────────────
       // See checkForNewDay()/presentNewDay() above for full design notes.
