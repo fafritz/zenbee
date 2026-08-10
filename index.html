@@ -225,6 +225,31 @@
         }
       }
 
+      /* ── NON-PWA SAFARI TAB: dynamic viewport height ──────────────── */
+      /* Outside standalone mode, Safari's own toolbar can be visible,
+         mid-animation, or auto-hidden, and 100vh doesn't track that —
+         it leaves a black gap (html/body's --theme-bg) between the
+         splash photo and the actual visible viewport edge. 100dvh
+         recalculates as the toolbar shows/hides, closing that gap.
+         Standalone is excluded because it has no toolbar and 100dvh
+         has the documented cold-start under-report bug there (see
+         html{} rule below) — so PWA stays on 100vh.
+         NOTE: this does not remove the top status-bar strip in a
+         Safari tab — that's Safari's own opaque chrome, not page
+         content, and there's no meta tag to bleed under it outside
+         standalone mode. Only the bottom gap is fixable here. */
+      @media not all and (display-mode: standalone) {
+        html {
+          height: 100dvh;
+        }
+        body {
+          min-height: 100dvh;
+        }
+        #splash-screen {
+          height: 100dvh;
+        }
+      }
+
       /* ── BODY / LAYOUT ──────────────────────────────────────────── */
       body {
         background: var(
