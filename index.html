@@ -3562,10 +3562,6 @@
       // refreshes THEME/splash photo for the new date, and reveals the
       // splash using the same fade-in sequence as showQueenBeeCelebration.
       //
-      // Also reachable from swipe-to-refresh on the honeycomb (Batch 1,
-      // part 2) once that's wired — both paths land here so there is
-      // only one "show the new day" code path to maintain.
-      //
       // Game state (foundWords/score/currentInput/resumeRecord) is reset
       // BEFORE loadTheme()/splash reveal, not after — otherwise a player
       // who backgrounds the app mid-drag or double-taps Play could
@@ -3623,107 +3619,6 @@
         showGame();
         loadPuzzle(Promise.resolve());
       }
-
-      // ═══════════════════════════════════════════════════════════════
-      //  PULL-TO-REFRESH — background space only, top of viewport.
-      //
-      //  Deliberately mirrors the platform-native pull-to-refresh
-      //  gesture (Safari, Mail, etc.) rather than inventing a new one,
-      //  so no player has to learn it. That's also why this lives on
-      //  <body> instead of a dedicated element — see design discussion:
-      //  a wrapper div would add HTML structure this feature doesn't
-      //  need, since a Y-coordinate check already defines "top of
-      //  screen" without one.
-      //
-      //  Three independent guards, all required, before a drag counts:
-      //   1. overlayCount === 0        — no panel is open
-      //   2. touchstart Y < 140px      — header + score-bar +
-      //                                  progress-row only, not the
-      //                                  found-words/input row below
-      //   3. touchstart target isn't inside .honeycomb, .input-display,
-      //                                  or an open panel — belt-and-
-      //                                  suspenders alongside guard 2,
-      //                                  in case layout shifts move
-      //                                  those elements into the top
-      //                                  140px on a shorter phone
-      //
-      //  On release past the 60px threshold (same as addSwipeDismiss,
-      //  for a consistent feel app-wide):
-      //   · New day available → presentNewDay() (same splash path as
-      //     the visibilitychange-triggered new-day flow)
-      //   · Same day → toast, snap back, no reload
-      // ═══════════════════════════════════════════════════════════════
-      (function addPullToRefresh() {
-        const PULL_ZONE_MAX_Y = 140;
-        const PULL_THRESHOLD = 60;
-        let startY = 0;
-        let dragging = false;
-
-        function resetBody() {
-          dragging = false;
-          document.body.style.transform = "";
-          document.body.style.transition = "";
-        }
-
-        document.body.addEventListener(
-          "touchstart",
-          (e) => {
-            if (overlayCount !== 0) return;
-            const y = e.touches[0].clientY;
-            if (y >= PULL_ZONE_MAX_Y) return;
-            if (
-              e.target.closest(
-                ".honeycomb, .input-display, [data-swipe-handle]",
-              )
-            )
-              return;
-            startY = y;
-            dragging = true;
-          },
-          { passive: true },
-        );
-
-        document.body.addEventListener(
-          "touchmove",
-          (e) => {
-            if (!dragging) return;
-            const dy = e.touches[0].clientY - startY;
-            if (dy > 0) {
-              e.preventDefault(); // block native browser pull-to-refresh
-              document.body.style.transition = "none";
-              document.body.style.transform = `translateY(${Math.min(dy, 80)}px)`;
-            }
-          },
-          { passive: false },
-        );
-
-        document.body.addEventListener(
-          "touchend",
-          (e) => {
-            if (!dragging) return;
-            const dy = e.changedTouches[0].clientY - startY;
-            resetBody();
-            if (dy > PULL_THRESHOLD) {
-              const today = new Date().toLocaleDateString("en-CA");
-              if (today !== currentDate) {
-                currentDate = today;
-                presentNewDay();
-              } else {
-                showToast("Refreshed");
-              }
-            }
-          },
-          { passive: true },
-        );
-
-        document.body.addEventListener(
-          "touchcancel",
-          () => {
-            resetBody();
-          },
-          { passive: true },
-        );
-      })();
 
       // ═══════════════════════════════════════════════════════════════
       //  SWIPE-DOWN TO DISMISS
