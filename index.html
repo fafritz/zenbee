@@ -3154,8 +3154,8 @@
         // complete is the authoritative signal; it's set once, directly
         // from foundWords.length, and isn't affected by the rankIdx
         // bucketing choice above.
-        document.getElementById("stat-queen-bee-days").textContent =
-          games.filter((g) => g.complete).length;
+        const sumQBdays = games.filter((g) => g.complete).length;
+        setStat("stat-queen-bee-days", sumQBdays, "Queen Bee day");
 
         // Longest word ever (by character length)
         const allWords = games.flatMap((g) =>
