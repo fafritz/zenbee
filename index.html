@@ -3120,6 +3120,8 @@
 
         // Games played
         document.getElementById("stat-games").textContent = games.length;
+        document.getElementById("stat-tile-label").textContent =
+          `Game${games.length !== 1 ? "s" : ""}`;
 
         // Words found
         const sumWordsFound = games.reduce((s, g) => s + g.wordsFound, 0);
@@ -3128,10 +3130,10 @@
           `Word${sumWordsFound !== 1 ? "s" : ""}`;
 
         // Pangrams found
-        document.getElementById("stat-pangrams").textContent = games.reduce(
-          (s, g) => s + g.pangramsFound,
-          0,
-        );
+        const sumPangramsFound = games.reduce((s, g) => s + g.pangramsFound, 0);
+        document.getElementById("stat-pangrams").textContent = sumPangramsFound;
+        document.getElementById("stat-pangrams-label").textContent =
+          `Pangram${sumPangramsFound !== 1 ? "s" : ""}`;
 
         // Highest rank ever (highest rankIdx wins)
         const bestIdx = games.reduce(
