@@ -3115,11 +3115,17 @@
         const games = loadStats();
 
         // All-time summary tiles
+
+        // Games played
         document.getElementById("stat-games").textContent = games.length;
-        document.getElementById("stat-words").textContent = games.reduce(
-          (s, g) => s + g.wordsFound,
-          0,
-        );
+
+        // Words found
+        const sumWordsFound = games.reduce((s, g) => s + g.wordsFound, 0);
+        document.getElementById("stat-words").textContent = sumWordsFound;
+        document.getElementById("stat-words-label").textContent =
+          `Word${sumWordsFound !== 1 ? "s" : ""}`;
+
+        // Pangrams found
         document.getElementById("stat-pangrams").textContent = games.reduce(
           (s, g) => s + g.pangramsFound,
           0,
