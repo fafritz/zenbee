@@ -3165,16 +3165,7 @@
 
         // Streaks — emoji: 🐝 bee at 1, 🌸 flower at 3, ☀️ sun at 7+
         const { current, longest } = computeStreaks(games);
-        const streakEmoji =
-          current >= 7
-            ? "☀️ "
-            : current >= 3
-              ? "🌸 "
-              : current >= 1
-                ? "🐝 "
-                : "";
-        document.getElementById("stat-streak").textContent =
-          streakEmoji + current;
+        document.getElementById("stat-streak").textContent = current;
         document.getElementById("stat-longest-streak").textContent =
           `Longest streak: ${longest} day${longest !== 1 ? "s" : ""}`;
 
