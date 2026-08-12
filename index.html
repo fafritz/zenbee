@@ -3118,22 +3118,28 @@
 
         // All-time summary tiles
 
+        // Sets statistic count and label for games, words found, pangrams found, queen bee days
+        function setStat(id, count, singular, plural = singular + "s") {
+          document.getElementById(id).textContent = count;
+          document.getElementById(id).nextElementSibling.textContent =
+            count !== 1 ? plural : singular;
+        }
+
         // Games played
-        document.getElementById("stat-games").textContent = games.length;
-        document.getElementById("stat-games-label").textContent =
-          `Game${games.length !== 1 ? "s" : ""}`;
+        const sumGames = games.length;
+        setStat("stat-games", sumGames, "Game");
 
         // Words found
         const sumWordsFound = games.reduce((s, g) => s + g.wordsFound, 0);
-        document.getElementById("stat-words").textContent = sumWordsFound;
-        document.getElementById("stat-words-label").textContent =
-          `Word${sumWordsFound !== 1 ? "s" : ""}`;
+        setStat("stat-words", sumWordsFound, "Word");
 
         // Pangrams found
-        const sumPangramsFound = games.reduce((s, g) => s + g.pangramsFound, 0);
-        document.getElementById("stat-pangrams").textContent = sumPangramsFound;
-        document.getElementById("stat-pangrams-label").textContent =
-          `Pangram${sumPangramsFound !== 1 ? "s" : ""}`;
+        const sumPangramsFound = games.reduce(
+          // Pangrams found
+          (s, g) => s + g.pangramsFound,
+          0,
+        );
+        setStat("stat-pangrams", sumPangramsFound, "Pangram");
 
         // Highest rank ever (highest rankIdx wins)
         const bestIdx = games.reduce(
@@ -3173,7 +3179,7 @@
           : "—";
         document.getElementById("stat-longest-word").innerHTML = highlighted;
 
-        // Streaks — emoji: 🐝 bee at 1, 🌸 flower at 3, ☀️ sun at 7+
+        // Streaks
         const { current, longest } = computeStreaks(games);
         document.getElementById("stat-streak").textContent = current;
         document.getElementById("stat-longest-streak").textContent =
