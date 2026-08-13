@@ -1877,8 +1877,27 @@
           </button>
         </div>
         <div class="stats-body">
+          <!-- 3 tiles: Highest Rank · Day Streak · Queen Bee days -->
+          <!-- Label must immediately follow value — used via nextElementSibling in setStat function -->
+          <div class="stat-tile">
+            <span class="stat-tile-value" id="stat-streak">0</span>
+            <span class="stat-tile-label">Day Streak</span>
+          </div>
+          <div class="stat-tiles">
+            <div class="stat-tile">
+              <span class="stat-tile-value stat-tile-rank" id="stat-best-rank"
+                >—</span
+              >
+              <span class="stat-tile-label">Highest Rank</span>
+            </div>
+
+            <div class="stat-tile">
+              <span class="stat-tile-value" id="stat-queen-bee-days">0</span>
+              <span class="stat-tile-label">Queen Bee Days</span>
+            </div>
+          </div>
           <!-- 3 summary tiles: Games · Words · Pangrams -->
-          <!-- label must immediately follow value — used via nextElementSibling in setStat function -->
+          <!-- Label must immediately follow value — used via nextElementSibling in setStat function -->
           <div class="stat-tiles">
             <div class="stat-tile">
               <span class="stat-tile-value" id="stat-games">—</span>
@@ -1895,25 +1914,6 @@
               >
             </div>
           </div>
-
-          <!-- 3 tiles: Highest Rank · Day Streak · Queen Bee days -->
-          <div class="stat-tiles">
-            <div class="stat-tile">
-              <span class="stat-tile-value stat-tile-rank" id="stat-best-rank"
-                >—</span
-              >
-              <span class="stat-tile-label">Highest Rank</span>
-            </div>
-            <div class="stat-tile">
-              <span class="stat-tile-value" id="stat-streak">0</span>
-              <span class="stat-tile-label">Day Streak</span>
-            </div>
-            <div class="stat-tile">
-              <span class="stat-tile-value" id="stat-queen-bee-days">0</span>
-              <span class="stat-tile-label">Queen Bee Days</span>
-            </div>
-          </div>
-
           <!-- Full-width: Longest Word (like NYT) -->
           <div class="stat-tile stat-tile-wide">
             <span class="stat-tile-label">Longest Word</span>
