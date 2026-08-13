@@ -3080,17 +3080,23 @@
         // Unique, sorted date strings
         const dates = [...new Set(games.map((g) => g.date))].sort();
 
-        // Current streak: walk back from today
+        // Streak through yesterday (always anchored here, regardless of today)
         const cursor = new Date();
         cursor.setHours(0, 0, 0, 0);
-        let current = 0;
-        while (true) {
-          if (dates.includes(cursor.toLocaleDateString("en-CA"))) {
-            current++;
-            cursor.setDate(cursor.getDate() - 1);
-          } else {
-            break;
-          }
+        cursor.setDate(cursor.getDate() - 1);
+        let streakThroughYesterday = 0;
+        while (dates.includes(cursor.toLocaleDateString("en-CA"))) {
+          streakThroughYesterday++;
+          cursor.setDate(cursor.getDate() - 1);
+        }
+
+        // Today's streak: bump by 1 only if a word's been found today
+        const playedToday = dates.includes(
+          new Date().toLocaleDateString("en-CA")
+        );
+        const current = playedToday
+          ? streakThroughYesterday + 1
+          : streakThroughYesterday;
         }
 
         // Longest streak: scan consecutive date pairs
