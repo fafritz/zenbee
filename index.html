@@ -1893,7 +1893,7 @@
 
             <div class="stat-tile">
               <span class="stat-tile-value" id="stat-queen-bee-days">0</span>
-              <span class="stat-tile-label">Queen Bee Days</span>
+              <span class="stat-tile-label">Queen Bee</span>
             </div>
           </div>
           <!-- 3 summary tiles: Games · Words · Pangrams -->
@@ -3135,6 +3135,14 @@
         const sumGames = games.length;
         setStat("stat-games", sumGames, "Game");
 
+        // Lifetime Queen Bee days — counted from the `complete` flag
+        // (all words found), not by string-matching rank === "Queen Bee".
+        // complete is the authoritative signal; it's set once, directly
+        // from foundWords.length, and isn't affected by the rankIdx
+        // bucketing choice above.
+        const sumQBdays = games.filter((g) => g.complete).length;
+        setStat("stat-queen-bee-days", sumQBdays, "Queen Bee");
+
         // Words found
         const sumWordsFound = games.reduce((s, g) => s + g.wordsFound, 0);
         setStat("stat-words", sumWordsFound, "Word");
@@ -3154,14 +3162,6 @@
         );
         document.getElementById("stat-best-rank").textContent =
           RANKS[bestIdx]?.label ?? "—";
-
-        // Lifetime Queen Bee days — counted from the `complete` flag
-        // (all words found), not by string-matching rank === "Queen Bee".
-        // complete is the authoritative signal; it's set once, directly
-        // from foundWords.length, and isn't affected by the rankIdx
-        // bucketing choice above.
-        const sumQBdays = games.filter((g) => g.complete).length;
-        setStat("stat-queen-bee-days", sumQBdays, "Queen Bee day");
 
         // Longest word ever (by character length)
         const allWords = games.flatMap((g) =>
