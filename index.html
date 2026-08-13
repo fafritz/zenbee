@@ -1264,6 +1264,12 @@
         letter-spacing: 0.14em;
         text-transform: uppercase;
         color: var(--muted);
+        white-space: nowrap; /* added */
+      }
+      .stat-tile-label-tight {
+        /* new rule */
+        letter-spacing: 0.04em;
+        font-size: 0.58rem;
       }
 
       /* ── period tabs ── */
@@ -1888,7 +1894,9 @@
               <span class="stat-tile-value stat-tile-rank" id="stat-best-rank"
                 >—</span
               >
-              <span class="stat-tile-label">Highest Rank</span>
+              <span class="stat-tile-label stat-tile-label-tight"
+                >Highest Rank</span
+              >
             </div>
 
             <div class="stat-tile">
