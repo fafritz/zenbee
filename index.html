@@ -3163,8 +3163,16 @@
           (mx, g) => Math.max(mx, g.rankIdx ?? 0),
           0,
         );
-        document.getElementById("stat-best-rank").textContent =
-          RANKS[bestIdx]?.label ?? "—";
+        // new: sets text + a size tier class based on label length
+        const bestRankLabel = RANKS[bestIdx]?.label ?? "—";
+        const bestRankEl = document.getElementById("stat-best-rank");
+        bestRankEl.textContent = bestRankLabel;
+        bestRankEl.classList.remove("stat-tile-rank-md", "stat-tile-rank-sm");
+        if (bestRankLabel.length > 8) {
+          bestRankEl.classList.add("stat-tile-rank-sm");
+        } else if (bestRankLabel.length > 6) {
+          bestRankEl.classList.add("stat-tile-rank-md");
+        }
 
         // Longest word ever (by character length)
         const allWords = games.flatMap((g) =>
