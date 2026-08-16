@@ -1346,9 +1346,6 @@
         border-radius: 9px;
         transition: width 0.55s cubic-bezier(0.25, 0.8, 0.25, 1);
       }
-      .stat-bar-fill.genius {
-        box-shadow: 0 0 8px rgba(255, 208, 0, 0.45);
-      }
       .stat-rank-count {
         width: 24px;
         font-size: 0.75rem;
@@ -3259,7 +3256,7 @@
               <div class="stat-rank-row">
                 <span class="stat-rank-name">${r.label}</span>
                 <div class="stat-bar-track">
-                  <div class="stat-bar-fill${cls}" style="width:${pct}%"></div>
+                  <div class="stat-bar-fill" style="width:${pct}%"></div>
                 </div>
                 <span class="stat-rank-count">${count}</span>
               </div>`;
