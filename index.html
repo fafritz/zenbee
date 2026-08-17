@@ -742,6 +742,21 @@
       .input-display .letter.center {
         color: var(--theme-accent);
       }
+      .input-display.completed {
+        opacity: 0.45 !important;
+      }
+
+      /* Delete / Enter go inert on completion — Shuffle is untouched */
+      #delete-btn.completed,
+      #enter-btn.completed {
+        opacity: 0.45;
+        cursor: default;
+      }
+      #delete-btn.completed:active,
+      #enter-btn.completed:active {
+        filter: none;
+        transform: none;
+      }
 
       /* Breathing cursor — ease-in-out instead of step-end */
       .cursor {
@@ -834,6 +849,23 @@
       }
       .hex.tapped polygon {
         animation: hexTap 0.38s ease-out forwards;
+      }
+
+      /*
+      Puzzle complete: honeycomb settles into an inert "trophy" state —
+      still visible at full lit color, but dimmed and non-interactive.
+      Tap animation is suppressed so taps read as inert at tap-time,
+      not just afterward. Shuffle is deliberately excluded — it stays
+      fully active and undimmed after completion.
+      */
+      .honeycomb.completed {
+        opacity: 0.45 !important;
+      }
+      .honeycomb.completed .hex {
+        cursor: default;
+      }
+      .honeycomb.completed .hex.tapped polygon {
+        animation: none;
       }
 
       /*
@@ -1769,6 +1801,7 @@
     <!-- ── CONTROLS ── -->
     <div class="controls">
       <button
+        id="delete-btn"
         class="btn-secondary"
         onclick="deleteLetter()"
         aria-label="Delete last letter"
@@ -3737,6 +3770,8 @@
       // ═══════════════════════════════════════════════════════════════
       function addLetter(l) {
         if (!PUZZLE) return;
+        // Puzzle complete — honeycomb and input are inert (Shuffle stays live)
+        if (foundWords.length === PUZZLE.answers.length) return;
         // If found-words list is expanded, close it on any hex tap
         const section = document.getElementById("found-section");
         if (section.classList.contains("open")) {
@@ -3748,6 +3783,9 @@
       }
 
       function deleteLetter() {
+        if (!PUZZLE) return;
+        // Puzzle complete — honeycomb and input are inert (Shuffle stays live)
+        if (foundWords.length === PUZZLE.answers.length) return;
         if (!currentInput.length) return;
         currentInput = currentInput.slice(0, -1);
         renderInput();
@@ -3773,6 +3811,8 @@
 
       function submitWord() {
         if (!PUZZLE) return;
+        // Puzzle complete — honeycomb and input are inert (Shuffle stays live)
+        if (foundWords.length === PUZZLE.answers.length) return;
         const word = currentInput.toLowerCase();
 
         if (word.length < 4) {
@@ -3846,6 +3886,10 @@
         }
 
         if (foundWords.length === PUZZLE.answers.length) {
+          document.getElementById("honeycomb-svg").classList.add("completed");
+          document.getElementById("input-display").classList.add("completed");
+          document.getElementById("delete-btn").classList.add("completed");
+          document.getElementById("enter-btn").classList.add("completed");
           setTimeout(() => showQueenBeeCelebration(foundWords.length), 300);
         }
       }
