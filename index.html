@@ -824,6 +824,12 @@
         transition:
           filter 0.2s ease,
           fill 0.3s ease-in-out;
+        /* Subtle edge so unlit hexes (near-black fill) stay legible as
+           shapes against the dark background, without lightening the
+           fill itself. Faint warm stroke, not pure white/grey, so it
+           reads as "honeycomb edge" rather than a UI outline. */
+        stroke: rgba(255, 220, 160, 0.12);
+        stroke-width: 1.5px;
       }
 
       /* Hover only on real pointer devices — avoids ghost-hover on touch */
