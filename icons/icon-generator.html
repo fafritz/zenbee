@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>ZenBee Icon Generator</title>
+<style>
+  body { font-family: -apple-system, sans-serif; background: #150d01; color: #f5e9c8; padding: 24px; }
+  .row { display: flex; gap: 24px; flex-wrap: wrap; margin-top: 16px; }
+  .item { text-align: center; }
+  canvas { border-radius: 12px; display: block; margin-bottom: 8px; }
+  button { padding: 8px 16px; border-radius: 8px; border: none; cursor: pointer; font-size: 14px; }
+  a.dl { color: #f5e9c8; }
+</style>
+</head>
+<body>
+<h2>ZenBee Icon Generator</h2>
+<p>Click each button to download. Save into an <code>icons/</code> folder next to index.html.</p>
+<div class="row">
+  <div class="item">
+    <canvas id="c192" width="192" height="192"></canvas>
+    <div>icon-192.png</div>
+    <button onclick="dl('c192','icon-192.png')">Download</button>
+  </div>
+  <div class="item">
+    <canvas id="c512" width="512" height="512"></canvas>
+    <div>icon-512.png</div>
+    <button onclick="dl('c512','icon-512.png')">Download</button>
+  </div>
+  <div class="item">
+    <canvas id="cmask" width="512" height="512"></canvas>
+    <div>icon-maskable-512.png</div>
+    <button onclick="dl('cmask','icon-maskable-512.png')">Download</button>
+  </div>
+</div>
+<script>
+function draw(id, size, scale) {
+  const c = document.getElementById(id);
+  const ctx = c.getContext('2d');
+  ctx.fillStyle = '#150d01';
+  ctx.fillRect(0, 0, size, size);
+  const emojiSize = size * scale;
+  ctx.font = `${emojiSize}px "Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",sans-serif`;
+  ctx.textAlign = 'center';
+  ctx.textBaseline = 'middle';
+  ctx.fillText('🐝', size / 2, size / 2 + emojiSize * 0.08);
+}
+draw('c192', 192, 0.7);
+draw('c512', 512, 0.7);
+draw('cmask', 512, 0.55); // extra margin = maskable safe zone
+function dl(id, name) {
+  const c = document.getElementById(id);
+  const a = document.createElement('a');
+  a.download = name;
+  a.href = c.toDataURL('image/png');
+  a.click();
+}
+</script>
+</body>
+</html>
