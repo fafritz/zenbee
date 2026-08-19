@@ -61,7 +61,7 @@
             "position": "upper_right",
             "clock": "1 o'clock",
             "hex": "#F08030",
-            "text_color": "#ffffff",
+            "text_color": "#1a0f00",
             "role": "mid orange"
           },
           {
@@ -70,7 +70,7 @@
             "position": "right",
             "clock": "3 o'clock",
             "hex": "#C05A10",
-            "text_color": "#ffffff",
+            "text_color": "#1a0f00",
             "role": "deep burnt orange"
           },
           {
@@ -88,23 +88,23 @@
             "position": "center",
             "clock": "center",
             "hex": "#F06000",
-            "text_color": "#ffffff",
+            "text_color": "#1a0f00",
             "role": "peak saturation — vivid orange accent"
           }
         ],
         "unlit": {
           "fill": "#2a1500",
-          "text_color": "#7a4a00"
+          "text_color": "#FFD2A6"
         },
         "start": {
           "center": {
             "hex": "#7a3a14",
-            "text_color": "#f0a860",
+            "text_color": "#FFD0B4",
             "role": "Genius hue at ~40% saturation — landmark color shown before any word is found"
           },
           "outer": {
             "hex": "#2a1c10",
-            "text_color": "#7a4a00",
+            "text_color": "#FFE1C8",
             "role": "warm very-dark neutral, lighter than unlit — initial state for the six outer hexes"
           }
         },
@@ -180,7 +180,7 @@
             "position": "upper_right",
             "clock": "1 o'clock",
             "hex": "#F5BC20",
-            "text_color": "#7a5500",
+            "text_color": "#1a0f00",
             "role": "golden yellow"
           },
           {
@@ -189,7 +189,7 @@
             "position": "right",
             "clock": "3 o'clock",
             "hex": "#E8A800",
-            "text_color": "#7a5500",
+            "text_color": "#1a0f00",
             "role": "deep gold"
           },
           {
@@ -198,7 +198,7 @@
             "position": "lower_right",
             "clock": "5 o'clock",
             "hex": "#D49200",
-            "text_color": "#ffffff",
+            "text_color": "#1a0f00",
             "role": "rich amber-gold"
           },
           {
@@ -207,23 +207,23 @@
             "position": "center",
             "clock": "center",
             "hex": "#E8900A",
-            "text_color": "#ffffff",
+            "text_color": "#1a0f00",
             "role": "peak saturation — warm orange-gold accent"
           }
         ],
         "unlit": {
           "fill": "#1a1200",
-          "text_color": "#6b4d00"
+          "text_color": "#FFE4A6"
         },
         "start": {
           "center": {
             "hex": "#7a4e1a",
-            "text_color": "#f0c060",
+            "text_color": "#FFDFB9",
             "role": "Genius hue at ~40% saturation — landmark color shown before any word is found"
           },
           "outer": {
             "hex": "#2a2010",
-            "text_color": "#6b4d00",
+            "text_color": "#FFEAC8",
             "role": "warm very-dark neutral, lighter than unlit — initial state for the six outer hexes"
           }
         },
@@ -305,7 +305,7 @@
             "position": "upper_right",
             "clock": "1 o'clock",
             "hex": "#FFC800",
-            "text_color": "#7a5a00",
+            "text_color": "#1a0f00",
             "role": "saturated golden yellow"
           },
           {
@@ -314,7 +314,7 @@
             "position": "right",
             "clock": "3 o'clock",
             "hex": "#F0A800",
-            "text_color": "#7a4000",
+            "text_color": "#1a0f00",
             "role": "deep amber-yellow near disc"
           },
           {
@@ -323,7 +323,7 @@
             "position": "lower_right",
             "clock": "5 o'clock",
             "hex": "#D98A00",
-            "text_color": "#ffffff",
+            "text_color": "#1a0f00",
             "role": "rich warm gold"
           },
           {
@@ -338,7 +338,7 @@
         ],
         "unlit": {
           "fill": "#1c1400",
-          "text_color": "#6a5000"
+          "text_color": "#FFE6A6"
         },
         "start": {
           "center": {
@@ -348,7 +348,7 @@
           },
           "outer": {
             "hex": "#2a2008",
-            "text_color": "#6a5000",
+            "text_color": "#FFEAB7",
             "role": "warm very-dark neutral, lighter than unlit — initial state for the six outer hexes"
           }
         },
