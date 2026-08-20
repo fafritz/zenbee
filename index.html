@@ -161,8 +161,14 @@
         --muted: #7a6040;
         --muted-light: #9a7850;
         --hex-center: #ffd000;
-        --hex-outer: #c87800;
-        --hex-text: #150d01;
+        /* Unlit outer-hex fill/text — universal neutral, same across every
+           theme (matches --surface-2: Delete/Shuffle buttons, Words-found
+           bar, unlit score-bar segments). Deliberately NOT theme-derived;
+           per-theme tinting kept reading as olive-drab at this luminance
+           (see themes.json history). Single source of truth — themes.json
+           no longer defines "unlit" per theme; see updateHexColors(). */
+        --hex-outer: #2e1c0a;
+        --hex-text: #b5a276;
         --error-bg: #3a1200;
         --error-text: #e8a060;
         /* Theme-aware chrome colors — overridden by applyChromeAndCTATheme()
@@ -824,12 +830,6 @@
         transition:
           filter 0.2s ease,
           fill 0.3s ease-in-out;
-        /* Subtle edge so unlit hexes (near-black fill) stay legible as
-           shapes against the dark background, without lightening the
-           fill itself. Faint warm stroke, not pure white/grey, so it
-           reads as "honeycomb edge" rather than a UI outline. */
-        stroke: rgba(255, 220, 160, 0.12);
-        stroke-width: 1.5px;
       }
 
       /* Hover only on real pointer devices — avoids ghost-hover on touch */
@@ -2137,7 +2137,7 @@
           { hex: "#D49200", text: "var(--white)" },
           { hex: "#E8900A", text: "var(--white)" },
         ],
-        unlit: { hex: "#2a2010", text: "#6b4d00" },
+        unlit: undefined, // unused — unlit color now comes from CSS (--hex-outer/--hex-text)
         centerStart: { hex: "#7a4e1a", text: "#f0c060" },
         chromeText: "#E8A800",
         cta: { fill: "#E8900A", text: "#1a0f00" },
@@ -2263,7 +2263,8 @@
       //  Center hex (slot 0) starts at THEME.centerStart — a muted version
       //  of the Genius color — so it reads as a landmark from game load,
       //  matching the visual hierarchy NYT Spelling Bee players expect.
-      //  Outer hexes start at THEME.unlit (very dark warm neutral).
+      //  Outer hexes start at the universal unlit neutral (CSS --hex-outer
+      //  / --hex-text — not per-theme; see :root comment).
       // ═══════════════════════════════════════════════════════════════
       function renderHoneycomb() {
         const svg = document.getElementById("honeycomb-svg");
@@ -2328,10 +2329,14 @@
           );
           poly.setAttribute("points", hexPoints(cx, cy, R, 4));
           // Center hex starts at the muted centerStart color (landmark from
-          // game load). Outer hexes start fully unlit.
+          // game load). Outer hexes start fully unlit — universal neutral
+          // from CSS (--hex-outer), not per-theme. See :root comment.
+          const rootStyle = getComputedStyle(document.documentElement);
           poly.setAttribute(
             "fill",
-            isCenter ? THEME.centerStart.hex : THEME.unlit.hex,
+            isCenter
+              ? THEME.centerStart.hex
+              : rootStyle.getPropertyValue("--hex-outer").trim(),
           );
 
           const text = document.createElementNS(
@@ -2343,7 +2348,9 @@
           text.textContent = letter.toUpperCase();
           text.setAttribute(
             "fill",
-            isCenter ? THEME.centerStart.text : THEME.unlit.text,
+            isCenter
+              ? THEME.centerStart.text
+              : rootStyle.getPropertyValue("--hex-text").trim(),
           );
 
           g.appendChild(poly);
@@ -2443,8 +2450,17 @@
               poly.setAttribute("fill", THEME.centerStart.hex);
               txt.setAttribute("fill", THEME.centerStart.text);
             } else {
-              poly.setAttribute("fill", THEME.unlit.hex);
-              txt.setAttribute("fill", THEME.unlit.text);
+              // Unlit outer hexes use the universal neutral (--hex-outer /
+              // --hex-text), not a per-theme color — see :root comment.
+              const rootStyle = getComputedStyle(document.documentElement);
+              poly.setAttribute(
+                "fill",
+                rootStyle.getPropertyValue("--hex-outer").trim(),
+              );
+              txt.setAttribute(
+                "fill",
+                rootStyle.getPropertyValue("--hex-text").trim(),
+              );
             }
           }
         });
@@ -2929,9 +2945,9 @@
       // visually drift from what's on screen. Rendered at 3x for retina
       // crispness. Returns a Promise<Blob> (PNG).
       // Fixed neutral for unlit cells in the share canvas ONLY. Not
-      // THEME.unlit/THEME.centerStart — those are deliberately dark,
-      // tuned to recede against the live game's dark screen background
-      // (THEME.background.dark). On a white share card that same dark
+      // --hex-outer/--hex-text (the live game's unlit neutral) — that
+      // pair is deliberately dark, tuned to recede against the live
+      // game's dark screen background (THEME.background.dark). On a white share card that same dark
       // brown reads as a confusing dark square instead of "recessed."
       // A fixed light gray keeps lit-vs-unlit a clean luminance contrast
       // regardless of which theme is active — same CVD reasoning as the
@@ -4003,10 +4019,9 @@
               hex: lvl.hex,
               text: lvl.text_color,
             })),
-            unlit: {
-              hex: hc.unlit.fill,
-              text: hc.unlit.text_color,
-            },
+            // NOTE: no "unlit" entry here — unlit outer-hex color is a
+            // universal neutral read directly from CSS (--hex-outer /
+            // --hex-text), not per-theme. See updateHexColors().
             centerStart: {
               hex: hc.start.center.hex,
               text: hc.start.center.text_color,
@@ -4150,7 +4165,7 @@
 
       // Builds the 7-band progress bar from THEME.levels: one
       // .progress-band div per rank (Beginner...Genius), each holding its
-      // lit color as background and a .band-cover (THEME.unlit color) on
+      // lit color as background and a .band-cover (unlit neutral color) on
       // top. Bands start unlit; updateHexColors() toggles the .lit class
       // on each band using the same levelsLit count that drives the
       // honeycomb, so the two can never show a different number of ranks
@@ -4162,6 +4177,10 @@
         const track = document.getElementById("progress-track");
         if (!track || !THEME) return;
 
+        const unlitFill = getComputedStyle(document.documentElement)
+          .getPropertyValue("--hex-outer")
+          .trim();
+
         track.innerHTML = "";
         THEME.levels.forEach((lvl) => {
           const band = document.createElement("div");
@@ -4170,7 +4189,7 @@
 
           const cover = document.createElement("div");
           cover.className = "band-cover";
-          cover.style.background = THEME.unlit.hex;
+          cover.style.background = unlitFill;
 
           band.appendChild(cover);
           track.appendChild(band);
