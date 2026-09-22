@@ -1069,6 +1069,114 @@
         transform: translateY(0);
       }
 
+      /* ── INSTALL PANEL (iOS "Add to Home Screen" instructions) ──────── */
+      /* Reuses .help-backdrop's positioning/animation rules — only the
+        inner .install-panel content differs from .help-panel. See the
+        .help-backdrop / .help-panel rules above for shared behavior.
+        Inherits backdrop/panel base rules from .help-panel via shared
+        .help-backdrop parent class — see markup below */
+      .install-steps {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+        margin: 12px 0 4px;
+      }
+      .install-step {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+      }
+      .install-step .num {
+        flex: none;
+        width: 24px;
+        height: 24px;
+        border-radius: 50%;
+        background: var(--accent, #ffb300);
+        color: #1c1c1e;
+        font-size: 13px;
+        font-weight: 700;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .install-step .icon {
+        flex: none;
+        width: 32px;
+        height: 32px;
+      }
+      .install-step p {
+        margin: 0;
+        font-size: 14px;
+        line-height: 1.4;
+        color: var(--cream, #fff);
+      }
+
+      /* ── COACHMARKS (first-launch icon tour) ─────────────────────── */
+      #coachmark-overlay {
+        position: fixed;
+        inset: 0;
+        z-index: 9999;
+        display: none;
+      }
+      #coachmark-overlay.open {
+        display: block;
+      }
+      #coachmark-spot {
+        position: absolute;
+        border-radius: 10px;
+        box-shadow: 0 0 0 9999px rgba(0, 0, 0, 0.6);
+        transition:
+          top 0.25s ease,
+          left 0.25s ease,
+          width 0.25s ease,
+          height 0.25s ease;
+      }
+      #coachmark-callout {
+        position: absolute;
+        width: 200px;
+        max-width: calc(100vw - 24px);
+        background: var(--surface, #1c1c1e);
+        border-radius: 12px;
+        padding: 12px 14px;
+        transition:
+          top 0.25s ease,
+          left 0.25s ease;
+      }
+      #coachmark-callout p.title {
+        font-size: 14px;
+        font-weight: 700;
+        margin: 0 0 4px;
+        color: var(--cream, #fff);
+      }
+      #coachmark-callout p.body {
+        font-size: 13px;
+        line-height: 1.4;
+        margin: 0 0 12px; /* was 10px */
+        color: var(--muted, #aaa);
+      }
+      #coachmark-callout .row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      #coachmark-callout .step {
+        font-size: 12px;
+        color: var(--muted, #aaa);
+      }
+      #coachmark-callout button {
+        flex: none; /* override global `button { flex: 1 }` — this button
+                      sits in a flex row and must NOT grow to fill it */
+        height: auto; /* override global `button { height: 52px }` */
+        background: none;
+        border: 1px solid var(--muted, #aaa);
+        color: var(--cream, #fff);
+        border-radius: 6px;
+        padding: 3px 10px;
+        font-size: 12px;
+        font-weight: 600;
+        cursor: pointer;
+      }
+
       .yest-handle,
       .stats-handle,
       .hints-handle,
@@ -1445,6 +1553,31 @@
       .help-body strong {
         color: var(--cream);
       }
+      .help-body h3 {
+        font-size: 1rem;
+        color: var(--cream);
+        margin: 20px 0 8px;
+      }
+      .help-body h3:first-child {
+        margin-top: 0;
+      }
+      .help-body ul {
+        margin: 0 0 14px;
+        padding-left: 20px;
+      }
+      .help-body li {
+        font-size: 0.85rem;
+        line-height: 1.5;
+        color: var(--muted-light);
+        margin-bottom: 6px;
+      }
+      .help-body li:last-child {
+        margin-bottom: 0;
+      }
+      .help-body a {
+        color: var(--cream);
+        text-decoration: underline;
+      }
 
       /* ── HINTS OVERLAY ──────────────────────────────────────────── */
       .hints-body {
@@ -1599,6 +1732,20 @@
       }
     </style>
   </head>
+
+  <!-- COACHMARKS (first-launch icon tour) -->
+  <div id="coachmark-overlay" aria-hidden="true">
+    <div id="coachmark-spot"></div>
+    <div id="coachmark-callout">
+      <p class="title" id="coachmark-title"></p>
+      <p class="body" id="coachmark-body"></p>
+      <div class="row">
+        <span class="step" id="coachmark-step"></span>
+        <button id="coachmark-next"></button>
+      </div>
+    </div>
+  </div>
+
   <body class="game-hidden">
     <script>
       //  BRAND_NAME is the single source of truth for the product name
@@ -1844,35 +1991,225 @@
       class="help-backdrop"
       role="dialog"
       aria-modal="true"
-      aria-label="How to play"
+      aria-label="Help"
       onclick="handleHelpBackdropClick(event)"
     >
       <div class="help-panel">
         <div class="help-handle" data-swipe-handle aria-hidden="true"></div>
         <div class="help-header" data-swipe-handle>
-          <span class="help-title">How to play</span>
+          <span class="help-title">Help</span>
           <button class="help-close" onclick="closeHelp()" aria-label="Close">
             ✕
           </button>
         </div>
         <div class="help-body">
+          <h3>How to play</h3>
+          <ul>
+            <li>
+              Find words using the <strong>7 letters</strong> in the honeycomb.
+            </li>
+            <li>Words must include the <strong>center letter</strong>.</li>
+            <li>Words must contain at least <strong>4 letters</strong>.</li>
+            <li>Letters may be used more than once.</li>
+            <li>
+              Our word list excludes proper nouns, abbreviations, slang,
+              interjections, and archaic, obscure, or inappropriate words.
+            </li>
+          </ul>
+
+          <h3>Points</h3>
+          <ul>
+            <li>4 letter word = 1 point.</li>
+            <li>5+ letter word = 1 point per letter.</li>
+            <li>Use all 7 letters = pangram = +7 point bonus.</li>
+          </ul>
+
+          <h3>Suggest words</h3>
+          <ul>
+            <li>
+              <a
+                href="https://forms.gle/ps8BTQRMtzkzqQcs9"
+                target="_blank"
+                rel="noopener"
+                >Use this form</a
+              >
+              to suggest words we should add or delete.
+            </li>
+          </ul>
+
           <p>
-            Find words using the <strong>7 letters</strong> in the honeycomb.
+            Trying to improve? See these tips from the
+            <a
+              href="https://www.nytimes.com/2021/12/09/crosswords/spellingbee-tips.html"
+              target="_blank"
+              rel="noopener"
+              >New York Times.</a
+            >.
           </p>
+
           <p>
-            Every word must include the
-            <strong>center letter</strong> and be at least
-            <strong>4 letters</strong> long.
+            Comments or questions? Email us at
+            <a
+              href="mailto:zenbeewords@gmail.com"
+              target="_blank"
+              rel="noopener"
+              >zenbeewords@gmail.com</a
+            >.
           </p>
+
+          <p>A new puzzle loads every day at midnight.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── INSTALL OVERLAY (Add to Home Screen, iOS only) ──────────────
+        Shown once on first non-standalone iOS visit. Cannot spotlight
+        the real Share button (it's Safari chrome, not page DOM), so
+        this is a static instructional panel, not a coachmark. -->
+    <div
+      id="install-overlay"
+      class="help-backdrop"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Install ZenBee"
+      onclick="handleInstallBackdropClick(event)"
+    >
+      <div class="help-panel install-panel">
+        <div class="help-handle" data-swipe-handle aria-hidden="true"></div>
+        <div class="help-header" data-swipe-handle>
+          <span class="help-title">Install ZenBee</span>
+          <button
+            class="help-close"
+            onclick="closeInstall()"
+            aria-label="Close"
+          >
+            ✕
+          </button>
+        </div>
+        <div class="help-body">
           <p>
-            Letters may be used more than once. Words that use all 7 letters are
-            <strong>pangrams</strong> and earn a bonus — they appear in amber in
-            your word list.
+            Add ZenBee to your Home Screen for one-tap access, a cleaner screen,
+            and edge-to-edge photos.
           </p>
-          <p>
-            Tap <strong>Shuffle</strong> to rearrange the outer letters. Tap
-            <strong>Delete</strong> to remove the last letter.
-          </p>
+          <div class="install-steps">
+            <div class="install-step">
+              <span class="num">1</span>
+              <svg
+                class="icon"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+                aria-hidden="true"
+              >
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="11"
+                  fill="#3A3A3C"
+                  stroke="#545456"
+                  stroke-width="0.5"
+                />
+                <circle cx="8" cy="12" r="1.4" fill="#F2F2F7" />
+                <circle cx="12" cy="12" r="1.4" fill="#F2F2F7" />
+                <circle cx="16" cy="12" r="1.4" fill="#F2F2F7" />
+              </svg>
+              <p>Tap the <strong>•••</strong> in the address bar.</p>
+            </div>
+            <div class="install-step">
+              <span class="num">2</span>
+              <svg
+                class="icon"
+                viewBox="0 0 24 24"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                aria-hidden="true"
+              >
+                <path
+                  d="M12 3v12.5"
+                  stroke="#fff"
+                  stroke-width="1.6"
+                  stroke-linecap="round"
+                />
+                <path
+                  d="M7.5 7.5L12 3l4.5 4.5"
+                  stroke="#fff"
+                  stroke-width="1.6"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+                <path
+                  d="M5 12v6a2 2 0 002 2h10a2 2 0 002-2v-6"
+                  stroke="#fff"
+                  stroke-width="1.6"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+              <p>Tap <strong>Share</strong>.</p>
+            </div>
+            <div class="install-step">
+              <span class="num">3</span>
+              <svg
+                class="icon"
+                viewBox="0 0 24 24"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                aria-hidden="true"
+              >
+                <rect
+                  x="3.5"
+                  y="3.5"
+                  width="17"
+                  height="17"
+                  rx="5"
+                  stroke="#fff"
+                  stroke-width="1.6"
+                />
+                <path
+                  d="M12 8v8M8 12h8"
+                  stroke="#fff"
+                  stroke-width="1.6"
+                  stroke-linecap="round"
+                />
+              </svg>
+              <p>Scroll down and tap <strong>Add to Home Screen</strong>.</p>
+            </div>
+            <div class="install-step">
+              <span class="num">4</span>
+              <svg
+                class="icon"
+                viewBox="0 0 24 24"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                aria-hidden="true"
+              >
+                <rect
+                  x="2"
+                  y="6"
+                  width="20"
+                  height="12"
+                  rx="6"
+                  fill="#5B8DEF"
+                  stroke="#8FB4FF"
+                  stroke-width="0.75"
+                />
+                <text
+                  x="12"
+                  y="14.5"
+                  font-size="7"
+                  font-weight="700"
+                  fill="#E8F2FF"
+                  text-anchor="middle"
+                  font-family="-apple-system, sans-serif"
+                >
+                  Add
+                </text>
+              </svg>
+              <p>
+                Tap <strong>Add</strong>. A ZenBee icon appears on your Home
+                Screen.
+              </p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -2507,7 +2844,7 @@
         const pointsNeeded = Math.ceil(
           (nextRank.pct / 100) * PUZZLE.possible_points - pts,
         );
-        return `<strong>${pointsNeeded}</strong> to ${nextRank.label}`;
+        return `<strong>${pointsNeeded}</strong> pts to ${nextRank.label}`;
       }
 
       function renderScore() {
@@ -2528,6 +2865,7 @@
         // matches the score>0 guard getLevelsLit() already uses, so
         // "visible" and "has a non-empty result" can't disagree.
         document.getElementById("share-btn").hidden = score <= 0;
+        if (score > 0) maybeShowShareCoachmark();
         // Band lighting (progress bar) and hex lighting (honeycomb) are
         // both driven from inside updateHexColors(), using the same
         // levelsLit count — see that function for the single source of
@@ -2750,6 +3088,203 @@
       }
 
       // ═══════════════════════════════════════════════════════════════
+      //  COACHMARKS - first-launch icon tour
+      // ═══════════════════════════════════════════════════════════════
+
+      const COACHMARK_STEPS = [
+        {
+          selector: "#honeycomb-svg",
+          title: "The honeycomb",
+          body: "Tap letters to make words. Hexes light one by one as you find words.",
+          calloutPosition: "above",
+          spotInsetBottom: 10, // trims cutout bottom so it doesn't overlap Delete/Shuffle/Enter row below the honeycomb
+        },
+        {
+          selector: ".btn-shuffle",
+          title: "Shuffle",
+          body: "Shuffle the letters to find more words.",
+          calloutPosition: "above",
+        },
+        {
+          selector: '.nav-btn[onclick="openHints()"]',
+          title: "Hints",
+          body: "To help find words.",
+        },
+        {
+          selector: '.nav-btn[onclick="openStats()"]',
+          title: "Stats",
+          body: "See your streak and lifetime progress.",
+        },
+        {
+          selector: '.nav-btn[onclick="openYesterday()"]',
+          title: "Yesterday",
+          body: "See yesterday's answers.",
+        },
+        {
+          selector: '.nav-btn[onclick="openHelp()"]',
+          title: "Help",
+          body: "How to play and suggest words for our word list.",
+        },
+      ];
+
+      // ═══════════════════════════════════════════════════════════════
+      //  INSTALL PROMPT — iOS "Add to Home Screen" instructions
+      //
+      //  iOS Safari has no install API (no beforeinstallprompt equivalent),
+      //  so this is a one-time instructional panel, not a native prompt.
+      //  Gated to iOS + non-standalone, and only shown on a RETURN visit
+      //  (not first launch) — see HAS_VISITED_KEY below. Independent of
+      //  game progress/stats on purpose: this should not depend on the
+      //  streak logic or any other game_stats-derived value.
+      // ═══════════════════════════════════════════════════════════════
+
+      const INSTALL_PANEL_KEY = "install_panel_seen_v1";
+      const HAS_VISITED_KEY = "has_visited_v1";
+
+      function isIOS() {
+        return /iPad|iPhone|iPod/.test(navigator.userAgent);
+      }
+
+      function isStandalone() {
+        return (
+          window.matchMedia("(display-mode: standalone)").matches ||
+          window.navigator.standalone === true // legacy iOS Safari flag
+        );
+      }
+
+      function openInstall() {
+        document.getElementById("install-overlay").classList.add("open");
+        overlayCount++;
+        if (overlayCount === 1) document.body.style.overflow = "hidden";
+      }
+
+      function closeInstall() {
+        document.getElementById("install-overlay").classList.remove("open");
+        overlayCount = Math.max(0, overlayCount - 1);
+        if (overlayCount === 0) document.body.style.overflow = "";
+        localStorage.setItem(INSTALL_PANEL_KEY, "1");
+      }
+
+      function handleInstallBackdropClick(e) {
+        if (e.target === document.getElementById("install-overlay"))
+          closeInstall();
+      }
+
+      // Called once per load, early — records this visit and reports
+      // whether the visitor has been here before. Must run BEFORE
+      // maybeShowInstallPanel() so the very first visit sets the flag
+      // but doesn't also show the panel on that same visit.
+      function checkAndMarkVisited() {
+        const hasVisitedBefore = !!localStorage.getItem(HAS_VISITED_KEY);
+        localStorage.setItem(HAS_VISITED_KEY, "1");
+        return hasVisitedBefore;
+      }
+
+      function maybeShowInstallPanel(hasVisitedBefore) {
+        if (!isIOS() || isStandalone()) return;
+        if (!hasVisitedBefore) return; // first visit — too early
+        if (localStorage.getItem(INSTALL_PANEL_KEY)) return; // already shown
+        openInstall();
+      }
+
+      function runCoachmarkSequence(steps, doneKey) {
+        if (localStorage.getItem(doneKey)) return;
+
+        const overlay = document.getElementById("coachmark-overlay");
+        const spot = document.getElementById("coachmark-spot");
+        const callout = document.getElementById("coachmark-callout");
+        const titleEl = document.getElementById("coachmark-title");
+        const bodyEl = document.getElementById("coachmark-body");
+        const stepEl = document.getElementById("coachmark-step");
+        const nextBtn = document.getElementById("coachmark-next");
+
+        let stepIdx = 0;
+
+        function renderStep() {
+          const step = steps[stepIdx];
+          const btn = document.querySelector(step.selector);
+          if (!btn || btn.hidden || btn.offsetParent === null) {
+            finish();
+            return;
+          }
+          const r = btn.getBoundingClientRect();
+          const insetBottom = step.spotInsetBottom || 0;
+          spot.style.top = `${r.top - 4}px`;
+          spot.style.left = `${r.left - 4}px`;
+          spot.style.width = `${r.width + 8}px`;
+          spot.style.height = `${r.height + 8 - insetBottom}px`;
+
+          titleEl.textContent = step.title;
+          bodyEl.textContent = step.body;
+          stepEl.textContent =
+            steps.length > 1 ? `${stepIdx + 1} of ${steps.length}` : "";
+          nextBtn.textContent =
+            stepIdx === steps.length - 1 ? "Got it" : "Next";
+
+          // Default "below" matches the header icons this tour was built
+          // for. Large/low-on-screen targets (honeycomb, shuffle) pass
+          // calloutPosition: "above" so the callout doesn't run off the
+          // bottom of the viewport or crowd the keyboard row.
+          const placeAbove = step.calloutPosition === "above";
+          const calloutHeight = callout.getBoundingClientRect().height;
+          const calloutTop = placeAbove
+            ? r.top - calloutHeight - 12
+            : r.bottom + 12;
+          let calloutLeft = r.left + r.width / 2 - 100;
+          calloutLeft = Math.max(
+            12,
+            Math.min(calloutLeft, window.innerWidth - 212),
+          );
+          callout.style.top = `${calloutTop}px`;
+          callout.style.left = `${calloutLeft}px`;
+        }
+
+        function advance() {
+          stepIdx++;
+          if (stepIdx >= steps.length) {
+            finish();
+          } else {
+            renderStep();
+          }
+        }
+
+        function finish() {
+          overlay.classList.remove("open");
+          overlay.removeEventListener("click", advance);
+          nextBtn.removeEventListener("click", advanceFromButton);
+          localStorage.setItem(doneKey, "1");
+        }
+
+        function advanceFromButton(e) {
+          e.stopPropagation();
+          advance();
+        }
+
+        nextBtn.addEventListener("click", advanceFromButton);
+        overlay.addEventListener("click", advance);
+
+        overlay.classList.add("open");
+        renderStep();
+      }
+
+      function maybeStartCoachmarks() {
+        runCoachmarkSequence(COACHMARK_STEPS, COACHMARKS_KEY);
+      }
+
+      function maybeShowShareCoachmark() {
+        runCoachmarkSequence(
+          [
+            {
+              selector: "#share-btn",
+              title: "Share",
+              body: "Share your score with friends and family.",
+            },
+          ],
+          SHARE_COACHMARK_KEY,
+        );
+      }
+
+      // ═══════════════════════════════════════════════════════════════
       //  PLAYER STATS  —  localStorage
       //
       //  saveGameProgress() is called after every valid word found.
@@ -2774,6 +3309,8 @@
       //            foundWordsList, longestWord, complete }
       // ═══════════════════════════════════════════════════════════════
       const STATS_KEY = "game_stats";
+      const COACHMARKS_KEY = "coachmarks_seen_v1";
+      const SHARE_COACHMARK_KEY = "coachmark_share_seen_v1";
 
       function loadStats() {
         try {
@@ -3554,6 +4091,9 @@
         splash.style.pointerEvents = "none";
         setTimeout(() => {
           splash.style.display = "none";
+          const hasVisitedBefore = checkAndMarkVisited();
+          maybeShowInstallPanel(hasVisitedBefore); // NEW — return visit, iOS, non-standalone only
+          maybeStartCoachmarks();
         }, 400);
         document.body.classList.remove("game-hidden");
       }
@@ -4302,6 +4842,7 @@
       addSwipeDismiss(document.querySelector(".stats-panel"), closeStats);
       addSwipeDismiss(document.querySelector(".hints-panel"), closeHints);
       addSwipeDismiss(document.querySelector(".help-panel"), closeHelp);
+      addSwipeDismiss(document.querySelector(".install-panel"), closeInstall);
 
       // ── Resume in-progress game silently, no splash ────────────────
       // Runs synchronously, before any fetch below yields control back
