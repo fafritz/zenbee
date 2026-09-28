@@ -2043,7 +2043,7 @@
               href="https://www.nytimes.com/2021/12/09/crosswords/spellingbee-tips.html"
               target="_blank"
               rel="noopener"
-              >New York Times.</a
+              >New York Times</a
             >.
           </p>
 
@@ -2580,6 +2580,12 @@
         );
       }
 
+      // Returns singular or plural form based on count. Caller
+      // interpolates the count itself: `${n} ${pluralize(n, "word")}`
+      function pluralize(count, singular, plural = singular + "s") {
+        return count === 1 ? singular : plural;
+      }
+
       function getRank(pts) {
         const pct =
           PUZZLE.possible_points > 0 ? (pts / PUZZLE.possible_points) * 100 : 0;
@@ -2844,7 +2850,7 @@
         const pointsNeeded = Math.ceil(
           (nextRank.pct / 100) * PUZZLE.possible_points - pts,
         );
-        return `<strong>${pointsNeeded}</strong> pts to ${nextRank.label}`;
+        return `<strong>${pointsNeeded}</strong> ${pluralize(pointsNeeded, "pt", "pts")} to ${nextRank.label}`;
       }
 
       function renderScore() {
@@ -2934,7 +2940,7 @@
         } else {
           // List is open — keep the count line current
           const n = foundWords.length;
-          inlineEl.textContent = `You've found ${n} word${n !== 1 ? "s" : ""}`;
+          inlineEl.textContent = `You've found ${n} ${pluralize(n, "word")}`;
           inlineEl.classList.remove("placeholder");
         }
       }
@@ -2965,7 +2971,7 @@
         } else {
           // Opening: show count above the expanded list
           const n = foundWords.length;
-          inlineEl.textContent = `You've found ${n} word${n !== 1 ? "s" : ""}`;
+          inlineEl.textContent = `You've found ${n} ${pluralize(n, "word")}`;
           inlineEl.classList.remove("placeholder");
         }
       }
@@ -3729,7 +3735,7 @@
         function setStat(id, count, singular, plural = singular + "s") {
           document.getElementById(id).textContent = count;
           document.getElementById(id).nextElementSibling.textContent =
-            count !== 1 ? plural : singular;
+            pluralize(count, singular, plural);
         }
 
         // Games played
@@ -3798,7 +3804,7 @@
         const { current, longest } = computeStreaks(games);
         document.getElementById("stat-streak").textContent = current;
         document.getElementById("stat-longest-streak").textContent =
-          `Longest streak: ${longest} day${longest !== 1 ? "s" : ""}`;
+          `Longest streak: ${longest} ${pluralize(longest, "day")}`;
 
         // Render the distribution for the current tab period
         renderStatDist(games, currentStatPeriod);
