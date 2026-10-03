@@ -1,9 +1,9 @@
 {
   "pangram": "lambkin",
   "center_letter": "a",
-  "num_answers": 44,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 159,
+  "possible_points": 169,
   "answer_pangrams": [
     "lambkin"
   ],
@@ -11,7 +11,6 @@
     "akin",
     "alibi",
     "alkali",
-    "anal",
     "animal",
     "baba",
     "bail",
@@ -26,12 +25,14 @@
     "blank",
     "iamb",
     "imam",
+    "kanban",
     "labia",
     "labial",
     "lain",
     "lama",
     "lamb",
     "lambkin",
+    "lanai",
     "lank",
     "llama",
     "mail",
@@ -56,23 +57,24 @@
   "date": "2035-05-30",
   "hints": {
     "by_length": {
-      "4": 23,
-      "5": 8,
-      "6": 6,
+      "4": 22,
+      "5": 9,
+      "6": 7,
       "7": 5,
       "9": 2
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 4,
       "B": 11,
       "I": 2,
-      "L": 8,
+      "K": 1,
+      "L": 9,
       "M": 15,
       "N": 3
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 1,
         "6": 2
       },
@@ -85,9 +87,12 @@
       "I": {
         "4": 2
       },
+      "K": {
+        "6": 1
+      },
       "L": {
         "4": 4,
-        "5": 2,
+        "5": 3,
         "6": 1,
         "7": 1
       },
@@ -105,12 +110,13 @@
     "two_letter_list": {
       "AK": 1,
       "AL": 2,
-      "AN": 2,
+      "AN": 1,
       "BA": 9,
       "BL": 2,
       "IA": 1,
       "IM": 1,
-      "LA": 7,
+      "KA": 1,
+      "LA": 8,
       "LL": 1,
       "MA": 12,
       "MI": 3,

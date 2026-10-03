@@ -1,18 +1,20 @@
 {
   "pangram": "impanel",
   "center_letter": "e",
-  "num_answers": 74,
+  "num_answers": 78,
   "num_pangrams": 1,
-  "possible_points": 285,
+  "possible_points": 309,
   "answer_pangrams": [
     "impanel"
   ],
   "answers": [
     "alien",
+    "allele",
     "alpine",
     "amen",
     "ample",
     "anemia",
+    "aniline",
     "anime",
     "anneal",
     "appeal",
@@ -73,11 +75,13 @@
     "peen",
     "peep",
     "penal",
-    "penile",
+    "penne",
     "pile",
     "pimple",
     "pine",
+    "pineal",
     "pineapple",
+    "pinnae",
     "pipe",
     "pipeline",
     "plane",
@@ -87,27 +91,28 @@
   "hints": {
     "by_length": {
       "4": 34,
-      "5": 17,
-      "6": 12,
-      "7": 5,
+      "5": 18,
+      "6": 14,
+      "7": 6,
       "8": 3,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 11,
       "E": 5,
       "I": 5,
       "L": 13,
       "M": 18,
       "N": 5,
-      "P": 19
+      "P": 21
     },
     "grid": {
       "A": {
         "4": 1,
         "5": 4,
-        "6": 4
+        "6": 5,
+        "7": 1
       },
       "E": {
         "4": 2,
@@ -139,16 +144,16 @@
       },
       "P": {
         "4": 10,
-        "5": 4,
-        "6": 2,
+        "5": 5,
+        "6": 3,
         "8": 2,
         "9": 1
       }
     },
     "two_letter_list": {
-      "AL": 2,
+      "AL": 3,
       "AM": 2,
-      "AN": 3,
+      "AN": 4,
       "AP": 2,
       "EL": 1,
       "EM": 1,
@@ -167,7 +172,7 @@
       "NI": 1,
       "PA": 5,
       "PE": 6,
-      "PI": 6,
+      "PI": 8,
       "PL": 2
     }
   }

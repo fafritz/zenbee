@@ -1,9 +1,9 @@
 {
   "pangram": "amoebic",
   "center_letter": "b",
-  "num_answers": 22,
+  "num_answers": 24,
   "num_pangrams": 1,
-  "possible_points": 87,
+  "possible_points": 92,
   "answer_pangrams": [
     "amoebic"
   ],
@@ -19,9 +19,11 @@
     "beam",
     "became",
     "become",
+    "biome",
+    "boba",
+    "bocce",
     "bomb",
     "boob",
-    "booboo",
     "boom",
     "comb",
     "combo",
@@ -34,14 +36,14 @@
   "date": "2035-05-31",
   "hints": {
     "by_length": {
-      "4": 10,
-      "5": 3,
-      "6": 8,
+      "4": 11,
+      "5": 5,
+      "6": 7,
       "7": 1
     },
     "by_first_letter": {
       "A": 4,
-      "B": 11,
+      "B": 13,
       "C": 2,
       "I": 3,
       "M": 1,
@@ -55,8 +57,9 @@
         "7": 1
       },
       "B": {
-        "4": 6,
-        "6": 5
+        "4": 7,
+        "5": 2,
+        "6": 4
       },
       "C": {
         "4": 1,
@@ -78,7 +81,8 @@
       "AM": 2,
       "BA": 4,
       "BE": 3,
-      "BO": 4,
+      "BI": 1,
+      "BO": 5,
       "CO": 2,
       "IA": 2,
       "IM": 1,

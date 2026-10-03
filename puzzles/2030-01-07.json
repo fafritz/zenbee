@@ -1,9 +1,9 @@
 {
   "pangram": "braving",
   "center_letter": "r",
-  "num_answers": 56,
+  "num_answers": 59,
   "num_pangrams": 1,
-  "possible_points": 319,
+  "possible_points": 343,
   "answer_pangrams": [
     "braving"
   ],
@@ -38,6 +38,7 @@
     "brig",
     "bring",
     "bringing",
+    "brining",
     "garaging",
     "garb",
     "garbing",
@@ -47,6 +48,8 @@
     "graving",
     "grin",
     "grinning",
+    "ingrain",
+    "ingraining",
     "nirvana",
     "rabbi",
     "raga",
@@ -71,15 +74,16 @@
       "4": 14,
       "5": 5,
       "6": 7,
-      "7": 16,
+      "7": 18,
       "8": 9,
       "9": 3,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 9,
-      "B": 21,
+      "B": 22,
       "G": 9,
+      "I": 2,
       "N": 1,
       "R": 15,
       "V": 1
@@ -97,7 +101,7 @@
         "4": 5,
         "5": 3,
         "6": 1,
-        "7": 6,
+        "7": 7,
         "8": 3,
         "9": 2,
         "10": 1
@@ -107,6 +111,10 @@
         "5": 1,
         "7": 2,
         "8": 3
+      },
+      "I": {
+        "7": 1,
+        "10": 1
       },
       "N": {
         "7": 1
@@ -127,9 +135,10 @@
       "AI": 2,
       "AR": 5,
       "BA": 10,
-      "BR": 11,
+      "BR": 12,
       "GA": 3,
       "GR": 6,
+      "IN": 2,
       "NI": 1,
       "RA": 11,
       "RI": 4,

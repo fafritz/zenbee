@@ -1,13 +1,14 @@
 {
   "pangram": "clamped",
   "center_letter": "c",
-  "num_answers": 47,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 207,
+  "possible_points": 227,
   "answer_pangrams": [
     "clamped"
   ],
   "answers": [
+    "academe",
     "accede",
     "acceded",
     "aced",
@@ -29,6 +30,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "clad",
     "clam",
     "clammed",
@@ -36,6 +38,7 @@
     "clamped",
     "clap",
     "clapped",
+    "decadal",
     "decade",
     "decal",
     "decamp",
@@ -61,14 +64,14 @@
     "by_length": {
       "4": 15,
       "5": 14,
-      "6": 12,
-      "7": 5,
+      "6": 13,
+      "7": 7,
       "8": 1
     },
     "by_first_letter": {
-      "A": 6,
-      "C": 22,
-      "D": 4,
+      "A": 7,
+      "C": 23,
+      "D": 5,
       "E": 2,
       "L": 2,
       "M": 5,
@@ -79,17 +82,18 @@
         "4": 2,
         "5": 1,
         "6": 2,
-        "7": 1
+        "7": 2
       },
       "C": {
         "4": 10,
         "5": 5,
-        "6": 4,
+        "6": 5,
         "7": 3
       },
       "D": {
         "5": 1,
         "6": 2,
+        "7": 1,
         "8": 1
       },
       "E": {
@@ -113,13 +117,13 @@
       }
     },
     "two_letter_list": {
-      "AC": 4,
+      "AC": 5,
       "AL": 1,
       "AP": 1,
       "CA": 12,
-      "CE": 3,
+      "CE": 4,
       "CL": 7,
-      "DE": 4,
+      "DE": 5,
       "EM": 2,
       "LA": 2,
       "MA": 4,

@@ -1,9 +1,9 @@
 {
   "pangram": "bawling",
   "center_letter": "n",
-  "num_answers": 73,
+  "num_answers": 76,
   "num_pangrams": 1,
-  "possible_points": 441,
+  "possible_points": 466,
   "answer_pangrams": [
     "bawling"
   ],
@@ -14,7 +14,6 @@
     "alibiing",
     "align",
     "aligning",
-    "anal",
     "angina",
     "angling",
     "awing",
@@ -32,6 +31,7 @@
     "banning",
     "bawling",
     "billing",
+    "binging",
     "binning",
     "blabbing",
     "bling",
@@ -40,6 +40,7 @@
     "gagging",
     "gain",
     "gaining",
+    "galangal",
     "galling",
     "gang",
     "ganging",
@@ -54,7 +55,9 @@
     "inning",
     "lagging",
     "lain",
+    "lanai",
     "lawn",
+    "lignin",
     "lining",
     "naan",
     "nabbing",
@@ -85,25 +88,24 @@
   "date": "2026-10-21",
   "hints": {
     "by_length": {
-      "4": 11,
-      "5": 6,
-      "6": 14,
-      "7": 29,
-      "8": 12,
+      "4": 10,
+      "5": 7,
+      "6": 15,
+      "7": 30,
+      "8": 13,
       "10": 1
     },
     "by_first_letter": {
-      "A": 11,
-      "B": 16,
-      "G": 16,
+      "A": 10,
+      "B": 17,
+      "G": 17,
       "I": 1,
-      "L": 4,
+      "L": 6,
       "N": 8,
       "W": 17
     },
     "grid": {
       "A": {
-        "4": 1,
         "5": 4,
         "6": 3,
         "7": 1,
@@ -113,21 +115,22 @@
         "4": 1,
         "5": 2,
         "6": 3,
-        "7": 8,
+        "7": 9,
         "8": 2
       },
       "G": {
         "4": 3,
         "6": 1,
         "7": 9,
-        "8": 3
+        "8": 4
       },
       "I": {
         "6": 1
       },
       "L": {
         "4": 2,
-        "6": 1,
+        "5": 1,
+        "6": 2,
         "7": 1
       },
       "N": {
@@ -147,17 +150,17 @@
       "AG": 2,
       "AI": 1,
       "AL": 3,
-      "AN": 3,
+      "AN": 2,
       "AW": 2,
       "BA": 12,
-      "BI": 2,
+      "BI": 3,
       "BL": 2,
-      "GA": 10,
+      "GA": 11,
       "GI": 4,
       "GN": 2,
       "IN": 1,
-      "LA": 3,
-      "LI": 1,
+      "LA": 4,
+      "LI": 2,
       "NA": 6,
       "NI": 2,
       "WA": 8,

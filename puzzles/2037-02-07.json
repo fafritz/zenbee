@@ -1,9 +1,9 @@
 {
   "pangram": "racking",
   "center_letter": "g",
-  "num_answers": 60,
+  "num_answers": 63,
   "num_pangrams": 3,
-  "possible_points": 372,
+  "possible_points": 390,
   "answer_pangrams": [
     "cracking",
     "cranking",
@@ -33,6 +33,7 @@
     "cranking",
     "cricking",
     "cringing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -46,6 +47,8 @@
     "grin",
     "grinning",
     "icing",
+    "ingrain",
+    "ingraining",
     "inking",
     "inning",
     "irking",
@@ -74,19 +77,19 @@
   "date": "2037-02-07",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 10,
       "5": 6,
       "6": 15,
-      "7": 21,
+      "7": 22,
       "8": 7,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 11,
       "C": 12,
-      "G": 12,
-      "I": 4,
+      "G": 13,
+      "I": 6,
       "K": 3,
       "N": 2,
       "R": 16
@@ -109,14 +112,16 @@
         "8": 4
       },
       "G": {
-        "4": 3,
+        "4": 4,
         "5": 1,
         "7": 6,
         "8": 2
       },
       "I": {
         "5": 1,
-        "6": 3
+        "6": 3,
+        "7": 1,
+        "10": 1
       },
       "K": {
         "4": 1,
@@ -140,11 +145,11 @@
       "CA": 5,
       "CI": 1,
       "CR": 6,
-      "GA": 6,
+      "GA": 7,
       "GI": 2,
       "GR": 4,
       "IC": 1,
-      "IN": 2,
+      "IN": 4,
       "IR": 1,
       "KI": 3,
       "NA": 1,

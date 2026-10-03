@@ -1,18 +1,20 @@
 {
   "pangram": "nuptial",
   "center_letter": "u",
-  "num_answers": 28,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 92,
+  "possible_points": 107,
   "answer_pangrams": [
     "nuptial"
   ],
   "answers": [
     "annual",
+    "annuitant",
     "annul",
     "aunt",
     "input",
     "intuit",
+    "inulin",
     "luau",
     "lull",
     "lulu",
@@ -42,12 +44,13 @@
     "by_length": {
       "4": 15,
       "5": 9,
-      "6": 3,
-      "7": 1
+      "6": 4,
+      "7": 1,
+      "9": 1
     },
     "by_first_letter": {
-      "A": 3,
-      "I": 2,
+      "A": 4,
+      "I": 3,
       "L": 3,
       "N": 2,
       "P": 9,
@@ -58,11 +61,12 @@
       "A": {
         "4": 1,
         "5": 1,
-        "6": 1
+        "6": 1,
+        "9": 1
       },
       "I": {
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "L": {
         "4": 3
@@ -86,9 +90,9 @@
       }
     },
     "two_letter_list": {
-      "AN": 2,
+      "AN": 3,
       "AU": 1,
-      "IN": 2,
+      "IN": 3,
       "LU": 3,
       "NU": 2,
       "PI": 1,

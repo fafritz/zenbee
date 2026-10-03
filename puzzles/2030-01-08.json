@@ -1,9 +1,9 @@
 {
   "pangram": "equably",
   "center_letter": "b",
-  "num_answers": 32,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 118,
+  "possible_points": 117,
   "answer_pangrams": [
     "equably"
   ],
@@ -33,7 +33,6 @@
     "bulb",
     "bull",
     "bully",
-    "ebay",
     "equable",
     "equably",
     "eyeball",
@@ -44,7 +43,7 @@
   "date": "2030-01-08",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 15,
       "5": 7,
       "6": 4,
       "7": 4,
@@ -53,7 +52,7 @@
     "by_first_letter": {
       "A": 4,
       "B": 21,
-      "E": 4,
+      "E": 3,
       "L": 3
     },
     "grid": {
@@ -68,7 +67,6 @@
         "8": 1
       },
       "E": {
-        "4": 1,
         "7": 3
       },
       "L": {
@@ -83,7 +81,6 @@
       "BE": 5,
       "BL": 3,
       "BU": 5,
-      "EB": 1,
       "EQ": 2,
       "EY": 1,
       "LA": 1,

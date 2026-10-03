@@ -1,9 +1,9 @@
 {
   "pangram": "quailed",
   "center_letter": "d",
-  "num_answers": 59,
+  "num_answers": 61,
   "num_pangrams": 1,
-  "possible_points": 247,
+  "possible_points": 253,
   "answer_pangrams": [
     "quailed"
   ],
@@ -42,6 +42,7 @@
     "dull",
     "dulled",
     "eddied",
+    "eeled",
     "elide",
     "elided",
     "elude",
@@ -58,6 +59,7 @@
     "lauded",
     "lead",
     "leaded",
+    "lede",
     "lidded",
     "lied",
     "liquid",
@@ -71,17 +73,17 @@
   "date": "2038-03-24",
   "hints": {
     "by_length": {
-      "4": 22,
-      "5": 11,
+      "4": 23,
+      "5": 12,
       "6": 19,
       "7": 7
     },
     "by_first_letter": {
       "A": 10,
       "D": 23,
-      "E": 6,
+      "E": 7,
       "I": 4,
-      "L": 11,
+      "L": 12,
       "Q": 5
     },
     "grid": {
@@ -98,7 +100,7 @@
         "7": 3
       },
       "E": {
-        "5": 2,
+        "5": 3,
         "6": 3,
         "7": 1
       },
@@ -107,7 +109,7 @@
         "5": 2
       },
       "L": {
-        "4": 4,
+        "4": 5,
         "5": 1,
         "6": 6
       },
@@ -126,11 +128,12 @@
       "DI": 6,
       "DU": 7,
       "ED": 1,
+      "EE": 1,
       "EL": 4,
       "EQ": 1,
       "ID": 4,
       "LA": 5,
-      "LE": 2,
+      "LE": 3,
       "LI": 3,
       "LU": 1,
       "QU": 5

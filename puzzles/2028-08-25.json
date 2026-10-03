@@ -1,9 +1,9 @@
 {
   "pangram": "talking",
   "center_letter": "t",
-  "num_answers": 58,
+  "num_answers": 60,
   "num_pangrams": 1,
-  "possible_points": 330,
+  "possible_points": 338,
   "answer_pangrams": [
     "talking"
   ],
@@ -28,6 +28,7 @@
     "kiting",
     "knit",
     "knitting",
+    "lantana",
     "lilt",
     "lilting",
     "lint",
@@ -53,6 +54,7 @@
     "tanning",
     "tatting",
     "tattling",
+    "tiki",
     "tiling",
     "till",
     "tilling",
@@ -70,10 +72,10 @@
   "date": "2028-08-25",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 17,
       "5": 5,
       "6": 6,
-      "7": 15,
+      "7": 16,
       "8": 9,
       "9": 2,
       "10": 4,
@@ -84,9 +86,9 @@
       "G": 8,
       "I": 4,
       "K": 4,
-      "L": 6,
+      "L": 7,
       "N": 1,
-      "T": 31
+      "T": 32
     },
     "grid": {
       "A": {
@@ -113,7 +115,7 @@
       },
       "L": {
         "4": 2,
-        "7": 2,
+        "7": 3,
         "8": 1,
         "10": 1
       },
@@ -121,7 +123,7 @@
         "5": 1
       },
       "T": {
-        "4": 8,
+        "4": 9,
         "5": 2,
         "6": 3,
         "7": 11,
@@ -142,10 +144,11 @@
       "IN": 3,
       "KI": 2,
       "KN": 2,
+      "LA": 1,
       "LI": 6,
       "NA": 1,
       "TA": 18,
-      "TI": 13
+      "TI": 14
     }
   }
 }

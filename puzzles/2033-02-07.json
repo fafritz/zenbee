@@ -1,9 +1,9 @@
 {
   "pangram": "proving",
   "center_letter": "g",
-  "num_answers": 51,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 290,
+  "possible_points": 310,
   "answer_pangrams": [
     "proving"
   ],
@@ -17,6 +17,7 @@
     "goon",
     "goop",
     "gorging",
+    "gorgon",
     "goring",
     "gorp",
     "grin",
@@ -43,8 +44,11 @@
     "pinning",
     "piping",
     "pipping",
-    "pooping",
+    "pirogi",
+    "pogo",
+    "pogoing",
     "popping",
+    "porging",
     "poring",
     "prig",
     "prong",
@@ -63,19 +67,19 @@
   "date": "2033-02-07",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 11,
       "5": 5,
-      "6": 11,
-      "7": 19,
+      "6": 13,
+      "7": 20,
       "8": 5,
       "9": 1
     },
     "by_first_letter": {
-      "G": 19,
+      "G": 20,
       "I": 3,
       "N": 2,
       "O": 3,
-      "P": 15,
+      "P": 18,
       "R": 7,
       "V": 2
     },
@@ -83,7 +87,7 @@
       "G": {
         "4": 7,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 5,
         "8": 3
       },
@@ -101,10 +105,10 @@
         "7": 2
       },
       "P": {
-        "4": 2,
+        "4": 3,
         "5": 1,
-        "6": 3,
-        "7": 7,
+        "6": 4,
+        "7": 8,
         "8": 1,
         "9": 1
       },
@@ -121,7 +125,7 @@
     },
     "two_letter_list": {
       "GI": 3,
-      "GO": 8,
+      "GO": 9,
       "GR": 8,
       "IG": 1,
       "IN": 1,
@@ -131,8 +135,8 @@
       "ON": 1,
       "OP": 1,
       "OR": 1,
-      "PI": 8,
-      "PO": 3,
+      "PI": 9,
+      "PO": 5,
       "PR": 4,
       "RI": 5,
       "RO": 2,

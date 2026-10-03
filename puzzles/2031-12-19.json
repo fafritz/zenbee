@@ -1,9 +1,9 @@
 {
   "pangram": "fixable",
   "center_letter": "b",
-  "num_answers": 37,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 152,
+  "possible_points": 173,
   "answer_pangrams": [
     "fixable"
   ],
@@ -32,7 +32,9 @@
     "biff",
     "bile",
     "bill",
+    "billable",
     "blab",
+    "effable",
     "fable",
     "fallible",
     "feeble",
@@ -43,6 +45,7 @@
     "label",
     "labia",
     "labial",
+    "labile",
     "liable",
     "libel"
   ],
@@ -51,16 +54,17 @@
     "by_length": {
       "4": 15,
       "5": 9,
-      "6": 8,
-      "7": 3,
-      "8": 2
+      "6": 9,
+      "7": 4,
+      "8": 3
     },
     "by_first_letter": {
       "A": 4,
-      "B": 21,
+      "B": 22,
+      "E": 1,
       "F": 6,
       "I": 1,
-      "L": 5
+      "L": 6
     },
     "grid": {
       "A": {
@@ -72,6 +76,10 @@
         "4": 11,
         "5": 4,
         "6": 5,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
         "7": 1
       },
       "F": {
@@ -86,7 +94,7 @@
       },
       "L": {
         "5": 3,
-        "6": 2
+        "6": 3
       }
     },
     "two_letter_list": {
@@ -95,14 +103,15 @@
       "AL": 1,
       "BA": 9,
       "BE": 7,
-      "BI": 4,
+      "BI": 5,
       "BL": 1,
+      "EF": 1,
       "FA": 2,
       "FE": 1,
       "FI": 1,
       "FL": 2,
       "IB": 1,
-      "LA": 3,
+      "LA": 4,
       "LI": 2
     }
   }

@@ -1,9 +1,9 @@
 {
   "pangram": "okaying",
   "center_letter": "a",
-  "num_answers": 29,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 129,
+  "possible_points": 126,
   "answer_pangrams": [
     "okaying"
   ],
@@ -18,12 +18,12 @@
     "annoy",
     "annoying",
     "anon",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gang",
     "ganging",
-    "gonna",
     "kayak",
     "kayaking",
     "koan",
@@ -34,6 +34,7 @@
     "okay",
     "okaying",
     "yakking",
+    "yang",
     "yank",
     "yanking",
     "yoga"
@@ -41,8 +42,8 @@
   "date": "2037-08-25",
   "hints": {
     "by_length": {
-      "4": 11,
-      "5": 8,
+      "4": 13,
+      "5": 7,
       "6": 1,
       "7": 7,
       "8": 2
@@ -53,7 +54,7 @@
       "K": 3,
       "N": 4,
       "O": 2,
-      "Y": 4
+      "Y": 5
     },
     "grid": {
       "A": {
@@ -63,8 +64,7 @@
         "8": 1
       },
       "G": {
-        "4": 2,
-        "5": 1,
+        "4": 3,
         "7": 3
       },
       "K": {
@@ -82,7 +82,7 @@
         "7": 1
       },
       "Y": {
-        "4": 2,
+        "4": 3,
         "7": 2
       }
     },
@@ -90,13 +90,12 @@
       "AG": 4,
       "AK": 1,
       "AN": 5,
-      "GA": 5,
-      "GO": 1,
+      "GA": 6,
       "KA": 2,
       "KO": 1,
       "NA": 4,
       "OK": 2,
-      "YA": 3,
+      "YA": 4,
       "YO": 1
     }
   }

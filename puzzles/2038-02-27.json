@@ -1,9 +1,9 @@
 {
   "pangram": "leaping",
   "center_letter": "p",
-  "num_answers": 78,
+  "num_answers": 81,
   "num_pangrams": 5,
-  "possible_points": 415,
+  "possible_points": 431,
   "answer_pangrams": [
     "appealing",
     "lagniappe",
@@ -47,6 +47,7 @@
     "panel",
     "paneling",
     "pang",
+    "panini",
     "panning",
     "papa",
     "papal",
@@ -54,14 +55,13 @@
     "papillae",
     "peal",
     "pealing",
-    "peeing",
     "peel",
     "peeling",
     "peen",
     "peep",
     "peeping",
     "penal",
-    "penile",
+    "penne",
     "penning",
     "pepping",
     "pieing",
@@ -74,10 +74,13 @@
     "pillaging",
     "pilling",
     "pine",
+    "pineal",
     "pineapple",
     "ping",
     "pinging",
     "pining",
+    "pinna",
+    "pinnae",
     "pinning",
     "pipe",
     "pipeline",
@@ -95,8 +98,8 @@
   "hints": {
     "by_length": {
       "4": 24,
-      "5": 11,
-      "6": 14,
+      "5": 13,
+      "6": 15,
       "7": 20,
       "8": 4,
       "9": 5
@@ -107,7 +110,7 @@
       "G": 2,
       "L": 5,
       "N": 4,
-      "P": 58
+      "P": 61
     },
     "grid": {
       "A": {
@@ -134,8 +137,8 @@
       },
       "P": {
         "4": 19,
-        "5": 7,
-        "6": 10,
+        "5": 9,
+        "6": 11,
         "7": 16,
         "8": 4,
         "9": 2
@@ -152,9 +155,9 @@
       "NA": 2,
       "NE": 1,
       "NI": 1,
-      "PA": 20,
-      "PE": 12,
-      "PI": 20,
+      "PA": 21,
+      "PE": 11,
+      "PI": 23,
       "PL": 6
     }
   }

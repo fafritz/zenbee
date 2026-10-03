@@ -1,9 +1,9 @@
 {
   "pangram": "munched",
   "center_letter": "m",
-  "num_answers": 20,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 94,
+  "possible_points": 95,
   "answer_pangrams": [
     "munched"
   ],
@@ -17,6 +17,7 @@
     "emceed",
     "emend",
     "emended",
+    "heme",
     "hemmed",
     "henchmen",
     "hummed",
@@ -32,7 +33,7 @@
   "date": "2033-09-17",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 8,
       "5": 3,
       "6": 6,
       "7": 3,
@@ -42,7 +43,7 @@
       "C": 3,
       "D": 2,
       "E": 4,
-      "H": 3,
+      "H": 4,
       "M": 8
     },
     "grid": {
@@ -60,6 +61,7 @@
         "7": 1
       },
       "H": {
+        "4": 1,
         "6": 2,
         "8": 1
       },
@@ -74,7 +76,7 @@
       "CH": 3,
       "DE": 2,
       "EM": 4,
-      "HE": 2,
+      "HE": 3,
       "HU": 1,
       "ME": 4,
       "MU": 4

@@ -1,9 +1,9 @@
 {
   "pangram": "cognate",
   "center_letter": "a",
-  "num_answers": 66,
+  "num_answers": 69,
   "num_pangrams": 1,
-  "possible_points": 311,
+  "possible_points": 326,
   "answer_pangrams": [
     "cognate"
   ],
@@ -15,6 +15,7 @@
     "agate",
     "agent",
     "agog",
+    "annatto",
     "annotate",
     "anon",
     "ante",
@@ -48,18 +49,20 @@
     "eaten",
     "enact",
     "engage",
+    "gaga",
     "gang",
     "gannet",
     "gate",
     "gnat",
     "goat",
     "goatee",
-    "gonna",
     "naan",
     "nana",
     "neat",
+    "neaten",
     "negate",
     "neonate",
+    "notate",
     "oaten",
     "ocean",
     "octagon",
@@ -78,19 +81,19 @@
   "date": "2031-07-21",
   "hints": {
     "by_length": {
-      "4": 20,
-      "5": 16,
-      "6": 13,
-      "7": 13,
+      "4": 21,
+      "5": 15,
+      "6": 15,
+      "7": 14,
       "8": 3,
       "11": 1
     },
     "by_first_letter": {
-      "A": 13,
+      "A": 14,
       "C": 24,
       "E": 3,
       "G": 7,
-      "N": 5,
+      "N": 7,
       "O": 4,
       "T": 10
     },
@@ -99,7 +102,7 @@
         "4": 4,
         "5": 3,
         "6": 1,
-        "7": 3,
+        "7": 4,
         "8": 2
       },
       "C": {
@@ -115,13 +118,12 @@
         "6": 1
       },
       "G": {
-        "4": 4,
-        "5": 1,
+        "4": 5,
         "6": 2
       },
       "N": {
         "4": 3,
-        "6": 1,
+        "6": 3,
         "7": 1
       },
       "O": {
@@ -139,18 +141,19 @@
     "two_letter_list": {
       "AC": 4,
       "AG": 3,
-      "AN": 5,
+      "AN": 6,
       "AT": 1,
       "CA": 14,
       "CE": 1,
       "CO": 9,
       "EA": 1,
       "EN": 2,
-      "GA": 3,
+      "GA": 4,
       "GN": 1,
-      "GO": 3,
+      "GO": 2,
       "NA": 2,
-      "NE": 3,
+      "NE": 4,
+      "NO": 1,
       "OA": 1,
       "OC": 3,
       "TA": 6,

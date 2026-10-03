@@ -1,9 +1,9 @@
 {
   "pangram": "languid",
   "center_letter": "i",
-  "num_answers": 74,
+  "num_answers": 79,
   "num_pangrams": 3,
-  "possible_points": 471,
+  "possible_points": 501,
   "answer_pangrams": [
     "alluding",
     "languid",
@@ -64,17 +64,22 @@
     "inlaid",
     "inland",
     "inning",
+    "inulin",
     "lading",
     "ladling",
     "lagging",
     "laid",
     "lain",
+    "lanai",
     "landing",
     "languid",
     "lauding",
+    "lidding",
+    "lignin",
     "lingual",
     "lining",
     "lugging",
+    "luging",
     "lulling",
     "lunging",
     "nagging",
@@ -89,9 +94,9 @@
   "hints": {
     "by_length": {
       "4": 9,
-      "5": 6,
-      "6": 14,
-      "7": 35,
+      "5": 7,
+      "6": 17,
+      "7": 36,
       "8": 8,
       "9": 2
     },
@@ -99,8 +104,8 @@
       "A": 12,
       "D": 15,
       "G": 21,
-      "I": 6,
-      "L": 13,
+      "I": 7,
+      "L": 17,
       "N": 6,
       "U": 1
     },
@@ -126,13 +131,14 @@
         "8": 2
       },
       "I": {
-        "6": 5,
+        "6": 6,
         "9": 1
       },
       "L": {
         "4": 2,
-        "6": 2,
-        "7": 9
+        "5": 1,
+        "6": 4,
+        "7": 10
       },
       "N": {
         "4": 1,
@@ -159,10 +165,10 @@
       "GU": 4,
       "ID": 1,
       "IG": 1,
-      "IN": 4,
-      "LA": 8,
-      "LI": 2,
-      "LU": 3,
+      "IN": 5,
+      "LA": 9,
+      "LI": 4,
+      "LU": 4,
       "NA": 4,
       "NI": 1,
       "NU": 1,

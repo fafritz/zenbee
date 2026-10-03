@@ -1,9 +1,9 @@
 {
   "pangram": "carving",
   "center_letter": "n",
-  "num_answers": 65,
+  "num_answers": 67,
   "num_pangrams": 2,
-  "possible_points": 386,
+  "possible_points": 403,
   "answer_pangrams": [
     "carving",
     "craving"
@@ -49,6 +49,8 @@
     "grin",
     "grinning",
     "icing",
+    "ingrain",
+    "ingraining",
     "inning",
     "naan",
     "nagging",
@@ -81,16 +83,16 @@
       "4": 10,
       "5": 8,
       "6": 18,
-      "7": 21,
+      "7": 22,
       "8": 6,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 12,
       "C": 13,
       "G": 14,
-      "I": 2,
+      "I": 4,
       "N": 6,
       "R": 14,
       "V": 4
@@ -119,7 +121,9 @@
       },
       "I": {
         "5": 1,
-        "6": 1
+        "6": 1,
+        "7": 1,
+        "10": 1
       },
       "N": {
         "4": 3,
@@ -151,7 +155,7 @@
       "GI": 3,
       "GR": 5,
       "IC": 1,
-      "IN": 1,
+      "IN": 3,
       "NA": 4,
       "NI": 2,
       "RA": 10,

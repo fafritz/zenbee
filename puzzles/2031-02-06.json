@@ -1,9 +1,9 @@
 {
   "pangram": "emoting",
   "center_letter": "g",
-  "num_answers": 56,
+  "num_answers": 58,
   "num_pangrams": 2,
-  "possible_points": 356,
+  "possible_points": 364,
   "answer_pangrams": [
     "emoting",
     "mentioning"
@@ -61,6 +61,8 @@
     "tinning",
     "tinting",
     "toeing",
+    "tong",
+    "tonging",
     "toning",
     "tooting",
     "toting",
@@ -69,10 +71,10 @@
   "date": "2031-02-06",
   "hints": {
     "by_length": {
-      "4": 5,
+      "4": 6,
       "5": 7,
       "6": 18,
-      "7": 17,
+      "7": 18,
       "8": 7,
       "9": 1,
       "10": 1
@@ -84,7 +86,7 @@
       "M": 10,
       "N": 3,
       "O": 2,
-      "T": 14
+      "T": 16
     },
     "grid": {
       "E": {
@@ -118,9 +120,10 @@
         "8": 1
       },
       "T": {
+        "4": 1,
         "5": 1,
         "6": 5,
-        "7": 6,
+        "7": 7,
         "8": 2
       }
     },
@@ -143,7 +146,7 @@
       "ON": 1,
       "TE": 4,
       "TI": 5,
-      "TO": 5
+      "TO": 7
     }
   }
 }

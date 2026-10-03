@@ -1,9 +1,9 @@
 {
   "pangram": "latched",
   "center_letter": "c",
-  "num_answers": 69,
+  "num_answers": 71,
   "num_pangrams": 1,
-  "possible_points": 364,
+  "possible_points": 377,
   "answer_pangrams": [
     "latched"
   ],
@@ -34,6 +34,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "chad",
     "chalet",
     "chat",
@@ -45,6 +46,7 @@
     "clad",
     "cleat",
     "dacha",
+    "decadal",
     "decade",
     "decal",
     "detach",
@@ -83,15 +85,15 @@
     "by_length": {
       "4": 14,
       "5": 19,
-      "6": 13,
-      "7": 15,
+      "6": 14,
+      "7": 16,
       "8": 7,
       "9": 1
     },
     "by_first_letter": {
       "A": 10,
-      "C": 26,
-      "D": 7,
+      "C": 27,
+      "D": 8,
       "E": 6,
       "H": 4,
       "L": 10,
@@ -108,7 +110,7 @@
       "C": {
         "4": 6,
         "5": 7,
-        "6": 6,
+        "6": 7,
         "7": 5,
         "8": 1,
         "9": 1
@@ -116,6 +118,7 @@
       "D": {
         "5": 2,
         "6": 3,
+        "7": 1,
         "8": 2
       },
       "E": {
@@ -146,11 +149,11 @@
       "AC": 7,
       "AT": 3,
       "CA": 13,
-      "CE": 3,
+      "CE": 4,
       "CH": 8,
       "CL": 2,
       "DA": 1,
-      "DE": 6,
+      "DE": 7,
       "EA": 1,
       "EC": 1,
       "EL": 2,

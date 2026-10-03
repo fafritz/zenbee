@@ -1,9 +1,9 @@
 {
   "pangram": "hexagon",
   "center_letter": "n",
-  "num_answers": 24,
+  "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 67,
+  "possible_points": 62,
   "answer_pangrams": [
     "hexagon"
   ],
@@ -17,7 +17,6 @@
     "gene",
     "gone",
     "gong",
-    "gonna",
     "goon",
     "hang",
     "henna",
@@ -37,14 +36,14 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 5,
+      "5": 4,
       "6": 2,
       "7": 1
     },
     "by_first_letter": {
       "A": 3,
       "E": 2,
-      "G": 6,
+      "G": 5,
       "H": 5,
       "N": 6,
       "O": 1,
@@ -59,8 +58,7 @@
         "6": 2
       },
       "G": {
-        "4": 5,
-        "5": 1
+        "4": 5
       },
       "H": {
         "4": 2,
@@ -84,7 +82,7 @@
       "EN": 1,
       "GA": 1,
       "GE": 1,
-      "GO": 4,
+      "GO": 3,
       "HA": 1,
       "HE": 2,
       "HO": 2,

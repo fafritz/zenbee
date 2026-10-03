@@ -1,9 +1,9 @@
 {
   "pangram": "tabling",
   "center_letter": "b",
-  "num_answers": 42,
+  "num_answers": 44,
   "num_pangrams": 2,
-  "possible_points": 244,
+  "possible_points": 257,
   "answer_pangrams": [
     "battling",
     "tabling"
@@ -32,6 +32,7 @@
     "battling",
     "bill",
     "billing",
+    "binging",
     "binning",
     "biting",
     "blab",
@@ -50,24 +51,25 @@
     "nibbling",
     "tabbing",
     "tabling",
-    "tibia"
+    "tibia",
+    "tibial"
   ],
   "date": "2032-05-26",
   "hints": {
     "by_length": {
       "4": 9,
       "5": 5,
-      "6": 6,
-      "7": 16,
+      "6": 7,
+      "7": 17,
       "8": 6
     },
     "by_first_letter": {
       "A": 3,
-      "B": 27,
+      "B": 28,
       "G": 5,
       "L": 2,
       "N": 2,
-      "T": 3
+      "T": 4
     },
     "grid": {
       "A": {
@@ -79,7 +81,7 @@
         "4": 8,
         "5": 2,
         "6": 4,
-        "7": 10,
+        "7": 11,
         "8": 3
       },
       "G": {
@@ -98,6 +100,7 @@
       },
       "T": {
         "5": 1,
+        "6": 1,
         "7": 2
       }
     },
@@ -105,7 +108,7 @@
       "AB": 1,
       "AL": 2,
       "BA": 18,
-      "BI": 4,
+      "BI": 5,
       "BL": 5,
       "GA": 2,
       "GI": 2,
@@ -114,7 +117,7 @@
       "NA": 1,
       "NI": 1,
       "TA": 2,
-      "TI": 1
+      "TI": 2
     }
   }
 }

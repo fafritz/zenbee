@@ -1,9 +1,9 @@
 {
   "pangram": "ambient",
   "center_letter": "a",
-  "num_answers": 73,
+  "num_answers": 74,
   "num_pangrams": 1,
-  "possible_points": 317,
+  "possible_points": 323,
   "answer_pangrams": [
     "ambient"
   ],
@@ -72,6 +72,7 @@
     "name",
     "nana",
     "neat",
+    "neaten",
     "taint",
     "tame",
     "tannin",
@@ -87,7 +88,7 @@
     "by_length": {
       "4": 29,
       "5": 14,
-      "6": 13,
+      "6": 14,
       "7": 7,
       "8": 7,
       "9": 2,
@@ -99,7 +100,7 @@
       "E": 3,
       "I": 10,
       "M": 19,
-      "N": 4,
+      "N": 5,
       "T": 9
     },
     "grid": {
@@ -136,7 +137,8 @@
         "8": 2
       },
       "N": {
-        "4": 4
+        "4": 4,
+        "6": 1
       },
       "T": {
         "4": 2,
@@ -162,7 +164,7 @@
       "ME": 5,
       "MI": 1,
       "NA": 3,
-      "NE": 1,
+      "NE": 2,
       "TA": 3,
       "TE": 3,
       "TI": 3

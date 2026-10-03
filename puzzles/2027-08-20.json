@@ -1,9 +1,9 @@
 {
   "pangram": "charily",
   "center_letter": "r",
-  "num_answers": 37,
+  "num_answers": 36,
   "num_pangrams": 2,
-  "possible_points": 176,
+  "possible_points": 175,
   "answer_pangrams": [
     "archaically",
     "charily"
@@ -26,7 +26,6 @@
     "chary",
     "circa",
     "cirri",
-    "cray",
     "hair",
     "hairy",
     "harry",
@@ -50,7 +49,7 @@
   "date": "2027-08-20",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 12,
       "5": 11,
       "6": 5,
       "7": 4,
@@ -60,7 +59,7 @@
     },
     "by_first_letter": {
       "A": 9,
-      "C": 9,
+      "C": 8,
       "H": 3,
       "L": 7,
       "R": 9
@@ -74,7 +73,7 @@
         "11": 1
       },
       "C": {
-        "4": 2,
+        "4": 1,
         "5": 5,
         "7": 1,
         "8": 1
@@ -103,7 +102,6 @@
       "CA": 2,
       "CH": 4,
       "CI": 2,
-      "CR": 1,
       "HA": 3,
       "LA": 2,
       "LI": 2,

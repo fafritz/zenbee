@@ -1,9 +1,9 @@
 {
   "pangram": "pinhole",
   "center_letter": "l",
-  "num_answers": 46,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 170,
+  "possible_points": 167,
   "answer_pangrams": [
     "pinhole"
   ],
@@ -29,17 +29,16 @@
     "lollipop",
     "lone",
     "loon",
-    "loonie",
     "loop",
     "loophole",
     "lope",
     "noel",
+    "nonillion",
     "oleo",
     "olio",
     "online",
     "peel",
     "peephole",
-    "penile",
     "people",
     "pile",
     "pill",
@@ -60,18 +59,19 @@
     "by_length": {
       "4": 25,
       "5": 4,
-      "6": 7,
+      "6": 5,
       "7": 4,
-      "8": 6
+      "8": 6,
+      "9": 1
     },
     "by_first_letter": {
       "E": 1,
       "H": 9,
       "I": 1,
-      "L": 14,
-      "N": 1,
+      "L": 13,
+      "N": 2,
       "O": 3,
-      "P": 17
+      "P": 16
     },
     "grid": {
       "E": {
@@ -89,12 +89,12 @@
       "L": {
         "4": 9,
         "5": 1,
-        "6": 1,
         "7": 1,
         "8": 2
       },
       "N": {
-        "4": 1
+        "4": 1,
+        "9": 1
       },
       "O": {
         "4": 2,
@@ -103,7 +103,7 @@
       "P": {
         "4": 8,
         "5": 1,
-        "6": 4,
+        "6": 3,
         "7": 2,
         "8": 2
       }
@@ -116,11 +116,11 @@
       "IN": 1,
       "LE": 1,
       "LI": 4,
-      "LO": 9,
-      "NO": 1,
+      "LO": 8,
+      "NO": 2,
       "OL": 2,
       "ON": 1,
-      "PE": 4,
+      "PE": 3,
       "PI": 5,
       "PL": 1,
       "PO": 7

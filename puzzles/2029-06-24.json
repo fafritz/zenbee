@@ -1,9 +1,9 @@
 {
   "pangram": "rocking",
   "center_letter": "o",
-  "num_answers": 57,
+  "num_answers": 64,
   "num_pangrams": 3,
-  "possible_points": 295,
+  "possible_points": 326,
   "answer_pangrams": [
     "corking",
     "crooking",
@@ -14,6 +14,7 @@
     "cocking",
     "cocoon",
     "cocooning",
+    "cogging",
     "coin",
     "coining",
     "coking",
@@ -40,13 +41,16 @@
     "gonging",
     "goon",
     "gorging",
+    "gorgon",
     "goring",
     "grog",
     "groin",
     "grok",
     "grokking",
     "icon",
+    "iconic",
     "ignoring",
+    "ionic",
     "iron",
     "ironic",
     "ironing",
@@ -54,8 +58,10 @@
     "knocking",
     "kook",
     "noggin",
+    "noir",
     "nook",
     "noon",
+    "nori",
     "oink",
     "oinking",
     "ongoing",
@@ -65,47 +71,49 @@
     "rock",
     "rocking",
     "rococo",
+    "ronin",
     "rook",
     "rooking"
   ],
   "date": "2029-06-24",
   "hints": {
     "by_length": {
-      "4": 17,
-      "5": 10,
-      "6": 10,
-      "7": 14,
+      "4": 19,
+      "5": 12,
+      "6": 12,
+      "7": 15,
       "8": 5,
       "9": 1
     },
     "by_first_letter": {
-      "C": 24,
-      "G": 11,
-      "I": 5,
+      "C": 25,
+      "G": 12,
+      "I": 7,
       "K": 3,
-      "N": 3,
+      "N": 5,
       "O": 5,
-      "R": 6
+      "R": 7
     },
     "grid": {
       "C": {
         "4": 5,
         "5": 5,
         "6": 4,
-        "7": 7,
+        "7": 8,
         "8": 2,
         "9": 1
       },
       "G": {
         "4": 4,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 2,
         "8": 1
       },
       "I": {
         "4": 2,
-        "6": 1,
+        "5": 1,
+        "6": 2,
         "7": 1,
         "8": 1
       },
@@ -115,7 +123,7 @@
         "8": 1
       },
       "N": {
-        "4": 2,
+        "4": 4,
         "6": 1
       },
       "O": {
@@ -126,28 +134,29 @@
       },
       "R": {
         "4": 2,
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 2
       }
     },
     "two_letter_list": {
-      "CO": 19,
+      "CO": 20,
       "CR": 5,
       "GI": 1,
-      "GO": 6,
+      "GO": 7,
       "GR": 4,
-      "IC": 1,
+      "IC": 2,
       "IG": 1,
+      "IO": 1,
       "IR": 3,
       "KN": 2,
       "KO": 1,
-      "NO": 3,
+      "NO": 5,
       "OI": 2,
       "ON": 2,
       "OR": 1,
       "RI": 1,
-      "RO": 5
+      "RO": 6
     }
   }
 }

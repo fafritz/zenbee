@@ -1,9 +1,9 @@
 {
   "pangram": "windbag",
   "center_letter": "i",
-  "num_answers": 58,
+  "num_answers": 59,
   "num_pangrams": 1,
-  "possible_points": 353,
+  "possible_points": 360,
   "answer_pangrams": [
     "windbag"
   ],
@@ -27,6 +27,7 @@
     "bigwig",
     "bind",
     "binding",
+    "binging",
     "binning",
     "dabbing",
     "dawning",
@@ -73,13 +74,13 @@
       "4": 7,
       "5": 4,
       "6": 15,
-      "7": 30,
+      "7": 31,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
       "A": 8,
-      "B": 12,
+      "B": 13,
       "D": 7,
       "G": 10,
       "I": 2,
@@ -95,7 +96,7 @@
       "B": {
         "4": 1,
         "6": 3,
-        "7": 7,
+        "7": 8,
         "9": 1
       },
       "D": {
@@ -131,7 +132,7 @@
       "AN": 1,
       "AW": 2,
       "BA": 6,
-      "BI": 6,
+      "BI": 7,
       "DA": 2,
       "DI": 5,
       "GA": 6,

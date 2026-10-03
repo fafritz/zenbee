@@ -1,9 +1,9 @@
 {
   "pangram": "balding",
   "center_letter": "d",
-  "num_answers": 49,
+  "num_answers": 50,
   "num_pangrams": 2,
-  "possible_points": 284,
+  "possible_points": 291,
   "answer_pangrams": [
     "balding",
     "dabbling"
@@ -57,6 +57,7 @@
     "laid",
     "land",
     "landing",
+    "lidding",
     "naiad"
   ],
   "date": "2028-11-19",
@@ -65,7 +66,7 @@
       "4": 11,
       "5": 4,
       "6": 9,
-      "7": 16,
+      "7": 17,
       "8": 8,
       "9": 1
     },
@@ -75,7 +76,7 @@
       "D": 14,
       "G": 7,
       "I": 4,
-      "L": 5,
+      "L": 6,
       "N": 1
     },
     "grid": {
@@ -110,7 +111,7 @@
       "L": {
         "4": 2,
         "6": 1,
-        "7": 2
+        "7": 3
       },
       "N": {
         "5": 1
@@ -132,6 +133,7 @@
       "ID": 1,
       "IN": 2,
       "LA": 5,
+      "LI": 1,
       "NA": 1
     }
   }

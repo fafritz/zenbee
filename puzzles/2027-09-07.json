@@ -3,7 +3,7 @@
   "center_letter": "p",
   "num_answers": 74,
   "num_pangrams": 1,
-  "possible_points": 323,
+  "possible_points": 328,
   "answer_pangrams": [
     "policed"
   ],
@@ -29,8 +29,8 @@
     "eloped",
     "epee",
     "epic",
-    "ipod",
     "lipid",
+    "lipped",
     "lollipop",
     "loop",
     "looped",
@@ -86,9 +86,9 @@
   "date": "2027-09-07",
   "hints": {
     "by_length": {
-      "4": 26,
+      "4": 25,
       "5": 11,
-      "6": 26,
+      "6": 27,
       "7": 9,
       "8": 2
     },
@@ -96,8 +96,7 @@
       "C": 10,
       "D": 7,
       "E": 4,
-      "I": 1,
-      "L": 7,
+      "L": 8,
       "O": 1,
       "P": 44
     },
@@ -119,13 +118,10 @@
         "5": 1,
         "6": 1
       },
-      "I": {
-        "4": 1
-      },
       "L": {
         "4": 2,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "8": 1
       },
       "O": {
@@ -146,8 +142,7 @@
       "DO": 4,
       "EL": 2,
       "EP": 2,
-      "IP": 1,
-      "LI": 1,
+      "LI": 2,
       "LO": 6,
       "OP": 1,
       "PE": 10,

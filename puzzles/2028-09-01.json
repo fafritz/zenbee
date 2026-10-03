@@ -1,9 +1,9 @@
 {
   "pangram": "phantom",
   "center_letter": "m",
-  "num_answers": 24,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 90,
+  "possible_points": 95,
   "answer_pangrams": [
     "phantom"
   ],
@@ -27,6 +27,7 @@
     "moth",
     "motto",
     "ottoman",
+    "pampa",
     "phantom",
     "pomp",
     "tamp",
@@ -37,7 +38,7 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 5,
+      "5": 6,
       "6": 3,
       "7": 4
     },
@@ -46,7 +47,7 @@
       "H": 1,
       "M": 15,
       "O": 1,
-      "P": 2,
+      "P": 3,
       "T": 3
     },
     "grid": {
@@ -66,6 +67,7 @@
       },
       "P": {
         "4": 1,
+        "5": 1,
         "7": 1
       },
       "T": {
@@ -80,6 +82,7 @@
       "MA": 6,
       "MO": 9,
       "OT": 1,
+      "PA": 1,
       "PH": 1,
       "PO": 1,
       "TA": 2,

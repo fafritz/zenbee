@@ -1,9 +1,9 @@
 {
   "pangram": "drawing",
   "center_letter": "r",
-  "num_answers": 65,
+  "num_answers": 67,
   "num_pangrams": 3,
-  "possible_points": 350,
+  "possible_points": 367,
   "answer_pangrams": [
     "awarding",
     "drawing",
@@ -43,6 +43,8 @@
     "grind",
     "grinding",
     "grinning",
+    "ingrain",
+    "ingraining",
     "inward",
     "nadir",
     "radar",
@@ -82,16 +84,16 @@
       "4": 18,
       "5": 12,
       "6": 8,
-      "7": 16,
+      "7": 17,
       "8": 9,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 10,
       "D": 11,
       "G": 12,
-      "I": 1,
+      "I": 3,
       "N": 1,
       "R": 21,
       "W": 9
@@ -120,7 +122,9 @@
         "8": 3
       },
       "I": {
-        "6": 1
+        "6": 1,
+        "7": 1,
+        "10": 1
       },
       "N": {
         "5": 1
@@ -150,7 +154,7 @@
       "GA": 1,
       "GI": 2,
       "GR": 9,
-      "IN": 1,
+      "IN": 3,
       "NA": 1,
       "RA": 13,
       "RI": 8,

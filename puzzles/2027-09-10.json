@@ -1,9 +1,9 @@
 {
   "pangram": "glorify",
   "center_letter": "y",
-  "num_answers": 18,
+  "num_answers": 17,
   "num_pangrams": 1,
-  "possible_points": 77,
+  "possible_points": 72,
   "answer_pangrams": [
     "glorify"
   ],
@@ -23,7 +23,6 @@
     "gyro",
     "iffy",
     "lily",
-    "lorry",
     "oily",
     "yogi"
   ],
@@ -31,7 +30,7 @@
   "hints": {
     "by_length": {
       "4": 7,
-      "5": 6,
+      "5": 5,
       "6": 3,
       "7": 1,
       "8": 1
@@ -40,7 +39,7 @@
       "F": 5,
       "G": 8,
       "I": 1,
-      "L": 2,
+      "L": 1,
       "O": 1,
       "Y": 1
     },
@@ -61,8 +60,7 @@
         "4": 1
       },
       "L": {
-        "4": 1,
-        "5": 1
+        "4": 1
       },
       "O": {
         "4": 1
@@ -82,7 +80,6 @@
       "GY": 1,
       "IF": 1,
       "LI": 1,
-      "LO": 1,
       "OI": 1,
       "YO": 1
     }

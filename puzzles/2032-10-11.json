@@ -1,9 +1,9 @@
 {
   "pangram": "plonked",
   "center_letter": "l",
-  "num_answers": 62,
+  "num_answers": 64,
   "num_pangrams": 1,
-  "possible_points": 268,
+  "possible_points": 274,
   "answer_pangrams": [
     "plonked"
   ],
@@ -17,6 +17,7 @@
     "dolloped",
     "doodle",
     "doodled",
+    "eeled",
     "elope",
     "eloped",
     "keel",
@@ -28,6 +29,7 @@
     "knell",
     "knelled",
     "knoll",
+    "lede",
     "leek",
     "lend",
     "lode",
@@ -74,17 +76,17 @@
   "date": "2032-10-11",
   "hints": {
     "by_length": {
-      "4": 23,
-      "5": 9,
+      "4": 24,
+      "5": 10,
       "6": 19,
       "7": 9,
       "8": 2
     },
     "by_first_letter": {
       "D": 9,
-      "E": 2,
+      "E": 3,
       "K": 9,
-      "L": 14,
+      "L": 15,
       "N": 5,
       "O": 2,
       "P": 21
@@ -98,7 +100,7 @@
         "8": 1
       },
       "E": {
-        "5": 1,
+        "5": 2,
         "6": 1
       },
       "K": {
@@ -109,7 +111,7 @@
         "8": 1
       },
       "L": {
-        "4": 9,
+        "4": 10,
         "5": 1,
         "6": 4
       },
@@ -132,10 +134,11 @@
     "two_letter_list": {
       "DE": 1,
       "DO": 8,
+      "EE": 1,
       "EL": 2,
       "KE": 5,
       "KN": 4,
-      "LE": 2,
+      "LE": 3,
       "LO": 12,
       "NE": 2,
       "NO": 3,

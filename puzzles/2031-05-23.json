@@ -1,9 +1,9 @@
 {
   "pangram": "foliage",
   "center_letter": "l",
-  "num_answers": 55,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 173,
+  "possible_points": 191,
   "answer_pangrams": [
     "foliage"
   ],
@@ -13,14 +13,17 @@
     "alga",
     "algae",
     "allege",
+    "allele",
     "aloe",
     "aloof",
     "eagle",
     "fail",
+    "falafel",
     "fall",
     "falloff",
     "feel",
     "fell",
+    "fella",
     "file",
     "filial",
     "fill",
@@ -68,15 +71,15 @@
   "hints": {
     "by_length": {
       "4": 32,
-      "5": 10,
-      "6": 8,
-      "7": 4,
+      "5": 11,
+      "6": 9,
+      "7": 5,
       "8": 1
     },
     "by_first_letter": {
-      "A": 7,
+      "A": 8,
       "E": 1,
-      "F": 20,
+      "F": 22,
       "G": 13,
       "I": 2,
       "L": 8,
@@ -86,7 +89,7 @@
       "A": {
         "4": 2,
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "E": {
@@ -94,9 +97,9 @@
       },
       "F": {
         "4": 14,
-        "5": 2,
+        "5": 3,
         "6": 1,
-        "7": 2,
+        "7": 3,
         "8": 1
       },
       "G": {
@@ -118,10 +121,10 @@
     },
     "two_letter_list": {
       "AG": 1,
-      "AL": 6,
+      "AL": 7,
       "EA": 1,
-      "FA": 3,
-      "FE": 2,
+      "FA": 4,
+      "FE": 3,
       "FI": 3,
       "FL": 7,
       "FO": 5,

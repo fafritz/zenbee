@@ -1,9 +1,9 @@
 {
   "pangram": "naivety",
   "center_letter": "a",
-  "num_answers": 36,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 195,
+  "possible_points": 201,
   "answer_pangrams": [
     "naivety"
   ],
@@ -34,6 +34,7 @@
     "nave",
     "navy",
     "neat",
+    "neaten",
     "taint",
     "tannin",
     "tatty",
@@ -50,7 +51,7 @@
     "by_length": {
       "4": 9,
       "5": 9,
-      "6": 6,
+      "6": 7,
       "7": 5,
       "8": 3,
       "9": 2,
@@ -61,7 +62,7 @@
       "A": 7,
       "E": 1,
       "I": 6,
-      "N": 12,
+      "N": 13,
       "T": 6,
       "V": 4
     },
@@ -88,7 +89,7 @@
       "N": {
         "4": 5,
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 2,
         "8": 1
       },
@@ -110,7 +111,7 @@
       "EA": 1,
       "IN": 6,
       "NA": 11,
-      "NE": 1,
+      "NE": 2,
       "TA": 3,
       "TE": 2,
       "TI": 1,

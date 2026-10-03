@@ -1,9 +1,9 @@
 {
   "pangram": "bailout",
   "center_letter": "t",
-  "num_answers": 41,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 110,
+  "possible_points": 126,
   "answer_pangrams": [
     "bailout"
   ],
@@ -18,6 +18,7 @@
     "bailout",
     "bait",
     "ballot",
+    "biota",
     "blat",
     "bloat",
     "blot",
@@ -39,6 +40,7 @@
     "tattoo",
     "taut",
     "tibia",
+    "tibial",
     "till",
     "tilt",
     "toil",
@@ -48,23 +50,24 @@
     "total",
     "tout",
     "tuba",
+    "tubal",
     "tutu"
   ],
   "date": "2035-06-08",
   "hints": {
     "by_length": {
       "4": 27,
-      "5": 10,
-      "6": 2,
+      "5": 12,
+      "6": 3,
       "7": 2
     },
     "by_first_letter": {
       "A": 7,
-      "B": 12,
+      "B": 13,
       "I": 1,
       "L": 4,
       "O": 1,
-      "T": 16
+      "T": 18
     },
     "grid": {
       "A": {
@@ -73,7 +76,7 @@
       },
       "B": {
         "4": 7,
-        "5": 2,
+        "5": 3,
         "6": 1,
         "7": 2
       },
@@ -89,8 +92,8 @@
       },
       "T": {
         "4": 12,
-        "5": 3,
-        "6": 1
+        "5": 4,
+        "6": 2
       }
     },
     "two_letter_list": {
@@ -99,6 +102,7 @@
       "AT": 1,
       "AU": 1,
       "BA": 3,
+      "BI": 1,
       "BL": 3,
       "BO": 5,
       "BU": 1,
@@ -107,9 +111,9 @@
       "LO": 3,
       "OB": 1,
       "TA": 5,
-      "TI": 3,
+      "TI": 4,
       "TO": 6,
-      "TU": 2
+      "TU": 3
     }
   }
 }

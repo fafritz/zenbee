@@ -1,9 +1,9 @@
 {
   "pangram": "fouling",
   "center_letter": "o",
-  "num_answers": 47,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 214,
+  "possible_points": 223,
   "answer_pangrams": [
     "fouling"
   ],
@@ -45,6 +45,7 @@
     "loon",
     "lounging",
     "noggin",
+    "nonillion",
     "nonunion",
     "noon",
     "noun",
@@ -63,14 +64,15 @@
       "5": 7,
       "6": 5,
       "7": 12,
-      "8": 5
+      "8": 5,
+      "9": 1
     },
     "by_first_letter": {
       "F": 10,
       "G": 12,
       "I": 2,
       "L": 12,
-      "N": 4,
+      "N": 5,
       "O": 6,
       "U": 1
     },
@@ -101,7 +103,8 @@
       "N": {
         "4": 2,
         "6": 1,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "O": {
         "4": 1,
@@ -122,7 +125,7 @@
       "IN": 1,
       "LI": 2,
       "LO": 10,
-      "NO": 4,
+      "NO": 5,
       "OF": 1,
       "OG": 1,
       "OI": 1,

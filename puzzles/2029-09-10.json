@@ -1,9 +1,9 @@
 {
   "pangram": "pinhole",
   "center_letter": "h",
-  "num_answers": 20,
+  "num_answers": 19,
   "num_pangrams": 1,
-  "possible_points": 89,
+  "possible_points": 83,
   "answer_pangrams": [
     "pinhole"
   ],
@@ -22,7 +22,6 @@
     "hone",
     "hoop",
     "hope",
-    "iphone",
     "loophole",
     "peephole",
     "phone",
@@ -34,13 +33,12 @@
     "by_length": {
       "4": 9,
       "5": 3,
-      "6": 2,
+      "6": 1,
       "7": 2,
       "8": 4
     },
     "by_first_letter": {
       "H": 14,
-      "I": 1,
       "L": 1,
       "P": 4
     },
@@ -51,9 +49,6 @@
         "6": 1,
         "7": 1,
         "8": 2
-      },
-      "I": {
-        "6": 1
       },
       "L": {
         "8": 1
@@ -69,7 +64,6 @@
       "HE": 7,
       "HI": 3,
       "HO": 4,
-      "IP": 1,
       "LO": 1,
       "PE": 1,
       "PH": 1,

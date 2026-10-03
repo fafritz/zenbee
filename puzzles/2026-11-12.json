@@ -1,9 +1,9 @@
 {
   "pangram": "flaking",
   "center_letter": "g",
-  "num_answers": 56,
+  "num_answers": 60,
   "num_pangrams": 2,
-  "possible_points": 339,
+  "possible_points": 362,
   "answer_pangrams": [
     "flaking",
     "flanking"
@@ -31,15 +31,18 @@
     "flagging",
     "flailing",
     "flaking",
+    "flanging",
     "flanking",
     "fling",
     "flinging",
     "gaff",
     "gaffing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -59,6 +62,7 @@
     "kinking",
     "knifing",
     "lagging",
+    "lignin",
     "liking",
     "lining",
     "linking",
@@ -69,20 +73,20 @@
   "date": "2026-11-12",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 11,
       "5": 4,
-      "6": 9,
+      "6": 10,
       "7": 24,
-      "8": 8,
+      "8": 10,
       "9": 1
     },
     "by_first_letter": {
       "A": 8,
-      "F": 17,
-      "G": 16,
+      "F": 18,
+      "G": 18,
       "I": 3,
       "K": 5,
-      "L": 4,
+      "L": 5,
       "N": 3
     },
     "grid": {
@@ -98,13 +102,13 @@
         "5": 1,
         "6": 3,
         "7": 6,
-        "8": 4,
+        "8": 5,
         "9": 1
       },
       "G": {
-        "4": 6,
+        "4": 7,
         "7": 8,
-        "8": 2
+        "8": 3
       },
       "I": {
         "6": 2,
@@ -115,7 +119,7 @@
         "7": 4
       },
       "L": {
-        "6": 2,
+        "6": 3,
         "7": 2
       },
       "N": {
@@ -130,14 +134,14 @@
       "AN": 2,
       "FA": 5,
       "FI": 5,
-      "FL": 7,
-      "GA": 12,
+      "FL": 8,
+      "GA": 14,
       "GI": 4,
       "IN": 3,
       "KI": 4,
       "KN": 1,
       "LA": 1,
-      "LI": 3,
+      "LI": 4,
       "NA": 2,
       "NI": 1
     }

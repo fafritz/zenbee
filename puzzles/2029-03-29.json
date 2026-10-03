@@ -1,9 +1,9 @@
 {
   "pangram": "loafing",
   "center_letter": "a",
-  "num_answers": 65,
+  "num_answers": 68,
   "num_pangrams": 2,
-  "possible_points": 315,
+  "possible_points": 332,
   "answer_pangrams": [
     "foaling",
     "loafing"
@@ -19,7 +19,6 @@
     "aligning",
     "along",
     "aloof",
-    "anal",
     "analog",
     "angina",
     "angling",
@@ -41,14 +40,17 @@
     "flail",
     "flailing",
     "flan",
+    "flanging",
     "foal",
     "foaling",
     "gaff",
     "gaffing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gallon",
@@ -58,10 +60,10 @@
     "gangling",
     "ganglion",
     "goal",
-    "gonna",
     "lagging",
     "lagoon",
     "lain",
+    "lanai",
     "lanolin",
     "llano",
     "loaf",
@@ -70,6 +72,7 @@
     "loaning",
     "naan",
     "nagging",
+    "naif",
     "nail",
     "nailing",
     "nana",
@@ -78,24 +81,24 @@
   "date": "2029-03-29",
   "hints": {
     "by_length": {
-      "4": 22,
+      "4": 23,
       "5": 11,
       "6": 7,
       "7": 19,
-      "8": 5,
+      "8": 7,
       "9": 1
     },
     "by_first_letter": {
-      "A": 16,
-      "F": 18,
-      "G": 16,
-      "L": 9,
-      "N": 5,
+      "A": 15,
+      "F": 19,
+      "G": 17,
+      "L": 10,
+      "N": 6,
       "O": 1
     },
     "grid": {
       "A": {
-        "4": 4,
+        "4": 3,
         "5": 6,
         "6": 3,
         "7": 2,
@@ -106,24 +109,23 @@
         "5": 2,
         "6": 2,
         "7": 5,
-        "8": 2,
+        "8": 3,
         "9": 1
       },
       "G": {
-        "4": 6,
-        "5": 1,
+        "4": 7,
         "6": 1,
         "7": 6,
-        "8": 2
+        "8": 3
       },
       "L": {
         "4": 3,
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 4
       },
       "N": {
-        "4": 3,
+        "4": 4,
         "7": 2
       },
       "O": {
@@ -134,17 +136,17 @@
       "AG": 3,
       "AI": 1,
       "AL": 6,
-      "AN": 6,
+      "AN": 5,
       "FA": 7,
       "FI": 3,
-      "FL": 6,
+      "FL": 7,
       "FO": 2,
-      "GA": 14,
-      "GO": 2,
-      "LA": 4,
+      "GA": 16,
+      "GO": 1,
+      "LA": 5,
       "LL": 1,
       "LO": 4,
-      "NA": 5,
+      "NA": 6,
       "OF": 1
     }
   }

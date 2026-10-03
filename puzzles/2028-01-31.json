@@ -1,13 +1,14 @@
 {
   "pangram": "outrank",
   "center_letter": "a",
-  "num_answers": 34,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 124,
+  "possible_points": 131,
   "answer_pangrams": [
     "outrank"
   ],
   "answers": [
+    "annatto",
     "anon",
     "aorta",
     "arrant",
@@ -27,11 +28,12 @@
     "outrank",
     "rank",
     "rant",
-    "ratatat",
     "rattan",
     "roan",
     "roar",
     "tank",
+    "tantra",
+    "tarn",
     "taro",
     "tarot",
     "tart",
@@ -46,25 +48,26 @@
   "date": "2028-01-31",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 6,
-      "6": 8,
+      "6": 9,
       "7": 2,
       "8": 1
     },
     "by_first_letter": {
-      "A": 7,
+      "A": 8,
       "K": 3,
       "N": 3,
       "O": 4,
-      "R": 6,
-      "T": 11
+      "R": 5,
+      "T": 13
     },
     "grid": {
       "A": {
         "4": 4,
         "5": 2,
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "K": {
         "4": 1,
@@ -81,17 +84,16 @@
       },
       "R": {
         "4": 4,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
-        "4": 5,
+        "4": 6,
         "5": 2,
-        "6": 4
+        "6": 5
       }
     },
     "two_letter_list": {
-      "AN": 1,
+      "AN": 2,
       "AO": 1,
       "AR": 1,
       "AT": 1,
@@ -103,9 +105,9 @@
       "OK": 1,
       "OR": 1,
       "OU": 2,
-      "RA": 4,
+      "RA": 3,
       "RO": 2,
-      "TA": 9,
+      "TA": 11,
       "TR": 1,
       "TU": 1
     }

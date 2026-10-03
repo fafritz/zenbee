@@ -1,9 +1,9 @@
 {
   "pangram": "formula",
   "center_letter": "u",
-  "num_answers": 29,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 108,
+  "possible_points": 109,
   "answer_pangrams": [
     "formula"
   ],
@@ -24,6 +24,7 @@
     "furl",
     "furor",
     "luau",
+    "luff",
     "lull",
     "lulu",
     "maul",
@@ -41,7 +42,7 @@
   "date": "2027-10-08",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 14,
       "5": 10,
       "6": 4,
       "7": 2
@@ -49,7 +50,7 @@
     "by_first_letter": {
       "A": 6,
       "F": 9,
-      "L": 3,
+      "L": 4,
       "M": 6,
       "O": 1,
       "R": 4
@@ -66,7 +67,7 @@
         "7": 1
       },
       "L": {
-        "4": 3
+        "4": 4
       },
       "M": {
         "4": 3,
@@ -91,7 +92,7 @@
       "FL": 2,
       "FO": 4,
       "FU": 3,
-      "LU": 3,
+      "LU": 4,
       "MA": 1,
       "MU": 5,
       "OR": 1,

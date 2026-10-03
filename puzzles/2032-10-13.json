@@ -3,7 +3,7 @@
   "center_letter": "i",
   "num_answers": 53,
   "num_pangrams": 1,
-  "possible_points": 234,
+  "possible_points": 237,
   "answer_pangrams": [
     "hotline"
   ],
@@ -37,13 +37,13 @@
     "lithe",
     "little",
     "loin",
-    "loonie",
     "lotion",
     "nine",
     "nineteen",
     "nineteenth",
     "ninetieth",
     "ninth",
+    "nonillion",
     "notion",
     "olio",
     "onion",
@@ -67,18 +67,18 @@
     "by_length": {
       "4": 20,
       "5": 10,
-      "6": 13,
+      "6": 12,
       "7": 5,
       "8": 2,
-      "9": 2,
+      "9": 3,
       "10": 1
     },
     "by_first_letter": {
       "E": 2,
       "H": 5,
       "I": 7,
-      "L": 17,
-      "N": 6,
+      "L": 16,
+      "N": 7,
       "O": 3,
       "T": 13
     },
@@ -100,7 +100,7 @@
       "L": {
         "4": 7,
         "5": 2,
-        "6": 6,
+        "6": 5,
         "7": 2
       },
       "N": {
@@ -108,7 +108,7 @@
         "5": 1,
         "6": 1,
         "8": 1,
-        "9": 1,
+        "9": 2,
         "10": 1
       },
       "O": {
@@ -132,9 +132,9 @@
       "IN": 7,
       "LE": 3,
       "LI": 11,
-      "LO": 3,
+      "LO": 2,
       "NI": 5,
-      "NO": 1,
+      "NO": 2,
       "OL": 1,
       "ON": 2,
       "TH": 2,

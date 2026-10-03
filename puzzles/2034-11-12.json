@@ -1,20 +1,19 @@
 {
   "pangram": "manhole",
   "center_letter": "a",
-  "num_answers": 47,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 146,
+  "possible_points": 150,
   "answer_pangrams": [
     "manhole"
   ],
   "answers": [
-    "ahem",
+    "allele",
     "aloe",
     "aloha",
     "alone",
     "amen",
     "ammo",
-    "anal",
     "anemone",
     "anneal",
     "anon",
@@ -59,14 +58,14 @@
   "date": "2034-11-12",
   "hints": {
     "by_length": {
-      "4": 27,
+      "4": 25,
       "5": 12,
-      "6": 5,
+      "6": 6,
       "7": 2,
       "8": 1
     },
     "by_first_letter": {
-      "A": 10,
+      "A": 9,
       "E": 3,
       "H": 8,
       "L": 9,
@@ -75,9 +74,9 @@
     },
     "grid": {
       "A": {
-        "4": 6,
+        "4": 4,
         "5": 2,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "E": {
@@ -106,10 +105,9 @@
       }
     },
     "two_letter_list": {
-      "AH": 1,
-      "AL": 3,
+      "AL": 4,
       "AM": 2,
-      "AN": 4,
+      "AN": 3,
       "EL": 1,
       "EN": 2,
       "HA": 6,

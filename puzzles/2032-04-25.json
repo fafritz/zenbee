@@ -3,7 +3,7 @@
   "center_letter": "r",
   "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 141,
+  "possible_points": 140,
   "answer_pangrams": [
     "frontal"
   ],
@@ -14,7 +14,6 @@
     "aorta",
     "arrant",
     "attar",
-    "fart",
     "floor",
     "flora",
     "floral",
@@ -28,7 +27,6 @@
     "orator",
     "raft",
     "rant",
-    "ratatat",
     "rattan",
     "roan",
     "roar",
@@ -36,6 +34,8 @@
     "roof",
     "root",
     "rotor",
+    "tantra",
+    "tarn",
     "taro",
     "tarot",
     "tart",
@@ -51,17 +51,17 @@
     "by_length": {
       "4": 17,
       "5": 9,
-      "6": 6,
-      "7": 4,
+      "6": 7,
+      "7": 3,
       "8": 1
     },
     "by_first_letter": {
       "A": 6,
-      "F": 9,
+      "F": 8,
       "N": 1,
       "O": 2,
-      "R": 10,
-      "T": 9
+      "R": 9,
+      "T": 11
     },
     "grid": {
       "A": {
@@ -71,7 +71,7 @@
         "7": 1
       },
       "F": {
-        "4": 3,
+        "4": 2,
         "5": 3,
         "6": 1,
         "7": 2
@@ -86,13 +86,12 @@
       "R": {
         "4": 7,
         "5": 1,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
-        "4": 5,
+        "4": 6,
         "5": 2,
-        "6": 2
+        "6": 3
       }
     },
     "two_letter_list": {
@@ -101,15 +100,14 @@
       "AO": 1,
       "AR": 1,
       "AT": 1,
-      "FA": 1,
       "FL": 3,
       "FO": 2,
       "FR": 3,
       "NA": 1,
       "OR": 2,
-      "RA": 4,
+      "RA": 3,
       "RO": 6,
-      "TA": 5,
+      "TA": 7,
       "TO": 2,
       "TR": 2
     }

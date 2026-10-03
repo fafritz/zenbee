@@ -1,9 +1,9 @@
 {
   "pangram": "frogman",
   "center_letter": "g",
-  "num_answers": 31,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 120,
+  "possible_points": 122,
   "answer_pangrams": [
     "frogman"
   ],
@@ -20,12 +20,13 @@
     "frog",
     "frogman",
     "gaff",
+    "gaga",
     "gamma",
     "gang",
     "gong",
-    "gonna",
     "goof",
     "goon",
+    "gorgon",
     "gram",
     "grammar",
     "groan",
@@ -43,9 +44,9 @@
   "date": "2038-02-14",
   "hints": {
     "by_length": {
-      "4": 14,
-      "5": 11,
-      "6": 1,
+      "4": 15,
+      "5": 10,
+      "6": 2,
       "7": 3,
       "8": 1,
       "9": 1
@@ -53,7 +54,7 @@
     "by_first_letter": {
       "A": 6,
       "F": 5,
-      "G": 12,
+      "G": 13,
       "M": 5,
       "O": 1,
       "R": 2
@@ -71,8 +72,9 @@
         "7": 1
       },
       "G": {
-        "4": 7,
-        "5": 4,
+        "4": 8,
+        "5": 3,
+        "6": 1,
         "7": 1
       },
       "M": {
@@ -95,7 +97,7 @@
       "FA": 1,
       "FO": 1,
       "FR": 3,
-      "GA": 3,
+      "GA": 4,
       "GO": 4,
       "GR": 5,
       "MA": 4,

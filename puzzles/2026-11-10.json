@@ -1,9 +1,9 @@
 {
   "pangram": "inboard",
   "center_letter": "o",
-  "num_answers": 52,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 225,
+  "possible_points": 228,
   "answer_pangrams": [
     "inboard"
   ],
@@ -24,15 +24,16 @@
     "barrio",
     "boar",
     "board",
+    "boba",
     "bobbin",
     "bonbon",
     "bond",
     "boob",
-    "booboo",
     "boon",
     "boor",
     "born",
     "boron",
+    "brio",
     "broad",
     "broadband",
     "brood",
@@ -48,7 +49,9 @@
     "inroad",
     "iron",
     "nabob",
+    "noir",
     "noon",
+    "nori",
     "odor",
     "onion",
     "ordain",
@@ -59,25 +62,26 @@
     "roan",
     "roar",
     "robin",
+    "ronin",
     "rood"
   ],
   "date": "2026-11-10",
   "hints": {
     "by_length": {
-      "4": 17,
-      "5": 16,
-      "6": 14,
+      "4": 21,
+      "5": 17,
+      "6": 13,
       "7": 4,
       "9": 1
     },
     "by_first_letter": {
       "A": 10,
-      "B": 18,
+      "B": 19,
       "D": 6,
       "I": 5,
-      "N": 2,
+      "N": 4,
       "O": 3,
-      "R": 8
+      "R": 9
     },
     "grid": {
       "A": {
@@ -87,9 +91,9 @@
         "7": 3
       },
       "B": {
-        "4": 6,
+        "4": 8,
         "5": 5,
-        "6": 6,
+        "6": 5,
         "9": 1
       },
       "D": {
@@ -103,7 +107,7 @@
         "7": 1
       },
       "N": {
-        "4": 1,
+        "4": 3,
         "5": 1
       },
       "O": {
@@ -113,7 +117,7 @@
       },
       "R": {
         "4": 4,
-        "5": 3,
+        "5": 4,
         "6": 1
       }
     },
@@ -124,20 +128,20 @@
       "AR": 2,
       "BA": 4,
       "BO": 11,
-      "BR": 3,
+      "BR": 4,
       "DA": 1,
       "DO": 4,
       "DR": 1,
       "IN": 4,
       "IR": 1,
       "NA": 1,
-      "NO": 1,
+      "NO": 3,
       "OD": 1,
       "ON": 1,
       "OR": 1,
       "RA": 2,
       "RI": 1,
-      "RO": 5
+      "RO": 6
     }
   }
 }

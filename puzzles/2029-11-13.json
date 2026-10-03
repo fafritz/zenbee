@@ -1,9 +1,9 @@
 {
   "pangram": "obliged",
   "center_letter": "b",
-  "num_answers": 72,
+  "num_answers": 70,
   "num_pangrams": 1,
-  "possible_points": 354,
+  "possible_points": 342,
   "answer_pangrams": [
     "obliged"
   ],
@@ -41,14 +41,13 @@
     "boggle",
     "boggled",
     "bogie",
+    "bogied",
     "boil",
     "boiled",
     "bold",
     "bole",
     "boll",
     "boob",
-    "boobed",
-    "booboo",
     "boodle",
     "booed",
     "boogie",
@@ -64,7 +63,6 @@
     "glob",
     "globe",
     "globed",
-    "gobbed",
     "gobble",
     "gobbled",
     "ibid",
@@ -86,16 +84,16 @@
     "by_length": {
       "4": 18,
       "5": 15,
-      "6": 23,
+      "6": 21,
       "7": 13,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
-      "B": 45,
+      "B": 44,
       "D": 2,
       "E": 3,
-      "G": 9,
+      "G": 8,
       "I": 2,
       "L": 8,
       "O": 3
@@ -104,7 +102,7 @@
       "B": {
         "4": 12,
         "5": 10,
-        "6": 15,
+        "6": 14,
         "7": 7,
         "8": 1
       },
@@ -120,7 +118,7 @@
       "G": {
         "4": 3,
         "5": 2,
-        "6": 3,
+        "6": 2,
         "7": 1
       },
       "I": {
@@ -143,14 +141,14 @@
       "BE": 9,
       "BI": 6,
       "BL": 9,
-      "BO": 21,
+      "BO": 20,
       "DI": 2,
       "EB": 1,
       "ED": 1,
       "EL": 1,
       "GI": 2,
       "GL": 4,
-      "GO": 3,
+      "GO": 2,
       "IB": 1,
       "IL": 1,
       "LE": 1,

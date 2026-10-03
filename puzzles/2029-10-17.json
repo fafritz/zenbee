@@ -1,9 +1,9 @@
 {
   "pangram": "notably",
   "center_letter": "y",
-  "num_answers": 29,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 142,
+  "possible_points": 147,
   "answer_pangrams": [
     "notably"
   ],
@@ -23,6 +23,7 @@
     "booty",
     "botany",
     "lobby",
+    "loony",
     "loyal",
     "loyally",
     "loyalty",
@@ -42,7 +43,7 @@
   "hints": {
     "by_length": {
       "4": 6,
-      "5": 16,
+      "5": 17,
       "6": 2,
       "7": 4,
       "9": 1
@@ -50,7 +51,7 @@
     "by_first_letter": {
       "A": 5,
       "B": 9,
-      "L": 4,
+      "L": 5,
       "N": 5,
       "O": 1,
       "T": 5
@@ -67,7 +68,7 @@
         "9": 1
       },
       "L": {
-        "5": 2,
+        "5": 3,
         "7": 2
       },
       "N": {
@@ -90,7 +91,7 @@
       "BA": 3,
       "BL": 1,
       "BO": 5,
-      "LO": 4,
+      "LO": 5,
       "NA": 2,
       "NO": 2,
       "NY": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "piquant",
   "center_letter": "p",
-  "num_answers": 18,
+  "num_answers": 20,
   "num_pangrams": 1,
-  "possible_points": 65,
+  "possible_points": 76,
   "answer_pangrams": [
     "piquant"
   ],
@@ -12,9 +12,11 @@
     "input",
     "pain",
     "paint",
+    "panini",
     "pant",
     "papa",
     "patina",
+    "pinna",
     "pint",
     "pinup",
     "pipit",
@@ -31,13 +33,13 @@
   "hints": {
     "by_length": {
       "4": 9,
-      "5": 6,
-      "6": 2,
+      "5": 7,
+      "6": 3,
       "7": 1
     },
     "by_first_letter": {
       "I": 2,
-      "P": 14,
+      "P": 16,
       "Q": 1,
       "U": 1
     },
@@ -47,8 +49,8 @@
       },
       "P": {
         "4": 8,
-        "5": 3,
-        "6": 2,
+        "5": 4,
+        "6": 3,
         "7": 1
       },
       "Q": {
@@ -60,8 +62,8 @@
     },
     "two_letter_list": {
       "IN": 2,
-      "PA": 5,
-      "PI": 6,
+      "PA": 6,
+      "PI": 7,
       "PU": 3,
       "QU": 1,
       "UN": 1

@@ -1,9 +1,9 @@
 {
   "pangram": "alimony",
   "center_letter": "o",
-  "num_answers": 40,
+  "num_answers": 42,
   "num_pangrams": 2,
-  "possible_points": 161,
+  "possible_points": 175,
   "answer_pangrams": [
     "alimony",
     "nominally"
@@ -29,6 +29,7 @@
     "loll",
     "loom",
     "loon",
+    "loony",
     "loyal",
     "loyally",
     "mayo",
@@ -43,6 +44,7 @@
     "moon",
     "nominal",
     "nominally",
+    "nonillion",
     "noon",
     "nylon",
     "oily",
@@ -54,16 +56,16 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 11,
+      "5": 12,
       "6": 1,
       "7": 7,
-      "9": 2
+      "9": 3
     },
     "by_first_letter": {
       "A": 9,
-      "L": 13,
+      "L": 14,
       "M": 10,
-      "N": 4,
+      "N": 5,
       "O": 4
     },
     "grid": {
@@ -74,7 +76,7 @@
       },
       "L": {
         "4": 8,
-        "5": 3,
+        "5": 4,
         "7": 2
       },
       "M": {
@@ -88,7 +90,7 @@
         "4": 1,
         "5": 1,
         "7": 1,
-        "9": 1
+        "9": 2
       },
       "O": {
         "4": 3,
@@ -102,11 +104,11 @@
       "LA": 1,
       "LI": 2,
       "LL": 1,
-      "LO": 9,
+      "LO": 10,
       "MA": 1,
       "MI": 2,
       "MO": 7,
-      "NO": 3,
+      "NO": 4,
       "NY": 1,
       "OI": 1,
       "OL": 1,

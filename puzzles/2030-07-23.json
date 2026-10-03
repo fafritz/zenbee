@@ -1,9 +1,9 @@
 {
   "pangram": "tacking",
   "center_letter": "i",
-  "num_answers": 73,
+  "num_answers": 75,
   "num_pangrams": 2,
-  "possible_points": 432,
+  "possible_points": 440,
   "answer_pangrams": [
     "attacking",
     "tacking"
@@ -13,6 +13,7 @@
     "acai",
     "acing",
     "acting",
+    "actinic",
     "again",
     "aging",
     "agitating",
@@ -77,6 +78,7 @@
     "tatting",
     "tick",
     "ticking",
+    "tiki",
     "tinning",
     "tint",
     "tinting",
@@ -86,28 +88,29 @@
   "date": "2030-07-23",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 13,
       "5": 11,
       "6": 18,
-      "7": 21,
+      "7": 22,
       "8": 5,
       "9": 4,
       "10": 2
     },
     "by_first_letter": {
-      "A": 15,
+      "A": 16,
       "C": 9,
       "G": 10,
       "I": 7,
       "K": 9,
       "N": 4,
-      "T": 19
+      "T": 20
     },
     "grid": {
       "A": {
         "4": 3,
         "5": 5,
         "6": 4,
+        "7": 1,
         "9": 3
       },
       "C": {
@@ -141,7 +144,7 @@
         "7": 2
       },
       "T": {
-        "4": 2,
+        "4": 3,
         "5": 3,
         "6": 3,
         "7": 9,
@@ -150,7 +153,7 @@
       }
     },
     "two_letter_list": {
-      "AC": 4,
+      "AC": 5,
       "AG": 3,
       "AK": 1,
       "AN": 3,
@@ -167,7 +170,7 @@
       "NA": 1,
       "NI": 3,
       "TA": 12,
-      "TI": 7
+      "TI": 8
     }
   }
 }

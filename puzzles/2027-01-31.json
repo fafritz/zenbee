@@ -1,9 +1,9 @@
 {
   "pangram": "coaxing",
   "center_letter": "c",
-  "num_answers": 30,
+  "num_answers": 33,
   "num_pangrams": 1,
-  "possible_points": 165,
+  "possible_points": 183,
   "answer_pangrams": [
     "coaxing"
   ],
@@ -27,6 +27,7 @@
     "cocoa",
     "cocoon",
     "cocooning",
+    "cogging",
     "cognac",
     "coin",
     "coining",
@@ -37,22 +38,24 @@
     "cooing",
     "icing",
     "icon",
+    "iconic",
+    "ionic",
     "niacin"
   ],
   "date": "2027-01-31",
   "hints": {
     "by_length": {
       "4": 5,
-      "5": 9,
-      "6": 9,
-      "7": 4,
+      "5": 10,
+      "6": 10,
+      "7": 5,
       "8": 1,
       "9": 2
     },
     "by_first_letter": {
       "A": 3,
-      "C": 24,
-      "I": 2,
+      "C": 25,
+      "I": 4,
       "N": 1
     },
     "grid": {
@@ -65,13 +68,14 @@
         "4": 3,
         "5": 7,
         "6": 7,
-        "7": 4,
+        "7": 5,
         "8": 1,
         "9": 2
       },
       "I": {
         "4": 1,
-        "5": 1
+        "5": 2,
+        "6": 1
       },
       "N": {
         "6": 1
@@ -80,8 +84,9 @@
     "two_letter_list": {
       "AC": 3,
       "CA": 9,
-      "CO": 15,
-      "IC": 2,
+      "CO": 16,
+      "IC": 3,
+      "IO": 1,
       "NI": 1
     }
   }

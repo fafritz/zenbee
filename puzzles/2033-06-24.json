@@ -1,15 +1,15 @@
 {
   "pangram": "matched",
   "center_letter": "m",
-  "num_answers": 50,
+  "num_answers": 51,
   "num_pangrams": 1,
-  "possible_points": 197,
+  "possible_points": 204,
   "answer_pangrams": [
     "matched"
   ],
   "answers": [
+    "academe",
     "acme",
-    "ahem",
     "came",
     "chem",
     "dame",
@@ -22,6 +22,7 @@
     "emceed",
     "hammam",
     "hammed",
+    "heme",
     "hemmed",
     "macadam",
     "mace",
@@ -65,7 +66,7 @@
       "4": 21,
       "5": 12,
       "6": 11,
-      "7": 5,
+      "7": 6,
       "8": 1
     },
     "by_first_letter": {
@@ -73,13 +74,14 @@
       "C": 2,
       "D": 4,
       "E": 4,
-      "H": 3,
+      "H": 4,
       "M": 26,
       "T": 9
     },
     "grid": {
       "A": {
-        "4": 2
+        "4": 1,
+        "7": 1
       },
       "C": {
         "4": 2
@@ -94,6 +96,7 @@
         "7": 1
       },
       "H": {
+        "4": 1,
         "6": 3
       },
       "M": {
@@ -110,8 +113,7 @@
       }
     },
     "two_letter_list": {
-      "AC": 1,
-      "AH": 1,
+      "AC": 2,
       "CA": 1,
       "CH": 1,
       "DA": 2,
@@ -119,7 +121,7 @@
       "ED": 2,
       "EM": 2,
       "HA": 2,
-      "HE": 1,
+      "HE": 2,
       "MA": 18,
       "ME": 8,
       "TA": 2,

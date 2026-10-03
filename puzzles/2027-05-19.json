@@ -1,9 +1,9 @@
 {
   "pangram": "beltway",
   "center_letter": "l",
-  "num_answers": 59,
+  "num_answers": 60,
   "num_pangrams": 1,
-  "possible_points": 247,
+  "possible_points": 253,
   "answer_pangrams": [
     "beltway"
   ],
@@ -11,6 +11,7 @@
     "able",
     "ably",
     "allay",
+    "allele",
     "alley",
     "alleyway",
     "ally",
@@ -73,13 +74,13 @@
     "by_length": {
       "4": 23,
       "5": 14,
-      "6": 12,
+      "6": 13,
       "7": 7,
       "8": 2,
       "10": 1
     },
     "by_first_letter": {
-      "A": 6,
+      "A": 7,
       "B": 19,
       "E": 4,
       "L": 7,
@@ -91,6 +92,7 @@
       "A": {
         "4": 3,
         "5": 2,
+        "6": 1,
         "8": 1
       },
       "B": {
@@ -129,7 +131,7 @@
     },
     "two_letter_list": {
       "AB": 2,
-      "AL": 4,
+      "AL": 5,
       "BA": 7,
       "BE": 7,
       "BL": 4,

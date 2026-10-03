@@ -1,9 +1,9 @@
 {
   "pangram": "charily",
   "center_letter": "y",
-  "num_answers": 33,
+  "num_answers": 32,
   "num_pangrams": 2,
-  "possible_points": 183,
+  "possible_points": 182,
   "answer_pangrams": [
     "archaically",
     "charily"
@@ -24,7 +24,6 @@
     "chary",
     "chilly",
     "clay",
-    "cray",
     "cyclic",
     "cyclical",
     "cyclically",
@@ -46,7 +45,7 @@
   "date": "2031-07-31",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 7,
       "5": 10,
       "6": 6,
       "7": 3,
@@ -57,7 +56,7 @@
     },
     "by_first_letter": {
       "A": 9,
-      "C": 10,
+      "C": 9,
       "H": 3,
       "I": 1,
       "L": 5,
@@ -72,7 +71,7 @@
         "11": 1
       },
       "C": {
-        "4": 2,
+        "4": 1,
         "5": 2,
         "6": 2,
         "7": 1,
@@ -106,7 +105,6 @@
       "CA": 2,
       "CH": 3,
       "CL": 1,
-      "CR": 1,
       "CY": 3,
       "HA": 2,
       "HI": 1,

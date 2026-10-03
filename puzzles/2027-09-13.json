@@ -1,14 +1,13 @@
 {
   "pangram": "pliancy",
   "center_letter": "n",
-  "num_answers": 33,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 165,
+  "possible_points": 180,
   "answer_pangrams": [
     "pliancy"
   ],
   "answers": [
-    "anal",
     "canal",
     "cancan",
     "canna",
@@ -25,6 +24,7 @@
     "cynically",
     "inlay",
     "lain",
+    "lanai",
     "naan",
     "nail",
     "nana",
@@ -35,7 +35,9 @@
     "nippy",
     "pain",
     "panic",
+    "panini",
     "picnic",
+    "pinna",
     "pippin",
     "plain",
     "plainly",
@@ -45,26 +47,22 @@
   "date": "2027-09-13",
   "hints": {
     "by_length": {
-      "4": 9,
-      "5": 11,
-      "6": 5,
+      "4": 8,
+      "5": 13,
+      "6": 6,
       "7": 4,
       "8": 1,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "A": 1,
       "C": 14,
       "I": 1,
-      "L": 1,
+      "L": 2,
       "N": 8,
-      "P": 8
+      "P": 10
     },
     "grid": {
-      "A": {
-        "4": 1
-      },
       "C": {
         "4": 2,
         "5": 4,
@@ -78,7 +76,8 @@
         "5": 1
       },
       "L": {
-        "4": 1
+        "4": 1,
+        "5": 1
       },
       "N": {
         "4": 3,
@@ -87,22 +86,21 @@
       },
       "P": {
         "4": 2,
-        "5": 2,
-        "6": 2,
+        "5": 3,
+        "6": 3,
         "7": 2
       }
     },
     "two_letter_list": {
-      "AN": 1,
       "CA": 5,
       "CL": 5,
       "CY": 4,
       "IN": 1,
-      "LA": 1,
+      "LA": 2,
       "NA": 5,
       "NI": 3,
-      "PA": 2,
-      "PI": 2,
+      "PA": 3,
+      "PI": 3,
       "PL": 4
     }
   }

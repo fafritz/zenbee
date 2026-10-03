@@ -1,9 +1,9 @@
 {
   "pangram": "framing",
   "center_letter": "m",
-  "num_answers": 48,
+  "num_answers": 49,
   "num_pangrams": 3,
-  "possible_points": 275,
+  "possible_points": 284,
   "answer_pangrams": [
     "affirming",
     "farming",
@@ -44,6 +44,7 @@
     "manna",
     "manning",
     "margin",
+    "margining",
     "maria",
     "marina",
     "marring",
@@ -67,7 +68,7 @@
       "6": 14,
       "7": 12,
       "8": 1,
-      "9": 2,
+      "9": 3,
       "10": 1
     },
     "by_first_letter": {
@@ -75,7 +76,7 @@
       "F": 5,
       "G": 7,
       "I": 4,
-      "M": 23,
+      "M": 24,
       "N": 1,
       "R": 2
     },
@@ -107,7 +108,8 @@
         "5": 7,
         "6": 6,
         "7": 4,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "N": {
         "6": 1
@@ -129,7 +131,7 @@
       "GR": 5,
       "IM": 3,
       "IN": 1,
-      "MA": 15,
+      "MA": 16,
       "MI": 8,
       "NA": 1,
       "RA": 1,

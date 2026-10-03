@@ -1,9 +1,9 @@
 {
   "pangram": "playing",
   "center_letter": "a",
-  "num_answers": 68,
+  "num_answers": 74,
   "num_pangrams": 3,
-  "possible_points": 370,
+  "possible_points": 400,
   "answer_pangrams": [
     "appallingly",
     "applying",
@@ -20,7 +20,6 @@
     "allaying",
     "ally",
     "allying",
-    "anal",
     "angina",
     "angling",
     "aping",
@@ -29,10 +28,13 @@
     "appallingly",
     "apply",
     "applying",
+    "gaga",
     "gagging",
+    "gaily",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -44,6 +46,7 @@
     "inlaying",
     "lagging",
     "lain",
+    "lanai",
     "lapping",
     "laying",
     "naan",
@@ -63,6 +66,7 @@
     "pall",
     "palling",
     "pang",
+    "panini",
     "panning",
     "papa",
     "papal",
@@ -70,6 +74,7 @@
     "papilla",
     "paying",
     "pillaging",
+    "pinna",
     "plain",
     "plainly",
     "plan",
@@ -77,31 +82,32 @@
     "planning",
     "play",
     "playing",
+    "yang",
     "yapping"
   ],
   "date": "2030-01-17",
   "hints": {
     "by_length": {
-      "4": 18,
-      "5": 12,
-      "6": 9,
+      "4": 19,
+      "5": 15,
+      "6": 10,
       "7": 20,
-      "8": 6,
+      "8": 7,
       "9": 2,
       "11": 1
     },
     "by_first_letter": {
-      "A": 19,
-      "G": 11,
+      "A": 18,
+      "G": 14,
       "I": 2,
-      "L": 4,
+      "L": 5,
       "N": 8,
-      "P": 23,
-      "Y": 1
+      "P": 25,
+      "Y": 2
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 6,
         "6": 3,
         "7": 2,
@@ -110,10 +116,11 @@
         "11": 1
       },
       "G": {
-        "4": 4,
+        "4": 5,
+        "5": 1,
         "6": 1,
         "7": 5,
-        "8": 1
+        "8": 2
       },
       "I": {
         "5": 1,
@@ -121,6 +128,7 @@
       },
       "L": {
         "4": 1,
+        "5": 1,
         "6": 1,
         "7": 2
       },
@@ -131,13 +139,14 @@
       },
       "P": {
         "4": 7,
-        "5": 3,
-        "6": 4,
+        "5": 4,
+        "6": 5,
         "7": 7,
         "8": 1,
         "9": 1
       },
       "Y": {
+        "4": 1,
         "7": 1
       }
     },
@@ -145,16 +154,16 @@
       "AG": 2,
       "AI": 1,
       "AL": 7,
-      "AN": 3,
+      "AN": 2,
       "AP": 6,
-      "GA": 11,
+      "GA": 14,
       "IN": 2,
-      "LA": 4,
+      "LA": 5,
       "NA": 8,
-      "PA": 15,
-      "PI": 1,
+      "PA": 16,
+      "PI": 2,
       "PL": 7,
-      "YA": 1
+      "YA": 2
     }
   }
 }

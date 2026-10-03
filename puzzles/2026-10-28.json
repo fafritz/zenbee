@@ -3,7 +3,7 @@
   "center_letter": "o",
   "num_answers": 63,
   "num_pangrams": 2,
-  "possible_points": 318,
+  "possible_points": 311,
   "answer_pangrams": [
     "bottoming",
     "tombing"
@@ -14,6 +14,7 @@
     "bobbin",
     "bobbing",
     "bogging",
+    "boing",
     "bomb",
     "bombing",
     "bonbon",
@@ -23,8 +24,6 @@
     "boning",
     "bonito",
     "boob",
-    "boobing",
-    "booboo",
     "booing",
     "boom",
     "booming",
@@ -34,7 +33,6 @@
     "bottom",
     "bottoming",
     "gibbon",
-    "gobbing",
     "going",
     "gong",
     "gonging",
@@ -66,6 +64,8 @@
     "onto",
     "tomb",
     "tombing",
+    "tong",
+    "tonging",
     "toning",
     "toon",
     "toot",
@@ -76,35 +76,35 @@
   "date": "2026-10-28",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 7,
-      "6": 16,
-      "7": 16,
+      "4": 20,
+      "5": 8,
+      "6": 15,
+      "7": 15,
       "8": 3,
       "9": 2
     },
     "by_first_letter": {
-      "B": 24,
-      "G": 6,
+      "B": 23,
+      "G": 5,
       "I": 4,
       "M": 11,
       "N": 4,
       "O": 6,
-      "T": 8
+      "T": 10
     },
     "grid": {
       "B": {
         "4": 6,
-        "5": 3,
-        "6": 7,
-        "7": 7,
+        "5": 4,
+        "6": 6,
+        "7": 6,
         "9": 1
       },
       "G": {
         "4": 2,
         "5": 1,
         "6": 1,
-        "7": 2
+        "7": 1
       },
       "I": {
         "4": 1,
@@ -129,16 +129,16 @@
         "8": 1
       },
       "T": {
-        "4": 3,
+        "4": 4,
         "6": 2,
-        "7": 3
+        "7": 4
       }
     },
     "two_letter_list": {
       "BI": 2,
-      "BO": 22,
+      "BO": 21,
       "GI": 1,
-      "GO": 5,
+      "GO": 4,
       "IG": 1,
       "IN": 3,
       "MI": 1,
@@ -147,7 +147,7 @@
       "OB": 1,
       "OM": 2,
       "ON": 3,
-      "TO": 8
+      "TO": 10
     }
   }
 }

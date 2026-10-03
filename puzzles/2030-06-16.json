@@ -1,9 +1,9 @@
 {
   "pangram": "wakeful",
   "center_letter": "f",
-  "num_answers": 21,
+  "num_answers": 24,
   "num_pangrams": 1,
-  "possible_points": 66,
+  "possible_points": 79,
   "answer_pangrams": [
     "wakeful"
   ],
@@ -11,9 +11,11 @@
     "alfalfa",
     "awful",
     "fake",
+    "falafel",
     "fall",
     "feel",
     "fell",
+    "fella",
     "flak",
     "flake",
     "flaw",
@@ -27,21 +29,22 @@
     "full",
     "lawful",
     "leaf",
+    "luff",
     "waffle",
     "wakeful"
   ],
   "date": "2030-06-16",
   "hints": {
     "by_length": {
-      "4": 13,
-      "5": 4,
+      "4": 14,
+      "5": 5,
       "6": 2,
-      "7": 2
+      "7": 3
     },
     "by_first_letter": {
       "A": 2,
-      "F": 15,
-      "L": 2,
+      "F": 17,
+      "L": 3,
       "W": 2
     },
     "grid": {
@@ -51,10 +54,11 @@
       },
       "F": {
         "4": 12,
-        "5": 3
+        "5": 4,
+        "7": 1
       },
       "L": {
-        "4": 1,
+        "4": 2,
         "6": 1
       },
       "W": {
@@ -65,12 +69,13 @@
     "two_letter_list": {
       "AL": 1,
       "AW": 1,
-      "FA": 2,
-      "FE": 2,
+      "FA": 3,
+      "FE": 3,
       "FL": 9,
       "FU": 2,
       "LA": 1,
       "LE": 1,
+      "LU": 1,
       "WA": 2
     }
   }

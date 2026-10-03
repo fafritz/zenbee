@@ -1,9 +1,9 @@
 {
   "pangram": "company",
   "center_letter": "p",
-  "num_answers": 21,
+  "num_answers": 22,
   "num_pangrams": 2,
-  "possible_points": 92,
+  "possible_points": 97,
   "answer_pangrams": [
     "accompany",
     "company"
@@ -23,6 +23,7 @@
     "copay",
     "copy",
     "nappy",
+    "pampa",
     "papa",
     "papacy",
     "papaya",
@@ -35,7 +36,7 @@
   "hints": {
     "by_length": {
       "4": 9,
-      "5": 7,
+      "5": 8,
       "6": 3,
       "7": 1,
       "9": 1
@@ -44,7 +45,7 @@
       "A": 1,
       "C": 12,
       "N": 1,
-      "P": 7
+      "P": 8
     },
     "grid": {
       "A": {
@@ -61,7 +62,7 @@
       },
       "P": {
         "4": 4,
-        "5": 1,
+        "5": 2,
         "6": 2
       }
     },
@@ -70,7 +71,7 @@
       "CA": 6,
       "CO": 6,
       "NA": 1,
-      "PA": 3,
+      "PA": 4,
       "PO": 4
     }
   }

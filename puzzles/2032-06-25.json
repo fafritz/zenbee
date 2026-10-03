@@ -1,9 +1,9 @@
 {
   "pangram": "nodular",
   "center_letter": "u",
-  "num_answers": 28,
+  "num_answers": 27,
   "num_pangrams": 1,
-  "possible_points": 109,
+  "possible_points": 104,
   "answer_pangrams": [
     "nodular"
   ],
@@ -19,7 +19,6 @@
     "dual",
     "dull",
     "dullard",
-    "dunno",
     "laud",
     "loud",
     "luau",
@@ -41,14 +40,14 @@
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 7,
+      "5": 6,
       "6": 4,
       "7": 3,
       "9": 1
     },
     "by_first_letter": {
       "A": 7,
-      "D": 5,
+      "D": 4,
       "L": 6,
       "N": 3,
       "R": 3,
@@ -63,7 +62,6 @@
       },
       "D": {
         "4": 3,
-        "5": 1,
         "7": 1
       },
       "L": {
@@ -89,7 +87,7 @@
       "AR": 1,
       "AU": 2,
       "DO": 1,
-      "DU": 4,
+      "DU": 3,
       "LA": 1,
       "LO": 1,
       "LU": 4,

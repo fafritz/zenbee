@@ -1,9 +1,9 @@
 {
   "pangram": "molding",
   "center_letter": "l",
-  "num_answers": 52,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 245,
+  "possible_points": 267,
   "answer_pangrams": [
     "molding"
   ],
@@ -27,6 +27,8 @@
     "idling",
     "idol",
     "igloo",
+    "lidding",
+    "lignin",
     "liming",
     "limn",
     "limning",
@@ -56,6 +58,7 @@
     "molding",
     "moll",
     "niggling",
+    "nonillion",
     "noodling",
     "ogling",
     "oiling",
@@ -66,17 +69,18 @@
     "by_length": {
       "4": 20,
       "5": 4,
-      "6": 7,
-      "7": 12,
-      "8": 9
+      "6": 8,
+      "7": 13,
+      "8": 9,
+      "9": 1
     },
     "by_first_letter": {
       "D": 6,
       "G": 10,
       "I": 3,
-      "L": 19,
+      "L": 21,
       "M": 9,
-      "N": 2,
+      "N": 3,
       "O": 3
     },
     "grid": {
@@ -101,8 +105,8 @@
       "L": {
         "4": 9,
         "5": 2,
-        "6": 2,
-        "7": 6
+        "6": 3,
+        "7": 7
       },
       "M": {
         "4": 4,
@@ -110,7 +114,8 @@
         "8": 2
       },
       "N": {
-        "8": 2
+        "8": 2,
+        "9": 1
       },
       "O": {
         "4": 1,
@@ -125,12 +130,12 @@
       "GO": 3,
       "ID": 2,
       "IG": 1,
-      "LI": 7,
+      "LI": 9,
       "LO": 12,
       "MI": 6,
       "MO": 3,
       "NI": 1,
-      "NO": 1,
+      "NO": 2,
       "OG": 1,
       "OI": 1,
       "OL": 1

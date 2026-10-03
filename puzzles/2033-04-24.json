@@ -3,7 +3,7 @@
   "center_letter": "a",
   "num_answers": 48,
   "num_pangrams": 2,
-  "possible_points": 215,
+  "possible_points": 219,
   "answer_pangrams": [
     "archaically",
     "charily"
@@ -34,7 +34,6 @@
     "cilia",
     "circa",
     "clay",
-    "cray",
     "cyclical",
     "cyclically",
     "hail",
@@ -43,6 +42,7 @@
     "halal",
     "hall",
     "harry",
+    "iliac",
     "lacy",
     "lair",
     "larch",
@@ -61,8 +61,8 @@
   "date": "2033-04-24",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 14,
+      "4": 18,
+      "5": 15,
       "6": 5,
       "7": 4,
       "8": 3,
@@ -72,8 +72,9 @@
     },
     "by_first_letter": {
       "A": 14,
-      "C": 14,
+      "C": 13,
       "H": 6,
+      "I": 1,
       "L": 8,
       "R": 6
     },
@@ -86,7 +87,7 @@
         "11": 1
       },
       "C": {
-        "4": 4,
+        "4": 3,
         "5": 6,
         "7": 1,
         "8": 2,
@@ -95,6 +96,9 @@
       "H": {
         "4": 3,
         "5": 3
+      },
+      "I": {
+        "5": 1
       },
       "L": {
         "4": 4,
@@ -118,9 +122,9 @@
       "CH": 4,
       "CI": 2,
       "CL": 1,
-      "CR": 1,
       "CY": 2,
       "HA": 6,
+      "IL": 1,
       "LA": 3,
       "LI": 3,
       "LY": 2,

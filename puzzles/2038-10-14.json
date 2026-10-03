@@ -1,9 +1,9 @@
 {
   "pangram": "cloying",
   "center_letter": "n",
-  "num_answers": 56,
+  "num_answers": 62,
   "num_pangrams": 1,
-  "possible_points": 320,
+  "possible_points": 358,
   "answer_pangrams": [
     "cloying"
   ],
@@ -16,6 +16,7 @@
     "cloying",
     "cocoon",
     "cocooning",
+    "cogging",
     "coiling",
     "coin",
     "coining",
@@ -39,8 +40,11 @@
     "goon",
     "icing",
     "icon",
+    "iconic",
     "inclining",
     "inning",
+    "ionic",
+    "lignin",
     "lingo",
     "lining",
     "lion",
@@ -52,10 +56,12 @@
     "longing",
     "longingly",
     "loon",
+    "loony",
     "lying",
     "niggling",
     "ninny",
     "noggin",
+    "nonillion",
     "noon",
     "nylon",
     "ogling",
@@ -69,18 +75,18 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 12,
-      "6": 9,
-      "7": 14,
+      "5": 14,
+      "6": 11,
+      "7": 15,
       "8": 8,
-      "9": 3
+      "9": 4
     },
     "by_first_letter": {
-      "C": 20,
+      "C": 21,
       "G": 9,
-      "I": 4,
-      "L": 12,
-      "N": 5,
+      "I": 6,
+      "L": 14,
+      "N": 6,
       "O": 6
     },
     "grid": {
@@ -88,7 +94,7 @@
         "4": 1,
         "5": 4,
         "6": 4,
-        "7": 7,
+        "7": 8,
         "8": 3,
         "9": 1
       },
@@ -100,14 +106,14 @@
       },
       "I": {
         "4": 1,
-        "5": 1,
-        "6": 1,
+        "5": 2,
+        "6": 2,
         "9": 1
       },
       "L": {
         "4": 4,
-        "5": 3,
-        "6": 1,
+        "5": 4,
+        "6": 2,
         "7": 3,
         "9": 1
       },
@@ -115,7 +121,8 @@
         "4": 1,
         "5": 2,
         "6": 1,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "O": {
         "4": 1,
@@ -127,17 +134,18 @@
     },
     "two_letter_list": {
       "CL": 6,
-      "CO": 11,
+      "CO": 12,
       "CY": 3,
       "GI": 3,
       "GO": 6,
-      "IC": 2,
+      "IC": 3,
       "IN": 2,
-      "LI": 3,
-      "LO": 8,
+      "IO": 1,
+      "LI": 4,
+      "LO": 9,
       "LY": 1,
       "NI": 2,
-      "NO": 2,
+      "NO": 3,
       "NY": 1,
       "OG": 1,
       "OI": 1,

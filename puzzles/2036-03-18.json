@@ -1,9 +1,9 @@
 {
   "pangram": "amplify",
   "center_letter": "a",
-  "num_answers": 38,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 148,
+  "possible_points": 153,
   "answer_pangrams": [
     "amplify"
   ],
@@ -40,6 +40,7 @@
     "pall",
     "palm",
     "palmy",
+    "pampa",
     "papa",
     "papal",
     "papaya",
@@ -51,7 +52,7 @@
   "hints": {
     "by_length": {
       "4": 17,
-      "5": 9,
+      "5": 10,
       "6": 7,
       "7": 3,
       "8": 2
@@ -62,7 +63,7 @@
       "I": 2,
       "L": 3,
       "M": 7,
-      "P": 10
+      "P": 11
     },
     "grid": {
       "A": {
@@ -92,7 +93,7 @@
       },
       "P": {
         "4": 5,
-        "5": 3,
+        "5": 4,
         "6": 1,
         "7": 1
       }
@@ -108,7 +109,7 @@
       "LA": 2,
       "LL": 1,
       "MA": 7,
-      "PA": 8,
+      "PA": 9,
       "PI": 1,
       "PL": 1
     }

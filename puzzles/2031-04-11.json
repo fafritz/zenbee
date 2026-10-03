@@ -1,9 +1,9 @@
 {
   "pangram": "waltzed",
   "center_letter": "w",
-  "num_answers": 36,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 169,
+  "possible_points": 175,
   "answer_pangrams": [
     "waltzed"
   ],
@@ -43,14 +43,15 @@
     "well",
     "welled",
     "welt",
-    "welted"
+    "welted",
+    "wetted"
   ],
   "date": "2031-04-11",
   "hints": {
     "by_length": {
       "4": 11,
       "5": 7,
-      "6": 11,
+      "6": 12,
       "7": 6,
       "8": 1
     },
@@ -59,7 +60,7 @@
       "D": 4,
       "L": 1,
       "T": 5,
-      "W": 25
+      "W": 26
     },
     "grid": {
       "A": {
@@ -81,7 +82,7 @@
       "W": {
         "4": 9,
         "5": 3,
-        "6": 10,
+        "6": 11,
         "7": 3
       }
     },
@@ -92,7 +93,7 @@
       "LE": 1,
       "TW": 5,
       "WA": 15,
-      "WE": 10
+      "WE": 11
     }
   }
 }

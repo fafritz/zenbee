@@ -1,9 +1,9 @@
 {
   "pangram": "plunged",
   "center_letter": "u",
-  "num_answers": 58,
+  "num_answers": 62,
   "num_pangrams": 2,
-  "possible_points": 284,
+  "possible_points": 304,
   "answer_pangrams": [
     "plunged",
     "unplugged"
@@ -13,6 +13,7 @@
     "deluded",
     "deluge",
     "deluged",
+    "dengue",
     "denude",
     "denuded",
     "dude",
@@ -29,7 +30,6 @@
     "duped",
     "elude",
     "eluded",
-    "endue",
     "endued",
     "glue",
     "glued",
@@ -38,6 +38,8 @@
     "gulp",
     "gulped",
     "gunned",
+    "luge",
+    "luged",
     "lugged",
     "lull",
     "lulled",
@@ -61,6 +63,8 @@
     "punned",
     "pupped",
     "undue",
+    "unglue",
+    "unglued",
     "unneeded",
     "unplug",
     "unplugged",
@@ -71,31 +75,31 @@
   "date": "2028-01-13",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 17,
       "5": 10,
-      "6": 23,
-      "7": 7,
+      "6": 25,
+      "7": 8,
       "8": 1,
       "9": 1
     },
     "by_first_letter": {
-      "D": 18,
-      "E": 4,
+      "D": 19,
+      "E": 3,
       "G": 7,
-      "L": 7,
+      "L": 9,
       "N": 3,
       "P": 12,
-      "U": 7
+      "U": 9
     },
     "grid": {
       "D": {
         "4": 6,
         "5": 2,
-        "6": 7,
+        "6": 8,
         "7": 3
       },
       "E": {
-        "5": 2,
+        "5": 1,
         "6": 2
       },
       "G": {
@@ -104,8 +108,8 @@
         "6": 3
       },
       "L": {
-        "4": 3,
-        "5": 1,
+        "4": 4,
+        "5": 2,
         "6": 3
       },
       "N": {
@@ -120,24 +124,24 @@
       },
       "U": {
         "5": 3,
-        "6": 1,
-        "7": 1,
+        "6": 2,
+        "7": 2,
         "8": 1,
         "9": 1
       }
     },
     "two_letter_list": {
-      "DE": 6,
+      "DE": 7,
       "DU": 12,
       "EL": 2,
-      "EN": 2,
+      "EN": 1,
       "GL": 2,
       "GU": 5,
-      "LU": 7,
+      "LU": 9,
       "NU": 3,
       "PL": 4,
       "PU": 8,
-      "UN": 4,
+      "UN": 6,
       "UP": 3
     }
   }

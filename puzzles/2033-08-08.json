@@ -3,12 +3,11 @@
   "center_letter": "a",
   "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 130,
+  "possible_points": 134,
   "answer_pangrams": [
     "empathy"
   ],
   "answers": [
-    "ahem",
     "apathy",
     "attempt",
     "empathy",
@@ -29,6 +28,7 @@
     "meat",
     "meaty",
     "meta",
+    "pampa",
     "papa",
     "papaya",
     "pate",
@@ -49,24 +49,23 @@
   "date": "2033-08-08",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 9,
+      "4": 18,
+      "5": 10,
       "6": 5,
       "7": 3,
       "8": 1
     },
     "by_first_letter": {
-      "A": 3,
+      "A": 2,
       "E": 1,
       "H": 6,
       "M": 11,
-      "P": 7,
+      "P": 8,
       "T": 8,
       "Y": 1
     },
     "grid": {
       "A": {
-        "4": 1,
         "6": 1,
         "7": 1
       },
@@ -86,7 +85,7 @@
       },
       "P": {
         "4": 4,
-        "5": 2,
+        "5": 3,
         "6": 1
       },
       "T": {
@@ -99,7 +98,6 @@
       }
     },
     "two_letter_list": {
-      "AH": 1,
       "AP": 1,
       "AT": 1,
       "EM": 1,
@@ -107,7 +105,7 @@
       "HE": 3,
       "MA": 8,
       "ME": 3,
-      "PA": 6,
+      "PA": 7,
       "PE": 1,
       "TA": 4,
       "TE": 2,

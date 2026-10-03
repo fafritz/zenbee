@@ -3,7 +3,7 @@
   "center_letter": "y",
   "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 136,
+  "possible_points": 140,
   "answer_pangrams": [
     "baloney"
   ],
@@ -25,11 +25,11 @@
     "bobby",
     "bony",
     "booby",
-    "ebay",
     "ebony",
     "eyeball",
     "lobby",
     "lonely",
+    "loony",
     "loyal",
     "loyally",
     "nanny",
@@ -42,16 +42,16 @@
   "date": "2031-10-22",
   "hints": {
     "by_length": {
-      "4": 8,
-      "5": 15,
+      "4": 7,
+      "5": 16,
       "6": 3,
       "7": 4
     },
     "by_first_letter": {
       "A": 8,
       "B": 9,
-      "E": 3,
-      "L": 4,
+      "E": 2,
+      "L": 5,
       "N": 3,
       "O": 2,
       "Y": 1
@@ -69,12 +69,11 @@
         "7": 2
       },
       "E": {
-        "4": 1,
         "5": 1,
         "7": 1
       },
       "L": {
-        "5": 2,
+        "5": 3,
         "6": 1,
         "7": 1
       },
@@ -95,9 +94,9 @@
       "BA": 3,
       "BE": 3,
       "BO": 3,
-      "EB": 2,
+      "EB": 1,
       "EY": 1,
-      "LO": 4,
+      "LO": 5,
       "NA": 1,
       "NO": 1,
       "NY": 1,

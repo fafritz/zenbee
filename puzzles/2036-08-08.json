@@ -1,9 +1,9 @@
 {
   "pangram": "loafing",
   "center_letter": "f",
-  "num_answers": 45,
+  "num_answers": 47,
   "num_pangrams": 2,
-  "possible_points": 228,
+  "possible_points": 237,
   "answer_pangrams": [
     "foaling",
     "loafing"
@@ -31,6 +31,7 @@
     "flail",
     "flailing",
     "flan",
+    "flanging",
     "fling",
     "flinging",
     "flog",
@@ -52,25 +53,27 @@
     "info",
     "loaf",
     "loafing",
+    "naif",
     "offal",
     "offing"
   ],
   "date": "2036-08-08",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 16,
       "5": 6,
       "6": 5,
       "7": 14,
-      "8": 4,
+      "8": 5,
       "9": 1
     },
     "by_first_letter": {
       "A": 2,
-      "F": 32,
+      "F": 33,
       "G": 6,
       "I": 1,
       "L": 2,
+      "N": 1,
       "O": 2
     },
     "grid": {
@@ -83,7 +86,7 @@
         "5": 4,
         "6": 4,
         "7": 9,
-        "8": 4,
+        "8": 5,
         "9": 1
       },
       "G": {
@@ -97,6 +100,9 @@
         "4": 1,
         "7": 1
       },
+      "N": {
+        "4": 1
+      },
       "O": {
         "5": 1,
         "6": 1
@@ -106,12 +112,13 @@
       "AL": 2,
       "FA": 7,
       "FI": 7,
-      "FL": 10,
+      "FL": 11,
       "FO": 8,
       "GA": 2,
       "GO": 4,
       "IN": 1,
       "LO": 2,
+      "NA": 1,
       "OF": 2
     }
   }

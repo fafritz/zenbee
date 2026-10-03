@@ -1,9 +1,9 @@
 {
   "pangram": "bifocal",
   "center_letter": "a",
-  "num_answers": 42,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 175,
+  "possible_points": 181,
   "answer_pangrams": [
     "bifocal"
   ],
@@ -22,6 +22,7 @@
     "biblical",
     "bifocal",
     "blab",
+    "boba",
     "bola",
     "cabal",
     "cacao",
@@ -43,6 +44,7 @@
     "flail",
     "foal",
     "focal",
+    "iliac",
     "labia",
     "labial",
     "lilac",
@@ -54,17 +56,18 @@
   "date": "2035-11-04",
   "hints": {
     "by_length": {
-      "4": 16,
-      "5": 13,
+      "4": 17,
+      "5": 14,
       "6": 6,
       "7": 5,
       "8": 2
     },
     "by_first_letter": {
       "A": 5,
-      "B": 10,
+      "B": 11,
       "C": 11,
       "F": 9,
+      "I": 1,
       "L": 5,
       "O": 2
     },
@@ -76,7 +79,7 @@
         "7": 1
       },
       "B": {
-        "4": 5,
+        "4": 6,
         "6": 1,
         "7": 3,
         "8": 1
@@ -91,6 +94,9 @@
         "5": 2,
         "6": 2,
         "7": 1
+      },
+      "I": {
+        "5": 1
       },
       "L": {
         "4": 1,
@@ -108,7 +114,7 @@
       "BA": 6,
       "BI": 2,
       "BL": 1,
-      "BO": 1,
+      "BO": 2,
       "CA": 6,
       "CI": 1,
       "CO": 4,
@@ -116,6 +122,7 @@
       "FI": 1,
       "FL": 2,
       "FO": 2,
+      "IL": 1,
       "LA": 2,
       "LI": 1,
       "LO": 2,

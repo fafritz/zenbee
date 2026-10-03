@@ -1,9 +1,9 @@
 {
   "pangram": "banquet",
   "center_letter": "n",
-  "num_answers": 35,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 151,
+  "possible_points": 163,
   "answer_pangrams": [
     "banquet"
   ],
@@ -30,7 +30,9 @@
     "naan",
     "nana",
     "neat",
+    "neaten",
     "nene",
+    "nutate",
     "quanta",
     "queen",
     "taunt",
@@ -49,7 +51,7 @@
     "by_length": {
       "4": 15,
       "5": 4,
-      "6": 8,
+      "6": 10,
       "7": 4,
       "8": 3,
       "9": 1
@@ -58,7 +60,7 @@
       "A": 7,
       "B": 10,
       "E": 2,
-      "N": 4,
+      "N": 6,
       "Q": 2,
       "T": 7,
       "U": 3
@@ -81,7 +83,8 @@
         "7": 1
       },
       "N": {
-        "4": 4
+        "4": 4,
+        "6": 2
       },
       "Q": {
         "5": 1,
@@ -109,7 +112,8 @@
       "EA": 1,
       "EN": 1,
       "NA": 2,
-      "NE": 2,
+      "NE": 3,
+      "NU": 1,
       "QU": 2,
       "TA": 1,
       "TE": 4,

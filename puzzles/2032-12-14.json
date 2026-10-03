@@ -1,11 +1,12 @@
 {
   "pangram": "pelican",
   "center_letter": "i",
-  "num_answers": 55,
-  "num_pangrams": 3,
-  "possible_points": 288,
+  "num_answers": 63,
+  "num_pangrams": 4,
+  "possible_points": 346,
   "answer_pangrams": [
     "appliance",
+    "capellini",
     "pelican",
     "pinnacle"
   ],
@@ -15,10 +16,12 @@
     "alien",
     "alliance",
     "alpine",
+    "aniline",
     "apiece",
     "appliance",
     "calcine",
     "canine",
+    "capellini",
     "cilia",
     "clinic",
     "clinical",
@@ -26,11 +29,14 @@
     "clip",
     "epic",
     "icicle",
+    "iliac",
     "inane",
     "incline",
     "inline",
     "ipecac",
     "lain",
+    "lanai",
+    "lenience",
     "lice",
     "lien",
     "lilac",
@@ -45,12 +51,12 @@
     "pail",
     "pain",
     "panic",
+    "panini",
     "papilla",
     "papillae",
     "pelican",
     "pencil",
     "penicillin",
-    "penile",
     "pica",
     "piccalilli",
     "picnic",
@@ -58,8 +64,11 @@
     "pile",
     "pill",
     "pine",
+    "pineal",
     "pineapple",
+    "pinna",
     "pinnacle",
+    "pinnae",
     "pipe",
     "pipeline",
     "pippin",
@@ -70,27 +79,28 @@
   "hints": {
     "by_length": {
       "4": 17,
-      "5": 9,
-      "6": 15,
-      "7": 4,
-      "8": 5,
-      "9": 3,
+      "5": 12,
+      "6": 17,
+      "7": 5,
+      "8": 6,
+      "9": 4,
       "10": 2
     },
     "by_first_letter": {
-      "A": 7,
-      "C": 7,
+      "A": 8,
+      "C": 8,
       "E": 1,
-      "I": 5,
-      "L": 7,
+      "I": 6,
+      "L": 9,
       "N": 5,
-      "P": 23
+      "P": 26
     },
     "grid": {
       "A": {
         "4": 1,
         "5": 1,
         "6": 3,
+        "7": 1,
         "8": 1,
         "9": 1
       },
@@ -100,20 +110,21 @@
         "6": 2,
         "7": 1,
         "8": 1,
-        "9": 1
+        "9": 2
       },
       "E": {
         "4": 1
       },
       "I": {
-        "5": 1,
+        "5": 2,
         "6": 3,
         "7": 1
       },
       "L": {
         "4": 4,
-        "5": 2,
-        "6": 1
+        "5": 3,
+        "6": 1,
+        "8": 1
       },
       "N": {
         "4": 3,
@@ -122,8 +133,8 @@
       },
       "P": {
         "4": 7,
-        "5": 3,
-        "6": 5,
+        "5": 4,
+        "6": 7,
         "7": 2,
         "8": 3,
         "9": 1,
@@ -133,21 +144,24 @@
     "two_letter_list": {
       "AC": 2,
       "AL": 3,
+      "AN": 1,
       "AP": 2,
-      "CA": 2,
+      "CA": 3,
       "CI": 1,
       "CL": 4,
       "EP": 1,
       "IC": 1,
+      "IL": 1,
       "IN": 3,
       "IP": 1,
-      "LA": 1,
+      "LA": 2,
+      "LE": 1,
       "LI": 6,
       "NA": 1,
       "NI": 4,
-      "PA": 5,
-      "PE": 4,
-      "PI": 12,
+      "PA": 6,
+      "PE": 3,
+      "PI": 15,
       "PL": 2
     }
   }

@@ -1,9 +1,9 @@
 {
   "pangram": "backlog",
   "center_letter": "a",
-  "num_answers": 30,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 101,
+  "possible_points": 103,
   "answer_pangrams": [
     "backlog"
   ],
@@ -20,6 +20,7 @@
     "blab",
     "black",
     "blackball",
+    "boba",
     "bola",
     "cabal",
     "cacao",
@@ -31,6 +32,7 @@
     "coca",
     "cocoa",
     "cola",
+    "gaga",
     "gala",
     "gall",
     "global",
@@ -42,7 +44,7 @@
   "date": "2037-09-16",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 18,
       "5": 10,
       "6": 2,
       "7": 1,
@@ -50,9 +52,9 @@
     },
     "by_first_letter": {
       "A": 3,
-      "B": 10,
+      "B": 11,
       "C": 10,
-      "G": 4,
+      "G": 5,
       "K": 1,
       "L": 2
     },
@@ -62,7 +64,7 @@
         "5": 1
       },
       "B": {
-        "4": 6,
+        "4": 7,
         "5": 1,
         "6": 1,
         "7": 1,
@@ -73,7 +75,7 @@
         "5": 6
       },
       "G": {
-        "4": 3,
+        "4": 4,
         "6": 1
       },
       "K": {
@@ -90,11 +92,11 @@
       "AL": 1,
       "BA": 6,
       "BL": 3,
-      "BO": 1,
+      "BO": 2,
       "CA": 4,
       "CL": 2,
       "CO": 4,
-      "GA": 2,
+      "GA": 3,
       "GL": 1,
       "GO": 1,
       "KO": 1,

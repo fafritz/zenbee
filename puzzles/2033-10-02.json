@@ -1,9 +1,9 @@
 {
   "pangram": "thumped",
   "center_letter": "m",
-  "num_answers": 29,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 112,
+  "possible_points": 113,
   "answer_pangrams": [
     "thumped"
   ],
@@ -12,6 +12,7 @@
     "deemed",
     "dump",
     "dumped",
+    "heme",
     "hemmed",
     "hemp",
     "hummed",
@@ -41,14 +42,14 @@
   "date": "2033-10-02",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 14,
       "5": 6,
       "6": 8,
       "7": 2
     },
     "by_first_letter": {
       "D": 4,
-      "H": 4,
+      "H": 5,
       "M": 8,
       "P": 2,
       "T": 10,
@@ -60,7 +61,7 @@
         "6": 2
       },
       "H": {
-        "4": 2,
+        "4": 3,
         "6": 2
       },
       "M": {
@@ -85,7 +86,7 @@
     "two_letter_list": {
       "DE": 2,
       "DU": 2,
-      "HE": 2,
+      "HE": 3,
       "HU": 2,
       "ME": 4,
       "MU": 4,

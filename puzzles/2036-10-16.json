@@ -1,9 +1,9 @@
 {
   "pangram": "congeal",
   "center_letter": "g",
-  "num_answers": 47,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 191,
+  "possible_points": 195,
   "answer_pangrams": [
     "congeal"
   ],
@@ -29,8 +29,10 @@
     "eggnog",
     "elegance",
     "engage",
+    "gaga",
     "gaggle",
     "gala",
+    "galangal",
     "gale",
     "galena",
     "gall",
@@ -46,7 +48,6 @@
     "goggle",
     "gone",
     "gong",
-    "gonna",
     "google",
     "goon",
     "lagoon",
@@ -59,17 +60,17 @@
   "date": "2036-10-16",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 10,
+      "4": 20,
+      "5": 9,
       "6": 12,
       "7": 5,
-      "8": 1
+      "8": 2
     },
     "by_first_letter": {
       "A": 8,
       "C": 9,
       "E": 4,
-      "G": 20,
+      "G": 21,
       "L": 5,
       "O": 1
     },
@@ -91,10 +92,11 @@
         "8": 1
       },
       "G": {
-        "4": 11,
-        "5": 2,
+        "4": 12,
+        "5": 1,
         "6": 6,
-        "7": 1
+        "7": 1,
+        "8": 1
       },
       "L": {
         "4": 3,
@@ -116,10 +118,10 @@
       "EG": 1,
       "EL": 1,
       "EN": 1,
-      "GA": 8,
+      "GA": 10,
       "GE": 1,
       "GL": 4,
-      "GO": 7,
+      "GO": 6,
       "LA": 1,
       "LE": 1,
       "LO": 3,

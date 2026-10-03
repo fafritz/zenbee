@@ -1,9 +1,9 @@
 {
   "pangram": "coupled",
   "center_letter": "u",
-  "num_answers": 46,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 221,
+  "possible_points": 232,
   "answer_pangrams": [
     "coupled"
   ],
@@ -30,6 +30,7 @@
     "delude",
     "deluded",
     "deuce",
+    "deuced",
     "dude",
     "duded",
     "duel",
@@ -38,6 +39,7 @@
     "dulled",
     "dupe",
     "duped",
+    "educe",
     "elude",
     "eluded",
     "loud",
@@ -59,15 +61,15 @@
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 9,
-      "6": 14,
+      "5": 10,
+      "6": 15,
       "7": 8,
       "8": 2
     },
     "by_first_letter": {
       "C": 17,
-      "D": 13,
-      "E": 2,
+      "D": 14,
+      "E": 3,
       "L": 4,
       "O": 2,
       "P": 7,
@@ -84,11 +86,11 @@
       "D": {
         "4": 4,
         "5": 3,
-        "6": 4,
+        "6": 5,
         "7": 2
       },
       "E": {
-        "5": 1,
+        "5": 2,
         "6": 1
       },
       "L": {
@@ -112,8 +114,9 @@
       "CL": 4,
       "CO": 7,
       "CU": 6,
-      "DE": 5,
+      "DE": 6,
       "DU": 8,
+      "ED": 1,
       "EL": 2,
       "LO": 1,
       "LU": 3,

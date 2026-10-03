@@ -1,9 +1,9 @@
 {
   "pangram": "mounted",
   "center_letter": "n",
-  "num_answers": 75,
+  "num_answers": 74,
   "num_pangrams": 3,
-  "possible_points": 366,
+  "possible_points": 362,
   "answer_pangrams": [
     "demount",
     "denouement",
@@ -20,18 +20,17 @@
     "dented",
     "denude",
     "denuded",
+    "detent",
     "detente",
     "done",
     "donned",
     "donut",
     "dune",
     "dunned",
-    "dunno",
     "duodenum",
     "emend",
     "emended",
     "ended",
-    "endue",
     "endued",
     "entente",
     "memento",
@@ -90,15 +89,15 @@
   "hints": {
     "by_length": {
       "4": 24,
-      "5": 14,
-      "6": 18,
+      "5": 12,
+      "6": 19,
       "7": 11,
       "8": 7,
       "10": 1
     },
     "by_first_letter": {
       "D": 18,
-      "E": 6,
+      "E": 5,
       "M": 16,
       "N": 13,
       "O": 3,
@@ -108,14 +107,14 @@
     "grid": {
       "D": {
         "4": 3,
-        "5": 3,
-        "6": 5,
+        "5": 2,
+        "6": 6,
         "7": 4,
         "8": 2,
         "10": 1
       },
       "E": {
-        "5": 3,
+        "5": 2,
         "6": 1,
         "7": 2
       },
@@ -150,11 +149,11 @@
       }
     },
     "two_letter_list": {
-      "DE": 11,
+      "DE": 12,
       "DO": 3,
-      "DU": 4,
+      "DU": 3,
       "EM": 2,
-      "EN": 4,
+      "EN": 3,
       "ME": 4,
       "MO": 11,
       "MU": 1,

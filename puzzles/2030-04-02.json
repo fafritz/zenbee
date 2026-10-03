@@ -1,28 +1,30 @@
 {
   "pangram": "combing",
   "center_letter": "i",
-  "num_answers": 50,
+  "num_answers": 53,
   "num_pangrams": 2,
-  "possible_points": 319,
+  "possible_points": 335,
   "answer_pangrams": [
     "combing",
     "combining"
   ],
   "answers": [
+    "binging",
     "bingo",
     "binning",
     "bionic",
     "bobbin",
     "bobbing",
     "bogging",
+    "boing",
     "bombing",
     "bonging",
     "boning",
-    "boobing",
     "booing",
     "booming",
     "cocci",
     "cocooning",
+    "cogging",
     "coin",
     "coining",
     "combing",
@@ -36,14 +38,15 @@
     "gibing",
     "gigging",
     "ginning",
-    "gobbing",
     "going",
     "gonging",
     "icing",
     "icon",
+    "iconic",
     "imbibing",
     "incoming",
     "inning",
+    "ionic",
     "mimic",
     "miming",
     "mincing",
@@ -64,24 +67,24 @@
   "hints": {
     "by_length": {
       "4": 3,
-      "5": 10,
-      "6": 14,
+      "5": 12,
+      "6": 15,
       "7": 18,
       "8": 3,
       "9": 2
     },
     "by_first_letter": {
-      "B": 12,
-      "C": 11,
-      "G": 7,
-      "I": 5,
+      "B": 13,
+      "C": 12,
+      "G": 6,
+      "I": 7,
       "M": 10,
       "N": 2,
       "O": 3
     },
     "grid": {
       "B": {
-        "5": 1,
+        "5": 2,
         "6": 4,
         "7": 7
       },
@@ -89,18 +92,18 @@
         "4": 1,
         "5": 3,
         "6": 2,
-        "7": 3,
+        "7": 4,
         "9": 2
       },
       "G": {
         "5": 1,
         "6": 2,
-        "7": 4
+        "7": 3
       },
       "I": {
         "4": 1,
-        "5": 1,
-        "6": 1,
+        "5": 2,
+        "6": 2,
         "8": 2
       },
       "M": {
@@ -120,14 +123,15 @@
       }
     },
     "two_letter_list": {
-      "BI": 3,
+      "BI": 4,
       "BO": 9,
-      "CO": 11,
+      "CO": 12,
       "GI": 4,
-      "GO": 3,
-      "IC": 2,
+      "GO": 2,
+      "IC": 3,
       "IM": 1,
       "IN": 2,
+      "IO": 1,
       "MI": 7,
       "MO": 3,
       "NI": 1,

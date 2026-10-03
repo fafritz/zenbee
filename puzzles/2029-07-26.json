@@ -1,9 +1,9 @@
 {
   "pangram": "include",
   "center_letter": "i",
-  "num_answers": 52,
+  "num_answers": 55,
   "num_pangrams": 2,
-  "possible_points": 264,
+  "possible_points": 284,
   "answer_pangrams": [
     "include",
     "included"
@@ -12,6 +12,7 @@
     "clinic",
     "decide",
     "decided",
+    "decile",
     "decline",
     "declined",
     "deice",
@@ -44,6 +45,8 @@
     "induce",
     "induced",
     "inline",
+    "inulin",
+    "lenience",
     "lice",
     "lidded",
     "lied",
@@ -67,17 +70,17 @@
     "by_length": {
       "4": 14,
       "5": 11,
-      "6": 15,
+      "6": 17,
       "7": 7,
-      "8": 3,
+      "8": 4,
       "9": 2
     },
     "by_first_letter": {
       "C": 1,
-      "D": 17,
+      "D": 18,
       "E": 4,
-      "I": 13,
-      "L": 10,
+      "I": 14,
+      "L": 11,
       "N": 5,
       "U": 2
     },
@@ -88,7 +91,7 @@
       "D": {
         "4": 5,
         "5": 3,
-        "6": 5,
+        "6": 6,
         "7": 3,
         "8": 1
       },
@@ -99,7 +102,7 @@
       "I": {
         "4": 2,
         "5": 1,
-        "6": 4,
+        "6": 5,
         "7": 3,
         "8": 2,
         "9": 1
@@ -107,7 +110,8 @@
       "L": {
         "4": 5,
         "5": 3,
-        "6": 2
+        "6": 2,
+        "8": 1
       },
       "N": {
         "4": 2,
@@ -122,14 +126,15 @@
     },
     "two_letter_list": {
       "CL": 1,
-      "DE": 8,
+      "DE": 9,
       "DI": 9,
       "ED": 1,
       "EL": 2,
       "EN": 1,
       "IC": 2,
       "ID": 2,
-      "IN": 9,
+      "IN": 10,
+      "LE": 1,
       "LI": 9,
       "LU": 1,
       "NI": 3,

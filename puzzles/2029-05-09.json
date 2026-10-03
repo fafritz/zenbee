@@ -1,9 +1,9 @@
 {
   "pangram": "warping",
   "center_letter": "p",
-  "num_answers": 41,
+  "num_answers": 43,
   "num_pangrams": 3,
-  "possible_points": 235,
+  "possible_points": 246,
   "answer_pangrams": [
     "prawning",
     "warping",
@@ -24,6 +24,7 @@
     "pair",
     "pairing",
     "pang",
+    "panini",
     "panning",
     "papa",
     "paring",
@@ -36,6 +37,7 @@
     "ping",
     "pinging",
     "pining",
+    "pinna",
     "pinning",
     "piping",
     "pippin",
@@ -56,8 +58,8 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 3,
-      "6": 10,
+      "5": 4,
+      "6": 11,
       "7": 15,
       "8": 3
     },
@@ -65,7 +67,7 @@
       "A": 1,
       "G": 4,
       "N": 2,
-      "P": 27,
+      "P": 29,
       "R": 2,
       "W": 5
     },
@@ -84,8 +86,8 @@
       },
       "P": {
         "4": 7,
-        "5": 2,
-        "6": 8,
+        "5": 3,
+        "6": 9,
         "7": 9,
         "8": 1
       },
@@ -105,8 +107,8 @@
       "GR": 3,
       "NA": 1,
       "NI": 1,
-      "PA": 15,
-      "PI": 8,
+      "PA": 16,
+      "PI": 9,
       "PR": 3,
       "PW": 1,
       "RA": 1,

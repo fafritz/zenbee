@@ -1,9 +1,9 @@
 {
   "pangram": "polemic",
   "center_letter": "c",
-  "num_answers": 32,
+  "num_answers": 31,
   "num_pangrams": 2,
-  "possible_points": 129,
+  "possible_points": 123,
   "answer_pangrams": [
     "compile",
     "polemic"
@@ -26,7 +26,6 @@
     "compile",
     "compo",
     "cool",
-    "coolie",
     "coop",
     "cope",
     "emcee",
@@ -47,11 +46,11 @@
     "by_length": {
       "4": 14,
       "5": 10,
-      "6": 5,
+      "6": 4,
       "7": 3
     },
     "by_first_letter": {
-      "C": 20,
+      "C": 19,
       "E": 2,
       "I": 1,
       "L": 3,
@@ -62,7 +61,7 @@
       "C": {
         "4": 9,
         "5": 7,
-        "6": 3,
+        "6": 2,
         "7": 1
       },
       "E": {
@@ -88,7 +87,7 @@
     "two_letter_list": {
       "CE": 2,
       "CL": 4,
-      "CO": 14,
+      "CO": 13,
       "EM": 1,
       "EP": 1,
       "IC": 1,

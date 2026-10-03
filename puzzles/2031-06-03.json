@@ -1,13 +1,14 @@
 {
   "pangram": "helping",
   "center_letter": "l",
-  "num_answers": 31,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 147,
+  "possible_points": 153,
   "answer_pangrams": [
     "helping"
   ],
   "answers": [
+    "eeling",
     "gelling",
     "giggle",
     "giggling",
@@ -25,6 +26,7 @@
     "legging",
     "liege",
     "lien",
+    "lignin",
     "line",
     "linen",
     "lining",
@@ -33,7 +35,6 @@
     "niggling",
     "peel",
     "peeling",
-    "penile",
     "pile",
     "piling",
     "pill",
@@ -45,19 +46,23 @@
     "by_length": {
       "4": 12,
       "5": 2,
-      "6": 6,
+      "6": 7,
       "7": 6,
       "8": 5
     },
     "by_first_letter": {
+      "E": 1,
       "G": 6,
       "H": 7,
       "I": 1,
-      "L": 6,
+      "L": 7,
       "N": 3,
-      "P": 8
+      "P": 7
     },
     "grid": {
+      "E": {
+        "6": 1
+      },
       "G": {
         "4": 3,
         "6": 1,
@@ -75,7 +80,7 @@
       "L": {
         "4": 2,
         "5": 2,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "N": {
@@ -84,12 +89,13 @@
       },
       "P": {
         "4": 3,
-        "6": 2,
+        "6": 1,
         "7": 2,
         "8": 1
       }
     },
     "two_letter_list": {
+      "EE": 1,
       "GE": 1,
       "GI": 3,
       "GL": 2,
@@ -97,10 +103,10 @@
       "HI": 1,
       "IN": 1,
       "LE": 1,
-      "LI": 5,
+      "LI": 6,
       "NE": 1,
       "NI": 2,
-      "PE": 3,
+      "PE": 2,
       "PI": 5
     }
   }

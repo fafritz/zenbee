@@ -1,14 +1,15 @@
 {
   "pangram": "clowned",
   "center_letter": "l",
-  "num_answers": 55,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 239,
+  "possible_points": 251,
   "answer_pangrams": [
     "clowned"
   ],
   "answers": [
     "cell",
+    "celled",
     "cello",
     "clew",
     "clewed",
@@ -38,6 +39,8 @@
     "dowel",
     "doweled",
     "dwell",
+    "eeled",
+    "lede",
     "lend",
     "lewd",
     "loco",
@@ -67,17 +70,18 @@
   "date": "2031-04-06",
   "hints": {
     "by_length": {
-      "4": 21,
-      "5": 10,
-      "6": 12,
+      "4": 22,
+      "5": 11,
+      "6": 13,
       "7": 9,
       "8": 2,
       "10": 1
     },
     "by_first_letter": {
-      "C": 20,
+      "C": 21,
       "D": 10,
-      "L": 11,
+      "E": 1,
+      "L": 12,
       "N": 6,
       "O": 2,
       "W": 6
@@ -86,7 +90,7 @@
       "C": {
         "4": 6,
         "5": 4,
-        "6": 4,
+        "6": 5,
         "7": 4,
         "8": 1,
         "10": 1
@@ -97,8 +101,11 @@
         "6": 2,
         "7": 2
       },
+      "E": {
+        "5": 1
+      },
       "L": {
-        "4": 7,
+        "4": 8,
         "5": 1,
         "6": 1,
         "7": 1,
@@ -120,13 +127,14 @@
       }
     },
     "two_letter_list": {
-      "CE": 2,
+      "CE": 3,
       "CL": 7,
       "CO": 11,
       "DE": 1,
       "DO": 8,
       "DW": 1,
-      "LE": 2,
+      "EE": 1,
+      "LE": 3,
       "LO": 9,
       "NE": 3,
       "NO": 3,

@@ -1,9 +1,9 @@
 {
   "pangram": "ineptly",
   "center_letter": "l",
-  "num_answers": 44,
+  "num_answers": 42,
   "num_pangrams": 2,
-  "possible_points": 205,
+  "possible_points": 193,
   "answer_pangrams": [
     "ineptly",
     "penitently"
@@ -35,7 +35,6 @@
     "peel",
     "pellet",
     "pelt",
-    "penile",
     "penitently",
     "pettily",
     "pile",
@@ -44,7 +43,6 @@
     "plenty",
     "teletype",
     "tell",
-    "telnet",
     "tile",
     "till",
     "tilt",
@@ -59,7 +57,7 @@
     "by_length": {
       "4": 17,
       "5": 5,
-      "6": 13,
+      "6": 11,
       "7": 4,
       "8": 3,
       "9": 1,
@@ -70,8 +68,8 @@
       "I": 5,
       "L": 14,
       "N": 1,
-      "P": 10,
-      "T": 9,
+      "P": 9,
+      "T": 8,
       "Y": 2
     },
     "grid": {
@@ -98,7 +96,7 @@
       },
       "P": {
         "4": 4,
-        "6": 3,
+        "6": 2,
         "7": 1,
         "8": 1,
         "10": 1
@@ -106,7 +104,7 @@
       "T": {
         "4": 4,
         "5": 1,
-        "6": 3,
+        "6": 2,
         "8": 1
       },
       "Y": {
@@ -121,10 +119,10 @@
       "LE": 4,
       "LI": 10,
       "NE": 1,
-      "PE": 6,
+      "PE": 5,
       "PI": 3,
       "PL": 1,
-      "TE": 3,
+      "TE": 2,
       "TI": 6,
       "YE": 2
     }

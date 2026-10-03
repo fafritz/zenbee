@@ -1,9 +1,9 @@
 {
   "pangram": "unlaced",
   "center_letter": "c",
-  "num_answers": 60,
+  "num_answers": 64,
   "num_pangrams": 2,
-  "possible_points": 318,
+  "possible_points": 342,
   "answer_pangrams": [
     "uncalled",
     "unlaced"
@@ -35,6 +35,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "clad",
     "clan",
     "clean",
@@ -48,14 +49,17 @@
     "culled",
     "dance",
     "danced",
+    "decadal",
     "decade",
     "decadence",
     "decal",
     "deduce",
     "deduced",
     "deuce",
+    "deuced",
     "ducal",
     "dunce",
+    "educe",
     "lace",
     "laced",
     "lacuna",
@@ -74,16 +78,17 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 15,
-      "6": 18,
-      "7": 12,
+      "5": 16,
+      "6": 20,
+      "7": 13,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
       "A": 6,
-      "C": 31,
-      "D": 10,
+      "C": 32,
+      "D": 12,
+      "E": 1,
       "L": 6,
       "N": 2,
       "U": 5
@@ -97,15 +102,18 @@
       "C": {
         "4": 9,
         "5": 7,
-        "6": 9,
+        "6": 10,
         "7": 5,
         "8": 1
       },
       "D": {
         "5": 5,
-        "6": 3,
-        "7": 1,
+        "6": 4,
+        "7": 2,
         "9": 1
+      },
+      "E": {
+        "5": 1
       },
       "L": {
         "4": 1,
@@ -128,12 +136,13 @@
       "AC": 4,
       "AD": 2,
       "CA": 17,
-      "CE": 3,
+      "CE": 4,
       "CL": 6,
       "CU": 5,
       "DA": 2,
-      "DE": 6,
+      "DE": 8,
       "DU": 2,
+      "ED": 1,
       "LA": 6,
       "NU": 2,
       "UN": 5

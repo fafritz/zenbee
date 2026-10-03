@@ -1,9 +1,9 @@
 {
   "pangram": "backing",
   "center_letter": "a",
-  "num_answers": 43,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 227,
+  "possible_points": 242,
   "answer_pangrams": [
     "backing"
   ],
@@ -31,6 +31,7 @@
     "cabana",
     "cabbing",
     "cabin",
+    "cabining",
     "caging",
     "caking",
     "cancan",
@@ -38,11 +39,13 @@
     "canna",
     "canning",
     "gabbing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gang",
     "ganging",
+    "kanban",
     "kickback",
     "knack",
     "knickknack",
@@ -55,19 +58,19 @@
   "date": "2034-09-15",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 11,
       "5": 7,
-      "6": 11,
+      "6": 12,
       "7": 13,
-      "8": 1,
+      "8": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 8,
       "B": 12,
-      "C": 9,
-      "G": 6,
-      "K": 3,
+      "C": 10,
+      "G": 7,
+      "K": 4,
       "N": 5
     },
     "grid": {
@@ -84,14 +87,16 @@
       "C": {
         "5": 2,
         "6": 5,
-        "7": 2
+        "7": 2,
+        "8": 1
       },
       "G": {
-        "4": 2,
+        "4": 3,
         "7": 4
       },
       "K": {
         "5": 1,
+        "6": 1,
         "8": 1,
         "10": 1
       },
@@ -108,8 +113,9 @@
       "AK": 1,
       "AN": 1,
       "BA": 12,
-      "CA": 9,
-      "GA": 6,
+      "CA": 10,
+      "GA": 7,
+      "KA": 1,
       "KI": 1,
       "KN": 2,
       "NA": 4,

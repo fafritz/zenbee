@@ -1,9 +1,9 @@
 {
   "pangram": "caribou",
   "center_letter": "b",
-  "num_answers": 22,
+  "num_answers": 24,
   "num_pangrams": 1,
-  "possible_points": 93,
+  "possible_points": 94,
   "answer_pangrams": [
     "caribou"
   ],
@@ -16,13 +16,15 @@
     "barbaric",
     "barrio",
     "boar",
+    "boba",
     "boob",
-    "booboo",
     "boor",
     "briar",
+    "brio",
     "burr",
     "burro",
     "caribou",
+    "carob",
     "cobra",
     "crab",
     "crib",
@@ -34,16 +36,16 @@
   "date": "2028-05-13",
   "hints": {
     "by_length": {
-      "4": 9,
-      "5": 6,
-      "6": 4,
+      "4": 11,
+      "5": 7,
+      "6": 3,
       "7": 1,
       "8": 2
     },
     "by_first_letter": {
       "A": 1,
-      "B": 13,
-      "C": 6,
+      "B": 14,
+      "C": 7,
       "R": 2
     },
     "grid": {
@@ -51,14 +53,14 @@
         "5": 1
       },
       "B": {
-        "4": 6,
+        "4": 8,
         "5": 2,
-        "6": 3,
+        "6": 2,
         "8": 2
       },
       "C": {
         "4": 3,
-        "5": 2,
+        "5": 3,
         "7": 1
       },
       "R": {
@@ -70,9 +72,9 @@
       "AR": 1,
       "BA": 6,
       "BO": 4,
-      "BR": 1,
+      "BR": 2,
       "BU": 2,
-      "CA": 1,
+      "CA": 2,
       "CO": 1,
       "CR": 2,
       "CU": 2,

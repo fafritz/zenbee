@@ -1,9 +1,9 @@
 {
   "pangram": "tangelo",
   "center_letter": "o",
-  "num_answers": 68,
+  "num_answers": 71,
   "num_pangrams": 2,
-  "possible_points": 261,
+  "possible_points": 275,
   "answer_pangrams": [
     "elongate",
     "tangelo"
@@ -16,6 +16,7 @@
     "along",
     "alto",
     "analog",
+    "annatto",
     "annotate",
     "anon",
     "atoll",
@@ -23,6 +24,7 @@
     "atone",
     "eggnog",
     "elongate",
+    "elote",
     "galleon",
     "gallon",
     "gloat",
@@ -32,7 +34,6 @@
     "goggle",
     "gone",
     "gong",
-    "gonna",
     "google",
     "goon",
     "gotten",
@@ -54,6 +55,7 @@
     "noel",
     "none",
     "noon",
+    "notate",
     "note",
     "oaten",
     "ogle",
@@ -71,6 +73,7 @@
     "tollgate",
     "tonal",
     "tone",
+    "tong",
     "tonnage",
     "tool",
     "toon",
@@ -81,35 +84,37 @@
   "date": "2026-11-01",
   "hints": {
     "by_length": {
-      "4": 32,
+      "4": 33,
       "5": 15,
-      "6": 12,
-      "7": 4,
+      "6": 13,
+      "7": 5,
       "8": 5
     },
     "by_first_letter": {
-      "A": 12,
-      "E": 2,
-      "G": 13,
+      "A": 13,
+      "E": 3,
+      "G": 12,
       "L": 12,
-      "N": 7,
+      "N": 8,
       "O": 4,
-      "T": 18
+      "T": 19
     },
     "grid": {
       "A": {
         "4": 4,
         "5": 5,
         "6": 2,
+        "7": 1,
         "8": 1
       },
       "E": {
+        "5": 1,
         "6": 1,
         "8": 1
       },
       "G": {
         "4": 5,
-        "5": 2,
+        "5": 1,
         "6": 5,
         "7": 1
       },
@@ -120,6 +125,7 @@
       },
       "N": {
         "4": 5,
+        "6": 1,
         "7": 1,
         "8": 1
       },
@@ -128,7 +134,7 @@
         "5": 1
       },
       "T": {
-        "4": 7,
+        "4": 8,
         "5": 5,
         "6": 2,
         "7": 2,
@@ -138,26 +144,26 @@
     "two_letter_list": {
       "AG": 1,
       "AL": 5,
-      "AN": 3,
+      "AN": 4,
       "AT": 3,
       "EG": 1,
-      "EL": 1,
+      "EL": 2,
       "GA": 2,
       "GL": 1,
-      "GO": 10,
+      "GO": 9,
       "LA": 1,
       "LE": 1,
       "LL": 1,
       "LO": 9,
       "NE": 3,
-      "NO": 4,
+      "NO": 5,
       "OA": 1,
       "OG": 1,
       "OL": 1,
       "ON": 1,
       "TA": 4,
       "TE": 2,
-      "TO": 12
+      "TO": 13
     }
   }
 }

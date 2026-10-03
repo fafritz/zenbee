@@ -1,9 +1,9 @@
 {
   "pangram": "corking",
   "center_letter": "c",
-  "num_answers": 43,
+  "num_answers": 46,
   "num_pangrams": 3,
-  "possible_points": 244,
+  "possible_points": 262,
   "answer_pangrams": [
     "corking",
     "crooking",
@@ -15,6 +15,7 @@
     "cocking",
     "cocoon",
     "cocooning",
+    "cogging",
     "coin",
     "coining",
     "coking",
@@ -40,6 +41,8 @@
     "crooning",
     "icing",
     "icon",
+    "iconic",
+    "ionic",
     "ironic",
     "kick",
     "kicking",
@@ -58,15 +61,15 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 9,
-      "6": 7,
-      "7": 11,
+      "5": 10,
+      "6": 8,
+      "7": 12,
       "8": 5,
       "9": 1
     },
     "by_first_letter": {
-      "C": 28,
-      "I": 3,
+      "C": 29,
+      "I": 5,
       "K": 4,
       "N": 2,
       "R": 6
@@ -76,14 +79,14 @@
         "4": 5,
         "5": 7,
         "6": 4,
-        "7": 7,
+        "7": 8,
         "8": 4,
         "9": 1
       },
       "I": {
         "4": 1,
-        "5": 1,
-        "6": 1
+        "5": 2,
+        "6": 2
       },
       "K": {
         "4": 1,
@@ -103,9 +106,10 @@
     },
     "two_letter_list": {
       "CI": 1,
-      "CO": 19,
+      "CO": 20,
       "CR": 8,
-      "IC": 2,
+      "IC": 3,
+      "IO": 1,
       "IR": 1,
       "KI": 2,
       "KN": 2,

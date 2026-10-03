@@ -1,9 +1,9 @@
 {
   "pangram": "clothed",
   "center_letter": "o",
-  "num_answers": 79,
+  "num_answers": 80,
   "num_pangrams": 1,
-  "possible_points": 330,
+  "possible_points": 335,
   "answer_pangrams": [
     "clothed"
   ],
@@ -46,6 +46,7 @@
     "dotted",
     "echo",
     "echoed",
+    "elote",
     "hellhole",
     "hello",
     "helot",
@@ -92,7 +93,7 @@
   "hints": {
     "by_length": {
       "4": 31,
-      "5": 15,
+      "5": 16,
       "6": 20,
       "7": 9,
       "8": 2,
@@ -101,7 +102,7 @@
     "by_first_letter": {
       "C": 22,
       "D": 14,
-      "E": 2,
+      "E": 3,
       "H": 15,
       "L": 7,
       "O": 3,
@@ -124,6 +125,7 @@
       },
       "E": {
         "4": 1,
+        "5": 1,
         "6": 1
       },
       "H": {
@@ -156,6 +158,7 @@
       "DE": 3,
       "DO": 11,
       "EC": 2,
+      "EL": 1,
       "HE": 3,
       "HO": 12,
       "LO": 7,

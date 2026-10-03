@@ -1,9 +1,9 @@
 {
   "pangram": "exclaim",
   "center_letter": "m",
-  "num_answers": 45,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 163,
+  "possible_points": 168,
   "answer_pangrams": [
     "exclaim"
   ],
@@ -32,6 +32,7 @@
     "mail",
     "maim",
     "male",
+    "malic",
     "malice",
     "mall",
     "mama",
@@ -58,7 +59,7 @@
   "hints": {
     "by_length": {
       "4": 22,
-      "5": 12,
+      "5": 13,
       "6": 5,
       "7": 4,
       "8": 2
@@ -69,7 +70,7 @@
       "E": 4,
       "I": 1,
       "L": 5,
-      "M": 25
+      "M": 26
     },
     "grid": {
       "A": {
@@ -96,7 +97,7 @@
       },
       "M": {
         "4": 13,
-        "5": 5,
+        "5": 6,
         "6": 4,
         "7": 2,
         "8": 1
@@ -113,7 +114,7 @@
       "LE": 1,
       "LI": 1,
       "LL": 1,
-      "MA": 15,
+      "MA": 16,
       "ME": 4,
       "MI": 6
     }

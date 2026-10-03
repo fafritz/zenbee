@@ -1,9 +1,9 @@
 {
   "pangram": "halibut",
   "center_letter": "u",
-  "num_answers": 17,
+  "num_answers": 18,
   "num_pangrams": 2,
-  "possible_points": 59,
+  "possible_points": 64,
   "answer_pangrams": [
     "habitual",
     "halibut"
@@ -25,13 +25,14 @@
     "lulu",
     "taut",
     "tuba",
+    "tubal",
     "tutu"
   ],
   "date": "2037-08-19",
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 1,
+      "5": 2,
       "6": 1,
       "7": 2,
       "8": 1
@@ -41,7 +42,7 @@
       "B": 4,
       "H": 6,
       "L": 3,
-      "T": 3
+      "T": 4
     },
     "grid": {
       "A": {
@@ -62,7 +63,8 @@
         "4": 3
       },
       "T": {
-        "4": 3
+        "4": 3,
+        "5": 1
       }
     },
     "two_letter_list": {
@@ -73,7 +75,7 @@
       "HU": 3,
       "LU": 3,
       "TA": 1,
-      "TU": 2
+      "TU": 3
     }
   }
 }

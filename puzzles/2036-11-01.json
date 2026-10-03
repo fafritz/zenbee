@@ -1,9 +1,9 @@
 {
   "pangram": "tongued",
   "center_letter": "t",
-  "num_answers": 55,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 237,
+  "possible_points": 250,
   "answer_pangrams": [
     "tongued"
   ],
@@ -12,6 +12,7 @@
     "denoted",
     "dent",
     "dented",
+    "detent",
     "detente",
     "donut",
     "dote",
@@ -48,6 +49,8 @@
     "toed",
     "tone",
     "toned",
+    "tong",
+    "tonged",
     "tongue",
     "tongued",
     "toon",
@@ -67,25 +70,25 @@
   "date": "2036-11-01",
   "hints": {
     "by_length": {
-      "4": 19,
+      "4": 20,
       "5": 12,
-      "6": 17,
+      "6": 19,
       "7": 7
     },
     "by_first_letter": {
-      "D": 11,
+      "D": 12,
       "E": 2,
       "G": 4,
       "N": 5,
       "O": 5,
-      "T": 27,
+      "T": 29,
       "U": 1
     },
     "grid": {
       "D": {
         "4": 3,
         "5": 2,
-        "6": 4,
+        "6": 5,
         "7": 2
       },
       "E": {
@@ -107,9 +110,9 @@
         "7": 1
       },
       "T": {
-        "4": 12,
+        "4": 13,
         "5": 5,
-        "6": 8,
+        "6": 9,
         "7": 2
       },
       "U": {
@@ -117,7 +120,7 @@
       }
     },
     "two_letter_list": {
-      "DE": 5,
+      "DE": 6,
       "DO": 4,
       "DU": 2,
       "EN": 1,
@@ -131,7 +134,7 @@
       "ON": 1,
       "OU": 4,
       "TE": 10,
-      "TO": 13,
+      "TO": 15,
       "TU": 4,
       "UN": 1
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "romping",
   "center_letter": "i",
-  "num_answers": 74,
+  "num_answers": 79,
   "num_pangrams": 1,
-  "possible_points": 444,
+  "possible_points": 464,
   "answer_pangrams": [
     "romping"
   ],
@@ -46,6 +46,8 @@
     "morning",
     "nipping",
     "noggin",
+    "noir",
+    "nori",
     "ongoing",
     "onion",
     "opining",
@@ -63,8 +65,10 @@
     "piping",
     "pippin",
     "pipping",
-    "pooping",
+    "pirogi",
+    "pogoing",
     "popping",
+    "porging",
     "poring",
     "prig",
     "prim",
@@ -80,16 +84,17 @@
     "ringing",
     "ripping",
     "romping",
+    "ronin",
     "rooming",
     "roping"
   ],
   "date": "2038-08-16",
   "hints": {
     "by_length": {
-      "4": 10,
-      "5": 8,
-      "6": 18,
-      "7": 28,
+      "4": 12,
+      "5": 9,
+      "6": 19,
+      "7": 29,
       "8": 7,
       "9": 3
     },
@@ -97,10 +102,10 @@
       "G": 15,
       "I": 5,
       "M": 16,
-      "N": 2,
+      "N": 4,
       "O": 5,
-      "P": 22,
-      "R": 9
+      "P": 24,
+      "R": 10
     },
     "grid": {
       "G": {
@@ -126,6 +131,7 @@
         "9": 1
       },
       "N": {
+        "4": 2,
         "6": 1,
         "7": 1
       },
@@ -137,14 +143,14 @@
       "P": {
         "4": 4,
         "5": 2,
-        "6": 5,
-        "7": 8,
+        "6": 6,
+        "7": 9,
         "8": 2,
         "9": 1
       },
       "R": {
         "4": 1,
-        "5": 1,
+        "5": 2,
         "6": 2,
         "7": 5
       }
@@ -160,15 +166,15 @@
       "MI": 10,
       "MO": 6,
       "NI": 1,
-      "NO": 1,
+      "NO": 3,
       "ON": 2,
       "OP": 2,
       "OR": 1,
-      "PI": 12,
-      "PO": 3,
+      "PI": 13,
+      "PO": 4,
       "PR": 7,
       "RI": 6,
-      "RO": 3
+      "RO": 4
     }
   }
 }

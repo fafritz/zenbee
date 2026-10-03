@@ -3,7 +3,7 @@
   "center_letter": "e",
   "num_answers": 81,
   "num_pangrams": 1,
-  "possible_points": 341,
+  "possible_points": 340,
   "answer_pangrams": [
     "phonied"
   ],
@@ -49,7 +49,6 @@
     "hopped",
     "indeed",
     "iodine",
-    "iphone",
     "need",
     "needed",
     "nene",
@@ -68,6 +67,7 @@
     "peen",
     "peep",
     "peeped",
+    "penne",
     "penned",
     "pennon",
     "peon",
@@ -94,8 +94,8 @@
   "hints": {
     "by_length": {
       "4": 30,
-      "5": 11,
-      "6": 35,
+      "5": 12,
+      "6": 34,
       "7": 1,
       "8": 4
     },
@@ -103,10 +103,10 @@
       "D": 18,
       "E": 3,
       "H": 18,
-      "I": 3,
+      "I": 2,
       "N": 10,
       "O": 4,
-      "P": 25
+      "P": 26
     },
     "grid": {
       "D": {
@@ -127,7 +127,7 @@
         "8": 1
       },
       "I": {
-        "6": 3
+        "6": 2
       },
       "N": {
         "4": 7,
@@ -140,7 +140,7 @@
       },
       "P": {
         "4": 9,
-        "5": 3,
+        "5": 4,
         "6": 11,
         "7": 1,
         "8": 1
@@ -158,12 +158,11 @@
       "HO": 10,
       "IN": 1,
       "IO": 1,
-      "IP": 1,
       "NE": 4,
       "NI": 2,
       "NO": 4,
       "OP": 4,
-      "PE": 8,
+      "PE": 9,
       "PH": 3,
       "PI": 8,
       "PO": 6

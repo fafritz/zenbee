@@ -1,9 +1,9 @@
 {
   "pangram": "poniard",
   "center_letter": "d",
-  "num_answers": 45,
+  "num_answers": 43,
   "num_pangrams": 3,
-  "possible_points": 199,
+  "possible_points": 197,
   "answer_pangrams": [
     "paranoid",
     "poniard",
@@ -30,8 +30,6 @@
     "drop",
     "indoor",
     "inroad",
-    "ipad",
-    "ipod",
     "nadir",
     "naiad",
     "odor",
@@ -59,7 +57,7 @@
   "date": "2033-11-08",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 15,
       "5": 15,
       "6": 7,
       "7": 4,
@@ -68,7 +66,7 @@
     "by_first_letter": {
       "A": 6,
       "D": 12,
-      "I": 4,
+      "I": 2,
       "N": 2,
       "O": 3,
       "P": 7,
@@ -86,7 +84,6 @@
         "6": 1
       },
       "I": {
-        "4": 2,
         "6": 2
       },
       "N": {
@@ -120,7 +117,6 @@
       "DO": 4,
       "DR": 5,
       "IN": 2,
-      "IP": 2,
       "NA": 2,
       "OD": 1,
       "OP": 1,

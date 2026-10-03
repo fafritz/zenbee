@@ -1,9 +1,9 @@
 {
   "pangram": "pouched",
   "center_letter": "d",
-  "num_answers": 52,
+  "num_answers": 53,
   "num_pangrams": 1,
-  "possible_points": 248,
+  "possible_points": 253,
   "answer_pangrams": [
     "pouched"
   ],
@@ -30,16 +30,17 @@
     "deeded",
     "deep",
     "deuce",
+    "deuced",
     "dodo",
     "dope",
     "doped",
-    "douche",
     "douched",
     "dude",
     "duded",
     "dupe",
     "duped",
     "echoed",
+    "educe",
     "heed",
     "heeded",
     "hoed",
@@ -65,7 +66,7 @@
   "hints": {
     "by_length": {
       "4": 14,
-      "5": 10,
+      "5": 11,
       "6": 20,
       "7": 7,
       "8": 1
@@ -73,7 +74,7 @@
     "by_first_letter": {
       "C": 14,
       "D": 17,
-      "E": 1,
+      "E": 2,
       "H": 10,
       "P": 9,
       "U": 1
@@ -92,6 +93,7 @@
         "7": 3
       },
       "E": {
+        "5": 1,
         "6": 1
       },
       "H": {
@@ -114,10 +116,11 @@
       "CH": 2,
       "CO": 8,
       "CU": 2,
-      "DE": 8,
-      "DO": 5,
+      "DE": 9,
+      "DO": 4,
       "DU": 4,
       "EC": 1,
+      "ED": 1,
       "HE": 2,
       "HO": 8,
       "PE": 3,

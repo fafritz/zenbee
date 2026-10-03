@@ -1,14 +1,15 @@
 {
   "pangram": "combine",
   "center_letter": "m",
-  "num_answers": 34,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 147,
+  "possible_points": 152,
   "answer_pangrams": [
     "combine"
   ],
   "answers": [
     "become",
+    "biome",
     "bomb",
     "boom",
     "comb",
@@ -47,14 +48,14 @@
   "hints": {
     "by_length": {
       "4": 14,
-      "5": 7,
+      "5": 8,
       "6": 6,
       "7": 2,
       "8": 4,
       "9": 1
     },
     "by_first_letter": {
-      "B": 3,
+      "B": 4,
       "C": 7,
       "E": 3,
       "I": 3,
@@ -65,6 +66,7 @@
     "grid": {
       "B": {
         "4": 2,
+        "5": 1,
         "6": 1
       },
       "C": {
@@ -99,6 +101,7 @@
     },
     "two_letter_list": {
       "BE": 1,
+      "BI": 1,
       "BO": 2,
       "CO": 7,
       "EC": 1,

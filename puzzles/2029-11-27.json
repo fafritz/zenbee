@@ -1,9 +1,9 @@
 {
   "pangram": "calving",
   "center_letter": "n",
-  "num_answers": 69,
+  "num_answers": 71,
   "num_pangrams": 3,
-  "possible_points": 430,
+  "possible_points": 448,
   "answer_pangrams": [
     "calving",
     "caviling",
@@ -16,7 +16,6 @@
     "ailing",
     "align",
     "aligning",
-    "anal",
     "angina",
     "angling",
     "anvil",
@@ -45,6 +44,7 @@
     "gagging",
     "gain",
     "gaining",
+    "galangal",
     "galling",
     "galvanic",
     "gang",
@@ -62,7 +62,9 @@
     "lacing",
     "lagging",
     "lain",
+    "lanai",
     "lancing",
+    "lignin",
     "lining",
     "living",
     "naan",
@@ -83,25 +85,24 @@
   "date": "2029-11-27",
   "hints": {
     "by_length": {
-      "4": 9,
-      "5": 12,
-      "6": 14,
+      "4": 8,
+      "5": 13,
+      "6": 15,
       "7": 19,
-      "8": 12,
+      "8": 13,
       "9": 3
     },
     "by_first_letter": {
-      "A": 12,
+      "A": 11,
       "C": 20,
-      "G": 14,
+      "G": 15,
       "I": 3,
-      "L": 6,
+      "L": 8,
       "N": 8,
       "V": 6
     },
     "grid": {
       "A": {
-        "4": 1,
         "5": 6,
         "6": 2,
         "7": 1,
@@ -119,7 +120,7 @@
         "4": 2,
         "6": 1,
         "7": 7,
-        "8": 4
+        "8": 5
       },
       "I": {
         "5": 1,
@@ -128,7 +129,8 @@
       },
       "L": {
         "4": 1,
-        "6": 3,
+        "5": 1,
+        "6": 4,
         "7": 2
       },
       "N": {
@@ -149,18 +151,18 @@
       "AG": 2,
       "AI": 1,
       "AL": 2,
-      "AN": 4,
+      "AN": 3,
       "AV": 2,
       "CA": 11,
       "CI": 1,
       "CL": 8,
-      "GA": 9,
+      "GA": 10,
       "GI": 4,
       "GL": 1,
       "IC": 1,
       "IN": 2,
-      "LA": 4,
-      "LI": 2,
+      "LA": 5,
+      "LI": 3,
       "NA": 6,
       "NI": 2,
       "VA": 4,

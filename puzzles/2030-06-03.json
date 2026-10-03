@@ -1,9 +1,9 @@
 {
   "pangram": "blazing",
   "center_letter": "a",
-  "num_answers": 56,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 296,
+  "possible_points": 309,
   "answer_pangrams": [
     "blazing"
   ],
@@ -16,7 +16,6 @@
     "alibiing",
     "align",
     "aligning",
-    "anal",
     "angina",
     "angling",
     "baaing",
@@ -38,10 +37,12 @@
     "blazing",
     "gabbing",
     "gabbling",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -54,6 +55,7 @@
     "labial",
     "lagging",
     "lain",
+    "lanai",
     "lazing",
     "naan",
     "nabbing",
@@ -69,23 +71,23 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 6,
+      "5": 7,
       "6": 10,
       "7": 18,
-      "8": 6,
+      "8": 7,
       "10": 1
     },
     "by_first_letter": {
-      "A": 11,
+      "A": 10,
       "B": 17,
-      "G": 14,
-      "L": 5,
+      "G": 16,
+      "L": 6,
       "N": 6,
       "Z": 3
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 4,
         "6": 2,
         "7": 1,
@@ -99,14 +101,14 @@
         "8": 2
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "6": 1,
         "7": 7,
-        "8": 2
+        "8": 3
       },
       "L": {
         "4": 1,
-        "5": 1,
+        "5": 2,
         "6": 2,
         "7": 1
       },
@@ -123,12 +125,12 @@
       "AG": 2,
       "AI": 1,
       "AL": 5,
-      "AN": 3,
+      "AN": 2,
       "BA": 14,
       "BL": 3,
-      "GA": 13,
+      "GA": 15,
       "GL": 1,
-      "LA": 5,
+      "LA": 6,
       "NA": 6,
       "ZI": 3
     }

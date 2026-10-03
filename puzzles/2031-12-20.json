@@ -1,9 +1,9 @@
 {
   "pangram": "boating",
   "center_letter": "t",
-  "num_answers": 75,
+  "num_answers": 79,
   "num_pangrams": 4,
-  "possible_points": 463,
+  "possible_points": 483,
   "answer_pangrams": [
     "boating",
     "obtaining",
@@ -15,6 +15,7 @@
     "abbot",
     "agitating",
     "agitation",
+    "annatto",
     "annotating",
     "annotation",
     "anoint",
@@ -28,6 +29,7 @@
     "baton",
     "batting",
     "bigot",
+    "biota",
     "biting",
     "boat",
     "boating",
@@ -80,6 +82,8 @@
     "toboggan",
     "tobogganing",
     "toga",
+    "tong",
+    "tonging",
     "toning",
     "toon",
     "toot",
@@ -90,36 +94,36 @@
   "date": "2031-12-20",
   "hints": {
     "by_length": {
-      "4": 16,
-      "5": 10,
+      "4": 17,
+      "5": 11,
       "6": 13,
-      "7": 16,
+      "7": 18,
       "8": 8,
       "9": 6,
       "10": 5,
       "11": 1
     },
     "by_first_letter": {
-      "A": 12,
-      "B": 11,
+      "A": 13,
+      "B": 12,
       "G": 6,
       "I": 9,
       "N": 5,
       "O": 4,
-      "T": 28
+      "T": 30
     },
     "grid": {
       "A": {
         "4": 1,
         "5": 1,
         "6": 2,
-        "7": 2,
+        "7": 3,
         "9": 4,
         "10": 2
       },
       "B": {
         "4": 3,
-        "5": 2,
+        "5": 3,
         "6": 2,
         "7": 4
       },
@@ -146,10 +150,10 @@
         "9": 1
       },
       "T": {
-        "4": 5,
+        "4": 6,
         "5": 5,
         "6": 4,
-        "7": 8,
+        "7": 9,
         "8": 4,
         "9": 1,
         "11": 1
@@ -158,10 +162,10 @@
     "two_letter_list": {
       "AB": 2,
       "AG": 2,
-      "AN": 5,
+      "AN": 6,
       "AT": 3,
       "BA": 4,
-      "BI": 2,
+      "BI": 3,
       "BO": 5,
       "GA": 2,
       "GI": 2,
@@ -176,7 +180,7 @@
       "ON": 1,
       "TA": 14,
       "TI": 5,
-      "TO": 9
+      "TO": 11
     }
   }
 }

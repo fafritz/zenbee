@@ -1,9 +1,9 @@
 {
   "pangram": "balking",
   "center_letter": "a",
-  "num_answers": 60,
+  "num_answers": 63,
   "num_pangrams": 2,
-  "possible_points": 307,
+  "possible_points": 326,
   "answer_pangrams": [
     "balking",
     "blanking"
@@ -19,7 +19,6 @@
     "align",
     "aligning",
     "alkali",
-    "anal",
     "angina",
     "angling",
     "baaing",
@@ -48,20 +47,24 @@
     "blanking",
     "gabbing",
     "gabbling",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
     "ganging",
     "ganglia",
     "gangling",
+    "kanban",
     "labia",
     "labial",
     "lagging",
     "lain",
+    "lanai",
     "lank",
     "naan",
     "nabbing",
@@ -74,22 +77,23 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 7,
-      "6": 8,
+      "5": 8,
+      "6": 9,
       "7": 18,
-      "8": 7,
+      "8": 8,
       "9": 1
     },
     "by_first_letter": {
-      "A": 13,
+      "A": 12,
       "B": 24,
-      "G": 12,
-      "L": 5,
+      "G": 14,
+      "K": 1,
+      "L": 6,
       "N": 6
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 4,
         "6": 3,
         "7": 1,
@@ -104,13 +108,16 @@
         "9": 1
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "7": 6,
-        "8": 2
+        "8": 3
+      },
+      "K": {
+        "6": 1
       },
       "L": {
         "4": 2,
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 1
       },
@@ -124,11 +131,12 @@
       "AI": 1,
       "AK": 1,
       "AL": 6,
-      "AN": 3,
+      "AN": 2,
       "BA": 20,
       "BL": 4,
-      "GA": 12,
-      "LA": 5,
+      "GA": 14,
+      "KA": 1,
+      "LA": 6,
       "NA": 6
     }
   }

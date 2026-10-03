@@ -1,9 +1,9 @@
 {
   "pangram": "organic",
   "center_letter": "r",
-  "num_answers": 69,
+  "num_answers": 75,
   "num_pangrams": 2,
-  "possible_points": 385,
+  "possible_points": 415,
   "answer_pangrams": [
     "inorganic",
     "organic"
@@ -38,6 +38,7 @@
     "crooning",
     "garaging",
     "gorging",
+    "gorgon",
     "goring",
     "gracing",
     "grain",
@@ -48,11 +49,15 @@
     "grog",
     "groin",
     "ignoring",
+    "ingrain",
+    "ingraining",
     "inorganic",
     "iron",
     "ironic",
     "ironing",
     "narc",
+    "noir",
+    "nori",
     "oaring",
     "ocarina",
     "organ",
@@ -77,27 +82,28 @@
     "roan",
     "roar",
     "roaring",
-    "rococo"
+    "rococo",
+    "ronin"
   ],
   "date": "2032-10-15",
   "hints": {
     "by_length": {
-      "4": 14,
-      "5": 13,
-      "6": 16,
-      "7": 16,
+      "4": 16,
+      "5": 14,
+      "6": 17,
+      "7": 17,
       "8": 7,
       "9": 2,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 11,
       "C": 16,
-      "G": 11,
-      "I": 5,
-      "N": 1,
+      "G": 12,
+      "I": 7,
+      "N": 3,
       "O": 5,
-      "R": 20
+      "R": 21
     },
     "grid": {
       "A": {
@@ -119,19 +125,20 @@
       "G": {
         "4": 2,
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 2,
         "8": 3
       },
       "I": {
         "4": 1,
         "6": 1,
-        "7": 1,
+        "7": 2,
         "8": 1,
-        "9": 1
+        "9": 1,
+        "10": 1
       },
       "N": {
-        "4": 1
+        "4": 3
       },
       "O": {
         "5": 1,
@@ -140,7 +147,7 @@
       },
       "R": {
         "4": 6,
-        "5": 1,
+        "5": 2,
         "6": 6,
         "7": 7
       }
@@ -156,18 +163,19 @@
       "CO": 4,
       "CR": 5,
       "GA": 1,
-      "GO": 2,
+      "GO": 3,
       "GR": 8,
       "IG": 1,
-      "IN": 1,
+      "IN": 3,
       "IR": 3,
       "NA": 1,
+      "NO": 2,
       "OA": 1,
       "OC": 1,
       "OR": 3,
       "RA": 11,
       "RI": 5,
-      "RO": 4
+      "RO": 5
     }
   }
 }

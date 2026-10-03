@@ -1,9 +1,9 @@
 {
   "pangram": "daubing",
   "center_letter": "b",
-  "num_answers": 33,
+  "num_answers": 34,
   "num_pangrams": 1,
-  "possible_points": 190,
+  "possible_points": 197,
   "answer_pangrams": [
     "daubing"
   ],
@@ -25,6 +25,7 @@
     "biding",
     "bind",
     "binding",
+    "binging",
     "binning",
     "budding",
     "budging",
@@ -47,13 +48,13 @@
     "by_length": {
       "4": 8,
       "6": 5,
-      "7": 17,
+      "7": 18,
       "8": 1,
       "9": 2
     },
     "by_first_letter": {
       "A": 1,
-      "B": 22,
+      "B": 23,
       "D": 4,
       "G": 2,
       "I": 1,
@@ -67,7 +68,7 @@
       "B": {
         "4": 6,
         "6": 3,
-        "7": 11,
+        "7": 12,
         "8": 1,
         "9": 1
       },
@@ -93,7 +94,7 @@
     "two_letter_list": {
       "AB": 1,
       "BA": 12,
-      "BI": 5,
+      "BI": 6,
       "BU": 5,
       "DA": 3,
       "DU": 1,

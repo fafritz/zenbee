@@ -1,9 +1,9 @@
 {
   "pangram": "conduit",
   "center_letter": "i",
-  "num_answers": 32,
+  "num_answers": 34,
   "num_pangrams": 3,
-  "possible_points": 198,
+  "possible_points": 209,
   "answer_pangrams": [
     "conduction",
     "conduit",
@@ -21,6 +21,7 @@
     "dint",
     "ditto",
     "icon",
+    "iconic",
     "idiot",
     "idiotic",
     "indict",
@@ -29,6 +30,7 @@
     "into",
     "intuit",
     "intuition",
+    "ionic",
     "nonunion",
     "notion",
     "nuncio",
@@ -47,8 +49,8 @@
   "hints": {
     "by_length": {
       "4": 6,
-      "5": 9,
-      "6": 6,
+      "5": 10,
+      "6": 7,
       "7": 5,
       "8": 1,
       "9": 3,
@@ -57,7 +59,7 @@
     "by_first_letter": {
       "C": 7,
       "D": 3,
-      "I": 9,
+      "I": 11,
       "N": 3,
       "O": 2,
       "T": 4,
@@ -78,8 +80,8 @@
       },
       "I": {
         "4": 2,
-        "5": 1,
-        "6": 3,
+        "5": 2,
+        "6": 4,
         "7": 1,
         "9": 2
       },
@@ -105,9 +107,10 @@
     "two_letter_list": {
       "CO": 7,
       "DI": 3,
-      "IC": 1,
+      "IC": 2,
       "ID": 2,
       "IN": 6,
+      "IO": 1,
       "NO": 2,
       "NU": 1,
       "ON": 1,

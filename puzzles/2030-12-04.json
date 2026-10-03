@@ -1,9 +1,9 @@
 {
   "pangram": "caviled",
   "center_letter": "i",
-  "num_answers": 78,
+  "num_answers": 80,
   "num_pangrams": 1,
-  "possible_points": 348,
+  "possible_points": 359,
   "answer_pangrams": [
     "caviled"
   ],
@@ -36,6 +36,7 @@
     "deceived",
     "decide",
     "decided",
+    "decile",
     "deice",
     "deiced",
     "deli",
@@ -66,6 +67,7 @@
     "ideal",
     "idle",
     "idled",
+    "iliac",
     "laid",
     "levied",
     "lice",
@@ -91,17 +93,17 @@
   "hints": {
     "by_length": {
       "4": 24,
-      "5": 22,
-      "6": 19,
+      "5": 23,
+      "6": 20,
       "7": 11,
       "8": 2
     },
     "by_first_letter": {
       "A": 13,
       "C": 10,
-      "D": 25,
+      "D": 26,
       "E": 4,
-      "I": 6,
+      "I": 7,
       "L": 9,
       "V": 11
     },
@@ -121,7 +123,7 @@
       "D": {
         "4": 7,
         "5": 4,
-        "6": 6,
+        "6": 7,
         "7": 7,
         "8": 1
       },
@@ -132,7 +134,7 @@
       },
       "I": {
         "4": 3,
-        "5": 2,
+        "5": 3,
         "6": 1
       },
       "L": {
@@ -157,13 +159,14 @@
       "CI": 4,
       "CL": 1,
       "DA": 1,
-      "DE": 10,
+      "DE": 11,
       "DI": 14,
       "ED": 1,
       "EL": 2,
       "EV": 1,
       "IC": 2,
       "ID": 4,
+      "IL": 1,
       "LA": 1,
       "LE": 1,
       "LI": 7,

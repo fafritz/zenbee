@@ -1,7 +1,7 @@
 {
   "pangram": "potable",
   "center_letter": "o",
-  "num_answers": 57,
+  "num_answers": 58,
   "num_pangrams": 1,
   "possible_points": 178,
   "answer_pangrams": [
@@ -21,17 +21,18 @@
     "blob",
     "blot",
     "boat",
+    "boba",
     "bobble",
     "bola",
     "bole",
     "boll",
     "bolt",
     "boob",
-    "booboo",
     "boot",
     "bootee",
     "bottle",
     "elope",
+    "elote",
     "laptop",
     "lobe",
     "loll",
@@ -69,16 +70,16 @@
   "date": "2036-10-03",
   "hints": {
     "by_length": {
-      "4": 33,
-      "5": 9,
-      "6": 13,
+      "4": 34,
+      "5": 10,
+      "6": 12,
       "7": 1,
       "8": 1
     },
     "by_first_letter": {
       "A": 6,
       "B": 17,
-      "E": 1,
+      "E": 2,
       "L": 7,
       "O": 4,
       "P": 12,
@@ -90,12 +91,12 @@
         "5": 3
       },
       "B": {
-        "4": 9,
+        "4": 10,
         "5": 2,
-        "6": 6
+        "6": 5
       },
       "E": {
-        "5": 1
+        "5": 2
       },
       "L": {
         "4": 5,
@@ -126,7 +127,7 @@
       "BE": 1,
       "BL": 3,
       "BO": 11,
-      "EL": 1,
+      "EL": 2,
       "LA": 1,
       "LO": 6,
       "OB": 2,

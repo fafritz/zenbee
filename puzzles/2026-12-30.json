@@ -1,9 +1,9 @@
 {
   "pangram": "crazing",
   "center_letter": "r",
-  "num_answers": 42,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 226,
+  "possible_points": 243,
   "answer_pangrams": [
     "crazing"
   ],
@@ -33,6 +33,8 @@
     "grazing",
     "grin",
     "grinning",
+    "ingrain",
+    "ingraining",
     "narc",
     "racing",
     "raga",
@@ -57,15 +59,16 @@
       "4": 11,
       "5": 5,
       "6": 8,
-      "7": 12,
+      "7": 13,
       "8": 4,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 8,
       "C": 11,
       "G": 6,
+      "I": 2,
       "N": 1,
       "R": 16
     },
@@ -91,6 +94,10 @@
         "7": 2,
         "8": 2
       },
+      "I": {
+        "7": 1,
+        "10": 1
+      },
       "N": {
         "4": 1
       },
@@ -110,6 +117,7 @@
       "CZ": 2,
       "GA": 1,
       "GR": 5,
+      "IN": 2,
       "NA": 1,
       "RA": 12,
       "RI": 4

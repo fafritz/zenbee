@@ -1,9 +1,9 @@
 {
   "pangram": "painful",
   "center_letter": "f",
-  "num_answers": 21,
+  "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 87,
+  "possible_points": 89,
   "answer_pangrams": [
     "painful"
   ],
@@ -24,6 +24,8 @@
     "fluff",
     "fulfill",
     "full",
+    "luff",
+    "naif",
     "pailful",
     "painful",
     "pilaf",
@@ -33,7 +35,7 @@
   "date": "2029-10-06",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 11,
       "5": 5,
       "6": 3,
       "7": 4
@@ -41,6 +43,8 @@
     "by_first_letter": {
       "A": 1,
       "F": 15,
+      "L": 1,
+      "N": 1,
       "P": 5
     },
     "grid": {
@@ -52,6 +56,12 @@
         "5": 4,
         "6": 2,
         "7": 1
+      },
+      "L": {
+        "4": 1
+      },
+      "N": {
+        "4": 1
       },
       "P": {
         "4": 1,
@@ -66,6 +76,8 @@
       "FI": 4,
       "FL": 5,
       "FU": 2,
+      "LU": 1,
+      "NA": 1,
       "PA": 2,
       "PI": 1,
       "PU": 2

@@ -1,9 +1,9 @@
 {
   "pangram": "company",
   "center_letter": "m",
-  "num_answers": 25,
+  "num_answers": 26,
   "num_pangrams": 2,
-  "possible_points": 95,
+  "possible_points": 100,
   "answer_pangrams": [
     "accompany",
     "company"
@@ -33,13 +33,14 @@
     "moon",
     "myna",
     "noncom",
+    "pampa",
     "pomp"
   ],
   "date": "2030-09-26",
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 8,
+      "5": 9,
       "6": 2,
       "7": 1,
       "9": 1
@@ -49,7 +50,7 @@
       "C": 10,
       "M": 11,
       "N": 1,
-      "P": 1
+      "P": 2
     },
     "grid": {
       "A": {
@@ -70,7 +71,8 @@
         "6": 1
       },
       "P": {
-        "4": 1
+        "4": 1,
+        "5": 1
       }
     },
     "two_letter_list": {
@@ -82,6 +84,7 @@
       "MO": 5,
       "MY": 1,
       "NO": 1,
+      "PA": 1,
       "PO": 1
     }
   }

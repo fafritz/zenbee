@@ -1,9 +1,9 @@
 {
   "pangram": "inflate",
   "center_letter": "n",
-  "num_answers": 78,
+  "num_answers": 81,
   "num_pangrams": 2,
-  "possible_points": 381,
+  "possible_points": 400,
   "answer_pangrams": [
     "infantile",
     "inflate"
@@ -11,7 +11,7 @@
   "answers": [
     "alien",
     "alienate",
-    "anal",
+    "aniline",
     "anneal",
     "ante",
     "antenna",
@@ -53,7 +53,9 @@
     "intel",
     "intent",
     "lain",
+    "lanai",
     "lane",
+    "lantana",
     "latent",
     "lean",
     "lenient",
@@ -68,10 +70,12 @@
     "lint",
     "lintel",
     "naan",
+    "naif",
     "nail",
     "nana",
     "natal",
     "neat",
+    "neaten",
     "nene",
     "nettle",
     "nine",
@@ -80,7 +84,6 @@
     "talent",
     "tannin",
     "teen",
-    "telnet",
     "tenant",
     "tenet",
     "tent",
@@ -92,9 +95,9 @@
   "hints": {
     "by_length": {
       "4": 23,
-      "5": 15,
+      "5": 16,
       "6": 23,
-      "7": 9,
+      "7": 11,
       "8": 6,
       "9": 1,
       "11": 1
@@ -104,16 +107,16 @@
       "E": 6,
       "F": 16,
       "I": 12,
-      "L": 15,
-      "N": 9,
-      "T": 11
+      "L": 17,
+      "N": 11,
+      "T": 10
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 1,
         "6": 2,
-        "7": 1,
+        "7": 2,
         "8": 2
       },
       "E": {
@@ -138,21 +141,21 @@
       },
       "L": {
         "4": 7,
-        "5": 1,
+        "5": 2,
         "6": 5,
-        "7": 1,
+        "7": 2,
         "8": 1
       },
       "N": {
-        "4": 6,
+        "4": 7,
         "5": 1,
-        "6": 1,
+        "6": 2,
         "8": 1
       },
       "T": {
         "4": 4,
         "5": 3,
-        "6": 4
+        "6": 3
       }
     },
     "two_letter_list": {
@@ -167,14 +170,14 @@
       "FI": 5,
       "FL": 5,
       "IN": 12,
-      "LA": 3,
+      "LA": 5,
       "LE": 4,
       "LI": 8,
-      "NA": 4,
-      "NE": 3,
+      "NA": 5,
+      "NE": 4,
       "NI": 2,
       "TA": 3,
-      "TE": 5,
+      "TE": 4,
       "TI": 3
     }
   }

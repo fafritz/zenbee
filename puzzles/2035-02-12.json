@@ -1,9 +1,9 @@
 {
   "pangram": "alright",
   "center_letter": "t",
-  "num_answers": 41,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 177,
+  "possible_points": 170,
   "answer_pangrams": [
     "alright"
   ],
@@ -30,7 +30,6 @@
     "light",
     "lilt",
     "ragtag",
-    "ratatat",
     "right",
     "tail",
     "taillight",
@@ -56,7 +55,7 @@
       "4": 15,
       "5": 13,
       "6": 7,
-      "7": 2,
+      "7": 1,
       "8": 2,
       "9": 2
     },
@@ -65,7 +64,7 @@
       "G": 5,
       "H": 5,
       "L": 4,
-      "R": 3,
+      "R": 2,
       "T": 17
     },
     "grid": {
@@ -91,8 +90,7 @@
       },
       "R": {
         "5": 1,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
         "4": 6,
@@ -113,7 +111,7 @@
       "HI": 3,
       "LA": 2,
       "LI": 2,
-      "RA": 2,
+      "RA": 1,
       "RI": 1,
       "TA": 5,
       "TH": 4,

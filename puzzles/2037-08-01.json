@@ -1,9 +1,9 @@
 {
   "pangram": "barking",
   "center_letter": "b",
-  "num_answers": 47,
+  "num_answers": 50,
   "num_pangrams": 2,
-  "possible_points": 270,
+  "possible_points": 290,
   "answer_pangrams": [
     "barking",
     "braking"
@@ -34,6 +34,7 @@
     "barring",
     "biking",
     "bikini",
+    "binging",
     "binning",
     "brag",
     "bragging",
@@ -46,6 +47,7 @@
     "brig",
     "bring",
     "bringing",
+    "brining",
     "brink",
     "gabbing",
     "garb",
@@ -53,6 +55,7 @@
     "gibing",
     "grab",
     "grabbing",
+    "kanban",
     "nabbing",
     "rabbi",
     "ribbing"
@@ -62,16 +65,17 @@
     "by_length": {
       "4": 11,
       "5": 5,
-      "6": 8,
-      "7": 16,
+      "6": 9,
+      "7": 18,
       "8": 4,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 1,
-      "B": 37,
+      "B": 39,
       "G": 6,
+      "K": 1,
       "N": 1,
       "R": 2
     },
@@ -83,7 +87,7 @@
         "4": 9,
         "5": 4,
         "6": 6,
-        "7": 12,
+        "7": 14,
         "8": 3,
         "9": 2,
         "10": 1
@@ -93,6 +97,9 @@
         "6": 1,
         "7": 2,
         "8": 1
+      },
+      "K": {
+        "6": 1
       },
       "N": {
         "7": 1
@@ -105,11 +112,12 @@
     "two_letter_list": {
       "AI": 1,
       "BA": 22,
-      "BI": 3,
-      "BR": 12,
+      "BI": 4,
+      "BR": 13,
       "GA": 3,
       "GI": 1,
       "GR": 2,
+      "KA": 1,
       "NA": 1,
       "RA": 1,
       "RI": 1

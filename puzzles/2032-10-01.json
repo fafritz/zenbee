@@ -1,9 +1,9 @@
 {
   "pangram": "marking",
   "center_letter": "m",
-  "num_answers": 45,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 242,
+  "possible_points": 251,
   "answer_pangrams": [
     "marking"
   ],
@@ -37,6 +37,7 @@
     "manna",
     "manning",
     "margin",
+    "margining",
     "maria",
     "marina",
     "mark",
@@ -62,7 +63,7 @@
       "6": 14,
       "7": 10,
       "8": 1,
-      "9": 1,
+      "9": 2,
       "10": 1
     },
     "by_first_letter": {
@@ -70,7 +71,7 @@
       "G": 7,
       "I": 3,
       "K": 1,
-      "M": 27,
+      "M": 28,
       "N": 1,
       "R": 2
     },
@@ -99,7 +100,8 @@
         "5": 7,
         "6": 8,
         "7": 5,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "N": {
         "6": 1
@@ -117,7 +119,7 @@
       "GR": 5,
       "IM": 3,
       "KA": 1,
-      "MA": 19,
+      "MA": 20,
       "MI": 8,
       "NA": 1,
       "RA": 1,

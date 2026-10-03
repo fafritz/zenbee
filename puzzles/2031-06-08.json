@@ -1,9 +1,9 @@
 {
   "pangram": "nightly",
   "center_letter": "h",
-  "num_answers": 28,
+  "num_answers": 27,
   "num_pangrams": 1,
-  "possible_points": 156,
+  "possible_points": 155,
   "answer_pangrams": [
     "nightly"
   ],
@@ -15,7 +15,6 @@
     "hill",
     "hilly",
     "hilt",
-    "hing",
     "hinging",
     "hint",
     "hinting",
@@ -40,7 +39,7 @@
   "date": "2031-06-08",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 6,
       "5": 7,
       "6": 2,
       "7": 7,
@@ -49,14 +48,14 @@
       "12": 1
     },
     "by_first_letter": {
-      "H": 12,
+      "H": 11,
       "L": 4,
       "N": 4,
       "T": 8
     },
     "grid": {
       "H": {
-        "4": 5,
+        "4": 4,
         "5": 1,
         "6": 1,
         "7": 3,
@@ -83,7 +82,7 @@
       }
     },
     "two_letter_list": {
-      "HI": 12,
+      "HI": 11,
       "LI": 4,
       "NI": 4,
       "TH": 5,

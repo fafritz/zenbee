@@ -1,9 +1,9 @@
 {
   "pangram": "compute",
   "center_letter": "t",
-  "num_answers": 38,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 136,
+  "possible_points": 141,
   "answer_pangrams": [
     "compute"
   ],
@@ -24,6 +24,7 @@
     "moot",
     "moppet",
     "mote",
+    "motet",
     "motto",
     "mute",
     "mutt",
@@ -51,14 +52,14 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 9,
+      "5": 10,
       "6": 5,
       "7": 5
     },
     "by_first_letter": {
       "C": 10,
       "E": 1,
-      "M": 8,
+      "M": 9,
       "O": 3,
       "P": 4,
       "T": 12
@@ -75,7 +76,7 @@
       },
       "M": {
         "4": 6,
-        "5": 1,
+        "5": 2,
         "6": 1
       },
       "O": {
@@ -98,7 +99,7 @@
       "CU": 3,
       "EM": 1,
       "ME": 2,
-      "MO": 4,
+      "MO": 5,
       "MU": 2,
       "OC": 1,
       "OU": 2,

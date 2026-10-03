@@ -1,9 +1,9 @@
 {
   "pangram": "heaping",
   "center_letter": "g",
-  "num_answers": 60,
+  "num_answers": 59,
   "num_pangrams": 2,
-  "possible_points": 339,
+  "possible_points": 333,
   "answer_pangrams": [
     "happening",
     "heaping"
@@ -18,6 +18,7 @@
     "engage",
     "engaging",
     "engine",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -38,7 +39,6 @@
     "hennaing",
     "hieing",
     "high",
-    "hing",
     "hinge",
     "hinging",
     "hipping",
@@ -55,7 +55,6 @@
     "paining",
     "pang",
     "panning",
-    "peeing",
     "peeping",
     "penning",
     "pepping",
@@ -75,7 +74,7 @@
     "by_length": {
       "4": 11,
       "5": 10,
-      "6": 14,
+      "6": 13,
       "7": 21,
       "8": 3,
       "9": 1
@@ -83,11 +82,11 @@
     "by_first_letter": {
       "A": 5,
       "E": 4,
-      "G": 13,
-      "H": 11,
+      "G": 14,
+      "H": 10,
       "I": 1,
       "N": 6,
-      "P": 20
+      "P": 19
     },
     "grid": {
       "A": {
@@ -99,13 +98,13 @@
         "8": 1
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "5": 2,
         "6": 2,
         "7": 5
       },
       "H": {
-        "4": 3,
+        "4": 2,
         "5": 1,
         "6": 1,
         "7": 4,
@@ -124,7 +123,7 @@
       "P": {
         "4": 3,
         "5": 2,
-        "6": 6,
+        "6": 5,
         "7": 9
       }
     },
@@ -134,18 +133,18 @@
       "AP": 1,
       "EG": 1,
       "EN": 3,
-      "GA": 7,
+      "GA": 8,
       "GE": 4,
       "GI": 2,
       "HA": 3,
       "HE": 2,
-      "HI": 6,
+      "HI": 5,
       "IN": 1,
       "NA": 2,
       "NE": 2,
       "NI": 2,
       "PA": 6,
-      "PE": 4,
+      "PE": 3,
       "PH": 1,
       "PI": 9
     }

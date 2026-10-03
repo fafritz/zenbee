@@ -1,9 +1,9 @@
 {
   "pangram": "congeal",
   "center_letter": "a",
-  "num_answers": 67,
+  "num_answers": 68,
   "num_pangrams": 1,
-  "possible_points": 267,
+  "possible_points": 276,
   "answer_pangrams": [
     "congeal"
   ],
@@ -13,10 +13,10 @@
     "alga",
     "algae",
     "allege",
+    "allele",
     "aloe",
     "alone",
     "along",
-    "anal",
     "analog",
     "angel",
     "angle",
@@ -50,8 +50,10 @@
     "elan",
     "elegance",
     "engage",
+    "gaga",
     "gaggle",
     "gala",
+    "galangal",
     "gale",
     "galena",
     "gall",
@@ -61,7 +63,6 @@
     "glance",
     "glean",
     "goal",
-    "gonna",
     "lace",
     "lagoon",
     "lance",
@@ -80,25 +81,25 @@
   "hints": {
     "by_length": {
       "4": 25,
-      "5": 23,
-      "6": 14,
+      "5": 22,
+      "6": 15,
       "7": 4,
-      "8": 1
+      "8": 2
     },
     "by_first_letter": {
       "A": 14,
       "C": 24,
       "E": 4,
-      "G": 12,
+      "G": 13,
       "L": 10,
       "N": 2,
       "O": 1
     },
     "grid": {
       "A": {
-        "4": 6,
+        "4": 5,
         "5": 5,
-        "6": 3
+        "6": 4
       },
       "C": {
         "4": 7,
@@ -113,10 +114,11 @@
         "8": 1
       },
       "G": {
-        "4": 5,
-        "5": 2,
+        "4": 6,
+        "5": 1,
         "6": 4,
-        "7": 1
+        "7": 1,
+        "8": 1
       },
       "L": {
         "4": 4,
@@ -133,17 +135,17 @@
     "two_letter_list": {
       "AC": 1,
       "AG": 1,
-      "AL": 6,
-      "AN": 6,
+      "AL": 7,
+      "AN": 5,
       "CA": 12,
       "CL": 3,
       "CO": 9,
       "EA": 1,
       "EL": 2,
       "EN": 1,
-      "GA": 8,
+      "GA": 10,
       "GL": 2,
-      "GO": 2,
+      "GO": 1,
       "LA": 4,
       "LE": 2,
       "LL": 1,

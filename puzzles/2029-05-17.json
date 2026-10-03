@@ -1,15 +1,15 @@
 {
   "pangram": "nuptial",
   "center_letter": "n",
-  "num_answers": 42,
+  "num_answers": 47,
   "num_pangrams": 1,
-  "possible_points": 160,
+  "possible_points": 197,
   "answer_pangrams": [
     "nuptial"
   ],
   "answers": [
-    "anal",
     "annual",
+    "annuitant",
     "annul",
     "anti",
     "attain",
@@ -18,7 +18,10 @@
     "initial",
     "input",
     "intuit",
+    "inulin",
     "lain",
+    "lanai",
+    "lantana",
     "lint",
     "naan",
     "nail",
@@ -28,8 +31,10 @@
     "nuptial",
     "pain",
     "paint",
+    "panini",
     "pant",
     "patina",
+    "pinna",
     "pint",
     "pinup",
     "pippin",
@@ -54,34 +59,38 @@
   "date": "2029-05-17",
   "hints": {
     "by_length": {
-      "4": 18,
-      "5": 13,
-      "6": 8,
-      "7": 2,
-      "8": 1
+      "4": 17,
+      "5": 15,
+      "6": 10,
+      "7": 3,
+      "8": 1,
+      "9": 1
     },
     "by_first_letter": {
       "A": 6,
-      "I": 4,
-      "L": 2,
+      "I": 5,
+      "L": 4,
       "N": 6,
-      "P": 14,
+      "P": 16,
       "T": 6,
       "U": 4
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 1,
-        "6": 2
+        "6": 2,
+        "9": 1
       },
       "I": {
         "5": 2,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "L": {
-        "4": 2
+        "4": 2,
+        "5": 1,
+        "7": 1
       },
       "N": {
         "4": 4,
@@ -90,8 +99,8 @@
       },
       "P": {
         "4": 5,
-        "5": 4,
-        "6": 4,
+        "5": 5,
+        "6": 5,
         "8": 1
       },
       "T": {
@@ -108,13 +117,13 @@
       "AN": 4,
       "AT": 1,
       "AU": 1,
-      "IN": 4,
-      "LA": 1,
+      "IN": 5,
+      "LA": 3,
       "LI": 1,
       "NA": 4,
       "NU": 2,
-      "PA": 4,
-      "PI": 3,
+      "PA": 5,
+      "PI": 4,
       "PL": 6,
       "PU": 1,
       "TA": 3,

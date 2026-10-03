@@ -1,9 +1,9 @@
 {
   "pangram": "vamping",
   "center_letter": "p",
-  "num_answers": 27,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 151,
+  "possible_points": 167,
   "answer_pangrams": [
     "vamping"
   ],
@@ -18,7 +18,9 @@
     "paging",
     "pain",
     "paining",
+    "pampa",
     "pang",
+    "panini",
     "panning",
     "papa",
     "paving",
@@ -28,6 +30,7 @@
     "ping",
     "pinging",
     "pining",
+    "pinna",
     "pinning",
     "piping",
     "pippin",
@@ -40,8 +43,8 @@
   "hints": {
     "by_length": {
       "4": 6,
-      "5": 2,
-      "6": 7,
+      "5": 4,
+      "6": 8,
       "7": 11,
       "9": 1
     },
@@ -51,7 +54,7 @@
       "I": 1,
       "M": 1,
       "N": 2,
-      "P": 18,
+      "P": 21,
       "V": 3
     },
     "grid": {
@@ -72,8 +75,8 @@
       },
       "P": {
         "4": 5,
-        "5": 1,
-        "6": 5,
+        "5": 3,
+        "6": 6,
         "7": 7
       },
       "V": {
@@ -89,8 +92,8 @@
       "MA": 1,
       "NA": 1,
       "NI": 1,
-      "PA": 8,
-      "PI": 10,
+      "PA": 10,
+      "PI": 11,
       "VA": 3
     }
   }

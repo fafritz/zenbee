@@ -1,9 +1,9 @@
 {
   "pangram": "backing",
   "center_letter": "k",
-  "num_answers": 21,
+  "num_answers": 22,
   "num_pangrams": 1,
-  "possible_points": 107,
+  "possible_points": 113,
   "answer_pangrams": [
     "backing"
   ],
@@ -19,6 +19,7 @@
     "bikini",
     "caking",
     "inking",
+    "kanban",
     "kick",
     "kickback",
     "kicking",
@@ -35,7 +36,7 @@
     "by_length": {
       "4": 7,
       "5": 2,
-      "6": 5,
+      "6": 6,
       "7": 5,
       "8": 1,
       "10": 1
@@ -45,7 +46,7 @@
       "B": 7,
       "C": 1,
       "I": 1,
-      "K": 8,
+      "K": 9,
       "N": 2
     },
     "grid": {
@@ -67,6 +68,7 @@
       "K": {
         "4": 3,
         "5": 1,
+        "6": 1,
         "7": 2,
         "8": 1,
         "10": 1
@@ -83,6 +85,7 @@
       "BI": 2,
       "CA": 1,
       "IN": 1,
+      "KA": 1,
       "KI": 6,
       "KN": 2,
       "NI": 2

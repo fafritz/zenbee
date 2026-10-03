@@ -1,9 +1,9 @@
 {
   "pangram": "ethical",
   "center_letter": "c",
-  "num_answers": 74,
+  "num_answers": 75,
   "num_pangrams": 2,
-  "possible_points": 381,
+  "possible_points": 386,
   "answer_pangrams": [
     "athletic",
     "ethical"
@@ -60,6 +60,7 @@
     "helical",
     "hitch",
     "icicle",
+    "iliac",
     "illicit",
     "italic",
     "itch",
@@ -88,7 +89,7 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 22,
+      "5": 23,
       "6": 16,
       "7": 15,
       "8": 5
@@ -98,7 +99,7 @@
       "C": 28,
       "E": 8,
       "H": 5,
-      "I": 4,
+      "I": 5,
       "L": 11,
       "T": 9
     },
@@ -131,6 +132,7 @@
       },
       "I": {
         "4": 1,
+        "5": 1,
         "6": 2,
         "7": 1
       },
@@ -164,7 +166,7 @@
       "HE": 2,
       "HI": 1,
       "IC": 1,
-      "IL": 1,
+      "IL": 2,
       "IT": 2,
       "LA": 5,
       "LE": 2,

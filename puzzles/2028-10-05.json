@@ -3,7 +3,7 @@
   "center_letter": "l",
   "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 149,
+  "possible_points": 153,
   "answer_pangrams": [
     "balcony"
   ],
@@ -12,7 +12,6 @@
     "allay",
     "alloy",
     "ally",
-    "anal",
     "balcony",
     "ball",
     "balloon",
@@ -46,6 +45,7 @@
     "loco",
     "loll",
     "loon",
+    "loony",
     "loyal",
     "loyally",
     "nobly",
@@ -55,23 +55,23 @@
   "date": "2028-10-05",
   "hints": {
     "by_length": {
-      "4": 22,
-      "5": 14,
+      "4": 21,
+      "5": 15,
       "6": 2,
       "7": 4,
       "10": 1
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 4,
       "B": 9,
       "C": 15,
-      "L": 11,
+      "L": 12,
       "N": 2,
       "O": 1
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 2
       },
       "B": {
@@ -87,7 +87,7 @@
       },
       "L": {
         "4": 5,
-        "5": 4,
+        "5": 5,
         "7": 2
       },
       "N": {
@@ -100,7 +100,6 @@
     "two_letter_list": {
       "AB": 1,
       "AL": 3,
-      "AN": 1,
       "BA": 4,
       "BL": 3,
       "BO": 2,
@@ -109,7 +108,7 @@
       "CO": 7,
       "LA": 1,
       "LL": 1,
-      "LO": 9,
+      "LO": 10,
       "NO": 1,
       "NY": 1,
       "ON": 1

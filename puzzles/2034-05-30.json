@@ -1,9 +1,9 @@
 {
   "pangram": "flawing",
   "center_letter": "l",
-  "num_answers": 52,
+  "num_answers": 55,
   "num_pangrams": 2,
-  "possible_points": 275,
+  "possible_points": 301,
   "answer_pangrams": [
     "flawing",
     "waffling"
@@ -14,7 +14,6 @@
     "alga",
     "align",
     "aligning",
-    "anal",
     "angling",
     "fail",
     "failing",
@@ -31,11 +30,13 @@
     "flail",
     "flailing",
     "flan",
+    "flanging",
     "flaw",
     "flawing",
     "fling",
     "flinging",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "ganglia",
@@ -44,7 +45,9 @@
     "gill",
     "lagging",
     "lain",
+    "lanai",
     "lawn",
+    "lignin",
     "lining",
     "nail",
     "nailing",
@@ -65,24 +68,24 @@
   "date": "2034-05-30",
   "hints": {
     "by_length": {
-      "4": 17,
-      "5": 4,
-      "6": 6,
+      "4": 16,
+      "5": 5,
+      "6": 7,
       "7": 13,
-      "8": 11,
+      "8": 13,
       "9": 1
     },
     "by_first_letter": {
-      "A": 7,
-      "F": 19,
-      "G": 7,
-      "L": 4,
+      "A": 6,
+      "F": 20,
+      "G": 8,
+      "L": 6,
       "N": 3,
       "W": 12
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 1,
         "6": 1,
         "7": 2,
@@ -93,17 +96,18 @@
         "5": 3,
         "6": 2,
         "7": 4,
-        "8": 3,
+        "8": 4,
         "9": 1
       },
       "G": {
         "4": 3,
         "7": 2,
-        "8": 2
+        "8": 3
       },
       "L": {
         "4": 2,
-        "6": 1,
+        "5": 1,
+        "6": 2,
         "7": 1
       },
       "N": {
@@ -121,14 +125,14 @@
     "two_letter_list": {
       "AI": 1,
       "AL": 4,
-      "AN": 2,
+      "AN": 1,
       "FA": 4,
       "FI": 6,
-      "FL": 9,
-      "GA": 5,
+      "FL": 10,
+      "GA": 6,
       "GI": 2,
-      "LA": 3,
-      "LI": 1,
+      "LA": 4,
+      "LI": 2,
       "NA": 2,
       "NI": 1,
       "WA": 8,

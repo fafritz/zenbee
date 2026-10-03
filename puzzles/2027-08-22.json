@@ -1,9 +1,9 @@
 {
   "pangram": "flicked",
   "center_letter": "c",
-  "num_answers": 31,
+  "num_answers": 33,
   "num_pangrams": 1,
-  "possible_points": 147,
+  "possible_points": 159,
   "answer_pangrams": [
     "flicked"
   ],
@@ -11,12 +11,14 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "clef",
     "click",
     "clicked",
     "cliff",
     "decide",
     "decided",
+    "decile",
     "deck",
     "decked",
     "deckle",
@@ -45,12 +47,12 @@
     "by_length": {
       "4": 9,
       "5": 7,
-      "6": 9,
+      "6": 11,
       "7": 6
     },
     "by_first_letter": {
-      "C": 7,
-      "D": 9,
+      "C": 8,
+      "D": 10,
       "E": 1,
       "F": 7,
       "I": 2,
@@ -61,12 +63,13 @@
       "C": {
         "4": 3,
         "5": 3,
+        "6": 1,
         "7": 1
       },
       "D": {
         "4": 2,
         "5": 2,
-        "6": 4,
+        "6": 5,
         "7": 1
       },
       "E": {
@@ -91,9 +94,9 @@
       }
     },
     "two_letter_list": {
-      "CE": 3,
+      "CE": 4,
       "CL": 4,
-      "DE": 7,
+      "DE": 8,
       "DI": 2,
       "ED": 1,
       "FI": 1,

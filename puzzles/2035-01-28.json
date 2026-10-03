@@ -1,9 +1,9 @@
 {
   "pangram": "flawing",
   "center_letter": "f",
-  "num_answers": 29,
+  "num_answers": 31,
   "num_pangrams": 2,
-  "possible_points": 154,
+  "possible_points": 163,
   "answer_pangrams": [
     "flawing",
     "waffling"
@@ -30,29 +30,32 @@
     "flail",
     "flailing",
     "flan",
+    "flanging",
     "flaw",
     "flawing",
     "fling",
     "flinging",
     "gaff",
     "gaffing",
+    "naif",
     "waffling",
     "waif"
   ],
   "date": "2035-01-28",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 11,
       "5": 3,
       "6": 3,
       "7": 8,
-      "8": 4,
+      "8": 5,
       "9": 1
     },
     "by_first_letter": {
       "A": 1,
-      "F": 24,
+      "F": 25,
       "G": 2,
+      "N": 1,
       "W": 2
     },
     "grid": {
@@ -64,12 +67,15 @@
         "5": 3,
         "6": 3,
         "7": 6,
-        "8": 3,
+        "8": 4,
         "9": 1
       },
       "G": {
         "4": 1,
         "7": 1
+      },
+      "N": {
+        "4": 1
       },
       "W": {
         "4": 1,
@@ -80,8 +86,9 @@
       "AL": 1,
       "FA": 8,
       "FI": 7,
-      "FL": 9,
+      "FL": 10,
       "GA": 2,
+      "NA": 1,
       "WA": 2
     }
   }

@@ -1,9 +1,9 @@
 {
   "pangram": "locking",
   "center_letter": "g",
-  "num_answers": 63,
+  "num_answers": 65,
   "num_pangrams": 2,
-  "possible_points": 402,
+  "possible_points": 415,
   "answer_pangrams": [
     "clocking",
     "locking"
@@ -19,6 +19,7 @@
     "cloning",
     "cocking",
     "cocooning",
+    "cogging",
     "coiling",
     "coining",
     "coking",
@@ -52,6 +53,7 @@
     "kinking",
     "knocking",
     "licking",
+    "lignin",
     "liking",
     "lingo",
     "lining",
@@ -78,17 +80,17 @@
     "by_length": {
       "4": 7,
       "5": 7,
-      "6": 11,
-      "7": 26,
+      "6": 12,
+      "7": 27,
       "8": 10,
       "9": 2
     },
     "by_first_letter": {
-      "C": 18,
+      "C": 19,
       "G": 12,
       "I": 6,
       "K": 6,
-      "L": 14,
+      "L": 15,
       "N": 3,
       "O": 4
     },
@@ -97,7 +99,7 @@
         "4": 1,
         "5": 1,
         "6": 2,
-        "7": 8,
+        "7": 9,
         "8": 5,
         "9": 1
       },
@@ -122,7 +124,7 @@
       "L": {
         "4": 2,
         "5": 3,
-        "6": 2,
+        "6": 3,
         "7": 7
       },
       "N": {
@@ -137,7 +139,7 @@
     },
     "two_letter_list": {
       "CL": 8,
-      "CO": 10,
+      "CO": 11,
       "GI": 6,
       "GO": 6,
       "IC": 1,
@@ -145,7 +147,7 @@
       "IN": 4,
       "KI": 5,
       "KN": 1,
-      "LI": 5,
+      "LI": 6,
       "LO": 9,
       "NI": 2,
       "NO": 1,

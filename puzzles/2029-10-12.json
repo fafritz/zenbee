@@ -1,14 +1,15 @@
 {
   "pangram": "plucked",
   "center_letter": "l",
-  "num_answers": 41,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 181,
+  "possible_points": 193,
   "answer_pangrams": [
     "plucked"
   ],
   "answers": [
     "cell",
+    "celled",
     "cluck",
     "clucked",
     "clue",
@@ -25,11 +26,13 @@
     "dueled",
     "dull",
     "dulled",
+    "eeled",
     "elude",
     "eluded",
     "keel",
     "keeled",
     "kelp",
+    "lede",
     "leek",
     "luck",
     "lucked",
@@ -53,17 +56,17 @@
   "date": "2029-10-12",
   "hints": {
     "by_length": {
-      "4": 15,
-      "5": 4,
-      "6": 15,
+      "4": 16,
+      "5": 5,
+      "6": 16,
       "7": 7
     },
     "by_first_letter": {
-      "C": 9,
+      "C": 10,
       "D": 8,
-      "E": 2,
+      "E": 3,
       "K": 3,
-      "L": 6,
+      "L": 7,
       "P": 12,
       "U": 1
     },
@@ -71,7 +74,7 @@
       "C": {
         "4": 3,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 2
       },
       "D": {
@@ -80,7 +83,7 @@
         "7": 1
       },
       "E": {
-        "5": 1,
+        "5": 2,
         "6": 1
       },
       "K": {
@@ -88,7 +91,7 @@
         "6": 1
       },
       "L": {
-        "4": 4,
+        "4": 5,
         "6": 2
       },
       "P": {
@@ -102,14 +105,15 @@
       }
     },
     "two_letter_list": {
-      "CE": 1,
+      "CE": 2,
       "CL": 4,
       "CU": 4,
       "DE": 4,
       "DU": 4,
+      "EE": 1,
       "EL": 2,
       "KE": 3,
-      "LE": 1,
+      "LE": 2,
       "LU": 5,
       "PE": 4,
       "PL": 2,

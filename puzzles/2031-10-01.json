@@ -1,9 +1,9 @@
 {
   "pangram": "augment",
   "center_letter": "n",
-  "num_answers": 64,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 307,
+  "possible_points": 319,
   "answer_pangrams": [
     "augment"
   ],
@@ -53,9 +53,11 @@
     "name",
     "nana",
     "neat",
+    "neaten",
     "negate",
     "nene",
     "nugget",
+    "nutate",
     "nutmeat",
     "nutmeg",
     "tang",
@@ -78,7 +80,7 @@
     "by_length": {
       "4": 20,
       "5": 11,
-      "6": 16,
+      "6": 18,
       "7": 12,
       "8": 2,
       "9": 1,
@@ -89,7 +91,7 @@
       "E": 6,
       "G": 8,
       "M": 17,
-      "N": 9,
+      "N": 11,
       "T": 11,
       "U": 3
     },
@@ -122,7 +124,7 @@
       },
       "N": {
         "4": 5,
-        "6": 3,
+        "6": 5,
         "7": 1
       },
       "T": {
@@ -154,8 +156,8 @@
       "ME": 4,
       "MU": 1,
       "NA": 3,
-      "NE": 3,
-      "NU": 3,
+      "NE": 4,
+      "NU": 4,
       "TA": 3,
       "TE": 6,
       "TU": 2,

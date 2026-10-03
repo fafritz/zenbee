@@ -1,9 +1,9 @@
 {
   "pangram": "impanel",
   "center_letter": "p",
-  "num_answers": 49,
+  "num_answers": 54,
   "num_pangrams": 1,
-  "possible_points": 179,
+  "possible_points": 206,
   "answer_pangrams": [
     "impanel"
   ],
@@ -32,8 +32,10 @@
     "pale",
     "pall",
     "palm",
+    "pampa",
     "pane",
     "panel",
+    "panini",
     "papa",
     "papal",
     "papilla",
@@ -43,13 +45,16 @@
     "peen",
     "peep",
     "penal",
-    "penile",
+    "penne",
     "pile",
     "pill",
     "pimp",
     "pimple",
     "pine",
+    "pineal",
     "pineapple",
+    "pinna",
+    "pinnae",
     "pipe",
     "pipeline",
     "pippin",
@@ -62,8 +67,8 @@
   "hints": {
     "by_length": {
       "4": 24,
-      "5": 11,
-      "6": 9,
+      "5": 14,
+      "6": 11,
       "7": 2,
       "8": 2,
       "9": 1
@@ -75,7 +80,7 @@
       "L": 4,
       "M": 1,
       "N": 3,
-      "P": 31
+      "P": 36
     },
     "grid": {
       "A": {
@@ -103,8 +108,8 @@
       },
       "P": {
         "4": 18,
-        "5": 6,
-        "6": 3,
+        "5": 9,
+        "6": 5,
         "7": 1,
         "8": 2,
         "9": 1
@@ -122,9 +127,9 @@
       "MA": 1,
       "NA": 2,
       "NE": 1,
-      "PA": 12,
+      "PA": 14,
       "PE": 6,
-      "PI": 9,
+      "PI": 12,
       "PL": 4
     }
   }

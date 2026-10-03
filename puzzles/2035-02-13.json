@@ -1,9 +1,9 @@
 {
   "pangram": "warming",
   "center_letter": "m",
-  "num_answers": 41,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 223,
+  "possible_points": 239,
   "answer_pangrams": [
     "warming"
   ],
@@ -34,6 +34,7 @@
     "manna",
     "manning",
     "margin",
+    "margining",
     "maria",
     "marina",
     "marring",
@@ -48,7 +49,8 @@
     "riming",
     "warm",
     "warming",
-    "wigwam"
+    "wigwam",
+    "wingman"
   ],
   "date": "2035-02-13",
   "hints": {
@@ -56,19 +58,19 @@
       "4": 8,
       "5": 8,
       "6": 13,
-      "7": 9,
+      "7": 10,
       "8": 1,
-      "9": 1,
+      "9": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 4,
       "G": 7,
       "I": 3,
-      "M": 21,
+      "M": 22,
       "N": 1,
       "R": 2,
-      "W": 3
+      "W": 4
     },
     "grid": {
       "A": {
@@ -92,7 +94,8 @@
         "5": 7,
         "6": 6,
         "7": 3,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "N": {
         "6": 1
@@ -104,7 +107,7 @@
       "W": {
         "4": 1,
         "6": 1,
-        "7": 1
+        "7": 2
       }
     },
     "two_letter_list": {
@@ -114,13 +117,13 @@
       "GA": 2,
       "GR": 5,
       "IM": 3,
-      "MA": 15,
+      "MA": 16,
       "MI": 6,
       "NA": 1,
       "RA": 1,
       "RI": 1,
       "WA": 2,
-      "WI": 1
+      "WI": 2
     }
   }
 }

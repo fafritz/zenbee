@@ -1,9 +1,9 @@
 {
   "pangram": "grandly",
   "center_letter": "r",
-  "num_answers": 27,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 111,
+  "possible_points": 116,
   "answer_pangrams": [
     "grandly"
   ],
@@ -17,6 +17,7 @@
     "dryad",
     "dryly",
     "garland",
+    "gnarl",
     "gnarly",
     "grad",
     "granary",
@@ -40,14 +41,14 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 8,
+      "5": 9,
       "6": 3,
       "7": 5
     },
     "by_first_letter": {
       "A": 3,
       "D": 5,
-      "G": 8,
+      "G": 9,
       "L": 3,
       "R": 6,
       "Y": 2
@@ -63,7 +64,7 @@
       },
       "G": {
         "4": 2,
-        "5": 1,
+        "5": 2,
         "6": 2,
         "7": 3
       },
@@ -87,7 +88,7 @@
       "DA": 1,
       "DR": 4,
       "GA": 1,
-      "GN": 1,
+      "GN": 2,
       "GR": 6,
       "LA": 3,
       "RA": 6,

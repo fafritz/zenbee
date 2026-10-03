@@ -1,9 +1,9 @@
 {
   "pangram": "porting",
   "center_letter": "t",
-  "num_answers": 68,
+  "num_answers": 71,
   "num_pangrams": 4,
-  "possible_points": 405,
+  "possible_points": 414,
   "answer_pangrams": [
     "porting",
     "portioning",
@@ -54,6 +54,7 @@
     "rioting",
     "root",
     "rooting",
+    "roti",
     "rotor",
     "rotting",
     "tinning",
@@ -62,6 +63,8 @@
     "tipping",
     "tiptop",
     "tiring",
+    "tong",
+    "tonging",
     "toning",
     "toon",
     "toot",
@@ -83,10 +86,10 @@
   "date": "2035-08-18",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 18,
       "5": 9,
       "6": 13,
-      "7": 15,
+      "7": 16,
       "8": 10,
       "9": 1,
       "10": 2,
@@ -99,8 +102,8 @@
       "N": 2,
       "O": 4,
       "P": 22,
-      "R": 6,
-      "T": 23
+      "R": 7,
+      "T": 25
     },
     "grid": {
       "G": {
@@ -133,15 +136,15 @@
         "13": 1
       },
       "R": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "7": 3
       },
       "T": {
-        "4": 8,
+        "4": 9,
         "5": 1,
         "6": 5,
-        "7": 6,
+        "7": 7,
         "8": 3
       }
     },
@@ -157,9 +160,9 @@
       "PO": 9,
       "PR": 6,
       "RI": 2,
-      "RO": 4,
+      "RO": 5,
       "TI": 6,
-      "TO": 10,
+      "TO": 12,
       "TR": 7
     }
   }

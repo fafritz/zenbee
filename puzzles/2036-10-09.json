@@ -1,15 +1,16 @@
 {
   "pangram": "include",
   "center_letter": "l",
-  "num_answers": 53,
+  "num_answers": 59,
   "num_pangrams": 2,
-  "possible_points": 248,
+  "possible_points": 280,
   "answer_pangrams": [
     "include",
     "included"
   ],
   "answers": [
     "cell",
+    "celled",
     "clinic",
     "clue",
     "clued",
@@ -17,6 +18,7 @@
     "cuddled",
     "cull",
     "culled",
+    "decile",
     "decline",
     "declined",
     "deli",
@@ -30,6 +32,7 @@
     "dueled",
     "dull",
     "dulled",
+    "eeled",
     "elide",
     "elided",
     "elude",
@@ -42,7 +45,10 @@
     "include",
     "included",
     "inline",
+    "inulin",
+    "lede",
     "lend",
+    "lenience",
     "lice",
     "lidded",
     "lied",
@@ -66,18 +72,18 @@
   "date": "2036-10-09",
   "hints": {
     "by_length": {
-      "4": 18,
-      "5": 8,
-      "6": 16,
+      "4": 19,
+      "5": 9,
+      "6": 19,
       "7": 8,
-      "8": 3
+      "8": 4
     },
     "by_first_letter": {
-      "C": 8,
-      "D": 13,
-      "E": 4,
-      "I": 8,
-      "L": 14,
+      "C": 9,
+      "D": 14,
+      "E": 5,
+      "I": 9,
+      "L": 16,
       "N": 5,
       "U": 1
     },
@@ -85,30 +91,31 @@
       "C": {
         "4": 3,
         "5": 1,
-        "6": 3,
+        "6": 4,
         "7": 1
       },
       "D": {
         "4": 5,
-        "6": 4,
+        "6": 5,
         "7": 3,
         "8": 1
       },
       "E": {
-        "5": 2,
+        "5": 3,
         "6": 2
       },
       "I": {
         "4": 1,
         "5": 1,
-        "6": 2,
+        "6": 3,
         "7": 2,
         "8": 2
       },
       "L": {
-        "4": 8,
+        "4": 9,
         "5": 3,
-        "6": 3
+        "6": 3,
+        "8": 1
       },
       "N": {
         "4": 1,
@@ -120,17 +127,18 @@
       }
     },
     "two_letter_list": {
-      "CE": 1,
+      "CE": 2,
       "CL": 3,
       "CU": 4,
-      "DE": 6,
+      "DE": 7,
       "DI": 3,
       "DU": 4,
+      "EE": 1,
       "EL": 4,
       "IC": 1,
       "ID": 2,
-      "IN": 5,
-      "LE": 1,
+      "IN": 6,
+      "LE": 3,
       "LI": 9,
       "LU": 4,
       "NE": 2,

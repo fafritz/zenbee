@@ -1,9 +1,9 @@
 {
   "pangram": "albumen",
   "center_letter": "e",
-  "num_answers": 59,
+  "num_answers": 60,
   "num_pangrams": 1,
-  "possible_points": 233,
+  "possible_points": 239,
   "answer_pangrams": [
     "albumen"
   ],
@@ -12,6 +12,7 @@
     "abeam",
     "able",
     "albumen",
+    "allele",
     "alumnae",
     "amble",
     "amen",
@@ -73,13 +74,13 @@
     "by_length": {
       "4": 26,
       "5": 11,
-      "6": 15,
+      "6": 16,
       "7": 3,
       "8": 2,
       "9": 2
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 10,
       "B": 20,
       "E": 6,
       "L": 6,
@@ -91,7 +92,7 @@
       "A": {
         "4": 3,
         "5": 2,
-        "6": 1,
+        "6": 2,
         "7": 2,
         "8": 1
       },
@@ -129,7 +130,7 @@
     },
     "two_letter_list": {
       "AB": 3,
-      "AL": 2,
+      "AL": 3,
       "AM": 3,
       "AN": 1,
       "BA": 7,

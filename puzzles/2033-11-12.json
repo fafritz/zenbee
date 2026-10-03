@@ -1,9 +1,9 @@
 {
   "pangram": "truancy",
   "center_letter": "n",
-  "num_answers": 32,
+  "num_answers": 34,
   "num_pangrams": 1,
-  "possible_points": 141,
+  "possible_points": 148,
   "answer_pangrams": [
     "truancy"
   ],
@@ -29,6 +29,8 @@
     "rattan",
     "runny",
     "runt",
+    "tantra",
+    "tarn",
     "tartan",
     "taunt",
     "truancy",
@@ -44,9 +46,9 @@
   "date": "2033-11-12",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 8,
-      "6": 8,
+      "6": 9,
       "7": 5
     },
     "by_first_letter": {
@@ -54,7 +56,7 @@
       "C": 9,
       "N": 6,
       "R": 4,
-      "T": 8,
+      "T": 10,
       "U": 2,
       "Y": 1
     },
@@ -79,9 +81,9 @@
         "6": 1
       },
       "T": {
-        "4": 2,
+        "4": 3,
         "5": 1,
-        "6": 3,
+        "6": 4,
         "7": 2
       },
       "U": {
@@ -103,7 +105,7 @@
       "NU": 1,
       "RA": 2,
       "RU": 2,
-      "TA": 2,
+      "TA": 4,
       "TR": 2,
       "TU": 2,
       "TY": 2,

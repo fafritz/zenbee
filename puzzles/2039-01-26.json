@@ -3,7 +3,7 @@
   "center_letter": "u",
   "num_answers": 39,
   "num_pangrams": 2,
-  "possible_points": 228,
+  "possible_points": 229,
   "answer_pangrams": [
     "eventuated",
     "vaunted"
@@ -25,11 +25,11 @@
     "dune",
     "dunned",
     "duvet",
-    "endue",
     "endued",
     "etude",
     "eventuate",
     "eventuated",
+    "nutate",
     "nutted",
     "taunt",
     "taunted",
@@ -53,8 +53,8 @@
   "hints": {
     "by_length": {
       "4": 8,
-      "5": 10,
-      "6": 7,
+      "5": 9,
+      "6": 8,
       "7": 7,
       "8": 1,
       "9": 3,
@@ -63,8 +63,8 @@
     "by_first_letter": {
       "A": 6,
       "D": 10,
-      "E": 5,
-      "N": 1,
+      "E": 4,
+      "N": 2,
       "T": 7,
       "U": 7,
       "V": 3
@@ -84,13 +84,13 @@
         "7": 2
       },
       "E": {
-        "5": 2,
+        "5": 1,
         "6": 1,
         "9": 1,
         "10": 1
       },
       "N": {
-        "6": 1
+        "6": 2
       },
       "T": {
         "4": 4,
@@ -117,10 +117,10 @@
       "DA": 2,
       "DE": 2,
       "DU": 6,
-      "EN": 2,
+      "EN": 1,
       "ET": 1,
       "EV": 2,
-      "NU": 1,
+      "NU": 2,
       "TA": 3,
       "TU": 4,
       "UN": 7,

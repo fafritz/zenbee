@@ -1,9 +1,9 @@
 {
   "pangram": "beaming",
   "center_letter": "g",
-  "num_answers": 69,
+  "num_answers": 71,
   "num_pangrams": 1,
-  "possible_points": 411,
+  "possible_points": 419,
   "answer_pangrams": [
     "beaming"
   ],
@@ -30,6 +30,7 @@
     "biggie",
     "binge",
     "bingeing",
+    "binging",
     "binning",
     "ebbing",
     "egging",
@@ -38,6 +39,7 @@
     "engine",
     "enigma",
     "gabbing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -81,18 +83,18 @@
   "date": "2028-05-04",
   "hints": {
     "by_length": {
-      "4": 6,
+      "4": 7,
       "5": 15,
       "6": 21,
-      "7": 21,
+      "7": 22,
       "8": 4,
       "9": 2
     },
     "by_first_letter": {
       "A": 4,
-      "B": 19,
+      "B": 20,
       "E": 6,
-      "G": 19,
+      "G": 20,
       "I": 6,
       "M": 12,
       "N": 3
@@ -106,7 +108,7 @@
         "4": 1,
         "5": 5,
         "6": 3,
-        "7": 8,
+        "7": 9,
         "8": 1,
         "9": 1
       },
@@ -115,7 +117,7 @@
         "8": 1
       },
       "G": {
-        "4": 5,
+        "4": 6,
         "5": 4,
         "6": 4,
         "7": 6
@@ -144,11 +146,11 @@
       "AN": 1,
       "BA": 6,
       "BE": 9,
-      "BI": 4,
+      "BI": 5,
       "EB": 1,
       "EG": 1,
       "EN": 4,
-      "GA": 10,
+      "GA": 11,
       "GE": 4,
       "GI": 5,
       "IM": 5,

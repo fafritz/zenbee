@@ -1,9 +1,9 @@
 {
   "pangram": "inflate",
   "center_letter": "f",
-  "num_answers": 60,
+  "num_answers": 63,
   "num_pangrams": 2,
-  "possible_points": 258,
+  "possible_points": 271,
   "answer_pangrams": [
     "infantile",
     "inflate"
@@ -15,6 +15,7 @@
     "elfin",
     "fail",
     "faint",
+    "falafel",
     "fall",
     "fallen",
     "fatal",
@@ -26,6 +27,7 @@
     "feint",
     "feline",
     "fell",
+    "fella",
     "felt",
     "fennel",
     "feta",
@@ -67,16 +69,17 @@
     "life",
     "lifeline",
     "lift",
+    "naif",
     "taffeta",
     "tiff"
   ],
   "date": "2039-02-13",
   "hints": {
     "by_length": {
-      "4": 26,
-      "5": 10,
+      "4": 27,
+      "5": 11,
       "6": 11,
-      "7": 7,
+      "7": 8,
       "8": 3,
       "9": 2,
       "11": 1
@@ -84,9 +87,10 @@
     "by_first_letter": {
       "A": 2,
       "E": 2,
-      "F": 44,
+      "F": 46,
       "I": 4,
       "L": 6,
+      "N": 1,
       "T": 2
     },
     "grid": {
@@ -100,9 +104,9 @@
       },
       "F": {
         "4": 21,
-        "5": 9,
+        "5": 10,
         "6": 9,
-        "7": 3,
+        "7": 4,
         "8": 1,
         "11": 1
       },
@@ -117,6 +121,9 @@
         "7": 1,
         "8": 1
       },
+      "N": {
+        "4": 1
+      },
       "T": {
         "4": 1,
         "7": 1
@@ -127,13 +134,14 @@
       "AL": 1,
       "EF": 1,
       "EL": 1,
-      "FA": 7,
-      "FE": 12,
+      "FA": 8,
+      "FE": 13,
       "FI": 13,
       "FL": 12,
       "IN": 4,
       "LE": 3,
       "LI": 3,
+      "NA": 1,
       "TA": 1,
       "TI": 1
     }

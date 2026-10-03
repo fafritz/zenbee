@@ -1,9 +1,9 @@
 {
   "pangram": "hydrant",
   "center_letter": "n",
-  "num_answers": 17,
+  "num_answers": 19,
   "num_pangrams": 1,
-  "possible_points": 72,
+  "possible_points": 79,
   "answer_pangrams": [
     "hydrant"
   ],
@@ -20,6 +20,8 @@
     "natty",
     "rant",
     "rattan",
+    "tantra",
+    "tarn",
     "tartan",
     "than",
     "tyranny",
@@ -29,9 +31,9 @@
   "date": "2032-07-02",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 8,
       "5": 4,
-      "6": 4,
+      "6": 5,
       "7": 2
     },
     "by_first_letter": {
@@ -40,7 +42,7 @@
       "H": 3,
       "N": 4,
       "R": 2,
-      "T": 4,
+      "T": 6,
       "Y": 1
     },
     "grid": {
@@ -65,8 +67,8 @@
         "6": 1
       },
       "T": {
-        "4": 1,
-        "6": 2,
+        "4": 2,
+        "6": 3,
         "7": 1
       },
       "Y": {
@@ -80,7 +82,7 @@
       "HY": 1,
       "NA": 4,
       "RA": 2,
-      "TA": 1,
+      "TA": 3,
       "TH": 1,
       "TY": 2,
       "YA": 1

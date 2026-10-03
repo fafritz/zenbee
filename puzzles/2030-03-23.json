@@ -1,9 +1,9 @@
 {
   "pangram": "ignobly",
   "center_letter": "b",
-  "num_answers": 52,
+  "num_answers": 51,
   "num_pangrams": 3,
-  "possible_points": 302,
+  "possible_points": 294,
   "answer_pangrams": [
     "ignobly",
     "lobbying",
@@ -14,6 +14,7 @@
     "billing",
     "billion",
     "billy",
+    "binging",
     "bingo",
     "binning",
     "biology",
@@ -31,6 +32,7 @@
     "boggy",
     "boil",
     "boiling",
+    "boing",
     "boll",
     "bonbon",
     "bong",
@@ -39,8 +41,6 @@
     "boning",
     "bony",
     "boob",
-    "boobing",
-    "booboo",
     "booby",
     "booing",
     "boon",
@@ -50,7 +50,6 @@
     "glibly",
     "glob",
     "globing",
-    "gobbing",
     "gobbling",
     "goblin",
     "ignobly",
@@ -67,15 +66,15 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 9,
-      "6": 10,
-      "7": 13,
+      "5": 10,
+      "6": 9,
+      "7": 12,
       "8": 8,
       "10": 1
     },
     "by_first_letter": {
       "B": 34,
-      "G": 9,
+      "G": 8,
       "I": 1,
       "L": 3,
       "N": 2,
@@ -84,15 +83,15 @@
     "grid": {
       "B": {
         "4": 9,
-        "5": 7,
-        "6": 5,
+        "5": 8,
+        "6": 4,
         "7": 9,
         "8": 4
       },
       "G": {
         "4": 2,
         "6": 4,
-        "7": 2,
+        "7": 1,
         "8": 1
       },
       "I": {
@@ -114,12 +113,12 @@
       }
     },
     "two_letter_list": {
-      "BI": 7,
+      "BI": 8,
       "BL": 5,
-      "BO": 22,
+      "BO": 21,
       "GI": 2,
       "GL": 4,
-      "GO": 3,
+      "GO": 2,
       "IG": 1,
       "LO": 3,
       "NI": 1,

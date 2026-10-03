@@ -1,180 +1,75 @@
 {
-  "pangram": "locking",
-  "center_letter": "i",
-  "num_answers": 81,
-  "num_pangrams": 2,
-  "possible_points": 449,
+  "pangram": "monthly",
+  "center_letter": "l",
+  "num_answers": 16,
+  "num_pangrams": 1,
+  "possible_points": 49,
   "answer_pangrams": [
-    "clocking",
-    "locking"
+    "monthly"
   ],
   "answers": [
-    "click",
-    "clicking",
-    "cling",
-    "clinging",
-    "clinic",
-    "clink",
-    "clinking",
-    "clocking",
-    "clogging",
-    "cloning",
-    "cocci",
-    "cocking",
-    "cocooning",
-    "coil",
-    "coiling",
-    "coin",
-    "coining",
-    "coking",
-    "colic",
-    "conic",
-    "conking",
-    "conning",
-    "cooing",
-    "cooking",
-    "cooling",
-    "gigging",
-    "giggling",
-    "gigolo",
-    "gill",
-    "ginkgo",
-    "ginning",
-    "goggling",
-    "going",
-    "gonging",
-    "googling",
-    "icing",
-    "icon",
-    "igloo",
-    "inclining",
-    "inking",
-    "inkling",
-    "inning",
-    "kick",
-    "kicking",
-    "kill",
-    "killing",
-    "kiln",
-    "kilning",
-    "kilo",
-    "king",
-    "kink",
-    "kinking",
-    "knocking",
-    "lick",
-    "licking",
-    "liking",
-    "lingo",
-    "lining",
-    "link",
-    "linking",
-    "lion",
-    "loci",
-    "locking",
-    "logging",
-    "logic",
-    "login",
-    "loin",
-    "lolling",
-    "longing",
-    "looking",
-    "nick",
-    "nicking",
-    "niggling",
-    "noggin",
-    "ogling",
-    "oiling",
-    "oink",
-    "oinking",
-    "olio",
-    "ongoing",
-    "onion"
+    "holly",
+    "holy",
+    "hotly",
+    "loll",
+    "loom",
+    "loon",
+    "loony",
+    "loot",
+    "lotto",
+    "moll",
+    "molt",
+    "monthly",
+    "nylon",
+    "only",
+    "toll",
+    "tool"
   ],
   "date": "2027-08-14",
   "hints": {
     "by_length": {
-      "4": 18,
-      "5": 13,
-      "6": 12,
-      "7": 26,
-      "8": 10,
-      "9": 2
+      "4": 10,
+      "5": 5,
+      "7": 1
     },
     "by_first_letter": {
-      "C": 25,
-      "G": 10,
-      "I": 7,
-      "K": 11,
-      "L": 17,
-      "N": 4,
-      "O": 7
+      "H": 3,
+      "L": 6,
+      "M": 3,
+      "N": 1,
+      "O": 1,
+      "T": 2
     },
     "grid": {
-      "C": {
-        "4": 2,
-        "5": 6,
-        "6": 3,
-        "7": 8,
-        "8": 5,
-        "9": 1
-      },
-      "G": {
+      "H": {
         "4": 1,
-        "5": 1,
-        "6": 2,
-        "7": 3,
-        "8": 3
-      },
-      "I": {
-        "4": 1,
-        "5": 2,
-        "6": 2,
-        "7": 1,
-        "9": 1
-      },
-      "K": {
-        "4": 6,
-        "7": 4,
-        "8": 1
+        "5": 2
       },
       "L": {
-        "4": 5,
-        "5": 3,
-        "6": 2,
-        "7": 7
+        "4": 4,
+        "5": 2
+      },
+      "M": {
+        "4": 2,
+        "7": 1
       },
       "N": {
-        "4": 1,
-        "6": 1,
-        "7": 1,
-        "8": 1
+        "5": 1
       },
       "O": {
-        "4": 2,
-        "5": 1,
-        "6": 2,
-        "7": 2
+        "4": 1
+      },
+      "T": {
+        "4": 2
       }
     },
     "two_letter_list": {
-      "CL": 10,
-      "CO": 15,
-      "GI": 6,
-      "GO": 4,
-      "IC": 2,
-      "IG": 1,
-      "IN": 4,
-      "KI": 10,
-      "KN": 1,
-      "LI": 8,
-      "LO": 9,
-      "NI": 3,
-      "NO": 1,
-      "OG": 1,
-      "OI": 3,
-      "OL": 1,
-      "ON": 2
+      "HO": 3,
+      "LO": 6,
+      "MO": 3,
+      "NY": 1,
+      "ON": 1,
+      "TO": 2
     }
   }
 }

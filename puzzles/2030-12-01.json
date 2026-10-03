@@ -1,9 +1,9 @@
 {
   "pangram": "lazying",
   "center_letter": "n",
-  "num_answers": 47,
+  "num_answers": 50,
   "num_pangrams": 2,
-  "possible_points": 278,
+  "possible_points": 297,
   "answer_pangrams": [
     "analyzing",
     "lazying"
@@ -16,13 +16,13 @@
     "aligning",
     "allaying",
     "allying",
-    "anal",
     "analyzing",
     "angina",
     "angling",
     "gagging",
     "gain",
     "gaining",
+    "galangal",
     "galling",
     "gang",
     "ganging",
@@ -38,9 +38,11 @@
     "inning",
     "lagging",
     "lain",
+    "lanai",
     "laying",
     "lazing",
     "lazying",
+    "lignin",
     "lining",
     "lying",
     "naan",
@@ -51,6 +53,7 @@
     "nanny",
     "niggling",
     "ninny",
+    "yang",
     "zany",
     "zigzagging",
     "zing",
@@ -61,24 +64,24 @@
   "hints": {
     "by_length": {
       "4": 9,
-      "5": 7,
-      "6": 8,
+      "5": 8,
+      "6": 9,
       "7": 15,
-      "8": 6,
+      "8": 7,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 11,
-      "G": 13,
+      "A": 10,
+      "G": 14,
       "I": 3,
-      "L": 7,
+      "L": 9,
       "N": 8,
+      "Y": 1,
       "Z": 5
     },
     "grid": {
       "A": {
-        "4": 1,
         "5": 3,
         "6": 2,
         "7": 2,
@@ -89,7 +92,7 @@
         "4": 2,
         "6": 1,
         "7": 8,
-        "8": 2
+        "8": 3
       },
       "I": {
         "5": 1,
@@ -98,8 +101,8 @@
       },
       "L": {
         "4": 1,
-        "5": 1,
-        "6": 3,
+        "5": 2,
+        "6": 4,
         "7": 2
       },
       "N": {
@@ -107,6 +110,9 @@
         "5": 2,
         "7": 2,
         "8": 1
+      },
+      "Y": {
+        "4": 1
       },
       "Z": {
         "4": 2,
@@ -119,16 +125,17 @@
       "AG": 2,
       "AI": 1,
       "AL": 4,
-      "AN": 4,
-      "GA": 9,
+      "AN": 3,
+      "GA": 10,
       "GI": 3,
       "GL": 1,
       "IN": 3,
-      "LA": 5,
-      "LI": 1,
+      "LA": 6,
+      "LI": 2,
       "LY": 1,
       "NA": 6,
       "NI": 2,
+      "YA": 1,
       "ZA": 1,
       "ZI": 4
     }

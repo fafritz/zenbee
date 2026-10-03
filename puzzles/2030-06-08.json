@@ -1,9 +1,9 @@
 {
   "pangram": "poniard",
   "center_letter": "r",
-  "num_answers": 47,
+  "num_answers": 50,
   "num_pangrams": 3,
-  "possible_points": 198,
+  "possible_points": 205,
   "answer_pangrams": [
     "paranoid",
     "poniard",
@@ -31,6 +31,8 @@
     "inroad",
     "iron",
     "nadir",
+    "noir",
+    "nori",
     "odor",
     "ordain",
     "pair",
@@ -56,13 +58,14 @@
     "road",
     "roan",
     "roar",
+    "ronin",
     "rood"
   ],
   "date": "2030-06-08",
   "hints": {
     "by_length": {
-      "4": 20,
-      "5": 15,
+      "4": 22,
+      "5": 16,
       "6": 5,
       "7": 4,
       "8": 3
@@ -71,10 +74,10 @@
       "A": 8,
       "D": 9,
       "I": 3,
-      "N": 1,
+      "N": 3,
       "O": 2,
       "P": 10,
-      "R": 14
+      "R": 15
     },
     "grid": {
       "A": {
@@ -91,6 +94,7 @@
         "6": 2
       },
       "N": {
+        "4": 2,
         "5": 1
       },
       "O": {
@@ -106,7 +110,7 @@
       },
       "R": {
         "4": 7,
-        "5": 5,
+        "5": 6,
         "6": 1,
         "8": 1
       }
@@ -124,6 +128,7 @@
       "IN": 2,
       "IR": 1,
       "NA": 1,
+      "NO": 2,
       "OD": 1,
       "OR": 1,
       "PA": 4,
@@ -131,7 +136,7 @@
       "PR": 4,
       "RA": 9,
       "RI": 1,
-      "RO": 4
+      "RO": 5
     }
   }
 }

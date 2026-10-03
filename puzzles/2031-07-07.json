@@ -1,9 +1,9 @@
 {
   "pangram": "rhyming",
   "center_letter": "i",
-  "num_answers": 25,
+  "num_answers": 24,
   "num_pangrams": 1,
-  "possible_points": 129,
+  "possible_points": 128,
   "answer_pangrams": [
     "rhyming"
   ],
@@ -16,7 +16,6 @@
     "grin",
     "grinning",
     "high",
-    "hing",
     "hinging",
     "hiring",
     "hymning",
@@ -37,7 +36,7 @@
   "date": "2031-07-07",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 6,
       "5": 3,
       "6": 6,
       "7": 8,
@@ -45,7 +44,7 @@
     },
     "by_first_letter": {
       "G": 7,
-      "H": 5,
+      "H": 4,
       "I": 1,
       "M": 5,
       "N": 2,
@@ -59,7 +58,7 @@
         "8": 1
       },
       "H": {
-        "4": 2,
+        "4": 1,
         "6": 1,
         "7": 2
       },
@@ -84,7 +83,7 @@
     "two_letter_list": {
       "GI": 2,
       "GR": 5,
-      "HI": 4,
+      "HI": 3,
       "HY": 1,
       "IN": 1,
       "MI": 5,

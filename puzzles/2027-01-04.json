@@ -1,13 +1,14 @@
 {
   "pangram": "petunia",
   "center_letter": "t",
-  "num_answers": 63,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 284,
+  "possible_points": 305,
   "answer_pangrams": [
     "petunia"
   ],
   "answers": [
+    "annuitant",
     "ante",
     "antenna",
     "antennae",
@@ -28,7 +29,9 @@
     "intent",
     "intuit",
     "neat",
+    "neaten",
     "nineteen",
+    "nutate",
     "paint",
     "pant",
     "pate",
@@ -77,16 +80,16 @@
     "by_length": {
       "4": 22,
       "5": 14,
-      "6": 13,
+      "6": 15,
       "7": 7,
       "8": 5,
-      "9": 2
+      "9": 3
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 10,
       "E": 2,
       "I": 8,
-      "N": 2,
+      "N": 4,
       "P": 21,
       "T": 17,
       "U": 4
@@ -97,7 +100,7 @@
         "6": 2,
         "7": 1,
         "8": 2,
-        "9": 1
+        "9": 2
       },
       "E": {
         "5": 1,
@@ -111,6 +114,7 @@
       },
       "N": {
         "4": 1,
+        "6": 2,
         "8": 1
       },
       "P": {
@@ -132,15 +136,16 @@
       }
     },
     "two_letter_list": {
-      "AN": 4,
+      "AN": 5,
       "AP": 1,
       "AT": 3,
       "AU": 1,
       "EA": 1,
       "EN": 1,
       "IN": 8,
-      "NE": 1,
+      "NE": 2,
       "NI": 1,
+      "NU": 1,
       "PA": 7,
       "PE": 7,
       "PI": 4,

@@ -1,9 +1,9 @@
 {
   "pangram": "ovulate",
   "center_letter": "v",
-  "num_answers": 24,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 102,
+  "possible_points": 109,
   "answer_pangrams": [
     "ovulate"
   ],
@@ -12,6 +12,7 @@
     "evaluate",
     "evolve",
     "lava",
+    "lave",
     "leave",
     "levee",
     "level",
@@ -31,23 +32,24 @@
     "veto",
     "vole",
     "volt",
+    "volute",
     "vote"
   ],
   "date": "2029-02-07",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 10,
       "5": 9,
-      "6": 2,
+      "6": 3,
       "7": 3,
       "8": 1
     },
     "by_first_letter": {
       "E": 3,
-      "L": 5,
+      "L": 6,
       "O": 4,
       "U": 1,
-      "V": 11
+      "V": 12
     },
     "grid": {
       "E": {
@@ -56,7 +58,7 @@
         "8": 1
       },
       "L": {
-        "4": 2,
+        "4": 3,
         "5": 3
       },
       "O": {
@@ -70,13 +72,13 @@
       "V": {
         "4": 6,
         "5": 4,
-        "6": 1
+        "6": 2
       }
     },
     "two_letter_list": {
       "EL": 1,
       "EV": 2,
-      "LA": 1,
+      "LA": 2,
       "LE": 3,
       "LO": 1,
       "OU": 1,
@@ -84,7 +86,7 @@
       "UV": 1,
       "VA": 5,
       "VE": 3,
-      "VO": 3
+      "VO": 4
     }
   }
 }

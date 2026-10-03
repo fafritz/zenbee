@@ -1,7 +1,7 @@
 {
   "pangram": "puritan",
   "center_letter": "r",
-  "num_answers": 35,
+  "num_answers": 36,
   "num_pangrams": 1,
   "possible_points": 139,
   "answer_pangrams": [
@@ -24,12 +24,13 @@
     "rain",
     "rant",
     "rapt",
-    "ratatat",
     "rattan",
     "rattrap",
     "ruin",
     "runt",
+    "tantra",
     "tapir",
+    "tarn",
     "tarp",
     "tart",
     "tartan",
@@ -47,10 +48,10 @@
   "date": "2037-05-06",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 16,
       "5": 8,
-      "6": 8,
-      "7": 3,
+      "6": 9,
+      "7": 2,
       "8": 1
     },
     "by_first_letter": {
@@ -58,8 +59,8 @@
       "I": 1,
       "N": 1,
       "P": 5,
-      "R": 8,
-      "T": 13,
+      "R": 7,
+      "T": 15,
       "U": 1
     },
     "grid": {
@@ -82,12 +83,12 @@
       "R": {
         "4": 5,
         "6": 1,
-        "7": 2
+        "7": 1
       },
       "T": {
-        "4": 5,
+        "4": 6,
         "5": 4,
-        "6": 4
+        "6": 5
       },
       "U": {
         "6": 1
@@ -103,9 +104,9 @@
       "PA": 2,
       "PR": 1,
       "PU": 2,
-      "RA": 6,
+      "RA": 5,
       "RU": 2,
-      "TA": 5,
+      "TA": 7,
       "TI": 1,
       "TR": 5,
       "TU": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "laughed",
   "center_letter": "g",
-  "num_answers": 50,
+  "num_answers": 53,
   "num_pangrams": 1,
-  "possible_points": 232,
+  "possible_points": 239,
   "answer_pangrams": [
     "laughed"
   ],
@@ -23,6 +23,7 @@
     "egged",
     "egghead",
     "gadded",
+    "gaga",
     "gagged",
     "gaggle",
     "gala",
@@ -56,14 +57,16 @@
     "ledge",
     "legal",
     "legged",
+    "luge",
+    "luged",
     "luggage",
     "lugged"
   ],
   "date": "2035-07-17",
   "hints": {
     "by_length": {
-      "4": 14,
-      "5": 12,
+      "4": 16,
+      "5": 13,
       "6": 17,
       "7": 7
     },
@@ -71,9 +74,9 @@
       "A": 7,
       "D": 2,
       "E": 5,
-      "G": 20,
+      "G": 21,
       "H": 6,
-      "L": 10
+      "L": 12
     },
     "grid": {
       "A": {
@@ -92,7 +95,7 @@
         "7": 1
       },
       "G": {
-        "4": 9,
+        "4": 10,
         "5": 3,
         "6": 8
       },
@@ -103,7 +106,8 @@
         "7": 1
       },
       "L": {
-        "5": 3,
+        "4": 1,
+        "5": 4,
         "6": 4,
         "7": 3
       }
@@ -116,7 +120,7 @@
       "EA": 1,
       "ED": 2,
       "EG": 2,
-      "GA": 9,
+      "GA": 10,
       "GE": 4,
       "GL": 5,
       "GU": 2,
@@ -125,7 +129,7 @@
       "HU": 2,
       "LA": 3,
       "LE": 5,
-      "LU": 2
+      "LU": 4
     }
   }
 }

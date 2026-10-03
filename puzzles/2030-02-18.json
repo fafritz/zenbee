@@ -3,7 +3,7 @@
   "center_letter": "g",
   "num_answers": 55,
   "num_pangrams": 2,
-  "possible_points": 318,
+  "possible_points": 323,
   "answer_pangrams": [
     "hollowing",
     "howling"
@@ -25,7 +25,6 @@
     "gown",
     "gowning",
     "high",
-    "hing",
     "hinging",
     "hogging",
     "holing",
@@ -34,6 +33,7 @@
     "howling",
     "igloo",
     "inning",
+    "lignin",
     "lingo",
     "lining",
     "logging",
@@ -68,18 +68,18 @@
   "date": "2030-02-18",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 10,
       "5": 5,
-      "6": 14,
+      "6": 15,
       "7": 18,
       "8": 5,
       "9": 2
     },
     "by_first_letter": {
       "G": 15,
-      "H": 8,
+      "H": 7,
       "I": 2,
-      "L": 9,
+      "L": 10,
       "N": 3,
       "O": 5,
       "W": 13
@@ -93,7 +93,7 @@
         "8": 3
       },
       "H": {
-        "4": 2,
+        "4": 1,
         "6": 2,
         "7": 3,
         "9": 1
@@ -105,7 +105,7 @@
       "L": {
         "4": 2,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 3
       },
       "N": {
@@ -130,11 +130,11 @@
       "GI": 5,
       "GL": 2,
       "GO": 8,
-      "HI": 3,
+      "HI": 2,
       "HO": 5,
       "IG": 1,
       "IN": 1,
-      "LI": 2,
+      "LI": 3,
       "LO": 7,
       "NI": 2,
       "NO": 1,

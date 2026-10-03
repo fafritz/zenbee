@@ -3,7 +3,7 @@
   "center_letter": "l",
   "num_answers": 79,
   "num_pangrams": 3,
-  "possible_points": 380,
+  "possible_points": 386,
   "answer_pangrams": [
     "battlement",
     "lambent",
@@ -11,9 +11,9 @@
   ],
   "answers": [
     "able",
+    "allele",
     "amble",
     "amenable",
-    "anal",
     "anneal",
     "babble",
     "babel",
@@ -51,6 +51,7 @@
     "lament",
     "lamentable",
     "lane",
+    "lantana",
     "late",
     "latent",
     "latte",
@@ -87,16 +88,15 @@
     "teal",
     "tell",
     "telltale",
-    "telnet",
     "tenable"
   ],
   "date": "2031-04-08",
   "hints": {
     "by_length": {
-      "4": 26,
+      "4": 25,
       "5": 15,
       "6": 24,
-      "7": 6,
+      "7": 7,
       "8": 3,
       "9": 2,
       "10": 3
@@ -105,16 +105,16 @@
       "A": 5,
       "B": 19,
       "E": 9,
-      "L": 15,
+      "L": 16,
       "M": 15,
       "N": 2,
-      "T": 14
+      "T": 13
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 1,
-        "6": 1,
+        "6": 2,
         "8": 1
       },
       "B": {
@@ -135,7 +135,7 @@
         "4": 7,
         "5": 4,
         "6": 2,
-        "7": 1,
+        "7": 2,
         "10": 1
       },
       "M": {
@@ -152,7 +152,7 @@
       "T": {
         "4": 4,
         "5": 1,
-        "6": 5,
+        "6": 4,
         "7": 2,
         "8": 1,
         "10": 1
@@ -160,8 +160,9 @@
     },
     "two_letter_list": {
       "AB": 1,
+      "AL": 1,
       "AM": 2,
-      "AN": 2,
+      "AN": 1,
       "BA": 10,
       "BE": 4,
       "BL": 5,
@@ -169,7 +170,7 @@
       "EL": 4,
       "EM": 2,
       "EN": 2,
-      "LA": 11,
+      "LA": 12,
       "LE": 3,
       "LL": 1,
       "MA": 8,
@@ -177,7 +178,7 @@
       "NA": 1,
       "NE": 1,
       "TA": 9,
-      "TE": 5
+      "TE": 4
     }
   }
 }

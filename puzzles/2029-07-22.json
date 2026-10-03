@@ -1,15 +1,16 @@
 {
   "pangram": "pouring",
   "center_letter": "r",
-  "num_answers": 47,
+  "num_answers": 53,
   "num_pangrams": 2,
-  "possible_points": 244,
+  "possible_points": 270,
   "answer_pangrams": [
     "grouping",
     "pouring"
   ],
   "answers": [
     "gorging",
+    "gorgon",
     "goring",
     "gorp",
     "grin",
@@ -27,8 +28,12 @@
     "inuring",
     "iron",
     "ironing",
+    "noir",
+    "nori",
     "origin",
+    "pirogi",
     "poor",
+    "porging",
     "poring",
     "pour",
     "pouring",
@@ -48,6 +53,7 @@
     "ring",
     "ringing",
     "ripping",
+    "ronin",
     "roping",
     "rouging",
     "ruin",
@@ -60,26 +66,27 @@
   "date": "2029-07-22",
   "hints": {
     "by_length": {
-      "4": 15,
-      "5": 6,
-      "6": 5,
-      "7": 15,
+      "4": 17,
+      "5": 7,
+      "6": 7,
+      "7": 16,
       "8": 5,
       "10": 1
     },
     "by_first_letter": {
-      "G": 14,
+      "G": 15,
       "I": 4,
+      "N": 2,
       "O": 1,
-      "P": 15,
-      "R": 12,
+      "P": 17,
+      "R": 13,
       "U": 1
     },
     "grid": {
       "G": {
         "4": 5,
         "5": 2,
-        "6": 1,
+        "6": 2,
         "7": 2,
         "8": 3,
         "10": 1
@@ -89,19 +96,22 @@
         "7": 2,
         "8": 1
       },
+      "N": {
+        "4": 2
+      },
       "O": {
         "6": 1
       },
       "P": {
         "4": 6,
         "5": 2,
-        "6": 1,
-        "7": 5,
+        "6": 2,
+        "7": 6,
         "8": 1
       },
       "R": {
         "4": 3,
-        "5": 2,
+        "5": 3,
         "6": 1,
         "7": 6
       },
@@ -110,18 +120,20 @@
       }
     },
     "two_letter_list": {
-      "GO": 3,
+      "GO": 4,
       "GR": 9,
       "GU": 2,
       "IG": 1,
       "IN": 1,
       "IR": 2,
+      "NO": 2,
       "OR": 1,
-      "PO": 4,
+      "PI": 1,
+      "PO": 5,
       "PR": 8,
       "PU": 3,
       "RI": 5,
-      "RO": 2,
+      "RO": 3,
       "RU": 5,
       "UR": 1
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "biplane",
   "center_letter": "i",
-  "num_answers": 43,
+  "num_answers": 50,
   "num_pangrams": 2,
-  "possible_points": 211,
+  "possible_points": 254,
   "answer_pangrams": [
     "biplane",
     "plebeian"
@@ -13,6 +13,7 @@
     "alien",
     "alienable",
     "alpine",
+    "aniline",
     "bail",
     "beeline",
     "belie",
@@ -20,6 +21,7 @@
     "biennial",
     "bile",
     "bill",
+    "billable",
     "biplane",
     "blip",
     "inalienable",
@@ -27,7 +29,9 @@
     "inline",
     "labia",
     "labial",
+    "labile",
     "lain",
+    "lanai",
     "liable",
     "libel",
     "lien",
@@ -39,13 +43,16 @@
     "nine",
     "pail",
     "pain",
+    "panini",
     "papilla",
     "papillae",
-    "penile",
     "pile",
     "pill",
     "pine",
+    "pineal",
     "pineapple",
+    "pinna",
+    "pinnae",
     "pipe",
     "pipeline",
     "pippin",
@@ -57,32 +64,33 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 9,
-      "6": 8,
-      "7": 4,
-      "8": 4,
+      "5": 11,
+      "6": 11,
+      "7": 5,
+      "8": 5,
       "9": 2,
       "11": 1
     },
     "by_first_letter": {
-      "A": 4,
-      "B": 9,
+      "A": 5,
+      "B": 10,
       "I": 3,
-      "L": 9,
+      "L": 11,
       "N": 3,
-      "P": 15
+      "P": 18
     },
     "grid": {
       "A": {
         "5": 2,
         "6": 1,
+        "7": 1,
         "9": 1
       },
       "B": {
         "4": 4,
         "5": 2,
         "7": 2,
-        "8": 1
+        "8": 2
       },
       "I": {
         "5": 1,
@@ -91,8 +99,8 @@
       },
       "L": {
         "4": 3,
-        "5": 3,
-        "6": 3
+        "5": 4,
+        "6": 4
       },
       "N": {
         "4": 2,
@@ -100,8 +108,8 @@
       },
       "P": {
         "4": 6,
-        "5": 1,
-        "6": 2,
+        "5": 2,
+        "6": 4,
         "7": 2,
         "8": 3,
         "9": 1
@@ -109,18 +117,18 @@
     },
     "two_letter_list": {
       "AL": 4,
+      "AN": 1,
       "BA": 1,
       "BE": 2,
-      "BI": 5,
+      "BI": 6,
       "BL": 1,
       "IN": 3,
-      "LA": 3,
+      "LA": 5,
       "LI": 6,
       "NA": 1,
       "NI": 2,
-      "PA": 4,
-      "PE": 1,
-      "PI": 7,
+      "PA": 5,
+      "PI": 10,
       "PL": 3
     }
   }

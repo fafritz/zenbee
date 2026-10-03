@@ -1,9 +1,9 @@
 {
   "pangram": "jolting",
   "center_letter": "t",
-  "num_answers": 49,
+  "num_answers": 52,
   "num_pangrams": 1,
-  "possible_points": 247,
+  "possible_points": 263,
   "answer_pangrams": [
     "jolting"
   ],
@@ -49,23 +49,26 @@
     "toiling",
     "toll",
     "tolling",
+    "tong",
+    "tonging",
     "toning",
     "tool",
     "tooling",
     "toon",
     "toot",
     "tooting",
+    "tootling",
     "toting",
     "totting"
   ],
   "date": "2028-06-09",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 17,
       "5": 4,
       "6": 6,
-      "7": 16,
-      "8": 7
+      "7": 17,
+      "8": 8
     },
     "by_first_letter": {
       "G": 3,
@@ -74,7 +77,7 @@
       "L": 8,
       "N": 2,
       "O": 1,
-      "T": 23
+      "T": 26
     },
     "grid": {
       "G": {
@@ -106,10 +109,10 @@
         "4": 1
       },
       "T": {
-        "4": 8,
+        "4": 9,
         "6": 3,
-        "7": 10,
-        "8": 2
+        "7": 11,
+        "8": 3
       }
     },
     "two_letter_list": {
@@ -124,7 +127,7 @@
       "NO": 2,
       "ON": 1,
       "TI": 10,
-      "TO": 13
+      "TO": 16
     }
   }
 }

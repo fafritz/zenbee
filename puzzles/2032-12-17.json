@@ -1,9 +1,9 @@
 {
   "pangram": "divulge",
   "center_letter": "e",
-  "num_answers": 77,
+  "num_answers": 81,
   "num_pangrams": 2,
-  "possible_points": 358,
+  "possible_points": 370,
   "answer_pangrams": [
     "divulge",
     "divulged"
@@ -39,6 +39,7 @@
     "eddied",
     "edge",
     "edged",
+    "eeled",
     "egged",
     "elide",
     "elided",
@@ -66,6 +67,7 @@
     "gulled",
     "idle",
     "idled",
+    "lede",
     "ledge",
     "legged",
     "levee",
@@ -78,6 +80,8 @@
     "lieu",
     "live",
     "lived",
+    "luge",
+    "luged",
     "lugged",
     "lulled",
     "veggie",
@@ -90,18 +94,18 @@
   "date": "2032-12-17",
   "hints": {
     "by_length": {
-      "4": 22,
-      "5": 19,
+      "4": 24,
+      "5": 21,
       "6": 26,
       "7": 9,
       "8": 1
     },
     "by_first_letter": {
       "D": 27,
-      "E": 9,
+      "E": 10,
       "G": 19,
       "I": 2,
-      "L": 14,
+      "L": 17,
       "V": 6
     },
     "grid": {
@@ -114,7 +118,7 @@
       },
       "E": {
         "4": 2,
-        "5": 4,
+        "5": 5,
         "6": 3
       },
       "G": {
@@ -128,8 +132,8 @@
         "5": 1
       },
       "L": {
-        "4": 3,
-        "5": 5,
+        "4": 5,
+        "5": 6,
         "6": 5,
         "7": 1
       },
@@ -143,6 +147,7 @@
       "DI": 10,
       "DU": 5,
       "ED": 3,
+      "EE": 1,
       "EG": 1,
       "EL": 4,
       "EV": 1,
@@ -151,9 +156,9 @@
       "GL": 5,
       "GU": 4,
       "ID": 2,
-      "LE": 6,
+      "LE": 7,
       "LI": 6,
-      "LU": 2,
+      "LU": 4,
       "VE": 4,
       "VI": 2
     }

@@ -1,15 +1,16 @@
 {
   "pangram": "chalked",
   "center_letter": "l",
-  "num_answers": 51,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 208,
+  "possible_points": 233,
   "answer_pangrams": [
     "chalked"
   ],
   "answers": [
     "addle",
     "addled",
+    "allele",
     "cackle",
     "cackled",
     "calked",
@@ -17,6 +18,7 @@
     "calla",
     "called",
     "cell",
+    "celled",
     "chalk",
     "chalked",
     "clack",
@@ -24,9 +26,11 @@
     "clad",
     "dale",
     "deal",
+    "decadal",
     "decal",
     "deckle",
     "dell",
+    "eeled",
     "hackle",
     "halal",
     "hale",
@@ -56,6 +60,7 @@
     "leaded",
     "leak",
     "leaked",
+    "lede",
     "leech",
     "leeched",
     "leek"
@@ -63,34 +68,39 @@
   "date": "2028-12-25",
   "hints": {
     "by_length": {
-      "4": 20,
-      "5": 11,
-      "6": 14,
-      "7": 6
+      "4": 21,
+      "5": 12,
+      "6": 16,
+      "7": 7
     },
     "by_first_letter": {
-      "A": 2,
-      "C": 12,
-      "D": 5,
+      "A": 3,
+      "C": 13,
+      "D": 6,
+      "E": 1,
       "H": 13,
       "K": 3,
-      "L": 16
+      "L": 17
     },
     "grid": {
       "A": {
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "C": {
         "4": 3,
         "5": 3,
-        "6": 3,
+        "6": 4,
         "7": 3
       },
       "D": {
         "4": 3,
         "5": 1,
-        "6": 1
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "5": 1
       },
       "H": {
         "4": 6,
@@ -103,7 +113,7 @@
         "6": 1
       },
       "L": {
-        "4": 6,
+        "4": 7,
         "5": 4,
         "6": 4,
         "7": 2
@@ -111,18 +121,20 @@
     },
     "two_letter_list": {
       "AD": 2,
+      "AL": 1,
       "CA": 6,
-      "CE": 1,
+      "CE": 2,
       "CH": 2,
       "CL": 3,
       "DA": 1,
-      "DE": 4,
+      "DE": 5,
+      "EE": 1,
       "HA": 5,
       "HE": 8,
       "KA": 1,
       "KE": 2,
       "LA": 7,
-      "LE": 9
+      "LE": 10
     }
   }
 }

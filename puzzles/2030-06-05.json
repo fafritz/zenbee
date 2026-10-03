@@ -1,9 +1,9 @@
 {
   "pangram": "daubing",
   "center_letter": "g",
-  "num_answers": 53,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 332,
+  "possible_points": 340,
   "answer_pangrams": [
     "daubing"
   ],
@@ -24,6 +24,7 @@
     "bidding",
     "biding",
     "binding",
+    "binging",
     "binning",
     "budding",
     "budging",
@@ -44,6 +45,7 @@
     "dunning",
     "gabbing",
     "gadding",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -65,17 +67,17 @@
   "date": "2030-06-05",
   "hints": {
     "by_length": {
-      "4": 6,
+      "4": 7,
       "5": 2,
       "6": 10,
-      "7": 33,
+      "7": 34,
       "9": 2
     },
     "by_first_letter": {
       "A": 6,
-      "B": 16,
+      "B": 17,
       "D": 12,
-      "G": 13,
+      "G": 14,
       "I": 2,
       "N": 3,
       "U": 1
@@ -89,7 +91,7 @@
       "B": {
         "4": 2,
         "6": 2,
-        "7": 11,
+        "7": 12,
         "9": 1
       },
       "D": {
@@ -98,7 +100,7 @@
         "7": 8
       },
       "G": {
-        "4": 2,
+        "4": 3,
         "6": 1,
         "7": 10
       },
@@ -119,12 +121,12 @@
       "AI": 1,
       "AN": 1,
       "BA": 7,
-      "BI": 4,
+      "BI": 5,
       "BU": 5,
       "DA": 2,
       "DI": 5,
       "DU": 5,
-      "GA": 8,
+      "GA": 9,
       "GI": 3,
       "GU": 2,
       "IG": 1,

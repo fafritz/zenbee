@@ -1,9 +1,9 @@
 {
   "pangram": "couplet",
   "center_letter": "o",
-  "num_answers": 50,
+  "num_answers": 51,
   "num_pangrams": 1,
-  "possible_points": 150,
+  "possible_points": 155,
   "answer_pangrams": [
     "couplet"
   ],
@@ -25,6 +25,7 @@
     "couplet",
     "cutout",
     "elope",
+    "elote",
     "loco",
     "loll",
     "loop",
@@ -63,13 +64,13 @@
   "hints": {
     "by_length": {
       "4": 31,
-      "5": 6,
+      "5": 7,
       "6": 9,
       "7": 4
     },
     "by_first_letter": {
       "C": 16,
-      "E": 1,
+      "E": 2,
       "L": 7,
       "O": 6,
       "P": 13,
@@ -83,7 +84,7 @@
         "7": 2
       },
       "E": {
-        "5": 1
+        "5": 2
       },
       "L": {
         "4": 6,
@@ -109,7 +110,7 @@
       "CL": 3,
       "CO": 11,
       "CU": 1,
-      "EL": 1,
+      "EL": 2,
       "LO": 7,
       "OC": 3,
       "OL": 1,

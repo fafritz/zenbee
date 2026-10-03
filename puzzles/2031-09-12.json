@@ -1,9 +1,9 @@
 {
   "pangram": "humanly",
   "center_letter": "l",
-  "num_answers": 32,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 120,
+  "possible_points": 119,
   "answer_pangrams": [
     "humanly"
   ],
@@ -12,7 +12,6 @@
     "ally",
     "alum",
     "alumna",
-    "anal",
     "annual",
     "annually",
     "annul",
@@ -44,14 +43,14 @@
   "date": "2031-09-12",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 15,
       "5": 5,
       "6": 7,
       "7": 2,
       "8": 2
     },
     "by_first_letter": {
-      "A": 8,
+      "A": 7,
       "H": 7,
       "L": 6,
       "M": 8,
@@ -60,7 +59,7 @@
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 2,
         "6": 2,
         "8": 1
@@ -92,7 +91,7 @@
     },
     "two_letter_list": {
       "AL": 4,
-      "AN": 4,
+      "AN": 3,
       "HA": 3,
       "HU": 3,
       "HY": 1,

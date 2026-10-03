@@ -1,9 +1,9 @@
 {
   "pangram": "ovulate",
   "center_letter": "u",
-  "num_answers": 19,
+  "num_answers": 20,
   "num_pangrams": 1,
-  "possible_points": 76,
+  "possible_points": 82,
   "answer_pangrams": [
     "ovulate"
   ],
@@ -26,14 +26,15 @@
     "ululate",
     "uvula",
     "value",
-    "vault"
+    "vault",
+    "volute"
   ],
   "date": "2030-07-06",
   "hints": {
     "by_length": {
       "4": 9,
       "5": 5,
-      "6": 1,
+      "6": 2,
       "7": 3,
       "8": 1
     },
@@ -44,7 +45,7 @@
       "O": 4,
       "T": 4,
       "U": 2,
-      "V": 2
+      "V": 3
     },
     "grid": {
       "A": {
@@ -70,7 +71,8 @@
         "7": 1
       },
       "V": {
-        "5": 2
+        "5": 2,
+        "6": 1
       }
     },
     "two_letter_list": {
@@ -85,7 +87,8 @@
       "TU": 2,
       "UL": 1,
       "UV": 1,
-      "VA": 2
+      "VA": 2,
+      "VO": 1
     }
   }
 }

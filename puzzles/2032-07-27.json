@@ -1,9 +1,9 @@
 {
   "pangram": "letdown",
   "center_letter": "t",
-  "num_answers": 68,
+  "num_answers": 70,
   "num_pangrams": 1,
-  "possible_points": 289,
+  "possible_points": 300,
   "answer_pangrams": [
     "letdown"
   ],
@@ -14,6 +14,7 @@
     "denoted",
     "dent",
     "dented",
+    "detent",
     "detente",
     "dolt",
     "dote",
@@ -21,6 +22,7 @@
     "dotted",
     "downtown",
     "dwelt",
+    "elote",
     "entente",
     "lent",
     "letdown",
@@ -39,7 +41,6 @@
     "teed",
     "teen",
     "tell",
-    "telnet",
     "tend",
     "tended",
     "tendon",
@@ -74,6 +75,7 @@
     "welt",
     "welted",
     "went",
+    "wetted",
     "wont",
     "wonted"
   ],
@@ -81,29 +83,30 @@
   "hints": {
     "by_length": {
       "4": 25,
-      "5": 13,
-      "6": 19,
+      "5": 14,
+      "6": 20,
       "7": 10,
       "8": 1
     },
     "by_first_letter": {
-      "D": 13,
-      "E": 1,
+      "D": 14,
+      "E": 2,
       "L": 5,
       "N": 7,
       "O": 2,
-      "T": 35,
-      "W": 5
+      "T": 34,
+      "W": 6
     },
     "grid": {
       "D": {
         "4": 3,
         "5": 2,
-        "6": 4,
+        "6": 5,
         "7": 3,
         "8": 1
       },
       "E": {
+        "5": 1,
         "7": 1
       },
       "L": {
@@ -125,18 +128,19 @@
       "T": {
         "4": 14,
         "5": 8,
-        "6": 9,
+        "6": 8,
         "7": 4
       },
       "W": {
         "4": 3,
-        "6": 2
+        "6": 3
       }
     },
     "two_letter_list": {
-      "DE": 7,
+      "DE": 8,
       "DO": 5,
       "DW": 1,
+      "EL": 1,
       "EN": 1,
       "LE": 2,
       "LO": 3,
@@ -144,10 +148,10 @@
       "NO": 2,
       "ON": 1,
       "OW": 1,
-      "TE": 12,
+      "TE": 11,
       "TO": 20,
       "TW": 3,
-      "WE": 3,
+      "WE": 4,
       "WO": 2
     }
   }

@@ -1,9 +1,9 @@
 {
   "pangram": "handout",
   "center_letter": "d",
-  "num_answers": 17,
+  "num_answers": 16,
   "num_pangrams": 1,
-  "possible_points": 65,
+  "possible_points": 60,
   "answer_pangrams": [
     "handout"
   ],
@@ -14,7 +14,6 @@
     "dodo",
     "donut",
     "doodad",
-    "dunno",
     "hand",
     "handout",
     "hood",
@@ -30,12 +29,12 @@
   "hints": {
     "by_length": {
       "4": 8,
-      "5": 5,
+      "5": 4,
       "6": 3,
       "7": 1
     },
     "by_first_letter": {
-      "D": 7,
+      "D": 6,
       "H": 5,
       "O": 1,
       "T": 2,
@@ -44,7 +43,7 @@
     "grid": {
       "D": {
         "4": 3,
-        "5": 3,
+        "5": 2,
         "6": 1
       },
       "H": {
@@ -67,7 +66,6 @@
     "two_letter_list": {
       "DA": 3,
       "DO": 3,
-      "DU": 1,
       "HA": 2,
       "HO": 3,
       "OU": 1,

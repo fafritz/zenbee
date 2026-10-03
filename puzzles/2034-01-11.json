@@ -1,9 +1,9 @@
 {
   "pangram": "blaming",
   "center_letter": "l",
-  "num_answers": 68,
+  "num_answers": 70,
   "num_pangrams": 4,
-  "possible_points": 382,
+  "possible_points": 400,
   "answer_pangrams": [
     "ambling",
     "blaming",
@@ -19,7 +19,6 @@
     "aligning",
     "amalgam",
     "ambling",
-    "anal",
     "angling",
     "animal",
     "babbling",
@@ -38,6 +37,7 @@
     "bling",
     "gabbling",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gambling",
@@ -55,6 +55,8 @@
     "lambing",
     "laming",
     "lamming",
+    "lanai",
+    "lignin",
     "limb",
     "liming",
     "limn",
@@ -83,25 +85,25 @@
   "date": "2034-01-11",
   "hints": {
     "by_length": {
-      "4": 20,
-      "5": 6,
-      "6": 9,
+      "4": 19,
+      "5": 7,
+      "6": 10,
       "7": 18,
-      "8": 12,
+      "8": 13,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "A": 11,
+      "A": 10,
       "B": 14,
-      "G": 10,
-      "L": 15,
+      "G": 11,
+      "L": 17,
       "M": 14,
       "N": 4
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 2,
         "6": 2,
         "7": 3,
@@ -117,12 +119,12 @@
       "G": {
         "4": 4,
         "7": 2,
-        "8": 4
+        "8": 5
       },
       "L": {
         "4": 5,
-        "5": 2,
-        "6": 4,
+        "5": 3,
+        "6": 5,
         "7": 4
       },
       "M": {
@@ -143,15 +145,15 @@
       "AI": 1,
       "AL": 5,
       "AM": 2,
-      "AN": 3,
+      "AN": 2,
       "BA": 8,
       "BI": 2,
       "BL": 4,
-      "GA": 7,
+      "GA": 8,
       "GI": 2,
       "GL": 1,
-      "LA": 9,
-      "LI": 5,
+      "LA": 10,
+      "LI": 6,
       "LL": 1,
       "MA": 10,
       "MI": 4,

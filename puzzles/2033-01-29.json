@@ -1,9 +1,9 @@
 {
   "pangram": "banquet",
   "center_letter": "e",
-  "num_answers": 38,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 150,
+  "possible_points": 162,
   "answer_pangrams": [
     "banquet"
   ],
@@ -34,7 +34,9 @@
     "entente",
     "equate",
     "neat",
+    "neaten",
     "nene",
+    "nutate",
     "queen",
     "queue",
     "teen",
@@ -52,7 +54,7 @@
     "by_length": {
       "4": 18,
       "5": 6,
-      "6": 7,
+      "6": 9,
       "7": 4,
       "8": 2,
       "9": 1
@@ -61,7 +63,7 @@
       "A": 8,
       "B": 14,
       "E": 3,
-      "N": 2,
+      "N": 4,
       "Q": 2,
       "T": 6,
       "U": 3
@@ -87,7 +89,8 @@
         "7": 1
       },
       "N": {
-        "4": 2
+        "4": 2,
+        "6": 2
       },
       "Q": {
         "5": 2
@@ -113,7 +116,8 @@
       "EA": 1,
       "EN": 1,
       "EQ": 1,
-      "NE": 2,
+      "NE": 3,
+      "NU": 1,
       "QU": 2,
       "TE": 4,
       "TU": 2,

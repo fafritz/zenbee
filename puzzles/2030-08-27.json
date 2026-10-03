@@ -1,9 +1,9 @@
 {
   "pangram": "hacking",
   "center_letter": "a",
-  "num_answers": 39,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 196,
+  "possible_points": 197,
   "answer_pangrams": [
     "hacking"
   ],
@@ -29,6 +29,7 @@
     "chancing",
     "changing",
     "china",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -51,7 +52,7 @@
   "date": "2030-08-27",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 8,
       "6": 8,
       "7": 8,
@@ -61,7 +62,7 @@
     "by_first_letter": {
       "A": 9,
       "C": 12,
-      "G": 5,
+      "G": 6,
       "H": 5,
       "K": 4,
       "N": 4
@@ -79,7 +80,7 @@
         "8": 3
       },
       "G": {
-        "4": 2,
+        "4": 3,
         "7": 3
       },
       "H": {
@@ -104,7 +105,7 @@
       "AN": 2,
       "CA": 7,
       "CH": 5,
-      "GA": 5,
+      "GA": 6,
       "HA": 5,
       "KH": 2,
       "KN": 2,

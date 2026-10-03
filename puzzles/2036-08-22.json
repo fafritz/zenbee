@@ -1,7 +1,7 @@
 {
   "pangram": "tinkled",
   "center_letter": "l",
-  "num_answers": 79,
+  "num_answers": 80,
   "num_pangrams": 1,
   "possible_points": 367,
   "answer_pangrams": [
@@ -17,6 +17,7 @@
     "diddle",
     "diddled",
     "dill",
+    "eeled",
     "elide",
     "elided",
     "elite",
@@ -43,6 +44,7 @@
     "knell",
     "knelled",
     "knelt",
+    "lede",
     "leek",
     "lend",
     "lenient",
@@ -74,7 +76,6 @@
     "nettle",
     "nettled",
     "tell",
-    "telnet",
     "tilde",
     "tile",
     "tiled",
@@ -91,20 +92,20 @@
   "date": "2036-08-22",
   "hints": {
     "by_length": {
-      "4": 23,
-      "5": 15,
-      "6": 28,
+      "4": 24,
+      "5": 16,
+      "6": 27,
       "7": 10,
       "8": 3
     },
     "by_first_letter": {
       "D": 9,
-      "E": 5,
+      "E": 6,
       "I": 5,
       "K": 16,
-      "L": 26,
+      "L": 27,
       "N": 4,
-      "T": 14
+      "T": 13
     },
     "grid": {
       "D": {
@@ -114,7 +115,7 @@
         "8": 1
       },
       "E": {
-        "5": 2,
+        "5": 3,
         "6": 1,
         "7": 1,
         "8": 1
@@ -132,7 +133,7 @@
         "8": 1
       },
       "L": {
-        "4": 11,
+        "4": 12,
         "5": 4,
         "6": 9,
         "7": 2
@@ -144,13 +145,14 @@
       "T": {
         "4": 4,
         "5": 3,
-        "6": 6,
+        "6": 5,
         "7": 1
       }
     },
     "two_letter_list": {
       "DE": 6,
       "DI": 3,
+      "EE": 1,
       "EL": 3,
       "EN": 2,
       "ID": 2,
@@ -158,10 +160,10 @@
       "KE": 5,
       "KI": 7,
       "KN": 4,
-      "LE": 5,
+      "LE": 6,
       "LI": 21,
       "NE": 4,
-      "TE": 2,
+      "TE": 1,
       "TI": 12
     }
   }

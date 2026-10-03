@@ -1,9 +1,9 @@
 {
   "pangram": "braving",
   "center_letter": "a",
-  "num_answers": 68,
+  "num_answers": 71,
   "num_pangrams": 1,
-  "possible_points": 371,
+  "possible_points": 389,
   "answer_pangrams": [
     "braving"
   ],
@@ -46,6 +46,7 @@
     "braving",
     "briar",
     "gabbing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -58,6 +59,8 @@
     "grabbing",
     "grain",
     "graving",
+    "ingrain",
+    "ingraining",
     "naan",
     "nabbing",
     "nagging",
@@ -80,18 +83,19 @@
   "date": "2029-07-13",
   "hints": {
     "by_length": {
-      "4": 18,
+      "4": 19,
       "5": 7,
       "6": 9,
-      "7": 22,
+      "7": 23,
       "8": 7,
       "9": 3,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 13,
       "B": 24,
-      "G": 13,
+      "G": 14,
+      "I": 2,
       "N": 5,
       "R": 11,
       "V": 2
@@ -116,10 +120,14 @@
         "10": 1
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "5": 1,
         "7": 6,
         "8": 2
+      },
+      "I": {
+        "7": 1,
+        "10": 1
       },
       "N": {
         "4": 2,
@@ -145,8 +153,9 @@
       "AV": 1,
       "BA": 17,
       "BR": 7,
-      "GA": 9,
+      "GA": 10,
       "GR": 4,
+      "IN": 2,
       "NA": 4,
       "NI": 1,
       "RA": 11,

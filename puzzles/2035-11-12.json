@@ -1,9 +1,9 @@
 {
   "pangram": "albumin",
   "center_letter": "i",
-  "num_answers": 30,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 129,
+  "possible_points": 140,
   "answer_pangrams": [
     "albumin"
   ],
@@ -19,9 +19,11 @@
     "bulimia",
     "iamb",
     "imam",
+    "inulin",
     "labia",
     "labial",
     "lain",
+    "lanai",
     "limb",
     "limn",
     "mail",
@@ -43,8 +45,8 @@
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 5,
-      "6": 4,
+      "5": 6,
+      "6": 5,
       "7": 5,
       "8": 2,
       "9": 1
@@ -52,8 +54,8 @@
     "by_first_letter": {
       "A": 5,
       "B": 4,
-      "I": 2,
-      "L": 5,
+      "I": 3,
+      "L": 6,
       "M": 12,
       "N": 2
     },
@@ -70,11 +72,12 @@
         "8": 1
       },
       "I": {
-        "4": 2
+        "4": 2,
+        "6": 1
       },
       "L": {
         "4": 3,
-        "5": 1,
+        "5": 2,
         "6": 1
       },
       "M": {
@@ -97,7 +100,8 @@
       "BU": 1,
       "IA": 1,
       "IM": 1,
-      "LA": 3,
+      "IN": 1,
+      "LA": 4,
       "LI": 2,
       "MA": 6,
       "MI": 6,

@@ -1,9 +1,9 @@
 {
   "pangram": "plating",
   "center_letter": "l",
-  "num_answers": 78,
+  "num_answers": 81,
   "num_pangrams": 6,
-  "possible_points": 499,
+  "possible_points": 524,
   "answer_pangrams": [
     "palliating",
     "palpating",
@@ -17,11 +17,11 @@
     "alga",
     "align",
     "aligning",
-    "anal",
     "angling",
     "appall",
     "appalling",
     "gala",
+    "galangal",
     "gall",
     "gallant",
     "galling",
@@ -36,7 +36,10 @@
     "initialing",
     "lagging",
     "lain",
+    "lanai",
+    "lantana",
     "lapping",
+    "lignin",
     "lilt",
     "lilting",
     "lining",
@@ -95,27 +98,27 @@
   "date": "2030-10-04",
   "hints": {
     "by_length": {
-      "4": 18,
-      "5": 7,
-      "6": 8,
-      "7": 21,
-      "8": 15,
+      "4": 17,
+      "5": 8,
+      "6": 9,
+      "7": 22,
+      "8": 16,
       "9": 3,
       "10": 4,
       "11": 2
     },
     "by_first_letter": {
-      "A": 8,
-      "G": 11,
+      "A": 7,
+      "G": 12,
       "I": 2,
-      "L": 10,
+      "L": 13,
       "N": 4,
       "P": 28,
       "T": 15
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 1,
         "6": 2,
         "7": 1,
@@ -126,7 +129,7 @@
         "4": 4,
         "5": 1,
         "7": 3,
-        "8": 3
+        "8": 4
       },
       "I": {
         "7": 1,
@@ -134,8 +137,9 @@
       },
       "L": {
         "4": 3,
-        "6": 1,
-        "7": 4,
+        "5": 1,
+        "6": 2,
+        "7": 5,
         "8": 1,
         "10": 1
       },
@@ -167,14 +171,14 @@
     "two_letter_list": {
       "AI": 1,
       "AL": 3,
-      "AN": 2,
+      "AN": 1,
       "AP": 2,
-      "GA": 6,
+      "GA": 7,
       "GI": 3,
       "GL": 2,
       "IN": 2,
-      "LA": 3,
-      "LI": 7,
+      "LA": 5,
+      "LI": 8,
       "NA": 3,
       "NI": 1,
       "PA": 11,

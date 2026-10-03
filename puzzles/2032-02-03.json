@@ -1,9 +1,9 @@
 {
   "pangram": "orbital",
   "center_letter": "a",
-  "num_answers": 69,
+  "num_answers": 71,
   "num_pangrams": 1,
-  "possible_points": 294,
+  "possible_points": 299,
   "answer_pangrams": [
     "orbital"
   ],
@@ -30,11 +30,13 @@
     "baobab",
     "barb",
     "barrio",
+    "biota",
     "blab",
     "blat",
     "bloat",
     "boar",
     "boat",
+    "boba",
     "bobtail",
     "bola",
     "brat",
@@ -55,7 +57,6 @@
     "rabbi",
     "rabbit",
     "rail",
-    "ratatat",
     "ratio",
     "roar",
     "taboo",
@@ -69,6 +70,7 @@
     "tattoo",
     "tiara",
     "tibia",
+    "tibial",
     "toolbar",
     "tortilla",
     "total",
@@ -81,21 +83,21 @@
   "date": "2032-02-03",
   "hints": {
     "by_length": {
-      "4": 24,
-      "5": 24,
-      "6": 11,
-      "7": 5,
+      "4": 25,
+      "5": 25,
+      "6": 12,
+      "7": 4,
       "8": 4,
       "10": 1
     },
     "by_first_letter": {
       "A": 14,
-      "B": 17,
+      "B": 19,
       "I": 1,
       "L": 8,
       "O": 4,
-      "R": 6,
-      "T": 19
+      "R": 5,
+      "T": 20
     },
     "grid": {
       "A": {
@@ -105,8 +107,8 @@
         "10": 1
       },
       "B": {
-        "4": 11,
-        "5": 2,
+        "4": 12,
+        "5": 3,
         "6": 3,
         "7": 1
       },
@@ -128,13 +130,12 @@
       "R": {
         "4": 2,
         "5": 2,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
         "4": 4,
         "5": 8,
-        "6": 4,
+        "6": 5,
         "7": 2,
         "8": 1
       }
@@ -146,17 +147,18 @@
       "AR": 3,
       "AT": 3,
       "BA": 8,
+      "BI": 1,
       "BL": 3,
-      "BO": 4,
+      "BO": 5,
       "BR": 2,
       "IO": 1,
       "LA": 5,
       "LI": 3,
       "OR": 4,
-      "RA": 5,
+      "RA": 4,
       "RO": 1,
       "TA": 9,
-      "TI": 2,
+      "TI": 3,
       "TO": 3,
       "TR": 5
     }

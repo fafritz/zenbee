@@ -1,9 +1,9 @@
 {
   "pangram": "packing",
   "center_letter": "a",
-  "num_answers": 44,
+  "num_answers": 47,
   "num_pangrams": 4,
-  "possible_points": 252,
+  "possible_points": 264,
   "answer_pangrams": [
     "packaging",
     "packing",
@@ -26,6 +26,7 @@
     "canna",
     "canning",
     "capping",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -52,16 +53,18 @@
     "pang",
     "panic",
     "panicking",
+    "panini",
     "panning",
     "papa",
-    "pica"
+    "pica",
+    "pinna"
   ],
   "date": "2035-08-15",
   "hints": {
     "by_length": {
-      "4": 11,
-      "5": 8,
-      "6": 11,
+      "4": 12,
+      "5": 9,
+      "6": 12,
       "7": 10,
       "9": 3,
       "10": 1
@@ -69,10 +72,10 @@
     "by_first_letter": {
       "A": 8,
       "C": 7,
-      "G": 6,
+      "G": 7,
       "K": 2,
       "N": 6,
-      "P": 15
+      "P": 17
     },
     "grid": {
       "A": {
@@ -86,7 +89,7 @@
         "7": 2
       },
       "G": {
-        "4": 2,
+        "4": 3,
         "6": 1,
         "7": 3
       },
@@ -101,8 +104,8 @@
       },
       "P": {
         "4": 5,
-        "5": 2,
-        "6": 2,
+        "5": 3,
+        "6": 3,
         "7": 3,
         "9": 3
       }
@@ -114,12 +117,12 @@
       "AN": 1,
       "AP": 1,
       "CA": 7,
-      "GA": 6,
+      "GA": 7,
       "KN": 2,
       "NA": 5,
       "NI": 1,
-      "PA": 14,
-      "PI": 1
+      "PA": 15,
+      "PI": 2
     }
   }
 }

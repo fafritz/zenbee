@@ -1,9 +1,9 @@
 {
   "pangram": "hauling",
   "center_letter": "u",
-  "num_answers": 29,
+  "num_answers": 31,
   "num_pangrams": 2,
-  "possible_points": 149,
+  "possible_points": 161,
   "answer_pangrams": [
     "hauling",
     "laughing"
@@ -25,11 +25,13 @@
     "hulling",
     "hung",
     "iguana",
+    "inulin",
     "laugh",
     "laughing",
     "lingual",
     "luau",
     "lugging",
+    "luging",
     "lull",
     "lulling",
     "lulu",
@@ -44,7 +46,7 @@
     "by_length": {
       "4": 11,
       "5": 2,
-      "6": 3,
+      "6": 5,
       "7": 10,
       "8": 1,
       "9": 2
@@ -53,8 +55,8 @@
       "A": 3,
       "G": 5,
       "H": 7,
-      "I": 1,
-      "L": 10,
+      "I": 2,
+      "L": 11,
       "N": 1,
       "U": 2
     },
@@ -74,11 +76,12 @@
         "7": 3
       },
       "I": {
-        "6": 1
+        "6": 2
       },
       "L": {
         "4": 4,
         "5": 1,
+        "6": 1,
         "7": 4,
         "8": 1
       },
@@ -98,9 +101,10 @@
       "HA": 2,
       "HU": 5,
       "IG": 1,
+      "IN": 1,
       "LA": 2,
       "LI": 1,
-      "LU": 7,
+      "LU": 8,
       "NU": 1,
       "UL": 1,
       "UN": 1

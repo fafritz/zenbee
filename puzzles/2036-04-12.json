@@ -3,7 +3,7 @@
   "center_letter": "l",
   "num_answers": 63,
   "num_pangrams": 1,
-  "possible_points": 273,
+  "possible_points": 275,
   "answer_pangrams": [
     "inflect"
   ],
@@ -46,6 +46,7 @@
     "intel",
     "intellect",
     "left",
+    "lenience",
     "lenient",
     "lent",
     "lentil",
@@ -65,7 +66,6 @@
     "little",
     "nettle",
     "tell",
-    "telnet",
     "tile",
     "till",
     "tilt",
@@ -77,9 +77,9 @@
     "by_length": {
       "4": 23,
       "5": 13,
-      "6": 17,
+      "6": 16,
       "7": 6,
-      "8": 2,
+      "8": 3,
       "9": 2
     },
     "by_first_letter": {
@@ -87,9 +87,9 @@
       "E": 6,
       "F": 15,
       "I": 9,
-      "L": 18,
+      "L": 19,
       "N": 1,
-      "T": 7
+      "T": 6
     },
     "grid": {
       "C": {
@@ -120,7 +120,7 @@
         "5": 2,
         "6": 4,
         "7": 1,
-        "8": 1
+        "8": 2
       },
       "N": {
         "6": 1
@@ -128,7 +128,7 @@
       "T": {
         "4": 4,
         "5": 1,
-        "6": 2
+        "6": 1
       }
     },
     "two_letter_list": {
@@ -143,10 +143,10 @@
       "IC": 1,
       "IL": 1,
       "IN": 7,
-      "LE": 4,
+      "LE": 5,
       "LI": 14,
       "NE": 1,
-      "TE": 2,
+      "TE": 1,
       "TI": 5
     }
   }

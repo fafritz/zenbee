@@ -1,9 +1,9 @@
 {
   "pangram": "fraying",
   "center_letter": "r",
-  "num_answers": 53,
+  "num_answers": 57,
   "num_pangrams": 1,
-  "possible_points": 277,
+  "possible_points": 306,
   "answer_pangrams": [
     "fraying"
   ],
@@ -22,6 +22,7 @@
     "array",
     "arraying",
     "fair",
+    "fairing",
     "fairy",
     "farina",
     "faring",
@@ -42,7 +43,10 @@
     "griffin",
     "grin",
     "grinning",
+    "infra",
     "infringing",
+    "ingrain",
+    "ingraining",
     "raffia",
     "raga",
     "ragging",
@@ -66,18 +70,18 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 7,
+      "5": 8,
       "6": 11,
-      "7": 11,
+      "7": 13,
       "8": 6,
       "9": 1,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 13,
-      "F": 11,
+      "F": 12,
       "G": 10,
-      "I": 1,
+      "I": 4,
       "R": 17,
       "Y": 1
     },
@@ -95,7 +99,7 @@
         "4": 3,
         "5": 2,
         "6": 4,
-        "7": 1,
+        "7": 2,
         "8": 1
       },
       "G": {
@@ -106,7 +110,9 @@
         "8": 2
       },
       "I": {
-        "10": 1
+        "5": 1,
+        "7": 1,
+        "10": 2
       },
       "R": {
         "4": 5,
@@ -125,12 +131,12 @@
       "AI": 2,
       "AN": 1,
       "AR": 6,
-      "FA": 4,
+      "FA": 5,
       "FI": 1,
       "FR": 6,
       "GA": 1,
       "GR": 9,
-      "IN": 1,
+      "IN": 4,
       "RA": 11,
       "RI": 6,
       "YA": 1

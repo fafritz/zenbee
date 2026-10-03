@@ -1,9 +1,9 @@
 {
   "pangram": "gratify",
   "center_letter": "f",
-  "num_answers": 27,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 98,
+  "possible_points": 97,
   "answer_pangrams": [
     "gratify"
   ],
@@ -12,7 +12,6 @@
     "affair",
     "fair",
     "fairy",
-    "fart",
     "fatty",
     "fiat",
     "fifty",
@@ -39,7 +38,7 @@
   "date": "2036-02-10",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 13,
       "5": 6,
       "6": 4,
       "7": 1,
@@ -47,7 +46,7 @@
     },
     "by_first_letter": {
       "A": 2,
-      "F": 10,
+      "F": 9,
       "G": 5,
       "I": 1,
       "R": 6,
@@ -59,7 +58,7 @@
         "6": 1
       },
       "F": {
-        "4": 6,
+        "4": 5,
         "5": 4
       },
       "G": {
@@ -84,7 +83,7 @@
     },
     "two_letter_list": {
       "AF": 2,
-      "FA": 4,
+      "FA": 3,
       "FI": 2,
       "FR": 4,
       "GA": 1,

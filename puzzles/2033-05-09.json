@@ -3,7 +3,7 @@
   "center_letter": "p",
   "num_answers": 30,
   "num_pangrams": 3,
-  "possible_points": 134,
+  "possible_points": 143,
   "answer_pangrams": [
     "paranoid",
     "poniard",
@@ -15,20 +15,20 @@
     "drip",
     "droop",
     "drop",
-    "ipad",
-    "ipod",
     "opinion",
     "opioid",
     "paid",
     "pain",
     "pair",
     "panda",
+    "panini",
     "papa",
     "paranoia",
     "paranoid",
     "pardon",
     "piano",
     "pinion",
+    "pinna",
     "pippin",
     "pond",
     "poniard",
@@ -44,18 +44,17 @@
   "date": "2033-05-09",
   "hints": {
     "by_length": {
-      "4": 14,
-      "5": 6,
-      "6": 4,
+      "4": 12,
+      "5": 7,
+      "6": 5,
       "7": 3,
       "8": 3
     },
     "by_first_letter": {
       "A": 2,
       "D": 3,
-      "I": 2,
       "O": 2,
-      "P": 19,
+      "P": 21,
       "R": 2
     },
     "grid": {
@@ -67,17 +66,14 @@
         "4": 2,
         "5": 1
       },
-      "I": {
-        "4": 2
-      },
       "O": {
         "6": 1,
         "7": 1
       },
       "P": {
         "4": 10,
-        "5": 3,
-        "6": 3,
+        "5": 4,
+        "6": 4,
         "7": 1,
         "8": 2
       },
@@ -90,10 +86,9 @@
       "AI": 1,
       "AP": 1,
       "DR": 3,
-      "IP": 2,
       "OP": 2,
-      "PA": 8,
-      "PI": 3,
+      "PA": 9,
+      "PI": 4,
       "PO": 4,
       "PR": 4,
       "RA": 2

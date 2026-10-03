@@ -1,9 +1,9 @@
 {
   "pangram": "orbital",
   "center_letter": "b",
-  "num_answers": 47,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 179,
+  "possible_points": 186,
   "answer_pangrams": [
     "orbital"
   ],
@@ -23,6 +23,7 @@
     "barb",
     "barrio",
     "bill",
+    "biota",
     "blab",
     "blat",
     "bloat",
@@ -30,17 +31,18 @@
     "blot",
     "boar",
     "boat",
+    "boba",
     "bobtail",
     "boil",
     "bola",
     "boll",
     "bolt",
     "boob",
-    "booboo",
     "boor",
     "boot",
     "brat",
     "briar",
+    "brio",
     "broil",
     "labia",
     "labial",
@@ -53,14 +55,15 @@
     "robot",
     "taboo",
     "tibia",
+    "tibial",
     "toolbar",
     "tribal"
   ],
   "date": "2031-06-25",
   "hints": {
     "by_length": {
-      "4": 21,
-      "5": 14,
+      "4": 23,
+      "5": 15,
       "6": 7,
       "7": 3,
       "8": 1,
@@ -68,11 +71,11 @@
     },
     "by_first_letter": {
       "A": 6,
-      "B": 28,
+      "B": 30,
       "L": 3,
       "O": 3,
       "R": 3,
-      "T": 4
+      "T": 5
     },
     "grid": {
       "A": {
@@ -81,9 +84,9 @@
         "10": 1
       },
       "B": {
-        "4": 20,
-        "5": 3,
-        "6": 4,
+        "4": 22,
+        "5": 4,
+        "6": 3,
         "7": 1
       },
       "L": {
@@ -101,7 +104,7 @@
       },
       "T": {
         "5": 2,
-        "6": 1,
+        "6": 2,
         "7": 1
       }
     },
@@ -110,17 +113,17 @@
       "AL": 1,
       "AR": 2,
       "BA": 8,
-      "BI": 1,
+      "BI": 2,
       "BL": 5,
       "BO": 11,
-      "BR": 3,
+      "BR": 4,
       "LA": 3,
       "OB": 1,
       "OR": 2,
       "RA": 2,
       "RO": 1,
       "TA": 1,
-      "TI": 1,
+      "TI": 2,
       "TO": 1,
       "TR": 1
     }

@@ -1,13 +1,14 @@
 {
   "pangram": "buoyant",
   "center_letter": "n",
-  "num_answers": 31,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 124,
+  "possible_points": 131,
   "answer_pangrams": [
     "buoyant"
   ],
   "answers": [
+    "annatto",
     "annoy",
     "anon",
     "aunt",
@@ -46,11 +47,11 @@
       "4": 13,
       "5": 8,
       "6": 7,
-      "7": 2,
+      "7": 3,
       "8": 1
     },
     "by_first_letter": {
-      "A": 3,
+      "A": 4,
       "B": 13,
       "N": 9,
       "O": 1,
@@ -60,7 +61,8 @@
     "grid": {
       "A": {
         "4": 2,
-        "5": 1
+        "5": 1,
+        "7": 1
       },
       "B": {
         "4": 3,
@@ -85,7 +87,7 @@
       }
     },
     "two_letter_list": {
-      "AN": 2,
+      "AN": 3,
       "AU": 1,
       "BA": 4,
       "BO": 5,

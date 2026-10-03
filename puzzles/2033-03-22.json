@@ -3,7 +3,7 @@
   "center_letter": "t",
   "num_answers": 77,
   "num_pangrams": 3,
-  "possible_points": 461,
+  "possible_points": 460,
   "answer_pangrams": [
     "farting",
     "grafting",
@@ -20,7 +20,6 @@
     "attiring",
     "faint",
     "fainting",
-    "fart",
     "farting",
     "fating",
     "fiat",
@@ -57,7 +56,6 @@
     "ragtag",
     "rant",
     "ranting",
-    "ratatat",
     "rating",
     "rattan",
     "ratting",
@@ -69,8 +67,10 @@
     "tang",
     "tannin",
     "tanning",
+    "tantra",
     "tariff",
     "taring",
+    "tarn",
     "tarring",
     "tart",
     "tartan",
@@ -93,8 +93,8 @@
     "by_length": {
       "4": 16,
       "5": 11,
-      "6": 14,
-      "7": 17,
+      "6": 15,
+      "7": 16,
       "8": 11,
       "9": 4,
       "10": 3,
@@ -102,12 +102,12 @@
     },
     "by_first_letter": {
       "A": 8,
-      "F": 9,
+      "F": 8,
       "G": 16,
       "I": 7,
       "N": 2,
-      "R": 11,
-      "T": 24
+      "R": 10,
+      "T": 26
     },
     "grid": {
       "A": {
@@ -118,7 +118,7 @@
         "9": 2
       },
       "F": {
-        "4": 3,
+        "4": 2,
         "5": 1,
         "6": 1,
         "7": 2,
@@ -143,12 +143,12 @@
       "R": {
         "4": 3,
         "6": 3,
-        "7": 5
+        "7": 4
       },
       "T": {
-        "4": 4,
+        "4": 5,
         "5": 5,
-        "6": 6,
+        "6": 7,
         "7": 7,
         "8": 2
       }
@@ -158,7 +158,7 @@
       "AN": 1,
       "AR": 1,
       "AT": 5,
-      "FA": 5,
+      "FA": 4,
       "FI": 2,
       "FR": 2,
       "GA": 2,
@@ -170,9 +170,9 @@
       "IR": 3,
       "NA": 1,
       "NI": 1,
-      "RA": 9,
+      "RA": 8,
       "RI": 2,
-      "TA": 13,
+      "TA": 15,
       "TI": 8,
       "TR": 3
     }

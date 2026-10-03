@@ -1,9 +1,9 @@
 {
   "pangram": "tickled",
   "center_letter": "k",
-  "num_answers": 30,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 127,
+  "possible_points": 128,
   "answer_pangrams": [
     "tickled"
   ],
@@ -37,12 +37,13 @@
     "ticket",
     "ticketed",
     "tickle",
-    "tickled"
+    "tickled",
+    "tiki"
   ],
   "date": "2032-03-07",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 13,
       "5": 4,
       "6": 11,
       "7": 2,
@@ -54,7 +55,7 @@
       "E": 1,
       "K": 11,
       "L": 5,
-      "T": 6
+      "T": 7
     },
     "grid": {
       "C": {
@@ -80,7 +81,7 @@
         "6": 1
       },
       "T": {
-        "4": 1,
+        "4": 2,
         "6": 3,
         "7": 1,
         "8": 1
@@ -95,7 +96,7 @@
       "KI": 8,
       "LE": 1,
       "LI": 4,
-      "TI": 6
+      "TI": 7
     }
   }
 }

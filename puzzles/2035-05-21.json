@@ -1,9 +1,9 @@
 {
   "pangram": "loading",
   "center_letter": "d",
-  "num_answers": 62,
+  "num_answers": 61,
   "num_pangrams": 2,
-  "possible_points": 345,
+  "possible_points": 338,
   "answer_pangrams": [
     "diagonal",
     "loading"
@@ -31,7 +31,6 @@
     "dodging",
     "dodo",
     "dogging",
-    "doggoning",
     "doing",
     "doling",
     "doll",
@@ -51,7 +50,6 @@
     "goad",
     "goading",
     "gold",
-    "gonad",
     "gondola",
     "good",
     "idling",
@@ -64,6 +62,7 @@
     "laid",
     "land",
     "landing",
+    "lidding",
     "load",
     "loading",
     "lodging",
@@ -76,18 +75,17 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 6,
+      "5": 5,
       "6": 12,
-      "7": 19,
-      "8": 9,
-      "9": 1
+      "7": 20,
+      "8": 9
     },
     "by_first_letter": {
       "A": 4,
-      "D": 26,
-      "G": 15,
+      "D": 25,
+      "G": 14,
       "I": 5,
-      "L": 8,
+      "L": 9,
       "N": 4
     },
     "grid": {
@@ -100,12 +98,11 @@
         "5": 2,
         "6": 4,
         "7": 8,
-        "8": 5,
-        "9": 1
+        "8": 5
       },
       "G": {
         "4": 5,
-        "5": 2,
+        "5": 1,
         "7": 5,
         "8": 3
       },
@@ -116,7 +113,7 @@
       "L": {
         "4": 3,
         "6": 1,
-        "7": 4
+        "7": 5
       },
       "N": {
         "5": 2,
@@ -129,14 +126,15 @@
       "AI": 1,
       "DA": 3,
       "DI": 12,
-      "DO": 11,
+      "DO": 10,
       "GA": 2,
       "GI": 2,
       "GL": 5,
-      "GO": 6,
+      "GO": 5,
       "ID": 2,
       "IN": 3,
       "LA": 5,
+      "LI": 1,
       "LO": 3,
       "NA": 1,
       "NO": 3

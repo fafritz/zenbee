@@ -1,9 +1,9 @@
 {
   "pangram": "jointly",
   "center_letter": "i",
-  "num_answers": 24,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 73,
+  "possible_points": 82,
   "answer_pangrams": [
     "jointly"
   ],
@@ -22,6 +22,7 @@
     "loin",
     "lotion",
     "ninny",
+    "nonillion",
     "notion",
     "oily",
     "olio",
@@ -39,13 +40,14 @@
       "4": 15,
       "5": 5,
       "6": 2,
-      "7": 2
+      "7": 2,
+      "9": 1
     },
     "by_first_letter": {
       "I": 1,
       "J": 6,
       "L": 6,
-      "N": 2,
+      "N": 3,
       "O": 3,
       "T": 6
     },
@@ -64,7 +66,8 @@
       },
       "N": {
         "5": 1,
-        "6": 1
+        "6": 1,
+        "9": 1
       },
       "O": {
         "4": 2,
@@ -82,7 +85,7 @@
       "LI": 4,
       "LO": 2,
       "NI": 1,
-      "NO": 1,
+      "NO": 2,
       "OI": 1,
       "OL": 1,
       "ON": 1,

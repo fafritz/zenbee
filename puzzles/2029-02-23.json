@@ -3,12 +3,11 @@
   "center_letter": "n",
   "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 126,
+  "possible_points": 130,
   "answer_pangrams": [
     "halcyon"
   ],
   "answers": [
-    "anal",
     "annoy",
     "anon",
     "canal",
@@ -31,6 +30,7 @@
     "llano",
     "loan",
     "loon",
+    "loony",
     "lynch",
     "naan",
     "nana",
@@ -42,22 +42,22 @@
   "date": "2029-02-23",
   "hints": {
     "by_length": {
-      "4": 10,
-      "5": 12,
+      "4": 9,
+      "5": 13,
       "6": 7,
       "7": 1
     },
     "by_first_letter": {
-      "A": 3,
+      "A": 2,
       "C": 14,
       "H": 3,
-      "L": 4,
+      "L": 5,
       "N": 5,
       "O": 1
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 1
       },
       "C": {
@@ -72,7 +72,7 @@
       },
       "L": {
         "4": 2,
-        "5": 2
+        "5": 3
       },
       "N": {
         "4": 3,
@@ -83,7 +83,7 @@
       }
     },
     "two_letter_list": {
-      "AN": 3,
+      "AN": 2,
       "CA": 7,
       "CH": 1,
       "CL": 1,
@@ -92,7 +92,7 @@
       "HA": 2,
       "HO": 1,
       "LL": 1,
-      "LO": 2,
+      "LO": 3,
       "LY": 1,
       "NA": 3,
       "NO": 1,

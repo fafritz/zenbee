@@ -1,9 +1,9 @@
 {
   "pangram": "organic",
   "center_letter": "a",
-  "num_answers": 78,
+  "num_answers": 80,
   "num_pangrams": 2,
-  "possible_points": 415,
+  "possible_points": 428,
   "answer_pangrams": [
     "inorganic",
     "organic"
@@ -52,17 +52,19 @@
     "corona",
     "crag",
     "craning",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gang",
     "ganging",
     "garaging",
-    "gonna",
     "gracing",
     "grain",
     "groan",
     "groaning",
+    "ingrain",
+    "ingraining",
     "inorganic",
     "naan",
     "nagging",
@@ -91,19 +93,19 @@
   "date": "2032-10-12",
   "hints": {
     "by_length": {
-      "4": 17,
-      "5": 19,
+      "4": 18,
+      "5": 18,
       "6": 18,
-      "7": 16,
+      "7": 17,
       "8": 4,
       "9": 3,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 20,
       "C": 23,
       "G": 11,
-      "I": 1,
+      "I": 3,
       "N": 5,
       "O": 4,
       "R": 14
@@ -127,13 +129,15 @@
         "9": 1
       },
       "G": {
-        "4": 2,
-        "5": 3,
+        "4": 3,
+        "5": 2,
         "7": 4,
         "8": 2
       },
       "I": {
-        "9": 1
+        "7": 1,
+        "9": 1,
+        "10": 1
       },
       "N": {
         "4": 3,
@@ -161,10 +165,9 @@
       "CI": 2,
       "CO": 6,
       "CR": 2,
-      "GA": 6,
-      "GO": 1,
+      "GA": 7,
       "GR": 4,
-      "IN": 1,
+      "IN": 3,
       "NA": 4,
       "NI": 1,
       "OA": 1,

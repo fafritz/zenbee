@@ -1,9 +1,9 @@
 {
   "pangram": "mucking",
   "center_letter": "g",
-  "num_answers": 24,
+  "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 155,
+  "possible_points": 148,
   "answer_pangrams": [
     "mucking"
   ],
@@ -29,7 +29,6 @@
     "mining",
     "mucking",
     "mugging",
-    "munging",
     "nicking",
     "nuking"
   ],
@@ -39,7 +38,7 @@
       "4": 2,
       "5": 2,
       "6": 6,
-      "7": 13,
+      "7": 12,
       "9": 1
     },
     "by_first_letter": {
@@ -47,7 +46,7 @@
       "G": 6,
       "I": 3,
       "K": 3,
-      "M": 8,
+      "M": 7,
       "N": 2
     },
     "grid": {
@@ -69,7 +68,7 @@
       },
       "M": {
         "6": 3,
-        "7": 4,
+        "7": 3,
         "9": 1
       },
       "N": {
@@ -85,7 +84,7 @@
       "IN": 2,
       "KI": 3,
       "MI": 5,
-      "MU": 3,
+      "MU": 2,
       "NI": 1,
       "NU": 1
     }

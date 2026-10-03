@@ -1,9 +1,9 @@
 {
   "pangram": "hotlink",
   "center_letter": "t",
-  "num_answers": 30,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 81,
+  "possible_points": 82,
   "answer_pangrams": [
     "hotlink"
   ],
@@ -27,6 +27,7 @@
     "onto",
     "thin",
     "think",
+    "tiki",
     "till",
     "tilt",
     "tint",
@@ -42,7 +43,7 @@
   "date": "2036-06-06",
   "hints": {
     "by_length": {
-      "4": 21,
+      "4": 22,
       "5": 4,
       "6": 2,
       "7": 3
@@ -54,7 +55,7 @@
       "L": 5,
       "N": 2,
       "O": 1,
-      "T": 13
+      "T": 14
     },
     "grid": {
       "H": {
@@ -81,7 +82,7 @@
         "4": 1
       },
       "T": {
-        "4": 10,
+        "4": 11,
         "5": 2,
         "7": 1
       }
@@ -98,7 +99,7 @@
       "NO": 1,
       "ON": 1,
       "TH": 2,
-      "TI": 3,
+      "TI": 4,
       "TO": 8
     }
   }

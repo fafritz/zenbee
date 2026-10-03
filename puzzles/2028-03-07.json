@@ -1,9 +1,9 @@
 {
   "pangram": "tacking",
   "center_letter": "k",
-  "num_answers": 25,
+  "num_answers": 26,
   "num_pangrams": 2,
-  "possible_points": 133,
+  "possible_points": 134,
   "answer_pangrams": [
     "attacking",
     "tacking"
@@ -33,12 +33,13 @@
     "tank",
     "tanking",
     "tick",
-    "ticking"
+    "ticking",
+    "tiki"
   ],
   "date": "2028-03-07",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 10,
       "5": 1,
       "6": 6,
       "7": 6,
@@ -52,7 +53,7 @@
       "I": 1,
       "K": 10,
       "N": 2,
-      "T": 7
+      "T": 8
     },
     "grid": {
       "A": {
@@ -79,7 +80,7 @@
         "7": 1
       },
       "T": {
-        "4": 3,
+        "4": 4,
         "6": 1,
         "7": 3
       }
@@ -93,7 +94,7 @@
       "KN": 4,
       "NI": 2,
       "TA": 5,
-      "TI": 2
+      "TI": 3
     }
   }
 }

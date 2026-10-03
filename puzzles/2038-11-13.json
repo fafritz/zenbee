@@ -1,9 +1,9 @@
 {
   "pangram": "valuing",
   "center_letter": "u",
-  "num_answers": 24,
+  "num_answers": 26,
   "num_pangrams": 2,
-  "possible_points": 137,
+  "possible_points": 149,
   "answer_pangrams": [
     "unavailing",
     "valuing"
@@ -20,9 +20,11 @@
     "gulling",
     "gunning",
     "iguana",
+    "inulin",
     "lingual",
     "luau",
     "lugging",
+    "luging",
     "lull",
     "lulling",
     "lulu",
@@ -39,7 +41,7 @@
     "by_length": {
       "4": 7,
       "5": 3,
-      "6": 3,
+      "6": 5,
       "7": 8,
       "8": 1,
       "9": 1,
@@ -48,8 +50,8 @@
     "by_first_letter": {
       "A": 4,
       "G": 6,
-      "I": 1,
-      "L": 8,
+      "I": 2,
+      "L": 9,
       "N": 1,
       "U": 3,
       "V": 1
@@ -68,10 +70,11 @@
         "7": 3
       },
       "I": {
-        "6": 1
+        "6": 2
       },
       "L": {
         "4": 4,
+        "6": 1,
         "7": 4
       },
       "N": {
@@ -93,8 +96,9 @@
       "GL": 1,
       "GU": 4,
       "IG": 1,
+      "IN": 1,
       "LI": 1,
-      "LU": 7,
+      "LU": 8,
       "NU": 1,
       "UL": 1,
       "UN": 1,

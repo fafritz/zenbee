@@ -1,9 +1,9 @@
 {
   "pangram": "alimony",
   "center_letter": "y",
-  "num_answers": 26,
+  "num_answers": 27,
   "num_pangrams": 2,
-  "possible_points": 128,
+  "possible_points": 133,
   "answer_pangrams": [
     "alimony",
     "nominally"
@@ -20,6 +20,7 @@
     "lily",
     "limy",
     "loamy",
+    "loony",
     "loyal",
     "loyally",
     "mainly",
@@ -40,7 +41,7 @@
   "hints": {
     "by_length": {
       "4": 8,
-      "5": 11,
+      "5": 12,
       "6": 2,
       "7": 3,
       "9": 2
@@ -48,7 +49,7 @@
     "by_first_letter": {
       "A": 6,
       "I": 1,
-      "L": 6,
+      "L": 7,
       "M": 7,
       "N": 4,
       "O": 2
@@ -64,7 +65,7 @@
       },
       "L": {
         "4": 2,
-        "5": 2,
+        "5": 3,
         "6": 1,
         "7": 1
       },
@@ -88,7 +89,7 @@
       "IN": 1,
       "LA": 1,
       "LI": 2,
-      "LO": 3,
+      "LO": 4,
       "MA": 4,
       "MI": 1,
       "MO": 1,

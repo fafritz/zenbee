@@ -1,9 +1,9 @@
 {
   "pangram": "twanged",
   "center_letter": "g",
-  "num_answers": 40,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 189,
+  "possible_points": 190,
   "answer_pangrams": [
     "twanged"
   ],
@@ -20,6 +20,7 @@
     "engaged",
     "gadded",
     "gadget",
+    "gaga",
     "gagged",
     "gang",
     "ganged",
@@ -52,7 +53,7 @@
   "date": "2027-02-24",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 9,
       "6": 14,
       "7": 6
@@ -60,7 +61,7 @@
     "by_first_letter": {
       "A": 5,
       "E": 5,
-      "G": 15,
+      "G": 16,
       "N": 3,
       "T": 6,
       "W": 6
@@ -78,7 +79,7 @@
         "7": 1
       },
       "G": {
-        "4": 7,
+        "4": 8,
         "5": 1,
         "6": 7
       },
@@ -105,7 +106,7 @@
       "ED": 2,
       "EG": 1,
       "EN": 2,
-      "GA": 8,
+      "GA": 9,
       "GE": 4,
       "GN": 3,
       "NA": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "outward",
   "center_letter": "t",
-  "num_answers": 33,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 114,
+  "possible_points": 107,
   "answer_pangrams": [
     "outward"
   ],
@@ -18,7 +18,6 @@
     "outdo",
     "outdoor",
     "outward",
-    "ratatat",
     "root",
     "rotor",
     "rout",
@@ -48,14 +47,14 @@
       "4": 18,
       "5": 7,
       "6": 4,
-      "7": 3,
+      "7": 2,
       "9": 1
     },
     "by_first_letter": {
       "A": 4,
       "D": 2,
       "O": 4,
-      "R": 4,
+      "R": 3,
       "T": 17,
       "W": 2
     },
@@ -75,8 +74,7 @@
       },
       "R": {
         "4": 2,
-        "5": 1,
-        "7": 1
+        "5": 1
       },
       "T": {
         "4": 11,
@@ -95,7 +93,6 @@
       "DA": 2,
       "OR": 1,
       "OU": 3,
-      "RA": 1,
       "RO": 3,
       "TA": 6,
       "TO": 6,

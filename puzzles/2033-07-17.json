@@ -1,19 +1,21 @@
 {
   "pangram": "novelty",
   "center_letter": "o",
-  "num_answers": 37,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 105,
+  "possible_points": 115,
   "answer_pangrams": [
     "novelty"
   ],
   "answers": [
+    "elote",
     "envoy",
     "evolve",
     "loll",
     "lone",
     "lonely",
     "loon",
+    "loony",
     "loot",
     "lotto",
     "love",
@@ -50,15 +52,15 @@
   "hints": {
     "by_length": {
       "4": 25,
-      "5": 5,
+      "5": 7,
       "6": 4,
       "7": 1,
       "8": 1,
       "9": 1
     },
     "by_first_letter": {
-      "E": 2,
-      "L": 8,
+      "E": 3,
+      "L": 9,
       "N": 10,
       "O": 4,
       "T": 8,
@@ -66,12 +68,12 @@
     },
     "grid": {
       "E": {
-        "5": 1,
+        "5": 2,
         "6": 1
       },
       "L": {
         "4": 5,
-        "5": 1,
+        "5": 2,
         "6": 2
       },
       "N": {
@@ -94,9 +96,10 @@
       }
     },
     "two_letter_list": {
+      "EL": 1,
       "EN": 1,
       "EV": 1,
-      "LO": 8,
+      "LO": 9,
       "NE": 1,
       "NO": 8,
       "NY": 1,

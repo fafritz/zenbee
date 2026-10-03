@@ -1,9 +1,9 @@
 {
   "pangram": "peaking",
   "center_letter": "i",
-  "num_answers": 62,
+  "num_answers": 64,
   "num_pangrams": 1,
-  "possible_points": 345,
+  "possible_points": 356,
   "answer_pangrams": [
     "peaking"
   ],
@@ -46,9 +46,9 @@
     "paging",
     "pain",
     "paining",
+    "panini",
     "panning",
     "peaking",
-    "peeing",
     "peeking",
     "peeping",
     "penning",
@@ -65,6 +65,8 @@
     "pink",
     "pinkie",
     "pinking",
+    "pinna",
+    "pinnae",
     "pinning",
     "pipe",
     "piping",
@@ -75,8 +77,8 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 7,
-      "6": 17,
+      "5": 8,
+      "6": 18,
       "7": 26,
       "8": 1
     },
@@ -87,7 +89,7 @@
       "I": 3,
       "K": 8,
       "N": 5,
-      "P": 27
+      "P": 29
     },
     "grid": {
       "A": {
@@ -121,7 +123,8 @@
       },
       "P": {
         "4": 6,
-        "6": 9,
+        "5": 1,
+        "6": 10,
         "7": 12
       }
     },
@@ -142,9 +145,9 @@
       "KN": 1,
       "NA": 3,
       "NI": 2,
-      "PA": 4,
-      "PE": 6,
-      "PI": 17
+      "PA": 5,
+      "PE": 5,
+      "PI": 19
     }
   }
 }

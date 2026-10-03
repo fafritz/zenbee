@@ -1,9 +1,9 @@
 {
   "pangram": "vaunted",
   "center_letter": "a",
-  "num_answers": 56,
+  "num_answers": 58,
   "num_pangrams": 2,
-  "possible_points": 325,
+  "possible_points": 337,
   "answer_pangrams": [
     "eventuated",
     "vaunted"
@@ -47,6 +47,8 @@
     "nana",
     "nave",
     "neat",
+    "neaten",
+    "nutate",
     "tanned",
     "tatted",
     "taunt",
@@ -71,7 +73,7 @@
     "by_length": {
       "4": 13,
       "5": 8,
-      "6": 12,
+      "6": 14,
       "7": 9,
       "8": 6,
       "9": 5,
@@ -81,7 +83,7 @@
       "A": 20,
       "D": 9,
       "E": 5,
-      "N": 4,
+      "N": 6,
       "T": 8,
       "U": 4,
       "V": 6
@@ -110,7 +112,8 @@
         "10": 1
       },
       "N": {
-        "4": 4
+        "4": 4,
+        "6": 2
       },
       "T": {
         "4": 2,
@@ -143,7 +146,8 @@
       "EA": 1,
       "EV": 4,
       "NA": 3,
-      "NE": 1,
+      "NE": 2,
+      "NU": 1,
       "TA": 5,
       "TE": 2,
       "TU": 1,

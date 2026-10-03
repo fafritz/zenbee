@@ -3,7 +3,7 @@
   "center_letter": "d",
   "num_answers": 75,
   "num_pangrams": 1,
-  "possible_points": 407,
+  "possible_points": 408,
   "answer_pangrams": [
     "haunted"
   ],
@@ -37,6 +37,7 @@
     "dented",
     "denude",
     "denuded",
+    "detent",
     "detente",
     "dude",
     "duded",
@@ -44,7 +45,6 @@
     "dune",
     "dunned",
     "ended",
-    "endue",
     "endued",
     "etude",
     "hand",
@@ -88,8 +88,8 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 13,
-      "6": 22,
+      "5": 12,
+      "6": 23,
       "7": 12,
       "8": 7,
       "9": 3,
@@ -97,8 +97,8 @@
     },
     "by_first_letter": {
       "A": 13,
-      "D": 22,
-      "E": 4,
+      "D": 23,
+      "E": 3,
       "H": 12,
       "N": 4,
       "T": 12,
@@ -116,12 +116,12 @@
       "D": {
         "4": 9,
         "5": 4,
-        "6": 5,
+        "6": 6,
         "7": 3,
         "8": 1
       },
       "E": {
-        "5": 3,
+        "5": 2,
         "6": 1
       },
       "H": {
@@ -156,9 +156,9 @@
       "AN": 4,
       "AT": 5,
       "DA": 5,
-      "DE": 12,
+      "DE": 13,
       "DU": 5,
-      "EN": 3,
+      "EN": 2,
       "ET": 1,
       "HA": 5,
       "HE": 6,

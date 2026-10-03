@@ -1,9 +1,9 @@
 {
   "pangram": "tabloid",
   "center_letter": "i",
-  "num_answers": 28,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 86,
+  "possible_points": 97,
   "answer_pangrams": [
     "tabloid"
   ],
@@ -12,6 +12,7 @@
     "bail",
     "bait",
     "bill",
+    "biota",
     "bobtail",
     "boil",
     "dial",
@@ -31,6 +32,7 @@
     "tabloid",
     "tail",
     "tibia",
+    "tibial",
     "tidal",
     "tidbit",
     "till",
@@ -41,18 +43,18 @@
   "hints": {
     "by_length": {
       "4": 17,
-      "5": 6,
-      "6": 3,
+      "5": 7,
+      "6": 4,
       "7": 2
     },
     "by_first_letter": {
       "A": 1,
-      "B": 5,
+      "B": 6,
       "D": 3,
       "I": 4,
       "L": 5,
       "O": 2,
-      "T": 8
+      "T": 9
     },
     "grid": {
       "A": {
@@ -60,6 +62,7 @@
       },
       "B": {
         "4": 4,
+        "5": 1,
         "7": 1
       },
       "D": {
@@ -81,14 +84,14 @@
       "T": {
         "4": 4,
         "5": 2,
-        "6": 1,
+        "6": 2,
         "7": 1
       }
     },
     "two_letter_list": {
       "AL": 1,
       "BA": 2,
-      "BI": 1,
+      "BI": 2,
       "BO": 2,
       "DI": 3,
       "IB": 1,
@@ -99,7 +102,7 @@
       "OB": 1,
       "OL": 1,
       "TA": 2,
-      "TI": 5,
+      "TI": 6,
       "TO": 1
     }
   }

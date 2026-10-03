@@ -1,9 +1,9 @@
 {
   "pangram": "damping",
   "center_letter": "m",
-  "num_answers": 42,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 214,
+  "possible_points": 219,
   "answer_pangrams": [
     "damping"
   ],
@@ -48,6 +48,7 @@
     "minima",
     "mining",
     "naming",
+    "pampa",
     "pimp",
     "pimping"
   ],
@@ -55,7 +56,7 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 10,
+      "5": 11,
       "6": 7,
       "7": 10,
       "8": 2,
@@ -68,7 +69,7 @@
       "I": 4,
       "M": 22,
       "N": 1,
-      "P": 2
+      "P": 3
     },
     "grid": {
       "A": {
@@ -102,6 +103,7 @@
       },
       "P": {
         "4": 1,
+        "5": 1,
         "7": 1
       }
     },
@@ -116,6 +118,7 @@
       "MA": 15,
       "MI": 7,
       "NA": 1,
+      "PA": 1,
       "PI": 2
     }
   }

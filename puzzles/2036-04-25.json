@@ -1,9 +1,9 @@
 {
   "pangram": "uniform",
   "center_letter": "r",
-  "num_answers": 25,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 87,
+  "possible_points": 94,
   "answer_pangrams": [
     "uniform"
   ],
@@ -24,8 +24,11 @@
     "moron",
     "mourn",
     "murmur",
+    "noir",
+    "nori",
     "norm",
     "riff",
+    "ronin",
     "roof",
     "room",
     "ruff",
@@ -37,8 +40,8 @@
   "date": "2036-04-25",
   "hints": {
     "by_length": {
-      "4": 13,
-      "5": 6,
+      "4": 15,
+      "5": 7,
       "6": 5,
       "7": 1
     },
@@ -46,8 +49,8 @@
       "F": 6,
       "I": 3,
       "M": 7,
-      "N": 1,
-      "R": 7,
+      "N": 3,
+      "R": 8,
       "U": 1
     },
     "grid": {
@@ -65,11 +68,11 @@
         "6": 2
       },
       "N": {
-        "4": 1
+        "4": 3
       },
       "R": {
         "4": 5,
-        "5": 1,
+        "5": 2,
         "6": 1
       },
       "U": {
@@ -86,9 +89,9 @@
       "MI": 2,
       "MO": 4,
       "MU": 1,
-      "NO": 1,
+      "NO": 3,
       "RI": 1,
-      "RO": 2,
+      "RO": 3,
       "RU": 4,
       "UN": 1
     }

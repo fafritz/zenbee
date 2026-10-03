@@ -1,9 +1,9 @@
 {
   "pangram": "belying",
   "center_letter": "i",
-  "num_answers": 70,
+  "num_answers": 73,
   "num_pangrams": 4,
-  "possible_points": 439,
+  "possible_points": 458,
   "answer_pangrams": [
     "bellying",
     "belying",
@@ -32,10 +32,12 @@
     "billy",
     "binge",
     "bingeing",
+    "binging",
     "binning",
     "bling",
     "byline",
     "ebbing",
+    "eeling",
     "egging",
     "eligible",
     "engine",
@@ -66,6 +68,7 @@
     "libeling",
     "liege",
     "lien",
+    "lignin",
     "lily",
     "line",
     "linen",
@@ -87,18 +90,18 @@
     "by_length": {
       "4": 9,
       "5": 16,
-      "6": 17,
-      "7": 13,
+      "6": 19,
+      "7": 14,
       "8": 9,
       "9": 3,
       "10": 3
     },
     "by_first_letter": {
-      "B": 24,
-      "E": 5,
+      "B": 25,
+      "E": 6,
       "G": 14,
       "I": 5,
-      "L": 12,
+      "L": 13,
       "N": 9,
       "Y": 1
     },
@@ -107,12 +110,12 @@
         "4": 2,
         "5": 9,
         "6": 3,
-        "7": 6,
+        "7": 7,
         "8": 3,
         "9": 1
       },
       "E": {
-        "6": 4,
+        "6": 5,
         "8": 1
       },
       "G": {
@@ -130,7 +133,7 @@
       "L": {
         "4": 3,
         "5": 4,
-        "6": 1,
+        "6": 2,
         "7": 3,
         "8": 1
       },
@@ -147,10 +150,11 @@
     },
     "two_letter_list": {
       "BE": 12,
-      "BI": 10,
+      "BI": 11,
       "BL": 1,
       "BY": 1,
       "EB": 1,
+      "EE": 1,
       "EG": 1,
       "EL": 1,
       "EN": 1,
@@ -161,7 +165,7 @@
       "IL": 2,
       "IN": 3,
       "LE": 3,
-      "LI": 8,
+      "LI": 9,
       "LY": 1,
       "NE": 3,
       "NI": 6,

@@ -1,9 +1,9 @@
 {
   "pangram": "wildcat",
   "center_letter": "i",
-  "num_answers": 38,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 152,
+  "possible_points": 157,
   "answer_pangrams": [
     "wildcat"
   ],
@@ -23,6 +23,7 @@
     "dicta",
     "didactic",
     "dill",
+    "iliac",
     "illicit",
     "italic",
     "lactic",
@@ -51,7 +52,7 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 10,
+      "5": 11,
       "6": 7,
       "7": 3,
       "8": 2
@@ -60,7 +61,7 @@
       "A": 7,
       "C": 4,
       "D": 4,
-      "I": 2,
+      "I": 3,
       "L": 5,
       "T": 9,
       "W": 7
@@ -82,6 +83,7 @@
         "8": 1
       },
       "I": {
+        "5": 1,
         "6": 1,
         "7": 1
       },
@@ -109,7 +111,7 @@
       "CA": 2,
       "CI": 2,
       "DI": 4,
-      "IL": 1,
+      "IL": 2,
       "IT": 1,
       "LA": 2,
       "LI": 3,

@@ -1,9 +1,9 @@
 {
   "pangram": "wolfing",
   "center_letter": "i",
-  "num_answers": 68,
+  "num_answers": 70,
   "num_pangrams": 4,
-  "possible_points": 421,
+  "possible_points": 436,
   "answer_pangrams": [
     "flowing",
     "following",
@@ -43,6 +43,7 @@
     "inflow",
     "info",
     "inning",
+    "lignin",
     "lingo",
     "lining",
     "lion",
@@ -54,6 +55,7 @@
     "lowing",
     "niggling",
     "noggin",
+    "nonillion",
     "offing",
     "ogling",
     "oiling",
@@ -85,17 +87,17 @@
     "by_length": {
       "4": 10,
       "5": 8,
-      "6": 18,
+      "6": 19,
       "7": 23,
       "8": 7,
-      "9": 2
+      "9": 3
     },
     "by_first_letter": {
       "F": 15,
       "G": 13,
       "I": 4,
-      "L": 9,
-      "N": 2,
+      "L": 10,
+      "N": 3,
       "O": 8,
       "W": 17
     },
@@ -123,12 +125,13 @@
       "L": {
         "4": 2,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 3
       },
       "N": {
         "6": 1,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "O": {
         "4": 1,
@@ -153,10 +156,10 @@
       "GO": 7,
       "IG": 1,
       "IN": 3,
-      "LI": 3,
+      "LI": 4,
       "LO": 6,
       "NI": 1,
-      "NO": 1,
+      "NO": 2,
       "OF": 1,
       "OG": 1,
       "OI": 1,

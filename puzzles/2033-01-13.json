@@ -1,9 +1,9 @@
 {
   "pangram": "tickled",
   "center_letter": "i",
-  "num_answers": 76,
+  "num_answers": 78,
   "num_pangrams": 1,
-  "possible_points": 330,
+  "possible_points": 337,
   "answer_pangrams": [
     "tickled"
   ],
@@ -15,6 +15,7 @@
     "deceit",
     "decide",
     "decided",
+    "decile",
     "deice",
     "deiced",
     "deli",
@@ -74,6 +75,7 @@
     "tided",
     "tidied",
     "tied",
+    "tiki",
     "tilde",
     "tile",
     "tiled",
@@ -88,20 +90,20 @@
   "date": "2033-01-13",
   "hints": {
     "by_length": {
-      "4": 26,
+      "4": 27,
       "5": 16,
-      "6": 25,
+      "6": 26,
       "7": 5,
       "8": 4
     },
     "by_first_letter": {
       "C": 4,
-      "D": 17,
+      "D": 18,
       "E": 10,
       "I": 5,
       "K": 8,
       "L": 12,
-      "T": 20
+      "T": 21
     },
     "grid": {
       "C": {
@@ -112,7 +114,7 @@
       "D": {
         "4": 6,
         "5": 3,
-        "6": 5,
+        "6": 6,
         "7": 2,
         "8": 1
       },
@@ -139,7 +141,7 @@
         "6": 4
       },
       "T": {
-        "4": 6,
+        "4": 7,
         "5": 4,
         "6": 8,
         "7": 1,
@@ -149,7 +151,7 @@
     "two_letter_list": {
       "CI": 2,
       "CL": 2,
-      "DE": 6,
+      "DE": 7,
       "DI": 11,
       "EC": 1,
       "ED": 4,
@@ -159,7 +161,7 @@
       "IL": 1,
       "KI": 8,
       "LI": 12,
-      "TI": 20
+      "TI": 21
     }
   }
 }

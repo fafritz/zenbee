@@ -1,9 +1,9 @@
 {
   "pangram": "buoying",
   "center_letter": "o",
-  "num_answers": 37,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 181,
+  "possible_points": 166,
   "answer_pangrams": [
     "buoying"
   ],
@@ -14,6 +14,7 @@
     "bobby",
     "bogging",
     "boggy",
+    "boing",
     "bonbon",
     "bong",
     "bonging",
@@ -21,8 +22,6 @@
     "boning",
     "bony",
     "boob",
-    "boobing",
-    "booboo",
     "booby",
     "booing",
     "boon",
@@ -30,7 +29,6 @@
     "buoy",
     "buoying",
     "gibbon",
-    "gobbing",
     "going",
     "gong",
     "gonging",
@@ -50,14 +48,14 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 9,
-      "6": 8,
-      "7": 9,
+      "5": 10,
+      "6": 7,
+      "7": 7,
       "8": 1
     },
     "by_first_letter": {
-      "B": 21,
-      "G": 7,
+      "B": 20,
+      "G": 6,
       "N": 4,
       "O": 2,
       "U": 1,
@@ -66,15 +64,15 @@
     "grid": {
       "B": {
         "4": 5,
-        "5": 5,
-        "6": 6,
-        "7": 5
+        "5": 6,
+        "6": 5,
+        "7": 4
       },
       "G": {
         "4": 2,
         "5": 1,
         "6": 1,
-        "7": 3
+        "7": 2
       },
       "N": {
         "4": 2,
@@ -95,10 +93,10 @@
     },
     "two_letter_list": {
       "BI": 1,
-      "BO": 17,
+      "BO": 16,
       "BU": 3,
       "GI": 1,
-      "GO": 6,
+      "GO": 5,
       "NO": 4,
       "ON": 2,
       "UN": 1,

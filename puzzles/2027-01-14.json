@@ -1,9 +1,9 @@
 {
   "pangram": "factory",
   "center_letter": "c",
-  "num_answers": 26,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 115,
+  "possible_points": 114,
   "answer_pangrams": [
     "factory"
   ],
@@ -24,7 +24,6 @@
     "cottar",
     "craft",
     "crafty",
-    "cray",
     "fact",
     "factor",
     "factory",
@@ -38,7 +37,7 @@
   "date": "2027-01-14",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 8,
       "5": 8,
       "6": 5,
       "7": 3,
@@ -46,7 +45,7 @@
     },
     "by_first_letter": {
       "A": 2,
-      "C": 15,
+      "C": 14,
       "F": 3,
       "R": 2,
       "T": 4
@@ -57,7 +56,7 @@
         "7": 1
       },
       "C": {
-        "4": 5,
+        "4": 4,
         "5": 6,
         "6": 3,
         "8": 1
@@ -82,7 +81,7 @@
       "AT": 1,
       "CA": 7,
       "CO": 5,
-      "CR": 3,
+      "CR": 2,
       "FA": 3,
       "RA": 1,
       "RO": 1,

@@ -1,17 +1,19 @@
 {
   "pangram": "lounged",
   "center_letter": "g",
-  "num_answers": 61,
+  "num_answers": 67,
   "num_pangrams": 1,
-  "possible_points": 274,
+  "possible_points": 300,
   "answer_pangrams": [
     "lounged"
   ],
   "answers": [
     "deluge",
     "deluged",
+    "dengue",
     "dodge",
     "dodged",
+    "doge",
     "dogged",
     "doggone",
     "dongle",
@@ -61,6 +63,8 @@
     "longed",
     "lounge",
     "lounged",
+    "luge",
+    "luged",
     "lugged",
     "lung",
     "lunge",
@@ -68,29 +72,32 @@
     "nudge",
     "nudged",
     "ogle",
-    "ogled"
+    "ogled",
+    "unglue",
+    "unglued"
   ],
   "date": "2034-01-03",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 11,
-      "6": 24,
-      "7": 7
+      "4": 21,
+      "5": 12,
+      "6": 26,
+      "7": 8
     },
     "by_first_letter": {
-      "D": 11,
+      "D": 13,
       "E": 4,
       "G": 26,
-      "L": 16,
+      "L": 18,
       "N": 2,
-      "O": 2
+      "O": 2,
+      "U": 2
     },
     "grid": {
       "D": {
-        "4": 1,
+        "4": 2,
         "5": 1,
-        "6": 5,
+        "6": 6,
         "7": 4
       },
       "E": {
@@ -105,8 +112,8 @@
         "7": 2
       },
       "L": {
-        "4": 4,
-        "5": 3,
+        "4": 5,
+        "5": 4,
         "6": 8,
         "7": 1
       },
@@ -117,11 +124,15 @@
       "O": {
         "4": 1,
         "5": 1
+      },
+      "U": {
+        "6": 1,
+        "7": 1
       }
     },
     "two_letter_list": {
-      "DE": 2,
-      "DO": 5,
+      "DE": 3,
+      "DO": 6,
       "DU": 4,
       "ED": 2,
       "EG": 2,
@@ -131,9 +142,10 @@
       "GU": 3,
       "LE": 3,
       "LO": 9,
-      "LU": 4,
+      "LU": 6,
       "NU": 2,
-      "OG": 2
+      "OG": 2,
+      "UN": 2
     }
   }
 }

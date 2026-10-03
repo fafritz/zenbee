@@ -1,9 +1,9 @@
 {
   "pangram": "rubdown",
   "center_letter": "o",
-  "num_answers": 38,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 140,
+  "possible_points": 129,
   "answer_pangrams": [
     "rubdown"
   ],
@@ -11,7 +11,6 @@
     "bonbon",
     "bond",
     "boob",
-    "booboo",
     "boon",
     "boor",
     "born",
@@ -30,7 +29,6 @@
     "dour",
     "down",
     "drown",
-    "dunno",
     "noon",
     "noun",
     "odor",
@@ -51,13 +49,13 @@
   "hints": {
     "by_length": {
       "4": 18,
-      "5": 10,
-      "6": 5,
+      "5": 9,
+      "6": 4,
       "7": 5
     },
     "by_first_letter": {
-      "B": 16,
-      "D": 7,
+      "B": 15,
+      "D": 6,
       "N": 2,
       "O": 1,
       "R": 4,
@@ -68,12 +66,12 @@
       "B": {
         "4": 6,
         "5": 5,
-        "6": 4,
+        "6": 3,
         "7": 1
       },
       "D": {
         "4": 4,
-        "5": 3
+        "5": 2
       },
       "N": {
         "4": 2
@@ -97,12 +95,11 @@
       }
     },
     "two_letter_list": {
-      "BO": 11,
+      "BO": 10,
       "BR": 3,
       "BU": 2,
       "DO": 5,
       "DR": 1,
-      "DU": 1,
       "NO": 2,
       "OD": 1,
       "RO": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "backing",
   "center_letter": "g",
-  "num_answers": 37,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 224,
+  "possible_points": 240,
   "answer_pangrams": [
     "backing"
   ],
@@ -21,13 +21,16 @@
     "banking",
     "banning",
     "biking",
+    "binging",
     "binning",
     "cabbing",
+    "cabining",
     "caging",
     "caking",
     "caning",
     "canning",
     "gabbing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -49,16 +52,17 @@
   "date": "2027-10-07",
   "hints": {
     "by_length": {
-      "4": 4,
+      "4": 5,
       "5": 4,
       "6": 10,
-      "7": 19
+      "7": 20,
+      "8": 1
     },
     "by_first_letter": {
       "A": 4,
-      "B": 10,
-      "C": 5,
-      "G": 9,
+      "B": 11,
+      "C": 6,
+      "G": 10,
       "I": 3,
       "K": 3,
       "N": 3
@@ -71,14 +75,15 @@
       "B": {
         "4": 1,
         "6": 3,
-        "7": 6
+        "7": 7
       },
       "C": {
         "6": 3,
-        "7": 2
+        "7": 2,
+        "8": 1
       },
       "G": {
-        "4": 2,
+        "4": 3,
         "6": 1,
         "7": 6
       },
@@ -99,9 +104,9 @@
       "AG": 2,
       "AN": 1,
       "BA": 8,
-      "BI": 2,
-      "CA": 5,
-      "GA": 6,
+      "BI": 3,
+      "CA": 6,
+      "GA": 7,
       "GI": 3,
       "IC": 1,
       "IN": 2,

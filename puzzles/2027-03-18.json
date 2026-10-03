@@ -1,9 +1,9 @@
 {
   "pangram": "harping",
   "center_letter": "n",
-  "num_answers": 72,
+  "num_answers": 75,
   "num_pangrams": 3,
-  "possible_points": 432,
+  "possible_points": 459,
   "answer_pangrams": [
     "graphing",
     "harping",
@@ -40,10 +40,11 @@
     "hanging",
     "haring",
     "harping",
-    "hing",
     "hinging",
     "hipping",
     "hiring",
+    "ingrain",
+    "ingraining",
     "inning",
     "naan",
     "nagging",
@@ -57,6 +58,7 @@
     "paining",
     "pairing",
     "pang",
+    "panini",
     "panning",
     "paragraphing",
     "paring",
@@ -65,6 +67,7 @@
     "ping",
     "pinging",
     "pining",
+    "pinna",
     "pinning",
     "piping",
     "pippin",
@@ -86,22 +89,22 @@
   "date": "2027-03-18",
   "hints": {
     "by_length": {
-      "4": 14,
-      "5": 5,
-      "6": 14,
-      "7": 31,
+      "4": 13,
+      "5": 6,
+      "6": 15,
+      "7": 32,
       "8": 5,
       "9": 1,
-      "10": 1,
+      "10": 2,
       "12": 1
     },
     "by_first_letter": {
       "A": 9,
       "G": 15,
-      "H": 10,
-      "I": 1,
+      "H": 9,
+      "I": 3,
       "N": 6,
-      "P": 19,
+      "P": 21,
       "R": 12
     },
     "grid": {
@@ -121,12 +124,14 @@
         "8": 4
       },
       "H": {
-        "4": 2,
+        "4": 1,
         "6": 3,
         "7": 5
       },
       "I": {
-        "6": 1
+        "6": 1,
+        "7": 1,
+        "10": 1
       },
       "N": {
         "4": 3,
@@ -134,8 +139,8 @@
       },
       "P": {
         "4": 3,
-        "5": 1,
-        "6": 5,
+        "5": 2,
+        "6": 6,
         "7": 9,
         "12": 1
       },
@@ -155,12 +160,12 @@
       "GI": 2,
       "GR": 6,
       "HA": 6,
-      "HI": 4,
-      "IN": 1,
+      "HI": 3,
+      "IN": 3,
       "NA": 4,
       "NI": 2,
-      "PA": 10,
-      "PI": 9,
+      "PA": 11,
+      "PI": 10,
       "RA": 8,
       "RI": 4
     }

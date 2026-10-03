@@ -1,9 +1,9 @@
 {
   "pangram": "notched",
   "center_letter": "d",
-  "num_answers": 74,
+  "num_answers": 75,
   "num_pangrams": 1,
-  "possible_points": 400,
+  "possible_points": 406,
   "answer_pangrams": [
     "notched"
   ],
@@ -40,6 +40,7 @@
     "dented",
     "detect",
     "detected",
+    "detent",
     "detente",
     "docent",
     "dodo",
@@ -88,14 +89,14 @@
     "by_length": {
       "4": 16,
       "5": 10,
-      "6": 25,
+      "6": 26,
       "7": 11,
       "8": 8,
       "9": 4
     },
     "by_first_letter": {
       "C": 20,
-      "D": 20,
+      "D": 21,
       "E": 5,
       "H": 9,
       "N": 7,
@@ -113,7 +114,7 @@
       "D": {
         "4": 5,
         "5": 1,
-        "6": 9,
+        "6": 10,
         "7": 3,
         "8": 2
       },
@@ -144,7 +145,7 @@
     "two_letter_list": {
       "CE": 2,
       "CO": 18,
-      "DE": 13,
+      "DE": 14,
       "DO": 7,
       "EC": 1,
       "EN": 3,

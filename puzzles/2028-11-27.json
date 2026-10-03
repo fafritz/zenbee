@@ -1,9 +1,9 @@
 {
   "pangram": "punched",
   "center_letter": "d",
-  "num_answers": 46,
+  "num_answers": 47,
   "num_pangrams": 1,
-  "possible_points": 241,
+  "possible_points": 247,
   "answer_pangrams": [
     "punched"
   ],
@@ -26,6 +26,7 @@
     "depended",
     "dependence",
     "deuce",
+    "deuced",
     "dude",
     "duded",
     "dunce",
@@ -33,8 +34,8 @@
     "dunned",
     "dupe",
     "duped",
+    "educe",
     "ended",
-    "endue",
     "endued",
     "heed",
     "heeded",
@@ -60,14 +61,14 @@
     "by_length": {
       "4": 10,
       "5": 10,
-      "6": 15,
+      "6": 16,
       "7": 6,
       "8": 4,
       "10": 1
     },
     "by_first_letter": {
       "C": 5,
-      "D": 20,
+      "D": 21,
       "E": 3,
       "H": 3,
       "N": 2,
@@ -84,7 +85,7 @@
       "D": {
         "4": 5,
         "5": 4,
-        "6": 6,
+        "6": 7,
         "7": 2,
         "8": 2,
         "10": 1
@@ -117,9 +118,10 @@
       "CE": 2,
       "CH": 1,
       "CU": 2,
-      "DE": 13,
+      "DE": 14,
       "DU": 7,
-      "EN": 3,
+      "ED": 1,
+      "EN": 2,
       "HE": 2,
       "HU": 1,
       "NE": 2,

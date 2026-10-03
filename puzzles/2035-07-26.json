@@ -1,13 +1,14 @@
 {
   "pangram": "tongued",
   "center_letter": "u",
-  "num_answers": 44,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 217,
+  "possible_points": 213,
   "answer_pangrams": [
     "tongued"
   ],
   "answers": [
+    "dengue",
     "denude",
     "denuded",
     "donut",
@@ -21,8 +22,6 @@
     "dunged",
     "dungeon",
     "dunned",
-    "dunno",
-    "endue",
     "endued",
     "etude",
     "gouge",
@@ -57,14 +56,14 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 12,
-      "6": 15,
+      "5": 10,
+      "6": 16,
       "7": 6,
       "8": 1
     },
     "by_first_letter": {
       "D": 14,
-      "E": 3,
+      "E": 2,
       "G": 5,
       "N": 5,
       "O": 4,
@@ -74,12 +73,12 @@
     "grid": {
       "D": {
         "4": 4,
-        "5": 3,
-        "6": 4,
+        "5": 2,
+        "6": 5,
         "7": 3
       },
       "E": {
-        "5": 2,
+        "5": 1,
         "6": 1
       },
       "G": {
@@ -111,10 +110,10 @@
       }
     },
     "two_letter_list": {
-      "DE": 2,
+      "DE": 3,
       "DO": 1,
-      "DU": 11,
-      "EN": 2,
+      "DU": 10,
+      "EN": 1,
       "ET": 1,
       "GO": 3,
       "GU": 2,

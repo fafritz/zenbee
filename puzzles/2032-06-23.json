@@ -1,9 +1,9 @@
 {
   "pangram": "tacking",
   "center_letter": "g",
-  "num_answers": 51,
+  "num_answers": 52,
   "num_pangrams": 2,
-  "possible_points": 328,
+  "possible_points": 329,
   "answer_pangrams": [
     "attacking",
     "tacking"
@@ -24,6 +24,7 @@
     "canting",
     "catting",
     "citing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -64,7 +65,7 @@
   "date": "2032-06-23",
   "hints": {
     "by_length": {
-      "4": 6,
+      "4": 7,
       "5": 5,
       "6": 11,
       "7": 20,
@@ -75,7 +76,7 @@
     "by_first_letter": {
       "A": 8,
       "C": 7,
-      "G": 12,
+      "G": 13,
       "I": 6,
       "K": 5,
       "N": 2,
@@ -92,7 +93,7 @@
         "7": 3
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "5": 1,
         "6": 1,
         "7": 5,
@@ -127,7 +128,7 @@
       "AT": 2,
       "CA": 6,
       "CI": 1,
-      "GA": 7,
+      "GA": 8,
       "GI": 4,
       "GN": 1,
       "IC": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "backing",
   "center_letter": "b",
-  "num_answers": 23,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 134,
+  "possible_points": 155,
   "answer_pangrams": [
     "backing"
   ],
@@ -23,12 +23,15 @@
     "banning",
     "biking",
     "bikini",
+    "binging",
     "binning",
     "cabana",
     "cabbing",
     "cabin",
+    "cabining",
     "gabbing",
     "gibing",
+    "kanban",
     "kickback",
     "nabbing"
   ],
@@ -37,16 +40,16 @@
     "by_length": {
       "4": 4,
       "5": 2,
-      "6": 7,
-      "7": 9,
-      "8": 1
+      "6": 8,
+      "7": 10,
+      "8": 2
     },
     "by_first_letter": {
       "A": 1,
-      "B": 15,
-      "C": 3,
+      "B": 16,
+      "C": 4,
       "G": 2,
-      "K": 1,
+      "K": 2,
       "N": 1
     },
     "grid": {
@@ -56,18 +59,20 @@
       "B": {
         "4": 4,
         "6": 5,
-        "7": 6
+        "7": 7
       },
       "C": {
         "5": 1,
         "6": 1,
-        "7": 1
+        "7": 1,
+        "8": 1
       },
       "G": {
         "6": 1,
         "7": 1
       },
       "K": {
+        "6": 1,
         "8": 1
       },
       "N": {
@@ -77,10 +82,11 @@
     "two_letter_list": {
       "AB": 1,
       "BA": 12,
-      "BI": 3,
-      "CA": 3,
+      "BI": 4,
+      "CA": 4,
       "GA": 1,
       "GI": 1,
+      "KA": 1,
       "KI": 1,
       "NA": 1
     }

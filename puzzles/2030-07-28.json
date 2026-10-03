@@ -1,9 +1,9 @@
 {
   "pangram": "chagrin",
   "center_letter": "g",
-  "num_answers": 70,
+  "num_answers": 72,
   "num_pangrams": 7,
-  "possible_points": 461,
+  "possible_points": 478,
   "answer_pangrams": [
     "arching",
     "chagrin",
@@ -46,6 +46,7 @@
     "crag",
     "craning",
     "cringing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -63,11 +64,12 @@
     "hanging",
     "haring",
     "high",
-    "hing",
     "hinging",
     "hiring",
     "icing",
     "inching",
+    "ingrain",
+    "ingraining",
     "inning",
     "nagging",
     "nigh",
@@ -91,17 +93,17 @@
       "4": 12,
       "5": 6,
       "6": 15,
-      "7": 21,
+      "7": 22,
       "8": 13,
       "9": 1,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 13,
       "C": 19,
-      "G": 12,
-      "H": 8,
-      "I": 3,
+      "G": 13,
+      "H": 7,
+      "I": 5,
       "N": 2,
       "R": 13
     },
@@ -124,20 +126,21 @@
         "10": 1
       },
       "G": {
-        "4": 3,
+        "4": 4,
         "5": 1,
         "7": 6,
         "8": 2
       },
       "H": {
-        "4": 3,
+        "4": 2,
         "6": 3,
         "7": 2
       },
       "I": {
         "5": 1,
         "6": 1,
-        "7": 1
+        "7": 2,
+        "10": 1
       },
       "N": {
         "4": 1,
@@ -160,13 +163,13 @@
       "CH": 9,
       "CI": 2,
       "CR": 3,
-      "GA": 6,
+      "GA": 7,
       "GI": 2,
       "GR": 4,
       "HA": 4,
-      "HI": 4,
+      "HI": 3,
       "IC": 1,
-      "IN": 2,
+      "IN": 4,
       "NA": 1,
       "NI": 1,
       "RA": 9,

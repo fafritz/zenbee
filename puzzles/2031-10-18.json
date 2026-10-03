@@ -3,7 +3,7 @@
   "center_letter": "u",
   "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 267,
+  "possible_points": 268,
   "answer_pangrams": [
     "untamed"
   ],
@@ -25,7 +25,6 @@
     "duet",
     "dune",
     "dunned",
-    "endue",
     "endued",
     "etude",
     "menu",
@@ -37,6 +36,7 @@
     "muted",
     "mutt",
     "muumuu",
+    "nutate",
     "nutmeat",
     "nutted",
     "taunt",
@@ -62,8 +62,8 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 10,
-      "6": 10,
+      "5": 9,
+      "6": 11,
       "7": 11,
       "8": 3,
       "9": 2,
@@ -72,9 +72,9 @@
     "by_first_letter": {
       "A": 7,
       "D": 10,
-      "E": 3,
+      "E": 2,
       "M": 9,
-      "N": 2,
+      "N": 3,
       "T": 7,
       "U": 11
     },
@@ -94,7 +94,7 @@
         "7": 2
       },
       "E": {
-        "5": 2,
+        "5": 1,
         "6": 1
       },
       "M": {
@@ -104,7 +104,7 @@
         "7": 2
       },
       "N": {
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "T": {
@@ -128,11 +128,11 @@
       "DA": 3,
       "DE": 2,
       "DU": 5,
-      "EN": 2,
+      "EN": 1,
       "ET": 1,
       "ME": 1,
       "MU": 8,
-      "NU": 2,
+      "NU": 3,
       "TA": 3,
       "TU": 4,
       "UN": 11

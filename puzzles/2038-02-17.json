@@ -1,9 +1,9 @@
 {
   "pangram": "expound",
   "center_letter": "u",
-  "num_answers": 29,
+  "num_answers": 27,
   "num_pangrams": 2,
-  "possible_points": 160,
+  "possible_points": 150,
   "answer_pangrams": [
     "expound",
     "expounded"
@@ -15,10 +15,8 @@
     "duded",
     "dune",
     "dunned",
-    "dunno",
     "dupe",
     "duped",
-    "endue",
     "endued",
     "expound",
     "expounded",
@@ -43,15 +41,15 @@
   "hints": {
     "by_length": {
       "4": 6,
-      "5": 9,
+      "5": 7,
       "6": 7,
       "7": 4,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
-      "D": 9,
-      "E": 6,
+      "D": 8,
+      "E": 5,
       "N": 1,
       "P": 4,
       "U": 9
@@ -59,12 +57,12 @@
     "grid": {
       "D": {
         "4": 3,
-        "5": 3,
+        "5": 2,
         "6": 2,
         "7": 1
       },
       "E": {
-        "5": 2,
+        "5": 1,
         "6": 2,
         "7": 1,
         "9": 1
@@ -87,8 +85,8 @@
     },
     "two_letter_list": {
       "DE": 2,
-      "DU": 7,
-      "EN": 2,
+      "DU": 6,
+      "EN": 1,
       "EX": 4,
       "NO": 1,
       "PO": 2,

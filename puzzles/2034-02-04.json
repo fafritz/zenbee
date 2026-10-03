@@ -1,9 +1,9 @@
 {
   "pangram": "plumage",
   "center_letter": "l",
-  "num_answers": 64,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 209,
+  "possible_points": 216,
   "answer_pangrams": [
     "plumage"
   ],
@@ -12,6 +12,7 @@
     "alga",
     "algae",
     "allege",
+    "allele",
     "alum",
     "amalgam",
     "ample",
@@ -41,6 +42,7 @@
     "lemma",
     "llama",
     "luau",
+    "luge",
     "luggage",
     "lull",
     "lulu",
@@ -76,16 +78,16 @@
   "date": "2034-02-04",
   "hints": {
     "by_length": {
-      "4": 34,
+      "4": 35,
       "5": 15,
-      "6": 12,
+      "6": 13,
       "7": 3
     },
     "by_first_letter": {
-      "A": 11,
+      "A": 12,
       "E": 1,
       "G": 10,
-      "L": 15,
+      "L": 16,
       "M": 10,
       "P": 17
     },
@@ -93,7 +95,7 @@
       "A": {
         "4": 2,
         "5": 3,
-        "6": 5,
+        "6": 6,
         "7": 1
       },
       "E": {
@@ -105,7 +107,7 @@
         "6": 1
       },
       "L": {
-        "4": 8,
+        "4": 9,
         "5": 4,
         "6": 2,
         "7": 1
@@ -124,7 +126,7 @@
     },
     "two_letter_list": {
       "AG": 1,
-      "AL": 4,
+      "AL": 5,
       "AM": 3,
       "AP": 3,
       "EA": 1,
@@ -134,7 +136,7 @@
       "LA": 4,
       "LE": 5,
       "LL": 1,
-      "LU": 5,
+      "LU": 6,
       "MA": 5,
       "ME": 2,
       "MU": 3,

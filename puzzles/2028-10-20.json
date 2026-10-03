@@ -1,9 +1,9 @@
 {
   "pangram": "panicky",
   "center_letter": "n",
-  "num_answers": 26,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 109,
+  "possible_points": 120,
   "answer_pangrams": [
     "panicky"
   ],
@@ -30,8 +30,10 @@
     "pain",
     "panic",
     "panicky",
+    "panini",
     "picnic",
     "pink",
+    "pinna",
     "pippin",
     "yank"
   ],
@@ -39,8 +41,8 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 9,
-      "6": 5,
+      "5": 10,
+      "6": 6,
       "7": 1,
       "10": 1
     },
@@ -50,7 +52,7 @@
       "I": 1,
       "K": 3,
       "N": 9,
-      "P": 6,
+      "P": 8,
       "Y": 1
     },
     "grid": {
@@ -77,8 +79,8 @@
       },
       "P": {
         "4": 2,
-        "5": 1,
-        "6": 2,
+        "5": 2,
+        "6": 3,
         "7": 1
       },
       "Y": {
@@ -94,8 +96,8 @@
       "KN": 2,
       "NA": 5,
       "NI": 4,
-      "PA": 3,
-      "PI": 3,
+      "PA": 4,
+      "PI": 4,
       "YA": 1
     }
   }

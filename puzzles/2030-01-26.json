@@ -1,14 +1,15 @@
 {
   "pangram": "epochal",
   "center_letter": "e",
-  "num_answers": 55,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 192,
+  "possible_points": 198,
   "answer_pangrams": [
     "epochal"
   ],
   "answers": [
     "ache",
+    "allele",
     "aloe",
     "apace",
     "appeal",
@@ -69,12 +70,12 @@
     "by_length": {
       "4": 28,
       "5": 15,
-      "6": 6,
+      "6": 7,
       "7": 2,
       "8": 4
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 6,
       "C": 11,
       "E": 6,
       "H": 10,
@@ -86,7 +87,7 @@
       "A": {
         "4": 2,
         "5": 2,
-        "6": 1
+        "6": 2
       },
       "C": {
         "4": 3,
@@ -123,7 +124,7 @@
     },
     "two_letter_list": {
       "AC": 1,
-      "AL": 1,
+      "AL": 2,
       "AP": 3,
       "CA": 2,
       "CE": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "ungodly",
   "center_letter": "u",
-  "num_answers": 20,
+  "num_answers": 19,
   "num_pangrams": 1,
-  "possible_points": 63,
+  "possible_points": 58,
   "answer_pangrams": [
     "ungodly"
   ],
@@ -12,7 +12,6 @@
     "dully",
     "duly",
     "dung",
-    "dunno",
     "gull",
     "gully",
     "gunny",
@@ -33,12 +32,12 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 5,
+      "5": 4,
       "6": 2,
       "7": 1
     },
     "by_first_letter": {
-      "D": 5,
+      "D": 4,
       "G": 3,
       "L": 5,
       "N": 2,
@@ -48,7 +47,7 @@
     "grid": {
       "D": {
         "4": 3,
-        "5": 2
+        "5": 1
       },
       "G": {
         "4": 1,
@@ -71,7 +70,7 @@
       }
     },
     "two_letter_list": {
-      "DU": 5,
+      "DU": 4,
       "GU": 3,
       "LO": 2,
       "LU": 3,

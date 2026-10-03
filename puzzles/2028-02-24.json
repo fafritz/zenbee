@@ -1,9 +1,9 @@
 {
   "pangram": "peaking",
   "center_letter": "a",
-  "num_answers": 35,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 150,
+  "possible_points": 168,
   "answer_pangrams": [
     "peaking"
   ],
@@ -16,6 +16,7 @@
     "aping",
     "engage",
     "engaging",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -39,27 +40,30 @@
     "paining",
     "pane",
     "pang",
+    "panini",
     "panning",
     "papa",
     "peak",
-    "peaking"
+    "peaking",
+    "pinna",
+    "pinnae"
   ],
   "date": "2028-02-24",
   "hints": {
     "by_length": {
-      "4": 14,
-      "5": 7,
-      "6": 5,
+      "4": 15,
+      "5": 8,
+      "6": 7,
       "7": 8,
       "8": 1
     },
     "by_first_letter": {
       "A": 6,
       "E": 2,
-      "G": 7,
+      "G": 8,
       "I": 1,
       "N": 7,
-      "P": 12
+      "P": 15
     },
     "grid": {
       "A": {
@@ -72,7 +76,7 @@
         "8": 1
       },
       "G": {
-        "4": 3,
+        "4": 4,
         "6": 1,
         "7": 3
       },
@@ -86,8 +90,8 @@
       },
       "P": {
         "4": 6,
-        "5": 2,
-        "6": 1,
+        "5": 3,
+        "6": 3,
         "7": 3
       }
     },
@@ -97,12 +101,13 @@
       "AN": 1,
       "AP": 1,
       "EN": 2,
-      "GA": 7,
+      "GA": 8,
       "IN": 1,
       "NA": 6,
       "NE": 1,
-      "PA": 10,
-      "PE": 2
+      "PA": 11,
+      "PE": 2,
+      "PI": 2
     }
   }
 }

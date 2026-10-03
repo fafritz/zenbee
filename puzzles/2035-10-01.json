@@ -1,9 +1,9 @@
 {
   "pangram": "epochal",
   "center_letter": "a",
-  "num_answers": 56,
+  "num_answers": 57,
   "num_pangrams": 1,
-  "possible_points": 203,
+  "possible_points": 209,
   "answer_pangrams": [
     "epochal"
   ],
@@ -11,6 +11,7 @@
     "ache",
     "achoo",
     "alcohol",
+    "allele",
     "aloe",
     "aloha",
     "alpaca",
@@ -70,12 +71,12 @@
     "by_length": {
       "4": 25,
       "5": 20,
-      "6": 7,
+      "6": 8,
       "7": 3,
       "8": 1
     },
     "by_first_letter": {
-      "A": 11,
+      "A": 12,
       "C": 17,
       "E": 2,
       "H": 7,
@@ -87,7 +88,7 @@
       "A": {
         "4": 2,
         "5": 5,
-        "6": 3,
+        "6": 4,
         "7": 1
       },
       "C": {
@@ -122,7 +123,7 @@
     },
     "two_letter_list": {
       "AC": 2,
-      "AL": 5,
+      "AL": 6,
       "AP": 4,
       "CA": 6,
       "CH": 3,

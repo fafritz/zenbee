@@ -1,9 +1,9 @@
 {
   "pangram": "unlaced",
   "center_letter": "u",
-  "num_answers": 60,
+  "num_answers": 61,
   "num_pangrams": 2,
-  "possible_points": 312,
+  "possible_points": 318,
   "answer_pangrams": [
     "uncalled",
     "unlaced"
@@ -33,6 +33,7 @@
     "denude",
     "denuded",
     "deuce",
+    "deuced",
     "dual",
     "ducal",
     "dude",
@@ -44,9 +45,9 @@
     "dunce",
     "dune",
     "dunned",
+    "educe",
     "elude",
     "eluded",
-    "endue",
     "endued",
     "lacuna",
     "lacunae",
@@ -75,14 +76,14 @@
     "by_length": {
       "4": 14,
       "5": 11,
-      "6": 20,
+      "6": 21,
       "7": 11,
       "8": 4
     },
     "by_first_letter": {
       "A": 7,
       "C": 10,
-      "D": 18,
+      "D": 19,
       "E": 4,
       "L": 8,
       "N": 3,
@@ -104,7 +105,7 @@
       "D": {
         "4": 5,
         "5": 4,
-        "6": 6,
+        "6": 7,
         "7": 3
       },
       "E": {
@@ -136,10 +137,11 @@
       "CA": 3,
       "CL": 2,
       "CU": 5,
-      "DE": 7,
+      "DE": 8,
       "DU": 11,
+      "ED": 1,
       "EL": 2,
-      "EN": 2,
+      "EN": 1,
       "LA": 4,
       "LU": 4,
       "NU": 3,

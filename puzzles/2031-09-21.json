@@ -1,9 +1,9 @@
 {
   "pangram": "harking",
   "center_letter": "g",
-  "num_answers": 49,
+  "num_answers": 51,
   "num_pangrams": 1,
-  "possible_points": 268,
+  "possible_points": 285,
   "answer_pangrams": [
     "harking"
   ],
@@ -17,6 +17,7 @@
     "arraign",
     "arraigning",
     "arranging",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -35,9 +36,10 @@
     "harking",
     "high",
     "hiking",
-    "hing",
     "hinging",
     "hiring",
+    "ingrain",
+    "ingraining",
     "inking",
     "inning",
     "irking",
@@ -64,16 +66,16 @@
       "4": 12,
       "5": 3,
       "6": 12,
-      "7": 17,
+      "7": 18,
       "8": 3,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 9,
-      "G": 11,
-      "H": 10,
-      "I": 3,
+      "G": 12,
+      "H": 9,
+      "I": 5,
       "K": 2,
       "N": 2,
       "R": 12
@@ -89,18 +91,20 @@
         "10": 1
       },
       "G": {
-        "4": 3,
+        "4": 4,
         "5": 1,
         "7": 5,
         "8": 2
       },
       "H": {
-        "4": 3,
+        "4": 2,
         "6": 4,
         "7": 3
       },
       "I": {
-        "6": 3
+        "6": 3,
+        "7": 1,
+        "10": 1
       },
       "K": {
         "4": 1,
@@ -121,12 +125,12 @@
       "AI": 1,
       "AN": 1,
       "AR": 3,
-      "GA": 6,
+      "GA": 7,
       "GI": 2,
       "GR": 3,
       "HA": 5,
-      "HI": 5,
-      "IN": 2,
+      "HI": 4,
+      "IN": 4,
       "IR": 1,
       "KI": 2,
       "NA": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "pliancy",
   "center_letter": "p",
-  "num_answers": 26,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 114,
+  "possible_points": 125,
   "answer_pangrams": [
     "pliancy"
   ],
@@ -19,6 +19,7 @@
     "pain",
     "pall",
     "panic",
+    "panini",
     "papa",
     "papacy",
     "papal",
@@ -28,6 +29,7 @@
     "piccalilli",
     "picnic",
     "pill",
+    "pinna",
     "pippin",
     "plain",
     "plainly",
@@ -39,8 +41,8 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 6,
-      "6": 6,
+      "5": 7,
+      "6": 7,
       "7": 3,
       "10": 1
     },
@@ -48,7 +50,7 @@
       "A": 3,
       "C": 2,
       "N": 2,
-      "P": 19
+      "P": 21
     },
     "grid": {
       "A": {
@@ -63,8 +65,8 @@
       },
       "P": {
         "4": 8,
-        "5": 3,
-        "6": 4,
+        "5": 4,
+        "6": 5,
         "7": 3,
         "10": 1
       }
@@ -75,8 +77,8 @@
       "CL": 2,
       "NA": 1,
       "NI": 1,
-      "PA": 9,
-      "PI": 5,
+      "PA": 10,
+      "PI": 6,
       "PL": 5
     }
   }

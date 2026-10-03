@@ -1,9 +1,9 @@
 {
   "pangram": "blacked",
   "center_letter": "c",
-  "num_answers": 42,
+  "num_answers": 43,
   "num_pangrams": 2,
-  "possible_points": 218,
+  "possible_points": 230,
   "answer_pangrams": [
     "blackballed",
     "blacked"
@@ -15,7 +15,6 @@
     "aced",
     "back",
     "backed",
-    "beck",
     "bedeck",
     "bedecked",
     "black",
@@ -38,10 +37,12 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "clack",
     "clacked",
     "clad",
     "debacle",
+    "decadal",
     "decade",
     "decal",
     "deck",
@@ -55,19 +56,19 @@
   "date": "2032-01-27",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 10,
       "5": 10,
-      "6": 12,
-      "7": 5,
+      "6": 13,
+      "7": 6,
       "8": 2,
       "9": 1,
       "11": 1
     },
     "by_first_letter": {
       "A": 4,
-      "B": 9,
-      "C": 19,
-      "D": 6,
+      "B": 8,
+      "C": 20,
+      "D": 7,
       "L": 4
     },
     "grid": {
@@ -78,7 +79,7 @@
         "7": 1
       },
       "B": {
-        "4": 2,
+        "4": 1,
         "5": 1,
         "6": 2,
         "7": 1,
@@ -89,7 +90,7 @@
       "C": {
         "4": 5,
         "5": 6,
-        "6": 5,
+        "6": 6,
         "7": 2,
         "8": 1
       },
@@ -97,7 +98,7 @@
         "4": 1,
         "5": 1,
         "6": 3,
-        "7": 1
+        "7": 2
       },
       "L": {
         "4": 2,
@@ -109,12 +110,12 @@
       "AB": 1,
       "AC": 3,
       "BA": 2,
-      "BE": 3,
+      "BE": 2,
       "BL": 4,
       "CA": 13,
-      "CE": 3,
+      "CE": 4,
       "CL": 3,
-      "DE": 6,
+      "DE": 7,
       "LA": 4
     }
   }

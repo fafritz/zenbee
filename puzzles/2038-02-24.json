@@ -1,9 +1,9 @@
 {
   "pangram": "aground",
   "center_letter": "d",
-  "num_answers": 33,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 124,
+  "possible_points": 114,
   "answer_pangrams": [
     "aground"
   ],
@@ -24,9 +24,7 @@
     "dragoon",
     "drug",
     "dung",
-    "dunno",
     "goad",
-    "gonad",
     "good",
     "gourd",
     "grad",
@@ -46,15 +44,15 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 11,
+      "5": 9,
       "6": 4,
       "7": 2,
       "9": 1
     },
     "by_first_letter": {
       "A": 4,
-      "D": 13,
-      "G": 8,
+      "D": 12,
+      "G": 7,
       "O": 1,
       "R": 6,
       "U": 1
@@ -67,13 +65,13 @@
       },
       "D": {
         "4": 8,
-        "5": 2,
+        "5": 1,
         "6": 2,
         "7": 1
       },
       "G": {
         "4": 3,
-        "5": 4,
+        "5": 3,
         "6": 1
       },
       "O": {
@@ -95,8 +93,8 @@
       "DA": 2,
       "DO": 5,
       "DR": 4,
-      "DU": 2,
-      "GO": 4,
+      "DU": 1,
+      "GO": 3,
       "GR": 3,
       "GU": 1,
       "OD": 1,

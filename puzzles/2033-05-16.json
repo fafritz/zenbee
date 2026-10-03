@@ -1,9 +1,9 @@
 {
   "pangram": "touched",
   "center_letter": "d",
-  "num_answers": 53,
+  "num_answers": 54,
   "num_pangrams": 1,
-  "possible_points": 249,
+  "possible_points": 254,
   "answer_pangrams": [
     "touched"
   ],
@@ -27,17 +27,18 @@
     "detect",
     "detected",
     "deuce",
+    "deuced",
     "dodo",
     "dote",
     "doted",
     "dotted",
-    "douche",
     "douched",
     "duct",
     "dude",
     "duded",
     "duet",
     "echoed",
+    "educe",
     "etched",
     "etude",
     "heed",
@@ -66,7 +67,7 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 10,
+      "5": 11,
       "6": 16,
       "7": 8,
       "8": 3
@@ -74,7 +75,7 @@
     "by_first_letter": {
       "C": 8,
       "D": 21,
-      "E": 3,
+      "E": 4,
       "H": 8,
       "O": 2,
       "T": 11
@@ -93,7 +94,7 @@
         "8": 2
       },
       "E": {
-        "5": 1,
+        "5": 2,
         "6": 2
       },
       "H": {
@@ -115,10 +116,11 @@
       "CE": 2,
       "CO": 5,
       "CU": 1,
-      "DE": 11,
-      "DO": 6,
+      "DE": 12,
+      "DO": 5,
       "DU": 4,
       "EC": 1,
+      "ED": 1,
       "ET": 2,
       "HE": 2,
       "HO": 6,

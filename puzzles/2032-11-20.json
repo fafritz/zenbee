@@ -1,9 +1,9 @@
 {
   "pangram": "haloing",
   "center_letter": "a",
-  "num_answers": 56,
+  "num_answers": 57,
   "num_pangrams": 2,
-  "possible_points": 277,
+  "possible_points": 285,
   "answer_pangrams": [
     "haloing",
     "hooligan"
@@ -18,16 +18,17 @@
     "aligning",
     "aloha",
     "along",
-    "anal",
     "analog",
     "angina",
     "angling",
     "anion",
     "anon",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gallon",
@@ -37,7 +38,6 @@
     "gangling",
     "ganglion",
     "goal",
-    "gonna",
     "haggling",
     "hail",
     "hailing",
@@ -56,6 +56,7 @@
     "lagging",
     "lagoon",
     "lain",
+    "lanai",
     "lanolin",
     "llano",
     "loan",
@@ -73,30 +74,29 @@
       "5": 11,
       "6": 6,
       "7": 14,
-      "8": 7
+      "8": 8
     },
     "by_first_letter": {
-      "A": 15,
-      "G": 14,
+      "A": 14,
+      "G": 15,
       "H": 14,
       "I": 1,
-      "L": 7,
+      "L": 8,
       "N": 5
     },
     "grid": {
       "A": {
-        "4": 4,
+        "4": 3,
         "5": 6,
         "6": 3,
         "7": 1,
         "8": 1
       },
       "G": {
-        "4": 5,
-        "5": 1,
+        "4": 6,
         "6": 1,
         "7": 5,
-        "8": 2
+        "8": 3
       },
       "H": {
         "4": 4,
@@ -110,7 +110,7 @@
       },
       "L": {
         "4": 2,
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 3
       },
@@ -123,13 +123,13 @@
       "AG": 3,
       "AI": 1,
       "AL": 5,
-      "AN": 6,
-      "GA": 12,
-      "GO": 2,
+      "AN": 5,
+      "GA": 14,
+      "GO": 1,
       "HA": 12,
       "HO": 2,
       "IN": 1,
-      "LA": 4,
+      "LA": 5,
       "LL": 1,
       "LO": 2,
       "NA": 5

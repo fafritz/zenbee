@@ -1,9 +1,9 @@
 {
   "pangram": "letdown",
   "center_letter": "l",
-  "num_answers": 58,
+  "num_answers": 60,
   "num_pangrams": 1,
-  "possible_points": 245,
+  "possible_points": 250,
   "answer_pangrams": [
     "letdown"
   ],
@@ -22,6 +22,9 @@
     "doweled",
     "dwell",
     "dwelt",
+    "eeled",
+    "elote",
+    "lede",
     "lend",
     "lent",
     "letdown",
@@ -48,7 +51,6 @@
     "oleo",
     "owlet",
     "tell",
-    "telnet",
     "toddle",
     "toddled",
     "told",
@@ -70,17 +72,18 @@
   "date": "2035-12-11",
   "hints": {
     "by_length": {
-      "4": 22,
-      "5": 10,
-      "6": 16,
+      "4": 23,
+      "5": 12,
+      "6": 15,
       "7": 10
     },
     "by_first_letter": {
       "D": 14,
-      "L": 14,
+      "E": 2,
+      "L": 15,
       "N": 8,
       "O": 3,
-      "T": 11,
+      "T": 10,
       "W": 8
     },
     "grid": {
@@ -90,8 +93,11 @@
         "6": 3,
         "7": 3
       },
+      "E": {
+        "5": 2
+      },
       "L": {
-        "4": 8,
+        "4": 9,
         "5": 2,
         "6": 2,
         "7": 2
@@ -109,7 +115,7 @@
       "T": {
         "4": 4,
         "5": 1,
-        "6": 4,
+        "6": 3,
         "7": 2
       },
       "W": {
@@ -121,13 +127,15 @@
       "DE": 3,
       "DO": 9,
       "DW": 2,
-      "LE": 4,
+      "EE": 1,
+      "EL": 1,
+      "LE": 5,
       "LO": 10,
       "NE": 5,
       "NO": 3,
       "OL": 2,
       "OW": 1,
-      "TE": 2,
+      "TE": 1,
       "TO": 9,
       "WE": 6,
       "WO": 2

@@ -1,9 +1,9 @@
 {
   "pangram": "majorly",
   "center_letter": "r",
-  "num_answers": 33,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 160,
+  "possible_points": 155,
   "answer_pangrams": [
     "majorly"
   ],
@@ -18,7 +18,6 @@
     "aroma",
     "array",
     "arroyo",
-    "lorry",
     "major",
     "majorly",
     "mammary",
@@ -46,14 +45,13 @@
   "hints": {
     "by_length": {
       "4": 8,
-      "5": 14,
+      "5": 13,
       "6": 4,
       "7": 5,
       "8": 2
     },
     "by_first_letter": {
       "A": 10,
-      "L": 1,
       "M": 12,
       "O": 2,
       "R": 8
@@ -64,9 +62,6 @@
         "5": 4,
         "6": 3,
         "8": 1
-      },
-      "L": {
-        "5": 1
       },
       "M": {
         "4": 1,
@@ -89,7 +84,6 @@
       "AL": 1,
       "AM": 2,
       "AR": 6,
-      "LO": 1,
       "MA": 7,
       "MO": 5,
       "OR": 2,

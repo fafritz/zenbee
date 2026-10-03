@@ -1,9 +1,9 @@
 {
   "pangram": "rocking",
   "center_letter": "r",
-  "num_answers": 41,
+  "num_answers": 45,
   "num_pangrams": 3,
-  "possible_points": 228,
+  "possible_points": 241,
   "answer_pangrams": [
     "corking",
     "crooking",
@@ -25,6 +25,7 @@
     "croon",
     "crooning",
     "gorging",
+    "gorgon",
     "goring",
     "grin",
     "grinning",
@@ -37,6 +38,8 @@
     "iron",
     "ironic",
     "ironing",
+    "noir",
+    "nori",
     "origin",
     "ricing",
     "rick",
@@ -49,24 +52,26 @@
     "rock",
     "rocking",
     "rococo",
+    "ronin",
     "rook",
     "rooking"
   ],
   "date": "2034-10-28",
   "hints": {
     "by_length": {
-      "4": 11,
-      "5": 7,
-      "6": 7,
+      "4": 13,
+      "5": 8,
+      "6": 8,
       "7": 9,
       "8": 7
     },
     "by_first_letter": {
       "C": 14,
-      "G": 8,
+      "G": 9,
       "I": 5,
+      "N": 2,
       "O": 1,
-      "R": 13
+      "R": 14
     },
     "grid": {
       "C": {
@@ -79,7 +84,7 @@
       "G": {
         "4": 3,
         "5": 1,
-        "6": 1,
+        "6": 2,
         "7": 1,
         "8": 2
       },
@@ -89,12 +94,15 @@
         "7": 1,
         "8": 1
       },
+      "N": {
+        "4": 2
+      },
       "O": {
         "6": 1
       },
       "R": {
         "4": 5,
-        "5": 1,
+        "5": 2,
         "6": 2,
         "7": 5
       }
@@ -103,13 +111,14 @@
       "CI": 1,
       "CO": 5,
       "CR": 8,
-      "GO": 2,
+      "GO": 3,
       "GR": 6,
       "IG": 1,
       "IR": 4,
+      "NO": 2,
       "OR": 1,
       "RI": 8,
-      "RO": 5
+      "RO": 6
     }
   }
 }

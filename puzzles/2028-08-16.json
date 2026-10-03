@@ -1,9 +1,9 @@
 {
   "pangram": "menthol",
   "center_letter": "h",
-  "num_answers": 24,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 93,
+  "possible_points": 94,
   "answer_pangrams": [
     "menthol"
   ],
@@ -15,6 +15,7 @@
     "helm",
     "helmet",
     "helot",
+    "heme",
     "hole",
     "home",
     "hone",
@@ -36,20 +37,20 @@
   "date": "2028-08-16",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 8,
       "6": 2,
       "7": 1,
       "8": 2
     },
     "by_first_letter": {
-      "H": 12,
+      "H": 13,
       "M": 3,
       "T": 9
     },
     "grid": {
       "H": {
-        "4": 7,
+        "4": 8,
         "5": 3,
         "6": 1,
         "8": 1
@@ -67,7 +68,7 @@
       }
     },
     "two_letter_list": {
-      "HE": 7,
+      "HE": 8,
       "HO": 5,
       "ME": 1,
       "MO": 2,

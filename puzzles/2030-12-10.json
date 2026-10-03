@@ -1,9 +1,9 @@
 {
   "pangram": "vaulted",
   "center_letter": "v",
-  "num_answers": 32,
+  "num_answers": 33,
   "num_pangrams": 2,
-  "possible_points": 189,
+  "possible_points": 190,
   "answer_pangrams": [
     "evaluated",
     "vaulted"
@@ -21,6 +21,7 @@
     "evaluate",
     "evaluated",
     "lava",
+    "lave",
     "leave",
     "leaved",
     "levee",
@@ -45,7 +46,7 @@
   "date": "2030-12-10",
   "hints": {
     "by_length": {
-      "4": 4,
+      "4": 5,
       "5": 11,
       "6": 8,
       "7": 5,
@@ -55,7 +56,7 @@
     "by_first_letter": {
       "D": 5,
       "E": 6,
-      "L": 6,
+      "L": 7,
       "U": 1,
       "V": 14
     },
@@ -74,7 +75,7 @@
         "9": 1
       },
       "L": {
-        "4": 1,
+        "4": 2,
         "5": 3,
         "6": 1,
         "7": 1
@@ -94,7 +95,7 @@
       "DU": 1,
       "EL": 2,
       "EV": 4,
-      "LA": 1,
+      "LA": 2,
       "LE": 5,
       "UV": 1,
       "VA": 10,

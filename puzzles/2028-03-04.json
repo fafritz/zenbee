@@ -1,9 +1,9 @@
 {
   "pangram": "lofting",
   "center_letter": "o",
-  "num_answers": 72,
+  "num_answers": 76,
   "num_pangrams": 1,
-  "possible_points": 332,
+  "possible_points": 357,
   "answer_pangrams": [
     "lofting"
   ],
@@ -56,6 +56,7 @@
     "lotion",
     "lotto",
     "noggin",
+    "nonillion",
     "noon",
     "noting",
     "notion",
@@ -72,23 +73,27 @@
     "toiling",
     "toll",
     "tolling",
+    "tong",
+    "tonging",
     "toning",
     "tool",
     "tooling",
     "toon",
     "toot",
     "tooting",
+    "tootling",
     "toting",
     "totting"
   ],
   "date": "2028-03-04",
   "hints": {
     "by_length": {
-      "4": 27,
+      "4": 28,
       "5": 8,
       "6": 10,
-      "7": 20,
-      "8": 6,
+      "7": 21,
+      "8": 7,
+      "9": 1,
       "10": 1
     },
     "by_first_letter": {
@@ -96,9 +101,9 @@
       "G": 11,
       "I": 6,
       "L": 18,
-      "N": 4,
+      "N": 5,
       "O": 7,
-      "T": 14
+      "T": 17
     },
     "grid": {
       "F": {
@@ -128,7 +133,8 @@
       },
       "N": {
         "4": 1,
-        "6": 3
+        "6": 3,
+        "9": 1
       },
       "O": {
         "4": 2,
@@ -137,10 +143,10 @@
         "7": 1
       },
       "T": {
-        "4": 5,
+        "4": 6,
         "6": 2,
-        "7": 6,
-        "8": 1
+        "7": 7,
+        "8": 2
       }
     },
     "two_letter_list": {
@@ -152,14 +158,14 @@
       "IN": 4,
       "LI": 3,
       "LO": 15,
-      "NO": 4,
+      "NO": 5,
       "OF": 1,
       "OG": 1,
       "OI": 1,
       "OL": 1,
       "ON": 3,
       "TI": 1,
-      "TO": 13
+      "TO": 16
     }
   }
 }

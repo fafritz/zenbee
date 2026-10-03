@@ -1,9 +1,9 @@
 {
   "pangram": "nomadic",
   "center_letter": "d",
-  "num_answers": 32,
+  "num_answers": 33,
   "num_pangrams": 1,
-  "possible_points": 152,
+  "possible_points": 161,
   "answer_pangrams": [
     "nomadic"
   ],
@@ -32,6 +32,7 @@
     "doom",
     "idiom",
     "macadam",
+    "macadamia",
     "madam",
     "madman",
     "maid",
@@ -48,14 +49,15 @@
       "5": 7,
       "6": 8,
       "7": 4,
-      "8": 3
+      "8": 3,
+      "9": 1
     },
     "by_first_letter": {
       "A": 6,
       "C": 7,
       "D": 9,
       "I": 1,
-      "M": 6,
+      "M": 7,
       "N": 3
     },
     "grid": {
@@ -85,7 +87,8 @@
         "4": 3,
         "5": 1,
         "6": 1,
-        "7": 1
+        "7": 1,
+        "9": 1
       },
       "N": {
         "5": 2,
@@ -104,7 +107,7 @@
       "DI": 1,
       "DO": 6,
       "ID": 1,
-      "MA": 4,
+      "MA": 5,
       "MI": 1,
       "MO": 1,
       "NA": 1,

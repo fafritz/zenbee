@@ -1,9 +1,9 @@
 {
   "pangram": "hoaxing",
   "center_letter": "o",
-  "num_answers": 18,
+  "num_answers": 17,
   "num_pangrams": 1,
-  "possible_points": 79,
+  "possible_points": 74,
   "answer_pangrams": [
     "hoaxing"
   ],
@@ -15,7 +15,6 @@
     "going",
     "gong",
     "gonging",
-    "gonna",
     "goon",
     "hoax",
     "hoaxing",
@@ -31,13 +30,13 @@
   "hints": {
     "by_length": {
       "4": 7,
-      "5": 5,
+      "5": 4,
       "6": 2,
       "7": 4
     },
     "by_first_letter": {
       "A": 4,
-      "G": 5,
+      "G": 4,
       "H": 5,
       "N": 2,
       "O": 2
@@ -49,7 +48,7 @@
       },
       "G": {
         "4": 2,
-        "5": 2,
+        "5": 1,
         "7": 1
       },
       "H": {
@@ -71,7 +70,7 @@
       "AG": 1,
       "AN": 2,
       "AX": 1,
-      "GO": 5,
+      "GO": 4,
       "HO": 5,
       "NO": 2,
       "ON": 2

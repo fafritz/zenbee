@@ -1,17 +1,20 @@
 {
   "pangram": "wakeful",
   "center_letter": "e",
-  "num_answers": 26,
+  "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 62,
+  "possible_points": 80,
   "answer_pangrams": [
     "wakeful"
   ],
   "answers": [
+    "allele",
     "awake",
     "fake",
+    "falafel",
     "feel",
     "fell",
+    "fella",
     "flake",
     "flea",
     "flee",
@@ -39,13 +42,13 @@
   "hints": {
     "by_length": {
       "4": 20,
-      "5": 3,
-      "6": 1,
-      "7": 2
+      "5": 4,
+      "6": 2,
+      "7": 3
     },
     "by_first_letter": {
-      "A": 1,
-      "F": 10,
+      "A": 2,
+      "F": 12,
       "K": 2,
       "L": 4,
       "U": 1,
@@ -53,11 +56,13 @@
     },
     "grid": {
       "A": {
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "F": {
         "4": 8,
-        "5": 2
+        "5": 3,
+        "7": 1
       },
       "K": {
         "4": 2
@@ -75,9 +80,10 @@
       }
     },
     "two_letter_list": {
+      "AL": 1,
       "AW": 1,
-      "FA": 1,
-      "FE": 2,
+      "FA": 2,
+      "FE": 3,
       "FL": 6,
       "FU": 1,
       "KA": 1,

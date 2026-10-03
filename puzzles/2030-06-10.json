@@ -1,9 +1,9 @@
 {
   "pangram": "tackled",
   "center_letter": "d",
-  "num_answers": 57,
+  "num_answers": 61,
   "num_pangrams": 1,
-  "possible_points": 283,
+  "possible_points": 302,
   "answer_pangrams": [
     "tackled"
   ],
@@ -25,6 +25,7 @@
     "catted",
     "cede",
     "ceded",
+    "celled",
     "clacked",
     "clad",
     "dale",
@@ -34,6 +35,7 @@
     "dead",
     "deal",
     "dealt",
+    "decadal",
     "decade",
     "decal",
     "deck",
@@ -47,6 +49,7 @@
     "delta",
     "detect",
     "detected",
+    "eeled",
     "eked",
     "elated",
     "elected",
@@ -59,6 +62,7 @@
     "lead",
     "leaded",
     "leaked",
+    "lede",
     "tacked",
     "tackled",
     "talked",
@@ -69,20 +73,20 @@
   "date": "2030-06-10",
   "hints": {
     "by_length": {
-      "4": 14,
-      "5": 12,
-      "6": 20,
-      "7": 7,
+      "4": 15,
+      "5": 13,
+      "6": 21,
+      "7": 8,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
       "A": 8,
-      "C": 11,
-      "D": 20,
-      "E": 3,
+      "C": 12,
+      "D": 21,
+      "E": 4,
       "K": 1,
-      "L": 8,
+      "L": 9,
       "T": 6
     },
     "grid": {
@@ -96,7 +100,7 @@
       "C": {
         "4": 2,
         "5": 3,
-        "6": 3,
+        "6": 4,
         "7": 2,
         "9": 1
       },
@@ -104,11 +108,12 @@
         "4": 8,
         "5": 4,
         "6": 6,
-        "7": 1,
+        "7": 2,
         "8": 1
       },
       "E": {
         "4": 1,
+        "5": 1,
         "6": 1,
         "7": 1
       },
@@ -116,7 +121,7 @@
         "6": 1
       },
       "L": {
-        "4": 1,
+        "4": 2,
         "5": 2,
         "6": 4,
         "8": 1
@@ -132,15 +137,16 @@
       "AD": 3,
       "AT": 1,
       "CA": 7,
-      "CE": 2,
+      "CE": 3,
       "CL": 2,
       "DA": 4,
-      "DE": 16,
+      "DE": 17,
+      "EE": 1,
       "EK": 1,
       "EL": 2,
       "KE": 1,
       "LA": 5,
-      "LE": 3,
+      "LE": 4,
       "TA": 5,
       "TE": 1
     }

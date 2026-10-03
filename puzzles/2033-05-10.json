@@ -1,9 +1,9 @@
 {
   "pangram": "balking",
   "center_letter": "n",
-  "num_answers": 74,
+  "num_answers": 78,
   "num_pangrams": 2,
-  "possible_points": 426,
+  "possible_points": 457,
   "answer_pangrams": [
     "balking",
     "blanking"
@@ -16,7 +16,6 @@
     "alibiing",
     "align",
     "aligning",
-    "anal",
     "angina",
     "angling",
     "baaing",
@@ -38,6 +37,7 @@
     "bikini",
     "bilking",
     "billing",
+    "binging",
     "binning",
     "blabbing",
     "blank",
@@ -50,6 +50,7 @@
     "gagging",
     "gain",
     "gaining",
+    "galangal",
     "galling",
     "gang",
     "ganging",
@@ -62,6 +63,7 @@
     "inking",
     "inkling",
     "inning",
+    "kanban",
     "killing",
     "kiln",
     "kilning",
@@ -70,7 +72,9 @@
     "kinking",
     "lagging",
     "lain",
+    "lanai",
     "lank",
+    "lignin",
     "liking",
     "lining",
     "link",
@@ -87,24 +91,24 @@
   "date": "2033-05-10",
   "hints": {
     "by_length": {
-      "4": 15,
-      "5": 7,
-      "6": 13,
-      "7": 28,
-      "8": 11
+      "4": 14,
+      "5": 8,
+      "6": 15,
+      "7": 29,
+      "8": 12
     },
     "by_first_letter": {
-      "A": 10,
-      "B": 26,
-      "G": 14,
+      "A": 9,
+      "B": 27,
+      "G": 15,
       "I": 3,
-      "K": 6,
-      "L": 7,
+      "K": 7,
+      "L": 9,
       "N": 8
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 3,
         "6": 2,
         "7": 1,
@@ -114,14 +118,14 @@
         "4": 2,
         "5": 4,
         "6": 6,
-        "7": 10,
+        "7": 11,
         "8": 4
       },
       "G": {
         "4": 2,
         "6": 1,
         "7": 8,
-        "8": 3
+        "8": 4
       },
       "I": {
         "6": 2,
@@ -129,11 +133,13 @@
       },
       "K": {
         "4": 3,
+        "6": 1,
         "7": 3
       },
       "L": {
         "4": 3,
-        "6": 2,
+        "5": 1,
+        "6": 3,
         "7": 2
       },
       "N": {
@@ -147,16 +153,17 @@
       "AI": 1,
       "AK": 1,
       "AL": 3,
-      "AN": 3,
+      "AN": 2,
       "BA": 15,
-      "BI": 5,
+      "BI": 6,
       "BL": 6,
-      "GA": 10,
+      "GA": 11,
       "GI": 4,
       "IN": 3,
+      "KA": 1,
       "KI": 6,
-      "LA": 3,
-      "LI": 4,
+      "LA": 4,
+      "LI": 5,
       "NA": 6,
       "NI": 2
     }

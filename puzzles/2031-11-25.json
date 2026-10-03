@@ -1,9 +1,9 @@
 {
   "pangram": "barking",
   "center_letter": "k",
-  "num_answers": 19,
+  "num_answers": 20,
   "num_pangrams": 2,
-  "possible_points": 97,
+  "possible_points": 103,
   "answer_pangrams": [
     "barking",
     "braking"
@@ -21,6 +21,7 @@
     "brink",
     "inking",
     "irking",
+    "kanban",
     "king",
     "kink",
     "kinking",
@@ -34,14 +35,14 @@
     "by_length": {
       "4": 7,
       "5": 1,
-      "6": 6,
+      "6": 7,
       "7": 5
     },
     "by_first_letter": {
       "A": 1,
       "B": 9,
       "I": 2,
-      "K": 3,
+      "K": 4,
       "R": 4
     },
     "grid": {
@@ -59,6 +60,7 @@
       },
       "K": {
         "4": 2,
+        "6": 1,
         "7": 1
       },
       "R": {
@@ -74,6 +76,7 @@
       "BR": 2,
       "IN": 1,
       "IR": 1,
+      "KA": 1,
       "KI": 3,
       "RA": 3,
       "RI": 1

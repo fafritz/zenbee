@@ -1,15 +1,16 @@
 {
   "pangram": "acolyte",
   "center_letter": "e",
-  "num_answers": 40,
+  "num_answers": 42,
   "num_pangrams": 1,
-  "possible_points": 202,
+  "possible_points": 213,
   "answer_pangrams": [
     "acolyte"
   ],
   "answers": [
     "acetate",
     "acolyte",
+    "allele",
     "alley",
     "allocate",
     "aloe",
@@ -27,6 +28,7 @@
     "eclat",
     "elate",
     "elect",
+    "elote",
     "eyelet",
     "lace",
     "lactate",
@@ -53,17 +55,17 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 9,
-      "6": 9,
+      "5": 10,
+      "6": 10,
       "7": 6,
       "8": 3,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 6,
       "C": 11,
-      "E": 4,
+      "E": 5,
       "L": 8,
       "O": 3,
       "T": 8,
@@ -73,6 +75,7 @@
       "A": {
         "4": 1,
         "5": 1,
+        "6": 1,
         "7": 2,
         "8": 1
       },
@@ -84,7 +87,7 @@
         "9": 1
       },
       "E": {
-        "5": 3,
+        "5": 4,
         "6": 1
       },
       "L": {
@@ -110,14 +113,14 @@
     },
     "two_letter_list": {
       "AC": 2,
-      "AL": 3,
+      "AL": 4,
       "CA": 1,
       "CE": 2,
       "CL": 2,
       "CO": 5,
       "CY": 1,
       "EC": 1,
-      "EL": 2,
+      "EL": 3,
       "EY": 1,
       "LA": 6,
       "LO": 2,

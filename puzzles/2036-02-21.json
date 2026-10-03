@@ -1,9 +1,9 @@
 {
   "pangram": "pluming",
   "center_letter": "u",
-  "num_answers": 50,
+  "num_answers": 51,
   "num_pangrams": 3,
-  "possible_points": 285,
+  "possible_points": 290,
   "answer_pangrams": [
     "lumping",
     "pluming",
@@ -21,7 +21,9 @@
     "illumining",
     "impugn",
     "impugning",
+    "inulin",
     "lugging",
+    "luging",
     "lull",
     "lulling",
     "lulu",
@@ -33,7 +35,6 @@
     "mugging",
     "mull",
     "mulling",
-    "munging",
     "muumuu",
     "null",
     "pinup",
@@ -66,17 +67,17 @@
     "by_length": {
       "4": 14,
       "5": 4,
-      "6": 7,
-      "7": 18,
+      "6": 9,
+      "7": 17,
       "8": 3,
       "9": 2,
       "10": 2
     },
     "by_first_letter": {
       "G": 8,
-      "I": 3,
-      "L": 8,
-      "M": 6,
+      "I": 4,
+      "L": 9,
+      "M": 5,
       "N": 1,
       "P": 18,
       "U": 6
@@ -88,18 +89,19 @@
         "7": 4
       },
       "I": {
-        "6": 1,
+        "6": 2,
         "9": 1,
         "10": 1
       },
       "L": {
         "4": 4,
+        "6": 1,
         "7": 4
       },
       "M": {
         "4": 1,
         "6": 1,
-        "7": 4
+        "7": 3
       },
       "N": {
         "4": 1
@@ -123,9 +125,10 @@
       "GU": 6,
       "IL": 1,
       "IM": 2,
-      "LU": 8,
+      "IN": 1,
+      "LU": 9,
       "MI": 1,
-      "MU": 5,
+      "MU": 4,
       "NU": 1,
       "PI": 1,
       "PL": 8,

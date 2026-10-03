@@ -1,9 +1,9 @@
 {
   "pangram": "lexicon",
   "center_letter": "c",
-  "num_answers": 32,
+  "num_answers": 34,
   "num_pangrams": 1,
-  "possible_points": 140,
+  "possible_points": 153,
   "answer_pangrams": [
     "lexicon"
   ],
@@ -23,14 +23,16 @@
     "cone",
     "conic",
     "cool",
-    "coolie",
     "excel",
     "excellence",
     "exec",
     "icicle",
     "icon",
+    "iconic",
     "incline",
     "innocence",
+    "ionic",
+    "lenience",
     "lexicon",
     "lice",
     "loci",
@@ -45,17 +47,18 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 9,
+      "5": 10,
       "6": 6,
       "7": 3,
+      "8": 1,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "C": 16,
+      "C": 15,
       "E": 3,
-      "I": 4,
-      "L": 4,
+      "I": 6,
+      "L": 5,
       "N": 4,
       "O": 1
     },
@@ -63,7 +66,7 @@
       "C": {
         "4": 5,
         "5": 6,
-        "6": 4,
+        "6": 3,
         "7": 1
       },
       "E": {
@@ -73,13 +76,15 @@
       },
       "I": {
         "4": 1,
-        "6": 1,
+        "5": 1,
+        "6": 2,
         "7": 1,
         "9": 1
       },
       "L": {
         "4": 3,
-        "7": 1
+        "7": 1,
+        "8": 1
       },
       "N": {
         "4": 1,
@@ -93,11 +98,12 @@
     "two_letter_list": {
       "CE": 2,
       "CL": 2,
-      "CO": 12,
+      "CO": 11,
       "EX": 3,
-      "IC": 2,
+      "IC": 3,
       "IN": 2,
-      "LE": 1,
+      "IO": 1,
+      "LE": 2,
       "LI": 1,
       "LO": 2,
       "NE": 1,

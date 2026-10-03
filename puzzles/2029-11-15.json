@@ -3,7 +3,7 @@
   "center_letter": "l",
   "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 138,
+  "possible_points": 143,
   "answer_pangrams": [
     "lexicon"
   ],
@@ -18,13 +18,13 @@
     "colon",
     "colonel",
     "cool",
-    "coolie",
     "excel",
     "excellence",
     "exile",
     "icicle",
     "incline",
     "inline",
+    "lenience",
     "leonine",
     "lexicon",
     "lice",
@@ -38,8 +38,8 @@
     "loll",
     "lone",
     "loon",
-    "loonie",
     "noel",
+    "nonillion",
     "oleo",
     "olio",
     "online"
@@ -49,23 +49,25 @@
     "by_length": {
       "4": 16,
       "5": 7,
-      "6": 7,
+      "6": 5,
       "7": 4,
+      "8": 1,
+      "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "C": 11,
+      "C": 10,
       "E": 3,
       "I": 3,
       "L": 14,
-      "N": 1,
+      "N": 2,
       "O": 3
     },
     "grid": {
       "C": {
         "4": 3,
         "5": 4,
-        "6": 3,
+        "6": 2,
         "7": 1
       },
       "E": {
@@ -79,11 +81,12 @@
       "L": {
         "4": 10,
         "5": 1,
-        "6": 1,
-        "7": 2
+        "7": 2,
+        "8": 1
       },
       "N": {
-        "4": 1
+        "4": 1,
+        "9": 1
       },
       "O": {
         "4": 2,
@@ -93,14 +96,14 @@
     "two_letter_list": {
       "CE": 2,
       "CL": 2,
-      "CO": 7,
+      "CO": 6,
       "EX": 3,
       "IC": 1,
       "IN": 2,
-      "LE": 2,
+      "LE": 3,
       "LI": 5,
-      "LO": 7,
-      "NO": 1,
+      "LO": 6,
+      "NO": 2,
       "OL": 2,
       "ON": 1
     }

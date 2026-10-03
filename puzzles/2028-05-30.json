@@ -1,9 +1,9 @@
 {
   "pangram": "climbed",
   "center_letter": "c",
-  "num_answers": 22,
+  "num_answers": 24,
   "num_pangrams": 1,
-  "possible_points": 107,
+  "possible_points": 119,
   "answer_pangrams": [
     "climbed"
   ],
@@ -11,12 +11,14 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "climb",
     "climbed",
     "clime",
     "decibel",
     "decide",
     "decided",
+    "decile",
     "deice",
     "deiced",
     "dice",
@@ -36,13 +38,13 @@
     "by_length": {
       "4": 6,
       "5": 8,
-      "6": 4,
+      "6": 6,
       "7": 3,
       "9": 1
     },
     "by_first_letter": {
-      "C": 6,
-      "D": 7,
+      "C": 7,
+      "D": 8,
       "E": 2,
       "I": 3,
       "L": 1,
@@ -52,12 +54,13 @@
       "C": {
         "4": 2,
         "5": 3,
+        "6": 1,
         "7": 1
       },
       "D": {
         "4": 1,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 2
       },
       "E": {
@@ -78,9 +81,9 @@
       }
     },
     "two_letter_list": {
-      "CE": 3,
+      "CE": 4,
       "CL": 3,
-      "DE": 5,
+      "DE": 6,
       "DI": 2,
       "EM": 2,
       "IC": 2,

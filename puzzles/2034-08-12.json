@@ -1,9 +1,9 @@
 {
   "pangram": "flunked",
   "center_letter": "f",
-  "num_answers": 34,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 155,
+  "possible_points": 156,
   "answer_pangrams": [
     "flunked"
   ],
@@ -40,13 +40,14 @@
     "funked",
     "funnel",
     "funneled",
+    "luff",
     "needful",
     "undefended"
   ],
   "date": "2034-08-12",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 14,
       "5": 3,
       "6": 11,
       "7": 4,
@@ -56,6 +57,7 @@
     "by_first_letter": {
       "D": 3,
       "F": 29,
+      "L": 1,
       "N": 1,
       "U": 1
     },
@@ -72,6 +74,9 @@
         "7": 3,
         "8": 1
       },
+      "L": {
+        "4": 1
+      },
       "N": {
         "7": 1
       },
@@ -85,6 +90,7 @@
       "FE": 9,
       "FL": 8,
       "FU": 12,
+      "LU": 1,
       "NE": 1,
       "UN": 1
     }

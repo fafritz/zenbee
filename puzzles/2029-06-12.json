@@ -1,9 +1,9 @@
 {
   "pangram": "clouted",
   "center_letter": "o",
-  "num_answers": 73,
+  "num_answers": 74,
   "num_pangrams": 1,
-  "possible_points": 312,
+  "possible_points": 317,
   "answer_pangrams": [
     "clouted"
   ],
@@ -48,6 +48,7 @@
     "dote",
     "doted",
     "dotted",
+    "elote",
     "loco",
     "lode",
     "loll",
@@ -86,7 +87,7 @@
   "hints": {
     "by_length": {
       "4": 28,
-      "5": 13,
+      "5": 14,
       "6": 18,
       "7": 10,
       "8": 2,
@@ -95,6 +96,7 @@
     "by_first_letter": {
       "C": 26,
       "D": 14,
+      "E": 1,
       "L": 9,
       "O": 9,
       "T": 15
@@ -114,6 +116,9 @@
         "6": 4,
         "7": 2,
         "9": 1
+      },
+      "E": {
+        "5": 1
       },
       "L": {
         "4": 6,
@@ -141,6 +146,7 @@
       "CU": 1,
       "DE": 3,
       "DO": 11,
+      "EL": 1,
       "LO": 9,
       "OC": 5,
       "OL": 1,

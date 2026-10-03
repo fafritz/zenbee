@@ -1,9 +1,9 @@
 {
   "pangram": "larking",
   "center_letter": "n",
-  "num_answers": 74,
+  "num_answers": 80,
   "num_pangrams": 2,
-  "possible_points": 412,
+  "possible_points": 460,
   "answer_pangrams": [
     "larking",
     "rankling"
@@ -17,7 +17,6 @@
     "akin",
     "align",
     "aligning",
-    "anal",
     "angina",
     "angling",
     "arraign",
@@ -26,6 +25,7 @@
     "gagging",
     "gain",
     "gaining",
+    "galangal",
     "galling",
     "gang",
     "ganging",
@@ -37,10 +37,14 @@
     "giggling",
     "ginning",
     "glaring",
+    "gnarl",
+    "gnarling",
     "grain",
     "grilling",
     "grin",
     "grinning",
+    "ingrain",
+    "ingraining",
     "inking",
     "inkling",
     "inning",
@@ -53,8 +57,10 @@
     "kinking",
     "lagging",
     "lain",
+    "lanai",
     "lank",
     "larking",
+    "lignin",
     "liking",
     "lining",
     "link",
@@ -87,26 +93,26 @@
   "date": "2029-06-11",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 4,
-      "6": 13,
-      "7": 26,
-      "8": 10,
+      "4": 18,
+      "5": 6,
+      "6": 14,
+      "7": 27,
+      "8": 12,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
-      "A": 14,
-      "G": 18,
-      "I": 4,
+      "A": 13,
+      "G": 21,
+      "I": 6,
       "K": 6,
-      "L": 8,
+      "L": 10,
       "N": 6,
       "R": 18
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 3,
         "6": 3,
         "7": 2,
@@ -116,13 +122,14 @@
       },
       "G": {
         "4": 3,
-        "5": 1,
+        "5": 2,
         "7": 8,
-        "8": 6
+        "8": 8
       },
       "I": {
         "6": 3,
-        "7": 1
+        "7": 2,
+        "10": 1
       },
       "K": {
         "4": 3,
@@ -130,7 +137,8 @@
       },
       "L": {
         "4": 3,
-        "6": 2,
+        "5": 1,
+        "6": 3,
         "7": 3
       },
       "N": {
@@ -150,17 +158,18 @@
       "AI": 2,
       "AK": 1,
       "AL": 2,
-      "AN": 3,
+      "AN": 2,
       "AR": 3,
-      "GA": 10,
+      "GA": 11,
       "GI": 3,
       "GL": 1,
+      "GN": 2,
       "GR": 4,
-      "IN": 3,
+      "IN": 5,
       "IR": 1,
       "KI": 6,
-      "LA": 4,
-      "LI": 4,
+      "LA": 5,
+      "LI": 5,
       "NA": 5,
       "NI": 1,
       "RA": 13,

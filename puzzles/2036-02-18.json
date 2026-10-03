@@ -1,13 +1,14 @@
 {
   "pangram": "puritan",
   "center_letter": "a",
-  "num_answers": 46,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 171,
+  "possible_points": 191,
   "answer_pangrams": [
     "puritan"
   ],
   "answers": [
+    "annuitant",
     "anti",
     "apart",
     "aria",
@@ -25,22 +26,25 @@
     "pain",
     "paint",
     "pair",
+    "panini",
     "pant",
     "papa",
     "part",
     "patina",
+    "pinna",
     "pita",
     "pupa",
     "puritan",
     "rain",
     "rant",
     "rapt",
-    "ratatat",
     "rattan",
     "rattrap",
     "taint",
     "tannin",
+    "tantra",
     "tapir",
+    "tarn",
     "tarp",
     "tart",
     "tartan",
@@ -58,25 +62,27 @@
   "date": "2036-02-18",
   "hints": {
     "by_length": {
-      "4": 21,
-      "5": 12,
-      "6": 9,
-      "7": 3,
-      "8": 1
+      "4": 22,
+      "5": 13,
+      "6": 11,
+      "7": 2,
+      "8": 1,
+      "9": 1
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 10,
       "I": 2,
       "N": 3,
-      "P": 10,
-      "R": 6,
-      "T": 16
+      "P": 12,
+      "R": 5,
+      "T": 18
     },
     "grid": {
       "A": {
         "4": 4,
         "5": 3,
-        "6": 2
+        "6": 2,
+        "9": 1
       },
       "I": {
         "5": 1,
@@ -88,23 +94,23 @@
       },
       "P": {
         "4": 7,
-        "5": 1,
-        "6": 1,
+        "5": 2,
+        "6": 2,
         "7": 1
       },
       "R": {
         "4": 3,
         "6": 1,
-        "7": 2
+        "7": 1
       },
       "T": {
-        "4": 5,
+        "4": 6,
         "5": 7,
-        "6": 4
+        "6": 5
       }
     },
     "two_letter_list": {
-      "AN": 1,
+      "AN": 2,
       "AP": 1,
       "AR": 2,
       "AT": 3,
@@ -113,11 +119,11 @@
       "IR": 1,
       "NA": 2,
       "NU": 1,
-      "PA": 7,
-      "PI": 1,
+      "PA": 8,
+      "PI": 2,
       "PU": 2,
-      "RA": 6,
-      "TA": 9,
+      "RA": 5,
+      "TA": 11,
       "TI": 2,
       "TR": 4,
       "TU": 1

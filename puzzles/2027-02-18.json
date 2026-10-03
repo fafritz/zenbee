@@ -1,9 +1,9 @@
 {
   "pangram": "varying",
   "center_letter": "n",
-  "num_answers": 57,
+  "num_answers": 60,
   "num_pangrams": 1,
-  "possible_points": 321,
+  "possible_points": 339,
   "answer_pangrams": [
     "varying"
   ],
@@ -37,6 +37,8 @@
     "graying",
     "grin",
     "grinning",
+    "ingrain",
+    "ingraining",
     "inning",
     "naan",
     "nagging",
@@ -64,27 +66,28 @@
     "varying",
     "virgin",
     "vying",
+    "yang",
     "yarn"
   ],
   "date": "2027-02-18",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 10,
       "6": 10,
-      "7": 18,
+      "7": 19,
       "8": 6,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 12,
       "G": 17,
-      "I": 1,
+      "I": 3,
       "N": 7,
       "R": 14,
       "V": 5,
-      "Y": 1
+      "Y": 2
     },
     "grid": {
       "A": {
@@ -103,7 +106,9 @@
         "8": 2
       },
       "I": {
-        "6": 1
+        "6": 1,
+        "7": 1,
+        "10": 1
       },
       "N": {
         "4": 3,
@@ -124,7 +129,7 @@
         "7": 2
       },
       "Y": {
-        "4": 1
+        "4": 2
       }
     },
     "two_letter_list": {
@@ -136,7 +141,7 @@
       "GA": 6,
       "GI": 3,
       "GR": 8,
-      "IN": 1,
+      "IN": 3,
       "NA": 5,
       "NI": 2,
       "RA": 11,
@@ -144,7 +149,7 @@
       "VA": 3,
       "VI": 1,
       "VY": 1,
-      "YA": 1
+      "YA": 2
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "pangram": "lording",
   "center_letter": "o",
-  "num_answers": 72,
+  "num_answers": 76,
   "num_pangrams": 2,
-  "possible_points": 358,
+  "possible_points": 371,
   "answer_pangrams": [
     "drooling",
     "lording"
@@ -13,7 +13,6 @@
     "dodging",
     "dodo",
     "dogging",
-    "doggoning",
     "doing",
     "doling",
     "doll",
@@ -37,6 +36,7 @@
     "googling",
     "goon",
     "gorging",
+    "gorgon",
     "goring",
     "gridiron",
     "grog",
@@ -65,9 +65,12 @@
     "lording",
     "nodding",
     "noggin",
+    "noir",
+    "nonillion",
     "nonrigid",
     "noodling",
     "noon",
+    "nori",
     "odor",
     "ogling",
     "oiling",
@@ -80,27 +83,28 @@
     "roiling",
     "roll",
     "rolling",
+    "ronin",
     "rood"
   ],
   "date": "2038-09-01",
   "hints": {
     "by_length": {
-      "4": 23,
-      "5": 13,
-      "6": 9,
+      "4": 25,
+      "5": 14,
+      "6": 10,
       "7": 17,
       "8": 8,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "D": 18,
-      "G": 14,
+      "D": 17,
+      "G": 15,
       "I": 7,
       "L": 15,
-      "N": 5,
+      "N": 8,
       "O": 7,
-      "R": 6
+      "R": 7
     },
     "grid": {
       "D": {
@@ -108,13 +112,12 @@
         "5": 6,
         "6": 1,
         "7": 5,
-        "8": 2,
-        "9": 1
+        "8": 2
       },
       "G": {
         "4": 5,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 2,
         "8": 3
       },
@@ -132,10 +135,11 @@
         "10": 1
       },
       "N": {
-        "4": 1,
+        "4": 3,
         "6": 1,
         "7": 1,
-        "8": 2
+        "8": 2,
+        "9": 1
       },
       "O": {
         "4": 2,
@@ -145,16 +149,16 @@
       },
       "R": {
         "4": 3,
-        "5": 1,
+        "5": 2,
         "7": 2
       }
     },
     "two_letter_list": {
       "DI": 1,
-      "DO": 12,
+      "DO": 11,
       "DR": 5,
       "GI": 1,
-      "GO": 10,
+      "GO": 11,
       "GR": 3,
       "ID": 1,
       "IG": 2,
@@ -162,7 +166,7 @@
       "IR": 2,
       "LI": 2,
       "LO": 13,
-      "NO": 5,
+      "NO": 8,
       "OD": 1,
       "OG": 1,
       "OI": 1,
@@ -170,7 +174,7 @@
       "ON": 2,
       "OR": 1,
       "RI": 1,
-      "RO": 5
+      "RO": 6
     }
   }
 }

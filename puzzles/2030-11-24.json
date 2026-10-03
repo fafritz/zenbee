@@ -3,7 +3,7 @@
   "center_letter": "p",
   "num_answers": 81,
   "num_pangrams": 4,
-  "possible_points": 438,
+  "possible_points": 442,
   "answer_pangrams": [
     "optioned",
     "petitioned",
@@ -24,7 +24,6 @@
     "epee",
     "independent",
     "inept",
-    "ipod",
     "nipped",
     "nope",
     "open",
@@ -43,6 +42,7 @@
     "peeped",
     "pendent",
     "penitent",
+    "penne",
     "penned",
     "pennon",
     "pent",
@@ -96,8 +96,8 @@
   "date": "2030-11-24",
   "hints": {
     "by_length": {
-      "4": 20,
-      "5": 13,
+      "4": 19,
+      "5": 14,
       "6": 31,
       "7": 5,
       "8": 8,
@@ -108,10 +108,10 @@
     "by_first_letter": {
       "D": 10,
       "E": 1,
-      "I": 3,
+      "I": 2,
       "N": 2,
       "O": 10,
-      "P": 48,
+      "P": 49,
       "T": 7
     },
     "grid": {
@@ -126,7 +126,6 @@
         "4": 1
       },
       "I": {
-        "4": 1,
         "5": 1,
         "11": 1
       },
@@ -143,7 +142,7 @@
       },
       "P": {
         "4": 14,
-        "5": 6,
+        "5": 7,
         "6": 19,
         "7": 3,
         "8": 4,
@@ -161,11 +160,10 @@
       "DO": 2,
       "EP": 1,
       "IN": 2,
-      "IP": 1,
       "NI": 1,
       "NO": 1,
       "OP": 10,
-      "PE": 15,
+      "PE": 16,
       "PI": 18,
       "PO": 15,
       "TE": 2,

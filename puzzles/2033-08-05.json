@@ -1,9 +1,9 @@
 {
   "pangram": "heading",
   "center_letter": "h",
-  "num_answers": 36,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 180,
+  "possible_points": 179,
   "answer_pangrams": [
     "heading"
   ],
@@ -36,7 +36,6 @@
     "hieing",
     "high",
     "hind",
-    "hing",
     "hinge",
     "hinged",
     "hinging",
@@ -48,7 +47,7 @@
   "date": "2033-08-05",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 9,
       "5": 6,
       "6": 9,
       "7": 9,
@@ -57,7 +56,7 @@
     "by_first_letter": {
       "A": 1,
       "E": 1,
-      "H": 30,
+      "H": 29,
       "N": 4
     },
     "grid": {
@@ -68,7 +67,7 @@
         "7": 1
       },
       "H": {
-        "4": 9,
+        "4": 8,
         "5": 4,
         "6": 9,
         "7": 7,
@@ -86,7 +85,7 @@
       "EG": 1,
       "HA": 6,
       "HE": 12,
-      "HI": 12,
+      "HI": 11,
       "NE": 3,
       "NI": 1
     }

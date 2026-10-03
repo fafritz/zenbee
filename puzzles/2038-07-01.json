@@ -1,9 +1,9 @@
 {
   "pangram": "chafing",
   "center_letter": "a",
-  "num_answers": 40,
+  "num_answers": 42,
   "num_pangrams": 2,
-  "possible_points": 231,
+  "possible_points": 233,
   "answer_pangrams": [
     "chaffing",
     "chafing"
@@ -38,6 +38,7 @@
     "financing",
     "gaff",
     "gaffing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -47,13 +48,14 @@
     "hanging",
     "naan",
     "nagging",
+    "naif",
     "nana",
     "niacin"
   ],
   "date": "2038-07-01",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 10,
       "5": 7,
       "6": 9,
       "7": 10,
@@ -64,9 +66,9 @@
       "A": 8,
       "C": 15,
       "F": 4,
-      "G": 7,
+      "G": 8,
       "H": 2,
-      "N": 4
+      "N": 5
     },
     "grid": {
       "A": {
@@ -88,7 +90,7 @@
         "9": 1
       },
       "G": {
-        "4": 3,
+        "4": 4,
         "7": 4
       },
       "H": {
@@ -96,7 +98,7 @@
         "7": 1
       },
       "N": {
-        "4": 2,
+        "4": 3,
         "6": 1,
         "7": 1
       }
@@ -110,9 +112,9 @@
       "CH": 9,
       "FA": 3,
       "FI": 1,
-      "GA": 7,
+      "GA": 8,
       "HA": 2,
-      "NA": 3,
+      "NA": 4,
       "NI": 1
     }
   }

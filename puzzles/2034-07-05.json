@@ -1,9 +1,9 @@
 {
   "pangram": "echoing",
   "center_letter": "n",
-  "num_answers": 63,
+  "num_answers": 65,
   "num_pangrams": 1,
-  "possible_points": 298,
+  "possible_points": 315,
   "answer_pangrams": [
     "echoing"
   ],
@@ -16,6 +16,7 @@
     "cinching",
     "cocoon",
     "cocooning",
+    "cogging",
     "coin",
     "coining",
     "conch",
@@ -40,7 +41,6 @@
     "goon",
     "hence",
     "hieing",
-    "hing",
     "hinge",
     "hinging",
     "hoeing",
@@ -50,10 +50,12 @@
     "honing",
     "icing",
     "icon",
+    "iconic",
     "inch",
     "inching",
     "inning",
     "innocence",
+    "ionic",
     "neigh",
     "neighing",
     "nene",
@@ -75,19 +77,19 @@
   "date": "2034-07-05",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 15,
-      "6": 13,
-      "7": 11,
+      "4": 18,
+      "5": 16,
+      "6": 14,
+      "7": 12,
       "8": 3,
       "9": 2
     },
     "by_first_letter": {
-      "C": 15,
+      "C": 16,
       "E": 4,
       "G": 11,
-      "H": 10,
-      "I": 6,
+      "H": 9,
+      "I": 8,
       "N": 14,
       "O": 3
     },
@@ -96,7 +98,7 @@
         "4": 3,
         "5": 4,
         "6": 2,
-        "7": 3,
+        "7": 4,
         "8": 2,
         "9": 1
       },
@@ -111,15 +113,15 @@
         "7": 3
       },
       "H": {
-        "4": 2,
+        "4": 1,
         "5": 2,
         "6": 4,
         "7": 2
       },
       "I": {
         "4": 2,
-        "5": 1,
-        "6": 1,
+        "5": 2,
+        "6": 2,
         "7": 1,
         "9": 1
       },
@@ -138,7 +140,7 @@
     "two_letter_list": {
       "CH": 4,
       "CI": 2,
-      "CO": 9,
+      "CO": 10,
       "EC": 1,
       "EG": 2,
       "EN": 1,
@@ -146,10 +148,11 @@
       "GI": 2,
       "GO": 5,
       "HE": 1,
-      "HI": 4,
+      "HI": 3,
       "HO": 5,
-      "IC": 2,
+      "IC": 3,
       "IN": 4,
+      "IO": 1,
       "NE": 5,
       "NI": 5,
       "NO": 4,

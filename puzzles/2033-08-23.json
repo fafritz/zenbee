@@ -1,9 +1,9 @@
 {
   "pangram": "docking",
   "center_letter": "i",
-  "num_answers": 56,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 322,
+  "possible_points": 331,
   "answer_pangrams": [
     "docking"
   ],
@@ -12,6 +12,7 @@
     "cocking",
     "cocooning",
     "coding",
+    "cogging",
     "coin",
     "coinciding",
     "coining",
@@ -34,7 +35,6 @@
     "docking",
     "dodging",
     "dogging",
-    "doggoning",
     "doing",
     "donning",
     "gigging",
@@ -44,9 +44,11 @@
     "gonging",
     "icing",
     "icon",
+    "iconic",
     "indigo",
     "inking",
     "inning",
+    "ionic",
     "kick",
     "kicking",
     "kidding",
@@ -69,18 +71,18 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 8,
-      "6": 11,
-      "7": 22,
+      "5": 9,
+      "6": 12,
+      "7": 23,
       "8": 1,
-      "9": 3,
+      "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "C": 14,
-      "D": 15,
+      "C": 15,
+      "D": 14,
       "G": 5,
-      "I": 5,
+      "I": 7,
       "K": 9,
       "N": 4,
       "O": 4
@@ -90,7 +92,7 @@
         "4": 1,
         "5": 2,
         "6": 3,
-        "7": 5,
+        "7": 6,
         "9": 2,
         "10": 1
       },
@@ -98,8 +100,7 @@
         "4": 2,
         "5": 2,
         "6": 3,
-        "7": 7,
-        "9": 1
+        "7": 7
       },
       "G": {
         "5": 1,
@@ -108,8 +109,8 @@
       },
       "I": {
         "4": 1,
-        "5": 1,
-        "6": 3
+        "5": 2,
+        "6": 4
       },
       "K": {
         "4": 4,
@@ -129,13 +130,14 @@
       }
     },
     "two_letter_list": {
-      "CO": 14,
+      "CO": 15,
       "DI": 9,
-      "DO": 6,
+      "DO": 5,
       "GI": 3,
       "GO": 2,
-      "IC": 2,
+      "IC": 3,
       "IN": 3,
+      "IO": 1,
       "KI": 8,
       "KN": 1,
       "NI": 2,

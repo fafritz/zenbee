@@ -1,9 +1,9 @@
 {
   "pangram": "virtual",
   "center_letter": "r",
-  "num_answers": 35,
+  "num_answers": 34,
   "num_pangrams": 1,
-  "possible_points": 169,
+  "possible_points": 162,
   "answer_pangrams": [
     "virtual"
   ],
@@ -23,7 +23,6 @@
     "liar",
     "lira",
     "rail",
-    "ratatat",
     "rill",
     "ritual",
     "rival",
@@ -50,12 +49,12 @@
       "4": 8,
       "5": 14,
       "6": 7,
-      "7": 6
+      "7": 5
     },
     "by_first_letter": {
       "A": 8,
       "L": 6,
-      "R": 6,
+      "R": 5,
       "T": 11,
       "U": 2,
       "V": 2
@@ -75,8 +74,7 @@
       "R": {
         "4": 2,
         "5": 2,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
         "4": 1,
@@ -101,7 +99,7 @@
       "AV": 1,
       "LA": 4,
       "LI": 2,
-      "RA": 2,
+      "RA": 1,
       "RI": 3,
       "RU": 1,
       "TA": 2,

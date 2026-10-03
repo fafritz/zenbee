@@ -1,9 +1,9 @@
 {
   "pangram": "caulked",
   "center_letter": "d",
-  "num_answers": 68,
+  "num_answers": 74,
   "num_pangrams": 1,
-  "possible_points": 318,
+  "possible_points": 348,
   "answer_pangrams": [
     "caulked"
   ],
@@ -26,6 +26,7 @@
     "caulked",
     "cede",
     "ceded",
+    "celled",
     "clacked",
     "clad",
     "clucked",
@@ -37,6 +38,7 @@
     "dale",
     "dead",
     "deal",
+    "decadal",
     "decade",
     "decal",
     "deck",
@@ -50,6 +52,7 @@
     "delude",
     "deluded",
     "deuce",
+    "deuced",
     "dual",
     "ducal",
     "duck",
@@ -61,6 +64,8 @@
     "duke",
     "dull",
     "dulled",
+    "educe",
+    "eeled",
     "eked",
     "elude",
     "eluded",
@@ -74,24 +79,25 @@
     "lead",
     "leaded",
     "leaked",
+    "lede",
     "lucked",
     "lulled"
   ],
   "date": "2032-09-26",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 12,
-      "6": 27,
-      "7": 10
+      "4": 20,
+      "5": 14,
+      "6": 29,
+      "7": 11
     },
     "by_first_letter": {
       "A": 10,
-      "C": 16,
-      "D": 27,
-      "E": 3,
+      "C": 17,
+      "D": 29,
+      "E": 5,
       "K": 1,
-      "L": 11
+      "L": 12
     },
     "grid": {
       "A": {
@@ -103,25 +109,25 @@
       "C": {
         "4": 3,
         "5": 3,
-        "6": 5,
+        "6": 6,
         "7": 5
       },
       "D": {
         "4": 12,
         "5": 4,
-        "6": 9,
-        "7": 2
+        "6": 10,
+        "7": 3
       },
       "E": {
         "4": 1,
-        "5": 1,
+        "5": 3,
         "6": 1
       },
       "K": {
         "6": 1
       },
       "L": {
-        "4": 2,
+        "4": 3,
         "5": 2,
         "6": 7
       }
@@ -131,17 +137,19 @@
       "AD": 5,
       "AL": 2,
       "CA": 6,
-      "CE": 2,
+      "CE": 3,
       "CL": 4,
       "CU": 4,
       "DA": 1,
-      "DE": 15,
+      "DE": 17,
       "DU": 11,
+      "ED": 1,
+      "EE": 1,
       "EK": 1,
       "EL": 2,
       "KE": 1,
       "LA": 6,
-      "LE": 3,
+      "LE": 4,
       "LU": 2
     }
   }

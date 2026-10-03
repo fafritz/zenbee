@@ -1,9 +1,9 @@
 {
   "pangram": "lauding",
   "center_letter": "a",
-  "num_answers": 58,
+  "num_answers": 60,
   "num_pangrams": 3,
-  "possible_points": 306,
+  "possible_points": 319,
   "answer_pangrams": [
     "alluding",
     "languid",
@@ -20,7 +20,6 @@
     "align",
     "aligning",
     "alluding",
-    "anal",
     "angina",
     "angling",
     "annual",
@@ -32,10 +31,12 @@
     "dialing",
     "dual",
     "gadding",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -54,6 +55,7 @@
     "lagging",
     "laid",
     "lain",
+    "lanai",
     "land",
     "landing",
     "languid",
@@ -73,24 +75,24 @@
   "hints": {
     "by_length": {
       "4": 18,
-      "5": 6,
+      "5": 7,
       "6": 9,
       "7": 18,
-      "8": 6,
+      "8": 7,
       "9": 1
     },
     "by_first_letter": {
-      "A": 16,
+      "A": 15,
       "D": 5,
-      "G": 15,
+      "G": 17,
       "I": 3,
-      "L": 12,
+      "L": 13,
       "N": 6,
       "U": 1
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 4,
         "6": 5,
         "7": 2,
@@ -103,16 +105,17 @@
         "8": 2
       },
       "G": {
-        "4": 5,
+        "4": 6,
         "5": 1,
         "7": 7,
-        "8": 2
+        "8": 3
       },
       "I": {
         "6": 3
       },
       "L": {
         "4": 5,
+        "5": 1,
         "6": 1,
         "7": 6
       },
@@ -130,15 +133,15 @@
       "AG": 2,
       "AI": 2,
       "AL": 4,
-      "AN": 6,
+      "AN": 5,
       "DA": 2,
       "DI": 2,
       "DU": 1,
-      "GA": 13,
+      "GA": 15,
       "GL": 2,
       "IG": 1,
       "IN": 2,
-      "LA": 10,
+      "LA": 11,
       "LI": 1,
       "LU": 1,
       "NA": 6,

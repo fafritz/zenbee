@@ -1,9 +1,9 @@
 {
   "pangram": "obviate",
   "center_letter": "a",
-  "num_answers": 19,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 73,
+  "possible_points": 79,
   "answer_pangrams": [
     "obviate"
   ],
@@ -19,7 +19,9 @@
     "baobab",
     "beat",
     "beta",
+    "biota",
     "boat",
+    "boba",
     "iota",
     "obviate",
     "taboo",
@@ -31,14 +33,14 @@
   "date": "2037-11-16",
   "hints": {
     "by_length": {
-      "4": 9,
-      "5": 5,
+      "4": 10,
+      "5": 6,
       "6": 3,
       "7": 2
     },
     "by_first_letter": {
       "A": 5,
-      "B": 7,
+      "B": 9,
       "I": 1,
       "O": 1,
       "T": 4,
@@ -50,7 +52,8 @@
         "5": 3
       },
       "B": {
-        "4": 6,
+        "4": 7,
+        "5": 1,
         "6": 1
       },
       "I": {
@@ -71,7 +74,8 @@
       "AB": 5,
       "BA": 4,
       "BE": 2,
-      "BO": 1,
+      "BI": 1,
+      "BO": 2,
       "IO": 1,
       "OB": 1,
       "TA": 2,

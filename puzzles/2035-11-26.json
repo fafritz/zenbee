@@ -1,13 +1,14 @@
 {
   "pangram": "outrank",
   "center_letter": "n",
-  "num_answers": 32,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 105,
+  "possible_points": 119,
   "answer_pangrams": [
     "outrank"
   ],
   "answers": [
+    "annatto",
     "anon",
     "arrant",
     "aunt",
@@ -31,6 +32,8 @@
     "roan",
     "runt",
     "tank",
+    "tantra",
+    "tarn",
     "tartan",
     "taunt",
     "toon",
@@ -44,24 +47,25 @@
   "date": "2035-11-26",
   "hints": {
     "by_length": {
-      "4": 19,
+      "4": 20,
       "5": 3,
-      "6": 7,
-      "7": 2,
+      "6": 8,
+      "7": 3,
       "8": 1
     },
     "by_first_letter": {
-      "A": 3,
+      "A": 4,
       "K": 4,
       "N": 6,
       "O": 4,
       "R": 5,
-      "T": 10
+      "T": 12
     },
     "grid": {
       "A": {
         "4": 2,
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "K": {
         "4": 2,
@@ -82,14 +86,14 @@
         "6": 1
       },
       "T": {
-        "4": 5,
+        "4": 6,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 1
       }
     },
     "two_letter_list": {
-      "AN": 1,
+      "AN": 2,
       "AR": 1,
       "AU": 1,
       "KN": 1,
@@ -102,7 +106,7 @@
       "RA": 3,
       "RO": 1,
       "RU": 1,
-      "TA": 3,
+      "TA": 5,
       "TO": 2,
       "TR": 2,
       "TU": 3

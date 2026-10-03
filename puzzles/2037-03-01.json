@@ -1,13 +1,14 @@
 {
   "pangram": "levying",
   "center_letter": "i",
-  "num_answers": 58,
+  "num_answers": 60,
   "num_pangrams": 1,
-  "possible_points": 315,
+  "possible_points": 327,
   "answer_pangrams": [
     "levying"
   ],
   "answers": [
+    "eeling",
     "egging",
     "engine",
     "enliven",
@@ -39,6 +40,7 @@
     "levying",
     "liege",
     "lien",
+    "lignin",
     "lily",
     "line",
     "linen",
@@ -72,16 +74,16 @@
     "by_length": {
       "4": 12,
       "5": 11,
-      "6": 16,
+      "6": 18,
       "7": 11,
       "8": 6,
       "10": 2
     },
     "by_first_letter": {
-      "E": 9,
+      "E": 10,
       "G": 13,
       "I": 4,
-      "L": 15,
+      "L": 16,
       "N": 5,
       "V": 11,
       "Y": 1
@@ -89,7 +91,7 @@
     "grid": {
       "E": {
         "4": 1,
-        "6": 4,
+        "6": 5,
         "7": 3,
         "10": 1
       },
@@ -108,7 +110,7 @@
       "L": {
         "4": 4,
         "5": 4,
-        "6": 3,
+        "6": 4,
         "7": 2,
         "8": 2
       },
@@ -129,6 +131,7 @@
       }
     },
     "two_letter_list": {
+      "EE": 1,
       "EG": 1,
       "EN": 4,
       "EV": 3,
@@ -137,7 +140,7 @@
       "GI": 9,
       "IN": 4,
       "LE": 3,
-      "LI": 11,
+      "LI": 12,
       "LY": 1,
       "NE": 1,
       "NI": 4,

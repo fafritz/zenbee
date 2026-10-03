@@ -1,15 +1,16 @@
 {
   "pangram": "placket",
   "center_letter": "e",
-  "num_answers": 73,
+  "num_answers": 74,
   "num_pangrams": 1,
-  "possible_points": 286,
+  "possible_points": 292,
   "answer_pangrams": [
     "placket"
   ],
   "answers": [
     "accept",
     "acetate",
+    "allele",
     "apace",
     "appeal",
     "appellate",
@@ -87,14 +88,14 @@
     "by_length": {
       "4": 33,
       "5": 15,
-      "6": 13,
+      "6": 14,
       "7": 7,
       "8": 2,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "A": 6,
+      "A": 7,
       "C": 7,
       "E": 4,
       "K": 6,
@@ -105,7 +106,7 @@
     "grid": {
       "A": {
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 1,
         "9": 1
       },
@@ -145,6 +146,7 @@
     },
     "two_letter_list": {
       "AC": 2,
+      "AL": 1,
       "AP": 4,
       "CA": 5,
       "CE": 1,

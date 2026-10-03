@@ -1,9 +1,9 @@
 {
   "pangram": "locking",
   "center_letter": "c",
-  "num_answers": 48,
+  "num_answers": 51,
   "num_pangrams": 2,
-  "possible_points": 256,
+  "possible_points": 274,
   "answer_pangrams": [
     "clocking",
     "locking"
@@ -25,6 +25,7 @@
     "cocking",
     "cocoon",
     "cocooning",
+    "cogging",
     "coil",
     "coiling",
     "coin",
@@ -43,7 +44,9 @@
     "cooling",
     "icing",
     "icon",
+    "iconic",
     "inclining",
+    "ionic",
     "kick",
     "kicking",
     "knock",
@@ -62,15 +65,15 @@
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 11,
-      "6": 4,
-      "7": 12,
+      "5": 12,
+      "6": 5,
+      "7": 13,
       "8": 6,
       "9": 2
     },
     "by_first_letter": {
-      "C": 32,
-      "I": 3,
+      "C": 33,
+      "I": 5,
       "K": 4,
       "L": 7,
       "N": 2
@@ -80,13 +83,14 @@
         "4": 6,
         "5": 8,
         "6": 4,
-        "7": 8,
+        "7": 9,
         "8": 5,
         "9": 1
       },
       "I": {
         "4": 1,
-        "5": 1,
+        "5": 2,
+        "6": 1,
         "9": 1
       },
       "K": {
@@ -107,9 +111,10 @@
     },
     "two_letter_list": {
       "CL": 12,
-      "CO": 20,
-      "IC": 2,
+      "CO": 21,
+      "IC": 3,
       "IN": 1,
+      "IO": 1,
       "KI": 2,
       "KN": 2,
       "LI": 2,

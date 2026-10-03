@@ -1,9 +1,9 @@
 {
   "pangram": "romping",
   "center_letter": "n",
-  "num_answers": 75,
+  "num_answers": 80,
   "num_pangrams": 1,
-  "possible_points": 436,
+  "possible_points": 456,
   "answer_pangrams": [
     "romping"
   ],
@@ -15,6 +15,7 @@
     "gonging",
     "goon",
     "gorging",
+    "gorgon",
     "goring",
     "griming",
     "grin",
@@ -49,7 +50,9 @@
     "moron",
     "nipping",
     "noggin",
+    "noir",
     "noon",
+    "nori",
     "norm",
     "ongoing",
     "onion",
@@ -67,8 +70,9 @@
     "piping",
     "pippin",
     "pipping",
-    "pooping",
+    "pogoing",
     "popping",
+    "porging",
     "poring",
     "priming",
     "primping",
@@ -81,33 +85,34 @@
     "ringing",
     "ripping",
     "romping",
+    "ronin",
     "rooming",
     "roping"
   ],
   "date": "2030-05-04",
   "hints": {
     "by_length": {
-      "4": 13,
-      "5": 7,
-      "6": 17,
-      "7": 28,
+      "4": 15,
+      "5": 8,
+      "6": 18,
+      "7": 29,
       "8": 7,
       "9": 3
     },
     "by_first_letter": {
-      "G": 15,
+      "G": 16,
       "I": 5,
       "M": 19,
-      "N": 4,
+      "N": 6,
       "O": 5,
-      "P": 19,
-      "R": 8
+      "P": 20,
+      "R": 9
     },
     "grid": {
       "G": {
         "4": 3,
         "5": 2,
-        "6": 1,
+        "6": 2,
         "7": 6,
         "8": 3
       },
@@ -127,7 +132,7 @@
         "9": 1
       },
       "N": {
-        "4": 2,
+        "4": 4,
         "6": 1,
         "7": 1
       },
@@ -140,19 +145,20 @@
         "4": 2,
         "5": 1,
         "6": 5,
-        "7": 8,
+        "7": 9,
         "8": 2,
         "9": 1
       },
       "R": {
         "4": 1,
+        "5": 1,
         "6": 2,
         "7": 5
       }
     },
     "two_letter_list": {
       "GI": 2,
-      "GO": 6,
+      "GO": 7,
       "GR": 7,
       "IG": 1,
       "IM": 1,
@@ -161,15 +167,15 @@
       "MI": 9,
       "MO": 10,
       "NI": 1,
-      "NO": 3,
+      "NO": 5,
       "ON": 2,
       "OP": 2,
       "OR": 1,
       "PI": 11,
-      "PO": 3,
+      "PO": 4,
       "PR": 5,
       "RI": 5,
-      "RO": 3
+      "RO": 4
     }
   }
 }

@@ -1,14 +1,15 @@
 {
   "pangram": "peafowl",
   "center_letter": "l",
-  "num_answers": 60,
+  "num_answers": 63,
   "num_pangrams": 1,
-  "possible_points": 158,
+  "possible_points": 176,
   "answer_pangrams": [
     "peafowl"
   ],
   "answers": [
     "alfalfa",
+    "allele",
     "allow",
     "aloe",
     "aloof",
@@ -16,11 +17,13 @@
     "appeal",
     "apple",
     "elope",
+    "falafel",
     "fall",
     "falloff",
     "fallow",
     "feel",
     "fell",
+    "fella",
     "fellow",
     "flap",
     "flaw",
@@ -73,14 +76,14 @@
   "hints": {
     "by_length": {
       "4": 41,
-      "5": 7,
-      "6": 9,
-      "7": 3
+      "5": 8,
+      "6": 10,
+      "7": 4
     },
     "by_first_letter": {
-      "A": 7,
+      "A": 8,
       "E": 1,
-      "F": 18,
+      "F": 20,
       "L": 7,
       "O": 3,
       "P": 15,
@@ -90,7 +93,7 @@
       "A": {
         "4": 1,
         "5": 3,
-        "6": 2,
+        "6": 3,
         "7": 1
       },
       "E": {
@@ -98,8 +101,9 @@
       },
       "F": {
         "4": 14,
+        "5": 1,
         "6": 3,
-        "7": 1
+        "7": 2
       },
       "L": {
         "4": 6,
@@ -121,11 +125,11 @@
       }
     },
     "two_letter_list": {
-      "AL": 4,
+      "AL": 5,
       "AP": 3,
       "EL": 1,
-      "FA": 3,
-      "FE": 3,
+      "FA": 4,
+      "FE": 4,
       "FL": 8,
       "FO": 4,
       "LA": 1,

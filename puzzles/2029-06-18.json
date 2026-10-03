@@ -1,9 +1,9 @@
 {
   "pangram": "lambkin",
   "center_letter": "k",
-  "num_answers": 19,
+  "num_answers": 20,
   "num_pangrams": 1,
-  "possible_points": 70,
+  "possible_points": 76,
   "answer_pangrams": [
     "lambkin"
   ],
@@ -17,6 +17,7 @@
     "bilk",
     "blank",
     "blink",
+    "kanban",
     "kill",
     "kiln",
     "kink",
@@ -33,14 +34,14 @@
     "by_length": {
       "4": 11,
       "5": 2,
-      "6": 2,
+      "6": 3,
       "7": 3,
       "9": 1
     },
     "by_first_letter": {
       "A": 2,
       "B": 7,
-      "K": 3,
+      "K": 4,
       "L": 3,
       "M": 4
     },
@@ -56,7 +57,8 @@
         "9": 1
       },
       "K": {
-        "4": 3
+        "4": 3,
+        "6": 1
       },
       "L": {
         "4": 2,
@@ -73,6 +75,7 @@
       "BA": 3,
       "BI": 2,
       "BL": 2,
+      "KA": 1,
       "KI": 3,
       "LA": 2,
       "LI": 1,

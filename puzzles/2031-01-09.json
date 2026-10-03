@@ -1,9 +1,9 @@
 {
   "pangram": "biplane",
   "center_letter": "n",
-  "num_answers": 49,
+  "num_answers": 54,
   "num_pangrams": 2,
-  "possible_points": 208,
+  "possible_points": 241,
   "answer_pangrams": [
     "biplane",
     "plebeian"
@@ -12,7 +12,7 @@
     "alien",
     "alienable",
     "alpine",
-    "anal",
+    "aniline",
     "anneal",
     "baleen",
     "banal",
@@ -29,6 +29,7 @@
     "inane",
     "inline",
     "lain",
+    "lanai",
     "lane",
     "lean",
     "lien",
@@ -47,11 +48,15 @@
     "pain",
     "pane",
     "panel",
+    "panini",
     "peen",
     "penal",
-    "penile",
+    "penne",
     "pine",
+    "pineal",
     "pineapple",
+    "pinna",
+    "pinnae",
     "pipeline",
     "pippin",
     "plain",
@@ -62,10 +67,10 @@
   "date": "2031-01-09",
   "hints": {
     "by_length": {
-      "4": 22,
-      "5": 9,
-      "6": 10,
-      "7": 2,
+      "4": 21,
+      "5": 12,
+      "6": 12,
+      "7": 3,
       "8": 3,
       "9": 2,
       "11": 1
@@ -75,15 +80,15 @@
       "B": 9,
       "E": 2,
       "I": 3,
-      "L": 7,
+      "L": 8,
       "N": 8,
-      "P": 15
+      "P": 19
     },
     "grid": {
       "A": {
-        "4": 1,
         "5": 1,
         "6": 2,
+        "7": 1,
         "9": 1
       },
       "B": {
@@ -104,7 +109,7 @@
       },
       "L": {
         "4": 5,
-        "5": 1,
+        "5": 2,
         "6": 1
       },
       "N": {
@@ -113,8 +118,8 @@
       },
       "P": {
         "4": 5,
-        "5": 5,
-        "6": 2,
+        "5": 7,
+        "6": 4,
         "8": 2,
         "9": 1
       }
@@ -128,15 +133,15 @@
       "EL": 1,
       "EN": 1,
       "IN": 3,
-      "LA": 2,
+      "LA": 3,
       "LE": 1,
       "LI": 4,
       "NA": 4,
       "NE": 2,
       "NI": 2,
-      "PA": 4,
+      "PA": 5,
       "PE": 3,
-      "PI": 4,
+      "PI": 7,
       "PL": 4
     }
   }

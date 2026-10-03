@@ -1,9 +1,9 @@
 {
   "pangram": "larding",
   "center_letter": "r",
-  "num_answers": 76,
+  "num_answers": 81,
   "num_pangrams": 3,
-  "possible_points": 406,
+  "possible_points": 445,
   "answer_pangrams": [
     "darling",
     "garlanding",
@@ -39,18 +39,23 @@
     "girdling",
     "girl",
     "glaring",
+    "gnarl",
+    "gnarling",
     "grad",
     "grading",
     "grail",
     "grain",
     "grand",
     "grid",
+    "griddling",
     "grill",
     "grilling",
     "grin",
     "grind",
     "grinding",
     "grinning",
+    "ingrain",
+    "ingraining",
     "laggard",
     "lair",
     "lard",
@@ -91,17 +96,18 @@
   "hints": {
     "by_length": {
       "4": 22,
-      "5": 12,
+      "5": 13,
       "6": 10,
-      "7": 18,
-      "8": 11,
-      "9": 1,
-      "10": 2
+      "7": 19,
+      "8": 12,
+      "9": 2,
+      "10": 3
     },
     "by_first_letter": {
       "A": 8,
       "D": 12,
-      "G": 21,
+      "G": 24,
+      "I": 2,
       "L": 6,
       "N": 1,
       "R": 28
@@ -124,9 +130,14 @@
       },
       "G": {
         "4": 5,
-        "5": 5,
+        "5": 6,
         "7": 4,
-        "8": 6,
+        "8": 7,
+        "9": 1,
+        "10": 1
+      },
+      "I": {
+        "7": 1,
         "10": 1
       },
       "L": {
@@ -154,7 +165,9 @@
       "GA": 4,
       "GI": 4,
       "GL": 1,
-      "GR": 12,
+      "GN": 2,
+      "GR": 13,
+      "IN": 2,
       "LA": 4,
       "LI": 2,
       "NA": 1,

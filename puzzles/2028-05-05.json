@@ -1,15 +1,16 @@
 {
   "pangram": "dubiety",
   "center_letter": "e",
-  "num_answers": 41,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 157,
+  "possible_points": 169,
   "answer_pangrams": [
     "dubiety"
   ],
   "answers": [
     "bedded",
     "beet",
+    "betide",
     "betided",
     "bidet",
     "bite",
@@ -46,6 +47,7 @@
     "tided",
     "tidied",
     "tied",
+    "tubbed",
     "tube",
     "tubed",
     "yeti"
@@ -55,21 +57,21 @@
     "by_length": {
       "4": 18,
       "5": 10,
-      "6": 9,
+      "6": 11,
       "7": 4
     },
     "by_first_letter": {
-      "B": 9,
+      "B": 10,
       "D": 17,
       "E": 7,
-      "T": 7,
+      "T": 8,
       "Y": 1
     },
     "grid": {
       "B": {
         "4": 3,
         "5": 2,
-        "6": 3,
+        "6": 4,
         "7": 1
       },
       "D": {
@@ -86,14 +88,14 @@
       "T": {
         "4": 4,
         "5": 2,
-        "6": 1
+        "6": 2
       },
       "Y": {
         "4": 1
       }
     },
     "two_letter_list": {
-      "BE": 3,
+      "BE": 4,
       "BI": 2,
       "BU": 3,
       "BY": 1,
@@ -107,7 +109,7 @@
       "EY": 1,
       "TE": 1,
       "TI": 4,
-      "TU": 2,
+      "TU": 3,
       "YE": 1
     }
   }

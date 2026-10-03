@@ -1,9 +1,9 @@
 {
   "pangram": "crazing",
   "center_letter": "g",
-  "num_answers": 55,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 324,
+  "possible_points": 342,
   "answer_pangrams": [
     "crazing"
   ],
@@ -28,6 +28,7 @@
     "craning",
     "crazing",
     "cringing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -43,6 +44,8 @@
     "grin",
     "grinning",
     "icing",
+    "ingrain",
+    "ingraining",
     "inning",
     "nagging",
     "racing",
@@ -67,19 +70,19 @@
   "date": "2029-03-03",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 10,
       "5": 6,
       "6": 14,
-      "7": 19,
+      "7": 20,
       "8": 4,
       "9": 1,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 11,
       "C": 9,
-      "G": 14,
-      "I": 2,
+      "G": 15,
+      "I": 4,
       "N": 1,
       "R": 14,
       "Z": 4
@@ -102,7 +105,7 @@
         "8": 1
       },
       "G": {
-        "4": 3,
+        "4": 4,
         "5": 1,
         "6": 1,
         "7": 7,
@@ -110,7 +113,9 @@
       },
       "I": {
         "5": 1,
-        "6": 1
+        "6": 1,
+        "7": 1,
+        "10": 1
       },
       "N": {
         "7": 1
@@ -136,11 +141,11 @@
       "CA": 4,
       "CI": 1,
       "CR": 4,
-      "GA": 7,
+      "GA": 8,
       "GI": 2,
       "GR": 5,
       "IC": 1,
-      "IN": 1,
+      "IN": 3,
       "NA": 1,
       "RA": 10,
       "RI": 4,

@@ -1,15 +1,16 @@
 {
   "pangram": "buoyant",
   "center_letter": "o",
-  "num_answers": 38,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 149,
+  "possible_points": 151,
   "answer_pangrams": [
     "buoyant"
   ],
   "answers": [
     "abbot",
     "about",
+    "annatto",
     "annoy",
     "anon",
     "auto",
@@ -18,11 +19,11 @@
     "baton",
     "bayou",
     "boat",
+    "boba",
     "bobby",
     "bonbon",
     "bony",
     "boob",
-    "booboo",
     "booby",
     "boon",
     "boot",
@@ -50,14 +51,14 @@
   "date": "2027-01-26",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 17,
       "5": 10,
-      "6": 9,
-      "7": 2,
+      "6": 8,
+      "7": 3,
       "8": 1
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 6,
       "B": 21,
       "N": 4,
       "O": 1,
@@ -67,12 +68,13 @@
     "grid": {
       "A": {
         "4": 2,
-        "5": 3
+        "5": 3,
+        "7": 1
       },
       "B": {
-        "4": 7,
+        "4": 8,
         "5": 5,
-        "6": 8,
+        "6": 7,
         "7": 1
       },
       "N": {
@@ -94,7 +96,7 @@
     },
     "two_letter_list": {
       "AB": 2,
-      "AN": 2,
+      "AN": 3,
       "AU": 1,
       "BA": 4,
       "BO": 13,

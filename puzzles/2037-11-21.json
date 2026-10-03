@@ -1,15 +1,14 @@
 {
   "pangram": "handful",
   "center_letter": "a",
-  "num_answers": 24,
+  "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 72,
+  "possible_points": 71,
   "answer_pangrams": [
     "handful"
   ],
   "answers": [
     "alfalfa",
-    "anal",
     "annual",
     "annul",
     "dual",
@@ -36,14 +35,14 @@
   "date": "2037-11-21",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 15,
       "5": 3,
       "6": 2,
       "7": 2,
       "8": 1
     },
     "by_first_letter": {
-      "A": 4,
+      "A": 3,
       "D": 1,
       "F": 4,
       "H": 7,
@@ -53,7 +52,6 @@
     },
     "grid": {
       "A": {
-        "4": 1,
         "5": 1,
         "6": 1,
         "7": 1
@@ -84,7 +82,7 @@
     },
     "two_letter_list": {
       "AL": 1,
-      "AN": 3,
+      "AN": 2,
       "DU": 1,
       "FA": 3,
       "FL": 1,

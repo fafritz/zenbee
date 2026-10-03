@@ -1,9 +1,9 @@
 {
   "pangram": "plunked",
   "center_letter": "u",
-  "num_answers": 47,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 212,
+  "possible_points": 207,
   "answer_pangrams": [
     "plunked"
   ],
@@ -27,7 +27,6 @@
     "duped",
     "elude",
     "eluded",
-    "endue",
     "endued",
     "lull",
     "lulled",
@@ -60,14 +59,14 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 10,
+      "5": 9,
       "6": 15,
       "7": 6,
       "8": 1
     },
     "by_first_letter": {
       "D": 17,
-      "E": 4,
+      "E": 3,
       "L": 3,
       "N": 3,
       "P": 13,
@@ -81,7 +80,7 @@
         "7": 2
       },
       "E": {
-        "5": 2,
+        "5": 1,
         "6": 2
       },
       "L": {
@@ -109,7 +108,7 @@
       "DE": 4,
       "DU": 13,
       "EL": 2,
-      "EN": 2,
+      "EN": 1,
       "LU": 3,
       "NU": 3,
       "PL": 2,

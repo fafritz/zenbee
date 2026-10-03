@@ -1,9 +1,9 @@
 {
   "pangram": "prodigy",
   "center_letter": "o",
-  "num_answers": 31,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 96,
+  "possible_points": 102,
   "answer_pangrams": [
     "prodigy"
   ],
@@ -25,9 +25,10 @@
     "grog",
     "groggy",
     "gyro",
-    "ipod",
     "odor",
     "opioid",
+    "pirogi",
+    "pogo",
     "poop",
     "poor",
     "poppy",
@@ -45,15 +46,14 @@
     "by_length": {
       "4": 18,
       "5": 8,
-      "6": 4,
+      "6": 5,
       "7": 1
     },
     "by_first_letter": {
       "D": 9,
       "G": 8,
-      "I": 1,
       "O": 2,
-      "P": 8,
+      "P": 10,
       "R": 2,
       "Y": 1
     },
@@ -68,17 +68,14 @@
         "5": 1,
         "6": 1
       },
-      "I": {
-        "4": 1
-      },
       "O": {
         "4": 1,
         "6": 1
       },
       "P": {
-        "4": 4,
+        "4": 5,
         "5": 2,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "R": {
@@ -95,10 +92,10 @@
       "GO": 5,
       "GR": 2,
       "GY": 1,
-      "IP": 1,
       "OD": 1,
       "OP": 1,
-      "PO": 3,
+      "PI": 1,
+      "PO": 4,
       "PR": 5,
       "RI": 1,
       "RO": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "blinked",
   "center_letter": "l",
-  "num_answers": 70,
+  "num_answers": 72,
   "num_pangrams": 1,
-  "possible_points": 336,
+  "possible_points": 342,
   "answer_pangrams": [
     "blinked"
   ],
@@ -37,6 +37,7 @@
     "diddled",
     "dill",
     "edible",
+    "eeled",
     "elide",
     "elided",
     "idle",
@@ -57,6 +58,7 @@
     "kneel",
     "knell",
     "knelled",
+    "lede",
     "leek",
     "lend",
     "libel",
@@ -82,8 +84,8 @@
   "date": "2030-08-10",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 16,
+      "4": 20,
+      "5": 17,
       "6": 19,
       "7": 13,
       "8": 2,
@@ -92,10 +94,10 @@
     "by_first_letter": {
       "B": 21,
       "D": 7,
-      "E": 3,
+      "E": 4,
       "I": 5,
       "K": 13,
-      "L": 17,
+      "L": 18,
       "N": 4
     },
     "grid": {
@@ -111,7 +113,7 @@
         "7": 2
       },
       "E": {
-        "5": 1,
+        "5": 2,
         "6": 2
       },
       "I": {
@@ -129,7 +131,7 @@
         "8": 1
       },
       "L": {
-        "4": 7,
+        "4": 8,
         "5": 5,
         "6": 3,
         "7": 2
@@ -146,13 +148,14 @@
       "DE": 2,
       "DI": 5,
       "ED": 1,
+      "EE": 1,
       "EL": 2,
       "ID": 2,
       "IN": 3,
       "KE": 4,
       "KI": 6,
       "KN": 3,
-      "LE": 2,
+      "LE": 3,
       "LI": 15,
       "NE": 2,
       "NI": 2

@@ -1,9 +1,9 @@
 {
   "pangram": "hurling",
   "center_letter": "l",
-  "num_answers": 27,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 127,
+  "possible_points": 145,
   "answer_pangrams": [
     "hurling"
   ],
@@ -22,8 +22,11 @@
     "hulling",
     "hurl",
     "hurling",
+    "inulin",
+    "lignin",
     "lining",
     "lugging",
+    "luging",
     "lull",
     "lulling",
     "lulu",
@@ -41,14 +44,15 @@
     "by_length": {
       "4": 11,
       "5": 1,
-      "6": 5,
+      "6": 8,
       "7": 6,
       "8": 4
     },
     "by_first_letter": {
       "G": 9,
       "H": 5,
-      "L": 8,
+      "I": 1,
+      "L": 10,
       "N": 2,
       "R": 3
     },
@@ -64,9 +68,12 @@
         "4": 3,
         "7": 2
       },
+      "I": {
+        "6": 1
+      },
       "L": {
         "4": 3,
-        "6": 2,
+        "6": 4,
         "7": 3
       },
       "N": {
@@ -85,8 +92,9 @@
       "GU": 3,
       "HI": 1,
       "HU": 4,
-      "LI": 1,
-      "LU": 7,
+      "IN": 1,
+      "LI": 2,
+      "LU": 8,
       "NI": 1,
       "NU": 1,
       "RI": 2,

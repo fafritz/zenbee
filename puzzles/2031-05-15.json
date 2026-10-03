@@ -1,9 +1,9 @@
 {
   "pangram": "rainbow",
   "center_letter": "a",
-  "num_answers": 31,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 124,
+  "possible_points": 125,
   "answer_pangrams": [
     "rainbow"
   ],
@@ -24,6 +24,7 @@
     "barrio",
     "barrow",
     "boar",
+    "boba",
     "brain",
     "bran",
     "brawn",
@@ -43,7 +44,7 @@
   "date": "2031-05-15",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 14,
       "5": 9,
       "6": 6,
       "7": 2,
@@ -51,7 +52,7 @@
     },
     "by_first_letter": {
       "A": 5,
-      "B": 15,
+      "B": 16,
       "N": 4,
       "R": 5,
       "W": 2
@@ -62,7 +63,7 @@
         "5": 3
       },
       "B": {
-        "4": 5,
+        "4": 6,
         "5": 4,
         "6": 5,
         "9": 1
@@ -86,7 +87,7 @@
       "AN": 2,
       "AR": 3,
       "BA": 10,
-      "BO": 1,
+      "BO": 2,
       "BR": 4,
       "NA": 4,
       "RA": 3,

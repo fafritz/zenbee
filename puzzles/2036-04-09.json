@@ -1,17 +1,17 @@
 {
   "pangram": "inflame",
   "center_letter": "n",
-  "num_answers": 60,
+  "num_answers": 62,
   "num_pangrams": 1,
-  "possible_points": 266,
+  "possible_points": 278,
   "answer_pangrams": [
     "inflame"
   ],
   "answers": [
     "alien",
     "amen",
-    "anal",
     "anemia",
+    "aniline",
     "animal",
     "anime",
     "anneal",
@@ -33,6 +33,7 @@
     "inflame",
     "inline",
     "lain",
+    "lanai",
     "lane",
     "lean",
     "lien",
@@ -63,6 +64,7 @@
     "minima",
     "minimal",
     "naan",
+    "naif",
     "nail",
     "name",
     "nana",
@@ -73,9 +75,9 @@
   "hints": {
     "by_length": {
       "4": 23,
-      "5": 10,
+      "5": 11,
       "6": 13,
-      "7": 8,
+      "7": 9,
       "8": 3,
       "9": 2,
       "10": 1
@@ -85,15 +87,16 @@
       "E": 4,
       "F": 10,
       "I": 3,
-      "L": 11,
+      "L": 12,
       "M": 19,
-      "N": 6
+      "N": 7
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 2,
-        "6": 3
+        "6": 3,
+        "7": 1
       },
       "E": {
         "4": 1,
@@ -114,7 +117,7 @@
       },
       "L": {
         "4": 6,
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 2,
         "8": 1
@@ -129,7 +132,7 @@
         "10": 1
       },
       "N": {
-        "4": 6
+        "4": 7
       }
     },
     "two_letter_list": {
@@ -143,13 +146,13 @@
       "FI": 3,
       "FL": 2,
       "IN": 3,
-      "LA": 2,
+      "LA": 3,
       "LE": 1,
       "LI": 8,
       "MA": 8,
       "ME": 3,
       "MI": 8,
-      "NA": 4,
+      "NA": 5,
       "NE": 1,
       "NI": 1
     }

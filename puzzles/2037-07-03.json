@@ -1,9 +1,9 @@
 {
   "pangram": "bayonet",
   "center_letter": "t",
-  "num_answers": 49,
+  "num_answers": 52,
   "num_pangrams": 1,
-  "possible_points": 200,
+  "possible_points": 219,
   "answer_pangrams": [
     "bayonet"
   ],
@@ -11,6 +11,7 @@
     "abate",
     "abbot",
     "abet",
+    "annatto",
     "annotate",
     "ante",
     "antenna",
@@ -38,7 +39,9 @@
     "nanobot",
     "natty",
     "neat",
+    "neaten",
     "neonate",
+    "notate",
     "note",
     "oaten",
     "onto",
@@ -63,15 +66,15 @@
     "by_length": {
       "4": 19,
       "5": 15,
-      "6": 8,
-      "7": 5,
+      "6": 10,
+      "7": 6,
       "8": 2
     },
     "by_first_letter": {
-      "A": 8,
+      "A": 9,
       "B": 17,
       "E": 2,
-      "N": 5,
+      "N": 7,
       "O": 2,
       "T": 15
     },
@@ -79,7 +82,7 @@
       "A": {
         "4": 2,
         "5": 3,
-        "7": 1,
+        "7": 2,
         "8": 2
       },
       "B": {
@@ -95,6 +98,7 @@
       "N": {
         "4": 2,
         "5": 1,
+        "6": 2,
         "7": 2
       },
       "O": {
@@ -109,7 +113,7 @@
     },
     "two_letter_list": {
       "AB": 3,
-      "AN": 4,
+      "AN": 5,
       "AT": 1,
       "BA": 4,
       "BE": 5,
@@ -118,8 +122,8 @@
       "EA": 1,
       "EN": 1,
       "NA": 2,
-      "NE": 2,
-      "NO": 1,
+      "NE": 3,
+      "NO": 2,
       "OA": 1,
       "ON": 1,
       "TA": 4,

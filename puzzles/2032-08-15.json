@@ -1,9 +1,9 @@
 {
   "pangram": "empathy",
   "center_letter": "p",
-  "num_answers": 25,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 86,
+  "possible_points": 91,
   "answer_pangrams": [
     "empathy"
   ],
@@ -17,6 +17,7 @@
     "heap",
     "hemp",
     "hype",
+    "pampa",
     "papa",
     "papaya",
     "pate",
@@ -38,7 +39,7 @@
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 8,
+      "5": 9,
       "6": 2,
       "7": 2
     },
@@ -46,7 +47,7 @@
       "A": 2,
       "E": 3,
       "H": 4,
-      "P": 10,
+      "P": 11,
       "T": 6
     },
     "grid": {
@@ -65,7 +66,7 @@
       },
       "P": {
         "4": 5,
-        "5": 4,
+        "5": 5,
         "6": 1
       },
       "T": {
@@ -81,7 +82,7 @@
       "HA": 1,
       "HE": 2,
       "HY": 1,
-      "PA": 6,
+      "PA": 7,
       "PE": 4,
       "TA": 2,
       "TE": 3,

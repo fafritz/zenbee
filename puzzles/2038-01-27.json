@@ -1,9 +1,9 @@
 {
   "pangram": "fetlock",
   "center_letter": "o",
-  "num_answers": 38,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 102,
+  "possible_points": 107,
   "answer_pangrams": [
     "fetlock"
   ],
@@ -20,6 +20,7 @@
     "cool",
     "coot",
     "cote",
+    "elote",
     "fetlock",
     "flock",
     "floe",
@@ -51,12 +52,13 @@
   "hints": {
     "by_length": {
       "4": 26,
-      "5": 5,
+      "5": 6,
       "6": 5,
       "7": 2
     },
     "by_first_letter": {
       "C": 12,
+      "E": 1,
       "F": 6,
       "K": 2,
       "L": 8,
@@ -69,6 +71,9 @@
         "5": 2,
         "6": 2,
         "7": 1
+      },
+      "E": {
+        "5": 1
       },
       "F": {
         "4": 4,
@@ -97,6 +102,7 @@
       "CE": 1,
       "CL": 2,
       "CO": 9,
+      "EL": 1,
       "FE": 1,
       "FL": 2,
       "FO": 3,

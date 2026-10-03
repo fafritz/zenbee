@@ -1,9 +1,9 @@
 {
   "pangram": "blazing",
   "center_letter": "l",
-  "num_answers": 41,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 216,
+  "possible_points": 234,
   "answer_pangrams": [
     "blazing"
   ],
@@ -14,7 +14,6 @@
     "alibiing",
     "align",
     "aligning",
-    "anal",
     "angling",
     "babbling",
     "bail",
@@ -31,6 +30,7 @@
     "bling",
     "gabbling",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "ganglia",
@@ -43,7 +43,9 @@
     "labial",
     "lagging",
     "lain",
+    "lanai",
     "lazing",
+    "lignin",
     "lining",
     "nail",
     "nailing",
@@ -53,22 +55,22 @@
   "date": "2028-09-29",
   "hints": {
     "by_length": {
-      "4": 12,
-      "5": 5,
-      "6": 5,
+      "4": 11,
+      "5": 6,
+      "6": 6,
       "7": 10,
-      "8": 9
+      "8": 10
     },
     "by_first_letter": {
-      "A": 8,
+      "A": 7,
       "B": 13,
-      "G": 10,
-      "L": 6,
+      "G": 11,
+      "L": 8,
       "N": 4
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 2,
         "6": 1,
         "7": 1,
@@ -84,12 +86,12 @@
       "G": {
         "4": 4,
         "7": 3,
-        "8": 3
+        "8": 4
       },
       "L": {
         "4": 1,
-        "5": 1,
-        "6": 3,
+        "5": 2,
+        "6": 4,
         "7": 1
       },
       "N": {
@@ -101,15 +103,15 @@
     "two_letter_list": {
       "AI": 1,
       "AL": 5,
-      "AN": 2,
+      "AN": 1,
       "BA": 7,
       "BI": 2,
       "BL": 4,
-      "GA": 6,
+      "GA": 7,
       "GI": 2,
       "GL": 2,
-      "LA": 5,
-      "LI": 1,
+      "LA": 6,
+      "LI": 2,
       "NA": 2,
       "NI": 2
     }

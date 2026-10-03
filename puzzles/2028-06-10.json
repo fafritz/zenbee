@@ -1,9 +1,9 @@
 {
   "pangram": "charity",
   "center_letter": "r",
-  "num_answers": 43,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 197,
+  "possible_points": 189,
   "answer_pangrams": [
     "charity"
   ],
@@ -33,7 +33,6 @@
     "circa",
     "cirri",
     "citric",
-    "cray",
     "critic",
     "hair",
     "hairy",
@@ -41,7 +40,6 @@
     "hart",
     "racy",
     "rarity",
-    "ratatat",
     "ratty",
     "rich",
     "tart",
@@ -55,18 +53,18 @@
   "date": "2028-06-10",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 12,
       "5": 16,
       "6": 6,
-      "7": 5,
+      "7": 4,
       "8": 1,
       "9": 2
     },
     "by_first_letter": {
       "A": 11,
-      "C": 16,
+      "C": 15,
       "H": 4,
-      "R": 5,
+      "R": 4,
       "T": 7
     },
     "grid": {
@@ -78,7 +76,7 @@
         "9": 1
       },
       "C": {
-        "4": 3,
+        "4": 2,
         "5": 7,
         "6": 2,
         "7": 2,
@@ -92,8 +90,7 @@
       "R": {
         "4": 2,
         "5": 1,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
         "4": 2,
@@ -108,9 +105,9 @@
       "CA": 6,
       "CH": 5,
       "CI": 3,
-      "CR": 2,
+      "CR": 1,
       "HA": 4,
-      "RA": 4,
+      "RA": 3,
       "RI": 1,
       "TA": 2,
       "TH": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "gunwale",
   "center_letter": "u",
-  "num_answers": 19,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 76,
+  "possible_points": 83,
   "answer_pangrams": [
     "gunwale"
   ],
@@ -18,6 +18,7 @@
     "language",
     "league",
     "luau",
+    "luge",
     "luggage",
     "lull",
     "lulu",
@@ -26,23 +27,24 @@
     "null",
     "ulna",
     "ulnae",
+    "unglue",
     "unwell"
   ],
   "date": "2035-07-22",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 10,
       "5": 4,
-      "6": 3,
+      "6": 4,
       "7": 2,
       "8": 1
     },
     "by_first_letter": {
       "A": 3,
       "G": 4,
-      "L": 8,
+      "L": 9,
       "N": 1,
-      "U": 3
+      "U": 4
     },
     "grid": {
       "A": {
@@ -56,7 +58,7 @@
         "7": 1
       },
       "L": {
-        "4": 4,
+        "4": 5,
         "5": 1,
         "6": 1,
         "7": 1,
@@ -68,7 +70,7 @@
       "U": {
         "4": 1,
         "5": 1,
-        "6": 1
+        "6": 2
       }
     },
     "two_letter_list": {
@@ -79,10 +81,10 @@
       "GU": 2,
       "LA": 1,
       "LE": 1,
-      "LU": 6,
+      "LU": 7,
       "NU": 1,
       "UL": 2,
-      "UN": 1
+      "UN": 2
     }
   }
 }

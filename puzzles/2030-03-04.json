@@ -1,9 +1,9 @@
 {
   "pangram": "painful",
   "center_letter": "u",
-  "num_answers": 23,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 86,
+  "possible_points": 93,
   "answer_pangrams": [
     "painful"
   ],
@@ -15,7 +15,9 @@
     "fluff",
     "fulfill",
     "full",
+    "inulin",
     "luau",
+    "luff",
     "lull",
     "lulu",
     "null",
@@ -35,15 +37,16 @@
   "date": "2030-03-04",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 7,
-      "6": 2,
+      "6": 3,
       "7": 3
     },
     "by_first_letter": {
       "A": 2,
       "F": 5,
-      "L": 3,
+      "I": 1,
+      "L": 4,
       "N": 1,
       "P": 10,
       "U": 2
@@ -58,8 +61,11 @@
         "5": 2,
         "7": 1
       },
+      "I": {
+        "6": 1
+      },
       "L": {
-        "4": 3
+        "4": 4
       },
       "N": {
         "4": 1
@@ -80,7 +86,8 @@
       "FA": 2,
       "FL": 1,
       "FU": 2,
-      "LU": 3,
+      "IN": 1,
+      "LU": 4,
       "NU": 1,
       "PA": 2,
       "PI": 1,

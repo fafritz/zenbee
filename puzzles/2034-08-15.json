@@ -1,9 +1,9 @@
 {
   "pangram": "humbled",
   "center_letter": "d",
-  "num_answers": 52,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 269,
+  "possible_points": 287,
   "answer_pangrams": [
     "humbled"
   ],
@@ -16,6 +16,7 @@
     "blued",
     "bubbled",
     "budded",
+    "bulbed",
     "bulled",
     "bumbled",
     "bummed",
@@ -36,6 +37,7 @@
     "dumb",
     "dumbbell",
     "ebbed",
+    "eeled",
     "elude",
     "eluded",
     "embed",
@@ -44,12 +46,14 @@
     "heeded",
     "heeled",
     "held",
+    "helmed",
     "hemmed",
     "huddle",
     "huddled",
     "hulled",
     "humbled",
     "hummed",
+    "lede",
     "lubed",
     "lulled",
     "meddle",
@@ -64,25 +68,25 @@
   "date": "2034-08-15",
   "hints": {
     "by_length": {
-      "4": 11,
-      "5": 7,
-      "6": 24,
+      "4": 12,
+      "5": 8,
+      "6": 26,
       "7": 8,
       "8": 2
     },
     "by_first_letter": {
-      "B": 11,
+      "B": 12,
       "D": 16,
-      "E": 5,
-      "H": 10,
-      "L": 2,
+      "E": 6,
+      "H": 11,
+      "L": 3,
       "M": 8
     },
     "grid": {
       "B": {
         "4": 1,
         "5": 2,
-        "6": 6,
+        "6": 7,
         "7": 2
       },
       "D": {
@@ -93,16 +97,17 @@
         "8": 1
       },
       "E": {
-        "5": 3,
+        "5": 4,
         "6": 1,
         "8": 1
       },
       "H": {
         "4": 2,
-        "6": 6,
+        "6": 7,
         "7": 2
       },
       "L": {
+        "4": 1,
         "5": 1,
         "6": 1
       },
@@ -115,14 +120,16 @@
     "two_letter_list": {
       "BE": 3,
       "BL": 3,
-      "BU": 5,
+      "BU": 6,
       "DE": 7,
       "DU": 9,
       "EB": 1,
+      "EE": 1,
       "EL": 2,
       "EM": 2,
-      "HE": 5,
+      "HE": 6,
       "HU": 5,
+      "LE": 1,
       "LU": 2,
       "ME": 4,
       "MU": 4

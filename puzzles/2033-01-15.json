@@ -1,9 +1,9 @@
 {
   "pangram": "acolyte",
   "center_letter": "t",
-  "num_answers": 56,
+  "num_answers": 57,
   "num_pangrams": 1,
-  "possible_points": 256,
+  "possible_points": 261,
   "answer_pangrams": [
     "acolyte"
   ],
@@ -30,6 +30,7 @@
     "eclat",
     "elate",
     "elect",
+    "elote",
     "eyelet",
     "lactate",
     "late",
@@ -69,7 +70,7 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 14,
+      "5": 15,
       "6": 9,
       "7": 9,
       "8": 3,
@@ -79,7 +80,7 @@
     "by_first_letter": {
       "A": 6,
       "C": 13,
-      "E": 4,
+      "E": 5,
       "L": 10,
       "O": 3,
       "T": 20
@@ -99,7 +100,7 @@
         "9": 1
       },
       "E": {
-        "5": 3,
+        "5": 4,
         "6": 1
       },
       "L": {
@@ -129,7 +130,7 @@
       "CL": 2,
       "CO": 8,
       "EC": 1,
-      "EL": 2,
+      "EL": 3,
       "EY": 1,
       "LA": 5,
       "LO": 5,

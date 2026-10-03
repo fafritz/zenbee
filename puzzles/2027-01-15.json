@@ -1,9 +1,9 @@
 {
   "pangram": "factory",
   "center_letter": "f",
-  "num_answers": 18,
+  "num_answers": 17,
   "num_pangrams": 1,
-  "possible_points": 65,
+  "possible_points": 64,
   "answer_pangrams": [
     "factory"
   ],
@@ -15,7 +15,6 @@
     "fact",
     "factor",
     "factory",
-    "fart",
     "fatty",
     "foot",
     "foray",
@@ -30,7 +29,7 @@
   "date": "2027-01-15",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 8,
       "5": 6,
       "6": 2,
       "7": 1
@@ -38,7 +37,7 @@
     "by_first_letter": {
       "A": 2,
       "C": 2,
-      "F": 11,
+      "F": 10,
       "R": 2,
       "T": 1
     },
@@ -52,7 +51,7 @@
         "6": 1
       },
       "F": {
-        "4": 6,
+        "4": 5,
         "5": 3,
         "6": 1,
         "7": 1
@@ -67,7 +66,7 @@
     "two_letter_list": {
       "AF": 2,
       "CR": 2,
-      "FA": 5,
+      "FA": 4,
       "FO": 4,
       "FR": 2,
       "RA": 1,

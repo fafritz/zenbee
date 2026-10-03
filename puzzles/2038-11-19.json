@@ -1,15 +1,16 @@
 {
   "pangram": "naively",
   "center_letter": "i",
-  "num_answers": 41,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 179,
+  "possible_points": 201,
   "answer_pangrams": [
     "naively"
   ],
   "answers": [
     "alien",
     "alive",
+    "aniline",
     "anvil",
     "avail",
     "avian",
@@ -21,6 +22,7 @@
     "inlay",
     "inline",
     "lain",
+    "lanai",
     "lien",
     "lily",
     "line",
@@ -47,6 +49,7 @@
     "villa",
     "villain",
     "villainy",
+    "villanelle",
     "vine",
     "vinyl"
   ],
@@ -54,22 +57,24 @@
   "hints": {
     "by_length": {
       "4": 14,
-      "5": 13,
+      "5": 14,
       "6": 7,
-      "7": 5,
-      "8": 2
+      "7": 6,
+      "8": 2,
+      "10": 1
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 6,
       "E": 3,
       "I": 4,
-      "L": 10,
+      "L": 11,
       "N": 5,
-      "V": 14
+      "V": 15
     },
     "grid": {
       "A": {
-        "5": 5
+        "5": 5,
+        "7": 1
       },
       "E": {
         "4": 1,
@@ -83,7 +88,7 @@
       },
       "L": {
         "4": 5,
-        "5": 2,
+        "5": 3,
         "6": 2,
         "8": 1
       },
@@ -97,23 +102,24 @@
         "5": 2,
         "6": 3,
         "7": 2,
-        "8": 1
+        "8": 1,
+        "10": 1
       }
     },
     "two_letter_list": {
       "AL": 2,
-      "AN": 1,
+      "AN": 2,
       "AV": 2,
       "EN": 1,
       "EV": 2,
       "IN": 4,
-      "LA": 1,
+      "LA": 2,
       "LI": 9,
       "NA": 3,
       "NI": 2,
       "VA": 3,
       "VE": 3,
-      "VI": 8
+      "VI": 9
     }
   }
 }

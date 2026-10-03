@@ -1,9 +1,9 @@
 {
   "pangram": "mulched",
   "center_letter": "m",
-  "num_answers": 25,
+  "num_answers": 27,
   "num_pangrams": 1,
-  "possible_points": 113,
+  "possible_points": 120,
   "answer_pangrams": [
     "mulched"
   ],
@@ -16,6 +16,8 @@
     "emcee",
     "emceed",
     "helm",
+    "helmed",
+    "heme",
     "hemmed",
     "hummed",
     "meddle",
@@ -37,16 +39,16 @@
   "date": "2032-01-31",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 10,
       "5": 3,
-      "6": 9,
+      "6": 10,
       "7": 4
     },
     "by_first_letter": {
       "C": 3,
       "D": 2,
       "E": 2,
-      "H": 3,
+      "H": 5,
       "M": 15
     },
     "grid": {
@@ -63,8 +65,8 @@
         "6": 1
       },
       "H": {
-        "4": 1,
-        "6": 2
+        "4": 2,
+        "6": 3
       },
       "M": {
         "4": 5,
@@ -77,7 +79,7 @@
       "CH": 3,
       "DE": 2,
       "EM": 2,
-      "HE": 2,
+      "HE": 4,
       "HU": 1,
       "ME": 6,
       "MU": 9

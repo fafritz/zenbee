@@ -1,9 +1,9 @@
 {
   "pangram": "charily",
   "center_letter": "l",
-  "num_answers": 41,
+  "num_answers": 42,
   "num_pangrams": 2,
-  "possible_points": 204,
+  "possible_points": 209,
   "answer_pangrams": [
     "archaically",
     "charily"
@@ -33,6 +33,7 @@
     "hill",
     "hilly",
     "icily",
+    "iliac",
     "lacy",
     "lair",
     "larch",
@@ -55,7 +56,7 @@
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 12,
+      "5": 13,
       "6": 7,
       "7": 3,
       "8": 3,
@@ -67,7 +68,7 @@
       "A": 6,
       "C": 12,
       "H": 5,
-      "I": 1,
+      "I": 2,
       "L": 10,
       "R": 7
     },
@@ -92,7 +93,7 @@
         "5": 2
       },
       "I": {
-        "5": 1
+        "5": 2
       },
       "L": {
         "4": 5,
@@ -120,6 +121,7 @@
       "HA": 3,
       "HI": 2,
       "IC": 1,
+      "IL": 1,
       "LA": 3,
       "LI": 4,
       "LY": 3,

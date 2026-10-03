@@ -1,9 +1,9 @@
 {
   "pangram": "crazily",
   "center_letter": "l",
-  "num_answers": 31,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 147,
+  "possible_points": 152,
   "answer_pangrams": [
     "crazily"
   ],
@@ -22,6 +22,7 @@
     "cyclical",
     "cyclically",
     "icily",
+    "iliac",
     "lacy",
     "lair",
     "lazily",
@@ -44,7 +45,7 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 7,
+      "5": 8,
       "6": 5,
       "7": 3,
       "8": 3,
@@ -54,7 +55,7 @@
     "by_first_letter": {
       "A": 4,
       "C": 9,
-      "I": 1,
+      "I": 2,
       "L": 11,
       "R": 6
     },
@@ -74,7 +75,7 @@
         "10": 1
       },
       "I": {
-        "5": 1
+        "5": 2
       },
       "L": {
         "4": 6,
@@ -100,6 +101,7 @@
       "CR": 1,
       "CY": 3,
       "IC": 1,
+      "IL": 1,
       "LA": 4,
       "LI": 4,
       "LY": 3,

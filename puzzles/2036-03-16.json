@@ -1,9 +1,9 @@
 {
   "pangram": "whaling",
   "center_letter": "i",
-  "num_answers": 65,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 382,
+  "possible_points": 392,
   "answer_pangrams": [
     "whaling"
   ],
@@ -38,12 +38,13 @@
     "hawing",
     "high",
     "hill",
-    "hing",
     "hinging",
     "inhaling",
     "inning",
     "lagging",
     "lain",
+    "lanai",
+    "lignin",
     "lining",
     "nagging",
     "nail",
@@ -77,9 +78,9 @@
   "date": "2036-03-16",
   "hints": {
     "by_length": {
-      "4": 12,
-      "5": 4,
-      "6": 13,
+      "4": 11,
+      "5": 5,
+      "6": 14,
       "7": 25,
       "8": 10,
       "10": 1
@@ -87,9 +88,9 @@
     "by_first_letter": {
       "A": 9,
       "G": 12,
-      "H": 11,
+      "H": 10,
       "I": 2,
-      "L": 3,
+      "L": 5,
       "N": 5,
       "W": 23
     },
@@ -106,7 +107,7 @@
         "8": 2
       },
       "H": {
-        "4": 4,
+        "4": 3,
         "6": 2,
         "7": 3,
         "8": 2
@@ -117,7 +118,8 @@
       },
       "L": {
         "4": 1,
-        "6": 1,
+        "5": 1,
+        "6": 2,
         "7": 1
       },
       "N": {
@@ -143,10 +145,10 @@
       "GI": 4,
       "GN": 1,
       "HA": 7,
-      "HI": 4,
+      "HI": 3,
       "IN": 2,
-      "LA": 2,
-      "LI": 1,
+      "LA": 3,
+      "LI": 2,
       "NA": 3,
       "NI": 2,
       "WA": 9,

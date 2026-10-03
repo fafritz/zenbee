@@ -1,9 +1,9 @@
 {
   "pangram": "foundry",
   "center_letter": "o",
-  "num_answers": 25,
+  "num_answers": 24,
   "num_pangrams": 1,
-  "possible_points": 71,
+  "possible_points": 66,
   "answer_pangrams": [
     "foundry"
   ],
@@ -14,7 +14,6 @@
     "door",
     "dory",
     "dour",
-    "dunno",
     "fond",
     "food",
     "ford",
@@ -38,12 +37,12 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 7,
+      "5": 6,
       "6": 1,
       "7": 1
     },
     "by_first_letter": {
-      "D": 7,
+      "D": 6,
       "F": 8,
       "N": 3,
       "O": 1,
@@ -54,7 +53,7 @@
     "grid": {
       "D": {
         "4": 5,
-        "5": 2
+        "5": 1
       },
       "F": {
         "4": 4,
@@ -82,7 +81,6 @@
     },
     "two_letter_list": {
       "DO": 6,
-      "DU": 1,
       "FO": 6,
       "FR": 1,
       "FU": 1,

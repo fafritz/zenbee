@@ -1,9 +1,9 @@
 {
   "pangram": "poniard",
   "center_letter": "a",
-  "num_answers": 44,
+  "num_answers": 45,
   "num_pangrams": 3,
-  "possible_points": 195,
+  "possible_points": 205,
   "answer_pangrams": [
     "paranoid",
     "poniard",
@@ -26,7 +26,6 @@
     "doodad",
     "drain",
     "inroad",
-    "ipad",
     "naan",
     "nadir",
     "naiad",
@@ -36,11 +35,13 @@
     "pain",
     "pair",
     "panda",
+    "panini",
     "papa",
     "paranoia",
     "paranoid",
     "pardon",
     "piano",
+    "pinna",
     "poniard",
     "radar",
     "radian",
@@ -58,19 +59,19 @@
   "date": "2034-05-22",
   "hints": {
     "by_length": {
-      "4": 17,
-      "5": 15,
-      "6": 5,
+      "4": 16,
+      "5": 16,
+      "6": 6,
       "7": 4,
       "8": 3
     },
     "by_first_letter": {
       "A": 10,
       "D": 5,
-      "I": 2,
+      "I": 1,
       "N": 4,
       "O": 1,
-      "P": 10,
+      "P": 12,
       "R": 12
     },
     "grid": {
@@ -85,7 +86,6 @@
         "6": 1
       },
       "I": {
-        "4": 1,
         "6": 1
       },
       "N": {
@@ -97,8 +97,8 @@
       },
       "P": {
         "4": 4,
-        "5": 2,
-        "6": 1,
+        "5": 3,
+        "6": 2,
         "7": 1,
         "8": 2
       },
@@ -120,11 +120,10 @@
       "DO": 1,
       "DR": 1,
       "IN": 1,
-      "IP": 1,
       "NA": 4,
       "OR": 1,
-      "PA": 8,
-      "PI": 1,
+      "PA": 9,
+      "PI": 2,
       "PO": 1,
       "RA": 9,
       "RO": 3

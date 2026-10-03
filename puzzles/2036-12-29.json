@@ -1,9 +1,9 @@
 {
   "pangram": "acolyte",
   "center_letter": "o",
-  "num_answers": 51,
+  "num_answers": 52,
   "num_pangrams": 1,
-  "possible_points": 209,
+  "possible_points": 214,
   "answer_pangrams": [
     "acolyte"
   ],
@@ -34,6 +34,7 @@
     "cote",
     "coyly",
     "coyote",
+    "elote",
     "local",
     "locale",
     "locally",
@@ -64,7 +65,7 @@
   "hints": {
     "by_length": {
       "4": 21,
-      "5": 13,
+      "5": 14,
       "6": 7,
       "7": 7,
       "8": 2,
@@ -73,6 +74,7 @@
     "by_first_letter": {
       "A": 7,
       "C": 19,
+      "E": 1,
       "L": 12,
       "O": 4,
       "T": 9
@@ -90,6 +92,9 @@
         "6": 2,
         "7": 2,
         "9": 1
+      },
+      "E": {
+        "5": 1
       },
       "L": {
         "4": 3,
@@ -118,6 +123,7 @@
       "CE": 1,
       "CL": 2,
       "CO": 15,
+      "EL": 1,
       "LO": 12,
       "OC": 3,
       "OL": 1,

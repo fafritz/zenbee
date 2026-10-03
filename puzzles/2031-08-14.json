@@ -1,9 +1,9 @@
 {
   "pangram": "haloing",
   "center_letter": "i",
-  "num_answers": 66,
+  "num_answers": 68,
   "num_pangrams": 2,
-  "possible_points": 386,
+  "possible_points": 405,
   "answer_pangrams": [
     "haloing",
     "hooligan"
@@ -43,7 +43,6 @@
     "hangnail",
     "high",
     "hill",
-    "hing",
     "hinging",
     "hogging",
     "holing",
@@ -54,7 +53,9 @@
     "inning",
     "lagging",
     "lain",
+    "lanai",
     "lanolin",
+    "lignin",
     "lingo",
     "lining",
     "lion",
@@ -70,6 +71,7 @@
     "niggling",
     "nigh",
     "noggin",
+    "nonillion",
     "ogling",
     "oiling",
     "olio",
@@ -79,19 +81,20 @@
   "date": "2031-08-14",
   "hints": {
     "by_length": {
-      "4": 12,
-      "5": 9,
-      "6": 11,
+      "4": 11,
+      "5": 10,
+      "6": 12,
       "7": 23,
-      "8": 11
+      "8": 11,
+      "9": 1
     },
     "by_first_letter": {
       "A": 8,
       "G": 17,
-      "H": 15,
+      "H": 14,
       "I": 3,
-      "L": 12,
-      "N": 6,
+      "L": 14,
+      "N": 7,
       "O": 5
     },
     "grid": {
@@ -109,7 +112,7 @@
         "8": 5
       },
       "H": {
-        "4": 4,
+        "4": 3,
         "6": 3,
         "7": 5,
         "8": 3
@@ -121,15 +124,16 @@
       },
       "L": {
         "4": 3,
-        "5": 2,
-        "6": 1,
+        "5": 3,
+        "6": 2,
         "7": 6
       },
       "N": {
         "4": 2,
         "6": 1,
         "7": 2,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "O": {
         "4": 1,
@@ -147,16 +151,16 @@
       "GI": 5,
       "GO": 4,
       "HA": 7,
-      "HI": 4,
+      "HI": 3,
       "HO": 4,
       "IG": 1,
       "IN": 2,
-      "LA": 3,
-      "LI": 3,
+      "LA": 4,
+      "LI": 4,
       "LO": 6,
       "NA": 3,
       "NI": 2,
-      "NO": 1,
+      "NO": 2,
       "OG": 1,
       "OI": 1,
       "OL": 1,

@@ -3,14 +3,13 @@
   "center_letter": "a",
   "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 113,
+  "possible_points": 117,
   "answer_pangrams": [
     "handily"
   ],
   "answers": [
     "allay",
     "ally",
-    "anal",
     "daddy",
     "dahlia",
     "daily",
@@ -30,6 +29,7 @@
     "lady",
     "laid",
     "lain",
+    "lanai",
     "land",
     "landlady",
     "naan",
@@ -41,24 +41,24 @@
   "date": "2038-06-12",
   "hints": {
     "by_length": {
-      "4": 13,
-      "5": 10,
+      "4": 12,
+      "5": 11,
       "6": 3,
       "7": 1,
       "8": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 3,
+      "A": 2,
       "D": 7,
       "H": 6,
       "I": 3,
-      "L": 5,
+      "L": 6,
       "N": 5
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 1
       },
       "D": {
@@ -78,6 +78,7 @@
       },
       "L": {
         "4": 4,
+        "5": 1,
         "8": 1
       },
       "N": {
@@ -87,12 +88,11 @@
     },
     "two_letter_list": {
       "AL": 2,
-      "AN": 1,
       "DA": 5,
       "DI": 2,
       "HA": 6,
       "IN": 3,
-      "LA": 5,
+      "LA": 6,
       "NA": 5
     }
   }

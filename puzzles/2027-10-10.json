@@ -1,14 +1,14 @@
 {
   "pangram": "manhole",
   "center_letter": "e",
-  "num_answers": 45,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 125,
+  "possible_points": 131,
   "answer_pangrams": [
     "manhole"
   ],
   "answers": [
-    "ahem",
+    "allele",
     "aloe",
     "alone",
     "amen",
@@ -24,6 +24,7 @@
     "hellhole",
     "hello",
     "helm",
+    "heme",
     "henna",
     "hole",
     "home",
@@ -59,14 +60,14 @@
     "by_length": {
       "4": 30,
       "5": 8,
-      "6": 3,
+      "6": 4,
       "7": 2,
       "8": 2
     },
     "by_first_letter": {
       "A": 6,
       "E": 3,
-      "H": 11,
+      "H": 12,
       "L": 6,
       "M": 12,
       "N": 5,
@@ -74,9 +75,9 @@
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 1,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "E": {
@@ -85,7 +86,7 @@
         "6": 1
       },
       "H": {
-        "4": 8,
+        "4": 9,
         "5": 2,
         "8": 1
       },
@@ -108,14 +109,13 @@
       }
     },
     "two_letter_list": {
-      "AH": 1,
-      "AL": 2,
+      "AL": 3,
       "AM": 1,
       "AN": 2,
       "EL": 1,
       "EN": 2,
       "HA": 1,
-      "HE": 7,
+      "HE": 8,
       "HO": 3,
       "LA": 2,
       "LE": 3,

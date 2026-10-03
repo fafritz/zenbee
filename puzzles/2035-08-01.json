@@ -1,9 +1,9 @@
 {
   "pangram": "flaring",
   "center_letter": "r",
-  "num_answers": 59,
+  "num_answers": 65,
   "num_pangrams": 2,
-  "possible_points": 319,
+  "possible_points": 361,
   "answer_pangrams": [
     "flaring",
     "raffling"
@@ -19,6 +19,7 @@
     "arraigning",
     "arranging",
     "fair",
+    "fairing",
     "farina",
     "faring",
     "firing",
@@ -33,6 +34,8 @@
     "gargling",
     "girl",
     "glaring",
+    "gnarl",
+    "gnarling",
     "grail",
     "grain",
     "griffin",
@@ -40,7 +43,10 @@
     "grilling",
     "grin",
     "grinning",
+    "infra",
     "infringing",
+    "ingrain",
+    "ingraining",
     "lair",
     "liar",
     "lira",
@@ -73,18 +79,18 @@
   "hints": {
     "by_length": {
       "4": 17,
-      "5": 7,
+      "5": 9,
       "6": 10,
-      "7": 12,
-      "8": 10,
+      "7": 14,
+      "8": 11,
       "9": 1,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 9,
-      "F": 11,
-      "G": 11,
-      "I": 1,
+      "F": 12,
+      "G": 13,
+      "I": 4,
       "L": 3,
       "R": 24
     },
@@ -101,17 +107,19 @@
         "4": 2,
         "5": 4,
         "6": 3,
-        "7": 1,
+        "7": 2,
         "8": 1
       },
       "G": {
         "4": 2,
-        "5": 3,
+        "5": 4,
         "7": 2,
-        "8": 4
+        "8": 5
       },
       "I": {
-        "10": 1
+        "5": 1,
+        "7": 1,
+        "10": 2
       },
       "L": {
         "4": 3
@@ -128,15 +136,16 @@
       "AG": 2,
       "AI": 1,
       "AR": 4,
-      "FA": 3,
+      "FA": 4,
       "FI": 1,
       "FL": 2,
       "FR": 5,
       "GA": 2,
       "GI": 1,
       "GL": 1,
+      "GN": 2,
       "GR": 7,
-      "IN": 1,
+      "IN": 4,
       "LA": 1,
       "LI": 2,
       "RA": 14,

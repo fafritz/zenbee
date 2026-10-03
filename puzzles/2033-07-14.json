@@ -1,9 +1,9 @@
 {
   "pangram": "worming",
   "center_letter": "o",
-  "num_answers": 59,
+  "num_answers": 63,
   "num_pangrams": 2,
-  "possible_points": 306,
+  "possible_points": 319,
   "answer_pangrams": [
     "ringworm",
     "worming"
@@ -14,6 +14,7 @@
     "gonging",
     "goon",
     "gorging",
+    "gorgon",
     "goring",
     "gown",
     "gowning",
@@ -46,7 +47,9 @@
     "morrow",
     "mowing",
     "noggin",
+    "noir",
     "noon",
+    "nori",
     "norm",
     "ongoing",
     "onion",
@@ -55,6 +58,7 @@
     "owning",
     "rigor",
     "ringworm",
+    "ronin",
     "room",
     "rooming",
     "rowing",
@@ -72,27 +76,27 @@
   "date": "2033-07-14",
   "hints": {
     "by_length": {
-      "4": 16,
-      "5": 10,
-      "6": 14,
+      "4": 18,
+      "5": 11,
+      "6": 15,
       "7": 12,
       "8": 5,
       "9": 2
     },
     "by_first_letter": {
-      "G": 15,
+      "G": 16,
       "I": 4,
       "M": 17,
-      "N": 3,
+      "N": 5,
       "O": 5,
-      "R": 5,
+      "R": 6,
       "W": 10
     },
     "grid": {
       "G": {
         "4": 5,
         "5": 4,
-        "6": 1,
+        "6": 2,
         "7": 4,
         "8": 1
       },
@@ -110,7 +114,7 @@
         "9": 1
       },
       "N": {
-        "4": 2,
+        "4": 4,
         "6": 1
       },
       "O": {
@@ -120,7 +124,7 @@
       },
       "R": {
         "4": 1,
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 1,
         "8": 1
@@ -135,19 +139,19 @@
       }
     },
     "two_letter_list": {
-      "GO": 8,
+      "GO": 9,
       "GR": 7,
       "IG": 1,
       "IN": 1,
       "IR": 2,
       "MI": 6,
       "MO": 11,
-      "NO": 3,
+      "NO": 5,
       "ON": 2,
       "OR": 1,
       "OW": 2,
       "RI": 2,
-      "RO": 3,
+      "RO": 4,
       "WI": 3,
       "WO": 5,
       "WR": 2

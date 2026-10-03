@@ -1,9 +1,9 @@
 {
   "pangram": "foaming",
   "center_letter": "o",
-  "num_answers": 34,
+  "num_answers": 33,
   "num_pangrams": 1,
-  "possible_points": 153,
+  "possible_points": 148,
   "answer_pangrams": [
     "foaming"
   ],
@@ -22,7 +22,6 @@
     "going",
     "gong",
     "gonging",
-    "gonna",
     "goof",
     "goofing",
     "goon",
@@ -47,7 +46,7 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 9,
+      "5": 8,
       "6": 4,
       "7": 8,
       "9": 1
@@ -55,7 +54,7 @@
     "by_first_letter": {
       "A": 8,
       "F": 3,
-      "G": 7,
+      "G": 6,
       "I": 1,
       "M": 10,
       "N": 2,
@@ -73,7 +72,7 @@
       },
       "G": {
         "4": 3,
-        "5": 2,
+        "5": 1,
         "7": 2
       },
       "I": {
@@ -101,7 +100,7 @@
       "AM": 5,
       "AN": 2,
       "FO": 3,
-      "GO": 7,
+      "GO": 6,
       "IN": 1,
       "MA": 1,
       "MI": 1,

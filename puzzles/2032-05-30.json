@@ -1,9 +1,9 @@
 {
   "pangram": "godlike",
   "center_letter": "d",
-  "num_answers": 67,
+  "num_answers": 70,
   "num_pangrams": 1,
-  "possible_points": 296,
+  "possible_points": 303,
   "answer_pangrams": [
     "godlike"
   ],
@@ -22,6 +22,7 @@
     "dodge",
     "dodged",
     "dodo",
+    "doge",
     "dogged",
     "dogie",
     "dole",
@@ -33,6 +34,7 @@
     "eddied",
     "edge",
     "edged",
+    "eeled",
     "egged",
     "eked",
     "elide",
@@ -61,6 +63,7 @@
     "kidded",
     "kiddo",
     "killed",
+    "lede",
     "ledge",
     "legged",
     "lidded",
@@ -79,30 +82,30 @@
   "date": "2032-05-30",
   "hints": {
     "by_length": {
-      "4": 20,
-      "5": 19,
+      "4": 22,
+      "5": 20,
       "6": 22,
       "7": 6
     },
     "by_first_letter": {
-      "D": 22,
-      "E": 7,
+      "D": 23,
+      "E": 8,
       "G": 17,
       "I": 3,
       "K": 4,
-      "L": 11,
+      "L": 12,
       "O": 3
     },
     "grid": {
       "D": {
-        "4": 9,
+        "4": 10,
         "5": 5,
         "6": 6,
         "7": 2
       },
       "E": {
         "4": 2,
-        "5": 3,
+        "5": 4,
         "6": 2
       },
       "G": {
@@ -120,7 +123,7 @@
         "6": 3
       },
       "L": {
-        "4": 2,
+        "4": 3,
         "5": 3,
         "6": 6
       },
@@ -131,8 +134,9 @@
     "two_letter_list": {
       "DE": 4,
       "DI": 7,
-      "DO": 11,
+      "DO": 12,
       "ED": 3,
+      "EE": 1,
       "EG": 1,
       "EK": 1,
       "EL": 2,
@@ -143,7 +147,7 @@
       "ID": 3,
       "KE": 1,
       "KI": 3,
-      "LE": 2,
+      "LE": 3,
       "LI": 3,
       "LO": 6,
       "OG": 1,

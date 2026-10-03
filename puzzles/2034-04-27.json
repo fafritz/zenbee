@@ -1,9 +1,9 @@
 {
   "pangram": "doublet",
   "center_letter": "u",
-  "num_answers": 51,
+  "num_answers": 53,
   "num_pangrams": 1,
-  "possible_points": 228,
+  "possible_points": 240,
   "answer_pangrams": [
     "doublet"
   ],
@@ -17,6 +17,7 @@
     "bubbled",
     "budded",
     "bulb",
+    "bulbed",
     "bull",
     "bulled",
     "bullet",
@@ -55,6 +56,7 @@
     "outlet",
     "tout",
     "touted",
+    "tubbed",
     "tube",
     "tubed",
     "tulle",
@@ -65,24 +67,24 @@
     "by_length": {
       "4": 17,
       "5": 12,
-      "6": 14,
+      "6": 16,
       "7": 6,
       "8": 1,
       "10": 1
     },
     "by_first_letter": {
-      "B": 14,
+      "B": 15,
       "D": 17,
       "E": 3,
       "L": 8,
       "O": 3,
-      "T": 6
+      "T": 7
     },
     "grid": {
       "B": {
         "4": 4,
         "5": 2,
-        "6": 5,
+        "6": 6,
         "7": 1,
         "8": 1,
         "10": 1
@@ -109,13 +111,13 @@
       "T": {
         "4": 3,
         "5": 2,
-        "6": 1
+        "6": 2
       }
     },
     "two_letter_list": {
       "BL": 4,
       "BO": 1,
-      "BU": 9,
+      "BU": 10,
       "DE": 4,
       "DO": 5,
       "DU": 8,
@@ -125,7 +127,7 @@
       "LU": 6,
       "OU": 3,
       "TO": 2,
-      "TU": 4
+      "TU": 5
     }
   }
 }

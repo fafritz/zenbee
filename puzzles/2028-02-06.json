@@ -1,9 +1,9 @@
 {
   "pangram": "nomadic",
   "center_letter": "i",
-  "num_answers": 42,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 200,
+  "possible_points": 220,
   "answer_pangrams": [
     "nomadic"
   ],
@@ -29,8 +29,11 @@
     "dominion",
     "domino",
     "icon",
+    "iconic",
     "idiom",
     "imam",
+    "ionic",
+    "macadamia",
     "maid",
     "maim",
     "main",
@@ -55,19 +58,19 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 13,
-      "6": 10,
+      "5": 14,
+      "6": 11,
       "7": 3,
       "8": 2,
-      "9": 1,
+      "9": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 9,
       "C": 7,
       "D": 4,
-      "I": 3,
-      "M": 15,
+      "I": 5,
+      "M": 16,
       "N": 3,
       "O": 1
     },
@@ -91,13 +94,14 @@
       },
       "I": {
         "4": 2,
-        "5": 1
+        "5": 2,
+        "6": 1
       },
       "M": {
         "4": 6,
         "5": 4,
         "6": 3,
-        "9": 1,
+        "9": 2,
         "10": 1
       },
       "N": {
@@ -119,10 +123,11 @@
       "CO": 4,
       "DI": 1,
       "DO": 3,
-      "IC": 1,
+      "IC": 2,
       "ID": 1,
       "IM": 1,
-      "MA": 6,
+      "IO": 1,
+      "MA": 7,
       "MI": 7,
       "MO": 2,
       "NA": 1,

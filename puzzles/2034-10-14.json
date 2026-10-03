@@ -1,9 +1,9 @@
 {
   "pangram": "haircut",
   "center_letter": "c",
-  "num_answers": 43,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 207,
+  "possible_points": 212,
   "answer_pangrams": [
     "haircut"
   ],
@@ -38,6 +38,7 @@
     "citric",
     "critic",
     "crutch",
+    "curia",
     "curt",
     "haircut",
     "hatch",
@@ -56,7 +57,7 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 13,
+      "5": 14,
       "6": 9,
       "7": 5,
       "8": 2,
@@ -64,7 +65,7 @@
     },
     "by_first_letter": {
       "A": 9,
-      "C": 22,
+      "C": 23,
       "H": 4,
       "I": 1,
       "R": 1,
@@ -81,7 +82,7 @@
       },
       "C": {
         "4": 6,
-        "5": 7,
+        "5": 8,
         "6": 4,
         "7": 2,
         "8": 2,
@@ -114,7 +115,7 @@
       "CH": 8,
       "CI": 4,
       "CR": 2,
-      "CU": 1,
+      "CU": 2,
       "HA": 2,
       "HI": 1,
       "HU": 1,

@@ -1,15 +1,16 @@
 {
   "pangram": "tackled",
   "center_letter": "l",
-  "num_answers": 64,
+  "num_answers": 69,
   "num_pangrams": 1,
-  "possible_points": 295,
+  "possible_points": 320,
   "answer_pangrams": [
     "tackled"
   ],
   "answers": [
     "addle",
     "addled",
+    "allele",
     "cackle",
     "cackled",
     "calked",
@@ -20,6 +21,7 @@
     "catcalled",
     "cattle",
     "cell",
+    "celled",
     "clack",
     "clacked",
     "clad",
@@ -27,6 +29,7 @@
     "dale",
     "deal",
     "dealt",
+    "decadal",
     "decal",
     "deckle",
     "delete",
@@ -34,6 +37,7 @@
     "dell",
     "delta",
     "eclat",
+    "eeled",
     "elate",
     "elated",
     "elect",
@@ -57,6 +61,7 @@
     "leaded",
     "leak",
     "leaked",
+    "lede",
     "leek",
     "tackle",
     "tackled",
@@ -76,32 +81,32 @@
   "date": "2032-05-16",
   "hints": {
     "by_length": {
-      "4": 21,
-      "5": 13,
-      "6": 17,
-      "7": 8,
+      "4": 22,
+      "5": 14,
+      "6": 19,
+      "7": 9,
       "8": 2,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "A": 2,
-      "C": 14,
-      "D": 9,
-      "E": 5,
+      "A": 3,
+      "C": 15,
+      "D": 10,
+      "E": 6,
       "K": 4,
-      "L": 16,
+      "L": 17,
       "T": 14
     },
     "grid": {
       "A": {
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "C": {
         "4": 3,
         "5": 3,
-        "6": 4,
+        "6": 5,
         "7": 3,
         "9": 1
       },
@@ -109,10 +114,10 @@
         "4": 3,
         "5": 3,
         "6": 2,
-        "7": 1
+        "7": 2
       },
       "E": {
-        "5": 3,
+        "5": 4,
         "6": 1,
         "7": 1
       },
@@ -121,7 +126,7 @@
         "6": 2
       },
       "L": {
-        "4": 7,
+        "4": 8,
         "5": 3,
         "6": 4,
         "7": 1,
@@ -138,17 +143,19 @@
     },
     "two_letter_list": {
       "AD": 2,
+      "AL": 1,
       "CA": 9,
-      "CE": 1,
+      "CE": 2,
       "CL": 4,
       "DA": 1,
-      "DE": 8,
+      "DE": 9,
       "EC": 1,
+      "EE": 1,
       "EL": 4,
       "KA": 1,
       "KE": 3,
       "LA": 11,
-      "LE": 5,
+      "LE": 6,
       "TA": 10,
       "TE": 4
     }

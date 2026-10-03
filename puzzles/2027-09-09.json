@@ -1,9 +1,9 @@
 {
   "pangram": "mauling",
   "center_letter": "g",
-  "num_answers": 76,
+  "num_answers": 79,
   "num_pangrams": 1,
-  "possible_points": 478,
+  "possible_points": 492,
   "answer_pangrams": [
     "mauling"
   ],
@@ -19,10 +19,12 @@
     "angina",
     "angling",
     "annulling",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gallium",
@@ -52,11 +54,13 @@
     "lagging",
     "laming",
     "lamming",
+    "lignin",
     "liming",
     "limning",
     "lingual",
     "lining",
     "lugging",
+    "luging",
     "lulling",
     "lung",
     "lunging",
@@ -78,7 +82,6 @@
     "mining",
     "mugging",
     "mulling",
-    "munging",
     "nagging",
     "nailing",
     "naming",
@@ -88,20 +91,20 @@
   "date": "2027-09-09",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 10,
       "5": 6,
-      "6": 16,
-      "7": 32,
-      "8": 7,
+      "6": 18,
+      "7": 31,
+      "8": 8,
       "9": 4,
       "10": 2
     },
     "by_first_letter": {
       "A": 11,
-      "G": 25,
+      "G": 27,
       "I": 5,
-      "L": 11,
-      "M": 19,
+      "L": 13,
+      "M": 18,
       "N": 4,
       "U": 1
     },
@@ -115,11 +118,11 @@
         "9": 1
       },
       "G": {
-        "4": 7,
+        "4": 8,
         "5": 1,
         "6": 3,
         "7": 12,
-        "8": 2
+        "8": 3
       },
       "I": {
         "6": 2,
@@ -129,13 +132,13 @@
       },
       "L": {
         "4": 1,
-        "6": 3,
+        "6": 5,
         "7": 7
       },
       "M": {
         "5": 2,
         "6": 4,
-        "7": 8,
+        "7": 7,
         "8": 3,
         "9": 1,
         "10": 1
@@ -155,7 +158,7 @@
       "AL": 3,
       "AM": 1,
       "AN": 3,
-      "GA": 14,
+      "GA": 16,
       "GI": 4,
       "GL": 2,
       "GU": 5,
@@ -164,11 +167,11 @@
       "IM": 2,
       "IN": 1,
       "LA": 3,
-      "LI": 4,
-      "LU": 4,
+      "LI": 5,
+      "LU": 5,
       "MA": 12,
       "MI": 4,
-      "MU": 3,
+      "MU": 2,
       "NA": 3,
       "NI": 1,
       "UN": 1

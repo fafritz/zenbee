@@ -1,9 +1,9 @@
 {
   "pangram": "caviled",
   "center_letter": "a",
-  "num_answers": 70,
+  "num_answers": 74,
   "num_pangrams": 1,
-  "possible_points": 313,
+  "possible_points": 332,
   "answer_pangrams": [
     "caviled"
   ],
@@ -23,6 +23,7 @@
     "aided",
     "ailed",
     "alive",
+    "allele",
     "allied",
     "avail",
     "availed",
@@ -50,6 +51,7 @@
     "dallied",
     "dead",
     "deal",
+    "decadal",
     "decade",
     "decal",
     "dial",
@@ -59,12 +61,14 @@
     "evaded",
     "idea",
     "ideal",
+    "iliac",
     "lace",
     "laced",
     "ladle",
     "ladled",
     "laid",
     "lava",
+    "lave",
     "lead",
     "leaded",
     "leave",
@@ -82,27 +86,27 @@
   "date": "2028-01-05",
   "hints": {
     "by_length": {
-      "4": 21,
-      "5": 21,
-      "6": 19,
-      "7": 7,
+      "4": 22,
+      "5": 22,
+      "6": 20,
+      "7": 8,
       "8": 1,
       "9": 1
     },
     "by_first_letter": {
-      "A": 19,
+      "A": 20,
       "C": 19,
-      "D": 9,
+      "D": 10,
       "E": 2,
-      "I": 2,
-      "L": 11,
+      "I": 3,
+      "L": 12,
       "V": 8
     },
     "grid": {
       "A": {
         "4": 5,
         "5": 6,
-        "6": 6,
+        "6": 7,
         "7": 2
       },
       "C": {
@@ -117,7 +121,7 @@
         "4": 5,
         "5": 1,
         "6": 2,
-        "7": 1
+        "7": 2
       },
       "E": {
         "5": 1,
@@ -125,10 +129,10 @@
       },
       "I": {
         "4": 1,
-        "5": 1
+        "5": 2
       },
       "L": {
-        "4": 4,
+        "4": 5,
         "5": 4,
         "6": 3
       },
@@ -142,18 +146,19 @@
       "AC": 7,
       "AD": 4,
       "AI": 3,
-      "AL": 2,
+      "AL": 3,
       "AV": 3,
       "CA": 12,
       "CE": 1,
       "CI": 2,
       "CL": 4,
       "DA": 2,
-      "DE": 4,
+      "DE": 5,
       "DI": 3,
       "EV": 2,
       "ID": 2,
-      "LA": 6,
+      "IL": 1,
+      "LA": 7,
       "LE": 4,
       "LI": 1,
       "VA": 4,

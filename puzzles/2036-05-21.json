@@ -1,9 +1,9 @@
 {
   "pangram": "harping",
   "center_letter": "g",
-  "num_answers": 72,
+  "num_answers": 74,
   "num_pangrams": 3,
-  "possible_points": 427,
+  "possible_points": 444,
   "answer_pangrams": [
     "graphing",
     "harping",
@@ -20,6 +20,7 @@
     "arraign",
     "arraigning",
     "arranging",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -43,10 +44,11 @@
     "haring",
     "harping",
     "high",
-    "hing",
     "hinging",
     "hipping",
     "hiring",
+    "ingrain",
+    "ingraining",
     "inning",
     "nagging",
     "napping",
@@ -89,17 +91,17 @@
       "4": 15,
       "5": 6,
       "6": 13,
-      "7": 29,
+      "7": 30,
       "8": 5,
       "9": 2,
-      "10": 1,
+      "10": 2,
       "12": 1
     },
     "by_first_letter": {
       "A": 10,
-      "G": 17,
-      "H": 10,
-      "I": 1,
+      "G": 18,
+      "H": 9,
+      "I": 3,
       "N": 4,
       "P": 18,
       "R": 12
@@ -115,19 +117,21 @@
         "10": 1
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "5": 2,
         "6": 1,
         "7": 6,
         "8": 4
       },
       "H": {
-        "4": 3,
+        "4": 2,
         "6": 3,
         "7": 4
       },
       "I": {
-        "6": 1
+        "6": 1,
+        "7": 1,
+        "10": 1
       },
       "N": {
         "4": 1,
@@ -153,12 +157,12 @@
       "AN": 1,
       "AP": 1,
       "AR": 3,
-      "GA": 7,
+      "GA": 8,
       "GI": 2,
       "GR": 8,
       "HA": 5,
-      "HI": 5,
-      "IN": 1,
+      "HI": 4,
+      "IN": 3,
       "NA": 2,
       "NI": 2,
       "PA": 10,

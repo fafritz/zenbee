@@ -1,9 +1,9 @@
 {
   "pangram": "mortify",
   "center_letter": "i",
-  "num_answers": 16,
+  "num_answers": 17,
   "num_pangrams": 1,
-  "possible_points": 48,
+  "possible_points": 49,
   "answer_pangrams": [
     "mortify"
   ],
@@ -21,6 +21,7 @@
     "riff",
     "rift",
     "riot",
+    "roti",
     "tiff",
     "trim",
     "trio"
@@ -28,7 +29,7 @@
   "date": "2033-04-27",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 2,
       "6": 1,
       "7": 2
@@ -38,7 +39,7 @@
       "I": 1,
       "M": 5,
       "O": 1,
-      "R": 3,
+      "R": 4,
       "T": 3
     },
     "grid": {
@@ -60,7 +61,7 @@
         "4": 1
       },
       "R": {
-        "4": 3
+        "4": 4
       },
       "T": {
         "4": 3
@@ -74,6 +75,7 @@
       "MO": 2,
       "OM": 1,
       "RI": 3,
+      "RO": 1,
       "TI": 1,
       "TR": 2
     }

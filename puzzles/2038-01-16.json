@@ -1,9 +1,9 @@
 {
   "pangram": "camping",
   "center_letter": "g",
-  "num_answers": 58,
+  "num_answers": 59,
   "num_pangrams": 3,
-  "possible_points": 379,
+  "possible_points": 380,
   "answer_pangrams": [
     "campaign",
     "campaigning",
@@ -23,6 +23,7 @@
     "caning",
     "canning",
     "capping",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -72,7 +73,7 @@
   "date": "2038-01-16",
   "hints": {
     "by_length": {
-      "4": 4,
+      "4": 5,
       "5": 10,
       "6": 15,
       "7": 23,
@@ -83,7 +84,7 @@
     "by_first_letter": {
       "A": 6,
       "C": 7,
-      "G": 10,
+      "G": 11,
       "I": 5,
       "M": 12,
       "N": 4,
@@ -101,7 +102,7 @@
         "11": 1
       },
       "G": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "6": 2,
         "7": 5
@@ -136,7 +137,7 @@
       "AN": 1,
       "AP": 1,
       "CA": 7,
-      "GA": 8,
+      "GA": 9,
       "GI": 2,
       "IC": 1,
       "IM": 3,

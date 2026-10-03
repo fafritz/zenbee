@@ -3,7 +3,7 @@
   "center_letter": "g",
   "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 272,
+  "possible_points": 268,
   "answer_pangrams": [
     "avowing"
   ],
@@ -15,6 +15,7 @@
     "avowing",
     "awing",
     "awning",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -28,7 +29,6 @@
     "going",
     "gong",
     "gonging",
-    "gonna",
     "goon",
     "gown",
     "gowning",
@@ -60,8 +60,8 @@
   "date": "2033-07-05",
   "hints": {
     "by_length": {
-      "4": 8,
-      "5": 7,
+      "4": 9,
+      "5": 6,
       "6": 14,
       "7": 17,
       "9": 1,
@@ -84,8 +84,8 @@
         "7": 1
       },
       "G": {
-        "4": 6,
-        "5": 2,
+        "4": 7,
+        "5": 1,
         "6": 1,
         "7": 8
       },
@@ -119,10 +119,10 @@
       "AN": 1,
       "AV": 1,
       "AW": 2,
-      "GA": 5,
+      "GA": 6,
       "GI": 3,
       "GN": 2,
-      "GO": 7,
+      "GO": 6,
       "IN": 1,
       "NA": 1,
       "NO": 1,

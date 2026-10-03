@@ -1,9 +1,9 @@
 {
   "pangram": "thruway",
   "center_letter": "a",
-  "num_answers": 26,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 88,
+  "possible_points": 81,
   "answer_pangrams": [
     "thruway"
   ],
@@ -17,7 +17,6 @@
     "harry",
     "hart",
     "hurrah",
-    "ratatat",
     "ratty",
     "tart",
     "tartar",
@@ -41,12 +40,12 @@
       "4": 14,
       "5": 7,
       "6": 3,
-      "7": 2
+      "7": 1
     },
     "by_first_letter": {
       "A": 6,
       "H": 3,
-      "R": 2,
+      "R": 1,
       "T": 9,
       "W": 6
     },
@@ -61,8 +60,7 @@
         "6": 1
       },
       "R": {
-        "5": 1,
-        "7": 1
+        "5": 1
       },
       "T": {
         "4": 5,
@@ -82,7 +80,7 @@
       "AW": 2,
       "HA": 2,
       "HU": 1,
-      "RA": 2,
+      "RA": 1,
       "TA": 4,
       "TH": 4,
       "TR": 1,

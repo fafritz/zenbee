@@ -1,9 +1,9 @@
 {
   "pangram": "blacked",
   "center_letter": "d",
-  "num_answers": 65,
+  "num_answers": 69,
   "num_pangrams": 2,
-  "possible_points": 332,
+  "possible_points": 351,
   "answer_pangrams": [
     "blackballed",
     "blacked"
@@ -46,6 +46,7 @@
     "called",
     "cede",
     "ceded",
+    "celled",
     "clacked",
     "clad",
     "dabbed",
@@ -55,6 +56,7 @@
     "dead",
     "deal",
     "debacle",
+    "decadal",
     "decade",
     "decal",
     "deck",
@@ -64,6 +66,7 @@
     "deeded",
     "dell",
     "ebbed",
+    "eeled",
     "eked",
     "keeled",
     "labeled",
@@ -73,26 +76,27 @@
     "ladled",
     "lead",
     "leaded",
-    "leaked"
+    "leaked",
+    "lede"
   ],
   "date": "2033-02-21",
   "hints": {
     "by_length": {
-      "4": 15,
-      "5": 13,
-      "6": 26,
-      "7": 9,
+      "4": 16,
+      "5": 14,
+      "6": 27,
+      "7": 10,
       "8": 1,
       "11": 1
     },
     "by_first_letter": {
       "A": 6,
       "B": 23,
-      "C": 10,
-      "D": 15,
-      "E": 2,
+      "C": 11,
+      "D": 16,
+      "E": 3,
       "K": 1,
-      "L": 8
+      "L": 9
     },
     "grid": {
       "A": {
@@ -112,24 +116,24 @@
       "C": {
         "4": 2,
         "5": 2,
-        "6": 4,
+        "6": 5,
         "7": 2
       },
       "D": {
         "4": 6,
         "5": 1,
         "6": 6,
-        "7": 2
+        "7": 3
       },
       "E": {
         "4": 1,
-        "5": 1
+        "5": 2
       },
       "K": {
         "6": 1
       },
       "L": {
-        "4": 1,
+        "4": 2,
         "5": 2,
         "6": 4,
         "7": 1
@@ -142,15 +146,16 @@
       "BE": 6,
       "BL": 6,
       "CA": 6,
-      "CE": 2,
+      "CE": 3,
       "CL": 2,
       "DA": 4,
-      "DE": 11,
+      "DE": 12,
       "EB": 1,
+      "EE": 1,
       "EK": 1,
       "KE": 1,
       "LA": 5,
-      "LE": 3
+      "LE": 4
     }
   }
 }

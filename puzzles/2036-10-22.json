@@ -1,9 +1,9 @@
 {
   "pangram": "vamping",
   "center_letter": "m",
-  "num_answers": 30,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 160,
+  "possible_points": 165,
   "answer_pangrams": [
     "vamping"
   ],
@@ -34,6 +34,7 @@
     "mining",
     "minivan",
     "naming",
+    "pampa",
     "pimp",
     "pimping",
     "vamp",
@@ -43,7 +44,7 @@
   "hints": {
     "by_length": {
       "4": 7,
-      "5": 7,
+      "5": 8,
       "6": 6,
       "7": 7,
       "8": 1,
@@ -55,7 +56,7 @@
       "I": 4,
       "M": 18,
       "N": 1,
-      "P": 2,
+      "P": 3,
       "V": 2
     },
     "grid": {
@@ -83,6 +84,7 @@
       },
       "P": {
         "4": 1,
+        "5": 1,
         "7": 1
       },
       "V": {
@@ -97,6 +99,7 @@
       "MA": 12,
       "MI": 6,
       "NA": 1,
+      "PA": 1,
       "PI": 2,
       "VA": 2
     }

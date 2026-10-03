@@ -1,9 +1,9 @@
 {
   "pangram": "cabinet",
   "center_letter": "i",
-  "num_answers": 40,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 204,
+  "possible_points": 211,
   "answer_pangrams": [
     "cabinet"
   ],
@@ -11,6 +11,7 @@
     "acacia",
     "acai",
     "acetic",
+    "actinic",
     "ancient",
     "anti",
     "antic",
@@ -55,12 +56,12 @@
       "4": 9,
       "5": 10,
       "6": 14,
-      "7": 3,
+      "7": 4,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
-      "A": 8,
+      "A": 9,
       "B": 3,
       "C": 6,
       "E": 1,
@@ -73,7 +74,7 @@
         "4": 2,
         "5": 2,
         "6": 3,
-        "7": 1
+        "7": 2
       },
       "B": {
         "4": 2,
@@ -109,7 +110,7 @@
       }
     },
     "two_letter_list": {
-      "AC": 3,
+      "AC": 4,
       "AN": 3,
       "AT": 2,
       "BA": 1,

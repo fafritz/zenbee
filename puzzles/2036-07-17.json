@@ -1,9 +1,9 @@
 {
   "pangram": "blanket",
   "center_letter": "b",
-  "num_answers": 48,
+  "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 180,
+  "possible_points": 186,
   "answer_pangrams": [
     "blanket"
   ],
@@ -51,6 +51,7 @@
     "bleat",
     "eatable",
     "enable",
+    "kanban",
     "kebab",
     "label",
     "table",
@@ -62,14 +63,14 @@
     "by_length": {
       "4": 22,
       "5": 10,
-      "6": 11,
+      "6": 12,
       "7": 5
     },
     "by_first_letter": {
       "A": 4,
       "B": 37,
       "E": 2,
-      "K": 1,
+      "K": 2,
       "L": 1,
       "T": 3
     },
@@ -89,7 +90,8 @@
         "7": 1
       },
       "K": {
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "L": {
         "5": 1
@@ -107,6 +109,7 @@
       "BL": 7,
       "EA": 1,
       "EN": 1,
+      "KA": 1,
       "KE": 1,
       "LA": 1,
       "TA": 2,

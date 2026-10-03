@@ -1,9 +1,9 @@
 {
   "pangram": "watched",
   "center_letter": "t",
-  "num_answers": 58,
+  "num_answers": 59,
   "num_pangrams": 1,
-  "possible_points": 283,
+  "possible_points": 289,
   "answer_pangrams": [
     "watched"
   ],
@@ -62,6 +62,7 @@
     "watch",
     "watched",
     "watt",
+    "wetted",
     "what",
     "wheat",
     "whet",
@@ -72,7 +73,7 @@
     "by_length": {
       "4": 15,
       "5": 16,
-      "6": 12,
+      "6": 13,
       "7": 11,
       "8": 4
     },
@@ -83,7 +84,7 @@
       "E": 2,
       "H": 9,
       "T": 18,
-      "W": 7
+      "W": 8
     },
     "grid": {
       "A": {
@@ -124,6 +125,7 @@
       "W": {
         "4": 3,
         "5": 2,
+        "6": 1,
         "7": 2
       }
     },
@@ -142,6 +144,7 @@
       "TH": 7,
       "TW": 3,
       "WA": 3,
+      "WE": 1,
       "WH": 4
     }
   }

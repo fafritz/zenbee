@@ -1,9 +1,9 @@
 {
   "pangram": "fetlock",
   "center_letter": "e",
-  "num_answers": 37,
+  "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 130,
+  "possible_points": 135,
   "answer_pangrams": [
     "fetlock"
   ],
@@ -20,6 +20,7 @@
     "effect",
     "effete",
     "elect",
+    "elote",
     "feel",
     "feet",
     "fell",
@@ -50,13 +51,13 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 6,
+      "5": 7,
       "6": 10,
       "7": 2
     },
     "by_first_letter": {
       "C": 9,
-      "E": 3,
+      "E": 4,
       "F": 12,
       "K": 3,
       "L": 3,
@@ -71,7 +72,7 @@
         "7": 1
       },
       "E": {
-        "5": 1,
+        "5": 2,
         "6": 2
       },
       "F": {
@@ -103,7 +104,7 @@
       "CL": 2,
       "CO": 5,
       "EF": 2,
-      "EL": 1,
+      "EL": 2,
       "FE": 7,
       "FL": 5,
       "KE": 3,

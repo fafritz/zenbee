@@ -1,9 +1,9 @@
 {
   "pangram": "mucking",
   "center_letter": "m",
-  "num_answers": 18,
+  "num_answers": 17,
   "num_pangrams": 1,
-  "possible_points": 107,
+  "possible_points": 100,
   "answer_pangrams": [
     "mucking"
   ],
@@ -24,7 +24,6 @@
     "muck",
     "mucking",
     "mugging",
-    "munging",
     "muumuu"
   ],
   "date": "2029-08-20",
@@ -33,13 +32,13 @@
       "4": 3,
       "5": 3,
       "6": 4,
-      "7": 7,
+      "7": 6,
       "9": 1
     },
     "by_first_letter": {
       "C": 1,
       "G": 2,
-      "M": 15
+      "M": 14
     },
     "grid": {
       "C": {
@@ -52,7 +51,7 @@
         "4": 3,
         "5": 2,
         "6": 4,
-        "7": 5,
+        "7": 4,
         "9": 1
       }
     },
@@ -61,7 +60,7 @@
       "GI": 1,
       "GU": 1,
       "MI": 10,
-      "MU": 5
+      "MU": 4
     }
   }
 }

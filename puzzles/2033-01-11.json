@@ -1,9 +1,9 @@
 {
   "pangram": "rubdown",
   "center_letter": "u",
-  "num_answers": 18,
+  "num_answers": 17,
   "num_pangrams": 1,
-  "possible_points": 85,
+  "possible_points": 80,
   "answer_pangrams": [
     "rubdown"
   ],
@@ -16,7 +16,6 @@
     "burrow",
     "dour",
     "drub",
-    "dunno",
     "noun",
     "round",
     "rubdown",
@@ -31,13 +30,13 @@
   "hints": {
     "by_length": {
       "4": 6,
-      "5": 5,
+      "5": 4,
       "6": 2,
       "7": 5
     },
     "by_first_letter": {
       "B": 6,
-      "D": 3,
+      "D": 2,
       "N": 1,
       "R": 3,
       "U": 4,
@@ -51,8 +50,7 @@
         "7": 1
       },
       "D": {
-        "4": 2,
-        "5": 1
+        "4": 2
       },
       "N": {
         "4": 1
@@ -75,7 +73,6 @@
       "BU": 4,
       "DO": 1,
       "DR": 1,
-      "DU": 1,
       "NO": 1,
       "RO": 1,
       "RU": 2,

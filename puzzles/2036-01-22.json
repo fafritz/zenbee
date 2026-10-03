@@ -1,9 +1,9 @@
 {
   "pangram": "audible",
   "center_letter": "a",
-  "num_answers": 69,
+  "num_answers": 72,
   "num_pangrams": 1,
-  "possible_points": 291,
+  "possible_points": 311,
   "answer_pangrams": [
     "audible"
   ],
@@ -20,6 +20,7 @@
     "ailed",
     "alibi",
     "alibied",
+    "allele",
     "allied",
     "allude",
     "alluded",
@@ -46,6 +47,7 @@
     "bead",
     "beaded",
     "beau",
+    "billable",
     "blab",
     "blabbed",
     "blade",
@@ -67,6 +69,7 @@
     "labeled",
     "labia",
     "labial",
+    "labile",
     "ladle",
     "ladled",
     "laid",
@@ -83,29 +86,30 @@
     "by_length": {
       "4": 25,
       "5": 15,
-      "6": 20,
+      "6": 22,
       "7": 8,
-      "8": 1
+      "8": 2
     },
     "by_first_letter": {
-      "A": 16,
-      "B": 25,
+      "A": 17,
+      "B": 26,
       "D": 12,
       "I": 2,
-      "L": 14
+      "L": 15
     },
     "grid": {
       "A": {
         "4": 3,
         "5": 7,
-        "6": 3,
+        "6": 4,
         "7": 3
       },
       "B": {
         "4": 11,
         "5": 4,
         "6": 8,
-        "7": 2
+        "7": 2,
+        "8": 1
       },
       "D": {
         "4": 6,
@@ -119,7 +123,7 @@
       "L": {
         "4": 4,
         "5": 3,
-        "6": 5,
+        "6": 6,
         "7": 1,
         "8": 1
       }
@@ -128,17 +132,18 @@
       "AB": 3,
       "AD": 4,
       "AI": 3,
-      "AL": 5,
+      "AL": 6,
       "AU": 1,
       "BA": 19,
       "BE": 3,
+      "BI": 1,
       "BL": 3,
       "DA": 7,
       "DE": 2,
       "DI": 2,
       "DU": 1,
       "ID": 2,
-      "LA": 10,
+      "LA": 11,
       "LE": 2,
       "LI": 1,
       "LU": 1

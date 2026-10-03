@@ -1,9 +1,9 @@
 {
   "pangram": "jointly",
   "center_letter": "o",
-  "num_answers": 28,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 77,
+  "possible_points": 91,
   "answer_pangrams": [
     "jointly"
   ],
@@ -19,9 +19,11 @@
     "loin",
     "loll",
     "loon",
+    "loony",
     "loot",
     "lotion",
     "lotto",
+    "nonillion",
     "noon",
     "notion",
     "nylon",
@@ -41,15 +43,16 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 5,
+      "5": 6,
       "6": 2,
-      "7": 2
+      "7": 2,
+      "9": 1
     },
     "by_first_letter": {
       "I": 1,
       "J": 6,
-      "L": 7,
-      "N": 3,
+      "L": 8,
+      "N": 4,
       "O": 5,
       "T": 6
     },
@@ -64,13 +67,14 @@
       },
       "L": {
         "4": 5,
-        "5": 1,
+        "5": 2,
         "6": 1
       },
       "N": {
         "4": 1,
         "5": 1,
-        "6": 1
+        "6": 1,
+        "9": 1
       },
       "O": {
         "4": 4,
@@ -84,8 +88,8 @@
       "IN": 1,
       "JO": 6,
       "LI": 1,
-      "LO": 6,
-      "NO": 2,
+      "LO": 7,
+      "NO": 3,
       "NY": 1,
       "OI": 1,
       "OL": 1,

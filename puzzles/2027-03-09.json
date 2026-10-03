@@ -1,21 +1,22 @@
 {
   "pangram": "combine",
   "center_letter": "o",
-  "num_answers": 42,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 169,
+  "possible_points": 184,
   "answer_pangrams": [
     "combine"
   ],
   "answers": [
     "become",
+    "biome",
     "bionic",
     "bobbin",
+    "bocce",
     "bomb",
     "bonbon",
     "bone",
     "boob",
-    "booboo",
     "boom",
     "boon",
     "cocci",
@@ -32,8 +33,10 @@
     "conic",
     "economic",
     "icon",
+    "iconic",
     "income",
     "innocence",
+    "ionic",
     "memo",
     "minion",
     "mnemonic",
@@ -55,17 +58,17 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 6,
+      "5": 9,
       "6": 11,
       "7": 2,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
-      "B": 10,
+      "B": 11,
       "C": 12,
       "E": 1,
-      "I": 3,
+      "I": 5,
       "M": 5,
       "N": 7,
       "O": 4
@@ -73,7 +76,8 @@
     "grid": {
       "B": {
         "4": 5,
-        "6": 5
+        "5": 2,
+        "6": 4
       },
       "C": {
         "4": 4,
@@ -87,7 +91,8 @@
       },
       "I": {
         "4": 1,
-        "6": 1,
+        "5": 1,
+        "6": 2,
         "9": 1
       },
       "M": {
@@ -108,12 +113,13 @@
     },
     "two_letter_list": {
       "BE": 1,
-      "BI": 1,
+      "BI": 2,
       "BO": 8,
       "CO": 12,
       "EC": 1,
-      "IC": 1,
+      "IC": 2,
       "IN": 2,
+      "IO": 1,
       "ME": 1,
       "MI": 1,
       "MN": 1,

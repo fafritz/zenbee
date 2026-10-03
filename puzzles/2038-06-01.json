@@ -1,9 +1,9 @@
 {
   "pangram": "curtain",
   "center_letter": "r",
-  "num_answers": 42,
+  "num_answers": 44,
   "num_pangrams": 2,
-  "possible_points": 208,
+  "possible_points": 213,
   "answer_pangrams": [
     "curtain",
     "taciturn"
@@ -26,6 +26,7 @@
     "cirri",
     "citric",
     "critic",
+    "curia",
     "currant",
     "curt",
     "curtain",
@@ -35,12 +36,13 @@
     "nutria",
     "rain",
     "rant",
-    "ratatat",
     "rattan",
     "ruin",
     "runic",
     "runt",
     "taciturn",
+    "tantra",
+    "tarn",
     "tart",
     "tartan",
     "tartar",
@@ -55,20 +57,20 @@
   "date": "2038-06-01",
   "hints": {
     "by_length": {
-      "4": 12,
-      "5": 12,
-      "6": 9,
-      "7": 5,
+      "4": 13,
+      "5": 13,
+      "6": 10,
+      "7": 4,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
       "A": 8,
-      "C": 12,
+      "C": 13,
       "I": 2,
       "N": 2,
-      "R": 7,
-      "T": 10,
+      "R": 6,
+      "T": 12,
       "U": 1
     },
     "grid": {
@@ -81,7 +83,7 @@
       },
       "C": {
         "4": 2,
-        "5": 4,
+        "5": 5,
         "6": 2,
         "7": 3,
         "8": 1
@@ -97,13 +99,12 @@
       "R": {
         "4": 4,
         "5": 1,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
-        "4": 2,
+        "4": 3,
         "5": 4,
-        "6": 3,
+        "6": 4,
         "8": 1
       },
       "U": {
@@ -118,14 +119,14 @@
       "CA": 4,
       "CI": 4,
       "CR": 1,
-      "CU": 3,
+      "CU": 4,
       "IN": 1,
       "IR": 1,
       "NA": 1,
       "NU": 1,
-      "RA": 4,
+      "RA": 3,
       "RU": 3,
-      "TA": 4,
+      "TA": 6,
       "TI": 1,
       "TR": 4,
       "TU": 1,

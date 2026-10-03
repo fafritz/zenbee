@@ -1,9 +1,9 @@
 {
   "pangram": "unkempt",
   "center_letter": "n",
-  "num_answers": 17,
+  "num_answers": 18,
   "num_pangrams": 1,
-  "possible_points": 53,
+  "possible_points": 58,
   "answer_pangrams": [
     "unkempt"
   ],
@@ -15,6 +15,7 @@
     "nene",
     "nuke",
     "peen",
+    "penne",
     "pent",
     "punk",
     "punt",
@@ -30,7 +31,7 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 1,
+      "5": 2,
       "7": 3,
       "8": 1
     },
@@ -39,7 +40,7 @@
       "K": 2,
       "M": 1,
       "N": 2,
-      "P": 4,
+      "P": 5,
       "T": 5,
       "U": 2
     },
@@ -57,7 +58,8 @@
         "4": 2
       },
       "P": {
-        "4": 4
+        "4": 4,
+        "5": 1
       },
       "T": {
         "4": 3,
@@ -75,7 +77,7 @@
       "ME": 1,
       "NE": 1,
       "NU": 1,
-      "PE": 2,
+      "PE": 3,
       "PU": 2,
       "TE": 4,
       "TU": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "bunched",
   "center_letter": "c",
-  "num_answers": 17,
+  "num_answers": 19,
   "num_pangrams": 1,
-  "possible_points": 89,
+  "possible_points": 100,
   "answer_pangrams": [
     "bunched"
   ],
@@ -21,7 +21,9 @@
     "deduce",
     "deduced",
     "deuce",
+    "deuced",
     "dunce",
+    "educe",
     "hence",
     "hunch",
     "hunched"
@@ -30,14 +32,15 @@
   "hints": {
     "by_length": {
       "4": 3,
-      "5": 9,
-      "6": 1,
+      "5": 10,
+      "6": 2,
       "7": 4
     },
     "by_first_letter": {
       "B": 5,
       "C": 5,
-      "D": 4,
+      "D": 5,
+      "E": 1,
       "H": 3
     },
     "grid": {
@@ -51,8 +54,11 @@
       },
       "D": {
         "5": 2,
-        "6": 1,
+        "6": 2,
         "7": 1
+      },
+      "E": {
+        "5": 1
       },
       "H": {
         "5": 2,
@@ -64,8 +70,9 @@
       "BU": 2,
       "CE": 2,
       "CU": 3,
-      "DE": 3,
+      "DE": 4,
       "DU": 1,
+      "ED": 1,
       "HE": 1,
       "HU": 2
     }

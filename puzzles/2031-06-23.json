@@ -1,9 +1,9 @@
 {
   "pangram": "faintly",
   "center_letter": "t",
-  "num_answers": 45,
+  "num_answers": 46,
   "num_pangrams": 2,
-  "possible_points": 215,
+  "possible_points": 222,
   "answer_pangrams": [
     "faintly",
     "finality"
@@ -33,6 +33,7 @@
     "initial",
     "initially",
     "laity",
+    "lantana",
     "lift",
     "lilt",
     "lint",
@@ -61,7 +62,7 @@
       "4": 14,
       "5": 15,
       "6": 6,
-      "7": 5,
+      "7": 6,
       "8": 4,
       "9": 1
     },
@@ -69,7 +70,7 @@
       "A": 3,
       "F": 15,
       "I": 5,
-      "L": 5,
+      "L": 6,
       "N": 3,
       "T": 14
     },
@@ -95,7 +96,8 @@
       "L": {
         "4": 3,
         "5": 1,
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "N": {
         "5": 2,
@@ -115,7 +117,7 @@
       "FI": 4,
       "FL": 5,
       "IN": 5,
-      "LA": 1,
+      "LA": 2,
       "LI": 4,
       "NA": 3,
       "TA": 7,

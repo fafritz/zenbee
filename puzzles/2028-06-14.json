@@ -1,9 +1,9 @@
 {
   "pangram": "nakedly",
   "center_letter": "d",
-  "num_answers": 65,
+  "num_answers": 67,
   "num_pangrams": 1,
-  "possible_points": 315,
+  "possible_points": 321,
   "answer_pangrams": [
     "nakedly"
   ],
@@ -37,6 +37,7 @@
     "deny",
     "dyed",
     "eddy",
+    "eeled",
     "eked",
     "ended",
     "eyed",
@@ -62,6 +63,7 @@
     "leaden",
     "leaked",
     "leaned",
+    "lede",
     "lend",
     "naked",
     "nakedly",
@@ -77,8 +79,8 @@
   "date": "2028-06-14",
   "hints": {
     "by_length": {
-      "4": 17,
-      "5": 14,
+      "4": 18,
+      "5": 15,
       "6": 21,
       "7": 9,
       "8": 4
@@ -86,9 +88,9 @@
     "by_first_letter": {
       "A": 7,
       "D": 21,
-      "E": 4,
+      "E": 5,
       "K": 10,
-      "L": 13,
+      "L": 14,
       "N": 7,
       "Y": 3
     },
@@ -108,7 +110,7 @@
       },
       "E": {
         "4": 3,
-        "5": 1
+        "5": 2
       },
       "K": {
         "5": 3,
@@ -117,7 +119,7 @@
         "8": 1
       },
       "L": {
-        "4": 4,
+        "4": 5,
         "5": 2,
         "6": 6,
         "8": 1
@@ -140,6 +142,7 @@
       "DE": 12,
       "DY": 1,
       "ED": 1,
+      "EE": 1,
       "EK": 1,
       "EN": 1,
       "EY": 1,
@@ -147,7 +150,7 @@
       "KE": 5,
       "KN": 4,
       "LA": 7,
-      "LE": 6,
+      "LE": 7,
       "NA": 2,
       "NE": 5,
       "YA": 2,

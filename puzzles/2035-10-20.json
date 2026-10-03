@@ -1,9 +1,9 @@
 {
   "pangram": "proving",
   "center_letter": "p",
-  "num_answers": 32,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 171,
+  "possible_points": 185,
   "answer_pangrams": [
     "proving"
   ],
@@ -26,10 +26,13 @@
     "piping",
     "pippin",
     "pipping",
+    "pirogi",
+    "pogo",
+    "pogoing",
     "poop",
-    "pooping",
     "poor",
     "popping",
+    "porging",
     "poring",
     "prig",
     "prior",
@@ -44,10 +47,10 @@
   "date": "2035-10-20",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 10,
       "5": 2,
-      "6": 6,
-      "7": 12,
+      "6": 7,
+      "7": 13,
       "8": 2,
       "9": 1
     },
@@ -55,7 +58,7 @@
       "G": 5,
       "N": 1,
       "O": 2,
-      "P": 22,
+      "P": 25,
       "R": 2
     },
     "grid": {
@@ -71,10 +74,10 @@
         "7": 2
       },
       "P": {
-        "4": 6,
+        "4": 7,
         "5": 2,
-        "6": 5,
-        "7": 7,
+        "6": 6,
+        "7": 8,
         "8": 1,
         "9": 1
       },
@@ -88,8 +91,8 @@
       "GR": 3,
       "NI": 1,
       "OP": 2,
-      "PI": 10,
-      "PO": 5,
+      "PI": 11,
+      "PO": 7,
       "PR": 7,
       "RI": 1,
       "RO": 1

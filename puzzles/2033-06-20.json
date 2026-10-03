@@ -1,9 +1,9 @@
 {
   "pangram": "ignobly",
   "center_letter": "n",
-  "num_answers": 68,
+  "num_answers": 71,
   "num_pangrams": 3,
-  "possible_points": 413,
+  "possible_points": 431,
   "answer_pangrams": [
     "ignobly",
     "lobbying",
@@ -12,6 +12,7 @@
   "answers": [
     "billing",
     "billion",
+    "binging",
     "bingo",
     "binning",
     "bling",
@@ -23,13 +24,13 @@
     "bogging",
     "boggling",
     "boiling",
+    "boing",
     "bonbon",
     "bong",
     "bonging",
     "bongo",
     "boning",
     "bony",
-    "boobing",
     "booing",
     "boon",
     "gibbon",
@@ -38,7 +39,6 @@
     "giggling",
     "ginning",
     "globing",
-    "gobbing",
     "gobbling",
     "goblin",
     "goggling",
@@ -49,6 +49,7 @@
     "goon",
     "ignobly",
     "inning",
+    "lignin",
     "lingo",
     "lining",
     "lion",
@@ -62,12 +63,14 @@
     "longing",
     "longingly",
     "loon",
+    "loony",
     "lying",
     "nibbling",
     "niggling",
     "ninny",
     "nobly",
     "noggin",
+    "nonillion",
     "noon",
     "nylon",
     "obliging",
@@ -83,25 +86,25 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 11,
-      "6": 13,
-      "7": 19,
+      "5": 13,
+      "6": 14,
+      "7": 18,
       "8": 12,
-      "9": 1,
+      "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "B": 22,
-      "G": 15,
+      "B": 23,
+      "G": 14,
       "I": 2,
-      "L": 14,
-      "N": 7,
+      "L": 16,
+      "N": 8,
       "O": 8
     },
     "grid": {
       "B": {
         "4": 3,
-        "5": 3,
+        "5": 4,
         "6": 4,
         "7": 8,
         "8": 4
@@ -110,7 +113,7 @@
         "4": 2,
         "5": 1,
         "6": 3,
-        "7": 5,
+        "7": 4,
         "8": 4
       },
       "I": {
@@ -119,8 +122,8 @@
       },
       "L": {
         "4": 4,
-        "5": 3,
-        "6": 1,
+        "5": 4,
+        "6": 2,
         "7": 4,
         "8": 1,
         "9": 1
@@ -129,7 +132,8 @@
         "4": 1,
         "5": 3,
         "6": 1,
-        "8": 2
+        "8": 2,
+        "9": 1
       },
       "O": {
         "4": 1,
@@ -141,19 +145,19 @@
       }
     },
     "two_letter_list": {
-      "BI": 4,
+      "BI": 5,
       "BL": 3,
       "BO": 15,
       "GI": 5,
       "GL": 1,
-      "GO": 9,
+      "GO": 8,
       "IG": 1,
       "IN": 1,
-      "LI": 3,
-      "LO": 10,
+      "LI": 4,
+      "LO": 11,
       "LY": 1,
       "NI": 3,
-      "NO": 3,
+      "NO": 4,
       "NY": 1,
       "OB": 3,
       "OG": 1,

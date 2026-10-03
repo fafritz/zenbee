@@ -3,7 +3,7 @@
   "center_letter": "d",
   "num_answers": 64,
   "num_pangrams": 1,
-  "possible_points": 351,
+  "possible_points": 352,
   "answer_pangrams": [
     "exuding"
   ],
@@ -14,6 +14,7 @@
     "deign",
     "deigned",
     "deigning",
+    "dengue",
     "denied",
     "denude",
     "denuded",
@@ -44,7 +45,6 @@
     "egged",
     "ended",
     "ending",
-    "endue",
     "endued",
     "enduing",
     "exude",
@@ -77,14 +77,14 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 14,
-      "6": 21,
+      "5": 13,
+      "6": 22,
       "7": 14,
       "8": 5
     },
     "by_first_letter": {
-      "D": 29,
-      "E": 13,
+      "D": 30,
+      "E": 12,
       "G": 7,
       "I": 4,
       "N": 7,
@@ -94,13 +94,13 @@
       "D": {
         "4": 7,
         "5": 3,
-        "6": 9,
+        "6": 10,
         "7": 8,
         "8": 2
       },
       "E": {
         "4": 1,
-        "5": 5,
+        "5": 4,
         "6": 5,
         "7": 2
       },
@@ -128,12 +128,12 @@
       }
     },
     "two_letter_list": {
-      "DE": 10,
+      "DE": 11,
       "DI": 10,
       "DU": 9,
       "ED": 4,
       "EG": 1,
-      "EN": 5,
+      "EN": 4,
       "EX": 3,
       "GE": 1,
       "GI": 2,

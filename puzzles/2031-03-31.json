@@ -1,15 +1,16 @@
 {
   "pangram": "exactly",
   "center_letter": "a",
-  "num_answers": 38,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 171,
+  "possible_points": 177,
   "answer_pangrams": [
     "exactly"
   ],
   "answers": [
     "acetate",
     "allay",
+    "allele",
     "alley",
     "ally",
     "axle",
@@ -52,13 +53,13 @@
     "by_length": {
       "4": 12,
       "5": 15,
-      "6": 4,
+      "6": 5,
       "7": 5,
       "8": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 6,
       "C": 9,
       "E": 5,
       "L": 9,
@@ -68,6 +69,7 @@
       "A": {
         "4": 2,
         "5": 2,
+        "6": 1,
         "7": 1
       },
       "C": {
@@ -96,7 +98,7 @@
     },
     "two_letter_list": {
       "AC": 1,
-      "AL": 3,
+      "AL": 4,
       "AX": 1,
       "CA": 6,
       "CL": 3,

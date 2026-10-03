@@ -1,9 +1,9 @@
 {
   "pangram": "pyramid",
   "center_letter": "r",
-  "num_answers": 36,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 145,
+  "possible_points": 151,
   "answer_pangrams": [
     "pyramid"
   ],
@@ -21,6 +21,7 @@
     "drama",
     "dray",
     "drip",
+    "drippy",
     "dryad",
     "impair",
     "mammary",
@@ -50,12 +51,12 @@
     "by_length": {
       "4": 14,
       "5": 12,
-      "6": 6,
+      "6": 7,
       "7": 4
     },
     "by_first_letter": {
       "A": 7,
-      "D": 7,
+      "D": 8,
       "I": 1,
       "M": 5,
       "P": 9,
@@ -70,7 +71,8 @@
       },
       "D": {
         "4": 3,
-        "5": 4
+        "5": 4,
+        "6": 1
       },
       "I": {
         "6": 1
@@ -101,7 +103,7 @@
       "AR": 5,
       "DA": 1,
       "DI": 1,
-      "DR": 5,
+      "DR": 6,
       "IM": 1,
       "MA": 3,
       "MI": 1,

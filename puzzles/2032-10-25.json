@@ -1,7 +1,7 @@
 {
   "pangram": "cohabit",
   "center_letter": "o",
-  "num_answers": 34,
+  "num_answers": 35,
   "num_pangrams": 1,
   "possible_points": 134,
   "answer_pangrams": [
@@ -11,10 +11,11 @@
     "abbot",
     "achoo",
     "baobab",
+    "biota",
     "boat",
+    "boba",
     "bobcat",
     "boob",
-    "booboo",
     "boot",
     "booth",
     "botch",
@@ -46,14 +47,14 @@
   "date": "2032-10-25",
   "hints": {
     "by_length": {
-      "4": 14,
-      "5": 11,
-      "6": 5,
+      "4": 15,
+      "5": 12,
+      "6": 4,
       "7": 4
     },
     "by_first_letter": {
       "A": 2,
-      "B": 9,
+      "B": 10,
       "C": 10,
       "H": 4,
       "I": 1,
@@ -65,9 +66,9 @@
         "5": 2
       },
       "B": {
-        "4": 4,
-        "5": 2,
-        "6": 3
+        "4": 5,
+        "5": 3,
+        "6": 2
       },
       "C": {
         "4": 3,
@@ -96,6 +97,7 @@
       "AB": 1,
       "AC": 1,
       "BA": 1,
+      "BI": 1,
       "BO": 8,
       "CA": 2,
       "CH": 1,

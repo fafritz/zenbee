@@ -1,9 +1,9 @@
 {
   "pangram": "petunia",
   "center_letter": "p",
-  "num_answers": 45,
+  "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 177,
+  "possible_points": 199,
   "answer_pangrams": [
     "petunia"
   ],
@@ -20,6 +20,7 @@
     "pain",
     "paint",
     "pane",
+    "panini",
     "pant",
     "papa",
     "pate",
@@ -33,10 +34,13 @@
     "peep",
     "penitent",
     "pennant",
+    "penne",
     "pent",
     "petite",
     "petunia",
     "pine",
+    "pinna",
+    "pinnae",
     "pinnate",
     "pint",
     "pinup",
@@ -58,8 +62,8 @@
   "hints": {
     "by_length": {
       "4": 20,
-      "5": 11,
-      "6": 7,
+      "5": 13,
+      "6": 9,
       "7": 4,
       "8": 2,
       "9": 1
@@ -69,7 +73,7 @@
       "E": 1,
       "I": 4,
       "N": 2,
-      "P": 33,
+      "P": 37,
       "T": 3,
       "U": 1
     },
@@ -89,8 +93,8 @@
       },
       "P": {
         "4": 16,
-        "5": 5,
-        "6": 7,
+        "5": 7,
+        "6": 9,
         "7": 4,
         "8": 1
       },
@@ -108,9 +112,9 @@
       "IN": 4,
       "NA": 1,
       "NE": 1,
-      "PA": 11,
-      "PE": 9,
-      "PI": 8,
+      "PA": 12,
+      "PE": 10,
+      "PI": 10,
       "PU": 5,
       "TA": 2,
       "TE": 1,

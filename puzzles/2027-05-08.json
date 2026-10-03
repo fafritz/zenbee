@@ -1,9 +1,9 @@
 {
   "pangram": "curtain",
   "center_letter": "i",
-  "num_answers": 42,
+  "num_answers": 45,
   "num_pangrams": 2,
-  "possible_points": 223,
+  "possible_points": 244,
   "answer_pangrams": [
     "curtain",
     "taciturn"
@@ -11,6 +11,8 @@
   "answers": [
     "acacia",
     "acai",
+    "actinic",
+    "annuitant",
     "antarctic",
     "anti",
     "antic",
@@ -26,6 +28,7 @@
     "cirri",
     "citric",
     "critic",
+    "curia",
     "curtain",
     "incur",
     "intact",
@@ -56,15 +59,15 @@
   "hints": {
     "by_length": {
       "4": 8,
-      "5": 16,
+      "5": 17,
       "6": 11,
-      "7": 3,
+      "7": 4,
       "8": 2,
-      "9": 2
+      "9": 3
     },
     "by_first_letter": {
-      "A": 10,
-      "C": 8,
+      "A": 12,
+      "C": 9,
       "I": 4,
       "N": 2,
       "R": 3,
@@ -76,10 +79,11 @@
         "4": 3,
         "5": 3,
         "6": 3,
-        "9": 1
+        "7": 1,
+        "9": 2
       },
       "C": {
-        "5": 4,
+        "5": 5,
         "6": 2,
         "7": 2
       },
@@ -108,14 +112,14 @@
       }
     },
     "two_letter_list": {
-      "AC": 2,
-      "AN": 3,
+      "AC": 3,
+      "AN": 4,
       "AR": 2,
       "AT": 3,
       "CA": 2,
       "CI": 4,
       "CR": 1,
-      "CU": 1,
+      "CU": 2,
       "IN": 3,
       "IR": 1,
       "NI": 1,

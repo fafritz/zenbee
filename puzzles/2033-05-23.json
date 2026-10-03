@@ -1,9 +1,9 @@
 {
   "pangram": "cowbird",
   "center_letter": "r",
-  "num_answers": 18,
+  "num_answers": 19,
   "num_pangrams": 1,
-  "possible_points": 64,
+  "possible_points": 65,
   "answer_pangrams": [
     "cowbird"
   ],
@@ -11,6 +11,7 @@
     "bird",
     "boor",
     "borrow",
+    "brio",
     "brood",
     "brow",
     "cirri",
@@ -30,14 +31,14 @@
   "date": "2033-05-23",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 11,
       "5": 4,
       "6": 2,
       "7": 1,
       "8": 1
     },
     "by_first_letter": {
-      "B": 5,
+      "B": 6,
       "C": 7,
       "D": 2,
       "O": 1,
@@ -46,7 +47,7 @@
     },
     "grid": {
       "B": {
-        "4": 3,
+        "4": 4,
         "5": 1,
         "6": 1
       },
@@ -74,7 +75,7 @@
     "two_letter_list": {
       "BI": 1,
       "BO": 2,
-      "BR": 2,
+      "BR": 3,
       "CI": 1,
       "CO": 3,
       "CR": 3,

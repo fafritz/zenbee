@@ -1,9 +1,9 @@
 {
   "pangram": "inexact",
   "center_letter": "i",
-  "num_answers": 37,
+  "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 187,
+  "possible_points": 194,
   "answer_pangrams": [
     "inexact"
   ],
@@ -11,6 +11,7 @@
     "acacia",
     "acai",
     "acetic",
+    "actinic",
     "ancient",
     "anti",
     "antic",
@@ -52,12 +53,12 @@
       "4": 9,
       "5": 8,
       "6": 13,
-      "7": 4,
+      "7": 5,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
-      "A": 8,
+      "A": 9,
       "C": 3,
       "E": 4,
       "I": 7,
@@ -69,7 +70,7 @@
         "4": 2,
         "5": 2,
         "6": 3,
-        "7": 1
+        "7": 2
       },
       "C": {
         "4": 1,
@@ -102,7 +103,7 @@
       }
     },
     "two_letter_list": {
-      "AC": 3,
+      "AC": 4,
       "AN": 3,
       "AT": 2,
       "CA": 2,

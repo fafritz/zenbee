@@ -1,9 +1,9 @@
 {
   "pangram": "dynamic",
   "center_letter": "m",
-  "num_answers": 29,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 113,
+  "possible_points": 122,
   "answer_pangrams": [
     "dynamic"
   ],
@@ -15,6 +15,7 @@
     "dynamic",
     "imam",
     "macadam",
+    "macadamia",
     "madam",
     "madman",
     "maid",
@@ -44,13 +45,14 @@
       "4": 12,
       "5": 10,
       "6": 5,
-      "7": 2
+      "7": 2,
+      "9": 1
     },
     "by_first_letter": {
       "A": 3,
       "D": 2,
       "I": 1,
-      "M": 23
+      "M": 24
     },
     "grid": {
       "A": {
@@ -68,7 +70,8 @@
         "4": 9,
         "5": 8,
         "6": 5,
-        "7": 1
+        "7": 1,
+        "9": 1
       }
     },
     "two_letter_list": {
@@ -77,7 +80,7 @@
       "DA": 1,
       "DY": 1,
       "IM": 1,
-      "MA": 14,
+      "MA": 15,
       "MI": 8,
       "MY": 1
     }

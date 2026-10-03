@@ -1,15 +1,16 @@
 {
   "pangram": "plucked",
   "center_letter": "d",
-  "num_answers": 54,
+  "num_answers": 59,
   "num_pangrams": 1,
-  "possible_points": 260,
+  "possible_points": 283,
   "answer_pangrams": [
     "plucked"
   ],
   "answers": [
     "cede",
     "ceded",
+    "celled",
     "clucked",
     "clued",
     "cuddle",
@@ -29,6 +30,7 @@
     "delude",
     "deluded",
     "deuce",
+    "deuced",
     "duck",
     "ducked",
     "dude",
@@ -40,10 +42,13 @@
     "dulled",
     "dupe",
     "duped",
+    "educe",
+    "eeled",
     "eked",
     "elude",
     "eluded",
     "keeled",
+    "lede",
     "lucked",
     "lulled",
     "pecked",
@@ -66,17 +71,17 @@
   "date": "2038-08-31",
   "hints": {
     "by_length": {
-      "4": 14,
-      "5": 8,
-      "6": 25,
+      "4": 15,
+      "5": 10,
+      "6": 27,
       "7": 7
     },
     "by_first_letter": {
-      "C": 9,
-      "D": 23,
-      "E": 3,
+      "C": 10,
+      "D": 24,
+      "E": 5,
       "K": 1,
-      "L": 2,
+      "L": 3,
       "P": 15,
       "U": 1
     },
@@ -84,24 +89,25 @@
       "C": {
         "4": 2,
         "5": 2,
-        "6": 3,
+        "6": 4,
         "7": 2
       },
       "D": {
         "4": 10,
         "5": 3,
-        "6": 8,
+        "6": 9,
         "7": 2
       },
       "E": {
         "4": 1,
-        "5": 1,
+        "5": 3,
         "6": 1
       },
       "K": {
         "6": 1
       },
       "L": {
+        "4": 1,
         "6": 2
       },
       "P": {
@@ -115,14 +121,17 @@
       }
     },
     "two_letter_list": {
-      "CE": 2,
+      "CE": 3,
       "CL": 2,
       "CU": 5,
-      "DE": 12,
+      "DE": 13,
       "DU": 11,
+      "ED": 1,
+      "EE": 1,
       "EK": 1,
       "EL": 2,
       "KE": 1,
+      "LE": 1,
       "LU": 2,
       "PE": 8,
       "PL": 1,

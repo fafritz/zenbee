@@ -1,9 +1,9 @@
 {
   "pangram": "ignobly",
   "center_letter": "i",
-  "num_answers": 68,
+  "num_answers": 70,
   "num_pangrams": 3,
-  "possible_points": 420,
+  "possible_points": 433,
   "answer_pangrams": [
     "ignobly",
     "lobbying",
@@ -14,6 +14,7 @@
     "billing",
     "billion",
     "billy",
+    "binging",
     "bingo",
     "binning",
     "biology",
@@ -27,9 +28,9 @@
     "boggling",
     "boil",
     "boiling",
+    "boing",
     "bonging",
     "boning",
-    "boobing",
     "booing",
     "gibbon",
     "gibing",
@@ -42,7 +43,6 @@
     "glib",
     "glibly",
     "globing",
-    "gobbing",
     "gobbling",
     "goblin",
     "goggling",
@@ -52,6 +52,7 @@
     "igloo",
     "ignobly",
     "inning",
+    "lignin",
     "lily",
     "lingo",
     "lining",
@@ -69,6 +70,7 @@
     "niggling",
     "ninny",
     "noggin",
+    "nonillion",
     "obliging",
     "obligingly",
     "ogling",
@@ -83,26 +85,26 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 10,
-      "6": 14,
-      "7": 20,
+      "5": 11,
+      "6": 15,
+      "7": 19,
       "8": 12,
-      "9": 1,
+      "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "B": 21,
-      "G": 18,
+      "B": 22,
+      "G": 17,
       "I": 3,
-      "L": 13,
-      "N": 4,
+      "L": 14,
+      "N": 5,
       "O": 8,
       "Y": 1
     },
     "grid": {
       "B": {
         "4": 2,
-        "5": 3,
+        "5": 4,
         "6": 3,
         "7": 9,
         "8": 4
@@ -111,7 +113,7 @@
         "4": 2,
         "5": 1,
         "6": 6,
-        "7": 5,
+        "7": 4,
         "8": 4
       },
       "I": {
@@ -122,7 +124,7 @@
       "L": {
         "4": 3,
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 4,
         "8": 1,
         "9": 1
@@ -130,7 +132,8 @@
       "N": {
         "5": 1,
         "6": 1,
-        "8": 2
+        "8": 2,
+        "9": 1
       },
       "O": {
         "4": 2,
@@ -145,19 +148,19 @@
       }
     },
     "two_letter_list": {
-      "BI": 7,
+      "BI": 8,
       "BL": 3,
       "BO": 11,
       "GI": 8,
       "GL": 3,
-      "GO": 7,
+      "GO": 6,
       "IG": 2,
       "IN": 1,
-      "LI": 4,
+      "LI": 5,
       "LO": 8,
       "LY": 1,
       "NI": 3,
-      "NO": 1,
+      "NO": 2,
       "OB": 2,
       "OG": 1,
       "OI": 2,

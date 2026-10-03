@@ -1,9 +1,9 @@
 {
   "pangram": "furlong",
   "center_letter": "r",
-  "num_answers": 19,
+  "num_answers": 20,
   "num_pangrams": 1,
-  "possible_points": 73,
+  "possible_points": 79,
   "answer_pangrams": [
     "furlong"
   ],
@@ -17,6 +17,7 @@
     "furl",
     "furlong",
     "furor",
+    "gorgon",
     "grog",
     "gruff",
     "guru",
@@ -33,12 +34,12 @@
     "by_length": {
       "4": 9,
       "5": 5,
-      "6": 3,
+      "6": 4,
       "7": 2
     },
     "by_first_letter": {
       "F": 9,
-      "G": 3,
+      "G": 4,
       "R": 5,
       "U": 2
     },
@@ -50,7 +51,8 @@
       },
       "G": {
         "4": 2,
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "R": {
         "4": 4,
@@ -65,6 +67,7 @@
       "FO": 3,
       "FR": 1,
       "FU": 3,
+      "GO": 1,
       "GR": 2,
       "GU": 1,
       "RO": 2,

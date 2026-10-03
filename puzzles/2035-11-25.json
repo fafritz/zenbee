@@ -1,9 +1,9 @@
 {
   "pangram": "frantic",
   "center_letter": "f",
-  "num_answers": 27,
+  "num_answers": 28,
   "num_pangrams": 2,
-  "possible_points": 137,
+  "possible_points": 142,
   "answer_pangrams": [
     "antiaircraft",
     "frantic"
@@ -21,13 +21,14 @@
     "fair",
     "fanatic",
     "farina",
-    "fart",
     "fiat",
     "franc",
     "frantic",
     "frat",
     "friar",
     "infant",
+    "infra",
+    "naif",
     "raffia",
     "raft",
     "riff",
@@ -41,7 +42,7 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 4,
+      "5": 5,
       "6": 6,
       "7": 3,
       "8": 3,
@@ -50,8 +51,9 @@
     "by_first_letter": {
       "A": 5,
       "C": 2,
-      "F": 11,
-      "I": 1,
+      "F": 10,
+      "I": 2,
+      "N": 1,
       "R": 5,
       "T": 3
     },
@@ -67,13 +69,17 @@
         "6": 1
       },
       "F": {
-        "4": 5,
+        "4": 4,
         "5": 3,
         "6": 1,
         "7": 2
       },
       "I": {
+        "5": 1,
         "6": 1
+      },
+      "N": {
+        "4": 1
       },
       "R": {
         "4": 3,
@@ -93,10 +99,11 @@
       "AR": 1,
       "CA": 1,
       "CR": 1,
-      "FA": 6,
+      "FA": 5,
       "FI": 1,
       "FR": 4,
-      "IN": 1,
+      "IN": 2,
+      "NA": 1,
       "RA": 2,
       "RI": 3,
       "TA": 1,

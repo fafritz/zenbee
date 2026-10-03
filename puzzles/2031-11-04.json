@@ -1,9 +1,9 @@
 {
   "pangram": "racking",
   "center_letter": "a",
-  "num_answers": 60,
+  "num_answers": 63,
   "num_pangrams": 3,
-  "possible_points": 327,
+  "possible_points": 345,
   "answer_pangrams": [
     "cracking",
     "cranking",
@@ -41,6 +41,7 @@
     "craning",
     "crank",
     "cranking",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -49,6 +50,8 @@
     "garaging",
     "gracing",
     "grain",
+    "ingrain",
+    "ingraining",
     "knack",
     "knickknack",
     "naan",
@@ -74,18 +77,19 @@
   "date": "2031-11-04",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 16,
       "5": 11,
       "6": 14,
-      "7": 13,
+      "7": 14,
       "8": 4,
       "9": 1,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 15,
       "C": 16,
-      "G": 8,
+      "G": 9,
+      "I": 2,
       "K": 2,
       "N": 5,
       "R": 14
@@ -108,10 +112,14 @@
         "8": 2
       },
       "G": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "7": 4,
         "8": 1
+      },
+      "I": {
+        "7": 1,
+        "10": 1
       },
       "K": {
         "5": 1,
@@ -138,8 +146,9 @@
       "CA": 8,
       "CI": 2,
       "CR": 6,
-      "GA": 6,
+      "GA": 7,
       "GR": 2,
+      "IN": 2,
       "KN": 2,
       "NA": 4,
       "NI": 1,

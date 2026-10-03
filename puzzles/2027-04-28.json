@@ -1,9 +1,9 @@
 {
   "pangram": "updraft",
   "center_letter": "a",
-  "num_answers": 25,
+  "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 79,
+  "possible_points": 71,
   "answer_pangrams": [
     "updraft"
   ],
@@ -16,7 +16,6 @@
     "dart",
     "data",
     "draft",
-    "fart",
     "frat",
     "fraud",
     "papa",
@@ -25,7 +24,6 @@
     "radar",
     "raft",
     "rapt",
-    "ratatat",
     "rattrap",
     "tarp",
     "tart",
@@ -37,17 +35,17 @@
   "date": "2027-04-28",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 14,
       "5": 6,
       "6": 1,
-      "7": 3
+      "7": 2
     },
     "by_first_letter": {
       "A": 5,
       "D": 3,
-      "F": 3,
+      "F": 2,
       "P": 3,
-      "R": 5,
+      "R": 4,
       "T": 5,
       "U": 1
     },
@@ -61,7 +59,7 @@
         "5": 1
       },
       "F": {
-        "4": 2,
+        "4": 1,
         "5": 1
       },
       "P": {
@@ -70,7 +68,7 @@
       "R": {
         "4": 2,
         "5": 1,
-        "7": 2
+        "7": 1
       },
       "T": {
         "4": 4,
@@ -88,11 +86,10 @@
       "AU": 1,
       "DA": 2,
       "DR": 1,
-      "FA": 1,
       "FR": 2,
       "PA": 2,
       "PU": 1,
-      "RA": 5,
+      "RA": 4,
       "TA": 4,
       "TR": 1,
       "UP": 1

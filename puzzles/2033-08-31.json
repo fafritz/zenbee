@@ -1,9 +1,9 @@
 {
   "pangram": "fixable",
   "center_letter": "l",
-  "num_answers": 49,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 187,
+  "possible_points": 226,
   "answer_pangrams": [
     "fixable"
   ],
@@ -12,6 +12,7 @@
     "affable",
     "alfalfa",
     "alibi",
+    "allele",
     "axial",
     "axle",
     "babble",
@@ -30,15 +31,19 @@
     "bible",
     "bile",
     "bill",
+    "billable",
     "blab",
+    "effable",
     "exile",
     "fable",
     "fail",
+    "falafel",
     "fall",
     "fallible",
     "feeble",
     "feel",
     "fell",
+    "fella",
     "file",
     "filial",
     "fill",
@@ -53,6 +58,7 @@
     "label",
     "labia",
     "labial",
+    "labile",
     "leaf",
     "liable",
     "libel",
@@ -62,61 +68,65 @@
   "hints": {
     "by_length": {
       "4": 22,
-      "5": 12,
-      "6": 9,
-      "7": 4,
-      "8": 2
+      "5": 13,
+      "6": 11,
+      "7": 6,
+      "8": 3
     },
     "by_first_letter": {
-      "A": 6,
-      "B": 17,
-      "E": 1,
-      "F": 18,
-      "L": 7
+      "A": 7,
+      "B": 18,
+      "E": 2,
+      "F": 20,
+      "L": 8
     },
     "grid": {
       "A": {
         "4": 2,
         "5": 2,
+        "6": 1,
         "7": 2
       },
       "B": {
         "4": 7,
         "5": 4,
         "6": 5,
-        "7": 1
+        "7": 1,
+        "8": 1
       },
       "E": {
-        "5": 1
+        "5": 1,
+        "7": 1
       },
       "F": {
         "4": 11,
-        "5": 2,
+        "5": 3,
         "6": 2,
-        "7": 1,
+        "7": 2,
         "8": 2
       },
       "L": {
         "4": 2,
         "5": 3,
-        "6": 2
+        "6": 3
       }
     },
     "two_letter_list": {
       "AB": 1,
       "AF": 1,
-      "AL": 2,
+      "AL": 3,
       "AX": 2,
       "BA": 7,
       "BE": 6,
-      "BI": 3,
+      "BI": 4,
       "BL": 1,
+      "EF": 1,
       "EX": 1,
-      "FA": 4,
-      "FE": 3,
+      "FA": 5,
+      "FE": 4,
       "FI": 4,
       "FL": 7,
-      "LA": 3,
+      "LA": 4,
       "LE": 1,
       "LI": 3
     }

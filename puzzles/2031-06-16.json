@@ -1,9 +1,9 @@
 {
   "pangram": "mordant",
   "center_letter": "o",
-  "num_answers": 70,
+  "num_answers": 71,
   "num_pangrams": 2,
-  "possible_points": 254,
+  "possible_points": 261,
   "answer_pangrams": [
     "dormant",
     "mordant"
@@ -11,6 +11,7 @@
   "answers": [
     "adorn",
     "ammo",
+    "annatto",
     "anon",
     "aorta",
     "ardor",
@@ -86,11 +87,11 @@
       "4": 35,
       "5": 16,
       "6": 10,
-      "7": 7,
+      "7": 8,
       "8": 2
     },
     "by_first_letter": {
-      "A": 8,
+      "A": 9,
       "D": 10,
       "M": 20,
       "N": 4,
@@ -101,7 +102,8 @@
     "grid": {
       "A": {
         "4": 3,
-        "5": 5
+        "5": 5,
+        "7": 1
       },
       "D": {
         "4": 5,
@@ -141,7 +143,7 @@
     "two_letter_list": {
       "AD": 1,
       "AM": 1,
-      "AN": 1,
+      "AN": 2,
       "AO": 1,
       "AR": 3,
       "AT": 1,

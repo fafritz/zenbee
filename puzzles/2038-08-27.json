@@ -1,9 +1,9 @@
 {
   "pangram": "bawling",
   "center_letter": "g",
-  "num_answers": 72,
+  "num_answers": 76,
   "num_pangrams": 1,
-  "possible_points": 441,
+  "possible_points": 463,
   "answer_pangrams": [
     "bawling"
   ],
@@ -31,15 +31,18 @@
     "bawling",
     "bigwig",
     "billing",
+    "binging",
     "binning",
     "blabbing",
     "bling",
     "gabbing",
     "gabbling",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -56,6 +59,7 @@
     "gnawing",
     "inning",
     "lagging",
+    "lignin",
     "lining",
     "nabbing",
     "nagging",
@@ -84,19 +88,19 @@
   "date": "2038-08-27",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 11,
       "5": 5,
-      "6": 15,
-      "7": 29,
-      "8": 12,
+      "6": 16,
+      "7": 30,
+      "8": 13,
       "10": 1
     },
     "by_first_letter": {
       "A": 11,
-      "B": 15,
-      "G": 20,
+      "B": 16,
+      "G": 22,
       "I": 1,
-      "L": 2,
+      "L": 3,
       "N": 5,
       "W": 18
     },
@@ -112,20 +116,20 @@
         "4": 1,
         "5": 1,
         "6": 3,
-        "7": 8,
+        "7": 9,
         "8": 2
       },
       "G": {
-        "4": 7,
+        "4": 8,
         "6": 1,
         "7": 9,
-        "8": 3
+        "8": 4
       },
       "I": {
         "6": 1
       },
       "L": {
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "N": {
@@ -147,15 +151,15 @@
       "AN": 2,
       "AW": 2,
       "BA": 10,
-      "BI": 3,
+      "BI": 4,
       "BL": 2,
-      "GA": 12,
+      "GA": 14,
       "GI": 5,
       "GL": 1,
       "GN": 2,
       "IN": 1,
       "LA": 1,
-      "LI": 1,
+      "LI": 2,
       "NA": 3,
       "NI": 2,
       "WA": 8,

@@ -3,7 +3,7 @@
   "center_letter": "o",
   "num_answers": 63,
   "num_pangrams": 1,
-  "possible_points": 255,
+  "possible_points": 251,
   "answer_pangrams": [
     "lounged"
   ],
@@ -11,6 +11,7 @@
     "dodge",
     "dodged",
     "dodo",
+    "doge",
     "dogged",
     "doggone",
     "dole",
@@ -24,7 +25,6 @@
     "doodled",
     "dudgeon",
     "dungeon",
-    "dunno",
     "eggnog",
     "geode",
     "goggle",
@@ -75,8 +75,8 @@
   "date": "2026-11-27",
   "hints": {
     "by_length": {
-      "4": 26,
-      "5": 8,
+      "4": 27,
+      "5": 7,
       "6": 21,
       "7": 8
     },
@@ -91,8 +91,8 @@
     },
     "grid": {
       "D": {
-        "4": 4,
-        "5": 3,
+        "4": 5,
+        "5": 2,
         "6": 6,
         "7": 4
       },
@@ -126,8 +126,8 @@
       }
     },
     "two_letter_list": {
-      "DO": 14,
-      "DU": 3,
+      "DO": 15,
+      "DU": 2,
       "EG": 1,
       "GE": 1,
       "GO": 13,

@@ -1,9 +1,9 @@
 {
   "pangram": "inboard",
   "center_letter": "b",
-  "num_answers": 47,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 200,
+  "possible_points": 196,
   "answer_pangrams": [
     "inboard"
   ],
@@ -28,11 +28,11 @@
     "bird",
     "boar",
     "board",
+    "boba",
     "bobbin",
     "bonbon",
     "bond",
     "boob",
-    "booboo",
     "boon",
     "boor",
     "born",
@@ -43,6 +43,7 @@
     "bran",
     "brand",
     "briar",
+    "brio",
     "broad",
     "broadband",
     "brood",
@@ -59,16 +60,16 @@
   "date": "2032-05-25",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 19,
       "5": 14,
-      "6": 11,
+      "6": 10,
       "7": 2,
       "8": 1,
       "9": 2
     },
     "by_first_letter": {
       "A": 4,
-      "B": 34,
+      "B": 35,
       "D": 1,
       "I": 3,
       "N": 1,
@@ -81,9 +82,9 @@
         "7": 1
       },
       "B": {
-        "4": 15,
+        "4": 17,
         "5": 9,
-        "6": 7,
+        "6": 6,
         "8": 1,
         "9": 2
       },
@@ -109,7 +110,7 @@
       "BA": 12,
       "BI": 2,
       "BO": 11,
-      "BR": 9,
+      "BR": 10,
       "DR": 1,
       "IB": 1,
       "IN": 2,

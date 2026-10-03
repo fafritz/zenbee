@@ -1,9 +1,9 @@
 {
   "pangram": "wedlock",
   "center_letter": "c",
-  "num_answers": 39,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 167,
+  "possible_points": 173,
   "answer_pangrams": [
     "wedlock"
   ],
@@ -11,6 +11,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "cello",
     "clew",
     "clewed",
@@ -53,12 +54,12 @@
     "by_length": {
       "4": 15,
       "5": 7,
-      "6": 11,
+      "6": 12,
       "7": 4,
       "8": 2
     },
     "by_first_letter": {
-      "C": 26,
+      "C": 27,
       "D": 7,
       "L": 4,
       "W": 2
@@ -67,7 +68,7 @@
       "C": {
         "4": 11,
         "5": 7,
-        "6": 6,
+        "6": 7,
         "7": 2
       },
       "D": {
@@ -86,7 +87,7 @@
       }
     },
     "two_letter_list": {
-      "CE": 4,
+      "CE": 5,
       "CL": 5,
       "CO": 17,
       "DE": 5,

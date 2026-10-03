@@ -1,16 +1,17 @@
 {
   "pangram": "lunatic",
   "center_letter": "n",
-  "num_answers": 45,
+  "num_answers": 49,
   "num_pangrams": 2,
-  "possible_points": 213,
+  "possible_points": 246,
   "answer_pangrams": [
     "lunatic",
     "nautical"
   ],
   "answers": [
-    "anal",
+    "actinic",
     "annual",
+    "annuitant",
     "annul",
     "anti",
     "antic",
@@ -30,8 +31,11 @@
     "initial",
     "intact",
     "intuit",
+    "inulin",
     "lacuna",
     "lain",
+    "lanai",
+    "lantana",
     "lint",
     "lunatic",
     "naan",
@@ -58,27 +62,29 @@
   "date": "2037-11-27",
   "hints": {
     "by_length": {
-      "4": 15,
-      "5": 11,
-      "6": 10,
-      "7": 5,
+      "4": 14,
+      "5": 12,
+      "6": 11,
+      "7": 7,
       "8": 2,
-      "9": 2
+      "9": 3
     },
     "by_first_letter": {
-      "A": 7,
+      "A": 8,
       "C": 11,
-      "I": 3,
-      "L": 4,
+      "I": 4,
+      "L": 6,
       "N": 7,
       "T": 9,
       "U": 4
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 2,
-        "6": 2
+        "6": 2,
+        "7": 1,
+        "9": 1
       },
       "C": {
         "4": 2,
@@ -89,13 +95,14 @@
         "9": 1
       },
       "I": {
-        "6": 2,
+        "6": 3,
         "7": 1
       },
       "L": {
         "4": 2,
+        "5": 1,
         "6": 1,
-        "7": 1
+        "7": 2
       },
       "N": {
         "4": 4,
@@ -116,13 +123,14 @@
       }
     },
     "two_letter_list": {
+      "AC": 1,
       "AN": 5,
       "AT": 1,
       "AU": 1,
       "CA": 7,
       "CL": 4,
-      "IN": 3,
-      "LA": 2,
+      "IN": 4,
+      "LA": 4,
       "LI": 1,
       "LU": 1,
       "NA": 5,

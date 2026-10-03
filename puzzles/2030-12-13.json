@@ -1,9 +1,9 @@
 {
   "pangram": "damping",
   "center_letter": "n",
-  "num_answers": 76,
+  "num_answers": 78,
   "num_pangrams": 1,
-  "possible_points": 431,
+  "possible_points": 442,
   "answer_pangrams": [
     "damping"
   ],
@@ -73,6 +73,7 @@
     "paining",
     "panda",
     "pang",
+    "panini",
     "panning",
     "pidgin",
     "pigging",
@@ -80,6 +81,7 @@
     "ping",
     "pinging",
     "pining",
+    "pinna",
     "pinning",
     "piping",
     "pippin",
@@ -89,8 +91,8 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 12,
-      "6": 18,
+      "5": 13,
+      "6": 19,
       "7": 30,
       "8": 2,
       "9": 2
@@ -102,7 +104,7 @@
       "I": 4,
       "M": 16,
       "N": 7,
-      "P": 18
+      "P": 20
     },
     "grid": {
       "A": {
@@ -140,8 +142,8 @@
       },
       "P": {
         "4": 3,
-        "5": 2,
-        "6": 5,
+        "5": 3,
+        "6": 6,
         "7": 8
       }
     },
@@ -161,8 +163,8 @@
       "MI": 7,
       "NA": 6,
       "NI": 1,
-      "PA": 8,
-      "PI": 10
+      "PA": 9,
+      "PI": 11
     }
   }
 }

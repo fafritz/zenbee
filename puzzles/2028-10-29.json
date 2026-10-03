@@ -1,9 +1,9 @@
 {
   "pangram": "mulched",
   "center_letter": "e",
-  "num_answers": 56,
+  "num_answers": 63,
   "num_pangrams": 1,
-  "possible_points": 254,
+  "possible_points": 284,
   "answer_pangrams": [
     "mulched"
   ],
@@ -11,6 +11,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "chem",
     "chummed",
     "clue",
@@ -29,11 +30,14 @@
     "delude",
     "deluded",
     "deuce",
+    "deuced",
     "dude",
     "duded",
     "duel",
     "dueled",
     "dulled",
+    "educe",
+    "eeled",
     "elude",
     "eluded",
     "emcee",
@@ -45,11 +49,14 @@
     "held",
     "hell",
     "helm",
+    "helmed",
+    "heme",
     "hemmed",
     "huddle",
     "huddled",
     "hulled",
     "hummed",
+    "lede",
     "leech",
     "leeched",
     "lulled",
@@ -68,42 +75,43 @@
   "date": "2028-10-29",
   "hints": {
     "by_length": {
-      "4": 18,
-      "5": 8,
-      "6": 21,
+      "4": 20,
+      "5": 10,
+      "6": 24,
       "7": 9
     },
     "by_first_letter": {
-      "C": 11,
-      "D": 15,
-      "E": 4,
-      "H": 12,
-      "L": 3,
+      "C": 12,
+      "D": 16,
+      "E": 6,
+      "H": 14,
+      "L": 4,
       "M": 11
     },
     "grid": {
       "C": {
         "4": 5,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 2
       },
       "D": {
         "4": 5,
         "5": 2,
-        "6": 6,
+        "6": 7,
         "7": 2
       },
       "E": {
-        "5": 2,
+        "5": 4,
         "6": 2
       },
       "H": {
-        "4": 5,
-        "6": 6,
+        "4": 6,
+        "6": 7,
         "7": 1
       },
       "L": {
+        "4": 1,
         "5": 1,
         "6": 1,
         "7": 1
@@ -116,17 +124,19 @@
       }
     },
     "two_letter_list": {
-      "CE": 3,
+      "CE": 4,
       "CH": 2,
       "CL": 2,
       "CU": 4,
-      "DE": 10,
+      "DE": 11,
       "DU": 5,
+      "ED": 1,
+      "EE": 1,
       "EL": 2,
       "EM": 2,
-      "HE": 8,
+      "HE": 10,
       "HU": 4,
-      "LE": 2,
+      "LE": 3,
       "LU": 1,
       "ME": 6,
       "MU": 5

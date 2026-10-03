@@ -1,9 +1,9 @@
 {
   "pangram": "boatmen",
   "center_letter": "a",
-  "num_answers": 73,
+  "num_answers": 77,
   "num_pangrams": 1,
-  "possible_points": 307,
+  "possible_points": 327,
   "answer_pangrams": [
     "boatmen"
   ],
@@ -18,6 +18,7 @@
     "ammo",
     "amoeba",
     "anemone",
+    "annatto",
     "annotate",
     "anon",
     "ante",
@@ -45,6 +46,7 @@
     "boat",
     "boatman",
     "boatmen",
+    "boba",
     "eaten",
     "emanate",
     "enema",
@@ -71,7 +73,9 @@
     "nana",
     "nanobot",
     "neat",
+    "neaten",
     "neonate",
+    "notate",
     "oaten",
     "ottoman",
     "taboo",
@@ -85,19 +89,19 @@
   "date": "2028-09-06",
   "hints": {
     "by_length": {
-      "4": 29,
+      "4": 30,
       "5": 16,
-      "6": 13,
-      "7": 9,
+      "6": 15,
+      "7": 10,
       "8": 4,
       "9": 2
     },
     "by_first_letter": {
-      "A": 18,
-      "B": 19,
+      "A": 19,
+      "B": 20,
       "E": 3,
       "M": 17,
-      "N": 7,
+      "N": 9,
       "O": 2,
       "T": 7
     },
@@ -106,12 +110,12 @@
         "4": 7,
         "5": 4,
         "6": 1,
-        "7": 2,
+        "7": 3,
         "8": 2,
         "9": 2
       },
       "B": {
-        "4": 8,
+        "4": 9,
         "5": 1,
         "6": 8,
         "7": 2
@@ -130,6 +134,7 @@
       "N": {
         "4": 4,
         "5": 1,
+        "6": 2,
         "7": 2
       },
       "O": {
@@ -146,11 +151,11 @@
     "two_letter_list": {
       "AB": 6,
       "AM": 3,
-      "AN": 6,
+      "AN": 7,
       "AT": 3,
       "BA": 10,
       "BE": 6,
-      "BO": 3,
+      "BO": 4,
       "EA": 1,
       "EM": 1,
       "EN": 1,
@@ -158,7 +163,8 @@
       "ME": 4,
       "MO": 4,
       "NA": 5,
-      "NE": 2,
+      "NE": 3,
+      "NO": 1,
       "OA": 1,
       "OT": 1,
       "TA": 3,

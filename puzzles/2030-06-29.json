@@ -1,9 +1,9 @@
 {
   "pangram": "harking",
   "center_letter": "r",
-  "num_answers": 33,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 170,
+  "possible_points": 187,
   "answer_pangrams": [
     "harking"
   ],
@@ -25,6 +25,8 @@
     "hark",
     "harking",
     "hiring",
+    "ingrain",
+    "ingraining",
     "irking",
     "raga",
     "ragging",
@@ -48,16 +50,16 @@
       "4": 11,
       "5": 1,
       "6": 8,
-      "7": 8,
+      "7": 9,
       "8": 3,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 7,
       "G": 4,
       "H": 6,
-      "I": 1,
+      "I": 3,
       "R": 15
     },
     "grid": {
@@ -80,7 +82,9 @@
         "7": 1
       },
       "I": {
-        "6": 1
+        "6": 1,
+        "7": 1,
+        "10": 1
       },
       "R": {
         "4": 6,
@@ -96,6 +100,7 @@
       "GR": 3,
       "HA": 5,
       "HI": 1,
+      "IN": 2,
       "IR": 1,
       "RA": 11,
       "RI": 4

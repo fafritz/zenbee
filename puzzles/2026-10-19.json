@@ -1,9 +1,9 @@
 {
   "pangram": "jumping",
   "center_letter": "g",
-  "num_answers": 30,
+  "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 209,
+  "possible_points": 202,
   "answer_pangrams": [
     "jumping"
   ],
@@ -22,7 +22,6 @@
     "miming",
     "mining",
     "mugging",
-    "munging",
     "nipping",
     "pigging",
     "pimping",
@@ -44,14 +43,14 @@
     "by_length": {
       "4": 1,
       "6": 8,
-      "7": 18,
+      "7": 17,
       "9": 3
     },
     "by_first_letter": {
       "G": 4,
       "I": 4,
       "J": 3,
-      "M": 4,
+      "M": 3,
       "N": 1,
       "P": 11,
       "U": 3
@@ -69,7 +68,7 @@
       },
       "M": {
         "6": 2,
-        "7": 2
+        "7": 1
       },
       "N": {
         "7": 1
@@ -92,7 +91,7 @@
       "JI": 1,
       "JU": 2,
       "MI": 2,
-      "MU": 2,
+      "MU": 1,
       "NI": 1,
       "PI": 8,
       "PU": 3,

@@ -1,9 +1,9 @@
 {
   "pangram": "latency",
   "center_letter": "e",
-  "num_answers": 63,
+  "num_answers": 64,
   "num_pangrams": 2,
-  "possible_points": 309,
+  "possible_points": 315,
   "answer_pangrams": [
     "acetylene",
     "latency"
@@ -13,6 +13,7 @@
     "acetate",
     "acetylene",
     "acne",
+    "allele",
     "alley",
     "anneal",
     "ante",
@@ -53,6 +54,7 @@
     "lean",
     "lent",
     "neat",
+    "neaten",
     "neatly",
     "nene",
     "nettle",
@@ -65,7 +67,6 @@
     "teeny",
     "tell",
     "telltale",
-    "telnet",
     "tenancy",
     "tenant",
     "tenet",
@@ -78,26 +79,26 @@
     "by_length": {
       "4": 19,
       "5": 13,
-      "6": 15,
+      "6": 16,
       "7": 10,
       "8": 4,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 10,
       "C": 13,
       "E": 8,
       "L": 13,
-      "N": 4,
-      "T": 15,
+      "N": 5,
+      "T": 14,
       "Y": 1
     },
     "grid": {
       "A": {
         "4": 2,
         "5": 1,
-        "6": 2,
+        "6": 3,
         "7": 2,
         "8": 1,
         "9": 1
@@ -123,12 +124,12 @@
       },
       "N": {
         "4": 2,
-        "6": 2
+        "6": 3
       },
       "T": {
         "4": 5,
         "5": 2,
-        "6": 4,
+        "6": 3,
         "7": 1,
         "8": 2,
         "10": 1
@@ -139,7 +140,7 @@
     },
     "two_letter_list": {
       "AC": 4,
-      "AL": 1,
+      "AL": 2,
       "AN": 4,
       "CA": 5,
       "CE": 3,
@@ -152,9 +153,9 @@
       "EY": 1,
       "LA": 11,
       "LE": 2,
-      "NE": 4,
+      "NE": 5,
       "TA": 4,
-      "TE": 11,
+      "TE": 10,
       "YE": 1
     }
   }

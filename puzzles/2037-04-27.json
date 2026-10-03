@@ -1,7 +1,7 @@
 {
   "pangram": "baloney",
   "center_letter": "o",
-  "num_answers": 49,
+  "num_answers": 50,
   "num_pangrams": 1,
   "possible_points": 179,
   "answer_pangrams": [
@@ -21,6 +21,7 @@
     "baobab",
     "bellboy",
     "blob",
+    "boba",
     "bobble",
     "bobby",
     "bola",
@@ -30,7 +31,6 @@
     "bone",
     "bony",
     "boob",
-    "booboo",
     "booby",
     "boon",
     "ebony",
@@ -43,6 +43,7 @@
     "lone",
     "lonely",
     "loon",
+    "loony",
     "loyal",
     "loyally",
     "nabob",
@@ -61,16 +62,16 @@
   "date": "2037-04-27",
   "hints": {
     "by_length": {
-      "4": 23,
-      "5": 13,
-      "6": 7,
+      "4": 24,
+      "5": 14,
+      "6": 6,
       "7": 6
     },
     "by_first_letter": {
       "A": 7,
       "B": 18,
       "E": 2,
-      "L": 10,
+      "L": 11,
       "N": 8,
       "O": 4
     },
@@ -82,9 +83,9 @@
         "7": 1
       },
       "B": {
-        "4": 8,
+        "4": 9,
         "5": 2,
-        "6": 5,
+        "6": 4,
         "7": 3
       },
       "E": {
@@ -93,7 +94,7 @@
       },
       "L": {
         "4": 5,
-        "5": 3,
+        "5": 4,
         "6": 1,
         "7": 1
       },
@@ -116,7 +117,7 @@
       "EB": 1,
       "EN": 1,
       "LL": 1,
-      "LO": 9,
+      "LO": 10,
       "NA": 1,
       "NE": 1,
       "NO": 5,

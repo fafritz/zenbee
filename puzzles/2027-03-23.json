@@ -1,9 +1,9 @@
 {
   "pangram": "haunted",
   "center_letter": "n",
-  "num_answers": 78,
+  "num_answers": 80,
   "num_pangrams": 1,
-  "possible_points": 417,
+  "possible_points": 430,
   "answer_pangrams": [
     "haunted"
   ],
@@ -34,12 +34,12 @@
     "dented",
     "denude",
     "denuded",
+    "detent",
     "detente",
     "dune",
     "dunned",
     "eaten",
     "ended",
-    "endue",
     "endued",
     "entente",
     "hand",
@@ -54,11 +54,13 @@
     "naan",
     "nana",
     "neat",
+    "neaten",
     "neath",
     "need",
     "needed",
     "nene",
     "netted",
+    "nutate",
     "nutted",
     "tanned",
     "taunt",
@@ -91,8 +93,8 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 13,
-      "6": 18,
+      "5": 12,
+      "6": 21,
       "7": 14,
       "8": 8,
       "9": 4,
@@ -100,10 +102,10 @@
     },
     "by_first_letter": {
       "A": 17,
-      "D": 12,
-      "E": 5,
+      "D": 13,
+      "E": 4,
       "H": 9,
-      "N": 9,
+      "N": 11,
       "T": 17,
       "U": 9
     },
@@ -120,12 +122,12 @@
       "D": {
         "4": 3,
         "5": 1,
-        "6": 4,
+        "6": 5,
         "7": 3,
         "8": 1
       },
       "E": {
-        "5": 3,
+        "5": 2,
         "6": 1,
         "7": 1
       },
@@ -138,7 +140,7 @@
       "N": {
         "4": 5,
         "5": 1,
-        "6": 3
+        "6": 5
       },
       "T": {
         "4": 7,
@@ -162,16 +164,16 @@
       "AT": 7,
       "AU": 1,
       "DA": 2,
-      "DE": 8,
+      "DE": 9,
       "DU": 2,
       "EA": 1,
-      "EN": 4,
+      "EN": 3,
       "HA": 4,
       "HE": 3,
       "HU": 2,
       "NA": 2,
-      "NE": 6,
-      "NU": 1,
+      "NE": 7,
+      "NU": 2,
       "TA": 3,
       "TE": 9,
       "TH": 2,

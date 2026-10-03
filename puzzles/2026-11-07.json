@@ -1,9 +1,9 @@
 {
   "pangram": "warming",
   "center_letter": "r",
-  "num_answers": 45,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 252,
+  "possible_points": 278,
   "answer_pangrams": [
     "warming"
   ],
@@ -27,7 +27,10 @@
     "griming",
     "grin",
     "grinning",
+    "ingrain",
+    "ingraining",
     "margin",
+    "margining",
     "maria",
     "marina",
     "marring",
@@ -60,15 +63,16 @@
       "4": 11,
       "5": 3,
       "6": 10,
-      "7": 14,
+      "7": 15,
       "8": 4,
-      "9": 1,
-      "10": 2
+      "9": 2,
+      "10": 3
     },
     "by_first_letter": {
       "A": 10,
       "G": 9,
-      "M": 5,
+      "I": 2,
+      "M": 6,
       "R": 13,
       "W": 8
     },
@@ -88,10 +92,15 @@
         "8": 2,
         "10": 1
       },
+      "I": {
+        "7": 1,
+        "10": 1
+      },
       "M": {
         "5": 1,
         "6": 3,
-        "7": 1
+        "7": 1,
+        "9": 1
       },
       "R": {
         "4": 4,
@@ -113,7 +122,8 @@
       "AR": 5,
       "GA": 1,
       "GR": 8,
-      "MA": 4,
+      "IN": 2,
+      "MA": 5,
       "MI": 1,
       "RA": 9,
       "RI": 4,

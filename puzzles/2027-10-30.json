@@ -1,9 +1,9 @@
 {
   "pangram": "vaulted",
   "center_letter": "a",
-  "num_answers": 62,
+  "num_answers": 64,
   "num_pangrams": 2,
-  "possible_points": 312,
+  "possible_points": 319,
   "answer_pangrams": [
     "evaluated",
     "vaulted"
@@ -15,6 +15,7 @@
     "adulate",
     "adulated",
     "adult",
+    "allele",
     "allude",
     "alluded",
     "dale",
@@ -43,6 +44,7 @@
     "laud",
     "lauded",
     "lava",
+    "lave",
     "lead",
     "leaded",
     "leave",
@@ -75,19 +77,19 @@
   "date": "2027-10-30",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 16,
-      "6": 13,
+      "6": 14,
       "7": 8,
       "8": 6,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 8,
+      "A": 9,
       "D": 11,
       "E": 8,
-      "L": 12,
+      "L": 13,
       "T": 9,
       "U": 3,
       "V": 11
@@ -95,7 +97,7 @@
     "grid": {
       "A": {
         "5": 3,
-        "6": 2,
+        "6": 3,
         "7": 2,
         "8": 1
       },
@@ -113,7 +115,7 @@
         "9": 1
       },
       "L": {
-        "4": 5,
+        "4": 6,
         "5": 3,
         "6": 4
       },
@@ -138,13 +140,13 @@
     },
     "two_letter_list": {
       "AD": 6,
-      "AL": 2,
+      "AL": 3,
       "DA": 4,
       "DE": 6,
       "DU": 1,
       "EL": 4,
       "EV": 4,
-      "LA": 7,
+      "LA": 8,
       "LE": 4,
       "LU": 1,
       "TA": 7,

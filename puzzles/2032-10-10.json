@@ -1,9 +1,9 @@
 {
   "pangram": "doublet",
   "center_letter": "t",
-  "num_answers": 62,
+  "num_answers": 64,
   "num_pangrams": 1,
-  "possible_points": 260,
+  "possible_points": 271,
   "answer_pangrams": [
     "doublet"
   ],
@@ -40,6 +40,7 @@
     "doubt",
     "doubted",
     "duet",
+    "elote",
     "etude",
     "loot",
     "looted",
@@ -66,6 +67,7 @@
     "totted",
     "tout",
     "touted",
+    "tubbed",
     "tube",
     "tubed",
     "tulle",
@@ -75,18 +77,18 @@
   "hints": {
     "by_length": {
       "4": 24,
-      "5": 11,
-      "6": 18,
+      "5": 12,
+      "6": 19,
       "7": 8,
       "10": 1
     },
     "by_first_letter": {
       "B": 19,
       "D": 13,
-      "E": 1,
+      "E": 2,
       "L": 5,
       "O": 3,
-      "T": 21
+      "T": 22
     },
     "grid": {
       "B": {
@@ -103,7 +105,7 @@
         "7": 4
       },
       "E": {
-        "5": 1
+        "5": 2
       },
       "L": {
         "4": 3,
@@ -117,7 +119,7 @@
       "T": {
         "4": 11,
         "5": 3,
-        "6": 6,
+        "6": 7,
         "7": 1
       }
     },
@@ -129,13 +131,14 @@
       "DE": 5,
       "DO": 7,
       "DU": 1,
+      "EL": 1,
       "ET": 1,
       "LO": 4,
       "LU": 1,
       "OU": 3,
       "TE": 2,
       "TO": 15,
-      "TU": 4
+      "TU": 5
     }
   }
 }

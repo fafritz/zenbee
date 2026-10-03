@@ -1,9 +1,9 @@
 {
   "pangram": "plumage",
   "center_letter": "p",
-  "num_answers": 38,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 116,
+  "possible_points": 121,
   "answer_pangrams": [
     "plumage"
   ],
@@ -26,6 +26,7 @@
     "pale",
     "pall",
     "palm",
+    "pampa",
     "papa",
     "papal",
     "peal",
@@ -51,7 +52,7 @@
   "hints": {
     "by_length": {
       "4": 22,
-      "5": 10,
+      "5": 11,
       "6": 5,
       "7": 1
     },
@@ -61,7 +62,7 @@
       "G": 2,
       "L": 4,
       "M": 1,
-      "P": 24
+      "P": 25
     },
     "grid": {
       "A": {
@@ -83,7 +84,7 @@
       },
       "P": {
         "4": 16,
-        "5": 5,
+        "5": 6,
         "6": 2,
         "7": 1
       }
@@ -99,7 +100,7 @@
       "LE": 1,
       "LU": 1,
       "MA": 1,
-      "PA": 6,
+      "PA": 7,
       "PE": 3,
       "PL": 7,
       "PU": 8

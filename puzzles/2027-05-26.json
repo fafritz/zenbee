@@ -1,9 +1,9 @@
 {
   "pangram": "caulked",
   "center_letter": "c",
-  "num_answers": 48,
+  "num_answers": 52,
   "num_pangrams": 1,
-  "possible_points": 222,
+  "possible_points": 246,
   "answer_pangrams": [
     "caulked"
   ],
@@ -27,6 +27,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "clack",
     "clacked",
     "clad",
@@ -39,6 +40,7 @@
     "cued",
     "cull",
     "culled",
+    "decadal",
     "decade",
     "decal",
     "deck",
@@ -47,9 +49,11 @@
     "deduce",
     "deduced",
     "deuce",
+    "deuced",
     "ducal",
     "duck",
     "ducked",
+    "educe",
     "lace",
     "laced",
     "lack",
@@ -61,14 +65,15 @@
   "hints": {
     "by_length": {
       "4": 14,
-      "5": 11,
-      "6": 15,
-      "7": 8
+      "5": 12,
+      "6": 17,
+      "7": 9
     },
     "by_first_letter": {
       "A": 5,
-      "C": 26,
-      "D": 11,
+      "C": 27,
+      "D": 13,
+      "E": 1,
       "L": 6
     },
     "grid": {
@@ -80,14 +85,17 @@
       "C": {
         "4": 8,
         "5": 7,
-        "6": 6,
+        "6": 7,
         "7": 5
       },
       "D": {
         "4": 2,
         "5": 3,
-        "6": 5,
-        "7": 1
+        "6": 6,
+        "7": 2
+      },
+      "E": {
+        "5": 1
       },
       "L": {
         "4": 3,
@@ -99,11 +107,12 @@
       "AC": 3,
       "AD": 2,
       "CA": 11,
-      "CE": 3,
+      "CE": 4,
       "CL": 7,
       "CU": 5,
-      "DE": 8,
+      "DE": 10,
       "DU": 3,
+      "ED": 1,
       "LA": 4,
       "LU": 2
     }

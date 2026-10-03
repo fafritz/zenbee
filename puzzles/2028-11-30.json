@@ -1,9 +1,9 @@
 {
   "pangram": "foliage",
   "center_letter": "f",
-  "num_answers": 32,
+  "num_answers": 34,
   "num_pangrams": 1,
-  "possible_points": 89,
+  "possible_points": 101,
   "answer_pangrams": [
     "foliage"
   ],
@@ -11,10 +11,12 @@
     "alfalfa",
     "aloof",
     "fail",
+    "falafel",
     "fall",
     "falloff",
     "feel",
     "fell",
+    "fella",
     "fief",
     "fife",
     "file",
@@ -45,14 +47,14 @@
   "hints": {
     "by_length": {
       "4": 22,
-      "5": 5,
+      "5": 6,
       "6": 1,
-      "7": 3,
+      "7": 4,
       "8": 1
     },
     "by_first_letter": {
       "A": 2,
-      "F": 22,
+      "F": 24,
       "G": 4,
       "L": 3,
       "O": 1
@@ -64,9 +66,9 @@
       },
       "F": {
         "4": 16,
-        "5": 2,
+        "5": 3,
         "6": 1,
-        "7": 2,
+        "7": 3,
         "8": 1
       },
       "G": {
@@ -82,8 +84,8 @@
     },
     "two_letter_list": {
       "AL": 2,
-      "FA": 3,
-      "FE": 2,
+      "FA": 4,
+      "FE": 3,
       "FI": 5,
       "FL": 7,
       "FO": 5,

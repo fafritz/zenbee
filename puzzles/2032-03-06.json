@@ -1,9 +1,9 @@
 {
   "pangram": "fouling",
   "center_letter": "g",
-  "num_answers": 59,
+  "num_answers": 61,
   "num_pangrams": 1,
-  "possible_points": 335,
+  "possible_points": 347,
   "answer_pangrams": [
     "fouling"
   ],
@@ -48,6 +48,7 @@
     "gunning",
     "igloo",
     "inning",
+    "lignin",
     "lingo",
     "lining",
     "logging",
@@ -58,6 +59,7 @@
     "longing",
     "lounging",
     "lugging",
+    "luging",
     "lulling",
     "lung",
     "lunging",
@@ -73,7 +75,7 @@
     "by_length": {
       "4": 12,
       "5": 7,
-      "6": 10,
+      "6": 12,
       "7": 21,
       "8": 8,
       "10": 1
@@ -82,7 +84,7 @@
       "F": 16,
       "G": 22,
       "I": 2,
-      "L": 13,
+      "L": 15,
       "N": 2,
       "O": 4
     },
@@ -109,7 +111,7 @@
       "L": {
         "4": 3,
         "5": 2,
-        "6": 1,
+        "6": 3,
         "7": 6,
         "8": 1
       },
@@ -133,9 +135,9 @@
       "GU": 5,
       "IG": 1,
       "IN": 1,
-      "LI": 2,
+      "LI": 3,
       "LO": 7,
-      "LU": 4,
+      "LU": 5,
       "NI": 1,
       "NO": 1,
       "OF": 1,

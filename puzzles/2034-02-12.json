@@ -1,9 +1,9 @@
 {
   "pangram": "pouched",
   "center_letter": "h",
-  "num_answers": 30,
+  "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 142,
+  "possible_points": 136,
   "answer_pangrams": [
     "pouched"
   ],
@@ -14,7 +14,6 @@
     "chopped",
     "couch",
     "couched",
-    "douche",
     "douched",
     "echo",
     "echoed",
@@ -44,13 +43,13 @@
     "by_length": {
       "4": 9,
       "5": 7,
-      "6": 8,
+      "6": 7,
       "7": 5,
       "8": 1
     },
     "by_first_letter": {
       "C": 6,
-      "D": 2,
+      "D": 1,
       "E": 3,
       "H": 13,
       "O": 1,
@@ -63,7 +62,6 @@
         "7": 3
       },
       "D": {
-        "6": 1,
         "7": 1
       },
       "E": {
@@ -90,7 +88,7 @@
     "two_letter_list": {
       "CH": 4,
       "CO": 2,
-      "DO": 2,
+      "DO": 1,
       "EC": 2,
       "EP": 1,
       "HE": 2,

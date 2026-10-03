@@ -1,13 +1,14 @@
 {
   "pangram": "chaplet",
   "center_letter": "l",
-  "num_answers": 75,
+  "num_answers": 76,
   "num_pangrams": 1,
-  "possible_points": 336,
+  "possible_points": 342,
   "answer_pangrams": [
     "chaplet"
   ],
   "answers": [
+    "allele",
     "alpaca",
     "alpha",
     "appall",
@@ -89,14 +90,14 @@
     "by_length": {
       "4": 25,
       "5": 20,
-      "6": 14,
+      "6": 15,
       "7": 11,
       "8": 3,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 7,
+      "A": 8,
       "C": 14,
       "E": 3,
       "H": 9,
@@ -107,7 +108,7 @@
     "grid": {
       "A": {
         "5": 2,
-        "6": 3,
+        "6": 4,
         "7": 1,
         "9": 1
       },
@@ -147,7 +148,7 @@
       }
     },
     "two_letter_list": {
-      "AL": 2,
+      "AL": 3,
       "AP": 4,
       "AT": 1,
       "CA": 7,

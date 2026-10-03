@@ -1,9 +1,9 @@
 {
   "pangram": "harking",
   "center_letter": "h",
-  "num_answers": 17,
+  "num_answers": 16,
   "num_pangrams": 1,
-  "possible_points": 66,
+  "possible_points": 65,
   "answer_pangrams": [
     "harking"
   ],
@@ -19,7 +19,6 @@
     "harking",
     "high",
     "hiking",
-    "hing",
     "hinging",
     "hiring",
     "khaki",
@@ -29,14 +28,14 @@
   "date": "2027-05-23",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 8,
       "5": 1,
       "6": 4,
       "7": 3
     },
     "by_first_letter": {
       "A": 1,
-      "H": 13,
+      "H": 12,
       "K": 2,
       "N": 1
     },
@@ -45,7 +44,7 @@
         "4": 1
       },
       "H": {
-        "4": 6,
+        "4": 5,
         "6": 4,
         "7": 3
       },
@@ -60,7 +59,7 @@
     "two_letter_list": {
       "AN": 1,
       "HA": 8,
-      "HI": 5,
+      "HI": 4,
       "KH": 2,
       "NI": 1
     }

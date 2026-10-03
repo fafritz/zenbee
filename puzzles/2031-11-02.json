@@ -1,9 +1,9 @@
 {
   "pangram": "maudlin",
   "center_letter": "l",
-  "num_answers": 42,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 150,
+  "possible_points": 160,
   "answer_pangrams": [
     "maudlin"
   ],
@@ -12,7 +12,6 @@
     "aluminum",
     "alumna",
     "alumni",
-    "anal",
     "animal",
     "annual",
     "annul",
@@ -22,9 +21,11 @@
     "dull",
     "inlaid",
     "inland",
+    "inulin",
     "laid",
     "lain",
     "lama",
+    "lanai",
     "land",
     "laud",
     "laudanum",
@@ -54,25 +55,25 @@
   "date": "2031-11-02",
   "hints": {
     "by_length": {
-      "4": 24,
-      "5": 2,
-      "6": 8,
+      "4": 23,
+      "5": 3,
+      "6": 9,
       "7": 4,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
-      "A": 8,
+      "A": 7,
       "D": 4,
-      "I": 2,
-      "L": 11,
+      "I": 3,
+      "L": 12,
       "M": 14,
       "N": 2,
       "U": 1
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 1,
         "6": 4,
         "8": 1
@@ -81,11 +82,11 @@
         "4": 4
       },
       "I": {
-        "6": 2
+        "6": 3
       },
       "L": {
         "4": 9,
-        "5": 1,
+        "5": 2,
         "8": 1
       },
       "M": {
@@ -104,11 +105,11 @@
     },
     "two_letter_list": {
       "AL": 4,
-      "AN": 4,
+      "AN": 3,
       "DI": 2,
       "DU": 2,
-      "IN": 2,
-      "LA": 6,
+      "IN": 3,
+      "LA": 7,
       "LI": 1,
       "LL": 1,
       "LU": 3,

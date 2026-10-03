@@ -1,9 +1,9 @@
 {
   "pangram": "furlong",
   "center_letter": "f",
-  "num_answers": 24,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 81,
+  "possible_points": 82,
   "answer_pangrams": [
     "furlong"
   ],
@@ -28,6 +28,7 @@
     "gruff",
     "guff",
     "gulf",
+    "luff",
     "roof",
     "ruff",
     "runoff",
@@ -36,7 +37,7 @@
   "date": "2035-05-11",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 14,
       "5": 7,
       "6": 2,
       "7": 2
@@ -44,6 +45,7 @@
     "by_first_letter": {
       "F": 15,
       "G": 5,
+      "L": 1,
       "R": 3,
       "U": 1
     },
@@ -56,6 +58,9 @@
       "G": {
         "4": 4,
         "5": 1
+      },
+      "L": {
+        "4": 1
       },
       "R": {
         "4": 2,
@@ -73,6 +78,7 @@
       "GO": 2,
       "GR": 1,
       "GU": 2,
+      "LU": 1,
       "RO": 1,
       "RU": 2,
       "UN": 1

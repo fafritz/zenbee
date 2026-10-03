@@ -1,9 +1,9 @@
 {
   "pangram": "lording",
   "center_letter": "r",
-  "num_answers": 53,
+  "num_answers": 58,
   "num_pangrams": 2,
-  "possible_points": 282,
+  "possible_points": 304,
   "answer_pangrams": [
     "drooling",
     "lording"
@@ -24,8 +24,10 @@
     "girdling",
     "girl",
     "gorging",
+    "gorgon",
     "goring",
     "grid",
+    "griddling",
     "gridiron",
     "grill",
     "grilling",
@@ -42,7 +44,9 @@
     "logrolling",
     "lord",
     "lording",
+    "noir",
     "nonrigid",
+    "nori",
     "odor",
     "origin",
     "ridding",
@@ -61,26 +65,28 @@
     "roiling",
     "roll",
     "rolling",
+    "ronin",
     "rood"
   ],
   "date": "2037-11-13",
   "hints": {
     "by_length": {
-      "4": 15,
-      "5": 10,
-      "6": 6,
+      "4": 17,
+      "5": 11,
+      "6": 7,
       "7": 11,
       "8": 10,
+      "9": 1,
       "10": 1
     },
     "by_first_letter": {
       "D": 10,
-      "G": 16,
+      "G": 18,
       "I": 4,
       "L": 3,
-      "N": 1,
+      "N": 3,
       "O": 2,
-      "R": 17
+      "R": 18
     },
     "grid": {
       "D": {
@@ -93,9 +99,10 @@
       "G": {
         "4": 5,
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 2,
-        "8": 5
+        "8": 5,
+        "9": 1
       },
       "I": {
         "4": 1,
@@ -109,6 +116,7 @@
         "10": 1
       },
       "N": {
+        "4": 2,
         "8": 1
       },
       "O": {
@@ -117,7 +125,7 @@
       },
       "R": {
         "4": 6,
-        "5": 2,
+        "5": 3,
         "6": 2,
         "7": 6,
         "8": 1
@@ -128,17 +136,17 @@
       "DO": 2,
       "DR": 7,
       "GI": 4,
-      "GO": 2,
-      "GR": 10,
+      "GO": 3,
+      "GR": 11,
       "IG": 1,
       "IN": 1,
       "IR": 2,
       "LO": 3,
-      "NO": 1,
+      "NO": 3,
       "OD": 1,
       "OR": 1,
       "RI": 12,
-      "RO": 5
+      "RO": 6
     }
   }
 }

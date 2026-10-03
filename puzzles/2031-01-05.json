@@ -1,9 +1,9 @@
 {
   "pangram": "praying",
   "center_letter": "g",
-  "num_answers": 73,
+  "num_answers": 77,
   "num_pangrams": 2,
-  "possible_points": 434,
+  "possible_points": 453,
   "answer_pangrams": [
     "parrying",
     "praying"
@@ -21,6 +21,7 @@
     "arraigning",
     "arranging",
     "arraying",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -42,6 +43,8 @@
     "griping",
     "gripping",
     "gypping",
+    "ingrain",
+    "ingraining",
     "inning",
     "nagging",
     "napping",
@@ -80,28 +83,29 @@
     "ring",
     "ringing",
     "ripping",
+    "yang",
     "yapping",
     "yipping"
   ],
   "date": "2031-01-05",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 14,
       "5": 8,
       "6": 14,
-      "7": 31,
+      "7": 32,
       "8": 6,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 12,
-      "G": 21,
-      "I": 1,
+      "G": 22,
+      "I": 3,
       "N": 3,
       "P": 21,
       "R": 13,
-      "Y": 2
+      "Y": 3
     },
     "grid": {
       "A": {
@@ -114,14 +118,16 @@
         "10": 1
       },
       "G": {
-        "4": 5,
+        "4": 6,
         "5": 1,
         "6": 3,
         "7": 9,
         "8": 3
       },
       "I": {
-        "6": 1
+        "6": 1,
+        "7": 1,
+        "10": 1
       },
       "N": {
         "7": 3
@@ -140,6 +146,7 @@
         "7": 7
       },
       "Y": {
+        "4": 1,
         "7": 2
       }
     },
@@ -149,11 +156,11 @@
       "AN": 2,
       "AP": 1,
       "AR": 4,
-      "GA": 7,
+      "GA": 8,
       "GI": 2,
       "GR": 11,
       "GY": 1,
-      "IN": 1,
+      "IN": 3,
       "NA": 2,
       "NI": 1,
       "PA": 10,
@@ -161,7 +168,7 @@
       "PR": 3,
       "RA": 9,
       "RI": 4,
-      "YA": 1,
+      "YA": 2,
       "YI": 1
     }
   }

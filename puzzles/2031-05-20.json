@@ -1,9 +1,9 @@
 {
   "pangram": "carping",
   "center_letter": "r",
-  "num_answers": 50,
+  "num_answers": 52,
   "num_pangrams": 2,
-  "possible_points": 277,
+  "possible_points": 294,
   "answer_pangrams": [
     "carping",
     "prancing"
@@ -36,6 +36,8 @@
     "grip",
     "griping",
     "gripping",
+    "ingrain",
+    "ingraining",
     "narc",
     "pair",
     "pairing",
@@ -66,15 +68,16 @@
       "4": 13,
       "5": 6,
       "6": 8,
-      "7": 15,
+      "7": 16,
       "8": 6,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 8,
       "C": 11,
       "G": 8,
+      "I": 2,
       "N": 1,
       "P": 7,
       "R": 15
@@ -101,6 +104,10 @@
         "7": 2,
         "8": 3
       },
+      "I": {
+        "7": 1,
+        "10": 1
+      },
       "N": {
         "4": 1
       },
@@ -125,6 +132,7 @@
       "CR": 3,
       "GA": 1,
       "GR": 7,
+      "IN": 2,
       "NA": 1,
       "PA": 4,
       "PR": 3,

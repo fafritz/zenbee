@@ -1,9 +1,9 @@
 {
   "pangram": "thumbed",
   "center_letter": "e",
-  "num_answers": 44,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 186,
+  "possible_points": 193,
   "answer_pangrams": [
     "thumbed"
   ],
@@ -31,6 +31,7 @@
     "etude",
     "heed",
     "heeded",
+    "heme",
     "hemmed",
     "hummed",
     "meet",
@@ -50,15 +51,16 @@
     "theme",
     "thudded",
     "thumbed",
+    "tubbed",
     "tube",
     "tubed"
   ],
   "date": "2031-09-25",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 17,
       "5": 11,
-      "6": 12,
+      "6": 13,
       "7": 4,
       "8": 1
     },
@@ -66,9 +68,9 @@
       "B": 6,
       "D": 11,
       "E": 4,
-      "H": 4,
+      "H": 5,
       "M": 6,
-      "T": 13
+      "T": 14
     },
     "grid": {
       "B": {
@@ -87,7 +89,7 @@
         "8": 1
       },
       "H": {
-        "4": 1,
+        "4": 2,
         "6": 3
       },
       "M": {
@@ -97,7 +99,7 @@
       "T": {
         "4": 5,
         "5": 3,
-        "6": 2,
+        "6": 3,
         "7": 3
       }
     },
@@ -109,13 +111,13 @@
       "EB": 1,
       "EM": 2,
       "ET": 1,
-      "HE": 3,
+      "HE": 4,
       "HU": 1,
       "ME": 4,
       "MU": 2,
       "TE": 6,
       "TH": 5,
-      "TU": 2
+      "TU": 3
     }
   }
 }

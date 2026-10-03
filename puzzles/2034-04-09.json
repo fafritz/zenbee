@@ -1,9 +1,9 @@
 {
   "pangram": "buckled",
   "center_letter": "d",
-  "num_answers": 52,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 258,
+  "possible_points": 287,
   "answer_pangrams": [
     "buckled"
   ],
@@ -19,10 +19,12 @@
     "bucked",
     "buckled",
     "budded",
+    "bulbed",
     "bulked",
     "bulled",
     "cede",
     "ceded",
+    "celled",
     "clubbed",
     "clucked",
     "clued",
@@ -42,6 +44,7 @@
     "delude",
     "deluded",
     "deuce",
+    "deuced",
     "dubbed",
     "duck",
     "ducked",
@@ -53,10 +56,13 @@
     "dull",
     "dulled",
     "ebbed",
+    "educe",
+    "eeled",
     "eked",
     "elude",
     "eluded",
     "keeled",
+    "lede",
     "lubed",
     "lucked",
     "lulled"
@@ -64,49 +70,50 @@
   "date": "2034-04-09",
   "hints": {
     "by_length": {
-      "4": 12,
-      "5": 10,
-      "6": 22,
+      "4": 13,
+      "5": 12,
+      "6": 25,
       "7": 7,
       "8": 1
     },
     "by_first_letter": {
-      "B": 13,
-      "C": 10,
-      "D": 21,
-      "E": 4,
+      "B": 14,
+      "C": 11,
+      "D": 22,
+      "E": 6,
       "K": 1,
-      "L": 3
+      "L": 4
     },
     "grid": {
       "B": {
         "4": 1,
         "5": 2,
-        "6": 7,
+        "6": 8,
         "7": 2,
         "8": 1
       },
       "C": {
         "4": 2,
         "5": 3,
-        "6": 2,
+        "6": 3,
         "7": 3
       },
       "D": {
         "4": 8,
         "5": 2,
-        "6": 9,
+        "6": 10,
         "7": 2
       },
       "E": {
         "4": 1,
-        "5": 2,
+        "5": 4,
         "6": 1
       },
       "K": {
         "6": 1
       },
       "L": {
+        "4": 1,
         "5": 1,
         "6": 2
       }
@@ -114,16 +121,19 @@
     "two_letter_list": {
       "BE": 4,
       "BL": 3,
-      "BU": 6,
-      "CE": 2,
+      "BU": 7,
+      "CE": 3,
       "CL": 3,
       "CU": 5,
-      "DE": 11,
+      "DE": 12,
       "DU": 10,
       "EB": 1,
+      "ED": 1,
+      "EE": 1,
       "EK": 1,
       "EL": 2,
       "KE": 1,
+      "LE": 1,
       "LU": 3
     }
   }

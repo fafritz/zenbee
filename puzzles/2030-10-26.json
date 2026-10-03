@@ -1,15 +1,16 @@
 {
   "pangram": "heavily",
   "center_letter": "l",
-  "num_answers": 36,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 117,
+  "possible_points": 131,
   "answer_pangrams": [
     "heavily"
   ],
   "answers": [
     "alive",
     "allay",
+    "allele",
     "alley",
     "ally",
     "avail",
@@ -27,9 +28,11 @@
     "hill",
     "hilly",
     "lava",
+    "lave",
     "leave",
     "levee",
     "level",
+    "levelly",
     "levy",
     "lily",
     "live",
@@ -48,23 +51,24 @@
   "date": "2030-10-26",
   "hints": {
     "by_length": {
-      "4": 19,
+      "4": 20,
       "5": 12,
-      "6": 4,
-      "7": 1
+      "6": 5,
+      "7": 2
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 6,
       "E": 2,
       "H": 11,
-      "L": 8,
+      "L": 10,
       "V": 9,
       "Y": 1
     },
     "grid": {
       "A": {
         "4": 1,
-        "5": 4
+        "5": 4,
+        "6": 1
       },
       "E": {
         "4": 1,
@@ -76,9 +80,10 @@
         "7": 1
       },
       "L": {
-        "4": 4,
+        "4": 5,
         "5": 3,
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "V": {
         "4": 5,
@@ -90,14 +95,14 @@
       }
     },
     "two_letter_list": {
-      "AL": 4,
+      "AL": 5,
       "AV": 1,
       "EV": 2,
       "HA": 5,
       "HE": 4,
       "HI": 2,
-      "LA": 1,
-      "LE": 4,
+      "LA": 2,
+      "LE": 5,
       "LI": 3,
       "VA": 3,
       "VE": 2,

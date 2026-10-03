@@ -1,23 +1,26 @@
 {
   "pangram": "hateful",
   "center_letter": "a",
-  "num_answers": 48,
+  "num_answers": 51,
   "num_pangrams": 2,
-  "possible_points": 186,
+  "possible_points": 204,
   "answer_pangrams": [
     "hateful",
     "healthful"
   ],
   "answers": [
     "alfalfa",
+    "allele",
     "athlete",
     "elate",
+    "falafel",
     "fall",
     "fatal",
     "fate",
     "fateful",
     "fault",
     "feat",
+    "fella",
     "feta",
     "fetal",
     "flat",
@@ -62,17 +65,17 @@
   "hints": {
     "by_length": {
       "4": 25,
-      "5": 9,
-      "6": 3,
-      "7": 7,
+      "5": 10,
+      "6": 4,
+      "7": 8,
       "8": 2,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 2,
+      "A": 3,
       "E": 1,
-      "F": 11,
+      "F": 13,
       "H": 15,
       "L": 8,
       "T": 10,
@@ -80,6 +83,7 @@
     },
     "grid": {
       "A": {
+        "6": 1,
         "7": 2
       },
       "E": {
@@ -87,8 +91,8 @@
       },
       "F": {
         "4": 6,
-        "5": 3,
-        "7": 1,
+        "5": 4,
+        "7": 2,
         "8": 1
       },
       "H": {
@@ -117,11 +121,11 @@
       }
     },
     "two_letter_list": {
-      "AL": 1,
+      "AL": 2,
       "AT": 1,
       "EL": 1,
-      "FA": 5,
-      "FE": 3,
+      "FA": 6,
+      "FE": 4,
       "FL": 3,
       "HA": 9,
       "HE": 5,

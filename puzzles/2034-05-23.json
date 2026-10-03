@@ -1,9 +1,9 @@
 {
   "pangram": "beaming",
   "center_letter": "b",
-  "num_answers": 37,
+  "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 189,
+  "possible_points": 196,
   "answer_pangrams": [
     "beaming"
   ],
@@ -35,6 +35,7 @@
     "biggie",
     "binge",
     "bingeing",
+    "binging",
     "binning",
     "ebbing",
     "gabbing",
@@ -52,13 +53,13 @@
       "4": 10,
       "5": 7,
       "6": 7,
-      "7": 10,
+      "7": 11,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
       "A": 2,
-      "B": 26,
+      "B": 27,
       "E": 1,
       "G": 3,
       "I": 3,
@@ -73,7 +74,7 @@
         "4": 7,
         "5": 5,
         "6": 4,
-        "7": 8,
+        "7": 9,
         "8": 1,
         "9": 1
       },
@@ -99,7 +100,7 @@
       "AB": 2,
       "BA": 10,
       "BE": 12,
-      "BI": 4,
+      "BI": 5,
       "EB": 1,
       "GA": 1,
       "GI": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "plumbed",
   "center_letter": "u",
-  "num_answers": 68,
+  "num_answers": 69,
   "num_pangrams": 1,
-  "possible_points": 321,
+  "possible_points": 327,
   "answer_pangrams": [
     "plumbed"
   ],
@@ -15,6 +15,7 @@
     "bubbled",
     "budded",
     "bulb",
+    "bulbed",
     "bull",
     "bulled",
     "bumble",
@@ -82,13 +83,13 @@
     "by_length": {
       "4": 20,
       "5": 11,
-      "6": 25,
+      "6": 26,
       "7": 8,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
-      "B": 15,
+      "B": 16,
       "D": 15,
       "E": 2,
       "L": 7,
@@ -100,7 +101,7 @@
       "B": {
         "4": 4,
         "5": 1,
-        "6": 6,
+        "6": 7,
         "7": 2,
         "8": 1,
         "9": 1
@@ -139,7 +140,7 @@
     },
     "two_letter_list": {
       "BL": 3,
-      "BU": 12,
+      "BU": 13,
       "DE": 2,
       "DU": 13,
       "EL": 2,

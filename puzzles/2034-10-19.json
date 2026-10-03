@@ -1,9 +1,9 @@
 {
   "pangram": "tangled",
   "center_letter": "g",
-  "num_answers": 77,
+  "num_answers": 79,
   "num_pangrams": 2,
-  "possible_points": 405,
+  "possible_points": 414,
   "answer_pangrams": [
     "entangled",
     "tangled"
@@ -37,9 +37,11 @@
     "entangled",
     "gadded",
     "gadget",
+    "gaga",
     "gagged",
     "gaggle",
     "gala",
+    "galangal",
     "gale",
     "galena",
     "gall",
@@ -90,18 +92,18 @@
   "date": "2034-10-19",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 15,
       "6": 25,
       "7": 14,
-      "8": 3,
+      "8": 4,
       "9": 3
     },
     "by_first_letter": {
       "A": 12,
       "D": 4,
       "E": 10,
-      "G": 35,
+      "G": 37,
       "L": 7,
       "N": 3,
       "T": 6
@@ -128,11 +130,11 @@
         "9": 1
       },
       "G": {
-        "4": 13,
+        "4": 14,
         "5": 4,
         "6": 11,
         "7": 5,
-        "8": 1,
+        "8": 2,
         "9": 1
       },
       "L": {
@@ -162,7 +164,7 @@
       "EG": 1,
       "EL": 1,
       "EN": 4,
-      "GA": 16,
+      "GA": 18,
       "GE": 9,
       "GL": 9,
       "GN": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "haloing",
   "center_letter": "h",
-  "num_answers": 24,
+  "num_answers": 23,
   "num_pangrams": 2,
-  "possible_points": 127,
+  "possible_points": 126,
   "answer_pangrams": [
     "haloing",
     "hooligan"
@@ -24,7 +24,6 @@
     "hangnail",
     "high",
     "hill",
-    "hing",
     "hinging",
     "hogan",
     "hogging",
@@ -37,7 +36,7 @@
   "date": "2034-08-17",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 7,
       "5": 4,
       "6": 3,
       "7": 5,
@@ -45,7 +44,7 @@
     },
     "by_first_letter": {
       "A": 1,
-      "H": 21,
+      "H": 20,
       "I": 1,
       "N": 1
     },
@@ -54,7 +53,7 @@
         "5": 1
       },
       "H": {
-        "4": 7,
+        "4": 6,
         "5": 3,
         "6": 3,
         "7": 5,
@@ -70,7 +69,7 @@
     "two_letter_list": {
       "AL": 1,
       "HA": 12,
-      "HI": 4,
+      "HI": 3,
       "HO": 5,
       "IN": 1,
       "NI": 1

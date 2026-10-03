@@ -1,9 +1,9 @@
 {
   "pangram": "orbital",
   "center_letter": "r",
-  "num_answers": 58,
+  "num_answers": 59,
   "num_pangrams": 1,
-  "possible_points": 245,
+  "possible_points": 240,
   "answer_pangrams": [
     "orbital"
   ],
@@ -23,6 +23,7 @@
     "boor",
     "brat",
     "briar",
+    "brio",
     "broil",
     "labor",
     "lair",
@@ -38,7 +39,6 @@
     "rabbi",
     "rabbit",
     "rail",
-    "ratatat",
     "ratio",
     "rill",
     "riot",
@@ -47,6 +47,7 @@
     "roil",
     "roll",
     "root",
+    "roti",
     "rotor",
     "tailor",
     "taro",
@@ -70,16 +71,16 @@
   "date": "2038-12-05",
   "hints": {
     "by_length": {
-      "4": 21,
+      "4": 23,
       "5": 21,
       "6": 7,
-      "7": 4,
+      "7": 3,
       "8": 4,
       "10": 1
     },
     "by_first_letter": {
       "A": 9,
-      "B": 7,
+      "B": 8,
       "L": 6,
       "O": 5,
       "R": 13,
@@ -93,7 +94,7 @@
         "10": 1
       },
       "B": {
-        "4": 4,
+        "4": 5,
         "5": 2,
         "6": 1
       },
@@ -111,10 +112,9 @@
         "8": 1
       },
       "R": {
-        "4": 7,
+        "4": 8,
         "5": 4,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
         "4": 5,
@@ -132,13 +132,13 @@
       "AT": 2,
       "BA": 2,
       "BO": 2,
-      "BR": 3,
+      "BR": 4,
       "LA": 3,
       "LI": 3,
       "OR": 5,
-      "RA": 5,
+      "RA": 4,
       "RI": 2,
-      "RO": 6,
+      "RO": 7,
       "TA": 5,
       "TI": 1,
       "TO": 3,

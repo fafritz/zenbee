@@ -1,9 +1,9 @@
 {
   "pangram": "thumbed",
   "center_letter": "u",
-  "num_answers": 25,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 113,
+  "possible_points": 119,
   "answer_pangrams": [
     "thumbed"
   ],
@@ -30,6 +30,7 @@
     "thudded",
     "thumb",
     "thumbed",
+    "tubbed",
     "tube",
     "tubed",
     "tutu"
@@ -39,7 +40,7 @@
     "by_length": {
       "4": 8,
       "5": 7,
-      "6": 7,
+      "6": 8,
       "7": 3
     },
     "by_first_letter": {
@@ -48,7 +49,7 @@
       "E": 1,
       "H": 2,
       "M": 4,
-      "T": 7
+      "T": 8
     },
     "grid": {
       "B": {
@@ -75,6 +76,7 @@
       "T": {
         "4": 3,
         "5": 2,
+        "6": 1,
         "7": 2
       }
     },
@@ -86,7 +88,7 @@
       "HU": 2,
       "MU": 4,
       "TH": 4,
-      "TU": 3
+      "TU": 4
     }
   }
 }

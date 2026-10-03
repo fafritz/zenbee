@@ -1,9 +1,9 @@
 {
   "pangram": "pluming",
   "center_letter": "g",
-  "num_answers": 61,
+  "num_answers": 62,
   "num_pangrams": 3,
-  "possible_points": 410,
+  "possible_points": 415,
   "answer_pangrams": [
     "lumping",
     "pluming",
@@ -27,11 +27,13 @@
     "impugn",
     "impugning",
     "inning",
+    "lignin",
     "liming",
     "limning",
     "limping",
     "lining",
     "lugging",
+    "luging",
     "lulling",
     "lumping",
     "lung",
@@ -42,7 +44,6 @@
     "mining",
     "mugging",
     "mulling",
-    "munging",
     "niggling",
     "nipping",
     "pigging",
@@ -76,8 +77,8 @@
   "hints": {
     "by_length": {
       "4": 7,
-      "6": 14,
-      "7": 29,
+      "6": 16,
+      "7": 28,
       "8": 6,
       "9": 3,
       "10": 2
@@ -85,8 +86,8 @@
     "by_first_letter": {
       "G": 12,
       "I": 5,
-      "L": 9,
-      "M": 7,
+      "L": 11,
+      "M": 6,
       "N": 2,
       "P": 21,
       "U": 5
@@ -105,12 +106,12 @@
       },
       "L": {
         "4": 1,
-        "6": 2,
+        "6": 4,
         "7": 6
       },
       "M": {
         "6": 2,
-        "7": 4,
+        "7": 3,
         "8": 1
       },
       "N": {
@@ -136,10 +137,10 @@
       "IL": 1,
       "IM": 3,
       "IN": 1,
-      "LI": 4,
-      "LU": 5,
+      "LI": 5,
+      "LU": 6,
       "MI": 4,
-      "MU": 3,
+      "MU": 2,
       "NI": 2,
       "PI": 10,
       "PL": 6,

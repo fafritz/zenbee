@@ -1,9 +1,9 @@
 {
   "pangram": "pouting",
   "center_letter": "o",
-  "num_answers": 63,
+  "num_answers": 66,
   "num_pangrams": 3,
-  "possible_points": 370,
+  "possible_points": 379,
   "answer_pangrams": [
     "gunpoint",
     "outputting",
@@ -48,11 +48,12 @@
     "pinpointing",
     "pinto",
     "piton",
+    "pogo",
+    "pogoing",
     "point",
     "pointing",
     "pontoon",
     "poop",
-    "pooping",
     "popgun",
     "popping",
     "potion",
@@ -60,6 +61,8 @@
     "pout",
     "pouting",
     "tiptop",
+    "tong",
+    "tonging",
     "tonguing",
     "toning",
     "toon",
@@ -77,10 +80,10 @@
   "date": "2036-01-17",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 16,
       "5": 8,
       "6": 13,
-      "7": 15,
+      "7": 16,
       "8": 8,
       "9": 3,
       "10": 1,
@@ -91,8 +94,8 @@
       "I": 5,
       "N": 6,
       "O": 13,
-      "P": 17,
-      "T": 12,
+      "P": 18,
+      "T": 14,
       "U": 2
     },
     "grid": {
@@ -123,7 +126,7 @@
         "10": 1
       },
       "P": {
-        "4": 2,
+        "4": 3,
         "5": 3,
         "6": 3,
         "7": 5,
@@ -132,9 +135,9 @@
         "11": 1
       },
       "T": {
-        "4": 3,
+        "4": 4,
         "6": 3,
-        "7": 5,
+        "7": 6,
         "8": 1
       },
       "U": {
@@ -152,9 +155,9 @@
       "OP": 5,
       "OU": 5,
       "PI": 6,
-      "PO": 11,
+      "PO": 12,
       "TI": 1,
-      "TO": 10,
+      "TO": 12,
       "TU": 1,
       "UN": 1,
       "UP": 1

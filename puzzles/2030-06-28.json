@@ -1,9 +1,9 @@
 {
   "pangram": "congaed",
   "center_letter": "a",
-  "num_answers": 63,
+  "num_answers": 62,
   "num_pangrams": 1,
-  "possible_points": 310,
+  "possible_points": 301,
   "answer_pangrams": [
     "congaed"
   ],
@@ -60,13 +60,12 @@
     "engage",
     "engaged",
     "gadded",
+    "gaga",
     "gagged",
     "gang",
     "ganged",
     "goad",
     "goaded",
-    "gonad",
-    "gonna",
     "naan",
     "nagged",
     "nana",
@@ -75,8 +74,8 @@
   "date": "2030-06-28",
   "hints": {
     "by_length": {
-      "4": 16,
-      "5": 16,
+      "4": 17,
+      "5": 14,
       "6": 20,
       "7": 5,
       "8": 3,
@@ -88,7 +87,7 @@
       "C": 24,
       "D": 11,
       "E": 2,
-      "G": 8,
+      "G": 7,
       "N": 3,
       "O": 1
     },
@@ -121,8 +120,7 @@
         "7": 1
       },
       "G": {
-        "4": 2,
-        "5": 2,
+        "4": 3,
         "6": 4
       },
       "N": {
@@ -144,8 +142,8 @@
       "DE": 7,
       "DO": 1,
       "EN": 2,
-      "GA": 4,
-      "GO": 4,
+      "GA": 5,
+      "GO": 2,
       "NA": 3,
       "OC": 1
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "lunatic",
   "center_letter": "u",
-  "num_answers": 26,
+  "num_answers": 28,
   "num_pangrams": 2,
-  "possible_points": 110,
+  "possible_points": 125,
   "answer_pangrams": [
     "lunatic",
     "nautical"
@@ -11,6 +11,7 @@
   "answers": [
     "actual",
     "annual",
+    "annuitant",
     "annul",
     "aunt",
     "calculi",
@@ -19,6 +20,7 @@
     "cull",
     "cult",
     "intuit",
+    "inulin",
     "lacuna",
     "luau",
     "lull",
@@ -41,14 +43,15 @@
     "by_length": {
       "4": 12,
       "5": 5,
-      "6": 5,
+      "6": 6,
       "7": 3,
-      "8": 1
+      "8": 1,
+      "9": 1
     },
     "by_first_letter": {
-      "A": 4,
+      "A": 5,
       "C": 5,
-      "I": 1,
+      "I": 2,
       "L": 5,
       "N": 2,
       "T": 5,
@@ -58,7 +61,8 @@
       "A": {
         "4": 1,
         "5": 1,
-        "6": 2
+        "6": 2,
+        "9": 1
       },
       "C": {
         "4": 2,
@@ -66,7 +70,7 @@
         "7": 2
       },
       "I": {
-        "6": 1
+        "6": 2
       },
       "L": {
         "4": 3,
@@ -88,11 +92,11 @@
     },
     "two_letter_list": {
       "AC": 1,
-      "AN": 2,
+      "AN": 3,
       "AU": 1,
       "CA": 3,
       "CU": 2,
-      "IN": 1,
+      "IN": 2,
       "LA": 1,
       "LU": 4,
       "NA": 1,

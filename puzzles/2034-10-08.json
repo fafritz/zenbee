@@ -1,9 +1,9 @@
 {
   "pangram": "implant",
   "center_letter": "t",
-  "num_answers": 40,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 182,
+  "possible_points": 189,
   "answer_pangrams": [
     "implant"
   ],
@@ -13,6 +13,7 @@
     "implant",
     "inapt",
     "initial",
+    "lantana",
     "lilt",
     "limit",
     "lint",
@@ -55,14 +56,14 @@
       "4": 15,
       "5": 9,
       "6": 5,
-      "7": 5,
+      "7": 6,
       "8": 5,
       "10": 1
     },
     "by_first_letter": {
       "A": 2,
       "I": 3,
-      "L": 3,
+      "L": 4,
       "M": 8,
       "N": 1,
       "P": 13,
@@ -79,7 +80,8 @@
       },
       "L": {
         "4": 2,
-        "5": 1
+        "5": 1,
+        "7": 1
       },
       "M": {
         "4": 3,
@@ -109,6 +111,7 @@
       "AT": 1,
       "IM": 1,
       "IN": 2,
+      "LA": 1,
       "LI": 3,
       "MA": 3,
       "MI": 5,

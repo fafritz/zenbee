@@ -1,7 +1,7 @@
 {
   "pangram": "mordant",
   "center_letter": "r",
-  "num_answers": 63,
+  "num_answers": 64,
   "num_pangrams": 2,
   "possible_points": 262,
   "answer_pangrams": [
@@ -50,7 +50,6 @@
     "ramrod",
     "random",
     "rant",
-    "ratatat",
     "rattan",
     "road",
     "roam",
@@ -61,6 +60,8 @@
     "room",
     "root",
     "rotor",
+    "tantra",
+    "tarn",
     "taro",
     "tarot",
     "tart",
@@ -76,10 +77,10 @@
   "date": "2031-05-14",
   "hints": {
     "by_length": {
-      "4": 25,
+      "4": 26,
       "5": 16,
-      "6": 13,
-      "7": 7,
+      "6": 14,
+      "7": 6,
       "8": 2
     },
     "by_first_letter": {
@@ -88,8 +89,8 @@
       "M": 14,
       "N": 2,
       "O": 2,
-      "R": 16,
-      "T": 11
+      "R": 15,
+      "T": 13
     },
     "grid": {
       "A": {
@@ -119,13 +120,12 @@
       "R": {
         "4": 8,
         "5": 4,
-        "6": 3,
-        "7": 1
+        "6": 3
       },
       "T": {
-        "4": 7,
+        "4": 8,
         "5": 1,
-        "6": 2,
+        "6": 3,
         "7": 1
       }
     },
@@ -143,9 +143,9 @@
       "NO": 1,
       "OD": 1,
       "OR": 1,
-      "RA": 7,
+      "RA": 6,
       "RO": 9,
-      "TA": 5,
+      "TA": 7,
       "TO": 3,
       "TR": 3
     }

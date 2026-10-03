@@ -1,9 +1,9 @@
 {
   "pangram": "organic",
   "center_letter": "c",
-  "num_answers": 57,
+  "num_answers": 60,
   "num_pangrams": 2,
-  "possible_points": 330,
+  "possible_points": 348,
   "answer_pangrams": [
     "inorganic",
     "organic"
@@ -35,6 +35,7 @@
     "cocoa",
     "cocoon",
     "cocooning",
+    "cogging",
     "cognac",
     "coin",
     "coining",
@@ -55,7 +56,9 @@
     "gracing",
     "icing",
     "icon",
+    "iconic",
     "inorganic",
+    "ionic",
     "ironic",
     "narc",
     "niacin",
@@ -71,17 +74,17 @@
   "hints": {
     "by_length": {
       "4": 7,
-      "5": 16,
-      "6": 18,
-      "7": 10,
+      "5": 17,
+      "6": 19,
+      "7": 11,
       "8": 3,
       "9": 3
     },
     "by_first_letter": {
       "A": 5,
-      "C": 38,
+      "C": 39,
       "G": 1,
-      "I": 4,
+      "I": 6,
       "N": 2,
       "O": 2,
       "R": 5
@@ -96,7 +99,7 @@
         "4": 4,
         "5": 13,
         "6": 10,
-        "7": 6,
+        "7": 7,
         "8": 3,
         "9": 2
       },
@@ -105,8 +108,8 @@
       },
       "I": {
         "4": 1,
-        "5": 1,
-        "6": 1,
+        "5": 2,
+        "6": 2,
         "9": 1
       },
       "N": {
@@ -126,11 +129,12 @@
       "AR": 1,
       "CA": 13,
       "CI": 3,
-      "CO": 17,
+      "CO": 18,
       "CR": 5,
       "GR": 1,
-      "IC": 2,
+      "IC": 3,
       "IN": 1,
+      "IO": 1,
       "IR": 1,
       "NA": 1,
       "NI": 1,

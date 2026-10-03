@@ -1,16 +1,17 @@
 {
   "pangram": "javelin",
   "center_letter": "l",
-  "num_answers": 42,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 159,
+  "possible_points": 187,
   "answer_pangrams": [
     "javelin"
   ],
   "answers": [
     "alien",
     "alive",
-    "anal",
+    "allele",
+    "aniline",
     "anneal",
     "anvil",
     "avail",
@@ -23,8 +24,10 @@
     "javelin",
     "jell",
     "lain",
+    "lanai",
     "lane",
     "lava",
+    "lave",
     "lean",
     "leave",
     "leaven",
@@ -49,30 +52,32 @@
     "vial",
     "vile",
     "villa",
-    "villain"
+    "villain",
+    "villanelle"
   ],
   "date": "2027-09-24",
   "hints": {
     "by_length": {
       "4": 18,
-      "5": 14,
-      "6": 6,
-      "7": 4
+      "5": 15,
+      "6": 7,
+      "7": 5,
+      "10": 1
     },
     "by_first_letter": {
-      "A": 6,
+      "A": 7,
       "E": 4,
       "I": 1,
       "J": 3,
-      "L": 14,
+      "L": 16,
       "N": 3,
-      "V": 11
+      "V": 12
     },
     "grid": {
       "A": {
-        "4": 1,
         "5": 4,
-        "6": 1
+        "6": 2,
+        "7": 1
       },
       "E": {
         "4": 2,
@@ -87,8 +92,8 @@
         "7": 1
       },
       "L": {
-        "4": 7,
-        "5": 5,
+        "4": 8,
+        "5": 6,
         "6": 2
       },
       "N": {
@@ -99,11 +104,12 @@
         "4": 5,
         "5": 3,
         "6": 1,
-        "7": 2
+        "7": 2,
+        "10": 1
       }
     },
     "two_letter_list": {
-      "AL": 2,
+      "AL": 3,
       "AN": 3,
       "AV": 1,
       "EL": 2,
@@ -112,13 +118,13 @@
       "IN": 1,
       "JA": 2,
       "JE": 1,
-      "LA": 3,
+      "LA": 5,
       "LE": 5,
       "LI": 6,
       "NA": 3,
       "VA": 3,
       "VE": 4,
-      "VI": 4
+      "VI": 5
     }
   }
 }

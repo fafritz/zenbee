@@ -1,13 +1,14 @@
 {
   "pangram": "antique",
   "center_letter": "i",
-  "num_answers": 29,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 157,
+  "possible_points": 166,
   "answer_pangrams": [
     "antique"
   ],
   "answers": [
+    "annuitant",
     "anti",
     "antique",
     "attain",
@@ -46,11 +47,11 @@
       "6": 8,
       "7": 3,
       "8": 2,
-      "9": 1,
+      "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "A": 3,
+      "A": 4,
       "E": 3,
       "I": 5,
       "N": 3,
@@ -62,7 +63,8 @@
       "A": {
         "4": 1,
         "6": 1,
-        "7": 1
+        "7": 1,
+        "9": 1
       },
       "E": {
         "5": 1,
@@ -97,7 +99,7 @@
       }
     },
     "two_letter_list": {
-      "AN": 2,
+      "AN": 3,
       "AT": 1,
       "EN": 1,
       "EQ": 1,

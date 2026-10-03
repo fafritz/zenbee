@@ -1,9 +1,9 @@
 {
   "pangram": "tabloid",
   "center_letter": "l",
-  "num_answers": 49,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 130,
+  "possible_points": 136,
   "answer_pangrams": [
     "tabloid"
   ],
@@ -49,6 +49,7 @@
     "tabloid",
     "tail",
     "tall",
+    "tibial",
     "tidal",
     "till",
     "tilt",
@@ -63,7 +64,7 @@
     "by_length": {
       "4": 33,
       "5": 9,
-      "6": 4,
+      "6": 5,
       "7": 3
     },
     "by_first_letter": {
@@ -73,7 +74,7 @@
       "I": 1,
       "L": 9,
       "O": 2,
-      "T": 11
+      "T": 12
     },
     "grid": {
       "A": {
@@ -104,6 +105,7 @@
       "T": {
         "4": 8,
         "5": 2,
+        "6": 1,
         "7": 1
       }
     },
@@ -123,7 +125,7 @@
       "OD": 1,
       "OL": 1,
       "TA": 3,
-      "TI": 3,
+      "TI": 4,
       "TO": 5
     }
   }

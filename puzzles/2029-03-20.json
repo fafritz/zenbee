@@ -1,14 +1,15 @@
 {
   "pangram": "frantic",
   "center_letter": "t",
-  "num_answers": 57,
+  "num_answers": 58,
   "num_pangrams": 2,
-  "possible_points": 298,
+  "possible_points": 304,
   "answer_pangrams": [
     "antiaircraft",
     "frantic"
   ],
   "answers": [
+    "actinic",
     "aircraft",
     "antarctic",
     "anti",
@@ -35,7 +36,6 @@
     "fact",
     "faint",
     "fanatic",
-    "fart",
     "fiat",
     "frantic",
     "frat",
@@ -44,7 +44,6 @@
     "irritant",
     "raft",
     "rant",
-    "ratatat",
     "rattan",
     "rift",
     "tacit",
@@ -53,7 +52,9 @@
     "tactician",
     "taint",
     "tannin",
+    "tantra",
     "tariff",
+    "tarn",
     "tart",
     "tartan",
     "tartar",
@@ -72,26 +73,26 @@
     "by_length": {
       "4": 14,
       "5": 15,
-      "6": 14,
+      "6": 15,
       "7": 7,
       "8": 4,
       "9": 2,
       "12": 1
     },
     "by_first_letter": {
-      "A": 13,
+      "A": 14,
       "C": 10,
-      "F": 7,
+      "F": 6,
       "I": 3,
-      "R": 5,
-      "T": 19
+      "R": 4,
+      "T": 21
     },
     "grid": {
       "A": {
         "4": 1,
         "5": 4,
         "6": 3,
-        "7": 1,
+        "7": 2,
         "8": 2,
         "9": 1,
         "12": 1
@@ -104,7 +105,7 @@
         "8": 1
       },
       "F": {
-        "4": 4,
+        "4": 3,
         "5": 1,
         "7": 2
       },
@@ -114,18 +115,18 @@
       },
       "R": {
         "4": 3,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
-        "4": 4,
+        "4": 5,
         "5": 7,
-        "6": 5,
+        "6": 6,
         "7": 2,
         "9": 1
       }
     },
     "two_letter_list": {
+      "AC": 1,
       "AI": 1,
       "AN": 4,
       "AR": 3,
@@ -133,14 +134,14 @@
       "CA": 7,
       "CI": 1,
       "CR": 2,
-      "FA": 4,
+      "FA": 3,
       "FI": 1,
       "FR": 2,
       "IN": 2,
       "IR": 1,
-      "RA": 4,
+      "RA": 3,
       "RI": 1,
-      "TA": 10,
+      "TA": 12,
       "TI": 5,
       "TR": 4
     }

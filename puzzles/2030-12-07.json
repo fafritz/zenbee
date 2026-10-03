@@ -1,16 +1,15 @@
 {
   "pangram": "penalty",
   "center_letter": "n",
-  "num_answers": 52,
+  "num_answers": 53,
   "num_pangrams": 3,
-  "possible_points": 238,
+  "possible_points": 249,
   "answer_pangrams": [
     "aplenty",
     "patently",
     "penalty"
   ],
   "answers": [
-    "anal",
     "anneal",
     "ante",
     "antenna",
@@ -21,6 +20,7 @@
     "elan",
     "entente",
     "lane",
+    "lantana",
     "latent",
     "lean",
     "lent",
@@ -33,6 +33,7 @@
     "natty",
     "neap",
     "neat",
+    "neaten",
     "neatly",
     "nene",
     "nettle",
@@ -46,6 +47,7 @@
     "penal",
     "penalty",
     "pennant",
+    "penne",
     "penny",
     "pent",
     "plan",
@@ -58,7 +60,6 @@
     "talent",
     "teen",
     "teeny",
-    "telnet",
     "tenant",
     "tenet",
     "tent"
@@ -66,24 +67,24 @@
   "date": "2030-12-07",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 13,
+      "4": 18,
+      "5": 14,
       "6": 11,
-      "7": 6,
+      "7": 7,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
-      "A": 7,
+      "A": 6,
       "E": 3,
-      "L": 4,
-      "N": 12,
-      "P": 19,
-      "T": 7
+      "L": 5,
+      "N": 13,
+      "P": 20,
+      "T": 6
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "6": 1,
         "7": 2,
         "8": 1,
@@ -96,16 +97,17 @@
       },
       "L": {
         "4": 3,
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "N": {
         "4": 6,
         "5": 4,
-        "6": 2
+        "6": 3
       },
       "P": {
         "4": 5,
-        "5": 6,
+        "5": 7,
         "6": 4,
         "7": 3,
         "8": 1
@@ -113,24 +115,24 @@
       "T": {
         "4": 2,
         "5": 2,
-        "6": 3
+        "6": 2
       }
     },
     "two_letter_list": {
-      "AN": 5,
+      "AN": 4,
       "AP": 2,
       "EA": 1,
       "EL": 1,
       "EN": 1,
-      "LA": 2,
+      "LA": 3,
       "LE": 2,
       "NA": 7,
-      "NE": 5,
+      "NE": 6,
       "PA": 6,
-      "PE": 6,
+      "PE": 7,
       "PL": 7,
       "TA": 1,
-      "TE": 6
+      "TE": 5
     }
   }
 }

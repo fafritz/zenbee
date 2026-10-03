@@ -1,9 +1,9 @@
 {
   "pangram": "echoing",
   "center_letter": "h",
-  "num_answers": 29,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 144,
+  "possible_points": 143,
   "answer_pangrams": [
     "echoing"
   ],
@@ -22,7 +22,6 @@
     "hence",
     "hieing",
     "high",
-    "hing",
     "hinge",
     "hinging",
     "hoeing",
@@ -41,7 +40,7 @@
   "date": "2037-11-12",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 7,
       "5": 8,
       "6": 5,
       "7": 5,
@@ -50,7 +49,7 @@
     "by_first_letter": {
       "C": 9,
       "E": 2,
-      "H": 12,
+      "H": 11,
       "I": 2,
       "N": 4
     },
@@ -67,7 +66,7 @@
         "7": 1
       },
       "H": {
-        "4": 3,
+        "4": 2,
         "5": 3,
         "6": 4,
         "7": 2
@@ -88,7 +87,7 @@
       "CO": 1,
       "EC": 2,
       "HE": 1,
-      "HI": 5,
+      "HI": 4,
       "HO": 6,
       "IN": 2,
       "NE": 2,

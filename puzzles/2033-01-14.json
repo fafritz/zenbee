@@ -1,9 +1,9 @@
 {
   "pangram": "gawkily",
   "center_letter": "a",
-  "num_answers": 19,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 71,
+  "possible_points": 77,
   "answer_pangrams": [
     "gawkily"
   ],
@@ -13,6 +13,8 @@
     "allay",
     "ally",
     "away",
+    "gaga",
+    "gaily",
     "gala",
     "gall",
     "gawk",
@@ -31,14 +33,14 @@
   "date": "2033-01-14",
   "hints": {
     "by_length": {
-      "4": 10,
-      "5": 3,
+      "4": 11,
+      "5": 4,
       "6": 3,
       "7": 3
     },
     "by_first_letter": {
       "A": 5,
-      "G": 5,
+      "G": 7,
       "K": 1,
       "L": 1,
       "W": 6,
@@ -51,8 +53,8 @@
         "6": 1
       },
       "G": {
-        "4": 3,
-        "5": 1,
+        "4": 4,
+        "5": 2,
         "7": 1
       },
       "K": {
@@ -73,7 +75,7 @@
     "two_letter_list": {
       "AL": 4,
       "AW": 1,
-      "GA": 5,
+      "GA": 7,
       "KA": 1,
       "LA": 1,
       "WA": 5,

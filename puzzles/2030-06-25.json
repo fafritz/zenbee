@@ -3,14 +3,13 @@
   "center_letter": "l",
   "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 129,
+  "possible_points": 133,
   "answer_pangrams": [
     "lambkin"
   ],
   "answers": [
     "alibi",
     "alkali",
-    "anal",
     "animal",
     "bail",
     "balalaika",
@@ -31,6 +30,7 @@
     "lama",
     "lamb",
     "lambkin",
+    "lanai",
     "lank",
     "limb",
     "limn",
@@ -50,23 +50,22 @@
   "date": "2030-06-25",
   "hints": {
     "by_length": {
-      "4": 22,
-      "5": 6,
+      "4": 21,
+      "5": 7,
       "6": 4,
       "7": 4,
       "9": 2
     },
     "by_first_letter": {
-      "A": 4,
+      "A": 3,
       "B": 11,
       "K": 2,
-      "L": 11,
+      "L": 12,
       "M": 9,
       "N": 1
     },
     "grid": {
       "A": {
-        "4": 1,
         "5": 1,
         "6": 2
       },
@@ -80,7 +79,7 @@
       },
       "L": {
         "4": 7,
-        "5": 2,
+        "5": 3,
         "6": 1,
         "7": 1
       },
@@ -96,12 +95,12 @@
     },
     "two_letter_list": {
       "AL": 2,
-      "AN": 2,
+      "AN": 1,
       "BA": 6,
       "BI": 2,
       "BL": 3,
       "KI": 2,
-      "LA": 7,
+      "LA": 8,
       "LI": 3,
       "LL": 1,
       "MA": 5,

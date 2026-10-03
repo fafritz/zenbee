@@ -1,14 +1,15 @@
 {
   "pangram": "opulent",
   "center_letter": "e",
-  "num_answers": 52,
+  "num_answers": 53,
   "num_pangrams": 1,
-  "possible_points": 173,
+  "possible_points": 177,
   "answer_pangrams": [
     "opulent"
   ],
   "answers": [
     "elope",
+    "elote",
     "entente",
     "epee",
     "lent",
@@ -33,6 +34,7 @@
     "peep",
     "pellet",
     "pelt",
+    "penne",
     "pennon",
     "pent",
     "peon",
@@ -48,7 +50,6 @@
     "puppet",
     "teen",
     "tell",
-    "telnet",
     "tenet",
     "tenon",
     "tent",
@@ -65,23 +66,23 @@
   "hints": {
     "by_length": {
       "4": 29,
-      "5": 6,
-      "6": 13,
+      "5": 8,
+      "6": 12,
       "7": 3,
       "8": 1
     },
     "by_first_letter": {
-      "E": 3,
+      "E": 4,
       "L": 5,
       "N": 7,
       "O": 5,
-      "P": 18,
-      "T": 14
+      "P": 19,
+      "T": 13
     },
     "grid": {
       "E": {
         "4": 1,
-        "5": 1,
+        "5": 2,
         "7": 1
       },
       "L": {
@@ -100,17 +101,18 @@
       },
       "P": {
         "4": 10,
+        "5": 1,
         "6": 7,
         "7": 1
       },
       "T": {
         "4": 6,
         "5": 4,
-        "6": 4
+        "6": 3
       }
     },
     "two_letter_list": {
-      "EL": 1,
+      "EL": 2,
       "EN": 1,
       "EP": 1,
       "LE": 2,
@@ -121,10 +123,10 @@
       "OL": 1,
       "OP": 3,
       "OU": 1,
-      "PE": 9,
+      "PE": 10,
       "PO": 7,
       "PU": 2,
-      "TE": 7,
+      "TE": 6,
       "TO": 4,
       "TU": 3
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "forming",
   "center_letter": "i",
-  "num_answers": 63,
+  "num_answers": 66,
   "num_pangrams": 2,
-  "possible_points": 387,
+  "possible_points": 394,
   "answer_pangrams": [
     "forming",
     "informing"
@@ -59,6 +59,8 @@
     "mooring",
     "morning",
     "noggin",
+    "noir",
+    "nori",
     "offing",
     "ongoing",
     "onion",
@@ -70,14 +72,15 @@
     "riming",
     "ring",
     "ringing",
+    "ronin",
     "roofing",
     "rooming"
   ],
   "date": "2033-07-02",
   "hints": {
     "by_length": {
-      "4": 9,
-      "5": 6,
+      "4": 11,
+      "5": 7,
       "6": 16,
       "7": 22,
       "8": 7,
@@ -89,9 +92,9 @@
       "G": 14,
       "I": 9,
       "M": 16,
-      "N": 1,
+      "N": 3,
       "O": 4,
-      "R": 9
+      "R": 10
     },
     "grid": {
       "F": {
@@ -124,6 +127,7 @@
         "9": 1
       },
       "N": {
+        "4": 2,
         "6": 1
       },
       "O": {
@@ -133,7 +137,7 @@
       },
       "R": {
         "4": 2,
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 5
       }
@@ -150,12 +154,12 @@
       "IR": 2,
       "MI": 12,
       "MO": 4,
-      "NO": 1,
+      "NO": 3,
       "OF": 1,
       "ON": 2,
       "OR": 1,
       "RI": 7,
-      "RO": 2
+      "RO": 3
     }
   }
 }

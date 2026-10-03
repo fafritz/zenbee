@@ -1,9 +1,9 @@
 {
   "pangram": "champed",
   "center_letter": "p",
-  "num_answers": 35,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 149,
+  "possible_points": 154,
   "answer_pangrams": [
     "champed"
   ],
@@ -36,6 +36,7 @@
     "pace",
     "paced",
     "padded",
+    "pampa",
     "papa",
     "peace",
     "peach",
@@ -48,7 +49,7 @@
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 8,
+      "5": 9,
       "6": 10,
       "7": 3,
       "8": 1
@@ -60,7 +61,7 @@
       "E": 1,
       "H": 3,
       "M": 2,
-      "P": 10
+      "P": 11
     },
     "grid": {
       "A": {
@@ -90,7 +91,7 @@
       },
       "P": {
         "4": 4,
-        "5": 3,
+        "5": 4,
         "6": 3
       }
     },
@@ -103,7 +104,7 @@
       "EP": 1,
       "HE": 3,
       "MA": 2,
-      "PA": 4,
+      "PA": 5,
       "PE": 6
     }
   }

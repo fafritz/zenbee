@@ -1,9 +1,9 @@
 {
   "pangram": "arching",
   "center_letter": "a",
-  "num_answers": 72,
+  "num_answers": 75,
   "num_pangrams": 7,
-  "possible_points": 436,
+  "possible_points": 454,
   "answer_pangrams": [
     "arching",
     "chagrin",
@@ -57,6 +57,7 @@
     "circa",
     "crag",
     "craning",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -70,6 +71,8 @@
     "hangar",
     "hanging",
     "haring",
+    "ingrain",
+    "ingraining",
     "naan",
     "nagging",
     "nana",
@@ -90,19 +93,20 @@
   "date": "2034-06-15",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 17,
       "5": 12,
       "6": 15,
-      "7": 16,
+      "7": 17,
       "8": 10,
       "9": 1,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 19,
       "C": 24,
-      "G": 8,
+      "G": 9,
       "H": 5,
+      "I": 2,
       "N": 5,
       "R": 11
     },
@@ -125,7 +129,7 @@
         "10": 1
       },
       "G": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "7": 4,
         "8": 1
@@ -134,6 +138,10 @@
         "4": 2,
         "6": 2,
         "7": 1
+      },
+      "I": {
+        "7": 1,
+        "10": 1
       },
       "N": {
         "4": 3,
@@ -158,9 +166,10 @@
       "CH": 12,
       "CI": 2,
       "CR": 2,
-      "GA": 6,
+      "GA": 7,
       "GR": 2,
       "HA": 5,
+      "IN": 2,
       "NA": 4,
       "NI": 1,
       "RA": 11

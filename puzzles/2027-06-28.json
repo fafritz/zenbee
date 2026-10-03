@@ -3,7 +3,7 @@
   "center_letter": "t",
   "num_answers": 47,
   "num_pangrams": 1,
-  "possible_points": 182,
+  "possible_points": 176,
   "answer_pangrams": [
     "auditor"
   ],
@@ -27,10 +27,10 @@
     "outdo",
     "outdoor",
     "radiator",
-    "ratatat",
     "ratio",
     "riot",
     "root",
+    "roti",
     "rotor",
     "rout",
     "taro",
@@ -59,10 +59,10 @@
   "date": "2027-06-28",
   "hints": {
     "by_length": {
-      "4": 20,
+      "4": 21,
       "5": 15,
       "6": 6,
-      "7": 4,
+      "7": 3,
       "8": 2
     },
     "by_first_letter": {
@@ -95,9 +95,8 @@
         "8": 1
       },
       "R": {
-        "4": 3,
+        "4": 4,
         "5": 2,
-        "7": 1,
         "8": 1
       },
       "T": {
@@ -118,9 +117,9 @@
       "IO": 1,
       "OR": 2,
       "OU": 3,
-      "RA": 3,
+      "RA": 2,
       "RI": 1,
-      "RO": 3,
+      "RO": 4,
       "TA": 6,
       "TI": 1,
       "TO": 6,

@@ -1,11 +1,12 @@
 {
   "pangram": "pelican",
   "center_letter": "p",
-  "num_answers": 66,
-  "num_pangrams": 3,
-  "possible_points": 296,
+  "num_answers": 70,
+  "num_pangrams": 4,
+  "possible_points": 328,
   "answer_pangrams": [
     "appliance",
+    "capellini",
     "pelican",
     "pinnacle"
   ],
@@ -19,8 +20,8 @@
     "apple",
     "appliance",
     "canape",
-    "canape",
     "cape",
+    "capellini",
     "clap",
     "clip",
     "epee",
@@ -41,6 +42,7 @@
     "pane",
     "panel",
     "panic",
+    "panini",
     "papa",
     "papal",
     "papilla",
@@ -57,7 +59,7 @@
     "pence",
     "pencil",
     "penicillin",
-    "penile",
+    "penne",
     "pica",
     "piccalilli",
     "picnic",
@@ -65,8 +67,11 @@
     "pile",
     "pill",
     "pine",
+    "pineal",
     "pineapple",
+    "pinna",
     "pinnacle",
+    "pinnae",
     "pipe",
     "pipeline",
     "pippin",
@@ -81,11 +86,11 @@
   "hints": {
     "by_length": {
       "4": 26,
-      "5": 15,
-      "6": 14,
+      "5": 17,
+      "6": 15,
       "7": 4,
       "8": 3,
-      "9": 2,
+      "9": 3,
       "10": 2
     },
     "by_first_letter": {
@@ -95,7 +100,7 @@
       "I": 1,
       "L": 2,
       "N": 2,
-      "P": 46
+      "P": 50
     },
     "grid": {
       "A": {
@@ -105,7 +110,8 @@
       },
       "C": {
         "4": 3,
-        "6": 2
+        "6": 1,
+        "9": 1
       },
       "E": {
         "4": 2
@@ -122,8 +128,8 @@
       },
       "P": {
         "4": 18,
-        "5": 12,
-        "6": 6,
+        "5": 14,
+        "6": 8,
         "7": 4,
         "8": 3,
         "9": 1,
@@ -141,9 +147,9 @@
       "LE": 1,
       "NA": 1,
       "NE": 1,
-      "PA": 15,
+      "PA": 16,
       "PE": 13,
-      "PI": 12,
+      "PI": 15,
       "PL": 6
     }
   }

@@ -1,13 +1,14 @@
 {
   "pangram": "phantom",
   "center_letter": "t",
-  "num_answers": 31,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 115,
+  "possible_points": 122,
   "answer_pangrams": [
     "phantom"
   ],
   "answers": [
+    "annatto",
     "atom",
     "atop",
     "hoot",
@@ -46,10 +47,10 @@
       "4": 16,
       "5": 4,
       "6": 5,
-      "7": 6
+      "7": 7
     },
     "by_first_letter": {
-      "A": 2,
+      "A": 3,
       "H": 1,
       "M": 8,
       "N": 1,
@@ -59,7 +60,8 @@
     },
     "grid": {
       "A": {
-        "4": 2
+        "4": 2,
+        "7": 1
       },
       "H": {
         "4": 1
@@ -89,6 +91,7 @@
       }
     },
     "two_letter_list": {
+      "AN": 1,
       "AT": 2,
       "HO": 1,
       "MA": 3,

@@ -1,9 +1,9 @@
 {
   "pangram": "adjourn",
   "center_letter": "d",
-  "num_answers": 21,
+  "num_answers": 20,
   "num_pangrams": 1,
-  "possible_points": 80,
+  "possible_points": 75,
   "answer_pangrams": [
     "adjourn"
   ],
@@ -19,7 +19,6 @@
     "doodad",
     "door",
     "dour",
-    "dunno",
     "judo",
     "odor",
     "radar",
@@ -34,14 +33,14 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 7,
+      "5": 6,
       "6": 2,
       "7": 1,
       "9": 1
     },
     "by_first_letter": {
       "A": 4,
-      "D": 8,
+      "D": 7,
       "J": 1,
       "O": 1,
       "R": 6,
@@ -55,7 +54,7 @@
       },
       "D": {
         "4": 5,
-        "5": 2,
+        "5": 1,
         "6": 1
       },
       "J": {
@@ -78,7 +77,6 @@
       "AR": 2,
       "DA": 2,
       "DO": 5,
-      "DU": 1,
       "JU": 1,
       "OD": 1,
       "RA": 2,

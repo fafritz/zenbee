@@ -1,9 +1,9 @@
 {
   "pangram": "camphor",
   "center_letter": "m",
-  "num_answers": 39,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 140,
+  "possible_points": 145,
   "answer_pangrams": [
     "camphor"
   ],
@@ -39,6 +39,7 @@
     "mooch",
     "moor",
     "morocco",
+    "pampa",
     "pomp",
     "pram",
     "prom",
@@ -52,7 +53,7 @@
   "hints": {
     "by_length": {
       "4": 17,
-      "5": 18,
+      "5": 19,
       "6": 2,
       "7": 2
     },
@@ -61,7 +62,7 @@
       "C": 15,
       "H": 2,
       "M": 11,
-      "P": 4,
+      "P": 5,
       "R": 4
     },
     "grid": {
@@ -86,7 +87,7 @@
       },
       "P": {
         "4": 3,
-        "5": 1
+        "5": 2
       },
       "R": {
         "4": 4
@@ -102,6 +103,7 @@
       "HA": 2,
       "MA": 6,
       "MO": 5,
+      "PA": 1,
       "PO": 1,
       "PR": 3,
       "RA": 1,

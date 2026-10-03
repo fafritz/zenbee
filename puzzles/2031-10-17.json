@@ -1,9 +1,9 @@
 {
   "pangram": "flocked",
   "center_letter": "e",
-  "num_answers": 59,
+  "num_answers": 62,
   "num_pangrams": 1,
-  "possible_points": 256,
+  "possible_points": 268,
   "answer_pangrams": [
     "flocked"
   ],
@@ -11,6 +11,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "cello",
     "clef",
     "clocked",
@@ -42,6 +43,7 @@
     "dolled",
     "doodle",
     "doodled",
+    "eeled",
     "eked",
     "feed",
     "feel",
@@ -60,6 +62,7 @@
     "fooled",
     "keel",
     "keeled",
+    "lede",
     "leek",
     "locked",
     "lode",
@@ -71,25 +74,25 @@
   "date": "2031-10-17",
   "hints": {
     "by_length": {
-      "4": 21,
-      "5": 8,
-      "6": 22,
+      "4": 22,
+      "5": 9,
+      "6": 23,
       "7": 8
     },
     "by_first_letter": {
-      "C": 19,
+      "C": 20,
       "D": 15,
-      "E": 1,
+      "E": 2,
       "F": 15,
       "K": 2,
-      "L": 5,
+      "L": 6,
       "O": 2
     },
     "grid": {
       "C": {
         "4": 6,
         "5": 5,
-        "6": 6,
+        "6": 7,
         "7": 2
       },
       "D": {
@@ -99,7 +102,8 @@
         "7": 2
       },
       "E": {
-        "4": 1
+        "4": 1,
+        "5": 1
       },
       "F": {
         "4": 6,
@@ -112,7 +116,7 @@
         "6": 1
       },
       "L": {
-        "4": 2,
+        "4": 3,
         "6": 3
       },
       "O": {
@@ -121,17 +125,18 @@
       }
     },
     "two_letter_list": {
-      "CE": 4,
+      "CE": 5,
       "CL": 2,
       "CO": 13,
       "DE": 8,
       "DO": 7,
+      "EE": 1,
       "EK": 1,
       "FE": 4,
       "FL": 9,
       "FO": 2,
       "KE": 2,
-      "LE": 1,
+      "LE": 2,
       "LO": 4,
       "OF": 1,
       "OL": 1

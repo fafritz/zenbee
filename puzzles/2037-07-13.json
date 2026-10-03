@@ -1,9 +1,9 @@
 {
   "pangram": "womanly",
   "center_letter": "y",
-  "num_answers": 30,
+  "num_answers": 31,
   "num_pangrams": 2,
-  "possible_points": 143,
+  "possible_points": 148,
   "answer_pangrams": [
     "laywoman",
     "womanly"
@@ -20,6 +20,7 @@
     "layman",
     "laywoman",
     "loamy",
+    "loony",
     "lowly",
     "loyal",
     "loyally",
@@ -44,14 +45,14 @@
   "hints": {
     "by_length": {
       "4": 9,
-      "5": 12,
+      "5": 13,
       "6": 4,
       "7": 4,
       "8": 1
     },
     "by_first_letter": {
       "A": 7,
-      "L": 7,
+      "L": 8,
       "M": 5,
       "N": 3,
       "O": 1,
@@ -66,7 +67,7 @@
         "7": 1
       },
       "L": {
-        "5": 3,
+        "5": 4,
         "6": 1,
         "7": 2,
         "8": 1
@@ -95,7 +96,7 @@
       "AN": 3,
       "AW": 1,
       "LA": 3,
-      "LO": 4,
+      "LO": 5,
       "MA": 3,
       "MO": 1,
       "MY": 1,

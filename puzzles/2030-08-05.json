@@ -1,9 +1,9 @@
 {
   "pangram": "inhaled",
   "center_letter": "i",
-  "num_answers": 59,
+  "num_answers": 61,
   "num_pangrams": 3,
-  "possible_points": 275,
+  "possible_points": 287,
   "answer_pangrams": [
     "headline",
     "headlined",
@@ -15,6 +15,7 @@
     "ailed",
     "alien",
     "allied",
+    "aniline",
     "dahlia",
     "dallied",
     "deadline",
@@ -56,6 +57,7 @@
     "inline",
     "laid",
     "lain",
+    "lanai",
     "landline",
     "lidded",
     "lied",
@@ -74,26 +76,27 @@
   "hints": {
     "by_length": {
       "4": 20,
-      "5": 12,
+      "5": 13,
       "6": 20,
-      "7": 3,
+      "7": 4,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 6,
       "D": 15,
       "E": 3,
       "H": 10,
       "I": 11,
-      "L": 11,
+      "L": 12,
       "N": 4
     },
     "grid": {
       "A": {
         "4": 1,
         "5": 3,
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "D": {
         "4": 5,
@@ -121,7 +124,7 @@
       },
       "L": {
         "4": 5,
-        "5": 2,
+        "5": 3,
         "6": 3,
         "8": 1
       },
@@ -134,6 +137,7 @@
     "two_letter_list": {
       "AI": 3,
       "AL": 2,
+      "AN": 1,
       "DA": 2,
       "DE": 4,
       "DI": 9,
@@ -144,7 +148,7 @@
       "HI": 6,
       "ID": 4,
       "IN": 7,
-      "LA": 3,
+      "LA": 4,
       "LI": 8,
       "NA": 3,
       "NI": 1

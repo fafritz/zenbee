@@ -1,9 +1,9 @@
 {
   "pangram": "plumage",
   "center_letter": "m",
-  "num_answers": 40,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 143,
+  "possible_points": 148,
   "answer_pangrams": [
     "plumage"
   ],
@@ -41,6 +41,7 @@
     "mull",
     "muumuu",
     "palm",
+    "pampa",
     "plum",
     "plumage",
     "plume",
@@ -53,7 +54,7 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 11,
+      "5": 12,
       "6": 8,
       "7": 2
     },
@@ -62,7 +63,7 @@
       "G": 4,
       "L": 7,
       "M": 16,
-      "P": 8
+      "P": 9
     },
     "grid": {
       "A": {
@@ -87,7 +88,7 @@
       },
       "P": {
         "4": 4,
-        "5": 2,
+        "5": 3,
         "6": 1,
         "7": 1
       }
@@ -105,7 +106,7 @@
       "MA": 9,
       "ME": 3,
       "MU": 4,
-      "PA": 1,
+      "PA": 2,
       "PL": 4,
       "PU": 3
     }

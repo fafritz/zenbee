@@ -3,11 +3,12 @@
   "center_letter": "n",
   "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 313,
+  "possible_points": 317,
   "answer_pangrams": [
     "helping"
   ],
   "answers": [
+    "eeling",
     "egging",
     "engine",
     "geeing",
@@ -23,7 +24,6 @@
     "helping",
     "helpline",
     "hieing",
-    "hing",
     "hinge",
     "hinging",
     "hipping",
@@ -31,6 +31,7 @@
     "inning",
     "legging",
     "lien",
+    "lignin",
     "line",
     "linen",
     "lining",
@@ -43,11 +44,10 @@
     "nigh",
     "nine",
     "nipping",
-    "peeing",
     "peeling",
     "peen",
     "peeping",
-    "penile",
+    "penne",
     "penning",
     "pepping",
     "pieing",
@@ -68,24 +68,24 @@
   "date": "2036-05-11",
   "hints": {
     "by_length": {
-      "4": 11,
-      "5": 5,
+      "4": 10,
+      "5": 6,
       "6": 16,
       "7": 18,
       "8": 6
     },
     "by_first_letter": {
-      "E": 2,
+      "E": 3,
       "G": 9,
-      "H": 8,
+      "H": 7,
       "I": 2,
-      "L": 5,
+      "L": 6,
       "N": 9,
-      "P": 21
+      "P": 20
     },
     "grid": {
       "E": {
-        "6": 2
+        "6": 3
       },
       "G": {
         "4": 2,
@@ -95,7 +95,6 @@
         "8": 1
       },
       "H": {
-        "4": 1,
         "5": 1,
         "6": 1,
         "7": 4,
@@ -107,7 +106,7 @@
       "L": {
         "4": 2,
         "5": 1,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "N": {
@@ -119,25 +118,27 @@
       },
       "P": {
         "4": 3,
-        "6": 8,
+        "5": 1,
+        "6": 6,
         "7": 9,
         "8": 1
       }
     },
     "two_letter_list": {
+      "EE": 1,
       "EG": 1,
       "EN": 1,
       "GE": 5,
       "GI": 3,
       "GL": 1,
       "HE": 3,
-      "HI": 5,
+      "HI": 4,
       "IN": 2,
       "LE": 1,
-      "LI": 4,
+      "LI": 5,
       "NE": 4,
       "NI": 5,
-      "PE": 7,
+      "PE": 6,
       "PI": 14
     }
   }

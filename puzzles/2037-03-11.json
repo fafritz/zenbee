@@ -1,9 +1,9 @@
 {
   "pangram": "rapidly",
   "center_letter": "a",
-  "num_answers": 55,
+  "num_answers": 54,
   "num_pangrams": 2,
-  "possible_points": 222,
+  "possible_points": 221,
   "answer_pangrams": [
     "lapidary",
     "rapidly"
@@ -28,7 +28,6 @@
     "dillydally",
     "dray",
     "dryad",
-    "ipad",
     "lady",
     "laid",
     "lair",
@@ -68,7 +67,7 @@
   "date": "2037-03-11",
   "hints": {
     "by_length": {
-      "4": 23,
+      "4": 22,
       "5": 17,
       "6": 10,
       "7": 2,
@@ -78,7 +77,6 @@
     "by_first_letter": {
       "A": 10,
       "D": 9,
-      "I": 1,
       "L": 7,
       "P": 18,
       "R": 9,
@@ -94,9 +92,6 @@
         "4": 2,
         "5": 6,
         "10": 1
-      },
-      "I": {
-        "4": 1
       },
       "L": {
         "4": 6,
@@ -127,7 +122,6 @@
       "DA": 4,
       "DI": 3,
       "DR": 2,
-      "IP": 1,
       "LA": 5,
       "LI": 2,
       "PA": 14,

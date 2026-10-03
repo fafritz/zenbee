@@ -1,9 +1,9 @@
 {
   "pangram": "jacking",
   "center_letter": "g",
-  "num_answers": 25,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 150,
+  "possible_points": 151,
   "answer_pangrams": [
     "jacking"
   ],
@@ -16,6 +16,7 @@
     "caking",
     "caning",
     "canning",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -37,7 +38,7 @@
   "date": "2030-10-02",
   "hints": {
     "by_length": {
-      "4": 3,
+      "4": 4,
       "5": 4,
       "6": 6,
       "7": 12
@@ -45,7 +46,7 @@
     "by_first_letter": {
       "A": 4,
       "C": 4,
-      "G": 7,
+      "G": 8,
       "I": 3,
       "J": 2,
       "K": 3,
@@ -61,7 +62,7 @@
         "7": 1
       },
       "G": {
-        "4": 2,
+        "4": 3,
         "7": 5
       },
       "I": {
@@ -84,7 +85,7 @@
       "AG": 2,
       "AN": 1,
       "CA": 4,
-      "GA": 5,
+      "GA": 6,
       "GI": 2,
       "IC": 1,
       "IN": 2,

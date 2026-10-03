@@ -1,9 +1,9 @@
 {
   "pangram": "chomped",
   "center_letter": "h",
-  "num_answers": 32,
+  "num_answers": 33,
   "num_pangrams": 1,
-  "possible_points": 142,
+  "possible_points": 143,
   "answer_pangrams": [
     "chomped"
   ],
@@ -20,6 +20,7 @@
     "epoch",
     "heed",
     "heeded",
+    "heme",
     "hemmed",
     "hemp",
     "hoed",
@@ -44,7 +45,7 @@
   "date": "2030-09-25",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 8,
       "6": 8,
       "7": 4,
@@ -53,7 +54,7 @@
     "by_first_letter": {
       "C": 7,
       "E": 3,
-      "H": 17,
+      "H": 18,
       "M": 2,
       "P": 3
     },
@@ -69,7 +70,7 @@
         "6": 1
       },
       "H": {
-        "4": 7,
+        "4": 8,
         "5": 3,
         "6": 6,
         "8": 1
@@ -88,7 +89,7 @@
       "CH": 7,
       "EC": 2,
       "EP": 1,
-      "HE": 4,
+      "HE": 5,
       "HO": 13,
       "MO": 2,
       "PO": 3

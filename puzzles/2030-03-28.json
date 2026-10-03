@@ -1,9 +1,9 @@
 {
   "pangram": "piebald",
   "center_letter": "i",
-  "num_answers": 70,
+  "num_answers": 72,
   "num_pangrams": 2,
-  "possible_points": 326,
+  "possible_points": 345,
   "answer_pangrams": [
     "bipedal",
     "piebald"
@@ -26,6 +26,7 @@
     "bible",
     "bile",
     "bill",
+    "billable",
     "billed",
     "biped",
     "bipedal",
@@ -50,9 +51,9 @@
     "ideal",
     "idle",
     "idled",
-    "ipad",
     "labia",
     "labial",
+    "labile",
     "laid",
     "liable",
     "libel",
@@ -60,6 +61,7 @@
     "lidded",
     "lied",
     "lipid",
+    "lipped",
     "paid",
     "pail",
     "pallid",
@@ -83,19 +85,19 @@
   "date": "2030-03-28",
   "hints": {
     "by_length": {
-      "4": 21,
+      "4": 20,
       "5": 17,
-      "6": 19,
+      "6": 21,
       "7": 12,
-      "8": 1
+      "8": 2
     },
     "by_first_letter": {
       "A": 8,
-      "B": 13,
+      "B": 14,
       "D": 11,
       "E": 4,
-      "I": 6,
-      "L": 9,
+      "I": 5,
+      "L": 11,
       "P": 19
     },
     "grid": {
@@ -109,7 +111,8 @@
         "4": 4,
         "5": 3,
         "6": 4,
-        "7": 2
+        "7": 2,
+        "8": 1
       },
       "D": {
         "4": 4,
@@ -121,13 +124,13 @@
         "6": 3
       },
       "I": {
-        "4": 4,
+        "4": 3,
         "5": 2
       },
       "L": {
         "4": 2,
         "5": 3,
-        "6": 3,
+        "6": 5,
         "7": 1
       },
       "P": {
@@ -145,7 +148,7 @@
       "AP": 1,
       "BA": 3,
       "BE": 3,
-      "BI": 6,
+      "BI": 7,
       "BL": 1,
       "DA": 1,
       "DE": 1,
@@ -154,9 +157,8 @@
       "EL": 2,
       "IB": 1,
       "ID": 4,
-      "IP": 1,
-      "LA": 3,
-      "LI": 6,
+      "LA": 4,
+      "LI": 7,
       "PA": 5,
       "PI": 11,
       "PL": 3

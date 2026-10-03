@@ -1,14 +1,13 @@
 {
   "pangram": "gunwale",
   "center_letter": "n",
-  "num_answers": 33,
+  "num_answers": 34,
   "num_pangrams": 1,
-  "possible_points": 111,
+  "possible_points": 124,
   "answer_pangrams": [
     "gunwale"
   ],
   "answers": [
-    "anal",
     "anew",
     "angel",
     "angle",
@@ -17,6 +16,7 @@
     "annul",
     "elan",
     "engage",
+    "galangal",
     "galena",
     "gang",
     "gene",
@@ -37,6 +37,7 @@
     "null",
     "ulna",
     "ulnae",
+    "unglue",
     "unwell",
     "wane",
     "wangle",
@@ -45,24 +46,24 @@
   "date": "2034-02-28",
   "hints": {
     "by_length": {
-      "4": 18,
+      "4": 17,
       "5": 7,
-      "6": 6,
+      "6": 7,
       "7": 1,
-      "8": 1
+      "8": 2
     },
     "by_first_letter": {
-      "A": 7,
+      "A": 6,
       "E": 2,
-      "G": 7,
+      "G": 8,
       "L": 6,
       "N": 5,
-      "U": 3,
+      "U": 4,
       "W": 3
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 3,
         "6": 2
       },
@@ -74,7 +75,8 @@
         "4": 4,
         "5": 1,
         "6": 1,
-        "7": 1
+        "7": 1,
+        "8": 1
       },
       "L": {
         "4": 4,
@@ -88,7 +90,7 @@
       "U": {
         "4": 1,
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "W": {
         "4": 2,
@@ -96,10 +98,10 @@
       }
     },
     "two_letter_list": {
-      "AN": 7,
+      "AN": 6,
       "EL": 1,
       "EN": 1,
-      "GA": 2,
+      "GA": 3,
       "GE": 1,
       "GL": 2,
       "GN": 1,
@@ -111,7 +113,7 @@
       "NE": 2,
       "NU": 1,
       "UL": 2,
-      "UN": 1,
+      "UN": 2,
       "WA": 2,
       "WE": 1
     }

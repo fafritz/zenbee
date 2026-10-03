@@ -1,9 +1,9 @@
 {
   "pangram": "chagrin",
   "center_letter": "r",
-  "num_answers": 53,
+  "num_answers": 55,
   "num_pangrams": 7,
-  "possible_points": 335,
+  "possible_points": 352,
   "answer_pangrams": [
     "arching",
     "chagrin",
@@ -50,6 +50,8 @@
     "hangar",
     "haring",
     "hiring",
+    "ingrain",
+    "ingraining",
     "narc",
     "racing",
     "raga",
@@ -74,16 +76,17 @@
       "4": 13,
       "5": 7,
       "6": 10,
-      "7": 11,
+      "7": 12,
       "8": 9,
       "9": 1,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 12,
       "C": 15,
       "G": 5,
       "H": 4,
+      "I": 2,
       "N": 1,
       "R": 16
     },
@@ -114,6 +117,10 @@
         "4": 1,
         "6": 3
       },
+      "I": {
+        "7": 1,
+        "10": 1
+      },
       "N": {
         "4": 1
       },
@@ -138,6 +145,7 @@
       "GR": 4,
       "HA": 3,
       "HI": 1,
+      "IN": 2,
       "NA": 1,
       "RA": 11,
       "RI": 5

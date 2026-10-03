@@ -3,11 +3,12 @@
   "center_letter": "l",
   "num_answers": 74,
   "num_pangrams": 1,
-  "possible_points": 391,
+  "possible_points": 392,
   "answer_pangrams": [
     "welting"
   ],
   "answers": [
+    "eeling",
     "elite",
     "entitle",
     "entitling",
@@ -29,13 +30,13 @@
     "intel",
     "intelligent",
     "legging",
-    "legit",
     "lenient",
     "lent",
     "lentil",
     "letting",
     "liege",
     "lien",
+    "lignin",
     "lignite",
     "lilt",
     "lilting",
@@ -57,7 +58,6 @@
     "niggling",
     "tell",
     "telling",
-    "telnet",
     "tile",
     "tiling",
     "till",
@@ -87,25 +87,26 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 10,
-      "6": 16,
+      "5": 9,
+      "6": 17,
       "7": 18,
       "8": 8,
       "9": 2,
       "11": 1
     },
     "by_first_letter": {
-      "E": 3,
+      "E": 4,
       "G": 13,
       "I": 4,
       "L": 20,
       "N": 7,
-      "T": 15,
+      "T": 14,
       "W": 12
     },
     "grid": {
       "E": {
         "5": 1,
+        "6": 1,
         "7": 1,
         "9": 1
       },
@@ -123,8 +124,8 @@
       },
       "L": {
         "4": 6,
-        "5": 3,
-        "6": 5,
+        "5": 2,
+        "6": 6,
         "7": 6
       },
       "N": {
@@ -136,7 +137,7 @@
       "T": {
         "4": 4,
         "5": 2,
-        "6": 4,
+        "6": 3,
         "7": 4,
         "8": 1
       },
@@ -148,17 +149,18 @@
       }
     },
     "two_letter_list": {
+      "EE": 1,
       "EL": 1,
       "EN": 2,
       "GE": 5,
       "GI": 4,
       "GL": 4,
       "IN": 4,
-      "LE": 6,
-      "LI": 14,
+      "LE": 5,
+      "LI": 15,
       "NE": 5,
       "NI": 2,
-      "TE": 3,
+      "TE": 2,
       "TI": 11,
       "TW": 1,
       "WE": 4,

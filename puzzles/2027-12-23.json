@@ -1,9 +1,9 @@
 {
   "pangram": "punched",
   "center_letter": "u",
-  "num_answers": 28,
+  "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 154,
+  "possible_points": 160,
   "answer_pangrams": [
     "punched"
   ],
@@ -15,6 +15,7 @@
     "denude",
     "denuded",
     "deuce",
+    "deuced",
     "dude",
     "duded",
     "dunce",
@@ -22,7 +23,7 @@
     "dunned",
     "dupe",
     "duped",
-    "endue",
+    "educe",
     "endued",
     "hunch",
     "hunched",
@@ -42,13 +43,13 @@
     "by_length": {
       "4": 4,
       "5": 10,
-      "6": 7,
+      "6": 8,
       "7": 5,
       "8": 2
     },
     "by_first_letter": {
       "C": 2,
-      "D": 12,
+      "D": 13,
       "E": 2,
       "H": 2,
       "P": 4,
@@ -62,7 +63,7 @@
       "D": {
         "4": 3,
         "5": 4,
-        "6": 3,
+        "6": 4,
         "7": 2
       },
       "E": {
@@ -86,9 +87,10 @@
     },
     "two_letter_list": {
       "CU": 2,
-      "DE": 5,
+      "DE": 6,
       "DU": 7,
-      "EN": 2,
+      "ED": 1,
+      "EN": 1,
       "HU": 2,
       "PU": 4,
       "UN": 3,

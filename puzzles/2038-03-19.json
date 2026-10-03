@@ -1,9 +1,9 @@
 {
   "pangram": "bounced",
   "center_letter": "u",
-  "num_answers": 35,
+  "num_answers": 34,
   "num_pangrams": 1,
-  "possible_points": 196,
+  "possible_points": 190,
   "answer_pangrams": [
     "bounced"
   ],
@@ -13,7 +13,6 @@
     "bound",
     "bounded",
     "budded",
-    "conduce",
     "conduced",
     "cube",
     "cubed",
@@ -25,14 +24,14 @@
     "denude",
     "denuded",
     "deuce",
+    "deuced",
     "dubbed",
     "dude",
     "duded",
     "dunce",
     "dune",
     "dunned",
-    "dunno",
-    "endue",
+    "educe",
     "endued",
     "noun",
     "ounce",
@@ -48,15 +47,15 @@
   "hints": {
     "by_length": {
       "4": 6,
-      "5": 9,
-      "6": 9,
-      "7": 6,
+      "5": 8,
+      "6": 10,
+      "7": 5,
       "8": 3,
       "9": 2
     },
     "by_first_letter": {
       "B": 5,
-      "C": 5,
+      "C": 4,
       "D": 14,
       "E": 2,
       "N": 1,
@@ -72,13 +71,12 @@
       "C": {
         "4": 2,
         "5": 1,
-        "7": 1,
         "8": 1
       },
       "D": {
         "4": 2,
-        "5": 4,
-        "6": 4,
+        "5": 3,
+        "6": 5,
         "7": 2,
         "8": 1,
         "9": 1
@@ -105,11 +103,12 @@
     "two_letter_list": {
       "BO": 4,
       "BU": 1,
-      "CO": 2,
+      "CO": 1,
       "CU": 3,
-      "DE": 7,
-      "DU": 7,
-      "EN": 2,
+      "DE": 8,
+      "DU": 6,
+      "ED": 1,
+      "EN": 1,
       "NO": 1,
       "OU": 1,
       "UN": 7

@@ -1,9 +1,9 @@
 {
   "pangram": "quacked",
   "center_letter": "u",
-  "num_answers": 19,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 89,
+  "possible_points": 100,
   "answer_pangrams": [
     "quacked"
   ],
@@ -15,11 +15,13 @@
     "deduce",
     "deduced",
     "deuce",
+    "deuced",
     "duck",
     "ducked",
     "dude",
     "duded",
     "duke",
+    "educe",
     "quack",
     "quacked",
     "quad",
@@ -32,14 +34,15 @@
   "hints": {
     "by_length": {
       "4": 6,
-      "5": 5,
-      "6": 5,
+      "5": 6,
+      "6": 6,
       "7": 3
     },
     "by_first_letter": {
       "A": 3,
       "C": 1,
-      "D": 8,
+      "D": 9,
+      "E": 1,
       "Q": 7
     },
     "grid": {
@@ -54,8 +57,11 @@
       "D": {
         "4": 3,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 1
+      },
+      "E": {
+        "5": 1
       },
       "Q": {
         "4": 1,
@@ -68,8 +74,9 @@
       "AD": 2,
       "AQ": 1,
       "CU": 1,
-      "DE": 3,
+      "DE": 4,
       "DU": 5,
+      "ED": 1,
       "QU": 7
     }
   }

@@ -1,9 +1,9 @@
 {
   "pangram": "roughly",
   "center_letter": "r",
-  "num_answers": 18,
+  "num_answers": 17,
   "num_pangrams": 1,
-  "possible_points": 75,
+  "possible_points": 70,
   "answer_pangrams": [
     "roughly"
   ],
@@ -20,7 +20,6 @@
     "hourly",
     "hurl",
     "hurry",
-    "lorry",
     "roll",
     "rough",
     "roughly",
@@ -31,7 +30,7 @@
   "hints": {
     "by_length": {
       "4": 8,
-      "5": 4,
+      "5": 3,
       "6": 3,
       "7": 2,
       "8": 1
@@ -39,7 +38,6 @@
     "by_first_letter": {
       "G": 6,
       "H": 6,
-      "L": 1,
       "R": 3,
       "U": 1,
       "Y": 1
@@ -55,9 +53,6 @@
         "5": 1,
         "6": 2,
         "8": 1
-      },
-      "L": {
-        "5": 1
       },
       "R": {
         "4": 1,
@@ -79,7 +74,6 @@
       "GY": 1,
       "HO": 4,
       "HU": 2,
-      "LO": 1,
       "RO": 3,
       "UR": 1,
       "YO": 1

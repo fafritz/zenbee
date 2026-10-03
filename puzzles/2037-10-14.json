@@ -1,16 +1,15 @@
 {
   "pangram": "nodular",
   "center_letter": "a",
-  "num_answers": 40,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 149,
+  "possible_points": 148,
   "answer_pangrams": [
     "nodular"
   ],
   "answers": [
     "adorn",
     "aloud",
-    "anal",
     "annual",
     "annul",
     "annular",
@@ -52,7 +51,7 @@
   "date": "2037-10-14",
   "hints": {
     "by_length": {
-      "4": 19,
+      "4": 18,
       "5": 11,
       "6": 5,
       "7": 3,
@@ -60,7 +59,7 @@
       "9": 1
     },
     "by_first_letter": {
-      "A": 11,
+      "A": 10,
       "D": 6,
       "L": 9,
       "N": 4,
@@ -70,7 +69,7 @@
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 5,
         "6": 2,
         "7": 1
@@ -106,7 +105,7 @@
     "two_letter_list": {
       "AD": 1,
       "AL": 1,
-      "AN": 5,
+      "AN": 4,
       "AR": 2,
       "AU": 2,
       "DA": 2,

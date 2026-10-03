@@ -1,9 +1,9 @@
 {
   "pangram": "gratify",
   "center_letter": "a",
-  "num_answers": 41,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 157,
+  "possible_points": 150,
   "answer_pangrams": [
     "gratify"
   ],
@@ -19,7 +19,6 @@
     "attar",
     "fair",
     "fairy",
-    "fart",
     "fatty",
     "fiat",
     "frag",
@@ -27,6 +26,7 @@
     "fray",
     "friar",
     "gaff",
+    "gaga",
     "gait",
     "graffiti",
     "graft",
@@ -37,7 +37,6 @@
     "raga",
     "ragtag",
     "rarity",
-    "ratatat",
     "ratify",
     "ratty",
     "riffraff",
@@ -56,14 +55,14 @@
       "4": 18,
       "5": 12,
       "6": 7,
-      "7": 2,
+      "7": 1,
       "8": 2
     },
     "by_first_letter": {
       "A": 9,
-      "F": 9,
-      "G": 6,
-      "R": 9,
+      "F": 8,
+      "G": 7,
+      "R": 8,
       "T": 8
     },
     "grid": {
@@ -73,11 +72,11 @@
         "6": 1
       },
       "F": {
-        "4": 6,
+        "4": 5,
         "5": 3
       },
       "G": {
-        "4": 3,
+        "4": 4,
         "5": 1,
         "7": 1,
         "8": 1
@@ -86,7 +85,6 @@
         "4": 2,
         "5": 1,
         "6": 4,
-        "7": 1,
         "8": 1
       },
       "T": {
@@ -101,12 +99,12 @@
       "AI": 1,
       "AR": 3,
       "AT": 2,
-      "FA": 4,
+      "FA": 3,
       "FI": 1,
       "FR": 4,
-      "GA": 2,
+      "GA": 3,
       "GR": 4,
-      "RA": 8,
+      "RA": 7,
       "RI": 1,
       "TA": 5,
       "TI": 1,

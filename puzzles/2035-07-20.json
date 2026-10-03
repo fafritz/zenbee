@@ -1,9 +1,9 @@
 {
   "pangram": "fumbled",
   "center_letter": "f",
-  "num_answers": 39,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 173,
+  "possible_points": 174,
   "answer_pangrams": [
     "fumbled"
   ],
@@ -43,6 +43,7 @@
     "fumbled",
     "fume",
     "fumed",
+    "luff",
     "muff",
     "muffed",
     "muffle",
@@ -51,7 +52,7 @@
   "date": "2035-07-20",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 16,
       "5": 4,
       "6": 12,
       "7": 6,
@@ -62,6 +63,7 @@
       "B": 9,
       "D": 1,
       "F": 25,
+      "L": 1,
       "M": 4
     },
     "grid": {
@@ -82,6 +84,9 @@
         "6": 7,
         "7": 4
       },
+      "L": {
+        "4": 1
+      },
       "M": {
         "4": 1,
         "6": 2,
@@ -96,6 +101,7 @@
       "FE": 7,
       "FL": 8,
       "FU": 10,
+      "LU": 1,
       "MU": 4
     }
   }

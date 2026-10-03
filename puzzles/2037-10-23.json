@@ -1,9 +1,9 @@
 {
   "pangram": "clinked",
   "center_letter": "n",
-  "num_answers": 59,
+  "num_answers": 60,
   "num_pangrams": 1,
-  "possible_points": 283,
+  "possible_points": 291,
   "answer_pangrams": [
     "clinked"
   ],
@@ -43,6 +43,7 @@
     "knell",
     "knelled",
     "lend",
+    "lenience",
     "lien",
     "liken",
     "likened",
@@ -75,7 +76,7 @@
       "5": 11,
       "6": 19,
       "7": 7,
-      "8": 4,
+      "8": 5,
       "9": 1
     },
     "by_first_letter": {
@@ -84,7 +85,7 @@
       "E": 1,
       "I": 6,
       "K": 17,
-      "L": 10,
+      "L": 11,
       "N": 15
     },
     "grid": {
@@ -121,7 +122,8 @@
         "4": 4,
         "5": 3,
         "6": 2,
-        "7": 1
+        "7": 1,
+        "8": 1
       },
       "N": {
         "4": 6,
@@ -140,7 +142,7 @@
       "KE": 5,
       "KI": 7,
       "KN": 5,
-      "LE": 1,
+      "LE": 2,
       "LI": 9,
       "NE": 8,
       "NI": 7

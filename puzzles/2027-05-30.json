@@ -1,9 +1,9 @@
 {
   "pangram": "guilted",
   "center_letter": "u",
-  "num_answers": 39,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 177,
+  "possible_points": 183,
   "answer_pangrams": [
     "guilted"
   ],
@@ -39,6 +39,8 @@
     "gullet",
     "gutted",
     "lieu",
+    "luge",
+    "luged",
     "lugged",
     "lull",
     "lulled",
@@ -51,8 +53,8 @@
   "date": "2027-05-30",
   "hints": {
     "by_length": {
-      "4": 12,
-      "5": 9,
+      "4": 13,
+      "5": 10,
       "6": 13,
       "7": 5
     },
@@ -60,7 +62,7 @@
       "D": 13,
       "E": 3,
       "G": 14,
-      "L": 6,
+      "L": 8,
       "T": 3
     },
     "grid": {
@@ -81,7 +83,8 @@
         "7": 2
       },
       "L": {
-        "4": 4,
+        "4": 5,
+        "5": 1,
         "6": 2
       },
       "T": {
@@ -99,7 +102,7 @@
       "GL": 4,
       "GU": 10,
       "LI": 1,
-      "LU": 5,
+      "LU": 7,
       "TU": 3
     }
   }

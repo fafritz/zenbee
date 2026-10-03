@@ -1,9 +1,9 @@
 {
   "pangram": "flaying",
   "center_letter": "g",
-  "num_answers": 51,
+  "num_answers": 57,
   "num_pangrams": 1,
-  "possible_points": 302,
+  "possible_points": 331,
   "answer_pangrams": [
     "flaying"
   ],
@@ -29,16 +29,20 @@
     "flag",
     "flagging",
     "flailing",
+    "flanging",
     "flaying",
     "fling",
     "flinging",
     "flying",
     "gaff",
     "gaffing",
+    "gaga",
     "gagging",
+    "gaily",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -54,29 +58,32 @@
     "inning",
     "lagging",
     "laying",
+    "lignin",
     "lining",
     "lying",
     "nagging",
     "nailing",
-    "niggling"
+    "niggling",
+    "yang"
   ],
   "date": "2036-05-26",
   "hints": {
     "by_length": {
-      "4": 9,
-      "5": 5,
-      "6": 9,
+      "4": 11,
+      "5": 6,
+      "6": 10,
       "7": 18,
-      "8": 9,
+      "8": 11,
       "9": 1
     },
     "by_first_letter": {
       "A": 10,
-      "F": 15,
-      "G": 17,
+      "F": 16,
+      "G": 20,
       "I": 2,
-      "L": 4,
-      "N": 3
+      "L": 5,
+      "N": 3,
+      "Y": 1
     },
     "grid": {
       "A": {
@@ -91,14 +98,15 @@
         "5": 1,
         "6": 3,
         "7": 5,
-        "8": 3,
+        "8": 4,
         "9": 1
       },
       "G": {
-        "4": 6,
+        "4": 7,
+        "5": 1,
         "6": 1,
         "7": 8,
-        "8": 2
+        "8": 3
       },
       "I": {
         "6": 1,
@@ -106,12 +114,15 @@
       },
       "L": {
         "5": 1,
-        "6": 2,
+        "6": 3,
         "7": 1
       },
       "N": {
         "7": 2,
         "8": 1
+      },
+      "Y": {
+        "4": 1
       }
     },
     "two_letter_list": {
@@ -121,15 +132,16 @@
       "AN": 2,
       "FA": 4,
       "FI": 4,
-      "FL": 7,
-      "GA": 12,
+      "FL": 8,
+      "GA": 15,
       "GI": 5,
       "IN": 2,
       "LA": 2,
-      "LI": 1,
+      "LI": 2,
       "LY": 1,
       "NA": 2,
-      "NI": 1
+      "NI": 1,
+      "YA": 1
     }
   }
 }

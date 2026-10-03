@@ -3,13 +3,14 @@
   "center_letter": "o",
   "num_answers": 55,
   "num_pangrams": 2,
-  "possible_points": 210,
+  "possible_points": 212,
   "answer_pangrams": [
     "rotunda",
     "turnaround"
   ],
   "answers": [
     "adorn",
+    "annatto",
     "anon",
     "aorta",
     "ardor",
@@ -22,7 +23,6 @@
     "doodad",
     "door",
     "dour",
-    "dunno",
     "narrator",
     "noon",
     "noun",
@@ -69,16 +69,16 @@
   "hints": {
     "by_length": {
       "4": 27,
-      "5": 13,
+      "5": 12,
       "6": 7,
-      "7": 5,
+      "7": 6,
       "8": 1,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 6,
-      "D": 8,
+      "A": 7,
+      "D": 7,
       "N": 3,
       "O": 8,
       "R": 12,
@@ -89,11 +89,12 @@
       "A": {
         "4": 2,
         "5": 3,
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "D": {
         "4": 4,
-        "5": 3,
+        "5": 2,
         "6": 1
       },
       "N": {
@@ -126,13 +127,12 @@
     },
     "two_letter_list": {
       "AD": 1,
-      "AN": 1,
+      "AN": 2,
       "AO": 1,
       "AR": 2,
       "AU": 1,
       "DA": 1,
       "DO": 6,
-      "DU": 1,
       "NA": 1,
       "NO": 2,
       "OD": 1,

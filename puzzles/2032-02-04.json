@@ -1,9 +1,9 @@
 {
   "pangram": "thickly",
   "center_letter": "i",
-  "num_answers": 35,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 125,
+  "possible_points": 126,
   "answer_pangrams": [
     "thickly"
   ],
@@ -41,13 +41,14 @@
     "thick",
     "thickly",
     "tick",
+    "tiki",
     "till",
     "tilt"
   ],
   "date": "2032-02-04",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 12,
       "6": 3,
       "7": 2,
@@ -59,7 +60,7 @@
       "I": 6,
       "K": 5,
       "L": 5,
-      "T": 5
+      "T": 6
     },
     "grid": {
       "C": {
@@ -87,7 +88,7 @@
         "6": 1
       },
       "T": {
-        "4": 3,
+        "4": 4,
         "5": 1,
         "7": 1
       }
@@ -104,7 +105,7 @@
       "KI": 5,
       "LI": 5,
       "TH": 2,
-      "TI": 3
+      "TI": 4
     }
   }
 }

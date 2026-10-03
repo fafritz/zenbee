@@ -1,13 +1,14 @@
 {
   "pangram": "flexing",
   "center_letter": "g",
-  "num_answers": 35,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 212,
+  "possible_points": 224,
   "answer_pangrams": [
     "flexing"
   ],
   "answers": [
+    "eeling",
     "egging",
     "engine",
     "exiling",
@@ -38,6 +39,7 @@
     "inning",
     "legging",
     "liege",
+    "lignin",
     "lining",
     "negligee",
     "niggle",
@@ -49,21 +51,21 @@
     "by_length": {
       "4": 4,
       "5": 5,
-      "6": 11,
+      "6": 13,
       "7": 10,
       "8": 5
     },
     "by_first_letter": {
-      "E": 3,
+      "E": 4,
       "F": 12,
       "G": 12,
       "I": 1,
-      "L": 3,
+      "L": 4,
       "N": 4
     },
     "grid": {
       "E": {
-        "6": 2,
+        "6": 3,
         "7": 1
       },
       "F": {
@@ -84,7 +86,7 @@
       },
       "L": {
         "5": 1,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "N": {
@@ -93,6 +95,7 @@
       }
     },
     "two_letter_list": {
+      "EE": 1,
       "EG": 1,
       "EN": 1,
       "EX": 1,
@@ -104,7 +107,7 @@
       "GL": 2,
       "IN": 1,
       "LE": 1,
-      "LI": 2,
+      "LI": 3,
       "NE": 1,
       "NI": 3
     }

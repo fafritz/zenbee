@@ -1,9 +1,9 @@
 {
   "pangram": "exclaim",
   "center_letter": "a",
-  "num_answers": 45,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 174,
+  "possible_points": 190,
   "answer_pangrams": [
     "exclaim"
   ],
@@ -12,6 +12,7 @@
     "acai",
     "acclaim",
     "acme",
+    "allele",
     "axial",
     "axle",
     "call",
@@ -27,6 +28,7 @@
     "email",
     "exam",
     "exclaim",
+    "iliac",
     "imam",
     "lace",
     "lama",
@@ -39,6 +41,7 @@
     "mail",
     "maim",
     "male",
+    "malic",
     "malice",
     "mall",
     "mama",
@@ -58,24 +61,24 @@
   "hints": {
     "by_length": {
       "4": 20,
-      "5": 12,
-      "6": 6,
+      "5": 14,
+      "6": 7,
       "7": 5,
       "8": 2
     },
     "by_first_letter": {
-      "A": 6,
+      "A": 7,
       "C": 10,
       "E": 3,
-      "I": 1,
+      "I": 2,
       "L": 7,
-      "M": 18
+      "M": 19
     },
     "grid": {
       "A": {
         "4": 3,
         "5": 1,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "C": {
@@ -90,7 +93,8 @@
         "7": 1
       },
       "I": {
-        "4": 1
+        "4": 1,
+        "5": 1
       },
       "L": {
         "4": 3,
@@ -99,7 +103,7 @@
       },
       "M": {
         "4": 8,
-        "5": 3,
+        "5": 4,
         "6": 4,
         "7": 2,
         "8": 1
@@ -107,18 +111,20 @@
     },
     "two_letter_list": {
       "AC": 4,
+      "AL": 1,
       "AX": 2,
       "CA": 6,
       "CI": 1,
       "CL": 3,
       "EM": 1,
       "EX": 2,
+      "IL": 1,
       "IM": 1,
       "LA": 3,
       "LE": 2,
       "LI": 1,
       "LL": 1,
-      "MA": 15,
+      "MA": 16,
       "ME": 2,
       "MI": 1
     }

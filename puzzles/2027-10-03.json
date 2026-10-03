@@ -1,9 +1,9 @@
 {
   "pangram": "fibulae",
   "center_letter": "e",
-  "num_answers": 43,
+  "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 155,
+  "possible_points": 194,
   "answer_pangrams": [
     "fibulae"
   ],
@@ -11,6 +11,7 @@
     "abbe",
     "able",
     "affable",
+    "allele",
     "babble",
     "babe",
     "babel",
@@ -28,14 +29,18 @@
     "belle",
     "bible",
     "bile",
+    "billable",
     "blue",
     "bluebell",
     "bubble",
+    "effable",
     "fable",
+    "falafel",
     "fallible",
     "feeble",
     "feel",
     "fell",
+    "fella",
     "fibulae",
     "fief",
     "fife",
@@ -45,6 +50,7 @@
     "flue",
     "fuel",
     "label",
+    "labile",
     "leaf",
     "liable",
     "libel",
@@ -56,20 +62,22 @@
   "hints": {
     "by_length": {
       "4": 22,
-      "5": 7,
-      "6": 9,
-      "7": 3,
-      "8": 2
+      "5": 8,
+      "6": 11,
+      "7": 5,
+      "8": 3
     },
     "by_first_letter": {
-      "A": 3,
-      "B": 20,
-      "F": 13,
-      "L": 7
+      "A": 4,
+      "B": 21,
+      "E": 1,
+      "F": 15,
+      "L": 8
     },
     "grid": {
       "A": {
         "4": 2,
+        "6": 1,
         "7": 1
       },
       "B": {
@@ -77,35 +85,40 @@
         "5": 4,
         "6": 7,
         "7": 1,
-        "8": 1
+        "8": 2
+      },
+      "E": {
+        "7": 1
       },
       "F": {
         "4": 9,
-        "5": 1,
+        "5": 2,
         "6": 1,
-        "7": 1,
+        "7": 2,
         "8": 1
       },
       "L": {
         "4": 4,
         "5": 2,
-        "6": 1
+        "6": 2
       }
     },
     "two_letter_list": {
       "AB": 2,
       "AF": 1,
+      "AL": 1,
       "BA": 7,
       "BE": 8,
-      "BI": 2,
+      "BI": 3,
       "BL": 2,
       "BU": 1,
-      "FA": 2,
-      "FE": 3,
+      "EF": 1,
+      "FA": 3,
+      "FE": 4,
       "FI": 4,
       "FL": 3,
       "FU": 1,
-      "LA": 1,
+      "LA": 2,
       "LE": 1,
       "LI": 4,
       "LU": 1

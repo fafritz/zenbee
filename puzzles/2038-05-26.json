@@ -1,9 +1,9 @@
 {
   "pangram": "hexagon",
   "center_letter": "o",
-  "num_answers": 17,
+  "num_answers": 16,
   "num_pangrams": 1,
-  "possible_points": 47,
+  "possible_points": 42,
   "answer_pangrams": [
     "hexagon"
   ],
@@ -14,7 +14,6 @@
     "eggnog",
     "gone",
     "gong",
-    "gonna",
     "goon",
     "hexagon",
     "hoax",
@@ -30,14 +29,14 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 3,
+      "5": 2,
       "6": 1,
       "7": 1
     },
     "by_first_letter": {
       "A": 3,
       "E": 1,
-      "G": 4,
+      "G": 3,
       "H": 4,
       "N": 3,
       "O": 1,
@@ -51,8 +50,7 @@
         "6": 1
       },
       "G": {
-        "4": 3,
-        "5": 1
+        "4": 3
       },
       "H": {
         "4": 2,
@@ -74,7 +72,7 @@
       "AN": 1,
       "AX": 1,
       "EG": 1,
-      "GO": 4,
+      "GO": 3,
       "HE": 1,
       "HO": 3,
       "NE": 1,

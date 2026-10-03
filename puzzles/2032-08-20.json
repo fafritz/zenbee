@@ -1,9 +1,9 @@
 {
   "pangram": "euphony",
   "center_letter": "n",
-  "num_answers": 22,
+  "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 65,
+  "possible_points": 70,
   "answer_pangrams": [
     "euphony"
   ],
@@ -20,6 +20,7 @@
     "noun",
     "open",
     "peen",
+    "penne",
     "pennon",
     "penny",
     "peon",
@@ -35,7 +36,7 @@
   "hints": {
     "by_length": {
       "4": 14,
-      "5": 5,
+      "5": 6,
       "6": 2,
       "7": 1
     },
@@ -44,7 +45,7 @@
       "H": 3,
       "N": 6,
       "O": 1,
-      "P": 10,
+      "P": 11,
       "U": 1
     },
     "grid": {
@@ -64,7 +65,7 @@
       },
       "P": {
         "4": 5,
-        "5": 4,
+        "5": 5,
         "6": 1
       },
       "U": {
@@ -78,7 +79,7 @@
       "NE": 2,
       "NO": 4,
       "OP": 1,
-      "PE": 5,
+      "PE": 6,
       "PH": 2,
       "PO": 2,
       "PU": 1,

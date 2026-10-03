@@ -1,9 +1,9 @@
 {
   "pangram": "defunct",
   "center_letter": "n",
-  "num_answers": 43,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 220,
+  "possible_points": 227,
   "answer_pangrams": [
     "defunct"
   ],
@@ -18,12 +18,12 @@
     "dented",
     "denude",
     "denuded",
+    "detent",
     "detente",
     "dunce",
     "dune",
     "dunned",
     "ended",
-    "endue",
     "endued",
     "entente",
     "fecund",
@@ -46,6 +46,7 @@
     "tented",
     "tune",
     "tuned",
+    "uncuff",
     "uncut",
     "undefended",
     "undetected",
@@ -56,20 +57,20 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 8,
-      "6": 15,
+      "5": 7,
+      "6": 17,
       "7": 4,
       "8": 3,
       "10": 2
     },
     "by_first_letter": {
       "C": 1,
-      "D": 13,
-      "E": 4,
+      "D": 14,
+      "E": 3,
       "F": 7,
       "N": 5,
       "T": 8,
-      "U": 5
+      "U": 6
     },
     "grid": {
       "C": {
@@ -78,12 +79,12 @@
       "D": {
         "4": 2,
         "5": 1,
-        "6": 5,
+        "6": 6,
         "7": 3,
         "8": 2
       },
       "E": {
-        "5": 2,
+        "5": 1,
         "6": 1,
         "7": 1
       },
@@ -103,22 +104,23 @@
       },
       "U": {
         "5": 2,
+        "6": 1,
         "8": 1,
         "10": 2
       }
     },
     "two_letter_list": {
       "CE": 1,
-      "DE": 10,
+      "DE": 11,
       "DU": 3,
-      "EN": 4,
+      "EN": 3,
       "FE": 5,
       "FU": 2,
       "NE": 4,
       "NU": 1,
       "TE": 6,
       "TU": 2,
-      "UN": 5
+      "UN": 6
     }
   }
 }

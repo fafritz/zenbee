@@ -1,9 +1,9 @@
 {
   "pangram": "godlike",
   "center_letter": "l",
-  "num_answers": 65,
+  "num_answers": 67,
   "num_pangrams": 1,
-  "possible_points": 260,
+  "possible_points": 266,
   "answer_pangrams": [
     "godlike"
   ],
@@ -19,6 +19,7 @@
     "dolled",
     "doodle",
     "doodled",
+    "eeled",
     "elide",
     "elided",
     "geld",
@@ -49,6 +50,7 @@
     "kill",
     "killed",
     "kilo",
+    "lede",
     "ledge",
     "leek",
     "legged",
@@ -77,18 +79,18 @@
   "date": "2034-11-09",
   "hints": {
     "by_length": {
-      "4": 26,
-      "5": 13,
+      "4": 27,
+      "5": 14,
       "6": 20,
       "7": 6
     },
     "by_first_letter": {
       "D": 11,
-      "E": 2,
+      "E": 3,
       "G": 19,
       "I": 4,
       "K": 5,
-      "L": 18,
+      "L": 19,
       "O": 6
     },
     "grid": {
@@ -99,7 +101,7 @@
         "7": 2
       },
       "E": {
-        "5": 1,
+        "5": 2,
         "6": 1
       },
       "G": {
@@ -117,7 +119,7 @@
         "6": 2
       },
       "L": {
-        "4": 8,
+        "4": 9,
         "5": 4,
         "6": 6
       },
@@ -130,6 +132,7 @@
       "DE": 2,
       "DI": 3,
       "DO": 6,
+      "EE": 1,
       "EL": 2,
       "GE": 4,
       "GI": 6,
@@ -139,7 +142,7 @@
       "IG": 1,
       "KE": 2,
       "KI": 3,
-      "LE": 3,
+      "LE": 4,
       "LI": 5,
       "LO": 10,
       "OG": 2,

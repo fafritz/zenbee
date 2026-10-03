@@ -1,9 +1,9 @@
 {
   "pangram": "blacken",
   "center_letter": "a",
-  "num_answers": 64,
+  "num_answers": 65,
   "num_pangrams": 1,
-  "possible_points": 226,
+  "possible_points": 237,
   "answer_pangrams": [
     "blacken"
   ],
@@ -12,7 +12,7 @@
     "abbe",
     "able",
     "acne",
-    "anal",
+    "allele",
     "ankle",
     "anneal",
     "baba",
@@ -58,6 +58,7 @@
     "elan",
     "enable",
     "kale",
+    "kanban",
     "kebab",
     "knack",
     "label",
@@ -76,9 +77,9 @@
   "date": "2033-03-30",
   "hints": {
     "by_length": {
-      "4": 31,
+      "4": 30,
       "5": 19,
-      "6": 9,
+      "6": 11,
       "7": 2,
       "8": 2,
       "9": 1
@@ -88,15 +89,15 @@
       "B": 23,
       "C": 17,
       "E": 2,
-      "K": 3,
+      "K": 4,
       "L": 9,
       "N": 3
     },
     "grid": {
       "A": {
-        "4": 4,
+        "4": 3,
         "5": 2,
-        "6": 1
+        "6": 2
       },
       "B": {
         "4": 12,
@@ -117,7 +118,8 @@
       },
       "K": {
         "4": 1,
-        "5": 2
+        "5": 2,
+        "6": 1
       },
       "L": {
         "4": 7,
@@ -131,7 +133,8 @@
     "two_letter_list": {
       "AB": 3,
       "AC": 1,
-      "AN": 3,
+      "AL": 1,
+      "AN": 2,
       "BA": 15,
       "BE": 2,
       "BL": 6,
@@ -139,7 +142,7 @@
       "CL": 4,
       "EL": 1,
       "EN": 1,
-      "KA": 1,
+      "KA": 2,
       "KE": 1,
       "KN": 1,
       "LA": 7,

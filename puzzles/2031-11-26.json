@@ -1,9 +1,9 @@
 {
   "pangram": "talking",
   "center_letter": "l",
-  "num_answers": 60,
+  "num_answers": 63,
   "num_pangrams": 1,
-  "possible_points": 319,
+  "possible_points": 344,
   "answer_pangrams": [
     "talking"
   ],
@@ -13,9 +13,9 @@
     "align",
     "aligning",
     "alkali",
-    "anal",
     "angling",
     "gala",
+    "galangal",
     "gall",
     "gallant",
     "galling",
@@ -36,7 +36,10 @@
     "kilt",
     "lagging",
     "lain",
+    "lanai",
     "lank",
+    "lantana",
+    "lignin",
     "liking",
     "lilt",
     "lilting",
@@ -72,26 +75,26 @@
   "date": "2031-11-26",
   "hints": {
     "by_length": {
-      "4": 20,
-      "5": 3,
-      "6": 5,
-      "7": 18,
-      "8": 10,
+      "4": 19,
+      "5": 4,
+      "6": 6,
+      "7": 19,
+      "8": 11,
       "10": 3,
       "11": 1
     },
     "by_first_letter": {
-      "A": 7,
-      "G": 11,
+      "A": 6,
+      "G": 12,
       "I": 3,
       "K": 5,
-      "L": 13,
+      "L": 16,
       "N": 4,
       "T": 17
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 1,
         "6": 2,
         "7": 1,
@@ -101,7 +104,7 @@
         "4": 4,
         "5": 1,
         "7": 3,
-        "8": 3
+        "8": 4
       },
       "I": {
         "7": 2,
@@ -113,8 +116,9 @@
       },
       "L": {
         "4": 5,
-        "6": 2,
-        "7": 4,
+        "5": 1,
+        "6": 3,
+        "7": 5,
         "8": 1,
         "10": 1
       },
@@ -136,14 +140,14 @@
     "two_letter_list": {
       "AI": 1,
       "AL": 4,
-      "AN": 2,
-      "GA": 6,
+      "AN": 1,
+      "GA": 7,
       "GI": 3,
       "GL": 2,
       "IN": 3,
       "KI": 5,
-      "LA": 3,
-      "LI": 10,
+      "LA": 5,
+      "LI": 11,
       "NA": 3,
       "NI": 1,
       "TA": 8,

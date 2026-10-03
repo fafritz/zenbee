@@ -1,9 +1,9 @@
 {
   "pangram": "howling",
   "center_letter": "o",
-  "num_answers": 47,
+  "num_answers": 48,
   "num_pangrams": 2,
-  "possible_points": 234,
+  "possible_points": 243,
   "answer_pangrams": [
     "hollowing",
     "howling"
@@ -41,6 +41,7 @@
     "loon",
     "lowing",
     "noggin",
+    "nonillion",
     "noon",
     "ogling",
     "oiling",
@@ -65,14 +66,14 @@
       "6": 13,
       "7": 9,
       "8": 2,
-      "9": 2
+      "9": 3
     },
     "by_first_letter": {
       "G": 11,
       "H": 7,
       "I": 1,
       "L": 12,
-      "N": 2,
+      "N": 3,
       "O": 7,
       "W": 7
     },
@@ -101,7 +102,8 @@
       },
       "N": {
         "4": 1,
-        "6": 1
+        "6": 1,
+        "9": 1
       },
       "O": {
         "4": 1,
@@ -123,7 +125,7 @@
       "IG": 1,
       "LI": 2,
       "LO": 10,
-      "NO": 2,
+      "NO": 3,
       "OG": 1,
       "OI": 1,
       "OL": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "blaring",
   "center_letter": "l",
-  "num_answers": 55,
+  "num_answers": 59,
   "num_pangrams": 2,
-  "possible_points": 285,
+  "possible_points": 316,
   "answer_pangrams": [
     "blaring",
     "garbling"
@@ -15,7 +15,6 @@
     "alibiing",
     "align",
     "aligning",
-    "anal",
     "angling",
     "babbling",
     "bail",
@@ -32,6 +31,7 @@
     "bling",
     "gabbling",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "ganglia",
@@ -43,6 +43,8 @@
     "girl",
     "glaring",
     "glib",
+    "gnarl",
+    "gnarling",
     "grail",
     "grill",
     "grilling",
@@ -51,8 +53,10 @@
     "lagging",
     "lain",
     "lair",
+    "lanai",
     "liar",
     "librarian",
+    "lignin",
     "lining",
     "lira",
     "nail",
@@ -68,24 +72,24 @@
   "date": "2038-10-21",
   "hints": {
     "by_length": {
-      "4": 18,
-      "5": 7,
-      "6": 6,
+      "4": 17,
+      "5": 9,
+      "6": 7,
       "7": 11,
-      "8": 12,
+      "8": 14,
       "9": 1
     },
     "by_first_letter": {
-      "A": 8,
+      "A": 7,
       "B": 13,
-      "G": 16,
-      "L": 9,
+      "G": 19,
+      "L": 11,
       "N": 4,
       "R": 5
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 2,
         "6": 1,
         "7": 1,
@@ -100,14 +104,14 @@
       },
       "G": {
         "4": 5,
-        "5": 2,
+        "5": 3,
         "7": 3,
-        "8": 6
+        "8": 8
       },
       "L": {
         "4": 4,
-        "5": 1,
-        "6": 2,
+        "5": 2,
+        "6": 3,
         "7": 1,
         "9": 1
       },
@@ -125,16 +129,17 @@
     "two_letter_list": {
       "AI": 1,
       "AL": 5,
-      "AN": 2,
+      "AN": 1,
       "BA": 7,
       "BI": 2,
       "BL": 4,
-      "GA": 8,
+      "GA": 9,
       "GI": 3,
       "GL": 2,
+      "GN": 2,
       "GR": 3,
-      "LA": 5,
-      "LI": 4,
+      "LA": 6,
+      "LI": 5,
       "NA": 2,
       "NI": 2,
       "RA": 3,

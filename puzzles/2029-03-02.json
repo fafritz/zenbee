@@ -1,9 +1,9 @@
 {
   "pangram": "nuptial",
   "center_letter": "p",
-  "num_answers": 38,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 159,
+  "possible_points": 170,
   "answer_pangrams": [
     "nuptial"
   ],
@@ -18,12 +18,14 @@
     "palatal",
     "palatial",
     "pall",
+    "panini",
     "pant",
     "papa",
     "papal",
     "papilla",
     "patina",
     "pill",
+    "pinna",
     "pint",
     "pinup",
     "pipit",
@@ -51,8 +53,8 @@
   "hints": {
     "by_length": {
       "4": 14,
-      "5": 13,
-      "6": 6,
+      "5": 14,
+      "6": 7,
       "7": 3,
       "8": 2
     },
@@ -60,7 +62,7 @@
       "A": 1,
       "I": 2,
       "N": 1,
-      "P": 32,
+      "P": 34,
       "T": 1,
       "U": 1
     },
@@ -76,8 +78,8 @@
       },
       "P": {
         "4": 14,
-        "5": 9,
-        "6": 5,
+        "5": 10,
+        "6": 6,
         "7": 2,
         "8": 2
       },
@@ -92,8 +94,8 @@
       "AP": 1,
       "IN": 2,
       "NU": 1,
-      "PA": 11,
-      "PI": 6,
+      "PA": 12,
+      "PI": 7,
       "PL": 7,
       "PU": 8,
       "TU": 1,

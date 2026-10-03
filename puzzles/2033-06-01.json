@@ -1,9 +1,9 @@
 {
   "pangram": "diurnal",
   "center_letter": "i",
-  "num_answers": 32,
+  "num_answers": 34,
   "num_pangrams": 1,
-  "possible_points": 111,
+  "possible_points": 122,
   "answer_pangrams": [
     "diurnal"
   ],
@@ -20,9 +20,11 @@
     "druid",
     "inlaid",
     "inland",
+    "inulin",
     "laid",
     "lain",
     "lair",
+    "lanai",
     "liar",
     "lira",
     "lurid",
@@ -45,15 +47,15 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 9,
-      "6": 6,
+      "5": 10,
+      "6": 7,
       "7": 1
     },
     "by_first_letter": {
       "A": 2,
       "D": 8,
-      "I": 2,
-      "L": 6,
+      "I": 3,
+      "L": 7,
       "N": 3,
       "R": 9,
       "U": 2
@@ -69,11 +71,11 @@
         "7": 1
       },
       "I": {
-        "6": 2
+        "6": 3
       },
       "L": {
         "4": 5,
-        "5": 1
+        "5": 2
       },
       "N": {
         "4": 1,
@@ -93,8 +95,8 @@
       "AR": 2,
       "DI": 5,
       "DR": 3,
-      "IN": 2,
-      "LA": 3,
+      "IN": 3,
+      "LA": 4,
       "LI": 2,
       "LU": 1,
       "NA": 3,

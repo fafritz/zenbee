@@ -1,9 +1,9 @@
 {
   "pangram": "flounce",
   "center_letter": "f",
-  "num_answers": 20,
+  "num_answers": 22,
   "num_pangrams": 2,
-  "possible_points": 81,
+  "possible_points": 88,
   "answer_pangrams": [
     "confluence",
     "flounce"
@@ -28,20 +28,24 @@
     "foul",
     "fuel",
     "full",
-    "funnel"
+    "funnel",
+    "luff",
+    "uncuff"
   ],
   "date": "2037-06-14",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 3,
-      "6": 4,
+      "6": 5,
       "7": 1,
       "10": 1
     },
     "by_first_letter": {
       "C": 4,
-      "F": 16
+      "F": 16,
+      "L": 1,
+      "U": 1
     },
     "grid": {
       "C": {
@@ -54,6 +58,12 @@
         "5": 3,
         "6": 3,
         "7": 1
+      },
+      "L": {
+        "4": 1
+      },
+      "U": {
+        "6": 1
       }
     },
     "two_letter_list": {
@@ -63,7 +73,9 @@
       "FE": 5,
       "FL": 6,
       "FO": 2,
-      "FU": 3
+      "FU": 3,
+      "LU": 1,
+      "UN": 1
     }
   }
 }

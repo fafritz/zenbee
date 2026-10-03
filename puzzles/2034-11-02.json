@@ -1,13 +1,14 @@
 {
   "pangram": "champed",
   "center_letter": "e",
-  "num_answers": 72,
+  "num_answers": 73,
   "num_pangrams": 1,
-  "possible_points": 297,
+  "possible_points": 304,
   "answer_pangrams": [
     "champed"
   ],
   "answers": [
+    "academe",
     "accede",
     "acceded",
     "aced",
@@ -16,7 +17,6 @@
     "acme",
     "added",
     "ahead",
-    "ahem",
     "apace",
     "aped",
     "cache",
@@ -60,6 +60,7 @@
     "heaped",
     "heed",
     "heeded",
+    "heme",
     "hemmed",
     "hemp",
     "mace",
@@ -87,7 +88,7 @@
       "4": 27,
       "5": 16,
       "6": 22,
-      "7": 5,
+      "7": 6,
       "8": 2
     },
     "by_first_letter": {
@@ -95,16 +96,16 @@
       "C": 15,
       "D": 12,
       "E": 6,
-      "H": 10,
+      "H": 11,
       "M": 9,
       "P": 9
     },
     "grid": {
       "A": {
-        "4": 5,
+        "4": 4,
         "5": 4,
         "6": 1,
-        "7": 1
+        "7": 2
       },
       "C": {
         "4": 4,
@@ -124,7 +125,7 @@
         "7": 1
       },
       "H": {
-        "4": 4,
+        "4": 5,
         "6": 5,
         "8": 1
       },
@@ -140,9 +141,9 @@
       }
     },
     "two_letter_list": {
-      "AC": 6,
+      "AC": 7,
       "AD": 1,
-      "AH": 2,
+      "AH": 1,
       "AP": 2,
       "CA": 7,
       "CE": 2,
@@ -154,7 +155,7 @@
       "EM": 2,
       "EP": 1,
       "HA": 1,
-      "HE": 9,
+      "HE": 10,
       "MA": 6,
       "ME": 3,
       "PA": 3,

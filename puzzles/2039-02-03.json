@@ -1,9 +1,9 @@
 {
   "pangram": "wimpled",
   "center_letter": "d",
-  "num_answers": 75,
+  "num_answers": 78,
   "num_pangrams": 1,
-  "possible_points": 365,
+  "possible_points": 377,
   "answer_pangrams": [
     "wimpled"
   ],
@@ -26,6 +26,7 @@
     "dipped",
     "dwell",
     "eddied",
+    "eeled",
     "elide",
     "elided",
     "idle",
@@ -34,6 +35,7 @@
     "impeded",
     "impelled",
     "implied",
+    "lede",
     "lewd",
     "lidded",
     "lied",
@@ -41,6 +43,7 @@
     "limped",
     "limpid",
     "lipid",
+    "lipped",
     "meddle",
     "meddled",
     "meld",
@@ -87,18 +90,18 @@
   "date": "2039-02-03",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 13,
-      "6": 31,
+      "4": 20,
+      "5": 14,
+      "6": 32,
       "7": 9,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
       "D": 17,
-      "E": 3,
+      "E": 4,
       "I": 6,
-      "L": 7,
+      "L": 9,
       "M": 13,
       "P": 15,
       "W": 14
@@ -111,7 +114,7 @@
         "7": 2
       },
       "E": {
-        "5": 1,
+        "5": 2,
         "6": 2
       },
       "I": {
@@ -122,9 +125,9 @@
         "8": 1
       },
       "L": {
-        "4": 2,
+        "4": 3,
         "5": 2,
-        "6": 3
+        "6": 4
       },
       "M": {
         "4": 2,
@@ -152,11 +155,12 @@
       "DI": 9,
       "DW": 1,
       "ED": 1,
+      "EE": 1,
       "EL": 2,
       "ID": 2,
       "IM": 4,
-      "LE": 1,
-      "LI": 6,
+      "LE": 2,
+      "LI": 7,
       "ME": 6,
       "MI": 7,
       "PE": 6,

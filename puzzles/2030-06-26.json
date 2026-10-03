@@ -1,9 +1,9 @@
 {
   "pangram": "crowing",
   "center_letter": "o",
-  "num_answers": 57,
+  "num_answers": 64,
   "num_pangrams": 3,
-  "possible_points": 317,
+  "possible_points": 348,
   "answer_pangrams": [
     "cornrowing",
     "crowing",
@@ -13,6 +13,7 @@
     "cocci",
     "cocoon",
     "cocooning",
+    "cogging",
     "coin",
     "coining",
     "conic",
@@ -35,6 +36,7 @@
     "gonging",
     "goon",
     "gorging",
+    "gorgon",
     "goring",
     "gown",
     "gowning",
@@ -44,13 +46,17 @@
     "growing",
     "grown",
     "icon",
+    "iconic",
     "ignoring",
     "ingrown",
+    "ionic",
     "iron",
     "ironic",
     "ironing",
     "noggin",
+    "noir",
     "noon",
+    "nori",
     "ongoing",
     "onion",
     "origin",
@@ -58,6 +64,7 @@
     "owning",
     "rigor",
     "rococo",
+    "ronin",
     "rowing",
     "winnow",
     "winnowing",
@@ -71,21 +78,21 @@
   "date": "2030-06-26",
   "hints": {
     "by_length": {
-      "4": 13,
-      "5": 11,
-      "6": 14,
-      "7": 12,
+      "4": 15,
+      "5": 13,
+      "6": 16,
+      "7": 13,
       "8": 4,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "C": 20,
-      "G": 13,
-      "I": 6,
-      "N": 2,
+      "C": 21,
+      "G": 14,
+      "I": 8,
+      "N": 4,
       "O": 5,
-      "R": 3,
+      "R": 4,
       "W": 8
     },
     "grid": {
@@ -93,7 +100,7 @@
         "4": 3,
         "5": 4,
         "6": 4,
-        "7": 5,
+        "7": 6,
         "8": 2,
         "9": 1,
         "10": 1
@@ -101,17 +108,18 @@
       "G": {
         "4": 5,
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 4
       },
       "I": {
         "4": 2,
-        "6": 1,
+        "5": 1,
+        "6": 2,
         "7": 2,
         "8": 1
       },
       "N": {
-        "4": 1,
+        "4": 3,
         "6": 1
       },
       "O": {
@@ -120,7 +128,7 @@
         "7": 1
       },
       "R": {
-        "5": 1,
+        "5": 2,
         "6": 2
       },
       "W": {
@@ -132,20 +140,21 @@
       }
     },
     "two_letter_list": {
-      "CO": 14,
+      "CO": 15,
       "CR": 6,
-      "GO": 8,
+      "GO": 9,
       "GR": 5,
-      "IC": 1,
+      "IC": 2,
       "IG": 1,
       "IN": 1,
+      "IO": 1,
       "IR": 3,
-      "NO": 2,
+      "NO": 4,
       "ON": 2,
       "OR": 1,
       "OW": 2,
       "RI": 1,
-      "RO": 2,
+      "RO": 3,
       "WI": 3,
       "WO": 3,
       "WR": 2

@@ -1,9 +1,9 @@
 {
   "pangram": "kingdom",
   "center_letter": "i",
-  "num_answers": 53,
+  "num_answers": 52,
   "num_pangrams": 1,
-  "possible_points": 298,
+  "possible_points": 289,
   "answer_pangrams": [
     "kingdom"
   ],
@@ -19,7 +19,6 @@
     "dinning",
     "dodging",
     "dogging",
-    "doggoning",
     "doing",
     "doming",
     "dominion",
@@ -69,11 +68,10 @@
       "5": 7,
       "6": 15,
       "7": 20,
-      "8": 1,
-      "9": 1
+      "8": 1
     },
     "by_first_letter": {
-      "D": 18,
+      "D": 17,
       "G": 5,
       "I": 4,
       "K": 8,
@@ -87,8 +85,7 @@
         "5": 2,
         "6": 4,
         "7": 8,
-        "8": 1,
-        "9": 1
+        "8": 1
       },
       "G": {
         "5": 1,
@@ -123,7 +120,7 @@
     },
     "two_letter_list": {
       "DI": 9,
-      "DO": 9,
+      "DO": 8,
       "GI": 3,
       "GO": 2,
       "ID": 1,

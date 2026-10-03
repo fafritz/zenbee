@@ -1,9 +1,9 @@
 {
   "pangram": "plumage",
   "center_letter": "e",
-  "num_answers": 46,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 176,
+  "possible_points": 183,
   "answer_pangrams": [
     "plumage"
   ],
@@ -13,6 +13,7 @@
     "ague",
     "algae",
     "allege",
+    "allele",
     "ample",
     "ampule",
     "appeal",
@@ -34,6 +35,7 @@
     "legal",
     "legume",
     "lemma",
+    "luge",
     "luggage",
     "male",
     "mammae",
@@ -58,16 +60,16 @@
   "date": "2034-06-17",
   "hints": {
     "by_length": {
-      "4": 19,
+      "4": 20,
       "5": 14,
-      "6": 11,
+      "6": 12,
       "7": 2
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 10,
       "E": 2,
       "G": 8,
-      "L": 8,
+      "L": 9,
       "M": 8,
       "P": 11
     },
@@ -75,7 +77,7 @@
       "A": {
         "4": 1,
         "5": 4,
-        "6": 4
+        "6": 5
       },
       "E": {
         "4": 1,
@@ -87,7 +89,7 @@
         "6": 1
       },
       "L": {
-        "4": 2,
+        "4": 3,
         "5": 3,
         "6": 2,
         "7": 1
@@ -106,7 +108,7 @@
     },
     "two_letter_list": {
       "AG": 3,
-      "AL": 2,
+      "AL": 3,
       "AM": 2,
       "AP": 2,
       "EA": 1,
@@ -115,7 +117,7 @@
       "GL": 3,
       "LA": 2,
       "LE": 5,
-      "LU": 1,
+      "LU": 2,
       "MA": 3,
       "ME": 3,
       "MU": 2,

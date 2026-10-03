@@ -3,7 +3,7 @@
   "center_letter": "o",
   "num_answers": 34,
   "num_pangrams": 1,
-  "possible_points": 103,
+  "possible_points": 111,
   "answer_pangrams": [
     "dolphin"
   ],
@@ -18,13 +18,13 @@
     "hoodoo",
     "hoop",
     "idol",
-    "ipod",
     "lion",
     "loin",
     "loll",
     "lollipop",
     "loon",
     "loop",
+    "nonillion",
     "noon",
     "olio",
     "onion",
@@ -46,18 +46,19 @@
   "date": "2031-10-04",
   "hints": {
     "by_length": {
-      "4": 22,
+      "4": 21,
       "5": 3,
       "6": 5,
       "7": 3,
-      "8": 1
+      "8": 1,
+      "9": 1
     },
     "by_first_letter": {
       "D": 4,
       "H": 5,
-      "I": 2,
+      "I": 1,
       "L": 6,
-      "N": 1,
+      "N": 2,
       "O": 4,
       "P": 12
     },
@@ -73,14 +74,15 @@
         "6": 1
       },
       "I": {
-        "4": 2
+        "4": 1
       },
       "L": {
         "4": 5,
         "8": 1
       },
       "N": {
-        "4": 1
+        "4": 1,
+        "9": 1
       },
       "O": {
         "4": 1,
@@ -100,10 +102,9 @@
       "HI": 1,
       "HO": 4,
       "ID": 1,
-      "IP": 1,
       "LI": 1,
       "LO": 5,
-      "NO": 1,
+      "NO": 2,
       "OL": 1,
       "ON": 1,
       "OP": 2,

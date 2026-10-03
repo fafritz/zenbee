@@ -1,9 +1,9 @@
 {
   "pangram": "varying",
   "center_letter": "a",
-  "num_answers": 55,
+  "num_answers": 59,
   "num_pangrams": 1,
-  "possible_points": 283,
+  "possible_points": 302,
   "answer_pangrams": [
     "varying"
   ],
@@ -25,6 +25,7 @@
     "arriving",
     "avian",
     "aviary",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -39,6 +40,8 @@
     "gravy",
     "gray",
     "graying",
+    "ingrain",
+    "ingraining",
     "naan",
     "nagging",
     "nana",
@@ -62,26 +65,28 @@
     "vanning",
     "vary",
     "varying",
+    "yang",
     "yarn"
   ],
   "date": "2035-07-31",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 17,
       "5": 10,
       "6": 9,
-      "7": 14,
+      "7": 15,
       "8": 5,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 17,
-      "G": 14,
+      "G": 15,
+      "I": 2,
       "N": 6,
       "R": 12,
       "V": 5,
-      "Y": 1
+      "Y": 2
     },
     "grid": {
       "A": {
@@ -94,11 +99,15 @@
         "10": 1
       },
       "G": {
-        "4": 3,
+        "4": 4,
         "5": 2,
         "6": 2,
         "7": 6,
         "8": 1
+      },
+      "I": {
+        "7": 1,
+        "10": 1
       },
       "N": {
         "4": 3,
@@ -118,7 +127,7 @@
         "7": 2
       },
       "Y": {
-        "4": 1
+        "4": 2
       }
     },
     "two_letter_list": {
@@ -127,13 +136,14 @@
       "AN": 2,
       "AR": 7,
       "AV": 2,
-      "GA": 6,
+      "GA": 7,
       "GR": 8,
+      "IN": 2,
       "NA": 5,
       "NI": 1,
       "RA": 12,
       "VA": 5,
-      "YA": 1
+      "YA": 2
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "pangram": "beatnik",
   "center_letter": "a",
-  "num_answers": 45,
+  "num_answers": 47,
   "num_pangrams": 1,
-  "possible_points": 170,
+  "possible_points": 182,
   "answer_pangrams": [
     "beatnik"
   ],
@@ -39,10 +39,12 @@
     "initiate",
     "innate",
     "intake",
+    "kanban",
     "kebab",
     "naan",
     "nana",
     "neat",
+    "neaten",
     "taint",
     "take",
     "taken",
@@ -59,7 +61,7 @@
     "by_length": {
       "4": 21,
       "5": 9,
-      "6": 10,
+      "6": 12,
       "7": 3,
       "8": 2
     },
@@ -68,8 +70,8 @@
       "B": 17,
       "E": 1,
       "I": 4,
-      "K": 1,
-      "N": 3,
+      "K": 2,
+      "N": 4,
       "T": 10
     },
     "grid": {
@@ -95,10 +97,12 @@
         "8": 1
       },
       "K": {
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "N": {
-        "4": 3
+        "4": 3,
+        "6": 1
       },
       "T": {
         "4": 3,
@@ -115,9 +119,10 @@
       "BE": 8,
       "EA": 1,
       "IN": 4,
+      "KA": 1,
       "KE": 1,
       "NA": 2,
-      "NE": 1,
+      "NE": 2,
       "TA": 5,
       "TE": 2,
       "TI": 3

@@ -3,7 +3,7 @@
   "center_letter": "c",
   "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 147,
+  "possible_points": 151,
   "answer_pangrams": [
     "crazily"
   ],
@@ -19,7 +19,6 @@
     "circa",
     "cirri",
     "clay",
-    "cray",
     "crazily",
     "crazy",
     "cyclic",
@@ -27,6 +26,7 @@
     "cyclically",
     "czar",
     "icily",
+    "iliac",
     "lacy",
     "lilac",
     "lyric",
@@ -40,8 +40,8 @@
   "date": "2033-08-01",
   "hints": {
     "by_length": {
-      "4": 7,
-      "5": 9,
+      "4": 6,
+      "5": 10,
       "6": 4,
       "7": 3,
       "8": 3,
@@ -50,8 +50,8 @@
     },
     "by_first_letter": {
       "A": 3,
-      "C": 15,
-      "I": 1,
+      "C": 14,
+      "I": 2,
       "L": 5,
       "R": 4
     },
@@ -62,7 +62,7 @@
         "7": 1
       },
       "C": {
-        "4": 4,
+        "4": 3,
         "5": 6,
         "6": 1,
         "7": 1,
@@ -70,7 +70,7 @@
         "10": 1
       },
       "I": {
-        "5": 1
+        "5": 2
       },
       "L": {
         "4": 1,
@@ -89,10 +89,11 @@
       "CA": 4,
       "CI": 3,
       "CL": 1,
-      "CR": 3,
+      "CR": 2,
       "CY": 3,
       "CZ": 1,
       "IC": 1,
+      "IL": 1,
       "LA": 1,
       "LI": 1,
       "LY": 3,

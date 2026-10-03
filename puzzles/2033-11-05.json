@@ -1,16 +1,16 @@
 {
   "pangram": "planked",
   "center_letter": "l",
-  "num_answers": 79,
+  "num_answers": 81,
   "num_pangrams": 1,
-  "possible_points": 366,
+  "possible_points": 377,
   "answer_pangrams": [
     "planked"
   ],
   "answers": [
     "addle",
     "addled",
-    "anal",
+    "allele",
     "ankle",
     "anneal",
     "annealed",
@@ -28,6 +28,7 @@
     "dell",
     "deplane",
     "deplaned",
+    "eeled",
     "elan",
     "kale",
     "keel",
@@ -57,6 +58,7 @@
     "leaned",
     "leap",
     "leaped",
+    "lede",
     "leek",
     "lend",
     "needle",
@@ -92,25 +94,24 @@
   "hints": {
     "by_length": {
       "4": 24,
-      "5": 16,
-      "6": 23,
+      "5": 17,
+      "6": 24,
       "7": 11,
       "8": 5
     },
     "by_first_letter": {
       "A": 11,
       "D": 9,
-      "E": 1,
+      "E": 2,
       "K": 9,
-      "L": 21,
+      "L": 22,
       "N": 2,
       "P": 26
     },
     "grid": {
       "A": {
-        "4": 1,
         "5": 3,
-        "6": 4,
+        "6": 5,
         "8": 3
       },
       "D": {
@@ -120,7 +121,8 @@
         "8": 1
       },
       "E": {
-        "4": 1
+        "4": 1,
+        "5": 1
       },
       "K": {
         "4": 3,
@@ -130,7 +132,7 @@
         "8": 1
       },
       "L": {
-        "4": 10,
+        "4": 11,
         "5": 3,
         "6": 8
       },
@@ -147,16 +149,18 @@
     },
     "two_letter_list": {
       "AD": 2,
-      "AN": 4,
+      "AL": 1,
+      "AN": 3,
       "AP": 5,
       "DA": 5,
       "DE": 4,
+      "EE": 1,
       "EL": 1,
       "KA": 1,
       "KE": 5,
       "KN": 3,
       "LA": 10,
-      "LE": 11,
+      "LE": 12,
       "NE": 2,
       "PA": 9,
       "PE": 9,

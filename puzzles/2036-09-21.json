@@ -1,9 +1,9 @@
 {
   "pangram": "yelping",
   "center_letter": "p",
-  "num_answers": 37,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 190,
+  "possible_points": 183,
   "answer_pangrams": [
     "yelping"
   ],
@@ -12,13 +12,12 @@
     "gypping",
     "nipping",
     "nippy",
-    "peeing",
     "peel",
     "peeling",
     "peen",
     "peep",
     "peeping",
-    "penile",
+    "penne",
     "penning",
     "penny",
     "pepping",
@@ -50,8 +49,8 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 4,
-      "6": 9,
+      "5": 5,
+      "6": 7,
       "7": 13,
       "8": 1
     },
@@ -59,7 +58,7 @@
       "E": 1,
       "G": 1,
       "N": 2,
-      "P": 30,
+      "P": 29,
       "Y": 3
     },
     "grid": {
@@ -75,8 +74,8 @@
       },
       "P": {
         "4": 8,
-        "5": 3,
-        "6": 9,
+        "5": 4,
+        "6": 7,
         "7": 9,
         "8": 1
       },
@@ -89,7 +88,7 @@
       "EP": 1,
       "GY": 1,
       "NI": 2,
-      "PE": 11,
+      "PE": 10,
       "PI": 18,
       "PL": 1,
       "YE": 2,

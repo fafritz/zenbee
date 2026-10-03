@@ -1,16 +1,15 @@
 {
   "pangram": "nakedly",
   "center_letter": "n",
-  "num_answers": 54,
+  "num_answers": 53,
   "num_pangrams": 1,
-  "possible_points": 248,
+  "possible_points": 247,
   "answer_pangrams": [
     "nakedly"
   ],
   "answers": [
     "addend",
     "addenda",
-    "anal",
     "ankle",
     "anneal",
     "annealed",
@@ -66,14 +65,14 @@
   "date": "2029-09-18",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 16,
       "5": 12,
       "6": 15,
       "7": 6,
       "8": 4
     },
     "by_first_letter": {
-      "A": 6,
+      "A": 5,
       "D": 9,
       "E": 2,
       "K": 13,
@@ -83,7 +82,6 @@
     },
     "grid": {
       "A": {
-        "4": 1,
         "5": 1,
         "6": 2,
         "7": 1,
@@ -126,7 +124,7 @@
     },
     "two_letter_list": {
       "AD": 2,
-      "AN": 4,
+      "AN": 3,
       "DA": 5,
       "DE": 4,
       "EL": 1,

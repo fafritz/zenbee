@@ -1,9 +1,9 @@
 {
   "pangram": "cranium",
   "center_letter": "i",
-  "num_answers": 30,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 129,
+  "possible_points": 134,
   "answer_pangrams": [
     "cranium"
   ],
@@ -17,6 +17,7 @@
     "cirri",
     "cranium",
     "cumin",
+    "curia",
     "imam",
     "incur",
     "maim",
@@ -43,13 +44,13 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 11,
+      "5": 12,
       "6": 6,
       "7": 3
     },
     "by_first_letter": {
       "A": 4,
-      "C": 5,
+      "C": 6,
       "I": 2,
       "M": 13,
       "N": 1,
@@ -62,7 +63,7 @@
         "6": 2
       },
       "C": {
-        "5": 4,
+        "5": 5,
         "7": 1
       },
       "I": {
@@ -94,7 +95,7 @@
       "CA": 1,
       "CI": 2,
       "CR": 1,
-      "CU": 1,
+      "CU": 2,
       "IM": 1,
       "IN": 1,
       "MA": 7,

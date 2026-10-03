@@ -1,9 +1,9 @@
 {
   "pangram": "polkaed",
   "center_letter": "a",
-  "num_answers": 53,
+  "num_answers": 54,
   "num_pangrams": 1,
-  "possible_points": 226,
+  "possible_points": 232,
   "answer_pangrams": [
     "polkaed"
   ],
@@ -11,6 +11,7 @@
     "added",
     "addle",
     "addled",
+    "allele",
     "aloe",
     "aped",
     "appall",
@@ -67,12 +68,12 @@
     "by_length": {
       "4": 19,
       "5": 12,
-      "6": 16,
+      "6": 17,
       "7": 4,
       "8": 2
     },
     "by_first_letter": {
-      "A": 10,
+      "A": 11,
       "D": 7,
       "K": 3,
       "L": 13,
@@ -83,7 +84,7 @@
       "A": {
         "4": 2,
         "5": 3,
-        "6": 3,
+        "6": 4,
         "8": 2
       },
       "D": {
@@ -112,7 +113,7 @@
     },
     "two_letter_list": {
       "AD": 3,
-      "AL": 1,
+      "AL": 2,
       "AP": 6,
       "DA": 4,
       "DE": 2,

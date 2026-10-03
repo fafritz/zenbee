@@ -1,21 +1,23 @@
 {
   "pangram": "tombing",
   "center_letter": "b",
-  "num_answers": 35,
+  "num_answers": 34,
   "num_pangrams": 2,
-  "possible_points": 196,
+  "possible_points": 188,
   "answer_pangrams": [
     "bottoming",
     "tombing"
   ],
   "answers": [
     "bigot",
+    "binging",
     "bingo",
     "binning",
     "biting",
     "bobbin",
     "bobbing",
     "bogging",
+    "boing",
     "bomb",
     "bombing",
     "bonbon",
@@ -25,8 +27,6 @@
     "boning",
     "bonito",
     "boob",
-    "boobing",
-    "booboo",
     "booing",
     "boom",
     "booming",
@@ -37,7 +37,6 @@
     "bottoming",
     "gibbon",
     "gibing",
-    "gobbing",
     "imbibing",
     "mobbing",
     "nimbi",
@@ -49,15 +48,15 @@
   "hints": {
     "by_length": {
       "4": 8,
-      "5": 4,
-      "6": 10,
-      "7": 11,
+      "5": 5,
+      "6": 9,
+      "7": 10,
       "8": 1,
       "9": 1
     },
     "by_first_letter": {
       "B": 26,
-      "G": 3,
+      "G": 2,
       "I": 1,
       "M": 1,
       "N": 1,
@@ -67,14 +66,13 @@
     "grid": {
       "B": {
         "4": 6,
-        "5": 3,
-        "6": 8,
+        "5": 4,
+        "6": 7,
         "7": 8,
         "9": 1
       },
       "G": {
-        "6": 2,
-        "7": 1
+        "6": 2
       },
       "I": {
         "8": 1
@@ -94,10 +92,9 @@
       }
     },
     "two_letter_list": {
-      "BI": 4,
-      "BO": 22,
+      "BI": 5,
+      "BO": 21,
       "GI": 2,
-      "GO": 1,
       "IM": 1,
       "MO": 1,
       "NI": 1,

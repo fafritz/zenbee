@@ -1,9 +1,9 @@
 {
   "pangram": "bracing",
   "center_letter": "r",
-  "num_answers": 69,
+  "num_answers": 72,
   "num_pangrams": 2,
-  "possible_points": 386,
+  "possible_points": 410,
   "answer_pangrams": [
     "bracing",
     "crabbing"
@@ -40,6 +40,7 @@
     "brig",
     "bring",
     "bringing",
+    "brining",
     "cairn",
     "caring",
     "cigar",
@@ -62,6 +63,8 @@
     "grain",
     "grin",
     "grinning",
+    "ingrain",
+    "ingraining",
     "narc",
     "rabbi",
     "racing",
@@ -85,16 +88,17 @@
       "4": 18,
       "5": 9,
       "6": 9,
-      "7": 16,
+      "7": 18,
       "8": 12,
       "9": 3,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 9,
-      "B": 22,
+      "B": 23,
       "C": 13,
       "G": 9,
+      "I": 2,
       "N": 1,
       "R": 15
     },
@@ -111,7 +115,7 @@
         "4": 5,
         "5": 3,
         "6": 1,
-        "7": 6,
+        "7": 7,
         "8": 4,
         "9": 2,
         "10": 1
@@ -129,6 +133,10 @@
         "7": 2,
         "8": 3
       },
+      "I": {
+        "7": 1,
+        "10": 1
+      },
       "N": {
         "4": 1
       },
@@ -144,12 +152,13 @@
       "AI": 2,
       "AR": 5,
       "BA": 11,
-      "BR": 11,
+      "BR": 12,
       "CA": 2,
       "CI": 4,
       "CR": 7,
       "GA": 3,
       "GR": 6,
+      "IN": 2,
       "NA": 1,
       "RA": 10,
       "RI": 5

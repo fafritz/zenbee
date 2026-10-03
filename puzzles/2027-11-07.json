@@ -1,9 +1,9 @@
 {
   "pangram": "majorly",
   "center_letter": "y",
-  "num_answers": 27,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 148,
+  "possible_points": 143,
   "answer_pangrams": [
     "majorly"
   ],
@@ -18,7 +18,6 @@
     "arroyo",
     "jolly",
     "loamy",
-    "lorry",
     "loyal",
     "loyally",
     "majorly",
@@ -40,7 +39,7 @@
   "hints": {
     "by_length": {
       "4": 3,
-      "5": 14,
+      "5": 13,
       "6": 3,
       "7": 6,
       "8": 1
@@ -48,7 +47,7 @@
     "by_first_letter": {
       "A": 8,
       "J": 1,
-      "L": 4,
+      "L": 3,
       "M": 9,
       "O": 1,
       "R": 4
@@ -64,7 +63,7 @@
         "5": 1
       },
       "L": {
-        "5": 3,
+        "5": 2,
         "7": 1
       },
       "M": {
@@ -85,7 +84,7 @@
       "AM": 1,
       "AR": 4,
       "JO": 1,
-      "LO": 4,
+      "LO": 3,
       "MA": 6,
       "MO": 3,
       "OR": 1,

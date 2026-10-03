@@ -1,9 +1,9 @@
 {
   "pangram": "pelting",
   "center_letter": "t",
-  "num_answers": 80,
+  "num_answers": 78,
   "num_pangrams": 2,
-  "possible_points": 452,
+  "possible_points": 441,
   "answer_pangrams": [
     "pelleting",
     "pelting"
@@ -29,7 +29,6 @@
     "intel",
     "intelligent",
     "intent",
-    "legit",
     "lenient",
     "lent",
     "lentil",
@@ -64,7 +63,6 @@
     "teen",
     "tell",
     "telling",
-    "telnet",
     "tenet",
     "tent",
     "tenting",
@@ -94,8 +92,8 @@
   "hints": {
     "by_length": {
       "4": 17,
-      "5": 11,
-      "6": 17,
+      "5": 10,
+      "6": 16,
       "7": 22,
       "8": 9,
       "9": 3,
@@ -105,10 +103,10 @@
       "E": 4,
       "G": 9,
       "I": 7,
-      "L": 14,
+      "L": 13,
       "N": 5,
       "P": 12,
-      "T": 29
+      "T": 28
     },
     "grid": {
       "E": {
@@ -131,7 +129,6 @@
       },
       "L": {
         "4": 4,
-        "5": 1,
         "6": 4,
         "7": 5
       },
@@ -152,7 +149,7 @@
       "T": {
         "4": 8,
         "5": 4,
-        "6": 6,
+        "6": 5,
         "7": 8,
         "8": 3
       }
@@ -165,13 +162,13 @@
       "GL": 2,
       "IG": 2,
       "IN": 5,
-      "LE": 5,
+      "LE": 4,
       "LI": 9,
       "NE": 4,
       "NI": 1,
       "PE": 8,
       "PI": 4,
-      "TE": 9,
+      "TE": 8,
       "TI": 20
     }
   }

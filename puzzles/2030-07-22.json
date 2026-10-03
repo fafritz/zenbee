@@ -1,9 +1,9 @@
 {
   "pangram": "clarity",
   "center_letter": "a",
-  "num_answers": 79,
+  "num_answers": 78,
   "num_pangrams": 3,
-  "possible_points": 406,
+  "possible_points": 403,
   "answer_pangrams": [
     "alacrity",
     "clarity",
@@ -44,11 +44,11 @@
     "circa",
     "clarity",
     "clay",
-    "cray",
     "critical",
     "critically",
     "cyclical",
     "cyclically",
+    "iliac",
     "italic",
     "lactic",
     "lacy",
@@ -67,7 +67,6 @@
     "rail",
     "rally",
     "rarity",
-    "ratatat",
     "ratty",
     "tacit",
     "tacitly",
@@ -93,20 +92,20 @@
   "date": "2030-07-22",
   "hints": {
     "by_length": {
-      "4": 21,
-      "5": 25,
+      "4": 20,
+      "5": 26,
       "6": 12,
-      "7": 9,
+      "7": 8,
       "8": 7,
       "9": 2,
       "10": 3
     },
     "by_first_letter": {
       "A": 17,
-      "C": 22,
-      "I": 1,
+      "C": 21,
+      "I": 2,
       "L": 10,
-      "R": 9,
+      "R": 8,
       "T": 20
     },
     "grid": {
@@ -118,7 +117,7 @@
         "8": 1
       },
       "C": {
-        "4": 4,
+        "4": 3,
         "5": 7,
         "7": 4,
         "8": 4,
@@ -126,6 +125,7 @@
         "10": 2
       },
       "I": {
+        "5": 1,
         "6": 1
       },
       "L": {
@@ -139,7 +139,6 @@
         "4": 2,
         "5": 2,
         "6": 3,
-        "7": 1,
         "8": 1
       },
       "T": {
@@ -160,13 +159,14 @@
       "CA": 13,
       "CI": 2,
       "CL": 2,
-      "CR": 3,
+      "CR": 2,
       "CY": 2,
+      "IL": 1,
       "IT": 1,
       "LA": 5,
       "LI": 3,
       "LY": 2,
-      "RA": 9,
+      "RA": 8,
       "TA": 14,
       "TI": 1,
       "TR": 5

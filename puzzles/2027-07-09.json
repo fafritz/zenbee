@@ -1,9 +1,9 @@
 {
   "pangram": "thorium",
   "center_letter": "r",
-  "num_answers": 27,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 104,
+  "possible_points": 105,
   "answer_pangrams": [
     "thorium"
   ],
@@ -21,6 +21,7 @@
     "riot",
     "room",
     "root",
+    "roti",
     "rotor",
     "rout",
     "rumor",
@@ -39,7 +40,7 @@
   "date": "2027-07-09",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 13,
       "5": 10,
       "6": 3,
       "7": 1,
@@ -48,7 +49,7 @@
     "by_first_letter": {
       "H": 4,
       "M": 6,
-      "R": 6,
+      "R": 7,
       "T": 11
     },
     "grid": {
@@ -64,7 +65,7 @@
         "10": 1
       },
       "R": {
-        "4": 4,
+        "4": 5,
         "5": 2
       },
       "T": {
@@ -80,7 +81,7 @@
       "MO": 3,
       "MU": 1,
       "RI": 1,
-      "RO": 4,
+      "RO": 5,
       "RU": 1,
       "TH": 2,
       "TO": 2,

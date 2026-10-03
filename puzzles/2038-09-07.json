@@ -1,18 +1,20 @@
 {
   "pangram": "curbing",
   "center_letter": "g",
-  "num_answers": 43,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 256,
+  "possible_points": 270,
   "answer_pangrams": [
     "curbing"
   ],
   "answers": [
+    "binging",
     "binning",
     "bribing",
     "brig",
     "bring",
     "bringing",
+    "brining",
     "bugging",
     "bung",
     "bunging",
@@ -58,13 +60,13 @@
       "4": 8,
       "5": 4,
       "6": 6,
-      "7": 18,
+      "7": 20,
       "8": 5,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "B": 11,
+      "B": 13,
       "C": 7,
       "G": 10,
       "I": 4,
@@ -75,7 +77,7 @@
       "B": {
         "4": 3,
         "5": 1,
-        "7": 6,
+        "7": 8,
         "8": 1
       },
       "C": {
@@ -108,8 +110,8 @@
       }
     },
     "two_letter_list": {
-      "BI": 1,
-      "BR": 4,
+      "BI": 2,
+      "BR": 5,
       "BU": 6,
       "CR": 2,
       "CU": 5,

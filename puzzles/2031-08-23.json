@@ -1,9 +1,9 @@
 {
   "pangram": "curling",
   "center_letter": "g",
-  "num_answers": 51,
+  "num_answers": 53,
   "num_pangrams": 2,
-  "possible_points": 319,
+  "possible_points": 331,
   "answer_pangrams": [
     "curlicuing",
     "curling"
@@ -42,8 +42,10 @@
     "incurring",
     "inning",
     "inuring",
+    "lignin",
     "lining",
     "lugging",
+    "luging",
     "lulling",
     "lung",
     "lunging",
@@ -66,7 +68,7 @@
     "by_length": {
       "4": 8,
       "5": 6,
-      "6": 10,
+      "6": 12,
       "7": 15,
       "8": 8,
       "9": 2,
@@ -76,7 +78,7 @@
       "C": 12,
       "G": 16,
       "I": 5,
-      "L": 6,
+      "L": 8,
       "N": 1,
       "R": 10,
       "U": 1
@@ -105,7 +107,7 @@
       },
       "L": {
         "4": 1,
-        "6": 2,
+        "6": 4,
         "7": 3
       },
       "N": {
@@ -132,8 +134,8 @@
       "GU": 6,
       "IC": 1,
       "IN": 4,
-      "LI": 1,
-      "LU": 5,
+      "LI": 2,
+      "LU": 6,
       "NI": 1,
       "RI": 5,
       "RU": 5,

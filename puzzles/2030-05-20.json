@@ -1,9 +1,9 @@
 {
   "pangram": "cabinet",
   "center_letter": "t",
-  "num_answers": 58,
+  "num_answers": 60,
   "num_pangrams": 1,
-  "possible_points": 275,
+  "possible_points": 288,
   "answer_pangrams": [
     "cabinet"
   ],
@@ -13,6 +13,7 @@
     "accent",
     "acetate",
     "acetic",
+    "actinic",
     "ancient",
     "ante",
     "antenna",
@@ -49,6 +50,7 @@
     "intact",
     "intent",
     "neat",
+    "neaten",
     "nineteen",
     "tacit",
     "tact",
@@ -72,18 +74,18 @@
     "by_length": {
       "4": 18,
       "5": 11,
-      "6": 15,
-      "7": 8,
+      "6": 16,
+      "7": 9,
       "8": 5,
       "9": 1
     },
     "by_first_letter": {
-      "A": 13,
+      "A": 14,
       "B": 9,
       "C": 9,
       "E": 4,
       "I": 5,
-      "N": 2,
+      "N": 3,
       "T": 16
     },
     "grid": {
@@ -91,7 +93,7 @@
         "4": 3,
         "5": 3,
         "6": 3,
-        "7": 3,
+        "7": 4,
         "8": 1
       },
       "B": {
@@ -115,6 +117,7 @@
       },
       "N": {
         "4": 1,
+        "6": 1,
         "8": 1
       },
       "T": {
@@ -127,7 +130,7 @@
     },
     "two_letter_list": {
       "AB": 2,
-      "AC": 3,
+      "AC": 4,
       "AN": 6,
       "AT": 2,
       "BA": 2,
@@ -139,7 +142,7 @@
       "EA": 1,
       "EN": 3,
       "IN": 5,
-      "NE": 1,
+      "NE": 2,
       "NI": 1,
       "TA": 6,
       "TE": 4,

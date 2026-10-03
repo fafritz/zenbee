@@ -1,9 +1,9 @@
 {
   "pangram": "fowling",
   "center_letter": "o",
-  "num_answers": 66,
+  "num_answers": 67,
   "num_pangrams": 4,
-  "possible_points": 324,
+  "possible_points": 333,
   "answer_pangrams": [
     "flowing",
     "following",
@@ -57,6 +57,7 @@
     "loon",
     "lowing",
     "noggin",
+    "nonillion",
     "noon",
     "offing",
     "ogling",
@@ -86,14 +87,14 @@
       "6": 13,
       "7": 16,
       "8": 3,
-      "9": 2
+      "9": 3
     },
     "by_first_letter": {
       "F": 15,
       "G": 15,
       "I": 3,
       "L": 12,
-      "N": 2,
+      "N": 3,
       "O": 8,
       "W": 11
     },
@@ -126,7 +127,8 @@
       },
       "N": {
         "4": 1,
-        "6": 1
+        "6": 1,
+        "9": 1
       },
       "O": {
         "4": 1,
@@ -151,7 +153,7 @@
       "IN": 2,
       "LI": 2,
       "LO": 10,
-      "NO": 2,
+      "NO": 3,
       "OF": 1,
       "OG": 1,
       "OI": 1,

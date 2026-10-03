@@ -1,9 +1,9 @@
 {
   "pangram": "melodic",
   "center_letter": "c",
-  "num_answers": 51,
+  "num_answers": 52,
   "num_pangrams": 3,
-  "possible_points": 255,
+  "possible_points": 261,
   "answer_pangrams": [
     "domicile",
     "domiciled",
@@ -13,6 +13,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "cello",
     "clime",
     "clod",
@@ -38,9 +39,9 @@
     "cooed",
     "cool",
     "cooled",
-    "coolie",
     "decide",
     "decided",
+    "decile",
     "decode",
     "decoded",
     "deice",
@@ -67,14 +68,14 @@
     "by_length": {
       "4": 15,
       "5": 13,
-      "6": 11,
+      "6": 12,
       "7": 9,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
       "C": 29,
-      "D": 11,
+      "D": 12,
       "E": 2,
       "I": 2,
       "L": 3,
@@ -91,7 +92,7 @@
       "D": {
         "4": 1,
         "5": 2,
-        "6": 4,
+        "6": 5,
         "7": 2,
         "8": 1,
         "9": 1
@@ -114,10 +115,10 @@
       }
     },
     "two_letter_list": {
-      "CE": 4,
+      "CE": 5,
       "CL": 2,
-      "CO": 23,
-      "DE": 6,
+      "CO": 22,
+      "DE": 7,
       "DI": 2,
       "DO": 3,
       "EM": 2,

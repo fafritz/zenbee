@@ -1,9 +1,9 @@
 {
   "pangram": "placing",
   "center_letter": "c",
-  "num_answers": 42,
+  "num_answers": 43,
   "num_pangrams": 2,
-  "possible_points": 257,
+  "possible_points": 262,
   "answer_pangrams": [
     "clapping",
     "placing"
@@ -40,6 +40,7 @@
     "glacial",
     "glancing",
     "icing",
+    "iliac",
     "inclining",
     "lacing",
     "lancing",
@@ -56,7 +57,7 @@
   "hints": {
     "by_length": {
       "4": 6,
-      "5": 10,
+      "5": 11,
       "6": 10,
       "7": 6,
       "8": 6,
@@ -67,7 +68,7 @@
       "A": 4,
       "C": 24,
       "G": 2,
-      "I": 2,
+      "I": 3,
       "L": 3,
       "N": 1,
       "P": 6
@@ -91,7 +92,7 @@
         "8": 1
       },
       "I": {
-        "5": 1,
+        "5": 2,
         "9": 1
       },
       "L": {
@@ -118,6 +119,7 @@
       "CL": 12,
       "GL": 2,
       "IC": 1,
+      "IL": 1,
       "IN": 1,
       "LA": 2,
       "LI": 1,

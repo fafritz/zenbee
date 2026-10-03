@@ -1,9 +1,9 @@
 {
   "pangram": "changed",
   "center_letter": "g",
-  "num_answers": 26,
+  "num_answers": 27,
   "num_pangrams": 1,
-  "possible_points": 125,
+  "possible_points": 126,
   "answer_pangrams": [
     "changed"
   ],
@@ -24,6 +24,7 @@
     "engage",
     "engaged",
     "gadded",
+    "gaga",
     "gagged",
     "gang",
     "ganged",
@@ -38,7 +39,7 @@
   "date": "2029-10-19",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 8,
       "5": 6,
       "6": 10,
       "7": 3
@@ -47,7 +48,7 @@
       "A": 3,
       "C": 6,
       "E": 6,
-      "G": 6,
+      "G": 7,
       "H": 4,
       "N": 1
     },
@@ -70,7 +71,7 @@
         "7": 2
       },
       "G": {
-        "4": 3,
+        "4": 4,
         "6": 3
       },
       "H": {
@@ -90,7 +91,7 @@
       "ED": 2,
       "EG": 2,
       "EN": 2,
-      "GA": 4,
+      "GA": 5,
       "GE": 2,
       "HA": 2,
       "HE": 2,

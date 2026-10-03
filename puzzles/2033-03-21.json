@@ -1,9 +1,9 @@
 {
   "pangram": "packing",
   "center_letter": "p",
-  "num_answers": 37,
+  "num_answers": 39,
   "num_pangrams": 4,
-  "possible_points": 233,
+  "possible_points": 244,
   "answer_pangrams": [
     "packaging",
     "packing",
@@ -30,6 +30,7 @@
     "pang",
     "panic",
     "panicking",
+    "panini",
     "panning",
     "papa",
     "pica",
@@ -44,6 +45,7 @@
     "pining",
     "pink",
     "pinking",
+    "pinna",
     "pinning",
     "piping",
     "pippin",
@@ -53,8 +55,8 @@
   "hints": {
     "by_length": {
       "4": 8,
-      "5": 3,
-      "6": 9,
+      "5": 4,
+      "6": 10,
       "7": 13,
       "9": 3,
       "10": 1
@@ -65,7 +67,7 @@
       "G": 1,
       "K": 1,
       "N": 3,
-      "P": 30
+      "P": 32
     },
     "grid": {
       "A": {
@@ -86,8 +88,8 @@
       },
       "P": {
         "4": 8,
-        "5": 2,
-        "6": 7,
+        "5": 3,
+        "6": 8,
         "7": 9,
         "9": 3,
         "10": 1
@@ -100,8 +102,8 @@
       "KI": 1,
       "NA": 2,
       "NI": 1,
-      "PA": 14,
-      "PI": 16
+      "PA": 15,
+      "PI": 17
     }
   }
 }

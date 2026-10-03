@@ -1,9 +1,9 @@
 {
   "pangram": "cabinet",
   "center_letter": "e",
-  "num_answers": 51,
+  "num_answers": 52,
   "num_pangrams": 1,
-  "possible_points": 206,
+  "possible_points": 212,
   "answer_pangrams": [
     "cabinet"
   ],
@@ -48,6 +48,7 @@
     "innate",
     "intent",
     "neat",
+    "neaten",
     "nene",
     "nice",
     "niece",
@@ -65,7 +66,7 @@
     "by_length": {
       "4": 23,
       "5": 6,
-      "6": 12,
+      "6": 13,
       "7": 6,
       "8": 4
     },
@@ -75,7 +76,7 @@
       "C": 7,
       "E": 4,
       "I": 5,
-      "N": 6,
+      "N": 7,
       "T": 6
     },
     "grid": {
@@ -109,6 +110,7 @@
       "N": {
         "4": 4,
         "5": 1,
+        "6": 1,
         "8": 1
       },
       "T": {
@@ -130,7 +132,7 @@
       "EA": 1,
       "EN": 3,
       "IN": 5,
-      "NE": 2,
+      "NE": 3,
       "NI": 4,
       "TE": 4,
       "TI": 2

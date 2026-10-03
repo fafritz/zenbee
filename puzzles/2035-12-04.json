@@ -1,9 +1,9 @@
 {
   "pangram": "okaying",
   "center_letter": "y",
-  "num_answers": 17,
+  "num_answers": 18,
   "num_pangrams": 1,
-  "possible_points": 85,
+  "possible_points": 86,
   "answer_pangrams": [
     "okaying"
   ],
@@ -20,6 +20,7 @@
     "okay",
     "okaying",
     "yakking",
+    "yang",
     "yank",
     "yanking",
     "yoga",
@@ -29,7 +30,7 @@
   "date": "2035-12-04",
   "hints": {
     "by_length": {
-      "4": 5,
+      "4": 6,
       "5": 6,
       "6": 1,
       "7": 3,
@@ -41,7 +42,7 @@
       "K": 3,
       "N": 2,
       "O": 2,
-      "Y": 6
+      "Y": 7
     },
     "grid": {
       "A": {
@@ -63,7 +64,7 @@
         "7": 1
       },
       "Y": {
-        "4": 3,
+        "4": 4,
         "6": 1,
         "7": 2
       }
@@ -77,7 +78,7 @@
       "NA": 1,
       "NI": 1,
       "OK": 2,
-      "YA": 3,
+      "YA": 4,
       "YO": 3
     }
   }

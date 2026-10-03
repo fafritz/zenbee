@@ -1,9 +1,9 @@
 {
   "pangram": "anxiety",
   "center_letter": "a",
-  "num_answers": 24,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 120,
+  "possible_points": 126,
   "answer_pangrams": [
     "anxiety"
   ],
@@ -26,6 +26,7 @@
     "nanny",
     "natty",
     "neat",
+    "neaten",
     "taint",
     "tannin",
     "tatty",
@@ -38,7 +39,7 @@
     "by_length": {
       "4": 6,
       "5": 8,
-      "6": 5,
+      "6": 6,
       "7": 3,
       "8": 2
     },
@@ -46,7 +47,7 @@
       "A": 7,
       "E": 2,
       "I": 4,
-      "N": 5,
+      "N": 6,
       "T": 6
     },
     "grid": {
@@ -69,7 +70,8 @@
       },
       "N": {
         "4": 3,
-        "5": 2
+        "5": 2,
+        "6": 1
       },
       "T": {
         "4": 1,
@@ -84,7 +86,7 @@
       "EX": 1,
       "IN": 4,
       "NA": 4,
-      "NE": 1,
+      "NE": 2,
       "TA": 4,
       "TE": 1,
       "TI": 1

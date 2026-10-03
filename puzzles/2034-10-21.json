@@ -1,9 +1,9 @@
 {
   "pangram": "elation",
   "center_letter": "o",
-  "num_answers": 71,
+  "num_answers": 74,
   "num_pangrams": 4,
-  "possible_points": 362,
+  "possible_points": 383,
   "answer_pangrams": [
     "alienation",
     "elation",
@@ -17,6 +17,7 @@
     "alone",
     "alto",
     "anion",
+    "annatto",
     "annotate",
     "annotation",
     "anoint",
@@ -26,6 +27,7 @@
     "atone",
     "attention",
     "elation",
+    "elote",
     "inattention",
     "initiation",
     "intention",
@@ -43,7 +45,6 @@
     "loll",
     "lone",
     "loon",
-    "loonie",
     "loot",
     "lotion",
     "lotto",
@@ -54,7 +55,9 @@
     "neonate",
     "noel",
     "none",
+    "nonillion",
     "noon",
+    "notate",
     "notation",
     "note",
     "notion",
@@ -87,20 +90,20 @@
   "hints": {
     "by_length": {
       "4": 27,
-      "5": 13,
+      "5": 14,
       "6": 10,
-      "7": 5,
+      "7": 6,
       "8": 7,
-      "9": 2,
+      "9": 3,
       "10": 4,
       "11": 3
     },
     "by_first_letter": {
-      "A": 14,
-      "E": 1,
+      "A": 15,
+      "E": 2,
       "I": 8,
-      "L": 13,
-      "N": 12,
+      "L": 12,
+      "N": 14,
       "O": 6,
       "T": 17
     },
@@ -109,11 +112,13 @@
         "4": 3,
         "5": 5,
         "6": 2,
+        "7": 1,
         "8": 1,
         "9": 1,
         "10": 2
       },
       "E": {
+        "5": 1,
         "7": 1
       },
       "I": {
@@ -126,14 +131,15 @@
       "L": {
         "4": 7,
         "5": 2,
-        "6": 2,
+        "6": 1,
         "7": 2
       },
       "N": {
         "4": 5,
-        "6": 2,
+        "6": 3,
         "7": 1,
-        "8": 4
+        "8": 4,
+        "9": 1
       },
       "O": {
         "4": 3,
@@ -151,19 +157,19 @@
     },
     "two_letter_list": {
       "AL": 5,
-      "AN": 5,
+      "AN": 6,
       "AT": 4,
-      "EL": 1,
+      "EL": 2,
       "IN": 7,
       "IO": 1,
       "LA": 1,
       "LE": 1,
       "LI": 1,
       "LL": 1,
-      "LO": 9,
+      "LO": 8,
       "NA": 2,
       "NE": 3,
-      "NO": 7,
+      "NO": 9,
       "OA": 1,
       "OL": 2,
       "ON": 3,

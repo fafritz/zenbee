@@ -1,9 +1,9 @@
 {
   "pangram": "flaying",
   "center_letter": "i",
-  "num_answers": 58,
+  "num_answers": 63,
   "num_pangrams": 1,
-  "possible_points": 344,
+  "possible_points": 369,
   "answer_pangrams": [
     "flaying"
   ],
@@ -34,12 +34,14 @@
     "flagging",
     "flail",
     "flailing",
+    "flanging",
     "flaying",
     "fling",
     "flinging",
     "flying",
     "gaffing",
     "gagging",
+    "gaily",
     "gain",
     "gaining",
     "galling",
@@ -57,11 +59,14 @@
     "inning",
     "lagging",
     "lain",
+    "lanai",
     "laying",
+    "lignin",
     "lily",
     "lining",
     "lying",
     "nagging",
+    "naif",
     "nail",
     "nailing",
     "niggling",
@@ -70,20 +75,20 @@
   "date": "2027-05-13",
   "hints": {
     "by_length": {
-      "4": 8,
-      "5": 11,
-      "6": 10,
+      "4": 9,
+      "5": 13,
+      "6": 11,
       "7": 19,
-      "8": 9,
+      "8": 10,
       "9": 1
     },
     "by_first_letter": {
       "A": 9,
-      "F": 21,
-      "G": 13,
+      "F": 22,
+      "G": 14,
       "I": 4,
-      "L": 6,
-      "N": 5
+      "L": 8,
+      "N": 6
     },
     "grid": {
       "A": {
@@ -97,11 +102,12 @@
         "5": 5,
         "6": 4,
         "7": 6,
-        "8": 3,
+        "8": 4,
         "9": 1
       },
       "G": {
         "4": 2,
+        "5": 1,
         "6": 1,
         "7": 8,
         "8": 2
@@ -114,12 +120,12 @@
       },
       "L": {
         "4": 2,
-        "5": 1,
-        "6": 2,
+        "5": 2,
+        "6": 3,
         "7": 1
       },
       "N": {
-        "4": 1,
+        "4": 2,
         "5": 1,
         "7": 2,
         "8": 1
@@ -132,15 +138,15 @@
       "AN": 2,
       "FA": 4,
       "FI": 10,
-      "FL": 7,
-      "GA": 8,
+      "FL": 8,
+      "GA": 9,
       "GI": 5,
       "IF": 1,
       "IN": 3,
-      "LA": 3,
-      "LI": 2,
+      "LA": 4,
+      "LI": 3,
       "LY": 1,
-      "NA": 3,
+      "NA": 4,
       "NI": 2
     }
   }

@@ -1,9 +1,9 @@
 {
   "pangram": "varying",
   "center_letter": "i",
-  "num_answers": 49,
+  "num_answers": 51,
   "num_pangrams": 1,
-  "possible_points": 295,
+  "possible_points": 312,
   "answer_pangrams": [
     "varying"
   ],
@@ -36,6 +36,8 @@
     "graying",
     "grin",
     "grinning",
+    "ingrain",
+    "ingraining",
     "inning",
     "nagging",
     "ninny",
@@ -64,15 +66,15 @@
       "4": 7,
       "5": 7,
       "6": 10,
-      "7": 17,
+      "7": 18,
       "8": 6,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 14,
       "G": 14,
-      "I": 1,
+      "I": 3,
       "N": 3,
       "R": 12,
       "V": 5
@@ -95,7 +97,9 @@
         "8": 2
       },
       "I": {
-        "6": 1
+        "6": 1,
+        "7": 1,
+        "10": 1
       },
       "N": {
         "5": 1,
@@ -124,7 +128,7 @@
       "GA": 5,
       "GI": 3,
       "GR": 6,
-      "IN": 1,
+      "IN": 3,
       "NA": 1,
       "NI": 2,
       "RA": 9,

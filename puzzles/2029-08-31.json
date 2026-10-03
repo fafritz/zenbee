@@ -1,15 +1,16 @@
 {
   "pangram": "clomped",
   "center_letter": "l",
-  "num_answers": 68,
+  "num_answers": 71,
   "num_pangrams": 2,
-  "possible_points": 301,
+  "possible_points": 313,
   "answer_pangrams": [
     "clomped",
     "compelled"
   ],
   "answers": [
     "cell",
+    "celled",
     "cello",
     "clod",
     "clomp",
@@ -32,8 +33,10 @@
     "dolloped",
     "doodle",
     "doodled",
+    "eeled",
     "elope",
     "eloped",
+    "lede",
     "loco",
     "lode",
     "loll",
@@ -81,18 +84,18 @@
   "date": "2029-08-31",
   "hints": {
     "by_length": {
-      "4": 26,
-      "5": 8,
-      "6": 21,
+      "4": 27,
+      "5": 9,
+      "6": 22,
       "7": 10,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
-      "C": 14,
+      "C": 15,
       "D": 9,
-      "E": 2,
-      "L": 11,
+      "E": 3,
+      "L": 12,
       "M": 11,
       "O": 1,
       "P": 20
@@ -101,7 +104,7 @@
       "C": {
         "4": 5,
         "5": 2,
-        "6": 3,
+        "6": 4,
         "7": 3,
         "9": 1
       },
@@ -113,11 +116,11 @@
         "8": 1
       },
       "E": {
-        "5": 1,
+        "5": 2,
         "6": 1
       },
       "L": {
-        "4": 6,
+        "4": 7,
         "5": 1,
         "6": 4
       },
@@ -139,12 +142,14 @@
       }
     },
     "two_letter_list": {
-      "CE": 2,
+      "CE": 3,
       "CL": 5,
       "CO": 7,
       "DE": 1,
       "DO": 8,
+      "EE": 1,
       "EL": 2,
+      "LE": 1,
       "LO": 11,
       "ME": 5,
       "MO": 6,

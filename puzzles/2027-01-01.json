@@ -1,9 +1,9 @@
 {
   "pangram": "vaguely",
   "center_letter": "u",
-  "num_answers": 18,
+  "num_answers": 19,
   "num_pangrams": 1,
-  "possible_points": 70,
+  "possible_points": 71,
   "answer_pangrams": [
     "vaguely"
   ],
@@ -17,6 +17,7 @@
     "gully",
     "league",
     "luau",
+    "luge",
     "luggage",
     "lull",
     "lulu",
@@ -30,7 +31,7 @@
   "date": "2027-01-01",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 9,
       "5": 7,
       "6": 1,
       "7": 2
@@ -38,7 +39,7 @@
     "by_first_letter": {
       "A": 1,
       "G": 6,
-      "L": 5,
+      "L": 6,
       "U": 2,
       "V": 3,
       "Y": 1
@@ -52,7 +53,7 @@
         "5": 4
       },
       "L": {
-        "4": 3,
+        "4": 4,
         "6": 1,
         "7": 1
       },
@@ -74,7 +75,7 @@
       "GL": 2,
       "GU": 3,
       "LE": 1,
-      "LU": 4,
+      "LU": 5,
       "UG": 1,
       "UV": 1,
       "VA": 3,

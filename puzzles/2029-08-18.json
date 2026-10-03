@@ -1,9 +1,9 @@
 {
   "pangram": "damping",
   "center_letter": "a",
-  "num_answers": 61,
+  "num_answers": 64,
   "num_pangrams": 1,
-  "possible_points": 296,
+  "possible_points": 312,
   "answer_pangrams": [
     "damping"
   ],
@@ -25,6 +25,7 @@
     "damp",
     "damping",
     "gadding",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -36,7 +37,6 @@
     "imaging",
     "imagining",
     "imam",
-    "ipad",
     "madam",
     "madman",
     "magma",
@@ -65,17 +65,20 @@
     "paid",
     "pain",
     "paining",
+    "pampa",
     "panda",
     "pang",
+    "panini",
     "panning",
-    "papa"
+    "papa",
+    "pinna"
   ],
   "date": "2029-08-18",
   "hints": {
     "by_length": {
       "4": 17,
-      "5": 15,
-      "6": 10,
+      "5": 17,
+      "6": 11,
       "7": 16,
       "8": 2,
       "9": 1
@@ -83,11 +86,11 @@
     "by_first_letter": {
       "A": 10,
       "D": 6,
-      "G": 9,
-      "I": 4,
+      "G": 10,
+      "I": 3,
       "M": 16,
       "N": 6,
-      "P": 10
+      "P": 13
     },
     "grid": {
       "A": {
@@ -101,13 +104,13 @@
         "8": 1
       },
       "G": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "6": 2,
         "7": 4
       },
       "I": {
-        "4": 2,
+        "4": 1,
         "7": 1,
         "9": 1
       },
@@ -126,8 +129,8 @@
       },
       "P": {
         "4": 4,
-        "5": 2,
-        "6": 1,
+        "5": 4,
+        "6": 2,
         "7": 3
       }
     },
@@ -139,13 +142,13 @@
       "AN": 1,
       "AP": 1,
       "DA": 6,
-      "GA": 9,
+      "GA": 10,
       "IM": 3,
-      "IP": 1,
       "MA": 15,
       "MI": 1,
       "NA": 6,
-      "PA": 10
+      "PA": 12,
+      "PI": 1
     }
   }
 }

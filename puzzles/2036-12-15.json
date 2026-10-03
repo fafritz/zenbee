@@ -1,9 +1,9 @@
 {
   "pangram": "helping",
   "center_letter": "h",
-  "num_answers": 17,
+  "num_answers": 16,
   "num_pangrams": 1,
-  "possible_points": 80,
+  "possible_points": 79,
   "answer_pangrams": [
     "helping"
   ],
@@ -17,7 +17,6 @@
     "hieing",
     "high",
     "hill",
-    "hing",
     "hinge",
     "hinging",
     "hippie",
@@ -29,19 +28,19 @@
   "date": "2036-12-15",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 6,
       "5": 2,
       "6": 2,
       "7": 4,
       "8": 2
     },
     "by_first_letter": {
-      "H": 14,
+      "H": 13,
       "N": 3
     },
     "grid": {
       "H": {
-        "4": 6,
+        "4": 5,
         "5": 1,
         "6": 2,
         "7": 4,
@@ -55,7 +54,7 @@
     },
     "two_letter_list": {
       "HE": 6,
-      "HI": 8,
+      "HI": 7,
       "NE": 2,
       "NI": 1
     }

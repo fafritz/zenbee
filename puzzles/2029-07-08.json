@@ -1,9 +1,9 @@
 {
   "pangram": "choking",
   "center_letter": "c",
-  "num_answers": 43,
+  "num_answers": 46,
   "num_pangrams": 3,
-  "possible_points": 237,
+  "possible_points": 255,
   "answer_pangrams": [
     "chocking",
     "choking",
@@ -27,6 +27,7 @@
     "cocking",
     "cocoon",
     "cocooning",
+    "cogging",
     "coin",
     "coining",
     "coking",
@@ -45,8 +46,10 @@
     "hooch",
     "icing",
     "icon",
+    "iconic",
     "inch",
     "inching",
+    "ionic",
     "kick",
     "kicking",
     "knock",
@@ -58,16 +61,16 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 11,
-      "6": 4,
-      "7": 11,
+      "5": 12,
+      "6": 5,
+      "7": 12,
       "8": 5,
       "9": 1
     },
     "by_first_letter": {
-      "C": 28,
+      "C": 29,
       "H": 5,
-      "I": 4,
+      "I": 6,
       "K": 4,
       "N": 2
     },
@@ -76,7 +79,7 @@
         "4": 5,
         "5": 8,
         "6": 3,
-        "7": 7,
+        "7": 8,
         "8": 4,
         "9": 1
       },
@@ -88,7 +91,8 @@
       },
       "I": {
         "4": 2,
-        "5": 1,
+        "5": 2,
+        "6": 1,
         "7": 1
       },
       "K": {
@@ -105,11 +109,12 @@
     "two_letter_list": {
       "CH": 11,
       "CI": 2,
-      "CO": 15,
+      "CO": 16,
       "HI": 1,
       "HO": 4,
-      "IC": 2,
+      "IC": 3,
       "IN": 2,
+      "IO": 1,
       "KI": 2,
       "KN": 2,
       "NI": 2

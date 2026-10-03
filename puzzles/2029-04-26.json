@@ -1,9 +1,9 @@
 {
   "pangram": "clothed",
   "center_letter": "c",
-  "num_answers": 43,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 196,
+  "possible_points": 202,
   "answer_pangrams": [
     "clothed"
   ],
@@ -11,6 +11,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "cello",
     "cloche",
     "clod",
@@ -57,13 +58,13 @@
     "by_length": {
       "4": 15,
       "5": 9,
-      "6": 9,
+      "6": 10,
       "7": 7,
       "8": 1,
       "9": 2
     },
     "by_first_letter": {
-      "C": 25,
+      "C": 26,
       "D": 5,
       "E": 6,
       "H": 1,
@@ -75,7 +76,7 @@
       "C": {
         "4": 11,
         "5": 5,
-        "6": 4,
+        "6": 5,
         "7": 4,
         "9": 1
       },
@@ -108,7 +109,7 @@
       }
     },
     "two_letter_list": {
-      "CE": 4,
+      "CE": 5,
       "CL": 7,
       "CO": 14,
       "DE": 5,

@@ -1,9 +1,9 @@
 {
   "pangram": "braking",
   "center_letter": "a",
-  "num_answers": 69,
+  "num_answers": 73,
   "num_pangrams": 2,
-  "possible_points": 366,
+  "possible_points": 390,
   "answer_pangrams": [
     "barking",
     "braking"
@@ -51,6 +51,7 @@
     "bran",
     "briar",
     "gabbing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -62,6 +63,9 @@
     "grab",
     "grabbing",
     "grain",
+    "ingrain",
+    "ingraining",
+    "kanban",
     "naan",
     "nabbing",
     "nagging",
@@ -82,18 +86,20 @@
   "date": "2038-05-02",
   "hints": {
     "by_length": {
-      "4": 21,
+      "4": 22,
       "5": 6,
-      "6": 10,
-      "7": 22,
+      "6": 11,
+      "7": 23,
       "8": 5,
       "9": 3,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 12,
       "B": 29,
-      "G": 12,
+      "G": 13,
+      "I": 2,
+      "K": 1,
       "N": 4,
       "R": 12
     },
@@ -117,10 +123,17 @@
         "10": 1
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "5": 1,
         "7": 5,
         "8": 2
+      },
+      "I": {
+        "7": 1,
+        "10": 1
+      },
+      "K": {
+        "6": 1
       },
       "N": {
         "4": 2,
@@ -141,8 +154,10 @@
       "AR": 4,
       "BA": 22,
       "BR": 7,
-      "GA": 9,
+      "GA": 10,
       "GR": 3,
+      "IN": 2,
+      "KA": 1,
       "NA": 4,
       "RA": 12
     }

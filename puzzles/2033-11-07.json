@@ -1,9 +1,9 @@
 {
   "pangram": "healing",
   "center_letter": "i",
-  "num_answers": 75,
+  "num_answers": 78,
   "num_pangrams": 1,
-  "possible_points": 435,
+  "possible_points": 458,
   "answer_pangrams": [
     "healing"
   ],
@@ -18,7 +18,9 @@
     "alleging",
     "angina",
     "angling",
+    "aniline",
     "annealing",
+    "eeling",
     "egging",
     "engaging",
     "engine",
@@ -52,7 +54,6 @@
     "hieing",
     "high",
     "hill",
-    "hing",
     "hinge",
     "hinging",
     "illegal",
@@ -63,10 +64,12 @@
     "inning",
     "lagging",
     "lain",
+    "lanai",
     "leaning",
     "legging",
     "liege",
     "lien",
+    "lignin",
     "linage",
     "line",
     "lineage",
@@ -87,32 +90,32 @@
   "date": "2033-11-07",
   "hints": {
     "by_length": {
-      "4": 12,
-      "5": 12,
-      "6": 16,
-      "7": 21,
+      "4": 11,
+      "5": 13,
+      "6": 18,
+      "7": 22,
       "8": 13,
       "9": 1
     },
     "by_first_letter": {
-      "A": 11,
-      "E": 3,
+      "A": 12,
+      "E": 4,
       "G": 18,
-      "H": 15,
+      "H": 14,
       "I": 6,
-      "L": 12,
+      "L": 14,
       "N": 10
     },
     "grid": {
       "A": {
         "5": 5,
         "6": 2,
-        "7": 1,
+        "7": 2,
         "8": 2,
         "9": 1
       },
       "E": {
-        "6": 2,
+        "6": 3,
         "8": 1
       },
       "G": {
@@ -123,7 +126,7 @@
         "8": 3
       },
       "H": {
-        "4": 4,
+        "4": 3,
         "5": 1,
         "6": 2,
         "7": 5,
@@ -137,8 +140,8 @@
       },
       "L": {
         "4": 3,
-        "5": 2,
-        "6": 3,
+        "5": 3,
+        "6": 4,
         "7": 4
       },
       "N": {
@@ -153,7 +156,8 @@
       "AG": 3,
       "AI": 1,
       "AL": 4,
-      "AN": 3,
+      "AN": 4,
+      "EE": 1,
       "EG": 1,
       "EN": 2,
       "GA": 7,
@@ -162,12 +166,12 @@
       "GL": 1,
       "HA": 6,
       "HE": 3,
-      "HI": 6,
+      "HI": 5,
       "IL": 1,
       "IN": 5,
-      "LA": 2,
+      "LA": 3,
       "LE": 2,
-      "LI": 8,
+      "LI": 9,
       "NA": 3,
       "NE": 3,
       "NI": 4

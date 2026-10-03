@@ -1,9 +1,9 @@
 {
   "pangram": "inflame",
   "center_letter": "f",
-  "num_answers": 36,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 145,
+  "possible_points": 158,
   "answer_pangrams": [
     "inflame"
   ],
@@ -12,6 +12,7 @@
     "alfalfa",
     "elfin",
     "fail",
+    "falafel",
     "fall",
     "fallen",
     "fame",
@@ -20,6 +21,7 @@
     "feel",
     "feline",
     "fell",
+    "fella",
     "female",
     "feminine",
     "fennel",
@@ -43,24 +45,26 @@
     "leaf",
     "life",
     "lifeline",
-    "miff"
+    "miff",
+    "naif"
   ],
   "date": "2031-10-13",
   "hints": {
     "by_length": {
-      "4": 17,
-      "5": 4,
+      "4": 18,
+      "5": 5,
       "6": 8,
-      "7": 3,
+      "7": 4,
       "8": 4
     },
     "by_first_letter": {
       "A": 2,
       "E": 1,
-      "F": 28,
+      "F": 30,
       "I": 1,
       "L": 3,
-      "M": 1
+      "M": 1,
+      "N": 1
     },
     "grid": {
       "A": {
@@ -72,9 +76,9 @@
       },
       "F": {
         "4": 14,
-        "5": 3,
+        "5": 4,
         "6": 7,
-        "7": 1,
+        "7": 2,
         "8": 3
       },
       "I": {
@@ -86,20 +90,24 @@
       },
       "M": {
         "4": 1
+      },
+      "N": {
+        "4": 1
       }
     },
     "two_letter_list": {
       "AF": 1,
       "AL": 1,
       "EL": 1,
-      "FA": 6,
-      "FE": 6,
+      "FA": 7,
+      "FE": 7,
       "FI": 9,
       "FL": 7,
       "IN": 1,
       "LE": 1,
       "LI": 2,
-      "MI": 1
+      "MI": 1,
+      "NA": 1
     }
   }
 }

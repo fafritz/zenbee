@@ -3,12 +3,13 @@
   "center_letter": "l",
   "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 129,
+  "possible_points": 128,
   "answer_pangrams": [
     "opulent"
   ],
   "answers": [
     "elope",
+    "elote",
     "lent",
     "letup",
     "loll",
@@ -45,7 +46,6 @@
     "pullout",
     "pulp",
     "tell",
-    "telnet",
     "toll",
     "tool",
     "topple",
@@ -56,21 +56,21 @@
   "hints": {
     "by_length": {
       "4": 27,
-      "5": 4,
-      "6": 9,
+      "5": 5,
+      "6": 8,
       "7": 3
     },
     "by_first_letter": {
-      "E": 1,
+      "E": 2,
       "L": 13,
       "N": 3,
       "O": 3,
       "P": 16,
-      "T": 7
+      "T": 6
     },
     "grid": {
       "E": {
-        "5": 1
+        "5": 2
       },
       "L": {
         "4": 11,
@@ -93,11 +93,11 @@
       "T": {
         "4": 3,
         "5": 1,
-        "6": 3
+        "6": 2
       }
     },
     "two_letter_list": {
-      "EL": 1,
+      "EL": 2,
       "LE": 2,
       "LO": 8,
       "LU": 3,
@@ -111,7 +111,7 @@
       "PL": 2,
       "PO": 6,
       "PU": 4,
-      "TE": 2,
+      "TE": 1,
       "TO": 3,
       "TU": 2
     }

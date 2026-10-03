@@ -1,9 +1,9 @@
 {
   "pangram": "pinhead",
   "center_letter": "e",
-  "num_answers": 79,
+  "num_answers": 81,
   "num_pangrams": 1,
-  "possible_points": 353,
+  "possible_points": 364,
   "answer_pangrams": [
     "pinhead"
   ],
@@ -77,12 +77,14 @@
     "peen",
     "peep",
     "peeped",
+    "penne",
     "penned",
     "pepped",
     "pied",
     "pine",
     "pined",
     "pinhead",
+    "pinnae",
     "pinned",
     "pipe",
     "piped",
@@ -92,8 +94,8 @@
   "hints": {
     "by_length": {
       "4": 27,
-      "5": 11,
-      "6": 31,
+      "5": 12,
+      "6": 32,
       "7": 4,
       "8": 5,
       "10": 1
@@ -105,7 +107,7 @@
       "H": 17,
       "I": 3,
       "N": 8,
-      "P": 20
+      "P": 22
     },
     "grid": {
       "A": {
@@ -146,8 +148,8 @@
       },
       "P": {
         "4": 7,
-        "5": 3,
-        "6": 9,
+        "5": 4,
+        "6": 10,
         "7": 1
       }
     },
@@ -170,8 +172,8 @@
       "NE": 4,
       "NI": 2,
       "PA": 5,
-      "PE": 7,
-      "PI": 8
+      "PE": 8,
+      "PI": 9
     }
   }
 }

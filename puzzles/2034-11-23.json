@@ -1,14 +1,15 @@
 {
   "pangram": "janitor",
   "center_letter": "n",
-  "num_answers": 46,
+  "num_answers": 52,
   "num_pangrams": 1,
-  "possible_points": 234,
+  "possible_points": 255,
   "answer_pangrams": [
     "janitor"
   ],
   "answers": [
     "anion",
+    "annatto",
     "annotation",
     "anoint",
     "anon",
@@ -34,7 +35,9 @@
     "narrator",
     "nation",
     "ninja",
+    "noir",
     "noon",
+    "nori",
     "notation",
     "notion",
     "onion",
@@ -45,9 +48,12 @@
     "ration",
     "rattan",
     "roan",
+    "ronin",
     "rotation",
     "taint",
     "tannin",
+    "tantra",
+    "tarn",
     "tartan",
     "tint",
     "titan",
@@ -58,28 +64,29 @@
   "date": "2034-11-23",
   "hints": {
     "by_length": {
-      "4": 15,
-      "5": 9,
-      "6": 9,
-      "7": 2,
+      "4": 18,
+      "5": 10,
+      "6": 10,
+      "7": 3,
       "8": 4,
       "9": 3,
       "10": 4
     },
     "by_first_letter": {
-      "A": 8,
+      "A": 9,
       "I": 8,
       "J": 4,
-      "N": 9,
+      "N": 11,
       "O": 3,
-      "R": 6,
-      "T": 8
+      "R": 7,
+      "T": 10
     },
     "grid": {
       "A": {
         "4": 2,
         "5": 1,
         "6": 3,
+        "7": 1,
         "9": 1,
         "10": 1
       },
@@ -96,7 +103,7 @@
         "7": 1
       },
       "N": {
-        "4": 3,
+        "4": 5,
         "5": 1,
         "6": 2,
         "8": 2,
@@ -109,17 +116,18 @@
       },
       "R": {
         "4": 3,
+        "5": 1,
         "6": 2,
         "8": 1
       },
       "T": {
-        "4": 3,
+        "4": 4,
         "5": 3,
-        "6": 2
+        "6": 3
       }
     },
     "two_letter_list": {
-      "AN": 5,
+      "AN": 6,
       "AR": 1,
       "AT": 2,
       "IN": 5,
@@ -129,12 +137,12 @@
       "JO": 2,
       "NA": 5,
       "NI": 1,
-      "NO": 3,
+      "NO": 5,
       "ON": 2,
       "OR": 1,
       "RA": 4,
-      "RO": 2,
-      "TA": 3,
+      "RO": 3,
+      "TA": 5,
       "TI": 2,
       "TO": 2,
       "TR": 1

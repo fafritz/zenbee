@@ -1,9 +1,9 @@
 {
   "pangram": "vouched",
   "center_letter": "d",
-  "num_answers": 32,
+  "num_answers": 33,
   "num_pangrams": 1,
-  "possible_points": 148,
+  "possible_points": 153,
   "answer_pangrams": [
     "vouched"
   ],
@@ -23,13 +23,14 @@
     "deed",
     "deeded",
     "deuce",
+    "deuced",
     "dodo",
-    "douche",
     "douched",
     "dove",
     "dude",
     "duded",
     "echoed",
+    "educe",
     "heed",
     "heeded",
     "hoed",
@@ -45,7 +46,7 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 5,
+      "5": 6,
       "6": 9,
       "7": 5,
       "8": 2
@@ -53,7 +54,7 @@
     "by_first_letter": {
       "C": 8,
       "D": 13,
-      "E": 1,
+      "E": 2,
       "H": 7,
       "V": 3
     },
@@ -70,6 +71,7 @@
         "7": 3
       },
       "E": {
+        "5": 1,
         "6": 1
       },
       "H": {
@@ -87,10 +89,11 @@
       "CE": 2,
       "CO": 5,
       "CU": 1,
-      "DE": 7,
-      "DO": 4,
+      "DE": 8,
+      "DO": 3,
       "DU": 2,
       "EC": 1,
+      "ED": 1,
       "HE": 2,
       "HO": 5,
       "VO": 3

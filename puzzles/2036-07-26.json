@@ -1,9 +1,9 @@
 {
   "pangram": "plagued",
   "center_letter": "a",
-  "num_answers": 79,
+  "num_answers": 81,
   "num_pangrams": 1,
-  "possible_points": 357,
+  "possible_points": 364,
   "answer_pangrams": [
     "plagued"
   ],
@@ -19,6 +19,7 @@
     "algae",
     "allege",
     "alleged",
+    "allele",
     "allude",
     "alluded",
     "aped",
@@ -37,6 +38,7 @@
     "dual",
     "eagle",
     "gadded",
+    "gaga",
     "gagged",
     "gaggle",
     "gala",
@@ -91,18 +93,18 @@
   "date": "2036-07-26",
   "hints": {
     "by_length": {
-      "4": 24,
+      "4": 25,
       "5": 20,
-      "6": 23,
+      "6": 24,
       "7": 9,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
-      "A": 21,
+      "A": 22,
       "D": 6,
       "E": 1,
-      "G": 13,
+      "G": 14,
       "L": 16,
       "P": 22
     },
@@ -110,7 +112,7 @@
       "A": {
         "4": 4,
         "5": 6,
-        "6": 5,
+        "6": 6,
         "7": 3,
         "8": 2,
         "9": 1
@@ -124,7 +126,7 @@
         "5": 1
       },
       "G": {
-        "4": 5,
+        "4": 6,
         "5": 3,
         "6": 5
       },
@@ -144,13 +146,13 @@
     "two_letter_list": {
       "AD": 4,
       "AG": 3,
-      "AL": 6,
+      "AL": 7,
       "AP": 8,
       "DA": 3,
       "DE": 2,
       "DU": 1,
       "EA": 1,
-      "GA": 11,
+      "GA": 12,
       "GL": 2,
       "LA": 7,
       "LE": 7,

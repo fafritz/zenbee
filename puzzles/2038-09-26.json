@@ -1,9 +1,9 @@
 {
   "pangram": "backing",
   "center_letter": "i",
-  "num_answers": 46,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 268,
+  "possible_points": 283,
   "answer_pangrams": [
     "backing"
   ],
@@ -24,9 +24,11 @@
     "banning",
     "biking",
     "bikini",
+    "binging",
     "binning",
     "cabbing",
     "cabin",
+    "cabining",
     "caging",
     "caking",
     "caning",
@@ -61,14 +63,14 @@
       "4": 7,
       "5": 5,
       "6": 13,
-      "7": 19,
-      "8": 1,
+      "7": 20,
+      "8": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 7,
-      "B": 10,
-      "C": 6,
+      "B": 11,
+      "C": 7,
       "G": 8,
       "I": 3,
       "K": 7,
@@ -82,12 +84,13 @@
       },
       "B": {
         "6": 4,
-        "7": 6
+        "7": 7
       },
       "C": {
         "5": 1,
         "6": 3,
-        "7": 2
+        "7": 2,
+        "8": 1
       },
       "G": {
         "4": 1,
@@ -116,8 +119,8 @@
       "AK": 1,
       "AN": 1,
       "BA": 7,
-      "BI": 3,
-      "CA": 6,
+      "BI": 4,
+      "CA": 7,
       "GA": 5,
       "GI": 3,
       "IC": 1,

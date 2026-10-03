@@ -1,9 +1,9 @@
 {
   "pangram": "pickled",
   "center_letter": "i",
-  "num_answers": 58,
+  "num_answers": 60,
   "num_pangrams": 1,
-  "possible_points": 243,
+  "possible_points": 255,
   "answer_pangrams": [
     "pickled"
   ],
@@ -14,6 +14,7 @@
     "clipped",
     "decide",
     "decided",
+    "decile",
     "deice",
     "deiced",
     "deli",
@@ -47,6 +48,7 @@
     "like",
     "liked",
     "lipid",
+    "lipped",
     "pick",
     "picked",
     "pickle",
@@ -72,16 +74,16 @@
     "by_length": {
       "4": 21,
       "5": 13,
-      "6": 18,
+      "6": 20,
       "7": 6
     },
     "by_first_letter": {
       "C": 4,
-      "D": 14,
+      "D": 15,
       "E": 4,
       "I": 4,
       "K": 5,
-      "L": 8,
+      "L": 9,
       "P": 19
     },
     "grid": {
@@ -93,7 +95,7 @@
       "D": {
         "4": 5,
         "5": 3,
-        "6": 4,
+        "6": 5,
         "7": 2
       },
       "E": {
@@ -113,7 +115,7 @@
       "L": {
         "4": 4,
         "5": 2,
-        "6": 2
+        "6": 3
       },
       "P": {
         "4": 6,
@@ -124,7 +126,7 @@
     },
     "two_letter_list": {
       "CL": 4,
-      "DE": 5,
+      "DE": 6,
       "DI": 9,
       "ED": 1,
       "EL": 2,
@@ -132,7 +134,7 @@
       "IC": 2,
       "ID": 2,
       "KI": 5,
-      "LI": 8,
+      "LI": 9,
       "PI": 18,
       "PL": 1
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "blunted",
   "center_letter": "l",
-  "num_answers": 53,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 245,
+  "possible_points": 251,
   "answer_pangrams": [
     "blunted"
   ],
@@ -27,6 +27,7 @@
     "bubble",
     "bubbled",
     "bulb",
+    "bulbed",
     "bull",
     "bulled",
     "bullet",
@@ -41,8 +42,10 @@
     "dueled",
     "dull",
     "dulled",
+    "eeled",
     "elude",
     "eluded",
+    "lede",
     "lend",
     "lent",
     "lube",
@@ -57,7 +60,6 @@
     "nettled",
     "null",
     "tell",
-    "telnet",
     "tulle",
     "tunnel",
     "tunneled"
@@ -65,25 +67,25 @@
   "date": "2038-05-17",
   "hints": {
     "by_length": {
-      "4": 17,
-      "5": 8,
+      "4": 18,
+      "5": 9,
       "6": 17,
       "7": 9,
       "8": 2
     },
     "by_first_letter": {
-      "B": 24,
+      "B": 25,
       "D": 9,
-      "E": 2,
-      "L": 8,
+      "E": 3,
+      "L": 9,
       "N": 5,
-      "T": 5
+      "T": 4
     },
     "grid": {
       "B": {
         "4": 6,
         "5": 5,
-        "6": 7,
+        "6": 8,
         "7": 5,
         "8": 1
       },
@@ -93,11 +95,11 @@
         "7": 2
       },
       "E": {
-        "5": 1,
+        "5": 2,
         "6": 1
       },
       "L": {
-        "4": 6,
+        "4": 7,
         "5": 1,
         "6": 1
       },
@@ -109,22 +111,23 @@
       "T": {
         "4": 1,
         "5": 1,
-        "6": 2,
+        "6": 1,
         "8": 1
       }
     },
     "two_letter_list": {
       "BE": 7,
       "BL": 9,
-      "BU": 8,
+      "BU": 9,
       "DE": 5,
       "DU": 4,
+      "EE": 1,
       "EL": 2,
-      "LE": 2,
+      "LE": 3,
       "LU": 6,
       "NE": 4,
       "NU": 1,
-      "TE": 2,
+      "TE": 1,
       "TU": 3
     }
   }

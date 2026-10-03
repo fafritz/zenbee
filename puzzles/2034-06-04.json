@@ -1,9 +1,9 @@
 {
   "pangram": "coughed",
   "center_letter": "h",
-  "num_answers": 27,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 138,
+  "possible_points": 132,
   "answer_pangrams": [
     "coughed"
   ],
@@ -14,7 +14,6 @@
     "couched",
     "cough",
     "coughed",
-    "douche",
     "douched",
     "dough",
     "echo",
@@ -41,13 +40,13 @@
     "by_length": {
       "4": 7,
       "5": 5,
-      "6": 8,
+      "6": 7,
       "7": 5,
       "8": 2
     },
     "by_first_letter": {
       "C": 6,
-      "D": 3,
+      "D": 2,
       "E": 2,
       "G": 1,
       "H": 14,
@@ -61,7 +60,6 @@
       },
       "D": {
         "5": 1,
-        "6": 1,
         "7": 1
       },
       "E": {
@@ -84,7 +82,7 @@
     "two_letter_list": {
       "CH": 2,
       "CO": 4,
-      "DO": 3,
+      "DO": 2,
       "EC": 2,
       "GO": 1,
       "HE": 5,

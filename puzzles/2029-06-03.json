@@ -1,9 +1,9 @@
 {
   "pangram": "ambient",
   "center_letter": "n",
-  "num_answers": 70,
+  "num_answers": 71,
   "num_pangrams": 1,
-  "possible_points": 331,
+  "possible_points": 337,
   "answer_pangrams": [
     "ambient"
   ],
@@ -64,6 +64,7 @@
     "name",
     "nana",
     "neat",
+    "neaten",
     "nene",
     "nimbi",
     "nine",
@@ -84,7 +85,7 @@
     "by_length": {
       "4": 24,
       "5": 12,
-      "6": 14,
+      "6": 15,
       "7": 8,
       "8": 9,
       "9": 2,
@@ -96,7 +97,7 @@
       "E": 5,
       "I": 9,
       "M": 17,
-      "N": 8,
+      "N": 9,
       "T": 10
     },
     "grid": {
@@ -133,6 +134,7 @@
       "N": {
         "4": 6,
         "5": 1,
+        "6": 1,
         "8": 1
       },
       "T": {
@@ -159,7 +161,7 @@
       "ME": 3,
       "MI": 7,
       "NA": 3,
-      "NE": 2,
+      "NE": 3,
       "NI": 3,
       "TA": 2,
       "TE": 5,

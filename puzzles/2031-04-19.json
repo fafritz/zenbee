@@ -3,12 +3,13 @@
   "center_letter": "t",
   "num_answers": 68,
   "num_pangrams": 1,
-  "possible_points": 274,
+  "possible_points": 273,
   "answer_pangrams": [
     "hotline"
   ],
   "answers": [
     "elite",
+    "elote",
     "entente",
     "entitle",
     "helot",
@@ -49,7 +50,6 @@
     "teethe",
     "telethon",
     "tell",
-    "telnet",
     "tenet",
     "tenon",
     "tent",
@@ -81,25 +81,25 @@
   "hints": {
     "by_length": {
       "4": 29,
-      "5": 16,
-      "6": 13,
+      "5": 17,
+      "6": 12,
       "7": 4,
       "8": 3,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "E": 3,
+      "E": 4,
       "H": 6,
       "I": 6,
       "L": 13,
       "N": 7,
       "O": 1,
-      "T": 32
+      "T": 31
     },
     "grid": {
       "E": {
-        "5": 1,
+        "5": 2,
         "7": 2
       },
       "H": {
@@ -133,12 +133,12 @@
       "T": {
         "4": 18,
         "5": 8,
-        "6": 4,
+        "6": 3,
         "8": 2
       }
     },
     "two_letter_list": {
-      "EL": 1,
+      "EL": 2,
       "EN": 2,
       "HE": 1,
       "HI": 2,
@@ -151,7 +151,7 @@
       "NI": 4,
       "NO": 2,
       "ON": 1,
-      "TE": 10,
+      "TE": 9,
       "TH": 4,
       "TI": 8,
       "TO": 10

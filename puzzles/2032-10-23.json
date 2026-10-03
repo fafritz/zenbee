@@ -1,13 +1,14 @@
 {
   "pangram": "flexing",
   "center_letter": "l",
-  "num_answers": 37,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 182,
+  "possible_points": 194,
   "answer_pangrams": [
     "flexing"
   ],
   "answers": [
+    "eeling",
     "elfin",
     "exile",
     "exiling",
@@ -39,6 +40,7 @@
     "lien",
     "life",
     "lifeline",
+    "lignin",
     "line",
     "linen",
     "lining",
@@ -51,21 +53,22 @@
     "by_length": {
       "4": 12,
       "5": 5,
-      "6": 7,
+      "6": 9,
       "7": 8,
       "8": 5
     },
     "by_first_letter": {
-      "E": 3,
+      "E": 4,
       "F": 16,
       "G": 6,
       "I": 1,
-      "L": 8,
+      "L": 9,
       "N": 3
     },
     "grid": {
       "E": {
         "5": 2,
+        "6": 1,
         "7": 1
       },
       "F": {
@@ -87,7 +90,7 @@
       "L": {
         "4": 3,
         "5": 2,
-        "6": 1,
+        "6": 2,
         "7": 1,
         "8": 1
       },
@@ -97,6 +100,7 @@
       }
     },
     "two_letter_list": {
+      "EE": 1,
       "EL": 1,
       "EX": 2,
       "FE": 6,
@@ -107,7 +111,7 @@
       "GL": 2,
       "IN": 1,
       "LE": 1,
-      "LI": 7,
+      "LI": 8,
       "NE": 1,
       "NI": 2
     }

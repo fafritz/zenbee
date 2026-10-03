@@ -1,9 +1,9 @@
 {
   "pangram": "painful",
   "center_letter": "p",
-  "num_answers": 26,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 99,
+  "possible_points": 110,
   "answer_pangrams": [
     "painful"
   ],
@@ -17,11 +17,13 @@
     "pain",
     "painful",
     "pall",
+    "panini",
     "papa",
     "papal",
     "papilla",
     "pilaf",
     "pill",
+    "pinna",
     "pinup",
     "pippin",
     "plain",
@@ -39,14 +41,14 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 7,
-      "6": 4,
+      "5": 8,
+      "6": 5,
       "7": 3
     },
     "by_first_letter": {
       "A": 1,
       "F": 3,
-      "P": 21,
+      "P": 23,
       "U": 1
     },
     "grid": {
@@ -59,8 +61,8 @@
       },
       "P": {
         "4": 10,
-        "5": 6,
-        "6": 2,
+        "5": 7,
+        "6": 3,
         "7": 3
       },
       "U": {
@@ -71,8 +73,8 @@
       "AP": 1,
       "FI": 1,
       "FL": 2,
-      "PA": 8,
-      "PI": 4,
+      "PA": 9,
+      "PI": 5,
       "PL": 2,
       "PU": 7,
       "UN": 1

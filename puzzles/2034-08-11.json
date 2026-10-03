@@ -1,9 +1,9 @@
 {
   "pangram": "unloved",
   "center_letter": "e",
-  "num_answers": 75,
+  "num_answers": 76,
   "num_pangrams": 1,
-  "possible_points": 338,
+  "possible_points": 339,
   "answer_pangrams": [
     "unloved"
   ],
@@ -34,16 +34,17 @@
     "dulled",
     "dune",
     "dunned",
+    "eeled",
     "eleven",
     "elude",
     "eluded",
     "ended",
-    "endue",
     "endued",
     "even",
     "evened",
     "evolve",
     "evolved",
+    "lede",
     "lend",
     "levee",
     "level",
@@ -87,7 +88,7 @@
   "date": "2034-08-11",
   "hints": {
     "by_length": {
-      "4": 24,
+      "4": 25,
       "5": 14,
       "6": 25,
       "7": 9,
@@ -96,7 +97,7 @@
     "by_first_letter": {
       "D": 26,
       "E": 10,
-      "L": 10,
+      "L": 11,
       "N": 14,
       "O": 4,
       "U": 5,
@@ -117,7 +118,7 @@
         "7": 1
       },
       "L": {
-        "4": 4,
+        "4": 5,
         "5": 3,
         "6": 2,
         "7": 1
@@ -149,10 +150,11 @@
       "DE": 11,
       "DO": 8,
       "DU": 7,
+      "EE": 1,
       "EL": 3,
-      "EN": 3,
+      "EN": 2,
       "EV": 4,
-      "LE": 4,
+      "LE": 5,
       "LO": 5,
       "LU": 1,
       "NE": 6,

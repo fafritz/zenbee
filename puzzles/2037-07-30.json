@@ -1,9 +1,9 @@
 {
   "pangram": "unkempt",
   "center_letter": "p",
-  "num_answers": 19,
+  "num_answers": 20,
   "num_pangrams": 1,
-  "possible_points": 56,
+  "possible_points": 61,
   "answer_pangrams": [
     "unkempt"
   ],
@@ -14,6 +14,7 @@
     "peek",
     "peen",
     "peep",
+    "penne",
     "pent",
     "puke",
     "pump",
@@ -32,14 +33,14 @@
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 2,
+      "5": 3,
       "6": 2,
       "7": 2
     },
     "by_first_letter": {
       "E": 1,
       "K": 2,
-      "P": 10,
+      "P": 11,
       "T": 3,
       "U": 3
     },
@@ -52,6 +53,7 @@
       },
       "P": {
         "4": 9,
+        "5": 1,
         "6": 1
       },
       "T": {
@@ -66,7 +68,7 @@
     "two_letter_list": {
       "EP": 1,
       "KE": 2,
-      "PE": 4,
+      "PE": 5,
       "PU": 6,
       "TE": 3,
       "UM": 1,

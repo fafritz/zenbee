@@ -1,9 +1,9 @@
 {
   "pangram": "dynamic",
   "center_letter": "i",
-  "num_answers": 30,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 132,
+  "possible_points": 141,
   "answer_pangrams": [
     "dynamic"
   ],
@@ -21,6 +21,7 @@
     "dyadic",
     "dynamic",
     "imam",
+    "macadamia",
     "maid",
     "maim",
     "main",
@@ -46,14 +47,14 @@
       "5": 9,
       "6": 9,
       "7": 1,
-      "9": 1
+      "9": 2
     },
     "by_first_letter": {
       "A": 6,
       "C": 4,
       "D": 2,
       "I": 1,
-      "M": 14,
+      "M": 15,
       "N": 3
     },
     "grid": {
@@ -77,7 +78,8 @@
       "M": {
         "4": 6,
         "5": 5,
-        "6": 3
+        "6": 3,
+        "9": 1
       },
       "N": {
         "5": 2,
@@ -93,7 +95,7 @@
       "CY": 1,
       "DY": 2,
       "IM": 1,
-      "MA": 6,
+      "MA": 7,
       "MI": 8,
       "NA": 1,
       "NI": 2

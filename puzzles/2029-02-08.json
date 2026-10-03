@@ -1,9 +1,9 @@
 {
   "pangram": "toughly",
   "center_letter": "t",
-  "num_answers": 24,
+  "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 85,
+  "possible_points": 84,
   "answer_pangrams": [
     "toughly"
   ],
@@ -18,7 +18,6 @@
     "lout",
     "ought",
     "outgo",
-    "thou",
     "though",
     "thought",
     "thug",
@@ -36,7 +35,7 @@
   "date": "2029-02-08",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 11,
       "5": 8,
       "6": 2,
       "7": 2
@@ -46,7 +45,7 @@
       "H": 2,
       "L": 3,
       "O": 2,
-      "T": 13,
+      "T": 12,
       "Y": 1
     },
     "grid": {
@@ -66,7 +65,7 @@
         "5": 2
       },
       "T": {
-        "4": 7,
+        "4": 6,
         "5": 2,
         "6": 2,
         "7": 2
@@ -81,7 +80,7 @@
       "HO": 2,
       "LO": 3,
       "OU": 2,
-      "TH": 4,
+      "TH": 3,
       "TO": 8,
       "TU": 1,
       "YO": 1

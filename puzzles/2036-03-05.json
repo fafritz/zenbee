@@ -1,9 +1,9 @@
 {
   "pangram": "upbraid",
   "center_letter": "i",
-  "num_answers": 17,
+  "num_answers": 16,
   "num_pangrams": 1,
-  "possible_points": 58,
+  "possible_points": 57,
   "answer_pangrams": [
     "upbraid"
   ],
@@ -16,7 +16,6 @@
     "drip",
     "druid",
     "ibid",
-    "ipad",
     "paid",
     "pair",
     "rabbi",
@@ -29,7 +28,7 @@
   "date": "2036-03-05",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 8,
       "5": 7,
       "7": 1
     },
@@ -37,7 +36,7 @@
       "A": 2,
       "B": 3,
       "D": 2,
-      "I": 2,
+      "I": 1,
       "P": 2,
       "R": 5,
       "U": 1
@@ -55,7 +54,7 @@
         "5": 1
       },
       "I": {
-        "4": 2
+        "4": 1
       },
       "P": {
         "4": 2
@@ -74,7 +73,6 @@
       "BR": 2,
       "DR": 2,
       "IB": 1,
-      "IP": 1,
       "PA": 2,
       "RA": 5,
       "UP": 1

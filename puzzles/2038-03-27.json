@@ -3,7 +3,7 @@
   "center_letter": "g",
   "num_answers": 53,
   "num_pangrams": 2,
-  "possible_points": 306,
+  "possible_points": 304,
   "answer_pangrams": [
     "bogeying",
     "obeying"
@@ -19,6 +19,7 @@
     "biggie",
     "binge",
     "bingeing",
+    "binging",
     "bingo",
     "binning",
     "bobbing",
@@ -27,11 +28,11 @@
     "bogging",
     "boggy",
     "bogie",
+    "boing",
     "bong",
     "bonging",
     "bongo",
     "boning",
-    "boobing",
     "boogie",
     "boogieing",
     "booing",
@@ -50,7 +51,6 @@
     "gibing",
     "gigging",
     "ginning",
-    "gobbing",
     "going",
     "gone",
     "gong",
@@ -67,16 +67,16 @@
   "hints": {
     "by_length": {
       "4": 7,
-      "5": 13,
+      "5": 14,
       "6": 17,
-      "7": 12,
+      "7": 11,
       "8": 2,
       "9": 2
     },
     "by_first_letter": {
-      "B": 27,
+      "B": 28,
       "E": 5,
-      "G": 16,
+      "G": 15,
       "I": 1,
       "N": 1,
       "O": 2,
@@ -85,7 +85,7 @@
     "grid": {
       "B": {
         "4": 1,
-        "5": 9,
+        "5": 10,
         "6": 7,
         "7": 6,
         "8": 2,
@@ -98,7 +98,7 @@
         "4": 5,
         "5": 4,
         "6": 3,
-        "7": 4
+        "7": 3
       },
       "I": {
         "6": 1
@@ -115,7 +115,7 @@
     },
     "two_letter_list": {
       "BE": 7,
-      "BI": 5,
+      "BI": 6,
       "BO": 14,
       "BY": 1,
       "EB": 1,
@@ -124,7 +124,7 @@
       "EY": 1,
       "GE": 4,
       "GI": 5,
-      "GO": 7,
+      "GO": 6,
       "IN": 1,
       "NO": 1,
       "OB": 1,

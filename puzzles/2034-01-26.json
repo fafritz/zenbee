@@ -1,9 +1,9 @@
 {
   "pangram": "baneful",
   "center_letter": "l",
-  "num_answers": 64,
+  "num_answers": 68,
   "num_pangrams": 1,
-  "possible_points": 244,
+  "possible_points": 269,
   "answer_pangrams": [
     "baneful"
   ],
@@ -11,7 +11,7 @@
     "able",
     "affable",
     "alfalfa",
-    "anal",
+    "allele",
     "anneal",
     "annual",
     "annul",
@@ -37,15 +37,18 @@
     "bubble",
     "bulb",
     "bull",
+    "effable",
     "elan",
     "enable",
     "enfeeble",
     "fable",
+    "falafel",
     "fall",
     "fallen",
     "feeble",
     "feel",
     "fell",
+    "fella",
     "fennel",
     "flab",
     "flan",
@@ -64,6 +67,7 @@
     "lean",
     "luau",
     "lube",
+    "luff",
     "lull",
     "lulu",
     "nebula",
@@ -77,25 +81,25 @@
   "hints": {
     "by_length": {
       "4": 30,
-      "5": 9,
-      "6": 16,
-      "7": 6,
+      "5": 10,
+      "6": 17,
+      "7": 8,
       "8": 3
     },
     "by_first_letter": {
       "A": 7,
       "B": 22,
-      "E": 3,
-      "F": 18,
-      "L": 8,
+      "E": 4,
+      "F": 20,
+      "L": 9,
       "N": 3,
       "U": 3
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 1,
-        "6": 2,
+        "6": 3,
         "7": 2
       },
       "B": {
@@ -108,16 +112,17 @@
       "E": {
         "4": 1,
         "6": 1,
+        "7": 1,
         "8": 1
       },
       "F": {
         "4": 11,
-        "5": 2,
+        "5": 3,
         "6": 4,
-        "7": 1
+        "7": 2
       },
       "L": {
-        "4": 7,
+        "4": 8,
         "5": 1
       },
       "N": {
@@ -134,21 +139,22 @@
     "two_letter_list": {
       "AB": 1,
       "AF": 1,
-      "AL": 1,
-      "AN": 4,
+      "AL": 2,
+      "AN": 3,
       "BA": 10,
       "BE": 5,
       "BL": 4,
       "BU": 3,
+      "EF": 1,
       "EL": 1,
       "EN": 2,
-      "FA": 3,
-      "FE": 4,
+      "FA": 4,
+      "FE": 5,
       "FL": 8,
       "FU": 3,
       "LA": 2,
       "LE": 2,
-      "LU": 4,
+      "LU": 5,
       "NE": 2,
       "NU": 1,
       "UL": 2,

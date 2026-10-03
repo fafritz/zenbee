@@ -1,9 +1,9 @@
 {
   "pangram": "jangled",
   "center_letter": "l",
-  "num_answers": 63,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 292,
+  "possible_points": 311,
   "answer_pangrams": [
     "jangled"
   ],
@@ -14,7 +14,7 @@
     "algae",
     "allege",
     "alleged",
-    "anal",
+    "allele",
     "angel",
     "angle",
     "angled",
@@ -28,9 +28,11 @@
     "deal",
     "dell",
     "eagle",
+    "eeled",
     "elan",
     "gaggle",
     "gala",
+    "galangal",
     "gale",
     "galena",
     "gall",
@@ -64,6 +66,7 @@
     "leaden",
     "lean",
     "leaned",
+    "lede",
     "ledge",
     "legal",
     "legend",
@@ -76,26 +79,26 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 12,
-      "6": 22,
+      "5": 13,
+      "6": 23,
       "7": 7,
-      "8": 2,
+      "8": 3,
       "9": 1
     },
     "by_first_letter": {
       "A": 12,
       "D": 7,
-      "E": 2,
-      "G": 19,
+      "E": 3,
+      "G": 20,
       "J": 4,
-      "L": 17,
+      "L": 18,
       "N": 2
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 4,
-        "6": 4,
+        "6": 5,
         "7": 1,
         "8": 1
       },
@@ -106,14 +109,14 @@
       },
       "E": {
         "4": 1,
-        "5": 1
+        "5": 2
       },
       "G": {
         "4": 7,
         "5": 3,
         "6": 5,
         "7": 2,
-        "8": 1,
+        "8": 2,
         "9": 1
       },
       "J": {
@@ -122,7 +125,7 @@
         "7": 1
       },
       "L": {
-        "4": 5,
+        "4": 6,
         "5": 4,
         "6": 8
       },
@@ -133,19 +136,20 @@
     },
     "two_letter_list": {
       "AD": 2,
-      "AL": 4,
-      "AN": 6,
+      "AL": 5,
+      "AN": 5,
       "DA": 5,
       "DE": 2,
       "EA": 1,
+      "EE": 1,
       "EL": 1,
-      "GA": 7,
+      "GA": 8,
       "GE": 3,
       "GL": 9,
       "JA": 2,
       "JE": 2,
       "LA": 7,
-      "LE": 10,
+      "LE": 11,
       "NE": 2
     }
   }

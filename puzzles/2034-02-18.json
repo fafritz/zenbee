@@ -1,9 +1,9 @@
 {
   "pangram": "clunked",
   "center_letter": "d",
-  "num_answers": 60,
+  "num_answers": 64,
   "num_pangrams": 2,
-  "possible_points": 302,
+  "possible_points": 320,
   "answer_pangrams": [
     "clunked",
     "knuckled"
@@ -11,6 +11,7 @@
   "answers": [
     "cede",
     "ceded",
+    "celled",
     "clucked",
     "clued",
     "clunked",
@@ -31,6 +32,7 @@
     "denude",
     "denuded",
     "deuce",
+    "deuced",
     "duck",
     "ducked",
     "dude",
@@ -45,11 +47,12 @@
     "dunk",
     "dunked",
     "dunned",
+    "educe",
+    "eeled",
     "eked",
     "elude",
     "eluded",
     "ended",
-    "endue",
     "endued",
     "keeled",
     "keened",
@@ -58,6 +61,7 @@
     "kneed",
     "knelled",
     "knuckled",
+    "lede",
     "lend",
     "lucked",
     "lulled",
@@ -73,18 +77,18 @@
   "date": "2034-02-18",
   "hints": {
     "by_length": {
-      "4": 15,
-      "5": 11,
-      "6": 23,
+      "4": 16,
+      "5": 12,
+      "6": 25,
       "7": 8,
       "8": 3
     },
     "by_first_letter": {
-      "C": 9,
-      "D": 27,
-      "E": 6,
+      "C": 10,
+      "D": 28,
+      "E": 7,
       "K": 7,
-      "L": 3,
+      "L": 4,
       "N": 6,
       "U": 2
     },
@@ -92,18 +96,18 @@
       "C": {
         "4": 2,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 3
       },
       "D": {
         "4": 10,
         "5": 3,
-        "6": 11,
+        "6": 12,
         "7": 3
       },
       "E": {
         "4": 1,
-        "5": 3,
+        "5": 4,
         "6": 2
       },
       "K": {
@@ -113,7 +117,7 @@
         "8": 2
       },
       "L": {
-        "4": 1,
+        "4": 2,
         "6": 2
       },
       "N": {
@@ -128,17 +132,19 @@
       }
     },
     "two_letter_list": {
-      "CE": 2,
+      "CE": 3,
       "CL": 3,
       "CU": 4,
-      "DE": 13,
+      "DE": 14,
       "DU": 14,
+      "ED": 1,
+      "EE": 1,
       "EK": 1,
       "EL": 2,
-      "EN": 3,
+      "EN": 2,
       "KE": 4,
       "KN": 3,
-      "LE": 1,
+      "LE": 2,
       "LU": 2,
       "NE": 5,
       "NU": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "cording",
   "center_letter": "g",
-  "num_answers": 65,
+  "num_answers": 66,
   "num_pangrams": 3,
-  "possible_points": 414,
+  "possible_points": 418,
   "answer_pangrams": [
     "cording",
     "cordoning",
@@ -12,6 +12,7 @@
   "answers": [
     "cocooning",
     "coding",
+    "cogging",
     "coinciding",
     "coining",
     "condoning",
@@ -33,7 +34,6 @@
     "dinning",
     "dodging",
     "dogging",
-    "doggoning",
     "doing",
     "donning",
     "droning",
@@ -47,6 +47,7 @@
     "good",
     "goon",
     "gorging",
+    "gorgon",
     "goring",
     "grid",
     "gridiron",
@@ -81,16 +82,16 @@
     "by_length": {
       "4": 9,
       "5": 8,
-      "6": 12,
-      "7": 23,
+      "6": 13,
+      "7": 24,
       "8": 7,
-      "9": 5,
+      "9": 4,
       "10": 1
     },
     "by_first_letter": {
-      "C": 14,
-      "D": 13,
-      "G": 19,
+      "C": 15,
+      "D": 12,
+      "G": 20,
       "I": 5,
       "N": 3,
       "O": 2,
@@ -99,7 +100,7 @@
     "grid": {
       "C": {
         "6": 3,
-        "7": 4,
+        "7": 5,
         "8": 2,
         "9": 4,
         "10": 1
@@ -108,13 +109,12 @@
         "4": 1,
         "5": 2,
         "6": 2,
-        "7": 7,
-        "9": 1
+        "7": 7
       },
       "G": {
         "4": 7,
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 5,
         "8": 3
       },
@@ -141,13 +141,13 @@
       }
     },
     "two_letter_list": {
-      "CO": 12,
+      "CO": 13,
       "CR": 2,
       "DI": 7,
-      "DO": 5,
+      "DO": 4,
       "DR": 1,
       "GI": 4,
-      "GO": 7,
+      "GO": 8,
       "GR": 8,
       "IC": 1,
       "IG": 1,

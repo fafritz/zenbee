@@ -1,9 +1,9 @@
 {
   "pangram": "lighted",
   "center_letter": "d",
-  "num_answers": 64,
+  "num_answers": 66,
   "num_pangrams": 4,
-  "possible_points": 313,
+  "possible_points": 319,
   "answer_pangrams": [
     "delight",
     "delighted",
@@ -31,6 +31,7 @@
     "edged",
     "edit",
     "edited",
+    "eeled",
     "egged",
     "elide",
     "elided",
@@ -57,6 +58,7 @@
     "highlighted",
     "idle",
     "idled",
+    "lede",
     "ledge",
     "legged",
     "lidded",
@@ -79,8 +81,8 @@
   "date": "2037-10-25",
   "hints": {
     "by_length": {
-      "4": 20,
-      "5": 13,
+      "4": 21,
+      "5": 14,
       "6": 23,
       "7": 6,
       "9": 1,
@@ -88,11 +90,11 @@
     },
     "by_first_letter": {
       "D": 15,
-      "E": 8,
+      "E": 9,
       "G": 11,
       "H": 10,
       "I": 2,
-      "L": 6,
+      "L": 7,
       "T": 12
     },
     "grid": {
@@ -105,7 +107,7 @@
       },
       "E": {
         "4": 2,
-        "5": 3,
+        "5": 4,
         "6": 3
       },
       "G": {
@@ -125,7 +127,7 @@
         "5": 1
       },
       "L": {
-        "4": 1,
+        "4": 2,
         "5": 1,
         "6": 3,
         "7": 1
@@ -141,6 +143,7 @@
       "DE": 8,
       "DI": 7,
       "ED": 5,
+      "EE": 1,
       "EG": 1,
       "EL": 2,
       "GE": 5,
@@ -149,7 +152,7 @@
       "HE": 6,
       "HI": 4,
       "ID": 2,
-      "LE": 2,
+      "LE": 3,
       "LI": 4,
       "TE": 2,
       "TI": 10

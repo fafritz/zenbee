@@ -1,9 +1,9 @@
 {
   "pangram": "matchup",
   "center_letter": "p",
-  "num_answers": 17,
+  "num_answers": 18,
   "num_pangrams": 1,
-  "possible_points": 50,
+  "possible_points": 55,
   "answer_pangrams": [
     "matchup"
   ],
@@ -16,6 +16,7 @@
     "hump",
     "matchup",
     "pact",
+    "pampa",
     "papa",
     "patch",
     "path",
@@ -30,14 +31,14 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 5,
+      "5": 6,
       "7": 1
     },
     "by_first_letter": {
       "C": 5,
       "H": 1,
       "M": 1,
-      "P": 8,
+      "P": 9,
       "T": 2
     },
     "grid": {
@@ -53,7 +54,7 @@
       },
       "P": {
         "4": 7,
-        "5": 1
+        "5": 2
       },
       "T": {
         "4": 1,
@@ -66,7 +67,7 @@
       "CU": 1,
       "HU": 1,
       "MA": 1,
-      "PA": 4,
+      "PA": 5,
       "PU": 4,
       "TA": 1,
       "TH": 1

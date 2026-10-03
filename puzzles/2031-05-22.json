@@ -1,9 +1,9 @@
 {
   "pangram": "lapwing",
   "center_letter": "l",
-  "num_answers": 50,
+  "num_answers": 52,
   "num_pangrams": 1,
-  "possible_points": 260,
+  "possible_points": 278,
   "answer_pangrams": [
     "lapwing"
   ],
@@ -12,11 +12,11 @@
     "alga",
     "align",
     "aligning",
-    "anal",
     "angling",
     "appall",
     "appalling",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "ganglia",
@@ -25,9 +25,11 @@
     "gill",
     "lagging",
     "lain",
+    "lanai",
     "lapping",
     "lapwing",
     "lawn",
+    "lignin",
     "lining",
     "nail",
     "nailing",
@@ -62,24 +64,24 @@
   "date": "2031-05-22",
   "hints": {
     "by_length": {
-      "4": 16,
-      "5": 3,
-      "6": 7,
+      "4": 15,
+      "5": 4,
+      "6": 8,
       "7": 14,
-      "8": 8,
+      "8": 9,
       "9": 2
     },
     "by_first_letter": {
-      "A": 8,
-      "G": 7,
-      "L": 6,
+      "A": 7,
+      "G": 8,
+      "L": 8,
       "N": 3,
       "P": 15,
       "W": 11
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 1,
         "6": 2,
         "7": 1,
@@ -89,11 +91,12 @@
       "G": {
         "4": 3,
         "7": 2,
-        "8": 2
+        "8": 3
       },
       "L": {
         "4": 2,
-        "6": 1,
+        "5": 1,
+        "6": 2,
         "7": 3
       },
       "N": {
@@ -119,12 +122,12 @@
     "two_letter_list": {
       "AI": 1,
       "AL": 3,
-      "AN": 2,
+      "AN": 1,
       "AP": 2,
-      "GA": 5,
+      "GA": 6,
       "GI": 2,
-      "LA": 5,
-      "LI": 1,
+      "LA": 6,
+      "LI": 2,
       "NA": 2,
       "NI": 1,
       "PA": 7,

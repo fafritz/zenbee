@@ -1,9 +1,9 @@
 {
   "pangram": "waltzed",
   "center_letter": "a",
-  "num_answers": 58,
+  "num_answers": 59,
   "num_pangrams": 1,
-  "possible_points": 252,
+  "possible_points": 258,
   "answer_pangrams": [
     "waltzed"
   ],
@@ -12,6 +12,7 @@
     "addle",
     "addled",
     "adze",
+    "allele",
     "awed",
     "azalea",
     "dale",
@@ -72,13 +73,13 @@
     "by_length": {
       "4": 21,
       "5": 13,
-      "6": 14,
+      "6": 15,
       "7": 7,
       "8": 2,
       "10": 1
     },
     "by_first_letter": {
-      "A": 6,
+      "A": 7,
       "D": 14,
       "E": 2,
       "L": 8,
@@ -90,7 +91,7 @@
       "A": {
         "4": 2,
         "5": 2,
-        "6": 2
+        "6": 3
       },
       "D": {
         "4": 6,
@@ -126,6 +127,7 @@
     },
     "two_letter_list": {
       "AD": 4,
+      "AL": 1,
       "AW": 1,
       "AZ": 1,
       "DA": 10,

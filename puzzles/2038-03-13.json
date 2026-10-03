@@ -1,9 +1,9 @@
 {
   "pangram": "cording",
   "center_letter": "d",
-  "num_answers": 47,
+  "num_answers": 46,
   "num_pangrams": 3,
-  "possible_points": 283,
+  "possible_points": 274,
   "answer_pangrams": [
     "cording",
     "cordoning",
@@ -32,7 +32,6 @@
     "dodging",
     "dodo",
     "dogging",
-    "doggoning",
     "doing",
     "donning",
     "donor",
@@ -66,12 +65,12 @@
       "6": 8,
       "7": 13,
       "8": 4,
-      "9": 4,
+      "9": 3,
       "10": 1
     },
     "by_first_letter": {
       "C": 12,
-      "D": 17,
+      "D": 16,
       "G": 7,
       "I": 2,
       "N": 2,
@@ -92,8 +91,7 @@
         "4": 3,
         "5": 4,
         "6": 2,
-        "7": 7,
-        "9": 1
+        "7": 7
       },
       "G": {
         "4": 3,
@@ -121,7 +119,7 @@
     "two_letter_list": {
       "CO": 12,
       "DI": 7,
-      "DO": 8,
+      "DO": 7,
       "DR": 2,
       "GI": 2,
       "GO": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "buoyant",
   "center_letter": "a",
-  "num_answers": 33,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 134,
+  "possible_points": 142,
   "answer_pangrams": [
     "buoyant"
   ],
@@ -11,6 +11,7 @@
     "abbot",
     "about",
     "abut",
+    "annatto",
     "annoy",
     "anon",
     "aunt",
@@ -25,6 +26,7 @@
     "batty",
     "bayou",
     "boat",
+    "boba",
     "botany",
     "buoyant",
     "naan",
@@ -45,24 +47,25 @@
   "date": "2035-12-07",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 13,
       "5": 13,
       "6": 6,
-      "7": 2
+      "7": 3
     },
     "by_first_letter": {
-      "A": 7,
-      "B": 12,
+      "A": 8,
+      "B": 13,
       "N": 6,
       "T": 8
     },
     "grid": {
       "A": {
         "4": 4,
-        "5": 3
+        "5": 3,
+        "7": 1
       },
       "B": {
-        "4": 3,
+        "4": 4,
         "5": 3,
         "6": 5,
         "7": 1
@@ -80,10 +83,10 @@
     },
     "two_letter_list": {
       "AB": 3,
-      "AN": 2,
+      "AN": 3,
       "AU": 2,
       "BA": 9,
-      "BO": 2,
+      "BO": 3,
       "BU": 1,
       "NA": 6,
       "TA": 6,

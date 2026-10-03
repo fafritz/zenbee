@@ -1,9 +1,9 @@
 {
   "pangram": "beatnik",
   "center_letter": "i",
-  "num_answers": 28,
+  "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 120,
+  "possible_points": 121,
   "answer_pangrams": [
     "beatnik"
   ],
@@ -33,6 +33,7 @@
     "tannin",
     "tibia",
     "tibiae",
+    "tiki",
     "tine",
     "tint",
     "titan"
@@ -40,7 +41,7 @@
   "date": "2026-11-06",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 5,
       "6": 9,
       "7": 1,
@@ -52,7 +53,7 @@
       "I": 5,
       "K": 4,
       "N": 2,
-      "T": 7
+      "T": 8
     },
     "grid": {
       "A": {
@@ -79,7 +80,7 @@
         "8": 1
       },
       "T": {
-        "4": 2,
+        "4": 3,
         "5": 3,
         "6": 2
       }
@@ -96,7 +97,7 @@
       "KN": 1,
       "NI": 2,
       "TA": 2,
-      "TI": 5
+      "TI": 6
     }
   }
 }

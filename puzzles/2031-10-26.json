@@ -1,9 +1,9 @@
 {
   "pangram": "vaguely",
   "center_letter": "v",
-  "num_answers": 17,
+  "num_answers": 19,
   "num_pangrams": 1,
-  "possible_points": 75,
+  "possible_points": 83,
   "answer_pangrams": [
     "vaguely"
   ],
@@ -13,9 +13,11 @@
     "gavel",
     "guava",
     "lava",
+    "lave",
     "leave",
     "levee",
     "level",
+    "levelly",
     "levy",
     "uvula",
     "vague",
@@ -29,15 +31,15 @@
   "date": "2031-10-26",
   "hints": {
     "by_length": {
-      "4": 5,
+      "4": 6,
       "5": 10,
       "6": 1,
-      "7": 1
+      "7": 2
     },
     "by_first_letter": {
       "A": 1,
       "G": 3,
-      "L": 5,
+      "L": 7,
       "U": 1,
       "V": 7
     },
@@ -50,8 +52,9 @@
         "5": 2
       },
       "L": {
-        "4": 2,
-        "5": 3
+        "4": 3,
+        "5": 3,
+        "7": 1
       },
       "U": {
         "5": 1
@@ -67,8 +70,8 @@
       "AG": 1,
       "GA": 2,
       "GU": 1,
-      "LA": 1,
-      "LE": 4,
+      "LA": 2,
+      "LE": 5,
       "UV": 1,
       "VA": 6,
       "VE": 1

@@ -1,9 +1,9 @@
 {
   "pangram": "frailty",
   "center_letter": "a",
-  "num_answers": 64,
+  "num_answers": 62,
   "num_pangrams": 1,
-  "possible_points": 263,
+  "possible_points": 255,
   "answer_pangrams": [
     "frailty"
   ],
@@ -27,7 +27,6 @@
     "fairly",
     "fairy",
     "fall",
-    "fart",
     "fatal",
     "fatality",
     "fatally",
@@ -54,7 +53,6 @@
     "rail",
     "rally",
     "rarity",
-    "ratatat",
     "ratify",
     "ratty",
     "riffraff",
@@ -76,17 +74,17 @@
   "date": "2038-07-13",
   "hints": {
     "by_length": {
-      "4": 23,
+      "4": 22,
       "5": 22,
       "6": 12,
-      "7": 5,
+      "7": 4,
       "8": 2
     },
     "by_first_letter": {
       "A": 14,
-      "F": 22,
+      "F": 21,
       "L": 5,
-      "R": 9,
+      "R": 8,
       "T": 14
     },
     "grid": {
@@ -97,7 +95,7 @@
         "7": 2
       },
       "F": {
-        "4": 9,
+        "4": 8,
         "5": 7,
         "6": 3,
         "7": 2,
@@ -112,7 +110,6 @@
         "4": 2,
         "5": 2,
         "6": 3,
-        "7": 1,
         "8": 1
       },
       "T": {
@@ -127,13 +124,13 @@
       "AL": 4,
       "AR": 3,
       "AT": 2,
-      "FA": 10,
+      "FA": 9,
       "FI": 2,
       "FL": 5,
       "FR": 5,
       "LA": 3,
       "LI": 2,
-      "RA": 8,
+      "RA": 7,
       "RI": 1,
       "TA": 9,
       "TI": 1,

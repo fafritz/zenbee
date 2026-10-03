@@ -1,9 +1,9 @@
 {
   "pangram": "lengthy",
   "center_letter": "l",
-  "num_answers": 18,
+  "num_answers": 17,
   "num_pangrams": 1,
-  "possible_points": 82,
+  "possible_points": 76,
   "answer_pangrams": [
     "lengthy"
   ],
@@ -24,7 +24,6 @@
     "lent",
     "nettle",
     "tell",
-    "telnet",
     "yell"
   ],
   "date": "2035-07-15",
@@ -32,7 +31,7 @@
     "by_length": {
       "4": 7,
       "5": 2,
-      "6": 6,
+      "6": 5,
       "7": 2,
       "8": 1
     },
@@ -42,7 +41,7 @@
       "H": 2,
       "L": 5,
       "N": 1,
-      "T": 2,
+      "T": 1,
       "Y": 1
     },
     "grid": {
@@ -69,8 +68,7 @@
         "6": 1
       },
       "T": {
-        "4": 1,
-        "6": 1
+        "4": 1
       },
       "Y": {
         "4": 1
@@ -84,7 +82,7 @@
       "HE": 2,
       "LE": 5,
       "NE": 1,
-      "TE": 2,
+      "TE": 1,
       "YE": 1
     }
   }

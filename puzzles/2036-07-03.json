@@ -1,15 +1,16 @@
 {
   "pangram": "mocking",
   "center_letter": "g",
-  "num_answers": 38,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 247,
+  "possible_points": 254,
   "answer_pangrams": [
     "mocking"
   ],
   "answers": [
     "cocking",
     "cocooning",
+    "cogging",
     "coining",
     "coking",
     "coming",
@@ -53,12 +54,12 @@
       "4": 3,
       "5": 2,
       "6": 11,
-      "7": 17,
+      "7": 18,
       "8": 3,
       "9": 2
     },
     "by_first_letter": {
-      "C": 9,
+      "C": 10,
       "G": 8,
       "I": 4,
       "K": 4,
@@ -69,7 +70,7 @@
     "grid": {
       "C": {
         "6": 3,
-        "7": 5,
+        "7": 6,
         "9": 1
       },
       "G": {
@@ -103,7 +104,7 @@
       }
     },
     "two_letter_list": {
-      "CO": 9,
+      "CO": 10,
       "GI": 4,
       "GO": 4,
       "IC": 1,

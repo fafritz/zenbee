@@ -3,12 +3,11 @@
   "center_letter": "n",
   "num_answers": 18,
   "num_pangrams": 1,
-  "possible_points": 72,
+  "possible_points": 76,
   "answer_pangrams": [
     "handily"
   ],
   "answers": [
-    "anal",
     "dandy",
     "hand",
     "handily",
@@ -18,6 +17,7 @@
     "inland",
     "inlay",
     "lain",
+    "lanai",
     "land",
     "landlady",
     "naan",
@@ -30,24 +30,20 @@
   "date": "2032-01-16",
   "hints": {
     "by_length": {
-      "4": 8,
-      "5": 6,
+      "4": 7,
+      "5": 7,
       "6": 2,
       "7": 1,
       "8": 1
     },
     "by_first_letter": {
-      "A": 1,
       "D": 1,
       "H": 4,
       "I": 3,
-      "L": 3,
+      "L": 4,
       "N": 6
     },
     "grid": {
-      "A": {
-        "4": 1
-      },
       "D": {
         "5": 1
       },
@@ -62,6 +58,7 @@
       },
       "L": {
         "4": 2,
+        "5": 1,
         "8": 1
       },
       "N": {
@@ -70,12 +67,11 @@
       }
     },
     "two_letter_list": {
-      "AN": 1,
       "DA": 1,
       "HA": 3,
       "HI": 1,
       "IN": 3,
-      "LA": 3,
+      "LA": 4,
       "NA": 5,
       "NI": 1
     }

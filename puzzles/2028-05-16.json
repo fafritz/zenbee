@@ -1,9 +1,9 @@
 {
   "pangram": "dolphin",
   "center_letter": "l",
-  "num_answers": 24,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 68,
+  "possible_points": 77,
   "answer_pangrams": [
     "dolphin"
   ],
@@ -22,6 +22,7 @@
     "lollipop",
     "loon",
     "loop",
+    "nonillion",
     "olio",
     "pill",
     "pillion",
@@ -40,13 +41,15 @@
       "5": 2,
       "6": 2,
       "7": 2,
-      "8": 1
+      "8": 1,
+      "9": 1
     },
     "by_first_letter": {
       "D": 4,
       "H": 2,
       "I": 1,
       "L": 7,
+      "N": 1,
       "O": 1,
       "P": 9
     },
@@ -67,6 +70,9 @@
         "5": 1,
         "8": 1
       },
+      "N": {
+        "9": 1
+      },
       "O": {
         "4": 1
       },
@@ -85,6 +91,7 @@
       "ID": 1,
       "LI": 2,
       "LO": 5,
+      "NO": 1,
       "OL": 1,
       "PI": 2,
       "PL": 2,

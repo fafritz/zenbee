@@ -1,13 +1,14 @@
 {
   "pangram": "hangout",
   "center_letter": "t",
-  "num_answers": 39,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 130,
+  "possible_points": 137,
   "answer_pangrams": [
     "hangout"
   ],
   "answers": [
+    "annatto",
     "aught",
     "aunt",
     "auto",
@@ -34,11 +35,11 @@
     "than",
     "that",
     "thong",
-    "thou",
     "though",
     "thought",
     "thug",
     "toga",
+    "tong",
     "toon",
     "toot",
     "tooth",
@@ -54,11 +55,11 @@
       "4": 21,
       "5": 10,
       "6": 5,
-      "7": 2,
+      "7": 3,
       "8": 1
     },
     "by_first_letter": {
-      "A": 3,
+      "A": 4,
       "G": 4,
       "H": 4,
       "N": 2,
@@ -69,7 +70,8 @@
     "grid": {
       "A": {
         "4": 2,
-        "5": 1
+        "5": 1,
+        "7": 1
       },
       "G": {
         "4": 3,
@@ -98,6 +100,7 @@
       }
     },
     "two_letter_list": {
+      "AN": 1,
       "AU": 3,
       "GA": 1,
       "GN": 1,
@@ -111,8 +114,8 @@
       "ON": 1,
       "OU": 2,
       "TA": 6,
-      "TH": 7,
-      "TO": 6,
+      "TH": 6,
+      "TO": 7,
       "TU": 2,
       "UN": 1
     }

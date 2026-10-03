@@ -1,14 +1,15 @@
 {
   "pangram": "novelty",
   "center_letter": "e",
-  "num_answers": 47,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 177,
+  "possible_points": 183,
   "answer_pangrams": [
     "novelty"
   ],
   "answers": [
     "eleven",
+    "elote",
     "entente",
     "envoy",
     "envy",
@@ -20,6 +21,7 @@
     "lent",
     "levee",
     "level",
+    "levelly",
     "levy",
     "lone",
     "lonely",
@@ -40,7 +42,6 @@
     "teen",
     "teeny",
     "tell",
-    "telnet",
     "tenet",
     "tenon",
     "tent",
@@ -60,32 +61,33 @@
   "hints": {
     "by_length": {
       "4": 23,
-      "5": 8,
-      "6": 10,
-      "7": 3,
+      "5": 9,
+      "6": 9,
+      "7": 4,
       "8": 1,
       "9": 2
     },
     "by_first_letter": {
-      "E": 9,
-      "L": 8,
+      "E": 10,
+      "L": 9,
       "N": 10,
       "O": 2,
-      "T": 9,
+      "T": 8,
       "V": 8,
       "Y": 1
     },
     "grid": {
       "E": {
         "4": 2,
-        "5": 2,
+        "5": 3,
         "6": 4,
         "7": 1
       },
       "L": {
         "4": 4,
         "5": 2,
-        "6": 2
+        "6": 2,
+        "7": 1
       },
       "N": {
         "4": 5,
@@ -100,8 +102,7 @@
       },
       "T": {
         "4": 5,
-        "5": 3,
-        "6": 1
+        "5": 3
       },
       "V": {
         "4": 4,
@@ -114,17 +115,17 @@
       }
     },
     "two_letter_list": {
-      "EL": 1,
+      "EL": 2,
       "EN": 3,
       "EV": 4,
       "EY": 1,
-      "LE": 4,
+      "LE": 5,
       "LO": 4,
       "NE": 3,
       "NO": 7,
       "OL": 1,
       "OV": 1,
-      "TE": 7,
+      "TE": 6,
       "TO": 2,
       "VE": 5,
       "VO": 3,

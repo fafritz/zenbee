@@ -1,9 +1,9 @@
 {
   "pangram": "fibulae",
   "center_letter": "i",
-  "num_answers": 26,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 107,
+  "possible_points": 121,
   "answer_pangrams": [
     "fibulae"
   ],
@@ -17,6 +17,7 @@
     "biff",
     "bile",
     "bill",
+    "billable",
     "fail",
     "fallible",
     "fibula",
@@ -30,6 +31,7 @@
     "fulfill",
     "labia",
     "labial",
+    "labile",
     "liable",
     "libel",
     "lieu",
@@ -40,15 +42,15 @@
     "by_length": {
       "4": 11,
       "5": 6,
-      "6": 5,
+      "6": 6,
       "7": 3,
-      "8": 1
+      "8": 2
     },
     "by_first_letter": {
       "A": 1,
-      "B": 8,
+      "B": 9,
       "F": 11,
-      "L": 6
+      "L": 7
     },
     "grid": {
       "A": {
@@ -58,7 +60,8 @@
         "4": 4,
         "5": 2,
         "6": 1,
-        "7": 1
+        "7": 1,
+        "8": 1
       },
       "F": {
         "4": 5,
@@ -70,19 +73,19 @@
       "L": {
         "4": 2,
         "5": 2,
-        "6": 2
+        "6": 3
       }
     },
     "two_letter_list": {
       "AL": 1,
       "BA": 2,
       "BE": 2,
-      "BI": 4,
+      "BI": 5,
       "FA": 2,
       "FI": 7,
       "FL": 1,
       "FU": 1,
-      "LA": 2,
+      "LA": 3,
       "LI": 4
     }
   }

@@ -1,14 +1,13 @@
 {
   "pangram": "pounced",
   "center_letter": "u",
-  "num_answers": 41,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 218,
+  "possible_points": 212,
   "answer_pangrams": [
     "pounced"
   ],
   "answers": [
-    "conduce",
     "conduced",
     "coup",
     "coupe",
@@ -22,15 +21,15 @@
     "denude",
     "denuded",
     "deuce",
+    "deuced",
     "dude",
     "duded",
     "dunce",
     "dune",
     "dunned",
-    "dunno",
     "dupe",
     "duped",
-    "endue",
+    "educe",
     "endued",
     "noun",
     "ounce",
@@ -54,14 +53,14 @@
   "hints": {
     "by_length": {
       "4": 8,
-      "5": 12,
-      "6": 10,
-      "7": 6,
+      "5": 11,
+      "6": 11,
+      "7": 5,
       "8": 4,
       "9": 1
     },
     "by_first_letter": {
-      "C": 7,
+      "C": 6,
       "D": 15,
       "E": 2,
       "N": 1,
@@ -74,13 +73,12 @@
         "4": 2,
         "5": 1,
         "6": 2,
-        "7": 1,
         "8": 1
       },
       "D": {
         "4": 3,
-        "5": 5,
-        "6": 3,
+        "5": 4,
+        "6": 4,
         "7": 2,
         "8": 1,
         "9": 1
@@ -109,11 +107,12 @@
       }
     },
     "two_letter_list": {
-      "CO": 5,
+      "CO": 4,
       "CU": 2,
-      "DE": 7,
-      "DU": 8,
-      "EN": 2,
+      "DE": 8,
+      "DU": 7,
+      "ED": 1,
+      "EN": 1,
       "NO": 1,
       "OU": 1,
       "PO": 4,

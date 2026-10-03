@@ -1,9 +1,9 @@
 {
   "pangram": "curtail",
   "center_letter": "i",
-  "num_answers": 48,
+  "num_answers": 52,
   "num_pangrams": 2,
-  "possible_points": 247,
+  "possible_points": 273,
   "answer_pangrams": [
     "actuarial",
     "curtail"
@@ -28,8 +28,12 @@
     "critic",
     "critical",
     "crucial",
+    "curia",
+    "curial",
     "curricula",
+    "curricular",
     "curtail",
+    "iliac",
     "illicit",
     "italic",
     "lactic",
@@ -62,16 +66,17 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 14,
-      "6": 10,
+      "5": 16,
+      "6": 11,
       "7": 7,
       "8": 3,
-      "9": 2
+      "9": 2,
+      "10": 1
     },
     "by_first_letter": {
       "A": 7,
-      "C": 14,
-      "I": 2,
+      "C": 17,
+      "I": 3,
       "L": 8,
       "R": 4,
       "T": 12,
@@ -85,13 +90,15 @@
         "9": 1
       },
       "C": {
-        "5": 4,
-        "6": 2,
+        "5": 5,
+        "6": 3,
         "7": 5,
         "8": 2,
-        "9": 1
+        "9": 1,
+        "10": 1
       },
       "I": {
+        "5": 1,
         "6": 1,
         "7": 1
       },
@@ -122,8 +129,8 @@
       "CA": 3,
       "CI": 6,
       "CR": 3,
-      "CU": 2,
-      "IL": 1,
+      "CU": 5,
+      "IL": 2,
       "IT": 1,
       "LA": 3,
       "LI": 5,

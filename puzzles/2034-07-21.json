@@ -3,7 +3,7 @@
   "center_letter": "e",
   "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 122,
+  "possible_points": 127,
   "answer_pangrams": [
     "equably"
   ],
@@ -11,6 +11,7 @@
     "abbe",
     "abbey",
     "able",
+    "allele",
     "alley",
     "babble",
     "babe",
@@ -25,7 +26,6 @@
     "blue",
     "bluebell",
     "bubble",
-    "ebay",
     "equable",
     "equably",
     "equal",
@@ -41,16 +41,16 @@
   "date": "2034-07-21",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 10,
       "5": 10,
-      "6": 3,
+      "6": 4,
       "7": 4,
       "8": 1
     },
     "by_first_letter": {
-      "A": 4,
+      "A": 5,
       "B": 13,
-      "E": 6,
+      "E": 5,
       "L": 2,
       "Q": 2,
       "Y": 2
@@ -58,7 +58,8 @@
     "grid": {
       "A": {
         "4": 2,
-        "5": 2
+        "5": 2,
+        "6": 1
       },
       "B": {
         "4": 5,
@@ -67,7 +68,6 @@
         "8": 1
       },
       "E": {
-        "4": 1,
         "5": 1,
         "7": 4
       },
@@ -84,12 +84,11 @@
     },
     "two_letter_list": {
       "AB": 3,
-      "AL": 1,
+      "AL": 2,
       "BA": 5,
       "BE": 5,
       "BL": 2,
       "BU": 1,
-      "EB": 1,
       "EQ": 4,
       "EY": 1,
       "LA": 1,

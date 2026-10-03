@@ -1,9 +1,9 @@
 {
   "pangram": "plumage",
   "center_letter": "a",
-  "num_answers": 58,
+  "num_answers": 61,
   "num_pangrams": 1,
-  "possible_points": 205,
+  "possible_points": 217,
   "answer_pangrams": [
     "plumage"
   ],
@@ -14,6 +14,7 @@
     "alga",
     "algae",
     "allege",
+    "allele",
     "alum",
     "amalgam",
     "ample",
@@ -22,6 +23,7 @@
     "appeal",
     "apple",
     "eagle",
+    "gaga",
     "gaggle",
     "gala",
     "gale",
@@ -56,6 +58,7 @@
     "pale",
     "pall",
     "palm",
+    "pampa",
     "papa",
     "papal",
     "peal",
@@ -70,31 +73,31 @@
   "date": "2030-04-24",
   "hints": {
     "by_length": {
-      "4": 27,
-      "5": 18,
-      "6": 10,
+      "4": 28,
+      "5": 19,
+      "6": 11,
       "7": 3
     },
     "by_first_letter": {
-      "A": 13,
+      "A": 14,
       "E": 1,
-      "G": 9,
+      "G": 10,
       "L": 11,
       "M": 10,
-      "P": 14
+      "P": 15
     },
     "grid": {
       "A": {
         "4": 3,
         "5": 4,
-        "6": 5,
+        "6": 6,
         "7": 1
       },
       "E": {
         "5": 1
       },
       "G": {
-        "4": 5,
+        "4": 6,
         "5": 3,
         "6": 1
       },
@@ -111,18 +114,18 @@
       },
       "P": {
         "4": 9,
-        "5": 3,
+        "5": 4,
         "6": 1,
         "7": 1
       }
     },
     "two_letter_list": {
       "AG": 3,
-      "AL": 4,
+      "AL": 5,
       "AM": 3,
       "AP": 3,
       "EA": 1,
-      "GA": 8,
+      "GA": 9,
       "GL": 1,
       "LA": 4,
       "LE": 4,
@@ -130,7 +133,7 @@
       "LU": 2,
       "MA": 9,
       "ME": 1,
-      "PA": 6,
+      "PA": 7,
       "PE": 1,
       "PL": 3,
       "PU": 4

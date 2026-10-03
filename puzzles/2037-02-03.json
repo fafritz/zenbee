@@ -1,9 +1,9 @@
 {
   "pangram": "thimble",
   "center_letter": "e",
-  "num_answers": 49,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 168,
+  "possible_points": 169,
   "answer_pangrams": [
     "thimble"
   ],
@@ -27,6 +27,7 @@
     "hell",
     "helm",
     "helmet",
+    "heme",
     "imbibe",
     "item",
     "libel",
@@ -61,7 +62,7 @@
   "date": "2037-02-03",
   "hints": {
     "by_length": {
-      "4": 25,
+      "4": 26,
       "5": 11,
       "6": 11,
       "7": 1,
@@ -70,7 +71,7 @@
     "by_first_letter": {
       "B": 12,
       "E": 3,
-      "H": 4,
+      "H": 5,
       "I": 2,
       "L": 5,
       "M": 10,
@@ -89,7 +90,7 @@
         "6": 1
       },
       "H": {
-        "4": 3,
+        "4": 4,
         "6": 1
       },
       "I": {
@@ -119,7 +120,7 @@
       "BL": 1,
       "EL": 1,
       "EM": 2,
-      "HE": 4,
+      "HE": 5,
       "IM": 1,
       "IT": 1,
       "LI": 5,

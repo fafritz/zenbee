@@ -1,9 +1,9 @@
 {
   "pangram": "couplet",
   "center_letter": "t",
-  "num_answers": 45,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 169,
+  "possible_points": 174,
   "answer_pangrams": [
     "couplet"
   ],
@@ -21,6 +21,7 @@
     "cutout",
     "cutup",
     "elect",
+    "elote",
     "lettuce",
     "letup",
     "loot",
@@ -58,13 +59,13 @@
   "hints": {
     "by_length": {
       "4": 21,
-      "5": 8,
+      "5": 9,
       "6": 11,
       "7": 5
     },
     "by_first_letter": {
       "C": 12,
-      "E": 1,
+      "E": 2,
       "L": 6,
       "O": 5,
       "P": 10,
@@ -78,7 +79,7 @@
         "7": 2
       },
       "E": {
-        "5": 1
+        "5": 2
       },
       "L": {
         "4": 3,
@@ -104,7 +105,7 @@
       "CL": 2,
       "CO": 5,
       "CU": 5,
-      "EL": 1,
+      "EL": 2,
       "LE": 2,
       "LO": 3,
       "LU": 1,

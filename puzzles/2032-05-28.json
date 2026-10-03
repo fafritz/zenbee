@@ -1,14 +1,15 @@
 {
   "pangram": "outline",
   "center_letter": "e",
-  "num_answers": 56,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 234,
+  "possible_points": 227,
   "answer_pangrams": [
     "outline"
   ],
   "answers": [
     "elite",
+    "elote",
     "ennui",
     "entente",
     "entitle",
@@ -31,7 +32,6 @@
     "lite",
     "little",
     "lone",
-    "loonie",
     "lute",
     "nene",
     "neon",
@@ -47,7 +47,6 @@
     "outline",
     "teen",
     "tell",
-    "telnet",
     "tenet",
     "tenon",
     "tent",
@@ -69,24 +68,24 @@
   "hints": {
     "by_length": {
       "4": 22,
-      "5": 11,
-      "6": 15,
+      "5": 12,
+      "6": 13,
       "7": 5,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
-      "E": 4,
+      "E": 5,
       "I": 6,
-      "L": 15,
+      "L": 14,
       "N": 8,
       "O": 4,
-      "T": 17,
+      "T": 16,
       "U": 2
     },
     "grid": {
       "E": {
-        "5": 2,
+        "5": 3,
         "7": 2
       },
       "I": {
@@ -97,7 +96,7 @@
       "L": {
         "4": 7,
         "5": 1,
-        "6": 5,
+        "6": 4,
         "7": 2
       },
       "N": {
@@ -113,7 +112,7 @@
       "T": {
         "4": 8,
         "5": 4,
-        "6": 4,
+        "6": 3,
         "8": 1
       },
       "U": {
@@ -121,12 +120,12 @@
       }
     },
     "two_letter_list": {
-      "EL": 1,
+      "EL": 2,
       "EN": 3,
       "IN": 6,
       "LE": 4,
       "LI": 8,
-      "LO": 2,
+      "LO": 1,
       "LU": 1,
       "NE": 3,
       "NI": 2,
@@ -134,7 +133,7 @@
       "OL": 1,
       "ON": 1,
       "OU": 2,
-      "TE": 6,
+      "TE": 5,
       "TI": 4,
       "TO": 4,
       "TU": 3,

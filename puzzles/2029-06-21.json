@@ -1,9 +1,9 @@
 {
   "pangram": "backing",
   "center_letter": "c",
-  "num_answers": 24,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 136,
+  "possible_points": 144,
   "answer_pangrams": [
     "backing"
   ],
@@ -17,6 +17,7 @@
     "cabana",
     "cabbing",
     "cabin",
+    "cabining",
     "caging",
     "caking",
     "cancan",
@@ -40,13 +41,13 @@
       "5": 6,
       "6": 7,
       "7": 5,
-      "8": 1,
+      "8": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 4,
       "B": 2,
-      "C": 9,
+      "C": 10,
       "I": 1,
       "K": 5,
       "N": 3
@@ -64,7 +65,8 @@
       "C": {
         "5": 2,
         "6": 5,
-        "7": 2
+        "7": 2,
+        "8": 1
       },
       "I": {
         "5": 1
@@ -86,7 +88,7 @@
       "AB": 1,
       "AC": 3,
       "BA": 2,
-      "CA": 9,
+      "CA": 10,
       "IC": 1,
       "KI": 3,
       "KN": 2,

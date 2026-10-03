@@ -1,9 +1,9 @@
 {
   "pangram": "camphor",
   "center_letter": "a",
-  "num_answers": 47,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 177,
+  "possible_points": 182,
   "answer_pangrams": [
     "camphor"
   ],
@@ -46,6 +46,7 @@
     "march",
     "mocha",
     "momma",
+    "pampa",
     "papa",
     "parch",
     "pharaoh",
@@ -60,7 +61,7 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 22,
+      "5": 23,
       "6": 2,
       "7": 3,
       "8": 1
@@ -70,7 +71,7 @@
       "C": 21,
       "H": 3,
       "M": 8,
-      "P": 5,
+      "P": 6,
       "R": 4
     },
     "grid": {
@@ -95,7 +96,7 @@
       },
       "P": {
         "4": 2,
-        "5": 2,
+        "5": 3,
         "7": 1
       },
       "R": {
@@ -115,7 +116,7 @@
       "HA": 3,
       "MA": 6,
       "MO": 2,
-      "PA": 2,
+      "PA": 3,
       "PH": 1,
       "PO": 1,
       "PR": 1,

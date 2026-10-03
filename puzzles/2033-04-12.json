@@ -1,7 +1,7 @@
 {
   "pangram": "bailout",
   "center_letter": "o",
-  "num_answers": 37,
+  "num_answers": 38,
   "num_pangrams": 1,
   "possible_points": 108,
   "answer_pangrams": [
@@ -17,17 +17,18 @@
     "bailout",
     "ballot",
     "baobab",
+    "biota",
     "bloat",
     "blob",
     "blot",
     "boat",
+    "boba",
     "bobtail",
     "boil",
     "bola",
     "boll",
     "bolt",
     "boob",
-    "booboo",
     "boot",
     "bout",
     "iota",
@@ -49,14 +50,14 @@
   "date": "2033-04-12",
   "hints": {
     "by_length": {
-      "4": 23,
-      "5": 8,
-      "6": 4,
+      "4": 24,
+      "5": 9,
+      "6": 3,
       "7": 2
     },
     "by_first_letter": {
       "A": 6,
-      "B": 16,
+      "B": 17,
       "I": 1,
       "L": 4,
       "O": 2,
@@ -68,9 +69,9 @@
         "5": 4
       },
       "B": {
-        "4": 10,
-        "5": 1,
-        "6": 3,
+        "4": 11,
+        "5": 2,
+        "6": 2,
         "7": 2
       },
       "I": {
@@ -95,6 +96,7 @@
       "AT": 1,
       "AU": 1,
       "BA": 3,
+      "BI": 1,
       "BL": 3,
       "BO": 10,
       "IO": 1,

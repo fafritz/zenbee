@@ -1,14 +1,15 @@
 {
   "pangram": "rotunda",
   "center_letter": "t",
-  "num_answers": 53,
+  "num_answers": 55,
   "num_pangrams": 2,
-  "possible_points": 214,
+  "possible_points": 221,
   "answer_pangrams": [
     "rotunda",
     "turnaround"
   ],
   "answers": [
+    "annatto",
     "aorta",
     "arrant",
     "attar",
@@ -27,7 +28,6 @@
     "outran",
     "outrun",
     "rant",
-    "ratatat",
     "rattan",
     "root",
     "rotor",
@@ -35,6 +35,8 @@
     "rotunda",
     "rout",
     "runt",
+    "tantra",
+    "tarn",
     "taro",
     "tarot",
     "tart",
@@ -66,26 +68,27 @@
   "date": "2031-10-02",
   "hints": {
     "by_length": {
-      "4": 24,
+      "4": 25,
       "5": 10,
-      "6": 11,
+      "6": 12,
       "7": 6,
       "8": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 6,
       "D": 4,
       "N": 1,
       "O": 7,
-      "R": 9,
-      "T": 27
+      "R": 8,
+      "T": 29
     },
     "grid": {
       "A": {
         "4": 2,
         "5": 2,
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "D": {
         "4": 2,
@@ -104,17 +107,18 @@
         "4": 4,
         "5": 1,
         "6": 2,
-        "7": 2
+        "7": 1
       },
       "T": {
-        "4": 15,
+        "4": 16,
         "5": 4,
-        "6": 5,
+        "6": 6,
         "7": 2,
         "10": 1
       }
     },
     "two_letter_list": {
+      "AN": 1,
       "AO": 1,
       "AR": 1,
       "AT": 1,
@@ -125,10 +129,10 @@
       "ON": 1,
       "OR": 2,
       "OU": 4,
-      "RA": 3,
+      "RA": 2,
       "RO": 5,
       "RU": 1,
-      "TA": 8,
+      "TA": 10,
       "TO": 8,
       "TR": 4,
       "TU": 7

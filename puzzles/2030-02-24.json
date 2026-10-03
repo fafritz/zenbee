@@ -1,9 +1,9 @@
 {
   "pangram": "flaming",
   "center_letter": "f",
-  "num_answers": 32,
+  "num_answers": 34,
   "num_pangrams": 3,
-  "possible_points": 196,
+  "possible_points": 205,
   "answer_pangrams": [
     "flaming",
     "flimflamming",
@@ -33,6 +33,7 @@
     "flailing",
     "flaming",
     "flan",
+    "flanging",
     "flimflam",
     "flimflamming",
     "fling",
@@ -41,25 +42,27 @@
     "gaffing",
     "inflaming",
     "miff",
-    "miffing"
+    "miffing",
+    "naif"
   ],
   "date": "2030-02-24",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 10,
       "5": 3,
       "6": 3,
       "7": 9,
-      "8": 5,
+      "8": 6,
       "9": 2,
       "12": 1
     },
     "by_first_letter": {
       "A": 1,
-      "F": 26,
+      "F": 27,
       "G": 2,
       "I": 1,
-      "M": 2
+      "M": 2,
+      "N": 1
     },
     "grid": {
       "A": {
@@ -70,7 +73,7 @@
         "5": 3,
         "6": 3,
         "7": 6,
-        "8": 5,
+        "8": 6,
         "9": 1,
         "12": 1
       },
@@ -84,16 +87,20 @@
       "M": {
         "4": 1,
         "7": 1
+      },
+      "N": {
+        "4": 1
       }
     },
     "two_letter_list": {
       "AL": 1,
       "FA": 7,
       "FI": 9,
-      "FL": 10,
+      "FL": 11,
       "GA": 2,
       "IN": 1,
-      "MI": 2
+      "MI": 2,
+      "NA": 1
     }
   }
 }

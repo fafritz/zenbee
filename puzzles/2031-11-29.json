@@ -1,9 +1,9 @@
 {
   "pangram": "nightly",
   "center_letter": "l",
-  "num_answers": 35,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 198,
+  "possible_points": 204,
   "answer_pangrams": [
     "nightly"
   ],
@@ -24,6 +24,7 @@
     "lighting",
     "lightly",
     "lightning",
+    "lignin",
     "lilt",
     "lilting",
     "lily",
@@ -49,7 +50,7 @@
     "by_length": {
       "4": 9,
       "5": 4,
-      "6": 6,
+      "6": 7,
       "7": 8,
       "8": 5,
       "9": 2,
@@ -58,7 +59,7 @@
     "by_first_letter": {
       "G": 6,
       "H": 6,
-      "L": 11,
+      "L": 12,
       "N": 2,
       "T": 10
     },
@@ -79,7 +80,7 @@
       "L": {
         "4": 3,
         "5": 2,
-        "6": 1,
+        "6": 2,
         "7": 3,
         "8": 1,
         "9": 1
@@ -99,7 +100,7 @@
       "GI": 4,
       "GL": 2,
       "HI": 6,
-      "LI": 10,
+      "LI": 11,
       "LY": 1,
       "NI": 2,
       "TH": 1,

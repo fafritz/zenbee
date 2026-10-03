@@ -1,9 +1,9 @@
 {
   "pangram": "include",
   "center_letter": "u",
-  "num_answers": 45,
+  "num_answers": 47,
   "num_pangrams": 2,
-  "possible_points": 232,
+  "possible_points": 244,
   "answer_pangrams": [
     "include",
     "included"
@@ -23,6 +23,7 @@
     "denude",
     "denuded",
     "deuce",
+    "deuced",
     "dude",
     "duded",
     "duel",
@@ -32,15 +33,16 @@
     "dunce",
     "dune",
     "dunned",
+    "educe",
     "elude",
     "eluded",
-    "endue",
     "endued",
     "ennui",
     "include",
     "included",
     "induce",
     "induced",
+    "inulin",
     "lieu",
     "lucid",
     "lull",
@@ -60,16 +62,16 @@
     "by_length": {
       "4": 11,
       "5": 11,
-      "6": 13,
+      "6": 15,
       "7": 7,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
       "C": 7,
-      "D": 16,
+      "D": 17,
       "E": 5,
-      "I": 4,
+      "I": 5,
       "L": 5,
       "N": 3,
       "U": 5
@@ -84,7 +86,7 @@
       "D": {
         "4": 4,
         "5": 3,
-        "6": 6,
+        "6": 7,
         "7": 3
       },
       "E": {
@@ -92,7 +94,7 @@
         "6": 2
       },
       "I": {
-        "6": 1,
+        "6": 2,
         "7": 2,
         "8": 1
       },
@@ -115,11 +117,12 @@
     "two_letter_list": {
       "CL": 2,
       "CU": 5,
-      "DE": 7,
+      "DE": 8,
       "DU": 9,
+      "ED": 1,
       "EL": 2,
-      "EN": 3,
-      "IN": 4,
+      "EN": 2,
+      "IN": 5,
       "LI": 1,
       "LU": 4,
       "NU": 3,

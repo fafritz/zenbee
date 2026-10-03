@@ -1,9 +1,9 @@
 {
   "pangram": "lacking",
   "center_letter": "g",
-  "num_answers": 63,
+  "num_answers": 66,
   "num_pangrams": 5,
-  "possible_points": 426,
+  "possible_points": 441,
   "answer_pangrams": [
     "cackling",
     "calking",
@@ -37,10 +37,12 @@
     "cling",
     "clinging",
     "clinking",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -68,6 +70,7 @@
     "lagging",
     "lancing",
     "licking",
+    "lignin",
     "liking",
     "lining",
     "linking",
@@ -79,20 +82,20 @@
   "date": "2037-10-20",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 8,
       "5": 7,
-      "6": 10,
+      "6": 11,
       "7": 25,
-      "8": 12,
+      "8": 13,
       "9": 2
     },
     "by_first_letter": {
       "A": 9,
       "C": 16,
-      "G": 16,
+      "G": 18,
       "I": 5,
       "K": 5,
-      "L": 8,
+      "L": 9,
       "N": 4
     },
     "grid": {
@@ -111,9 +114,9 @@
         "9": 1
       },
       "G": {
-        "4": 5,
+        "4": 6,
         "7": 8,
-        "8": 3
+        "8": 4
       },
       "I": {
         "5": 1,
@@ -126,7 +129,7 @@
         "7": 4
       },
       "L": {
-        "6": 3,
+        "6": 4,
         "7": 5
       },
       "N": {
@@ -142,14 +145,14 @@
       "AN": 2,
       "CA": 8,
       "CL": 8,
-      "GA": 10,
+      "GA": 12,
       "GI": 4,
       "GL": 2,
       "IC": 1,
       "IN": 4,
       "KI": 5,
       "LA": 4,
-      "LI": 4,
+      "LI": 5,
       "NA": 2,
       "NI": 2
     }

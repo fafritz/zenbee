@@ -1,9 +1,9 @@
 {
   "pangram": "vibrato",
   "center_letter": "t",
-  "num_answers": 41,
+  "num_answers": 42,
   "num_pangrams": 1,
-  "possible_points": 181,
+  "possible_points": 180,
   "answer_pangrams": [
     "vibrato"
   ],
@@ -18,6 +18,7 @@
     "avatar",
     "aviator",
     "bait",
+    "biota",
     "boat",
     "boot",
     "brat",
@@ -27,11 +28,11 @@
     "oratorio",
     "orbit",
     "rabbit",
-    "ratatat",
     "ratio",
     "riot",
     "robot",
     "root",
+    "roti",
     "rotor",
     "taboo",
     "taro",
@@ -53,16 +54,16 @@
   "date": "2032-07-03",
   "hints": {
     "by_length": {
-      "4": 14,
-      "5": 14,
+      "4": 15,
+      "5": 15,
       "6": 6,
-      "7": 4,
+      "7": 3,
       "8": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 9,
-      "B": 4,
+      "B": 5,
       "I": 1,
       "O": 4,
       "R": 7,
@@ -78,7 +79,8 @@
         "10": 1
       },
       "B": {
-        "4": 4
+        "4": 4,
+        "5": 1
       },
       "I": {
         "4": 1
@@ -90,10 +92,9 @@
         "8": 1
       },
       "R": {
-        "4": 2,
+        "4": 3,
         "5": 3,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
         "4": 6,
@@ -112,14 +113,15 @@
       "AT": 2,
       "AV": 2,
       "BA": 1,
+      "BI": 1,
       "BO": 2,
       "BR": 1,
       "IO": 1,
       "OB": 1,
       "OR": 3,
-      "RA": 3,
+      "RA": 2,
       "RI": 1,
-      "RO": 3,
+      "RO": 4,
       "TA": 6,
       "TI": 2,
       "TO": 2,

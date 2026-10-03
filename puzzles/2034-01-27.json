@@ -1,9 +1,9 @@
 {
   "pangram": "bulking",
   "center_letter": "g",
-  "num_answers": 46,
+  "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 281,
+  "possible_points": 300,
   "answer_pangrams": [
     "bulking"
   ],
@@ -11,6 +11,7 @@
     "biking",
     "bilking",
     "billing",
+    "binging",
     "binning",
     "bling",
     "blinking",
@@ -43,11 +44,13 @@
     "kilning",
     "king",
     "kinking",
+    "lignin",
     "liking",
     "lining",
     "linking",
     "lubing",
     "lugging",
+    "luging",
     "lulling",
     "lung",
     "lunging",
@@ -60,16 +63,16 @@
     "by_length": {
       "4": 7,
       "5": 1,
-      "6": 10,
-      "7": 22,
+      "6": 12,
+      "7": 23,
       "8": 6
     },
     "by_first_letter": {
-      "B": 17,
+      "B": 18,
       "G": 11,
       "I": 3,
       "K": 4,
-      "L": 8,
+      "L": 10,
       "N": 3
     },
     "grid": {
@@ -77,7 +80,7 @@
         "4": 1,
         "5": 1,
         "6": 2,
-        "7": 10,
+        "7": 11,
         "8": 3
       },
       "G": {
@@ -96,7 +99,7 @@
       },
       "L": {
         "4": 1,
-        "6": 3,
+        "6": 5,
         "7": 4
       },
       "N": {
@@ -105,7 +108,7 @@
       }
     },
     "two_letter_list": {
-      "BI": 4,
+      "BI": 5,
       "BL": 3,
       "BU": 10,
       "GI": 5,
@@ -113,8 +116,8 @@
       "GU": 4,
       "IN": 3,
       "KI": 4,
-      "LI": 3,
-      "LU": 5,
+      "LI": 4,
+      "LU": 6,
       "NI": 2,
       "NU": 1
     }

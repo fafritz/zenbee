@@ -1,9 +1,9 @@
 {
   "pangram": "clewing",
   "center_letter": "g",
-  "num_answers": 40,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 246,
+  "possible_points": 264,
   "answer_pangrams": [
     "clewing"
   ],
@@ -12,6 +12,7 @@
     "clewing",
     "cling",
     "clinging",
+    "eeling",
     "egging",
     "engine",
     "geeing",
@@ -19,6 +20,7 @@
     "gene",
     "genie",
     "genii",
+    "giclee",
     "gigging",
     "giggle",
     "giggling",
@@ -31,6 +33,7 @@
     "inning",
     "legging",
     "liege",
+    "lignin",
     "lining",
     "negligee",
     "negligence",
@@ -54,7 +57,7 @@
     "by_length": {
       "4": 5,
       "5": 5,
-      "6": 11,
+      "6": 14,
       "7": 12,
       "8": 5,
       "9": 1,
@@ -62,10 +65,10 @@
     },
     "by_first_letter": {
       "C": 4,
-      "E": 2,
-      "G": 12,
+      "E": 3,
+      "G": 13,
       "I": 3,
-      "L": 3,
+      "L": 4,
       "N": 4,
       "W": 12
     },
@@ -76,12 +79,12 @@
         "8": 1
       },
       "E": {
-        "6": 2
+        "6": 3
       },
       "G": {
         "4": 4,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 3,
         "8": 1
       },
@@ -92,7 +95,7 @@
       },
       "L": {
         "5": 1,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "N": {
@@ -110,15 +113,16 @@
     "two_letter_list": {
       "CE": 1,
       "CL": 3,
+      "EE": 1,
       "EG": 1,
       "EN": 1,
       "GE": 5,
-      "GI": 5,
+      "GI": 6,
       "GL": 2,
       "IC": 1,
       "IN": 2,
       "LE": 1,
-      "LI": 2,
+      "LI": 3,
       "NE": 2,
       "NI": 2,
       "WE": 2,

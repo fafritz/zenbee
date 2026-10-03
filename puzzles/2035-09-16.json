@@ -1,9 +1,9 @@
 {
   "pangram": "farming",
   "center_letter": "g",
-  "num_answers": 74,
+  "num_answers": 79,
   "num_pangrams": 3,
-  "possible_points": 458,
+  "possible_points": 492,
   "answer_pangrams": [
     "affirming",
     "farming",
@@ -23,6 +23,7 @@
     "arraign",
     "arraigning",
     "arranging",
+    "fairing",
     "fang",
     "fanning",
     "faring",
@@ -35,6 +36,7 @@
     "fringing",
     "gaff",
     "gaffing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -57,6 +59,8 @@
     "imaging",
     "imagining",
     "infringing",
+    "ingrain",
+    "ingraining",
     "inning",
     "magma",
     "maiming",
@@ -64,6 +68,7 @@
     "manga",
     "manning",
     "margin",
+    "margining",
     "marring",
     "miffing",
     "miming",
@@ -88,20 +93,20 @@
   "date": "2035-09-16",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 13,
       "5": 6,
       "6": 17,
-      "7": 28,
+      "7": 30,
       "8": 5,
-      "9": 3,
-      "10": 3
+      "9": 4,
+      "10": 4
     },
     "by_first_letter": {
       "A": 13,
-      "F": 10,
-      "G": 21,
-      "I": 4,
-      "M": 11,
+      "F": 11,
+      "G": 22,
+      "I": 6,
+      "M": 12,
       "N": 2,
       "R": 13
     },
@@ -118,11 +123,11 @@
       "F": {
         "4": 2,
         "6": 3,
-        "7": 4,
+        "7": 5,
         "8": 1
       },
       "G": {
-        "4": 6,
+        "4": 7,
         "5": 2,
         "6": 1,
         "7": 9,
@@ -131,15 +136,16 @@
       },
       "I": {
         "6": 1,
-        "7": 1,
+        "7": 2,
         "9": 1,
-        "10": 1
+        "10": 2
       },
       "M": {
         "5": 2,
         "6": 4,
         "7": 4,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "N": {
         "6": 1,
@@ -157,15 +163,15 @@
       "AI": 2,
       "AN": 2,
       "AR": 4,
-      "FA": 4,
+      "FA": 5,
       "FI": 3,
       "FR": 3,
-      "GA": 10,
+      "GA": 11,
       "GI": 2,
       "GR": 9,
       "IM": 2,
-      "IN": 2,
-      "MA": 7,
+      "IN": 4,
+      "MA": 8,
       "MI": 4,
       "NA": 2,
       "RA": 8,

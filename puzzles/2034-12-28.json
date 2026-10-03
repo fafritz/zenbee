@@ -1,9 +1,9 @@
 {
   "pangram": "languid",
   "center_letter": "u",
-  "num_answers": 35,
+  "num_answers": 37,
   "num_pangrams": 3,
-  "possible_points": 195,
+  "possible_points": 207,
   "answer_pangrams": [
     "alluding",
     "languid",
@@ -30,12 +30,14 @@
     "gunning",
     "iguana",
     "indulging",
+    "inulin",
     "languid",
     "laud",
     "lauding",
     "lingual",
     "luau",
     "lugging",
+    "luging",
     "lull",
     "lulling",
     "lulu",
@@ -51,7 +53,7 @@
     "by_length": {
       "4": 11,
       "5": 3,
-      "6": 4,
+      "6": 6,
       "7": 14,
       "8": 1,
       "9": 2
@@ -60,8 +62,8 @@
       "A": 4,
       "D": 7,
       "G": 7,
-      "I": 2,
-      "L": 11,
+      "I": 3,
+      "L": 12,
       "N": 2,
       "U": 2
     },
@@ -84,11 +86,12 @@
         "7": 4
       },
       "I": {
-        "6": 1,
+        "6": 2,
         "9": 1
       },
       "L": {
         "4": 5,
+        "6": 1,
         "7": 6
       },
       "N": {
@@ -108,10 +111,10 @@
       "GL": 1,
       "GU": 5,
       "IG": 1,
-      "IN": 1,
+      "IN": 2,
       "LA": 3,
       "LI": 1,
-      "LU": 7,
+      "LU": 8,
       "NU": 2,
       "UL": 1,
       "UN": 1

@@ -1,9 +1,9 @@
 {
   "pangram": "alimony",
   "center_letter": "n",
-  "num_answers": 50,
+  "num_answers": 52,
   "num_pangrams": 2,
-  "possible_points": 221,
+  "possible_points": 239,
   "answer_pangrams": [
     "alimony",
     "nominally"
@@ -12,7 +12,6 @@
     "alimony",
     "amino",
     "ammonia",
-    "anal",
     "animal",
     "anion",
     "annoy",
@@ -20,6 +19,7 @@
     "anon",
     "inlay",
     "lain",
+    "lanai",
     "lanolin",
     "layman",
     "limn",
@@ -28,6 +28,7 @@
     "loan",
     "loin",
     "loon",
+    "loony",
     "mailman",
     "main",
     "mainly",
@@ -55,6 +56,7 @@
     "ninny",
     "nominal",
     "nominally",
+    "nonillion",
     "noon",
     "nylon",
     "onion",
@@ -63,23 +65,23 @@
   "date": "2030-02-15",
   "hints": {
     "by_length": {
-      "4": 20,
-      "5": 13,
+      "4": 19,
+      "5": 15,
       "6": 5,
       "7": 8,
-      "9": 4
+      "9": 5
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 8,
       "I": 1,
-      "L": 9,
+      "L": 11,
       "M": 20,
-      "N": 9,
+      "N": 10,
       "O": 2
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 3,
         "6": 1,
         "7": 3
@@ -89,7 +91,7 @@
       },
       "L": {
         "4": 6,
-        "5": 1,
+        "5": 3,
         "6": 1,
         "7": 1
       },
@@ -104,7 +106,7 @@
         "4": 4,
         "5": 3,
         "7": 1,
-        "9": 1
+        "9": 2
       },
       "O": {
         "4": 1,
@@ -114,19 +116,19 @@
     "two_letter_list": {
       "AL": 1,
       "AM": 2,
-      "AN": 6,
+      "AN": 5,
       "IN": 1,
-      "LA": 3,
+      "LA": 4,
       "LI": 2,
       "LL": 1,
-      "LO": 3,
+      "LO": 4,
       "MA": 8,
       "MI": 7,
       "MO": 4,
       "MY": 1,
       "NA": 4,
       "NI": 1,
-      "NO": 3,
+      "NO": 4,
       "NY": 1,
       "ON": 2
     }

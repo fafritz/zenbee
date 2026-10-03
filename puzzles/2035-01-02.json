@@ -1,9 +1,9 @@
 {
   "pangram": "draping",
   "center_letter": "r",
-  "num_answers": 67,
+  "num_answers": 69,
   "num_pangrams": 2,
-  "possible_points": 356,
+  "possible_points": 373,
   "answer_pangrams": [
     "draping",
     "parading"
@@ -44,6 +44,8 @@
     "grip",
     "griping",
     "gripping",
+    "ingrain",
+    "ingraining",
     "nadir",
     "pair",
     "pairing",
@@ -83,15 +85,16 @@
       "4": 19,
       "5": 10,
       "6": 7,
-      "7": 20,
+      "7": 21,
       "8": 9,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 8,
       "D": 11,
       "G": 16,
+      "I": 2,
       "N": 1,
       "P": 7,
       "R": 24
@@ -117,6 +120,10 @@
         "5": 3,
         "7": 4,
         "8": 4
+      },
+      "I": {
+        "7": 1,
+        "10": 1
       },
       "N": {
         "5": 1
@@ -144,6 +151,7 @@
       "GA": 1,
       "GI": 2,
       "GR": 13,
+      "IN": 2,
       "NA": 1,
       "PA": 5,
       "PR": 2,

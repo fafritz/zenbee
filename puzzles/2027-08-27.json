@@ -1,9 +1,9 @@
 {
   "pangram": "chantey",
   "center_letter": "t",
-  "num_answers": 59,
+  "num_answers": 60,
   "num_pangrams": 1,
-  "possible_points": 276,
+  "possible_points": 282,
   "answer_pangrams": [
     "chantey"
   ],
@@ -44,6 +44,7 @@
     "heathen",
     "natty",
     "neat",
+    "neaten",
     "neath",
     "tact",
     "tatty",
@@ -73,7 +74,7 @@
     "by_length": {
       "4": 17,
       "5": 18,
-      "6": 9,
+      "6": 10,
       "7": 12,
       "8": 3
     },
@@ -82,7 +83,7 @@
       "C": 15,
       "E": 6,
       "H": 6,
-      "N": 3,
+      "N": 4,
       "T": 21,
       "Y": 1
     },
@@ -113,7 +114,8 @@
       },
       "N": {
         "4": 1,
-        "5": 2
+        "5": 2,
+        "6": 1
       },
       "T": {
         "4": 9,
@@ -139,7 +141,7 @@
       "HA": 3,
       "HE": 3,
       "NA": 1,
-      "NE": 2,
+      "NE": 3,
       "TA": 2,
       "TE": 11,
       "TH": 8,

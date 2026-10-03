@@ -1,9 +1,9 @@
 {
   "pangram": "valuing",
   "center_letter": "a",
-  "num_answers": 52,
+  "num_answers": 54,
   "num_pangrams": 2,
-  "possible_points": 271,
+  "possible_points": 284,
   "answer_pangrams": [
     "unavailing",
     "valuing"
@@ -16,7 +16,6 @@
     "align",
     "aligning",
     "alluvial",
-    "anal",
     "angina",
     "angling",
     "annual",
@@ -26,10 +25,12 @@
     "avail",
     "availing",
     "avian",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -41,6 +42,7 @@
     "iguana",
     "lagging",
     "lain",
+    "lanai",
     "lava",
     "lingual",
     "luau",
@@ -66,25 +68,25 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 11,
+      "5": 12,
       "6": 4,
       "7": 16,
-      "8": 4,
+      "8": 5,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 17,
-      "G": 12,
+      "A": 16,
+      "G": 14,
       "I": 1,
-      "L": 5,
+      "L": 6,
       "N": 6,
       "U": 3,
       "V": 8
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 7,
         "6": 3,
         "7": 1,
@@ -92,16 +94,17 @@
         "9": 1
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "5": 1,
         "7": 6,
-        "8": 1
+        "8": 2
       },
       "I": {
         "6": 1
       },
       "L": {
         "4": 3,
+        "5": 1,
         "7": 2
       },
       "N": {
@@ -124,12 +127,12 @@
       "AG": 2,
       "AI": 1,
       "AL": 4,
-      "AN": 7,
+      "AN": 6,
       "AV": 3,
-      "GA": 11,
+      "GA": 13,
       "GU": 1,
       "IG": 1,
-      "LA": 3,
+      "LA": 4,
       "LI": 1,
       "LU": 1,
       "NA": 6,

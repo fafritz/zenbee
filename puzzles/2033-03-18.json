@@ -1,9 +1,9 @@
 {
   "pangram": "coinage",
   "center_letter": "c",
-  "num_answers": 46,
+  "num_answers": 49,
   "num_pangrams": 3,
-  "possible_points": 257,
+  "possible_points": 275,
   "answer_pangrams": [
     "canoeing",
     "coinage",
@@ -34,6 +34,7 @@
     "cocoa",
     "cocoon",
     "cocooning",
+    "cogging",
     "cognac",
     "coin",
     "coinage",
@@ -46,7 +47,9 @@
     "cooing",
     "icing",
     "icon",
+    "iconic",
     "innocence",
+    "ionic",
     "neocon",
     "niacin",
     "nice",
@@ -61,17 +64,17 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 13,
-      "6": 11,
-      "7": 6,
+      "5": 14,
+      "6": 12,
+      "7": 7,
       "8": 2,
       "9": 3,
       "10": 1
     },
     "by_first_letter": {
       "A": 4,
-      "C": 30,
-      "I": 3,
+      "C": 31,
+      "I": 5,
       "N": 5,
       "O": 4
     },
@@ -85,13 +88,14 @@
         "4": 5,
         "5": 8,
         "6": 8,
-        "7": 5,
+        "7": 6,
         "8": 2,
         "9": 2
       },
       "I": {
         "4": 1,
-        "5": 1,
+        "5": 2,
+        "6": 1,
         "9": 1
       },
       "N": {
@@ -109,9 +113,10 @@
     "two_letter_list": {
       "AC": 4,
       "CA": 14,
-      "CO": 16,
-      "IC": 2,
+      "CO": 17,
+      "IC": 3,
       "IN": 1,
+      "IO": 1,
       "NE": 1,
       "NI": 3,
       "NO": 1,

@@ -1,16 +1,16 @@
 {
   "pangram": "notable",
   "center_letter": "n",
-  "num_answers": 73,
+  "num_answers": 75,
   "num_pangrams": 1,
-  "possible_points": 297,
+  "possible_points": 316,
   "answer_pangrams": [
     "notable"
   ],
   "answers": [
     "abalone",
     "alone",
-    "anal",
+    "annatto",
     "anneal",
     "annotate",
     "anon",
@@ -43,6 +43,7 @@
     "ennoble",
     "entente",
     "lane",
+    "lantana",
     "latent",
     "lean",
     "lent",
@@ -56,6 +57,7 @@
     "nanobot",
     "natal",
     "neat",
+    "neaten",
     "nene",
     "neon",
     "neonatal",
@@ -66,13 +68,13 @@
     "none",
     "noon",
     "notable",
+    "notate",
     "note",
     "oaten",
     "onto",
     "talent",
     "talon",
     "teen",
-    "telnet",
     "tenable",
     "tenant",
     "tenet",
@@ -85,27 +87,27 @@
   "date": "2036-12-13",
   "hints": {
     "by_length": {
-      "4": 30,
+      "4": 29,
       "5": 14,
-      "6": 16,
-      "7": 10,
+      "6": 17,
+      "7": 12,
       "8": 3
     },
     "by_first_letter": {
       "A": 11,
       "B": 18,
       "E": 5,
-      "L": 8,
-      "N": 17,
+      "L": 9,
+      "N": 19,
       "O": 2,
-      "T": 12
+      "T": 11
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 2,
         "6": 2,
-        "7": 2,
+        "7": 3,
         "8": 2
       },
       "B": {
@@ -123,12 +125,13 @@
       "L": {
         "4": 6,
         "5": 1,
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "N": {
         "4": 9,
         "5": 3,
-        "6": 1,
+        "6": 3,
         "7": 3,
         "8": 1
       },
@@ -139,7 +142,7 @@
       "T": {
         "4": 4,
         "5": 4,
-        "6": 3,
+        "6": 2,
         "7": 1
       }
     },
@@ -155,17 +158,17 @@
       "EA": 1,
       "EL": 1,
       "EN": 3,
-      "LA": 2,
+      "LA": 3,
       "LE": 2,
       "LL": 1,
       "LO": 3,
       "NA": 5,
-      "NE": 6,
-      "NO": 6,
+      "NE": 7,
+      "NO": 7,
       "OA": 1,
       "ON": 1,
       "TA": 2,
-      "TE": 7,
+      "TE": 6,
       "TO": 3
     }
   }

@@ -1,9 +1,9 @@
 {
   "pangram": "thyroid",
   "center_letter": "t",
-  "num_answers": 27,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 100,
+  "possible_points": 101,
   "answer_pangrams": [
     "thyroid"
   ],
@@ -19,6 +19,7 @@
     "oddity",
     "riot",
     "root",
+    "roti",
     "rotor",
     "third",
     "thirty",
@@ -39,7 +40,7 @@
   "date": "2035-04-02",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 13,
       "5": 10,
       "6": 4,
       "7": 1
@@ -49,7 +50,7 @@
       "H": 1,
       "I": 1,
       "O": 1,
-      "R": 3,
+      "R": 4,
       "T": 15
     },
     "grid": {
@@ -67,7 +68,7 @@
         "6": 1
       },
       "R": {
-        "4": 2,
+        "4": 3,
         "5": 1
       },
       "T": {
@@ -85,7 +86,7 @@
       "ID": 1,
       "OD": 1,
       "RI": 1,
-      "RO": 2,
+      "RO": 3,
       "TH": 3,
       "TI": 1,
       "TO": 6,

@@ -1,9 +1,9 @@
 {
   "pangram": "foliage",
   "center_letter": "a",
-  "num_answers": 32,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 122,
+  "possible_points": 141,
   "answer_pangrams": [
     "foliage"
   ],
@@ -14,12 +14,15 @@
     "alga",
     "algae",
     "allege",
+    "allele",
     "aloe",
     "aloof",
     "eagle",
     "fail",
+    "falafel",
     "fall",
     "falloff",
+    "fella",
     "filial",
     "flag",
     "flagella",
@@ -29,6 +32,7 @@
     "foliage",
     "gaff",
     "gaffe",
+    "gaga",
     "gaggle",
     "gala",
     "gale",
@@ -44,17 +48,17 @@
   "date": "2032-01-05",
   "hints": {
     "by_length": {
-      "4": 15,
-      "5": 8,
-      "6": 4,
-      "7": 4,
+      "4": 16,
+      "5": 9,
+      "6": 5,
+      "7": 5,
       "8": 1
     },
     "by_first_letter": {
-      "A": 8,
+      "A": 9,
       "E": 1,
-      "F": 10,
-      "G": 8,
+      "F": 12,
+      "G": 9,
       "I": 1,
       "L": 3,
       "O": 1
@@ -63,7 +67,7 @@
       "A": {
         "4": 3,
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "E": {
@@ -71,13 +75,13 @@
       },
       "F": {
         "4": 5,
-        "5": 1,
+        "5": 2,
         "6": 1,
-        "7": 2,
+        "7": 3,
         "8": 1
       },
       "G": {
-        "4": 5,
+        "4": 6,
         "5": 1,
         "6": 2
       },
@@ -94,13 +98,14 @@
     },
     "two_letter_list": {
       "AG": 2,
-      "AL": 6,
+      "AL": 7,
       "EA": 1,
-      "FA": 3,
+      "FA": 4,
+      "FE": 1,
       "FI": 1,
       "FL": 4,
       "FO": 2,
-      "GA": 6,
+      "GA": 7,
       "GO": 2,
       "IL": 1,
       "LE": 2,

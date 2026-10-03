@@ -1,9 +1,9 @@
 {
   "pangram": "warming",
   "center_letter": "a",
-  "num_answers": 73,
+  "num_answers": 78,
   "num_pangrams": 1,
-  "possible_points": 393,
+  "possible_points": 427,
   "answer_pangrams": [
     "warming"
   ],
@@ -24,6 +24,7 @@
     "arranging",
     "awing",
     "awning",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -41,6 +42,8 @@
     "imaging",
     "imagining",
     "imam",
+    "ingrain",
+    "ingraining",
     "magma",
     "maim",
     "maiming",
@@ -53,6 +56,7 @@
     "manna",
     "manning",
     "margin",
+    "margining",
     "maria",
     "marina",
     "marring",
@@ -80,27 +84,28 @@
     "warring",
     "wigwag",
     "wigwagging",
-    "wigwam"
+    "wigwam",
+    "wingman"
   ],
   "date": "2034-12-07",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 11,
       "6": 17,
-      "7": 20,
+      "7": 22,
       "8": 3,
-      "9": 2,
-      "10": 3
+      "9": 3,
+      "10": 4
     },
     "by_first_letter": {
       "A": 16,
-      "G": 14,
-      "I": 3,
-      "M": 16,
+      "G": 15,
+      "I": 5,
+      "M": 17,
       "N": 4,
       "R": 9,
-      "W": 11
+      "W": 12
     },
     "grid": {
       "A": {
@@ -113,7 +118,7 @@
         "10": 1
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "5": 2,
         "6": 1,
         "7": 5,
@@ -122,15 +127,17 @@
       },
       "I": {
         "4": 1,
-        "7": 1,
-        "9": 1
+        "7": 2,
+        "9": 1,
+        "10": 1
       },
       "M": {
         "4": 3,
         "5": 6,
         "6": 3,
         "7": 3,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "N": {
         "4": 2,
@@ -145,7 +152,7 @@
       "W": {
         "4": 2,
         "6": 4,
-        "7": 4,
+        "7": 5,
         "10": 1
       }
     },
@@ -155,16 +162,17 @@
       "AN": 2,
       "AR": 5,
       "AW": 2,
-      "GA": 8,
+      "GA": 9,
       "GN": 2,
       "GR": 4,
       "IM": 3,
-      "MA": 15,
+      "IN": 2,
+      "MA": 16,
       "MI": 1,
       "NA": 4,
       "RA": 9,
       "WA": 8,
-      "WI": 3
+      "WI": 4
     }
   }
 }

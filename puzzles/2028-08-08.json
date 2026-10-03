@@ -1,9 +1,9 @@
 {
   "pangram": "rubdown",
   "center_letter": "b",
-  "num_answers": 22,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 92,
+  "possible_points": 86,
   "answer_pangrams": [
     "rubdown"
   ],
@@ -11,7 +11,6 @@
     "bonbon",
     "bond",
     "boob",
-    "booboo",
     "boon",
     "boor",
     "born",
@@ -36,11 +35,11 @@
     "by_length": {
       "4": 9,
       "5": 5,
-      "6": 5,
+      "6": 4,
       "7": 3
     },
     "by_first_letter": {
-      "B": 18,
+      "B": 17,
       "D": 1,
       "R": 1,
       "U": 2
@@ -49,7 +48,7 @@
       "B": {
         "4": 8,
         "5": 5,
-        "6": 4,
+        "6": 3,
         "7": 1
       },
       "D": {
@@ -64,7 +63,7 @@
       }
     },
     "two_letter_list": {
-      "BO": 11,
+      "BO": 10,
       "BR": 3,
       "BU": 4,
       "DR": 1,

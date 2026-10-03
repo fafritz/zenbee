@@ -3,7 +3,7 @@
   "center_letter": "n",
   "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 111,
+  "possible_points": 112,
   "answer_pangrams": [
     "frogman"
   ],
@@ -17,8 +17,8 @@
     "frogman",
     "gang",
     "gong",
-    "gonna",
     "goon",
+    "gorgon",
     "groan",
     "manga",
     "mango",
@@ -44,8 +44,8 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 11,
-      "6": 2,
+      "5": 10,
+      "6": 3,
       "7": 2,
       "8": 1
     },
@@ -71,7 +71,8 @@
       },
       "G": {
         "4": 3,
-        "5": 2
+        "5": 1,
+        "6": 1
       },
       "M": {
         "4": 4,

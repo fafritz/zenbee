@@ -1,9 +1,9 @@
 {
   "pangram": "turmoil",
   "center_letter": "i",
-  "num_answers": 19,
+  "num_answers": 20,
   "num_pangrams": 1,
-  "possible_points": 49,
+  "possible_points": 50,
   "answer_pangrams": [
     "turmoil"
   ],
@@ -20,6 +20,7 @@
     "rill",
     "riot",
     "roil",
+    "roti",
     "till",
     "tilt",
     "toil",
@@ -31,7 +32,7 @@
   "date": "2036-08-15",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 15,
       "5": 3,
       "6": 1,
       "7": 1
@@ -40,7 +41,7 @@
       "L": 3,
       "M": 4,
       "O": 2,
-      "R": 3,
+      "R": 4,
       "T": 7
     },
     "grid": {
@@ -57,7 +58,7 @@
         "4": 2
       },
       "R": {
-        "4": 3
+        "4": 4
       },
       "T": {
         "4": 5,
@@ -72,7 +73,7 @@
       "OL": 1,
       "OM": 1,
       "RI": 2,
-      "RO": 1,
+      "RO": 2,
       "TI": 2,
       "TO": 1,
       "TR": 3,

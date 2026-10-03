@@ -1,9 +1,9 @@
 {
   "pangram": "inboard",
   "center_letter": "n",
-  "num_answers": 48,
+  "num_answers": 51,
   "num_pangrams": 1,
-  "possible_points": 212,
+  "possible_points": 219,
   "answer_pangrams": [
     "inboard"
   ],
@@ -46,7 +46,9 @@
     "nadir",
     "naiad",
     "nana",
+    "noir",
     "noon",
+    "nori",
     "onion",
     "ordain",
     "radian",
@@ -55,13 +57,14 @@
     "ribbon",
     "rind",
     "roan",
-    "robin"
+    "robin",
+    "ronin"
   ],
   "date": "2028-06-18",
   "hints": {
     "by_length": {
-      "4": 16,
-      "5": 15,
+      "4": 18,
+      "5": 16,
       "6": 10,
       "7": 4,
       "8": 1,
@@ -72,9 +75,9 @@
       "B": 18,
       "D": 4,
       "I": 5,
-      "N": 6,
+      "N": 8,
       "O": 2,
-      "R": 7
+      "R": 8
     },
     "grid": {
       "A": {
@@ -99,7 +102,7 @@
         "7": 1
       },
       "N": {
-        "4": 3,
+        "4": 5,
         "5": 3
       },
       "O": {
@@ -108,7 +111,7 @@
       },
       "R": {
         "4": 3,
-        "5": 2,
+        "5": 3,
         "6": 2
       }
     },
@@ -127,12 +130,12 @@
       "IN": 4,
       "IR": 1,
       "NA": 5,
-      "NO": 1,
+      "NO": 3,
       "ON": 1,
       "OR": 1,
       "RA": 3,
       "RI": 2,
-      "RO": 2
+      "RO": 3
     }
   }
 }

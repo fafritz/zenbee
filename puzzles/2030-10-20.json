@@ -1,9 +1,9 @@
 {
   "pangram": "yowling",
   "center_letter": "l",
-  "num_answers": 47,
+  "num_answers": 50,
   "num_pangrams": 2,
-  "possible_points": 236,
+  "possible_points": 256,
   "answer_pangrams": [
     "glowingly",
     "yowling"
@@ -19,6 +19,7 @@
     "goggling",
     "googling",
     "igloo",
+    "lignin",
     "lily",
     "lingo",
     "lining",
@@ -33,10 +34,12 @@
     "longing",
     "longingly",
     "loon",
+    "loony",
     "lowing",
     "lowly",
     "lying",
     "niggling",
+    "nonillion",
     "nylon",
     "ogling",
     "oiling",
@@ -61,17 +64,17 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 6,
-      "6": 10,
+      "5": 7,
+      "6": 11,
       "7": 7,
       "8": 5,
-      "9": 3
+      "9": 4
     },
     "by_first_letter": {
       "G": 9,
       "I": 1,
-      "L": 17,
-      "N": 2,
+      "L": 19,
+      "N": 3,
       "O": 5,
       "W": 11,
       "Y": 2
@@ -89,14 +92,15 @@
       },
       "L": {
         "4": 7,
-        "5": 4,
-        "6": 2,
+        "5": 5,
+        "6": 3,
         "7": 3,
         "9": 1
       },
       "N": {
         "5": 1,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "O": {
         "4": 3,
@@ -119,10 +123,11 @@
       "GL": 3,
       "GO": 2,
       "IG": 1,
-      "LI": 4,
-      "LO": 12,
+      "LI": 5,
+      "LO": 13,
       "LY": 1,
       "NI": 1,
+      "NO": 1,
       "NY": 1,
       "OG": 1,
       "OI": 2,

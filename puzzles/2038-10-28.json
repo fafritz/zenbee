@@ -1,9 +1,9 @@
 {
   "pangram": "acronym",
   "center_letter": "y",
-  "num_answers": 30,
+  "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 138,
+  "possible_points": 137,
   "answer_pangrams": [
     "acronym"
   ],
@@ -21,7 +21,6 @@
     "corny",
     "coronary",
     "cranny",
-    "cray",
     "crayon",
     "crony",
     "cyan",
@@ -42,7 +41,7 @@
   "date": "2038-10-28",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 7,
       "5": 13,
       "6": 6,
       "7": 2,
@@ -50,7 +49,7 @@
     },
     "by_first_letter": {
       "A": 6,
-      "C": 11,
+      "C": 10,
       "M": 8,
       "N": 1,
       "R": 3,
@@ -64,7 +63,7 @@
         "7": 1
       },
       "C": {
-        "4": 2,
+        "4": 1,
         "5": 4,
         "6": 4,
         "8": 1
@@ -91,7 +90,7 @@
       "AR": 4,
       "CA": 4,
       "CO": 2,
-      "CR": 4,
+      "CR": 3,
       "CY": 1,
       "MA": 5,
       "MO": 2,

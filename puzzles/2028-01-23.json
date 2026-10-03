@@ -1,9 +1,9 @@
 {
   "pangram": "poniard",
   "center_letter": "o",
-  "num_answers": 46,
+  "num_answers": 48,
   "num_pangrams": 3,
-  "possible_points": 201,
+  "possible_points": 207,
   "answer_pangrams": [
     "paranoid",
     "poniard",
@@ -28,9 +28,10 @@
     "drop",
     "indoor",
     "inroad",
-    "ipod",
     "iron",
+    "noir",
     "noon",
+    "nori",
     "odor",
     "onion",
     "opinion",
@@ -55,13 +56,14 @@
     "road",
     "roan",
     "roar",
+    "ronin",
     "rood"
   ],
   "date": "2028-01-23",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 12,
+      "4": 20,
+      "5": 13,
       "6": 7,
       "7": 5,
       "8": 3
@@ -69,11 +71,11 @@
     "by_first_letter": {
       "A": 8,
       "D": 8,
-      "I": 4,
-      "N": 1,
+      "I": 3,
+      "N": 3,
       "O": 5,
       "P": 13,
-      "R": 7
+      "R": 8
     },
     "grid": {
       "A": {
@@ -87,11 +89,11 @@
         "6": 1
       },
       "I": {
-        "4": 2,
+        "4": 1,
         "6": 2
       },
       "N": {
-        "4": 1
+        "4": 3
       },
       "O": {
         "4": 1,
@@ -108,7 +110,7 @@
       },
       "R": {
         "4": 4,
-        "5": 2,
+        "5": 3,
         "8": 1
       }
     },
@@ -122,9 +124,8 @@
       "DO": 4,
       "DR": 3,
       "IN": 2,
-      "IP": 1,
       "IR": 1,
-      "NO": 1,
+      "NO": 3,
       "OD": 1,
       "ON": 1,
       "OP": 2,
@@ -134,7 +135,7 @@
       "PO": 4,
       "PR": 4,
       "RA": 3,
-      "RO": 4
+      "RO": 5
     }
   }
 }

@@ -1,16 +1,15 @@
 {
   "pangram": "foundry",
   "center_letter": "u",
-  "num_answers": 20,
+  "num_answers": 19,
   "num_pangrams": 1,
-  "possible_points": 76,
+  "possible_points": 71,
   "answer_pangrams": [
     "foundry"
   ],
   "answers": [
     "dour",
     "duff",
-    "dunno",
     "found",
     "foundry",
     "four",
@@ -33,12 +32,12 @@
   "hints": {
     "by_length": {
       "4": 9,
-      "5": 8,
+      "5": 7,
       "6": 1,
       "7": 2
     },
     "by_first_letter": {
-      "D": 3,
+      "D": 2,
       "F": 8,
       "N": 1,
       "R": 5,
@@ -47,8 +46,7 @@
     },
     "grid": {
       "D": {
-        "4": 2,
-        "5": 1
+        "4": 2
       },
       "F": {
         "4": 3,
@@ -73,7 +71,7 @@
     },
     "two_letter_list": {
       "DO": 1,
-      "DU": 2,
+      "DU": 1,
       "FO": 3,
       "FU": 5,
       "NO": 1,

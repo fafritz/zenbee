@@ -1,9 +1,9 @@
 {
   "pangram": "bigoted",
   "center_letter": "e",
-  "num_answers": 65,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 295,
+  "possible_points": 296,
   "answer_pangrams": [
     "bigoted"
   ],
@@ -14,6 +14,7 @@
     "begged",
     "begot",
     "beige",
+    "betide",
     "betided",
     "bidet",
     "biggie",
@@ -24,7 +25,7 @@
     "boded",
     "bogged",
     "bogie",
-    "boobed",
+    "bogied",
     "booed",
     "boogie",
     "boogied",
@@ -42,6 +43,7 @@
     "dittoed",
     "dodge",
     "dodged",
+    "doge",
     "dogged",
     "dogie",
     "dote",
@@ -61,7 +63,6 @@
     "gibe",
     "gibed",
     "gigged",
-    "gobbed",
     "oboe",
     "teed",
     "tide",
@@ -77,17 +78,17 @@
   "date": "2032-06-12",
   "hints": {
     "by_length": {
-      "4": 18,
+      "4": 19,
       "5": 19,
       "6": 22,
       "7": 5,
       "8": 1
     },
     "by_first_letter": {
-      "B": 22,
-      "D": 17,
+      "B": 23,
+      "D": 18,
       "E": 7,
-      "G": 8,
+      "G": 7,
       "O": 1,
       "T": 10
     },
@@ -95,11 +96,11 @@
       "B": {
         "4": 3,
         "5": 7,
-        "6": 9,
+        "6": 10,
         "7": 3
       },
       "D": {
-        "4": 5,
+        "4": 6,
         "5": 5,
         "6": 5,
         "7": 2
@@ -112,7 +113,7 @@
       "G": {
         "4": 2,
         "5": 2,
-        "6": 3,
+        "6": 2,
         "8": 1
       },
       "O": {
@@ -125,18 +126,17 @@
       }
     },
     "two_letter_list": {
-      "BE": 7,
+      "BE": 8,
       "BI": 4,
       "BO": 11,
       "DE": 5,
       "DI": 5,
-      "DO": 7,
+      "DO": 8,
       "EB": 1,
       "ED": 5,
       "EG": 1,
       "GE": 2,
       "GI": 5,
-      "GO": 1,
       "OB": 1,
       "TE": 1,
       "TI": 4,

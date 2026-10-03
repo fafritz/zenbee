@@ -1,9 +1,9 @@
 {
   "pangram": "fumbled",
   "center_letter": "b",
-  "num_answers": 45,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 239,
+  "possible_points": 245,
   "answer_pangrams": [
     "fumbled"
   ],
@@ -30,6 +30,7 @@
     "buff",
     "buffed",
     "bulb",
+    "bulbed",
     "bull",
     "bulled",
     "bumble",
@@ -59,13 +60,13 @@
     "by_length": {
       "4": 10,
       "5": 8,
-      "6": 15,
+      "6": 16,
       "7": 6,
       "8": 4,
       "9": 2
     },
     "by_first_letter": {
-      "B": 28,
+      "B": 29,
       "D": 3,
       "E": 4,
       "F": 5,
@@ -77,7 +78,7 @@
       "B": {
         "4": 7,
         "5": 4,
-        "6": 10,
+        "6": 11,
         "7": 3,
         "8": 2,
         "9": 2
@@ -112,7 +113,7 @@
     "two_letter_list": {
       "BE": 9,
       "BL": 7,
-      "BU": 12,
+      "BU": 13,
       "DU": 3,
       "EB": 1,
       "EM": 3,

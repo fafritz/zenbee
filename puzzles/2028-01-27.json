@@ -3,13 +3,12 @@
   "center_letter": "n",
   "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 78,
+  "possible_points": 77,
   "answer_pangrams": [
     "phoenix"
   ],
   "answers": [
     "hone",
-    "iphone",
     "nene",
     "neon",
     "nine",
@@ -22,6 +21,7 @@
     "opinion",
     "oxen",
     "peen",
+    "penne",
     "pennon",
     "peon",
     "phoenix",
@@ -36,24 +36,20 @@
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 4,
-      "6": 4,
+      "5": 5,
+      "6": 3,
       "7": 2
     },
     "by_first_letter": {
       "H": 1,
-      "I": 1,
       "N": 6,
       "O": 5,
-      "P": 9,
+      "P": 10,
       "X": 1
     },
     "grid": {
       "H": {
         "4": 1
-      },
-      "I": {
-        "6": 1
       },
       "N": {
         "4": 6
@@ -65,7 +61,7 @@
       },
       "P": {
         "4": 4,
-        "5": 1,
+        "5": 2,
         "6": 3,
         "7": 1
       },
@@ -75,14 +71,13 @@
     },
     "two_letter_list": {
       "HO": 1,
-      "IP": 1,
       "NE": 2,
       "NI": 1,
       "NO": 3,
       "ON": 1,
       "OP": 3,
       "OX": 1,
-      "PE": 3,
+      "PE": 4,
       "PH": 2,
       "PI": 3,
       "PO": 1,

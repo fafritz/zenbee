@@ -1,9 +1,9 @@
 {
   "pangram": "heating",
   "center_letter": "a",
-  "num_answers": 68,
+  "num_answers": 70,
   "num_pangrams": 1,
-  "possible_points": 365,
+  "possible_points": 372,
   "answer_pangrams": [
     "heating"
   ],
@@ -27,6 +27,7 @@
     "eating",
     "engage",
     "engaging",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -58,6 +59,7 @@
     "nagging",
     "nana",
     "neat",
+    "neaten",
     "neath",
     "negate",
     "negating",
@@ -80,9 +82,9 @@
   "date": "2031-11-30",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 17,
       "5": 13,
-      "6": 11,
+      "6": 12,
       "7": 18,
       "8": 6,
       "9": 3,
@@ -91,10 +93,10 @@
     "by_first_letter": {
       "A": 15,
       "E": 4,
-      "G": 12,
+      "G": 13,
       "H": 11,
       "I": 4,
-      "N": 7,
+      "N": 8,
       "T": 15
     },
     "grid": {
@@ -112,7 +114,7 @@
         "8": 1
       },
       "G": {
-        "4": 5,
+        "4": 6,
         "5": 1,
         "6": 2,
         "7": 4
@@ -133,7 +135,7 @@
       "N": {
         "4": 3,
         "5": 1,
-        "6": 1,
+        "6": 2,
         "7": 1,
         "8": 1
       },
@@ -152,7 +154,7 @@
       "AT": 2,
       "EA": 2,
       "EN": 2,
-      "GA": 9,
+      "GA": 10,
       "GE": 1,
       "GI": 1,
       "GN": 1,
@@ -160,7 +162,7 @@
       "HE": 6,
       "IN": 4,
       "NA": 3,
-      "NE": 4,
+      "NE": 5,
       "TA": 8,
       "TE": 3,
       "TH": 3,

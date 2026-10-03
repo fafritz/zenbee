@@ -1,9 +1,9 @@
 {
   "pangram": "hangout",
   "center_letter": "h",
-  "num_answers": 22,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 91,
+  "possible_points": 90,
   "answer_pangrams": [
     "hangout"
   ],
@@ -23,7 +23,6 @@
     "than",
     "that",
     "thong",
-    "thou",
     "though",
     "thought",
     "thug",
@@ -34,7 +33,7 @@
   "date": "2028-11-24",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 8,
       "5": 7,
       "6": 3,
       "7": 2,
@@ -45,7 +44,7 @@
       "H": 7,
       "N": 1,
       "O": 2,
-      "T": 10,
+      "T": 9,
       "U": 1
     },
     "grid": {
@@ -65,7 +64,7 @@
         "5": 1
       },
       "T": {
-        "4": 4,
+        "4": 3,
         "5": 3,
         "6": 2,
         "7": 1
@@ -83,7 +82,7 @@
       "OA": 1,
       "OU": 1,
       "TA": 1,
-      "TH": 7,
+      "TH": 6,
       "TO": 2,
       "UN": 1
     }

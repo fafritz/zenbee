@@ -1,9 +1,9 @@
 {
   "pangram": "aground",
   "center_letter": "u",
-  "num_answers": 18,
+  "num_answers": 17,
   "num_pangrams": 1,
-  "possible_points": 73,
+  "possible_points": 68,
   "answer_pangrams": [
     "aground"
   ],
@@ -15,7 +15,6 @@
     "dour",
     "drug",
     "dung",
-    "dunno",
     "gourd",
     "ground",
     "guano",
@@ -31,14 +30,14 @@
   "hints": {
     "by_length": {
       "4": 8,
-      "5": 6,
+      "5": 5,
       "6": 2,
       "7": 1,
       "9": 1
     },
     "by_first_letter": {
       "A": 4,
-      "D": 4,
+      "D": 3,
       "G": 5,
       "N": 1,
       "R": 3,
@@ -52,8 +51,7 @@
         "7": 1
       },
       "D": {
-        "4": 3,
-        "5": 1
+        "4": 3
       },
       "G": {
         "4": 1,
@@ -78,7 +76,7 @@
       "AU": 2,
       "DO": 1,
       "DR": 1,
-      "DU": 2,
+      "DU": 1,
       "GO": 1,
       "GR": 1,
       "GU": 3,

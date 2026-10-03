@@ -1,9 +1,9 @@
 {
   "pangram": "gloated",
   "center_letter": "g",
-  "num_answers": 69,
+  "num_answers": 71,
   "num_pangrams": 1,
-  "possible_points": 314,
+  "possible_points": 316,
   "answer_pangrams": [
     "gloated"
   ],
@@ -20,6 +20,7 @@
     "delegated",
     "dodge",
     "dodged",
+    "doge",
     "dogged",
     "dotage",
     "eagle",
@@ -29,6 +30,7 @@
     "egged",
     "gadded",
     "gadget",
+    "gaga",
     "gagged",
     "gaggle",
     "gala",
@@ -81,7 +83,7 @@
   "date": "2034-12-21",
   "hints": {
     "by_length": {
-      "4": 21,
+      "4": 23,
       "5": 15,
       "6": 24,
       "7": 6,
@@ -90,9 +92,9 @@
     },
     "by_first_letter": {
       "A": 8,
-      "D": 6,
+      "D": 7,
       "E": 5,
-      "G": 31,
+      "G": 32,
       "L": 12,
       "O": 2,
       "T": 5
@@ -105,6 +107,7 @@
         "7": 1
       },
       "D": {
+        "4": 1,
         "5": 1,
         "6": 3,
         "8": 1,
@@ -116,7 +119,7 @@
         "6": 1
       },
       "G": {
-        "4": 13,
+        "4": 14,
         "5": 4,
         "6": 11,
         "7": 3
@@ -143,11 +146,11 @@
       "AG": 3,
       "AL": 4,
       "DE": 2,
-      "DO": 4,
+      "DO": 5,
       "EA": 2,
       "ED": 2,
       "EG": 1,
-      "GA": 10,
+      "GA": 11,
       "GE": 5,
       "GL": 5,
       "GO": 11,

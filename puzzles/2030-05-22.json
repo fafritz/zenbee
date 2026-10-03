@@ -1,9 +1,9 @@
 {
   "pangram": "braking",
   "center_letter": "g",
-  "num_answers": 72,
+  "num_answers": 77,
   "num_pangrams": 2,
-  "possible_points": 435,
+  "possible_points": 467,
   "answer_pangrams": [
     "barking",
     "braking"
@@ -35,6 +35,7 @@
     "barraging",
     "barring",
     "biking",
+    "binging",
     "binning",
     "brag",
     "bragging",
@@ -44,7 +45,9 @@
     "brig",
     "bring",
     "bringing",
+    "brining",
     "gabbing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -61,6 +64,8 @@
     "grain",
     "grin",
     "grinning",
+    "ingrain",
+    "ingraining",
     "inking",
     "inning",
     "irking",
@@ -85,19 +90,19 @@
   "date": "2030-05-22",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 14,
       "5": 4,
       "6": 14,
-      "7": 30,
+      "7": 33,
       "8": 7,
       "9": 2,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 10,
-      "B": 25,
-      "G": 17,
-      "I": 3,
+      "B": 27,
+      "G": 18,
+      "I": 5,
       "K": 2,
       "N": 2,
       "R": 13
@@ -116,20 +121,22 @@
         "4": 3,
         "5": 1,
         "6": 4,
-        "7": 12,
+        "7": 14,
         "8": 3,
         "9": 1,
         "10": 1
       },
       "G": {
-        "4": 5,
+        "4": 6,
         "5": 1,
         "6": 1,
         "7": 7,
         "8": 3
       },
       "I": {
-        "6": 3
+        "6": 3,
+        "7": 1,
+        "10": 1
       },
       "K": {
         "4": 1,
@@ -150,12 +157,12 @@
       "AN": 1,
       "AR": 3,
       "BA": 15,
-      "BI": 2,
-      "BR": 8,
-      "GA": 9,
+      "BI": 3,
+      "BR": 9,
+      "GA": 10,
       "GI": 3,
       "GR": 5,
-      "IN": 2,
+      "IN": 4,
       "IR": 1,
       "KI": 2,
       "NA": 2,

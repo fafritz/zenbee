@@ -1,9 +1,9 @@
 {
   "pangram": "hocking",
   "center_letter": "n",
-  "num_answers": 62,
+  "num_answers": 64,
   "num_pangrams": 3,
-  "possible_points": 338,
+  "possible_points": 355,
   "answer_pangrams": [
     "chocking",
     "choking",
@@ -23,6 +23,7 @@
     "cocking",
     "cocoon",
     "cocooning",
+    "cogging",
     "coin",
     "coining",
     "coking",
@@ -41,7 +42,6 @@
     "gonging",
     "goon",
     "hiking",
-    "hing",
     "hinging",
     "hocking",
     "hogging",
@@ -52,10 +52,12 @@
     "hooking",
     "icing",
     "icon",
+    "iconic",
     "inch",
     "inching",
     "inking",
     "inning",
+    "ionic",
     "kicking",
     "king",
     "kink",
@@ -76,18 +78,18 @@
   "date": "2032-06-13",
   "hints": {
     "by_length": {
-      "4": 16,
-      "5": 9,
-      "6": 10,
-      "7": 21,
+      "4": 15,
+      "5": 10,
+      "6": 11,
+      "7": 22,
       "8": 5,
       "9": 1
     },
     "by_first_letter": {
-      "C": 23,
+      "C": 24,
       "G": 7,
-      "H": 10,
-      "I": 6,
+      "H": 9,
+      "I": 8,
       "K": 6,
       "N": 6,
       "O": 4
@@ -97,7 +99,7 @@
         "4": 3,
         "5": 5,
         "6": 3,
-        "7": 7,
+        "7": 8,
         "8": 4,
         "9": 1
       },
@@ -108,14 +110,14 @@
         "7": 3
       },
       "H": {
-        "4": 2,
+        "4": 1,
         "6": 3,
         "7": 5
       },
       "I": {
         "4": 2,
-        "5": 1,
-        "6": 2,
+        "5": 2,
+        "6": 3,
         "7": 1
       },
       "K": {
@@ -138,13 +140,14 @@
     "two_letter_list": {
       "CH": 8,
       "CI": 2,
-      "CO": 13,
+      "CO": 14,
       "GI": 3,
       "GO": 4,
-      "HI": 3,
+      "HI": 2,
       "HO": 7,
-      "IC": 2,
+      "IC": 3,
       "IN": 4,
+      "IO": 1,
       "KI": 4,
       "KN": 2,
       "NI": 3,

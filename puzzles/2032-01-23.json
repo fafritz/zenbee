@@ -3,12 +3,13 @@
   "center_letter": "l",
   "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 138,
+  "possible_points": 137,
   "answer_pangrams": [
     "menthol"
   ],
   "answers": [
     "element",
+    "elote",
     "heel",
     "hell",
     "hellhole",
@@ -43,7 +44,6 @@
     "omelet",
     "telethon",
     "tell",
-    "telnet",
     "toll",
     "tool"
   ],
@@ -51,22 +51,23 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 8,
-      "6": 7,
+      "5": 9,
+      "6": 6,
       "7": 2,
       "8": 2
     },
     "by_first_letter": {
-      "E": 1,
+      "E": 2,
       "H": 9,
       "L": 8,
       "M": 11,
       "N": 2,
       "O": 2,
-      "T": 5
+      "T": 4
     },
     "grid": {
       "E": {
+        "5": 1,
         "7": 1
       },
       "H": {
@@ -95,12 +96,11 @@
       },
       "T": {
         "4": 3,
-        "6": 1,
         "8": 1
       }
     },
     "two_letter_list": {
-      "EL": 1,
+      "EL": 2,
       "HE": 7,
       "HO": 2,
       "LE": 2,
@@ -111,7 +111,7 @@
       "NO": 1,
       "OL": 1,
       "OM": 1,
-      "TE": 3,
+      "TE": 2,
       "TO": 2
     }
   }

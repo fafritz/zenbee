@@ -1,9 +1,9 @@
 {
   "pangram": "faintly",
   "center_letter": "a",
-  "num_answers": 49,
+  "num_answers": 51,
   "num_pangrams": 2,
-  "possible_points": 232,
+  "possible_points": 244,
   "answer_pangrams": [
     "faintly",
     "finality"
@@ -13,7 +13,6 @@
     "alfalfa",
     "allay",
     "ally",
-    "anal",
     "anti",
     "attain",
     "fail",
@@ -42,8 +41,11 @@
     "inlay",
     "lain",
     "laity",
+    "lanai",
+    "lantana",
     "litany",
     "naan",
+    "naif",
     "nail",
     "nana",
     "nanny",
@@ -63,23 +65,23 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 17,
+      "5": 18,
       "6": 6,
-      "7": 7,
+      "7": 8,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
-      "A": 7,
+      "A": 6,
       "F": 19,
       "I": 5,
-      "L": 3,
-      "N": 7,
+      "L": 5,
+      "N": 8,
       "T": 8
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 1,
         "6": 1,
         "7": 1,
@@ -100,11 +102,12 @@
       },
       "L": {
         "4": 1,
-        "5": 1,
-        "6": 1
+        "5": 2,
+        "6": 1,
+        "7": 1
       },
       "N": {
-        "4": 3,
+        "4": 4,
         "5": 3,
         "7": 1
       },
@@ -117,15 +120,15 @@
     "two_letter_list": {
       "AF": 1,
       "AL": 3,
-      "AN": 2,
+      "AN": 1,
       "AT": 1,
       "FA": 9,
       "FI": 5,
       "FL": 5,
       "IN": 5,
-      "LA": 2,
+      "LA": 4,
       "LI": 1,
-      "NA": 7,
+      "NA": 8,
       "TA": 7,
       "TI": 1
     }

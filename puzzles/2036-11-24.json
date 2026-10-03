@@ -1,9 +1,9 @@
 {
   "pangram": "voyaged",
   "center_letter": "g",
-  "num_answers": 26,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 109,
+  "possible_points": 111,
   "answer_pangrams": [
     "voyaged"
   ],
@@ -15,6 +15,7 @@
     "dodge",
     "dodged",
     "dodgy",
+    "doge",
     "dogged",
     "doggy",
     "edge",
@@ -22,6 +23,7 @@
     "edgy",
     "egged",
     "gadded",
+    "gaga",
     "gagged",
     "gave",
     "geed",
@@ -38,16 +40,16 @@
   "date": "2036-11-24",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 11,
       "5": 10,
       "6": 6,
       "7": 1
     },
     "by_first_letter": {
       "A": 4,
-      "D": 5,
+      "D": 6,
       "E": 4,
-      "G": 10,
+      "G": 11,
       "V": 2,
       "Y": 1
     },
@@ -57,6 +59,7 @@
         "5": 2
       },
       "D": {
+        "4": 1,
         "5": 3,
         "6": 2
       },
@@ -65,7 +68,7 @@
         "5": 2
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "5": 3,
         "6": 3
       },
@@ -80,10 +83,10 @@
     "two_letter_list": {
       "AD": 1,
       "AG": 3,
-      "DO": 5,
+      "DO": 6,
       "ED": 3,
       "EG": 1,
-      "GA": 3,
+      "GA": 4,
       "GE": 2,
       "GO": 5,
       "VO": 2,

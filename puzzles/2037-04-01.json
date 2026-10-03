@@ -1,9 +1,9 @@
 {
   "pangram": "bathing",
   "center_letter": "g",
-  "num_answers": 62,
+  "num_answers": 63,
   "num_pangrams": 2,
-  "possible_points": 381,
+  "possible_points": 388,
   "answer_pangrams": [
     "bathing",
     "inhabiting"
@@ -24,9 +24,11 @@
     "bathing",
     "batting",
     "bight",
+    "binging",
     "binning",
     "biting",
     "gabbing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -45,7 +47,6 @@
     "hating",
     "hatting",
     "high",
-    "hing",
     "hinging",
     "hinting",
     "hitting",
@@ -78,16 +79,16 @@
       "4": 10,
       "5": 8,
       "6": 7,
-      "7": 29,
+      "7": 30,
       "8": 3,
       "9": 2,
       "10": 3
     },
     "by_first_letter": {
       "A": 6,
-      "B": 11,
-      "G": 14,
-      "H": 9,
+      "B": 12,
+      "G": 15,
+      "H": 8,
       "I": 5,
       "N": 4,
       "T": 13
@@ -103,16 +104,16 @@
         "4": 1,
         "5": 1,
         "6": 2,
-        "7": 7
+        "7": 8
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "5": 1,
         "6": 2,
         "7": 7
       },
       "H": {
-        "4": 3,
+        "4": 2,
         "6": 1,
         "7": 5
       },
@@ -139,12 +140,12 @@
       "AN": 1,
       "AT": 1,
       "BA": 8,
-      "BI": 3,
-      "GA": 8,
+      "BI": 4,
+      "GA": 9,
       "GI": 5,
       "GN": 1,
       "HA": 4,
-      "HI": 5,
+      "HI": 4,
       "IG": 1,
       "IN": 4,
       "NA": 2,

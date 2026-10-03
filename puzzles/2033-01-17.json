@@ -1,9 +1,9 @@
 {
   "pangram": "faction",
   "center_letter": "a",
-  "num_answers": 62,
+  "num_answers": 65,
   "num_pangrams": 2,
-  "possible_points": 353,
+  "possible_points": 368,
   "answer_pangrams": [
     "faction",
     "notification"
@@ -11,9 +11,11 @@
   "answers": [
     "acacia",
     "acai",
+    "actinic",
     "action",
     "afoot",
     "anion",
+    "annatto",
     "annotation",
     "anoint",
     "anon",
@@ -55,6 +57,7 @@
     "intonation",
     "iota",
     "naan",
+    "naif",
     "nana",
     "nation",
     "niacin",
@@ -75,10 +78,10 @@
   "date": "2033-01-17",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 14,
       "5": 14,
       "6": 18,
-      "7": 6,
+      "7": 8,
       "8": 3,
       "9": 2,
       "10": 3,
@@ -86,11 +89,11 @@
       "12": 1
     },
     "by_first_letter": {
-      "A": 12,
+      "A": 14,
       "C": 21,
       "F": 5,
       "I": 7,
-      "N": 7,
+      "N": 8,
       "T": 10
     },
     "grid": {
@@ -98,6 +101,7 @@
         "4": 3,
         "5": 4,
         "6": 4,
+        "7": 2,
         "10": 1
       },
       "C": {
@@ -122,7 +126,7 @@
         "11": 1
       },
       "N": {
-        "4": 2,
+        "4": 3,
         "6": 3,
         "8": 1,
         "12": 1
@@ -136,9 +140,9 @@
       }
     },
     "two_letter_list": {
-      "AC": 3,
+      "AC": 4,
       "AF": 1,
-      "AN": 6,
+      "AN": 7,
       "AT": 2,
       "CA": 14,
       "CI": 1,
@@ -147,7 +151,7 @@
       "FI": 1,
       "IN": 6,
       "IO": 1,
-      "NA": 3,
+      "NA": 4,
       "NI": 1,
       "NO": 3,
       "TA": 8,

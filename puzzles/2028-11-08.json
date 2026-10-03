@@ -1,9 +1,9 @@
 {
   "pangram": "caribou",
   "center_letter": "i",
-  "num_answers": 16,
+  "num_answers": 18,
   "num_pangrams": 1,
-  "possible_points": 79,
+  "possible_points": 85,
   "answer_pangrams": [
     "caribou"
   ],
@@ -14,12 +14,14 @@
     "barbaric",
     "barrio",
     "briar",
+    "brio",
     "caribou",
     "circa",
     "cirri",
     "cocci",
     "crib",
     "cubic",
+    "curia",
     "curio",
     "rabbi",
     "rubric",
@@ -28,16 +30,16 @@
   "date": "2028-11-08",
   "hints": {
     "by_length": {
-      "4": 4,
-      "5": 7,
+      "4": 5,
+      "5": 8,
       "6": 3,
       "7": 1,
       "8": 1
     },
     "by_first_letter": {
       "A": 3,
-      "B": 3,
-      "C": 7,
+      "B": 4,
+      "C": 8,
       "R": 2,
       "U": 1
     },
@@ -47,13 +49,14 @@
         "6": 1
       },
       "B": {
+        "4": 1,
         "5": 1,
         "6": 1,
         "8": 1
       },
       "C": {
         "4": 1,
-        "5": 5,
+        "5": 6,
         "7": 1
       },
       "R": {
@@ -68,12 +71,12 @@
       "AC": 2,
       "AR": 1,
       "BA": 2,
-      "BR": 1,
+      "BR": 2,
       "CA": 1,
       "CI": 2,
       "CO": 1,
       "CR": 1,
-      "CU": 2,
+      "CU": 3,
       "RA": 1,
       "RU": 1,
       "UR": 1

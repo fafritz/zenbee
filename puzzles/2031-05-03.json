@@ -1,9 +1,9 @@
 {
   "pangram": "laughed",
   "center_letter": "u",
-  "num_answers": 43,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 192,
+  "possible_points": 198,
   "answer_pangrams": [
     "laughed"
   ],
@@ -46,6 +46,8 @@
     "league",
     "leagued",
     "luau",
+    "luge",
+    "luged",
     "luggage",
     "lugged",
     "lull",
@@ -55,8 +57,8 @@
   "date": "2031-05-03",
   "hints": {
     "by_length": {
-      "4": 15,
-      "5": 5,
+      "4": 16,
+      "5": 6,
       "6": 16,
       "7": 7
     },
@@ -66,7 +68,7 @@
       "E": 2,
       "G": 6,
       "H": 9,
-      "L": 12
+      "L": 14
     },
     "grid": {
       "A": {
@@ -95,8 +97,8 @@
         "7": 1
       },
       "L": {
-        "4": 4,
-        "5": 1,
+        "4": 5,
+        "5": 2,
         "6": 4,
         "7": 3
       }
@@ -114,7 +116,7 @@
       "HU": 7,
       "LA": 4,
       "LE": 2,
-      "LU": 6
+      "LU": 8
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "pangram": "fluency",
   "center_letter": "l",
-  "num_answers": 26,
+  "num_answers": 27,
   "num_pangrams": 1,
-  "possible_points": 85,
+  "possible_points": 86,
   "answer_pangrams": [
     "fluency"
   ],
@@ -28,6 +28,7 @@
     "full",
     "fully",
     "funnel",
+    "luff",
     "lull",
     "lulu",
     "null",
@@ -38,7 +39,7 @@
   "date": "2038-09-28",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 16,
       "5": 4,
       "6": 6,
       "7": 1
@@ -47,7 +48,7 @@
       "C": 5,
       "E": 1,
       "F": 14,
-      "L": 2,
+      "L": 3,
       "N": 1,
       "U": 1,
       "Y": 2
@@ -67,7 +68,7 @@
         "7": 1
       },
       "L": {
-        "4": 2
+        "4": 3
       },
       "N": {
         "4": 1
@@ -88,7 +89,7 @@
       "FE": 3,
       "FL": 7,
       "FU": 4,
-      "LU": 2,
+      "LU": 3,
       "NU": 1,
       "UN": 1,
       "YE": 1,

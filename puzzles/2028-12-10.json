@@ -1,9 +1,9 @@
 {
   "pangram": "calving",
   "center_letter": "a",
-  "num_answers": 70,
+  "num_answers": 73,
   "num_pangrams": 3,
-  "possible_points": 387,
+  "possible_points": 405,
   "answer_pangrams": [
     "calving",
     "caviling",
@@ -19,7 +19,6 @@
     "alga",
     "align",
     "aligning",
-    "anal",
     "angina",
     "angling",
     "anvil",
@@ -47,10 +46,12 @@
     "clanging",
     "clinical",
     "clinician",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "galvanic",
@@ -60,9 +61,11 @@
     "gangling",
     "glacial",
     "glancing",
+    "iliac",
     "lacing",
     "lagging",
     "lain",
+    "lanai",
     "lancing",
     "lava",
     "lilac",
@@ -85,23 +88,24 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 16,
+      "5": 18,
       "6": 9,
       "7": 18,
-      "8": 9,
+      "8": 10,
       "9": 2
     },
     "by_first_letter": {
-      "A": 16,
+      "A": 15,
       "C": 21,
-      "G": 13,
-      "L": 6,
+      "G": 15,
+      "I": 1,
+      "L": 7,
       "N": 7,
       "V": 7
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 7,
         "6": 3,
         "7": 1,
@@ -116,13 +120,16 @@
         "9": 2
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "7": 6,
-        "8": 3
+        "8": 4
+      },
+      "I": {
+        "5": 1
       },
       "L": {
         "4": 2,
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 2
       },
@@ -143,14 +150,15 @@
       "AG": 2,
       "AI": 1,
       "AL": 3,
-      "AN": 4,
+      "AN": 3,
       "AV": 3,
       "CA": 14,
       "CI": 2,
       "CL": 5,
-      "GA": 11,
+      "GA": 13,
       "GL": 2,
-      "LA": 5,
+      "IL": 1,
+      "LA": 6,
       "LI": 1,
       "NA": 6,
       "NI": 1,

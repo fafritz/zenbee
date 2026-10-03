@@ -1,9 +1,9 @@
 {
   "pangram": "holding",
   "center_letter": "n",
-  "num_answers": 60,
+  "num_answers": 61,
   "num_pangrams": 1,
-  "possible_points": 348,
+  "possible_points": 360,
   "answer_pangrams": [
     "holding"
   ],
@@ -17,7 +17,6 @@
     "dinning",
     "dodging",
     "dogging",
-    "doggoning",
     "doing",
     "doling",
     "dolling",
@@ -36,7 +35,6 @@
     "goon",
     "hiding",
     "hind",
-    "hing",
     "hinging",
     "hogging",
     "holding",
@@ -47,6 +45,8 @@
     "idling",
     "indigo",
     "inning",
+    "lidding",
+    "lignin",
     "lingo",
     "lining",
     "lion",
@@ -62,6 +62,7 @@
     "nigh",
     "nodding",
     "noggin",
+    "nonillion",
     "noodling",
     "noon",
     "ogling",
@@ -72,20 +73,20 @@
   "date": "2027-06-14",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 10,
       "5": 6,
-      "6": 12,
-      "7": 22,
+      "6": 13,
+      "7": 23,
       "8": 7,
       "9": 2
     },
     "by_first_letter": {
-      "D": 15,
+      "D": 14,
       "G": 11,
-      "H": 10,
+      "H": 9,
       "I": 3,
-      "L": 11,
-      "N": 6,
+      "L": 13,
+      "N": 7,
       "O": 4
     },
     "grid": {
@@ -94,8 +95,7 @@
         "5": 2,
         "6": 2,
         "7": 7,
-        "8": 2,
-        "9": 1
+        "8": 2
       },
       "G": {
         "4": 2,
@@ -104,7 +104,7 @@
         "8": 3
       },
       "H": {
-        "4": 2,
+        "4": 1,
         "6": 3,
         "7": 4,
         "9": 1
@@ -115,14 +115,15 @@
       "L": {
         "4": 4,
         "5": 2,
-        "6": 1,
-        "7": 4
+        "6": 2,
+        "7": 5
       },
       "N": {
         "4": 2,
         "6": 1,
         "7": 1,
-        "8": 2
+        "8": 2,
+        "9": 1
       },
       "O": {
         "5": 1,
@@ -132,18 +133,18 @@
     },
     "two_letter_list": {
       "DI": 7,
-      "DO": 8,
+      "DO": 7,
       "GI": 4,
       "GL": 1,
       "GO": 6,
-      "HI": 4,
+      "HI": 3,
       "HO": 6,
       "ID": 1,
       "IN": 2,
-      "LI": 3,
+      "LI": 5,
       "LO": 8,
       "NI": 2,
-      "NO": 4,
+      "NO": 5,
       "OG": 1,
       "OI": 1,
       "ON": 2

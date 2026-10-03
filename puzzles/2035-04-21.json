@@ -1,9 +1,9 @@
 {
   "pangram": "clawing",
   "center_letter": "c",
-  "num_answers": 34,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 205,
+  "possible_points": 210,
   "answer_pangrams": [
     "clawing"
   ],
@@ -36,6 +36,7 @@
     "glacial",
     "glancing",
     "icing",
+    "iliac",
     "inclining",
     "lacing",
     "lancing",
@@ -47,7 +48,7 @@
   "hints": {
     "by_length": {
       "4": 4,
-      "5": 9,
+      "5": 10,
       "6": 8,
       "7": 6,
       "8": 4,
@@ -57,7 +58,7 @@
       "A": 3,
       "C": 22,
       "G": 2,
-      "I": 2,
+      "I": 3,
       "L": 3,
       "N": 1,
       "W": 1
@@ -81,7 +82,7 @@
         "8": 1
       },
       "I": {
-        "5": 1,
+        "5": 2,
         "9": 1
       },
       "L": {
@@ -103,6 +104,7 @@
       "CL": 10,
       "GL": 2,
       "IC": 1,
+      "IL": 1,
       "IN": 1,
       "LA": 2,
       "LI": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "palming",
   "center_letter": "m",
-  "num_answers": 59,
+  "num_answers": 60,
   "num_pangrams": 3,
-  "possible_points": 338,
+  "possible_points": 343,
   "answer_pangrams": [
     "impaling",
     "napalming",
@@ -67,6 +67,7 @@
     "napalming",
     "palm",
     "palming",
+    "pampa",
     "pimp",
     "pimping"
   ],
@@ -74,7 +75,7 @@
   "hints": {
     "by_length": {
       "4": 14,
-      "5": 8,
+      "5": 9,
       "6": 13,
       "7": 14,
       "8": 4,
@@ -88,7 +89,7 @@
       "L": 10,
       "M": 31,
       "N": 3,
-      "P": 4
+      "P": 5
     },
     "grid": {
       "A": {
@@ -127,6 +128,7 @@
       },
       "P": {
         "4": 2,
+        "5": 1,
         "7": 2
       }
     },
@@ -142,7 +144,7 @@
       "MA": 22,
       "MI": 9,
       "NA": 3,
-      "PA": 2,
+      "PA": 3,
       "PI": 2
     }
   }

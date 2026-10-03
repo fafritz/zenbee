@@ -1,9 +1,9 @@
 {
   "pangram": "blazing",
   "center_letter": "i",
-  "num_answers": 59,
+  "num_answers": 62,
   "num_pangrams": 1,
-  "possible_points": 360,
+  "possible_points": 378,
   "answer_pangrams": [
     "blazing"
   ],
@@ -28,6 +28,7 @@
     "banning",
     "bill",
     "billing",
+    "binging",
     "binning",
     "blabbing",
     "blazing",
@@ -54,7 +55,9 @@
     "labial",
     "lagging",
     "lain",
+    "lanai",
     "lazing",
+    "lignin",
     "lining",
     "nabbing",
     "nagging",
@@ -72,18 +75,18 @@
   "hints": {
     "by_length": {
       "4": 8,
-      "5": 6,
-      "6": 12,
-      "7": 23,
+      "5": 7,
+      "6": 13,
+      "7": 24,
       "8": 9,
       "10": 1
     },
     "by_first_letter": {
       "A": 9,
-      "B": 15,
+      "B": 16,
       "G": 17,
       "I": 1,
-      "L": 6,
+      "L": 8,
       "N": 6,
       "Z": 5
     },
@@ -98,7 +101,7 @@
         "4": 2,
         "5": 1,
         "6": 2,
-        "7": 8,
+        "7": 9,
         "8": 2
       },
       "G": {
@@ -112,8 +115,8 @@
       },
       "L": {
         "4": 1,
-        "5": 1,
-        "6": 3,
+        "5": 2,
+        "6": 4,
         "7": 1
       },
       "N": {
@@ -134,14 +137,14 @@
       "AL": 4,
       "AN": 2,
       "BA": 9,
-      "BI": 3,
+      "BI": 4,
       "BL": 3,
       "GA": 10,
       "GI": 5,
       "GL": 2,
       "IN": 1,
-      "LA": 5,
-      "LI": 1,
+      "LA": 6,
+      "LI": 2,
       "NA": 4,
       "NI": 2,
       "ZI": 5

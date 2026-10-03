@@ -3,7 +3,7 @@
   "center_letter": "g",
   "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 168,
+  "possible_points": 160,
   "answer_pangrams": [
     "congaed"
   ],
@@ -21,6 +21,7 @@
     "congaed",
     "dodge",
     "dodged",
+    "doge",
     "dogged",
     "doggone",
     "edge",
@@ -30,6 +31,7 @@
     "engage",
     "engaged",
     "gadded",
+    "gaga",
     "gagged",
     "gang",
     "ganged",
@@ -38,11 +40,9 @@
     "geode",
     "goad",
     "goaded",
-    "gonad",
     "gone",
     "gong",
     "gonged",
-    "gonna",
     "good",
     "goon",
     "nagged"
@@ -50,17 +50,17 @@
   "date": "2027-12-22",
   "hints": {
     "by_length": {
-      "4": 12,
-      "5": 10,
+      "4": 14,
+      "5": 8,
       "6": 13,
       "7": 3
     },
     "by_first_letter": {
       "A": 4,
       "C": 7,
-      "D": 4,
+      "D": 5,
       "E": 6,
-      "G": 16,
+      "G": 15,
       "N": 1
     },
     "grid": {
@@ -76,6 +76,7 @@
         "7": 1
       },
       "D": {
+        "4": 1,
         "5": 1,
         "6": 2,
         "7": 1
@@ -87,8 +88,8 @@
         "7": 1
       },
       "G": {
-        "4": 8,
-        "5": 3,
+        "4": 9,
+        "5": 1,
         "6": 5
       },
       "N": {
@@ -100,13 +101,13 @@
       "AG": 3,
       "CA": 4,
       "CO": 3,
-      "DO": 4,
+      "DO": 5,
       "ED": 2,
       "EG": 2,
       "EN": 2,
-      "GA": 4,
+      "GA": 5,
       "GE": 3,
-      "GO": 9,
+      "GO": 7,
       "NA": 1
     }
   }

@@ -1,9 +1,9 @@
 {
   "pangram": "coinage",
   "center_letter": "o",
-  "num_answers": 46,
+  "num_answers": 48,
   "num_pangrams": 3,
-  "possible_points": 243,
+  "possible_points": 256,
   "answer_pangrams": [
     "canoeing",
     "coinage",
@@ -25,6 +25,7 @@
     "cocoa",
     "cocoon",
     "cocooning",
+    "cogging",
     "cognac",
     "coin",
     "coinage",
@@ -40,10 +41,11 @@
     "gone",
     "gong",
     "gonging",
-    "gonna",
     "goon",
     "icon",
+    "iconic",
     "innocence",
+    "ionic",
     "neocon",
     "neon",
     "noggin",
@@ -62,18 +64,18 @@
     "by_length": {
       "4": 13,
       "5": 13,
-      "6": 7,
-      "7": 7,
+      "6": 8,
+      "7": 8,
       "8": 2,
       "9": 3,
       "10": 1
     },
     "by_first_letter": {
       "A": 3,
-      "C": 22,
+      "C": 23,
       "E": 1,
-      "G": 6,
-      "I": 2,
+      "G": 5,
+      "I": 4,
       "N": 6,
       "O": 6
     },
@@ -86,7 +88,7 @@
         "4": 3,
         "5": 7,
         "6": 4,
-        "7": 4,
+        "7": 5,
         "8": 2,
         "9": 2
       },
@@ -95,11 +97,13 @@
       },
       "G": {
         "4": 3,
-        "5": 2,
+        "5": 1,
         "7": 1
       },
       "I": {
         "4": 1,
+        "5": 1,
+        "6": 1,
         "9": 1
       },
       "N": {
@@ -118,11 +122,12 @@
       "AG": 1,
       "AN": 2,
       "CA": 6,
-      "CO": 16,
+      "CO": 17,
       "EG": 1,
-      "GO": 6,
-      "IC": 1,
+      "GO": 5,
+      "IC": 2,
       "IN": 1,
+      "IO": 1,
       "NE": 2,
       "NO": 4,
       "OC": 3,

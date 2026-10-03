@@ -1,9 +1,9 @@
 {
   "pangram": "praying",
   "center_letter": "i",
-  "num_answers": 73,
+  "num_answers": 77,
   "num_pangrams": 2,
-  "possible_points": 438,
+  "possible_points": 466,
   "answer_pangrams": [
     "parrying",
     "praying"
@@ -39,6 +39,8 @@
     "griping",
     "gripping",
     "gypping",
+    "ingrain",
+    "ingraining",
     "inning",
     "nagging",
     "napping",
@@ -50,6 +52,7 @@
     "paining",
     "pair",
     "pairing",
+    "panini",
     "panning",
     "papyri",
     "paring",
@@ -61,6 +64,7 @@
     "ping",
     "pinging",
     "pining",
+    "pinna",
     "pinning",
     "piping",
     "pippin",
@@ -87,19 +91,19 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 8,
-      "6": 16,
-      "7": 30,
+      "5": 9,
+      "6": 17,
+      "7": 31,
       "8": 6,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 13,
       "G": 17,
-      "I": 1,
+      "I": 3,
       "N": 5,
-      "P": 23,
+      "P": 25,
       "R": 12,
       "Y": 2
     },
@@ -121,7 +125,9 @@
         "8": 3
       },
       "I": {
-        "6": 1
+        "6": 1,
+        "7": 1,
+        "10": 1
       },
       "N": {
         "5": 2,
@@ -129,8 +135,8 @@
       },
       "P": {
         "4": 4,
-        "5": 1,
-        "6": 8,
+        "5": 2,
+        "6": 9,
         "7": 9,
         "8": 1
       },
@@ -154,11 +160,11 @@
       "GI": 2,
       "GR": 8,
       "GY": 1,
-      "IN": 1,
+      "IN": 3,
       "NA": 2,
       "NI": 3,
-      "PA": 11,
-      "PI": 9,
+      "PA": 12,
+      "PI": 10,
       "PR": 3,
       "RA": 8,
       "RI": 4,

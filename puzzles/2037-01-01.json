@@ -1,9 +1,9 @@
 {
   "pangram": "bifocal",
   "center_letter": "c",
-  "num_answers": 30,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 122,
+  "possible_points": 127,
   "answer_pangrams": [
     "bifocal"
   ],
@@ -33,6 +33,7 @@
     "cool",
     "facial",
     "focal",
+    "iliac",
     "lilac",
     "local",
     "loci",
@@ -43,7 +44,7 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 11,
+      "5": 12,
       "6": 3,
       "7": 2,
       "8": 2
@@ -53,6 +54,7 @@
       "B": 4,
       "C": 17,
       "F": 2,
+      "I": 1,
       "L": 4,
       "O": 1
     },
@@ -75,6 +77,9 @@
         "5": 1,
         "6": 1
       },
+      "I": {
+        "5": 1
+      },
       "L": {
         "4": 2,
         "5": 2
@@ -94,6 +99,7 @@
       "CO": 9,
       "FA": 1,
       "FO": 1,
+      "IL": 1,
       "LI": 1,
       "LO": 3,
       "OF": 1

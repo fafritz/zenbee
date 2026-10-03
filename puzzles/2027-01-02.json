@@ -1,9 +1,9 @@
 {
   "pangram": "warping",
   "center_letter": "a",
-  "num_answers": 65,
+  "num_answers": 70,
   "num_pangrams": 3,
-  "possible_points": 353,
+  "possible_points": 382,
   "answer_pangrams": [
     "prawning",
     "warping",
@@ -23,6 +23,7 @@
     "arranging",
     "awing",
     "awning",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -33,6 +34,8 @@
     "gnaw",
     "gnawing",
     "grain",
+    "ingrain",
+    "ingraining",
     "naan",
     "nagging",
     "nana",
@@ -44,6 +47,7 @@
     "pair",
     "pairing",
     "pang",
+    "panini",
     "panning",
     "papa",
     "paring",
@@ -52,6 +56,7 @@
     "pawn",
     "pawning",
     "pawpaw",
+    "pinna",
     "prawn",
     "prawning",
     "raga",
@@ -79,19 +84,20 @@
   "date": "2027-01-02",
   "hints": {
     "by_length": {
-      "4": 18,
-      "5": 7,
-      "6": 13,
-      "7": 20,
+      "4": 19,
+      "5": 8,
+      "6": 14,
+      "7": 21,
       "8": 4,
       "9": 1,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 13,
-      "G": 10,
+      "G": 11,
+      "I": 2,
       "N": 4,
-      "P": 17,
+      "P": 19,
       "R": 9,
       "W": 12
     },
@@ -106,11 +112,15 @@
         "10": 1
       },
       "G": {
-        "4": 3,
+        "4": 4,
         "5": 1,
         "6": 1,
         "7": 4,
         "8": 1
+      },
+      "I": {
+        "7": 1,
+        "10": 1
       },
       "N": {
         "4": 2,
@@ -118,8 +128,8 @@
       },
       "P": {
         "4": 5,
-        "5": 2,
-        "6": 4,
+        "5": 3,
+        "6": 5,
         "7": 5,
         "8": 1
       },
@@ -143,11 +153,13 @@
       "AP": 1,
       "AR": 4,
       "AW": 2,
-      "GA": 7,
+      "GA": 8,
       "GN": 2,
       "GR": 1,
+      "IN": 2,
       "NA": 4,
-      "PA": 15,
+      "PA": 16,
+      "PI": 1,
       "PR": 2,
       "RA": 9,
       "WA": 8,

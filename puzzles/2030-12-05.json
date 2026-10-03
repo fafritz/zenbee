@@ -1,9 +1,9 @@
 {
   "pangram": "quailed",
   "center_letter": "e",
-  "num_answers": 54,
+  "num_answers": 57,
   "num_pangrams": 1,
-  "possible_points": 249,
+  "possible_points": 261,
   "answer_pangrams": [
     "quailed"
   ],
@@ -15,6 +15,7 @@
     "aide",
     "aided",
     "ailed",
+    "allele",
     "allied",
     "allude",
     "alluded",
@@ -38,6 +39,7 @@
     "dueled",
     "dulled",
     "eddied",
+    "eeled",
     "elide",
     "elided",
     "elude",
@@ -53,6 +55,7 @@
     "lauded",
     "lead",
     "leaded",
+    "lede",
     "lidded",
     "lied",
     "lieu",
@@ -66,24 +69,24 @@
   "date": "2030-12-05",
   "hints": {
     "by_length": {
-      "4": 15,
-      "5": 14,
-      "6": 18,
+      "4": 16,
+      "5": 15,
+      "6": 19,
       "7": 7
     },
     "by_first_letter": {
-      "A": 10,
+      "A": 11,
       "D": 19,
-      "E": 7,
+      "E": 8,
       "I": 4,
-      "L": 9,
+      "L": 10,
       "Q": 5
     },
     "grid": {
       "A": {
         "4": 1,
         "5": 5,
-        "6": 3,
+        "6": 4,
         "7": 1
       },
       "D": {
@@ -93,7 +96,7 @@
         "7": 3
       },
       "E": {
-        "5": 3,
+        "5": 4,
         "6": 3,
         "7": 1
       },
@@ -102,7 +105,7 @@
         "5": 2
       },
       "L": {
-        "4": 3,
+        "4": 4,
         "5": 1,
         "6": 5
       },
@@ -115,17 +118,18 @@
     "two_letter_list": {
       "AD": 4,
       "AI": 3,
-      "AL": 3,
+      "AL": 4,
       "DA": 2,
       "DE": 8,
       "DI": 4,
       "DU": 5,
       "ED": 1,
+      "EE": 1,
       "EL": 4,
       "EQ": 2,
       "ID": 4,
       "LA": 3,
-      "LE": 2,
+      "LE": 3,
       "LI": 3,
       "LU": 1,
       "QU": 5

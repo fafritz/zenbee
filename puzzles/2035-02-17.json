@@ -1,9 +1,9 @@
 {
   "pangram": "bounced",
   "center_letter": "b",
-  "num_answers": 29,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 136,
+  "possible_points": 142,
   "answer_pangrams": [
     "bounced"
   ],
@@ -12,6 +12,7 @@
     "been",
     "bend",
     "bobbed",
+    "bocce",
     "bode",
     "boded",
     "bonbon",
@@ -20,8 +21,6 @@
     "bone",
     "boned",
     "boob",
-    "boobed",
-    "booboo",
     "booed",
     "boon",
     "bounce",
@@ -31,6 +30,8 @@
     "budded",
     "cube",
     "cubed",
+    "debone",
+    "deboned",
     "dubbed",
     "ebbed",
     "oboe",
@@ -42,15 +43,15 @@
   "hints": {
     "by_length": {
       "4": 9,
-      "5": 6,
-      "6": 10,
-      "7": 3,
+      "5": 7,
+      "6": 9,
+      "7": 4,
       "9": 1
     },
     "by_first_letter": {
-      "B": 21,
+      "B": 20,
       "C": 2,
-      "D": 1,
+      "D": 3,
       "E": 1,
       "O": 1,
       "U": 3
@@ -58,8 +59,8 @@
     "grid": {
       "B": {
         "4": 7,
-        "5": 4,
-        "6": 8,
+        "5": 5,
+        "6": 6,
         "7": 2
       },
       "C": {
@@ -67,7 +68,8 @@
         "5": 1
       },
       "D": {
-        "6": 1
+        "6": 2,
+        "7": 1
       },
       "E": {
         "5": 1
@@ -83,9 +85,10 @@
     },
     "two_letter_list": {
       "BE": 3,
-      "BO": 17,
+      "BO": 16,
       "BU": 1,
       "CU": 2,
+      "DE": 2,
       "DU": 1,
       "EB": 1,
       "OB": 1,

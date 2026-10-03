@@ -1,9 +1,9 @@
 {
   "pangram": "pounced",
   "center_letter": "p",
-  "num_answers": 50,
+  "num_answers": 51,
   "num_pangrams": 1,
-  "possible_points": 222,
+  "possible_points": 227,
   "answer_pangrams": [
     "pounced"
   ],
@@ -36,6 +36,7 @@
     "peep",
     "peeped",
     "pence",
+    "penne",
     "penned",
     "pennon",
     "peon",
@@ -63,7 +64,7 @@
   "hints": {
     "by_length": {
       "4": 18,
-      "5": 8,
+      "5": 9,
       "6": 17,
       "7": 3,
       "8": 3,
@@ -75,7 +76,7 @@
       "E": 1,
       "N": 1,
       "O": 2,
-      "P": 22,
+      "P": 23,
       "U": 5
     },
     "grid": {
@@ -103,7 +104,7 @@
       },
       "P": {
         "4": 8,
-        "5": 2,
+        "5": 3,
         "6": 10,
         "7": 2
       },
@@ -123,7 +124,7 @@
       "EP": 1,
       "NO": 1,
       "OP": 2,
-      "PE": 9,
+      "PE": 10,
       "PO": 11,
       "PU": 2,
       "UN": 1,

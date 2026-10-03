@@ -1,9 +1,9 @@
 {
   "pangram": "angrily",
   "center_letter": "l",
-  "num_answers": 49,
+  "num_answers": 54,
   "num_pangrams": 3,
-  "possible_points": 263,
+  "possible_points": 299,
   "answer_pangrams": [
     "angrily",
     "glaringly",
@@ -19,10 +19,11 @@
     "allaying",
     "ally",
     "allying",
-    "anal",
     "angling",
     "angrily",
+    "gaily",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "ganglia",
@@ -34,6 +35,8 @@
     "girl",
     "glaring",
     "glaringly",
+    "gnarl",
+    "gnarling",
     "gnarly",
     "grail",
     "grill",
@@ -43,8 +46,10 @@
     "lagging",
     "lain",
     "lair",
+    "lanai",
     "laying",
     "liar",
+    "lignin",
     "lily",
     "lining",
     "lira",
@@ -63,24 +68,24 @@
   "date": "2034-07-09",
   "hints": {
     "by_length": {
-      "4": 15,
-      "5": 7,
-      "6": 8,
+      "4": 14,
+      "5": 10,
+      "6": 9,
       "7": 9,
-      "8": 9,
+      "8": 11,
       "9": 1
     },
     "by_first_letter": {
-      "A": 12,
-      "G": 16,
+      "A": 11,
+      "G": 20,
       "I": 2,
-      "L": 9,
+      "L": 11,
       "N": 3,
       "R": 7
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 2,
         "6": 2,
         "7": 3,
@@ -88,10 +93,10 @@
       },
       "G": {
         "4": 4,
-        "5": 2,
+        "5": 4,
         "6": 2,
         "7": 3,
-        "8": 4,
+        "8": 6,
         "9": 1
       },
       "I": {
@@ -100,8 +105,8 @@
       },
       "L": {
         "4": 5,
-        "5": 1,
-        "6": 2,
+        "5": 2,
+        "6": 3,
         "7": 1
       },
       "N": {
@@ -120,15 +125,15 @@
     "two_letter_list": {
       "AI": 2,
       "AL": 7,
-      "AN": 3,
-      "GA": 6,
+      "AN": 2,
+      "GA": 8,
       "GI": 4,
       "GL": 2,
-      "GN": 1,
+      "GN": 3,
       "GR": 3,
       "IN": 2,
-      "LA": 4,
-      "LI": 4,
+      "LA": 5,
+      "LI": 5,
       "LY": 1,
       "NA": 2,
       "NI": 1,

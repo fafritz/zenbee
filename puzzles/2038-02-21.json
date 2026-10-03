@@ -1,9 +1,9 @@
 {
   "pangram": "organdy",
   "center_letter": "o",
-  "num_answers": 44,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 158,
+  "possible_points": 154,
   "answer_pangrams": [
     "organdy"
   ],
@@ -28,12 +28,11 @@
     "dragon",
     "dragoon",
     "goad",
-    "gonad",
     "gong",
-    "gonna",
     "good",
     "goody",
     "goon",
+    "gorgon",
     "gory",
     "groan",
     "grog",
@@ -57,14 +56,14 @@
   "hints": {
     "by_length": {
       "4": 20,
-      "5": 16,
-      "6": 5,
+      "5": 14,
+      "6": 6,
       "7": 3
     },
     "by_first_letter": {
       "A": 9,
       "D": 10,
-      "G": 12,
+      "G": 11,
       "N": 3,
       "O": 3,
       "R": 6,
@@ -84,8 +83,8 @@
       },
       "G": {
         "4": 7,
-        "5": 4,
-        "6": 1
+        "5": 2,
+        "6": 2
       },
       "N": {
         "4": 1,
@@ -113,7 +112,7 @@
       "DA": 1,
       "DO": 7,
       "DR": 2,
-      "GO": 8,
+      "GO": 7,
       "GR": 3,
       "GY": 1,
       "NO": 3,

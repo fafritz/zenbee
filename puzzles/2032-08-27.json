@@ -1,9 +1,9 @@
 {
   "pangram": "megaton",
   "center_letter": "g",
-  "num_answers": 47,
+  "num_answers": 48,
   "num_pangrams": 3,
-  "possible_points": 242,
+  "possible_points": 239,
   "answer_pangrams": [
     "magneto",
     "megaton",
@@ -17,6 +17,7 @@
     "eggnog",
     "engage",
     "engagement",
+    "gaga",
     "game",
     "gamete",
     "gamma",
@@ -31,7 +32,6 @@
     "goatee",
     "gone",
     "gong",
-    "gonna",
     "goon",
     "gotten",
     "magenta",
@@ -56,13 +56,14 @@
     "tango",
     "teenage",
     "toga",
+    "tong",
     "tonnage"
   ],
   "date": "2032-08-27",
   "hints": {
     "by_length": {
-      "4": 13,
-      "5": 12,
+      "4": 15,
+      "5": 11,
       "6": 12,
       "7": 8,
       "10": 2
@@ -74,7 +75,7 @@
       "M": 15,
       "N": 1,
       "O": 1,
-      "T": 6
+      "T": 7
     },
     "grid": {
       "A": {
@@ -86,8 +87,8 @@
         "10": 1
       },
       "G": {
-        "4": 10,
-        "5": 3,
+        "4": 11,
+        "5": 2,
         "6": 4
       },
       "M": {
@@ -103,7 +104,7 @@
         "5": 1
       },
       "T": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "7": 3
       }
@@ -113,10 +114,10 @@
       "AM": 1,
       "EG": 1,
       "EN": 2,
-      "GA": 6,
+      "GA": 7,
       "GE": 2,
       "GN": 2,
-      "GO": 7,
+      "GO": 6,
       "MA": 12,
       "ME": 2,
       "MO": 1,
@@ -124,7 +125,7 @@
       "OM": 1,
       "TA": 3,
       "TE": 1,
-      "TO": 2
+      "TO": 3
     }
   }
 }

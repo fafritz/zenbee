@@ -1,9 +1,9 @@
 {
   "pangram": "caribou",
   "center_letter": "r",
-  "num_answers": 26,
+  "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 104,
+  "possible_points": 115,
   "answer_pangrams": [
     "caribou"
   ],
@@ -18,15 +18,18 @@
     "boar",
     "boor",
     "briar",
+    "brio",
     "burr",
     "burro",
     "caribou",
+    "carob",
     "circa",
     "cirri",
     "cobra",
     "crab",
     "crib",
     "curb",
+    "curia",
     "curio",
     "occur",
     "rabbi",
@@ -38,16 +41,16 @@
   "date": "2038-09-06",
   "hints": {
     "by_length": {
-      "4": 11,
-      "5": 9,
+      "4": 12,
+      "5": 11,
       "6": 3,
       "7": 1,
       "8": 2
     },
     "by_first_letter": {
       "A": 3,
-      "B": 9,
-      "C": 8,
+      "B": 10,
+      "C": 10,
       "O": 1,
       "R": 4,
       "U": 1
@@ -58,14 +61,14 @@
         "5": 1
       },
       "B": {
-        "4": 4,
+        "4": 5,
         "5": 2,
         "6": 1,
         "8": 2
       },
       "C": {
         "4": 3,
-        "5": 4,
+        "5": 6,
         "7": 1
       },
       "O": {
@@ -85,13 +88,13 @@
       "AU": 1,
       "BA": 4,
       "BO": 2,
-      "BR": 1,
+      "BR": 2,
       "BU": 2,
-      "CA": 1,
+      "CA": 2,
       "CI": 2,
       "CO": 1,
       "CR": 2,
-      "CU": 2,
+      "CU": 3,
       "OC": 1,
       "RA": 1,
       "RO": 2,

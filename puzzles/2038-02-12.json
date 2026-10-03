@@ -3,7 +3,7 @@
   "center_letter": "p",
   "num_answers": 28,
   "num_pangrams": 2,
-  "possible_points": 129,
+  "possible_points": 134,
   "answer_pangrams": [
     "lapidary",
     "rapidly"
@@ -13,7 +13,7 @@
     "appall",
     "apply",
     "drip",
-    "ipad",
+    "drippy",
     "lapidary",
     "lipid",
     "paddy",
@@ -41,16 +41,15 @@
   "date": "2038-02-12",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 9,
       "5": 7,
-      "6": 8,
+      "6": 9,
       "7": 2,
       "8": 1
     },
     "by_first_letter": {
       "A": 3,
-      "D": 1,
-      "I": 1,
+      "D": 2,
       "L": 2,
       "P": 19,
       "R": 2
@@ -61,10 +60,8 @@
         "6": 2
       },
       "D": {
-        "4": 1
-      },
-      "I": {
-        "4": 1
+        "4": 1,
+        "6": 1
       },
       "L": {
         "5": 1,
@@ -83,8 +80,7 @@
     },
     "two_letter_list": {
       "AP": 3,
-      "DR": 1,
-      "IP": 1,
+      "DR": 2,
       "LA": 1,
       "LI": 1,
       "PA": 14,

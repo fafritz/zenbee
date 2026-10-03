@@ -1,9 +1,9 @@
 {
   "pangram": "blowgun",
   "center_letter": "b",
-  "num_answers": 18,
+  "num_answers": 17,
   "num_pangrams": 1,
-  "possible_points": 54,
+  "possible_points": 48,
   "answer_pangrams": [
     "blowgun"
   ],
@@ -18,7 +18,6 @@
     "bong",
     "bongo",
     "boob",
-    "booboo",
     "boon",
     "bowl",
     "bulb",
@@ -32,11 +31,11 @@
     "by_length": {
       "4": 12,
       "5": 2,
-      "6": 3,
+      "6": 2,
       "7": 1
     },
     "by_first_letter": {
-      "B": 16,
+      "B": 15,
       "G": 1,
       "O": 1
     },
@@ -44,7 +43,7 @@
       "B": {
         "4": 11,
         "5": 2,
-        "6": 2,
+        "6": 1,
         "7": 1
       },
       "G": {
@@ -56,7 +55,7 @@
     },
     "two_letter_list": {
       "BL": 5,
-      "BO": 8,
+      "BO": 7,
       "BU": 3,
       "GL": 1,
       "OB": 1

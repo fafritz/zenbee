@@ -3,7 +3,7 @@
   "center_letter": "a",
   "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 148,
+  "possible_points": 142,
   "answer_pangrams": [
     "alright"
   ],
@@ -18,6 +18,7 @@
     "aright",
     "atria",
     "attar",
+    "gaga",
     "gait",
     "gala",
     "gall",
@@ -37,7 +38,6 @@
     "raga",
     "ragtag",
     "rail",
-    "ratatat",
     "tail",
     "taillight",
     "tall",
@@ -53,19 +53,19 @@
   "date": "2027-02-01",
   "hints": {
     "by_length": {
-      "4": 21,
+      "4": 22,
       "5": 9,
       "6": 6,
-      "7": 2,
+      "7": 1,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
       "A": 10,
-      "G": 4,
+      "G": 5,
       "H": 7,
       "L": 5,
-      "R": 4,
+      "R": 3,
       "T": 11
     },
     "grid": {
@@ -77,7 +77,7 @@
         "8": 1
       },
       "G": {
-        "4": 3,
+        "4": 4,
         "5": 1
       },
       "H": {
@@ -91,8 +91,7 @@
       },
       "R": {
         "4": 2,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
         "4": 4,
@@ -107,13 +106,13 @@
       "AL": 4,
       "AR": 2,
       "AT": 2,
-      "GA": 3,
+      "GA": 4,
       "GR": 1,
       "HA": 6,
       "HI": 1,
       "LA": 3,
       "LI": 2,
-      "RA": 4,
+      "RA": 3,
       "TA": 5,
       "TH": 2,
       "TI": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "cohabit",
   "center_letter": "a",
-  "num_answers": 42,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 190,
+  "possible_points": 196,
   "answer_pangrams": [
     "cohabit"
   ],
@@ -19,7 +19,9 @@
     "baobab",
     "batch",
     "bath",
+    "biota",
     "boat",
+    "boba",
     "bobcat",
     "cacao",
     "cacti",
@@ -54,15 +56,15 @@
   "date": "2030-10-15",
   "hints": {
     "by_length": {
-      "4": 13,
-      "5": 14,
+      "4": 14,
+      "5": 15,
       "6": 7,
       "7": 6,
       "8": 2
     },
     "by_first_letter": {
       "A": 6,
-      "B": 7,
+      "B": 9,
       "C": 13,
       "H": 4,
       "I": 1,
@@ -76,8 +78,8 @@
         "6": 2
       },
       "B": {
-        "4": 4,
-        "5": 1,
+        "4": 5,
+        "5": 2,
         "6": 2
       },
       "C": {
@@ -108,7 +110,8 @@
       "AC": 3,
       "AT": 2,
       "BA": 5,
-      "BO": 2,
+      "BI": 1,
+      "BO": 3,
       "CA": 4,
       "CH": 3,
       "CI": 1,

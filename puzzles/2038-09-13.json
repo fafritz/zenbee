@@ -3,7 +3,7 @@
   "center_letter": "d",
   "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 232,
+  "possible_points": 230,
   "answer_pangrams": [
     "molding"
   ],
@@ -20,7 +20,6 @@
     "dodging",
     "dodo",
     "dogging",
-    "doggoning",
     "doing",
     "doling",
     "doll",
@@ -41,6 +40,7 @@
     "idling",
     "idol",
     "indigo",
+    "lidding",
     "lodging",
     "middling",
     "mild",
@@ -59,15 +59,14 @@
       "4": 13,
       "5": 3,
       "6": 6,
-      "7": 16,
-      "8": 5,
-      "9": 1
+      "7": 17,
+      "8": 5
     },
     "by_first_letter": {
-      "D": 24,
+      "D": 23,
       "G": 5,
       "I": 4,
-      "L": 1,
+      "L": 2,
       "M": 8,
       "N": 2
     },
@@ -77,8 +76,7 @@
         "5": 2,
         "6": 4,
         "7": 9,
-        "8": 3,
-        "9": 1
+        "8": 3
       },
       "G": {
         "4": 3,
@@ -90,7 +88,7 @@
         "6": 2
       },
       "L": {
-        "7": 1
+        "7": 2
       },
       "M": {
         "4": 4,
@@ -104,12 +102,13 @@
     },
     "two_letter_list": {
       "DI": 9,
-      "DO": 15,
+      "DO": 14,
       "GI": 2,
       "GL": 1,
       "GO": 2,
       "ID": 3,
       "IN": 1,
+      "LI": 1,
       "LO": 1,
       "MI": 4,
       "MO": 4,

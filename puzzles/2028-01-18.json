@@ -1,9 +1,9 @@
 {
   "pangram": "mindful",
   "center_letter": "l",
-  "num_answers": 17,
+  "num_answers": 19,
   "num_pangrams": 2,
-  "possible_points": 59,
+  "possible_points": 66,
   "answer_pangrams": [
     "mindful",
     "unmindful"
@@ -17,7 +17,9 @@
     "fluid",
     "fulfill",
     "full",
+    "inulin",
     "limn",
+    "luff",
     "lull",
     "lulu",
     "mild",
@@ -30,15 +32,17 @@
   "date": "2028-01-18",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 13,
       "5": 2,
+      "6": 1,
       "7": 2,
       "9": 1
     },
     "by_first_letter": {
       "D": 2,
       "F": 6,
-      "L": 3,
+      "I": 1,
+      "L": 4,
       "M": 4,
       "N": 1,
       "U": 1
@@ -52,8 +56,11 @@
         "5": 2,
         "7": 1
       },
+      "I": {
+        "6": 1
+      },
       "L": {
-        "4": 3
+        "4": 4
       },
       "M": {
         "4": 3,
@@ -72,8 +79,9 @@
       "FI": 2,
       "FL": 2,
       "FU": 2,
+      "IN": 1,
       "LI": 1,
-      "LU": 2,
+      "LU": 3,
       "MI": 3,
       "MU": 1,
       "NU": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "belying",
   "center_letter": "l",
-  "num_answers": 54,
+  "num_answers": 56,
   "num_pangrams": 4,
-  "possible_points": 327,
+  "possible_points": 339,
   "answer_pangrams": [
     "bellying",
     "belying",
@@ -28,6 +28,7 @@
     "billy",
     "bling",
     "byline",
+    "eeling",
     "elegy",
     "eligible",
     "gelling",
@@ -51,6 +52,7 @@
     "libeling",
     "liege",
     "lien",
+    "lignin",
     "lily",
     "line",
     "linen",
@@ -71,7 +73,7 @@
     "by_length": {
       "4": 11,
       "5": 13,
-      "6": 8,
+      "6": 10,
       "7": 9,
       "8": 8,
       "9": 2,
@@ -79,10 +81,10 @@
     },
     "by_first_letter": {
       "B": 17,
-      "E": 2,
+      "E": 3,
       "G": 9,
       "I": 4,
-      "L": 13,
+      "L": 14,
       "N": 7,
       "Y": 2
     },
@@ -96,6 +98,7 @@
       },
       "E": {
         "5": 1,
+        "6": 1,
         "8": 1
       },
       "G": {
@@ -112,7 +115,7 @@
       "L": {
         "4": 3,
         "5": 5,
-        "6": 1,
+        "6": 2,
         "7": 3,
         "8": 1
       },
@@ -131,6 +134,7 @@
       "BI": 6,
       "BL": 1,
       "BY": 1,
+      "EE": 1,
       "EL": 2,
       "GE": 1,
       "GI": 4,
@@ -138,7 +142,7 @@
       "IL": 2,
       "IN": 2,
       "LE": 4,
-      "LI": 8,
+      "LI": 9,
       "LY": 1,
       "NE": 3,
       "NI": 4,

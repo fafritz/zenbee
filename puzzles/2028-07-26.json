@@ -1,9 +1,9 @@
 {
   "pangram": "blunted",
   "center_letter": "t",
-  "num_answers": 48,
+  "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 211,
+  "possible_points": 217,
   "answer_pangrams": [
     "blunted"
   ],
@@ -28,6 +28,7 @@
     "deleted",
     "dent",
     "dented",
+    "detent",
     "detente",
     "duet",
     "entente",
@@ -41,12 +42,12 @@
     "teed",
     "teen",
     "tell",
-    "telnet",
     "tend",
     "tended",
     "tenet",
     "tent",
     "tented",
+    "tubbed",
     "tube",
     "tubed",
     "tulle",
@@ -62,13 +63,13 @@
     "by_length": {
       "4": 17,
       "5": 8,
-      "6": 15,
+      "6": 16,
       "7": 7,
       "8": 1
     },
     "by_first_letter": {
       "B": 13,
-      "D": 9,
+      "D": 10,
       "E": 2,
       "L": 2,
       "N": 4,
@@ -85,7 +86,7 @@
       "D": {
         "4": 3,
         "5": 1,
-        "6": 2,
+        "6": 3,
         "7": 3
       },
       "E": {
@@ -113,7 +114,7 @@
       "BE": 6,
       "BL": 2,
       "BU": 5,
-      "DE": 8,
+      "DE": 9,
       "DU": 1,
       "EN": 1,
       "ET": 1,
@@ -121,8 +122,8 @@
       "LU": 1,
       "NE": 3,
       "NU": 1,
-      "TE": 9,
-      "TU": 8,
+      "TE": 8,
+      "TU": 9,
       "UN": 1
     }
   }

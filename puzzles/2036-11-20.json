@@ -1,14 +1,13 @@
 {
   "pangram": "buckled",
   "center_letter": "e",
-  "num_answers": 64,
+  "num_answers": 69,
   "num_pangrams": 1,
-  "possible_points": 297,
+  "possible_points": 325,
   "answer_pangrams": [
     "buckled"
   ],
   "answers": [
-    "beck",
     "bedded",
     "bedeck",
     "bedecked",
@@ -26,11 +25,13 @@
     "buckle",
     "buckled",
     "budded",
+    "bulbed",
     "bulked",
     "bulled",
     "cede",
     "ceded",
     "cell",
+    "celled",
     "clubbed",
     "clucked",
     "clue",
@@ -52,6 +53,7 @@
     "delude",
     "deluded",
     "deuce",
+    "deuced",
     "dubbed",
     "ducked",
     "dude",
@@ -61,11 +63,14 @@
     "duke",
     "dulled",
     "ebbed",
+    "educe",
+    "eeled",
     "eked",
     "elude",
     "eluded",
     "keel",
     "keeled",
+    "lede",
     "leek",
     "lube",
     "lubed",
@@ -77,43 +82,43 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 11,
-      "6": 24,
+      "5": 13,
+      "6": 27,
       "7": 8,
       "8": 2
     },
     "by_first_letter": {
       "B": 20,
-      "C": 13,
-      "D": 19,
-      "E": 4,
+      "C": 14,
+      "D": 20,
+      "E": 6,
       "K": 2,
-      "L": 5,
+      "L": 6,
       "U": 1
     },
     "grid": {
       "B": {
-        "4": 4,
+        "4": 3,
         "5": 3,
-        "6": 9,
+        "6": 10,
         "7": 2,
         "8": 2
       },
       "C": {
         "4": 5,
         "5": 3,
-        "6": 2,
+        "6": 3,
         "7": 3
       },
       "D": {
         "4": 6,
         "5": 2,
-        "6": 9,
+        "6": 10,
         "7": 2
       },
       "E": {
         "4": 1,
-        "5": 2,
+        "5": 4,
         "6": 1
       },
       "K": {
@@ -121,7 +126,7 @@
         "6": 1
       },
       "L": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "6": 2
       },
@@ -130,19 +135,21 @@
       }
     },
     "two_letter_list": {
-      "BE": 7,
+      "BE": 6,
       "BL": 5,
-      "BU": 8,
-      "CE": 3,
+      "BU": 9,
+      "CE": 4,
       "CL": 4,
       "CU": 6,
-      "DE": 11,
+      "DE": 12,
       "DU": 8,
       "EB": 1,
+      "ED": 1,
+      "EE": 1,
       "EK": 1,
       "EL": 2,
       "KE": 2,
-      "LE": 1,
+      "LE": 2,
       "LU": 4,
       "UK": 1
     }

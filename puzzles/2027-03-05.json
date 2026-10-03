@@ -1,9 +1,9 @@
 {
   "pangram": "curtail",
   "center_letter": "u",
-  "num_answers": 26,
+  "num_answers": 29,
   "num_pangrams": 2,
-  "possible_points": 128,
+  "possible_points": 149,
   "answer_pangrams": [
     "actuarial",
     "curtail"
@@ -21,8 +21,11 @@
     "cull",
     "cult",
     "cultural",
+    "curia",
+    "curial",
     "curl",
     "curricula",
+    "curricular",
     "curt",
     "curtail",
     "luau",
@@ -40,15 +43,16 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 3,
-      "6": 2,
+      "5": 4,
+      "6": 3,
       "7": 6,
       "8": 2,
-      "9": 2
+      "9": 2,
+      "10": 1
     },
     "by_first_letter": {
       "A": 5,
-      "C": 11,
+      "C": 14,
       "L": 3,
       "R": 2,
       "T": 3,
@@ -64,9 +68,12 @@
       },
       "C": {
         "4": 4,
+        "5": 1,
+        "6": 1,
         "7": 4,
         "8": 2,
-        "9": 1
+        "9": 1,
+        "10": 1
       },
       "L": {
         "4": 3
@@ -90,7 +97,7 @@
       "CA": 1,
       "CI": 2,
       "CR": 1,
-      "CU": 7,
+      "CU": 10,
       "LU": 3,
       "RI": 1,
       "RU": 1,

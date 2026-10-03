@@ -1,9 +1,9 @@
 {
   "pangram": "heaping",
   "center_letter": "p",
-  "num_answers": 45,
+  "num_answers": 48,
   "num_pangrams": 2,
-  "possible_points": 220,
+  "possible_points": 236,
   "answer_pangrams": [
     "happening",
     "heaping"
@@ -32,13 +32,14 @@
     "paining",
     "pane",
     "pang",
+    "panini",
     "panning",
     "papa",
     "peahen",
-    "peeing",
     "peen",
     "peep",
     "peeping",
+    "penne",
     "penning",
     "pepping",
     "phage",
@@ -49,6 +50,8 @@
     "ping",
     "pinging",
     "pining",
+    "pinna",
+    "pinnae",
     "pinning",
     "pipe",
     "piping",
@@ -59,8 +62,8 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 5,
-      "6": 11,
+      "5": 7,
+      "6": 12,
       "7": 13,
       "9": 1
     },
@@ -70,7 +73,7 @@
       "G": 2,
       "H": 6,
       "N": 4,
-      "P": 30
+      "P": 33
     },
     "grid": {
       "A": {
@@ -95,8 +98,8 @@
       },
       "P": {
         "4": 10,
-        "5": 3,
-        "6": 8,
+        "5": 5,
+        "6": 9,
         "7": 9
       }
     },
@@ -111,10 +114,10 @@
       "NA": 2,
       "NE": 1,
       "NI": 1,
-      "PA": 10,
+      "PA": 11,
       "PE": 7,
       "PH": 1,
-      "PI": 12
+      "PI": 14
     }
   }
 }

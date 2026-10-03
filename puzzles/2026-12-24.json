@@ -3,7 +3,7 @@
   "center_letter": "e",
   "num_answers": 47,
   "num_pangrams": 1,
-  "possible_points": 159,
+  "possible_points": 164,
   "answer_pangrams": [
     "baloney"
   ],
@@ -12,6 +12,7 @@
     "abbe",
     "abbey",
     "able",
+    "allele",
     "alley",
     "aloe",
     "alone",
@@ -34,7 +35,6 @@
     "bobble",
     "bole",
     "bone",
-    "ebay",
     "ebony",
     "elan",
     "enable",
@@ -59,15 +59,15 @@
   "date": "2026-12-24",
   "hints": {
     "by_length": {
-      "4": 25,
+      "4": 24,
       "5": 10,
-      "6": 7,
+      "6": 8,
       "7": 5
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 10,
       "B": 17,
-      "E": 6,
+      "E": 5,
       "L": 6,
       "N": 5,
       "O": 3,
@@ -77,7 +77,7 @@
       "A": {
         "4": 3,
         "5": 3,
-        "6": 2,
+        "6": 3,
         "7": 1
       },
       "B": {
@@ -87,7 +87,7 @@
         "7": 2
       },
       "E": {
-        "4": 2,
+        "4": 1,
         "5": 1,
         "6": 1,
         "7": 2
@@ -110,12 +110,12 @@
     },
     "two_letter_list": {
       "AB": 4,
-      "AL": 3,
+      "AL": 4,
       "AN": 2,
       "BA": 7,
       "BE": 7,
       "BO": 3,
-      "EB": 2,
+      "EB": 1,
       "EL": 1,
       "EN": 2,
       "EY": 1,

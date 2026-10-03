@@ -1,9 +1,9 @@
 {
   "pangram": "fraying",
   "center_letter": "y",
-  "num_answers": 21,
+  "num_answers": 22,
   "num_pangrams": 1,
-  "possible_points": 104,
+  "possible_points": 105,
   "answer_pangrams": [
     "fraying"
   ],
@@ -28,12 +28,13 @@
     "ninny",
     "rainy",
     "rangy",
+    "yang",
     "yarn"
   ],
   "date": "2036-08-24",
   "hints": {
     "by_length": {
-      "4": 5,
+      "4": 6,
       "5": 9,
       "6": 3,
       "7": 3,
@@ -46,7 +47,7 @@
       "I": 1,
       "N": 2,
       "R": 2,
-      "Y": 1
+      "Y": 2
     },
     "grid": {
       "A": {
@@ -75,7 +76,7 @@
         "5": 2
       },
       "Y": {
-        "4": 1
+        "4": 2
       }
     },
     "two_letter_list": {
@@ -90,7 +91,7 @@
       "NA": 1,
       "NI": 1,
       "RA": 2,
-      "YA": 1
+      "YA": 2
     }
   }
 }

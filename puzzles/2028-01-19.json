@@ -1,9 +1,9 @@
 {
   "pangram": "furling",
   "center_letter": "u",
-  "num_answers": 43,
+  "num_answers": 46,
   "num_pangrams": 3,
-  "possible_points": 241,
+  "possible_points": 254,
   "answer_pangrams": [
     "furling",
     "ruffling",
@@ -32,8 +32,11 @@
     "gunrunning",
     "gurgling",
     "guru",
+    "inulin",
     "inuring",
+    "luff",
     "lugging",
+    "luging",
     "lull",
     "lulling",
     "lulu",
@@ -57,9 +60,9 @@
   "date": "2028-01-19",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 14,
       "5": 5,
-      "6": 5,
+      "6": 7,
       "7": 13,
       "8": 4,
       "9": 1,
@@ -68,8 +71,8 @@
     "by_first_letter": {
       "F": 12,
       "G": 10,
-      "I": 1,
-      "L": 7,
+      "I": 2,
+      "L": 9,
       "N": 1,
       "R": 9,
       "U": 3
@@ -91,11 +94,12 @@
         "10": 1
       },
       "I": {
+        "6": 1,
         "7": 1
       },
       "L": {
-        "4": 3,
-        "6": 1,
+        "4": 4,
+        "6": 2,
         "7": 3
       },
       "N": {
@@ -120,8 +124,8 @@
       "GL": 1,
       "GR": 1,
       "GU": 8,
-      "IN": 1,
-      "LU": 7,
+      "IN": 2,
+      "LU": 9,
       "NU": 1,
       "RU": 9,
       "UN": 2,

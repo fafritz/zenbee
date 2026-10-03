@@ -1,9 +1,9 @@
 {
   "pangram": "linkage",
   "center_letter": "e",
-  "num_answers": 76,
+  "num_answers": 79,
   "num_pangrams": 2,
-  "possible_points": 385,
+  "possible_points": 404,
   "answer_pangrams": [
     "leaking",
     "linkage"
@@ -16,12 +16,15 @@
     "alkaline",
     "allege",
     "alleging",
+    "allele",
     "angel",
     "angle",
+    "aniline",
     "ankle",
     "anneal",
     "annealing",
     "eagle",
+    "eeling",
     "egging",
     "eking",
     "elan",
@@ -91,14 +94,14 @@
     "by_length": {
       "4": 20,
       "5": 19,
-      "6": 15,
-      "7": 12,
+      "6": 17,
+      "7": 13,
       "8": 8,
       "9": 2
     },
     "by_first_letter": {
-      "A": 12,
-      "E": 7,
+      "A": 14,
+      "E": 8,
       "G": 15,
       "I": 3,
       "K": 14,
@@ -108,14 +111,15 @@
     "grid": {
       "A": {
         "5": 7,
-        "6": 2,
+        "6": 3,
+        "7": 1,
         "8": 2,
         "9": 1
       },
       "E": {
         "4": 1,
         "5": 2,
-        "6": 3,
+        "6": 4,
         "8": 1
       },
       "G": {
@@ -153,9 +157,10 @@
     },
     "two_letter_list": {
       "AG": 1,
-      "AL": 6,
-      "AN": 5,
+      "AL": 7,
+      "AN": 6,
       "EA": 1,
+      "EE": 1,
       "EG": 1,
       "EK": 1,
       "EL": 1,

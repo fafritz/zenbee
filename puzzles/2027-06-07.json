@@ -3,11 +3,12 @@
   "center_letter": "u",
   "num_answers": 33,
   "num_pangrams": 1,
-  "possible_points": 198,
+  "possible_points": 199,
   "answer_pangrams": [
     "exuding"
   ],
   "answers": [
+    "dengue",
     "denude",
     "denuded",
     "denuding",
@@ -20,7 +21,6 @@
     "dunging",
     "dunned",
     "dunning",
-    "endue",
     "endued",
     "enduing",
     "ennui",
@@ -46,14 +46,14 @@
   "hints": {
     "by_length": {
       "4": 3,
-      "5": 8,
-      "6": 9,
+      "5": 7,
+      "6": 10,
       "7": 10,
       "8": 3
     },
     "by_first_letter": {
-      "D": 12,
-      "E": 7,
+      "D": 13,
+      "E": 6,
       "G": 6,
       "I": 1,
       "N": 3,
@@ -63,12 +63,12 @@
       "D": {
         "4": 3,
         "5": 1,
-        "6": 4,
+        "6": 5,
         "7": 3,
         "8": 1
       },
       "E": {
-        "5": 3,
+        "5": 2,
         "6": 2,
         "7": 2
       },
@@ -91,9 +91,9 @@
       }
     },
     "two_letter_list": {
-      "DE": 3,
+      "DE": 4,
       "DU": 9,
-      "EN": 4,
+      "EN": 3,
       "EX": 3,
       "GE": 1,
       "GU": 5,

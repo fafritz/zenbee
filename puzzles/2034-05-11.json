@@ -1,9 +1,9 @@
 {
   "pangram": "hauling",
   "center_letter": "g",
-  "num_answers": 58,
+  "num_answers": 61,
   "num_pangrams": 2,
-  "possible_points": 339,
+  "possible_points": 359,
   "answer_pangrams": [
     "hauling",
     "laughing"
@@ -18,10 +18,12 @@
     "angina",
     "angling",
     "annulling",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -45,7 +47,6 @@
     "hangnail",
     "hauling",
     "high",
-    "hing",
     "hinging",
     "hugging",
     "hulling",
@@ -56,9 +57,11 @@
     "lagging",
     "laugh",
     "laughing",
+    "lignin",
     "lingual",
     "lining",
     "lugging",
+    "luging",
     "lulling",
     "lung",
     "lunging",
@@ -73,17 +76,17 @@
     "by_length": {
       "4": 13,
       "5": 4,
-      "6": 7,
+      "6": 9,
       "7": 24,
-      "8": 8,
+      "8": 9,
       "9": 2
     },
     "by_first_letter": {
       "A": 9,
-      "G": 19,
-      "H": 13,
+      "G": 21,
+      "H": 12,
       "I": 3,
-      "L": 9,
+      "L": 11,
       "N": 4,
       "U": 1
     },
@@ -97,13 +100,13 @@
         "9": 1
       },
       "G": {
-        "4": 6,
+        "4": 7,
         "6": 1,
         "7": 10,
-        "8": 2
+        "8": 3
       },
       "H": {
-        "4": 4,
+        "4": 3,
         "6": 1,
         "7": 6,
         "8": 2
@@ -115,7 +118,7 @@
       "L": {
         "4": 1,
         "5": 1,
-        "6": 1,
+        "6": 3,
         "7": 5,
         "8": 1
       },
@@ -133,18 +136,18 @@
       "AI": 1,
       "AL": 3,
       "AN": 3,
-      "GA": 11,
+      "GA": 13,
       "GI": 4,
       "GL": 1,
       "GU": 3,
       "HA": 7,
-      "HI": 3,
+      "HI": 2,
       "HU": 3,
       "IG": 1,
       "IN": 2,
       "LA": 3,
-      "LI": 2,
-      "LU": 4,
+      "LI": 3,
+      "LU": 5,
       "NA": 2,
       "NI": 2,
       "UN": 1

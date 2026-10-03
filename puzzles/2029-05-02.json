@@ -1,9 +1,9 @@
 {
   "pangram": "optical",
   "center_letter": "a",
-  "num_answers": 68,
+  "num_answers": 69,
   "num_pangrams": 5,
-  "possible_points": 340,
+  "possible_points": 345,
   "answer_pangrams": [
     "apolitical",
     "capitol",
@@ -41,6 +41,7 @@
     "cocoa",
     "coital",
     "cola",
+    "iliac",
     "iota",
     "italic",
     "lactic",
@@ -85,7 +86,7 @@
   "hints": {
     "by_length": {
       "4": 23,
-      "5": 16,
+      "5": 17,
       "6": 12,
       "7": 11,
       "8": 3,
@@ -95,7 +96,7 @@
     "by_first_letter": {
       "A": 10,
       "C": 19,
-      "I": 2,
+      "I": 3,
       "L": 5,
       "O": 3,
       "P": 15,
@@ -116,6 +117,7 @@
       },
       "I": {
         "4": 1,
+        "5": 1,
         "6": 1
       },
       "L": {
@@ -153,6 +155,7 @@
       "CI": 1,
       "CL": 1,
       "CO": 6,
+      "IL": 1,
       "IO": 1,
       "IT": 1,
       "LA": 2,

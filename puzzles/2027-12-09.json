@@ -1,9 +1,9 @@
 {
   "pangram": "faction",
   "center_letter": "c",
-  "num_answers": 54,
+  "num_answers": 57,
   "num_pangrams": 2,
-  "possible_points": 313,
+  "possible_points": 331,
   "answer_pangrams": [
     "faction",
     "notification"
@@ -11,6 +11,7 @@
   "answers": [
     "acacia",
     "acai",
+    "actinic",
     "action",
     "antic",
     "attic",
@@ -50,9 +51,11 @@
     "fanatic",
     "fiction",
     "icon",
+    "iconic",
     "inaction",
     "incantation",
     "intact",
+    "ionic",
     "niacin",
     "nonfiction",
     "notification",
@@ -68,9 +71,9 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 12,
-      "6": 14,
-      "7": 8,
+      "5": 13,
+      "6": 15,
+      "7": 9,
       "8": 2,
       "9": 2,
       "10": 2,
@@ -78,10 +81,10 @@
       "12": 1
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 6,
       "C": 31,
       "F": 4,
-      "I": 4,
+      "I": 6,
       "N": 3,
       "T": 7
     },
@@ -89,7 +92,8 @@
       "A": {
         "4": 1,
         "5": 2,
-        "6": 2
+        "6": 2,
+        "7": 1
       },
       "C": {
         "4": 6,
@@ -107,7 +111,8 @@
       },
       "I": {
         "4": 1,
-        "6": 1,
+        "5": 1,
+        "6": 2,
         "8": 1,
         "11": 1
       },
@@ -125,7 +130,7 @@
       }
     },
     "two_letter_list": {
-      "AC": 3,
+      "AC": 4,
       "AN": 1,
       "AT": 1,
       "CA": 14,
@@ -133,8 +138,9 @@
       "CO": 16,
       "FA": 3,
       "FI": 1,
-      "IC": 1,
+      "IC": 2,
       "IN": 3,
+      "IO": 1,
       "NI": 1,
       "NO": 2,
       "TA": 5,

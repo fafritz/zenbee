@@ -1,9 +1,9 @@
 {
   "pangram": "confirm",
   "center_letter": "o",
-  "num_answers": 38,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 147,
+  "possible_points": 165,
   "answer_pangrams": [
     "confirm"
   ],
@@ -24,8 +24,10 @@
     "form",
     "from",
     "icon",
+    "iconic",
     "info",
     "inform",
+    "ionic",
     "iron",
     "ironic",
     "micron",
@@ -39,30 +41,33 @@
     "morocco",
     "moron",
     "moronic",
+    "noir",
     "noncom",
     "noon",
+    "nori",
     "norm",
     "onion",
     "rococo",
+    "ronin",
     "roof",
     "room"
   ],
   "date": "2030-11-01",
   "hints": {
     "by_length": {
-      "4": 17,
-      "5": 7,
-      "6": 10,
+      "4": 19,
+      "5": 9,
+      "6": 11,
       "7": 4
     },
     "by_first_letter": {
       "C": 13,
       "F": 2,
-      "I": 5,
+      "I": 7,
       "M": 11,
-      "N": 3,
+      "N": 5,
       "O": 1,
-      "R": 3
+      "R": 4
     },
     "grid": {
       "C": {
@@ -76,7 +81,8 @@
       },
       "I": {
         "4": 3,
-        "6": 2
+        "5": 1,
+        "6": 3
       },
       "M": {
         "4": 4,
@@ -85,7 +91,7 @@
         "7": 2
       },
       "N": {
-        "4": 2,
+        "4": 4,
         "6": 1
       },
       "O": {
@@ -93,6 +99,7 @@
       },
       "R": {
         "4": 2,
+        "5": 1,
         "6": 1
       }
     },
@@ -101,14 +108,15 @@
       "CR": 1,
       "FO": 1,
       "FR": 1,
-      "IC": 1,
+      "IC": 2,
       "IN": 2,
+      "IO": 1,
       "IR": 2,
       "MI": 4,
       "MO": 7,
-      "NO": 3,
+      "NO": 5,
       "ON": 1,
-      "RO": 3
+      "RO": 4
     }
   }
 }

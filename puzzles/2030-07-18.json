@@ -1,9 +1,9 @@
 {
   "pangram": "adoring",
   "center_letter": "d",
-  "num_answers": 78,
+  "num_answers": 76,
   "num_pangrams": 5,
-  "possible_points": 444,
+  "possible_points": 430,
   "answer_pangrams": [
     "adoring",
     "adorning",
@@ -36,7 +36,6 @@
     "dodging",
     "dodo",
     "dogging",
-    "doggoning",
     "doing",
     "donning",
     "donor",
@@ -56,7 +55,6 @@
     "girding",
     "goad",
     "goading",
-    "gonad",
     "good",
     "grad",
     "grading",
@@ -95,17 +93,17 @@
   "hints": {
     "by_length": {
       "4": 17,
-      "5": 18,
+      "5": 17,
       "6": 13,
       "7": 20,
       "8": 7,
-      "9": 2,
+      "9": 1,
       "10": 1
     },
     "by_first_letter": {
       "A": 10,
-      "D": 29,
-      "G": 14,
+      "D": 28,
+      "G": 13,
       "I": 3,
       "N": 4,
       "O": 3,
@@ -125,12 +123,11 @@
         "6": 4,
         "7": 9,
         "8": 2,
-        "9": 1,
         "10": 1
       },
       "G": {
         "4": 5,
-        "5": 3,
+        "5": 2,
         "7": 4,
         "8": 2
       },
@@ -162,11 +159,11 @@
       "AR": 2,
       "DA": 4,
       "DI": 7,
-      "DO": 9,
+      "DO": 8,
       "DR": 9,
       "GA": 1,
       "GI": 2,
-      "GO": 4,
+      "GO": 3,
       "GR": 7,
       "IN": 3,
       "NA": 2,

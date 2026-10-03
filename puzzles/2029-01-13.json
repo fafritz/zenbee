@@ -3,7 +3,7 @@
   "center_letter": "u",
   "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 206,
+  "possible_points": 207,
   "answer_pangrams": [
     "jaunted"
   ],
@@ -23,7 +23,6 @@
     "duet",
     "dune",
     "dunned",
-    "endue",
     "endued",
     "etude",
     "jaunt",
@@ -32,6 +31,7 @@
     "junta",
     "jute",
     "jutted",
+    "nutate",
     "nutted",
     "taunt",
     "taunted",
@@ -51,8 +51,8 @@
   "hints": {
     "by_length": {
       "4": 9,
-      "5": 9,
-      "6": 7,
+      "5": 8,
+      "6": 8,
       "7": 7,
       "8": 2,
       "9": 2,
@@ -61,9 +61,9 @@
     "by_first_letter": {
       "A": 6,
       "D": 9,
-      "E": 3,
+      "E": 2,
       "J": 6,
-      "N": 1,
+      "N": 2,
       "T": 7,
       "U": 6
     },
@@ -83,7 +83,7 @@
         "7": 2
       },
       "E": {
-        "5": 2,
+        "5": 1,
         "6": 1
       },
       "J": {
@@ -93,7 +93,7 @@
         "7": 1
       },
       "N": {
-        "6": 1
+        "6": 2
       },
       "T": {
         "4": 4,
@@ -115,12 +115,12 @@
       "DA": 2,
       "DE": 2,
       "DU": 5,
-      "EN": 2,
+      "EN": 1,
       "ET": 1,
       "JA": 2,
       "JE": 1,
       "JU": 3,
-      "NU": 1,
+      "NU": 2,
       "TA": 3,
       "TU": 4,
       "UN": 6

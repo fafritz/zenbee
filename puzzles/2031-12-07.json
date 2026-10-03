@@ -1,9 +1,9 @@
 {
   "pangram": "clarion",
   "center_letter": "a",
-  "num_answers": 66,
+  "num_answers": 67,
   "num_pangrams": 3,
-  "possible_points": 310,
+  "possible_points": 319,
   "answer_pangrams": [
     "carillon",
     "clarion",
@@ -13,7 +13,6 @@
     "acacia",
     "acai",
     "acorn",
-    "anal",
     "anion",
     "anon",
     "aria",
@@ -51,10 +50,12 @@
     "corona",
     "corral",
     "cranial",
+    "iliac",
     "ironical",
     "laconic",
     "lain",
     "lair",
+    "lanai",
     "lanolin",
     "liar",
     "lilac",
@@ -80,25 +81,25 @@
   "date": "2031-12-07",
   "hints": {
     "by_length": {
-      "4": 23,
-      "5": 16,
+      "4": 22,
+      "5": 18,
       "6": 11,
       "7": 10,
       "8": 4,
       "9": 2
     },
     "by_first_letter": {
-      "A": 7,
+      "A": 6,
       "C": 34,
-      "I": 1,
-      "L": 10,
+      "I": 2,
+      "L": 11,
       "N": 5,
       "O": 2,
       "R": 7
     },
     "grid": {
       "A": {
-        "4": 4,
+        "4": 3,
         "5": 2,
         "6": 1
       },
@@ -111,11 +112,12 @@
         "9": 2
       },
       "I": {
+        "5": 1,
         "8": 1
       },
       "L": {
         "4": 5,
-        "5": 3,
+        "5": 4,
         "7": 2
       },
       "N": {
@@ -134,15 +136,16 @@
     },
     "two_letter_list": {
       "AC": 3,
-      "AN": 3,
+      "AN": 2,
       "AR": 1,
       "CA": 16,
       "CI": 2,
       "CL": 4,
       "CO": 11,
       "CR": 1,
+      "IL": 1,
       "IR": 1,
-      "LA": 4,
+      "LA": 5,
       "LI": 3,
       "LL": 1,
       "LO": 2,

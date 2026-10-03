@@ -1,9 +1,9 @@
 {
   "pangram": "penalty",
   "center_letter": "t",
-  "num_answers": 69,
+  "num_answers": 70,
   "num_pangrams": 3,
-  "possible_points": 362,
+  "possible_points": 369,
   "answer_pangrams": [
     "aplenty",
     "patently",
@@ -21,6 +21,7 @@
     "elate",
     "entente",
     "eyelet",
+    "lantana",
     "late",
     "lately",
     "latent",
@@ -31,6 +32,7 @@
     "natal",
     "natty",
     "neat",
+    "neaten",
     "neatly",
     "nettle",
     "palatal",
@@ -73,7 +75,6 @@
     "teletype",
     "tell",
     "telltale",
-    "telnet",
     "tenant",
     "tenet",
     "tent",
@@ -86,7 +87,7 @@
       "4": 17,
       "5": 18,
       "6": 16,
-      "7": 10,
+      "7": 11,
       "8": 5,
       "9": 2,
       "10": 1
@@ -94,10 +95,10 @@
     "by_first_letter": {
       "A": 7,
       "E": 4,
-      "L": 7,
-      "N": 5,
+      "L": 8,
+      "N": 6,
       "P": 26,
-      "T": 20
+      "T": 19
     },
     "grid": {
       "A": {
@@ -116,12 +117,12 @@
         "4": 2,
         "5": 2,
         "6": 2,
-        "7": 1
+        "7": 2
       },
       "N": {
         "4": 1,
         "5": 2,
-        "6": 2
+        "6": 3
       },
       "P": {
         "4": 5,
@@ -133,7 +134,7 @@
       "T": {
         "4": 8,
         "5": 5,
-        "6": 4,
+        "6": 3,
         "8": 2,
         "10": 1
       }
@@ -145,15 +146,15 @@
       "EL": 1,
       "EN": 1,
       "EY": 1,
-      "LA": 5,
+      "LA": 6,
       "LE": 2,
       "NA": 2,
-      "NE": 3,
+      "NE": 4,
       "PA": 11,
       "PE": 8,
       "PL": 7,
       "TA": 8,
-      "TE": 11,
+      "TE": 10,
       "TY": 1
     }
   }

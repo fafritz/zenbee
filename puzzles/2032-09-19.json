@@ -1,9 +1,9 @@
 {
   "pangram": "draping",
   "center_letter": "a",
-  "num_answers": 73,
+  "num_answers": 77,
   "num_pangrams": 2,
-  "possible_points": 376,
+  "possible_points": 404,
   "answer_pangrams": [
     "draping",
     "parading"
@@ -33,6 +33,7 @@
     "draining",
     "draping",
     "gadding",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -45,7 +46,8 @@
     "grain",
     "grand",
     "grandpa",
-    "ipad",
+    "ingrain",
+    "ingraining",
     "naan",
     "nadir",
     "nagging",
@@ -62,11 +64,13 @@
     "pairing",
     "panda",
     "pang",
+    "panini",
     "panning",
     "papa",
     "parading",
     "paring",
     "parring",
+    "pinna",
     "radar",
     "radian",
     "radii",
@@ -87,20 +91,20 @@
   "hints": {
     "by_length": {
       "4": 20,
-      "5": 14,
-      "6": 11,
-      "7": 21,
+      "5": 15,
+      "6": 12,
+      "7": 22,
       "8": 5,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 14,
       "D": 9,
-      "G": 13,
-      "I": 1,
+      "G": 14,
+      "I": 2,
       "N": 6,
-      "P": 15,
+      "P": 17,
       "R": 15
     },
     "grid": {
@@ -121,14 +125,15 @@
         "8": 2
       },
       "G": {
-        "4": 3,
+        "4": 4,
         "5": 2,
         "6": 1,
         "7": 6,
         "8": 1
       },
       "I": {
-        "4": 1
+        "7": 1,
+        "10": 1
       },
       "N": {
         "4": 2,
@@ -137,8 +142,8 @@
       },
       "P": {
         "4": 5,
-        "5": 2,
-        "6": 2,
+        "5": 3,
+        "6": 3,
         "7": 5,
         "8": 1
       },
@@ -159,11 +164,12 @@
       "DA": 3,
       "DI": 1,
       "DR": 5,
-      "GA": 8,
+      "GA": 9,
       "GR": 5,
-      "IP": 1,
+      "IN": 2,
       "NA": 6,
-      "PA": 15,
+      "PA": 16,
+      "PI": 1,
       "RA": 15
     }
   }

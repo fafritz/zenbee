@@ -1,9 +1,9 @@
 {
   "pangram": "harking",
   "center_letter": "n",
-  "num_answers": 56,
+  "num_answers": 57,
   "num_pangrams": 1,
-  "possible_points": 275,
+  "possible_points": 291,
   "answer_pangrams": [
     "harking"
   ],
@@ -36,9 +36,10 @@
     "haring",
     "harking",
     "hiking",
-    "hing",
     "hinging",
     "hiring",
+    "ingrain",
+    "ingraining",
     "inking",
     "inning",
     "irking",
@@ -68,19 +69,19 @@
   "date": "2038-10-20",
   "hints": {
     "by_length": {
-      "4": 19,
+      "4": 18,
       "5": 3,
       "6": 12,
-      "7": 17,
+      "7": 18,
       "8": 3,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 10,
       "G": 11,
-      "H": 10,
-      "I": 3,
+      "H": 9,
+      "I": 5,
       "K": 4,
       "N": 4,
       "R": 14
@@ -102,12 +103,14 @@
         "8": 2
       },
       "H": {
-        "4": 3,
+        "4": 2,
         "6": 4,
         "7": 3
       },
       "I": {
-        "6": 3
+        "6": 3,
+        "7": 1,
+        "10": 1
       },
       "K": {
         "4": 3,
@@ -133,8 +136,8 @@
       "GI": 2,
       "GR": 3,
       "HA": 6,
-      "HI": 4,
-      "IN": 2,
+      "HI": 3,
+      "IN": 4,
       "IR": 1,
       "KH": 1,
       "KI": 3,

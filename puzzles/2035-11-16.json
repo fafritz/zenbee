@@ -1,9 +1,9 @@
 {
   "pangram": "clangor",
   "center_letter": "g",
-  "num_answers": 33,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 118,
+  "possible_points": 133,
   "answer_pangrams": [
     "clangor"
   ],
@@ -22,14 +22,17 @@
     "cognac",
     "conga",
     "crag",
+    "gaga",
     "gala",
+    "galangal",
     "gall",
     "gallon",
     "gang",
+    "gnarl",
     "goal",
     "gong",
-    "gonna",
     "goon",
+    "gorgon",
     "granola",
     "groan",
     "grog",
@@ -45,15 +48,16 @@
   "date": "2035-11-16",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 17,
       "5": 9,
-      "6": 6,
-      "7": 2
+      "6": 7,
+      "7": 2,
+      "8": 1
     },
     "by_first_letter": {
       "A": 7,
       "C": 7,
-      "G": 11,
+      "G": 14,
       "L": 4,
       "O": 1,
       "R": 3
@@ -71,10 +75,11 @@
         "7": 1
       },
       "G": {
-        "4": 7,
+        "4": 8,
         "5": 2,
-        "6": 1,
-        "7": 1
+        "6": 2,
+        "7": 1,
+        "8": 1
       },
       "L": {
         "4": 2,
@@ -98,7 +103,8 @@
       "CL": 3,
       "CO": 2,
       "CR": 1,
-      "GA": 4,
+      "GA": 6,
+      "GN": 1,
       "GO": 4,
       "GR": 3,
       "LA": 2,

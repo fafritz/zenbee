@@ -1,9 +1,9 @@
 {
   "pangram": "fluting",
   "center_letter": "l",
-  "num_answers": 53,
+  "num_answers": 57,
   "num_pangrams": 1,
-  "possible_points": 269,
+  "possible_points": 288,
   "answer_pangrams": [
     "fluting"
   ],
@@ -38,14 +38,18 @@
     "gulf",
     "gull",
     "gulling",
+    "inulin",
     "lift",
     "lifting",
+    "lignin",
     "lilt",
     "lilting",
     "lining",
     "lint",
     "linting",
+    "luff",
     "lugging",
+    "luging",
     "lull",
     "lulling",
     "lulu",
@@ -65,9 +69,9 @@
   "date": "2033-09-24",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 7,
-      "6": 5,
+      "6": 8,
       "7": 14,
       "8": 9,
       "10": 1
@@ -75,7 +79,8 @@
     "by_first_letter": {
       "F": 17,
       "G": 13,
-      "L": 13,
+      "I": 1,
+      "L": 16,
       "N": 2,
       "T": 7,
       "U": 1
@@ -96,9 +101,12 @@
         "7": 1,
         "8": 4
       },
+      "I": {
+        "6": 1
+      },
       "L": {
-        "4": 6,
-        "6": 1,
+        "4": 7,
+        "6": 3,
         "7": 6
       },
       "N": {
@@ -122,8 +130,9 @@
       "GI": 3,
       "GL": 5,
       "GU": 5,
-      "LI": 7,
-      "LU": 6,
+      "IN": 1,
+      "LI": 8,
+      "LU": 8,
       "NI": 1,
       "NU": 1,
       "TI": 7,

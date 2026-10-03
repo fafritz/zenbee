@@ -1,9 +1,9 @@
 {
   "pangram": "prodigy",
   "center_letter": "r",
-  "num_answers": 26,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 74,
+  "possible_points": 86,
   "answer_pangrams": [
     "prodigy"
   ],
@@ -11,6 +11,7 @@
     "door",
     "dory",
     "drip",
+    "drippy",
     "droid",
     "droop",
     "droopy",
@@ -24,6 +25,7 @@
     "groggy",
     "gyro",
     "odor",
+    "pirogi",
     "poor",
     "prig",
     "prior",
@@ -40,21 +42,21 @@
     "by_length": {
       "4": 17,
       "5": 5,
-      "6": 3,
+      "6": 5,
       "7": 1
     },
     "by_first_letter": {
-      "D": 7,
+      "D": 8,
       "G": 8,
       "O": 1,
-      "P": 7,
+      "P": 8,
       "R": 3
     },
     "grid": {
       "D": {
         "4": 4,
         "5": 2,
-        "6": 1
+        "6": 2
       },
       "G": {
         "4": 7,
@@ -66,7 +68,7 @@
       "P": {
         "4": 4,
         "5": 1,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "R": {
@@ -76,12 +78,13 @@
     },
     "two_letter_list": {
       "DO": 2,
-      "DR": 5,
+      "DR": 6,
       "GI": 1,
       "GO": 2,
       "GR": 4,
       "GY": 1,
       "OD": 1,
+      "PI": 1,
       "PO": 1,
       "PR": 6,
       "RI": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "curtail",
   "center_letter": "r",
-  "num_answers": 47,
+  "num_answers": 49,
   "num_pangrams": 2,
-  "possible_points": 242,
+  "possible_points": 256,
   "answer_pangrams": [
     "actuarial",
     "curtail"
@@ -31,8 +31,11 @@
     "critical",
     "crucial",
     "cultural",
+    "curia",
+    "curial",
     "curl",
     "curricula",
+    "curricular",
     "curt",
     "curtail",
     "lair",
@@ -41,7 +44,6 @@
     "lira",
     "racial",
     "rail",
-    "ratatat",
     "rill",
     "ritual",
     "rural",
@@ -61,17 +63,18 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 15,
-      "6": 7,
-      "7": 7,
+      "5": 16,
+      "6": 8,
+      "7": 6,
       "8": 4,
-      "9": 2
+      "9": 2,
+      "10": 1
     },
     "by_first_letter": {
       "A": 10,
-      "C": 16,
+      "C": 19,
       "L": 4,
-      "R": 6,
+      "R": 5,
       "T": 9,
       "U": 2
     },
@@ -85,11 +88,12 @@
       },
       "C": {
         "4": 3,
-        "5": 3,
-        "6": 2,
+        "5": 4,
+        "6": 3,
         "7": 3,
         "8": 4,
-        "9": 1
+        "9": 1,
+        "10": 1
       },
       "L": {
         "4": 3,
@@ -98,8 +102,7 @@
       "R": {
         "4": 2,
         "5": 1,
-        "6": 2,
-        "7": 1
+        "6": 2
       },
       "T": {
         "4": 1,
@@ -121,10 +124,10 @@
       "CA": 3,
       "CI": 5,
       "CR": 3,
-      "CU": 5,
+      "CU": 8,
       "LA": 2,
       "LI": 2,
-      "RA": 3,
+      "RA": 2,
       "RI": 2,
       "RU": 1,
       "TA": 2,

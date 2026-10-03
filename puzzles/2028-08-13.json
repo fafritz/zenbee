@@ -1,14 +1,15 @@
 {
   "pangram": "wealthy",
   "center_letter": "a",
-  "num_answers": 55,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 231,
+  "possible_points": 237,
   "answer_pangrams": [
     "wealthy"
   ],
   "answers": [
     "allay",
+    "allele",
     "alley",
     "alleyway",
     "ally",
@@ -69,13 +70,13 @@
     "by_length": {
       "4": 22,
       "5": 13,
-      "6": 9,
+      "6": 10,
       "7": 7,
       "8": 3,
       "10": 1
     },
     "by_first_letter": {
-      "A": 6,
+      "A": 7,
       "E": 1,
       "H": 11,
       "L": 10,
@@ -87,6 +88,7 @@
       "A": {
         "4": 2,
         "5": 2,
+        "6": 1,
         "7": 1,
         "8": 1
       },
@@ -124,7 +126,7 @@
       }
     },
     "two_letter_list": {
-      "AL": 4,
+      "AL": 5,
       "AT": 1,
       "AW": 1,
       "EL": 1,

@@ -1,21 +1,21 @@
 {
   "pangram": "hangout",
   "center_letter": "g",
-  "num_answers": 29,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 115,
+  "possible_points": 112,
   "answer_pangrams": [
     "hangout"
   ],
   "answers": [
     "agog",
     "aught",
+    "gaga",
     "gang",
     "gaunt",
     "gnat",
     "goat",
     "gong",
-    "gonna",
     "goon",
     "gout",
     "guano",
@@ -35,14 +35,15 @@
     "thought",
     "thug",
     "toga",
+    "tong",
     "tough",
     "untaught"
   ],
   "date": "2037-07-22",
   "hints": {
     "by_length": {
-      "4": 12,
-      "5": 10,
+      "4": 14,
+      "5": 9,
       "6": 4,
       "7": 2,
       "8": 1
@@ -53,7 +54,7 @@
       "H": 4,
       "N": 2,
       "O": 2,
-      "T": 9,
+      "T": 10,
       "U": 1
     },
     "grid": {
@@ -62,8 +63,8 @@
         "5": 1
       },
       "G": {
-        "4": 6,
-        "5": 3
+        "4": 7,
+        "5": 2
       },
       "H": {
         "4": 2,
@@ -77,7 +78,7 @@
         "5": 2
       },
       "T": {
-        "4": 3,
+        "4": 4,
         "5": 3,
         "6": 2,
         "7": 1
@@ -89,9 +90,9 @@
     "two_letter_list": {
       "AG": 1,
       "AU": 1,
-      "GA": 2,
+      "GA": 3,
       "GN": 1,
-      "GO": 5,
+      "GO": 4,
       "GU": 1,
       "HA": 2,
       "HO": 1,
@@ -101,7 +102,7 @@
       "OU": 2,
       "TA": 3,
       "TH": 4,
-      "TO": 2,
+      "TO": 3,
       "UN": 1
     }
   }

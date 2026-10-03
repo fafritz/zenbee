@@ -1,9 +1,9 @@
 {
   "pangram": "pivoted",
   "center_letter": "o",
-  "num_answers": 52,
+  "num_answers": 51,
   "num_pangrams": 1,
-  "possible_points": 244,
+  "possible_points": 243,
   "answer_pangrams": [
     "pivoted"
   ],
@@ -25,7 +25,6 @@
     "dotted",
     "dove",
     "idiot",
-    "ipod",
     "opioid",
     "opted",
     "ovoid",
@@ -64,7 +63,7 @@
   "date": "2037-01-29",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 13,
       "5": 13,
       "6": 18,
       "7": 6,
@@ -72,7 +71,7 @@
     },
     "by_first_letter": {
       "D": 16,
-      "I": 2,
+      "I": 1,
       "O": 3,
       "P": 10,
       "T": 10,
@@ -86,7 +85,6 @@
         "7": 3
       },
       "I": {
-        "4": 1,
         "5": 1
       },
       "O": {
@@ -118,7 +116,6 @@
       "DI": 4,
       "DO": 7,
       "ID": 1,
-      "IP": 1,
       "OP": 2,
       "OV": 1,
       "PI": 2,

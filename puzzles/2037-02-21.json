@@ -1,9 +1,9 @@
 {
   "pangram": "bailout",
   "center_letter": "i",
-  "num_answers": 19,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 59,
+  "possible_points": 70,
   "answer_pangrams": [
     "bailout"
   ],
@@ -13,6 +13,7 @@
     "bailout",
     "bait",
     "bill",
+    "biota",
     "bobtail",
     "boil",
     "built",
@@ -24,6 +25,7 @@
     "olio",
     "tail",
     "tibia",
+    "tibial",
     "till",
     "tilt",
     "toil"
@@ -32,17 +34,17 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 4,
-      "6": 1,
+      "5": 5,
+      "6": 2,
       "7": 2
     },
     "by_first_letter": {
       "A": 1,
-      "B": 7,
+      "B": 8,
       "I": 1,
       "L": 3,
       "O": 2,
-      "T": 5
+      "T": 6
     },
     "grid": {
       "A": {
@@ -50,7 +52,7 @@
       },
       "B": {
         "4": 4,
-        "5": 1,
+        "5": 2,
         "7": 2
       },
       "I": {
@@ -66,13 +68,14 @@
       },
       "T": {
         "4": 4,
-        "5": 1
+        "5": 1,
+        "6": 1
       }
     },
     "two_letter_list": {
       "AL": 1,
       "BA": 3,
-      "BI": 1,
+      "BI": 2,
       "BO": 2,
       "BU": 1,
       "IO": 1,
@@ -81,7 +84,7 @@
       "OB": 1,
       "OL": 1,
       "TA": 1,
-      "TI": 3,
+      "TI": 4,
       "TO": 1
     }
   }

@@ -1,9 +1,9 @@
 {
   "pangram": "cabling",
   "center_letter": "l",
-  "num_answers": 64,
+  "num_answers": 67,
   "num_pangrams": 2,
-  "possible_points": 371,
+  "possible_points": 394,
   "answer_pangrams": [
     "balancing",
     "cabling"
@@ -15,7 +15,6 @@
     "alibiing",
     "align",
     "aligning",
-    "anal",
     "angling",
     "babbling",
     "bacilli",
@@ -51,6 +50,7 @@
     "clinician",
     "gabbling",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "ganglia",
@@ -60,13 +60,16 @@
     "glacial",
     "glancing",
     "glib",
+    "iliac",
     "inclining",
     "labia",
     "labial",
     "lacing",
     "lagging",
     "lain",
+    "lanai",
     "lancing",
+    "lignin",
     "lilac",
     "lining",
     "nail",
@@ -77,25 +80,25 @@
   "date": "2038-05-18",
   "hints": {
     "by_length": {
-      "4": 14,
-      "5": 12,
-      "6": 6,
+      "4": 13,
+      "5": 14,
+      "6": 7,
       "7": 13,
-      "8": 15,
+      "8": 16,
       "9": 4
     },
     "by_first_letter": {
-      "A": 8,
+      "A": 7,
       "B": 15,
       "C": 17,
-      "G": 11,
-      "I": 1,
-      "L": 8,
+      "G": 12,
+      "I": 2,
+      "L": 10,
       "N": 4
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 2,
         "6": 1,
         "7": 1,
@@ -120,15 +123,16 @@
       "G": {
         "4": 4,
         "7": 3,
-        "8": 4
+        "8": 5
       },
       "I": {
+        "5": 1,
         "9": 1
       },
       "L": {
         "4": 1,
-        "5": 2,
-        "6": 3,
+        "5": 3,
+        "6": 4,
         "7": 2
       },
       "N": {
@@ -140,19 +144,20 @@
     "two_letter_list": {
       "AI": 1,
       "AL": 5,
-      "AN": 2,
+      "AN": 1,
       "BA": 9,
       "BI": 3,
       "BL": 3,
       "CA": 8,
       "CI": 1,
       "CL": 8,
-      "GA": 6,
+      "GA": 7,
       "GI": 2,
       "GL": 3,
+      "IL": 1,
       "IN": 1,
-      "LA": 6,
-      "LI": 2,
+      "LA": 7,
+      "LI": 3,
       "NA": 2,
       "NI": 2
     }

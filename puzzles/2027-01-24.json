@@ -1,9 +1,9 @@
 {
   "pangram": "vouched",
   "center_letter": "c",
-  "num_answers": 23,
+  "num_answers": 24,
   "num_pangrams": 1,
-  "possible_points": 108,
+  "possible_points": 113,
   "answer_pangrams": [
     "vouched"
   ],
@@ -23,10 +23,11 @@
     "deduce",
     "deduced",
     "deuce",
-    "douche",
+    "deuced",
     "douched",
     "echo",
     "echoed",
+    "educe",
     "hooch",
     "ouch",
     "vouch",
@@ -36,14 +37,14 @@
   "hints": {
     "by_length": {
       "4": 7,
-      "5": 7,
+      "5": 8,
       "6": 4,
       "7": 5
     },
     "by_first_letter": {
       "C": 10,
       "D": 7,
-      "E": 2,
+      "E": 3,
       "H": 1,
       "O": 1,
       "V": 2
@@ -61,6 +62,7 @@
       },
       "E": {
         "4": 1,
+        "5": 1,
         "6": 1
       },
       "H": {
@@ -78,9 +80,10 @@
       "CE": 2,
       "CO": 7,
       "CU": 1,
-      "DE": 5,
-      "DO": 2,
+      "DE": 6,
+      "DO": 1,
       "EC": 2,
+      "ED": 1,
       "HO": 1,
       "OU": 1,
       "VO": 2

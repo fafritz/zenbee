@@ -3,7 +3,7 @@
   "center_letter": "b",
   "num_answers": 20,
   "num_pangrams": 1,
-  "possible_points": 96,
+  "possible_points": 91,
   "answer_pangrams": [
     "bronchi"
   ],
@@ -13,11 +13,11 @@
     "bobbin",
     "bonbon",
     "boob",
-    "booboo",
     "boon",
     "boor",
     "born",
     "boron",
+    "brio",
     "bronchi",
     "bronco",
     "brooch",
@@ -32,9 +32,9 @@
   "date": "2027-05-12",
   "hints": {
     "by_length": {
-      "4": 6,
+      "4": 7,
       "5": 3,
-      "6": 9,
+      "6": 8,
       "7": 2
     },
     "by_first_letter": {
@@ -46,9 +46,9 @@
     },
     "grid": {
       "B": {
-        "4": 4,
+        "4": 5,
         "5": 2,
-        "6": 6,
+        "6": 5,
         "7": 1
       },
       "C": {
@@ -69,8 +69,8 @@
     },
     "two_letter_list": {
       "BI": 2,
-      "BO": 8,
-      "BR": 3,
+      "BO": 7,
+      "BR": 4,
       "CO": 1,
       "CR": 1,
       "HO": 2,

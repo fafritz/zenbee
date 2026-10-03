@@ -3,7 +3,7 @@
   "center_letter": "l",
   "num_answers": 70,
   "num_pangrams": 2,
-  "possible_points": 292,
+  "possible_points": 294,
   "answer_pangrams": [
     "nonviolent",
     "violent"
@@ -11,6 +11,7 @@
   "answers": [
     "eleven",
     "elite",
+    "elote",
     "enliven",
     "entitle",
     "evil",
@@ -41,13 +42,13 @@
     "loll",
     "lone",
     "loon",
-    "loonie",
     "loot",
     "lotion",
     "lotto",
     "love",
     "nettle",
     "noel",
+    "nonillion",
     "nonviolent",
     "novel",
     "novelette",
@@ -56,7 +57,6 @@
     "olive",
     "online",
     "tell",
-    "telnet",
     "tile",
     "till",
     "tilt",
@@ -84,26 +84,26 @@
   "hints": {
     "by_length": {
       "4": 30,
-      "5": 12,
-      "6": 17,
+      "5": 13,
+      "6": 15,
       "7": 6,
       "8": 2,
-      "9": 2,
+      "9": 3,
       "10": 1
     },
     "by_first_letter": {
-      "E": 6,
+      "E": 7,
       "I": 4,
-      "L": 27,
-      "N": 5,
+      "L": 26,
+      "N": 6,
       "O": 4,
-      "T": 12,
+      "T": 11,
       "V": 12
     },
     "grid": {
       "E": {
         "4": 1,
-        "5": 1,
+        "5": 2,
         "6": 2,
         "7": 2
       },
@@ -115,14 +115,14 @@
       "L": {
         "4": 14,
         "5": 5,
-        "6": 6,
+        "6": 5,
         "7": 2
       },
       "N": {
         "4": 1,
         "5": 1,
         "6": 1,
-        "9": 1,
+        "9": 2,
         "10": 1
       },
       "O": {
@@ -133,7 +133,7 @@
       "T": {
         "4": 7,
         "5": 1,
-        "6": 3,
+        "6": 2,
         "8": 1
       },
       "V": {
@@ -146,18 +146,18 @@
       }
     },
     "two_letter_list": {
-      "EL": 2,
+      "EL": 3,
       "EN": 2,
       "EV": 2,
       "IN": 4,
       "LE": 6,
       "LI": 12,
-      "LO": 9,
+      "LO": 8,
       "NE": 1,
-      "NO": 4,
+      "NO": 5,
       "OL": 3,
       "ON": 1,
-      "TE": 2,
+      "TE": 1,
       "TI": 5,
       "TO": 5,
       "VE": 3,

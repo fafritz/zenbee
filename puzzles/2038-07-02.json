@@ -1,9 +1,9 @@
 {
   "pangram": "gaudily",
   "center_letter": "y",
-  "num_answers": 21,
+  "num_answers": 22,
   "num_pangrams": 1,
-  "possible_points": 99,
+  "possible_points": 104,
   "answer_pangrams": [
     "gaudily"
   ],
@@ -17,6 +17,7 @@
     "dillydally",
     "dully",
     "duly",
+    "gaily",
     "gaudily",
     "gaudy",
     "giddily",
@@ -34,7 +35,7 @@
   "hints": {
     "by_length": {
       "4": 6,
-      "5": 10,
+      "5": 11,
       "6": 2,
       "7": 2,
       "10": 1
@@ -42,7 +43,7 @@
     "by_first_letter": {
       "A": 2,
       "D": 7,
-      "G": 7,
+      "G": 8,
       "I": 2,
       "L": 2,
       "U": 1
@@ -58,7 +59,7 @@
         "10": 1
       },
       "G": {
-        "5": 3,
+        "5": 4,
         "6": 2,
         "7": 2
       },
@@ -78,7 +79,7 @@
       "DA": 3,
       "DI": 2,
       "DU": 2,
-      "GA": 2,
+      "GA": 3,
       "GI": 3,
       "GL": 1,
       "GU": 1,

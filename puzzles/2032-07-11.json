@@ -3,7 +3,7 @@
   "center_letter": "a",
   "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 118,
+  "possible_points": 112,
   "answer_pangrams": [
     "warthog"
   ],
@@ -15,6 +15,7 @@
     "arrow",
     "arrowroot",
     "attar",
+    "gaga",
     "goat",
     "harrow",
     "hart",
@@ -22,7 +23,6 @@
     "orator",
     "raga",
     "ragtag",
-    "ratatat",
     "roar",
     "taro",
     "tarot",
@@ -44,18 +44,18 @@
   "date": "2032-07-11",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 17,
       "5": 6,
       "6": 7,
-      "7": 2,
+      "7": 1,
       "9": 1
     },
     "by_first_letter": {
       "A": 7,
-      "G": 1,
+      "G": 2,
       "H": 2,
       "O": 2,
-      "R": 4,
+      "R": 3,
       "T": 10,
       "W": 6
     },
@@ -66,7 +66,7 @@
         "9": 1
       },
       "G": {
-        "4": 1
+        "4": 2
       },
       "H": {
         "4": 1,
@@ -78,8 +78,7 @@
       },
       "R": {
         "4": 2,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
         "4": 5,
@@ -97,11 +96,12 @@
       "AO": 1,
       "AR": 3,
       "AT": 1,
+      "GA": 1,
       "GO": 1,
       "HA": 2,
       "OA": 1,
       "OR": 1,
-      "RA": 3,
+      "RA": 2,
       "RO": 1,
       "TA": 5,
       "TH": 4,

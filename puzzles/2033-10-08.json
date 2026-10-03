@@ -3,7 +3,7 @@
   "center_letter": "n",
   "num_answers": 47,
   "num_pangrams": 1,
-  "possible_points": 216,
+  "possible_points": 212,
   "answer_pangrams": [
     "okaying"
   ],
@@ -28,7 +28,6 @@
     "going",
     "gong",
     "gonging",
-    "gonna",
     "goon",
     "inking",
     "inky",
@@ -52,6 +51,7 @@
     "ongoing",
     "onion",
     "yakking",
+    "yang",
     "yank",
     "yanking",
     "yoking"
@@ -59,20 +59,20 @@
   "date": "2033-10-08",
   "hints": {
     "by_length": {
-      "4": 16,
-      "5": 10,
+      "4": 17,
+      "5": 9,
       "6": 6,
       "7": 13,
       "8": 2
     },
     "by_first_letter": {
       "A": 9,
-      "G": 13,
+      "G": 12,
       "I": 3,
       "K": 5,
       "N": 8,
       "O": 5,
-      "Y": 4
+      "Y": 5
     },
     "grid": {
       "A": {
@@ -83,7 +83,7 @@
       },
       "G": {
         "4": 4,
-        "5": 2,
+        "5": 1,
         "6": 1,
         "7": 6
       },
@@ -108,7 +108,7 @@
         "7": 3
       },
       "Y": {
-        "4": 1,
+        "4": 2,
         "6": 1,
         "7": 2
       }
@@ -119,7 +119,7 @@
       "AN": 5,
       "GA": 5,
       "GI": 3,
-      "GO": 5,
+      "GO": 4,
       "IN": 3,
       "KA": 1,
       "KI": 3,
@@ -130,7 +130,7 @@
       "OI": 2,
       "OK": 1,
       "ON": 2,
-      "YA": 3,
+      "YA": 4,
       "YO": 1
     }
   }

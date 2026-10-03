@@ -1,9 +1,9 @@
 {
   "pangram": "nomadic",
   "center_letter": "c",
-  "num_answers": 39,
+  "num_answers": 42,
   "num_pangrams": 1,
-  "possible_points": 198,
+  "possible_points": 218,
   "answer_pangrams": [
     "nomadic"
   ],
@@ -38,7 +38,10 @@
     "condom",
     "conic",
     "icon",
+    "iconic",
+    "ionic",
     "macadam",
+    "macadamia",
     "maniac",
     "manic",
     "mica",
@@ -52,17 +55,18 @@
   "hints": {
     "by_length": {
       "4": 9,
-      "5": 11,
-      "6": 12,
+      "5": 12,
+      "6": 13,
       "7": 3,
       "8": 3,
+      "9": 1,
       "10": 1
     },
     "by_first_letter": {
       "A": 5,
       "C": 24,
-      "I": 1,
-      "M": 6,
+      "I": 3,
+      "M": 7,
       "N": 3
     },
     "grid": {
@@ -79,13 +83,16 @@
         "8": 2
       },
       "I": {
-        "4": 1
+        "4": 1,
+        "5": 1,
+        "6": 1
       },
       "M": {
         "4": 1,
         "5": 2,
         "6": 1,
         "7": 1,
+        "9": 1,
         "10": 1
       },
       "N": {
@@ -99,8 +106,9 @@
       "CA": 7,
       "CI": 2,
       "CO": 15,
-      "IC": 1,
-      "MA": 3,
+      "IC": 2,
+      "IO": 1,
+      "MA": 4,
       "MI": 2,
       "MO": 1,
       "NI": 1,

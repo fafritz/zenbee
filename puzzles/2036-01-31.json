@@ -1,9 +1,9 @@
 {
   "pangram": "hemlock",
   "center_letter": "h",
-  "num_answers": 22,
+  "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 84,
+  "possible_points": 85,
   "answer_pangrams": [
     "hemlock"
   ],
@@ -22,6 +22,7 @@
     "hellhole",
     "hello",
     "helm",
+    "heme",
     "hemlock",
     "hock",
     "hole",
@@ -34,7 +35,7 @@
   "date": "2036-01-31",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 11,
       "5": 8,
       "6": 2,
       "7": 1,
@@ -43,7 +44,7 @@
     "by_first_letter": {
       "C": 6,
       "E": 1,
-      "H": 13,
+      "H": 14,
       "L": 1,
       "M": 1
     },
@@ -57,7 +58,7 @@
         "4": 1
       },
       "H": {
-        "4": 8,
+        "4": 9,
         "5": 2,
         "6": 1,
         "7": 1,
@@ -74,7 +75,7 @@
       "CH": 5,
       "CL": 1,
       "EC": 1,
-      "HE": 8,
+      "HE": 9,
       "HO": 5,
       "LE": 1,
       "MO": 1

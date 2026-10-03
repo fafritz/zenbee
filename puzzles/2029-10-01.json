@@ -3,13 +3,12 @@
   "center_letter": "a",
   "num_answers": 53,
   "num_pangrams": 1,
-  "possible_points": 190,
+  "possible_points": 194,
   "answer_pangrams": [
     "ordinal"
   ],
   "answers": [
     "adorn",
-    "anal",
     "andiron",
     "android",
     "anion",
@@ -30,6 +29,7 @@
     "laid",
     "lain",
     "lair",
+    "lanai",
     "land",
     "landlord",
     "lanolin",
@@ -65,24 +65,24 @@
   "date": "2029-10-01",
   "hints": {
     "by_length": {
-      "4": 26,
-      "5": 13,
+      "4": 25,
+      "5": 14,
       "6": 8,
       "7": 4,
       "8": 2
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 8,
       "D": 7,
       "I": 3,
-      "L": 12,
+      "L": 13,
       "N": 6,
       "O": 3,
       "R": 13
     },
     "grid": {
       "A": {
-        "4": 4,
+        "4": 3,
         "5": 3,
         "7": 2
       },
@@ -96,7 +96,7 @@
       },
       "L": {
         "4": 9,
-        "5": 1,
+        "5": 2,
         "7": 1,
         "8": 1
       },
@@ -118,14 +118,14 @@
     },
     "two_letter_list": {
       "AD": 1,
-      "AN": 5,
+      "AN": 4,
       "AR": 3,
       "DA": 2,
       "DI": 2,
       "DO": 2,
       "DR": 1,
       "IN": 3,
-      "LA": 7,
+      "LA": 8,
       "LI": 2,
       "LL": 1,
       "LO": 2,

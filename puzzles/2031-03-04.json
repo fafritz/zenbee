@@ -1,9 +1,9 @@
 {
   "pangram": "mounted",
   "center_letter": "u",
-  "num_answers": 42,
+  "num_answers": 40,
   "num_pangrams": 3,
-  "possible_points": 225,
+  "possible_points": 215,
   "answer_pangrams": [
     "demount",
     "denouement",
@@ -20,9 +20,7 @@
     "duet",
     "dune",
     "dunned",
-    "dunno",
     "duodenum",
-    "endue",
     "endued",
     "etude",
     "menu",
@@ -57,15 +55,15 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 12,
+      "5": 10,
       "6": 8,
       "7": 5,
       "8": 5,
       "10": 1
     },
     "by_first_letter": {
-      "D": 12,
-      "E": 3,
+      "D": 11,
+      "E": 2,
       "M": 12,
       "N": 2,
       "O": 4,
@@ -75,14 +73,14 @@
     "grid": {
       "D": {
         "4": 3,
-        "5": 3,
+        "5": 2,
         "6": 2,
         "7": 2,
         "8": 1,
         "10": 1
       },
       "E": {
-        "5": 2,
+        "5": 1,
         "6": 1
       },
       "M": {
@@ -116,8 +114,8 @@
     "two_letter_list": {
       "DE": 4,
       "DO": 1,
-      "DU": 7,
-      "EN": 2,
+      "DU": 6,
+      "EN": 1,
       "ET": 1,
       "ME": 1,
       "MO": 6,

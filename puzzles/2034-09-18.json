@@ -1,9 +1,9 @@
 {
   "pangram": "voltage",
   "center_letter": "v",
-  "num_answers": 24,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 98,
+  "possible_points": 99,
   "answer_pangrams": [
     "voltage"
   ],
@@ -16,6 +16,7 @@
     "gavotte",
     "glove",
     "lava",
+    "lave",
     "leave",
     "levee",
     "level",
@@ -36,7 +37,7 @@
   "date": "2034-09-18",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 11,
       "5": 8,
       "6": 2,
       "7": 3,
@@ -46,7 +47,7 @@
       "A": 1,
       "E": 2,
       "G": 4,
-      "L": 5,
+      "L": 6,
       "O": 1,
       "V": 11
     },
@@ -64,7 +65,7 @@
         "7": 1
       },
       "L": {
-        "4": 2,
+        "4": 3,
         "5": 3
       },
       "O": {
@@ -84,7 +85,7 @@
       "EV": 1,
       "GA": 3,
       "GL": 1,
-      "LA": 1,
+      "LA": 2,
       "LE": 3,
       "LO": 1,
       "OV": 1,

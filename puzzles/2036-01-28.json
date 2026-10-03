@@ -1,9 +1,9 @@
 {
   "pangram": "flouted",
   "center_letter": "f",
-  "num_answers": 55,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 211,
+  "possible_points": 212,
   "answer_pangrams": [
     "flouted"
   ],
@@ -58,6 +58,7 @@
     "left",
     "loft",
     "lofted",
+    "luff",
     "offed",
     "toffee",
     "tofu",
@@ -67,7 +68,7 @@
   "date": "2036-01-28",
   "hints": {
     "by_length": {
-      "4": 25,
+      "4": 26,
       "5": 7,
       "6": 17,
       "7": 6
@@ -76,7 +77,7 @@
       "D": 5,
       "E": 1,
       "F": 41,
-      "L": 3,
+      "L": 4,
       "O": 1,
       "T": 4
     },
@@ -96,7 +97,7 @@
         "7": 5
       },
       "L": {
-        "4": 2,
+        "4": 3,
         "6": 1
       },
       "O": {
@@ -118,6 +119,7 @@
       "FU": 6,
       "LE": 1,
       "LO": 2,
+      "LU": 1,
       "OF": 1,
       "TO": 2,
       "TU": 2

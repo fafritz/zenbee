@@ -1,9 +1,9 @@
 {
   "pangram": "laughed",
   "center_letter": "a",
-  "num_answers": 57,
+  "num_answers": 59,
   "num_pangrams": 1,
-  "possible_points": 243,
+  "possible_points": 250,
   "answer_pangrams": [
     "laughed"
   ],
@@ -19,6 +19,7 @@
     "algae",
     "allege",
     "alleged",
+    "allele",
     "allude",
     "alluded",
     "dale",
@@ -28,6 +29,7 @@
     "eagle",
     "egghead",
     "gadded",
+    "gaga",
     "gagged",
     "gaggle",
     "gala",
@@ -69,16 +71,16 @@
   "date": "2028-11-06",
   "hints": {
     "by_length": {
-      "4": 20,
+      "4": 21,
       "5": 13,
-      "6": 17,
+      "6": 18,
       "7": 7
     },
     "by_first_letter": {
-      "A": 13,
+      "A": 14,
       "D": 4,
       "E": 2,
-      "G": 11,
+      "G": 12,
       "H": 13,
       "L": 14
     },
@@ -86,7 +88,7 @@
       "A": {
         "4": 3,
         "5": 5,
-        "6": 3,
+        "6": 4,
         "7": 2
       },
       "D": {
@@ -97,7 +99,7 @@
         "7": 1
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "5": 2,
         "6": 5
       },
@@ -118,13 +120,13 @@
       "AD": 4,
       "AG": 2,
       "AH": 1,
-      "AL": 6,
+      "AL": 7,
       "DA": 1,
       "DE": 2,
       "DU": 1,
       "EA": 1,
       "EG": 1,
-      "GA": 9,
+      "GA": 10,
       "GL": 2,
       "HA": 8,
       "HE": 4,

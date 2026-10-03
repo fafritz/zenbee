@@ -1,9 +1,9 @@
 {
   "pangram": "fouling",
   "center_letter": "n",
-  "num_answers": 59,
+  "num_answers": 63,
   "num_pangrams": 1,
-  "possible_points": 341,
+  "possible_points": 368,
   "answer_pangrams": [
     "fouling"
   ],
@@ -40,6 +40,8 @@
     "gunning",
     "info",
     "inning",
+    "inulin",
+    "lignin",
     "lingo",
     "lining",
     "lion",
@@ -52,11 +54,13 @@
     "loon",
     "lounging",
     "lugging",
+    "luging",
     "lulling",
     "lung",
     "lunging",
     "niggling",
     "noggin",
+    "nonillion",
     "nonunion",
     "noon",
     "noun",
@@ -73,17 +77,18 @@
     "by_length": {
       "4": 11,
       "5": 8,
-      "6": 9,
+      "6": 12,
       "7": 21,
       "8": 9,
+      "9": 1,
       "10": 1
     },
     "by_first_letter": {
       "F": 15,
       "G": 15,
-      "I": 2,
-      "L": 15,
-      "N": 6,
+      "I": 3,
+      "L": 17,
+      "N": 7,
       "O": 5,
       "U": 1
     },
@@ -104,19 +109,20 @@
       },
       "I": {
         "4": 1,
-        "6": 1
+        "6": 2
       },
       "L": {
         "4": 5,
         "5": 2,
-        "6": 1,
+        "6": 3,
         "7": 6,
         "8": 1
       },
       "N": {
         "4": 3,
         "6": 1,
-        "8": 2
+        "8": 2,
+        "9": 1
       },
       "O": {
         "5": 1,
@@ -136,12 +142,12 @@
       "GL": 1,
       "GO": 9,
       "GU": 2,
-      "IN": 2,
-      "LI": 3,
+      "IN": 3,
+      "LI": 4,
       "LO": 8,
-      "LU": 4,
+      "LU": 5,
       "NI": 1,
-      "NO": 4,
+      "NO": 5,
       "NU": 1,
       "OF": 1,
       "OG": 1,

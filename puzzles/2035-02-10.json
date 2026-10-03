@@ -1,13 +1,14 @@
 {
   "pangram": "puritan",
   "center_letter": "t",
-  "num_answers": 52,
+  "num_answers": 54,
   "num_pangrams": 1,
-  "possible_points": 204,
+  "possible_points": 213,
   "answer_pangrams": [
     "puritan"
   ],
   "answers": [
+    "annuitant",
     "anti",
     "apart",
     "arrant",
@@ -33,13 +34,14 @@
     "putt",
     "rant",
     "rapt",
-    "ratatat",
     "rattan",
     "rattrap",
     "runt",
     "taint",
     "tannin",
+    "tantra",
     "tapir",
+    "tarn",
     "tarp",
     "tart",
     "tartan",
@@ -64,26 +66,28 @@
   "date": "2035-02-10",
   "hints": {
     "by_length": {
-      "4": 21,
+      "4": 22,
       "5": 15,
-      "6": 12,
-      "7": 3,
-      "8": 1
+      "6": 13,
+      "7": 2,
+      "8": 1,
+      "9": 1
     },
     "by_first_letter": {
-      "A": 7,
+      "A": 8,
       "I": 4,
       "N": 1,
       "P": 11,
-      "R": 6,
-      "T": 21,
+      "R": 5,
+      "T": 23,
       "U": 2
     },
     "grid": {
       "A": {
         "4": 2,
         "5": 3,
-        "6": 2
+        "6": 2,
+        "9": 1
       },
       "I": {
         "5": 2,
@@ -102,12 +106,12 @@
       "R": {
         "4": 3,
         "6": 1,
-        "7": 2
+        "7": 1
       },
       "T": {
-        "4": 9,
+        "4": 10,
         "5": 7,
-        "6": 5
+        "6": 6
       },
       "U": {
         "4": 1,
@@ -115,7 +119,7 @@
       }
     },
     "two_letter_list": {
-      "AN": 1,
+      "AN": 2,
       "AP": 1,
       "AR": 1,
       "AT": 3,
@@ -127,9 +131,9 @@
       "PI": 3,
       "PR": 1,
       "PU": 3,
-      "RA": 5,
+      "RA": 4,
       "RU": 1,
-      "TA": 9,
+      "TA": 11,
       "TI": 3,
       "TR": 5,
       "TU": 4,

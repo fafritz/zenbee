@@ -1,9 +1,9 @@
 {
   "pangram": "polkaed",
   "center_letter": "d",
-  "num_answers": 76,
+  "num_answers": 78,
   "num_pangrams": 1,
-  "possible_points": 377,
+  "possible_points": 383,
   "answer_pangrams": [
     "polkaed"
   ],
@@ -36,6 +36,7 @@
     "doodled",
     "dope",
     "doped",
+    "eeled",
     "eked",
     "eloped",
     "keeled",
@@ -46,6 +47,7 @@
     "leaded",
     "leaked",
     "leaped",
+    "lede",
     "load",
     "loaded",
     "lode",
@@ -88,8 +90,8 @@
   "date": "2033-09-06",
   "hints": {
     "by_length": {
-      "4": 18,
-      "5": 11,
+      "4": 19,
+      "5": 12,
       "6": 35,
       "7": 9,
       "8": 3
@@ -97,9 +99,9 @@
     "by_first_letter": {
       "A": 6,
       "D": 22,
-      "E": 2,
+      "E": 3,
       "K": 1,
-      "L": 15,
+      "L": 16,
       "P": 30
     },
     "grid": {
@@ -118,13 +120,14 @@
       },
       "E": {
         "4": 1,
+        "5": 1,
         "6": 1
       },
       "K": {
         "6": 1
       },
       "L": {
-        "4": 3,
+        "4": 4,
         "5": 2,
         "6": 10
       },
@@ -141,11 +144,12 @@
       "DA": 4,
       "DE": 6,
       "DO": 12,
+      "EE": 1,
       "EK": 1,
       "EL": 1,
       "KE": 1,
       "LA": 3,
-      "LE": 4,
+      "LE": 5,
       "LO": 8,
       "PA": 5,
       "PE": 12,

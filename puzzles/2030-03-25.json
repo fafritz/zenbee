@@ -1,9 +1,9 @@
 {
   "pangram": "gunboat",
   "center_letter": "g",
-  "num_answers": 23,
+  "num_answers": 24,
   "num_pangrams": 1,
-  "possible_points": 84,
+  "possible_points": 81,
   "answer_pangrams": [
     "gunboat"
   ],
@@ -14,12 +14,12 @@
     "bongo",
     "bugaboo",
     "bung",
+    "gaga",
     "gang",
     "gaunt",
     "gnat",
     "goat",
     "gong",
-    "gonna",
     "goon",
     "gout",
     "guano",
@@ -30,13 +30,14 @@
     "tango",
     "toboggan",
     "toga",
+    "tong",
     "tugboat"
   ],
   "date": "2030-03-25",
   "hints": {
     "by_length": {
-      "4": 12,
-      "5": 6,
+      "4": 14,
+      "5": 5,
       "6": 1,
       "7": 3,
       "8": 1
@@ -47,7 +48,7 @@
       "G": 10,
       "N": 1,
       "O": 1,
-      "T": 5
+      "T": 6
     },
     "grid": {
       "A": {
@@ -59,8 +60,8 @@
         "7": 1
       },
       "G": {
-        "4": 6,
-        "5": 3,
+        "4": 7,
+        "5": 2,
         "7": 1
       },
       "N": {
@@ -70,7 +71,7 @@
         "5": 1
       },
       "T": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "7": 1,
         "8": 1
@@ -81,14 +82,14 @@
       "BA": 1,
       "BO": 2,
       "BU": 2,
-      "GA": 2,
+      "GA": 3,
       "GN": 1,
-      "GO": 5,
+      "GO": 4,
       "GU": 2,
       "NO": 1,
       "OU": 1,
       "TA": 2,
-      "TO": 2,
+      "TO": 3,
       "TU": 1
     }
   }

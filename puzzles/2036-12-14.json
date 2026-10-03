@@ -1,9 +1,9 @@
 {
   "pangram": "purloin",
   "center_letter": "o",
-  "num_answers": 34,
+  "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 110,
+  "possible_points": 126,
   "answer_pangrams": [
     "purloin"
   ],
@@ -15,8 +15,11 @@
     "lollipop",
     "loon",
     "loop",
+    "noir",
+    "nonillion",
     "nonunion",
     "noon",
+    "nori",
     "noun",
     "olio",
     "onion",
@@ -39,6 +42,7 @@
     "purloin",
     "roil",
     "roll",
+    "ronin",
     "union",
     "unroll",
     "upon"
@@ -46,19 +50,20 @@
   "date": "2036-12-14",
   "hints": {
     "by_length": {
-      "4": 21,
-      "5": 4,
+      "4": 23,
+      "5": 5,
       "6": 3,
       "7": 4,
-      "8": 2
+      "8": 2,
+      "9": 1
     },
     "by_first_letter": {
       "I": 1,
       "L": 6,
-      "N": 3,
+      "N": 6,
       "O": 3,
       "P": 16,
-      "R": 2,
+      "R": 3,
       "U": 3
     },
     "grid": {
@@ -70,8 +75,9 @@
         "8": 1
       },
       "N": {
-        "4": 2,
-        "8": 1
+        "4": 4,
+        "8": 1,
+        "9": 1
       },
       "O": {
         "4": 1,
@@ -85,7 +91,8 @@
         "7": 3
       },
       "R": {
-        "4": 2
+        "4": 2,
+        "5": 1
       },
       "U": {
         "4": 1,
@@ -97,7 +104,7 @@
       "IR": 1,
       "LI": 1,
       "LO": 5,
-      "NO": 3,
+      "NO": 6,
       "OL": 1,
       "ON": 1,
       "OP": 1,
@@ -106,7 +113,7 @@
       "PO": 8,
       "PR": 4,
       "PU": 1,
-      "RO": 2,
+      "RO": 3,
       "UN": 2,
       "UP": 1
     }

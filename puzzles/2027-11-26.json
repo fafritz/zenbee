@@ -3,13 +3,13 @@
   "center_letter": "l",
   "num_answers": 51,
   "num_pangrams": 1,
-  "possible_points": 199,
+  "possible_points": 204,
   "answer_pangrams": [
     "blacken"
   ],
   "answers": [
     "able",
-    "anal",
+    "allele",
     "ankle",
     "anneal",
     "babble",
@@ -63,9 +63,9 @@
   "date": "2027-11-26",
   "hints": {
     "by_length": {
-      "4": 21,
+      "4": 20,
       "5": 18,
-      "6": 7,
+      "6": 8,
       "7": 2,
       "8": 2,
       "9": 1
@@ -81,9 +81,9 @@
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "B": {
         "4": 5,
@@ -117,7 +117,8 @@
     },
     "two_letter_list": {
       "AB": 1,
-      "AN": 3,
+      "AL": 1,
+      "AN": 2,
       "BA": 8,
       "BE": 2,
       "BL": 6,

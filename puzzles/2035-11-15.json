@@ -1,14 +1,15 @@
 {
   "pangram": "exactly",
   "center_letter": "e",
-  "num_answers": 33,
+  "num_answers": 34,
   "num_pangrams": 1,
-  "possible_points": 153,
+  "possible_points": 159,
   "answer_pangrams": [
     "exactly"
   ],
   "answers": [
     "acetate",
+    "allele",
     "alley",
     "axle",
     "cattle",
@@ -47,13 +48,13 @@
     "by_length": {
       "4": 10,
       "5": 12,
-      "6": 5,
+      "6": 6,
       "7": 4,
       "8": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 3,
+      "A": 4,
       "C": 5,
       "E": 9,
       "L": 7,
@@ -64,6 +65,7 @@
       "A": {
         "4": 1,
         "5": 1,
+        "6": 1,
         "7": 1
       },
       "C": {
@@ -96,7 +98,7 @@
     },
     "two_letter_list": {
       "AC": 1,
-      "AL": 1,
+      "AL": 2,
       "AX": 1,
       "CA": 1,
       "CE": 1,

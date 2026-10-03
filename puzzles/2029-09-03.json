@@ -1,9 +1,9 @@
 {
   "pangram": "fluency",
   "center_letter": "u",
-  "num_answers": 19,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 69,
+  "possible_points": 76,
   "answer_pangrams": [
     "fluency"
   ],
@@ -21,28 +21,30 @@
     "fully",
     "funnel",
     "funny",
+    "luff",
     "lull",
     "lulu",
     "null",
     "uncle",
+    "uncuff",
     "unfunny",
     "yule"
   ],
   "date": "2029-09-03",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 11,
       "5": 4,
-      "6": 3,
+      "6": 4,
       "7": 2
     },
     "by_first_letter": {
       "C": 3,
       "E": 1,
       "F": 9,
-      "L": 2,
+      "L": 3,
       "N": 1,
-      "U": 2,
+      "U": 3,
       "Y": 1
     },
     "grid": {
@@ -59,13 +61,14 @@
         "7": 1
       },
       "L": {
-        "4": 2
+        "4": 3
       },
       "N": {
         "4": 1
       },
       "U": {
         "5": 1,
+        "6": 1,
         "7": 1
       },
       "Y": {
@@ -78,9 +81,9 @@
       "EY": 1,
       "FL": 4,
       "FU": 5,
-      "LU": 2,
+      "LU": 3,
       "NU": 1,
-      "UN": 2,
+      "UN": 3,
       "YU": 1
     }
   }

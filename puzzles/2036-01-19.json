@@ -1,9 +1,9 @@
 {
   "pangram": "vomited",
   "center_letter": "t",
-  "num_answers": 60,
+  "num_answers": 61,
   "num_pangrams": 1,
-  "possible_points": 246,
+  "possible_points": 251,
   "answer_pangrams": [
     "vomited"
   ],
@@ -38,6 +38,7 @@
     "moot",
     "mooted",
     "mote",
+    "motet",
     "motive",
     "motto",
     "omit",
@@ -73,7 +74,7 @@
   "hints": {
     "by_length": {
       "4": 23,
-      "5": 14,
+      "5": 15,
       "6": 15,
       "7": 8
     },
@@ -81,7 +82,7 @@
       "D": 13,
       "E": 7,
       "I": 2,
-      "M": 10,
+      "M": 11,
       "O": 2,
       "T": 18,
       "V": 8
@@ -105,7 +106,7 @@
       },
       "M": {
         "4": 6,
-        "5": 2,
+        "5": 3,
         "6": 2
       },
       "O": {
@@ -134,7 +135,7 @@
       "IT": 1,
       "ME": 3,
       "MI": 2,
-      "MO": 5,
+      "MO": 6,
       "OM": 2,
       "TE": 3,
       "TI": 7,

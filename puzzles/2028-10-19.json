@@ -1,9 +1,9 @@
 {
   "pangram": "defiant",
   "center_letter": "f",
-  "num_answers": 57,
+  "num_answers": 58,
   "num_pangrams": 2,
-  "possible_points": 297,
+  "possible_points": 298,
   "answer_pangrams": [
     "defiant",
     "fainted"
@@ -63,6 +63,7 @@
     "indefinite",
     "infant",
     "infinite",
+    "naif",
     "taffeta",
     "tiff",
     "tiffed"
@@ -70,7 +71,7 @@
   "date": "2028-10-19",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 8,
       "6": 14,
       "7": 8,
@@ -83,6 +84,7 @@
       "E": 2,
       "F": 30,
       "I": 4,
+      "N": 1,
       "T": 3
     },
     "grid": {
@@ -109,6 +111,9 @@
         "8": 1,
         "10": 2
       },
+      "N": {
+        "4": 1
+      },
       "T": {
         "4": 1,
         "6": 1,
@@ -125,6 +130,7 @@
       "FI": 10,
       "ID": 1,
       "IN": 3,
+      "NA": 1,
       "TA": 1,
       "TI": 2
     }

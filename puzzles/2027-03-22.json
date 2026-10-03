@@ -1,9 +1,9 @@
 {
   "pangram": "voltaic",
   "center_letter": "l",
-  "num_answers": 57,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 205,
+  "possible_points": 210,
   "answer_pangrams": [
     "voltaic"
   ],
@@ -28,6 +28,7 @@
     "colic",
     "colt",
     "cool",
+    "iliac",
     "illicit",
     "italic",
     "lactic",
@@ -70,7 +71,7 @@
   "hints": {
     "by_length": {
       "4": 27,
-      "5": 18,
+      "5": 19,
       "6": 5,
       "7": 5,
       "8": 2
@@ -78,7 +79,7 @@
     "by_first_letter": {
       "A": 4,
       "C": 16,
-      "I": 2,
+      "I": 3,
       "L": 12,
       "O": 3,
       "T": 11,
@@ -96,6 +97,7 @@
         "7": 2
       },
       "I": {
+        "5": 1,
         "6": 1,
         "7": 1
       },
@@ -127,7 +129,7 @@
       "CI": 2,
       "CL": 1,
       "CO": 7,
-      "IL": 1,
+      "IL": 2,
       "IT": 1,
       "LA": 2,
       "LI": 3,

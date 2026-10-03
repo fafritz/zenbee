@@ -1,9 +1,9 @@
 {
   "pangram": "roughly",
   "center_letter": "l",
-  "num_answers": 19,
+  "num_answers": 18,
   "num_pangrams": 1,
-  "possible_points": 70,
+  "possible_points": 65,
   "answer_pangrams": [
     "roughly"
   ],
@@ -20,7 +20,6 @@
     "hurl",
     "logo",
     "loll",
-    "lorry",
     "lull",
     "lulu",
     "roll",
@@ -32,7 +31,7 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 5,
+      "5": 4,
       "6": 1,
       "7": 2,
       "8": 1
@@ -40,7 +39,7 @@
     "by_first_letter": {
       "G": 4,
       "H": 6,
-      "L": 5,
+      "L": 4,
       "R": 2,
       "U": 2
     },
@@ -56,8 +55,7 @@
         "8": 1
       },
       "L": {
-        "4": 4,
-        "5": 1
+        "4": 4
       },
       "R": {
         "4": 1,
@@ -74,7 +72,7 @@
       "GU": 2,
       "HO": 4,
       "HU": 2,
-      "LO": 3,
+      "LO": 2,
       "LU": 2,
       "RO": 2,
       "UG": 1,

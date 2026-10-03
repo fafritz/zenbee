@@ -1,9 +1,9 @@
 {
   "pangram": "cohabit",
   "center_letter": "t",
-  "num_answers": 45,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 182,
+  "possible_points": 187,
   "answer_pangrams": [
     "cohabit"
   ],
@@ -14,6 +14,7 @@
     "bait",
     "batch",
     "bath",
+    "biota",
     "boat",
     "bobcat",
     "boot",
@@ -58,14 +59,14 @@
   "hints": {
     "by_length": {
       "4": 18,
-      "5": 14,
+      "5": 15,
       "6": 6,
       "7": 5,
       "8": 2
     },
     "by_first_letter": {
       "A": 3,
-      "B": 9,
+      "B": 10,
       "C": 11,
       "H": 6,
       "I": 2,
@@ -79,7 +80,7 @@
       },
       "B": {
         "4": 5,
-        "5": 3,
+        "5": 4,
         "6": 1
       },
       "C": {
@@ -111,6 +112,7 @@
       "AB": 1,
       "AT": 2,
       "BA": 3,
+      "BI": 1,
       "BO": 6,
       "CA": 3,
       "CH": 4,

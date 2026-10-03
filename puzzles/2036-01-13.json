@@ -1,9 +1,9 @@
 {
   "pangram": "languor",
   "center_letter": "r",
-  "num_answers": 27,
+  "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 112,
+  "possible_points": 123,
   "answer_pangrams": [
     "languor"
   ],
@@ -16,6 +16,8 @@
     "augur",
     "aura",
     "aural",
+    "gnarl",
+    "gorgon",
     "granola",
     "granular",
     "groan",
@@ -40,14 +42,14 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 8,
-      "6": 3,
+      "5": 9,
+      "6": 4,
       "7": 4,
       "8": 1
     },
     "by_first_letter": {
       "A": 8,
-      "G": 5,
+      "G": 7,
       "L": 3,
       "O": 2,
       "R": 8,
@@ -62,7 +64,8 @@
       },
       "G": {
         "4": 2,
-        "5": 1,
+        "5": 2,
+        "6": 1,
         "7": 1,
         "8": 1
       },
@@ -88,6 +91,8 @@
       "AN": 3,
       "AR": 1,
       "AU": 3,
+      "GN": 1,
+      "GO": 1,
       "GR": 4,
       "GU": 1,
       "LA": 2,

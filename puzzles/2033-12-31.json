@@ -1,9 +1,9 @@
 {
   "pangram": "deathly",
   "center_letter": "a",
-  "num_answers": 75,
+  "num_answers": 76,
   "num_pangrams": 2,
-  "possible_points": 346,
+  "possible_points": 352,
   "answer_pangrams": [
     "deathly",
     "heatedly"
@@ -15,6 +15,7 @@
     "ahead",
     "allay",
     "allayed",
+    "allele",
     "alley",
     "ally",
     "athlete",
@@ -90,13 +91,13 @@
     "by_length": {
       "4": 22,
       "5": 25,
-      "6": 17,
+      "6": 18,
       "7": 7,
       "8": 3,
       "10": 1
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 10,
       "D": 15,
       "E": 2,
       "H": 22,
@@ -108,7 +109,7 @@
       "A": {
         "4": 1,
         "5": 5,
-        "6": 1,
+        "6": 2,
         "7": 2
       },
       "D": {
@@ -150,7 +151,7 @@
     "two_letter_list": {
       "AD": 3,
       "AH": 1,
-      "AL": 4,
+      "AL": 5,
       "AT": 1,
       "DA": 6,
       "DE": 9,

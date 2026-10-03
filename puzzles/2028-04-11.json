@@ -1,9 +1,9 @@
 {
   "pangram": "rapidly",
   "center_letter": "y",
-  "num_answers": 34,
+  "num_answers": 35,
   "num_pangrams": 2,
-  "possible_points": 167,
+  "possible_points": 173,
   "answer_pangrams": [
     "lapidary",
     "rapidly"
@@ -24,6 +24,7 @@
     "dilly",
     "dillydally",
     "dray",
+    "drippy",
     "dryad",
     "dryly",
     "idly",
@@ -49,14 +50,14 @@
     "by_length": {
       "4": 9,
       "5": 15,
-      "6": 6,
+      "6": 7,
       "7": 1,
       "8": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 7,
-      "D": 10,
+      "D": 11,
       "I": 2,
       "L": 3,
       "P": 8,
@@ -72,6 +73,7 @@
       "D": {
         "4": 1,
         "5": 8,
+        "6": 1,
         "10": 1
       },
       "I": {
@@ -103,7 +105,7 @@
       "AR": 1,
       "DA": 4,
       "DI": 3,
-      "DR": 3,
+      "DR": 4,
       "ID": 2,
       "LA": 2,
       "LI": 1,

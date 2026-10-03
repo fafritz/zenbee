@@ -1,9 +1,9 @@
 {
   "pangram": "porting",
   "center_letter": "r",
-  "num_answers": 61,
+  "num_answers": 68,
   "num_pangrams": 4,
-  "possible_points": 331,
+  "possible_points": 358,
   "answer_pangrams": [
     "porting",
     "portioning",
@@ -14,6 +14,7 @@
     "girt",
     "girting",
     "gorging",
+    "gorgon",
     "goring",
     "gorp",
     "grin",
@@ -30,8 +31,12 @@
     "intro",
     "iron",
     "ironing",
+    "noir",
+    "nori",
     "origin",
+    "pirogi",
     "poor",
+    "porging",
     "poring",
     "port",
     "porting",
@@ -56,9 +61,11 @@
     "riot",
     "rioting",
     "ripping",
+    "ronin",
     "root",
     "rooting",
     "roping",
+    "roti",
     "rotor",
     "rotting",
     "tiring",
@@ -76,27 +83,28 @@
   "date": "2038-06-09",
   "hints": {
     "by_length": {
-      "4": 20,
-      "5": 8,
-      "6": 9,
-      "7": 12,
+      "4": 23,
+      "5": 9,
+      "6": 11,
+      "7": 13,
       "8": 9,
       "10": 2,
       "13": 1
     },
     "by_first_letter": {
-      "G": 15,
+      "G": 16,
       "I": 4,
+      "N": 2,
       "O": 1,
-      "P": 18,
-      "R": 12,
+      "P": 20,
+      "R": 14,
       "T": 11
     },
     "grid": {
       "G": {
         "4": 6,
         "5": 1,
-        "6": 2,
+        "6": 3,
         "7": 3,
         "8": 3
       },
@@ -106,21 +114,24 @@
         "7": 1,
         "8": 1
       },
+      "N": {
+        "4": 2
+      },
       "O": {
         "6": 1
       },
       "P": {
         "4": 5,
         "5": 3,
-        "6": 3,
-        "7": 2,
+        "6": 4,
+        "7": 3,
         "8": 2,
         "10": 2,
         "13": 1
       },
       "R": {
-        "4": 3,
-        "5": 2,
+        "4": 4,
+        "5": 3,
         "6": 1,
         "7": 6
       },
@@ -133,16 +144,18 @@
     },
     "two_letter_list": {
       "GI": 2,
-      "GO": 3,
+      "GO": 4,
       "GR": 10,
       "IG": 1,
       "IN": 1,
       "IR": 2,
+      "NO": 2,
       "OR": 1,
-      "PO": 6,
+      "PI": 1,
+      "PO": 7,
       "PR": 12,
       "RI": 7,
-      "RO": 5,
+      "RO": 7,
       "TI": 1,
       "TO": 3,
       "TR": 7

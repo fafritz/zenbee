@@ -1,9 +1,9 @@
 {
   "pangram": "carotid",
   "center_letter": "o",
-  "num_answers": 56,
+  "num_answers": 57,
   "num_pangrams": 2,
-  "possible_points": 235,
+  "possible_points": 236,
   "answer_pangrams": [
     "carotid",
     "dictator"
@@ -51,6 +51,7 @@
     "rococo",
     "rood",
     "root",
+    "roti",
     "rotor",
     "taco",
     "taro",
@@ -69,7 +70,7 @@
   "date": "2038-03-29",
   "hints": {
     "by_length": {
-      "4": 23,
+      "4": 24,
       "5": 13,
       "6": 11,
       "7": 5,
@@ -81,7 +82,7 @@
       "D": 8,
       "I": 3,
       "O": 3,
-      "R": 11,
+      "R": 12,
       "T": 13
     },
     "grid": {
@@ -113,7 +114,7 @@
         "8": 1
       },
       "R": {
-        "4": 5,
+        "4": 6,
         "5": 3,
         "6": 1,
         "7": 1,
@@ -143,7 +144,7 @@
       "OR": 2,
       "RA": 3,
       "RI": 2,
-      "RO": 6,
+      "RO": 7,
       "TA": 4,
       "TO": 4,
       "TR": 5

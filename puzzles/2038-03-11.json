@@ -1,9 +1,9 @@
 {
   "pangram": "chalked",
   "center_letter": "c",
-  "num_answers": 50,
+  "num_answers": 52,
   "num_pangrams": 1,
-  "possible_points": 234,
+  "possible_points": 247,
   "answer_pangrams": [
     "chalked"
   ],
@@ -26,6 +26,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "chad",
     "chalk",
     "chalked",
@@ -37,6 +38,7 @@
     "clacked",
     "clad",
     "dacha",
+    "decadal",
     "decade",
     "decal",
     "deck",
@@ -64,14 +66,14 @@
     "by_length": {
       "4": 14,
       "5": 14,
-      "6": 12,
-      "7": 9,
+      "6": 13,
+      "7": 10,
       "8": 1
     },
     "by_first_letter": {
       "A": 5,
-      "C": 23,
-      "D": 6,
+      "C": 24,
+      "D": 7,
       "E": 1,
       "H": 7,
       "L": 8
@@ -86,13 +88,14 @@
       "C": {
         "4": 6,
         "5": 8,
-        "6": 4,
+        "6": 5,
         "7": 5
       },
       "D": {
         "4": 1,
         "5": 2,
-        "6": 3
+        "6": 3,
+        "7": 1
       },
       "E": {
         "4": 1
@@ -113,11 +116,11 @@
     "two_letter_list": {
       "AC": 5,
       "CA": 10,
-      "CE": 3,
+      "CE": 4,
       "CH": 7,
       "CL": 3,
       "DA": 1,
-      "DE": 5,
+      "DE": 6,
       "EA": 1,
       "HA": 3,
       "HE": 4,

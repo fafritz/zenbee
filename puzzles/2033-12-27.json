@@ -1,9 +1,9 @@
 {
   "pangram": "rainbow",
   "center_letter": "n",
-  "num_answers": 33,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 130,
+  "possible_points": 137,
   "answer_pangrams": [
     "rainbow"
   ],
@@ -30,13 +30,16 @@
     "nabob",
     "nana",
     "narrow",
+    "noir",
     "noon",
+    "nori",
     "onion",
     "rain",
     "rainbow",
     "ribbon",
     "roan",
     "robin",
+    "ronin",
     "warn",
     "winnow",
     "wino",
@@ -45,8 +48,8 @@
   "date": "2033-12-27",
   "hints": {
     "by_length": {
-      "4": 14,
-      "5": 9,
+      "4": 16,
+      "5": 10,
       "6": 8,
       "7": 1,
       "9": 1
@@ -55,9 +58,9 @@
       "A": 2,
       "B": 14,
       "I": 2,
-      "N": 5,
+      "N": 7,
       "O": 1,
-      "R": 5,
+      "R": 6,
       "W": 4
     },
     "grid": {
@@ -76,7 +79,7 @@
         "6": 1
       },
       "N": {
-        "4": 3,
+        "4": 5,
         "5": 1,
         "6": 1
       },
@@ -85,7 +88,7 @@
       },
       "R": {
         "4": 2,
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 1
       },
@@ -102,11 +105,11 @@
       "IN": 1,
       "IR": 1,
       "NA": 4,
-      "NO": 1,
+      "NO": 3,
       "ON": 1,
       "RA": 2,
       "RI": 1,
-      "RO": 2,
+      "RO": 3,
       "WA": 1,
       "WI": 2,
       "WO": 1

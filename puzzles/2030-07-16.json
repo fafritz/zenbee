@@ -3,7 +3,7 @@
   "center_letter": "n",
   "num_answers": 59,
   "num_pangrams": 3,
-  "possible_points": 296,
+  "possible_points": 302,
   "answer_pangrams": [
     "battlement",
     "lambent",
@@ -13,7 +13,6 @@
     "abatement",
     "amen",
     "amenable",
-    "anal",
     "anneal",
     "ante",
     "antenna",
@@ -43,6 +42,7 @@
     "lament",
     "lamentable",
     "lane",
+    "lantana",
     "latent",
     "lean",
     "lent",
@@ -59,11 +59,11 @@
     "nana",
     "natal",
     "neat",
+    "neaten",
     "nene",
     "nettle",
     "talent",
     "teen",
-    "telnet",
     "tenable",
     "tenant",
     "tenement",
@@ -73,26 +73,26 @@
   "date": "2030-07-16",
   "hints": {
     "by_length": {
-      "4": 20,
+      "4": 19,
       "5": 7,
       "6": 17,
-      "7": 8,
+      "7": 9,
       "8": 3,
       "9": 2,
       "10": 2
     },
     "by_first_letter": {
-      "A": 8,
+      "A": 7,
       "B": 12,
       "E": 9,
-      "L": 7,
+      "L": 8,
       "M": 8,
-      "N": 7,
-      "T": 8
+      "N": 8,
+      "T": 7
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "6": 1,
         "7": 1,
         "8": 2,
@@ -115,7 +115,7 @@
       "L": {
         "4": 3,
         "6": 2,
-        "7": 1,
+        "7": 2,
         "10": 1
       },
       "M": {
@@ -127,12 +127,12 @@
       "N": {
         "4": 5,
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "T": {
         "4": 2,
         "5": 1,
-        "6": 3,
+        "6": 2,
         "7": 1,
         "8": 1
       }
@@ -140,7 +140,7 @@
     "two_letter_list": {
       "AB": 1,
       "AM": 2,
-      "AN": 5,
+      "AN": 4,
       "BA": 7,
       "BE": 4,
       "BL": 1,
@@ -148,14 +148,14 @@
       "EL": 3,
       "EM": 1,
       "EN": 4,
-      "LA": 5,
+      "LA": 6,
       "LE": 2,
       "MA": 5,
       "ME": 3,
       "NA": 4,
-      "NE": 3,
+      "NE": 4,
       "TA": 1,
-      "TE": 7
+      "TE": 6
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "pangram": "munched",
   "center_letter": "n",
-  "num_answers": 25,
+  "num_answers": 24,
   "num_pangrams": 1,
-  "possible_points": 134,
+  "possible_points": 129,
   "answer_pangrams": [
     "munched"
   ],
@@ -16,7 +16,6 @@
     "emend",
     "emended",
     "ended",
-    "endue",
     "endued",
     "hence",
     "henchmen",
@@ -38,14 +37,14 @@
   "hints": {
     "by_length": {
       "4": 5,
-      "5": 8,
+      "5": 7,
       "6": 5,
       "7": 4,
       "8": 3
     },
     "by_first_letter": {
       "D": 5,
-      "E": 5,
+      "E": 4,
       "H": 4,
       "M": 5,
       "N": 3,
@@ -59,7 +58,7 @@
         "7": 1
       },
       "E": {
-        "5": 3,
+        "5": 2,
         "6": 1,
         "7": 1
       },
@@ -87,7 +86,7 @@
       "DE": 2,
       "DU": 3,
       "EM": 2,
-      "EN": 3,
+      "EN": 2,
       "HE": 2,
       "HU": 2,
       "ME": 3,

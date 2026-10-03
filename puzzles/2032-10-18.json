@@ -1,10 +1,11 @@
 {
   "pangram": "auction",
   "center_letter": "t",
-  "num_answers": 73,
-  "num_pangrams": 4,
-  "possible_points": 423,
+  "num_answers": 77,
+  "num_pangrams": 5,
+  "possible_points": 465,
   "answer_pangrams": [
+    "annunciation",
     "auction",
     "caution",
     "continua",
@@ -13,8 +14,12 @@
   "answers": [
     "account",
     "accountant",
+    "actinic",
     "action",
+    "annatto",
     "annotation",
+    "annuitant",
+    "annunciation",
     "anoint",
     "anti",
     "antic",
@@ -91,15 +96,15 @@
       "4": 19,
       "5": 12,
       "6": 16,
-      "7": 11,
+      "7": 13,
       "8": 4,
-      "9": 3,
+      "9": 4,
       "10": 5,
       "11": 2,
-      "12": 1
+      "12": 2
     },
     "by_first_letter": {
-      "A": 12,
+      "A": 16,
       "C": 23,
       "I": 9,
       "N": 3,
@@ -112,8 +117,10 @@
         "4": 3,
         "5": 2,
         "6": 3,
-        "7": 2,
-        "10": 2
+        "7": 4,
+        "9": 1,
+        "10": 2,
+        "12": 1
       },
       "C": {
         "4": 3,
@@ -155,8 +162,8 @@
       }
     },
     "two_letter_list": {
-      "AC": 3,
-      "AN": 4,
+      "AC": 4,
+      "AN": 7,
       "AT": 2,
       "AU": 3,
       "CA": 9,

@@ -1,9 +1,9 @@
 {
   "pangram": "tabling",
   "center_letter": "l",
-  "num_answers": 69,
+  "num_answers": 73,
   "num_pangrams": 2,
-  "possible_points": 386,
+  "possible_points": 417,
   "answer_pangrams": [
     "battling",
     "tabling"
@@ -15,7 +15,6 @@
     "alibiing",
     "align",
     "aligning",
-    "anal",
     "angling",
     "babbling",
     "bail",
@@ -34,6 +33,7 @@
     "bling",
     "gabbling",
     "gala",
+    "galangal",
     "gall",
     "gallant",
     "galling",
@@ -51,6 +51,9 @@
     "labial",
     "lagging",
     "lain",
+    "lanai",
+    "lantana",
+    "lignin",
     "lilt",
     "lilting",
     "lining",
@@ -70,6 +73,7 @@
     "tall",
     "tangling",
     "tattling",
+    "tibial",
     "tiling",
     "till",
     "tilling",
@@ -82,26 +86,26 @@
   "date": "2029-02-18",
   "hints": {
     "by_length": {
-      "4": 20,
-      "5": 7,
-      "6": 5,
-      "7": 18,
-      "8": 15,
+      "4": 19,
+      "5": 8,
+      "6": 7,
+      "7": 19,
+      "8": 16,
       "10": 3,
       "11": 1
     },
     "by_first_letter": {
-      "A": 8,
+      "A": 7,
       "B": 15,
-      "G": 13,
+      "G": 14,
       "I": 2,
-      "L": 11,
+      "L": 14,
       "N": 5,
-      "T": 15
+      "T": 16
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 2,
         "6": 1,
         "7": 1,
@@ -118,7 +122,7 @@
         "4": 5,
         "5": 1,
         "7": 3,
-        "8": 4
+        "8": 5
       },
       "I": {
         "7": 1,
@@ -126,9 +130,9 @@
       },
       "L": {
         "4": 3,
-        "5": 1,
-        "6": 2,
-        "7": 3,
+        "5": 2,
+        "6": 3,
+        "7": 4,
         "8": 1,
         "10": 1
       },
@@ -140,7 +144,7 @@
       },
       "T": {
         "4": 4,
-        "6": 1,
+        "6": 2,
         "7": 5,
         "8": 3,
         "10": 1,
@@ -150,20 +154,20 @@
     "two_letter_list": {
       "AI": 1,
       "AL": 5,
-      "AN": 2,
+      "AN": 1,
       "BA": 8,
       "BI": 2,
       "BL": 5,
-      "GA": 7,
+      "GA": 8,
       "GI": 3,
       "GL": 3,
       "IN": 2,
-      "LA": 4,
-      "LI": 7,
+      "LA": 6,
+      "LI": 8,
       "NA": 3,
       "NI": 2,
       "TA": 7,
-      "TI": 8
+      "TI": 9
     }
   }
 }

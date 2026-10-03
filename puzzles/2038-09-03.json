@@ -1,9 +1,9 @@
 {
   "pangram": "forming",
   "center_letter": "g",
-  "num_answers": 57,
+  "num_answers": 58,
   "num_pangrams": 2,
-  "possible_points": 357,
+  "possible_points": 363,
   "answer_pangrams": [
     "forming",
     "informing"
@@ -29,6 +29,7 @@
     "goofing",
     "goon",
     "gorging",
+    "gorgon",
     "goring",
     "griffin",
     "grim",
@@ -72,7 +73,7 @@
     "by_length": {
       "4": 8,
       "5": 5,
-      "6": 12,
+      "6": 13,
       "7": 22,
       "8": 7,
       "9": 2,
@@ -80,7 +81,7 @@
     },
     "by_first_letter": {
       "F": 11,
-      "G": 19,
+      "G": 20,
       "I": 5,
       "M": 10,
       "N": 1,
@@ -98,7 +99,7 @@
       "G": {
         "4": 6,
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 7,
         "8": 2
       },
@@ -134,7 +135,7 @@
       "FO": 5,
       "FR": 3,
       "GI": 2,
-      "GO": 8,
+      "GO": 9,
       "GR": 9,
       "IG": 1,
       "IN": 3,

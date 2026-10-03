@@ -1,9 +1,9 @@
 {
   "pangram": "bunched",
   "center_letter": "e",
-  "num_answers": 41,
+  "num_answers": 42,
   "num_pangrams": 1,
-  "possible_points": 195,
+  "possible_points": 201,
   "answer_pangrams": [
     "bunched"
   ],
@@ -28,6 +28,7 @@
     "denude",
     "denuded",
     "deuce",
+    "deuced",
     "dubbed",
     "dude",
     "duded",
@@ -35,8 +36,8 @@
     "dune",
     "dunned",
     "ebbed",
+    "educe",
     "ended",
-    "endue",
     "endued",
     "heed",
     "heeded",
@@ -55,14 +56,14 @@
     "by_length": {
       "4": 11,
       "5": 12,
-      "6": 11,
+      "6": 12,
       "7": 5,
       "8": 2
     },
     "by_first_letter": {
       "B": 8,
       "C": 5,
-      "D": 13,
+      "D": 14,
       "E": 4,
       "H": 4,
       "N": 3,
@@ -82,7 +83,7 @@
       "D": {
         "4": 3,
         "5": 3,
-        "6": 5,
+        "6": 6,
         "7": 2
       },
       "E": {
@@ -110,10 +111,11 @@
       "BU": 2,
       "CE": 2,
       "CU": 3,
-      "DE": 7,
+      "DE": 8,
       "DU": 6,
       "EB": 1,
-      "EN": 3,
+      "ED": 1,
+      "EN": 2,
       "HE": 3,
       "HU": 1,
       "NE": 3,

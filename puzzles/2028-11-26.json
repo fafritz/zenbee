@@ -3,7 +3,7 @@
   "center_letter": "b",
   "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 292,
+  "possible_points": 285,
   "answer_pangrams": [
     "begonia"
   ],
@@ -36,12 +36,15 @@
     "biggie",
     "binge",
     "bingeing",
+    "binging",
     "bingo",
     "binning",
+    "boba",
     "bobbin",
     "bobbing",
     "bogging",
     "bogie",
+    "boing",
     "bonbon",
     "bone",
     "bong",
@@ -49,8 +52,6 @@
     "bongo",
     "boning",
     "boob",
-    "boobing",
-    "booboo",
     "boogie",
     "boogieing",
     "booing",
@@ -60,7 +61,6 @@
     "gibbon",
     "gibe",
     "gibing",
-    "gobbing",
     "nabbing",
     "nabob",
     "oboe"
@@ -68,18 +68,18 @@
   "date": "2028-11-26",
   "hints": {
     "by_length": {
-      "4": 13,
-      "5": 9,
-      "6": 16,
-      "7": 15,
+      "4": 14,
+      "5": 10,
+      "6": 15,
+      "7": 14,
       "8": 1,
       "9": 2
     },
     "by_first_letter": {
       "A": 1,
-      "B": 46,
+      "B": 47,
       "E": 1,
-      "G": 5,
+      "G": 4,
       "N": 2,
       "O": 1
     },
@@ -88,9 +88,9 @@
         "4": 1
       },
       "B": {
-        "4": 10,
-        "5": 8,
-        "6": 13,
+        "4": 11,
+        "5": 9,
+        "6": 12,
         "7": 12,
         "8": 1,
         "9": 2
@@ -101,7 +101,7 @@
       "G": {
         "4": 1,
         "6": 2,
-        "7": 2
+        "7": 1
       },
       "N": {
         "5": 1,
@@ -115,12 +115,11 @@
       "AB": 1,
       "BA": 12,
       "BE": 12,
-      "BI": 5,
+      "BI": 6,
       "BO": 17,
       "EB": 1,
       "GA": 1,
       "GI": 3,
-      "GO": 1,
       "NA": 2,
       "OB": 1
     }

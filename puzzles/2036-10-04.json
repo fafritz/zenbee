@@ -1,9 +1,9 @@
 {
   "pangram": "tamping",
   "center_letter": "p",
-  "num_answers": 41,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 229,
+  "possible_points": 245,
   "answer_pangrams": [
     "tamping"
   ],
@@ -22,7 +22,9 @@
     "paining",
     "paint",
     "painting",
+    "pampa",
     "pang",
+    "panini",
     "panning",
     "pant",
     "panting",
@@ -35,6 +37,7 @@
     "ping",
     "pinging",
     "pining",
+    "pinna",
     "pinning",
     "pint",
     "piping",
@@ -54,8 +57,8 @@
   "hints": {
     "by_length": {
       "4": 9,
-      "5": 5,
-      "6": 7,
+      "5": 7,
+      "6": 8,
       "7": 17,
       "8": 1,
       "9": 1,
@@ -67,7 +70,7 @@
       "I": 2,
       "M": 1,
       "N": 2,
-      "P": 28,
+      "P": 31,
       "T": 6
     },
     "grid": {
@@ -89,8 +92,8 @@
       },
       "P": {
         "4": 8,
-        "5": 3,
-        "6": 5,
+        "5": 5,
+        "6": 6,
         "7": 10,
         "8": 1,
         "10": 1
@@ -109,8 +112,8 @@
       "MA": 1,
       "NA": 1,
       "NI": 1,
-      "PA": 14,
-      "PI": 14,
+      "PA": 16,
+      "PI": 15,
       "TA": 4,
       "TI": 2
     }

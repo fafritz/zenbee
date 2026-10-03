@@ -1,9 +1,9 @@
 {
   "pangram": "fowling",
   "center_letter": "g",
-  "num_answers": 64,
+  "num_answers": 65,
   "num_pangrams": 4,
-  "possible_points": 394,
+  "possible_points": 400,
   "answer_pangrams": [
     "flowing",
     "following",
@@ -45,6 +45,7 @@
     "gowning",
     "igloo",
     "inning",
+    "lignin",
     "lingo",
     "lining",
     "logging",
@@ -81,7 +82,7 @@
     "by_length": {
       "4": 11,
       "5": 6,
-      "6": 15,
+      "6": 16,
       "7": 23,
       "8": 7,
       "9": 2
@@ -90,7 +91,7 @@
       "F": 13,
       "G": 19,
       "I": 2,
-      "L": 9,
+      "L": 10,
       "N": 2,
       "O": 6,
       "W": 13
@@ -118,7 +119,7 @@
       "L": {
         "4": 2,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 3
       },
       "N": {
@@ -147,7 +148,7 @@
       "GO": 12,
       "IG": 1,
       "IN": 1,
-      "LI": 2,
+      "LI": 3,
       "LO": 7,
       "NI": 1,
       "NO": 1,

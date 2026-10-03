@@ -1,9 +1,9 @@
 {
   "pangram": "marking",
   "center_letter": "n",
-  "num_answers": 76,
+  "num_answers": 79,
   "num_pangrams": 1,
-  "possible_points": 421,
+  "possible_points": 447,
   "answer_pangrams": [
     "marking"
   ],
@@ -37,6 +37,8 @@
     "grinning",
     "imaging",
     "imagining",
+    "ingrain",
+    "ingraining",
     "inking",
     "inning",
     "irking",
@@ -53,6 +55,7 @@
     "manna",
     "manning",
     "margin",
+    "margining",
     "marina",
     "marking",
     "marring",
@@ -91,17 +94,17 @@
       "4": 16,
       "5": 7,
       "6": 22,
-      "7": 23,
+      "7": 24,
       "8": 4,
-      "9": 2,
-      "10": 2
+      "9": 3,
+      "10": 3
     },
     "by_first_letter": {
       "A": 13,
       "G": 14,
-      "I": 5,
+      "I": 7,
       "K": 3,
-      "M": 21,
+      "M": 22,
       "N": 4,
       "R": 16
     },
@@ -125,8 +128,9 @@
       },
       "I": {
         "6": 3,
-        "7": 1,
-        "9": 1
+        "7": 2,
+        "9": 1,
+        "10": 1
       },
       "K": {
         "4": 2,
@@ -137,7 +141,8 @@
         "5": 4,
         "6": 8,
         "7": 5,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "N": {
         "4": 2,
@@ -160,10 +165,10 @@
       "GI": 2,
       "GR": 5,
       "IM": 2,
-      "IN": 2,
+      "IN": 4,
       "IR": 1,
       "KI": 3,
-      "MA": 13,
+      "MA": 14,
       "MI": 8,
       "NA": 4,
       "RA": 11,

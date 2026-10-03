@@ -1,9 +1,9 @@
 {
   "pangram": "plowmen",
   "center_letter": "n",
-  "num_answers": 23,
+  "num_answers": 24,
   "num_pangrams": 1,
-  "possible_points": 67,
+  "possible_points": 72,
   "answer_pangrams": [
     "plowmen"
   ],
@@ -24,6 +24,7 @@
     "omen",
     "open",
     "peen",
+    "penne",
     "pennon",
     "peon",
     "plowmen",
@@ -36,7 +37,7 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 4,
+      "5": 5,
       "6": 3,
       "7": 1
     },
@@ -45,7 +46,7 @@
       "M": 3,
       "N": 7,
       "O": 2,
-      "P": 6,
+      "P": 7,
       "W": 2
     },
     "grid": {
@@ -66,6 +67,7 @@
       },
       "P": {
         "4": 3,
+        "5": 1,
         "6": 2,
         "7": 1
       },
@@ -83,7 +85,7 @@
       "NO": 4,
       "OM": 1,
       "OP": 1,
-      "PE": 3,
+      "PE": 4,
       "PL": 1,
       "PO": 2,
       "WO": 2

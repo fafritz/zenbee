@@ -1,15 +1,16 @@
 {
   "pangram": "placebo",
   "center_letter": "e",
-  "num_answers": 52,
+  "num_answers": 54,
   "num_pangrams": 1,
-  "possible_points": 185,
+  "possible_points": 196,
   "answer_pangrams": [
     "placebo"
   ],
   "answers": [
     "abbe",
     "able",
+    "allele",
     "aloe",
     "apace",
     "appeal",
@@ -24,6 +25,7 @@
     "belle",
     "bleep",
     "bobble",
+    "bocce",
     "bole",
     "cable",
     "callable",
@@ -65,15 +67,15 @@
   "hints": {
     "by_length": {
       "4": 26,
-      "5": 13,
-      "6": 8,
+      "5": 14,
+      "6": 9,
       "7": 2,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
-      "A": 6,
-      "B": 11,
+      "A": 7,
+      "B": 12,
       "C": 8,
       "E": 2,
       "L": 7,
@@ -84,11 +86,11 @@
       "A": {
         "4": 3,
         "5": 2,
-        "6": 1
+        "6": 2
       },
       "B": {
         "4": 5,
-        "5": 4,
+        "5": 5,
         "6": 2
       },
       "C": {
@@ -121,12 +123,12 @@
     },
     "two_letter_list": {
       "AB": 2,
-      "AL": 1,
+      "AL": 2,
       "AP": 3,
       "BA": 4,
       "BE": 4,
       "BL": 1,
-      "BO": 2,
+      "BO": 3,
       "CA": 4,
       "CE": 2,
       "CO": 2,

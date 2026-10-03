@@ -1,9 +1,9 @@
 {
   "pangram": "bronchi",
   "center_letter": "c",
-  "num_answers": 28,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 128,
+  "possible_points": 139,
   "answer_pangrams": [
     "bronchi"
   ],
@@ -32,7 +32,9 @@
     "honcho",
     "hooch",
     "icon",
+    "iconic",
     "inch",
+    "ionic",
     "ironic",
     "rich",
     "rococo"
@@ -41,15 +43,15 @@
   "hints": {
     "by_length": {
       "4": 8,
-      "5": 10,
-      "6": 7,
+      "5": 11,
+      "6": 8,
       "7": 3
     },
     "by_first_letter": {
       "B": 5,
       "C": 16,
       "H": 2,
-      "I": 3,
+      "I": 5,
       "R": 2
     },
     "grid": {
@@ -70,7 +72,8 @@
       },
       "I": {
         "4": 2,
-        "6": 1
+        "5": 1,
+        "6": 2
       },
       "R": {
         "4": 1,
@@ -85,8 +88,9 @@
       "CO": 7,
       "CR": 2,
       "HO": 2,
-      "IC": 1,
+      "IC": 2,
       "IN": 1,
+      "IO": 1,
       "IR": 1,
       "RI": 1,
       "RO": 1

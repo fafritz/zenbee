@@ -1,9 +1,9 @@
 {
   "pangram": "curtail",
   "center_letter": "t",
-  "num_answers": 51,
+  "num_answers": 50,
   "num_pangrams": 2,
-  "possible_points": 259,
+  "possible_points": 252,
   "answer_pangrams": [
     "actuarial",
     "curtail"
@@ -37,7 +37,6 @@
     "lariat",
     "licit",
     "lilt",
-    "ratatat",
     "ritual",
     "tacit",
     "tact",
@@ -67,7 +66,7 @@
       "4": 13,
       "5": 15,
       "6": 10,
-      "7": 8,
+      "7": 7,
       "8": 4,
       "9": 1
     },
@@ -76,7 +75,7 @@
       "C": 14,
       "I": 2,
       "L": 4,
-      "R": 2,
+      "R": 1,
       "T": 20,
       "U": 1
     },
@@ -104,8 +103,7 @@
         "6": 2
       },
       "R": {
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
         "4": 9,
@@ -131,7 +129,6 @@
       "IT": 1,
       "LA": 2,
       "LI": 2,
-      "RA": 1,
       "RI": 1,
       "TA": 10,
       "TI": 4,

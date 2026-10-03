@@ -3,7 +3,7 @@
   "center_letter": "i",
   "num_answers": 65,
   "num_pangrams": 1,
-  "possible_points": 300,
+  "possible_points": 305,
   "answer_pangrams": [
     "policed"
   ],
@@ -19,10 +19,10 @@
     "collided",
     "collie",
     "colloid",
-    "coolie",
     "copied",
     "decide",
     "decided",
+    "decile",
     "deice",
     "deiced",
     "deli",
@@ -45,11 +45,11 @@
     "idle",
     "idled",
     "idol",
-    "ipod",
     "lice",
     "lidded",
     "lied",
     "lipid",
+    "lipped",
     "loci",
     "lollipop",
     "oiled",
@@ -77,18 +77,18 @@
   "date": "2038-10-01",
   "hints": {
     "by_length": {
-      "4": 19,
+      "4": 18,
       "5": 15,
-      "6": 20,
+      "6": 21,
       "7": 9,
       "8": 2
     },
     "by_first_letter": {
-      "C": 13,
-      "D": 15,
+      "C": 12,
+      "D": 16,
       "E": 4,
-      "I": 6,
-      "L": 6,
+      "I": 5,
+      "L": 7,
       "O": 4,
       "P": 17
     },
@@ -96,14 +96,14 @@
       "C": {
         "4": 2,
         "5": 2,
-        "6": 4,
+        "6": 3,
         "7": 4,
         "8": 1
       },
       "D": {
         "4": 4,
         "5": 3,
-        "6": 6,
+        "6": 7,
         "7": 2
       },
       "E": {
@@ -112,14 +112,14 @@
         "6": 2
       },
       "I": {
-        "4": 4,
+        "4": 3,
         "5": 1,
         "6": 1
       },
       "L": {
         "4": 3,
         "5": 1,
-        "6": 1,
+        "6": 2,
         "8": 1
       },
       "O": {
@@ -136,8 +136,8 @@
     },
     "two_letter_list": {
       "CL": 2,
-      "CO": 11,
-      "DE": 5,
+      "CO": 10,
+      "DE": 6,
       "DI": 9,
       "DO": 1,
       "ED": 1,
@@ -145,8 +145,7 @@
       "EP": 1,
       "IC": 2,
       "ID": 3,
-      "IP": 1,
-      "LI": 4,
+      "LI": 5,
       "LO": 2,
       "OI": 1,
       "OL": 2,

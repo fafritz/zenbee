@@ -1,9 +1,9 @@
 {
   "pangram": "healing",
   "center_letter": "l",
-  "num_answers": 73,
+  "num_answers": 78,
   "num_pangrams": 1,
-  "possible_points": 359,
+  "possible_points": 396,
   "answer_pangrams": [
     "healing"
   ],
@@ -17,16 +17,19 @@
     "aligning",
     "allege",
     "alleging",
-    "anal",
+    "allele",
     "angel",
     "angle",
     "angling",
+    "aniline",
     "anneal",
     "annealing",
     "eagle",
+    "eeling",
     "elan",
     "gaggle",
     "gala",
+    "galangal",
     "gale",
     "galena",
     "gall",
@@ -63,6 +66,7 @@
     "inline",
     "lagging",
     "lain",
+    "lanai",
     "lane",
     "lean",
     "leaning",
@@ -70,6 +74,7 @@
     "legging",
     "liege",
     "lien",
+    "lignin",
     "linage",
     "line",
     "lineage",
@@ -85,41 +90,42 @@
   "date": "2033-02-26",
   "hints": {
     "by_length": {
-      "4": 22,
-      "5": 12,
-      "6": 15,
-      "7": 13,
-      "8": 10,
+      "4": 21,
+      "5": 13,
+      "6": 18,
+      "7": 14,
+      "8": 11,
       "9": 1
     },
     "by_first_letter": {
-      "A": 15,
-      "E": 2,
-      "G": 17,
+      "A": 16,
+      "E": 3,
+      "G": 18,
       "H": 15,
       "I": 4,
-      "L": 15,
+      "L": 17,
       "N": 5
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 6,
-        "6": 3,
-        "7": 1,
+        "6": 4,
+        "7": 2,
         "8": 2,
         "9": 1
       },
       "E": {
         "4": 1,
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "G": {
         "4": 6,
         "5": 1,
         "6": 4,
         "7": 3,
-        "8": 3
+        "8": 4
       },
       "H": {
         "4": 7,
@@ -135,8 +141,8 @@
       },
       "L": {
         "4": 5,
-        "5": 3,
-        "6": 3,
+        "5": 4,
+        "6": 4,
         "7": 4
       },
       "N": {
@@ -149,11 +155,12 @@
     "two_letter_list": {
       "AG": 1,
       "AI": 1,
-      "AL": 7,
+      "AL": 8,
       "AN": 6,
       "EA": 1,
+      "EE": 1,
       "EL": 1,
-      "GA": 8,
+      "GA": 9,
       "GE": 2,
       "GI": 3,
       "GL": 4,
@@ -162,9 +169,9 @@
       "HI": 1,
       "IL": 1,
       "IN": 3,
-      "LA": 3,
+      "LA": 4,
       "LE": 4,
-      "LI": 8,
+      "LI": 9,
       "NA": 2,
       "NE": 1,
       "NI": 2

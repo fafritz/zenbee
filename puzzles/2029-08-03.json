@@ -1,9 +1,9 @@
 {
   "pangram": "varying",
   "center_letter": "y",
-  "num_answers": 21,
+  "num_answers": 22,
   "num_pangrams": 1,
-  "possible_points": 105,
+  "possible_points": 106,
   "answer_pangrams": [
     "varying"
   ],
@@ -28,12 +28,13 @@
     "vary",
     "varying",
     "vying",
+    "yang",
     "yarn"
   ],
   "date": "2029-08-03",
   "hints": {
     "by_length": {
-      "4": 5,
+      "4": 6,
       "5": 8,
       "6": 4,
       "7": 3,
@@ -45,7 +46,7 @@
       "N": 3,
       "R": 2,
       "V": 4,
-      "Y": 1
+      "Y": 2
     },
     "grid": {
       "A": {
@@ -74,7 +75,7 @@
         "7": 1
       },
       "Y": {
-        "4": 1
+        "4": 2
       }
     },
     "two_letter_list": {
@@ -88,7 +89,7 @@
       "RA": 2,
       "VA": 3,
       "VY": 1,
-      "YA": 1
+      "YA": 2
     }
   }
 }

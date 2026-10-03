@@ -1,9 +1,9 @@
 {
   "pangram": "violent",
   "center_letter": "n",
-  "num_answers": 69,
+  "num_answers": 68,
   "num_pangrams": 2,
-  "possible_points": 311,
+  "possible_points": 308,
   "answer_pangrams": [
     "nonviolent",
     "violent"
@@ -42,7 +42,6 @@
     "loin",
     "lone",
     "loon",
-    "loonie",
     "lotion",
     "nene",
     "neon",
@@ -52,6 +51,7 @@
     "noel",
     "none",
     "nonevent",
+    "nonillion",
     "nonviolent",
     "noon",
     "note",
@@ -63,7 +63,6 @@
     "onto",
     "oven",
     "teen",
-    "telnet",
     "tenet",
     "tenon",
     "tent",
@@ -84,19 +83,19 @@
     "by_length": {
       "4": 28,
       "5": 9,
-      "6": 16,
+      "6": 14,
       "7": 7,
       "8": 3,
-      "9": 5,
+      "9": 6,
       "10": 1
     },
     "by_first_letter": {
       "E": 6,
       "I": 12,
-      "L": 17,
-      "N": 14,
+      "L": 16,
+      "N": 15,
       "O": 4,
-      "T": 9,
+      "T": 8,
       "V": 7
     },
     "grid": {
@@ -116,7 +115,7 @@
       "L": {
         "4": 8,
         "5": 2,
-        "6": 5,
+        "6": 4,
         "7": 2
       },
       "N": {
@@ -124,7 +123,7 @@
         "5": 1,
         "6": 2,
         "8": 2,
-        "9": 1,
+        "9": 2,
         "10": 1
       },
       "O": {
@@ -134,8 +133,7 @@
       },
       "T": {
         "4": 6,
-        "5": 2,
-        "6": 1
+        "5": 2
       },
       "V": {
         "4": 3,
@@ -152,13 +150,13 @@
       "IN": 12,
       "LE": 4,
       "LI": 8,
-      "LO": 5,
+      "LO": 4,
       "NE": 3,
       "NI": 2,
-      "NO": 9,
+      "NO": 10,
       "ON": 3,
       "OV": 1,
-      "TE": 5,
+      "TE": 4,
       "TI": 2,
       "TO": 2,
       "VE": 3,

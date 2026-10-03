@@ -1,9 +1,9 @@
 {
   "pangram": "cordial",
   "center_letter": "a",
-  "num_answers": 56,
+  "num_answers": 57,
   "num_pangrams": 1,
-  "possible_points": 216,
+  "possible_points": 221,
   "answer_pangrams": [
     "cordial"
   ],
@@ -44,6 +44,7 @@
     "dial",
     "dollar",
     "doodad",
+    "iliac",
     "laid",
     "lair",
     "lard",
@@ -69,7 +70,7 @@
   "hints": {
     "by_length": {
       "4": 24,
-      "5": 14,
+      "5": 15,
       "6": 12,
       "7": 5,
       "8": 1
@@ -78,6 +79,7 @@
       "A": 9,
       "C": 23,
       "D": 4,
+      "I": 1,
       "L": 8,
       "O": 1,
       "R": 11
@@ -97,6 +99,9 @@
       "D": {
         "4": 2,
         "6": 2
+      },
+      "I": {
+        "5": 1
       },
       "L": {
         "4": 6,
@@ -123,6 +128,7 @@
       "DA": 1,
       "DI": 1,
       "DO": 2,
+      "IL": 1,
       "LA": 3,
       "LI": 3,
       "LO": 2,

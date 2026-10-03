@@ -1,14 +1,15 @@
 {
   "pangram": "romping",
   "center_letter": "r",
-  "num_answers": 55,
+  "num_answers": 61,
   "num_pangrams": 1,
-  "possible_points": 267,
+  "possible_points": 293,
   "answer_pangrams": [
     "romping"
   ],
   "answers": [
     "gorging",
+    "gorgon",
     "goring",
     "gorp",
     "grim",
@@ -35,10 +36,14 @@
     "morn",
     "morning",
     "moron",
+    "noir",
+    "nori",
     "norm",
     "origin",
+    "pirogi",
     "pogrom",
     "poor",
+    "porging",
     "poring",
     "prig",
     "prim",
@@ -60,6 +65,7 @@
     "ripping",
     "romp",
     "romping",
+    "ronin",
     "room",
     "rooming",
     "roping"
@@ -67,27 +73,27 @@
   "date": "2031-02-27",
   "hints": {
     "by_length": {
-      "4": 18,
-      "5": 9,
-      "6": 8,
-      "7": 12,
+      "4": 20,
+      "5": 10,
+      "6": 10,
+      "7": 13,
       "8": 7,
       "9": 1
     },
     "by_first_letter": {
-      "G": 14,
+      "G": 15,
       "I": 3,
       "M": 10,
-      "N": 1,
+      "N": 3,
       "O": 1,
-      "P": 15,
-      "R": 11
+      "P": 17,
+      "R": 12
     },
     "grid": {
       "G": {
         "4": 5,
         "5": 2,
-        "6": 1,
+        "6": 2,
         "7": 3,
         "8": 3
       },
@@ -105,7 +111,7 @@
         "9": 1
       },
       "N": {
-        "4": 1
+        "4": 3
       },
       "O": {
         "6": 1
@@ -113,30 +119,31 @@
       "P": {
         "4": 6,
         "5": 4,
-        "6": 2,
-        "7": 1,
+        "6": 3,
+        "7": 2,
         "8": 2
       },
       "R": {
         "4": 3,
-        "5": 1,
+        "5": 2,
         "6": 2,
         "7": 5
       }
     },
     "two_letter_list": {
-      "GO": 3,
+      "GO": 4,
       "GR": 11,
       "IG": 1,
       "IR": 2,
       "MI": 5,
       "MO": 5,
-      "NO": 1,
+      "NO": 3,
       "OR": 1,
-      "PO": 3,
+      "PI": 1,
+      "PO": 4,
       "PR": 12,
       "RI": 6,
-      "RO": 5
+      "RO": 6
     }
   }
 }

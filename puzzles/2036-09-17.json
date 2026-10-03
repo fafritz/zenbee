@@ -1,15 +1,16 @@
 {
   "pangram": "violate",
   "center_letter": "l",
-  "num_answers": 70,
+  "num_answers": 73,
   "num_pangrams": 2,
-  "possible_points": 271,
+  "possible_points": 283,
   "answer_pangrams": [
     "violate",
     "volatile"
   ],
   "answers": [
     "alive",
+    "allele",
     "alleviate",
     "allot",
     "aloe",
@@ -19,11 +20,13 @@
     "elate",
     "elevate",
     "elite",
+    "elote",
     "evil",
     "evolve",
     "late",
     "latte",
     "lava",
+    "lave",
     "leave",
     "levee",
     "level",
@@ -83,18 +86,18 @@
   "date": "2036-09-17",
   "hints": {
     "by_length": {
-      "4": 33,
-      "5": 20,
-      "6": 7,
+      "4": 34,
+      "5": 21,
+      "6": 8,
       "7": 2,
       "8": 5,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "A": 7,
-      "E": 5,
-      "L": 15,
+      "A": 8,
+      "E": 6,
+      "L": 16,
       "O": 4,
       "T": 21,
       "V": 18
@@ -103,16 +106,17 @@
       "A": {
         "4": 2,
         "5": 4,
+        "6": 1,
         "9": 1
       },
       "E": {
         "4": 1,
-        "5": 2,
+        "5": 3,
         "6": 1,
         "7": 1
       },
       "L": {
-        "4": 8,
+        "4": 9,
         "5": 5,
         "6": 1,
         "8": 1
@@ -138,12 +142,12 @@
       }
     },
     "two_letter_list": {
-      "AL": 5,
+      "AL": 6,
       "AT": 1,
       "AV": 1,
-      "EL": 3,
+      "EL": 4,
       "EV": 2,
-      "LA": 3,
+      "LA": 4,
       "LE": 4,
       "LI": 4,
       "LO": 4,

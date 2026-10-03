@@ -1,9 +1,9 @@
 {
   "pangram": "doublet",
   "center_letter": "o",
-  "num_answers": 75,
+  "num_answers": 74,
   "num_pangrams": 1,
-  "possible_points": 310,
+  "possible_points": 303,
   "answer_pangrams": [
     "doublet"
   ],
@@ -26,8 +26,6 @@
     "bolt",
     "bolted",
     "boob",
-    "boobed",
-    "booboo",
     "boodle",
     "booed",
     "boot",
@@ -52,6 +50,7 @@
     "doublet",
     "doubt",
     "doubted",
+    "elote",
     "lobbed",
     "lobe",
     "lobed",
@@ -88,14 +87,15 @@
   "hints": {
     "by_length": {
       "4": 30,
-      "5": 11,
-      "6": 23,
+      "5": 12,
+      "6": 21,
       "7": 10,
       "10": 1
     },
     "by_first_letter": {
-      "B": 28,
+      "B": 26,
       "D": 16,
+      "E": 1,
       "L": 11,
       "O": 5,
       "T": 15
@@ -104,7 +104,7 @@
       "B": {
         "4": 10,
         "5": 3,
-        "6": 9,
+        "6": 7,
         "7": 5,
         "10": 1
       },
@@ -113,6 +113,9 @@
         "5": 3,
         "6": 4,
         "7": 4
+      },
+      "E": {
+        "5": 1
       },
       "L": {
         "4": 6,
@@ -133,8 +136,9 @@
     },
     "two_letter_list": {
       "BL": 7,
-      "BO": 21,
+      "BO": 19,
       "DO": 16,
+      "EL": 1,
       "LO": 11,
       "OB": 1,
       "OL": 1,

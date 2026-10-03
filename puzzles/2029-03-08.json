@@ -1,9 +1,9 @@
 {
   "pangram": "gunwale",
   "center_letter": "l",
-  "num_answers": 45,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 156,
+  "possible_points": 176,
   "answer_pangrams": [
     "gunwale"
   ],
@@ -11,7 +11,7 @@
     "alga",
     "algae",
     "allege",
-    "anal",
+    "allele",
     "angel",
     "angle",
     "anneal",
@@ -21,6 +21,7 @@
     "elan",
     "gaggle",
     "gala",
+    "galangal",
     "gale",
     "galena",
     "gall",
@@ -37,6 +38,7 @@
     "lean",
     "legal",
     "luau",
+    "luge",
     "luggage",
     "lull",
     "lulu",
@@ -46,6 +48,7 @@
     "null",
     "ulna",
     "ulnae",
+    "unglue",
     "unwell",
     "waggle",
     "wale",
@@ -59,24 +62,24 @@
     "by_length": {
       "4": 23,
       "5": 10,
-      "6": 9,
+      "6": 11,
       "7": 2,
-      "8": 1
+      "8": 2
     },
     "by_first_letter": {
       "A": 9,
       "E": 2,
-      "G": 11,
-      "L": 12,
+      "G": 12,
+      "L": 13,
       "N": 2,
-      "U": 3,
+      "U": 4,
       "W": 6
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 4,
-        "6": 3
+        "6": 4
       },
       "E": {
         "4": 1,
@@ -86,10 +89,11 @@
         "4": 7,
         "5": 1,
         "6": 2,
-        "7": 1
+        "7": 1,
+        "8": 1
       },
       "L": {
-        "4": 7,
+        "4": 8,
         "5": 2,
         "6": 1,
         "7": 1,
@@ -102,7 +106,7 @@
       "U": {
         "4": 1,
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "W": {
         "4": 4,
@@ -110,20 +114,20 @@
       }
     },
     "two_letter_list": {
-      "AL": 3,
-      "AN": 6,
+      "AL": 4,
+      "AN": 5,
       "EA": 1,
       "EL": 1,
-      "GA": 5,
+      "GA": 6,
       "GL": 4,
       "GU": 2,
       "LA": 3,
       "LE": 3,
-      "LU": 6,
+      "LU": 7,
       "NE": 1,
       "NU": 1,
       "UL": 2,
-      "UN": 1,
+      "UN": 2,
       "WA": 4,
       "WE": 2
     }

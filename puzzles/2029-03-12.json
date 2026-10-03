@@ -1,9 +1,9 @@
 {
   "pangram": "wafting",
   "center_letter": "f",
-  "num_answers": 20,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 95,
+  "possible_points": 96,
   "answer_pangrams": [
     "wafting"
   ],
@@ -23,6 +23,7 @@
     "gift",
     "gifting",
     "infant",
+    "naif",
     "tiff",
     "tiffing",
     "waft",
@@ -32,7 +33,7 @@
   "date": "2029-03-12",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 9,
       "5": 1,
       "6": 3,
       "7": 7,
@@ -42,6 +43,7 @@
       "F": 10,
       "G": 4,
       "I": 1,
+      "N": 1,
       "T": 2,
       "W": 3
     },
@@ -60,6 +62,9 @@
       "I": {
         "6": 1
       },
+      "N": {
+        "4": 1
+      },
       "T": {
         "4": 1,
         "7": 1
@@ -75,6 +80,7 @@
       "GA": 2,
       "GI": 2,
       "IN": 1,
+      "NA": 1,
       "TI": 2,
       "WA": 3
     }

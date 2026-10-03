@@ -1,9 +1,9 @@
 {
   "pangram": "lengthy",
   "center_letter": "t",
-  "num_answers": 24,
+  "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 114,
+  "possible_points": 108,
   "answer_pangrams": [
     "lengthy"
   ],
@@ -25,7 +25,6 @@
     "teeth",
     "teethe",
     "tell",
-    "telnet",
     "tenet",
     "tent",
     "tenth",
@@ -38,7 +37,7 @@
     "by_length": {
       "4": 8,
       "5": 4,
-      "6": 7,
+      "6": 6,
       "7": 3,
       "8": 2
     },
@@ -47,7 +46,7 @@
       "G": 4,
       "L": 4,
       "N": 1,
-      "T": 12
+      "T": 11
     },
     "grid": {
       "E": {
@@ -72,7 +71,7 @@
       "T": {
         "4": 6,
         "5": 4,
-        "6": 2
+        "6": 1
       }
     },
     "two_letter_list": {
@@ -81,7 +80,7 @@
       "GE": 4,
       "LE": 4,
       "NE": 1,
-      "TE": 9,
+      "TE": 8,
       "TH": 3
     }
   }

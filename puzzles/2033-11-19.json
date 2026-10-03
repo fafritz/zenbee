@@ -1,9 +1,9 @@
 {
   "pangram": "loathed",
   "center_letter": "a",
-  "num_answers": 77,
+  "num_answers": 78,
   "num_pangrams": 1,
-  "possible_points": 338,
+  "possible_points": 344,
   "answer_pangrams": [
     "loathed"
   ],
@@ -12,6 +12,7 @@
     "addle",
     "addled",
     "ahead",
+    "allele",
     "allot",
     "allotted",
     "aloe",
@@ -91,14 +92,14 @@
     "by_length": {
       "4": 26,
       "5": 21,
-      "6": 19,
+      "6": 20,
       "7": 5,
       "8": 4,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 11,
+      "A": 12,
       "D": 11,
       "E": 2,
       "H": 21,
@@ -110,7 +111,7 @@
       "A": {
         "4": 2,
         "5": 6,
-        "6": 1,
+        "6": 2,
         "7": 1,
         "8": 1
       },
@@ -151,7 +152,7 @@
     "two_letter_list": {
       "AD": 3,
       "AH": 1,
-      "AL": 5,
+      "AL": 6,
       "AT": 2,
       "DA": 5,
       "DE": 5,

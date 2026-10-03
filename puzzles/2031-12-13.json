@@ -1,9 +1,9 @@
 {
   "pangram": "tabloid",
   "center_letter": "a",
-  "num_answers": 38,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 133,
+  "possible_points": 145,
   "answer_pangrams": [
     "tabloid"
   ],
@@ -21,10 +21,12 @@
     "ballad",
     "ballot",
     "baobab",
+    "biota",
     "blab",
     "blat",
     "bloat",
     "boat",
+    "boba",
     "bobtail",
     "bola",
     "dado",
@@ -43,6 +45,7 @@
     "tall",
     "tattoo",
     "tibia",
+    "tibial",
     "tidal",
     "toad",
     "total"
@@ -50,19 +53,19 @@
   "date": "2031-12-13",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 10,
-      "6": 6,
+      "4": 20,
+      "5": 11,
+      "6": 7,
       "7": 3
     },
     "by_first_letter": {
       "A": 5,
-      "B": 14,
+      "B": 16,
       "D": 4,
       "I": 1,
       "L": 4,
       "O": 1,
-      "T": 9
+      "T": 10
     },
     "grid": {
       "A": {
@@ -70,8 +73,8 @@
         "5": 4
       },
       "B": {
-        "4": 9,
-        "5": 1,
+        "4": 10,
+        "5": 2,
         "6": 3,
         "7": 1
       },
@@ -93,7 +96,7 @@
       "T": {
         "4": 3,
         "5": 4,
-        "6": 1,
+        "6": 2,
         "7": 1
       }
     },
@@ -102,8 +105,9 @@
       "AL": 3,
       "AT": 1,
       "BA": 8,
+      "BI": 1,
       "BL": 3,
-      "BO": 3,
+      "BO": 4,
       "DA": 2,
       "DI": 1,
       "DO": 1,
@@ -112,7 +116,7 @@
       "LO": 1,
       "OD": 1,
       "TA": 5,
-      "TI": 2,
+      "TI": 3,
       "TO": 2
     }
   }

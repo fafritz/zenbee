@@ -1,9 +1,9 @@
 {
   "pangram": "flounce",
   "center_letter": "n",
-  "num_answers": 25,
+  "num_answers": 26,
   "num_pangrams": 2,
-  "possible_points": 108,
+  "possible_points": 114,
   "answer_pangrams": [
     "confluence",
     "flounce"
@@ -33,14 +33,15 @@
     "null",
     "once",
     "ounce",
-    "uncle"
+    "uncle",
+    "uncuff"
   ],
   "date": "2031-05-12",
   "hints": {
     "by_length": {
       "4": 11,
       "5": 7,
-      "6": 4,
+      "6": 5,
       "7": 2,
       "10": 1
     },
@@ -50,7 +51,7 @@
       "L": 2,
       "N": 9,
       "O": 2,
-      "U": 1
+      "U": 2
     },
     "grid": {
       "C": {
@@ -78,7 +79,8 @@
         "5": 1
       },
       "U": {
-        "5": 1
+        "5": 1,
+        "6": 1
       }
     },
     "two_letter_list": {
@@ -93,7 +95,7 @@
       "NU": 1,
       "ON": 1,
       "OU": 1,
-      "UN": 1
+      "UN": 2
     }
   }
 }

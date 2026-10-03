@@ -1,9 +1,9 @@
 {
   "pangram": "clouted",
   "center_letter": "t",
-  "num_answers": 61,
+  "num_answers": 62,
   "num_pangrams": 1,
-  "possible_points": 265,
+  "possible_points": 270,
   "answer_pangrams": [
     "clouted"
   ],
@@ -37,6 +37,7 @@
     "dulcet",
     "elect",
     "elected",
+    "elote",
     "etude",
     "lettuce",
     "loot",
@@ -74,7 +75,7 @@
   "hints": {
     "by_length": {
       "4": 23,
-      "5": 10,
+      "5": 11,
       "6": 17,
       "7": 7,
       "8": 2,
@@ -83,7 +84,7 @@
     "by_first_letter": {
       "C": 13,
       "D": 14,
-      "E": 3,
+      "E": 4,
       "L": 6,
       "O": 6,
       "T": 19
@@ -105,7 +106,7 @@
         "9": 1
       },
       "E": {
-        "5": 2,
+        "5": 3,
         "7": 1
       },
       "L": {
@@ -132,7 +133,7 @@
       "DE": 7,
       "DO": 4,
       "DU": 3,
-      "EL": 2,
+      "EL": 3,
       "ET": 1,
       "LE": 1,
       "LO": 4,

@@ -1,9 +1,9 @@
 {
   "pangram": "lazying",
   "center_letter": "a",
-  "num_answers": 45,
+  "num_answers": 49,
   "num_pangrams": 2,
-  "possible_points": 240,
+  "possible_points": 259,
   "answer_pangrams": [
     "analyzing",
     "lazying"
@@ -19,14 +19,16 @@
     "allaying",
     "ally",
     "allying",
-    "anal",
     "analyzing",
     "angina",
     "angling",
+    "gaga",
     "gagging",
+    "gaily",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -39,6 +41,7 @@
     "inlaying",
     "lagging",
     "lain",
+    "lanai",
     "laying",
     "lazily",
     "lazing",
@@ -50,6 +53,7 @@
     "nailing",
     "nana",
     "nanny",
+    "yang",
     "zany",
     "zigzag",
     "zigzagging",
@@ -58,25 +62,26 @@
   "date": "2034-11-14",
   "hints": {
     "by_length": {
-      "4": 13,
-      "5": 6,
+      "4": 14,
+      "5": 8,
       "6": 8,
       "7": 12,
-      "8": 4,
+      "8": 5,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 14,
-      "G": 12,
+      "A": 13,
+      "G": 15,
       "I": 2,
-      "L": 7,
+      "L": 8,
       "N": 6,
+      "Y": 1,
       "Z": 4
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 4,
         "6": 2,
         "7": 2,
@@ -84,10 +89,11 @@
         "9": 1
       },
       "G": {
-        "4": 4,
+        "4": 5,
+        "5": 1,
         "6": 1,
         "7": 6,
-        "8": 1
+        "8": 2
       },
       "I": {
         "5": 1,
@@ -95,6 +101,7 @@
       },
       "L": {
         "4": 2,
+        "5": 1,
         "6": 3,
         "7": 2
       },
@@ -102,6 +109,9 @@
         "4": 3,
         "5": 1,
         "7": 2
+      },
+      "Y": {
+        "4": 1
       },
       "Z": {
         "4": 1,
@@ -113,12 +123,13 @@
       "AG": 2,
       "AI": 1,
       "AL": 7,
-      "AN": 4,
-      "GA": 11,
+      "AN": 3,
+      "GA": 14,
       "GL": 1,
       "IN": 2,
-      "LA": 7,
+      "LA": 8,
       "NA": 6,
+      "YA": 1,
       "ZA": 1,
       "ZI": 3
     }

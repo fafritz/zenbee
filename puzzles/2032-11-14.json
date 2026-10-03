@@ -1,9 +1,9 @@
 {
   "pangram": "holding",
   "center_letter": "l",
-  "num_answers": 40,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 191,
+  "possible_points": 213,
   "answer_pangrams": [
     "holding"
   ],
@@ -30,6 +30,8 @@
     "idling",
     "idol",
     "igloo",
+    "lidding",
+    "lignin",
     "lingo",
     "lining",
     "lion",
@@ -44,6 +46,7 @@
     "longing",
     "loon",
     "niggling",
+    "nonillion",
     "noodling",
     "ogling",
     "oiling",
@@ -54,17 +57,18 @@
     "by_length": {
       "4": 15,
       "5": 3,
-      "6": 7,
-      "7": 8,
-      "8": 7
+      "6": 8,
+      "7": 9,
+      "8": 7,
+      "9": 1
     },
     "by_first_letter": {
       "D": 6,
       "G": 9,
       "H": 4,
       "I": 3,
-      "L": 13,
-      "N": 2,
+      "L": 15,
+      "N": 3,
       "O": 3
     },
     "grid": {
@@ -93,11 +97,12 @@
       "L": {
         "4": 6,
         "5": 2,
-        "6": 1,
-        "7": 4
+        "6": 2,
+        "7": 5
       },
       "N": {
-        "8": 2
+        "8": 2,
+        "9": 1
       },
       "O": {
         "4": 1,
@@ -114,10 +119,10 @@
       "HO": 3,
       "ID": 2,
       "IG": 1,
-      "LI": 3,
+      "LI": 5,
       "LO": 10,
       "NI": 1,
-      "NO": 1,
+      "NO": 2,
       "OG": 1,
       "OI": 1,
       "OL": 1

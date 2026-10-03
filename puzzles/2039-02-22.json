@@ -3,7 +3,7 @@
   "center_letter": "a",
   "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 255,
+  "possible_points": 259,
   "answer_pangrams": [
     "clarify"
   ],
@@ -30,7 +30,6 @@
     "circa",
     "clarify",
     "clay",
-    "cray",
     "cyclical",
     "cyclically",
     "facial",
@@ -49,6 +48,7 @@
     "frail",
     "fray",
     "friar",
+    "iliac",
     "lacy",
     "lair",
     "liar",
@@ -68,8 +68,8 @@
   "date": "2039-02-22",
   "hints": {
     "by_length": {
-      "4": 20,
-      "5": 13,
+      "4": 19,
+      "5": 14,
       "6": 9,
       "7": 6,
       "8": 6,
@@ -78,8 +78,9 @@
     },
     "by_first_letter": {
       "A": 12,
-      "C": 13,
+      "C": 12,
       "F": 16,
+      "I": 1,
       "L": 7,
       "R": 8
     },
@@ -91,7 +92,7 @@
         "7": 2
       },
       "C": {
-        "4": 4,
+        "4": 3,
         "5": 4,
         "7": 2,
         "8": 2,
@@ -103,6 +104,9 @@
         "6": 3,
         "7": 1,
         "8": 2
+      },
+      "I": {
+        "5": 1
       },
       "L": {
         "4": 4,
@@ -126,12 +130,12 @@
       "CA": 6,
       "CI": 2,
       "CL": 2,
-      "CR": 1,
       "CY": 2,
       "FA": 9,
       "FI": 1,
       "FL": 3,
       "FR": 3,
+      "IL": 1,
       "LA": 2,
       "LI": 3,
       "LY": 2,

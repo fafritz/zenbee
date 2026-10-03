@@ -1,24 +1,27 @@
 {
   "pangram": "ovulate",
   "center_letter": "l",
-  "num_answers": 51,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 190,
+  "possible_points": 208,
   "answer_pangrams": [
     "ovulate"
   ],
   "answers": [
+    "allele",
     "allot",
     "aloe",
     "alto",
     "atoll",
     "elate",
     "elevate",
+    "elote",
     "evaluate",
     "evolve",
     "late",
     "latte",
     "lava",
+    "lave",
     "leave",
     "levee",
     "level",
@@ -58,40 +61,42 @@
     "veal",
     "velvet",
     "vole",
-    "volt"
+    "volt",
+    "volute"
   ],
   "date": "2034-01-28",
   "hints": {
     "by_length": {
-      "4": 24,
-      "5": 16,
-      "6": 4,
+      "4": 25,
+      "5": 17,
+      "6": 6,
       "7": 3,
       "8": 3,
       "10": 1
     },
     "by_first_letter": {
-      "A": 4,
-      "E": 4,
-      "L": 15,
+      "A": 5,
+      "E": 5,
+      "L": 16,
       "O": 5,
       "T": 12,
       "U": 2,
-      "V": 9
+      "V": 10
     },
     "grid": {
       "A": {
         "4": 2,
-        "5": 2
+        "5": 2,
+        "6": 1
       },
       "E": {
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 1,
         "8": 1
       },
       "L": {
-        "4": 10,
+        "4": 11,
         "5": 5
       },
       "O": {
@@ -114,15 +119,15 @@
       "V": {
         "4": 4,
         "5": 4,
-        "6": 1
+        "6": 2
       }
     },
     "two_letter_list": {
-      "AL": 3,
+      "AL": 4,
       "AT": 1,
-      "EL": 2,
+      "EL": 3,
       "EV": 2,
-      "LA": 3,
+      "LA": 4,
       "LE": 3,
       "LO": 5,
       "LU": 4,
@@ -137,7 +142,7 @@
       "UV": 1,
       "VA": 5,
       "VE": 2,
-      "VO": 2
+      "VO": 3
     }
   }
 }

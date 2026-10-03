@@ -1,9 +1,9 @@
 {
   "pangram": "auditor",
   "center_letter": "i",
-  "num_answers": 27,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 127,
+  "possible_points": 128,
   "answer_pangrams": [
     "auditor"
   ],
@@ -29,6 +29,7 @@
     "raid",
     "ratio",
     "riot",
+    "roti",
     "tiara",
     "torrid",
     "trait",
@@ -39,7 +40,7 @@
   "date": "2029-12-27",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 8,
       "5": 13,
       "6": 3,
       "7": 2,
@@ -50,7 +51,7 @@
       "D": 4,
       "I": 2,
       "O": 2,
-      "R": 6,
+      "R": 7,
       "T": 6
     },
     "grid": {
@@ -73,7 +74,7 @@
         "8": 1
       },
       "R": {
-        "4": 2,
+        "4": 3,
         "5": 3,
         "8": 1
       },
@@ -97,6 +98,7 @@
       "OU": 1,
       "RA": 5,
       "RI": 1,
+      "RO": 1,
       "TI": 1,
       "TO": 1,
       "TR": 4

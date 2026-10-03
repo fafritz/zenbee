@@ -3,7 +3,7 @@
   "center_letter": "a",
   "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 109,
+  "possible_points": 113,
   "answer_pangrams": [
     "diploma"
   ],
@@ -18,7 +18,6 @@
     "doodad",
     "imam",
     "impala",
-    "ipad",
     "laid",
     "lama",
     "lamp",
@@ -41,6 +40,7 @@
     "pall",
     "pallid",
     "palm",
+    "pampa",
     "papa",
     "papal",
     "papilla",
@@ -49,19 +49,19 @@
   "date": "2035-12-10",
   "hints": {
     "by_length": {
-      "4": 23,
-      "5": 7,
+      "4": 22,
+      "5": 8,
       "6": 5,
       "7": 2
     },
     "by_first_letter": {
       "A": 3,
       "D": 5,
-      "I": 3,
+      "I": 2,
       "L": 6,
       "M": 10,
       "O": 1,
-      "P": 9
+      "P": 10
     },
     "grid": {
       "A": {
@@ -74,7 +74,7 @@
         "7": 1
       },
       "I": {
-        "4": 2,
+        "4": 1,
         "6": 1
       },
       "L": {
@@ -91,7 +91,7 @@
       },
       "P": {
         "4": 5,
-        "5": 2,
+        "5": 3,
         "6": 1,
         "7": 1
       }
@@ -103,14 +103,13 @@
       "DI": 2,
       "DO": 1,
       "IM": 2,
-      "IP": 1,
       "LA": 3,
       "LL": 1,
       "LO": 2,
       "MA": 8,
       "MO": 2,
       "OP": 1,
-      "PA": 8,
+      "PA": 9,
       "PL": 1
     }
   }

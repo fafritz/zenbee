@@ -1,9 +1,9 @@
 {
   "pangram": "pinhead",
   "center_letter": "a",
-  "num_answers": 46,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 203,
+  "possible_points": 219,
   "answer_pangrams": [
     "pinhead"
   ],
@@ -36,7 +36,6 @@
     "hennaed",
     "idea",
     "inane",
-    "ipad",
     "naan",
     "naiad",
     "nana",
@@ -50,17 +49,20 @@
     "pained",
     "panda",
     "pane",
+    "panini",
     "panned",
     "papa",
     "peahen",
-    "pinhead"
+    "pinhead",
+    "pinna",
+    "pinnae"
   ],
   "date": "2031-09-23",
   "hints": {
     "by_length": {
-      "4": 17,
-      "5": 9,
-      "6": 12,
+      "4": 16,
+      "5": 10,
+      "6": 14,
       "7": 4,
       "8": 3,
       "10": 1
@@ -69,9 +71,9 @@
       "A": 10,
       "D": 6,
       "H": 10,
-      "I": 3,
+      "I": 2,
       "N": 6,
-      "P": 11
+      "P": 14
     },
     "grid": {
       "A": {
@@ -96,7 +98,7 @@
         "8": 1
       },
       "I": {
-        "4": 2,
+        "4": 1,
         "5": 1
       },
       "N": {
@@ -106,8 +108,8 @@
       },
       "P": {
         "4": 4,
-        "5": 2,
-        "6": 4,
+        "5": 3,
+        "6": 6,
         "7": 1
       }
     },
@@ -121,12 +123,11 @@
       "HE": 6,
       "ID": 1,
       "IN": 1,
-      "IP": 1,
       "NA": 5,
       "NE": 1,
-      "PA": 9,
+      "PA": 10,
       "PE": 1,
-      "PI": 1
+      "PI": 3
     }
   }
 }

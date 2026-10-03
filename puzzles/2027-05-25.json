@@ -1,14 +1,13 @@
 {
   "pangram": "blocked",
   "center_letter": "b",
-  "num_answers": 39,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 177,
+  "possible_points": 169,
   "answer_pangrams": [
     "blocked"
   ],
   "answers": [
-    "beck",
     "bedded",
     "bedeck",
     "bedecked",
@@ -27,14 +26,13 @@
     "bobbed",
     "bobble",
     "bobbled",
+    "bocce",
     "bode",
     "boded",
     "bold",
     "bole",
     "boll",
     "boob",
-    "boobed",
-    "booboo",
     "boodle",
     "booed",
     "book",
@@ -51,14 +49,14 @@
   "date": "2027-05-25",
   "hints": {
     "by_length": {
-      "4": 13,
-      "5": 8,
-      "6": 11,
+      "4": 12,
+      "5": 9,
+      "6": 9,
       "7": 5,
       "8": 2
     },
     "by_first_letter": {
-      "B": 31,
+      "B": 29,
       "C": 3,
       "E": 1,
       "L": 3,
@@ -66,9 +64,9 @@
     },
     "grid": {
       "B": {
-        "4": 11,
-        "5": 6,
-        "6": 9,
+        "4": 10,
+        "5": 7,
+        "6": 7,
         "7": 4,
         "8": 1
       },
@@ -90,9 +88,9 @@
       }
     },
     "two_letter_list": {
-      "BE": 7,
+      "BE": 6,
       "BL": 9,
-      "BO": 15,
+      "BO": 14,
       "CO": 3,
       "EB": 1,
       "LO": 3,

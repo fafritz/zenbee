@@ -1,9 +1,9 @@
 {
   "pangram": "violate",
   "center_letter": "v",
-  "num_answers": 37,
+  "num_answers": 38,
   "num_pangrams": 2,
-  "possible_points": 159,
+  "possible_points": 160,
   "answer_pangrams": [
     "violate",
     "volatile"
@@ -16,6 +16,7 @@
     "evil",
     "evolve",
     "lava",
+    "lave",
     "leave",
     "levee",
     "level",
@@ -50,7 +51,7 @@
   "date": "2030-12-18",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 16,
       "5": 12,
       "6": 4,
       "7": 3,
@@ -60,7 +61,7 @@
     "by_first_letter": {
       "A": 3,
       "E": 3,
-      "L": 7,
+      "L": 8,
       "O": 2,
       "V": 22
     },
@@ -75,7 +76,7 @@
         "7": 1
       },
       "L": {
-        "4": 3,
+        "4": 4,
         "5": 3,
         "8": 1
       },
@@ -96,7 +97,7 @@
       "AV": 1,
       "EL": 1,
       "EV": 2,
-      "LA": 1,
+      "LA": 2,
       "LE": 4,
       "LI": 1,
       "LO": 1,

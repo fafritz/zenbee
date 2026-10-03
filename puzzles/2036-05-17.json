@@ -1,9 +1,9 @@
 {
   "pangram": "gloated",
   "center_letter": "t",
-  "num_answers": 71,
+  "num_answers": 72,
   "num_pangrams": 1,
-  "possible_points": 335,
+  "possible_points": 340,
   "answer_pangrams": [
     "gloated"
   ],
@@ -30,6 +30,7 @@
     "eaglet",
     "elate",
     "elated",
+    "elote",
     "gadget",
     "gate",
     "gated",
@@ -84,7 +85,7 @@
   "hints": {
     "by_length": {
       "4": 22,
-      "5": 14,
+      "5": 15,
       "6": 20,
       "7": 7,
       "8": 6,
@@ -94,7 +95,7 @@
     "by_first_letter": {
       "A": 5,
       "D": 14,
-      "E": 3,
+      "E": 4,
       "G": 7,
       "L": 8,
       "T": 34
@@ -114,7 +115,7 @@
         "9": 1
       },
       "E": {
-        "5": 1,
+        "5": 2,
         "6": 2
       },
       "G": {
@@ -146,7 +147,7 @@
       "DE": 6,
       "DO": 5,
       "EA": 1,
-      "EL": 2,
+      "EL": 3,
       "GA": 3,
       "GL": 2,
       "GO": 2,

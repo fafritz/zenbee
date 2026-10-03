@@ -1,9 +1,9 @@
 {
   "pangram": "cloaked",
   "center_letter": "l",
-  "num_answers": 71,
+  "num_answers": 76,
   "num_pangrams": 3,
-  "possible_points": 304,
+  "possible_points": 329,
   "answer_pangrams": [
     "cloaked",
     "deadlock",
@@ -13,6 +13,7 @@
     "accolade",
     "addle",
     "addled",
+    "allele",
     "aloe",
     "cackle",
     "cackled",
@@ -21,6 +22,7 @@
     "calla",
     "called",
     "cell",
+    "celled",
     "cello",
     "clack",
     "clacked",
@@ -43,6 +45,7 @@
     "deadlock",
     "deadlocked",
     "deal",
+    "decadal",
     "decal",
     "deckle",
     "dell",
@@ -52,6 +55,7 @@
     "dolled",
     "doodle",
     "doodled",
+    "eeled",
     "kale",
     "keel",
     "keeled",
@@ -67,6 +71,7 @@
     "leaded",
     "leak",
     "leaked",
+    "lede",
     "leek",
     "load",
     "loaded",
@@ -85,41 +90,45 @@
   "date": "2032-08-19",
   "hints": {
     "by_length": {
-      "4": 29,
-      "5": 12,
-      "6": 21,
-      "7": 6,
+      "4": 30,
+      "5": 13,
+      "6": 23,
+      "7": 7,
       "8": 2,
       "10": 1
     },
     "by_first_letter": {
-      "A": 4,
-      "C": 25,
-      "D": 13,
+      "A": 5,
+      "C": 26,
+      "D": 14,
+      "E": 1,
       "K": 4,
-      "L": 24,
+      "L": 25,
       "O": 1
     },
     "grid": {
       "A": {
         "4": 1,
         "5": 1,
-        "6": 1,
+        "6": 2,
         "8": 1
       },
       "C": {
         "4": 8,
         "5": 5,
-        "6": 7,
+        "6": 8,
         "7": 5
       },
       "D": {
         "4": 5,
         "5": 2,
         "6": 3,
-        "7": 1,
+        "7": 2,
         "8": 1,
         "10": 1
+      },
+      "E": {
+        "5": 1
       },
       "K": {
         "4": 2,
@@ -127,7 +136,7 @@
         "6": 1
       },
       "L": {
-        "4": 12,
+        "4": 13,
         "5": 3,
         "6": 9
       },
@@ -138,19 +147,20 @@
     "two_letter_list": {
       "AC": 1,
       "AD": 2,
-      "AL": 1,
+      "AL": 2,
       "CA": 6,
-      "CE": 2,
+      "CE": 3,
       "CL": 8,
       "CO": 9,
       "DA": 1,
-      "DE": 6,
+      "DE": 7,
       "DO": 6,
+      "EE": 1,
       "KA": 1,
       "KE": 2,
       "KO": 1,
       "LA": 7,
-      "LE": 5,
+      "LE": 6,
       "LO": 12,
       "OL": 1
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "botched",
   "center_letter": "d",
-  "num_answers": 44,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 206,
+  "possible_points": 200,
   "answer_pangrams": [
     "botched"
   ],
@@ -12,7 +12,6 @@
     "bobbed",
     "bode",
     "boded",
-    "boobed",
     "booed",
     "booted",
     "botched",
@@ -58,12 +57,12 @@
     "by_length": {
       "4": 13,
       "5": 8,
-      "6": 17,
+      "6": 16,
       "7": 4,
       "8": 2
     },
     "by_first_letter": {
-      "B": 8,
+      "B": 7,
       "C": 6,
       "D": 11,
       "E": 3,
@@ -74,7 +73,7 @@
       "B": {
         "4": 1,
         "5": 2,
-        "6": 4,
+        "6": 3,
         "7": 1
       },
       "C": {
@@ -106,7 +105,7 @@
     },
     "two_letter_list": {
       "BE": 1,
-      "BO": 7,
+      "BO": 6,
       "CE": 2,
       "CO": 4,
       "DE": 7,

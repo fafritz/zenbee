@@ -1,9 +1,9 @@
 {
   "pangram": "wrongly",
   "center_letter": "l",
-  "num_answers": 17,
+  "num_answers": 18,
   "num_pangrams": 1,
-  "possible_points": 59,
+  "possible_points": 65,
   "answer_pangrams": [
     "wrongly"
   ],
@@ -11,11 +11,12 @@
     "glory",
     "glow",
     "growl",
+    "growly",
     "logo",
     "loll",
     "long",
     "loon",
-    "lorry",
+    "loony",
     "lowly",
     "nylon",
     "only",
@@ -31,11 +32,11 @@
     "by_length": {
       "4": 9,
       "5": 6,
-      "6": 1,
+      "6": 2,
       "7": 1
     },
     "by_first_letter": {
-      "G": 3,
+      "G": 4,
       "L": 6,
       "N": 1,
       "O": 1,
@@ -46,7 +47,8 @@
     "grid": {
       "G": {
         "4": 1,
-        "5": 2
+        "5": 2,
+        "6": 1
       },
       "L": {
         "4": 4,
@@ -73,7 +75,7 @@
     },
     "two_letter_list": {
       "GL": 2,
-      "GR": 1,
+      "GR": 2,
       "LO": 6,
       "NY": 1,
       "ON": 1,

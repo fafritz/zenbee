@@ -1,13 +1,14 @@
 {
   "pangram": "antique",
   "center_letter": "t",
-  "num_answers": 45,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 221,
+  "possible_points": 242,
   "answer_pangrams": [
     "antique"
   ],
   "answers": [
+    "annuitant",
     "ante",
     "antenna",
     "antennae",
@@ -27,8 +28,10 @@
     "intent",
     "intuit",
     "neat",
+    "neaten",
     "netiquette",
     "nineteen",
+    "nutate",
     "quaint",
     "quanta",
     "quiet",
@@ -59,17 +62,17 @@
     "by_length": {
       "4": 14,
       "5": 9,
-      "6": 10,
+      "6": 12,
       "7": 5,
       "8": 4,
-      "9": 2,
+      "9": 3,
       "10": 1
     },
     "by_first_letter": {
-      "A": 10,
+      "A": 11,
       "E": 4,
       "I": 4,
-      "N": 3,
+      "N": 5,
       "Q": 6,
       "T": 14,
       "U": 4
@@ -80,7 +83,7 @@
         "6": 2,
         "7": 2,
         "8": 2,
-        "9": 1
+        "9": 2
       },
       "E": {
         "5": 1,
@@ -94,6 +97,7 @@
       },
       "N": {
         "4": 1,
+        "6": 2,
         "8": 1,
         "10": 1
       },
@@ -115,7 +119,7 @@
       }
     },
     "two_letter_list": {
-      "AN": 5,
+      "AN": 6,
       "AQ": 1,
       "AT": 3,
       "AU": 1,
@@ -124,8 +128,9 @@
       "EQ": 1,
       "ET": 1,
       "IN": 4,
-      "NE": 2,
+      "NE": 3,
       "NI": 1,
+      "NU": 1,
       "QU": 6,
       "TA": 4,
       "TE": 4,

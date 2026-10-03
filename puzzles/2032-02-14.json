@@ -1,9 +1,9 @@
 {
   "pangram": "exclaim",
   "center_letter": "i",
-  "num_answers": 32,
+  "num_answers": 34,
   "num_pangrams": 1,
-  "possible_points": 144,
+  "possible_points": 154,
   "answer_pangrams": [
     "exclaim"
   ],
@@ -21,6 +21,7 @@
     "exclaim",
     "exile",
     "icicle",
+    "iliac",
     "imam",
     "lexical",
     "lice",
@@ -28,6 +29,7 @@
     "lime",
     "mail",
     "maim",
+    "malic",
     "malice",
     "maxilla",
     "maxillae",
@@ -45,7 +47,7 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 9,
+      "5": 11,
       "6": 5,
       "7": 5,
       "8": 2
@@ -54,9 +56,9 @@
       "A": 4,
       "C": 5,
       "E": 3,
-      "I": 2,
+      "I": 3,
       "L": 4,
-      "M": 14
+      "M": 15
     },
     "grid": {
       "A": {
@@ -76,6 +78,7 @@
       },
       "I": {
         "4": 1,
+        "5": 1,
         "6": 1
       },
       "L": {
@@ -85,7 +88,7 @@
       },
       "M": {
         "4": 7,
-        "5": 2,
+        "5": 3,
         "6": 2,
         "7": 2,
         "8": 1
@@ -100,10 +103,11 @@
       "EM": 1,
       "EX": 2,
       "IC": 1,
+      "IL": 1,
       "IM": 1,
       "LE": 1,
       "LI": 3,
-      "MA": 8,
+      "MA": 9,
       "MI": 6
     }
   }

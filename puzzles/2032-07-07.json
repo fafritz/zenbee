@@ -1,9 +1,9 @@
 {
   "pangram": "unlatch",
   "center_letter": "t",
-  "num_answers": 33,
+  "num_answers": 34,
   "num_pangrams": 1,
-  "possible_points": 128,
+  "possible_points": 135,
   "answer_pangrams": [
     "unlatch"
   ],
@@ -25,6 +25,7 @@
     "haunt",
     "hunt",
     "hutch",
+    "lantana",
     "latch",
     "lath",
     "natal",
@@ -48,14 +49,14 @@
       "4": 15,
       "5": 9,
       "6": 4,
-      "7": 3,
+      "7": 4,
       "8": 2
     },
     "by_first_letter": {
       "A": 3,
       "C": 9,
       "H": 5,
-      "L": 2,
+      "L": 3,
       "N": 2,
       "T": 10,
       "U": 2
@@ -78,7 +79,8 @@
       },
       "L": {
         "4": 1,
-        "5": 1
+        "5": 1,
+        "7": 1
       },
       "N": {
         "5": 1,
@@ -104,7 +106,7 @@
       "CU": 1,
       "HA": 3,
       "HU": 2,
-      "LA": 2,
+      "LA": 3,
       "NA": 1,
       "NU": 1,
       "TA": 5,

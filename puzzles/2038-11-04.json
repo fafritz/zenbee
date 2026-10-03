@@ -1,9 +1,9 @@
 {
   "pangram": "glamour",
   "center_letter": "a",
-  "num_answers": 42,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 149,
+  "possible_points": 150,
   "answer_pangrams": [
     "glamour"
   ],
@@ -22,6 +22,7 @@
     "augur",
     "aura",
     "aural",
+    "gaga",
     "gala",
     "gall",
     "gamma",
@@ -54,7 +55,7 @@
   "date": "2038-11-04",
   "hints": {
     "by_length": {
-      "4": 20,
+      "4": 21,
       "5": 16,
       "6": 2,
       "7": 3,
@@ -62,7 +63,7 @@
     },
     "by_first_letter": {
       "A": 14,
-      "G": 7,
+      "G": 8,
       "L": 5,
       "M": 11,
       "O": 1,
@@ -76,7 +77,7 @@
         "7": 1
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "5": 1,
         "7": 2
       },
@@ -104,7 +105,7 @@
       "AM": 4,
       "AR": 2,
       "AU": 3,
-      "GA": 3,
+      "GA": 4,
       "GL": 1,
       "GO": 1,
       "GR": 2,

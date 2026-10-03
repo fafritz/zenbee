@@ -1,9 +1,9 @@
 {
   "pangram": "hurting",
   "center_letter": "n",
-  "num_answers": 64,
+  "num_answers": 63,
   "num_pangrams": 1,
-  "possible_points": 372,
+  "possible_points": 371,
   "answer_pangrams": [
     "hurting"
   ],
@@ -19,7 +19,6 @@
     "gunning",
     "gunrunning",
     "gutting",
-    "hing",
     "hinging",
     "hint",
     "hinting",
@@ -76,7 +75,7 @@
   "date": "2026-12-07",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 13,
       "5": 5,
       "6": 8,
       "7": 25,
@@ -86,7 +85,7 @@
     },
     "by_first_letter": {
       "G": 11,
-      "H": 11,
+      "H": 10,
       "I": 6,
       "N": 5,
       "R": 11,
@@ -102,7 +101,7 @@
         "10": 1
       },
       "H": {
-        "4": 4,
+        "4": 3,
         "6": 1,
         "7": 6
       },
@@ -144,7 +143,7 @@
       "GI": 3,
       "GR": 5,
       "GU": 3,
-      "HI": 6,
+      "HI": 5,
       "HU": 5,
       "IG": 1,
       "IN": 5,

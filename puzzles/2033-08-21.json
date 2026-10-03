@@ -3,7 +3,7 @@
   "center_letter": "a",
   "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 191,
+  "possible_points": 195,
   "answer_pangrams": [
     "pyramid"
   ],
@@ -26,7 +26,6 @@
     "dryad",
     "imam",
     "impair",
-    "ipad",
     "madam",
     "maid",
     "maim",
@@ -42,6 +41,7 @@
     "paddy",
     "paid",
     "pair",
+    "pampa",
     "papa",
     "papaya",
     "papyri",
@@ -62,17 +62,17 @@
   "date": "2033-08-21",
   "hints": {
     "by_length": {
-      "4": 21,
-      "5": 15,
+      "4": 20,
+      "5": 16,
       "6": 10,
       "7": 4
     },
     "by_first_letter": {
       "A": 8,
       "D": 8,
-      "I": 3,
+      "I": 2,
       "M": 12,
-      "P": 12,
+      "P": 13,
       "R": 5,
       "Y": 2
     },
@@ -87,7 +87,7 @@
         "5": 5
       },
       "I": {
-        "4": 2,
+        "4": 1,
         "6": 1
       },
       "M": {
@@ -98,7 +98,7 @@
       },
       "P": {
         "4": 5,
-        "5": 2,
+        "5": 3,
         "6": 3,
         "7": 2
       },
@@ -120,11 +120,10 @@
       "DI": 1,
       "DR": 4,
       "IM": 2,
-      "IP": 1,
       "MA": 9,
       "MI": 2,
       "MY": 1,
-      "PA": 8,
+      "PA": 9,
       "PR": 3,
       "PY": 1,
       "RA": 5,

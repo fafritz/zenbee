@@ -1,14 +1,15 @@
 {
   "pangram": "exploit",
   "center_letter": "o",
-  "num_answers": 37,
+  "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 125,
+  "possible_points": 130,
   "answer_pangrams": [
     "exploit"
   ],
   "answers": [
     "elope",
+    "elote",
     "exploit",
     "expo",
     "extol",
@@ -50,13 +51,13 @@
   "hints": {
     "by_length": {
       "4": 21,
-      "5": 5,
+      "5": 6,
       "6": 7,
       "7": 2,
       "8": 2
     },
     "by_first_letter": {
-      "E": 4,
+      "E": 5,
       "L": 6,
       "O": 2,
       "P": 15,
@@ -65,7 +66,7 @@
     "grid": {
       "E": {
         "4": 1,
-        "5": 2,
+        "5": 3,
         "7": 1
       },
       "L": {
@@ -89,7 +90,7 @@
       }
     },
     "two_letter_list": {
-      "EL": 1,
+      "EL": 2,
       "EX": 3,
       "LO": 6,
       "OL": 2,

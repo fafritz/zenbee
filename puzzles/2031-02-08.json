@@ -1,9 +1,9 @@
 {
   "pangram": "nodular",
   "center_letter": "o",
-  "num_answers": 41,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 138,
+  "possible_points": 133,
   "answer_pangrams": [
     "nodular"
   ],
@@ -23,7 +23,6 @@
     "dour",
     "droll",
     "drool",
-    "dunno",
     "landlord",
     "llano",
     "load",
@@ -54,7 +53,7 @@
   "hints": {
     "by_length": {
       "4": 22,
-      "5": 11,
+      "5": 10,
       "6": 5,
       "7": 1,
       "8": 1,
@@ -62,7 +61,7 @@
     },
     "by_first_letter": {
       "A": 5,
-      "D": 11,
+      "D": 10,
       "L": 8,
       "N": 4,
       "O": 2,
@@ -77,7 +76,7 @@
       },
       "D": {
         "4": 5,
-        "5": 4,
+        "5": 3,
         "6": 2
       },
       "L": {
@@ -111,7 +110,6 @@
       "DA": 1,
       "DO": 7,
       "DR": 2,
-      "DU": 1,
       "LA": 1,
       "LL": 1,
       "LO": 6,

@@ -1,9 +1,9 @@
 {
   "pangram": "purling",
   "center_letter": "l",
-  "num_answers": 41,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 208,
+  "possible_points": 226,
   "answer_pangrams": [
     "purling"
   ],
@@ -19,8 +19,11 @@
     "gulp",
     "gulping",
     "gurgling",
+    "inulin",
+    "lignin",
     "lining",
     "lugging",
+    "luging",
     "lull",
     "lulling",
     "lulu",
@@ -55,14 +58,15 @@
     "by_length": {
       "4": 14,
       "5": 2,
-      "6": 8,
+      "6": 11,
       "7": 9,
       "8": 7,
       "10": 1
     },
     "by_first_letter": {
       "G": 11,
-      "L": 8,
+      "I": 1,
+      "L": 10,
       "N": 2,
       "P": 14,
       "R": 4,
@@ -76,9 +80,12 @@
         "7": 2,
         "8": 3
       },
+      "I": {
+        "6": 1
+      },
       "L": {
         "4": 3,
-        "6": 2,
+        "6": 4,
         "7": 3
       },
       "N": {
@@ -107,8 +114,9 @@
       "GL": 1,
       "GR": 2,
       "GU": 5,
-      "LI": 1,
-      "LU": 7,
+      "IN": 1,
+      "LI": 2,
+      "LU": 8,
       "NI": 1,
       "NU": 1,
       "PI": 3,

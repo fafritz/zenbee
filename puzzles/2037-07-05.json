@@ -1,9 +1,9 @@
 {
   "pangram": "debauch",
   "center_letter": "u",
-  "num_answers": 19,
+  "num_answers": 21,
   "num_pangrams": 2,
-  "possible_points": 101,
+  "possible_points": 112,
   "answer_pangrams": [
     "debauch",
     "debauched"
@@ -24,17 +24,19 @@
     "deduce",
     "deduced",
     "deuce",
+    "deuced",
     "dubbed",
     "dude",
     "duded",
+    "educe",
     "hubbub"
   ],
   "date": "2037-07-05",
   "hints": {
     "by_length": {
       "4": 6,
-      "5": 3,
-      "6": 6,
+      "5": 4,
+      "6": 7,
       "7": 3,
       "9": 1
     },
@@ -42,7 +44,8 @@
       "A": 2,
       "B": 3,
       "C": 3,
-      "D": 10,
+      "D": 11,
+      "E": 1,
       "H": 1
     },
     "grid": {
@@ -61,9 +64,12 @@
       "D": {
         "4": 2,
         "5": 2,
-        "6": 3,
+        "6": 4,
         "7": 2,
         "9": 1
+      },
+      "E": {
+        "5": 1
       },
       "H": {
         "6": 1
@@ -76,8 +82,9 @@
       "BU": 1,
       "CU": 3,
       "DA": 2,
-      "DE": 5,
+      "DE": 6,
       "DU": 3,
+      "ED": 1,
       "HU": 1
     }
   }

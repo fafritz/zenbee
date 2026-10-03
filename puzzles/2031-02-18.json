@@ -1,13 +1,14 @@
 {
   "pangram": "yelping",
   "center_letter": "n",
-  "num_answers": 55,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 311,
+  "possible_points": 316,
   "answer_pangrams": [
     "yelping"
   ],
   "answers": [
+    "eeling",
     "egging",
     "engine",
     "eyeing",
@@ -25,6 +26,7 @@
     "inning",
     "legging",
     "lien",
+    "lignin",
     "line",
     "linen",
     "lining",
@@ -37,11 +39,10 @@
     "ninny",
     "nipping",
     "nippy",
-    "peeing",
     "peeling",
     "peen",
     "peeping",
-    "penile",
+    "penne",
     "penning",
     "penny",
     "pepping",
@@ -68,23 +69,23 @@
   "hints": {
     "by_length": {
       "4": 9,
-      "5": 7,
+      "5": 8,
       "6": 17,
       "7": 18,
       "8": 4
     },
     "by_first_letter": {
-      "E": 3,
+      "E": 4,
       "G": 10,
       "I": 2,
-      "L": 6,
+      "L": 7,
       "N": 8,
-      "P": 23,
+      "P": 22,
       "Y": 3
     },
     "grid": {
       "E": {
-        "6": 3
+        "6": 4
       },
       "G": {
         "4": 2,
@@ -99,7 +100,7 @@
       "L": {
         "4": 2,
         "5": 2,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "N": {
@@ -111,8 +112,8 @@
       },
       "P": {
         "4": 3,
-        "5": 1,
-        "6": 9,
+        "5": 2,
+        "6": 7,
         "7": 9,
         "8": 1
       },
@@ -121,6 +122,7 @@
       }
     },
     "two_letter_list": {
+      "EE": 1,
       "EG": 1,
       "EN": 1,
       "EY": 1,
@@ -130,11 +132,11 @@
       "GY": 1,
       "IN": 2,
       "LE": 1,
-      "LI": 4,
+      "LI": 5,
       "LY": 1,
       "NE": 2,
       "NI": 6,
-      "PE": 8,
+      "PE": 7,
       "PI": 14,
       "PL": 1,
       "YE": 2,

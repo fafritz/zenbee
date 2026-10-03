@@ -1,9 +1,9 @@
 {
   "pangram": "augment",
   "center_letter": "e",
-  "num_answers": 68,
+  "num_answers": 70,
   "num_pangrams": 1,
-  "possible_points": 305,
+  "possible_points": 317,
   "answer_pangrams": [
     "augment"
   ],
@@ -57,9 +57,11 @@
     "mute",
     "name",
     "neat",
+    "neaten",
     "negate",
     "nene",
     "nugget",
+    "nutate",
     "nutmeat",
     "nutmeg",
     "tame",
@@ -82,7 +84,7 @@
     "by_length": {
       "4": 26,
       "5": 9,
-      "6": 15,
+      "6": 17,
       "7": 12,
       "8": 3,
       "9": 1,
@@ -93,7 +95,7 @@
       "E": 6,
       "G": 8,
       "M": 23,
-      "N": 7,
+      "N": 9,
       "T": 12,
       "U": 2
     },
@@ -126,7 +128,7 @@
       },
       "N": {
         "4": 3,
-        "6": 3,
+        "6": 5,
         "7": 1
       },
       "T": {
@@ -156,8 +158,8 @@
       "ME": 9,
       "MU": 2,
       "NA": 1,
-      "NE": 3,
-      "NU": 3,
+      "NE": 4,
+      "NU": 4,
       "TA": 2,
       "TE": 9,
       "TU": 1,

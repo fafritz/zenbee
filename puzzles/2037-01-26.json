@@ -1,9 +1,9 @@
 {
   "pangram": "grandly",
   "center_letter": "y",
-  "num_answers": 24,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 115,
+  "possible_points": 116,
   "answer_pangrams": [
     "grandly"
   ],
@@ -30,13 +30,14 @@
     "nanny",
     "rally",
     "rangy",
+    "yang",
     "yard",
     "yarn"
   ],
   "date": "2037-01-26",
   "hints": {
     "by_length": {
-      "4": 6,
+      "4": 7,
       "5": 11,
       "6": 3,
       "7": 3,
@@ -49,7 +50,7 @@
       "L": 3,
       "N": 1,
       "R": 2,
-      "Y": 2
+      "Y": 3
     },
     "grid": {
       "A": {
@@ -77,7 +78,7 @@
         "5": 2
       },
       "Y": {
-        "4": 2
+        "4": 3
       }
     },
     "two_letter_list": {
@@ -92,7 +93,7 @@
       "LA": 3,
       "NA": 1,
       "RA": 2,
-      "YA": 2
+      "YA": 3
     }
   }
 }

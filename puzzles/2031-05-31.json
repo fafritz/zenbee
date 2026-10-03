@@ -1,9 +1,9 @@
 {
   "pangram": "bulking",
   "center_letter": "u",
-  "num_answers": 29,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 142,
+  "possible_points": 154,
   "answer_pangrams": [
     "bulking"
   ],
@@ -28,8 +28,10 @@
     "gulling",
     "gunk",
     "gunning",
+    "inulin",
     "lubing",
     "lugging",
+    "luging",
     "lull",
     "lulling",
     "lulu",
@@ -42,14 +44,15 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "6": 4,
+      "6": 6,
       "7": 12,
       "8": 2
     },
     "by_first_letter": {
       "B": 15,
       "G": 5,
-      "L": 7,
+      "I": 1,
+      "L": 8,
       "N": 2
     },
     "grid": {
@@ -64,9 +67,12 @@
         "6": 1,
         "7": 2
       },
+      "I": {
+        "6": 1
+      },
       "L": {
         "4": 3,
-        "6": 1,
+        "6": 2,
         "7": 3
       },
       "N": {
@@ -79,7 +85,8 @@
       "BU": 14,
       "GL": 1,
       "GU": 4,
-      "LU": 7,
+      "IN": 1,
+      "LU": 8,
       "NU": 2
     }
   }

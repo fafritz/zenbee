@@ -1,9 +1,9 @@
 {
   "pangram": "angrily",
   "center_letter": "r",
-  "num_answers": 54,
+  "num_answers": 58,
   "num_pangrams": 3,
-  "possible_points": 292,
+  "possible_points": 322,
   "answer_pangrams": [
     "angrily",
     "glaringly",
@@ -28,6 +28,8 @@
     "girl",
     "glaring",
     "glaringly",
+    "gnarl",
+    "gnarling",
     "gnarly",
     "grail",
     "grain",
@@ -40,6 +42,8 @@
     "grilling",
     "grin",
     "grinning",
+    "ingrain",
+    "ingraining",
     "lair",
     "liar",
     "lira",
@@ -69,16 +73,17 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 8,
+      "5": 9,
       "6": 9,
-      "7": 11,
-      "8": 7,
+      "7": 12,
+      "8": 8,
       "9": 2,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 13,
-      "G": 17,
+      "G": 19,
+      "I": 2,
       "L": 3,
       "R": 20,
       "Y": 1
@@ -95,11 +100,15 @@
       },
       "G": {
         "4": 3,
-        "5": 3,
+        "5": 4,
         "6": 3,
         "7": 3,
-        "8": 4,
+        "8": 5,
         "9": 1
+      },
+      "I": {
+        "7": 1,
+        "10": 1
       },
       "L": {
         "4": 3
@@ -123,8 +132,9 @@
       "GA": 2,
       "GI": 1,
       "GL": 2,
-      "GN": 1,
+      "GN": 3,
       "GR": 11,
+      "IN": 2,
       "LA": 1,
       "LI": 2,
       "RA": 15,

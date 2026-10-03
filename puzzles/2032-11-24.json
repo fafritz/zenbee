@@ -1,9 +1,9 @@
 {
   "pangram": "tucking",
   "center_letter": "t",
-  "num_answers": 25,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 143,
+  "possible_points": 144,
   "answer_pangrams": [
     "tucking"
   ],
@@ -21,6 +21,7 @@
     "nutting",
     "tick",
     "ticking",
+    "tiki",
     "tinning",
     "tint",
     "tinting",
@@ -37,7 +38,7 @@
   "date": "2032-11-24",
   "hints": {
     "by_length": {
-      "4": 6,
+      "4": 7,
       "5": 2,
       "6": 4,
       "7": 9,
@@ -50,7 +51,7 @@
       "I": 4,
       "K": 3,
       "N": 1,
-      "T": 11,
+      "T": 12,
       "U": 3
     },
     "grid": {
@@ -75,7 +76,7 @@
         "7": 1
       },
       "T": {
-        "4": 4,
+        "4": 5,
         "5": 1,
         "6": 1,
         "7": 5
@@ -95,7 +96,7 @@
       "KI": 1,
       "KN": 2,
       "NU": 1,
-      "TI": 5,
+      "TI": 6,
       "TU": 6,
       "UN": 3
     }

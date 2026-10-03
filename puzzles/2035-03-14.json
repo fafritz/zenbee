@@ -1,9 +1,9 @@
 {
   "pangram": "hoaxing",
   "center_letter": "i",
-  "num_answers": 27,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 155,
+  "possible_points": 154,
   "answer_pangrams": [
     "hoaxing"
   ],
@@ -23,7 +23,6 @@
     "gonging",
     "hanging",
     "high",
-    "hing",
     "hinging",
     "hoaxing",
     "hogging",
@@ -39,7 +38,7 @@
   "date": "2035-03-14",
   "hints": {
     "by_length": {
-      "4": 4,
+      "4": 3,
       "5": 6,
       "6": 5,
       "7": 12
@@ -47,7 +46,7 @@
     "by_first_letter": {
       "A": 5,
       "G": 8,
-      "H": 7,
+      "H": 6,
       "I": 1,
       "N": 4,
       "O": 2
@@ -63,7 +62,7 @@
         "7": 6
       },
       "H": {
-        "4": 2,
+        "4": 1,
         "6": 1,
         "7": 4
       },
@@ -88,7 +87,7 @@
       "GI": 2,
       "GO": 2,
       "HA": 1,
-      "HI": 3,
+      "HI": 2,
       "HO": 3,
       "IN": 1,
       "NA": 1,

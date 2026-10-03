@@ -1,9 +1,9 @@
 {
   "pangram": "naughty",
   "center_letter": "n",
-  "num_answers": 22,
+  "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 79,
+  "possible_points": 80,
   "answer_pangrams": [
     "naughty"
   ],
@@ -29,12 +29,13 @@
     "taunt",
     "than",
     "tuna",
-    "untaught"
+    "untaught",
+    "yang"
   ],
   "date": "2033-11-10",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 8,
       "6": 1,
       "7": 1,
@@ -46,7 +47,8 @@
       "H": 4,
       "N": 7,
       "T": 5,
-      "U": 1
+      "U": 1,
+      "Y": 1
     },
     "grid": {
       "A": {
@@ -72,6 +74,9 @@
       },
       "U": {
         "8": 1
+      },
+      "Y": {
+        "4": 1
       }
     },
     "two_letter_list": {
@@ -86,7 +91,8 @@
       "TA": 3,
       "TH": 1,
       "TU": 1,
-      "UN": 1
+      "UN": 1,
+      "YA": 1
     }
   }
 }

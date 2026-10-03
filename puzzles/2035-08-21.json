@@ -1,9 +1,9 @@
 {
   "pangram": "unmoral",
   "center_letter": "l",
-  "num_answers": 40,
+  "num_answers": 39,
   "num_pangrams": 2,
-  "possible_points": 153,
+  "possible_points": 152,
   "answer_pangrams": [
     "monaural",
     "unmoral"
@@ -13,7 +13,6 @@
     "alum",
     "alumna",
     "amoral",
-    "anal",
     "annual",
     "annul",
     "annular",
@@ -53,14 +52,14 @@
   "date": "2035-08-21",
   "hints": {
     "by_length": {
-      "4": 19,
+      "4": 18,
       "5": 10,
       "6": 8,
       "7": 2,
       "8": 1
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 8,
       "L": 12,
       "M": 10,
       "N": 2,
@@ -70,7 +69,7 @@
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 3,
         "6": 3,
         "7": 1
@@ -106,7 +105,7 @@
     "two_letter_list": {
       "AL": 3,
       "AM": 1,
-      "AN": 4,
+      "AN": 3,
       "AU": 1,
       "LA": 1,
       "LL": 2,

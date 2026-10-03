@@ -1,9 +1,9 @@
 {
   "pangram": "potable",
   "center_letter": "a",
-  "num_answers": 79,
+  "num_answers": 81,
   "num_pangrams": 1,
-  "possible_points": 335,
+  "possible_points": 342,
   "answer_pangrams": [
     "potable"
   ],
@@ -13,6 +13,7 @@
     "abbot",
     "abet",
     "able",
+    "allele",
     "allot",
     "aloe",
     "alto",
@@ -39,6 +40,7 @@
     "bleat",
     "bloat",
     "boat",
+    "boba",
     "bola",
     "eatable",
     "elate",
@@ -91,17 +93,17 @@
   "date": "2032-02-12",
   "hints": {
     "by_length": {
-      "4": 30,
+      "4": 31,
       "5": 20,
-      "6": 16,
+      "6": 17,
       "7": 6,
       "8": 4,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "A": 14,
-      "B": 18,
+      "A": 15,
+      "B": 19,
       "E": 2,
       "L": 7,
       "O": 2,
@@ -112,11 +114,11 @@
       "A": {
         "4": 6,
         "5": 5,
-        "6": 2,
+        "6": 3,
         "9": 1
       },
       "B": {
-        "4": 10,
+        "4": 11,
         "5": 3,
         "6": 5
       },
@@ -151,13 +153,13 @@
     },
     "two_letter_list": {
       "AB": 5,
-      "AL": 3,
+      "AL": 4,
       "AP": 4,
       "AT": 2,
       "BA": 10,
       "BE": 2,
       "BL": 4,
-      "BO": 2,
+      "BO": 3,
       "EA": 1,
       "EL": 1,
       "LA": 5,

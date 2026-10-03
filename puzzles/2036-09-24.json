@@ -1,9 +1,9 @@
 {
   "pangram": "ductile",
   "center_letter": "c",
-  "num_answers": 49,
+  "num_answers": 53,
   "num_pangrams": 1,
-  "possible_points": 254,
+  "possible_points": 277,
   "answer_pangrams": [
     "ductile"
   ],
@@ -11,6 +11,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "cellulite",
     "cite",
     "cited",
@@ -28,6 +29,7 @@
     "deceit",
     "decide",
     "decided",
+    "decile",
     "deduce",
     "deduced",
     "deduct",
@@ -37,6 +39,7 @@
     "detect",
     "detected",
     "deuce",
+    "deuced",
     "dice",
     "diced",
     "dietetic",
@@ -45,6 +48,7 @@
     "dulcet",
     "eclectic",
     "edict",
+    "educe",
     "elect",
     "elected",
     "elicit",
@@ -62,16 +66,16 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 10,
-      "6": 12,
+      "5": 11,
+      "6": 15,
       "7": 8,
       "8": 6,
       "9": 1
     },
     "by_first_letter": {
-      "C": 17,
-      "D": 18,
-      "E": 7,
+      "C": 18,
+      "D": 20,
+      "E": 8,
       "I": 3,
       "L": 4
     },
@@ -79,19 +83,19 @@
       "C": {
         "4": 8,
         "5": 3,
-        "6": 3,
+        "6": 4,
         "7": 2,
         "9": 1
       },
       "D": {
         "4": 2,
         "5": 3,
-        "6": 7,
+        "6": 9,
         "7": 3,
         "8": 3
       },
       "E": {
-        "5": 2,
+        "5": 3,
         "6": 1,
         "7": 1,
         "8": 3
@@ -108,15 +112,15 @@
       }
     },
     "two_letter_list": {
-      "CE": 4,
+      "CE": 5,
       "CI": 2,
       "CL": 2,
       "CU": 9,
-      "DE": 12,
+      "DE": 14,
       "DI": 3,
       "DU": 3,
       "EC": 1,
-      "ED": 1,
+      "ED": 2,
       "EL": 4,
       "EU": 1,
       "IC": 2,

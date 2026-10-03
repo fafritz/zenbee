@@ -3,7 +3,7 @@
   "center_letter": "a",
   "num_answers": 51,
   "num_pangrams": 1,
-  "possible_points": 189,
+  "possible_points": 194,
   "answer_pangrams": [
     "baloney"
   ],
@@ -14,12 +14,12 @@
     "able",
     "ably",
     "allay",
+    "allele",
     "alley",
     "alloy",
     "ally",
     "aloe",
     "alone",
-    "anal",
     "anneal",
     "annoy",
     "anon",
@@ -43,8 +43,8 @@
     "bean",
     "belay",
     "blab",
+    "boba",
     "bola",
-    "ebay",
     "elan",
     "enable",
     "eyeball",
@@ -63,33 +63,33 @@
   "date": "2034-07-13",
   "hints": {
     "by_length": {
-      "4": 23,
+      "4": 22,
       "5": 14,
-      "6": 9,
+      "6": 10,
       "7": 5
     },
     "by_first_letter": {
       "A": 16,
-      "B": 20,
-      "E": 4,
+      "B": 21,
+      "E": 3,
       "L": 7,
       "N": 4
     },
     "grid": {
       "A": {
-        "4": 7,
+        "4": 6,
         "5": 6,
-        "6": 2,
+        "6": 3,
         "7": 1
       },
       "B": {
-        "4": 9,
+        "4": 10,
         "5": 3,
         "6": 6,
         "7": 2
       },
       "E": {
-        "4": 2,
+        "4": 1,
         "6": 1,
         "7": 1
       },
@@ -105,13 +105,12 @@
     },
     "two_letter_list": {
       "AB": 5,
-      "AL": 6,
-      "AN": 5,
+      "AL": 7,
+      "AN": 4,
       "BA": 16,
       "BE": 2,
       "BL": 1,
-      "BO": 1,
-      "EB": 1,
+      "BO": 2,
       "EL": 1,
       "EN": 1,
       "EY": 1,

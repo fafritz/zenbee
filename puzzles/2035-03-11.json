@@ -1,9 +1,9 @@
 {
   "pangram": "forming",
   "center_letter": "o",
-  "num_answers": 53,
+  "num_answers": 57,
   "num_pangrams": 2,
-  "possible_points": 268,
+  "possible_points": 281,
   "answer_pangrams": [
     "forming",
     "informing"
@@ -25,6 +25,7 @@
     "goofing",
     "goon",
     "gorging",
+    "gorgon",
     "goring",
     "grog",
     "groin",
@@ -51,13 +52,16 @@
     "morning",
     "moron",
     "noggin",
+    "noir",
     "noon",
+    "nori",
     "norm",
     "offing",
     "ongoing",
     "onion",
     "origin",
     "rigor",
+    "ronin",
     "roof",
     "roofing",
     "room",
@@ -66,21 +70,21 @@
   "date": "2035-03-11",
   "hints": {
     "by_length": {
-      "4": 17,
-      "5": 8,
-      "6": 8,
+      "4": 19,
+      "5": 9,
+      "6": 9,
       "7": 13,
       "8": 5,
       "9": 2
     },
     "by_first_letter": {
       "F": 9,
-      "G": 12,
+      "G": 13,
       "I": 6,
       "M": 14,
-      "N": 3,
+      "N": 5,
       "O": 4,
-      "R": 5
+      "R": 6
     },
     "grid": {
       "F": {
@@ -92,7 +96,7 @@
       "G": {
         "4": 4,
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 3,
         "8": 1
       },
@@ -112,7 +116,7 @@
         "9": 1
       },
       "N": {
-        "4": 2,
+        "4": 4,
         "6": 1
       },
       "O": {
@@ -122,26 +126,26 @@
       },
       "R": {
         "4": 2,
-        "5": 1,
+        "5": 2,
         "7": 2
       }
     },
     "two_letter_list": {
       "FO": 6,
       "FR": 3,
-      "GO": 8,
+      "GO": 9,
       "GR": 4,
       "IG": 1,
       "IN": 3,
       "IR": 2,
       "MI": 5,
       "MO": 9,
-      "NO": 3,
+      "NO": 5,
       "OF": 1,
       "ON": 2,
       "OR": 1,
       "RI": 1,
-      "RO": 4
+      "RO": 5
     }
   }
 }

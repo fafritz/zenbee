@@ -1,9 +1,9 @@
 {
   "pangram": "wafting",
   "center_letter": "n",
-  "num_answers": 75,
+  "num_answers": 76,
   "num_pangrams": 1,
-  "possible_points": 436,
+  "possible_points": 437,
   "answer_pangrams": [
     "wafting"
   ],
@@ -47,6 +47,7 @@
     "inning",
     "naan",
     "nagging",
+    "naif",
     "nana",
     "nitwit",
     "tagging",
@@ -87,7 +88,7 @@
   "date": "2038-05-13",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 15,
       "5": 9,
       "6": 13,
       "7": 26,
@@ -100,7 +101,7 @@
       "F": 9,
       "G": 14,
       "I": 4,
-      "N": 4,
+      "N": 5,
       "T": 21,
       "W": 13
     },
@@ -131,7 +132,7 @@
         "10": 1
       },
       "N": {
-        "4": 2,
+        "4": 3,
         "6": 1,
         "7": 1
       },
@@ -161,7 +162,7 @@
       "GN": 3,
       "IG": 1,
       "IN": 3,
-      "NA": 3,
+      "NA": 4,
       "NI": 1,
       "TA": 7,
       "TI": 5,

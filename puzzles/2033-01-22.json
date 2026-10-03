@@ -1,9 +1,9 @@
 {
   "pangram": "pouched",
   "center_letter": "c",
-  "num_answers": 36,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 168,
+  "possible_points": 173,
   "answer_pangrams": [
     "pouched"
   ],
@@ -34,10 +34,11 @@
     "deduce",
     "deduced",
     "deuce",
-    "douche",
+    "deuced",
     "douched",
     "echo",
     "echoed",
+    "educe",
     "epoch",
     "hooch",
     "ouch",
@@ -49,14 +50,14 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 12,
+      "5": 13,
       "6": 7,
       "7": 7
     },
     "by_first_letter": {
       "C": 21,
       "D": 7,
-      "E": 3,
+      "E": 4,
       "H": 1,
       "O": 1,
       "P": 3
@@ -75,7 +76,7 @@
       },
       "E": {
         "4": 1,
-        "5": 1,
+        "5": 2,
         "6": 1
       },
       "H": {
@@ -94,9 +95,10 @@
       "CH": 4,
       "CO": 13,
       "CU": 2,
-      "DE": 5,
-      "DO": 2,
+      "DE": 6,
+      "DO": 1,
       "EC": 2,
+      "ED": 1,
       "EP": 1,
       "HO": 1,
       "OU": 1,

@@ -1,32 +1,34 @@
 {
   "pangram": "combing",
   "center_letter": "n",
-  "num_answers": 59,
+  "num_answers": 62,
   "num_pangrams": 2,
-  "possible_points": 340,
+  "possible_points": 356,
   "answer_pangrams": [
     "combing",
     "combining"
   ],
   "answers": [
+    "binging",
     "bingo",
     "binning",
     "bionic",
     "bobbin",
     "bobbing",
     "bogging",
+    "boing",
     "bombing",
     "bonbon",
     "bong",
     "bonging",
     "bongo",
     "boning",
-    "boobing",
     "booing",
     "booming",
     "boon",
     "cocoon",
     "cocooning",
+    "cogging",
     "coin",
     "coining",
     "combing",
@@ -40,16 +42,17 @@
     "gibing",
     "gigging",
     "ginning",
-    "gobbing",
     "going",
     "gong",
     "gonging",
     "goon",
     "icing",
     "icon",
+    "iconic",
     "imbibing",
     "incoming",
     "inning",
+    "ionic",
     "miming",
     "mincing",
     "mini",
@@ -73,17 +76,17 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 8,
-      "6": 18,
+      "5": 10,
+      "6": 19,
       "7": 18,
       "8": 3,
       "9": 2
     },
     "by_first_letter": {
-      "B": 16,
-      "C": 11,
-      "G": 9,
-      "I": 5,
+      "B": 17,
+      "C": 12,
+      "G": 8,
+      "I": 7,
       "M": 11,
       "N": 4,
       "O": 3
@@ -91,7 +94,7 @@
     "grid": {
       "B": {
         "4": 2,
-        "5": 2,
+        "5": 3,
         "6": 5,
         "7": 7
       },
@@ -99,19 +102,19 @@
         "4": 1,
         "5": 1,
         "6": 4,
-        "7": 3,
+        "7": 4,
         "9": 2
       },
       "G": {
         "4": 2,
         "5": 1,
         "6": 2,
-        "7": 4
+        "7": 3
       },
       "I": {
         "4": 1,
-        "5": 1,
-        "6": 1,
+        "5": 2,
+        "6": 2,
         "8": 2
       },
       "M": {
@@ -132,14 +135,15 @@
       }
     },
     "two_letter_list": {
-      "BI": 3,
+      "BI": 4,
       "BO": 13,
-      "CO": 11,
+      "CO": 12,
       "GI": 4,
-      "GO": 5,
-      "IC": 2,
+      "GO": 4,
+      "IC": 3,
       "IM": 1,
       "IN": 2,
+      "IO": 1,
       "MI": 6,
       "MO": 5,
       "NI": 1,

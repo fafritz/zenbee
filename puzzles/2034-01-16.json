@@ -1,9 +1,9 @@
 {
   "pangram": "beatify",
   "center_letter": "b",
-  "num_answers": 24,
+  "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 74,
+  "possible_points": 73,
   "answer_pangrams": [
     "beatify"
   ],
@@ -28,7 +28,6 @@
     "biff",
     "bite",
     "byte",
-    "ebay",
     "tabby",
     "tibia",
     "tibiae"
@@ -36,7 +35,7 @@
   "date": "2034-01-16",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 13,
       "5": 8,
       "6": 1,
       "7": 1
@@ -44,7 +43,6 @@
     "by_first_letter": {
       "A": 5,
       "B": 15,
-      "E": 1,
       "T": 3
     },
     "grid": {
@@ -57,9 +55,6 @@
         "5": 3,
         "7": 1
       },
-      "E": {
-        "4": 1
-      },
       "T": {
         "5": 2,
         "6": 1
@@ -71,7 +66,6 @@
       "BE": 7,
       "BI": 2,
       "BY": 1,
-      "EB": 1,
       "TA": 1,
       "TI": 2
     }

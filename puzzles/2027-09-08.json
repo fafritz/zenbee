@@ -1,9 +1,9 @@
 {
   "pangram": "cajoled",
   "center_letter": "d",
-  "num_answers": 54,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 223,
+  "possible_points": 242,
   "answer_pangrams": [
     "cajoled"
   ],
@@ -19,6 +19,7 @@
     "called",
     "cede",
     "ceded",
+    "celled",
     "clad",
     "clod",
     "coaled",
@@ -35,6 +36,7 @@
     "dale",
     "dead",
     "deal",
+    "decadal",
     "decade",
     "decal",
     "decode",
@@ -50,6 +52,7 @@
     "doodad",
     "doodle",
     "doodled",
+    "eeled",
     "jade",
     "jaded",
     "jelled",
@@ -58,6 +61,7 @@
     "ladled",
     "lead",
     "leaded",
+    "lede",
     "load",
     "loaded",
     "lode",
@@ -66,18 +70,19 @@
   "date": "2027-09-08",
   "hints": {
     "by_length": {
-      "4": 21,
-      "5": 10,
-      "6": 17,
-      "7": 5,
+      "4": 22,
+      "5": 11,
+      "6": 18,
+      "7": 6,
       "8": 1
     },
     "by_first_letter": {
       "A": 7,
-      "C": 16,
-      "D": 19,
+      "C": 17,
+      "D": 20,
+      "E": 1,
       "J": 3,
-      "L": 9
+      "L": 10
     },
     "grid": {
       "A": {
@@ -90,14 +95,17 @@
       "C": {
         "4": 7,
         "5": 3,
-        "6": 4,
+        "6": 5,
         "7": 2
       },
       "D": {
         "4": 9,
         "5": 2,
         "6": 6,
-        "7": 2
+        "7": 3
+      },
+      "E": {
+        "5": 1
       },
       "J": {
         "4": 1,
@@ -105,7 +113,7 @@
         "6": 1
       },
       "L": {
-        "4": 3,
+        "4": 4,
         "5": 2,
         "6": 4
       }
@@ -114,16 +122,17 @@
       "AC": 4,
       "AD": 3,
       "CA": 2,
-      "CE": 2,
+      "CE": 3,
       "CL": 2,
       "CO": 10,
       "DA": 2,
-      "DE": 9,
+      "DE": 10,
       "DO": 8,
+      "EE": 1,
       "JA": 2,
       "JE": 1,
       "LA": 3,
-      "LE": 2,
+      "LE": 3,
       "LO": 4
     }
   }

@@ -1,9 +1,9 @@
 {
   "pangram": "tombing",
   "center_letter": "t",
-  "num_answers": 38,
+  "num_answers": 40,
   "num_pangrams": 2,
-  "possible_points": 201,
+  "possible_points": 209,
   "answer_pangrams": [
     "bottoming",
     "tombing"
@@ -41,6 +41,8 @@
     "tinting",
     "tomb",
     "tombing",
+    "tong",
+    "tonging",
     "toning",
     "toon",
     "toot",
@@ -51,10 +53,10 @@
   "date": "2036-04-08",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 13,
       "5": 3,
       "6": 9,
-      "7": 8,
+      "7": 9,
       "8": 4,
       "9": 2
     },
@@ -64,7 +66,7 @@
       "M": 8,
       "N": 2,
       "O": 4,
-      "T": 12
+      "T": 14
     },
     "grid": {
       "B": {
@@ -94,9 +96,9 @@
         "8": 1
       },
       "T": {
-        "4": 4,
+        "4": 5,
         "6": 3,
-        "7": 5
+        "7": 6
       }
     },
     "two_letter_list": {
@@ -111,7 +113,7 @@
       "OM": 2,
       "ON": 1,
       "TI": 4,
-      "TO": 8
+      "TO": 10
     }
   }
 }

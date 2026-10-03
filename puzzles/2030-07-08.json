@@ -1,9 +1,9 @@
 {
   "pangram": "airlock",
   "center_letter": "i",
-  "num_answers": 31,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 108,
+  "possible_points": 113,
   "answer_pangrams": [
     "airlock"
   ],
@@ -23,6 +23,7 @@
     "coil",
     "colic",
     "crick",
+    "iliac",
     "kick",
     "kill",
     "kilo",
@@ -44,13 +45,14 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 8,
+      "5": 9,
       "6": 4,
       "7": 3
     },
     "by_first_letter": {
       "A": 5,
       "C": 10,
+      "I": 1,
       "K": 3,
       "L": 6,
       "O": 1,
@@ -67,6 +69,9 @@
         "5": 7,
         "6": 1,
         "7": 1
+      },
+      "I": {
+        "5": 1
       },
       "K": {
         "4": 3
@@ -94,6 +99,7 @@
       "CL": 1,
       "CO": 3,
       "CR": 1,
+      "IL": 1,
       "KI": 3,
       "LA": 1,
       "LI": 4,

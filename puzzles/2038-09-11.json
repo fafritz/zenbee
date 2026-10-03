@@ -1,15 +1,14 @@
 {
   "pangram": "journal",
   "center_letter": "a",
-  "num_answers": 20,
+  "num_answers": 19,
   "num_pangrams": 1,
-  "possible_points": 64,
+  "possible_points": 63,
   "answer_pangrams": [
     "journal"
   ],
   "answers": [
     "ajar",
-    "anal",
     "annual",
     "annul",
     "annular",
@@ -32,13 +31,13 @@
   "date": "2038-09-11",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 11,
       "5": 5,
       "6": 1,
       "7": 2
     },
     "by_first_letter": {
-      "A": 8,
+      "A": 7,
       "J": 1,
       "L": 4,
       "N": 2,
@@ -48,7 +47,7 @@
     },
     "grid": {
       "A": {
-        "4": 4,
+        "4": 3,
         "5": 2,
         "6": 1,
         "7": 1
@@ -76,7 +75,7 @@
     },
     "two_letter_list": {
       "AJ": 1,
-      "AN": 5,
+      "AN": 4,
       "AU": 2,
       "JO": 1,
       "LL": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "payment",
   "center_letter": "p",
-  "num_answers": 30,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 105,
+  "possible_points": 115,
   "answer_pangrams": [
     "payment"
   ],
@@ -15,6 +15,7 @@
     "nappy",
     "neap",
     "paean",
+    "pampa",
     "pane",
     "pant",
     "papa",
@@ -28,6 +29,7 @@
     "peen",
     "peep",
     "pennant",
+    "penne",
     "penny",
     "pent",
     "peppy",
@@ -43,7 +45,7 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 10,
+      "5": 12,
       "6": 2,
       "7": 3
     },
@@ -51,7 +53,7 @@
       "A": 1,
       "E": 2,
       "N": 3,
-      "P": 18,
+      "P": 20,
       "T": 6
     },
     "grid": {
@@ -68,7 +70,7 @@
       },
       "P": {
         "4": 8,
-        "5": 6,
+        "5": 8,
         "6": 2,
         "7": 2
       },
@@ -83,8 +85,8 @@
       "EP": 1,
       "NA": 2,
       "NE": 1,
-      "PA": 10,
-      "PE": 8,
+      "PA": 11,
+      "PE": 9,
       "TA": 2,
       "TE": 3,
       "TY": 1

@@ -1,9 +1,9 @@
 {
   "pangram": "forking",
   "center_letter": "n",
-  "num_answers": 53,
+  "num_answers": 57,
   "num_pangrams": 1,
-  "possible_points": 293,
+  "possible_points": 306,
   "answer_pangrams": [
     "forking"
   ],
@@ -27,6 +27,7 @@
     "goofing",
     "goon",
     "gorging",
+    "gorgon",
     "goring",
     "griffin",
     "grin",
@@ -46,8 +47,10 @@
     "kinking",
     "knifing",
     "noggin",
+    "noir",
     "nook",
     "noon",
+    "nori",
     "offing",
     "oink",
     "oinking",
@@ -59,27 +62,28 @@
     "ring",
     "ringing",
     "rink",
+    "ronin",
     "roofing",
     "rooking"
   ],
   "date": "2032-12-21",
   "hints": {
     "by_length": {
-      "4": 13,
-      "5": 3,
-      "6": 10,
+      "4": 15,
+      "5": 4,
+      "6": 11,
       "7": 20,
       "8": 6,
       "10": 1
     },
     "by_first_letter": {
       "F": 10,
-      "G": 15,
+      "G": 16,
       "I": 8,
       "K": 4,
-      "N": 3,
+      "N": 5,
       "O": 6,
-      "R": 7
+      "R": 8
     },
     "grid": {
       "F": {
@@ -91,7 +95,7 @@
       "G": {
         "4": 3,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 6,
         "8": 2
       },
@@ -107,7 +111,7 @@
         "7": 2
       },
       "N": {
-        "4": 2,
+        "4": 4,
         "6": 1
       },
       "O": {
@@ -118,6 +122,7 @@
       },
       "R": {
         "4": 2,
+        "5": 1,
         "7": 5
       }
     },
@@ -126,20 +131,20 @@
       "FO": 4,
       "FR": 2,
       "GI": 3,
-      "GO": 7,
+      "GO": 8,
       "GR": 5,
       "IG": 1,
       "IN": 4,
       "IR": 3,
       "KI": 3,
       "KN": 1,
-      "NO": 3,
+      "NO": 5,
       "OF": 1,
       "OI": 2,
       "ON": 2,
       "OR": 1,
       "RI": 5,
-      "RO": 2
+      "RO": 3
     }
   }
 }

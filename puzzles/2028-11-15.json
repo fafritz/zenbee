@@ -1,9 +1,9 @@
 {
   "pangram": "blaring",
   "center_letter": "r",
-  "num_answers": 66,
+  "num_answers": 71,
   "num_pangrams": 2,
-  "possible_points": 359,
+  "possible_points": 396,
   "answer_pangrams": [
     "blaring",
     "garbling"
@@ -38,6 +38,7 @@
     "brig",
     "bring",
     "bringing",
+    "brining",
     "garaging",
     "garb",
     "garbing",
@@ -45,6 +46,8 @@
     "gargling",
     "girl",
     "glaring",
+    "gnarl",
+    "gnarling",
     "grab",
     "grabbing",
     "grail",
@@ -53,6 +56,8 @@
     "grilling",
     "grin",
     "grinning",
+    "ingrain",
+    "ingraining",
     "lair",
     "liar",
     "librarian",
@@ -80,17 +85,18 @@
   "hints": {
     "by_length": {
       "4": 20,
-      "5": 7,
+      "5": 8,
       "6": 7,
-      "7": 16,
-      "8": 10,
+      "7": 18,
+      "8": 11,
       "9": 4,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 8,
-      "B": 21,
-      "G": 15,
+      "B": 22,
+      "G": 17,
+      "I": 2,
       "L": 4,
       "R": 18
     },
@@ -107,16 +113,20 @@
         "4": 5,
         "5": 3,
         "6": 1,
-        "7": 6,
+        "7": 7,
         "8": 3,
         "9": 2,
         "10": 1
       },
       "G": {
         "4": 4,
-        "5": 3,
+        "5": 4,
         "7": 2,
-        "8": 6
+        "8": 7
+      },
+      "I": {
+        "7": 1,
+        "10": 1
       },
       "L": {
         "4": 3,
@@ -135,11 +145,13 @@
       "AR": 4,
       "BA": 10,
       "BL": 1,
-      "BR": 10,
+      "BR": 11,
       "GA": 5,
       "GI": 1,
       "GL": 1,
+      "GN": 2,
       "GR": 8,
+      "IN": 2,
       "LA": 1,
       "LI": 3,
       "RA": 12,

@@ -1,13 +1,14 @@
 {
   "pangram": "champed",
   "center_letter": "c",
-  "num_answers": 43,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 194,
+  "possible_points": 201,
   "answer_pangrams": [
     "champed"
   ],
   "answers": [
+    "academe",
     "accede",
     "acceded",
     "aced",
@@ -58,11 +59,11 @@
       "4": 13,
       "5": 15,
       "6": 8,
-      "7": 5,
+      "7": 6,
       "8": 2
     },
     "by_first_letter": {
-      "A": 7,
+      "A": 8,
       "C": 19,
       "D": 4,
       "E": 3,
@@ -75,7 +76,7 @@
         "4": 3,
         "5": 2,
         "6": 1,
-        "7": 1
+        "7": 2
       },
       "C": {
         "4": 7,
@@ -108,7 +109,7 @@
       }
     },
     "two_letter_list": {
-      "AC": 6,
+      "AC": 7,
       "AP": 1,
       "CA": 8,
       "CE": 2,

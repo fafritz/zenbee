@@ -1,9 +1,9 @@
 {
   "pangram": "guilted",
   "center_letter": "t",
-  "num_answers": 44,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 185,
+  "possible_points": 180,
   "answer_pangrams": [
     "guilted"
   ],
@@ -27,7 +27,6 @@
     "guilted",
     "gullet",
     "gutted",
-    "legit",
     "lilt",
     "lilted",
     "lite",
@@ -57,7 +56,7 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 10,
+      "5": 9,
       "6": 14,
       "7": 4
     },
@@ -65,7 +64,7 @@
       "D": 8,
       "E": 4,
       "G": 7,
-      "L": 6,
+      "L": 5,
       "T": 19
     },
     "grid": {
@@ -88,7 +87,6 @@
       },
       "L": {
         "4": 3,
-        "5": 1,
         "6": 2
       },
       "T": {
@@ -107,7 +105,6 @@
       "GI": 1,
       "GL": 2,
       "GU": 4,
-      "LE": 1,
       "LI": 4,
       "LU": 1,
       "TE": 2,

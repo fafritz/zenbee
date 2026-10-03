@@ -1,9 +1,9 @@
 {
   "pangram": "carding",
   "center_letter": "r",
-  "num_answers": 71,
+  "num_answers": 73,
   "num_pangrams": 2,
-  "possible_points": 378,
+  "possible_points": 395,
   "answer_pangrams": [
     "cardigan",
     "carding"
@@ -54,6 +54,8 @@
     "grind",
     "grinding",
     "grinning",
+    "ingrain",
+    "ingraining",
     "nadir",
     "narc",
     "racing",
@@ -87,16 +89,17 @@
       "4": 18,
       "5": 14,
       "6": 12,
-      "7": 16,
+      "7": 17,
       "8": 8,
       "9": 2,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 10,
       "C": 14,
       "D": 8,
       "G": 13,
+      "I": 2,
       "N": 2,
       "R": 24
     },
@@ -131,6 +134,10 @@
         "7": 3,
         "8": 3
       },
+      "I": {
+        "7": 1,
+        "10": 1
+      },
       "N": {
         "4": 1,
         "5": 1
@@ -156,6 +163,7 @@
       "GA": 1,
       "GI": 2,
       "GR": 10,
+      "IN": 2,
       "NA": 2,
       "RA": 15,
       "RI": 9

@@ -1,9 +1,9 @@
 {
   "pangram": "rainbow",
   "center_letter": "o",
-  "num_answers": 36,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 151,
+  "possible_points": 154,
   "answer_pangrams": [
     "rainbow"
   ],
@@ -18,28 +18,32 @@
     "barrio",
     "barrow",
     "boar",
+    "boba",
     "bobbin",
     "bonbon",
     "boob",
-    "booboo",
     "boon",
     "boor",
     "born",
     "boron",
     "borrow",
+    "brio",
     "brow",
     "brown",
     "inborn",
     "iron",
     "nabob",
     "narrow",
+    "noir",
     "noon",
+    "nori",
     "onion",
     "rainbow",
     "ribbon",
     "roan",
     "roar",
     "robin",
+    "ronin",
     "warrior",
     "winnow",
     "wino",
@@ -48,18 +52,18 @@
   "date": "2029-07-17",
   "hints": {
     "by_length": {
-      "4": 13,
-      "5": 9,
-      "6": 12,
+      "4": 17,
+      "5": 10,
+      "6": 11,
       "7": 2
     },
     "by_first_letter": {
       "A": 4,
-      "B": 17,
+      "B": 18,
       "I": 2,
-      "N": 3,
+      "N": 5,
       "O": 1,
-      "R": 5,
+      "R": 6,
       "W": 4
     },
     "grid": {
@@ -68,16 +72,16 @@
         "5": 3
       },
       "B": {
-        "4": 6,
+        "4": 8,
         "5": 3,
-        "6": 8
+        "6": 7
       },
       "I": {
         "4": 1,
         "6": 1
       },
       "N": {
-        "4": 1,
+        "4": 3,
         "5": 1,
         "6": 1
       },
@@ -86,7 +90,7 @@
       },
       "R": {
         "4": 2,
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 1
       },
@@ -101,15 +105,15 @@
       "AR": 2,
       "BA": 5,
       "BO": 10,
-      "BR": 2,
+      "BR": 3,
       "IN": 1,
       "IR": 1,
       "NA": 2,
-      "NO": 1,
+      "NO": 3,
       "ON": 1,
       "RA": 1,
       "RI": 1,
-      "RO": 3,
+      "RO": 4,
       "WA": 1,
       "WI": 2,
       "WO": 1

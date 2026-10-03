@@ -1,9 +1,9 @@
 {
   "pangram": "twinkle",
   "center_letter": "k",
-  "num_answers": 28,
+  "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 88,
+  "possible_points": 89,
   "answer_pangrams": [
     "twinkle"
   ],
@@ -30,6 +30,7 @@
     "like",
     "liken",
     "link",
+    "tiki",
     "tinkle",
     "twinkle",
     "week",
@@ -40,7 +41,7 @@
   "date": "2028-03-12",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 4,
       "6": 5,
       "7": 2
@@ -49,7 +50,7 @@
       "I": 1,
       "K": 17,
       "L": 4,
-      "T": 2,
+      "T": 3,
       "W": 4
     },
     "grid": {
@@ -66,6 +67,7 @@
         "5": 1
       },
       "T": {
+        "4": 1,
         "6": 1,
         "7": 1
       },
@@ -81,7 +83,7 @@
       "KN": 6,
       "LE": 1,
       "LI": 3,
-      "TI": 1,
+      "TI": 2,
       "TW": 1,
       "WE": 2,
       "WI": 2

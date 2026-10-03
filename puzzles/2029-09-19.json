@@ -1,9 +1,9 @@
 {
   "pangram": "bounced",
   "center_letter": "n",
-  "num_answers": 58,
+  "num_answers": 57,
   "num_pangrams": 1,
-  "possible_points": 286,
+  "possible_points": 282,
   "answer_pangrams": [
     "bounced"
   ],
@@ -27,10 +27,11 @@
     "condo",
     "condone",
     "condoned",
-    "conduce",
     "conduced",
     "cone",
     "conned",
+    "debone",
+    "deboned",
     "denounce",
     "denounced",
     "denude",
@@ -40,11 +41,9 @@
     "dunce",
     "dune",
     "dunned",
-    "dunno",
     "encode",
     "encoded",
     "ended",
-    "endue",
     "endued",
     "need",
     "needed",
@@ -71,17 +70,17 @@
   "hints": {
     "by_length": {
       "4": 17,
-      "5": 10,
-      "6": 15,
+      "5": 8,
+      "6": 16,
       "7": 8,
       "8": 6,
       "9": 2
     },
     "by_first_letter": {
       "B": 12,
-      "C": 11,
-      "D": 10,
-      "E": 5,
+      "C": 10,
+      "D": 11,
+      "E": 4,
       "N": 11,
       "O": 2,
       "U": 7
@@ -97,19 +96,19 @@
         "4": 1,
         "5": 1,
         "6": 2,
-        "7": 3,
+        "7": 2,
         "8": 4
       },
       "D": {
         "4": 2,
-        "5": 2,
-        "6": 3,
-        "7": 1,
+        "5": 1,
+        "6": 4,
+        "7": 2,
         "8": 1,
         "9": 1
       },
       "E": {
-        "5": 2,
+        "5": 1,
         "6": 2,
         "7": 1
       },
@@ -134,11 +133,11 @@
     "two_letter_list": {
       "BE": 2,
       "BO": 10,
-      "CO": 11,
-      "DE": 4,
+      "CO": 10,
+      "DE": 6,
       "DO": 2,
-      "DU": 4,
-      "EN": 5,
+      "DU": 3,
+      "EN": 4,
       "NE": 5,
       "NO": 6,
       "ON": 1,

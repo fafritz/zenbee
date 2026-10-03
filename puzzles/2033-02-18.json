@@ -1,9 +1,9 @@
 {
   "pangram": "botched",
   "center_letter": "b",
-  "num_answers": 22,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 94,
+  "possible_points": 87,
   "answer_pangrams": [
     "botched"
   ],
@@ -12,11 +12,10 @@
     "beech",
     "beet",
     "bobbed",
+    "bocce",
     "bode",
     "boded",
     "boob",
-    "boobed",
-    "booboo",
     "booed",
     "boot",
     "booted",
@@ -35,12 +34,12 @@
   "hints": {
     "by_length": {
       "4": 8,
-      "5": 6,
-      "6": 7,
+      "5": 7,
+      "6": 5,
       "7": 1
     },
     "by_first_letter": {
-      "B": 17,
+      "B": 16,
       "D": 1,
       "E": 1,
       "H": 2,
@@ -49,8 +48,8 @@
     "grid": {
       "B": {
         "4": 5,
-        "5": 5,
-        "6": 6,
+        "5": 6,
+        "6": 4,
         "7": 1
       },
       "D": {
@@ -69,7 +68,7 @@
     },
     "two_letter_list": {
       "BE": 3,
-      "BO": 14,
+      "BO": 13,
       "DE": 1,
       "EB": 1,
       "HO": 2,

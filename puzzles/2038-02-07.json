@@ -1,9 +1,9 @@
 {
   "pangram": "lunched",
   "center_letter": "e",
-  "num_answers": 59,
+  "num_answers": 63,
   "num_pangrams": 1,
-  "possible_points": 284,
+  "possible_points": 302,
   "answer_pangrams": [
     "lunched"
   ],
@@ -11,6 +11,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "clench",
     "clenched",
     "clue",
@@ -29,6 +30,7 @@
     "denude",
     "denuded",
     "deuce",
+    "deuced",
     "dude",
     "duded",
     "duel",
@@ -37,10 +39,11 @@
     "dunce",
     "dune",
     "dunned",
+    "educe",
+    "eeled",
     "elude",
     "eluded",
     "ended",
-    "endue",
     "endued",
     "heed",
     "heeded",
@@ -53,6 +56,7 @@
     "huddled",
     "hulled",
     "hunched",
+    "lede",
     "leech",
     "leeched",
     "lend",
@@ -71,18 +75,18 @@
   "date": "2038-02-07",
   "hints": {
     "by_length": {
-      "4": 16,
-      "5": 12,
-      "6": 19,
+      "4": 17,
+      "5": 13,
+      "6": 21,
       "7": 9,
       "8": 3
     },
     "by_first_letter": {
-      "C": 11,
-      "D": 18,
-      "E": 5,
+      "C": 12,
+      "D": 19,
+      "E": 6,
       "H": 11,
-      "L": 5,
+      "L": 6,
       "N": 5,
       "U": 4
     },
@@ -90,18 +94,18 @@
       "C": {
         "4": 4,
         "5": 2,
-        "6": 3,
+        "6": 4,
         "7": 1,
         "8": 1
       },
       "D": {
         "4": 5,
         "5": 3,
-        "6": 7,
+        "6": 8,
         "7": 3
       },
       "E": {
-        "5": 3,
+        "5": 4,
         "6": 2
       },
       "H": {
@@ -111,7 +115,7 @@
         "7": 2
       },
       "L": {
-        "4": 1,
+        "4": 2,
         "5": 1,
         "6": 1,
         "7": 2
@@ -127,16 +131,18 @@
       }
     },
     "two_letter_list": {
-      "CE": 3,
+      "CE": 4,
       "CL": 4,
       "CU": 4,
-      "DE": 10,
+      "DE": 11,
       "DU": 8,
+      "ED": 1,
+      "EE": 1,
       "EL": 2,
-      "EN": 3,
+      "EN": 2,
       "HE": 7,
       "HU": 4,
-      "LE": 3,
+      "LE": 4,
       "LU": 2,
       "NE": 5,
       "UN": 4

@@ -1,9 +1,9 @@
 {
   "pangram": "tinkled",
   "center_letter": "k",
-  "num_answers": 44,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 189,
+  "possible_points": 190,
   "answer_pangrams": [
     "tinkled"
   ],
@@ -50,13 +50,14 @@
     "likened",
     "link",
     "linked",
+    "tiki",
     "tinkle",
     "tinkled"
   ],
   "date": "2035-03-08",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 17,
       "5": 9,
       "6": 13,
       "7": 5,
@@ -68,7 +69,7 @@
       "I": 1,
       "K": 30,
       "L": 7,
-      "T": 2
+      "T": 3
     },
     "grid": {
       "D": {
@@ -95,6 +96,7 @@
         "7": 1
       },
       "T": {
+        "4": 1,
         "6": 1,
         "7": 1
       }
@@ -108,7 +110,7 @@
       "KN": 8,
       "LE": 1,
       "LI": 6,
-      "TI": 2
+      "TI": 3
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "pangram": "flatbed",
   "center_letter": "f",
-  "num_answers": 54,
+  "num_answers": 57,
   "num_pangrams": 1,
-  "possible_points": 236,
+  "possible_points": 255,
   "answer_pangrams": [
     "flatbed"
   ],
@@ -23,11 +23,13 @@
     "deflate",
     "deflated",
     "deft",
+    "effable",
     "effete",
     "fable",
     "fabled",
     "fade",
     "faded",
+    "falafel",
     "fall",
     "fatal",
     "fate",
@@ -38,6 +40,7 @@
     "feel",
     "feet",
     "fell",
+    "fella",
     "felled",
     "felt",
     "felted",
@@ -67,9 +70,9 @@
   "hints": {
     "by_length": {
       "4": 21,
-      "5": 8,
+      "5": 9,
       "6": 12,
-      "7": 9,
+      "7": 11,
       "8": 3,
       "9": 1
     },
@@ -77,8 +80,8 @@
       "A": 3,
       "B": 6,
       "D": 6,
-      "E": 1,
-      "F": 32,
+      "E": 2,
+      "F": 34,
       "L": 5,
       "T": 1
     },
@@ -99,13 +102,14 @@
         "8": 2
       },
       "E": {
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "F": {
         "4": 16,
-        "5": 7,
+        "5": 8,
         "6": 5,
-        "7": 3,
+        "7": 4,
         "8": 1
       },
       "L": {
@@ -125,9 +129,9 @@
       "BA": 2,
       "BE": 4,
       "DE": 6,
-      "EF": 1,
-      "FA": 8,
-      "FE": 14,
+      "EF": 2,
+      "FA": 9,
+      "FE": 15,
       "FL": 10,
       "LE": 5,
       "TA": 1

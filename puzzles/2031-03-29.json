@@ -1,9 +1,9 @@
 {
   "pangram": "cajoled",
   "center_letter": "e",
-  "num_answers": 54,
+  "num_answers": 59,
   "num_pangrams": 1,
-  "possible_points": 236,
+  "possible_points": 261,
   "answer_pangrams": [
     "cajoled"
   ],
@@ -15,6 +15,7 @@
     "added",
     "addle",
     "addled",
+    "allele",
     "aloe",
     "cajole",
     "cajoled",
@@ -22,6 +23,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "cello",
     "coaled",
     "coddle",
@@ -34,6 +36,7 @@
     "dale",
     "dead",
     "deal",
+    "decadal",
     "decade",
     "decal",
     "decode",
@@ -46,6 +49,7 @@
     "dolled",
     "doodle",
     "doodled",
+    "eeled",
     "jade",
     "jaded",
     "jell",
@@ -57,6 +61,7 @@
     "ladled",
     "lead",
     "leaded",
+    "lede",
     "loaded",
     "locale",
     "lode",
@@ -66,39 +71,43 @@
   "date": "2031-03-29",
   "hints": {
     "by_length": {
-      "4": 18,
-      "5": 12,
-      "6": 18,
-      "7": 5,
+      "4": 19,
+      "5": 13,
+      "6": 20,
+      "7": 6,
       "8": 1
     },
     "by_first_letter": {
-      "A": 8,
-      "C": 15,
-      "D": 15,
+      "A": 9,
+      "C": 16,
+      "D": 16,
+      "E": 1,
       "J": 5,
-      "L": 10,
+      "L": 11,
       "O": 1
     },
     "grid": {
       "A": {
         "4": 2,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 1,
         "8": 1
       },
       "C": {
         "4": 4,
         "5": 4,
-        "6": 5,
+        "6": 6,
         "7": 2
       },
       "D": {
         "4": 6,
         "5": 2,
         "6": 5,
-        "7": 2
+        "7": 3
+      },
+      "E": {
+        "5": 1
       },
       "J": {
         "4": 2,
@@ -106,7 +115,7 @@
         "6": 1
       },
       "L": {
-        "4": 3,
+        "4": 4,
         "5": 2,
         "6": 5
       },
@@ -117,17 +126,18 @@
     "two_letter_list": {
       "AC": 4,
       "AD": 3,
-      "AL": 1,
+      "AL": 2,
       "CA": 3,
-      "CE": 4,
+      "CE": 5,
       "CO": 8,
       "DA": 1,
-      "DE": 9,
+      "DE": 10,
       "DO": 5,
+      "EE": 1,
       "JA": 2,
       "JE": 3,
       "LA": 4,
-      "LE": 2,
+      "LE": 3,
       "LO": 4,
       "OL": 1
     }

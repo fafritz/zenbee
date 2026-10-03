@@ -1,7 +1,7 @@
 {
   "pangram": "varmint",
   "center_letter": "a",
-  "num_answers": 51,
+  "num_answers": 52,
   "num_pangrams": 1,
   "possible_points": 248,
   "answer_pangrams": [
@@ -41,10 +41,11 @@
     "nirvana",
     "rain",
     "rant",
-    "ratatat",
     "rattan",
     "taint",
     "tannin",
+    "tantra",
+    "tarn",
     "tart",
     "tartan",
     "tartar",
@@ -63,10 +64,10 @@
   "date": "2035-12-12",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 15,
       "5": 12,
-      "6": 13,
-      "7": 8,
+      "6": 14,
+      "7": 7,
       "8": 3,
       "9": 1
     },
@@ -75,8 +76,8 @@
       "I": 3,
       "M": 16,
       "N": 3,
-      "R": 4,
-      "T": 12,
+      "R": 3,
+      "T": 14,
       "V": 4
     },
     "grid": {
@@ -103,13 +104,12 @@
       },
       "R": {
         "4": 2,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
-        "4": 2,
+        "4": 3,
         "5": 5,
-        "6": 4,
+        "6": 5,
         "8": 1
       },
       "V": {
@@ -130,8 +130,8 @@
       "MI": 2,
       "NA": 2,
       "NI": 1,
-      "RA": 4,
-      "TA": 5,
+      "RA": 3,
+      "TA": 7,
       "TI": 2,
       "TR": 5,
       "VA": 3,

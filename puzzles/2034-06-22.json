@@ -1,9 +1,9 @@
 {
   "pangram": "jointed",
   "center_letter": "d",
-  "num_answers": 68,
+  "num_answers": 69,
   "num_pangrams": 1,
-  "possible_points": 337,
+  "possible_points": 343,
   "answer_pangrams": [
     "jointed"
   ],
@@ -16,6 +16,7 @@
     "dent",
     "dented",
     "dentin",
+    "detent",
     "detente",
     "detention",
     "died",
@@ -82,13 +83,13 @@
     "by_length": {
       "4": 17,
       "5": 10,
-      "6": 29,
+      "6": 30,
       "7": 8,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
-      "D": 27,
+      "D": 28,
       "E": 6,
       "I": 8,
       "J": 4,
@@ -99,7 +100,7 @@
       "D": {
         "4": 9,
         "5": 4,
-        "6": 9,
+        "6": 10,
         "7": 4,
         "9": 1
       },
@@ -133,7 +134,7 @@
       }
     },
     "two_letter_list": {
-      "DE": 10,
+      "DE": 11,
       "DI": 11,
       "DO": 6,
       "ED": 4,

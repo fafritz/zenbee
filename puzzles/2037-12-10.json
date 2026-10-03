@@ -1,9 +1,9 @@
 {
   "pangram": "lazying",
   "center_letter": "i",
-  "num_answers": 46,
+  "num_answers": 49,
   "num_pangrams": 2,
-  "possible_points": 288,
+  "possible_points": 304,
   "answer_pangrams": [
     "analyzing",
     "lazying"
@@ -20,6 +20,7 @@
     "angina",
     "angling",
     "gagging",
+    "gaily",
     "gain",
     "gaining",
     "galling",
@@ -38,10 +39,12 @@
     "inning",
     "lagging",
     "lain",
+    "lanai",
     "laying",
     "lazily",
     "lazing",
     "lazying",
+    "lignin",
     "lily",
     "lining",
     "lying",
@@ -60,8 +63,8 @@
   "hints": {
     "by_length": {
       "4": 6,
-      "5": 6,
-      "6": 11,
+      "5": 8,
+      "6": 12,
       "7": 15,
       "8": 6,
       "9": 1,
@@ -69,9 +72,9 @@
     },
     "by_first_letter": {
       "A": 10,
-      "G": 14,
+      "G": 15,
       "I": 3,
-      "L": 9,
+      "L": 11,
       "N": 5,
       "Z": 5
     },
@@ -85,6 +88,7 @@
       },
       "G": {
         "4": 2,
+        "5": 1,
         "6": 2,
         "7": 8,
         "8": 2
@@ -96,8 +100,8 @@
       },
       "L": {
         "4": 2,
-        "5": 1,
-        "6": 4,
+        "5": 2,
+        "6": 5,
         "7": 2
       },
       "N": {
@@ -118,12 +122,12 @@
       "AI": 1,
       "AL": 4,
       "AN": 3,
-      "GA": 8,
+      "GA": 9,
       "GI": 5,
       "GL": 1,
       "IN": 3,
-      "LA": 6,
-      "LI": 2,
+      "LA": 7,
+      "LI": 3,
       "LY": 1,
       "NA": 3,
       "NI": 2,

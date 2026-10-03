@@ -1,9 +1,9 @@
 {
   "pangram": "tumbled",
   "center_letter": "b",
-  "num_answers": 46,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 233,
+  "possible_points": 245,
   "answer_pangrams": [
     "tumbled"
   ],
@@ -26,6 +26,7 @@
     "bubbled",
     "budded",
     "bulb",
+    "bulbed",
     "bull",
     "bulled",
     "bullet",
@@ -49,6 +50,7 @@
     "lubed",
     "mumble",
     "mumbled",
+    "tubbed",
     "tube",
     "tubed",
     "tumble",
@@ -60,25 +62,25 @@
     "by_length": {
       "4": 11,
       "5": 10,
-      "6": 15,
+      "6": 17,
       "7": 6,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
-      "B": 27,
+      "B": 28,
       "D": 6,
       "E": 4,
       "L": 2,
       "M": 2,
-      "T": 4,
+      "T": 5,
       "U": 1
     },
     "grid": {
       "B": {
         "4": 7,
         "5": 4,
-        "6": 11,
+        "6": 12,
         "7": 3,
         "8": 1,
         "9": 1
@@ -106,7 +108,7 @@
       "T": {
         "4": 1,
         "5": 1,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "U": {
@@ -116,14 +118,14 @@
     "two_letter_list": {
       "BE": 9,
       "BL": 5,
-      "BU": 13,
+      "BU": 14,
       "DE": 3,
       "DU": 3,
       "EB": 1,
       "EM": 3,
       "LU": 2,
       "MU": 2,
-      "TU": 4,
+      "TU": 5,
       "UM": 1
     }
   }

@@ -1,15 +1,16 @@
 {
   "pangram": "janitor",
   "center_letter": "a",
-  "num_answers": 52,
+  "num_answers": 54,
   "num_pangrams": 1,
-  "possible_points": 281,
+  "possible_points": 288,
   "answer_pangrams": [
     "janitor"
   ],
   "answers": [
     "ajar",
     "anion",
+    "annatto",
     "annotation",
     "anoint",
     "anon",
@@ -40,7 +41,6 @@
     "oratorio",
     "rain",
     "rant",
-    "ratatat",
     "ratio",
     "ration",
     "rattan",
@@ -49,6 +49,8 @@
     "rotation",
     "taint",
     "tannin",
+    "tantra",
+    "tarn",
     "taro",
     "tarot",
     "tart",
@@ -64,28 +66,29 @@
   "date": "2037-06-29",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 14,
       "5": 12,
-      "6": 11,
+      "6": 12,
       "7": 4,
       "8": 5,
       "9": 3,
       "10": 4
     },
     "by_first_letter": {
-      "A": 13,
+      "A": 14,
       "I": 6,
       "J": 1,
       "N": 7,
       "O": 3,
-      "R": 9,
-      "T": 13
+      "R": 8,
+      "T": 15
     },
     "grid": {
       "A": {
         "4": 4,
         "5": 4,
         "6": 3,
+        "7": 1,
         "9": 1,
         "10": 1
       },
@@ -114,19 +117,18 @@
         "4": 4,
         "5": 1,
         "6": 2,
-        "7": 1,
         "8": 1
       },
       "T": {
-        "4": 2,
+        "4": 3,
         "5": 6,
-        "6": 4,
+        "6": 5,
         "7": 1
       }
     },
     "two_letter_list": {
       "AJ": 1,
-      "AN": 5,
+      "AN": 6,
       "AO": 1,
       "AR": 2,
       "AT": 4,
@@ -138,9 +140,9 @@
       "NI": 1,
       "NO": 1,
       "OR": 3,
-      "RA": 6,
+      "RA": 5,
       "RO": 3,
-      "TA": 8,
+      "TA": 10,
       "TI": 2,
       "TR": 3
     }

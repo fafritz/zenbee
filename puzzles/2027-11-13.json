@@ -1,9 +1,9 @@
 {
   "pangram": "privacy",
   "center_letter": "r",
-  "num_answers": 22,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 92,
+  "possible_points": 91,
   "answer_pangrams": [
     "privacy"
   ],
@@ -19,7 +19,6 @@
     "caviar",
     "circa",
     "cirri",
-    "cray",
     "pair",
     "papyri",
     "parry",
@@ -34,14 +33,14 @@
   "date": "2027-11-13",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 7,
       "5": 8,
       "6": 5,
       "7": 1
     },
     "by_first_letter": {
       "A": 5,
-      "C": 7,
+      "C": 6,
       "P": 7,
       "R": 1,
       "V": 2
@@ -53,7 +52,7 @@
         "6": 2
       },
       "C": {
-        "4": 2,
+        "4": 1,
         "5": 4,
         "6": 1
       },
@@ -78,7 +77,6 @@
       "AV": 1,
       "CA": 4,
       "CI": 2,
-      "CR": 1,
       "PA": 3,
       "PI": 1,
       "PR": 3,

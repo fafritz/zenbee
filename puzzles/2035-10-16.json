@@ -1,16 +1,15 @@
 {
   "pangram": "clarion",
   "center_letter": "l",
-  "num_answers": 55,
+  "num_answers": 57,
   "num_pangrams": 3,
-  "possible_points": 236,
+  "possible_points": 254,
   "answer_pangrams": [
     "carillon",
     "clarion",
     "ironical"
   ],
   "answers": [
-    "anal",
     "calico",
     "call",
     "calla",
@@ -40,10 +39,12 @@
     "corolla",
     "corral",
     "cranial",
+    "iliac",
     "ironical",
     "laconic",
     "lain",
     "lair",
+    "lanai",
     "lanolin",
     "liar",
     "lilac",
@@ -58,6 +59,7 @@
     "loll",
     "loon",
     "nail",
+    "nonillion",
     "olio",
     "oral",
     "racial",
@@ -69,26 +71,22 @@
   "date": "2035-10-16",
   "hints": {
     "by_length": {
-      "4": 25,
-      "5": 11,
+      "4": 24,
+      "5": 13,
       "6": 6,
       "7": 7,
       "8": 4,
-      "9": 2
+      "9": 3
     },
     "by_first_letter": {
-      "A": 1,
       "C": 29,
-      "I": 1,
-      "L": 16,
-      "N": 1,
+      "I": 2,
+      "L": 17,
+      "N": 2,
       "O": 2,
       "R": 5
     },
     "grid": {
-      "A": {
-        "4": 1
-      },
       "C": {
         "4": 6,
         "5": 8,
@@ -98,15 +96,17 @@
         "9": 2
       },
       "I": {
+        "5": 1,
         "8": 1
       },
       "L": {
         "4": 11,
-        "5": 3,
+        "5": 4,
         "7": 2
       },
       "N": {
-        "4": 1
+        "4": 1,
+        "9": 1
       },
       "O": {
         "4": 2
@@ -117,18 +117,19 @@
       }
     },
     "two_letter_list": {
-      "AN": 1,
       "CA": 9,
       "CI": 1,
       "CL": 5,
       "CO": 13,
       "CR": 1,
+      "IL": 1,
       "IR": 1,
-      "LA": 4,
+      "LA": 5,
       "LI": 4,
       "LL": 1,
       "LO": 7,
       "NA": 1,
+      "NO": 1,
       "OL": 1,
       "OR": 1,
       "RA": 2,

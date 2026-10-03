@@ -1,9 +1,9 @@
 {
   "pangram": "languor",
   "center_letter": "a",
-  "num_answers": 44,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 164,
+  "possible_points": 172,
   "answer_pangrams": [
     "languor"
   ],
@@ -12,7 +12,6 @@
     "agog",
     "alga",
     "along",
-    "anal",
     "analog",
     "angora",
     "angular",
@@ -24,12 +23,14 @@
     "augur",
     "aura",
     "aural",
+    "gaga",
     "gala",
+    "galangal",
     "gall",
     "gallon",
     "gang",
+    "gnarl",
     "goal",
-    "gonna",
     "granola",
     "granular",
     "groan",
@@ -60,11 +61,11 @@
       "5": 13,
       "6": 6,
       "7": 4,
-      "8": 1
+      "8": 2
     },
     "by_first_letter": {
-      "A": 16,
-      "G": 10,
+      "A": 15,
+      "G": 12,
       "L": 7,
       "N": 2,
       "O": 2,
@@ -73,17 +74,17 @@
     },
     "grid": {
       "A": {
-        "4": 6,
+        "4": 5,
         "5": 5,
         "6": 3,
         "7": 2
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "5": 3,
         "6": 1,
         "7": 1,
-        "8": 1
+        "8": 2
       },
       "L": {
         "4": 2,
@@ -110,11 +111,12 @@
     "two_letter_list": {
       "AG": 2,
       "AL": 2,
-      "AN": 8,
+      "AN": 7,
       "AR": 1,
       "AU": 3,
-      "GA": 4,
-      "GO": 2,
+      "GA": 6,
+      "GN": 1,
+      "GO": 1,
       "GR": 3,
       "GU": 1,
       "LA": 3,

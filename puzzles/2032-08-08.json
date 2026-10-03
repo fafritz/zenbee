@@ -1,9 +1,9 @@
 {
   "pangram": "beatnik",
   "center_letter": "b",
-  "num_answers": 30,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 100,
+  "possible_points": 106,
   "answer_pangrams": [
     "beatnik"
   ],
@@ -35,6 +35,7 @@
     "bikini",
     "bite",
     "bitten",
+    "kanban",
     "kebab",
     "tibia",
     "tibiae"
@@ -44,13 +45,13 @@
     "by_length": {
       "4": 17,
       "5": 4,
-      "6": 7,
+      "6": 8,
       "7": 2
     },
     "by_first_letter": {
       "A": 3,
       "B": 24,
-      "K": 1,
+      "K": 2,
       "T": 2
     },
     "grid": {
@@ -65,7 +66,8 @@
         "7": 2
       },
       "K": {
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "T": {
         "5": 1,
@@ -77,6 +79,7 @@
       "BA": 9,
       "BE": 11,
       "BI": 4,
+      "KA": 1,
       "KE": 1,
       "TI": 2
     }

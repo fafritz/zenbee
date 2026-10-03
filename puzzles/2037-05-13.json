@@ -1,14 +1,15 @@
 {
   "pangram": "pelting",
   "center_letter": "l",
-  "num_answers": 75,
+  "num_answers": 74,
   "num_pangrams": 2,
-  "possible_points": 415,
+  "possible_points": 410,
   "answer_pangrams": [
     "pelleting",
     "pelting"
   ],
   "answers": [
+    "eeling",
     "elite",
     "entitle",
     "entitling",
@@ -30,13 +31,13 @@
     "intel",
     "intelligent",
     "legging",
-    "legit",
     "lenient",
     "lent",
     "lentil",
     "letting",
     "liege",
     "lien",
+    "lignin",
     "lignite",
     "lilt",
     "lilting",
@@ -61,7 +62,6 @@
     "pelleting",
     "pelt",
     "pelting",
-    "penile",
     "piglet",
     "pile",
     "piling",
@@ -70,7 +70,6 @@
     "pipeline",
     "tell",
     "telling",
-    "telnet",
     "tile",
     "tiling",
     "till",
@@ -89,7 +88,7 @@
   "hints": {
     "by_length": {
       "4": 18,
-      "5": 8,
+      "5": 7,
       "6": 19,
       "7": 17,
       "8": 9,
@@ -97,17 +96,18 @@
       "11": 1
     },
     "by_first_letter": {
-      "E": 3,
+      "E": 4,
       "G": 13,
       "I": 4,
       "L": 20,
       "N": 6,
-      "P": 13,
-      "T": 16
+      "P": 12,
+      "T": 15
     },
     "grid": {
       "E": {
         "5": 1,
+        "6": 1,
         "7": 1,
         "9": 1
       },
@@ -125,8 +125,8 @@
       },
       "L": {
         "4": 6,
-        "5": 3,
-        "6": 5,
+        "5": 2,
+        "6": 6,
         "7": 6
       },
       "N": {
@@ -136,7 +136,7 @@
       },
       "P": {
         "4": 4,
-        "6": 4,
+        "6": 3,
         "7": 3,
         "8": 1,
         "9": 1
@@ -144,25 +144,26 @@
       "T": {
         "4": 4,
         "5": 1,
-        "6": 5,
+        "6": 4,
         "7": 4,
         "8": 2
       }
     },
     "two_letter_list": {
+      "EE": 1,
       "EL": 1,
       "EN": 2,
       "GE": 5,
       "GI": 4,
       "GL": 4,
       "IN": 4,
-      "LE": 6,
-      "LI": 14,
+      "LE": 5,
+      "LI": 15,
       "NE": 4,
       "NI": 2,
-      "PE": 7,
+      "PE": 6,
       "PI": 6,
-      "TE": 3,
+      "TE": 2,
       "TI": 13
     }
   }

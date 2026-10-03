@@ -1,9 +1,9 @@
 {
   "pangram": "conduit",
   "center_letter": "u",
-  "num_answers": 28,
+  "num_answers": 27,
   "num_pangrams": 3,
-  "possible_points": 168,
+  "possible_points": 163,
   "answer_pangrams": [
     "conduction",
     "conduit",
@@ -18,7 +18,6 @@
     "cutout",
     "donut",
     "duct",
-    "dunno",
     "induct",
     "induction",
     "intuit",
@@ -43,7 +42,7 @@
   "hints": {
     "by_length": {
       "4": 6,
-      "5": 8,
+      "5": 7,
       "6": 5,
       "7": 5,
       "8": 1,
@@ -52,7 +51,7 @@
     },
     "by_first_letter": {
       "C": 6,
-      "D": 3,
+      "D": 2,
       "I": 4,
       "N": 3,
       "O": 2,
@@ -68,7 +67,7 @@
       },
       "D": {
         "4": 1,
-        "5": 2
+        "5": 1
       },
       "I": {
         "6": 2,
@@ -98,7 +97,7 @@
       "CO": 5,
       "CU": 1,
       "DO": 1,
-      "DU": 2,
+      "DU": 1,
       "IN": 4,
       "NO": 2,
       "NU": 1,

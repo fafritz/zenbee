@@ -1,9 +1,9 @@
 {
   "pangram": "folding",
   "center_letter": "n",
-  "num_answers": 71,
+  "num_answers": 73,
   "num_pangrams": 3,
-  "possible_points": 440,
+  "possible_points": 453,
   "answer_pangrams": [
     "flooding",
     "folding",
@@ -21,7 +21,6 @@
     "dodging",
     "doffing",
     "dogging",
-    "doggoning",
     "doing",
     "doling",
     "dolling",
@@ -60,6 +59,8 @@
     "indigo",
     "info",
     "inning",
+    "lidding",
+    "lignin",
     "lingo",
     "lining",
     "lion",
@@ -74,6 +75,7 @@
     "niggling",
     "nodding",
     "noggin",
+    "nonillion",
     "noodling",
     "noon",
     "offing",
@@ -87,18 +89,18 @@
     "by_length": {
       "4": 11,
       "5": 7,
-      "6": 12,
-      "7": 28,
+      "6": 13,
+      "7": 29,
       "8": 12,
       "9": 1
     },
     "by_first_letter": {
-      "D": 17,
+      "D": 16,
       "F": 16,
       "G": 13,
       "I": 4,
-      "L": 11,
-      "N": 5,
+      "L": 13,
+      "N": 6,
       "O": 5
     },
     "grid": {
@@ -107,8 +109,7 @@
         "5": 2,
         "6": 2,
         "7": 9,
-        "8": 2,
-        "9": 1
+        "8": 2
       },
       "F": {
         "4": 2,
@@ -130,14 +131,15 @@
       "L": {
         "4": 4,
         "5": 2,
-        "6": 1,
-        "7": 4
+        "6": 2,
+        "7": 5
       },
       "N": {
         "4": 1,
         "6": 1,
         "7": 1,
-        "8": 2
+        "8": 2,
+        "9": 1
       },
       "O": {
         "5": 1,
@@ -147,7 +149,7 @@
     },
     "two_letter_list": {
       "DI": 8,
-      "DO": 9,
+      "DO": 8,
       "FI": 6,
       "FL": 4,
       "FO": 6,
@@ -156,10 +158,10 @@
       "GO": 8,
       "ID": 1,
       "IN": 3,
-      "LI": 3,
+      "LI": 5,
       "LO": 8,
       "NI": 1,
-      "NO": 4,
+      "NO": 5,
       "OF": 1,
       "OG": 1,
       "OI": 1,

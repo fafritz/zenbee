@@ -1,9 +1,9 @@
 {
   "pangram": "tangoed",
   "center_letter": "g",
-  "num_answers": 53,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 236,
+  "possible_points": 235,
   "answer_pangrams": [
     "tangoed"
   ],
@@ -16,6 +16,7 @@
     "agog",
     "dodge",
     "dodged",
+    "doge",
     "dogged",
     "doggone",
     "dotage",
@@ -27,6 +28,7 @@
     "engaged",
     "gadded",
     "gadget",
+    "gaga",
     "gagged",
     "gang",
     "ganged",
@@ -42,11 +44,9 @@
     "goaded",
     "goat",
     "goatee",
-    "gonad",
     "gone",
     "gong",
     "gonged",
-    "gonna",
     "good",
     "goon",
     "gotten",
@@ -60,23 +60,25 @@
     "tangoed",
     "teenage",
     "toga",
+    "tong",
+    "tonged",
     "tonnage"
   ],
   "date": "2031-03-19",
   "hints": {
     "by_length": {
-      "4": 17,
-      "5": 11,
-      "6": 18,
+      "4": 20,
+      "5": 9,
+      "6": 19,
       "7": 7
     },
     "by_first_letter": {
       "A": 6,
-      "D": 5,
+      "D": 6,
       "E": 6,
-      "G": 25,
+      "G": 24,
       "N": 3,
-      "T": 8
+      "T": 10
     },
     "grid": {
       "A": {
@@ -85,6 +87,7 @@
         "6": 1
       },
       "D": {
+        "4": 1,
         "5": 1,
         "6": 3,
         "7": 1
@@ -96,8 +99,8 @@
         "7": 1
       },
       "G": {
-        "4": 12,
-        "5": 4,
+        "4": 13,
+        "5": 2,
         "6": 9
       },
       "N": {
@@ -105,28 +108,28 @@
         "7": 1
       },
       "T": {
-        "4": 2,
+        "4": 3,
         "5": 1,
-        "6": 1,
+        "6": 2,
         "7": 4
       }
     },
     "two_letter_list": {
       "AD": 1,
       "AG": 5,
-      "DO": 5,
+      "DO": 6,
       "ED": 2,
       "EG": 2,
       "EN": 2,
-      "GA": 8,
+      "GA": 9,
       "GE": 4,
       "GN": 1,
-      "GO": 12,
+      "GO": 10,
       "NA": 1,
       "NE": 2,
       "TA": 5,
       "TE": 1,
-      "TO": 2
+      "TO": 4
     }
   }
 }

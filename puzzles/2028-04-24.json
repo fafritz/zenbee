@@ -1,9 +1,9 @@
 {
   "pangram": "lunatic",
   "center_letter": "i",
-  "num_answers": 43,
+  "num_answers": 48,
   "num_pangrams": 2,
-  "possible_points": 224,
+  "possible_points": 256,
   "answer_pangrams": [
     "lunatic",
     "nautical"
@@ -11,6 +11,8 @@
   "answers": [
     "acacia",
     "acai",
+    "actinic",
+    "annuitant",
     "anti",
     "antic",
     "attain",
@@ -22,13 +24,16 @@
     "clinic",
     "clinical",
     "clinician",
+    "iliac",
     "illicit",
     "initial",
     "intact",
     "intuit",
+    "inulin",
     "italic",
     "lactic",
     "lain",
+    "lanai",
     "licit",
     "lilac",
     "lilt",
@@ -57,17 +62,17 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 11,
-      "6": 10,
-      "7": 6,
+      "5": 13,
+      "6": 11,
+      "7": 7,
       "8": 3,
-      "9": 2
+      "9": 3
     },
     "by_first_letter": {
-      "A": 6,
+      "A": 8,
       "C": 7,
-      "I": 5,
-      "L": 7,
+      "I": 7,
+      "L": 8,
       "N": 3,
       "T": 13,
       "U": 2
@@ -76,7 +81,9 @@
       "A": {
         "4": 2,
         "5": 2,
-        "6": 2
+        "6": 2,
+        "7": 1,
+        "9": 1
       },
       "C": {
         "5": 2,
@@ -86,12 +93,13 @@
         "9": 1
       },
       "I": {
-        "6": 3,
+        "5": 1,
+        "6": 4,
         "7": 2
       },
       "L": {
         "4": 3,
-        "5": 2,
+        "5": 3,
         "6": 1,
         "7": 1
       },
@@ -114,16 +122,16 @@
       }
     },
     "two_letter_list": {
-      "AC": 2,
-      "AN": 2,
+      "AC": 3,
+      "AN": 3,
       "AT": 2,
       "CA": 3,
       "CI": 1,
       "CL": 3,
-      "IL": 1,
-      "IN": 3,
+      "IL": 2,
+      "IN": 4,
       "IT": 1,
-      "LA": 2,
+      "LA": 3,
       "LI": 4,
       "LU": 1,
       "NA": 2,

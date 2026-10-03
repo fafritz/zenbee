@@ -1,15 +1,16 @@
 {
   "pangram": "heavily",
   "center_letter": "a",
-  "num_answers": 24,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 86,
+  "possible_points": 93,
   "answer_pangrams": [
     "heavily"
   ],
   "answers": [
     "alive",
     "allay",
+    "allele",
     "alley",
     "ally",
     "avail",
@@ -24,6 +25,7 @@
     "heavily",
     "heavy",
     "lava",
+    "lave",
     "leave",
     "vale",
     "valley",
@@ -36,22 +38,23 @@
   "date": "2038-01-24",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 11,
-      "6": 1,
+      "6": 2,
       "7": 1
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 6,
       "H": 10,
-      "L": 2,
+      "L": 3,
       "V": 6,
       "Y": 1
     },
     "grid": {
       "A": {
         "4": 1,
-        "5": 4
+        "5": 4,
+        "6": 1
       },
       "H": {
         "4": 5,
@@ -59,7 +62,7 @@
         "7": 1
       },
       "L": {
-        "4": 1,
+        "4": 2,
         "5": 1
       },
       "V": {
@@ -72,11 +75,11 @@
       }
     },
     "two_letter_list": {
-      "AL": 4,
+      "AL": 5,
       "AV": 1,
       "HA": 6,
       "HE": 4,
-      "LA": 1,
+      "LA": 2,
       "LE": 1,
       "VA": 3,
       "VE": 1,

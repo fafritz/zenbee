@@ -1,9 +1,9 @@
 {
   "pangram": "dumping",
   "center_letter": "g",
-  "num_answers": 45,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 298,
+  "possible_points": 291,
   "answer_pangrams": [
     "dumping"
   ],
@@ -34,7 +34,6 @@
     "minding",
     "mining",
     "mugging",
-    "munging",
     "nipping",
     "nudging",
     "pidgin",
@@ -59,14 +58,14 @@
     "by_length": {
       "4": 3,
       "6": 12,
-      "7": 27,
+      "7": 26,
       "9": 3
     },
     "by_first_letter": {
       "D": 13,
       "G": 5,
       "I": 4,
-      "M": 5,
+      "M": 4,
       "N": 2,
       "P": 13,
       "U": 3
@@ -86,7 +85,7 @@
       },
       "M": {
         "6": 2,
-        "7": 3
+        "7": 2
       },
       "N": {
         "7": 2
@@ -109,7 +108,7 @@
       "IM": 3,
       "IN": 1,
       "MI": 3,
-      "MU": 2,
+      "MU": 1,
       "NI": 1,
       "NU": 1,
       "PI": 9,

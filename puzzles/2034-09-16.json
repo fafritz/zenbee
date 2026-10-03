@@ -3,7 +3,7 @@
   "center_letter": "n",
   "num_answers": 64,
   "num_pangrams": 1,
-  "possible_points": 331,
+  "possible_points": 327,
   "answer_pangrams": [
     "foaming"
   ],
@@ -34,7 +34,6 @@
     "going",
     "gong",
     "gonging",
-    "gonna",
     "goofing",
     "goon",
     "imaging",
@@ -65,6 +64,7 @@
     "mooning",
     "naan",
     "nagging",
+    "naif",
     "naming",
     "nana",
     "noggin",
@@ -76,8 +76,8 @@
   "date": "2034-09-16",
   "hints": {
     "by_length": {
-      "4": 15,
-      "5": 13,
+      "4": 16,
+      "5": 12,
       "6": 13,
       "7": 20,
       "8": 1,
@@ -86,10 +86,10 @@
     "by_first_letter": {
       "A": 9,
       "F": 5,
-      "G": 15,
+      "G": 14,
       "I": 4,
       "M": 22,
-      "N": 6,
+      "N": 7,
       "O": 3
     },
     "grid": {
@@ -106,7 +106,7 @@
       },
       "G": {
         "4": 4,
-        "5": 2,
+        "5": 1,
         "6": 1,
         "7": 8
       },
@@ -125,7 +125,7 @@
         "9": 1
       },
       "N": {
-        "4": 3,
+        "4": 4,
         "6": 2,
         "7": 1
       },
@@ -145,13 +145,13 @@
       "FO": 2,
       "GA": 7,
       "GI": 2,
-      "GO": 6,
+      "GO": 5,
       "IM": 2,
       "IN": 2,
       "MA": 8,
       "MI": 7,
       "MO": 7,
-      "NA": 4,
+      "NA": 5,
       "NO": 2,
       "OF": 1,
       "ON": 2

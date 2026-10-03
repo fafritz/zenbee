@@ -1,9 +1,9 @@
 {
   "pangram": "gainful",
   "center_letter": "g",
-  "num_answers": 66,
+  "num_answers": 71,
   "num_pangrams": 3,
-  "possible_points": 404,
+  "possible_points": 433,
   "answer_pangrams": [
     "gainful",
     "unfailing",
@@ -30,6 +30,7 @@
     "flag",
     "flagging",
     "flailing",
+    "flanging",
     "fling",
     "flinging",
     "fluffing",
@@ -40,11 +41,13 @@
     "fungi",
     "gaff",
     "gaffing",
+    "gaga",
     "gagging",
     "gain",
     "gainful",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -65,9 +68,11 @@
     "iguana",
     "inning",
     "lagging",
+    "lignin",
     "lingual",
     "lining",
     "lugging",
+    "luging",
     "lulling",
     "lung",
     "lunging",
@@ -80,20 +85,20 @@
   "date": "2032-11-08",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 14,
       "5": 6,
-      "6": 9,
+      "6": 11,
       "7": 25,
-      "8": 8,
+      "8": 10,
       "9": 3,
       "10": 2
     },
     "by_first_letter": {
       "A": 9,
-      "F": 19,
-      "G": 24,
+      "F": 20,
+      "G": 26,
       "I": 2,
-      "L": 7,
+      "L": 9,
       "N": 3,
       "U": 2
     },
@@ -111,22 +116,22 @@
         "5": 3,
         "6": 3,
         "7": 5,
-        "8": 4,
+        "8": 5,
         "9": 1,
         "10": 1
       },
       "G": {
-        "4": 9,
+        "4": 10,
         "6": 1,
         "7": 12,
-        "8": 2
+        "8": 3
       },
       "I": {
         "6": 2
       },
       "L": {
         "4": 1,
-        "6": 1,
+        "6": 3,
         "7": 5
       },
       "N": {
@@ -145,17 +150,17 @@
       "AN": 3,
       "FA": 4,
       "FI": 4,
-      "FL": 7,
+      "FL": 8,
       "FU": 4,
-      "GA": 14,
+      "GA": 16,
       "GI": 4,
       "GL": 1,
       "GU": 5,
       "IG": 1,
       "IN": 1,
       "LA": 1,
-      "LI": 2,
-      "LU": 4,
+      "LI": 3,
+      "LU": 5,
       "NA": 2,
       "NI": 1,
       "UN": 2

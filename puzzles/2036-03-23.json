@@ -1,9 +1,9 @@
 {
   "pangram": "hulking",
   "center_letter": "l",
-  "num_answers": 27,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 123,
+  "possible_points": 141,
   "answer_pangrams": [
     "hulking"
   ],
@@ -19,15 +19,18 @@
     "hull",
     "hulling",
     "inkling",
+    "inulin",
     "kill",
     "killing",
     "kiln",
     "kilning",
+    "lignin",
     "liking",
     "lining",
     "link",
     "linking",
     "lugging",
+    "luging",
     "lull",
     "lulling",
     "lulu",
@@ -40,16 +43,16 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "6": 3,
+      "6": 6,
       "7": 10,
       "8": 2
     },
     "by_first_letter": {
       "G": 5,
       "H": 5,
-      "I": 1,
+      "I": 2,
       "K": 4,
-      "L": 10,
+      "L": 12,
       "N": 2
     },
     "grid": {
@@ -64,6 +67,7 @@
         "7": 2
       },
       "I": {
+        "6": 1,
         "7": 1
       },
       "K": {
@@ -72,7 +76,7 @@
       },
       "L": {
         "4": 4,
-        "6": 2,
+        "6": 4,
         "7": 4
       },
       "N": {
@@ -86,10 +90,10 @@
       "GU": 2,
       "HI": 1,
       "HU": 4,
-      "IN": 1,
+      "IN": 2,
       "KI": 4,
-      "LI": 4,
-      "LU": 6,
+      "LI": 5,
+      "LU": 7,
       "NI": 1,
       "NU": 1
     }

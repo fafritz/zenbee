@@ -3,7 +3,7 @@
   "center_letter": "a",
   "num_answers": 33,
   "num_pangrams": 1,
-  "possible_points": 161,
+  "possible_points": 157,
   "answer_pangrams": [
     "avowing"
   ],
@@ -19,6 +19,7 @@
     "avowing",
     "awing",
     "awning",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -26,7 +27,6 @@
     "ganging",
     "gnaw",
     "gnawing",
-    "gonna",
     "naan",
     "nagging",
     "nana",
@@ -45,8 +45,8 @@
   "date": "2038-05-28",
   "hints": {
     "by_length": {
-      "4": 10,
-      "5": 7,
+      "4": 11,
+      "5": 6,
       "6": 6,
       "7": 9,
       "10": 1
@@ -66,8 +66,7 @@
         "7": 1
       },
       "G": {
-        "4": 3,
-        "5": 1,
+        "4": 4,
         "7": 4
       },
       "N": {
@@ -90,9 +89,8 @@
       "AN": 3,
       "AV": 3,
       "AW": 2,
-      "GA": 5,
+      "GA": 6,
       "GN": 2,
-      "GO": 1,
       "NA": 3,
       "NO": 1,
       "VA": 2,

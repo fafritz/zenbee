@@ -1,9 +1,9 @@
 {
   "pangram": "plowing",
   "center_letter": "g",
-  "num_answers": 73,
+  "num_answers": 75,
   "num_pangrams": 2,
-  "possible_points": 445,
+  "possible_points": 452,
   "answer_pangrams": [
     "pillowing",
     "plowing"
@@ -28,6 +28,7 @@
     "gowning",
     "igloo",
     "inning",
+    "lignin",
     "lingo",
     "lining",
     "logging",
@@ -62,11 +63,12 @@
     "pipping",
     "plopping",
     "plowing",
+    "pogo",
+    "pogoing",
     "poling",
     "polling",
     "polliwog",
     "pooling",
-    "pooping",
     "popping",
     "powwowing",
     "pwning",
@@ -86,9 +88,9 @@
   "date": "2030-04-07",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 5,
-      "6": 19,
+      "6": 20,
       "7": 27,
       "8": 7,
       "9": 4
@@ -96,10 +98,10 @@
     "by_first_letter": {
       "G": 17,
       "I": 2,
-      "L": 12,
+      "L": 13,
       "N": 3,
       "O": 6,
-      "P": 21,
+      "P": 22,
       "W": 12
     },
     "grid": {
@@ -117,7 +119,7 @@
       "L": {
         "4": 2,
         "5": 2,
-        "6": 3,
+        "6": 4,
         "7": 5
       },
       "N": {
@@ -131,7 +133,7 @@
         "7": 2
       },
       "P": {
-        "4": 1,
+        "4": 2,
         "6": 5,
         "7": 10,
         "8": 2,
@@ -151,7 +153,7 @@
       "GO": 9,
       "IG": 1,
       "IN": 1,
-      "LI": 2,
+      "LI": 3,
       "LO": 10,
       "NI": 2,
       "NO": 1,
@@ -162,7 +164,7 @@
       "OW": 2,
       "PI": 11,
       "PL": 2,
-      "PO": 7,
+      "PO": 8,
       "PW": 1,
       "WI": 10,
       "WO": 2

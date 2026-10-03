@@ -1,7 +1,7 @@
 {
   "pangram": "unitary",
   "center_letter": "r",
-  "num_answers": 35,
+  "num_answers": 36,
   "num_pangrams": 1,
   "possible_points": 155,
   "answer_pangrams": [
@@ -22,12 +22,13 @@
     "rainy",
     "rant",
     "rarity",
-    "ratatat",
     "rattan",
     "ratty",
     "ruin",
     "runny",
     "runt",
+    "tantra",
+    "tarn",
     "tart",
     "tartan",
     "tartar",
@@ -47,18 +48,18 @@
   "date": "2038-01-11",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 13,
       "5": 9,
-      "6": 8,
-      "7": 5,
+      "6": 9,
+      "7": 4,
       "8": 1
     },
     "by_first_letter": {
       "A": 8,
       "I": 1,
       "N": 1,
-      "R": 10,
-      "T": 12,
+      "R": 9,
+      "T": 14,
       "U": 2,
       "Y": 1
     },
@@ -77,13 +78,12 @@
       "R": {
         "4": 4,
         "5": 3,
-        "6": 2,
-        "7": 1
+        "6": 2
       },
       "T": {
-        "4": 3,
+        "4": 4,
         "5": 3,
-        "6": 4,
+        "6": 5,
         "7": 2
       },
       "U": {
@@ -100,9 +100,9 @@
       "AU": 1,
       "IR": 1,
       "NU": 1,
-      "RA": 7,
+      "RA": 6,
       "RU": 3,
-      "TA": 3,
+      "TA": 5,
       "TI": 1,
       "TR": 5,
       "TU": 1,

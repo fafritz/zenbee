@@ -1,9 +1,9 @@
 {
   "pangram": "clunked",
   "center_letter": "c",
-  "num_answers": 30,
+  "num_answers": 33,
   "num_pangrams": 2,
-  "possible_points": 149,
+  "possible_points": 166,
   "answer_pangrams": [
     "clunked",
     "knuckled"
@@ -12,6 +12,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "cluck",
     "clucked",
     "clue",
@@ -29,9 +30,11 @@
     "deduce",
     "deduced",
     "deuce",
+    "deuced",
     "duck",
     "ducked",
     "dunce",
+    "educe",
     "knuckle",
     "knuckled",
     "luck",
@@ -44,14 +47,15 @@
   "hints": {
     "by_length": {
       "4": 9,
-      "5": 7,
-      "6": 8,
+      "5": 8,
+      "6": 10,
       "7": 5,
       "8": 1
     },
     "by_first_letter": {
-      "C": 14,
-      "D": 9,
+      "C": 15,
+      "D": 10,
+      "E": 1,
       "K": 2,
       "L": 2,
       "N": 2,
@@ -61,14 +65,17 @@
       "C": {
         "4": 5,
         "5": 4,
-        "6": 2,
+        "6": 3,
         "7": 3
       },
       "D": {
         "4": 2,
         "5": 2,
-        "6": 4,
+        "6": 5,
         "7": 1
+      },
+      "E": {
+        "5": 1
       },
       "K": {
         "7": 1,
@@ -87,11 +94,12 @@
       }
     },
     "two_letter_list": {
-      "CE": 3,
+      "CE": 4,
       "CL": 6,
       "CU": 5,
-      "DE": 6,
+      "DE": 7,
       "DU": 3,
+      "ED": 1,
       "KN": 2,
       "LU": 2,
       "NE": 2,

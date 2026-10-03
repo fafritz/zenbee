@@ -1,9 +1,9 @@
 {
   "pangram": "halving",
   "center_letter": "i",
-  "num_answers": 55,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 309,
+  "possible_points": 319,
   "answer_pangrams": [
     "halving"
   ],
@@ -41,13 +41,14 @@
     "having",
     "high",
     "hill",
-    "hing",
     "hinging",
     "hiving",
     "inhaling",
     "inning",
     "lagging",
     "lain",
+    "lanai",
+    "lignin",
     "lining",
     "living",
     "nagging",
@@ -67,18 +68,18 @@
   "date": "2032-03-16",
   "hints": {
     "by_length": {
-      "4": 11,
-      "5": 8,
-      "6": 9,
+      "4": 10,
+      "5": 9,
+      "6": 10,
       "7": 19,
       "8": 8
     },
     "by_first_letter": {
       "A": 11,
       "G": 12,
-      "H": 13,
+      "H": 12,
       "I": 2,
-      "L": 4,
+      "L": 6,
       "N": 5,
       "V": 8
     },
@@ -96,7 +97,7 @@
         "8": 2
       },
       "H": {
-        "4": 4,
+        "4": 3,
         "6": 3,
         "7": 4,
         "8": 2
@@ -107,7 +108,8 @@
       },
       "L": {
         "4": 1,
-        "6": 2,
+        "5": 1,
+        "6": 3,
         "7": 1
       },
       "N": {
@@ -130,10 +132,10 @@
       "GA": 7,
       "GI": 5,
       "HA": 8,
-      "HI": 5,
+      "HI": 4,
       "IN": 2,
-      "LA": 2,
-      "LI": 2,
+      "LA": 3,
+      "LI": 3,
       "NA": 3,
       "NI": 2,
       "VA": 4,

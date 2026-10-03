@@ -1,9 +1,9 @@
 {
   "pangram": "plucked",
   "center_letter": "c",
-  "num_answers": 28,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 124,
+  "possible_points": 141,
   "answer_pangrams": [
     "plucked"
   ],
@@ -11,6 +11,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "cluck",
     "clucked",
     "clue",
@@ -27,8 +28,10 @@
     "deduce",
     "deduced",
     "deuce",
+    "deuced",
     "duck",
     "ducked",
+    "educe",
     "luck",
     "lucked",
     "peck",
@@ -41,13 +44,14 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 5,
-      "6": 9,
+      "5": 6,
+      "6": 11,
       "7": 4
     },
     "by_first_letter": {
-      "C": 13,
-      "D": 8,
+      "C": 14,
+      "D": 9,
+      "E": 1,
       "L": 2,
       "P": 5
     },
@@ -55,14 +59,17 @@
       "C": {
         "4": 5,
         "5": 3,
-        "6": 3,
+        "6": 4,
         "7": 2
       },
       "D": {
         "4": 2,
         "5": 1,
-        "6": 4,
+        "6": 5,
         "7": 1
+      },
+      "E": {
+        "5": 1
       },
       "L": {
         "4": 1,
@@ -76,11 +83,12 @@
       }
     },
     "two_letter_list": {
-      "CE": 3,
+      "CE": 4,
       "CL": 4,
       "CU": 6,
-      "DE": 6,
+      "DE": 7,
       "DU": 2,
+      "ED": 1,
       "LU": 2,
       "PE": 2,
       "PL": 2,

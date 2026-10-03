@@ -1,9 +1,9 @@
 {
   "pangram": "obviate",
   "center_letter": "t",
-  "num_answers": 24,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 79,
+  "possible_points": 84,
   "answer_pangrams": [
     "obviate"
   ],
@@ -15,6 +15,7 @@
     "beat",
     "beet",
     "beta",
+    "biota",
     "bite",
     "boat",
     "boot",
@@ -37,13 +38,13 @@
   "hints": {
     "by_length": {
       "4": 14,
-      "5": 4,
+      "5": 5,
       "6": 4,
       "7": 2
     },
     "by_first_letter": {
       "A": 3,
-      "B": 8,
+      "B": 9,
       "I": 1,
       "O": 2,
       "T": 6,
@@ -56,6 +57,7 @@
       },
       "B": {
         "4": 7,
+        "5": 1,
         "6": 1
       },
       "I": {
@@ -80,7 +82,7 @@
       "AB": 3,
       "BA": 1,
       "BE": 3,
-      "BI": 1,
+      "BI": 2,
       "BO": 3,
       "IO": 1,
       "OB": 2,

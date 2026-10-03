@@ -1,9 +1,9 @@
 {
   "pangram": "blotchy",
   "center_letter": "b",
-  "num_answers": 21,
+  "num_answers": 20,
   "num_pangrams": 1,
-  "possible_points": 86,
+  "possible_points": 80,
   "answer_pangrams": [
     "blotchy"
   ],
@@ -17,7 +17,6 @@
     "boll",
     "bolt",
     "boob",
-    "booboo",
     "booby",
     "boot",
     "booth",
@@ -35,12 +34,12 @@
     "by_length": {
       "4": 9,
       "5": 7,
-      "6": 2,
+      "6": 1,
       "7": 2,
       "9": 1
     },
     "by_first_letter": {
-      "B": 17,
+      "B": 16,
       "H": 2,
       "L": 1,
       "T": 1
@@ -49,7 +48,7 @@
       "B": {
         "4": 8,
         "5": 5,
-        "6": 2,
+        "6": 1,
         "7": 2
       },
       "H": {
@@ -65,7 +64,7 @@
     },
     "two_letter_list": {
       "BL": 5,
-      "BO": 12,
+      "BO": 11,
       "HO": 2,
       "LO": 1,
       "TO": 1

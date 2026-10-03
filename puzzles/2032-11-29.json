@@ -1,9 +1,9 @@
 {
   "pangram": "mocking",
   "center_letter": "i",
-  "num_answers": 52,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 295,
+  "possible_points": 313,
   "answer_pangrams": [
     "mocking"
   ],
@@ -11,6 +11,7 @@
     "cocci",
     "cocking",
     "cocooning",
+    "cogging",
     "coin",
     "coining",
     "coking",
@@ -29,9 +30,11 @@
     "gonging",
     "icing",
     "icon",
+    "iconic",
     "incoming",
     "inking",
     "inning",
+    "ionic",
     "kick",
     "kicking",
     "kimono",
@@ -65,16 +68,16 @@
   "hints": {
     "by_length": {
       "4": 9,
-      "5": 8,
-      "6": 13,
-      "7": 17,
+      "5": 9,
+      "6": 14,
+      "7": 18,
       "8": 3,
       "9": 2
     },
     "by_first_letter": {
-      "C": 13,
+      "C": 14,
       "G": 6,
-      "I": 5,
+      "I": 7,
       "K": 7,
       "M": 13,
       "N": 3,
@@ -85,7 +88,7 @@
         "4": 1,
         "5": 3,
         "6": 3,
-        "7": 5,
+        "7": 6,
         "9": 1
       },
       "G": {
@@ -95,8 +98,8 @@
       },
       "I": {
         "4": 1,
-        "5": 1,
-        "6": 2,
+        "5": 2,
+        "6": 3,
         "8": 1
       },
       "K": {
@@ -125,11 +128,12 @@
       }
     },
     "two_letter_list": {
-      "CO": 13,
+      "CO": 14,
       "GI": 4,
       "GO": 2,
-      "IC": 2,
+      "IC": 3,
       "IN": 3,
+      "IO": 1,
       "KI": 6,
       "KN": 1,
       "MI": 10,

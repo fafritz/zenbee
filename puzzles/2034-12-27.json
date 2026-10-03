@@ -1,13 +1,14 @@
 {
   "pangram": "tequila",
   "center_letter": "e",
-  "num_answers": 28,
+  "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 139,
+  "possible_points": 145,
   "answer_pangrams": [
     "tequila"
   ],
   "answers": [
+    "allele",
     "elate",
     "elite",
     "equal",
@@ -42,13 +43,14 @@
     "by_length": {
       "4": 8,
       "5": 10,
-      "6": 4,
+      "6": 5,
       "7": 2,
       "8": 1,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
+      "A": 1,
       "E": 5,
       "L": 6,
       "Q": 4,
@@ -56,6 +58,9 @@
       "U": 1
     },
     "grid": {
+      "A": {
+        "6": 1
+      },
       "E": {
         "5": 3,
         "6": 1,
@@ -83,6 +88,7 @@
       }
     },
     "two_letter_list": {
+      "AL": 1,
       "EL": 2,
       "EQ": 2,
       "ET": 1,

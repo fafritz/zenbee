@@ -1,9 +1,9 @@
 {
   "pangram": "playing",
   "center_letter": "g",
-  "num_answers": 68,
+  "num_answers": 73,
   "num_pangrams": 3,
-  "possible_points": 437,
+  "possible_points": 458,
   "answer_pangrams": [
     "appallingly",
     "applying",
@@ -24,10 +24,13 @@
     "appalling",
     "appallingly",
     "applying",
+    "gaga",
     "gagging",
+    "gaily",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -46,6 +49,7 @@
     "lagging",
     "lapping",
     "laying",
+    "lignin",
     "lining",
     "lying",
     "nagging",
@@ -76,28 +80,29 @@
     "planning",
     "playing",
     "plying",
+    "yang",
     "yapping",
     "yipping"
   ],
   "date": "2035-06-17",
   "hints": {
     "by_length": {
-      "4": 8,
-      "5": 7,
-      "6": 14,
+      "4": 10,
+      "5": 8,
+      "6": 15,
       "7": 28,
-      "8": 8,
+      "8": 9,
       "9": 2,
       "11": 1
     },
     "by_first_letter": {
       "A": 14,
-      "G": 17,
+      "G": 20,
       "I": 2,
-      "L": 5,
+      "L": 6,
       "N": 5,
       "P": 23,
-      "Y": 2
+      "Y": 3
     },
     "grid": {
       "A": {
@@ -110,10 +115,11 @@
         "11": 1
       },
       "G": {
-        "4": 5,
+        "4": 6,
+        "5": 1,
         "6": 2,
         "7": 8,
-        "8": 2
+        "8": 3
       },
       "I": {
         "6": 1,
@@ -121,7 +127,7 @@
       },
       "L": {
         "5": 1,
-        "6": 2,
+        "6": 3,
         "7": 2
       },
       "N": {
@@ -137,6 +143,7 @@
         "9": 1
       },
       "Y": {
+        "4": 1,
         "7": 2
       }
     },
@@ -146,19 +153,19 @@
       "AL": 5,
       "AN": 2,
       "AP": 4,
-      "GA": 11,
+      "GA": 14,
       "GI": 5,
       "GY": 1,
       "IN": 2,
       "LA": 3,
-      "LI": 1,
+      "LI": 2,
       "LY": 1,
       "NA": 3,
       "NI": 2,
       "PA": 8,
       "PI": 11,
       "PL": 4,
-      "YA": 1,
+      "YA": 2,
       "YI": 1
     }
   }

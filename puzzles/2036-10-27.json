@@ -1,9 +1,9 @@
 {
   "pangram": "voltage",
   "center_letter": "e",
-  "num_answers": 54,
+  "num_answers": 57,
   "num_pangrams": 1,
-  "possible_points": 238,
+  "possible_points": 250,
   "answer_pangrams": [
     "voltage"
   ],
@@ -12,11 +12,13 @@
     "agave",
     "algae",
     "allege",
+    "allele",
     "aloe",
     "eagle",
     "eaglet",
     "elate",
     "elevate",
+    "elote",
     "evolve",
     "gaggle",
     "gale",
@@ -31,6 +33,7 @@
     "google",
     "late",
     "latte",
+    "lave",
     "leave",
     "legal",
     "legate",
@@ -66,18 +69,18 @@
   "date": "2036-10-27",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 14,
-      "6": 12,
+      "4": 20,
+      "5": 15,
+      "6": 13,
       "7": 4,
       "8": 4,
       "10": 1
     },
     "by_first_letter": {
-      "A": 5,
-      "E": 5,
+      "A": 6,
+      "E": 6,
       "G": 11,
-      "L": 11,
+      "L": 12,
       "O": 2,
       "T": 10,
       "V": 10
@@ -86,10 +89,10 @@
       "A": {
         "4": 1,
         "5": 3,
-        "6": 1
+        "6": 2
       },
       "E": {
-        "5": 2,
+        "5": 3,
         "6": 2,
         "7": 1
       },
@@ -100,7 +103,7 @@
         "7": 1
       },
       "L": {
-        "4": 3,
+        "4": 4,
         "5": 5,
         "6": 2,
         "7": 1
@@ -124,14 +127,14 @@
     },
     "two_letter_list": {
       "AG": 2,
-      "AL": 3,
+      "AL": 4,
       "EA": 2,
-      "EL": 2,
+      "EL": 3,
       "EV": 1,
       "GA": 6,
       "GL": 2,
       "GO": 3,
-      "LA": 2,
+      "LA": 3,
       "LE": 7,
       "LO": 2,
       "OG": 1,

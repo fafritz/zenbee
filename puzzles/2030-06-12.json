@@ -1,9 +1,9 @@
 {
   "pangram": "emoting",
   "center_letter": "o",
-  "num_answers": 64,
+  "num_answers": 67,
   "num_pangrams": 2,
-  "possible_points": 321,
+  "possible_points": 334,
   "answer_pangrams": [
     "emoting",
     "mentioning"
@@ -40,6 +40,7 @@
     "moot",
     "mooting",
     "mote",
+    "motet",
     "motion",
     "motioning",
     "motto",
@@ -65,6 +66,8 @@
     "toeing",
     "tome",
     "tone",
+    "tong",
+    "tonging",
     "toning",
     "toon",
     "toot",
@@ -77,10 +80,10 @@
   "date": "2030-06-12",
   "hints": {
     "by_length": {
-      "4": 21,
-      "5": 8,
+      "4": 22,
+      "5": 9,
       "6": 13,
-      "7": 12,
+      "7": 13,
       "8": 7,
       "9": 2,
       "10": 1
@@ -89,10 +92,10 @@
       "E": 4,
       "G": 7,
       "I": 6,
-      "M": 17,
+      "M": 18,
       "N": 9,
       "O": 8,
-      "T": 13
+      "T": 15
     },
     "grid": {
       "E": {
@@ -115,7 +118,7 @@
       },
       "M": {
         "4": 5,
-        "5": 1,
+        "5": 2,
         "6": 4,
         "7": 4,
         "8": 1,
@@ -135,10 +138,10 @@
         "8": 2
       },
       "T": {
-        "4": 5,
+        "4": 6,
         "5": 2,
         "6": 3,
-        "7": 2,
+        "7": 3,
         "8": 1
       }
     },
@@ -151,14 +154,14 @@
       "IN": 5,
       "ME": 4,
       "MI": 1,
-      "MO": 12,
+      "MO": 13,
       "NE": 1,
       "NO": 8,
       "OI": 1,
       "OM": 3,
       "ON": 4,
       "TE": 2,
-      "TO": 11
+      "TO": 13
     }
   }
 }

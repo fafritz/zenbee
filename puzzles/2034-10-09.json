@@ -1,9 +1,9 @@
 {
   "pangram": "flocked",
   "center_letter": "c",
-  "num_answers": 40,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 175,
+  "possible_points": 181,
   "answer_pangrams": [
     "flocked"
   ],
@@ -11,6 +11,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "cello",
     "clef",
     "clock",
@@ -54,11 +55,11 @@
     "by_length": {
       "4": 14,
       "5": 8,
-      "6": 12,
+      "6": 13,
       "7": 6
     },
     "by_first_letter": {
-      "C": 24,
+      "C": 25,
       "D": 7,
       "F": 6,
       "L": 3
@@ -67,7 +68,7 @@
       "C": {
         "4": 10,
         "5": 6,
-        "6": 6,
+        "6": 7,
         "7": 2
       },
       "D": {
@@ -86,7 +87,7 @@
       }
     },
     "two_letter_list": {
-      "CE": 4,
+      "CE": 5,
       "CL": 4,
       "CO": 16,
       "DE": 5,

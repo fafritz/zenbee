@@ -3,7 +3,7 @@
   "center_letter": "l",
   "num_answers": 73,
   "num_pangrams": 3,
-  "possible_points": 356,
+  "possible_points": 362,
   "answer_pangrams": [
     "aplenty",
     "patently",
@@ -11,9 +11,9 @@
   ],
   "answers": [
     "allay",
+    "allele",
     "alley",
     "ally",
-    "anal",
     "anneal",
     "aplenty",
     "appall",
@@ -27,6 +27,7 @@
     "elate",
     "eyelet",
     "lane",
+    "lantana",
     "lapel",
     "late",
     "lately",
@@ -80,17 +81,16 @@
     "teletype",
     "tell",
     "telltale",
-    "telnet",
     "yell",
     "yelp"
   ],
   "date": "2027-04-15",
   "hints": {
     "by_length": {
-      "4": 22,
+      "4": 21,
       "5": 19,
       "6": 17,
-      "7": 8,
+      "7": 9,
       "8": 4,
       "9": 2,
       "10": 1
@@ -98,17 +98,17 @@
     "by_first_letter": {
       "A": 13,
       "E": 3,
-      "L": 11,
+      "L": 12,
       "N": 3,
       "P": 30,
-      "T": 11,
+      "T": 10,
       "Y": 2
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 5,
-        "6": 3,
+        "6": 4,
         "7": 1,
         "9": 2
       },
@@ -121,7 +121,7 @@
         "4": 5,
         "5": 3,
         "6": 2,
-        "7": 1
+        "7": 2
       },
       "N": {
         "5": 1,
@@ -137,7 +137,7 @@
       "T": {
         "4": 4,
         "5": 1,
-        "6": 3,
+        "6": 2,
         "8": 2,
         "10": 1
       },
@@ -146,12 +146,12 @@
       }
     },
     "two_letter_list": {
-      "AL": 3,
-      "AN": 2,
+      "AL": 4,
+      "AN": 1,
       "AP": 8,
       "EL": 2,
       "EY": 1,
-      "LA": 7,
+      "LA": 8,
       "LE": 4,
       "NA": 1,
       "NE": 2,
@@ -159,7 +159,7 @@
       "PE": 7,
       "PL": 12,
       "TA": 6,
-      "TE": 5,
+      "TE": 4,
       "YE": 2
     }
   }

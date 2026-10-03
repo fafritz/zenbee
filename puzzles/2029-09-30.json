@@ -1,13 +1,14 @@
 {
   "pangram": "outrank",
   "center_letter": "o",
-  "num_answers": 38,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 113,
+  "possible_points": 120,
   "answer_pangrams": [
     "outrank"
   ],
   "answers": [
+    "annatto",
     "anon",
     "aorta",
     "auto",
@@ -53,11 +54,11 @@
       "4": 24,
       "5": 6,
       "6": 5,
-      "7": 2,
+      "7": 3,
       "8": 1
     },
     "by_first_letter": {
-      "A": 3,
+      "A": 4,
       "K": 5,
       "N": 4,
       "O": 6,
@@ -67,7 +68,8 @@
     "grid": {
       "A": {
         "4": 2,
-        "5": 1
+        "5": 1,
+        "7": 1
       },
       "K": {
         "4": 3,
@@ -95,7 +97,7 @@
       }
     },
     "two_letter_list": {
-      "AN": 1,
+      "AN": 2,
       "AO": 1,
       "AU": 1,
       "KN": 1,

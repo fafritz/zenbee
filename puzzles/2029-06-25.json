@@ -1,9 +1,9 @@
 {
   "pangram": "racking",
   "center_letter": "n",
-  "num_answers": 72,
+  "num_answers": 74,
   "num_pangrams": 3,
-  "possible_points": 415,
+  "possible_points": 432,
   "answer_pangrams": [
     "cracking",
     "cranking",
@@ -48,6 +48,8 @@
     "grin",
     "grinning",
     "icing",
+    "ingrain",
+    "ingraining",
     "inking",
     "inning",
     "irking",
@@ -89,16 +91,16 @@
       "4": 15,
       "5": 9,
       "6": 17,
-      "7": 21,
+      "7": 22,
       "8": 7,
       "9": 1,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 11,
       "C": 14,
       "G": 12,
-      "I": 4,
+      "I": 6,
       "K": 6,
       "N": 7,
       "R": 18
@@ -127,7 +129,9 @@
       },
       "I": {
         "5": 1,
-        "6": 3
+        "6": 3,
+        "7": 1,
+        "10": 1
       },
       "K": {
         "4": 2,
@@ -159,7 +163,7 @@
       "GI": 2,
       "GR": 4,
       "IC": 1,
-      "IN": 2,
+      "IN": 4,
       "IR": 1,
       "KI": 4,
       "KN": 2,

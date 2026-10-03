@@ -1,9 +1,9 @@
 {
   "pangram": "larking",
   "center_letter": "r",
-  "num_answers": 44,
+  "num_answers": 48,
   "num_pangrams": 2,
-  "possible_points": 224,
+  "possible_points": 254,
   "answer_pangrams": [
     "larking",
     "rankling"
@@ -20,12 +20,16 @@
     "gargling",
     "girl",
     "glaring",
+    "gnarl",
+    "gnarling",
     "grail",
     "grain",
     "grill",
     "grilling",
     "grin",
     "grinning",
+    "ingrain",
+    "ingraining",
     "irking",
     "lair",
     "lark",
@@ -58,17 +62,17 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 3,
+      "5": 4,
       "6": 7,
-      "7": 10,
-      "8": 6,
+      "7": 11,
+      "8": 7,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 7,
-      "G": 10,
-      "I": 1,
+      "G": 12,
+      "I": 3,
       "L": 5,
       "R": 21
     },
@@ -83,12 +87,14 @@
       },
       "G": {
         "4": 2,
-        "5": 3,
+        "5": 4,
         "7": 1,
-        "8": 4
+        "8": 5
       },
       "I": {
-        "6": 1
+        "6": 1,
+        "7": 1,
+        "10": 1
       },
       "L": {
         "4": 4,
@@ -108,7 +114,9 @@
       "GA": 2,
       "GI": 1,
       "GL": 1,
+      "GN": 2,
       "GR": 6,
+      "IN": 2,
       "IR": 1,
       "LA": 3,
       "LI": 2,

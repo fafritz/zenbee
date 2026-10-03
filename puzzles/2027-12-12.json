@@ -1,9 +1,9 @@
 {
   "pangram": "fluxing",
   "center_letter": "i",
-  "num_answers": 29,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 191,
+  "possible_points": 209,
   "answer_pangrams": [
     "fluxing"
   ],
@@ -31,8 +31,11 @@
     "infix",
     "influx",
     "inning",
+    "inulin",
+    "lignin",
     "lining",
     "lugging",
+    "luging",
     "lulling",
     "lunging",
     "niggling",
@@ -43,7 +46,7 @@
     "by_length": {
       "4": 2,
       "5": 3,
-      "6": 8,
+      "6": 11,
       "7": 11,
       "8": 4,
       "10": 1
@@ -51,8 +54,8 @@
     "by_first_letter": {
       "F": 13,
       "G": 7,
-      "I": 3,
-      "L": 4,
+      "I": 4,
+      "L": 6,
       "N": 2
     },
     "grid": {
@@ -72,10 +75,10 @@
       },
       "I": {
         "5": 1,
-        "6": 2
+        "6": 3
       },
       "L": {
-        "6": 1,
+        "6": 3,
         "7": 3
       },
       "N": {
@@ -90,9 +93,9 @@
       "GI": 4,
       "GL": 1,
       "GU": 2,
-      "IN": 3,
-      "LI": 1,
-      "LU": 3,
+      "IN": 4,
+      "LI": 2,
+      "LU": 4,
       "NI": 2
     }
   }

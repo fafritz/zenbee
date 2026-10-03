@@ -1,9 +1,9 @@
 {
   "pangram": "touched",
   "center_letter": "o",
-  "num_answers": 44,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 187,
+  "possible_points": 186,
   "answer_pangrams": [
     "touched"
   ],
@@ -23,7 +23,6 @@
     "dote",
     "doted",
     "dotted",
-    "douche",
     "douched",
     "echo",
     "echoed",
@@ -39,7 +38,6 @@
     "ouch",
     "outdo",
     "outed",
-    "thou",
     "toed",
     "toot",
     "tooted",
@@ -49,6 +47,7 @@
     "toted",
     "totted",
     "touch",
+    "touche",
     "touched",
     "tout",
     "touted"
@@ -56,7 +55,7 @@
   "date": "2036-09-30",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 15,
       "5": 11,
       "6": 11,
       "7": 5,
@@ -64,7 +63,7 @@
     },
     "by_first_letter": {
       "C": 9,
-      "D": 8,
+      "D": 7,
       "E": 2,
       "H": 8,
       "O": 4,
@@ -80,7 +79,7 @@
       "D": {
         "4": 2,
         "5": 1,
-        "6": 3,
+        "6": 2,
         "7": 2
       },
       "E": {
@@ -98,9 +97,9 @@
         "5": 3
       },
       "T": {
-        "4": 5,
+        "4": 4,
         "5": 3,
-        "6": 3,
+        "6": 4,
         "7": 2
       }
     },
@@ -108,13 +107,12 @@
       "CO": 8,
       "CU": 1,
       "DE": 2,
-      "DO": 6,
+      "DO": 5,
       "EC": 2,
       "HO": 8,
       "OC": 1,
       "OU": 3,
-      "TH": 1,
-      "TO": 12
+      "TO": 13
     }
   }
 }

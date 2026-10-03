@@ -1,9 +1,9 @@
 {
   "pangram": "camping",
   "center_letter": "a",
-  "num_answers": 64,
+  "num_answers": 68,
   "num_pangrams": 3,
-  "possible_points": 343,
+  "possible_points": 360,
   "answer_pangrams": [
     "campaign",
     "campaigning",
@@ -28,6 +28,7 @@
     "canna",
     "canning",
     "capping",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -69,18 +70,21 @@
     "paging",
     "pain",
     "paining",
+    "pampa",
     "pang",
     "panic",
+    "panini",
     "panning",
     "papa",
-    "pica"
+    "pica",
+    "pinna"
   ],
   "date": "2030-01-16",
   "hints": {
     "by_length": {
-      "4": 15,
-      "5": 15,
-      "6": 15,
+      "4": 16,
+      "5": 17,
+      "6": 16,
       "7": 14,
       "8": 3,
       "9": 1,
@@ -89,11 +93,11 @@
     "by_first_letter": {
       "A": 8,
       "C": 10,
-      "G": 8,
+      "G": 9,
       "I": 3,
       "M": 19,
       "N": 6,
-      "P": 10
+      "P": 13
     },
     "grid": {
       "A": {
@@ -110,7 +114,7 @@
         "11": 1
       },
       "G": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "6": 2,
         "7": 3
@@ -134,8 +138,8 @@
       },
       "P": {
         "4": 4,
-        "5": 2,
-        "6": 2,
+        "5": 4,
+        "6": 3,
         "7": 2
       }
     },
@@ -146,14 +150,14 @@
       "AN": 1,
       "AP": 1,
       "CA": 10,
-      "GA": 8,
+      "GA": 9,
       "IM": 3,
       "MA": 17,
       "MI": 2,
       "NA": 5,
       "NI": 1,
-      "PA": 9,
-      "PI": 1
+      "PA": 11,
+      "PI": 2
     }
   }
 }

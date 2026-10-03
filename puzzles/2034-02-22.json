@@ -3,7 +3,7 @@
   "center_letter": "e",
   "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 162,
+  "possible_points": 167,
   "answer_pangrams": [
     "blacken"
   ],
@@ -11,6 +11,7 @@
     "abbe",
     "able",
     "acne",
+    "allele",
     "ankle",
     "anneal",
     "babble",
@@ -23,7 +24,6 @@
     "bane",
     "beak",
     "bean",
-    "beck",
     "been",
     "bell",
     "belle",
@@ -62,15 +62,15 @@
   "date": "2034-02-22",
   "hints": {
     "by_length": {
-      "4": 28,
+      "4": 27,
       "5": 11,
-      "6": 7,
+      "6": 8,
       "7": 2,
       "8": 2
     },
     "by_first_letter": {
-      "A": 5,
-      "B": 16,
+      "A": 6,
+      "B": 15,
       "C": 8,
       "E": 2,
       "K": 8,
@@ -81,10 +81,10 @@
       "A": {
         "4": 3,
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "B": {
-        "4": 9,
+        "4": 8,
         "5": 3,
         "6": 2,
         "7": 2
@@ -116,9 +116,10 @@
     "two_letter_list": {
       "AB": 2,
       "AC": 1,
+      "AL": 1,
       "AN": 2,
       "BA": 8,
-      "BE": 6,
+      "BE": 5,
       "BL": 2,
       "CA": 6,
       "CE": 1,

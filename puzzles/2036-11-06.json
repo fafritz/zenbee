@@ -1,9 +1,9 @@
 {
   "pangram": "quondam",
   "center_letter": "o",
-  "num_answers": 18,
+  "num_answers": 17,
   "num_pangrams": 1,
-  "possible_points": 52,
+  "possible_points": 47,
   "answer_pangrams": [
     "quondam"
   ],
@@ -14,7 +14,6 @@
     "dodo",
     "doodad",
     "doom",
-    "dunno",
     "moan",
     "momma",
     "mono",
@@ -31,13 +30,13 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 4,
+      "5": 3,
       "6": 1,
       "7": 1
     },
     "by_first_letter": {
       "A": 2,
-      "D": 5,
+      "D": 4,
       "M": 6,
       "N": 3,
       "Q": 1,
@@ -49,7 +48,6 @@
       },
       "D": {
         "4": 3,
-        "5": 1,
         "6": 1
       },
       "M": {
@@ -72,7 +70,6 @@
       "AN": 1,
       "DA": 1,
       "DO": 3,
-      "DU": 1,
       "MO": 6,
       "NO": 3,
       "QU": 1,

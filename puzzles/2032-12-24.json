@@ -1,9 +1,9 @@
 {
   "pangram": "pecking",
   "center_letter": "i",
-  "num_answers": 58,
+  "num_answers": 57,
   "num_pangrams": 1,
-  "possible_points": 312,
+  "possible_points": 306,
   "answer_pangrams": [
     "pecking"
   ],
@@ -38,7 +38,6 @@
     "nine",
     "nipping",
     "pecking",
-    "peeing",
     "peeking",
     "peeping",
     "penning",
@@ -72,7 +71,7 @@
     "by_length": {
       "4": 13,
       "5": 6,
-      "6": 14,
+      "6": 13,
       "7": 24,
       "10": 1
     },
@@ -82,7 +81,7 @@
       "I": 3,
       "K": 10,
       "N": 7,
-      "P": 29
+      "P": 28
     },
     "grid": {
       "E": {
@@ -111,7 +110,7 @@
       "P": {
         "4": 6,
         "5": 1,
-        "6": 9,
+        "6": 8,
         "7": 12,
         "10": 1
       }
@@ -130,7 +129,7 @@
       "KN": 1,
       "NE": 1,
       "NI": 6,
-      "PE": 6,
+      "PE": 5,
       "PI": 23
     }
   }

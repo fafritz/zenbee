@@ -1,9 +1,9 @@
 {
   "pangram": "poultry",
   "center_letter": "o",
-  "num_answers": 51,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 156,
+  "possible_points": 151,
   "answer_pangrams": [
     "poultry"
   ],
@@ -12,7 +12,6 @@
     "loop",
     "loopy",
     "loot",
-    "lorry",
     "lotto",
     "lout",
     "output",
@@ -64,12 +63,12 @@
   "hints": {
     "by_length": {
       "4": 30,
-      "5": 11,
+      "5": 10,
       "6": 6,
       "7": 4
     },
     "by_first_letter": {
-      "L": 7,
+      "L": 6,
       "O": 1,
       "P": 20,
       "R": 4,
@@ -80,7 +79,7 @@
     "grid": {
       "L": {
         "4": 4,
-        "5": 3
+        "5": 2
       },
       "O": {
         "6": 1
@@ -109,7 +108,7 @@
       }
     },
     "two_letter_list": {
-      "LO": 7,
+      "LO": 6,
       "OU": 1,
       "PL": 3,
       "PO": 14,

@@ -1,9 +1,9 @@
 {
   "pangram": "coupled",
   "center_letter": "c",
-  "num_answers": 46,
+  "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 211,
+  "possible_points": 228,
   "answer_pangrams": [
     "coupled"
   ],
@@ -11,6 +11,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "cello",
     "clod",
     "clop",
@@ -51,6 +52,8 @@
     "deduce",
     "deduced",
     "deuce",
+    "deuced",
+    "educe",
     "loco",
     "occlude",
     "occluded"
@@ -59,14 +62,15 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 10,
-      "6": 10,
+      "5": 11,
+      "6": 12,
       "7": 9,
       "8": 2
     },
     "by_first_letter": {
-      "C": 38,
-      "D": 5,
+      "C": 39,
+      "D": 6,
+      "E": 1,
       "L": 1,
       "O": 2
     },
@@ -74,14 +78,17 @@
       "C": {
         "4": 14,
         "5": 9,
-        "6": 8,
+        "6": 9,
         "7": 6,
         "8": 1
       },
       "D": {
         "5": 1,
-        "6": 2,
+        "6": 3,
         "7": 2
+      },
+      "E": {
+        "5": 1
       },
       "L": {
         "4": 1
@@ -92,11 +99,12 @@
       }
     },
     "two_letter_list": {
-      "CE": 4,
+      "CE": 5,
       "CL": 7,
       "CO": 21,
       "CU": 6,
-      "DE": 5,
+      "DE": 6,
+      "ED": 1,
       "LO": 1,
       "OC": 2
     }

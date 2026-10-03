@@ -1,9 +1,9 @@
 {
   "pangram": "inflame",
   "center_letter": "a",
-  "num_answers": 70,
+  "num_answers": 75,
   "num_pangrams": 1,
-  "possible_points": 298,
+  "possible_points": 328,
   "answer_pangrams": [
     "inflame"
   ],
@@ -11,9 +11,10 @@
     "aflame",
     "alfalfa",
     "alien",
+    "allele",
     "amen",
-    "anal",
     "anemia",
+    "aniline",
     "animal",
     "anime",
     "anneal",
@@ -22,11 +23,13 @@
     "enamel",
     "enema",
     "fail",
+    "falafel",
     "fall",
     "fallen",
     "fame",
     "familial",
     "famine",
+    "fella",
     "female",
     "filial",
     "final",
@@ -43,6 +46,7 @@
     "lain",
     "lama",
     "lame",
+    "lanai",
     "lane",
     "leaf",
     "lean",
@@ -75,6 +79,7 @@
     "minima",
     "minimal",
     "naan",
+    "naif",
     "nail",
     "name",
     "nana"
@@ -83,28 +88,28 @@
   "hints": {
     "by_length": {
       "4": 28,
-      "5": 13,
-      "6": 15,
-      "7": 8,
+      "5": 15,
+      "6": 16,
+      "7": 10,
       "8": 3,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 10,
       "E": 4,
-      "F": 16,
+      "F": 18,
       "I": 3,
-      "L": 10,
+      "L": 11,
       "M": 24,
-      "N": 4
+      "N": 5
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 2,
-        "6": 4,
-        "7": 1
+        "6": 5,
+        "7": 2
       },
       "E": {
         "4": 1,
@@ -113,9 +118,9 @@
       },
       "F": {
         "4": 5,
-        "5": 3,
+        "5": 4,
         "6": 5,
-        "7": 1,
+        "7": 2,
         "8": 2
       },
       "I": {
@@ -125,7 +130,7 @@
       },
       "L": {
         "4": 6,
-        "5": 2,
+        "5": 3,
         "6": 1,
         "7": 1
       },
@@ -139,31 +144,31 @@
         "10": 1
       },
       "N": {
-        "4": 4
+        "4": 5
       }
     },
     "two_letter_list": {
       "AF": 1,
-      "AL": 2,
+      "AL": 3,
       "AM": 1,
       "AN": 5,
       "EL": 1,
       "EM": 1,
       "EN": 2,
-      "FA": 6,
-      "FE": 1,
+      "FA": 7,
+      "FE": 2,
       "FI": 3,
       "FL": 6,
       "IM": 1,
       "IN": 2,
-      "LA": 4,
+      "LA": 5,
       "LE": 3,
       "LI": 2,
       "LL": 1,
       "MA": 16,
       "ME": 4,
       "MI": 4,
-      "NA": 4
+      "NA": 5
     }
   }
 }

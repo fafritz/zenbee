@@ -1,9 +1,9 @@
 {
   "pangram": "frantic",
   "center_letter": "r",
-  "num_answers": 48,
+  "num_answers": 49,
   "num_pangrams": 2,
-  "possible_points": 247,
+  "possible_points": 251,
   "answer_pangrams": [
     "antiaircraft",
     "frantic"
@@ -32,23 +32,24 @@
     "critic",
     "fair",
     "farina",
-    "fart",
     "franc",
     "frantic",
     "frat",
     "friar",
+    "infra",
     "irritant",
     "narc",
     "raffia",
     "raft",
     "rain",
     "rant",
-    "ratatat",
     "rattan",
     "riff",
     "riffraff",
     "rift",
+    "tantra",
     "tariff",
+    "tarn",
     "tart",
     "tartan",
     "tartar",
@@ -62,9 +63,9 @@
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 13,
-      "6": 11,
-      "7": 4,
+      "5": 14,
+      "6": 12,
+      "7": 3,
       "8": 5,
       "9": 1,
       "12": 1
@@ -72,11 +73,11 @@
     "by_first_letter": {
       "A": 12,
       "C": 9,
-      "F": 7,
-      "I": 1,
+      "F": 6,
+      "I": 2,
       "N": 1,
-      "R": 9,
-      "T": 9
+      "R": 8,
+      "T": 11
     },
     "grid": {
       "A": {
@@ -95,12 +96,13 @@
         "8": 1
       },
       "F": {
-        "4": 3,
+        "4": 2,
         "5": 2,
         "6": 1,
         "7": 1
       },
       "I": {
+        "5": 1,
         "8": 1
       },
       "N": {
@@ -109,13 +111,12 @@
       "R": {
         "4": 5,
         "6": 2,
-        "7": 1,
         "8": 1
       },
       "T": {
-        "4": 1,
+        "4": 2,
         "5": 4,
-        "6": 3,
+        "6": 4,
         "7": 1
       }
     },
@@ -128,13 +129,14 @@
       "CA": 4,
       "CI": 3,
       "CR": 2,
-      "FA": 3,
+      "FA": 2,
       "FR": 4,
+      "IN": 1,
       "IR": 1,
       "NA": 1,
-      "RA": 6,
+      "RA": 5,
       "RI": 3,
-      "TA": 4,
+      "TA": 6,
       "TI": 1,
       "TR": 4
     }

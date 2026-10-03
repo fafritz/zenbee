@@ -1,9 +1,9 @@
 {
   "pangram": "inboard",
   "center_letter": "a",
-  "num_answers": 60,
+  "num_answers": 61,
   "num_pangrams": 1,
-  "possible_points": 252,
+  "possible_points": 253,
   "answer_pangrams": [
     "inboard"
   ],
@@ -34,6 +34,7 @@
     "barrio",
     "boar",
     "board",
+    "boba",
     "brad",
     "braid",
     "brain",
@@ -72,7 +73,7 @@
   "date": "2035-02-09",
   "hints": {
     "by_length": {
-      "4": 21,
+      "4": 22,
       "5": 22,
       "6": 10,
       "7": 4,
@@ -81,7 +82,7 @@
     },
     "by_first_letter": {
       "A": 12,
-      "B": 22,
+      "B": 23,
       "D": 6,
       "I": 2,
       "N": 5,
@@ -96,7 +97,7 @@
         "7": 3
       },
       "B": {
-        "4": 8,
+        "4": 9,
         "5": 7,
         "6": 4,
         "8": 1,
@@ -130,7 +131,7 @@
       "AN": 4,
       "AR": 4,
       "BA": 12,
-      "BO": 2,
+      "BO": 3,
       "BR": 8,
       "DA": 2,
       "DI": 1,

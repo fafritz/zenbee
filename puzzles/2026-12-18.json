@@ -1,9 +1,9 @@
 {
   "pangram": "halogen",
   "center_letter": "a",
-  "num_answers": 47,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 171,
+  "possible_points": 180,
   "answer_pangrams": [
     "halogen"
   ],
@@ -12,11 +12,11 @@
     "alga",
     "algae",
     "allege",
+    "allele",
     "aloe",
     "aloha",
     "alone",
     "along",
-    "anal",
     "analog",
     "angel",
     "angle",
@@ -25,8 +25,10 @@
     "eagle",
     "elan",
     "engage",
+    "gaga",
     "gaggle",
     "gala",
+    "galangal",
     "gale",
     "galena",
     "gall",
@@ -35,7 +37,6 @@
     "gang",
     "glean",
     "goal",
-    "gonna",
     "haggle",
     "halal",
     "hale",
@@ -60,23 +61,24 @@
   "hints": {
     "by_length": {
       "4": 21,
-      "5": 15,
-      "6": 9,
-      "7": 2
+      "5": 14,
+      "6": 10,
+      "7": 2,
+      "8": 1
     },
     "by_first_letter": {
       "A": 14,
       "E": 3,
-      "G": 11,
+      "G": 12,
       "H": 11,
       "L": 6,
       "N": 2
     },
     "grid": {
       "A": {
-        "4": 5,
+        "4": 4,
         "5": 6,
-        "6": 3
+        "6": 4
       },
       "E": {
         "4": 1,
@@ -84,10 +86,11 @@
         "6": 1
       },
       "G": {
-        "4": 5,
-        "5": 2,
+        "4": 6,
+        "5": 1,
         "6": 3,
-        "7": 1
+        "7": 1,
+        "8": 1
       },
       "H": {
         "4": 5,
@@ -106,14 +109,14 @@
     },
     "two_letter_list": {
       "AG": 1,
-      "AL": 7,
-      "AN": 6,
+      "AL": 8,
+      "AN": 5,
       "EA": 1,
       "EL": 1,
       "EN": 1,
-      "GA": 8,
+      "GA": 10,
       "GL": 1,
-      "GO": 2,
+      "GO": 1,
       "HA": 8,
       "HE": 2,
       "HO": 1,

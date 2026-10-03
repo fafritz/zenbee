@@ -1,9 +1,9 @@
 {
   "pangram": "tumbled",
   "center_letter": "t",
-  "num_answers": 37,
+  "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 151,
+  "possible_points": 157,
   "answer_pangrams": [
     "tumbled"
   ],
@@ -38,6 +38,7 @@
     "teem",
     "teemed",
     "tell",
+    "tubbed",
     "tube",
     "tubed",
     "tulle",
@@ -51,7 +52,7 @@
     "by_length": {
       "4": 15,
       "5": 7,
-      "6": 11,
+      "6": 12,
       "7": 4
     },
     "by_first_letter": {
@@ -60,7 +61,7 @@
       "E": 1,
       "L": 1,
       "M": 10,
-      "T": 11
+      "T": 12
     },
     "grid": {
       "B": {
@@ -89,7 +90,7 @@
       "T": {
         "4": 5,
         "5": 2,
-        "6": 3,
+        "6": 4,
         "7": 1
       }
     },
@@ -103,7 +104,7 @@
       "ME": 6,
       "MU": 4,
       "TE": 4,
-      "TU": 7
+      "TU": 8
     }
   }
 }

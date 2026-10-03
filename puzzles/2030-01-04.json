@@ -1,9 +1,9 @@
 {
   "pangram": "fraying",
   "center_letter": "f",
-  "num_answers": 27,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 138,
+  "possible_points": 151,
   "answer_pangrams": [
     "fraying"
   ],
@@ -11,6 +11,7 @@
     "afar",
     "affair",
     "fair",
+    "fairing",
     "fairy",
     "fang",
     "fanning",
@@ -30,7 +31,9 @@
     "gaffing",
     "griffin",
     "iffy",
+    "infra",
     "infringing",
+    "naif",
     "raffia",
     "riff",
     "riffing",
@@ -39,18 +42,19 @@
   "date": "2030-01-04",
   "hints": {
     "by_length": {
-      "4": 8,
-      "5": 4,
+      "4": 9,
+      "5": 5,
       "6": 7,
-      "7": 5,
+      "7": 6,
       "8": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 2,
-      "F": 16,
+      "F": 17,
       "G": 3,
-      "I": 2,
+      "I": 3,
+      "N": 1,
       "R": 4
     },
     "grid": {
@@ -62,7 +66,7 @@
         "4": 4,
         "5": 4,
         "6": 5,
-        "7": 2,
+        "7": 3,
         "8": 1
       },
       "G": {
@@ -71,7 +75,11 @@
       },
       "I": {
         "4": 1,
+        "5": 1,
         "10": 1
+      },
+      "N": {
+        "4": 1
       },
       "R": {
         "4": 1,
@@ -82,13 +90,14 @@
     },
     "two_letter_list": {
       "AF": 2,
-      "FA": 7,
+      "FA": 8,
       "FI": 3,
       "FR": 6,
       "GA": 2,
       "GR": 1,
       "IF": 1,
-      "IN": 1,
+      "IN": 2,
+      "NA": 1,
       "RA": 1,
       "RI": 3
     }

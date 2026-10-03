@@ -1,9 +1,9 @@
 {
   "pangram": "virtual",
   "center_letter": "a",
-  "num_answers": 45,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 202,
+  "possible_points": 195,
   "answer_pangrams": [
     "virtual"
   ],
@@ -27,7 +27,6 @@
     "lira",
     "luau",
     "rail",
-    "ratatat",
     "ritual",
     "rival",
     "rural",
@@ -60,13 +59,13 @@
       "4": 13,
       "5": 18,
       "6": 7,
-      "7": 6,
+      "7": 5,
       "8": 1
     },
     "by_first_letter": {
       "A": 10,
       "L": 8,
-      "R": 5,
+      "R": 4,
       "T": 13,
       "U": 3,
       "V": 6
@@ -87,8 +86,7 @@
       "R": {
         "4": 1,
         "5": 2,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
         "4": 4,
@@ -115,7 +113,7 @@
       "LA": 5,
       "LI": 2,
       "LU": 1,
-      "RA": 2,
+      "RA": 1,
       "RI": 2,
       "RU": 1,
       "TA": 5,

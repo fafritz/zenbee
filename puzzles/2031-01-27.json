@@ -1,9 +1,9 @@
 {
   "pangram": "impound",
   "center_letter": "d",
-  "num_answers": 19,
+  "num_answers": 17,
   "num_pangrams": 1,
-  "possible_points": 78,
+  "possible_points": 72,
   "answer_pangrams": [
     "impound"
   ],
@@ -13,10 +13,8 @@
     "domino",
     "doom",
     "dump",
-    "dunno",
     "idiom",
     "impound",
-    "ipod",
     "mind",
     "mood",
     "mound",
@@ -31,15 +29,15 @@
   "date": "2031-01-27",
   "hints": {
     "by_length": {
-      "4": 8,
-      "5": 6,
+      "4": 7,
+      "5": 5,
       "6": 3,
       "7": 1,
       "8": 1
     },
     "by_first_letter": {
-      "D": 6,
-      "I": 3,
+      "D": 5,
+      "I": 2,
       "M": 3,
       "O": 2,
       "P": 3,
@@ -48,12 +46,10 @@
     "grid": {
       "D": {
         "4": 3,
-        "5": 1,
         "6": 1,
         "8": 1
       },
       "I": {
-        "4": 1,
         "5": 1,
         "7": 1
       },
@@ -77,10 +73,9 @@
     },
     "two_letter_list": {
       "DO": 4,
-      "DU": 2,
+      "DU": 1,
       "ID": 1,
       "IM": 1,
-      "IP": 1,
       "MI": 1,
       "MO": 2,
       "OD": 1,

@@ -3,7 +3,7 @@
   "center_letter": "r",
   "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 91,
+  "possible_points": 87,
   "answer_pangrams": [
     "trilogy"
   ],
@@ -20,13 +20,13 @@
     "groggy",
     "grotto",
     "gyro",
-    "lorry",
     "rigor",
     "rill",
     "riot",
     "roil",
     "roll",
     "root",
+    "roti",
     "rotor",
     "tort",
     "trill",
@@ -40,16 +40,15 @@
   "date": "2036-08-19",
   "hints": {
     "by_length": {
-      "4": 16,
-      "5": 7,
+      "4": 17,
+      "5": 6,
       "6": 3,
       "7": 1,
       "8": 1
     },
     "by_first_letter": {
       "G": 12,
-      "L": 1,
-      "R": 7,
+      "R": 8,
       "T": 8
     },
     "grid": {
@@ -59,11 +58,8 @@
         "6": 3,
         "8": 1
       },
-      "L": {
-        "5": 1
-      },
       "R": {
-        "4": 5,
+        "4": 6,
         "5": 2
       },
       "T": {
@@ -78,9 +74,8 @@
       "GO": 1,
       "GR": 7,
       "GY": 1,
-      "LO": 1,
       "RI": 3,
-      "RO": 4,
+      "RO": 5,
       "TO": 1,
       "TR": 6,
       "TY": 1

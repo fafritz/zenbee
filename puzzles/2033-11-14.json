@@ -1,9 +1,9 @@
 {
   "pangram": "wangled",
   "center_letter": "g",
-  "num_answers": 61,
+  "num_answers": 63,
   "num_pangrams": 1,
-  "possible_points": 296,
+  "possible_points": 305,
   "answer_pangrams": [
     "wangled"
   ],
@@ -27,9 +27,11 @@
     "engage",
     "engaged",
     "gadded",
+    "gaga",
     "gagged",
     "gaggle",
     "gala",
+    "galangal",
     "gale",
     "galena",
     "gall",
@@ -73,18 +75,18 @@
   "date": "2033-11-14",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 16,
       "5": 14,
       "6": 23,
       "7": 7,
-      "8": 1,
+      "8": 2,
       "9": 1
     },
     "by_first_letter": {
       "A": 10,
       "D": 2,
       "E": 6,
-      "G": 28,
+      "G": 30,
       "L": 5,
       "N": 1,
       "W": 9
@@ -107,11 +109,11 @@
         "7": 1
       },
       "G": {
-        "4": 11,
+        "4": 12,
         "5": 3,
         "6": 10,
         "7": 2,
-        "8": 1,
+        "8": 2,
         "9": 1
       },
       "L": {
@@ -138,7 +140,7 @@
       "ED": 2,
       "EG": 1,
       "EN": 2,
-      "GA": 11,
+      "GA": 13,
       "GE": 6,
       "GL": 9,
       "GN": 2,

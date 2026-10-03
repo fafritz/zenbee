@@ -1,9 +1,9 @@
 {
   "pangram": "clewing",
   "center_letter": "l",
-  "num_answers": 37,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 194,
+  "possible_points": 220,
   "answer_pangrams": [
     "clewing"
   ],
@@ -15,7 +15,9 @@
     "cling",
     "clinging",
     "clinic",
+    "eeling",
     "gelling",
+    "giclee",
     "giggle",
     "giggling",
     "gill",
@@ -26,9 +28,11 @@
     "inclining",
     "inline",
     "legging",
+    "lenience",
     "lice",
     "liege",
     "lien",
+    "lignin",
     "line",
     "linen",
     "lining",
@@ -51,17 +55,18 @@
     "by_length": {
       "4": 11,
       "5": 4,
-      "6": 8,
+      "6": 11,
       "7": 7,
-      "8": 5,
+      "8": 6,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
       "C": 7,
-      "G": 6,
+      "E": 1,
+      "G": 7,
       "I": 4,
-      "L": 7,
+      "L": 9,
       "N": 5,
       "W": 8
     },
@@ -73,9 +78,12 @@
         "7": 2,
         "8": 1
       },
+      "E": {
+        "6": 1
+      },
       "G": {
         "4": 3,
-        "6": 1,
+        "6": 2,
         "7": 1,
         "8": 1
       },
@@ -87,8 +95,9 @@
       "L": {
         "4": 3,
         "5": 2,
-        "6": 1,
-        "7": 1
+        "6": 2,
+        "7": 1,
+        "8": 1
       },
       "N": {
         "5": 1,
@@ -106,13 +115,14 @@
     "two_letter_list": {
       "CE": 2,
       "CL": 5,
+      "EE": 1,
       "GE": 1,
-      "GI": 3,
+      "GI": 4,
       "GL": 2,
       "IC": 1,
       "IN": 3,
-      "LE": 1,
-      "LI": 6,
+      "LE": 2,
+      "LI": 7,
       "NE": 3,
       "NI": 2,
       "WE": 2,

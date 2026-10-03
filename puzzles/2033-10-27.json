@@ -1,9 +1,9 @@
 {
   "pangram": "crazing",
   "center_letter": "a",
-  "num_answers": 58,
+  "num_answers": 61,
   "num_pangrams": 1,
-  "possible_points": 307,
+  "possible_points": 325,
   "answer_pangrams": [
     "crazing"
   ],
@@ -36,6 +36,7 @@
     "crazing",
     "czar",
     "czarina",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -46,6 +47,8 @@
     "gracing",
     "grain",
     "grazing",
+    "ingrain",
+    "ingraining",
     "naan",
     "nagging",
     "nana",
@@ -70,18 +73,19 @@
   "date": "2033-10-27",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 15,
       "5": 8,
       "6": 16,
-      "7": 15,
+      "7": 16,
       "8": 2,
       "9": 1,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 14,
       "C": 14,
-      "G": 10,
+      "G": 11,
+      "I": 2,
       "N": 5,
       "R": 12,
       "Z": 3
@@ -103,11 +107,15 @@
         "7": 4
       },
       "G": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "6": 1,
         "7": 5,
         "8": 1
+      },
+      "I": {
+        "7": 1,
+        "10": 1
       },
       "N": {
         "4": 3,
@@ -134,8 +142,9 @@
       "CI": 2,
       "CR": 3,
       "CZ": 2,
-      "GA": 7,
+      "GA": 8,
       "GR": 3,
+      "IN": 2,
       "NA": 4,
       "NI": 1,
       "RA": 12,

@@ -1,9 +1,9 @@
 {
   "pangram": "vibrato",
   "center_letter": "r",
-  "num_answers": 41,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 185,
+  "possible_points": 186,
   "answer_pangrams": [
     "vibrato"
   ],
@@ -25,17 +25,18 @@
     "brat",
     "bravo",
     "briar",
+    "brio",
     "orator",
     "oratorio",
     "orbit",
     "rabbi",
     "rabbit",
-    "ratatat",
     "ratio",
     "riot",
     "roar",
     "robot",
     "root",
+    "roti",
     "rotor",
     "taro",
     "tarot",
@@ -48,25 +49,26 @@
     "trio",
     "trivia",
     "trot",
-    "vibrato"
+    "vibrato",
+    "vibrio"
   ],
   "date": "2029-12-18",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 15,
       "5": 15,
-      "6": 6,
-      "7": 4,
+      "6": 7,
+      "7": 3,
       "8": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 10,
-      "B": 7,
+      "B": 8,
       "O": 3,
       "R": 9,
       "T": 11,
-      "V": 1
+      "V": 2
     },
     "grid": {
       "A": {
@@ -78,7 +80,7 @@
         "10": 1
       },
       "B": {
-        "4": 4,
+        "4": 5,
         "5": 2,
         "6": 1
       },
@@ -88,10 +90,9 @@
         "8": 1
       },
       "R": {
-        "4": 3,
+        "4": 4,
         "5": 4,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
         "4": 5,
@@ -100,6 +101,7 @@
         "7": 1
       },
       "V": {
+        "6": 1,
         "7": 1
       }
     },
@@ -111,16 +113,16 @@
       "AV": 2,
       "BA": 2,
       "BO": 2,
-      "BR": 3,
+      "BR": 4,
       "OR": 3,
-      "RA": 4,
+      "RA": 3,
       "RI": 1,
-      "RO": 4,
+      "RO": 5,
       "TA": 4,
       "TI": 1,
       "TO": 1,
       "TR": 5,
-      "VI": 1
+      "VI": 2
     }
   }
 }

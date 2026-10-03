@@ -1,9 +1,9 @@
 {
   "pangram": "whaling",
   "center_letter": "a",
-  "num_answers": 55,
+  "num_answers": 57,
   "num_pangrams": 1,
-  "possible_points": 281,
+  "possible_points": 294,
   "answer_pangrams": [
     "whaling"
   ],
@@ -14,15 +14,16 @@
     "alga",
     "align",
     "aligning",
-    "anal",
     "angina",
     "angling",
     "awing",
     "awning",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -44,6 +45,7 @@
     "inhaling",
     "lagging",
     "lain",
+    "lanai",
     "lawn",
     "naan",
     "nagging",
@@ -68,33 +70,33 @@
   "hints": {
     "by_length": {
       "4": 17,
-      "5": 5,
+      "5": 6,
       "6": 9,
       "7": 16,
-      "8": 7,
+      "8": 8,
       "10": 1
     },
     "by_first_letter": {
-      "A": 11,
-      "G": 12,
+      "A": 10,
+      "G": 14,
       "H": 10,
       "I": 1,
-      "L": 3,
+      "L": 4,
       "N": 5,
       "W": 13
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 4,
         "6": 3,
         "7": 1,
         "8": 1
       },
       "G": {
-        "4": 5,
+        "4": 6,
         "7": 6,
-        "8": 1
+        "8": 2
       },
       "H": {
         "4": 3,
@@ -108,6 +110,7 @@
       },
       "L": {
         "4": 2,
+        "5": 1,
         "7": 1
       },
       "N": {
@@ -126,13 +129,13 @@
       "AG": 2,
       "AI": 1,
       "AL": 3,
-      "AN": 3,
+      "AN": 2,
       "AW": 2,
-      "GA": 10,
+      "GA": 12,
       "GN": 2,
       "HA": 10,
       "IN": 1,
-      "LA": 3,
+      "LA": 4,
       "NA": 5,
       "WA": 10,
       "WH": 1,

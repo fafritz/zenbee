@@ -1,15 +1,16 @@
 {
   "pangram": "exploit",
   "center_letter": "e",
-  "num_answers": 43,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 170,
+  "possible_points": 175,
   "answer_pangrams": [
     "exploit"
   ],
   "answers": [
     "elite",
     "elope",
+    "elote",
     "epee",
     "exile",
     "exit",
@@ -56,13 +57,13 @@
   "hints": {
     "by_length": {
       "4": 18,
-      "5": 10,
+      "5": 11,
       "6": 11,
       "7": 3,
       "8": 1
     },
     "by_first_letter": {
-      "E": 9,
+      "E": 10,
       "L": 3,
       "O": 1,
       "P": 16,
@@ -71,7 +72,7 @@
     "grid": {
       "E": {
         "4": 3,
-        "5": 5,
+        "5": 6,
         "7": 1
       },
       "L": {
@@ -96,7 +97,7 @@
       }
     },
     "two_letter_list": {
-      "EL": 2,
+      "EL": 3,
       "EP": 1,
       "EX": 6,
       "LI": 2,

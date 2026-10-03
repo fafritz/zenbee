@@ -1,9 +1,9 @@
 {
   "pangram": "flaying",
   "center_letter": "l",
-  "num_answers": 52,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 269,
+  "possible_points": 300,
   "answer_pangrams": [
     "flaying"
   ],
@@ -17,7 +17,6 @@
     "allaying",
     "ally",
     "allying",
-    "anal",
     "angling",
     "fail",
     "failing",
@@ -36,12 +35,15 @@
     "flail",
     "flailing",
     "flan",
+    "flanging",
     "flay",
     "flaying",
     "fling",
     "flinging",
     "flying",
+    "gaily",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "ganglia",
@@ -53,7 +55,9 @@
     "inlaying",
     "lagging",
     "lain",
+    "lanai",
     "laying",
+    "lignin",
     "lily",
     "lining",
     "lying",
@@ -64,24 +68,24 @@
   "date": "2028-08-02",
   "hints": {
     "by_length": {
-      "4": 15,
-      "5": 8,
-      "6": 7,
+      "4": 14,
+      "5": 10,
+      "6": 8,
       "7": 12,
-      "8": 9,
+      "8": 11,
       "9": 1
     },
     "by_first_letter": {
-      "A": 11,
-      "F": 22,
-      "G": 8,
+      "A": 10,
+      "F": 23,
+      "G": 10,
       "I": 2,
-      "L": 6,
+      "L": 8,
       "N": 3
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 2,
         "6": 1,
         "7": 3,
@@ -92,14 +96,15 @@
         "5": 4,
         "6": 3,
         "7": 5,
-        "8": 3,
+        "8": 4,
         "9": 1
       },
       "G": {
         "4": 3,
+        "5": 1,
         "6": 1,
         "7": 2,
-        "8": 2
+        "8": 3
       },
       "I": {
         "5": 1,
@@ -107,8 +112,8 @@
       },
       "L": {
         "4": 2,
-        "5": 1,
-        "6": 2,
+        "5": 2,
+        "6": 3,
         "7": 1
       },
       "N": {
@@ -120,15 +125,15 @@
     "two_letter_list": {
       "AI": 1,
       "AL": 8,
-      "AN": 2,
+      "AN": 1,
       "FA": 4,
       "FI": 8,
-      "FL": 10,
-      "GA": 5,
+      "FL": 11,
+      "GA": 7,
       "GI": 3,
       "IN": 2,
-      "LA": 3,
-      "LI": 2,
+      "LA": 4,
+      "LI": 3,
       "LY": 1,
       "NA": 2,
       "NI": 1

@@ -1,9 +1,9 @@
 {
   "pangram": "healing",
   "center_letter": "a",
-  "num_answers": 71,
+  "num_answers": 75,
   "num_pangrams": 1,
-  "possible_points": 360,
+  "possible_points": 386,
   "answer_pangrams": [
     "healing"
   ],
@@ -19,22 +19,25 @@
     "aligning",
     "allege",
     "alleging",
-    "anal",
+    "allele",
     "angel",
     "angina",
     "angle",
     "angling",
+    "aniline",
     "anneal",
     "annealing",
     "eagle",
     "elan",
     "engage",
     "engaging",
+    "gaga",
     "gagging",
     "gaggle",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gale",
     "galena",
     "gall",
@@ -67,6 +70,7 @@
     "inhaling",
     "lagging",
     "lain",
+    "lanai",
     "lane",
     "lean",
     "leaning",
@@ -84,27 +88,27 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 14,
-      "6": 13,
-      "7": 15,
-      "8": 9,
+      "5": 15,
+      "6": 14,
+      "7": 16,
+      "8": 10,
       "9": 1
     },
     "by_first_letter": {
-      "A": 18,
+      "A": 19,
       "E": 4,
-      "G": 16,
+      "G": 18,
       "H": 15,
       "I": 4,
-      "L": 9,
+      "L": 10,
       "N": 5
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 8,
-        "6": 4,
-        "7": 1,
+        "6": 5,
+        "7": 2,
         "8": 2,
         "9": 1
       },
@@ -115,11 +119,11 @@
         "8": 1
       },
       "G": {
-        "4": 5,
+        "4": 6,
         "5": 1,
         "6": 3,
         "7": 5,
-        "8": 2
+        "8": 3
       },
       "H": {
         "4": 5,
@@ -136,7 +140,7 @@
       },
       "L": {
         "4": 3,
-        "5": 1,
+        "5": 2,
         "6": 2,
         "7": 3
       },
@@ -148,19 +152,19 @@
     "two_letter_list": {
       "AG": 3,
       "AI": 1,
-      "AL": 7,
+      "AL": 8,
       "AN": 7,
       "EA": 1,
       "EL": 1,
       "EN": 2,
-      "GA": 13,
+      "GA": 15,
       "GE": 1,
       "GL": 2,
       "HA": 11,
       "HE": 4,
       "IL": 1,
       "IN": 3,
-      "LA": 3,
+      "LA": 4,
       "LE": 3,
       "LI": 3,
       "NA": 5

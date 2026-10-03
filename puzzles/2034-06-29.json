@@ -1,9 +1,9 @@
 {
   "pangram": "bathing",
   "center_letter": "h",
-  "num_answers": 31,
+  "num_answers": 30,
   "num_pangrams": 2,
-  "possible_points": 172,
+  "possible_points": 171,
   "answer_pangrams": [
     "bathing",
     "inhabiting"
@@ -19,7 +19,6 @@
     "hating",
     "hatting",
     "high",
-    "hing",
     "hinging",
     "hint",
     "hinting",
@@ -44,7 +43,7 @@
   "date": "2034-06-29",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 8,
       "5": 7,
       "6": 1,
       "7": 10,
@@ -53,7 +52,7 @@
     },
     "by_first_letter": {
       "B": 3,
-      "H": 12,
+      "H": 11,
       "I": 5,
       "N": 3,
       "T": 8
@@ -65,7 +64,7 @@
         "7": 1
       },
       "H": {
-        "4": 4,
+        "4": 3,
         "5": 1,
         "6": 1,
         "7": 6
@@ -89,7 +88,7 @@
       "BA": 2,
       "BI": 1,
       "HA": 6,
-      "HI": 6,
+      "HI": 5,
       "IN": 5,
       "NI": 3,
       "TH": 6,

@@ -3,7 +3,7 @@
   "center_letter": "r",
   "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 172,
+  "possible_points": 171,
   "answer_pangrams": [
     "truancy"
   ],
@@ -22,7 +22,6 @@
     "cart",
     "cataract",
     "cranny",
-    "cray",
     "curacy",
     "currant",
     "curry",
@@ -30,11 +29,12 @@
     "narc",
     "racy",
     "rant",
-    "ratatat",
     "rattan",
     "ratty",
     "runny",
     "runt",
+    "tantra",
+    "tarn",
     "tart",
     "tartan",
     "tartar",
@@ -52,16 +52,16 @@
     "by_length": {
       "4": 13,
       "5": 8,
-      "6": 9,
-      "7": 6,
+      "6": 10,
+      "7": 5,
       "8": 2
     },
     "by_first_letter": {
       "A": 8,
-      "C": 11,
+      "C": 10,
       "N": 1,
-      "R": 7,
-      "T": 10,
+      "R": 6,
+      "T": 12,
       "Y": 1
     },
     "grid": {
@@ -73,7 +73,7 @@
         "8": 1
       },
       "C": {
-        "4": 3,
+        "4": 2,
         "5": 3,
         "6": 3,
         "7": 1,
@@ -85,13 +85,12 @@
       "R": {
         "4": 3,
         "5": 2,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
-        "4": 3,
+        "4": 4,
         "5": 1,
-        "6": 4,
+        "6": 5,
         "7": 2
       },
       "Y": {
@@ -104,12 +103,12 @@
       "AT": 2,
       "AU": 1,
       "CA": 5,
-      "CR": 2,
+      "CR": 1,
       "CU": 4,
       "NA": 1,
-      "RA": 5,
+      "RA": 4,
       "RU": 2,
-      "TA": 3,
+      "TA": 5,
       "TR": 4,
       "TU": 1,
       "TY": 2,

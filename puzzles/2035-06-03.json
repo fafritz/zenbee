@@ -3,7 +3,7 @@
   "center_letter": "a",
   "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 102,
+  "possible_points": 106,
   "answer_pangrams": [
     "impeach"
   ],
@@ -12,7 +12,6 @@
     "acai",
     "ache",
     "acme",
-    "ahem",
     "apace",
     "apiece",
     "cache",
@@ -36,6 +35,7 @@
     "mecca",
     "mica",
     "pace",
+    "pampa",
     "papa",
     "peace",
     "peach",
@@ -44,23 +44,23 @@
   "date": "2035-06-03",
   "hints": {
     "by_length": {
-      "4": 18,
-      "5": 8,
+      "4": 17,
+      "5": 9,
       "6": 5,
       "7": 1
     },
     "by_first_letter": {
-      "A": 7,
+      "A": 6,
       "C": 7,
       "E": 1,
       "H": 2,
       "I": 3,
       "M": 7,
-      "P": 5
+      "P": 6
     },
     "grid": {
       "A": {
-        "4": 4,
+        "4": 3,
         "5": 1,
         "6": 2
       },
@@ -87,12 +87,11 @@
       },
       "P": {
         "4": 3,
-        "5": 2
+        "5": 3
       }
     },
     "two_letter_list": {
       "AC": 4,
-      "AH": 1,
       "AP": 2,
       "CA": 4,
       "CH": 3,
@@ -104,7 +103,7 @@
       "MA": 5,
       "ME": 1,
       "MI": 1,
-      "PA": 2,
+      "PA": 3,
       "PE": 2,
       "PI": 1
     }

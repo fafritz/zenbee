@@ -1,9 +1,9 @@
 {
   "pangram": "baloney",
   "center_letter": "b",
-  "num_answers": 55,
+  "num_answers": 54,
   "num_pangrams": 1,
-  "possible_points": 204,
+  "possible_points": 198,
   "answer_pangrams": [
     "baloney"
   ],
@@ -38,6 +38,7 @@
     "belly",
     "blab",
     "blob",
+    "boba",
     "bobble",
     "bobby",
     "bola",
@@ -47,10 +48,8 @@
     "bone",
     "bony",
     "boob",
-    "booboo",
     "booby",
     "boon",
-    "ebay",
     "ebony",
     "enable",
     "ennoble",
@@ -69,13 +68,13 @@
     "by_length": {
       "4": 25,
       "5": 14,
-      "6": 10,
+      "6": 9,
       "7": 6
     },
     "by_first_letter": {
       "A": 5,
       "B": 37,
-      "E": 5,
+      "E": 4,
       "L": 3,
       "N": 3,
       "O": 2
@@ -87,13 +86,12 @@
         "7": 1
       },
       "B": {
-        "4": 18,
+        "4": 19,
         "5": 7,
-        "6": 9,
+        "6": 8,
         "7": 3
       },
       "E": {
-        "4": 1,
         "5": 1,
         "6": 1,
         "7": 2
@@ -115,7 +113,7 @@
       "BE": 7,
       "BL": 2,
       "BO": 12,
-      "EB": 2,
+      "EB": 1,
       "EN": 2,
       "EY": 1,
       "LA": 1,

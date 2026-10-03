@@ -1,9 +1,9 @@
 {
   "pangram": "placing",
   "center_letter": "p",
-  "num_answers": 48,
+  "num_answers": 50,
   "num_pangrams": 2,
-  "possible_points": 273,
+  "possible_points": 284,
   "answer_pangrams": [
     "clapping",
     "placing"
@@ -33,6 +33,7 @@
     "palling",
     "pang",
     "panic",
+    "panini",
     "panning",
     "papa",
     "papal",
@@ -48,6 +49,7 @@
     "ping",
     "pinging",
     "pining",
+    "pinna",
     "pinning",
     "piping",
     "pippin",
@@ -62,8 +64,8 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 5,
-      "6": 11,
+      "5": 6,
+      "6": 12,
       "7": 15,
       "8": 3,
       "9": 2,
@@ -75,7 +77,7 @@
       "G": 1,
       "L": 1,
       "N": 2,
-      "P": 35
+      "P": 37
     },
     "grid": {
       "A": {
@@ -99,8 +101,8 @@
       },
       "P": {
         "4": 9,
-        "5": 4,
-        "6": 8,
+        "5": 5,
+        "6": 9,
         "7": 11,
         "8": 1,
         "9": 1,
@@ -116,8 +118,8 @@
       "LA": 1,
       "NA": 1,
       "NI": 1,
-      "PA": 15,
-      "PI": 15,
+      "PA": 16,
+      "PI": 16,
       "PL": 5
     }
   }

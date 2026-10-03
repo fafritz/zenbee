@@ -1,9 +1,9 @@
 {
   "pangram": "touring",
   "center_letter": "t",
-  "num_answers": 75,
+  "num_answers": 78,
   "num_pangrams": 5,
-  "possible_points": 435,
+  "possible_points": 444,
   "answer_pangrams": [
     "outrunning",
     "routing",
@@ -46,6 +46,7 @@
     "rioting",
     "root",
     "rooting",
+    "roti",
     "rotor",
     "rotting",
     "rout",
@@ -56,6 +57,8 @@
     "tint",
     "tinting",
     "tiring",
+    "tong",
+    "tonging",
     "tonguing",
     "toning",
     "toon",
@@ -91,10 +94,10 @@
   "date": "2038-04-08",
   "hints": {
     "by_length": {
-      "4": 21,
+      "4": 23,
       "5": 7,
       "6": 11,
-      "7": 19,
+      "7": 20,
       "8": 10,
       "9": 5,
       "10": 2
@@ -104,8 +107,8 @@
       "I": 10,
       "N": 5,
       "O": 6,
-      "R": 10,
-      "T": 32,
+      "R": 11,
+      "T": 34,
       "U": 3
     },
     "grid": {
@@ -137,15 +140,15 @@
         "10": 1
       },
       "R": {
-        "4": 4,
+        "4": 5,
         "5": 1,
         "7": 5
       },
       "T": {
-        "4": 11,
+        "4": 12,
         "5": 2,
         "6": 5,
-        "7": 10,
+        "7": 11,
         "8": 3,
         "9": 1
       },
@@ -167,10 +170,10 @@
       "ON": 1,
       "OU": 5,
       "RI": 2,
-      "RO": 6,
+      "RO": 7,
       "RU": 2,
       "TI": 4,
-      "TO": 14,
+      "TO": 16,
       "TR": 5,
       "TU": 9,
       "UN": 3

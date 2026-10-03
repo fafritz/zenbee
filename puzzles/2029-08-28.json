@@ -1,19 +1,21 @@
 {
   "pangram": "clinked",
   "center_letter": "d",
-  "num_answers": 71,
+  "num_answers": 75,
   "num_pangrams": 1,
-  "possible_points": 349,
+  "possible_points": 367,
   "answer_pangrams": [
     "clinked"
   ],
   "answers": [
     "cede",
     "ceded",
+    "celled",
     "clicked",
     "clinked",
     "decide",
     "decided",
+    "decile",
     "deck",
     "decked",
     "deckle",
@@ -39,6 +41,7 @@
     "dink",
     "dinned",
     "eddied",
+    "eeled",
     "eked",
     "elide",
     "elided",
@@ -64,6 +67,7 @@
     "kinked",
     "kneed",
     "knelled",
+    "lede",
     "lend",
     "licked",
     "lidded",
@@ -83,38 +87,39 @@
   "date": "2029-08-28",
   "hints": {
     "by_length": {
-      "4": 18,
-      "5": 12,
-      "6": 28,
+      "4": 19,
+      "5": 13,
+      "6": 30,
       "7": 9,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
-      "C": 4,
-      "D": 26,
-      "E": 5,
+      "C": 5,
+      "D": 27,
+      "E": 6,
       "I": 7,
       "K": 14,
-      "L": 9,
+      "L": 10,
       "N": 6
     },
     "grid": {
       "C": {
         "4": 1,
         "5": 1,
+        "6": 1,
         "7": 2
       },
       "D": {
         "4": 10,
         "5": 4,
-        "6": 8,
+        "6": 9,
         "7": 3,
         "8": 1
       },
       "E": {
         "4": 1,
-        "5": 2,
+        "5": 3,
         "6": 2
       },
       "I": {
@@ -132,7 +137,7 @@
         "8": 1
       },
       "L": {
-        "4": 2,
+        "4": 3,
         "5": 2,
         "6": 4,
         "7": 1
@@ -144,11 +149,12 @@
       }
     },
     "two_letter_list": {
-      "CE": 2,
+      "CE": 3,
       "CL": 2,
-      "DE": 14,
+      "DE": 15,
       "DI": 12,
       "ED": 1,
+      "EE": 1,
       "EK": 1,
       "EL": 2,
       "EN": 1,
@@ -158,7 +164,7 @@
       "KE": 4,
       "KI": 8,
       "KN": 2,
-      "LE": 1,
+      "LE": 2,
       "LI": 8,
       "NE": 5,
       "NI": 1

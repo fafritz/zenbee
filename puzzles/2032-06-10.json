@@ -1,9 +1,9 @@
 {
   "pangram": "thawing",
   "center_letter": "a",
-  "num_answers": 57,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 289,
+  "possible_points": 290,
   "answer_pangrams": [
     "thawing"
   ],
@@ -19,6 +19,7 @@
     "awaiting",
     "awing",
     "awning",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -69,7 +70,7 @@
   "date": "2032-06-10",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 9,
       "6": 10,
       "7": 14,
@@ -79,7 +80,7 @@
     },
     "by_first_letter": {
       "A": 11,
-      "G": 11,
+      "G": 12,
       "H": 5,
       "I": 1,
       "N": 3,
@@ -95,7 +96,7 @@
         "9": 2
       },
       "G": {
-        "4": 5,
+        "4": 6,
         "5": 1,
         "6": 1,
         "7": 4
@@ -131,7 +132,7 @@
       "AN": 2,
       "AT": 2,
       "AW": 4,
-      "GA": 7,
+      "GA": 8,
       "GI": 1,
       "GN": 3,
       "HA": 5,

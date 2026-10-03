@@ -1,9 +1,9 @@
 {
   "pangram": "voyaged",
   "center_letter": "a",
-  "num_answers": 19,
+  "num_answers": 20,
   "num_pangrams": 1,
-  "possible_points": 82,
+  "possible_points": 83,
   "answer_pangrams": [
     "voyaged"
   ],
@@ -20,6 +20,7 @@
     "evade",
     "evaded",
     "gadded",
+    "gaga",
     "gagged",
     "gave",
     "goad",
@@ -31,7 +32,7 @@
   "date": "2033-11-23",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 8,
       "5": 5,
       "6": 6,
       "7": 1
@@ -40,7 +41,7 @@
       "A": 5,
       "D": 4,
       "E": 2,
-      "G": 5,
+      "G": 6,
       "V": 2,
       "Y": 1
     },
@@ -59,7 +60,7 @@
         "6": 1
       },
       "G": {
-        "4": 2,
+        "4": 3,
         "6": 3
       },
       "V": {
@@ -77,7 +78,7 @@
       "DE": 1,
       "DO": 1,
       "EV": 2,
-      "GA": 3,
+      "GA": 4,
       "GO": 2,
       "VO": 2,
       "YO": 1

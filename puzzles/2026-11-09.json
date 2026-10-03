@@ -1,9 +1,9 @@
 {
   "pangram": "kitchen",
   "center_letter": "t",
-  "num_answers": 48,
+  "num_answers": 49,
   "num_pangrams": 3,
-  "possible_points": 236,
+  "possible_points": 237,
   "answer_pangrams": [
     "kitchen",
     "kitchenette",
@@ -55,6 +55,7 @@
     "think",
     "tick",
     "ticket",
+    "tiki",
     "tine",
     "tint",
     "tithe"
@@ -62,7 +63,7 @@
   "date": "2026-11-09",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 11,
       "6": 9,
       "7": 6,
@@ -78,7 +79,7 @@
       "I": 3,
       "K": 7,
       "N": 5,
-      "T": 21
+      "T": 22
     },
     "grid": {
       "C": {
@@ -115,7 +116,7 @@
         "10": 1
       },
       "T": {
-        "4": 9,
+        "4": 10,
         "5": 7,
         "6": 3,
         "7": 2
@@ -138,7 +139,7 @@
       "NI": 4,
       "TE": 7,
       "TH": 9,
-      "TI": 5
+      "TI": 6
     }
   }
 }

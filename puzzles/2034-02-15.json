@@ -1,9 +1,9 @@
 {
   "pangram": "bungled",
   "center_letter": "l",
-  "num_answers": 59,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 264,
+  "possible_points": 295,
   "answer_pangrams": [
     "bungled"
   ],
@@ -23,6 +23,7 @@
     "bugle",
     "bugled",
     "bulb",
+    "bulbed",
     "bulge",
     "bulged",
     "bull",
@@ -40,6 +41,7 @@
     "dueled",
     "dull",
     "dulled",
+    "eeled",
     "elude",
     "eluded",
     "geld",
@@ -51,12 +53,15 @@
     "glued",
     "gull",
     "gulled",
+    "lede",
     "ledge",
     "legend",
     "legged",
     "lend",
     "lube",
     "lubed",
+    "luge",
+    "luged",
     "lugged",
     "lull",
     "lulled",
@@ -66,30 +71,33 @@
     "lunged",
     "needle",
     "needled",
-    "null"
+    "null",
+    "unglue",
+    "unglued"
   ],
   "date": "2034-02-15",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 11,
-      "6": 21,
-      "7": 7,
+      "4": 21,
+      "5": 13,
+      "6": 23,
+      "7": 8,
       "8": 1
     },
     "by_first_letter": {
-      "B": 23,
+      "B": 24,
       "D": 9,
-      "E": 2,
+      "E": 3,
       "G": 9,
-      "L": 13,
-      "N": 3
+      "L": 16,
+      "N": 3,
+      "U": 2
     },
     "grid": {
       "B": {
         "4": 5,
         "5": 6,
-        "6": 7,
+        "6": 8,
         "7": 4,
         "8": 1
       },
@@ -99,7 +107,7 @@
         "7": 2
       },
       "E": {
-        "5": 1,
+        "5": 2,
         "6": 1
       },
       "G": {
@@ -108,12 +116,16 @@
         "6": 3
       },
       "L": {
-        "4": 5,
-        "5": 3,
+        "4": 7,
+        "5": 4,
         "6": 5
       },
       "N": {
         "4": 1,
+        "6": 1,
+        "7": 1
+      },
+      "U": {
         "6": 1,
         "7": 1
       }
@@ -121,17 +133,19 @@
     "two_letter_list": {
       "BE": 3,
       "BL": 7,
-      "BU": 13,
+      "BU": 14,
       "DE": 5,
       "DU": 4,
+      "EE": 1,
       "EL": 2,
       "GE": 3,
       "GL": 4,
       "GU": 2,
-      "LE": 4,
-      "LU": 9,
+      "LE": 5,
+      "LU": 11,
       "NE": 2,
-      "NU": 1
+      "NU": 1,
+      "UN": 2
     }
   }
 }

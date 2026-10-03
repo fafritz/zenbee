@@ -1,9 +1,9 @@
 {
   "pangram": "humbled",
   "center_letter": "e",
-  "num_answers": 68,
+  "num_answers": 73,
   "num_pangrams": 1,
-  "possible_points": 337,
+  "possible_points": 356,
   "answer_pangrams": [
     "humbled"
   ],
@@ -21,6 +21,7 @@
     "bubble",
     "bubbled",
     "budded",
+    "bulbed",
     "bulled",
     "bumble",
     "bumblebee",
@@ -41,6 +42,7 @@
     "dulled",
     "dumbbell",
     "ebbed",
+    "eeled",
     "elude",
     "eluded",
     "embed",
@@ -53,6 +55,8 @@
     "held",
     "hell",
     "helm",
+    "helmed",
+    "heme",
     "hemmed",
     "huddle",
     "huddled",
@@ -60,6 +64,7 @@
     "humble",
     "humbled",
     "hummed",
+    "lede",
     "lube",
     "lubed",
     "lulled",
@@ -80,19 +85,19 @@
   "date": "2036-01-26",
   "hints": {
     "by_length": {
-      "4": 17,
-      "5": 10,
-      "6": 29,
+      "4": 19,
+      "5": 11,
+      "6": 31,
       "7": 8,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
-      "B": 18,
+      "B": 19,
       "D": 14,
-      "E": 6,
-      "H": 14,
-      "L": 3,
+      "E": 7,
+      "H": 16,
+      "L": 4,
       "M": 12,
       "U": 1
     },
@@ -100,7 +105,7 @@
       "B": {
         "4": 3,
         "5": 3,
-        "6": 8,
+        "6": 9,
         "7": 2,
         "8": 1,
         "9": 1
@@ -113,17 +118,17 @@
         "8": 1
       },
       "E": {
-        "5": 3,
+        "5": 4,
         "6": 2,
         "8": 1
       },
       "H": {
-        "4": 5,
-        "6": 7,
+        "4": 6,
+        "6": 8,
         "7": 2
       },
       "L": {
-        "4": 1,
+        "4": 2,
         "5": 1,
         "6": 1
       },
@@ -140,14 +145,16 @@
     "two_letter_list": {
       "BE": 5,
       "BL": 5,
-      "BU": 8,
+      "BU": 9,
       "DE": 7,
       "DU": 7,
       "EB": 1,
+      "EE": 1,
       "EL": 2,
       "EM": 3,
-      "HE": 8,
+      "HE": 10,
       "HU": 6,
+      "LE": 1,
       "LU": 3,
       "ME": 6,
       "MU": 6,

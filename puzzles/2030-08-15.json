@@ -1,9 +1,9 @@
 {
   "pangram": "caption",
   "center_letter": "p",
-  "num_answers": 43,
+  "num_answers": 45,
   "num_pangrams": 3,
-  "possible_points": 229,
+  "possible_points": 240,
   "answer_pangrams": [
     "anticipation",
     "caption",
@@ -29,6 +29,7 @@
     "pain",
     "paint",
     "panic",
+    "panini",
     "pant",
     "papa",
     "patina",
@@ -37,6 +38,7 @@
     "pica",
     "picnic",
     "pinion",
+    "pinna",
     "pinpoint",
     "pint",
     "pinto",
@@ -58,8 +60,8 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 12,
-      "6": 10,
+      "5": 13,
+      "6": 11,
       "7": 7,
       "8": 2,
       "12": 1
@@ -69,7 +71,7 @@
       "C": 7,
       "I": 1,
       "O": 4,
-      "P": 24,
+      "P": 26,
       "T": 4
     },
     "grid": {
@@ -95,8 +97,8 @@
       },
       "P": {
         "4": 8,
-        "5": 8,
-        "6": 6,
+        "5": 9,
+        "6": 7,
         "7": 1,
         "8": 1
       },
@@ -114,8 +116,8 @@
       "CO": 1,
       "IN": 1,
       "OP": 4,
-      "PA": 8,
-      "PI": 11,
+      "PA": 9,
+      "PI": 12,
       "PO": 5,
       "TA": 1,
       "TI": 1,

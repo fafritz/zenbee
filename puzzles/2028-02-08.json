@@ -1,9 +1,9 @@
 {
   "pangram": "quilted",
   "center_letter": "e",
-  "num_answers": 65,
+  "num_answers": 67,
   "num_pangrams": 1,
-  "possible_points": 299,
+  "possible_points": 305,
   "answer_pangrams": [
     "quilted"
   ],
@@ -32,6 +32,7 @@
     "eddied",
     "edit",
     "edited",
+    "eeled",
     "elide",
     "elided",
     "elite",
@@ -41,6 +42,7 @@
     "etude",
     "idle",
     "idled",
+    "lede",
     "lidded",
     "lied",
     "lieu",
@@ -77,8 +79,8 @@
   "date": "2028-02-08",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 15,
+      "4": 20,
+      "5": 16,
       "6": 22,
       "7": 7,
       "8": 1,
@@ -86,9 +88,9 @@
     },
     "by_first_letter": {
       "D": 21,
-      "E": 10,
+      "E": 11,
       "I": 2,
-      "L": 8,
+      "L": 9,
       "Q": 9,
       "T": 15
     },
@@ -101,7 +103,7 @@
       },
       "E": {
         "4": 1,
-        "5": 4,
+        "5": 5,
         "6": 4,
         "9": 1
       },
@@ -110,7 +112,7 @@
         "5": 1
       },
       "L": {
-        "4": 4,
+        "4": 5,
         "6": 4
       },
       "Q": {
@@ -130,9 +132,11 @@
       "DI": 7,
       "DU": 6,
       "ED": 3,
+      "EE": 1,
       "EL": 5,
       "ET": 2,
       "ID": 2,
+      "LE": 1,
       "LI": 6,
       "LU": 2,
       "QU": 9,

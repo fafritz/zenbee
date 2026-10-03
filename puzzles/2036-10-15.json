@@ -1,9 +1,9 @@
 {
   "pangram": "healing",
   "center_letter": "e",
-  "num_answers": 62,
+  "num_answers": 65,
   "num_pangrams": 1,
-  "possible_points": 310,
+  "possible_points": 329,
   "answer_pangrams": [
     "healing"
   ],
@@ -13,11 +13,14 @@
     "alien",
     "allege",
     "alleging",
+    "allele",
     "angel",
     "angle",
+    "aniline",
     "anneal",
     "annealing",
     "eagle",
+    "eeling",
     "egging",
     "elan",
     "engage",
@@ -76,14 +79,14 @@
     "by_length": {
       "4": 15,
       "5": 16,
-      "6": 17,
-      "7": 7,
+      "6": 19,
+      "7": 8,
       "8": 6,
       "9": 1
     },
     "by_first_letter": {
-      "A": 9,
-      "E": 6,
+      "A": 11,
+      "E": 7,
       "G": 14,
       "H": 11,
       "I": 4,
@@ -93,14 +96,15 @@
     "grid": {
       "A": {
         "5": 5,
-        "6": 2,
+        "6": 3,
+        "7": 1,
         "8": 1,
         "9": 1
       },
       "E": {
         "4": 1,
         "5": 1,
-        "6": 3,
+        "6": 4,
         "8": 1
       },
       "G": {
@@ -137,9 +141,10 @@
     },
     "two_letter_list": {
       "AG": 1,
-      "AL": 4,
-      "AN": 4,
+      "AL": 5,
+      "AN": 5,
       "EA": 1,
+      "EE": 1,
       "EG": 1,
       "EL": 1,
       "EN": 3,

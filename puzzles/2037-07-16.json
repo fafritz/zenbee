@@ -1,9 +1,9 @@
 {
   "pangram": "mutable",
   "center_letter": "b",
-  "num_answers": 59,
+  "num_answers": 60,
   "num_pangrams": 1,
-  "possible_points": 240,
+  "possible_points": 245,
   "answer_pangrams": [
     "mutable"
   ],
@@ -64,6 +64,7 @@
     "tabulate",
     "tamable",
     "tuba",
+    "tubal",
     "tube",
     "tumble",
     "umbel"
@@ -72,7 +73,7 @@
   "hints": {
     "by_length": {
       "4": 25,
-      "5": 12,
+      "5": 13,
       "6": 13,
       "7": 4,
       "8": 3,
@@ -84,7 +85,7 @@
       "E": 3,
       "L": 3,
       "M": 4,
-      "T": 8,
+      "T": 9,
       "U": 1
     },
     "grid": {
@@ -115,7 +116,7 @@
       },
       "T": {
         "4": 2,
-        "5": 1,
+        "5": 2,
         "6": 2,
         "7": 2,
         "8": 1
@@ -140,7 +141,7 @@
       "ME": 1,
       "MU": 2,
       "TA": 5,
-      "TU": 3,
+      "TU": 4,
       "UM": 1
     }
   }

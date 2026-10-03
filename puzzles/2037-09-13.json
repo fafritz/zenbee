@@ -1,9 +1,9 @@
 {
   "pangram": "lacking",
   "center_letter": "a",
-  "num_answers": 65,
+  "num_answers": 68,
   "num_pangrams": 5,
-  "possible_points": 373,
+  "possible_points": 391,
   "answer_pangrams": [
     "cackling",
     "calking",
@@ -23,7 +23,6 @@
     "align",
     "aligning",
     "alkali",
-    "anal",
     "angina",
     "angling",
     "cackling",
@@ -49,10 +48,12 @@
     "clanking",
     "clinical",
     "clinician",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -61,6 +62,7 @@
     "gangling",
     "glacial",
     "glancing",
+    "iliac",
     "knack",
     "knickknack",
     "lacing",
@@ -68,6 +70,7 @@
     "lacking",
     "lagging",
     "lain",
+    "lanai",
     "lancing",
     "lank",
     "lilac",
@@ -82,24 +85,25 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 13,
+      "5": 15,
       "6": 10,
       "7": 15,
-      "8": 8,
+      "8": 9,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "A": 14,
+      "A": 13,
       "C": 23,
-      "G": 12,
+      "G": 14,
+      "I": 1,
       "K": 2,
-      "L": 8,
+      "L": 9,
       "N": 6
     },
     "grid": {
       "A": {
-        "4": 4,
+        "4": 3,
         "5": 4,
         "6": 4,
         "7": 1,
@@ -114,9 +118,12 @@
         "9": 2
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "7": 6,
-        "8": 2
+        "8": 3
+      },
+      "I": {
+        "5": 1
       },
       "K": {
         "5": 1,
@@ -124,7 +131,7 @@
       },
       "L": {
         "4": 3,
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 3
       },
@@ -140,14 +147,15 @@
       "AI": 1,
       "AK": 1,
       "AL": 4,
-      "AN": 3,
+      "AN": 2,
       "CA": 13,
       "CI": 1,
       "CL": 9,
-      "GA": 10,
+      "GA": 12,
       "GL": 2,
+      "IL": 1,
       "KN": 2,
-      "LA": 7,
+      "LA": 8,
       "LI": 1,
       "NA": 5,
       "NI": 1

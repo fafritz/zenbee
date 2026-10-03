@@ -1,9 +1,9 @@
 {
   "pangram": "haloing",
   "center_letter": "n",
-  "num_answers": 79,
+  "num_answers": 80,
   "num_pangrams": 2,
-  "possible_points": 425,
+  "possible_points": 446,
   "answer_pangrams": [
     "haloing",
     "hooligan"
@@ -15,7 +15,6 @@
     "align",
     "aligning",
     "along",
-    "anal",
     "analog",
     "angina",
     "angling",
@@ -24,6 +23,7 @@
     "gagging",
     "gain",
     "gaining",
+    "galangal",
     "galling",
     "gallon",
     "gang",
@@ -38,7 +38,6 @@
     "going",
     "gong",
     "gonging",
-    "gonna",
     "googling",
     "goon",
     "haggling",
@@ -49,7 +48,6 @@
     "hang",
     "hanging",
     "hangnail",
-    "hing",
     "hinging",
     "hogan",
     "hogging",
@@ -61,7 +59,9 @@
     "lagging",
     "lagoon",
     "lain",
+    "lanai",
     "lanolin",
+    "lignin",
     "lingo",
     "lining",
     "lion",
@@ -83,6 +83,7 @@
     "niggling",
     "nigh",
     "noggin",
+    "nonillion",
     "noon",
     "ogling",
     "oiling",
@@ -92,24 +93,25 @@
   "date": "2029-05-20",
   "hints": {
     "by_length": {
-      "4": 19,
+      "4": 17,
       "5": 13,
-      "6": 13,
+      "6": 14,
       "7": 23,
-      "8": 11
+      "8": 12,
+      "9": 1
     },
     "by_first_letter": {
-      "A": 12,
+      "A": 11,
       "G": 20,
-      "H": 15,
+      "H": 14,
       "I": 2,
-      "L": 17,
-      "N": 9,
+      "L": 19,
+      "N": 10,
       "O": 4
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 5,
         "6": 3,
         "7": 1,
@@ -117,13 +119,13 @@
       },
       "G": {
         "4": 4,
-        "5": 2,
+        "5": 1,
         "6": 1,
         "7": 8,
-        "8": 5
+        "8": 6
       },
       "H": {
-        "4": 2,
+        "4": 1,
         "5": 2,
         "6": 3,
         "7": 5,
@@ -135,15 +137,16 @@
       },
       "L": {
         "4": 6,
-        "5": 3,
-        "6": 2,
+        "5": 4,
+        "6": 3,
         "7": 6
       },
       "N": {
         "4": 5,
         "6": 1,
         "7": 2,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "O": {
         "5": 1,
@@ -155,21 +158,21 @@
       "AG": 2,
       "AI": 1,
       "AL": 3,
-      "AN": 6,
-      "GA": 10,
+      "AN": 5,
+      "GA": 11,
       "GI": 3,
-      "GO": 7,
+      "GO": 6,
       "HA": 8,
-      "HI": 2,
+      "HI": 1,
       "HO": 5,
       "IN": 2,
-      "LA": 4,
-      "LI": 3,
+      "LA": 5,
+      "LI": 4,
       "LL": 1,
       "LO": 9,
       "NA": 5,
       "NI": 2,
-      "NO": 2,
+      "NO": 3,
       "OG": 1,
       "OI": 1,
       "ON": 2

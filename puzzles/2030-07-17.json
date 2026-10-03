@@ -1,9 +1,9 @@
 {
   "pangram": "toxemia",
   "center_letter": "t",
-  "num_answers": 34,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 86,
+  "possible_points": 91,
   "answer_pangrams": [
     "toxemia"
   ],
@@ -26,6 +26,7 @@
     "moat",
     "moot",
     "mote",
+    "motet",
     "motto",
     "omit",
     "tame",
@@ -47,7 +48,7 @@
   "hints": {
     "by_length": {
       "4": 25,
-      "5": 4,
+      "5": 5,
       "6": 2,
       "7": 2,
       "8": 1
@@ -56,7 +57,7 @@
       "A": 1,
       "E": 3,
       "I": 3,
-      "M": 12,
+      "M": 13,
       "O": 1,
       "T": 14
     },
@@ -74,7 +75,7 @@
       },
       "M": {
         "4": 10,
-        "5": 2
+        "5": 3
       },
       "O": {
         "4": 1
@@ -97,7 +98,7 @@
       "MA": 2,
       "ME": 4,
       "MI": 2,
-      "MO": 4,
+      "MO": 5,
       "OM": 1,
       "TA": 3,
       "TE": 4,

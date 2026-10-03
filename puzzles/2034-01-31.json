@@ -1,9 +1,9 @@
 {
   "pangram": "hurling",
   "center_letter": "n",
-  "num_answers": 41,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 240,
+  "possible_points": 257,
   "answer_pangrams": [
     "hurling"
   ],
@@ -19,7 +19,6 @@
     "gunning",
     "gunrunning",
     "gurgling",
-    "hing",
     "hinging",
     "hiring",
     "hugging",
@@ -27,9 +26,12 @@
     "hung",
     "hurling",
     "inning",
+    "inulin",
     "inuring",
+    "lignin",
     "lining",
     "lugging",
+    "luging",
     "lulling",
     "lung",
     "lunging",
@@ -53,9 +55,9 @@
   "date": "2034-01-31",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 8,
       "5": 1,
-      "6": 8,
+      "6": 11,
       "7": 16,
       "8": 5,
       "9": 1,
@@ -63,9 +65,9 @@
     },
     "by_first_letter": {
       "G": 11,
-      "H": 7,
-      "I": 2,
-      "L": 6,
+      "H": 6,
+      "I": 3,
+      "L": 8,
       "N": 3,
       "R": 10,
       "U": 2
@@ -79,17 +81,17 @@
         "10": 1
       },
       "H": {
-        "4": 2,
+        "4": 1,
         "6": 1,
         "7": 4
       },
       "I": {
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "L": {
         "4": 1,
-        "6": 2,
+        "6": 4,
         "7": 3
       },
       "N": {
@@ -112,11 +114,11 @@
       "GL": 1,
       "GR": 3,
       "GU": 4,
-      "HI": 3,
+      "HI": 2,
       "HU": 4,
-      "IN": 2,
-      "LI": 1,
-      "LU": 5,
+      "IN": 3,
+      "LI": 2,
+      "LU": 6,
       "NI": 2,
       "NU": 1,
       "RI": 4,

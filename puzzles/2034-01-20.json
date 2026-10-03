@@ -1,9 +1,9 @@
 {
   "pangram": "gaudily",
   "center_letter": "a",
-  "num_answers": 19,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 66,
+  "possible_points": 72,
   "answer_pangrams": [
     "gaudily"
   ],
@@ -17,6 +17,8 @@
     "dial",
     "dillydally",
     "dual",
+    "gaga",
+    "gaily",
     "gala",
     "gall",
     "gaudily",
@@ -31,8 +33,8 @@
   "date": "2034-01-20",
   "hints": {
     "by_length": {
-      "4": 11,
-      "5": 5,
+      "4": 12,
+      "5": 6,
       "6": 1,
       "7": 1,
       "10": 1
@@ -40,7 +42,7 @@
     "by_first_letter": {
       "A": 3,
       "D": 6,
-      "G": 6,
+      "G": 8,
       "L": 4
     },
     "grid": {
@@ -54,8 +56,8 @@
         "10": 1
       },
       "G": {
-        "4": 3,
-        "5": 1,
+        "4": 4,
+        "5": 2,
         "6": 1,
         "7": 1
       },
@@ -68,7 +70,7 @@
       "DA": 3,
       "DI": 2,
       "DU": 1,
-      "GA": 4,
+      "GA": 6,
       "GL": 2,
       "LA": 3,
       "LU": 1

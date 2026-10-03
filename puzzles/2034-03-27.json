@@ -1,9 +1,9 @@
 {
   "pangram": "cowling",
   "center_letter": "i",
-  "num_answers": 71,
+  "num_answers": 76,
   "num_pangrams": 2,
-  "possible_points": 418,
+  "possible_points": 451,
   "answer_pangrams": [
     "clowning",
     "cowling"
@@ -17,6 +17,7 @@
     "clowning",
     "cocci",
     "cocooning",
+    "cogging",
     "coil",
     "coiling",
     "coin",
@@ -41,9 +42,12 @@
     "gowning",
     "icing",
     "icon",
+    "iconic",
     "igloo",
     "inclining",
     "inning",
+    "ionic",
+    "lignin",
     "lingo",
     "lining",
     "lion",
@@ -57,6 +61,7 @@
     "lowing",
     "niggling",
     "noggin",
+    "nonillion",
     "ogling",
     "oiling",
     "olio",
@@ -85,18 +90,18 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 12,
-      "6": 17,
-      "7": 20,
+      "5": 13,
+      "6": 19,
+      "7": 21,
       "8": 8,
-      "9": 3
+      "9": 4
     },
     "by_first_letter": {
-      "C": 19,
+      "C": 20,
       "G": 11,
-      "I": 5,
-      "L": 11,
-      "N": 2,
+      "I": 7,
+      "L": 12,
+      "N": 3,
       "O": 7,
       "W": 16
     },
@@ -105,7 +110,7 @@
         "4": 2,
         "5": 4,
         "6": 3,
-        "7": 6,
+        "7": 7,
         "8": 3,
         "9": 1
       },
@@ -118,19 +123,20 @@
       },
       "I": {
         "4": 1,
-        "5": 2,
-        "6": 1,
+        "5": 3,
+        "6": 2,
         "9": 1
       },
       "L": {
         "4": 3,
         "5": 3,
-        "6": 2,
+        "6": 3,
         "7": 3
       },
       "N": {
         "6": 1,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "O": {
         "4": 1,
@@ -148,17 +154,18 @@
     },
     "two_letter_list": {
       "CL": 6,
-      "CO": 13,
+      "CO": 14,
       "GI": 5,
       "GL": 1,
       "GO": 5,
-      "IC": 2,
+      "IC": 3,
       "IG": 1,
       "IN": 2,
-      "LI": 3,
+      "IO": 1,
+      "LI": 4,
       "LO": 8,
       "NI": 1,
-      "NO": 1,
+      "NO": 2,
       "OG": 1,
       "OI": 1,
       "OL": 1,

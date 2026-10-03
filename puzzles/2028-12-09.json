@@ -1,9 +1,9 @@
 {
   "pangram": "crowing",
   "center_letter": "g",
-  "num_answers": 59,
+  "num_answers": 61,
   "num_pangrams": 3,
-  "possible_points": 370,
+  "possible_points": 383,
   "answer_pangrams": [
     "cornrowing",
     "crowing",
@@ -11,6 +11,7 @@
   ],
   "answers": [
     "cocooning",
+    "cogging",
     "coining",
     "conning",
     "cooing",
@@ -29,6 +30,7 @@
     "gonging",
     "goon",
     "gorging",
+    "gorgon",
     "goring",
     "gown",
     "gowning",
@@ -75,15 +77,15 @@
     "by_length": {
       "4": 8,
       "5": 8,
-      "6": 14,
-      "7": 19,
+      "6": 15,
+      "7": 20,
       "8": 7,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "C": 12,
-      "G": 17,
+      "C": 13,
+      "G": 18,
       "I": 5,
       "N": 1,
       "O": 4,
@@ -93,7 +95,7 @@
     "grid": {
       "C": {
         "6": 3,
-        "7": 4,
+        "7": 5,
         "8": 3,
         "9": 1,
         "10": 1
@@ -101,7 +103,7 @@
       "G": {
         "4": 6,
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 6,
         "8": 1
       },
@@ -135,10 +137,10 @@
       }
     },
     "two_letter_list": {
-      "CO": 8,
+      "CO": 9,
       "CR": 4,
       "GI": 2,
-      "GO": 8,
+      "GO": 9,
       "GR": 7,
       "IC": 1,
       "IG": 1,

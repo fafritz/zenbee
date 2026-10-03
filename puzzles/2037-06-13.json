@@ -1,9 +1,9 @@
 {
   "pangram": "womanly",
   "center_letter": "o",
-  "num_answers": 35,
+  "num_answers": 36,
   "num_pangrams": 2,
-  "possible_points": 137,
+  "possible_points": 142,
   "answer_pangrams": [
     "laywoman",
     "womanly"
@@ -23,6 +23,7 @@
     "loll",
     "loom",
     "loon",
+    "loony",
     "lowly",
     "loyal",
     "loyally",
@@ -49,14 +50,14 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 12,
+      "5": 13,
       "6": 3,
       "7": 3,
       "8": 1
     },
     "by_first_letter": {
       "A": 6,
-      "L": 11,
+      "L": 12,
       "M": 8,
       "N": 3,
       "O": 1,
@@ -71,7 +72,7 @@
       },
       "L": {
         "4": 5,
-        "5": 4,
+        "5": 5,
         "7": 1,
         "8": 1
       },
@@ -103,7 +104,7 @@
       "AN": 3,
       "LA": 1,
       "LL": 1,
-      "LO": 9,
+      "LO": 10,
       "MA": 2,
       "MO": 6,
       "NO": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "beltway",
   "center_letter": "y",
-  "num_answers": 31,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 149,
+  "possible_points": 148,
   "answer_pangrams": [
     "beltway"
   ],
@@ -23,7 +23,6 @@
     "bylaw",
     "byte",
     "byway",
-    "ebay",
     "eyeball",
     "eyelet",
     "lately",
@@ -43,7 +42,7 @@
   "date": "2034-04-23",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 7,
       "5": 12,
       "6": 4,
       "7": 6,
@@ -52,7 +51,7 @@
     "by_first_letter": {
       "A": 7,
       "B": 8,
-      "E": 3,
+      "E": 2,
       "L": 4,
       "T": 3,
       "W": 4,
@@ -70,7 +69,6 @@
         "7": 1
       },
       "E": {
-        "4": 1,
         "6": 1,
         "7": 1
       },
@@ -97,7 +95,6 @@
       "BA": 2,
       "BE": 3,
       "BY": 3,
-      "EB": 1,
       "EY": 2,
       "LA": 3,
       "LE": 1,

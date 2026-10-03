@@ -1,9 +1,9 @@
 {
   "pangram": "plucked",
   "center_letter": "u",
-  "num_answers": 48,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 213,
+  "possible_points": 224,
   "answer_pangrams": [
     "plucked"
   ],
@@ -23,6 +23,7 @@
     "delude",
     "deluded",
     "deuce",
+    "deuced",
     "duck",
     "ducked",
     "dude",
@@ -34,6 +35,7 @@
     "dulled",
     "dupe",
     "duped",
+    "educe",
     "elude",
     "eluded",
     "luck",
@@ -61,14 +63,14 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 9,
-      "6": 16,
+      "5": 10,
+      "6": 17,
       "7": 7
     },
     "by_first_letter": {
       "C": 10,
-      "D": 16,
-      "E": 2,
+      "D": 17,
+      "E": 3,
       "L": 5,
       "P": 12,
       "U": 3
@@ -83,11 +85,11 @@
       "D": {
         "4": 6,
         "5": 3,
-        "6": 5,
+        "6": 6,
         "7": 2
       },
       "E": {
-        "5": 1,
+        "5": 2,
         "6": 1
       },
       "L": {
@@ -109,8 +111,9 @@
     "two_letter_list": {
       "CL": 4,
       "CU": 6,
-      "DE": 5,
+      "DE": 6,
       "DU": 11,
+      "ED": 1,
       "EL": 2,
       "LU": 5,
       "PL": 2,

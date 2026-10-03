@@ -1,9 +1,9 @@
 {
   "pangram": "ductile",
   "center_letter": "u",
-  "num_answers": 44,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 203,
+  "possible_points": 214,
   "answer_pangrams": [
     "ductile"
   ],
@@ -27,6 +27,7 @@
     "delude",
     "deluded",
     "deuce",
+    "deuced",
     "dilute",
     "diluted",
     "duct",
@@ -39,6 +40,7 @@
     "dulcet",
     "dull",
     "dulled",
+    "educe",
     "elude",
     "eluded",
     "etude",
@@ -57,16 +59,16 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 7,
-      "6": 12,
+      "5": 8,
+      "6": 13,
       "7": 7,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
       "C": 12,
-      "D": 19,
-      "E": 4,
+      "D": 20,
+      "E": 5,
       "L": 7,
       "T": 2
     },
@@ -81,12 +83,12 @@
       "D": {
         "4": 5,
         "5": 2,
-        "6": 7,
+        "6": 8,
         "7": 4,
         "8": 1
       },
       "E": {
-        "5": 2,
+        "5": 3,
         "6": 1,
         "8": 1
       },
@@ -105,9 +107,10 @@
       "CE": 1,
       "CL": 2,
       "CU": 9,
-      "DE": 7,
+      "DE": 8,
       "DI": 2,
       "DU": 10,
+      "ED": 1,
       "EL": 2,
       "ET": 1,
       "EU": 1,

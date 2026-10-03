@@ -1,9 +1,9 @@
 {
   "pangram": "policed",
   "center_letter": "c",
-  "num_answers": 54,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 243,
+  "possible_points": 249,
   "answer_pangrams": [
     "policed"
   ],
@@ -11,6 +11,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "cello",
     "clip",
     "clipped",
@@ -35,7 +36,6 @@
     "cooed",
     "cool",
     "cooled",
-    "coolie",
     "coop",
     "cooped",
     "cope",
@@ -44,6 +44,7 @@
     "copped",
     "decide",
     "decided",
+    "decile",
     "decode",
     "decoded",
     "deice",
@@ -68,13 +69,13 @@
     "by_length": {
       "4": 18,
       "5": 10,
-      "6": 15,
+      "6": 16,
       "7": 10,
       "8": 1
     },
     "by_first_letter": {
       "C": 34,
-      "D": 9,
+      "D": 10,
       "E": 1,
       "I": 2,
       "L": 3,
@@ -91,7 +92,7 @@
       "D": {
         "4": 1,
         "5": 2,
-        "6": 4,
+        "6": 5,
         "7": 2
       },
       "E": {
@@ -111,10 +112,10 @@
       }
     },
     "two_letter_list": {
-      "CE": 4,
+      "CE": 5,
       "CL": 5,
-      "CO": 25,
-      "DE": 6,
+      "CO": 24,
+      "DE": 7,
       "DI": 2,
       "DO": 1,
       "EP": 1,

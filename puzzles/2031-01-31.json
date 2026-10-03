@@ -1,7 +1,7 @@
 {
   "pangram": "darting",
   "center_letter": "t",
-  "num_answers": 69,
+  "num_answers": 70,
   "num_pangrams": 4,
   "possible_points": 435,
   "answer_pangrams": [
@@ -52,7 +52,6 @@
     "ragtag",
     "rant",
     "ranting",
-    "ratatat",
     "rating",
     "rattan",
     "ratting",
@@ -62,7 +61,9 @@
     "tang",
     "tannin",
     "tanning",
+    "tantra",
     "taring",
+    "tarn",
     "tarring",
     "tart",
     "tartan",
@@ -84,10 +85,10 @@
   "date": "2031-01-31",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 14,
       "5": 11,
-      "6": 13,
-      "7": 14,
+      "6": 14,
+      "7": 13,
       "8": 7,
       "9": 6,
       "10": 3,
@@ -100,8 +101,8 @@
       "G": 11,
       "I": 8,
       "N": 2,
-      "R": 9,
-      "T": 24
+      "R": 8,
+      "T": 26
     },
     "grid": {
       "A": {
@@ -137,13 +138,13 @@
       "R": {
         "4": 1,
         "6": 3,
-        "7": 4,
+        "7": 3,
         "9": 1
       },
       "T": {
-        "4": 3,
+        "4": 4,
         "5": 6,
-        "6": 6,
+        "6": 7,
         "7": 7,
         "8": 2
       }
@@ -164,8 +165,8 @@
       "IR": 4,
       "NA": 1,
       "NI": 1,
-      "RA": 9,
-      "TA": 12,
+      "RA": 8,
+      "TA": 14,
       "TI": 7,
       "TR": 5
     }

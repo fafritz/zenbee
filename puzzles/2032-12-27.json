@@ -1,9 +1,9 @@
 {
   "pangram": "plumage",
   "center_letter": "u",
-  "num_answers": 34,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 108,
+  "possible_points": 109,
   "answer_pangrams": [
     "plumage"
   ],
@@ -19,6 +19,7 @@
     "league",
     "legume",
     "luau",
+    "luge",
     "luggage",
     "lull",
     "lulu",
@@ -46,7 +47,7 @@
   "date": "2032-12-27",
   "hints": {
     "by_length": {
-      "4": 20,
+      "4": 21,
       "5": 5,
       "6": 7,
       "7": 2
@@ -54,7 +55,7 @@
     "by_first_letter": {
       "A": 3,
       "G": 5,
-      "L": 7,
+      "L": 8,
       "M": 5,
       "P": 14
     },
@@ -68,7 +69,7 @@
         "5": 1
       },
       "L": {
-        "4": 4,
+        "4": 5,
         "6": 2,
         "7": 1
       },
@@ -91,7 +92,7 @@
       "GL": 2,
       "GU": 2,
       "LE": 2,
-      "LU": 5,
+      "LU": 6,
       "MA": 1,
       "MU": 4,
       "PL": 6,

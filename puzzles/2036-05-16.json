@@ -1,9 +1,9 @@
 {
   "pangram": "purling",
   "center_letter": "i",
-  "num_answers": 69,
+  "num_answers": 72,
   "num_pangrams": 1,
-  "possible_points": 424,
+  "possible_points": 442,
   "answer_pangrams": [
     "purling"
   ],
@@ -27,9 +27,12 @@
     "gunrunning",
     "gurgling",
     "inning",
+    "inulin",
     "inuring",
+    "lignin",
     "lining",
     "lugging",
+    "luging",
     "lulling",
     "lunging",
     "luring",
@@ -83,7 +86,7 @@
     "by_length": {
       "4": 10,
       "5": 5,
-      "6": 13,
+      "6": 16,
       "7": 29,
       "8": 9,
       "9": 1,
@@ -91,8 +94,8 @@
     },
     "by_first_letter": {
       "G": 18,
-      "I": 2,
-      "L": 5,
+      "I": 3,
+      "L": 7,
       "N": 2,
       "P": 25,
       "R": 12,
@@ -108,11 +111,11 @@
         "10": 1
       },
       "I": {
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "L": {
-        "6": 2,
+        "6": 4,
         "7": 3
       },
       "N": {
@@ -145,9 +148,9 @@
       "GL": 1,
       "GR": 7,
       "GU": 5,
-      "IN": 2,
-      "LI": 1,
-      "LU": 4,
+      "IN": 3,
+      "LI": 2,
+      "LU": 5,
       "NI": 2,
       "PI": 12,
       "PL": 3,

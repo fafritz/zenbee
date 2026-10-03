@@ -1,9 +1,9 @@
 {
   "pangram": "leaving",
   "center_letter": "v",
-  "num_answers": 60,
+  "num_answers": 62,
   "num_pangrams": 2,
-  "possible_points": 306,
+  "possible_points": 317,
   "answer_pangrams": [
     "leavening",
     "leaving"
@@ -31,6 +31,7 @@
     "inveigle",
     "inveigling",
     "lava",
+    "lave",
     "leave",
     "leaven",
     "leavening",
@@ -68,27 +69,28 @@
     "villa",
     "village",
     "villain",
+    "villanelle",
     "vine"
   ],
   "date": "2028-07-27",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 17,
       "5": 19,
       "6": 7,
       "7": 10,
       "8": 5,
       "9": 1,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 8,
       "E": 6,
       "G": 5,
       "I": 2,
-      "L": 12,
+      "L": 13,
       "N": 4,
-      "V": 23
+      "V": 24
     },
     "grid": {
       "A": {
@@ -112,7 +114,7 @@
         "10": 1
       },
       "L": {
-        "4": 2,
+        "4": 3,
         "5": 4,
         "6": 2,
         "7": 1,
@@ -127,7 +129,8 @@
         "4": 9,
         "5": 5,
         "6": 2,
-        "7": 7
+        "7": 7,
+        "10": 1
       }
     },
     "two_letter_list": {
@@ -141,13 +144,13 @@
       "GA": 2,
       "GI": 3,
       "IN": 2,
-      "LA": 1,
+      "LA": 2,
       "LE": 7,
       "LI": 4,
       "NA": 4,
       "VA": 7,
       "VE": 9,
-      "VI": 7
+      "VI": 8
     }
   }
 }

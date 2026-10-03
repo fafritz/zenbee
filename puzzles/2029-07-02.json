@@ -1,9 +1,9 @@
 {
   "pangram": "coughed",
   "center_letter": "u",
-  "num_answers": 20,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 101,
+  "possible_points": 106,
   "answer_pangrams": [
     "coughed"
   ],
@@ -18,11 +18,12 @@
     "deduce",
     "deduced",
     "deuce",
-    "douche",
+    "deuced",
     "douched",
     "dough",
     "dude",
     "duded",
+    "educe",
     "gouge",
     "gouged",
     "huge",
@@ -33,13 +34,14 @@
   "hints": {
     "by_length": {
       "4": 5,
-      "5": 6,
+      "5": 7,
       "6": 4,
       "7": 5
     },
     "by_first_letter": {
       "C": 7,
       "D": 8,
+      "E": 1,
       "G": 2,
       "H": 2,
       "O": 1
@@ -55,6 +57,9 @@
         "5": 3,
         "6": 2,
         "7": 2
+      },
+      "E": {
+        "5": 1
       },
       "G": {
         "5": 1,
@@ -72,9 +77,10 @@
       "CH": 2,
       "CO": 4,
       "CU": 1,
-      "DE": 3,
-      "DO": 3,
+      "DE": 4,
+      "DO": 2,
       "DU": 2,
+      "ED": 1,
       "GO": 2,
       "HU": 2,
       "OU": 1

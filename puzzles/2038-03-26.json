@@ -1,9 +1,9 @@
 {
   "pangram": "expound",
   "center_letter": "p",
-  "num_answers": 42,
+  "num_answers": 43,
   "num_pangrams": 2,
-  "possible_points": 195,
+  "possible_points": 200,
   "answer_pangrams": [
     "expound",
     "expounded"
@@ -31,6 +31,7 @@
     "peen",
     "peep",
     "peeped",
+    "penne",
     "penned",
     "pennon",
     "peon",
@@ -56,7 +57,7 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 5,
+      "5": 6,
       "6": 13,
       "7": 3,
       "8": 4,
@@ -67,7 +68,7 @@
       "E": 6,
       "N": 1,
       "O": 2,
-      "P": 19,
+      "P": 20,
       "U": 5
     },
     "grid": {
@@ -93,7 +94,7 @@
       },
       "P": {
         "4": 8,
-        "5": 1,
+        "5": 2,
         "6": 9,
         "7": 1
       },
@@ -112,7 +113,7 @@
       "EX": 5,
       "NO": 1,
       "OP": 2,
-      "PE": 8,
+      "PE": 9,
       "PO": 9,
       "PU": 2,
       "UN": 1,

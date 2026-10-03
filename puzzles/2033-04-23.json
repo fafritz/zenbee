@@ -1,9 +1,9 @@
 {
   "pangram": "fixedly",
   "center_letter": "e",
-  "num_answers": 54,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 224,
+  "possible_points": 230,
   "answer_pangrams": [
     "fixedly"
   ],
@@ -27,6 +27,7 @@
     "eddy",
     "edified",
     "edify",
+    "eeled",
     "elide",
     "elided",
     "exile",
@@ -55,6 +56,7 @@
     "flied",
     "idle",
     "idled",
+    "lede",
     "lidded",
     "lied",
     "life",
@@ -66,17 +68,17 @@
   "date": "2033-04-23",
   "hints": {
     "by_length": {
-      "4": 21,
-      "5": 10,
+      "4": 22,
+      "5": 11,
       "6": 15,
       "7": 8
     },
     "by_first_letter": {
       "D": 15,
-      "E": 10,
+      "E": 11,
       "F": 20,
       "I": 2,
-      "L": 3,
+      "L": 4,
       "Y": 4
     },
     "grid": {
@@ -88,7 +90,7 @@
       },
       "E": {
         "4": 2,
-        "5": 3,
+        "5": 4,
         "6": 4,
         "7": 1
       },
@@ -103,7 +105,7 @@
         "5": 1
       },
       "L": {
-        "4": 2,
+        "4": 3,
         "6": 1
       },
       "Y": {
@@ -118,6 +120,7 @@
       "DI": 4,
       "DY": 1,
       "ED": 4,
+      "EE": 1,
       "EL": 2,
       "EX": 2,
       "EY": 2,
@@ -125,6 +128,7 @@
       "FI": 11,
       "FL": 5,
       "ID": 2,
+      "LE": 1,
       "LI": 3,
       "YE": 2,
       "YI": 2

@@ -1,9 +1,9 @@
 {
   "pangram": "working",
   "center_letter": "o",
-  "num_answers": 49,
+  "num_answers": 53,
   "num_pangrams": 1,
-  "possible_points": 235,
+  "possible_points": 248,
   "answer_pangrams": [
     "working"
   ],
@@ -14,6 +14,7 @@
     "gonging",
     "goon",
     "gorging",
+    "gorgon",
     "goring",
     "gown",
     "gowning",
@@ -34,8 +35,10 @@
     "known",
     "kook",
     "noggin",
+    "noir",
     "nook",
     "noon",
+    "nori",
     "oink",
     "oinking",
     "ongoing",
@@ -44,6 +47,7 @@
     "owing",
     "owning",
     "rigor",
+    "ronin",
     "rook",
     "rooking",
     "rowing",
@@ -61,27 +65,27 @@
   "date": "2036-02-05",
   "hints": {
     "by_length": {
-      "4": 16,
-      "5": 8,
-      "6": 9,
+      "4": 18,
+      "5": 9,
+      "6": 10,
       "7": 11,
       "8": 4,
       "9": 1
     },
     "by_first_letter": {
-      "G": 16,
+      "G": 17,
       "I": 5,
       "K": 4,
-      "N": 3,
+      "N": 5,
       "O": 7,
-      "R": 4,
+      "R": 5,
       "W": 10
     },
     "grid": {
       "G": {
         "4": 6,
         "5": 3,
-        "6": 2,
+        "6": 3,
         "7": 4,
         "8": 1
       },
@@ -96,7 +100,7 @@
         "7": 1
       },
       "N": {
-        "4": 2,
+        "4": 4,
         "6": 1
       },
       "O": {
@@ -107,7 +111,7 @@
       },
       "R": {
         "4": 1,
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 1
       },
@@ -122,20 +126,20 @@
     },
     "two_letter_list": {
       "GI": 1,
-      "GO": 8,
+      "GO": 9,
       "GR": 7,
       "IG": 1,
       "IN": 1,
       "IR": 3,
       "KN": 3,
       "KO": 1,
-      "NO": 3,
+      "NO": 5,
       "OI": 2,
       "ON": 2,
       "OR": 1,
       "OW": 2,
       "RI": 1,
-      "RO": 3,
+      "RO": 4,
       "WI": 3,
       "WO": 5,
       "WR": 2

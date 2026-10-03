@@ -1,9 +1,9 @@
 {
   "pangram": "clanged",
   "center_letter": "c",
-  "num_answers": 43,
+  "num_answers": 45,
   "num_pangrams": 2,
-  "possible_points": 222,
+  "possible_points": 235,
   "answer_pangrams": [
     "clanged",
     "glanced"
@@ -34,6 +34,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "clad",
     "clan",
     "clang",
@@ -42,6 +43,7 @@
     "cleaned",
     "dance",
     "danced",
+    "decadal",
     "decade",
     "decadence",
     "decal",
@@ -58,15 +60,15 @@
     "by_length": {
       "4": 10,
       "5": 13,
-      "6": 11,
-      "7": 6,
+      "6": 12,
+      "7": 7,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
       "A": 4,
-      "C": 27,
-      "D": 5,
+      "C": 28,
+      "D": 6,
       "E": 1,
       "G": 2,
       "L": 4
@@ -80,13 +82,14 @@
       "C": {
         "4": 7,
         "5": 9,
-        "6": 6,
+        "6": 7,
         "7": 4,
         "8": 1
       },
       "D": {
         "5": 2,
         "6": 2,
+        "7": 1,
         "9": 1
       },
       "E": {
@@ -105,10 +108,10 @@
     "two_letter_list": {
       "AC": 4,
       "CA": 18,
-      "CE": 3,
+      "CE": 4,
       "CL": 6,
       "DA": 2,
-      "DE": 3,
+      "DE": 4,
       "EL": 1,
       "GL": 2,
       "LA": 4

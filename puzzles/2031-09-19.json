@@ -1,9 +1,9 @@
 {
   "pangram": "flouted",
   "center_letter": "o",
-  "num_answers": 60,
+  "num_answers": 61,
   "num_pangrams": 1,
-  "possible_points": 228,
+  "possible_points": 233,
   "answer_pangrams": [
     "flouted"
   ],
@@ -22,6 +22,7 @@
     "dote",
     "doted",
     "dotted",
+    "elote",
     "floe",
     "flood",
     "flooded",
@@ -73,12 +74,13 @@
   "hints": {
     "by_length": {
       "4": 27,
-      "5": 9,
+      "5": 10,
       "6": 19,
       "7": 5
     },
     "by_first_letter": {
       "D": 14,
+      "E": 1,
       "F": 14,
       "L": 10,
       "O": 5,
@@ -90,6 +92,9 @@
         "5": 2,
         "6": 4,
         "7": 2
+      },
+      "E": {
+        "5": 1
       },
       "F": {
         "4": 6,
@@ -116,6 +121,7 @@
     },
     "two_letter_list": {
       "DO": 14,
+      "EL": 1,
       "FL": 5,
       "FO": 9,
       "LO": 10,

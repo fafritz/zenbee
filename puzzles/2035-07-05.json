@@ -1,9 +1,9 @@
 {
   "pangram": "flouted",
   "center_letter": "l",
-  "num_answers": 77,
+  "num_answers": 81,
   "num_pangrams": 1,
-  "possible_points": 305,
+  "possible_points": 317,
   "answer_pangrams": [
     "flouted"
   ],
@@ -25,6 +25,8 @@
     "dueled",
     "dull",
     "dulled",
+    "eeled",
+    "elote",
     "elude",
     "eluded",
     "feel",
@@ -59,6 +61,7 @@
     "fueled",
     "full",
     "fulled",
+    "lede",
     "left",
     "lode",
     "loft",
@@ -70,6 +73,7 @@
     "lotto",
     "loud",
     "lout",
+    "luff",
     "lull",
     "lulled",
     "lulu",
@@ -89,16 +93,16 @@
   "date": "2035-07-05",
   "hints": {
     "by_length": {
-      "4": 33,
-      "5": 9,
+      "4": 35,
+      "5": 11,
       "6": 25,
       "7": 10
     },
     "by_first_letter": {
       "D": 17,
-      "E": 2,
+      "E": 4,
       "F": 32,
-      "L": 15,
+      "L": 17,
       "O": 2,
       "T": 9
     },
@@ -110,7 +114,7 @@
         "7": 4
       },
       "E": {
-        "5": 1,
+        "5": 3,
         "6": 1
       },
       "F": {
@@ -120,7 +124,7 @@
         "7": 5
       },
       "L": {
-        "4": 10,
+        "4": 12,
         "5": 1,
         "6": 4
       },
@@ -139,14 +143,15 @@
       "DE": 5,
       "DO": 8,
       "DU": 4,
-      "EL": 2,
+      "EE": 1,
+      "EL": 3,
       "FE": 6,
       "FL": 14,
       "FO": 6,
       "FU": 6,
-      "LE": 1,
+      "LE": 2,
       "LO": 10,
-      "LU": 4,
+      "LU": 5,
       "OL": 1,
       "OU": 1,
       "TE": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "rubdown",
   "center_letter": "n",
-  "num_answers": 24,
+  "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 103,
+  "possible_points": 98,
   "answer_pangrams": [
     "rubdown"
   ],
@@ -20,7 +20,6 @@
     "donor",
     "down",
     "drown",
-    "dunno",
     "noon",
     "noun",
     "round",
@@ -37,13 +36,13 @@
   "hints": {
     "by_length": {
       "4": 9,
-      "5": 8,
+      "5": 7,
       "6": 2,
       "7": 5
     },
     "by_first_letter": {
       "B": 9,
-      "D": 4,
+      "D": 3,
       "N": 2,
       "R": 3,
       "U": 4,
@@ -58,7 +57,7 @@
       },
       "D": {
         "4": 1,
-        "5": 3
+        "5": 2
       },
       "N": {
         "4": 2
@@ -83,7 +82,6 @@
       "BU": 1,
       "DO": 2,
       "DR": 1,
-      "DU": 1,
       "NO": 2,
       "RO": 1,
       "RU": 2,

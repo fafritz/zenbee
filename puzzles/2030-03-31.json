@@ -1,9 +1,9 @@
 {
   "pangram": "flaking",
   "center_letter": "n",
-  "num_answers": 64,
+  "num_answers": 68,
   "num_pangrams": 2,
-  "possible_points": 355,
+  "possible_points": 382,
   "answer_pangrams": [
     "flaking",
     "flanking"
@@ -15,7 +15,6 @@
     "akin",
     "align",
     "aligning",
-    "anal",
     "angina",
     "angling",
     "failing",
@@ -34,6 +33,7 @@
     "flailing",
     "flaking",
     "flan",
+    "flanging",
     "flank",
     "flanking",
     "fling",
@@ -42,6 +42,7 @@
     "gagging",
     "gain",
     "gaining",
+    "galangal",
     "galling",
     "gang",
     "ganging",
@@ -62,13 +63,16 @@
     "knifing",
     "lagging",
     "lain",
+    "lanai",
     "lank",
+    "lignin",
     "liking",
     "lining",
     "link",
     "linking",
     "naan",
     "nagging",
+    "naif",
     "nail",
     "nailing",
     "nana",
@@ -78,24 +82,24 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 6,
-      "6": 9,
+      "5": 7,
+      "6": 10,
       "7": 24,
-      "8": 8,
+      "8": 10,
       "9": 1
     },
     "by_first_letter": {
-      "A": 9,
-      "F": 20,
-      "G": 12,
+      "A": 8,
+      "F": 21,
+      "G": 13,
       "I": 3,
       "K": 7,
-      "L": 7,
-      "N": 6
+      "L": 9,
+      "N": 7
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 3,
         "6": 2,
         "7": 1,
@@ -106,13 +110,13 @@
         "5": 3,
         "6": 3,
         "7": 6,
-        "8": 4,
+        "8": 5,
         "9": 1
       },
       "G": {
         "4": 2,
         "7": 8,
-        "8": 2
+        "8": 3
       },
       "I": {
         "6": 2,
@@ -124,11 +128,12 @@
       },
       "L": {
         "4": 3,
-        "6": 2,
+        "5": 1,
+        "6": 3,
         "7": 2
       },
       "N": {
-        "4": 3,
+        "4": 4,
         "7": 2,
         "8": 1
       }
@@ -138,18 +143,18 @@
       "AI": 1,
       "AK": 1,
       "AL": 2,
-      "AN": 3,
+      "AN": 2,
       "FA": 5,
       "FI": 7,
-      "FL": 8,
-      "GA": 9,
+      "FL": 9,
+      "GA": 10,
       "GI": 3,
       "IN": 3,
       "KI": 6,
       "KN": 1,
-      "LA": 3,
-      "LI": 4,
-      "NA": 5,
+      "LA": 4,
+      "LI": 5,
+      "NA": 6,
       "NI": 1
     }
   }

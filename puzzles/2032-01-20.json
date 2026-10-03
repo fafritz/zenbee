@@ -3,7 +3,7 @@
   "center_letter": "n",
   "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 132,
+  "possible_points": 131,
   "answer_pangrams": [
     "novelty"
   ],
@@ -19,6 +19,7 @@
     "lone",
     "lonely",
     "loon",
+    "loony",
     "nene",
     "neon",
     "nettle",
@@ -36,7 +37,6 @@
     "oven",
     "teen",
     "teeny",
-    "telnet",
     "tenet",
     "tenon",
     "tent",
@@ -50,18 +50,18 @@
   "hints": {
     "by_length": {
       "4": 20,
-      "5": 7,
-      "6": 5,
+      "5": 8,
+      "6": 4,
       "7": 2,
       "8": 1,
       "9": 2
     },
     "by_first_letter": {
       "E": 7,
-      "L": 4,
+      "L": 5,
       "N": 12,
       "O": 3,
-      "T": 9,
+      "T": 8,
       "V": 2
     },
     "grid": {
@@ -73,6 +73,7 @@
       },
       "L": {
         "4": 3,
+        "5": 1,
         "6": 1
       },
       "N": {
@@ -88,8 +89,7 @@
       },
       "T": {
         "4": 5,
-        "5": 3,
-        "6": 1
+        "5": 3
       },
       "V": {
         "4": 1,
@@ -101,13 +101,13 @@
       "EN": 3,
       "EV": 3,
       "LE": 1,
-      "LO": 3,
+      "LO": 4,
       "NE": 3,
       "NO": 8,
       "NY": 1,
       "ON": 2,
       "OV": 1,
-      "TE": 6,
+      "TE": 5,
       "TO": 3,
       "VE": 2
     }

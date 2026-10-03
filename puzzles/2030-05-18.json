@@ -1,9 +1,9 @@
 {
   "pangram": "blitzed",
   "center_letter": "e",
-  "num_answers": 73,
+  "num_answers": 76,
   "num_pangrams": 1,
-  "possible_points": 342,
+  "possible_points": 354,
   "answer_pangrams": [
     "blitzed"
   ],
@@ -22,6 +22,7 @@
     "bellied",
     "belt",
     "belted",
+    "betide",
     "betided",
     "bible",
     "bidet",
@@ -55,11 +56,13 @@
     "edible",
     "edit",
     "edited",
+    "eeled",
     "elide",
     "elided",
     "elite",
     "idle",
     "idled",
+    "lede",
     "libel",
     "libeled",
     "lidded",
@@ -85,26 +88,26 @@
   "date": "2030-05-18",
   "hints": {
     "by_length": {
-      "4": 21,
-      "5": 15,
-      "6": 24,
+      "4": 22,
+      "5": 16,
+      "6": 25,
       "7": 10,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
-      "B": 25,
+      "B": 26,
       "D": 17,
-      "E": 8,
+      "E": 9,
       "I": 2,
-      "L": 7,
+      "L": 8,
       "T": 14
     },
     "grid": {
       "B": {
         "4": 6,
         "5": 5,
-        "6": 7,
+        "6": 8,
         "7": 4,
         "8": 2,
         "9": 1
@@ -117,7 +120,7 @@
       },
       "E": {
         "4": 1,
-        "5": 3,
+        "5": 4,
         "6": 4
       },
       "I": {
@@ -125,7 +128,7 @@
         "5": 1
       },
       "L": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "6": 3,
         "7": 1
@@ -137,15 +140,17 @@
       }
     },
     "two_letter_list": {
-      "BE": 15,
+      "BE": 16,
       "BI": 7,
       "BL": 3,
       "DE": 9,
       "DI": 8,
       "EB": 1,
       "ED": 4,
+      "EE": 1,
       "EL": 3,
       "ID": 2,
+      "LE": 1,
       "LI": 7,
       "TE": 2,
       "TI": 12

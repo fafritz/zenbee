@@ -40,8 +40,6 @@
     "bolt",
     "bolted",
     "boob",
-    "boobed",
-    "booboo",
     "boodle",
     "booed",
     "boot",
@@ -54,6 +52,7 @@
     "bubbled",
     "budded",
     "bulb",
+    "bulbed",
     "bull",
     "bulled",
     "bullet",
@@ -75,6 +74,7 @@
     "lube",
     "lubed",
     "oboe",
+    "tubbed",
     "tube",
     "tubed"
   ],
@@ -89,18 +89,18 @@
       "10": 1
     },
     "by_first_letter": {
-      "B": 51,
+      "B": 50,
       "D": 9,
       "E": 1,
       "L": 5,
       "O": 1,
-      "T": 2
+      "T": 3
     },
     "grid": {
       "B": {
         "4": 17,
         "5": 7,
-        "6": 18,
+        "6": 17,
         "7": 7,
         "8": 1,
         "10": 1
@@ -124,14 +124,15 @@
       },
       "T": {
         "4": 1,
-        "5": 1
+        "5": 1,
+        "6": 1
       }
     },
     "two_letter_list": {
       "BE": 9,
       "BL": 12,
-      "BO": 21,
-      "BU": 9,
+      "BO": 19,
+      "BU": 10,
       "DE": 3,
       "DO": 5,
       "DU": 1,
@@ -139,7 +140,7 @@
       "LO": 3,
       "LU": 2,
       "OB": 1,
-      "TU": 2
+      "TU": 3
     }
   }
 }

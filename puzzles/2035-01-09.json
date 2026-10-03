@@ -1,9 +1,9 @@
 {
   "pangram": "tankful",
   "center_letter": "f",
-  "num_answers": 17,
+  "num_answers": 18,
   "num_pangrams": 1,
-  "possible_points": 65,
+  "possible_points": 66,
   "answer_pangrams": [
     "tankful"
   ],
@@ -23,13 +23,14 @@
     "flunk",
     "full",
     "funk",
+    "luff",
     "tankful",
     "tuft"
   ],
   "date": "2035-01-09",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 9,
       "5": 6,
       "6": 1,
       "7": 2
@@ -37,6 +38,7 @@
     "by_first_letter": {
       "A": 1,
       "F": 14,
+      "L": 1,
       "T": 2
     },
     "grid": {
@@ -48,6 +50,9 @@
         "5": 6,
         "6": 1
       },
+      "L": {
+        "4": 1
+      },
       "T": {
         "4": 1,
         "7": 1
@@ -58,6 +63,7 @@
       "FA": 5,
       "FL": 7,
       "FU": 2,
+      "LU": 1,
       "TA": 1,
       "TU": 1
     }

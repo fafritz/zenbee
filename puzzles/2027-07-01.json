@@ -1,9 +1,9 @@
 {
   "pangram": "optimal",
   "center_letter": "m",
-  "num_answers": 36,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 95,
+  "possible_points": 100,
   "answer_pangrams": [
     "optimal"
   ],
@@ -40,6 +40,7 @@
     "optima",
     "optimal",
     "palm",
+    "pampa",
     "pimp",
     "pomp",
     "tamp",
@@ -49,7 +50,7 @@
   "hints": {
     "by_length": {
       "4": 25,
-      "5": 5,
+      "5": 6,
       "6": 4,
       "7": 2
     },
@@ -59,7 +60,7 @@
       "L": 8,
       "M": 16,
       "O": 3,
-      "P": 3,
+      "P": 4,
       "T": 2
     },
     "grid": {
@@ -86,7 +87,8 @@
         "7": 1
       },
       "P": {
-        "4": 3
+        "4": 3,
+        "5": 1
       },
       "T": {
         "4": 1,
@@ -106,7 +108,7 @@
       "MO": 6,
       "OM": 1,
       "OP": 2,
-      "PA": 1,
+      "PA": 2,
       "PI": 1,
       "PO": 1,
       "TA": 1,

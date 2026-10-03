@@ -1,9 +1,9 @@
 {
   "pangram": "diploma",
   "center_letter": "m",
-  "num_answers": 34,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 86,
+  "possible_points": 91,
   "answer_pangrams": [
     "diploma"
   ],
@@ -40,6 +40,7 @@
     "momma",
     "mood",
     "palm",
+    "pampa",
     "pimp",
     "pomp"
   ],
@@ -47,7 +48,7 @@
   "hints": {
     "by_length": {
       "4": 24,
-      "5": 6,
+      "5": 7,
       "6": 3,
       "7": 1
     },
@@ -57,7 +58,7 @@
       "I": 3,
       "L": 8,
       "M": 15,
-      "P": 3
+      "P": 4
     },
     "grid": {
       "A": {
@@ -83,7 +84,8 @@
         "6": 1
       },
       "P": {
-        "4": 3
+        "4": 3,
+        "5": 1
       }
     },
     "two_letter_list": {
@@ -100,7 +102,7 @@
       "MA": 8,
       "MI": 2,
       "MO": 5,
-      "PA": 1,
+      "PA": 2,
       "PI": 1,
       "PO": 1
     }

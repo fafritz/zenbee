@@ -1,9 +1,9 @@
 {
   "pangram": "proving",
   "center_letter": "i",
-  "num_answers": 51,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 310,
+  "possible_points": 330,
   "answer_pangrams": [
     "proving"
   ],
@@ -28,6 +28,8 @@
     "ironing",
     "nipping",
     "noggin",
+    "noir",
+    "nori",
     "ongoing",
     "onion",
     "opining",
@@ -43,8 +45,10 @@
     "piping",
     "pippin",
     "pipping",
-    "pooping",
+    "pirogi",
+    "pogoing",
     "popping",
+    "porging",
     "poring",
     "prig",
     "prior",
@@ -55,6 +59,7 @@
     "ring",
     "ringing",
     "ripping",
+    "ronin",
     "roping",
     "roving",
     "vigor",
@@ -63,20 +68,20 @@
   "date": "2032-12-23",
   "hints": {
     "by_length": {
-      "4": 6,
-      "5": 6,
-      "6": 13,
-      "7": 20,
+      "4": 8,
+      "5": 7,
+      "6": 14,
+      "7": 21,
       "8": 5,
       "9": 1
     },
     "by_first_letter": {
       "G": 14,
       "I": 4,
-      "N": 2,
+      "N": 4,
       "O": 5,
-      "P": 17,
-      "R": 7,
+      "P": 19,
+      "R": 8,
       "V": 2
     },
     "grid": {
@@ -94,6 +99,7 @@
         "8": 1
       },
       "N": {
+        "4": 2,
         "6": 1,
         "7": 1
       },
@@ -105,14 +111,14 @@
       "P": {
         "4": 2,
         "5": 1,
-        "6": 5,
-        "7": 7,
+        "6": 6,
+        "7": 8,
         "8": 1,
         "9": 1
       },
       "R": {
         "4": 1,
-        "5": 1,
+        "5": 2,
         "6": 2,
         "7": 3
       },
@@ -129,15 +135,15 @@
       "IN": 1,
       "IR": 2,
       "NI": 1,
-      "NO": 1,
+      "NO": 3,
       "ON": 2,
       "OP": 2,
       "OR": 1,
-      "PI": 10,
-      "PO": 3,
+      "PI": 11,
+      "PO": 4,
       "PR": 4,
       "RI": 5,
-      "RO": 2,
+      "RO": 3,
       "VI": 2
     }
   }

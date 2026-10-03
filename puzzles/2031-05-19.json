@@ -1,14 +1,15 @@
 {
   "pangram": "clumped",
   "center_letter": "l",
-  "num_answers": 50,
+  "num_answers": 53,
   "num_pangrams": 1,
-  "possible_points": 231,
+  "possible_points": 243,
   "answer_pangrams": [
     "clumped"
   ],
   "answers": [
     "cell",
+    "celled",
     "clue",
     "clued",
     "clump",
@@ -24,8 +25,10 @@
     "dueled",
     "dull",
     "dulled",
+    "eeled",
     "elude",
     "eluded",
+    "lede",
     "lull",
     "lulled",
     "lulu",
@@ -62,17 +65,17 @@
   "date": "2031-05-19",
   "hints": {
     "by_length": {
-      "4": 16,
-      "5": 6,
-      "6": 19,
+      "4": 17,
+      "5": 7,
+      "6": 20,
       "7": 8,
       "8": 1
     },
     "by_first_letter": {
-      "C": 9,
+      "C": 10,
       "D": 7,
-      "E": 2,
-      "L": 5,
+      "E": 3,
+      "L": 6,
       "M": 10,
       "P": 17
     },
@@ -80,7 +83,7 @@
       "C": {
         "4": 3,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 2
       },
       "D": {
@@ -89,11 +92,11 @@
         "7": 1
       },
       "E": {
-        "5": 1,
+        "5": 2,
         "6": 1
       },
       "L": {
-        "4": 3,
+        "4": 4,
         "6": 2
       },
       "M": {
@@ -111,12 +114,14 @@
       }
     },
     "two_letter_list": {
-      "CE": 1,
+      "CE": 2,
       "CL": 4,
       "CU": 4,
       "DE": 3,
       "DU": 4,
+      "EE": 1,
       "EL": 2,
+      "LE": 1,
       "LU": 5,
       "ME": 5,
       "MU": 5,

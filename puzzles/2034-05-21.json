@@ -1,9 +1,9 @@
 {
   "pangram": "placebo",
   "center_letter": "c",
-  "num_answers": 34,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 128,
+  "possible_points": 133,
   "answer_pangrams": [
     "placebo"
   ],
@@ -11,6 +11,7 @@
     "alpaca",
     "apace",
     "bloc",
+    "bocce",
     "cabal",
     "cable",
     "cacao",
@@ -47,7 +48,7 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 10,
+      "5": 11,
       "6": 4,
       "7": 2,
       "8": 1,
@@ -55,7 +56,7 @@
     },
     "by_first_letter": {
       "A": 2,
-      "B": 1,
+      "B": 2,
       "C": 21,
       "L": 4,
       "P": 6
@@ -66,7 +67,8 @@
         "6": 1
       },
       "B": {
-        "4": 1
+        "4": 1,
+        "5": 1
       },
       "C": {
         "4": 12,
@@ -92,6 +94,7 @@
       "AL": 1,
       "AP": 1,
       "BL": 1,
+      "BO": 1,
       "CA": 9,
       "CE": 2,
       "CL": 2,

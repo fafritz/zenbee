@@ -1,9 +1,9 @@
 {
   "pangram": "talking",
   "center_letter": "k",
-  "num_answers": 25,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 113,
+  "possible_points": 114,
   "answer_pangrams": [
     "talking"
   ],
@@ -32,12 +32,13 @@
     "talking",
     "tank",
     "tanking",
+    "tiki",
     "tinkling"
   ],
   "date": "2034-10-31",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "6": 5,
       "7": 7,
       "8": 2
@@ -47,7 +48,7 @@
       "I": 2,
       "K": 11,
       "L": 4,
-      "T": 6
+      "T": 7
     },
     "grid": {
       "A": {
@@ -70,7 +71,7 @@
         "7": 1
       },
       "T": {
-        "4": 2,
+        "4": 3,
         "6": 1,
         "7": 2,
         "8": 1
@@ -85,7 +86,7 @@
       "LA": 1,
       "LI": 3,
       "TA": 5,
-      "TI": 1
+      "TI": 2
     }
   }
 }

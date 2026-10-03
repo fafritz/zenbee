@@ -3,7 +3,7 @@
   "center_letter": "l",
   "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 180,
+  "possible_points": 186,
   "answer_pangrams": [
     "frontal"
   ],
@@ -15,7 +15,6 @@
     "aloof",
     "altar",
     "alto",
-    "anal",
     "atoll",
     "atonal",
     "fall",
@@ -33,6 +32,7 @@
     "footfall",
     "forlorn",
     "frontal",
+    "lantana",
     "llano",
     "loaf",
     "loan",
@@ -57,16 +57,16 @@
   "date": "2038-11-08",
   "hints": {
     "by_length": {
-      "4": 18,
+      "4": 17,
       "5": 17,
       "6": 3,
-      "7": 4,
+      "7": 5,
       "8": 3
     },
     "by_first_letter": {
-      "A": 10,
+      "A": 9,
       "F": 15,
-      "L": 8,
+      "L": 9,
       "N": 2,
       "O": 2,
       "R": 1,
@@ -74,7 +74,7 @@
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 5,
         "6": 2,
         "7": 1
@@ -88,7 +88,8 @@
       },
       "L": {
         "4": 6,
-        "5": 2
+        "5": 2,
+        "7": 1
       },
       "N": {
         "5": 1,
@@ -109,12 +110,12 @@
     "two_letter_list": {
       "AF": 1,
       "AL": 6,
-      "AN": 1,
       "AT": 2,
       "FA": 3,
       "FL": 7,
       "FO": 4,
       "FR": 1,
+      "LA": 1,
       "LL": 1,
       "LO": 7,
       "NA": 1,

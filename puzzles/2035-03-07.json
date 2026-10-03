@@ -1,9 +1,9 @@
 {
   "pangram": "phonied",
   "center_letter": "h",
-  "num_answers": 29,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 129,
+  "possible_points": 123,
   "answer_pangrams": [
     "phonied"
   ],
@@ -31,7 +31,6 @@
     "hope",
     "hoped",
     "hopped",
-    "iphone",
     "phone",
     "phoned",
     "phonied",
@@ -43,13 +42,12 @@
     "by_length": {
       "4": 10,
       "5": 5,
-      "6": 12,
+      "6": 11,
       "7": 1,
       "8": 1
     },
     "by_first_letter": {
       "H": 23,
-      "I": 1,
       "P": 5
     },
     "grid": {
@@ -58,9 +56,6 @@
         "5": 4,
         "6": 9,
         "8": 1
-      },
-      "I": {
-        "6": 1
       },
       "P": {
         "4": 1,
@@ -73,7 +68,6 @@
       "HE": 2,
       "HI": 8,
       "HO": 13,
-      "IP": 1,
       "PH": 3,
       "PO": 2
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "corking",
   "center_letter": "g",
-  "num_answers": 53,
+  "num_answers": 55,
   "num_pangrams": 3,
-  "possible_points": 341,
+  "possible_points": 354,
   "answer_pangrams": [
     "corking",
     "crooking",
@@ -12,6 +12,7 @@
   "answers": [
     "cocking",
     "cocooning",
+    "cogging",
     "coining",
     "coking",
     "conking",
@@ -33,6 +34,7 @@
     "gonging",
     "goon",
     "gorging",
+    "gorgon",
     "goring",
     "grin",
     "grinning",
@@ -69,14 +71,14 @@
     "by_length": {
       "4": 7,
       "5": 4,
-      "6": 11,
-      "7": 22,
+      "6": 12,
+      "7": 23,
       "8": 8,
       "9": 1
     },
     "by_first_letter": {
-      "C": 15,
-      "G": 15,
+      "C": 16,
+      "G": 16,
       "I": 6,
       "K": 4,
       "N": 2,
@@ -86,14 +88,14 @@
     "grid": {
       "C": {
         "6": 3,
-        "7": 7,
+        "7": 8,
         "8": 4,
         "9": 1
       },
       "G": {
         "4": 5,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 4,
         "8": 2
       },
@@ -124,10 +126,10 @@
       }
     },
     "two_letter_list": {
-      "CO": 11,
+      "CO": 12,
       "CR": 4,
       "GI": 3,
-      "GO": 6,
+      "GO": 7,
       "GR": 6,
       "IC": 1,
       "IG": 1,

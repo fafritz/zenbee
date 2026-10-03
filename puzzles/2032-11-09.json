@@ -1,9 +1,9 @@
 {
   "pangram": "orbital",
   "center_letter": "l",
-  "num_answers": 55,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 175,
+  "possible_points": 181,
   "answer_pangrams": [
     "orbital"
   ],
@@ -50,6 +50,7 @@
     "tail",
     "tailor",
     "tall",
+    "tibial",
     "till",
     "tilt",
     "toil",
@@ -69,7 +70,7 @@
     "by_length": {
       "4": 31,
       "5": 14,
-      "6": 5,
+      "6": 6,
       "7": 3,
       "8": 2
     },
@@ -79,7 +80,7 @@
       "L": 12,
       "O": 3,
       "R": 4,
-      "T": 16
+      "T": 17
     },
     "grid": {
       "A": {
@@ -108,7 +109,7 @@
       "T": {
         "4": 7,
         "5": 5,
-        "6": 2,
+        "6": 3,
         "7": 1,
         "8": 1
       }
@@ -130,7 +131,7 @@
       "RI": 1,
       "RO": 2,
       "TA": 3,
-      "TI": 2,
+      "TI": 3,
       "TO": 6,
       "TR": 5
     }

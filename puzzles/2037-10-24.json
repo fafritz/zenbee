@@ -1,9 +1,9 @@
 {
   "pangram": "playing",
   "center_letter": "y",
-  "num_answers": 27,
+  "num_answers": 29,
   "num_pangrams": 3,
-  "possible_points": 176,
+  "possible_points": 182,
   "answer_pangrams": [
     "appallingly",
     "applying",
@@ -17,6 +17,7 @@
     "appallingly",
     "apply",
     "applying",
+    "gaily",
     "giggly",
     "gypping",
     "inlay",
@@ -35,14 +36,15 @@
     "play",
     "playing",
     "plying",
+    "yang",
     "yapping",
     "yipping"
   ],
   "date": "2037-10-24",
   "hints": {
     "by_length": {
-      "4": 3,
-      "5": 9,
+      "4": 4,
+      "5": 10,
       "6": 5,
       "7": 6,
       "8": 3,
@@ -50,12 +52,12 @@
     },
     "by_first_letter": {
       "A": 7,
-      "G": 2,
+      "G": 3,
       "I": 2,
       "L": 3,
       "N": 4,
       "P": 7,
-      "Y": 2
+      "Y": 3
     },
     "grid": {
       "A": {
@@ -66,6 +68,7 @@
         "11": 1
       },
       "G": {
+        "5": 1,
         "6": 1,
         "7": 1
       },
@@ -88,12 +91,14 @@
         "7": 2
       },
       "Y": {
+        "4": 1,
         "7": 2
       }
     },
     "two_letter_list": {
       "AL": 4,
       "AP": 3,
+      "GA": 1,
       "GI": 1,
       "GY": 1,
       "IN": 2,
@@ -105,7 +110,7 @@
       "PA": 2,
       "PI": 1,
       "PL": 4,
-      "YA": 1,
+      "YA": 2,
       "YI": 1
     }
   }

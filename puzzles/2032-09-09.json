@@ -1,9 +1,9 @@
 {
   "pangram": "congeal",
   "center_letter": "n",
-  "num_answers": 66,
+  "num_answers": 65,
   "num_pangrams": 1,
-  "possible_points": 256,
+  "possible_points": 258,
   "answer_pangrams": [
     "congeal"
   ],
@@ -11,7 +11,6 @@
     "acne",
     "alone",
     "along",
-    "anal",
     "analog",
     "angel",
     "angle",
@@ -42,6 +41,7 @@
     "elan",
     "elegance",
     "engage",
+    "galangal",
     "galena",
     "galleon",
     "gallon",
@@ -52,7 +52,6 @@
     "glen",
     "gone",
     "gong",
-    "gonna",
     "goon",
     "lagoon",
     "lance",
@@ -78,14 +77,14 @@
   "date": "2032-09-09",
   "hints": {
     "by_length": {
-      "4": 27,
-      "5": 19,
+      "4": 26,
+      "5": 18,
       "6": 14,
       "7": 5,
-      "8": 1
+      "8": 2
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 8,
       "C": 21,
       "E": 4,
       "G": 12,
@@ -95,7 +94,7 @@
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 4,
         "6": 2
       },
@@ -112,9 +111,10 @@
       },
       "G": {
         "4": 6,
-        "5": 2,
+        "5": 1,
         "6": 3,
-        "7": 1
+        "7": 1,
+        "8": 1
       },
       "L": {
         "4": 6,
@@ -134,17 +134,17 @@
     "two_letter_list": {
       "AC": 1,
       "AL": 2,
-      "AN": 6,
+      "AN": 5,
       "CA": 8,
       "CL": 4,
       "CO": 9,
       "EG": 1,
       "EL": 2,
       "EN": 1,
-      "GA": 4,
+      "GA": 5,
       "GE": 1,
       "GL": 3,
-      "GO": 4,
+      "GO": 3,
       "LA": 3,
       "LE": 1,
       "LL": 1,

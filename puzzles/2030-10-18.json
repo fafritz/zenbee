@@ -1,9 +1,9 @@
 {
   "pangram": "walking",
   "center_letter": "g",
-  "num_answers": 64,
+  "num_answers": 67,
   "num_pangrams": 1,
-  "possible_points": 383,
+  "possible_points": 398,
   "answer_pangrams": [
     "walking"
   ],
@@ -19,10 +19,12 @@
     "awaking",
     "awing",
     "awning",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -45,6 +47,7 @@
     "king",
     "kinking",
     "lagging",
+    "lignin",
     "liking",
     "lining",
     "linking",
@@ -76,19 +79,19 @@
   "date": "2030-10-18",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 11,
       "5": 4,
-      "6": 14,
+      "6": 15,
       "7": 28,
-      "8": 7,
+      "8": 8,
       "10": 1
     },
     "by_first_letter": {
       "A": 11,
-      "G": 18,
+      "G": 20,
       "I": 3,
       "K": 4,
-      "L": 4,
+      "L": 5,
       "N": 3,
       "W": 21
     },
@@ -101,9 +104,9 @@
         "8": 1
       },
       "G": {
-        "4": 7,
+        "4": 8,
         "7": 9,
-        "8": 2
+        "8": 3
       },
       "I": {
         "6": 2,
@@ -114,7 +117,7 @@
         "7": 3
       },
       "L": {
-        "6": 2,
+        "6": 3,
         "7": 2
       },
       "N": {
@@ -135,13 +138,13 @@
       "AL": 3,
       "AN": 2,
       "AW": 3,
-      "GA": 12,
+      "GA": 14,
       "GI": 4,
       "GN": 2,
       "IN": 3,
       "KI": 4,
       "LA": 1,
-      "LI": 3,
+      "LI": 4,
       "NA": 2,
       "NI": 1,
       "WA": 10,

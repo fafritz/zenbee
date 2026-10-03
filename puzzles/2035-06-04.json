@@ -1,21 +1,22 @@
 {
   "pangram": "grandly",
   "center_letter": "n",
-  "num_answers": 23,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 107,
+  "possible_points": 120,
   "answer_pangrams": [
     "grandly"
   ],
   "answers": [
-    "anal",
     "angry",
     "dandy",
     "darn",
+    "galangal",
     "gang",
     "gangland",
     "garland",
     "gland",
+    "gnarl",
     "gnarly",
     "granary",
     "grand",
@@ -30,29 +31,29 @@
     "raglan",
     "rang",
     "rangy",
+    "yang",
     "yarn"
   ],
   "date": "2035-06-04",
   "hints": {
     "by_length": {
       "4": 8,
-      "5": 6,
+      "5": 7,
       "6": 3,
       "7": 4,
-      "8": 2
+      "8": 3
     },
     "by_first_letter": {
-      "A": 2,
+      "A": 1,
       "D": 2,
-      "G": 9,
+      "G": 11,
       "L": 3,
       "N": 3,
       "R": 3,
-      "Y": 1
+      "Y": 2
     },
     "grid": {
       "A": {
-        "4": 1,
         "5": 1
       },
       "D": {
@@ -61,10 +62,10 @@
       },
       "G": {
         "4": 1,
-        "5": 2,
+        "5": 3,
         "6": 2,
         "7": 3,
-        "8": 1
+        "8": 2
       },
       "L": {
         "4": 1,
@@ -81,20 +82,20 @@
         "6": 1
       },
       "Y": {
-        "4": 1
+        "4": 2
       }
     },
     "two_letter_list": {
-      "AN": 2,
+      "AN": 1,
       "DA": 2,
-      "GA": 3,
+      "GA": 4,
       "GL": 1,
-      "GN": 1,
+      "GN": 2,
       "GR": 4,
       "LA": 3,
       "NA": 3,
       "RA": 3,
-      "YA": 1
+      "YA": 2
     }
   }
 }

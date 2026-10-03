@@ -3,7 +3,7 @@
   "center_letter": "g",
   "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 244,
+  "possible_points": 250,
   "answer_pangrams": [
     "chowing"
   ],
@@ -13,6 +13,7 @@
     "chowing",
     "cinching",
     "cocooning",
+    "cogging",
     "coining",
     "conning",
     "cooing",
@@ -26,7 +27,6 @@
     "gown",
     "gowning",
     "high",
-    "hing",
     "hinging",
     "hogging",
     "honing",
@@ -53,17 +53,17 @@
   "date": "2039-01-02",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 6,
       "5": 3,
       "6": 9,
-      "7": 17,
+      "7": 18,
       "8": 3,
       "9": 2
     },
     "by_first_letter": {
-      "C": 9,
+      "C": 10,
       "G": 8,
-      "H": 5,
+      "H": 4,
       "I": 3,
       "N": 2,
       "O": 3,
@@ -72,7 +72,7 @@
     "grid": {
       "C": {
         "6": 2,
-        "7": 4,
+        "7": 5,
         "8": 2,
         "9": 1
       },
@@ -82,7 +82,7 @@
         "7": 4
       },
       "H": {
-        "4": 2,
+        "4": 1,
         "6": 1,
         "7": 2
       },
@@ -111,10 +111,10 @@
     "two_letter_list": {
       "CH": 3,
       "CI": 1,
-      "CO": 5,
+      "CO": 6,
       "GI": 2,
       "GO": 6,
-      "HI": 3,
+      "HI": 2,
       "HO": 2,
       "IC": 1,
       "IN": 2,

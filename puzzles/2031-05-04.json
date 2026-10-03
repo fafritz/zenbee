@@ -1,15 +1,16 @@
 {
   "pangram": "mulched",
   "center_letter": "d",
-  "num_answers": 46,
+  "num_answers": 52,
   "num_pangrams": 1,
-  "possible_points": 232,
+  "possible_points": 261,
   "answer_pangrams": [
     "mulched"
   ],
   "answers": [
     "cede",
     "ceded",
+    "celled",
     "chummed",
     "clued",
     "cuddle",
@@ -26,12 +27,15 @@
     "delude",
     "deluded",
     "deuce",
+    "deuced",
     "dude",
     "duded",
     "duel",
     "dueled",
     "dull",
     "dulled",
+    "educe",
+    "eeled",
     "elude",
     "eluded",
     "emceed",
@@ -39,11 +43,13 @@
     "heeded",
     "heeled",
     "held",
+    "helmed",
     "hemmed",
     "huddle",
     "huddled",
     "hulled",
     "hummed",
+    "lede",
     "leeched",
     "lulled",
     "meddle",
@@ -58,42 +64,43 @@
   "date": "2031-05-04",
   "hints": {
     "by_length": {
-      "4": 11,
-      "5": 5,
-      "6": 21,
+      "4": 12,
+      "5": 7,
+      "6": 24,
       "7": 9
     },
     "by_first_letter": {
-      "C": 8,
-      "D": 16,
-      "E": 3,
-      "H": 9,
-      "L": 2,
+      "C": 9,
+      "D": 17,
+      "E": 5,
+      "H": 10,
+      "L": 3,
       "M": 8
     },
     "grid": {
       "C": {
         "4": 2,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 2
       },
       "D": {
         "4": 6,
         "5": 2,
-        "6": 6,
+        "6": 7,
         "7": 2
       },
       "E": {
-        "5": 1,
+        "5": 3,
         "6": 2
       },
       "H": {
         "4": 2,
-        "6": 6,
+        "6": 7,
         "7": 1
       },
       "L": {
+        "4": 1,
         "6": 1,
         "7": 1
       },
@@ -104,17 +111,19 @@
       }
     },
     "two_letter_list": {
-      "CE": 2,
+      "CE": 3,
       "CH": 1,
       "CL": 1,
       "CU": 4,
-      "DE": 10,
+      "DE": 11,
       "DU": 6,
+      "ED": 1,
+      "EE": 1,
       "EL": 2,
       "EM": 1,
-      "HE": 5,
+      "HE": 6,
       "HU": 4,
-      "LE": 1,
+      "LE": 2,
       "LU": 1,
       "ME": 4,
       "MU": 4

@@ -1,15 +1,16 @@
 {
   "pangram": "copying",
   "center_letter": "i",
-  "num_answers": 44,
+  "num_answers": 47,
   "num_pangrams": 1,
-  "possible_points": 268,
+  "possible_points": 286,
   "answer_pangrams": [
     "copying"
   ],
   "answers": [
     "cocci",
     "cocooning",
+    "cogging",
     "coin",
     "coining",
     "conic",
@@ -27,7 +28,9 @@
     "gypping",
     "icing",
     "icon",
+    "iconic",
     "inning",
+    "ionic",
     "ninny",
     "nipping",
     "nippy",
@@ -48,7 +51,7 @@
     "piping",
     "pippin",
     "pipping",
-    "pooping",
+    "pogoing",
     "popping",
     "yipping",
     "yogi"
@@ -57,15 +60,15 @@
   "hints": {
     "by_length": {
       "4": 4,
-      "5": 9,
-      "6": 9,
-      "7": 20,
+      "5": 10,
+      "6": 10,
+      "7": 21,
       "9": 2
     },
     "by_first_letter": {
-      "C": 12,
+      "C": 13,
       "G": 5,
-      "I": 3,
+      "I": 5,
       "N": 4,
       "O": 4,
       "P": 14,
@@ -76,7 +79,7 @@
         "4": 1,
         "5": 3,
         "6": 2,
-        "7": 5,
+        "7": 6,
         "9": 1
       },
       "G": {
@@ -85,8 +88,8 @@
       },
       "I": {
         "4": 1,
-        "5": 1,
-        "6": 1
+        "5": 2,
+        "6": 2
       },
       "N": {
         "5": 2,
@@ -110,13 +113,14 @@
       }
     },
     "two_letter_list": {
-      "CO": 11,
+      "CO": 12,
       "CY": 1,
       "GI": 2,
       "GO": 2,
       "GY": 1,
-      "IC": 2,
+      "IC": 3,
       "IN": 1,
+      "IO": 1,
       "NI": 3,
       "NO": 1,
       "ON": 2,

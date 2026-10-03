@@ -1,9 +1,9 @@
 {
   "pangram": "touched",
   "center_letter": "c",
-  "num_answers": 37,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 168,
+  "possible_points": 179,
   "answer_pangrams": [
     "touched"
   ],
@@ -31,11 +31,12 @@
     "detect",
     "detected",
     "deuce",
-    "douche",
+    "deuced",
     "douched",
     "duct",
     "echo",
     "echoed",
+    "educe",
     "etch",
     "etched",
     "hooch",
@@ -44,24 +45,25 @@
     "ouch",
     "tech",
     "touch",
+    "touche",
     "touched"
   ],
   "date": "2038-04-14",
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 10,
-      "6": 8,
+      "5": 11,
+      "6": 9,
       "7": 5,
       "8": 2
     },
     "by_first_letter": {
       "C": 14,
       "D": 12,
-      "E": 4,
+      "E": 5,
       "H": 2,
       "O": 2,
-      "T": 3
+      "T": 4
     },
     "grid": {
       "C": {
@@ -79,6 +81,7 @@
       },
       "E": {
         "4": 2,
+        "5": 1,
         "6": 2
       },
       "H": {
@@ -91,6 +94,7 @@
       "T": {
         "4": 1,
         "5": 1,
+        "6": 1,
         "7": 1
       }
     },
@@ -99,17 +103,18 @@
       "CH": 1,
       "CO": 8,
       "CU": 3,
-      "DE": 9,
-      "DO": 2,
+      "DE": 10,
+      "DO": 1,
       "DU": 1,
       "EC": 2,
+      "ED": 1,
       "ET": 2,
       "HO": 1,
       "HU": 1,
       "OC": 1,
       "OU": 1,
       "TE": 1,
-      "TO": 2
+      "TO": 3
     }
   }
 }

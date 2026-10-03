@@ -1,16 +1,18 @@
 {
   "pangram": "faction",
   "center_letter": "n",
-  "num_answers": 65,
+  "num_answers": 70,
   "num_pangrams": 2,
-  "possible_points": 379,
+  "possible_points": 405,
   "answer_pangrams": [
     "faction",
     "notification"
   ],
   "answers": [
+    "actinic",
     "action",
     "anion",
+    "annatto",
     "annotation",
     "anoint",
     "anon",
@@ -46,6 +48,7 @@
     "fiction",
     "font",
     "icon",
+    "iconic",
     "inaction",
     "incantation",
     "infant",
@@ -54,7 +57,9 @@
     "intact",
     "into",
     "intonation",
+    "ionic",
     "naan",
+    "naif",
     "nana",
     "nation",
     "niacin",
@@ -78,10 +83,10 @@
   "date": "2032-04-23",
   "hints": {
     "by_length": {
-      "4": 14,
-      "5": 11,
-      "6": 19,
-      "7": 8,
+      "4": 15,
+      "5": 12,
+      "6": 20,
+      "7": 10,
       "8": 3,
       "9": 2,
       "10": 5,
@@ -89,11 +94,11 @@
       "12": 1
     },
     "by_first_letter": {
-      "A": 8,
+      "A": 10,
       "C": 23,
       "F": 5,
-      "I": 9,
-      "N": 10,
+      "I": 11,
+      "N": 11,
       "O": 2,
       "T": 8
     },
@@ -102,6 +107,7 @@
         "4": 2,
         "5": 2,
         "6": 3,
+        "7": 2,
         "10": 1
       },
       "C": {
@@ -121,13 +127,14 @@
       },
       "I": {
         "4": 3,
-        "6": 2,
+        "5": 1,
+        "6": 3,
         "8": 1,
         "10": 2,
         "11": 1
       },
       "N": {
-        "4": 3,
+        "4": 4,
         "6": 4,
         "8": 1,
         "10": 1,
@@ -146,8 +153,8 @@
       }
     },
     "two_letter_list": {
-      "AC": 1,
-      "AN": 6,
+      "AC": 2,
+      "AN": 7,
       "AT": 1,
       "CA": 12,
       "CI": 1,
@@ -155,9 +162,10 @@
       "FA": 3,
       "FI": 1,
       "FO": 1,
-      "IC": 1,
+      "IC": 2,
       "IN": 8,
-      "NA": 3,
+      "IO": 1,
+      "NA": 4,
       "NI": 1,
       "NO": 6,
       "ON": 2,

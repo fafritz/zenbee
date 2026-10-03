@@ -1,9 +1,9 @@
 {
   "pangram": "roundly",
   "center_letter": "o",
-  "num_answers": 33,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 111,
+  "possible_points": 106,
   "answer_pangrams": [
     "roundly"
   ],
@@ -19,12 +19,11 @@
     "droll",
     "drolly",
     "drool",
-    "dunno",
     "loll",
     "loon",
+    "loony",
     "lord",
     "lordly",
-    "lorry",
     "loud",
     "loudly",
     "noddy",
@@ -46,12 +45,12 @@
   "hints": {
     "by_length": {
       "4": 17,
-      "5": 10,
+      "5": 9,
       "6": 5,
       "7": 1
     },
     "by_first_letter": {
-      "D": 12,
+      "D": 11,
       "L": 7,
       "N": 4,
       "O": 3,
@@ -62,7 +61,7 @@
     "grid": {
       "D": {
         "4": 5,
-        "5": 5,
+        "5": 4,
         "6": 2
       },
       "L": {
@@ -94,7 +93,6 @@
     "two_letter_list": {
       "DO": 8,
       "DR": 3,
-      "DU": 1,
       "LO": 7,
       "NO": 3,
       "NY": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "outline",
   "center_letter": "u",
-  "num_answers": 24,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 97,
+  "possible_points": 103,
   "answer_pangrams": [
     "outline"
   ],
@@ -11,6 +11,7 @@
     "ennui",
     "intuit",
     "intuition",
+    "inulin",
     "lieu",
     "lout",
     "lull",
@@ -38,14 +39,14 @@
     "by_length": {
       "4": 11,
       "5": 6,
-      "6": 3,
+      "6": 4,
       "7": 2,
       "8": 1,
       "9": 1
     },
     "by_first_letter": {
       "E": 1,
-      "I": 2,
+      "I": 3,
       "L": 5,
       "N": 3,
       "O": 2,
@@ -57,7 +58,7 @@
         "5": 1
       },
       "I": {
-        "6": 1,
+        "6": 2,
         "9": 1
       },
       "L": {
@@ -84,7 +85,7 @@
     },
     "two_letter_list": {
       "EN": 1,
-      "IN": 2,
+      "IN": 3,
       "LI": 1,
       "LO": 1,
       "LU": 3,

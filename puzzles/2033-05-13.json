@@ -1,9 +1,9 @@
 {
   "pangram": "bathing",
   "center_letter": "b",
-  "num_answers": 29,
+  "num_answers": 30,
   "num_pangrams": 2,
-  "possible_points": 192,
+  "possible_points": 199,
   "answer_pangrams": [
     "bathing",
     "inhabiting"
@@ -23,6 +23,7 @@
     "bathing",
     "batting",
     "bight",
+    "binging",
     "binning",
     "biting",
     "gabbing",
@@ -45,12 +46,12 @@
       "4": 4,
       "5": 3,
       "6": 4,
-      "7": 15,
+      "7": 16,
       "10": 3
     },
     "by_first_letter": {
       "A": 1,
-      "B": 15,
+      "B": 16,
       "G": 3,
       "H": 2,
       "I": 5,
@@ -65,7 +66,7 @@
         "4": 4,
         "5": 1,
         "6": 3,
-        "7": 7
+        "7": 8
       },
       "G": {
         "6": 1,
@@ -90,7 +91,7 @@
     "two_letter_list": {
       "AB": 1,
       "BA": 12,
-      "BI": 3,
+      "BI": 4,
       "GA": 1,
       "GI": 2,
       "HA": 2,

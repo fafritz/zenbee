@@ -1,14 +1,15 @@
 {
   "pangram": "menthol",
   "center_letter": "e",
-  "num_answers": 63,
+  "num_answers": 65,
   "num_pangrams": 1,
-  "possible_points": 223,
+  "possible_points": 228,
   "answer_pangrams": [
     "menthol"
   ],
   "answers": [
     "element",
+    "elote",
     "emote",
     "entente",
     "heel",
@@ -18,6 +19,7 @@
     "helm",
     "helmet",
     "helot",
+    "heme",
     "hole",
     "home",
     "hone",
@@ -41,6 +43,7 @@
     "monotone",
     "mote",
     "motel",
+    "motet",
     "mottle",
     "nene",
     "neon",
@@ -57,7 +60,6 @@
     "teethe",
     "telethon",
     "tell",
-    "telnet",
     "tenement",
     "tenet",
     "tenon",
@@ -75,28 +77,28 @@
   "date": "2035-04-13",
   "hints": {
     "by_length": {
-      "4": 32,
-      "5": 14,
-      "6": 9,
+      "4": 33,
+      "5": 16,
+      "6": 8,
       "7": 4,
       "8": 4
     },
     "by_first_letter": {
-      "E": 3,
-      "H": 11,
+      "E": 4,
+      "H": 12,
       "L": 3,
-      "M": 17,
+      "M": 18,
       "N": 6,
       "O": 3,
-      "T": 20
+      "T": 19
     },
     "grid": {
       "E": {
-        "5": 1,
+        "5": 2,
         "7": 2
       },
       "H": {
-        "4": 6,
+        "4": 7,
         "5": 3,
         "6": 1,
         "8": 1
@@ -107,7 +109,7 @@
       },
       "M": {
         "4": 7,
-        "5": 3,
+        "5": 4,
         "6": 4,
         "7": 2,
         "8": 1
@@ -123,25 +125,25 @@
       "T": {
         "4": 10,
         "5": 6,
-        "6": 2,
+        "6": 1,
         "8": 2
       }
     },
     "two_letter_list": {
-      "EL": 1,
+      "EL": 2,
       "EM": 1,
       "EN": 1,
-      "HE": 7,
+      "HE": 8,
       "HO": 4,
       "LE": 2,
       "LO": 1,
       "ME": 10,
-      "MO": 7,
+      "MO": 8,
       "NE": 3,
       "NO": 3,
       "OL": 1,
       "OM": 2,
-      "TE": 12,
+      "TE": 11,
       "TH": 4,
       "TO": 4
     }

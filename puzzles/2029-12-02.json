@@ -1,9 +1,9 @@
 {
   "pangram": "cordial",
   "center_letter": "c",
-  "num_answers": 48,
+  "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 210,
+  "possible_points": 215,
   "answer_pangrams": [
     "cordial"
   ],
@@ -49,6 +49,7 @@
     "corolla",
     "corral",
     "corridor",
+    "iliac",
     "lilac",
     "local",
     "loci",
@@ -61,7 +62,7 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 14,
+      "5": 15,
       "6": 10,
       "7": 7,
       "8": 1
@@ -69,6 +70,7 @@
     "by_first_letter": {
       "A": 6,
       "C": 35,
+      "I": 1,
       "L": 4,
       "R": 3
     },
@@ -85,6 +87,9 @@
         "7": 6,
         "8": 1
       },
+      "I": {
+        "5": 1
+      },
       "L": {
         "4": 2,
         "5": 2
@@ -100,6 +105,7 @@
       "CI": 4,
       "CL": 2,
       "CO": 20,
+      "IL": 1,
       "LI": 1,
       "LO": 3,
       "RA": 2,

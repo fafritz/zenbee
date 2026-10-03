@@ -1,9 +1,9 @@
 {
   "pangram": "wording",
   "center_letter": "r",
-  "num_answers": 49,
+  "num_answers": 53,
   "num_pangrams": 3,
-  "possible_points": 271,
+  "possible_points": 284,
   "answer_pangrams": [
     "drowning",
     "wording",
@@ -19,6 +19,7 @@
     "gird",
     "girding",
     "gorging",
+    "gorgon",
     "goring",
     "grid",
     "gridiron",
@@ -36,7 +37,9 @@
     "ingrown",
     "iron",
     "ironing",
+    "noir",
     "nonrigid",
+    "nori",
     "odor",
     "origin",
     "ridding",
@@ -48,6 +51,7 @@
     "rind",
     "ring",
     "ringing",
+    "ronin",
     "rood",
     "rowing",
     "wiring",
@@ -63,20 +67,20 @@
   "date": "2027-09-25",
   "hints": {
     "by_length": {
-      "4": 13,
-      "5": 10,
-      "6": 6,
+      "4": 15,
+      "5": 11,
+      "6": 7,
       "7": 11,
       "8": 8,
       "10": 1
     },
     "by_first_letter": {
       "D": 6,
-      "G": 15,
+      "G": 16,
       "I": 5,
-      "N": 1,
+      "N": 3,
       "O": 2,
-      "R": 11,
+      "R": 12,
       "W": 9
     },
     "grid": {
@@ -89,7 +93,7 @@
       "G": {
         "4": 5,
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 3,
         "8": 3
       },
@@ -100,6 +104,7 @@
         "8": 1
       },
       "N": {
+        "4": 2,
         "8": 1
       },
       "O": {
@@ -108,7 +113,7 @@
       },
       "R": {
         "4": 3,
-        "5": 2,
+        "5": 3,
         "6": 2,
         "7": 4
       },
@@ -125,16 +130,16 @@
       "DO": 2,
       "DR": 4,
       "GI": 2,
-      "GO": 2,
+      "GO": 3,
       "GR": 11,
       "IG": 1,
       "IN": 2,
       "IR": 2,
-      "NO": 1,
+      "NO": 3,
       "OD": 1,
       "OR": 1,
       "RI": 9,
-      "RO": 2,
+      "RO": 3,
       "WI": 1,
       "WO": 3,
       "WR": 5

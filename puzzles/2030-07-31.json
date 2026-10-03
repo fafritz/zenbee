@@ -1,9 +1,9 @@
 {
   "pangram": "voltage",
   "center_letter": "g",
-  "num_answers": 36,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 152,
+  "possible_points": 153,
   "answer_pangrams": [
     "voltage"
   ],
@@ -16,6 +16,7 @@
     "allege",
     "eagle",
     "eaglet",
+    "gaga",
     "gaggle",
     "gala",
     "gale",
@@ -48,7 +49,7 @@
   "date": "2030-07-31",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 15,
       "5": 8,
       "6": 9,
       "7": 3,
@@ -57,7 +58,7 @@
     "by_first_letter": {
       "A": 6,
       "E": 2,
-      "G": 16,
+      "G": 17,
       "L": 6,
       "O": 1,
       "T": 3,
@@ -74,7 +75,7 @@
         "6": 1
       },
       "G": {
-        "4": 8,
+        "4": 9,
         "5": 3,
         "6": 4,
         "7": 1
@@ -102,7 +103,7 @@
       "AG": 3,
       "AL": 3,
       "EA": 2,
-      "GA": 8,
+      "GA": 9,
       "GL": 3,
       "GO": 5,
       "LE": 4,

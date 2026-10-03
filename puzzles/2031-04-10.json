@@ -1,9 +1,9 @@
 {
   "pangram": "pliancy",
   "center_letter": "a",
-  "num_answers": 53,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 238,
+  "possible_points": 258,
   "answer_pangrams": [
     "pliancy"
   ],
@@ -13,7 +13,6 @@
     "allay",
     "ally",
     "alpaca",
-    "anal",
     "appall",
     "apply",
     "call",
@@ -35,9 +34,11 @@
     "cyclically",
     "cynical",
     "cynically",
+    "iliac",
     "inlay",
     "lacy",
     "lain",
+    "lanai",
     "lilac",
     "naan",
     "nail",
@@ -49,6 +50,7 @@
     "pain",
     "pall",
     "panic",
+    "panini",
     "papa",
     "papacy",
     "papal",
@@ -56,6 +58,7 @@
     "papilla",
     "pica",
     "piccalilli",
+    "pinna",
     "plain",
     "plainly",
     "plan",
@@ -65,25 +68,25 @@
   "date": "2031-04-10",
   "hints": {
     "by_length": {
-      "4": 20,
-      "5": 14,
-      "6": 7,
+      "4": 19,
+      "5": 17,
+      "6": 8,
       "7": 5,
       "8": 2,
       "9": 2,
       "10": 3
     },
     "by_first_letter": {
-      "A": 8,
+      "A": 7,
       "C": 19,
-      "I": 1,
-      "L": 3,
+      "I": 2,
+      "L": 4,
       "N": 6,
-      "P": 16
+      "P": 18
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 2,
         "6": 3
       },
@@ -97,11 +100,11 @@
         "10": 2
       },
       "I": {
-        "5": 1
+        "5": 2
       },
       "L": {
         "4": 2,
-        "5": 1
+        "5": 2
       },
       "N": {
         "4": 3,
@@ -110,8 +113,8 @@
       },
       "P": {
         "4": 7,
-        "5": 3,
-        "6": 2,
+        "5": 4,
+        "6": 3,
         "7": 3,
         "10": 1
       }
@@ -119,19 +122,19 @@
     "two_letter_list": {
       "AC": 2,
       "AL": 3,
-      "AN": 1,
       "AP": 2,
       "CA": 7,
       "CI": 1,
       "CL": 6,
       "CY": 5,
+      "IL": 1,
       "IN": 1,
-      "LA": 2,
+      "LA": 3,
       "LI": 1,
       "NA": 5,
       "NI": 1,
-      "PA": 9,
-      "PI": 2,
+      "PA": 10,
+      "PI": 3,
       "PL": 5
     }
   }

@@ -1,9 +1,9 @@
 {
   "pangram": "bulking",
   "center_letter": "l",
-  "num_answers": 42,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 208,
+  "possible_points": 226,
   "answer_pangrams": [
     "bulking"
   ],
@@ -32,16 +32,19 @@
     "gull",
     "gulling",
     "inkling",
+    "inulin",
     "kill",
     "killing",
     "kiln",
     "kilning",
+    "lignin",
     "liking",
     "lining",
     "link",
     "linking",
     "lubing",
     "lugging",
+    "luging",
     "lull",
     "lulling",
     "lulu",
@@ -56,16 +59,16 @@
     "by_length": {
       "4": 15,
       "5": 2,
-      "6": 5,
+      "6": 8,
       "7": 14,
       "8": 6
     },
     "by_first_letter": {
       "B": 17,
       "G": 6,
-      "I": 1,
+      "I": 2,
       "K": 4,
-      "L": 11,
+      "L": 13,
       "N": 3
     },
     "grid": {
@@ -83,6 +86,7 @@
         "8": 1
       },
       "I": {
+        "6": 1,
         "7": 1
       },
       "K": {
@@ -91,7 +95,7 @@
       },
       "L": {
         "4": 4,
-        "6": 3,
+        "6": 5,
         "7": 4
       },
       "N": {
@@ -106,10 +110,10 @@
       "GI": 2,
       "GL": 2,
       "GU": 2,
-      "IN": 1,
+      "IN": 2,
       "KI": 4,
-      "LI": 4,
-      "LU": 7,
+      "LI": 5,
+      "LU": 8,
       "NI": 2,
       "NU": 1
     }

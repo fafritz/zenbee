@@ -3,7 +3,7 @@
   "center_letter": "t",
   "num_answers": 69,
   "num_pangrams": 2,
-  "possible_points": 325,
+  "possible_points": 319,
   "answer_pangrams": [
     "chariot",
     "thoracic"
@@ -48,11 +48,11 @@
     "oath",
     "orator",
     "oratorio",
-    "ratatat",
     "ratio",
     "ricotta",
     "riot",
     "root",
+    "roti",
     "rotor",
     "tacit",
     "taco",
@@ -82,10 +82,10 @@
   "date": "2038-02-02",
   "hints": {
     "by_length": {
-      "4": 21,
+      "4": 22,
       "5": 20,
       "6": 14,
-      "7": 8,
+      "7": 7,
       "8": 4,
       "9": 2
     },
@@ -126,9 +126,9 @@
         "8": 1
       },
       "R": {
-        "4": 2,
+        "4": 3,
         "5": 2,
-        "7": 2
+        "7": 1
       },
       "T": {
         "4": 9,
@@ -155,9 +155,9 @@
       "IT": 1,
       "OA": 1,
       "OR": 2,
-      "RA": 2,
+      "RA": 1,
       "RI": 2,
-      "RO": 2,
+      "RO": 3,
       "TA": 9,
       "TH": 4,
       "TI": 1,

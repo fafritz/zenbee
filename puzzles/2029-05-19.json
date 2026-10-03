@@ -1,14 +1,15 @@
 {
   "pangram": "copying",
   "center_letter": "g",
-  "num_answers": 35,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 214,
+  "possible_points": 222,
   "answer_pangrams": [
     "copying"
   ],
   "answers": [
     "cocooning",
+    "cogging",
     "coining",
     "conning",
     "cooing",
@@ -39,7 +40,8 @@
     "pinning",
     "piping",
     "pipping",
-    "pooping",
+    "pogo",
+    "pogoing",
     "popping",
     "yipping",
     "yogi"
@@ -47,25 +49,25 @@
   "date": "2029-05-19",
   "hints": {
     "by_length": {
-      "4": 5,
+      "4": 6,
       "5": 3,
       "6": 6,
-      "7": 19,
+      "7": 20,
       "9": 2
     },
     "by_first_letter": {
-      "C": 8,
+      "C": 9,
       "G": 8,
       "I": 2,
       "N": 2,
       "O": 2,
-      "P": 11,
+      "P": 12,
       "Y": 2
     },
     "grid": {
       "C": {
         "6": 2,
-        "7": 5,
+        "7": 6,
         "9": 1
       },
       "G": {
@@ -85,7 +87,7 @@
         "7": 2
       },
       "P": {
-        "4": 1,
+        "4": 2,
         "5": 1,
         "6": 2,
         "7": 6,
@@ -97,7 +99,7 @@
       }
     },
     "two_letter_list": {
-      "CO": 8,
+      "CO": 9,
       "GI": 2,
       "GO": 5,
       "GY": 1,
@@ -108,7 +110,7 @@
       "ON": 1,
       "OP": 1,
       "PI": 9,
-      "PO": 2,
+      "PO": 3,
       "YI": 1,
       "YO": 1
     }

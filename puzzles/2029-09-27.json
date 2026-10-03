@@ -3,7 +3,7 @@
   "center_letter": "o",
   "num_answers": 74,
   "num_pangrams": 3,
-  "possible_points": 383,
+  "possible_points": 382,
   "answer_pangrams": [
     "ignobly",
     "lobbying",
@@ -26,6 +26,7 @@
     "boggy",
     "boil",
     "boiling",
+    "boing",
     "boll",
     "bonbon",
     "bong",
@@ -34,8 +35,6 @@
     "boning",
     "bony",
     "boob",
-    "boobing",
-    "booboo",
     "booby",
     "booing",
     "boon",
@@ -43,7 +42,6 @@
     "gigolo",
     "glob",
     "globing",
-    "gobbing",
     "gobbling",
     "goblin",
     "goggling",
@@ -69,8 +67,10 @@
     "longing",
     "longingly",
     "loon",
+    "loony",
     "nobly",
     "noggin",
+    "nonillion",
     "noon",
     "nylon",
     "obliging",
@@ -89,35 +89,35 @@
   "hints": {
     "by_length": {
       "4": 22,
-      "5": 13,
-      "6": 12,
-      "7": 16,
+      "5": 15,
+      "6": 11,
+      "7": 14,
       "8": 9,
-      "9": 1,
+      "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "B": 29,
-      "G": 13,
+      "B": 28,
+      "G": 12,
       "I": 2,
-      "L": 15,
-      "N": 4,
+      "L": 16,
+      "N": 5,
       "O": 10,
       "Y": 1
     },
     "grid": {
       "B": {
         "4": 8,
-        "5": 5,
-        "6": 5,
-        "7": 7,
+        "5": 6,
+        "6": 4,
+        "7": 6,
         "8": 4
       },
       "G": {
         "4": 3,
         "5": 1,
         "6": 3,
-        "7": 3,
+        "7": 2,
         "8": 3
       },
       "I": {
@@ -126,7 +126,7 @@
       },
       "L": {
         "4": 6,
-        "5": 3,
+        "5": 4,
         "7": 4,
         "8": 1,
         "9": 1
@@ -134,7 +134,8 @@
       "N": {
         "4": 1,
         "5": 2,
-        "6": 1
+        "6": 1,
+        "9": 1
       },
       "O": {
         "4": 3,
@@ -151,14 +152,14 @@
     "two_letter_list": {
       "BI": 3,
       "BL": 4,
-      "BO": 22,
+      "BO": 21,
       "GI": 2,
       "GL": 2,
-      "GO": 9,
+      "GO": 8,
       "IG": 2,
       "LI": 2,
-      "LO": 13,
-      "NO": 3,
+      "LO": 14,
+      "NO": 4,
       "NY": 1,
       "OB": 3,
       "OG": 1,

@@ -1,7 +1,7 @@
 {
   "pangram": "balcony",
   "center_letter": "o",
-  "num_answers": 50,
+  "num_answers": 51,
   "num_pangrams": 1,
   "possible_points": 203,
   "answer_pangrams": [
@@ -18,13 +18,13 @@
     "baobab",
     "blob",
     "bloc",
+    "boba",
     "bobby",
     "bola",
     "boll",
     "bonbon",
     "bony",
     "boob",
-    "booboo",
     "booby",
     "boon",
     "cacao",
@@ -51,6 +51,7 @@
     "loco",
     "loll",
     "loon",
+    "loony",
     "loyal",
     "loyally",
     "nabob",
@@ -62,9 +63,9 @@
   "date": "2032-11-03",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 17,
-      "6": 9,
+      "4": 20,
+      "5": 18,
+      "6": 8,
       "7": 4,
       "10": 1
     },
@@ -72,7 +73,7 @@
       "A": 3,
       "B": 16,
       "C": 16,
-      "L": 10,
+      "L": 11,
       "N": 4,
       "O": 1
     },
@@ -82,9 +83,9 @@
         "5": 2
       },
       "B": {
-        "4": 7,
+        "4": 8,
         "5": 3,
-        "6": 4,
+        "6": 3,
         "7": 2
       },
       "C": {
@@ -95,7 +96,7 @@
       },
       "L": {
         "4": 4,
-        "5": 4,
+        "5": 5,
         "7": 2
       },
       "N": {
@@ -116,7 +117,7 @@
       "CL": 1,
       "CO": 10,
       "LL": 1,
-      "LO": 9,
+      "LO": 10,
       "NA": 1,
       "NO": 2,
       "NY": 1,

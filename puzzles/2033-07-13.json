@@ -1,9 +1,9 @@
 {
   "pangram": "gunwale",
   "center_letter": "e",
-  "num_answers": 40,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 156,
+  "possible_points": 169,
   "answer_pangrams": [
     "gunwale"
   ],
@@ -11,6 +11,7 @@
     "ague",
     "algae",
     "allege",
+    "allele",
     "anew",
     "angel",
     "angle",
@@ -34,11 +35,13 @@
     "league",
     "lean",
     "legal",
+    "luge",
     "luggage",
     "lunge",
     "nene",
     "newel",
     "ulnae",
+    "unglue",
     "unwell",
     "wage",
     "waggle",
@@ -52,26 +55,26 @@
   "date": "2033-07-13",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 10,
-      "6": 10,
+      "6": 12,
       "7": 2,
       "8": 1
     },
     "by_first_letter": {
-      "A": 7,
+      "A": 8,
       "E": 3,
       "G": 11,
-      "L": 7,
+      "L": 8,
       "N": 2,
-      "U": 2,
+      "U": 3,
       "W": 8
     },
     "grid": {
       "A": {
         "4": 2,
         "5": 3,
-        "6": 2
+        "6": 3
       },
       "E": {
         "4": 1,
@@ -85,7 +88,7 @@
         "7": 1
       },
       "L": {
-        "4": 2,
+        "4": 3,
         "5": 2,
         "6": 1,
         "7": 1,
@@ -97,7 +100,7 @@
       },
       "U": {
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "W": {
         "4": 6,
@@ -106,7 +109,7 @@
     },
     "two_letter_list": {
       "AG": 1,
-      "AL": 2,
+      "AL": 3,
       "AN": 4,
       "EA": 1,
       "EL": 1,
@@ -117,10 +120,10 @@
       "GU": 1,
       "LA": 2,
       "LE": 3,
-      "LU": 2,
+      "LU": 3,
       "NE": 2,
       "UL": 1,
-      "UN": 1,
+      "UN": 2,
       "WA": 5,
       "WE": 3
     }

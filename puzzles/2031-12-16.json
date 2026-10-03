@@ -1,9 +1,9 @@
 {
   "pangram": "counted",
   "center_letter": "u",
-  "num_answers": 50,
+  "num_answers": 49,
   "num_pangrams": 4,
-  "possible_points": 292,
+  "possible_points": 286,
   "answer_pangrams": [
     "conducted",
     "counted",
@@ -12,7 +12,6 @@
   ],
   "answers": [
     "coconut",
-    "conduce",
     "conduced",
     "conduct",
     "conducted",
@@ -30,6 +29,7 @@
     "denude",
     "denuded",
     "deuce",
+    "deuced",
     "donut",
     "duct",
     "dude",
@@ -38,8 +38,7 @@
     "dunce",
     "dune",
     "dunned",
-    "dunno",
-    "endue",
+    "educe",
     "endued",
     "etude",
     "noun",
@@ -66,16 +65,16 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 14,
-      "6": 9,
-      "7": 7,
+      "5": 13,
+      "6": 10,
+      "7": 6,
       "8": 4,
       "9": 3,
       "10": 1,
       "11": 1
     },
     "by_first_letter": {
-      "C": 10,
+      "C": 9,
       "D": 18,
       "E": 3,
       "N": 2,
@@ -88,14 +87,14 @@
         "4": 2,
         "5": 1,
         "6": 1,
-        "7": 4,
+        "7": 3,
         "8": 1,
         "9": 1
       },
       "D": {
         "4": 4,
-        "5": 5,
-        "6": 4,
+        "5": 4,
+        "6": 5,
         "7": 2,
         "8": 2,
         "9": 1
@@ -128,12 +127,13 @@
       }
     },
     "two_letter_list": {
-      "CO": 7,
+      "CO": 6,
       "CU": 3,
-      "DE": 9,
+      "DE": 10,
       "DO": 1,
-      "DU": 8,
-      "EN": 2,
+      "DU": 7,
+      "ED": 1,
+      "EN": 1,
       "ET": 1,
       "NO": 1,
       "NU": 1,

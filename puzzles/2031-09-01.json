@@ -1,9 +1,9 @@
 {
   "pangram": "holding",
   "center_letter": "h",
-  "num_answers": 17,
+  "num_answers": 16,
   "num_pangrams": 1,
-  "possible_points": 82,
+  "possible_points": 81,
   "answer_pangrams": [
     "holding"
   ],
@@ -13,7 +13,6 @@
     "high",
     "hill",
     "hind",
-    "hing",
     "hinging",
     "hogging",
     "hold",
@@ -29,14 +28,14 @@
   "date": "2031-09-01",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 6,
       "6": 4,
       "7": 5,
       "9": 1
     },
     "by_first_letter": {
       "G": 1,
-      "H": 15,
+      "H": 14,
       "N": 1
     },
     "grid": {
@@ -44,7 +43,7 @@
         "7": 1
       },
       "H": {
-        "4": 6,
+        "4": 5,
         "6": 4,
         "7": 4,
         "9": 1
@@ -55,7 +54,7 @@
     },
     "two_letter_list": {
       "GO": 1,
-      "HI": 6,
+      "HI": 5,
       "HO": 9,
       "NI": 1
     }

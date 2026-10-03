@@ -1,9 +1,9 @@
 {
   "pangram": "halibut",
   "center_letter": "b",
-  "num_answers": 24,
+  "num_answers": 26,
   "num_pangrams": 2,
-  "possible_points": 93,
+  "possible_points": 104,
   "answer_pangrams": [
     "habitual",
     "halibut"
@@ -32,14 +32,16 @@
     "labia",
     "labial",
     "tibia",
-    "tuba"
+    "tibial",
+    "tuba",
+    "tubal"
   ],
   "date": "2030-04-30",
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 5,
-      "6": 2,
+      "5": 6,
+      "6": 3,
       "7": 3,
       "8": 1
     },
@@ -48,7 +50,7 @@
       "B": 13,
       "H": 5,
       "L": 2,
-      "T": 2
+      "T": 4
     },
     "grid": {
       "A": {
@@ -72,7 +74,8 @@
       },
       "T": {
         "4": 1,
-        "5": 1
+        "5": 2,
+        "6": 1
       }
     },
     "two_letter_list": {
@@ -85,8 +88,8 @@
       "HA": 4,
       "HU": 1,
       "LA": 2,
-      "TI": 1,
-      "TU": 1
+      "TI": 2,
+      "TU": 2
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "pangram": "outrank",
   "center_letter": "r",
-  "num_answers": 39,
+  "num_answers": 40,
   "num_pangrams": 1,
   "possible_points": 152,
   "answer_pangrams": [
@@ -23,7 +23,6 @@
     "outrun",
     "rank",
     "rant",
-    "ratatat",
     "rattan",
     "roan",
     "roar",
@@ -32,6 +31,8 @@
     "rotor",
     "rout",
     "runt",
+    "tantra",
+    "tarn",
     "taro",
     "tarot",
     "tart",
@@ -51,10 +52,10 @@
   "date": "2034-05-04",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 9,
-      "6": 9,
-      "7": 3,
+      "6": 10,
+      "7": 2,
       "8": 1
     },
     "by_first_letter": {
@@ -62,8 +63,8 @@
       "K": 3,
       "N": 1,
       "O": 5,
-      "R": 11,
-      "T": 15
+      "R": 10,
+      "T": 17
     },
     "grid": {
       "A": {
@@ -86,13 +87,12 @@
       "R": {
         "4": 8,
         "5": 1,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
-        "4": 7,
+        "4": 8,
         "5": 4,
-        "6": 3,
+        "6": 4,
         "7": 1
       }
     },
@@ -107,10 +107,10 @@
       "OK": 1,
       "OR": 1,
       "OU": 3,
-      "RA": 4,
+      "RA": 3,
       "RO": 6,
       "RU": 1,
-      "TA": 5,
+      "TA": 7,
       "TO": 3,
       "TR": 4,
       "TU": 3

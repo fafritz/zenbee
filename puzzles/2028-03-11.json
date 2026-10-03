@@ -1,9 +1,9 @@
 {
   "pangram": "cyanide",
   "center_letter": "c",
-  "num_answers": 50,
+  "num_answers": 51,
   "num_pangrams": 1,
-  "possible_points": 266,
+  "possible_points": 271,
   "answer_pangrams": [
     "cyanide"
   ],
@@ -18,6 +18,7 @@
     "acne",
     "caddie",
     "caddied",
+    "caddy",
     "cadence",
     "cancan",
     "candid",
@@ -63,14 +64,14 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 12,
+      "5": 13,
       "6": 15,
       "7": 9,
       "9": 4
     },
     "by_first_letter": {
       "A": 8,
-      "C": 21,
+      "C": 22,
       "D": 15,
       "I": 3,
       "N": 3
@@ -83,7 +84,7 @@
       },
       "C": {
         "4": 3,
-        "5": 6,
+        "5": 7,
         "6": 6,
         "7": 5,
         "9": 1
@@ -107,7 +108,7 @@
     },
     "two_letter_list": {
       "AC": 8,
-      "CA": 15,
+      "CA": 16,
       "CE": 2,
       "CI": 1,
       "CY": 3,

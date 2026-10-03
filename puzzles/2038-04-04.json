@@ -1,9 +1,9 @@
 {
   "pangram": "audible",
   "center_letter": "b",
-  "num_answers": 76,
+  "num_answers": 79,
   "num_pangrams": 1,
-  "possible_points": 346,
+  "possible_points": 366,
   "answer_pangrams": [
     "audible"
   ],
@@ -46,6 +46,7 @@
     "bible",
     "bile",
     "bill",
+    "billable",
     "billed",
     "blab",
     "blabbed",
@@ -60,6 +61,7 @@
     "budded",
     "build",
     "bulb",
+    "bulbed",
     "bull",
     "bulled",
     "bullied",
@@ -78,6 +80,7 @@
     "labeled",
     "labia",
     "labial",
+    "labile",
     "laudable",
     "liable",
     "libel",
@@ -90,17 +93,17 @@
     "by_length": {
       "4": 23,
       "5": 17,
-      "6": 23,
+      "6": 25,
       "7": 11,
-      "8": 2
+      "8": 3
     },
     "by_first_letter": {
       "A": 6,
-      "B": 49,
+      "B": 51,
       "D": 8,
       "E": 2,
       "I": 1,
-      "L": 10
+      "L": 11
     },
     "grid": {
       "A": {
@@ -111,9 +114,9 @@
       "B": {
         "4": 18,
         "5": 10,
-        "6": 15,
+        "6": 16,
         "7": 5,
-        "8": 1
+        "8": 2
       },
       "D": {
         "4": 1,
@@ -130,7 +133,7 @@
       "L": {
         "4": 1,
         "5": 4,
-        "6": 2,
+        "6": 3,
         "7": 2,
         "8": 1
       }
@@ -141,16 +144,16 @@
       "AU": 1,
       "BA": 19,
       "BE": 10,
-      "BI": 4,
+      "BI": 5,
       "BL": 8,
-      "BU": 8,
+      "BU": 9,
       "DA": 5,
       "DI": 2,
       "DU": 1,
       "EB": 1,
       "ED": 1,
       "IB": 1,
-      "LA": 5,
+      "LA": 6,
       "LI": 3,
       "LU": 2
     }

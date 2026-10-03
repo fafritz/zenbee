@@ -1,9 +1,9 @@
 {
   "pangram": "congaed",
   "center_letter": "o",
-  "num_answers": 65,
+  "num_answers": 64,
   "num_pangrams": 1,
-  "possible_points": 305,
+  "possible_points": 296,
   "answer_pangrams": [
     "congaed"
   ],
@@ -46,6 +46,7 @@
     "dodge",
     "dodged",
     "dodo",
+    "doge",
     "dogged",
     "doggone",
     "done",
@@ -57,11 +58,9 @@
     "geode",
     "goad",
     "goaded",
-    "gonad",
     "gone",
     "gong",
     "gonged",
-    "gonna",
     "good",
     "goon",
     "neocon",
@@ -77,8 +76,8 @@
   "date": "2039-02-01",
   "hints": {
     "by_length": {
-      "4": 20,
-      "5": 15,
+      "4": 21,
+      "5": 13,
       "6": 17,
       "7": 6,
       "8": 5,
@@ -88,9 +87,9 @@
     "by_first_letter": {
       "A": 4,
       "C": 27,
-      "D": 12,
+      "D": 13,
       "E": 3,
-      "G": 10,
+      "G": 8,
       "N": 7,
       "O": 2
     },
@@ -110,7 +109,7 @@
         "10": 1
       },
       "D": {
-        "4": 3,
+        "4": 4,
         "5": 1,
         "6": 6,
         "7": 2
@@ -121,7 +120,7 @@
       },
       "G": {
         "4": 5,
-        "5": 3,
+        "5": 1,
         "6": 2
       },
       "N": {
@@ -141,11 +140,11 @@
       "CO": 19,
       "DA": 1,
       "DE": 3,
-      "DO": 8,
+      "DO": 9,
       "EG": 1,
       "EN": 2,
       "GE": 1,
-      "GO": 9,
+      "GO": 7,
       "NE": 2,
       "NO": 5,
       "OC": 1,

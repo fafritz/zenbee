@@ -1,9 +1,9 @@
 {
   "pangram": "primacy",
   "center_letter": "c",
-  "num_answers": 22,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 93,
+  "possible_points": 92,
   "answer_pangrams": [
     "primacy"
   ],
@@ -19,7 +19,6 @@
     "cirri",
     "cram",
     "cramp",
-    "cray",
     "crimp",
     "maraca",
     "mica",
@@ -34,14 +33,14 @@
   "date": "2029-05-25",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 7,
       "5": 8,
       "6": 4,
       "7": 2
     },
     "by_first_letter": {
       "A": 2,
-      "C": 11,
+      "C": 10,
       "M": 4,
       "P": 4,
       "R": 1
@@ -52,7 +51,7 @@
         "6": 1
       },
       "C": {
-        "4": 4,
+        "4": 3,
         "5": 7
       },
       "M": {
@@ -74,7 +73,7 @@
       "AC": 2,
       "CA": 5,
       "CI": 2,
-      "CR": 4,
+      "CR": 3,
       "MA": 1,
       "MI": 3,
       "PA": 1,

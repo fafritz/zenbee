@@ -1,15 +1,14 @@
 {
   "pangram": "brought",
   "center_letter": "b",
-  "num_answers": 21,
+  "num_answers": 20,
   "num_pangrams": 1,
-  "possible_points": 84,
+  "possible_points": 78,
   "answer_pangrams": [
     "brought"
   ],
   "answers": [
     "boob",
-    "booboo",
     "boor",
     "boot",
     "booth",
@@ -35,11 +34,11 @@
     "by_length": {
       "4": 9,
       "5": 6,
-      "6": 4,
+      "6": 3,
       "7": 2
     },
     "by_first_letter": {
-      "B": 15,
+      "B": 14,
       "G": 1,
       "H": 2,
       "R": 1,
@@ -49,7 +48,7 @@
       "B": {
         "4": 7,
         "5": 4,
-        "6": 2,
+        "6": 1,
         "7": 2
       },
       "G": {
@@ -68,7 +67,7 @@
       }
     },
     "two_letter_list": {
-      "BO": 10,
+      "BO": 9,
       "BR": 2,
       "BU": 3,
       "GR": 1,

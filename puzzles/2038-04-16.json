@@ -3,7 +3,7 @@
   "center_letter": "b",
   "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 140,
+  "possible_points": 145,
   "answer_pangrams": [
     "blacken"
   ],
@@ -28,7 +28,6 @@
     "bank",
     "beak",
     "bean",
-    "beck",
     "been",
     "bell",
     "belle",
@@ -43,25 +42,26 @@
     "cable",
     "callable",
     "enable",
+    "kanban",
     "kebab",
     "label"
   ],
   "date": "2038-04-16",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 16,
       "5": 11,
-      "6": 5,
+      "6": 6,
       "7": 2,
       "8": 1,
       "9": 1
     },
     "by_first_letter": {
       "A": 3,
-      "B": 27,
+      "B": 26,
       "C": 4,
       "E": 1,
-      "K": 1,
+      "K": 2,
       "L": 1
     },
     "grid": {
@@ -70,7 +70,7 @@
         "5": 1
       },
       "B": {
-        "4": 15,
+        "4": 14,
         "5": 6,
         "6": 3,
         "7": 2,
@@ -85,7 +85,8 @@
         "6": 1
       },
       "K": {
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "L": {
         "5": 1
@@ -94,10 +95,11 @@
     "two_letter_list": {
       "AB": 3,
       "BA": 15,
-      "BE": 6,
+      "BE": 5,
       "BL": 6,
       "CA": 4,
       "EN": 1,
+      "KA": 1,
       "KE": 1,
       "LA": 1
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "yowling",
   "center_letter": "y",
-  "num_answers": 18,
+  "num_answers": 19,
   "num_pangrams": 2,
-  "possible_points": 99,
+  "possible_points": 104,
   "answer_pangrams": [
     "glowingly",
     "yowling"
@@ -13,6 +13,7 @@
     "glowingly",
     "lily",
     "longingly",
+    "loony",
     "lowly",
     "lying",
     "ninny",
@@ -32,14 +33,14 @@
   "hints": {
     "by_length": {
       "4": 6,
-      "5": 4,
+      "5": 5,
       "6": 3,
       "7": 2,
       "9": 3
     },
     "by_first_letter": {
       "G": 2,
-      "L": 4,
+      "L": 5,
       "N": 2,
       "O": 2,
       "W": 5,
@@ -52,7 +53,7 @@
       },
       "L": {
         "4": 1,
-        "5": 2,
+        "5": 3,
         "9": 1
       },
       "N": {
@@ -76,7 +77,7 @@
       "GI": 1,
       "GL": 1,
       "LI": 1,
-      "LO": 2,
+      "LO": 3,
       "LY": 1,
       "NI": 1,
       "NY": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "couplet",
   "center_letter": "e",
-  "num_answers": 39,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 152,
+  "possible_points": 157,
   "answer_pangrams": [
     "couplet"
   ],
@@ -21,6 +21,7 @@
     "cutlet",
     "elect",
     "elope",
+    "elote",
     "epee",
     "lettuce",
     "letup",
@@ -52,13 +53,13 @@
   "hints": {
     "by_length": {
       "4": 17,
-      "5": 8,
+      "5": 9,
       "6": 10,
       "7": 4
     },
     "by_first_letter": {
       "C": 11,
-      "E": 3,
+      "E": 4,
       "L": 4,
       "O": 4,
       "P": 11,
@@ -73,7 +74,7 @@
       },
       "E": {
         "4": 1,
-        "5": 2
+        "5": 3
       },
       "L": {
         "4": 2,
@@ -101,7 +102,7 @@
       "CL": 1,
       "CO": 6,
       "CU": 2,
-      "EL": 2,
+      "EL": 3,
       "EP": 1,
       "LE": 2,
       "LO": 1,

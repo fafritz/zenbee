@@ -1,14 +1,15 @@
 {
   "pangram": "ethical",
   "center_letter": "l",
-  "num_answers": 78,
+  "num_answers": 80,
   "num_pangrams": 2,
-  "possible_points": 362,
+  "possible_points": 373,
   "answer_pangrams": [
     "athletic",
     "ethical"
   ],
   "answers": [
+    "allele",
     "athlete",
     "athletic",
     "calcite",
@@ -48,6 +49,7 @@
     "hill",
     "hilt",
     "icicle",
+    "iliac",
     "illicit",
     "italic",
     "lace",
@@ -92,24 +94,25 @@
   "hints": {
     "by_length": {
       "4": 26,
-      "5": 19,
-      "6": 14,
+      "5": 20,
+      "6": 15,
       "7": 12,
       "8": 5,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 2,
+      "A": 3,
       "C": 17,
       "E": 7,
       "H": 12,
-      "I": 3,
+      "I": 4,
       "L": 20,
       "T": 17
     },
     "grid": {
       "A": {
+        "6": 1,
         "7": 1,
         "8": 1
       },
@@ -133,6 +136,7 @@
         "7": 1
       },
       "I": {
+        "5": 1,
         "6": 2,
         "7": 1
       },
@@ -153,6 +157,7 @@
       }
     },
     "two_letter_list": {
+      "AL": 1,
       "AT": 2,
       "CA": 7,
       "CE": 1,
@@ -166,7 +171,7 @@
       "HE": 5,
       "HI": 2,
       "IC": 1,
-      "IL": 1,
+      "IL": 2,
       "IT": 1,
       "LA": 9,
       "LE": 3,

@@ -1,9 +1,9 @@
 {
   "pangram": "pelagic",
   "center_letter": "c",
-  "num_answers": 30,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 127,
+  "possible_points": 138,
   "answer_pangrams": [
     "pelagic"
   ],
@@ -23,8 +23,10 @@
     "clip",
     "elegiac",
     "epic",
+    "giclee",
     "glacial",
     "icicle",
+    "iliac",
     "ipecac",
     "lace",
     "lice",
@@ -43,8 +45,8 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 7,
-      "6": 7,
+      "5": 8,
+      "6": 8,
       "7": 3,
       "10": 1
     },
@@ -52,8 +54,8 @@
       "A": 5,
       "C": 8,
       "E": 2,
-      "G": 1,
-      "I": 2,
+      "G": 2,
+      "I": 3,
       "L": 3,
       "P": 9
     },
@@ -72,9 +74,11 @@
         "7": 1
       },
       "G": {
+        "6": 1,
         "7": 1
       },
       "I": {
+        "5": 1,
         "6": 2
       },
       "L": {
@@ -99,8 +103,10 @@
       "CL": 2,
       "EL": 1,
       "EP": 1,
+      "GI": 1,
       "GL": 1,
       "IC": 1,
+      "IL": 1,
       "IP": 1,
       "LA": 1,
       "LI": 2,

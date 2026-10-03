@@ -1,21 +1,22 @@
 {
   "pangram": "probing",
   "center_letter": "i",
-  "num_answers": 70,
+  "num_answers": 77,
   "num_pangrams": 1,
-  "possible_points": 427,
+  "possible_points": 453,
   "answer_pangrams": [
     "probing"
   ],
   "answers": [
+    "binging",
     "bingo",
     "binning",
     "bobbin",
     "bobbing",
     "bogging",
+    "boing",
     "bonging",
     "boning",
-    "boobing",
     "booing",
     "bopping",
     "boring",
@@ -23,11 +24,12 @@
     "brig",
     "bring",
     "bringing",
+    "brining",
+    "brio",
     "gibbon",
     "gibing",
     "gigging",
     "ginning",
-    "gobbing",
     "going",
     "gonging",
     "gorging",
@@ -45,6 +47,8 @@
     "ironing",
     "nipping",
     "noggin",
+    "noir",
+    "nori",
     "ongoing",
     "onion",
     "opining",
@@ -60,8 +64,10 @@
     "piping",
     "pippin",
     "pipping",
-    "pooping",
+    "pirogi",
+    "pogoing",
     "popping",
+    "porging",
     "poring",
     "prig",
     "prior",
@@ -77,40 +83,41 @@
     "robbing",
     "robin",
     "robing",
+    "ronin",
     "roping"
   ],
   "date": "2030-03-08",
   "hints": {
     "by_length": {
-      "4": 7,
-      "5": 8,
-      "6": 19,
-      "7": 30,
+      "4": 10,
+      "5": 10,
+      "6": 20,
+      "7": 31,
       "8": 5,
       "9": 1
     },
     "by_first_letter": {
-      "B": 15,
-      "G": 15,
+      "B": 18,
+      "G": 14,
       "I": 5,
-      "N": 2,
+      "N": 4,
       "O": 5,
-      "P": 17,
-      "R": 11
+      "P": 19,
+      "R": 12
     },
     "grid": {
       "B": {
-        "4": 1,
-        "5": 2,
+        "4": 2,
+        "5": 3,
         "6": 4,
-        "7": 7,
+        "7": 8,
         "8": 1
       },
       "G": {
         "4": 2,
         "5": 2,
         "6": 3,
-        "7": 6,
+        "7": 5,
         "8": 2
       },
       "I": {
@@ -120,6 +127,7 @@
         "8": 1
       },
       "N": {
+        "4": 2,
         "6": 1,
         "7": 1
       },
@@ -131,38 +139,38 @@
       "P": {
         "4": 2,
         "5": 1,
-        "6": 5,
-        "7": 7,
+        "6": 6,
+        "7": 8,
         "8": 1,
         "9": 1
       },
       "R": {
         "4": 1,
-        "5": 2,
+        "5": 3,
         "6": 3,
         "7": 5
       }
     },
     "two_letter_list": {
-      "BI": 2,
+      "BI": 3,
       "BO": 9,
-      "BR": 4,
+      "BR": 6,
       "GI": 4,
-      "GO": 5,
+      "GO": 4,
       "GR": 6,
       "IG": 1,
       "IN": 2,
       "IR": 2,
       "NI": 1,
-      "NO": 1,
+      "NO": 3,
       "ON": 2,
       "OP": 2,
       "OR": 1,
-      "PI": 10,
-      "PO": 3,
+      "PI": 11,
+      "PO": 4,
       "PR": 4,
       "RI": 7,
-      "RO": 4
+      "RO": 5
     }
   }
 }

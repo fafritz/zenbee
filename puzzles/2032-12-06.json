@@ -1,9 +1,9 @@
 {
   "pangram": "jaunted",
   "center_letter": "e",
-  "num_answers": 75,
+  "num_answers": 77,
   "num_pangrams": 1,
-  "possible_points": 394,
+  "possible_points": 407,
   "answer_pangrams": [
     "jaunted"
   ],
@@ -38,6 +38,7 @@
     "dented",
     "denude",
     "denuded",
+    "detent",
     "detente",
     "dude",
     "duded",
@@ -46,7 +47,6 @@
     "dunned",
     "eaten",
     "ended",
-    "endue",
     "endued",
     "entente",
     "etude",
@@ -58,10 +58,12 @@
     "jute",
     "jutted",
     "neat",
+    "neaten",
     "need",
     "needed",
     "nene",
     "netted",
+    "nutate",
     "nutted",
     "tanned",
     "tatted",
@@ -88,8 +90,8 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 12,
-      "6": 20,
+      "5": 11,
+      "6": 23,
       "7": 12,
       "8": 6,
       "9": 4,
@@ -97,10 +99,10 @@
     },
     "by_first_letter": {
       "A": 17,
-      "D": 19,
-      "E": 6,
+      "D": 20,
+      "E": 5,
       "J": 7,
-      "N": 6,
+      "N": 8,
       "T": 14,
       "U": 6
     },
@@ -117,12 +119,12 @@
       "D": {
         "4": 8,
         "5": 2,
-        "6": 5,
+        "6": 6,
         "7": 3,
         "8": 1
       },
       "E": {
-        "5": 4,
+        "5": 3,
         "6": 1,
         "7": 1
       },
@@ -134,7 +136,7 @@
       },
       "N": {
         "4": 3,
-        "6": 3
+        "6": 5
       },
       "T": {
         "4": 5,
@@ -156,16 +158,16 @@
       "AN": 7,
       "AT": 7,
       "DA": 3,
-      "DE": 11,
+      "DE": 12,
       "DU": 5,
       "EA": 1,
-      "EN": 4,
+      "EN": 3,
       "ET": 1,
       "JA": 3,
       "JE": 2,
       "JU": 2,
-      "NE": 5,
-      "NU": 1,
+      "NE": 6,
+      "NU": 2,
       "TA": 3,
       "TE": 9,
       "TU": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "menthol",
   "center_letter": "m",
-  "num_answers": 40,
+  "num_answers": 42,
   "num_pangrams": 1,
-  "possible_points": 145,
+  "possible_points": 151,
   "answer_pangrams": [
     "menthol"
   ],
@@ -12,6 +12,7 @@
     "emote",
     "helm",
     "helmet",
+    "heme",
     "home",
     "lemon",
     "loom",
@@ -37,6 +38,7 @@
     "moot",
     "mote",
     "motel",
+    "motet",
     "moth",
     "mottle",
     "motto",
@@ -52,17 +54,17 @@
   "date": "2027-08-25",
   "hints": {
     "by_length": {
-      "4": 20,
-      "5": 9,
+      "4": 21,
+      "5": 10,
       "6": 6,
       "7": 3,
       "8": 2
     },
     "by_first_letter": {
       "E": 2,
-      "H": 3,
+      "H": 4,
       "L": 2,
-      "M": 25,
+      "M": 26,
       "O": 2,
       "T": 6
     },
@@ -72,7 +74,7 @@
         "7": 1
       },
       "H": {
-        "4": 2,
+        "4": 3,
         "6": 1
       },
       "L": {
@@ -81,7 +83,7 @@
       },
       "M": {
         "4": 13,
-        "5": 5,
+        "5": 6,
         "6": 4,
         "7": 2,
         "8": 1
@@ -99,12 +101,12 @@
     "two_letter_list": {
       "EL": 1,
       "EM": 1,
-      "HE": 2,
+      "HE": 3,
       "HO": 1,
       "LE": 1,
       "LO": 1,
       "ME": 10,
-      "MO": 15,
+      "MO": 16,
       "OM": 2,
       "TE": 2,
       "TH": 2,

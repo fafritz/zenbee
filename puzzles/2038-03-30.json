@@ -1,9 +1,9 @@
 {
   "pangram": "angelic",
   "center_letter": "c",
-  "num_answers": 56,
+  "num_answers": 59,
   "num_pangrams": 5,
-  "possible_points": 356,
+  "possible_points": 375,
   "answer_pangrams": [
     "allegiance",
     "angelic",
@@ -50,11 +50,13 @@
     "clinician",
     "elegance",
     "elegiac",
+    "giclee",
     "glacial",
     "glance",
     "glancing",
     "icicle",
     "icing",
+    "iliac",
     "incline",
     "inclining",
     "inelegance",
@@ -62,6 +64,7 @@
     "lacing",
     "lance",
     "lancing",
+    "lenience",
     "lice",
     "lilac",
     "negligence",
@@ -73,10 +76,10 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 12,
-      "6": 11,
+      "5": 13,
+      "6": 12,
       "7": 9,
-      "8": 7,
+      "8": 8,
       "9": 4,
       "10": 3
     },
@@ -84,9 +87,9 @@
       "A": 7,
       "C": 29,
       "E": 2,
-      "G": 3,
-      "I": 5,
-      "L": 6,
+      "G": 4,
+      "I": 6,
+      "L": 7,
       "N": 4
     },
     "grid": {
@@ -111,12 +114,12 @@
         "8": 1
       },
       "G": {
-        "6": 1,
+        "6": 2,
         "7": 1,
         "8": 1
       },
       "I": {
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 1,
         "9": 1,
@@ -126,7 +129,8 @@
         "4": 2,
         "5": 2,
         "6": 1,
-        "7": 1
+        "7": 1,
+        "8": 1
       },
       "N": {
         "4": 1,
@@ -144,10 +148,13 @@
       "CI": 1,
       "CL": 10,
       "EL": 2,
+      "GI": 1,
       "GL": 3,
       "IC": 2,
+      "IL": 1,
       "IN": 3,
       "LA": 4,
+      "LE": 1,
       "LI": 2,
       "NE": 1,
       "NI": 3

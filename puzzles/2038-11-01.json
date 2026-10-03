@@ -1,9 +1,9 @@
 {
   "pangram": "fording",
   "center_letter": "i",
-  "num_answers": 71,
+  "num_answers": 73,
   "num_pangrams": 1,
-  "possible_points": 421,
+  "possible_points": 419,
   "answer_pangrams": [
     "fording"
   ],
@@ -19,7 +19,6 @@
     "dodging",
     "doffing",
     "dogging",
-    "doggoning",
     "doing",
     "donning",
     "droid",
@@ -62,7 +61,9 @@
     "ironing",
     "nodding",
     "noggin",
+    "noir",
     "nonrigid",
+    "nori",
     "offing",
     "ongoing",
     "onion",
@@ -78,35 +79,34 @@
     "rind",
     "ring",
     "ringing",
+    "ronin",
     "roofing"
   ],
   "date": "2038-11-01",
   "hints": {
     "by_length": {
-      "4": 11,
-      "5": 9,
+      "4": 13,
+      "5": 10,
       "6": 12,
       "7": 29,
       "8": 8,
-      "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "D": 16,
+      "D": 15,
       "F": 11,
       "G": 17,
       "I": 8,
-      "N": 3,
+      "N": 5,
       "O": 4,
-      "R": 12
+      "R": 13
     },
     "grid": {
       "D": {
         "4": 2,
         "5": 3,
         "6": 1,
-        "7": 9,
-        "9": 1
+        "7": 9
       },
       "F": {
         "4": 1,
@@ -129,6 +129,7 @@
         "10": 1
       },
       "N": {
+        "4": 2,
         "6": 1,
         "7": 1,
         "8": 1
@@ -140,14 +141,14 @@
       },
       "R": {
         "4": 3,
-        "5": 2,
+        "5": 3,
         "6": 1,
         "7": 6
       }
     },
     "two_letter_list": {
       "DI": 8,
-      "DO": 6,
+      "DO": 5,
       "DR": 2,
       "FI": 4,
       "FO": 4,
@@ -158,12 +159,12 @@
       "IG": 1,
       "IN": 5,
       "IR": 2,
-      "NO": 3,
+      "NO": 5,
       "OF": 1,
       "ON": 2,
       "OR": 1,
       "RI": 11,
-      "RO": 1
+      "RO": 2
     }
   }
 }

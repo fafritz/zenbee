@@ -3,7 +3,7 @@
   "center_letter": "a",
   "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 146,
+  "possible_points": 151,
   "answer_pangrams": [
     "alchemy"
   ],
@@ -11,9 +11,9 @@
     "ache",
     "achy",
     "acme",
-    "ahem",
     "alchemy",
     "allay",
+    "allele",
     "alley",
     "ally",
     "cache",
@@ -57,9 +57,9 @@
   "date": "2030-05-10",
   "hints": {
     "by_length": {
-      "4": 24,
+      "4": 23,
       "5": 12,
-      "6": 8,
+      "6": 9,
       "7": 1
     },
     "by_first_letter": {
@@ -73,8 +73,9 @@
     },
     "grid": {
       "A": {
-        "4": 5,
+        "4": 4,
         "5": 2,
+        "6": 1,
         "7": 1
       },
       "C": {
@@ -106,8 +107,7 @@
     },
     "two_letter_list": {
       "AC": 3,
-      "AH": 1,
-      "AL": 4,
+      "AL": 5,
       "CA": 7,
       "CL": 4,
       "EA": 1,

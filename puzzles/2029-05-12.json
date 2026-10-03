@@ -1,9 +1,9 @@
 {
   "pangram": "flaring",
   "center_letter": "f",
-  "num_answers": 46,
+  "num_answers": 50,
   "num_pangrams": 2,
-  "possible_points": 261,
+  "possible_points": 282,
   "answer_pangrams": [
     "flaring",
     "raffling"
@@ -15,6 +15,7 @@
     "fail",
     "failing",
     "fair",
+    "fairing",
     "fall",
     "falling",
     "fang",
@@ -35,6 +36,7 @@
     "flailing",
     "flair",
     "flan",
+    "flanging",
     "flaring",
     "fling",
     "flinging",
@@ -46,7 +48,9 @@
     "gaff",
     "gaffing",
     "griffin",
+    "infra",
     "infringing",
+    "naif",
     "raffia",
     "raffling",
     "rainfall",
@@ -59,19 +63,20 @@
   "date": "2029-05-12",
   "hints": {
     "by_length": {
-      "4": 11,
-      "5": 7,
+      "4": 12,
+      "5": 8,
       "6": 8,
-      "7": 10,
-      "8": 8,
+      "7": 11,
+      "8": 9,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
       "A": 3,
-      "F": 31,
+      "F": 33,
       "G": 3,
-      "I": 1,
+      "I": 2,
+      "N": 1,
       "R": 8
     },
     "grid": {
@@ -84,8 +89,8 @@
         "4": 8,
         "5": 7,
         "6": 6,
-        "7": 5,
-        "8": 4,
+        "7": 6,
+        "8": 5,
         "9": 1
       },
       "G": {
@@ -93,7 +98,11 @@
         "7": 2
       },
       "I": {
+        "5": 1,
         "10": 1
+      },
+      "N": {
+        "4": 1
       },
       "R": {
         "4": 1,
@@ -105,13 +114,14 @@
     "two_letter_list": {
       "AF": 2,
       "AL": 1,
-      "FA": 9,
+      "FA": 10,
       "FI": 8,
-      "FL": 9,
+      "FL": 10,
       "FR": 5,
       "GA": 2,
       "GR": 1,
-      "IN": 1,
+      "IN": 2,
+      "NA": 1,
       "RA": 3,
       "RI": 5
     }

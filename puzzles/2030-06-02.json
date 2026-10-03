@@ -3,16 +3,16 @@
   "center_letter": "n",
   "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 63,
+  "possible_points": 65,
   "answer_pangrams": [
     "handout"
   ],
   "answers": [
+    "annatto",
     "anon",
     "aunt",
     "daunt",
     "donut",
-    "dunno",
     "hand",
     "handout",
     "haunt",
@@ -34,13 +34,13 @@
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 6,
+      "5": 5,
       "6": 1,
-      "7": 1
+      "7": 2
     },
     "by_first_letter": {
-      "A": 2,
-      "D": 3,
+      "A": 3,
+      "D": 2,
       "H": 5,
       "N": 4,
       "O": 1,
@@ -49,10 +49,11 @@
     },
     "grid": {
       "A": {
-        "4": 2
+        "4": 2,
+        "7": 1
       },
       "D": {
-        "5": 3
+        "5": 2
       },
       "H": {
         "4": 2,
@@ -75,11 +76,10 @@
       }
     },
     "two_letter_list": {
-      "AN": 1,
+      "AN": 2,
       "AU": 1,
       "DA": 1,
       "DO": 1,
-      "DU": 1,
       "HA": 3,
       "HO": 1,
       "HU": 1,

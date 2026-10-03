@@ -1,9 +1,9 @@
 {
   "pangram": "gunwale",
   "center_letter": "g",
-  "num_answers": 33,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 131,
+  "possible_points": 147,
   "answer_pangrams": [
     "gunwale"
   ],
@@ -16,8 +16,10 @@
     "angle",
     "eagle",
     "engage",
+    "gaga",
     "gaggle",
     "gala",
+    "galangal",
     "gale",
     "galena",
     "gall",
@@ -35,9 +37,11 @@
     "language",
     "league",
     "legal",
+    "luge",
     "luggage",
     "lung",
     "lunge",
+    "unglue",
     "wage",
     "waggle",
     "wangle"
@@ -45,17 +49,18 @@
   "date": "2033-06-07",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 16,
       "5": 8,
-      "6": 8,
+      "6": 9,
       "7": 2,
-      "8": 1
+      "8": 2
     },
     "by_first_letter": {
       "A": 6,
       "E": 2,
-      "G": 16,
-      "L": 6,
+      "G": 18,
+      "L": 7,
+      "U": 1,
       "W": 3
     },
     "grid": {
@@ -69,17 +74,21 @@
         "6": 1
       },
       "G": {
-        "4": 10,
+        "4": 11,
         "5": 2,
         "6": 3,
-        "7": 1
+        "7": 1,
+        "8": 1
       },
       "L": {
-        "4": 1,
+        "4": 2,
         "5": 2,
         "6": 1,
         "7": 1,
         "8": 1
+      },
+      "U": {
+        "6": 1
       },
       "W": {
         "4": 1,
@@ -92,14 +101,15 @@
       "AN": 2,
       "EA": 1,
       "EN": 1,
-      "GA": 7,
+      "GA": 9,
       "GE": 2,
       "GL": 4,
       "GN": 1,
       "GU": 2,
       "LA": 1,
       "LE": 2,
-      "LU": 3,
+      "LU": 4,
+      "UN": 1,
       "WA": 3
     }
   }

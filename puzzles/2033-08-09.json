@@ -1,9 +1,9 @@
 {
   "pangram": "pinhead",
   "center_letter": "n",
-  "num_answers": 53,
+  "num_answers": 57,
   "num_pangrams": 1,
-  "possible_points": 260,
+  "possible_points": 282,
   "answer_pangrams": [
     "pinhead"
   ],
@@ -52,13 +52,17 @@
     "pained",
     "panda",
     "pane",
+    "panini",
     "panned",
     "peahen",
     "peen",
+    "penne",
     "penned",
     "pine",
     "pined",
     "pinhead",
+    "pinna",
+    "pinnae",
     "pinned",
     "pippin"
   ],
@@ -66,8 +70,8 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 8,
-      "6": 20,
+      "5": 10,
+      "6": 22,
       "7": 4,
       "8": 5,
       "10": 1
@@ -79,7 +83,7 @@
       "H": 8,
       "I": 2,
       "N": 11,
-      "P": 14
+      "P": 18
     },
     "grid": {
       "A": {
@@ -116,8 +120,8 @@
       },
       "P": {
         "4": 4,
-        "5": 3,
-        "6": 6,
+        "5": 5,
+        "6": 8,
         "7": 1
       }
     },
@@ -134,9 +138,9 @@
       "NA": 5,
       "NE": 4,
       "NI": 2,
-      "PA": 6,
-      "PE": 3,
-      "PI": 5
+      "PA": 7,
+      "PE": 4,
+      "PI": 7
     }
   }
 }

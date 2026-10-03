@@ -1,9 +1,9 @@
 {
   "pangram": "payment",
   "center_letter": "m",
-  "num_answers": 34,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 120,
+  "possible_points": 125,
   "answer_pangrams": [
     "payment"
   ],
@@ -33,6 +33,7 @@
     "mete",
     "myna",
     "name",
+    "pampa",
     "payment",
     "tame",
     "tamp",
@@ -47,7 +48,7 @@
   "hints": {
     "by_length": {
       "4": 18,
-      "5": 9,
+      "5": 10,
       "6": 1,
       "7": 4,
       "8": 2
@@ -57,7 +58,7 @@
       "E": 4,
       "M": 18,
       "N": 1,
-      "P": 1,
+      "P": 2,
       "T": 8
     },
     "grid": {
@@ -79,6 +80,7 @@
         "4": 1
       },
       "P": {
+        "5": 1,
         "7": 1
       },
       "T": {
@@ -96,7 +98,7 @@
       "ME": 8,
       "MY": 1,
       "NA": 1,
-      "PA": 1,
+      "PA": 2,
       "TA": 2,
       "TE": 6
     }

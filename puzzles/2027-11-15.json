@@ -1,9 +1,9 @@
 {
   "pangram": "brought",
   "center_letter": "h",
-  "num_answers": 27,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 135,
+  "possible_points": 134,
   "answer_pangrams": [
     "brought"
   ],
@@ -24,7 +24,6 @@
     "ought",
     "rough",
     "thorough",
-    "thou",
     "though",
     "thought",
     "throb",
@@ -39,7 +38,7 @@
   "date": "2027-11-15",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 6,
       "5": 9,
       "6": 5,
       "7": 4,
@@ -51,7 +50,7 @@
       "H": 6,
       "O": 1,
       "R": 1,
-      "T": 12
+      "T": 11
     },
     "grid": {
       "B": {
@@ -71,7 +70,7 @@
         "5": 1
       },
       "T": {
-        "4": 2,
+        "4": 1,
         "5": 4,
         "6": 2,
         "7": 2,
@@ -86,7 +85,7 @@
       "HU": 2,
       "OU": 1,
       "RO": 1,
-      "TH": 8,
+      "TH": 7,
       "TO": 2,
       "TR": 2
     }

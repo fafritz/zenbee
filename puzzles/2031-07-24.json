@@ -1,9 +1,9 @@
 {
   "pangram": "tackled",
   "center_letter": "c",
-  "num_answers": 49,
+  "num_answers": 51,
   "num_pangrams": 1,
-  "possible_points": 247,
+  "possible_points": 260,
   "answer_pangrams": [
     "tackled"
   ],
@@ -31,10 +31,12 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "clack",
     "clacked",
     "clad",
     "cleat",
+    "decadal",
     "decade",
     "decal",
     "deck",
@@ -63,15 +65,15 @@
     "by_length": {
       "4": 12,
       "5": 11,
-      "6": 14,
-      "7": 8,
+      "6": 15,
+      "7": 9,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
       "A": 7,
-      "C": 20,
-      "D": 7,
+      "C": 21,
+      "D": 8,
       "E": 3,
       "L": 6,
       "T": 6
@@ -87,7 +89,7 @@
       "C": {
         "4": 5,
         "5": 6,
-        "6": 5,
+        "6": 6,
         "7": 3,
         "9": 1
       },
@@ -95,6 +97,7 @@
         "4": 1,
         "5": 1,
         "6": 4,
+        "7": 1,
         "8": 1
       },
       "E": {
@@ -118,9 +121,9 @@
       "AC": 5,
       "AT": 2,
       "CA": 13,
-      "CE": 3,
+      "CE": 4,
       "CL": 4,
-      "DE": 7,
+      "DE": 8,
       "EC": 1,
       "EL": 2,
       "LA": 6,

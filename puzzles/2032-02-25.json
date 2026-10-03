@@ -1,9 +1,9 @@
 {
   "pangram": "thanked",
   "center_letter": "n",
-  "num_answers": 63,
+  "num_answers": 65,
   "num_pangrams": 1,
-  "possible_points": 293,
+  "possible_points": 305,
   "answer_pangrams": [
     "thanked"
   ],
@@ -27,6 +27,7 @@
     "dean",
     "dent",
     "dented",
+    "detent",
     "detente",
     "eaten",
     "ended",
@@ -49,6 +50,7 @@
     "naked",
     "nana",
     "neat",
+    "neaten",
     "neath",
     "need",
     "needed",
@@ -77,18 +79,18 @@
     "by_length": {
       "4": 21,
       "5": 12,
-      "6": 14,
+      "6": 16,
       "7": 9,
       "8": 5,
       "9": 2
     },
     "by_first_letter": {
       "A": 13,
-      "D": 7,
+      "D": 8,
       "E": 3,
       "H": 6,
       "K": 8,
-      "N": 9,
+      "N": 10,
       "T": 17
     },
     "grid": {
@@ -102,7 +104,7 @@
       },
       "D": {
         "4": 3,
-        "6": 2,
+        "6": 3,
         "7": 1,
         "8": 1
       },
@@ -125,7 +127,7 @@
       "N": {
         "4": 5,
         "5": 2,
-        "6": 2
+        "6": 3
       },
       "T": {
         "4": 6,
@@ -140,7 +142,7 @@
       "AN": 8,
       "AT": 3,
       "DA": 1,
-      "DE": 6,
+      "DE": 7,
       "EA": 1,
       "EN": 2,
       "HA": 3,
@@ -149,7 +151,7 @@
       "KH": 1,
       "KN": 4,
       "NA": 3,
-      "NE": 6,
+      "NE": 7,
       "TA": 4,
       "TE": 9,
       "TH": 4

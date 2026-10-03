@@ -1,9 +1,9 @@
 {
   "pangram": "jingled",
   "center_letter": "n",
-  "num_answers": 67,
+  "num_answers": 70,
   "num_pangrams": 1,
-  "possible_points": 387,
+  "possible_points": 406,
   "answer_pangrams": [
     "jingled"
   ],
@@ -24,6 +24,7 @@
     "dinned",
     "dinning",
     "edging",
+    "eeling",
     "egging",
     "eliding",
     "ended",
@@ -57,7 +58,9 @@
     "legging",
     "lend",
     "lending",
+    "lidding",
     "lien",
+    "lignin",
     "linden",
     "line",
     "lined",
@@ -81,17 +84,17 @@
     "by_length": {
       "4": 10,
       "5": 8,
-      "6": 21,
-      "7": 20,
+      "6": 23,
+      "7": 21,
       "8": 8
     },
     "by_first_letter": {
       "D": 15,
-      "E": 6,
+      "E": 7,
       "G": 13,
       "I": 4,
       "J": 7,
-      "L": 10,
+      "L": 12,
       "N": 12
     },
     "grid": {
@@ -104,7 +107,7 @@
       },
       "E": {
         "5": 1,
-        "6": 4,
+        "6": 5,
         "7": 1
       },
       "G": {
@@ -126,8 +129,8 @@
       "L": {
         "4": 3,
         "5": 2,
-        "6": 3,
-        "7": 2
+        "6": 4,
+        "7": 3
       },
       "N": {
         "4": 3,
@@ -140,6 +143,7 @@
       "DE": 5,
       "DI": 10,
       "ED": 1,
+      "EE": 1,
       "EG": 1,
       "EL": 1,
       "EN": 3,
@@ -151,7 +155,7 @@
       "JE": 1,
       "JI": 6,
       "LE": 4,
-      "LI": 6,
+      "LI": 8,
       "NE": 8,
       "NI": 4
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "outlive",
   "center_letter": "v",
-  "num_answers": 21,
+  "num_answers": 22,
   "num_pangrams": 1,
-  "possible_points": 80,
+  "possible_points": 86,
   "answer_pangrams": [
     "outlive"
   ],
@@ -27,6 +27,7 @@
     "voile",
     "vole",
     "volt",
+    "volute",
     "vote",
     "votive"
   ],
@@ -35,14 +36,14 @@
     "by_length": {
       "4": 10,
       "5": 5,
-      "6": 4,
+      "6": 5,
       "7": 2
     },
     "by_first_letter": {
       "E": 2,
       "L": 4,
       "O": 4,
-      "V": 11
+      "V": 12
     },
     "grid": {
       "E": {
@@ -60,7 +61,7 @@
       "V": {
         "4": 7,
         "5": 1,
-        "6": 3
+        "6": 4
       }
     },
     "two_letter_list": {
@@ -73,7 +74,7 @@
       "OV": 1,
       "VE": 3,
       "VI": 3,
-      "VO": 5
+      "VO": 6
     }
   }
 }

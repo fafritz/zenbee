@@ -1,9 +1,9 @@
 {
   "pangram": "jolting",
   "center_letter": "n",
-  "num_answers": 72,
+  "num_answers": 77,
   "num_pangrams": 1,
-  "possible_points": 420,
+  "possible_points": 451,
   "answer_pangrams": [
     "jolting"
   ],
@@ -38,6 +38,7 @@
     "jointing",
     "jolting",
     "jotting",
+    "lignin",
     "lilting",
     "lingo",
     "lining",
@@ -55,6 +56,7 @@
     "lotion",
     "niggling",
     "noggin",
+    "nonillion",
     "noon",
     "noting",
     "notion",
@@ -74,30 +76,34 @@
     "toggling",
     "toiling",
     "tolling",
+    "tong",
+    "tonging",
     "toning",
     "tooling",
     "toon",
     "tooting",
+    "tootling",
     "toting",
     "totting"
   ],
   "date": "2034-04-05",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 14,
       "5": 8,
-      "6": 11,
-      "7": 26,
-      "8": 14
+      "6": 12,
+      "7": 27,
+      "8": 15,
+      "9": 1
     },
     "by_first_letter": {
       "G": 11,
       "I": 6,
       "J": 13,
-      "L": 15,
-      "N": 5,
+      "L": 16,
+      "N": 6,
       "O": 5,
-      "T": 17
+      "T": 20
     },
     "grid": {
       "G": {
@@ -121,13 +127,14 @@
       "L": {
         "4": 5,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 6
       },
       "N": {
         "4": 1,
         "6": 3,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "O": {
         "4": 1,
@@ -136,10 +143,10 @@
         "7": 1
       },
       "T": {
-        "4": 2,
+        "4": 3,
         "6": 3,
-        "7": 10,
-        "8": 2
+        "7": 11,
+        "8": 3
       }
     },
     "two_letter_list": {
@@ -150,15 +157,15 @@
       "IN": 4,
       "JI": 5,
       "JO": 8,
-      "LI": 6,
+      "LI": 7,
       "LO": 9,
       "NI": 1,
-      "NO": 4,
+      "NO": 5,
       "OG": 1,
       "OI": 1,
       "ON": 3,
       "TI": 8,
-      "TO": 9
+      "TO": 12
     }
   }
 }

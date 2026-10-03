@@ -1,15 +1,16 @@
 {
   "pangram": "cognate",
   "center_letter": "o",
-  "num_answers": 63,
+  "num_answers": 65,
   "num_pangrams": 1,
-  "possible_points": 274,
+  "possible_points": 283,
   "answer_pangrams": [
     "cognate"
   ],
   "answers": [
     "acetone",
     "agog",
+    "annatto",
     "annotate",
     "anon",
     "atone",
@@ -44,7 +45,6 @@
     "goatee",
     "gone",
     "gong",
-    "gonna",
     "goon",
     "gotten",
     "neocon",
@@ -53,6 +53,7 @@
     "nonce",
     "none",
     "noon",
+    "notate",
     "note",
     "oaten",
     "ocean",
@@ -67,6 +68,7 @@
     "tenon",
     "toga",
     "tone",
+    "tong",
     "tonnage",
     "toon",
     "toot",
@@ -75,27 +77,27 @@
   "date": "2035-02-06",
   "hints": {
     "by_length": {
-      "4": 23,
-      "5": 14,
-      "6": 13,
-      "7": 11,
+      "4": 24,
+      "5": 13,
+      "6": 14,
+      "7": 12,
       "8": 1,
       "11": 1
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 6,
       "C": 26,
       "E": 1,
-      "G": 7,
-      "N": 7,
+      "G": 6,
+      "N": 8,
       "O": 7,
-      "T": 10
+      "T": 11
     },
     "grid": {
       "A": {
         "4": 2,
         "5": 1,
-        "7": 1,
+        "7": 2,
         "8": 1
       },
       "C": {
@@ -110,13 +112,12 @@
       },
       "G": {
         "4": 4,
-        "5": 1,
         "6": 2
       },
       "N": {
         "4": 4,
         "5": 1,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "O": {
@@ -126,7 +127,7 @@
         "7": 1
       },
       "T": {
-        "4": 6,
+        "4": 7,
         "5": 2,
         "6": 1,
         "7": 1
@@ -135,20 +136,20 @@
     "two_letter_list": {
       "AC": 1,
       "AG": 1,
-      "AN": 2,
+      "AN": 3,
       "AT": 1,
       "CA": 7,
       "CO": 19,
       "EG": 1,
-      "GO": 7,
+      "GO": 6,
       "NE": 3,
-      "NO": 4,
+      "NO": 5,
       "OA": 1,
       "OC": 4,
       "ON": 2,
       "TA": 3,
       "TE": 1,
-      "TO": 6
+      "TO": 7
     }
   }
 }

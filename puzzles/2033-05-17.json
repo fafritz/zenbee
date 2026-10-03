@@ -1,9 +1,9 @@
 {
   "pangram": "heaving",
   "center_letter": "a",
-  "num_answers": 35,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 170,
+  "possible_points": 171,
   "answer_pangrams": [
     "heaving"
   ],
@@ -17,6 +17,7 @@
     "avian",
     "engage",
     "engaging",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -47,7 +48,7 @@
   "date": "2033-05-17",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 11,
       "5": 10,
       "6": 5,
       "7": 7,
@@ -56,7 +57,7 @@
     "by_first_letter": {
       "A": 7,
       "E": 2,
-      "G": 6,
+      "G": 7,
       "H": 10,
       "I": 1,
       "N": 5,
@@ -73,7 +74,7 @@
         "8": 1
       },
       "G": {
-        "4": 3,
+        "4": 4,
         "7": 3
       },
       "H": {
@@ -102,7 +103,7 @@
       "AN": 1,
       "AV": 3,
       "EN": 2,
-      "GA": 6,
+      "GA": 7,
       "HA": 5,
       "HE": 5,
       "IN": 1,

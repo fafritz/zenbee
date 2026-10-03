@@ -3,7 +3,7 @@
   "center_letter": "d",
   "num_answers": 61,
   "num_pangrams": 1,
-  "possible_points": 335,
+  "possible_points": 336,
   "answer_pangrams": [
     "jaunted"
   ],
@@ -36,6 +36,7 @@
     "dented",
     "denude",
     "denuded",
+    "detent",
     "detente",
     "dude",
     "duded",
@@ -43,7 +44,6 @@
     "dune",
     "dunned",
     "ended",
-    "endue",
     "endued",
     "etude",
     "jade",
@@ -74,8 +74,8 @@
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 11,
-      "6": 17,
+      "5": 10,
+      "6": 18,
       "7": 9,
       "8": 6,
       "9": 3,
@@ -83,8 +83,8 @@
     },
     "by_first_letter": {
       "A": 13,
-      "D": 21,
-      "E": 4,
+      "D": 22,
+      "E": 3,
       "J": 5,
       "N": 4,
       "T": 9,
@@ -102,12 +102,12 @@
       "D": {
         "4": 9,
         "5": 3,
-        "6": 5,
+        "6": 6,
         "7": 3,
         "8": 1
       },
       "E": {
-        "5": 3,
+        "5": 2,
         "6": 1
       },
       "J": {
@@ -140,9 +140,9 @@
       "AN": 4,
       "AT": 5,
       "DA": 5,
-      "DE": 11,
+      "DE": 12,
       "DU": 5,
-      "EN": 3,
+      "EN": 2,
       "ET": 1,
       "JA": 3,
       "JE": 1,

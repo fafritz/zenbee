@@ -1,9 +1,9 @@
 {
   "pangram": "marking",
   "center_letter": "a",
-  "num_answers": 67,
+  "num_answers": 71,
   "num_pangrams": 1,
-  "possible_points": 351,
+  "possible_points": 378,
   "answer_pangrams": [
     "marking"
   ],
@@ -23,6 +23,7 @@
     "arraign",
     "arraigning",
     "arranging",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -38,6 +39,8 @@
     "imaging",
     "imagining",
     "imam",
+    "ingrain",
+    "ingraining",
     "karma",
     "magma",
     "maim",
@@ -53,6 +56,7 @@
     "manna",
     "manning",
     "margin",
+    "margining",
     "maria",
     "marina",
     "mark",
@@ -79,20 +83,20 @@
   "date": "2028-12-31",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 11,
       "6": 14,
-      "7": 18,
+      "7": 19,
       "8": 3,
-      "9": 2,
-      "10": 2
+      "9": 3,
+      "10": 3
     },
     "by_first_letter": {
       "A": 15,
-      "G": 12,
-      "I": 3,
+      "G": 13,
+      "I": 5,
       "K": 1,
-      "M": 20,
+      "M": 21,
       "N": 4,
       "R": 12
     },
@@ -107,7 +111,7 @@
         "10": 1
       },
       "G": {
-        "4": 3,
+        "4": 4,
         "5": 2,
         "6": 1,
         "7": 4,
@@ -116,8 +120,9 @@
       },
       "I": {
         "4": 1,
-        "7": 1,
-        "9": 1
+        "7": 2,
+        "9": 1,
+        "10": 1
       },
       "K": {
         "5": 1
@@ -127,7 +132,8 @@
         "5": 6,
         "6": 4,
         "7": 5,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "N": {
         "4": 2,
@@ -146,11 +152,12 @@
       "AK": 1,
       "AN": 2,
       "AR": 5,
-      "GA": 8,
+      "GA": 9,
       "GR": 4,
       "IM": 3,
+      "IN": 2,
       "KA": 1,
-      "MA": 19,
+      "MA": 20,
       "MI": 1,
       "NA": 4,
       "RA": 12

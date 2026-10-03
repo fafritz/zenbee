@@ -1,9 +1,9 @@
 {
   "pangram": "twanged",
   "center_letter": "t",
-  "num_answers": 56,
+  "num_answers": 59,
   "num_pangrams": 1,
-  "possible_points": 272,
+  "possible_points": 290,
   "answer_pangrams": [
     "twanged"
   ],
@@ -25,6 +25,7 @@
     "dated",
     "dent",
     "dented",
+    "detent",
     "detente",
     "eaten",
     "entente",
@@ -35,6 +36,7 @@
     "gent",
     "gnat",
     "neat",
+    "neaten",
     "negate",
     "negated",
     "netted",
@@ -63,26 +65,27 @@
     "wanted",
     "watt",
     "wattage",
-    "went"
+    "went",
+    "wetted"
   ],
   "date": "2031-03-08",
   "hints": {
     "by_length": {
       "4": 17,
       "5": 10,
-      "6": 13,
+      "6": 16,
       "7": 10,
       "8": 4,
       "9": 2
     },
     "by_first_letter": {
       "A": 12,
-      "D": 6,
+      "D": 7,
       "E": 2,
       "G": 6,
-      "N": 5,
+      "N": 6,
       "T": 20,
-      "W": 5
+      "W": 6
     },
     "grid": {
       "A": {
@@ -96,7 +99,7 @@
       "D": {
         "4": 3,
         "5": 1,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "E": {
@@ -110,7 +113,7 @@
       },
       "N": {
         "4": 2,
-        "6": 2,
+        "6": 3,
         "7": 1
       },
       "T": {
@@ -122,7 +125,7 @@
       },
       "W": {
         "4": 3,
-        "6": 1,
+        "6": 2,
         "7": 1
       }
     },
@@ -131,18 +134,18 @@
       "AN": 7,
       "AT": 3,
       "DA": 3,
-      "DE": 3,
+      "DE": 4,
       "EA": 1,
       "EN": 1,
       "GA": 4,
       "GE": 1,
       "GN": 1,
-      "NE": 5,
+      "NE": 6,
       "TA": 5,
       "TE": 10,
       "TW": 5,
       "WA": 4,
-      "WE": 1
+      "WE": 2
     }
   }
 }

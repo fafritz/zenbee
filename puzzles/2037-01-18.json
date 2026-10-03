@@ -1,9 +1,9 @@
 {
   "pangram": "wetland",
   "center_letter": "w",
-  "num_answers": 51,
+  "num_answers": 52,
   "num_pangrams": 1,
-  "possible_points": 208,
+  "possible_points": 214,
   "answer_pangrams": [
     "wetland"
   ],
@@ -58,14 +58,15 @@
     "wend",
     "wended",
     "went",
-    "wetland"
+    "wetland",
+    "wetted"
   ],
   "date": "2037-01-18",
   "hints": {
     "by_length": {
       "4": 21,
       "5": 8,
-      "6": 15,
+      "6": 16,
       "7": 6,
       "8": 1
     },
@@ -75,7 +76,7 @@
       "L": 2,
       "N": 2,
       "T": 5,
-      "W": 34
+      "W": 35
     },
     "grid": {
       "A": {
@@ -102,7 +103,7 @@
       "W": {
         "4": 15,
         "5": 3,
-        "6": 13,
+        "6": 14,
         "7": 3
       }
     },
@@ -116,7 +117,7 @@
       "NE": 2,
       "TW": 5,
       "WA": 18,
-      "WE": 16
+      "WE": 17
     }
   }
 }

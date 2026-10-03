@@ -1,9 +1,9 @@
 {
   "pangram": "routing",
   "center_letter": "r",
-  "num_answers": 64,
+  "num_answers": 69,
   "num_pangrams": 5,
-  "possible_points": 368,
+  "possible_points": 382,
   "answer_pangrams": [
     "outrunning",
     "routing",
@@ -15,6 +15,7 @@
     "girt",
     "girting",
     "gorging",
+    "gorgon",
     "goring",
     "grin",
     "grinning",
@@ -33,6 +34,8 @@
     "inuring",
     "iron",
     "ironing",
+    "noir",
+    "nori",
     "nurturing",
     "nutrition",
     "origin",
@@ -44,8 +47,10 @@
     "ringing",
     "riot",
     "rioting",
+    "ronin",
     "root",
     "rooting",
+    "roti",
     "rotor",
     "rotting",
     "rouging",
@@ -80,20 +85,20 @@
   "date": "2035-01-22",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 8,
-      "6": 7,
+      "4": 22,
+      "5": 9,
+      "6": 8,
       "7": 17,
       "8": 7,
       "9": 3,
       "10": 3
     },
     "by_first_letter": {
-      "G": 15,
+      "G": 16,
       "I": 6,
-      "N": 2,
+      "N": 4,
       "O": 3,
-      "R": 20,
+      "R": 22,
       "T": 16,
       "U": 2
     },
@@ -101,7 +106,7 @@
       "G": {
         "4": 5,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 2,
         "8": 3,
         "10": 1
@@ -114,6 +119,7 @@
         "10": 1
       },
       "N": {
+        "4": 2,
         "9": 2
       },
       "O": {
@@ -121,8 +127,8 @@
         "10": 1
       },
       "R": {
-        "4": 7,
-        "5": 3,
+        "4": 8,
+        "5": 4,
         "7": 10
       },
       "T": {
@@ -140,17 +146,18 @@
     },
     "two_letter_list": {
       "GI": 2,
-      "GO": 2,
+      "GO": 3,
       "GR": 9,
       "GU": 2,
       "IG": 1,
       "IN": 3,
       "IR": 2,
+      "NO": 2,
       "NU": 2,
       "OR": 1,
       "OU": 2,
       "RI": 6,
-      "RO": 7,
+      "RO": 9,
       "RU": 7,
       "TI": 1,
       "TO": 5,

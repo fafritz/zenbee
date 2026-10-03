@@ -1,9 +1,9 @@
 {
   "pangram": "impanel",
   "center_letter": "n",
-  "num_answers": 66,
+  "num_answers": 71,
   "num_pangrams": 1,
-  "possible_points": 274,
+  "possible_points": 307,
   "answer_pangrams": [
     "impanel"
   ],
@@ -11,8 +11,8 @@
     "alien",
     "alpine",
     "amen",
-    "anal",
     "anemia",
+    "aniline",
     "animal",
     "anime",
     "anneal",
@@ -23,6 +23,7 @@
     "inane",
     "inline",
     "lain",
+    "lanai",
     "lane",
     "lean",
     "lien",
@@ -64,11 +65,15 @@
     "pain",
     "pane",
     "panel",
+    "panini",
     "peen",
     "penal",
-    "penile",
+    "penne",
     "pine",
+    "pineal",
     "pineapple",
+    "pinna",
+    "pinnae",
     "pipeline",
     "pippin",
     "plain",
@@ -78,10 +83,10 @@
   "date": "2037-05-29",
   "hints": {
     "by_length": {
-      "4": 28,
-      "5": 13,
-      "6": 12,
-      "7": 7,
+      "4": 27,
+      "5": 16,
+      "6": 14,
+      "7": 8,
       "8": 2,
       "9": 3,
       "10": 1
@@ -90,16 +95,17 @@
       "A": 8,
       "E": 3,
       "I": 3,
-      "L": 10,
+      "L": 11,
       "M": 19,
       "N": 9,
-      "P": 14
+      "P": 18
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 2,
-        "6": 4
+        "6": 4,
+        "7": 1
       },
       "E": {
         "4": 1,
@@ -113,7 +119,7 @@
       },
       "L": {
         "4": 6,
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 2
       },
@@ -132,8 +138,8 @@
       },
       "P": {
         "4": 5,
-        "5": 5,
-        "6": 2,
+        "5": 7,
+        "6": 4,
         "8": 1,
         "9": 1
       }
@@ -146,7 +152,7 @@
       "EN": 2,
       "IM": 1,
       "IN": 2,
-      "LA": 2,
+      "LA": 3,
       "LE": 1,
       "LI": 7,
       "MA": 8,
@@ -155,9 +161,9 @@
       "NA": 6,
       "NE": 2,
       "NI": 1,
-      "PA": 4,
+      "PA": 5,
       "PE": 3,
-      "PI": 4,
+      "PI": 7,
       "PL": 3
     }
   }

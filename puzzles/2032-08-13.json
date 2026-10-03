@@ -1,9 +1,9 @@
 {
   "pangram": "unlaced",
   "center_letter": "n",
-  "num_answers": 74,
+  "num_answers": 72,
   "num_pangrams": 2,
-  "possible_points": 388,
+  "possible_points": 382,
   "answer_pangrams": [
     "uncalled",
     "unlaced"
@@ -12,7 +12,6 @@
     "acne",
     "addend",
     "addenda",
-    "anal",
     "anneal",
     "annealed",
     "annual",
@@ -49,7 +48,6 @@
     "dunned",
     "elan",
     "ended",
-    "endue",
     "endued",
     "lacuna",
     "lacunae",
@@ -87,25 +85,25 @@
   "date": "2032-08-13",
   "hints": {
     "by_length": {
-      "4": 17,
-      "5": 14,
+      "4": 16,
+      "5": 13,
       "6": 23,
       "7": 12,
       "8": 7,
       "9": 1
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 8,
       "C": 16,
       "D": 13,
-      "E": 4,
+      "E": 3,
       "L": 12,
       "N": 10,
       "U": 10
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 1,
         "6": 3,
         "7": 1,
@@ -128,7 +126,7 @@
       },
       "E": {
         "4": 1,
-        "5": 2,
+        "5": 1,
         "6": 1
       },
       "L": {
@@ -153,14 +151,14 @@
     "two_letter_list": {
       "AC": 1,
       "AD": 2,
-      "AN": 6,
+      "AN": 5,
       "CA": 13,
       "CL": 3,
       "DA": 4,
       "DE": 6,
       "DU": 3,
       "EL": 1,
-      "EN": 3,
+      "EN": 2,
       "LA": 8,
       "LE": 4,
       "NA": 2,

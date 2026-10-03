@@ -1,9 +1,9 @@
 {
   "pangram": "fancily",
   "center_letter": "l",
-  "num_answers": 46,
+  "num_answers": 47,
   "num_pangrams": 2,
-  "possible_points": 239,
+  "possible_points": 248,
   "answer_pangrams": [
     "fancily",
     "financially"
@@ -12,7 +12,6 @@
     "alfalfa",
     "allay",
     "ally",
-    "anal",
     "calcify",
     "calf",
     "call",
@@ -49,9 +48,11 @@
     "flan",
     "flay",
     "icily",
+    "iliac",
     "inlay",
     "lacy",
     "lain",
+    "lanai",
     "lilac",
     "lily",
     "nail"
@@ -59,8 +60,8 @@
   "date": "2028-11-01",
   "hints": {
     "by_length": {
-      "4": 15,
-      "5": 11,
+      "4": 14,
+      "5": 13,
       "6": 4,
       "7": 7,
       "8": 3,
@@ -69,16 +70,16 @@
       "11": 1
     },
     "by_first_letter": {
-      "A": 4,
+      "A": 3,
       "C": 19,
       "F": 16,
-      "I": 2,
-      "L": 4,
+      "I": 3,
+      "L": 5,
       "N": 1
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 1,
         "7": 1
       },
@@ -101,11 +102,11 @@
         "11": 1
       },
       "I": {
-        "5": 2
+        "5": 3
       },
       "L": {
         "4": 3,
-        "5": 1
+        "5": 2
       },
       "N": {
         "4": 1
@@ -113,7 +114,6 @@
     },
     "two_letter_list": {
       "AL": 3,
-      "AN": 1,
       "CA": 6,
       "CI": 1,
       "CL": 7,
@@ -122,8 +122,9 @@
       "FI": 7,
       "FL": 3,
       "IC": 1,
+      "IL": 1,
       "IN": 1,
-      "LA": 2,
+      "LA": 3,
       "LI": 2,
       "NA": 1
     }

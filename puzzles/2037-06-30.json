@@ -1,15 +1,16 @@
 {
   "pangram": "combine",
   "center_letter": "c",
-  "num_answers": 31,
+  "num_answers": 34,
   "num_pangrams": 1,
-  "possible_points": 159,
+  "possible_points": 175,
   "answer_pangrams": [
     "combine"
   ],
   "answers": [
     "become",
     "bionic",
+    "bocce",
     "cocci",
     "cocoon",
     "coin",
@@ -26,9 +27,11 @@
     "emcee",
     "eminence",
     "icon",
+    "iconic",
     "imminence",
     "income",
     "innocence",
+    "ionic",
     "mice",
     "mimic",
     "mince",
@@ -44,23 +47,24 @@
   "hints": {
     "by_length": {
       "4": 8,
-      "5": 9,
-      "6": 7,
+      "5": 11,
+      "6": 8,
       "7": 1,
       "8": 4,
       "9": 2
     },
     "by_first_letter": {
-      "B": 2,
+      "B": 3,
       "C": 12,
       "E": 3,
-      "I": 4,
+      "I": 6,
       "M": 4,
       "N": 5,
       "O": 1
     },
     "grid": {
       "B": {
+        "5": 1,
         "6": 2
       },
       "C": {
@@ -76,7 +80,8 @@
       },
       "I": {
         "4": 1,
-        "6": 1,
+        "5": 1,
+        "6": 2,
         "9": 2
       },
       "M": {
@@ -96,12 +101,14 @@
     "two_letter_list": {
       "BE": 1,
       "BI": 1,
+      "BO": 1,
       "CO": 12,
       "EC": 1,
       "EM": 2,
-      "IC": 1,
+      "IC": 2,
       "IM": 1,
       "IN": 2,
+      "IO": 1,
       "MI": 3,
       "MN": 1,
       "NE": 1,

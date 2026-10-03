@@ -8,7 +8,6 @@
     "manhole"
   ],
   "answers": [
-    "ahem",
     "aloha",
     "halal",
     "hale",
@@ -22,6 +21,7 @@
     "hellhole",
     "hello",
     "helm",
+    "heme",
     "henna",
     "hole",
     "home",
@@ -38,17 +38,16 @@
       "8": 1
     },
     "by_first_letter": {
-      "A": 2,
-      "H": 16,
+      "A": 1,
+      "H": 17,
       "M": 1
     },
     "grid": {
       "A": {
-        "4": 1,
         "5": 1
       },
       "H": {
-        "4": 10,
+        "4": 11,
         "5": 4,
         "6": 1,
         "8": 1
@@ -58,10 +57,9 @@
       }
     },
     "two_letter_list": {
-      "AH": 1,
       "AL": 1,
       "HA": 6,
-      "HE": 7,
+      "HE": 8,
       "HO": 3,
       "MA": 1
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "feuding",
   "center_letter": "g",
-  "num_answers": 67,
+  "num_answers": 68,
   "num_pangrams": 3,
-  "possible_points": 430,
+  "possible_points": 436,
   "answer_pangrams": [
     "feuding",
     "undignified",
@@ -16,6 +16,7 @@
     "deign",
     "deigned",
     "deigning",
+    "dengue",
     "denuding",
     "diffing",
     "digging",
@@ -83,14 +84,14 @@
     "by_length": {
       "4": 6,
       "5": 11,
-      "6": 17,
+      "6": 18,
       "7": 24,
       "8": 5,
       "9": 3,
       "11": 1
     },
     "by_first_letter": {
-      "D": 20,
+      "D": 21,
       "E": 8,
       "F": 14,
       "G": 16,
@@ -102,7 +103,7 @@
       "D": {
         "4": 2,
         "5": 1,
-        "6": 4,
+        "6": 5,
         "7": 8,
         "8": 3,
         "9": 2
@@ -141,7 +142,7 @@
       }
     },
     "two_letter_list": {
-      "DE": 7,
+      "DE": 8,
       "DI": 8,
       "DU": 5,
       "ED": 3,

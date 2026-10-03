@@ -1,9 +1,9 @@
 {
   "pangram": "baneful",
   "center_letter": "e",
-  "num_answers": 51,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 204,
+  "possible_points": 229,
   "answer_pangrams": [
     "baneful"
   ],
@@ -11,6 +11,7 @@
     "abbe",
     "able",
     "affable",
+    "allele",
     "anneal",
     "babble",
     "babe",
@@ -34,14 +35,17 @@
     "blue",
     "bluebell",
     "bubble",
+    "effable",
     "elan",
     "enable",
     "enfeeble",
     "fable",
+    "falafel",
     "fallen",
     "feeble",
     "feel",
     "fell",
+    "fella",
     "fennel",
     "flannel",
     "flea",
@@ -64,16 +68,16 @@
   "hints": {
     "by_length": {
       "4": 23,
-      "5": 5,
-      "6": 15,
-      "7": 5,
+      "5": 6,
+      "6": 16,
+      "7": 7,
       "8": 3
     },
     "by_first_letter": {
-      "A": 4,
+      "A": 5,
       "B": 22,
-      "E": 3,
-      "F": 12,
+      "E": 4,
+      "F": 14,
       "L": 5,
       "N": 3,
       "U": 2
@@ -81,7 +85,7 @@
     "grid": {
       "A": {
         "4": 2,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "B": {
@@ -94,13 +98,14 @@
       "E": {
         "4": 1,
         "6": 1,
+        "7": 1,
         "8": 1
       },
       "F": {
         "4": 6,
-        "5": 1,
+        "5": 2,
         "6": 4,
-        "7": 1
+        "7": 2
       },
       "L": {
         "4": 4,
@@ -119,15 +124,17 @@
     "two_letter_list": {
       "AB": 2,
       "AF": 1,
+      "AL": 1,
       "AN": 1,
       "BA": 10,
       "BE": 9,
       "BL": 2,
       "BU": 1,
+      "EF": 1,
       "EL": 1,
       "EN": 2,
-      "FA": 2,
-      "FE": 4,
+      "FA": 3,
+      "FE": 5,
       "FL": 4,
       "FU": 2,
       "LA": 2,

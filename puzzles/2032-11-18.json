@@ -1,9 +1,9 @@
 {
   "pangram": "flaming",
   "center_letter": "l",
-  "num_answers": 67,
+  "num_answers": 70,
   "num_pangrams": 3,
-  "possible_points": 390,
+  "possible_points": 416,
   "answer_pangrams": [
     "flaming",
     "flimflamming",
@@ -16,7 +16,6 @@
     "align",
     "aligning",
     "amalgam",
-    "anal",
     "angling",
     "animal",
     "fail",
@@ -38,11 +37,13 @@
     "flailing",
     "flaming",
     "flan",
+    "flanging",
     "flimflam",
     "flimflamming",
     "fling",
     "flinging",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "ganglia",
@@ -55,6 +56,8 @@
     "lama",
     "laming",
     "lamming",
+    "lanai",
+    "lignin",
     "liming",
     "limn",
     "limning",
@@ -81,27 +84,27 @@
   "date": "2032-11-18",
   "hints": {
     "by_length": {
-      "4": 18,
-      "5": 5,
-      "6": 9,
+      "4": 17,
+      "5": 6,
+      "6": 10,
       "7": 18,
-      "8": 11,
+      "8": 13,
       "9": 4,
       "10": 1,
       "12": 1
     },
     "by_first_letter": {
-      "A": 9,
-      "F": 23,
-      "G": 7,
+      "A": 8,
+      "F": 24,
+      "G": 8,
       "I": 1,
-      "L": 10,
+      "L": 12,
       "M": 14,
       "N": 3
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 1,
         "6": 2,
         "7": 3,
@@ -112,22 +115,22 @@
         "5": 3,
         "6": 2,
         "7": 5,
-        "8": 5,
+        "8": 6,
         "9": 1,
         "12": 1
       },
       "G": {
         "4": 3,
         "7": 2,
-        "8": 2
+        "8": 3
       },
       "I": {
         "9": 1
       },
       "L": {
         "4": 3,
-        "5": 1,
-        "6": 3,
+        "5": 2,
+        "6": 4,
         "7": 3
       },
       "M": {
@@ -148,15 +151,15 @@
       "AI": 1,
       "AL": 4,
       "AM": 1,
-      "AN": 3,
+      "AN": 2,
       "FA": 5,
       "FI": 8,
-      "FL": 10,
-      "GA": 5,
+      "FL": 11,
+      "GA": 6,
       "GI": 2,
       "IN": 1,
-      "LA": 5,
-      "LI": 4,
+      "LA": 6,
+      "LI": 5,
       "LL": 1,
       "MA": 10,
       "MI": 4,

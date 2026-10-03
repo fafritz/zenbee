@@ -1,9 +1,9 @@
 {
   "pangram": "twanged",
   "center_letter": "d",
-  "num_answers": 72,
+  "num_answers": 74,
   "num_pangrams": 1,
-  "possible_points": 357,
+  "possible_points": 369,
   "answer_pangrams": [
     "twanged"
   ],
@@ -35,6 +35,7 @@
     "deeded",
     "dent",
     "dented",
+    "detent",
     "detente",
     "edge",
     "edged",
@@ -79,26 +80,27 @@
     "weed",
     "weeded",
     "wend",
-    "wended"
+    "wended",
+    "wetted"
   ],
   "date": "2027-03-28",
   "hints": {
     "by_length": {
       "4": 18,
       "5": 13,
-      "6": 28,
+      "6": 30,
       "7": 7,
       "8": 4,
       "9": 2
     },
     "by_first_letter": {
       "A": 14,
-      "D": 14,
+      "D": 15,
       "E": 5,
       "G": 7,
       "N": 5,
       "T": 11,
-      "W": 16
+      "W": 17
     },
     "grid": {
       "A": {
@@ -112,7 +114,7 @@
       "D": {
         "4": 7,
         "5": 1,
-        "6": 4,
+        "6": 5,
         "7": 1,
         "8": 1
       },
@@ -141,7 +143,7 @@
       "W": {
         "4": 4,
         "5": 4,
-        "6": 8
+        "6": 9
       }
     },
     "two_letter_list": {
@@ -151,7 +153,7 @@
       "AT": 3,
       "AW": 1,
       "DA": 5,
-      "DE": 9,
+      "DE": 10,
       "ED": 2,
       "EG": 1,
       "EN": 2,
@@ -164,7 +166,7 @@
       "TE": 5,
       "TW": 3,
       "WA": 8,
-      "WE": 8
+      "WE": 9
     }
   }
 }

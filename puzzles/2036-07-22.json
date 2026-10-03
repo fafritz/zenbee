@@ -1,9 +1,9 @@
 {
   "pangram": "parking",
   "center_letter": "a",
-  "num_answers": 53,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 266,
+  "possible_points": 295,
   "answer_pangrams": [
     "parking"
   ],
@@ -20,6 +20,7 @@
     "arraign",
     "arraigning",
     "arranging",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -28,6 +29,8 @@
     "gaping",
     "garaging",
     "grain",
+    "ingrain",
+    "ingraining",
     "naan",
     "nagging",
     "nana",
@@ -40,6 +43,7 @@
     "pair",
     "pairing",
     "pang",
+    "panini",
     "panning",
     "papa",
     "paprika",
@@ -48,6 +52,7 @@
     "parka",
     "parking",
     "parring",
+    "pinna",
     "prank",
     "raga",
     "ragging",
@@ -65,19 +70,20 @@
   "date": "2036-07-22",
   "hints": {
     "by_length": {
-      "4": 16,
-      "5": 7,
-      "6": 9,
-      "7": 17,
+      "4": 17,
+      "5": 8,
+      "6": 10,
+      "7": 18,
       "8": 2,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 12,
-      "G": 8,
+      "G": 9,
+      "I": 2,
       "N": 5,
-      "P": 16,
+      "P": 18,
       "R": 12
     },
     "grid": {
@@ -91,11 +97,15 @@
         "10": 1
       },
       "G": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "6": 1,
         "7": 3,
         "8": 1
+      },
+      "I": {
+        "7": 1,
+        "10": 1
       },
       "N": {
         "4": 2,
@@ -104,8 +114,8 @@
       },
       "P": {
         "4": 5,
-        "5": 3,
-        "6": 2,
+        "5": 4,
+        "6": 3,
         "7": 6
       },
       "R": {
@@ -121,10 +131,12 @@
       "AN": 1,
       "AP": 1,
       "AR": 4,
-      "GA": 7,
+      "GA": 8,
       "GR": 1,
+      "IN": 2,
       "NA": 5,
-      "PA": 15,
+      "PA": 16,
+      "PI": 1,
       "PR": 1,
       "RA": 12
     }

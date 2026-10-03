@@ -1,9 +1,9 @@
 {
   "pangram": "lambkin",
   "center_letter": "b",
-  "num_answers": 23,
+  "num_answers": 24,
   "num_pangrams": 1,
-  "possible_points": 83,
+  "possible_points": 89,
   "answer_pangrams": [
     "lambkin"
   ],
@@ -25,6 +25,7 @@
     "blank",
     "blink",
     "iamb",
+    "kanban",
     "labia",
     "labial",
     "lamb",
@@ -37,7 +38,7 @@
     "by_length": {
       "4": 12,
       "5": 6,
-      "6": 3,
+      "6": 4,
       "7": 1,
       "9": 1
     },
@@ -45,6 +46,7 @@
       "A": 1,
       "B": 15,
       "I": 1,
+      "K": 1,
       "L": 5,
       "N": 1
     },
@@ -60,6 +62,9 @@
       },
       "I": {
         "4": 1
+      },
+      "K": {
+        "6": 1
       },
       "L": {
         "4": 2,
@@ -77,6 +82,7 @@
       "BI": 3,
       "BL": 3,
       "IA": 1,
+      "KA": 1,
       "LA": 4,
       "LI": 1,
       "NI": 1

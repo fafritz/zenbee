@@ -1,9 +1,9 @@
 {
   "pangram": "catbird",
   "center_letter": "t",
-  "num_answers": 37,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 191,
+  "possible_points": 184,
   "answer_pangrams": [
     "catbird"
   ],
@@ -33,7 +33,6 @@
     "didactic",
     "dirt",
     "rabbit",
-    "ratatat",
     "tacit",
     "tact",
     "tactic",
@@ -52,7 +51,7 @@
       "4": 8,
       "5": 13,
       "6": 8,
-      "7": 3,
+      "7": 2,
       "8": 3,
       "9": 2
     },
@@ -61,7 +60,7 @@
       "B": 3,
       "C": 8,
       "D": 6,
-      "R": 2,
+      "R": 1,
       "T": 11
     },
     "grid": {
@@ -89,8 +88,7 @@
         "9": 1
       },
       "R": {
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
         "4": 2,
@@ -109,7 +107,7 @@
       "CR": 1,
       "DA": 2,
       "DI": 4,
-      "RA": 2,
+      "RA": 1,
       "TA": 5,
       "TI": 3,
       "TR": 3

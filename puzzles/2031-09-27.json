@@ -1,9 +1,9 @@
 {
   "pangram": "parking",
   "center_letter": "n",
-  "num_answers": 75,
+  "num_answers": 79,
   "num_pangrams": 1,
-  "possible_points": 411,
+  "possible_points": 439,
   "answer_pangrams": [
     "parking"
   ],
@@ -32,6 +32,8 @@
     "grinning",
     "griping",
     "gripping",
+    "ingrain",
+    "ingraining",
     "inking",
     "inning",
     "irking",
@@ -51,6 +53,7 @@
     "paining",
     "pairing",
     "pang",
+    "panini",
     "panning",
     "paring",
     "parking",
@@ -62,6 +65,7 @@
     "pining",
     "pink",
     "pinking",
+    "pinna",
     "pinning",
     "piping",
     "pippin",
@@ -88,20 +92,20 @@
   "hints": {
     "by_length": {
       "4": 17,
-      "5": 6,
-      "6": 16,
-      "7": 30,
+      "5": 7,
+      "6": 17,
+      "7": 31,
       "8": 4,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 10,
       "G": 14,
-      "I": 3,
+      "I": 5,
       "K": 4,
       "N": 6,
-      "P": 22,
+      "P": 24,
       "R": 16
     },
     "grid": {
@@ -122,7 +126,9 @@
         "8": 3
       },
       "I": {
-        "6": 3
+        "6": 3,
+        "7": 1,
+        "10": 1
       },
       "K": {
         "4": 2,
@@ -135,8 +141,8 @@
       },
       "P": {
         "4": 4,
-        "5": 2,
-        "6": 6,
+        "5": 3,
+        "6": 7,
         "7": 10
       },
       "R": {
@@ -155,13 +161,13 @@
       "GA": 7,
       "GI": 2,
       "GR": 5,
-      "IN": 2,
+      "IN": 4,
       "IR": 1,
       "KI": 4,
       "NA": 5,
       "NI": 1,
-      "PA": 10,
-      "PI": 11,
+      "PA": 11,
+      "PI": 12,
       "PR": 1,
       "RA": 11,
       "RI": 5

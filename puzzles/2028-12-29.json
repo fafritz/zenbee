@@ -3,11 +3,12 @@
   "center_letter": "t",
   "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 171,
+  "possible_points": 170,
   "answer_pangrams": [
     "opulent"
   ],
   "answers": [
+    "elote",
     "entente",
     "lent",
     "letup",
@@ -38,7 +39,6 @@
     "putt",
     "teen",
     "tell",
-    "telnet",
     "tenet",
     "tenon",
     "tent",
@@ -61,21 +61,22 @@
   "hints": {
     "by_length": {
       "4": 25,
-      "5": 6,
-      "6": 11,
+      "5": 7,
+      "6": 10,
       "7": 5,
       "8": 1
     },
     "by_first_letter": {
-      "E": 1,
+      "E": 2,
       "L": 6,
       "N": 2,
       "O": 5,
       "P": 14,
-      "T": 20
+      "T": 19
     },
     "grid": {
       "E": {
+        "5": 1,
         "7": 1
       },
       "L": {
@@ -100,10 +101,11 @@
       "T": {
         "4": 12,
         "5": 4,
-        "6": 4
+        "6": 3
       }
     },
     "two_letter_list": {
+      "EL": 1,
       "EN": 1,
       "LE": 2,
       "LO": 3,
@@ -117,7 +119,7 @@
       "PL": 1,
       "PO": 5,
       "PU": 5,
-      "TE": 7,
+      "TE": 6,
       "TO": 9,
       "TU": 4
     }

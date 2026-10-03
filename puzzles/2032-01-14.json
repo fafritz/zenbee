@@ -1,9 +1,9 @@
 {
   "pangram": "mortify",
   "center_letter": "r",
-  "num_answers": 24,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 64,
+  "possible_points": 65,
   "answer_pangrams": [
     "mortify"
   ],
@@ -25,6 +25,7 @@
     "room",
     "roomy",
     "root",
+    "roti",
     "rotor",
     "tort",
     "trim",
@@ -36,7 +37,7 @@
   "date": "2032-01-14",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 4,
       "6": 1,
       "7": 2
@@ -44,7 +45,7 @@
     "by_first_letter": {
       "F": 6,
       "M": 4,
-      "R": 8,
+      "R": 9,
       "T": 6
     },
     "grid": {
@@ -60,7 +61,7 @@
         "7": 1
       },
       "R": {
-        "4": 6,
+        "4": 7,
         "5": 2
       },
       "T": {
@@ -74,7 +75,7 @@
       "MI": 1,
       "MO": 3,
       "RI": 3,
-      "RO": 5,
+      "RO": 6,
       "TO": 1,
       "TR": 4,
       "TY": 1

@@ -1,9 +1,9 @@
 {
   "pangram": "molting",
   "center_letter": "o",
-  "num_answers": 72,
+  "num_answers": 76,
   "num_pangrams": 2,
-  "possible_points": 341,
+  "possible_points": 366,
   "answer_pangrams": [
     "molting",
     "mottling"
@@ -57,6 +57,7 @@
     "mottling",
     "motto",
     "noggin",
+    "nonillion",
     "noon",
     "noting",
     "notion",
@@ -73,33 +74,36 @@
     "toiling",
     "toll",
     "tolling",
+    "tong",
+    "tonging",
     "toning",
     "tool",
     "tooling",
     "toon",
     "toot",
     "tooting",
+    "tootling",
     "toting",
     "totting"
   ],
   "date": "2032-02-13",
   "hints": {
     "by_length": {
-      "4": 26,
+      "4": 27,
       "5": 9,
       "6": 12,
-      "7": 17,
-      "8": 7,
-      "9": 1
+      "7": 18,
+      "8": 8,
+      "9": 2
     },
     "by_first_letter": {
       "G": 8,
       "I": 5,
       "L": 18,
       "M": 16,
-      "N": 4,
+      "N": 5,
       "O": 8,
-      "T": 13
+      "T": 16
     },
     "grid": {
       "G": {
@@ -130,7 +134,8 @@
       },
       "N": {
         "4": 1,
-        "6": 3
+        "6": 3,
+        "9": 1
       },
       "O": {
         "4": 3,
@@ -140,10 +145,10 @@
         "8": 1
       },
       "T": {
-        "4": 5,
+        "4": 6,
         "6": 2,
-        "7": 5,
-        "8": 1
+        "7": 6,
+        "8": 2
       }
     },
     "two_letter_list": {
@@ -156,13 +161,13 @@
       "LO": 15,
       "MI": 2,
       "MO": 14,
-      "NO": 4,
+      "NO": 5,
       "OG": 1,
       "OI": 1,
       "OL": 1,
       "OM": 2,
       "ON": 3,
-      "TO": 13
+      "TO": 16
     }
   }
 }

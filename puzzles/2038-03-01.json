@@ -1,9 +1,9 @@
 {
   "pangram": "voyaged",
   "center_letter": "e",
-  "num_answers": 30,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 126,
+  "possible_points": 127,
   "answer_pangrams": [
     "voyaged"
   ],
@@ -17,6 +17,7 @@
     "deeded",
     "dodge",
     "dodged",
+    "doge",
     "dogged",
     "dove",
     "dyed",
@@ -42,7 +43,7 @@
   "date": "2038-03-01",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 9,
       "6": 8,
       "7": 1,
@@ -50,7 +51,7 @@
     },
     "by_first_letter": {
       "A": 4,
-      "D": 8,
+      "D": 9,
       "E": 8,
       "G": 7,
       "V": 3
@@ -61,7 +62,7 @@
         "5": 3
       },
       "D": {
-        "4": 4,
+        "4": 5,
         "5": 1,
         "6": 3
       },
@@ -85,7 +86,7 @@
       "AD": 2,
       "AG": 2,
       "DE": 3,
-      "DO": 4,
+      "DO": 5,
       "DY": 1,
       "ED": 4,
       "EG": 1,

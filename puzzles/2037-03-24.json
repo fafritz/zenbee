@@ -1,9 +1,9 @@
 {
   "pangram": "magnify",
   "center_letter": "n",
-  "num_answers": 46,
+  "num_answers": 48,
   "num_pangrams": 2,
-  "possible_points": 256,
+  "possible_points": 258,
   "answer_pangrams": [
     "magnify",
     "magnifying"
@@ -51,15 +51,17 @@
     "myna",
     "naan",
     "nagging",
+    "naif",
     "naming",
     "nana",
     "nanny",
-    "ninny"
+    "ninny",
+    "yang"
   ],
   "date": "2037-03-24",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 11,
       "5": 11,
       "6": 10,
       "7": 13,
@@ -73,7 +75,8 @@
       "G": 9,
       "I": 4,
       "M": 18,
-      "N": 6
+      "N": 7,
+      "Y": 1
     },
     "grid": {
       "A": {
@@ -105,10 +108,13 @@
         "10": 1
       },
       "N": {
-        "4": 2,
+        "4": 3,
         "5": 2,
         "6": 1,
         "7": 1
+      },
+      "Y": {
+        "4": 1
       }
     },
     "two_letter_list": {
@@ -124,8 +130,9 @@
       "MA": 11,
       "MI": 6,
       "MY": 1,
-      "NA": 5,
-      "NI": 1
+      "NA": 6,
+      "NI": 1,
+      "YA": 1
     }
   }
 }

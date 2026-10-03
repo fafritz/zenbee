@@ -1,9 +1,9 @@
 {
   "pangram": "talking",
   "center_letter": "a",
-  "num_answers": 64,
+  "num_answers": 67,
   "num_pangrams": 1,
-  "possible_points": 340,
+  "possible_points": 360,
   "answer_pangrams": [
     "talking"
   ],
@@ -17,17 +17,18 @@
     "align",
     "aligning",
     "alkali",
-    "anal",
     "angina",
     "angling",
     "anti",
     "attain",
     "attaining",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gait",
     "gala",
+    "galangal",
     "gall",
     "gallant",
     "galling",
@@ -43,7 +44,9 @@
     "initiating",
     "lagging",
     "lain",
+    "lanai",
     "lank",
+    "lantana",
     "litigant",
     "litigating",
     "naan",
@@ -77,25 +80,25 @@
   "hints": {
     "by_length": {
       "4": 20,
-      "5": 7,
+      "5": 8,
       "6": 7,
-      "7": 17,
-      "8": 6,
+      "7": 18,
+      "8": 7,
       "9": 2,
       "10": 4,
       "11": 1
     },
     "by_first_letter": {
-      "A": 15,
-      "G": 15,
+      "A": 14,
+      "G": 17,
       "I": 3,
-      "L": 5,
+      "L": 7,
       "N": 6,
       "T": 20
     },
     "grid": {
       "A": {
-        "4": 4,
+        "4": 3,
         "5": 3,
         "6": 4,
         "7": 1,
@@ -103,11 +106,11 @@
         "9": 2
       },
       "G": {
-        "4": 6,
+        "4": 7,
         "5": 1,
         "6": 1,
         "7": 6,
-        "8": 1
+        "8": 2
       },
       "I": {
         "7": 1,
@@ -115,7 +118,8 @@
       },
       "L": {
         "4": 2,
-        "7": 1,
+        "5": 1,
+        "7": 2,
         "8": 1,
         "10": 1
       },
@@ -139,13 +143,13 @@
       "AI": 1,
       "AK": 1,
       "AL": 4,
-      "AN": 4,
+      "AN": 3,
       "AT": 2,
-      "GA": 13,
+      "GA": 15,
       "GI": 1,
       "GN": 1,
       "IN": 3,
-      "LA": 3,
+      "LA": 5,
       "LI": 2,
       "NA": 6,
       "TA": 18,

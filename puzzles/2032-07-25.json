@@ -1,9 +1,9 @@
 {
   "pangram": "hotlink",
   "center_letter": "n",
-  "num_answers": 27,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 72,
+  "possible_points": 81,
   "answer_pangrams": [
     "hotlink"
   ],
@@ -25,6 +25,7 @@
     "loon",
     "lotion",
     "ninth",
+    "nonillion",
     "nook",
     "noon",
     "notion",
@@ -42,14 +43,15 @@
       "4": 19,
       "5": 4,
       "6": 2,
-      "7": 2
+      "7": 2,
+      "9": 1
     },
     "by_first_letter": {
       "H": 3,
       "I": 1,
       "K": 6,
       "L": 6,
-      "N": 4,
+      "N": 5,
       "O": 3,
       "T": 4
     },
@@ -73,7 +75,8 @@
       "N": {
         "4": 2,
         "5": 1,
-        "6": 1
+        "6": 1,
+        "9": 1
       },
       "O": {
         "4": 2,
@@ -93,7 +96,7 @@
       "LI": 3,
       "LO": 3,
       "NI": 1,
-      "NO": 3,
+      "NO": 4,
       "OI": 1,
       "ON": 2,
       "TH": 2,

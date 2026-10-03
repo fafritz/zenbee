@@ -1,14 +1,15 @@
 {
   "pangram": "violent",
   "center_letter": "o",
-  "num_answers": 55,
+  "num_answers": 56,
   "num_pangrams": 2,
-  "possible_points": 215,
+  "possible_points": 223,
   "answer_pangrams": [
     "nonviolent",
     "violent"
   ],
   "answers": [
+    "elote",
     "evolve",
     "intention",
     "into",
@@ -21,7 +22,6 @@
     "loll",
     "lone",
     "loon",
-    "loonie",
     "loot",
     "lotion",
     "lotto",
@@ -30,6 +30,7 @@
     "noel",
     "none",
     "nonevent",
+    "nonillion",
     "nonviolent",
     "noon",
     "note",
@@ -69,24 +70,25 @@
   "hints": {
     "by_length": {
       "4": 29,
-      "5": 6,
-      "6": 10,
+      "5": 7,
+      "6": 9,
       "7": 3,
       "8": 3,
-      "9": 3,
+      "9": 4,
       "10": 1
     },
     "by_first_letter": {
-      "E": 1,
+      "E": 2,
       "I": 5,
-      "L": 11,
-      "N": 10,
+      "L": 10,
+      "N": 11,
       "O": 7,
       "T": 10,
       "V": 11
     },
     "grid": {
       "E": {
+        "5": 1,
         "6": 1
       },
       "I": {
@@ -98,7 +100,7 @@
       "L": {
         "4": 7,
         "5": 1,
-        "6": 2,
+        "6": 1,
         "7": 1
       },
       "N": {
@@ -106,7 +108,7 @@
         "5": 1,
         "6": 1,
         "8": 1,
-        "9": 1,
+        "9": 2,
         "10": 1
       },
       "O": {
@@ -129,13 +131,14 @@
       }
     },
     "two_letter_list": {
+      "EL": 1,
       "EV": 1,
       "IN": 5,
       "LE": 1,
       "LI": 1,
-      "LO": 9,
+      "LO": 8,
       "NE": 1,
-      "NO": 9,
+      "NO": 10,
       "OL": 3,
       "ON": 3,
       "OV": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "womanly",
   "center_letter": "a",
-  "num_answers": 47,
+  "num_answers": 46,
   "num_pangrams": 2,
-  "possible_points": 186,
+  "possible_points": 185,
   "answer_pangrams": [
     "laywoman",
     "womanly"
@@ -14,7 +14,6 @@
     "alloy",
     "ally",
     "ammo",
-    "anal",
     "annoy",
     "anomaly",
     "anon",
@@ -60,14 +59,14 @@
   "date": "2038-02-22",
   "hints": {
     "by_length": {
-      "4": 20,
+      "4": 19,
       "5": 16,
       "6": 6,
       "7": 4,
       "8": 1
     },
     "by_first_letter": {
-      "A": 11,
+      "A": 10,
       "L": 12,
       "M": 12,
       "N": 4,
@@ -76,7 +75,7 @@
     },
     "grid": {
       "A": {
-        "4": 5,
+        "4": 4,
         "5": 4,
         "6": 1,
         "7": 1
@@ -110,7 +109,7 @@
     "two_letter_list": {
       "AL": 4,
       "AM": 1,
-      "AN": 5,
+      "AN": 4,
       "AW": 1,
       "LA": 5,
       "LL": 2,

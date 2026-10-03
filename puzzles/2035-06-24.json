@@ -1,9 +1,9 @@
 {
   "pangram": "beatnik",
   "center_letter": "e",
-  "num_answers": 49,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 175,
+  "possible_points": 181,
   "answer_pangrams": [
     "beatnik"
   ],
@@ -45,6 +45,7 @@
     "kitten",
     "knee",
     "neat",
+    "neaten",
     "nene",
     "nine",
     "nineteen",
@@ -63,7 +64,7 @@
     "by_length": {
       "4": 26,
       "5": 6,
-      "6": 10,
+      "6": 11,
       "7": 4,
       "8": 3
     },
@@ -73,7 +74,7 @@
       "E": 2,
       "I": 5,
       "K": 5,
-      "N": 4,
+      "N": 5,
       "T": 9
     },
     "grid": {
@@ -104,6 +105,7 @@
       },
       "N": {
         "4": 3,
+        "6": 1,
         "8": 1
       },
       "T": {
@@ -124,7 +126,7 @@
       "KE": 2,
       "KI": 2,
       "KN": 1,
-      "NE": 2,
+      "NE": 3,
       "NI": 2,
       "TA": 2,
       "TE": 5,

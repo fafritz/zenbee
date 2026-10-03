@@ -1,9 +1,9 @@
 {
   "pangram": "yachted",
   "center_letter": "a",
-  "num_answers": 67,
+  "num_answers": 68,
   "num_pangrams": 1,
-  "possible_points": 329,
+  "possible_points": 334,
   "answer_pangrams": [
     "yachted"
   ],
@@ -24,6 +24,7 @@
     "cache",
     "cached",
     "cachet",
+    "caddy",
     "cadet",
     "catch",
     "catchy",
@@ -80,14 +81,14 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 23,
+      "5": 24,
       "6": 15,
       "7": 10,
       "8": 4
     },
     "by_first_letter": {
       "A": 13,
-      "C": 15,
+      "C": 16,
       "D": 12,
       "E": 1,
       "H": 15,
@@ -104,7 +105,7 @@
       },
       "C": {
         "4": 2,
-        "5": 5,
+        "5": 6,
         "6": 5,
         "7": 3
       },
@@ -142,7 +143,7 @@
       "AD": 1,
       "AH": 1,
       "AT": 3,
-      "CA": 8,
+      "CA": 9,
       "CH": 7,
       "DA": 5,
       "DE": 7,

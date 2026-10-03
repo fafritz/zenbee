@@ -1,9 +1,9 @@
 {
   "pangram": "vamping",
   "center_letter": "a",
-  "num_answers": 49,
+  "num_answers": 53,
   "num_pangrams": 1,
-  "possible_points": 244,
+  "possible_points": 261,
   "answer_pangrams": [
     "vamping"
   ],
@@ -14,6 +14,7 @@
     "angina",
     "aping",
     "avian",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -48,10 +49,13 @@
     "paging",
     "pain",
     "paining",
+    "pampa",
     "pang",
+    "panini",
     "panning",
     "papa",
     "paving",
+    "pinna",
     "vain",
     "vamp",
     "vamping",
@@ -61,20 +65,20 @@
   "date": "2032-01-12",
   "hints": {
     "by_length": {
-      "4": 13,
-      "5": 11,
-      "6": 9,
+      "4": 14,
+      "5": 13,
+      "6": 10,
       "7": 14,
       "8": 1,
       "9": 1
     },
     "by_first_letter": {
       "A": 6,
-      "G": 8,
+      "G": 9,
       "I": 3,
       "M": 14,
       "N": 5,
-      "P": 8,
+      "P": 11,
       "V": 5
     },
     "grid": {
@@ -83,7 +87,7 @@
         "6": 2
       },
       "G": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "6": 2,
         "7": 3
@@ -107,8 +111,8 @@
       },
       "P": {
         "4": 3,
-        "5": 1,
-        "6": 2,
+        "5": 3,
+        "6": 3,
         "7": 2
       },
       "V": {
@@ -123,12 +127,13 @@
       "AN": 1,
       "AP": 1,
       "AV": 1,
-      "GA": 8,
+      "GA": 9,
       "IM": 3,
       "MA": 12,
       "MI": 2,
       "NA": 5,
-      "PA": 8,
+      "PA": 10,
+      "PI": 1,
       "VA": 5
     }
   }

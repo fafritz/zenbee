@@ -1,9 +1,9 @@
 {
   "pangram": "brimful",
   "center_letter": "f",
-  "num_answers": 17,
+  "num_answers": 18,
   "num_pangrams": 1,
-  "possible_points": 48,
+  "possible_points": 49,
   "answer_pangrams": [
     "brimful"
   ],
@@ -21,6 +21,7 @@
     "fulfill",
     "full",
     "furl",
+    "luff",
     "miff",
     "muff",
     "riff",
@@ -29,13 +30,14 @@
   "date": "2029-12-23",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 13,
       "5": 3,
       "7": 2
     },
     "by_first_letter": {
       "B": 4,
       "F": 9,
+      "L": 1,
       "M": 2,
       "R": 2
     },
@@ -49,6 +51,9 @@
         "4": 6,
         "5": 2,
         "7": 1
+      },
+      "L": {
+        "4": 1
       },
       "M": {
         "4": 2
@@ -66,6 +71,7 @@
       "FL": 2,
       "FR": 1,
       "FU": 3,
+      "LU": 1,
       "MI": 1,
       "MU": 1,
       "RI": 1,

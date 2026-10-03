@@ -1,15 +1,14 @@
 {
   "pangram": "nodular",
   "center_letter": "n",
-  "num_answers": 31,
+  "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 121,
+  "possible_points": 115,
   "answer_pangrams": [
     "nodular"
   ],
   "answers": [
     "adorn",
-    "anal",
     "annual",
     "annul",
     "annular",
@@ -17,7 +16,6 @@
     "around",
     "darn",
     "donor",
-    "dunno",
     "land",
     "landlord",
     "llano",
@@ -43,16 +41,16 @@
   "date": "2032-07-14",
   "hints": {
     "by_length": {
-      "4": 14,
-      "5": 9,
+      "4": 13,
+      "5": 8,
       "6": 4,
       "7": 2,
       "8": 1,
       "9": 1
     },
     "by_first_letter": {
-      "A": 7,
-      "D": 3,
+      "A": 6,
+      "D": 2,
       "L": 6,
       "N": 7,
       "R": 4,
@@ -60,14 +58,14 @@
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 2,
         "6": 2,
         "7": 1
       },
       "D": {
         "4": 1,
-        "5": 2
+        "5": 1
       },
       "L": {
         "4": 3,
@@ -91,11 +89,10 @@
     },
     "two_letter_list": {
       "AD": 1,
-      "AN": 5,
+      "AN": 4,
       "AR": 1,
       "DA": 1,
       "DO": 1,
-      "DU": 1,
       "LA": 2,
       "LL": 1,
       "LO": 2,

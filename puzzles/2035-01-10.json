@@ -1,9 +1,9 @@
 {
   "pangram": "organdy",
   "center_letter": "g",
-  "num_answers": 35,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 128,
+  "possible_points": 126,
   "answer_pangrams": [
     "organdy"
   ],
@@ -19,14 +19,14 @@
     "drag",
     "dragon",
     "dragoon",
+    "gaga",
     "gang",
     "goad",
-    "gonad",
     "gong",
-    "gonna",
     "good",
     "goody",
     "goon",
+    "gorgon",
     "gory",
     "grad",
     "granary",
@@ -42,14 +42,15 @@
     "raga",
     "rang",
     "rangy",
+    "yang",
     "yoga"
   ],
   "date": "2035-01-10",
   "hints": {
     "by_length": {
-      "4": 16,
-      "5": 12,
-      "6": 4,
+      "4": 18,
+      "5": 10,
+      "6": 5,
       "7": 3
     },
     "by_first_letter": {
@@ -58,7 +59,7 @@
       "G": 18,
       "O": 2,
       "R": 3,
-      "Y": 1
+      "Y": 2
     },
     "grid": {
       "A": {
@@ -73,9 +74,9 @@
         "7": 1
       },
       "G": {
-        "4": 10,
-        "5": 5,
-        "6": 2,
+        "4": 11,
+        "5": 3,
+        "6": 3,
         "7": 1
       },
       "O": {
@@ -87,7 +88,7 @@
         "5": 1
       },
       "Y": {
-        "4": 1
+        "4": 2
       }
     },
     "two_letter_list": {
@@ -96,12 +97,13 @@
       "AR": 1,
       "DO": 2,
       "DR": 3,
-      "GA": 1,
-      "GO": 8,
+      "GA": 2,
+      "GO": 7,
       "GR": 8,
       "GY": 1,
       "OR": 2,
       "RA": 3,
+      "YA": 1,
       "YO": 1
     }
   }

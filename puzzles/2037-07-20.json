@@ -1,9 +1,9 @@
 {
   "pangram": "hopeful",
   "center_letter": "f",
-  "num_answers": 16,
+  "num_answers": 17,
   "num_pangrams": 1,
-  "possible_points": 39,
+  "possible_points": 40,
   "answer_pangrams": [
     "hopeful"
   ],
@@ -23,18 +23,20 @@
     "hoof",
     "hopeful",
     "huff",
+    "luff",
     "puff"
   ],
   "date": "2037-07-20",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 14,
       "5": 1,
       "7": 2
     },
     "by_first_letter": {
       "F": 11,
       "H": 4,
+      "L": 1,
       "P": 1
     },
     "grid": {
@@ -45,6 +47,9 @@
       "H": {
         "4": 2,
         "7": 2
+      },
+      "L": {
+        "4": 1
       },
       "P": {
         "4": 1
@@ -58,6 +63,7 @@
       "HE": 1,
       "HO": 2,
       "HU": 1,
+      "LU": 1,
       "PU": 1
     }
   }

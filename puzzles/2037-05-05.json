@@ -1,9 +1,9 @@
 {
   "pangram": "fumbled",
   "center_letter": "l",
-  "num_answers": 72,
+  "num_answers": 76,
   "num_pangrams": 1,
-  "possible_points": 343,
+  "possible_points": 356,
   "answer_pangrams": [
     "fumbled"
   ],
@@ -24,6 +24,7 @@
     "bubble",
     "bubbled",
     "bulb",
+    "bulbed",
     "bull",
     "bulled",
     "bumble",
@@ -37,6 +38,7 @@
     "dull",
     "dulled",
     "dumbbell",
+    "eeled",
     "elude",
     "eluded",
     "emblem",
@@ -60,8 +62,10 @@
     "fulled",
     "fumble",
     "fumbled",
+    "lede",
     "lube",
     "lubed",
+    "luff",
     "lull",
     "lulled",
     "lulu",
@@ -84,19 +88,19 @@
   "date": "2037-05-05",
   "hints": {
     "by_length": {
-      "4": 22,
-      "5": 10,
-      "6": 23,
+      "4": 24,
+      "5": 11,
+      "6": 24,
       "7": 12,
       "8": 3,
       "9": 2
     },
     "by_first_letter": {
-      "B": 21,
+      "B": 22,
       "D": 8,
-      "E": 3,
+      "E": 4,
       "F": 20,
-      "L": 5,
+      "L": 7,
       "M": 14,
       "U": 1
     },
@@ -104,7 +108,7 @@
       "B": {
         "4": 5,
         "5": 4,
-        "6": 5,
+        "6": 6,
         "7": 3,
         "8": 2,
         "9": 2
@@ -116,7 +120,7 @@
         "8": 1
       },
       "E": {
-        "5": 1,
+        "5": 2,
         "6": 2
       },
       "F": {
@@ -126,7 +130,7 @@
         "7": 4
       },
       "L": {
-        "4": 3,
+        "4": 5,
         "5": 1,
         "6": 1
       },
@@ -143,15 +147,17 @@
     "two_letter_list": {
       "BE": 6,
       "BL": 7,
-      "BU": 8,
+      "BU": 9,
       "DE": 3,
       "DU": 5,
+      "EE": 1,
       "EL": 2,
       "EM": 1,
       "FE": 4,
       "FL": 8,
       "FU": 8,
-      "LU": 5,
+      "LE": 1,
+      "LU": 6,
       "ME": 5,
       "MU": 9,
       "UM": 1

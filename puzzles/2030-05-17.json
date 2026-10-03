@@ -1,9 +1,9 @@
 {
   "pangram": "daubing",
   "center_letter": "a",
-  "num_answers": 35,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 189,
+  "possible_points": 190,
   "answer_pangrams": [
     "daubing"
   ],
@@ -31,6 +31,7 @@
     "daubing",
     "gabbing",
     "gadding",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -47,7 +48,7 @@
   "date": "2030-05-17",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 10,
       "5": 3,
       "6": 6,
       "7": 15,
@@ -58,7 +59,7 @@
       "A": 6,
       "B": 12,
       "D": 3,
-      "G": 8,
+      "G": 9,
       "I": 1,
       "N": 5
     },
@@ -80,7 +81,7 @@
         "7": 2
       },
       "G": {
-        "4": 2,
+        "4": 3,
         "7": 6
       },
       "I": {
@@ -100,7 +101,7 @@
       "AN": 1,
       "BA": 12,
       "DA": 3,
-      "GA": 8,
+      "GA": 9,
       "IG": 1,
       "NA": 5
     }

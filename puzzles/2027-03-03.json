@@ -1,9 +1,9 @@
 {
   "pangram": "valuing",
   "center_letter": "l",
-  "num_answers": 51,
+  "num_answers": 55,
   "num_pangrams": 2,
-  "possible_points": 265,
+  "possible_points": 295,
   "answer_pangrams": [
     "unavailing",
     "valuing"
@@ -14,7 +14,6 @@
     "align",
     "aligning",
     "alluvial",
-    "anal",
     "angling",
     "annual",
     "annul",
@@ -23,6 +22,7 @@
     "avail",
     "availing",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "ganglia",
@@ -32,14 +32,18 @@
     "gluing",
     "gull",
     "gulling",
+    "inulin",
     "lagging",
     "lain",
+    "lanai",
     "lava",
+    "lignin",
     "lingual",
     "lining",
     "living",
     "luau",
     "lugging",
+    "luging",
     "lull",
     "lulling",
     "lulu",
@@ -64,25 +68,26 @@
   "date": "2027-03-03",
   "hints": {
     "by_length": {
-      "4": 16,
-      "5": 8,
-      "6": 5,
+      "4": 15,
+      "5": 9,
+      "6": 8,
       "7": 14,
-      "8": 6,
+      "8": 7,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 13,
-      "G": 10,
-      "L": 13,
+      "A": 12,
+      "G": 11,
+      "I": 1,
+      "L": 16,
       "N": 5,
       "U": 3,
       "V": 7
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 4,
         "6": 2,
         "7": 1,
@@ -93,11 +98,15 @@
         "4": 4,
         "6": 1,
         "7": 3,
-        "8": 2
+        "8": 3
+      },
+      "I": {
+        "6": 1
       },
       "L": {
         "4": 6,
-        "6": 2,
+        "5": 1,
+        "6": 4,
         "7": 5
       },
       "N": {
@@ -120,15 +129,16 @@
     "two_letter_list": {
       "AI": 1,
       "AL": 4,
-      "AN": 6,
+      "AN": 5,
       "AV": 2,
-      "GA": 5,
+      "GA": 6,
       "GI": 2,
       "GL": 1,
       "GU": 2,
-      "LA": 3,
-      "LI": 3,
-      "LU": 7,
+      "IN": 1,
+      "LA": 4,
+      "LI": 4,
+      "LU": 8,
       "NA": 3,
       "NI": 1,
       "NU": 1,

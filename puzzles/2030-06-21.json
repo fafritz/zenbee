@@ -1,22 +1,23 @@
 {
   "pangram": "combine",
   "center_letter": "b",
-  "num_answers": 17,
+  "num_answers": 18,
   "num_pangrams": 1,
-  "possible_points": 68,
+  "possible_points": 72,
   "answer_pangrams": [
     "combine"
   ],
   "answers": [
     "become",
     "been",
+    "biome",
     "bionic",
     "bobbin",
+    "bocce",
     "bomb",
     "bonbon",
     "bone",
     "boob",
-    "booboo",
     "boom",
     "boon",
     "comb",
@@ -30,12 +31,12 @@
   "hints": {
     "by_length": {
       "4": 8,
-      "5": 2,
-      "6": 6,
+      "5": 4,
+      "6": 5,
       "7": 1
     },
     "by_first_letter": {
-      "B": 11,
+      "B": 12,
       "C": 3,
       "I": 1,
       "N": 1,
@@ -44,7 +45,8 @@
     "grid": {
       "B": {
         "4": 6,
-        "6": 5
+        "5": 2,
+        "6": 4
       },
       "C": {
         "4": 1,
@@ -63,7 +65,7 @@
     },
     "two_letter_list": {
       "BE": 2,
-      "BI": 1,
+      "BI": 2,
       "BO": 8,
       "CO": 3,
       "IM": 1,

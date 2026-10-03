@@ -1,14 +1,13 @@
 {
   "pangram": "journal",
   "center_letter": "n",
-  "num_answers": 18,
+  "num_answers": 17,
   "num_pangrams": 1,
-  "possible_points": 59,
+  "possible_points": 58,
   "answer_pangrams": [
     "journal"
   ],
   "answers": [
-    "anal",
     "annual",
     "annul",
     "annular",
@@ -30,13 +29,13 @@
   "date": "2027-10-27",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 10,
       "5": 3,
       "6": 2,
       "7": 2
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 4,
       "J": 1,
       "L": 4,
       "N": 5,
@@ -45,7 +44,7 @@
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 1,
         "6": 1,
         "7": 1
@@ -69,7 +68,7 @@
       }
     },
     "two_letter_list": {
-      "AN": 5,
+      "AN": 4,
       "JO": 1,
       "LL": 1,
       "LO": 2,

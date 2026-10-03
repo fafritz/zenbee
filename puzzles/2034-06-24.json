@@ -1,9 +1,9 @@
 {
   "pangram": "payment",
   "center_letter": "a",
-  "num_answers": 51,
+  "num_answers": 53,
   "num_pangrams": 1,
-  "possible_points": 184,
+  "possible_points": 195,
   "answer_pangrams": [
     "payment"
   ],
@@ -40,7 +40,9 @@
     "natty",
     "neap",
     "neat",
+    "neaten",
     "paean",
+    "pampa",
     "pane",
     "pant",
     "papa",
@@ -64,8 +66,8 @@
   "hints": {
     "by_length": {
       "4": 25,
-      "5": 14,
-      "6": 4,
+      "5": 15,
+      "6": 5,
       "7": 6,
       "8": 2
     },
@@ -73,8 +75,8 @@
       "A": 5,
       "E": 3,
       "M": 15,
-      "N": 9,
-      "P": 12,
+      "N": 10,
+      "P": 13,
       "T": 7
     },
     "grid": {
@@ -95,11 +97,12 @@
       },
       "N": {
         "4": 6,
-        "5": 3
+        "5": 3,
+        "6": 1
       },
       "P": {
         "4": 5,
-        "5": 3,
+        "5": 4,
         "6": 2,
         "7": 2
       },
@@ -121,8 +124,8 @@
       "ME": 5,
       "MY": 1,
       "NA": 7,
-      "NE": 2,
-      "PA": 10,
+      "NE": 3,
+      "PA": 11,
       "PE": 2,
       "TA": 4,
       "TE": 3

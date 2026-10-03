@@ -1,9 +1,9 @@
 {
   "pangram": "biplane",
   "center_letter": "a",
-  "num_answers": 66,
+  "num_answers": 74,
   "num_pangrams": 2,
-  "possible_points": 267,
+  "possible_points": 321,
   "answer_pangrams": [
     "biplane",
     "plebeian"
@@ -14,8 +14,9 @@
     "alibi",
     "alien",
     "alienable",
+    "allele",
     "alpine",
-    "anal",
+    "aniline",
     "anneal",
     "appall",
     "appeal",
@@ -33,6 +34,7 @@
     "bane",
     "bean",
     "biennial",
+    "billable",
     "biplane",
     "blab",
     "elan",
@@ -42,7 +44,9 @@
     "label",
     "labia",
     "labial",
+    "labile",
     "lain",
+    "lanai",
     "lane",
     "lapel",
     "lean",
@@ -62,13 +66,17 @@
     "palpable",
     "pane",
     "panel",
+    "panini",
     "papa",
     "papal",
     "papilla",
     "papillae",
     "peal",
     "penal",
+    "pineal",
     "pineapple",
+    "pinna",
+    "pinnae",
     "plain",
     "plan",
     "plane",
@@ -79,28 +87,29 @@
   "date": "2036-01-03",
   "hints": {
     "by_length": {
-      "4": 30,
-      "5": 15,
-      "6": 11,
-      "7": 3,
-      "8": 4,
+      "4": 29,
+      "5": 17,
+      "6": 16,
+      "7": 4,
+      "8": 5,
       "9": 2,
       "11": 1
     },
     "by_first_letter": {
-      "A": 11,
-      "B": 15,
+      "A": 12,
+      "B": 16,
       "E": 2,
       "I": 2,
-      "L": 10,
+      "L": 12,
       "N": 5,
-      "P": 21
+      "P": 25
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 3,
-        "6": 4,
+        "6": 5,
+        "7": 1,
         "9": 1
       },
       "B": {
@@ -108,7 +117,7 @@
         "5": 2,
         "6": 3,
         "7": 1,
-        "8": 1
+        "8": 2
       },
       "E": {
         "4": 1,
@@ -120,15 +129,16 @@
       },
       "L": {
         "4": 4,
-        "5": 3,
-        "6": 3
+        "5": 4,
+        "6": 4
       },
       "N": {
         "4": 5
       },
       "P": {
         "4": 9,
-        "5": 6,
+        "5": 7,
+        "6": 3,
         "7": 2,
         "8": 3,
         "9": 1
@@ -136,24 +146,24 @@
     },
     "two_letter_list": {
       "AB": 2,
-      "AL": 4,
+      "AL": 5,
       "AN": 2,
       "AP": 3,
       "BA": 11,
       "BE": 1,
-      "BI": 2,
+      "BI": 3,
       "BL": 1,
       "EL": 1,
       "EN": 1,
       "IN": 2,
-      "LA": 6,
+      "LA": 8,
       "LE": 2,
       "LI": 2,
       "NA": 4,
       "NE": 1,
-      "PA": 12,
+      "PA": 13,
       "PE": 2,
-      "PI": 1,
+      "PI": 4,
       "PL": 6
     }
   }

@@ -1,9 +1,9 @@
 {
   "pangram": "inhaled",
   "center_letter": "a",
-  "num_answers": 76,
+  "num_answers": 78,
   "num_pangrams": 3,
-  "possible_points": 366,
+  "possible_points": 383,
   "answer_pangrams": [
     "headline",
     "headlined",
@@ -20,8 +20,9 @@
     "aided",
     "ailed",
     "alien",
+    "allele",
     "allied",
-    "anal",
+    "aniline",
     "anneal",
     "annealed",
     "dahlia",
@@ -71,6 +72,7 @@
     "ladled",
     "laid",
     "lain",
+    "lanai",
     "land",
     "landed",
     "landline",
@@ -90,28 +92,28 @@
   "date": "2033-12-17",
   "hints": {
     "by_length": {
-      "4": 24,
-      "5": 14,
-      "6": 24,
-      "7": 6,
+      "4": 23,
+      "5": 15,
+      "6": 25,
+      "7": 7,
       "8": 7,
       "9": 1
     },
     "by_first_letter": {
-      "A": 14,
+      "A": 15,
       "D": 14,
       "E": 1,
       "H": 20,
       "I": 7,
-      "L": 15,
+      "L": 16,
       "N": 5
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 6,
-        "6": 4,
-        "7": 1,
+        "6": 5,
+        "7": 2,
         "8": 1
       },
       "D": {
@@ -139,7 +141,7 @@
       },
       "L": {
         "4": 6,
-        "5": 2,
+        "5": 3,
         "6": 6,
         "8": 1
       },
@@ -153,7 +155,7 @@
       "AD": 5,
       "AH": 1,
       "AI": 3,
-      "AL": 2,
+      "AL": 3,
       "AN": 3,
       "DA": 5,
       "DE": 7,
@@ -163,7 +165,7 @@
       "HE": 9,
       "ID": 2,
       "IN": 5,
-      "LA": 9,
+      "LA": 10,
       "LE": 5,
       "LI": 1,
       "NA": 5

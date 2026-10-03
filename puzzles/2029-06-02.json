@@ -1,9 +1,9 @@
 {
   "pangram": "thanked",
   "center_letter": "t",
-  "num_answers": 56,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 261,
+  "possible_points": 273,
   "answer_pangrams": [
     "thanked"
   ],
@@ -24,6 +24,7 @@
     "death",
     "dent",
     "dented",
+    "detent",
     "detente",
     "eaten",
     "entente",
@@ -35,6 +36,7 @@
     "heath",
     "heathen",
     "neat",
+    "neaten",
     "neath",
     "netted",
     "take",
@@ -70,17 +72,17 @@
     "by_length": {
       "4": 18,
       "5": 13,
-      "6": 12,
+      "6": 14,
       "7": 7,
       "8": 4,
       "9": 2
     },
     "by_first_letter": {
       "A": 10,
-      "D": 7,
+      "D": 8,
       "E": 2,
       "H": 7,
-      "N": 3,
+      "N": 4,
       "T": 27
     },
     "grid": {
@@ -95,7 +97,7 @@
       "D": {
         "4": 3,
         "5": 2,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "E": {
@@ -111,7 +113,7 @@
       "N": {
         "4": 1,
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "T": {
         "4": 11,
@@ -125,12 +127,12 @@
       "AN": 7,
       "AT": 3,
       "DA": 3,
-      "DE": 4,
+      "DE": 5,
       "EA": 1,
       "EN": 1,
       "HA": 3,
       "HE": 4,
-      "NE": 3,
+      "NE": 4,
       "TA": 6,
       "TE": 14,
       "TH": 7

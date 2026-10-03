@@ -1,9 +1,9 @@
 {
   "pangram": "blowing",
   "center_letter": "l",
-  "num_answers": 61,
+  "num_answers": 63,
   "num_pangrams": 4,
-  "possible_points": 330,
+  "possible_points": 345,
   "answer_pangrams": [
     "billowing",
     "blowing",
@@ -44,6 +44,7 @@
     "goggling",
     "googling",
     "igloo",
+    "lignin",
     "lingo",
     "lining",
     "lion",
@@ -60,6 +61,7 @@
     "lowing",
     "nibbling",
     "niggling",
+    "nonillion",
     "obliging",
     "oblong",
     "ogling",
@@ -78,17 +80,17 @@
     "by_length": {
       "4": 20,
       "5": 5,
-      "6": 10,
+      "6": 11,
       "7": 12,
       "8": 13,
-      "9": 1
+      "9": 2
     },
     "by_first_letter": {
       "B": 20,
       "G": 12,
       "I": 1,
-      "L": 14,
-      "N": 2,
+      "L": 15,
+      "N": 3,
       "O": 5,
       "W": 7
     },
@@ -113,11 +115,12 @@
       "L": {
         "4": 6,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 4
       },
       "N": {
-        "8": 2
+        "8": 2,
+        "9": 1
       },
       "O": {
         "4": 1,
@@ -139,9 +142,10 @@
       "GL": 5,
       "GO": 4,
       "IG": 1,
-      "LI": 3,
+      "LI": 4,
       "LO": 11,
       "NI": 2,
+      "NO": 1,
       "OB": 2,
       "OG": 1,
       "OI": 1,

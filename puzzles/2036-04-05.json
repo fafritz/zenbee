@@ -1,9 +1,9 @@
 {
   "pangram": "lunched",
   "center_letter": "u",
-  "num_answers": 43,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 211,
+  "possible_points": 217,
   "answer_pangrams": [
     "lunched"
   ],
@@ -22,6 +22,7 @@
     "denude",
     "denuded",
     "deuce",
+    "deuced",
     "dude",
     "duded",
     "duel",
@@ -31,9 +32,9 @@
     "dunce",
     "dune",
     "dunned",
+    "educe",
     "elude",
     "eluded",
-    "endue",
     "endued",
     "huddle",
     "huddled",
@@ -57,13 +58,13 @@
     "by_length": {
       "4": 11,
       "5": 10,
-      "6": 13,
+      "6": 14,
       "7": 7,
       "8": 2
     },
     "by_first_letter": {
       "C": 7,
-      "D": 16,
+      "D": 17,
       "E": 4,
       "H": 6,
       "L": 5,
@@ -80,7 +81,7 @@
       "D": {
         "4": 4,
         "5": 3,
-        "6": 6,
+        "6": 7,
         "7": 3
       },
       "E": {
@@ -110,10 +111,11 @@
     "two_letter_list": {
       "CL": 2,
       "CU": 5,
-      "DE": 7,
+      "DE": 8,
       "DU": 9,
+      "ED": 1,
       "EL": 2,
-      "EN": 2,
+      "EN": 1,
       "HU": 6,
       "LU": 5,
       "NU": 1,

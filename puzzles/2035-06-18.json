@@ -1,9 +1,9 @@
 {
   "pangram": "novelty",
   "center_letter": "v",
-  "num_answers": 26,
+  "num_answers": 27,
   "num_pangrams": 1,
-  "possible_points": 118,
+  "possible_points": 125,
   "answer_pangrams": [
     "novelty"
   ],
@@ -17,6 +17,7 @@
     "evolve",
     "levee",
     "level",
+    "levelly",
     "levy",
     "love",
     "lovely",
@@ -41,13 +42,13 @@
       "4": 10,
       "5": 5,
       "6": 6,
-      "7": 2,
+      "7": 3,
       "8": 1,
       "9": 2
     },
     "by_first_letter": {
       "E": 7,
-      "L": 5,
+      "L": 6,
       "N": 4,
       "O": 1,
       "V": 9
@@ -61,7 +62,8 @@
       "L": {
         "4": 2,
         "5": 2,
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "N": {
         "5": 1,
@@ -83,7 +85,7 @@
       "EL": 1,
       "EN": 2,
       "EV": 4,
-      "LE": 3,
+      "LE": 4,
       "LO": 2,
       "NO": 4,
       "OV": 1,

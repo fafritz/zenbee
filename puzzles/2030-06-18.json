@@ -3,7 +3,7 @@
   "center_letter": "u",
   "num_answers": 51,
   "num_pangrams": 1,
-  "possible_points": 235,
+  "possible_points": 231,
   "answer_pangrams": [
     "flunked"
   ],
@@ -26,7 +26,6 @@
     "dunned",
     "elude",
     "eluded",
-    "endue",
     "endued",
     "feud",
     "feuded",
@@ -48,6 +47,7 @@
     "funked",
     "funnel",
     "funneled",
+    "luff",
     "lull",
     "lulled",
     "lulu",
@@ -63,8 +63,8 @@
   "date": "2030-06-18",
   "hints": {
     "by_length": {
-      "4": 17,
-      "5": 8,
+      "4": 18,
+      "5": 7,
       "6": 16,
       "7": 7,
       "8": 2,
@@ -72,9 +72,9 @@
     },
     "by_first_letter": {
       "D": 16,
-      "E": 4,
+      "E": 3,
       "F": 20,
-      "L": 3,
+      "L": 4,
       "N": 4,
       "U": 4
     },
@@ -86,7 +86,7 @@
         "7": 2
       },
       "E": {
-        "5": 2,
+        "5": 1,
         "6": 2
       },
       "F": {
@@ -97,7 +97,7 @@
         "8": 1
       },
       "L": {
-        "4": 2,
+        "4": 3,
         "6": 1
       },
       "N": {
@@ -116,11 +116,11 @@
       "DE": 4,
       "DU": 12,
       "EL": 2,
-      "EN": 2,
+      "EN": 1,
       "FE": 2,
       "FL": 6,
       "FU": 12,
-      "LU": 3,
+      "LU": 4,
       "NE": 1,
       "NU": 3,
       "UK": 1,

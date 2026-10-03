@@ -1,9 +1,9 @@
 {
   "pangram": "quaking",
   "center_letter": "g",
-  "num_answers": 21,
+  "num_answers": 22,
   "num_pangrams": 1,
-  "possible_points": 121,
+  "possible_points": 122,
   "answer_pangrams": [
     "quaking"
   ],
@@ -11,6 +11,7 @@
     "again",
     "aging",
     "angina",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -33,14 +34,14 @@
   "date": "2035-02-08",
   "hints": {
     "by_length": {
-      "4": 4,
+      "4": 5,
       "5": 2,
       "6": 5,
       "7": 10
     },
     "by_first_letter": {
       "A": 3,
-      "G": 10,
+      "G": 11,
       "I": 3,
       "K": 2,
       "N": 2,
@@ -52,7 +53,7 @@
         "6": 1
       },
       "G": {
-        "4": 3,
+        "4": 4,
         "7": 7
       },
       "I": {
@@ -73,7 +74,7 @@
     "two_letter_list": {
       "AG": 2,
       "AN": 1,
-      "GA": 6,
+      "GA": 7,
       "GI": 2,
       "GU": 2,
       "IG": 1,

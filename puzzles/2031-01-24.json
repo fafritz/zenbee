@@ -1,9 +1,9 @@
 {
   "pangram": "carping",
   "center_letter": "g",
-  "num_answers": 76,
+  "num_answers": 79,
   "num_pangrams": 2,
-  "possible_points": 452,
+  "possible_points": 470,
   "answer_pangrams": [
     "carping",
     "prancing"
@@ -31,6 +31,7 @@
     "crag",
     "craning",
     "cringing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -48,6 +49,8 @@
     "griping",
     "gripping",
     "icing",
+    "ingrain",
+    "ingraining",
     "inning",
     "nagging",
     "napping",
@@ -89,19 +92,19 @@
   "date": "2031-01-24",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 13,
       "5": 8,
       "6": 17,
-      "7": 31,
+      "7": 32,
       "8": 6,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 12,
       "C": 10,
-      "G": 16,
-      "I": 2,
+      "G": 17,
+      "I": 4,
       "N": 3,
       "P": 19,
       "R": 14
@@ -124,7 +127,7 @@
         "8": 1
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "5": 1,
         "6": 1,
         "7": 7,
@@ -132,7 +135,9 @@
       },
       "I": {
         "5": 1,
-        "6": 1
+        "6": 1,
+        "7": 1,
+        "10": 1
       },
       "N": {
         "7": 3
@@ -160,11 +165,11 @@
       "CA": 6,
       "CI": 1,
       "CR": 3,
-      "GA": 7,
+      "GA": 8,
       "GI": 2,
       "GR": 7,
       "IC": 1,
-      "IN": 1,
+      "IN": 3,
       "NA": 2,
       "NI": 1,
       "PA": 9,

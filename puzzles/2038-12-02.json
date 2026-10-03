@@ -1,9 +1,9 @@
 {
   "pangram": "puritan",
   "center_letter": "p",
-  "num_answers": 30,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 105,
+  "possible_points": 116,
   "answer_pangrams": [
     "puritan"
   ],
@@ -14,10 +14,12 @@
     "pain",
     "paint",
     "pair",
+    "panini",
     "pant",
     "papa",
     "part",
     "patina",
+    "pinna",
     "pint",
     "pinup",
     "pipit",
@@ -43,14 +45,14 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 9,
-      "6": 4,
+      "5": 10,
+      "6": 5,
       "7": 2
     },
     "by_first_letter": {
       "A": 1,
       "I": 2,
-      "P": 18,
+      "P": 20,
       "R": 2,
       "T": 5,
       "U": 2
@@ -64,8 +66,8 @@
       },
       "P": {
         "4": 11,
-        "5": 4,
-        "6": 2,
+        "5": 5,
+        "6": 3,
         "7": 1
       },
       "R": {
@@ -85,8 +87,8 @@
     "two_letter_list": {
       "AP": 1,
       "IN": 2,
-      "PA": 7,
-      "PI": 5,
+      "PA": 8,
+      "PI": 6,
       "PR": 1,
       "PU": 5,
       "RA": 2,

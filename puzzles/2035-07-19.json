@@ -1,9 +1,9 @@
 {
   "pangram": "blanked",
   "center_letter": "l",
-  "num_answers": 74,
+  "num_answers": 76,
   "num_pangrams": 1,
-  "possible_points": 328,
+  "possible_points": 339,
   "answer_pangrams": [
     "blanked"
   ],
@@ -11,7 +11,7 @@
     "able",
     "addle",
     "addled",
-    "anal",
+    "allele",
     "ankle",
     "anneal",
     "annealed",
@@ -50,6 +50,7 @@
     "dandled",
     "deal",
     "dell",
+    "eeled",
     "elan",
     "enable",
     "enabled",
@@ -78,6 +79,7 @@
     "leaked",
     "lean",
     "leaned",
+    "lede",
     "leek",
     "lend",
     "needle",
@@ -87,8 +89,8 @@
   "hints": {
     "by_length": {
       "4": 24,
-      "5": 17,
-      "6": 21,
+      "5": 18,
+      "6": 22,
       "7": 10,
       "8": 2
     },
@@ -96,16 +98,16 @@
       "A": 7,
       "B": 28,
       "D": 7,
-      "E": 3,
+      "E": 4,
       "K": 8,
-      "L": 19,
+      "L": 20,
       "N": 2
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "8": 1
       },
       "B": {
@@ -121,6 +123,7 @@
       },
       "E": {
         "4": 1,
+        "5": 1,
         "6": 1,
         "7": 1
       },
@@ -132,7 +135,7 @@
         "8": 1
       },
       "L": {
-        "4": 9,
+        "4": 10,
         "5": 3,
         "6": 6,
         "7": 1
@@ -145,19 +148,21 @@
     "two_letter_list": {
       "AB": 1,
       "AD": 2,
-      "AN": 4,
+      "AL": 1,
+      "AN": 3,
       "BA": 14,
       "BE": 3,
       "BL": 11,
       "DA": 5,
       "DE": 2,
+      "EE": 1,
       "EL": 1,
       "EN": 2,
       "KA": 1,
       "KE": 4,
       "KN": 3,
       "LA": 10,
-      "LE": 9,
+      "LE": 10,
       "NE": 2
     }
   }

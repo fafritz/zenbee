@@ -1,9 +1,9 @@
 {
   "pangram": "truancy",
   "center_letter": "c",
-  "num_answers": 29,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 142,
+  "possible_points": 141,
   "answer_pangrams": [
     "truancy"
   ],
@@ -23,7 +23,6 @@
     "cataract",
     "catty",
     "cranny",
-    "cray",
     "curacy",
     "currant",
     "curry",
@@ -41,7 +40,7 @@
   "date": "2027-05-14",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 7,
       "5": 9,
       "6": 4,
       "7": 6,
@@ -49,7 +48,7 @@
     },
     "by_first_letter": {
       "A": 3,
-      "C": 18,
+      "C": 17,
       "N": 1,
       "R": 1,
       "T": 3,
@@ -62,7 +61,7 @@
         "8": 1
       },
       "C": {
-        "4": 5,
+        "4": 4,
         "5": 6,
         "6": 4,
         "7": 2,
@@ -91,7 +90,7 @@
       "AC": 2,
       "AT": 1,
       "CA": 11,
-      "CR": 2,
+      "CR": 1,
       "CU": 4,
       "CY": 1,
       "NA": 1,

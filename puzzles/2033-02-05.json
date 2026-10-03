@@ -1,9 +1,9 @@
 {
   "pangram": "cleanup",
   "center_letter": "c",
-  "num_answers": 39,
+  "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 180,
+  "possible_points": 174,
   "answer_pangrams": [
     "cleanup"
   ],
@@ -14,7 +14,6 @@
     "call",
     "calla",
     "canal",
-    "canape",
     "canape",
     "cancan",
     "cancel",
@@ -53,12 +52,12 @@
     "by_length": {
       "4": 11,
       "5": 12,
-      "6": 10,
+      "6": 9,
       "7": 6
     },
     "by_first_letter": {
       "A": 3,
-      "C": 19,
+      "C": 18,
       "L": 4,
       "N": 1,
       "P": 8,
@@ -73,7 +72,7 @@
       "C": {
         "4": 8,
         "5": 4,
-        "6": 5,
+        "6": 4,
         "7": 2
       },
       "L": {
@@ -101,7 +100,7 @@
       "AC": 1,
       "AL": 1,
       "AP": 1,
-      "CA": 12,
+      "CA": 11,
       "CE": 1,
       "CL": 5,
       "CU": 1,

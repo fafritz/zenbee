@@ -1,9 +1,9 @@
 {
   "pangram": "echoing",
   "center_letter": "c",
-  "num_answers": 34,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 170,
+  "possible_points": 188,
   "answer_pangrams": [
     "echoing"
   ],
@@ -19,6 +19,7 @@
     "cocci",
     "cocoon",
     "cocooning",
+    "cogging",
     "coin",
     "coining",
     "conch",
@@ -33,9 +34,11 @@
     "hooch",
     "icing",
     "icon",
+    "iconic",
     "inch",
     "inching",
     "innocence",
+    "ionic",
     "neocon",
     "nice",
     "niche",
@@ -47,17 +50,17 @@
   "hints": {
     "by_length": {
       "4": 9,
-      "5": 11,
-      "6": 5,
-      "7": 5,
+      "5": 12,
+      "6": 6,
+      "7": 6,
       "8": 2,
       "9": 2
     },
     "by_first_letter": {
-      "C": 18,
+      "C": 19,
       "E": 2,
       "H": 3,
-      "I": 5,
+      "I": 7,
       "N": 5,
       "O": 1
     },
@@ -66,7 +69,7 @@
         "4": 4,
         "5": 5,
         "6": 3,
-        "7": 3,
+        "7": 4,
         "8": 2,
         "9": 1
       },
@@ -80,7 +83,8 @@
       },
       "I": {
         "4": 2,
-        "5": 1,
+        "5": 2,
+        "6": 1,
         "7": 1,
         "9": 1
       },
@@ -96,12 +100,13 @@
     "two_letter_list": {
       "CH": 6,
       "CI": 2,
-      "CO": 10,
+      "CO": 11,
       "EC": 2,
       "HE": 1,
       "HO": 2,
-      "IC": 2,
+      "IC": 3,
       "IN": 3,
+      "IO": 1,
       "NE": 1,
       "NI": 3,
       "NO": 1,

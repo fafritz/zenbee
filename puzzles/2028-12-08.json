@@ -1,9 +1,9 @@
 {
   "pangram": "buoyant",
   "center_letter": "t",
-  "num_answers": 36,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 135,
+  "possible_points": 142,
   "answer_pangrams": [
     "buoyant"
   ],
@@ -11,6 +11,7 @@
     "abbot",
     "about",
     "abut",
+    "annatto",
     "aunt",
     "auto",
     "baton",
@@ -51,11 +52,11 @@
       "4": 16,
       "5": 12,
       "6": 5,
-      "7": 2,
+      "7": 3,
       "8": 1
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 6,
       "B": 12,
       "N": 3,
       "O": 1,
@@ -65,7 +66,8 @@
     "grid": {
       "A": {
         "4": 3,
-        "5": 2
+        "5": 2,
+        "7": 1
       },
       "B": {
         "4": 4,
@@ -91,6 +93,7 @@
     },
     "two_letter_list": {
       "AB": 3,
+      "AN": 1,
       "AU": 2,
       "BA": 2,
       "BO": 6,

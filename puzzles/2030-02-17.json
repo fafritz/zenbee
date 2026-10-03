@@ -1,9 +1,9 @@
 {
   "pangram": "racking",
   "center_letter": "r",
-  "num_answers": 50,
+  "num_answers": 52,
   "num_pangrams": 3,
-  "possible_points": 280,
+  "possible_points": 297,
   "answer_pangrams": [
     "cracking",
     "cranking",
@@ -37,6 +37,8 @@
     "grain",
     "grin",
     "grinning",
+    "ingrain",
+    "ingraining",
     "irking",
     "narc",
     "racing",
@@ -67,16 +69,16 @@
       "4": 13,
       "5": 8,
       "6": 9,
-      "7": 11,
+      "7": 12,
       "8": 7,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 8,
       "C": 14,
       "G": 5,
-      "I": 1,
+      "I": 3,
       "N": 1,
       "R": 21
     },
@@ -103,7 +105,9 @@
         "8": 2
       },
       "I": {
-        "6": 1
+        "6": 1,
+        "7": 1,
+        "10": 1
       },
       "N": {
         "4": 1
@@ -123,6 +127,7 @@
       "CR": 9,
       "GA": 1,
       "GR": 4,
+      "IN": 2,
       "IR": 1,
       "NA": 1,
       "RA": 14,

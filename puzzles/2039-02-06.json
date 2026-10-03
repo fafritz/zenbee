@@ -1,9 +1,9 @@
 {
   "pangram": "bracing",
   "center_letter": "b",
-  "num_answers": 48,
+  "num_answers": 51,
   "num_pangrams": 2,
-  "possible_points": 283,
+  "possible_points": 305,
   "answer_pangrams": [
     "bracing",
     "crabbing"
@@ -28,6 +28,7 @@
     "barn",
     "barraging",
     "barring",
+    "binging",
     "binning",
     "bracing",
     "brag",
@@ -40,9 +41,11 @@
     "brig",
     "bring",
     "bringing",
+    "brining",
     "cabana",
     "cabbing",
     "cabin",
+    "cabining",
     "cinnabar",
     "crab",
     "crabbing",
@@ -64,15 +67,15 @@
       "4": 11,
       "5": 5,
       "6": 6,
-      "7": 15,
-      "8": 8,
+      "7": 17,
+      "8": 9,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 1,
-      "B": 30,
-      "C": 8,
+      "B": 32,
+      "C": 9,
       "G": 6,
       "N": 1,
       "R": 2
@@ -85,7 +88,7 @@
         "4": 7,
         "5": 3,
         "6": 3,
-        "7": 10,
+        "7": 12,
         "8": 4,
         "9": 2,
         "10": 1
@@ -95,7 +98,7 @@
         "5": 1,
         "6": 1,
         "7": 1,
-        "8": 3
+        "8": 4
       },
       "G": {
         "4": 2,
@@ -114,9 +117,9 @@
     "two_letter_list": {
       "AI": 1,
       "BA": 18,
-      "BI": 1,
-      "BR": 11,
-      "CA": 3,
+      "BI": 2,
+      "BR": 12,
+      "CA": 4,
       "CI": 1,
       "CR": 4,
       "GA": 3,

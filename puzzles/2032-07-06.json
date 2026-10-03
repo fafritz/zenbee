@@ -1,9 +1,9 @@
 {
   "pangram": "hotlink",
   "center_letter": "i",
-  "num_answers": 30,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 77,
+  "possible_points": 87,
   "answer_pangrams": [
     "hotlink"
   ],
@@ -27,12 +27,14 @@
     "loin",
     "lotion",
     "ninth",
+    "nonillion",
     "notion",
     "oink",
     "olio",
     "onion",
     "thin",
     "think",
+    "tiki",
     "till",
     "tilt",
     "tint",
@@ -42,19 +44,20 @@
   "date": "2032-07-06",
   "hints": {
     "by_length": {
-      "4": 22,
+      "4": 23,
       "5": 3,
       "6": 2,
-      "7": 3
+      "7": 3,
+      "9": 1
     },
     "by_first_letter": {
       "H": 4,
       "I": 1,
       "K": 7,
       "L": 6,
-      "N": 2,
+      "N": 3,
       "O": 3,
-      "T": 7
+      "T": 8
     },
     "grid": {
       "H": {
@@ -74,14 +77,15 @@
       },
       "N": {
         "5": 1,
-        "6": 1
+        "6": 1,
+        "9": 1
       },
       "O": {
         "4": 2,
         "5": 1
       },
       "T": {
-        "4": 5,
+        "4": 6,
         "5": 1,
         "7": 1
       }
@@ -95,12 +99,12 @@
       "LI": 4,
       "LO": 2,
       "NI": 1,
-      "NO": 1,
+      "NO": 2,
       "OI": 1,
       "OL": 1,
       "ON": 1,
       "TH": 2,
-      "TI": 3,
+      "TI": 4,
       "TO": 2
     }
   }

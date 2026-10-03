@@ -1,9 +1,9 @@
 {
   "pangram": "harming",
   "center_letter": "i",
-  "num_answers": 71,
+  "num_answers": 73,
   "num_pangrams": 1,
-  "possible_points": 404,
+  "possible_points": 429,
   "answer_pangrams": [
     "harming"
   ],
@@ -41,12 +41,13 @@
     "haring",
     "harming",
     "high",
-    "hing",
     "hinging",
     "hiring",
     "imaging",
     "imagining",
     "imam",
+    "ingrain",
+    "ingraining",
     "inning",
     "maharani",
     "maim",
@@ -56,6 +57,7 @@
     "mania",
     "manning",
     "margin",
+    "margining",
     "maria",
     "marina",
     "marring",
@@ -83,20 +85,20 @@
   "date": "2030-05-12",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 13,
       "5": 6,
       "6": 19,
-      "7": 23,
+      "7": 24,
       "8": 5,
-      "9": 2,
-      "10": 2
+      "9": 3,
+      "10": 3
     },
     "by_first_letter": {
       "A": 12,
       "G": 15,
-      "H": 9,
-      "I": 4,
-      "M": 17,
+      "H": 8,
+      "I": 6,
+      "M": 18,
       "N": 3,
       "R": 11
     },
@@ -119,22 +121,24 @@
         "10": 1
       },
       "H": {
-        "4": 3,
+        "4": 2,
         "6": 2,
         "7": 4
       },
       "I": {
         "4": 1,
         "6": 1,
-        "7": 1,
-        "9": 1
+        "7": 2,
+        "9": 1,
+        "10": 1
       },
       "M": {
         "4": 3,
         "5": 3,
         "6": 6,
         "7": 3,
-        "8": 2
+        "8": 2,
+        "9": 1
       },
       "N": {
         "4": 1,
@@ -156,10 +160,10 @@
       "GI": 3,
       "GR": 6,
       "HA": 5,
-      "HI": 4,
+      "HI": 3,
       "IM": 3,
-      "IN": 1,
-      "MA": 11,
+      "IN": 3,
+      "MA": 12,
       "MI": 6,
       "NA": 2,
       "NI": 1,

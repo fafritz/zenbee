@@ -1,9 +1,9 @@
 {
   "pangram": "placing",
   "center_letter": "g",
-  "num_answers": 74,
+  "num_answers": 77,
   "num_pangrams": 2,
-  "possible_points": 470,
+  "possible_points": 485,
   "answer_pangrams": [
     "clapping",
     "placing"
@@ -32,10 +32,12 @@
     "cling",
     "clinging",
     "clipping",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -56,6 +58,7 @@
     "lagging",
     "lancing",
     "lapping",
+    "lignin",
     "lining",
     "nagging",
     "nailing",
@@ -87,19 +90,19 @@
   "date": "2038-10-03",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 9,
       "5": 9,
-      "6": 14,
+      "6": 15,
       "7": 29,
-      "8": 10,
+      "8": 11,
       "9": 4
     },
     "by_first_letter": {
       "A": 11,
       "C": 12,
-      "G": 17,
+      "G": 19,
       "I": 3,
-      "L": 5,
+      "L": 6,
       "N": 5,
       "P": 21
     },
@@ -120,10 +123,10 @@
         "9": 1
       },
       "G": {
-        "4": 5,
+        "4": 6,
         "6": 1,
         "7": 8,
-        "8": 3
+        "8": 4
       },
       "I": {
         "5": 1,
@@ -131,7 +134,7 @@
         "9": 1
       },
       "L": {
-        "6": 2,
+        "6": 3,
         "7": 3
       },
       "N": {
@@ -156,13 +159,13 @@
       "AP": 2,
       "CA": 6,
       "CL": 6,
-      "GA": 11,
+      "GA": 13,
       "GI": 4,
       "GL": 2,
       "IC": 1,
       "IN": 2,
       "LA": 4,
-      "LI": 1,
+      "LI": 2,
       "NA": 3,
       "NI": 2,
       "PA": 8,

@@ -1,7 +1,7 @@
 {
   "pangram": "truancy",
   "center_letter": "t",
-  "num_answers": 38,
+  "num_answers": 39,
   "num_pangrams": 1,
   "possible_points": 164,
   "answer_pangrams": [
@@ -25,11 +25,12 @@
     "natty",
     "nutty",
     "rant",
-    "ratatat",
     "rattan",
     "ratty",
     "runt",
     "tact",
+    "tantra",
+    "tarn",
     "tart",
     "tartan",
     "tartar",
@@ -50,18 +51,18 @@
   "date": "2027-07-30",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 15,
       "5": 10,
-      "6": 6,
-      "7": 7,
+      "6": 7,
+      "7": 6,
       "8": 1
     },
     "by_first_letter": {
       "A": 6,
       "C": 8,
       "N": 2,
-      "R": 5,
-      "T": 16,
+      "R": 4,
+      "T": 18,
       "U": 1
     },
     "grid": {
@@ -83,13 +84,12 @@
       "R": {
         "4": 2,
         "5": 1,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
-        "4": 7,
+        "4": 8,
         "5": 3,
-        "6": 4,
+        "6": 5,
         "7": 2
       },
       "U": {
@@ -105,9 +105,9 @@
       "CU": 2,
       "NA": 1,
       "NU": 1,
-      "RA": 4,
+      "RA": 3,
       "RU": 1,
-      "TA": 7,
+      "TA": 9,
       "TR": 4,
       "TU": 3,
       "TY": 2,

@@ -1,15 +1,16 @@
 {
   "pangram": "bucking",
   "center_letter": "n",
-  "num_answers": 27,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 149,
+  "possible_points": 156,
   "answer_pangrams": [
     "bucking"
   ],
   "answers": [
     "biking",
     "bikini",
+    "binging",
     "binning",
     "bucking",
     "bugging",
@@ -42,10 +43,10 @@
       "4": 6,
       "5": 2,
       "6": 7,
-      "7": 12
+      "7": 13
     },
     "by_first_letter": {
-      "B": 9,
+      "B": 10,
       "C": 3,
       "G": 5,
       "I": 3,
@@ -56,7 +57,7 @@
       "B": {
         "4": 2,
         "6": 2,
-        "7": 5
+        "7": 6
       },
       "C": {
         "5": 1,
@@ -83,7 +84,7 @@
       }
     },
     "two_letter_list": {
-      "BI": 3,
+      "BI": 4,
       "BU": 6,
       "CU": 3,
       "GI": 3,

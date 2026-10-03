@@ -1,9 +1,9 @@
 {
   "pangram": "lucking",
   "center_letter": "g",
-  "num_answers": 43,
+  "num_answers": 45,
   "num_pangrams": 4,
-  "possible_points": 295,
+  "possible_points": 307,
   "answer_pangrams": [
     "clucking",
     "clunking",
@@ -43,11 +43,13 @@
     "kinking",
     "knuckling",
     "licking",
+    "lignin",
     "liking",
     "lining",
     "linking",
     "lucking",
     "lugging",
+    "luging",
     "lulling",
     "lung",
     "lunging",
@@ -60,7 +62,7 @@
     "by_length": {
       "4": 5,
       "5": 4,
-      "6": 7,
+      "6": 9,
       "7": 18,
       "8": 7,
       "9": 2
@@ -70,7 +72,7 @@
       "G": 9,
       "I": 5,
       "K": 6,
-      "L": 9,
+      "L": 11,
       "N": 3
     },
     "grid": {
@@ -99,7 +101,7 @@
       },
       "L": {
         "4": 1,
-        "6": 2,
+        "6": 4,
         "7": 6
       },
       "N": {
@@ -118,8 +120,8 @@
       "IN": 4,
       "KI": 5,
       "KN": 1,
-      "LI": 4,
-      "LU": 5,
+      "LI": 5,
+      "LU": 6,
       "NI": 2,
       "NU": 1
     }

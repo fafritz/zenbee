@@ -1,9 +1,9 @@
 {
   "pangram": "roaming",
   "center_letter": "o",
-  "num_answers": 72,
+  "num_answers": 75,
   "num_pangrams": 4,
-  "possible_points": 392,
+  "possible_points": 400,
   "answer_pangrams": [
     "armoring",
     "marooning",
@@ -27,9 +27,9 @@
     "going",
     "gong",
     "gonging",
-    "gonna",
     "goon",
     "gorging",
+    "gorgon",
     "goring",
     "groan",
     "groaning",
@@ -66,7 +66,9 @@
     "morning",
     "moron",
     "noggin",
+    "noir",
     "noon",
+    "nori",
     "norm",
     "oaring",
     "ongoing",
@@ -81,15 +83,16 @@
     "roar",
     "roaring",
     "roman",
+    "ronin",
     "room",
     "rooming"
   ],
   "date": "2034-08-20",
   "hints": {
     "by_length": {
-      "4": 18,
+      "4": 20,
       "5": 21,
-      "6": 9,
+      "6": 10,
       "7": 13,
       "8": 6,
       "9": 4,
@@ -100,9 +103,9 @@
       "G": 13,
       "I": 3,
       "M": 25,
-      "N": 3,
+      "N": 5,
       "O": 6,
-      "R": 9
+      "R": 10
     },
     "grid": {
       "A": {
@@ -114,8 +117,8 @@
       },
       "G": {
         "4": 3,
-        "5": 5,
-        "6": 1,
+        "5": 4,
+        "6": 2,
         "7": 2,
         "8": 2
       },
@@ -134,7 +137,7 @@
         "12": 1
       },
       "N": {
-        "4": 2,
+        "4": 4,
         "6": 1
       },
       "O": {
@@ -144,7 +147,7 @@
       },
       "R": {
         "4": 4,
-        "5": 2,
+        "5": 3,
         "7": 3
       }
     },
@@ -160,12 +163,12 @@
       "MA": 5,
       "MI": 5,
       "MO": 15,
-      "NO": 3,
+      "NO": 5,
       "OA": 1,
       "ON": 2,
       "OR": 3,
       "RI": 1,
-      "RO": 8
+      "RO": 9
     }
   }
 }

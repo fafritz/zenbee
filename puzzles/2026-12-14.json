@@ -1,15 +1,16 @@
 {
   "pangram": "notepad",
   "center_letter": "o",
-  "num_answers": 74,
+  "num_answers": 76,
   "num_pangrams": 1,
-  "possible_points": 328,
+  "possible_points": 341,
   "answer_pangrams": [
     "notepad"
   ],
   "answers": [
     "adopt",
     "adopted",
+    "annatto",
     "annotate",
     "annotated",
     "anode",
@@ -41,6 +42,7 @@
     "none",
     "noon",
     "nope",
+    "notate",
     "note",
     "noted",
     "notepad",
@@ -88,15 +90,15 @@
     "by_length": {
       "4": 27,
       "5": 12,
-      "6": 21,
-      "7": 7,
+      "6": 22,
+      "7": 8,
       "8": 4,
       "9": 3
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 10,
       "D": 17,
-      "N": 10,
+      "N": 11,
       "O": 6,
       "P": 15,
       "T": 17
@@ -106,7 +108,7 @@
         "4": 2,
         "5": 3,
         "6": 1,
-        "7": 1,
+        "7": 2,
         "8": 1,
         "9": 1
       },
@@ -121,7 +123,7 @@
       "N": {
         "4": 6,
         "5": 1,
-        "6": 1,
+        "6": 2,
         "7": 2
       },
       "O": {
@@ -146,13 +148,13 @@
     },
     "two_letter_list": {
       "AD": 2,
-      "AN": 4,
+      "AN": 5,
       "AT": 3,
       "DA": 1,
       "DE": 5,
       "DO": 11,
       "NE": 2,
-      "NO": 8,
+      "NO": 9,
       "OA": 1,
       "ON": 1,
       "OP": 4,

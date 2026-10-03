@@ -1,9 +1,9 @@
 {
   "pangram": "clinked",
   "center_letter": "i",
-  "num_answers": 74,
+  "num_answers": 76,
   "num_pangrams": 1,
-  "possible_points": 334,
+  "possible_points": 348,
   "answer_pangrams": [
     "clinked"
   ],
@@ -15,6 +15,7 @@
     "clinked",
     "decide",
     "decided",
+    "decile",
     "decline",
     "declined",
     "deice",
@@ -58,6 +59,7 @@
     "kindled",
     "kink",
     "kinked",
+    "lenience",
     "lice",
     "lick",
     "licked",
@@ -88,18 +90,18 @@
     "by_length": {
       "4": 24,
       "5": 14,
-      "6": 24,
+      "6": 25,
       "7": 8,
-      "8": 3,
+      "8": 4,
       "9": 1
     },
     "by_first_letter": {
       "C": 5,
-      "D": 20,
+      "D": 21,
       "E": 3,
       "I": 10,
       "K": 12,
-      "L": 16,
+      "L": 17,
       "N": 8
     },
     "grid": {
@@ -111,7 +113,7 @@
       "D": {
         "4": 7,
         "5": 4,
-        "6": 5,
+        "6": 6,
         "7": 3,
         "8": 1
       },
@@ -136,7 +138,8 @@
         "4": 7,
         "5": 4,
         "6": 4,
-        "7": 1
+        "7": 1,
+        "8": 1
       },
       "N": {
         "4": 3,
@@ -147,7 +150,7 @@
     },
     "two_letter_list": {
       "CL": 5,
-      "DE": 8,
+      "DE": 9,
       "DI": 12,
       "ED": 1,
       "EL": 2,
@@ -155,6 +158,7 @@
       "ID": 2,
       "IN": 6,
       "KI": 12,
+      "LE": 1,
       "LI": 16,
       "NE": 1,
       "NI": 7

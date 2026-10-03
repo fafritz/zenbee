@@ -1,9 +1,9 @@
 {
   "pangram": "fluxing",
   "center_letter": "u",
-  "num_answers": 24,
+  "num_answers": 27,
   "num_pangrams": 1,
-  "possible_points": 117,
+  "possible_points": 130,
   "answer_pangrams": [
     "fluxing"
   ],
@@ -25,7 +25,10 @@
     "gulling",
     "gunning",
     "influx",
+    "inulin",
+    "luff",
     "lugging",
+    "luging",
     "lull",
     "lulling",
     "lulu",
@@ -36,9 +39,9 @@
   "date": "2032-12-29",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 10,
       "5": 3,
-      "6": 2,
+      "6": 4,
       "7": 8,
       "8": 1,
       "10": 1
@@ -46,8 +49,8 @@
     "by_first_letter": {
       "F": 10,
       "G": 6,
-      "I": 1,
-      "L": 6,
+      "I": 2,
+      "L": 8,
       "N": 1
     },
     "grid": {
@@ -64,10 +67,11 @@
         "7": 2
       },
       "I": {
-        "6": 1
+        "6": 2
       },
       "L": {
-        "4": 3,
+        "4": 4,
+        "6": 1,
         "7": 3
       },
       "N": {
@@ -79,8 +83,8 @@
       "FU": 5,
       "GL": 1,
       "GU": 5,
-      "IN": 1,
-      "LU": 6,
+      "IN": 2,
+      "LU": 8,
       "NU": 1
     }
   }

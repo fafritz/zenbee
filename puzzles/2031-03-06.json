@@ -3,7 +3,7 @@
   "center_letter": "i",
   "num_answers": 64,
   "num_pangrams": 2,
-  "possible_points": 294,
+  "possible_points": 299,
   "answer_pangrams": [
     "implode",
     "imploded"
@@ -35,7 +35,6 @@
     "implied",
     "implode",
     "imploded",
-    "ipod",
     "lidded",
     "lied",
     "lime",
@@ -45,6 +44,7 @@
     "limped",
     "limpid",
     "lipid",
+    "lipped",
     "lollipop",
     "middle",
     "mild",
@@ -77,9 +77,9 @@
   "date": "2031-03-06",
   "hints": {
     "by_length": {
-      "4": 21,
+      "4": 20,
       "5": 14,
-      "6": 19,
+      "6": 20,
       "7": 6,
       "8": 3,
       "9": 1
@@ -87,8 +87,8 @@
     "by_first_letter": {
       "D": 12,
       "E": 3,
-      "I": 12,
-      "L": 10,
+      "I": 11,
+      "L": 11,
       "M": 8,
       "O": 4,
       "P": 15
@@ -105,7 +105,7 @@
         "6": 2
       },
       "I": {
-        "4": 3,
+        "4": 2,
         "5": 3,
         "6": 1,
         "7": 3,
@@ -114,7 +114,7 @@
       "L": {
         "4": 4,
         "5": 2,
-        "6": 3,
+        "6": 4,
         "8": 1
       },
       "M": {
@@ -142,8 +142,7 @@
       "EL": 2,
       "ID": 4,
       "IM": 7,
-      "IP": 1,
-      "LI": 9,
+      "LI": 10,
       "LO": 1,
       "MI": 8,
       "OI": 1,

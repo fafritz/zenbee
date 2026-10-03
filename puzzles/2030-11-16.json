@@ -1,16 +1,15 @@
 {
   "pangram": "laundry",
   "center_letter": "a",
-  "num_answers": 37,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 145,
+  "possible_points": 144,
   "answer_pangrams": [
     "laundry"
   ],
   "answers": [
     "allay",
     "ally",
-    "anal",
     "annual",
     "annually",
     "annul",
@@ -49,14 +48,14 @@
   "date": "2030-11-16",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 15,
       "5": 13,
       "6": 1,
       "7": 5,
       "8": 2
     },
     "by_first_letter": {
-      "A": 11,
+      "A": 10,
       "D": 8,
       "L": 9,
       "N": 3,
@@ -66,7 +65,7 @@
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 4,
         "6": 1,
         "7": 2,
@@ -99,7 +98,7 @@
     },
     "two_letter_list": {
       "AL": 2,
-      "AN": 5,
+      "AN": 4,
       "AR": 1,
       "AU": 3,
       "DA": 4,

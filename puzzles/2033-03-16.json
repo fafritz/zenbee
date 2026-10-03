@@ -1,14 +1,15 @@
 {
   "pangram": "opulent",
   "center_letter": "o",
-  "num_answers": 53,
+  "num_answers": 54,
   "num_pangrams": 1,
-  "possible_points": 143,
+  "possible_points": 148,
   "answer_pangrams": [
     "opulent"
   ],
   "answers": [
     "elope",
+    "elote",
     "loll",
     "lone",
     "loon",
@@ -66,13 +67,13 @@
   "hints": {
     "by_length": {
       "4": 37,
-      "5": 3,
+      "5": 4,
       "6": 8,
       "7": 4,
       "8": 1
     },
     "by_first_letter": {
-      "E": 1,
+      "E": 2,
       "L": 8,
       "N": 7,
       "O": 7,
@@ -82,7 +83,7 @@
     },
     "grid": {
       "E": {
-        "5": 1
+        "5": 2
       },
       "L": {
         "4": 7,
@@ -112,7 +113,7 @@
       }
     },
     "two_letter_list": {
-      "EL": 1,
+      "EL": 2,
       "LO": 8,
       "NE": 1,
       "NO": 6,

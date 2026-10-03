@@ -1,16 +1,15 @@
 {
   "pangram": "wetland",
   "center_letter": "n",
-  "num_answers": 79,
+  "num_answers": 80,
   "num_pangrams": 1,
-  "possible_points": 362,
+  "possible_points": 374,
   "answer_pangrams": [
     "wetland"
   ],
   "answers": [
     "addend",
     "addenda",
-    "anal",
     "andante",
     "anew",
     "anneal",
@@ -34,6 +33,7 @@
     "dent",
     "dental",
     "dented",
+    "detent",
     "detente",
     "eaten",
     "elan",
@@ -43,6 +43,7 @@
     "land",
     "landed",
     "lane",
+    "lantana",
     "latent",
     "lawn",
     "leaden",
@@ -54,6 +55,7 @@
     "nana",
     "natal",
     "neat",
+    "neaten",
     "need",
     "needed",
     "needle",
@@ -68,7 +70,6 @@
     "talented",
     "tanned",
     "teen",
-    "telnet",
     "tenant",
     "tenanted",
     "tend",
@@ -91,25 +92,25 @@
   "date": "2036-02-27",
   "hints": {
     "by_length": {
-      "4": 28,
+      "4": 27,
       "5": 8,
-      "6": 25,
-      "7": 9,
+      "6": 26,
+      "7": 10,
       "8": 7,
       "9": 2
     },
     "by_first_letter": {
-      "A": 16,
-      "D": 11,
+      "A": 15,
+      "D": 12,
       "E": 4,
-      "L": 11,
-      "N": 14,
-      "T": 12,
+      "L": 12,
+      "N": 15,
+      "T": 11,
       "W": 11
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 1,
         "6": 3,
         "7": 3,
@@ -118,7 +119,7 @@
       },
       "D": {
         "4": 3,
-        "6": 5,
+        "6": 6,
         "7": 2,
         "8": 1
       },
@@ -130,18 +131,19 @@
       "L": {
         "4": 6,
         "5": 1,
-        "6": 4
+        "6": 4,
+        "7": 1
       },
       "N": {
         "4": 6,
         "5": 2,
-        "6": 4,
+        "6": 5,
         "7": 2
       },
       "T": {
         "4": 3,
         "5": 1,
-        "6": 6,
+        "6": 5,
         "8": 2
       },
       "W": {
@@ -153,19 +155,19 @@
     },
     "two_letter_list": {
       "AD": 2,
-      "AN": 11,
+      "AN": 10,
       "AT": 3,
       "DA": 4,
-      "DE": 7,
+      "DE": 8,
       "EA": 1,
       "EL": 1,
       "EN": 2,
-      "LA": 6,
+      "LA": 7,
       "LE": 5,
       "NA": 3,
-      "NE": 11,
+      "NE": 12,
       "TA": 3,
-      "TE": 9,
+      "TE": 8,
       "WA": 5,
       "WE": 6
     }

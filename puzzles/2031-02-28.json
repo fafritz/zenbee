@@ -1,9 +1,9 @@
 {
   "pangram": "windbag",
   "center_letter": "g",
-  "num_answers": 56,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 347,
+  "possible_points": 355,
   "answer_pangrams": [
     "windbag"
   ],
@@ -27,6 +27,7 @@
     "biding",
     "bigwig",
     "binding",
+    "binging",
     "binning",
     "dabbing",
     "dawning",
@@ -37,6 +38,7 @@
     "dinning",
     "gabbing",
     "gadding",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -68,18 +70,18 @@
   "date": "2031-02-28",
   "hints": {
     "by_length": {
-      "4": 6,
+      "4": 7,
       "5": 3,
       "6": 15,
-      "7": 30,
+      "7": 31,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
       "A": 8,
-      "B": 12,
+      "B": 13,
       "D": 7,
-      "G": 12,
+      "G": 13,
       "I": 1,
       "N": 2,
       "W": 14
@@ -93,7 +95,7 @@
       "B": {
         "4": 1,
         "6": 3,
-        "7": 7,
+        "7": 8,
         "9": 1
       },
       "D": {
@@ -102,7 +104,7 @@
         "7": 5
       },
       "G": {
-        "4": 3,
+        "4": 4,
         "6": 1,
         "7": 8
       },
@@ -127,10 +129,10 @@
       "AN": 1,
       "AW": 2,
       "BA": 7,
-      "BI": 5,
+      "BI": 6,
       "DA": 2,
       "DI": 5,
-      "GA": 7,
+      "GA": 8,
       "GI": 3,
       "GN": 2,
       "IN": 1,

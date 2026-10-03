@@ -1,9 +1,9 @@
 {
   "pangram": "climate",
   "center_letter": "c",
-  "num_answers": 61,
+  "num_answers": 63,
   "num_pangrams": 3,
-  "possible_points": 326,
+  "possible_points": 336,
   "answer_pangrams": [
     "acclimate",
     "climate",
@@ -47,6 +47,7 @@
     "emcee",
     "emetic",
     "icicle",
+    "iliac",
     "illicit",
     "italic",
     "lace",
@@ -57,6 +58,7 @@
     "licit",
     "lilac",
     "mace",
+    "malic",
     "malice",
     "mecca",
     "metallic",
@@ -76,7 +78,7 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 16,
+      "5": 18,
       "6": 10,
       "7": 12,
       "8": 6,
@@ -86,9 +88,9 @@
       "A": 8,
       "C": 21,
       "E": 7,
-      "I": 3,
+      "I": 4,
       "L": 7,
-      "M": 8,
+      "M": 9,
       "T": 7
     },
     "grid": {
@@ -113,6 +115,7 @@
         "8": 2
       },
       "I": {
+        "5": 1,
         "6": 2,
         "7": 1
       },
@@ -124,7 +127,7 @@
       },
       "M": {
         "4": 3,
-        "5": 2,
+        "5": 3,
         "6": 1,
         "7": 1,
         "8": 1
@@ -148,11 +151,11 @@
       "EL": 2,
       "EM": 3,
       "IC": 1,
-      "IL": 1,
+      "IL": 2,
       "IT": 1,
       "LA": 4,
       "LI": 3,
-      "MA": 2,
+      "MA": 3,
       "ME": 2,
       "MI": 4,
       "TA": 6,

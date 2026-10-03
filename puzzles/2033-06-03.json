@@ -1,9 +1,9 @@
 {
   "pangram": "vibrato",
   "center_letter": "a",
-  "num_answers": 41,
+  "num_answers": 42,
   "num_pangrams": 1,
-  "possible_points": 195,
+  "possible_points": 194,
   "answer_pangrams": [
     "vibrato"
   ],
@@ -24,8 +24,10 @@
     "baobab",
     "barb",
     "barrio",
+    "biota",
     "boar",
     "boat",
+    "boba",
     "brat",
     "bravo",
     "briar",
@@ -34,7 +36,6 @@
     "oratorio",
     "rabbi",
     "rabbit",
-    "ratatat",
     "ratio",
     "roar",
     "taboo",
@@ -53,19 +54,19 @@
   "date": "2033-06-03",
   "hints": {
     "by_length": {
-      "4": 11,
-      "5": 15,
+      "4": 12,
+      "5": 16,
       "6": 8,
-      "7": 4,
+      "7": 3,
       "8": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 11,
-      "B": 10,
+      "B": 12,
       "I": 1,
       "O": 2,
-      "R": 5,
+      "R": 4,
       "T": 11,
       "V": 1
     },
@@ -79,8 +80,8 @@
         "10": 1
       },
       "B": {
-        "4": 6,
-        "5": 2,
+        "4": 7,
+        "5": 3,
         "6": 2
       },
       "I": {
@@ -93,8 +94,7 @@
       "R": {
         "4": 1,
         "5": 2,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
         "4": 2,
@@ -113,11 +113,12 @@
       "AT": 2,
       "AV": 2,
       "BA": 5,
-      "BO": 2,
+      "BI": 1,
+      "BO": 3,
       "BR": 3,
       "IO": 1,
       "OR": 2,
-      "RA": 4,
+      "RA": 3,
       "RO": 1,
       "TA": 6,
       "TI": 2,

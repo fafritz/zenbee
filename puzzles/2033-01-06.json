@@ -1,9 +1,9 @@
 {
   "pangram": "pickled",
   "center_letter": "p",
-  "num_answers": 40,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 160,
+  "possible_points": 166,
   "answer_pangrams": [
     "pickled"
   ],
@@ -17,6 +17,7 @@
     "keep",
     "kelp",
     "lipid",
+    "lipped",
     "peck",
     "pecked",
     "peddle",
@@ -54,7 +55,7 @@
     "by_length": {
       "4": 17,
       "5": 6,
-      "6": 13,
+      "6": 14,
       "7": 4
     },
     "by_first_letter": {
@@ -62,7 +63,7 @@
       "D": 2,
       "E": 2,
       "K": 2,
-      "L": 1,
+      "L": 2,
       "P": 31
     },
     "grid": {
@@ -81,7 +82,8 @@
         "4": 2
       },
       "L": {
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "P": {
         "4": 11,
@@ -96,7 +98,7 @@
       "DI": 1,
       "EP": 2,
       "KE": 2,
-      "LI": 1,
+      "LI": 2,
       "PE": 12,
       "PI": 18,
       "PL": 1

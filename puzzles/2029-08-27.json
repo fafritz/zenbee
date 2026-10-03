@@ -1,9 +1,9 @@
 {
   "pangram": "howling",
   "center_letter": "n",
-  "num_answers": 56,
+  "num_answers": 57,
   "num_pangrams": 2,
-  "possible_points": 319,
+  "possible_points": 333,
   "answer_pangrams": [
     "hollowing",
     "howling"
@@ -21,7 +21,6 @@
     "goon",
     "gown",
     "gowning",
-    "hing",
     "hinging",
     "hogging",
     "holing",
@@ -29,6 +28,7 @@
     "honing",
     "howling",
     "inning",
+    "lignin",
     "lingo",
     "lining",
     "lion",
@@ -43,6 +43,7 @@
     "niggling",
     "nigh",
     "noggin",
+    "nonillion",
     "noon",
     "ogling",
     "oiling",
@@ -69,19 +70,19 @@
   "date": "2029-08-27",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 11,
       "5": 5,
-      "6": 14,
+      "6": 15,
       "7": 18,
       "8": 5,
-      "9": 2
+      "9": 3
     },
     "by_first_letter": {
       "G": 12,
-      "H": 7,
+      "H": 6,
       "I": 1,
-      "L": 11,
-      "N": 4,
+      "L": 12,
+      "N": 5,
       "O": 6,
       "W": 15
     },
@@ -93,7 +94,6 @@
         "8": 3
       },
       "H": {
-        "4": 1,
         "6": 2,
         "7": 3,
         "9": 1
@@ -104,13 +104,14 @@
       "L": {
         "4": 4,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 3
       },
       "N": {
         "4": 2,
         "6": 1,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "O": {
         "5": 2,
@@ -129,13 +130,13 @@
       "GI": 3,
       "GL": 1,
       "GO": 8,
-      "HI": 2,
+      "HI": 1,
       "HO": 5,
       "IN": 1,
-      "LI": 3,
+      "LI": 4,
       "LO": 8,
       "NI": 2,
-      "NO": 2,
+      "NO": 3,
       "OG": 1,
       "OI": 1,
       "ON": 2,

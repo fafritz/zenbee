@@ -1,9 +1,9 @@
 {
   "pangram": "gawkily",
   "center_letter": "l",
-  "num_answers": 21,
+  "num_answers": 22,
   "num_pangrams": 1,
-  "possible_points": 70,
+  "possible_points": 75,
   "answer_pangrams": [
     "gawkily"
   ],
@@ -12,6 +12,7 @@
     "alkali",
     "allay",
     "ally",
+    "gaily",
     "gala",
     "gall",
     "gawkily",
@@ -34,13 +35,13 @@
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 1,
+      "5": 2,
       "6": 4,
       "7": 3
     },
     "by_first_letter": {
       "A": 4,
-      "G": 5,
+      "G": 6,
       "K": 1,
       "L": 2,
       "W": 8,
@@ -54,6 +55,7 @@
       },
       "G": {
         "4": 3,
+        "5": 1,
         "6": 1,
         "7": 1
       },
@@ -75,7 +77,7 @@
     },
     "two_letter_list": {
       "AL": 4,
-      "GA": 3,
+      "GA": 4,
       "GI": 2,
       "KI": 1,
       "LA": 1,

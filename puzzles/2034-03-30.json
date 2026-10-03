@@ -1,9 +1,9 @@
 {
   "pangram": "frantic",
   "center_letter": "a",
-  "num_answers": 72,
+  "num_answers": 75,
   "num_pangrams": 2,
-  "possible_points": 360,
+  "possible_points": 372,
   "answer_pangrams": [
     "antiaircraft",
     "frantic"
@@ -11,6 +11,7 @@
   "answers": [
     "acacia",
     "acai",
+    "actinic",
     "afar",
     "affair",
     "aircraft",
@@ -44,16 +45,17 @@
     "fair",
     "fanatic",
     "farina",
-    "fart",
     "fiat",
     "franc",
     "frantic",
     "frat",
     "friar",
     "infant",
+    "infra",
     "intact",
     "irritant",
     "naan",
+    "naif",
     "nana",
     "narc",
     "niacin",
@@ -61,7 +63,6 @@
     "raft",
     "rain",
     "rant",
-    "ratatat",
     "rattan",
     "riffraff",
     "tacit",
@@ -70,7 +71,9 @@
     "tactician",
     "taint",
     "tannin",
+    "tantra",
     "tariff",
+    "tarn",
     "tart",
     "tartan",
     "tartar",
@@ -85,29 +88,29 @@
   "date": "2034-03-30",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 20,
-      "6": 18,
+      "4": 20,
+      "5": 21,
+      "6": 19,
       "7": 7,
       "8": 5,
       "9": 2,
       "12": 1
     },
     "by_first_letter": {
-      "A": 18,
+      "A": 19,
       "C": 12,
-      "F": 11,
-      "I": 3,
-      "N": 4,
-      "R": 7,
-      "T": 17
+      "F": 10,
+      "I": 4,
+      "N": 5,
+      "R": 6,
+      "T": 19
     },
     "grid": {
       "A": {
         "4": 4,
         "5": 4,
         "6": 5,
-        "7": 1,
+        "7": 2,
         "8": 2,
         "9": 1,
         "12": 1
@@ -120,35 +123,35 @@
         "8": 1
       },
       "F": {
-        "4": 5,
+        "4": 4,
         "5": 3,
         "6": 1,
         "7": 2
       },
       "I": {
+        "5": 1,
         "6": 2,
         "8": 1
       },
       "N": {
-        "4": 3,
+        "4": 4,
         "6": 1
       },
       "R": {
         "4": 3,
         "6": 2,
-        "7": 1,
         "8": 1
       },
       "T": {
-        "4": 2,
+        "4": 3,
         "5": 7,
-        "6": 5,
+        "6": 6,
         "7": 2,
         "9": 1
       }
     },
     "two_letter_list": {
-      "AC": 2,
+      "AC": 3,
       "AF": 2,
       "AI": 1,
       "AN": 4,
@@ -157,16 +160,16 @@
       "CA": 10,
       "CI": 1,
       "CR": 1,
-      "FA": 6,
+      "FA": 5,
       "FI": 1,
       "FR": 4,
-      "IN": 2,
+      "IN": 3,
       "IR": 1,
-      "NA": 3,
+      "NA": 4,
       "NI": 1,
-      "RA": 6,
+      "RA": 5,
       "RI": 1,
-      "TA": 10,
+      "TA": 12,
       "TI": 3,
       "TR": 4
     }

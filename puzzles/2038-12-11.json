@@ -1,9 +1,9 @@
 {
   "pangram": "organdy",
   "center_letter": "y",
-  "num_answers": 28,
+  "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 124,
+  "possible_points": 125,
   "answer_pangrams": [
     "organdy"
   ],
@@ -33,6 +33,7 @@
     "organdy",
     "rangy",
     "rayon",
+    "yang",
     "yard",
     "yarn",
     "yoga"
@@ -40,7 +41,7 @@
   "date": "2038-12-11",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 9,
       "5": 14,
       "6": 3,
       "7": 3
@@ -52,7 +53,7 @@
       "N": 3,
       "O": 1,
       "R": 2,
-      "Y": 3
+      "Y": 4
     },
     "grid": {
       "A": {
@@ -80,7 +81,7 @@
         "5": 2
       },
       "Y": {
-        "4": 3
+        "4": 4
       }
     },
     "two_letter_list": {
@@ -97,7 +98,7 @@
       "NO": 2,
       "OR": 1,
       "RA": 2,
-      "YA": 2,
+      "YA": 3,
       "YO": 1
     }
   }

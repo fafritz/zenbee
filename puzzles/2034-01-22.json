@@ -1,9 +1,9 @@
 {
   "pangram": "braying",
   "center_letter": "r",
-  "num_answers": 66,
+  "num_answers": 69,
   "num_pangrams": 1,
-  "possible_points": 352,
+  "possible_points": 376,
   "answer_pangrams": [
     "braying"
   ],
@@ -44,6 +44,7 @@
     "brig",
     "bring",
     "bringing",
+    "brining",
     "briny",
     "garaging",
     "garb",
@@ -58,6 +59,8 @@
     "graying",
     "grin",
     "grinning",
+    "ingrain",
+    "ingraining",
     "rabbi",
     "raga",
     "ragging",
@@ -81,15 +84,16 @@
       "4": 18,
       "5": 10,
       "6": 9,
-      "7": 16,
+      "7": 18,
       "8": 8,
       "9": 3,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 12,
-      "B": 25,
+      "B": 26,
       "G": 13,
+      "I": 2,
       "R": 15,
       "Y": 1
     },
@@ -107,7 +111,7 @@
         "4": 6,
         "5": 4,
         "6": 3,
-        "7": 6,
+        "7": 7,
         "8": 3,
         "9": 2,
         "10": 1
@@ -118,6 +122,10 @@
         "6": 2,
         "7": 3,
         "8": 3
+      },
+      "I": {
+        "7": 1,
+        "10": 1
       },
       "R": {
         "4": 4,
@@ -136,9 +144,10 @@
       "AR": 6,
       "BA": 10,
       "BI": 1,
-      "BR": 14,
+      "BR": 15,
       "GA": 3,
       "GR": 10,
+      "IN": 2,
       "RA": 11,
       "RI": 4,
       "YA": 1

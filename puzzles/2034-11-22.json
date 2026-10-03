@@ -3,7 +3,7 @@
   "center_letter": "g",
   "num_answers": 63,
   "num_pangrams": 1,
-  "possible_points": 362,
+  "possible_points": 365,
   "answer_pangrams": [
     "holding"
   ],
@@ -17,7 +17,6 @@
     "dinning",
     "dodging",
     "dogging",
-    "doggoning",
     "doing",
     "doling",
     "dolling",
@@ -42,7 +41,6 @@
     "goon",
     "hiding",
     "high",
-    "hing",
     "hinging",
     "hogging",
     "holding",
@@ -54,6 +52,8 @@
     "igloo",
     "indigo",
     "inning",
+    "lidding",
+    "lignin",
     "lingo",
     "lining",
     "lodging",
@@ -75,19 +75,19 @@
   "date": "2034-11-22",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 11,
       "5": 6,
-      "6": 13,
-      "7": 23,
+      "6": 14,
+      "7": 24,
       "8": 7,
-      "9": 2
+      "9": 1
     },
     "by_first_letter": {
-      "D": 15,
+      "D": 14,
       "G": 17,
-      "H": 10,
+      "H": 9,
       "I": 4,
-      "L": 9,
+      "L": 11,
       "N": 5,
       "O": 3
     },
@@ -97,8 +97,7 @@
         "5": 2,
         "6": 2,
         "7": 7,
-        "8": 2,
-        "9": 1
+        "8": 2
       },
       "G": {
         "4": 6,
@@ -108,7 +107,7 @@
         "8": 3
       },
       "H": {
-        "4": 2,
+        "4": 1,
         "6": 3,
         "7": 4,
         "9": 1
@@ -120,8 +119,8 @@
       "L": {
         "4": 2,
         "5": 2,
-        "6": 1,
-        "7": 4
+        "6": 2,
+        "7": 5
       },
       "N": {
         "4": 1,
@@ -136,16 +135,16 @@
     },
     "two_letter_list": {
       "DI": 7,
-      "DO": 8,
+      "DO": 7,
       "GI": 7,
       "GL": 1,
       "GO": 9,
-      "HI": 4,
+      "HI": 3,
       "HO": 6,
       "ID": 1,
       "IG": 1,
       "IN": 2,
-      "LI": 2,
+      "LI": 4,
       "LO": 7,
       "NI": 2,
       "NO": 3,

@@ -1,9 +1,9 @@
 {
   "pangram": "lucking",
   "center_letter": "l",
-  "num_answers": 43,
+  "num_answers": 46,
   "num_pangrams": 4,
-  "possible_points": 251,
+  "possible_points": 269,
   "answer_pangrams": [
     "clucking",
     "clunking",
@@ -33,6 +33,7 @@
     "gulling",
     "inclining",
     "inkling",
+    "inulin",
     "kill",
     "killing",
     "kiln",
@@ -40,6 +41,7 @@
     "knuckling",
     "lick",
     "licking",
+    "lignin",
     "liking",
     "lining",
     "link",
@@ -47,6 +49,7 @@
     "luck",
     "lucking",
     "lugging",
+    "luging",
     "lull",
     "lulling",
     "lulu",
@@ -60,7 +63,7 @@
     "by_length": {
       "4": 12,
       "5": 6,
-      "6": 5,
+      "6": 8,
       "7": 11,
       "8": 7,
       "9": 2
@@ -68,9 +71,9 @@
     "by_first_letter": {
       "C": 15,
       "G": 5,
-      "I": 2,
+      "I": 3,
       "K": 5,
-      "L": 14,
+      "L": 16,
       "N": 2
     },
     "grid": {
@@ -88,6 +91,7 @@
         "8": 1
       },
       "I": {
+        "6": 1,
         "7": 1,
         "9": 1
       },
@@ -98,7 +102,7 @@
       },
       "L": {
         "4": 6,
-        "6": 2,
+        "6": 4,
         "7": 6
       },
       "N": {
@@ -112,11 +116,11 @@
       "GI": 2,
       "GL": 1,
       "GU": 2,
-      "IN": 2,
+      "IN": 3,
       "KI": 4,
       "KN": 1,
-      "LI": 6,
-      "LU": 8,
+      "LI": 7,
+      "LU": 9,
       "NI": 1,
       "NU": 1
     }

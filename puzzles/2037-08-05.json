@@ -1,9 +1,9 @@
 {
   "pangram": "hawking",
   "center_letter": "i",
-  "num_answers": 46,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 247,
+  "possible_points": 246,
   "answer_pangrams": [
     "hawking"
   ],
@@ -28,7 +28,6 @@
     "hawking",
     "high",
     "hiking",
-    "hing",
     "hinging",
     "inking",
     "inning",
@@ -58,7 +57,7 @@
   "date": "2037-08-05",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 10,
       "5": 4,
       "6": 11,
       "7": 19,
@@ -67,7 +66,7 @@
     "by_first_letter": {
       "A": 7,
       "G": 8,
-      "H": 7,
+      "H": 6,
       "I": 2,
       "K": 5,
       "N": 2,
@@ -85,7 +84,7 @@
         "7": 7
       },
       "H": {
-        "4": 2,
+        "4": 1,
         "6": 2,
         "7": 3
       },
@@ -117,7 +116,7 @@
       "GI": 2,
       "GN": 1,
       "HA": 3,
-      "HI": 4,
+      "HI": 3,
       "IN": 2,
       "KH": 1,
       "KI": 4,

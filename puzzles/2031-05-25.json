@@ -1,9 +1,9 @@
 {
   "pangram": "anxiety",
   "center_letter": "t",
-  "num_answers": 37,
+  "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 166,
+  "possible_points": 172,
   "answer_pangrams": [
     "anxiety"
   ],
@@ -26,6 +26,7 @@
     "intent",
     "natty",
     "neat",
+    "neaten",
     "next",
     "nineteen",
     "ninety",
@@ -51,7 +52,7 @@
     "by_length": {
       "4": 13,
       "5": 8,
-      "6": 9,
+      "6": 10,
       "7": 4,
       "8": 3
     },
@@ -59,7 +60,7 @@
       "A": 6,
       "E": 6,
       "I": 4,
-      "N": 5,
+      "N": 6,
       "T": 15,
       "Y": 1
     },
@@ -84,7 +85,7 @@
       "N": {
         "4": 2,
         "5": 1,
-        "6": 1,
+        "6": 2,
         "8": 1
       },
       "T": {
@@ -104,7 +105,7 @@
       "EX": 3,
       "IN": 4,
       "NA": 1,
-      "NE": 2,
+      "NE": 3,
       "NI": 2,
       "TA": 4,
       "TE": 6,

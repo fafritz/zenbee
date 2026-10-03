@@ -1,9 +1,9 @@
 {
   "pangram": "pounced",
   "center_letter": "n",
-  "num_answers": 68,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 342,
+  "possible_points": 330,
   "answer_pangrams": [
     "pounced"
   ],
@@ -15,7 +15,6 @@
     "condo",
     "condone",
     "condoned",
-    "conduce",
     "conduced",
     "cone",
     "conned",
@@ -34,11 +33,9 @@
     "dunce",
     "dune",
     "dunned",
-    "dunno",
     "encode",
     "encoded",
     "ended",
-    "endue",
     "endued",
     "need",
     "needed",
@@ -58,6 +55,7 @@
     "ounce",
     "peen",
     "pence",
+    "penne",
     "penned",
     "pennon",
     "peon",
@@ -81,20 +79,20 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 11,
+      "5": 10,
       "6": 19,
-      "7": 8,
+      "7": 7,
       "8": 9,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "C": 12,
-      "D": 15,
-      "E": 5,
+      "C": 11,
+      "D": 14,
+      "E": 4,
       "N": 12,
       "O": 4,
-      "P": 12,
+      "P": 13,
       "U": 8
     },
     "grid": {
@@ -102,12 +100,12 @@
         "4": 1,
         "5": 1,
         "6": 3,
-        "7": 3,
+        "7": 2,
         "8": 4
       },
       "D": {
         "4": 2,
-        "5": 2,
+        "5": 1,
         "6": 5,
         "7": 1,
         "8": 3,
@@ -115,7 +113,7 @@
         "10": 1
       },
       "E": {
-        "5": 2,
+        "5": 1,
         "6": 2,
         "7": 1
       },
@@ -131,7 +129,7 @@
       },
       "P": {
         "4": 4,
-        "5": 2,
+        "5": 3,
         "6": 4,
         "7": 2
       },
@@ -144,17 +142,17 @@
       }
     },
     "two_letter_list": {
-      "CO": 12,
+      "CO": 11,
       "DE": 9,
       "DO": 2,
-      "DU": 4,
-      "EN": 5,
+      "DU": 3,
+      "EN": 4,
       "NE": 5,
       "NO": 7,
       "ON": 1,
       "OP": 2,
       "OU": 1,
-      "PE": 5,
+      "PE": 6,
       "PO": 6,
       "PU": 1,
       "UN": 5,

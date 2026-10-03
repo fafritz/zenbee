@@ -1,9 +1,9 @@
 {
   "pangram": "clawing",
   "center_letter": "g",
-  "num_answers": 69,
+  "num_answers": 72,
   "num_pangrams": 1,
-  "possible_points": 428,
+  "possible_points": 443,
   "answer_pangrams": [
     "clawing"
   ],
@@ -30,10 +30,12 @@
     "clawing",
     "cling",
     "clinging",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -54,6 +56,7 @@
     "lacing",
     "lagging",
     "lancing",
+    "lignin",
     "lining",
     "nagging",
     "nailing",
@@ -81,20 +84,20 @@
   "date": "2031-08-27",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 9,
       "5": 8,
-      "6": 15,
+      "6": 16,
       "7": 25,
-      "8": 10,
+      "8": 11,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 11,
       "C": 11,
-      "G": 18,
+      "G": 20,
       "I": 3,
-      "L": 4,
+      "L": 5,
       "N": 3,
       "W": 19
     },
@@ -114,9 +117,9 @@
         "9": 1
       },
       "G": {
-        "4": 6,
+        "4": 7,
         "7": 9,
-        "8": 3
+        "8": 4
       },
       "I": {
         "5": 1,
@@ -124,7 +127,7 @@
         "9": 1
       },
       "L": {
-        "6": 2,
+        "6": 3,
         "7": 2
       },
       "N": {
@@ -148,14 +151,14 @@
       "AW": 2,
       "CA": 6,
       "CL": 5,
-      "GA": 10,
+      "GA": 12,
       "GI": 4,
       "GL": 2,
       "GN": 2,
       "IC": 1,
       "IN": 2,
       "LA": 3,
-      "LI": 1,
+      "LI": 2,
       "NA": 2,
       "NI": 1,
       "WA": 8,

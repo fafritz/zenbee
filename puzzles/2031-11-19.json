@@ -1,13 +1,14 @@
 {
   "pangram": "piquant",
   "center_letter": "a",
-  "num_answers": 24,
+  "num_answers": 27,
   "num_pangrams": 1,
-  "possible_points": 89,
+  "possible_points": 109,
   "answer_pangrams": [
     "piquant"
   ],
   "answers": [
+    "annuitant",
     "anti",
     "aqua",
     "aquanaut",
@@ -18,9 +19,11 @@
     "nana",
     "pain",
     "paint",
+    "panini",
     "pant",
     "papa",
     "patina",
+    "pinna",
     "piquant",
     "pita",
     "pupa",
@@ -37,16 +40,17 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 5,
-      "6": 5,
+      "5": 6,
+      "6": 6,
       "7": 1,
-      "8": 1
+      "8": 1,
+      "9": 1
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 6,
       "I": 1,
       "N": 2,
-      "P": 8,
+      "P": 10,
       "Q": 2,
       "T": 6
     },
@@ -54,7 +58,8 @@
       "A": {
         "4": 3,
         "6": 1,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "I": {
         "5": 1
@@ -64,8 +69,8 @@
       },
       "P": {
         "4": 5,
-        "5": 1,
-        "6": 1,
+        "5": 2,
+        "6": 2,
         "7": 1
       },
       "Q": {
@@ -78,14 +83,14 @@
       }
     },
     "two_letter_list": {
-      "AN": 1,
+      "AN": 2,
       "AQ": 2,
       "AT": 1,
       "AU": 1,
       "IN": 1,
       "NA": 2,
-      "PA": 5,
-      "PI": 2,
+      "PA": 6,
+      "PI": 3,
       "PU": 1,
       "QU": 2,
       "TA": 4,

@@ -1,9 +1,9 @@
 {
   "pangram": "proudly",
   "center_letter": "o",
-  "num_answers": 43,
+  "num_answers": 42,
   "num_pangrams": 1,
-  "possible_points": 131,
+  "possible_points": 126,
   "answer_pangrams": [
     "proudly"
   ],
@@ -27,7 +27,6 @@
     "loopy",
     "lord",
     "lordly",
-    "lorry",
     "loud",
     "loudly",
     "oddly",
@@ -56,13 +55,13 @@
   "hints": {
     "by_length": {
       "4": 25,
-      "5": 10,
+      "5": 9,
       "6": 7,
       "7": 1
     },
     "by_first_letter": {
       "D": 14,
-      "L": 8,
+      "L": 7,
       "O": 2,
       "P": 16,
       "R": 2,
@@ -76,7 +75,7 @@
       },
       "L": {
         "4": 4,
-        "5": 2,
+        "5": 1,
         "6": 2
       },
       "O": {
@@ -99,7 +98,7 @@
     "two_letter_list": {
       "DO": 8,
       "DR": 6,
-      "LO": 8,
+      "LO": 7,
       "OD": 2,
       "PL": 3,
       "PO": 9,

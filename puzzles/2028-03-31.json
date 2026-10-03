@@ -1,9 +1,9 @@
 {
   "pangram": "inflame",
   "center_letter": "l",
-  "num_answers": 70,
+  "num_answers": 74,
   "num_pangrams": 1,
-  "possible_points": 294,
+  "possible_points": 323,
   "answer_pangrams": [
     "inflame"
   ],
@@ -11,7 +11,8 @@
     "aflame",
     "alfalfa",
     "alien",
-    "anal",
+    "allele",
+    "aniline",
     "animal",
     "anneal",
     "elan",
@@ -19,12 +20,14 @@
     "email",
     "enamel",
     "fail",
+    "falafel",
     "fall",
     "fallen",
     "familial",
     "feel",
     "feline",
     "fell",
+    "fella",
     "female",
     "fennel",
     "file",
@@ -45,6 +48,7 @@
     "lain",
     "lama",
     "lame",
+    "lanai",
     "lane",
     "leaf",
     "lean",
@@ -82,29 +86,28 @@
   "date": "2028-03-31",
   "hints": {
     "by_length": {
-      "4": 30,
-      "5": 10,
-      "6": 14,
-      "7": 9,
+      "4": 29,
+      "5": 12,
+      "6": 15,
+      "7": 11,
       "8": 4,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "A": 6,
+      "A": 7,
       "E": 4,
-      "F": 22,
+      "F": 24,
       "I": 2,
-      "L": 18,
+      "L": 19,
       "M": 17,
       "N": 1
     },
     "grid": {
       "A": {
-        "4": 1,
         "5": 1,
-        "6": 3,
-        "7": 1
+        "6": 4,
+        "7": 2
       },
       "E": {
         "4": 1,
@@ -113,9 +116,9 @@
       },
       "F": {
         "4": 10,
-        "5": 3,
+        "5": 4,
         "6": 6,
-        "7": 1,
+        "7": 2,
         "8": 2
       },
       "I": {
@@ -124,7 +127,7 @@
       },
       "L": {
         "4": 11,
-        "5": 3,
+        "5": 4,
         "6": 1,
         "7": 2,
         "8": 1
@@ -144,17 +147,17 @@
     },
     "two_letter_list": {
       "AF": 1,
-      "AL": 2,
+      "AL": 3,
       "AN": 3,
       "EL": 2,
       "EM": 1,
       "EN": 1,
-      "FA": 4,
-      "FE": 5,
+      "FA": 5,
+      "FE": 6,
       "FI": 6,
       "FL": 7,
       "IN": 2,
-      "LA": 4,
+      "LA": 5,
       "LE": 3,
       "LI": 10,
       "LL": 1,

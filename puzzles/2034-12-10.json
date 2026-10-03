@@ -1,9 +1,9 @@
 {
   "pangram": "forcing",
   "center_letter": "i",
-  "num_answers": 58,
+  "num_answers": 64,
   "num_pangrams": 1,
-  "possible_points": 354,
+  "possible_points": 379,
   "answer_pangrams": [
     "forcing"
   ],
@@ -13,6 +13,7 @@
     "cocooning",
     "coffin",
     "coffining",
+    "cogging",
     "coif",
     "coiffing",
     "coin",
@@ -46,14 +47,18 @@
     "groin",
     "icing",
     "icon",
+    "iconic",
     "ignoring",
     "info",
     "infringing",
     "inning",
+    "ionic",
     "iron",
     "ironic",
     "ironing",
     "noggin",
+    "noir",
+    "nori",
     "offing",
     "ongoing",
     "onion",
@@ -65,34 +70,35 @@
     "rigor",
     "ring",
     "ringing",
+    "ronin",
     "roofing"
   ],
   "date": "2034-12-10",
   "hints": {
     "by_length": {
-      "4": 8,
-      "5": 8,
-      "6": 12,
-      "7": 18,
+      "4": 10,
+      "5": 10,
+      "6": 13,
+      "7": 19,
       "8": 8,
       "9": 3,
       "10": 1
     },
     "by_first_letter": {
-      "C": 17,
+      "C": 18,
       "F": 8,
       "G": 11,
-      "I": 9,
-      "N": 1,
+      "I": 11,
+      "N": 3,
       "O": 4,
-      "R": 8
+      "R": 9
     },
     "grid": {
       "C": {
         "4": 2,
         "5": 3,
         "6": 3,
-        "7": 3,
+        "7": 4,
         "8": 3,
         "9": 3
       },
@@ -110,13 +116,14 @@
       },
       "I": {
         "4": 3,
-        "5": 1,
-        "6": 2,
+        "5": 2,
+        "6": 3,
         "7": 1,
         "8": 1,
         "10": 1
       },
       "N": {
+        "4": 2,
         "6": 1
       },
       "O": {
@@ -126,14 +133,14 @@
       },
       "R": {
         "4": 2,
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 4
       }
     },
     "two_letter_list": {
       "CI": 1,
-      "CO": 14,
+      "CO": 15,
       "CR": 2,
       "FI": 2,
       "FO": 4,
@@ -141,16 +148,17 @@
       "GI": 2,
       "GO": 5,
       "GR": 4,
-      "IC": 2,
+      "IC": 3,
       "IG": 1,
       "IN": 3,
+      "IO": 1,
       "IR": 3,
-      "NO": 1,
+      "NO": 3,
       "OF": 1,
       "ON": 2,
       "OR": 1,
       "RI": 7,
-      "RO": 1
+      "RO": 2
     }
   }
 }

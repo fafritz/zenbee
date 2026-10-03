@@ -1,9 +1,9 @@
 {
   "pangram": "twinkle",
   "center_letter": "l",
-  "num_answers": 49,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 184,
+  "possible_points": 178,
   "answer_pangrams": [
     "twinkle"
   ],
@@ -42,7 +42,6 @@
     "nettle",
     "newel",
     "tell",
-    "telnet",
     "tile",
     "till",
     "tilt",
@@ -63,7 +62,7 @@
     "by_length": {
       "4": 22,
       "5": 11,
-      "6": 12,
+      "6": 11,
       "7": 4
     },
     "by_first_letter": {
@@ -72,7 +71,7 @@
       "K": 9,
       "L": 16,
       "N": 2,
-      "T": 10,
+      "T": 9,
       "W": 6
     },
     "grid": {
@@ -103,7 +102,7 @@
       "T": {
         "4": 4,
         "5": 2,
-        "6": 3,
+        "6": 2,
         "7": 1
       },
       "W": {
@@ -121,7 +120,7 @@
       "LE": 4,
       "LI": 12,
       "NE": 2,
-      "TE": 2,
+      "TE": 1,
       "TI": 6,
       "TW": 2,
       "WE": 3,

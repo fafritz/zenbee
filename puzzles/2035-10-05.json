@@ -1,9 +1,9 @@
 {
   "pangram": "polemic",
   "center_letter": "e",
-  "num_answers": 40,
+  "num_answers": 39,
   "num_pangrams": 2,
-  "possible_points": 134,
+  "possible_points": 128,
   "answer_pangrams": [
     "compile",
     "polemic"
@@ -16,7 +16,6 @@
     "come",
     "compel",
     "compile",
-    "coolie",
     "cope",
     "elope",
     "emcee",
@@ -55,11 +54,11 @@
     "by_length": {
       "4": 23,
       "5": 7,
-      "6": 8,
+      "6": 7,
       "7": 2
     },
     "by_first_letter": {
-      "C": 9,
+      "C": 8,
       "E": 4,
       "I": 2,
       "L": 3,
@@ -71,7 +70,7 @@
       "C": {
         "4": 3,
         "5": 2,
-        "6": 3,
+        "6": 2,
         "7": 1
       },
       "E": {
@@ -102,7 +101,7 @@
     "two_letter_list": {
       "CE": 2,
       "CL": 1,
-      "CO": 6,
+      "CO": 5,
       "EL": 1,
       "EM": 1,
       "EP": 2,

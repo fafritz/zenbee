@@ -1,9 +1,9 @@
 {
   "pangram": "romping",
   "center_letter": "o",
-  "num_answers": 61,
+  "num_answers": 68,
   "num_pangrams": 1,
-  "possible_points": 291,
+  "possible_points": 318,
   "answer_pangrams": [
     "romping"
   ],
@@ -14,6 +14,7 @@
     "goon",
     "goop",
     "gorging",
+    "gorgon",
     "goring",
     "gorp",
     "grog",
@@ -40,7 +41,9 @@
     "morning",
     "moron",
     "noggin",
+    "noir",
     "noon",
+    "nori",
     "norm",
     "ongoing",
     "onion",
@@ -49,12 +52,15 @@
     "origin",
     "pinion",
     "pinioning",
+    "pirogi",
+    "pogo",
+    "pogoing",
     "pogrom",
     "pomp",
     "poop",
-    "pooping",
     "poor",
     "popping",
+    "porging",
     "poring",
     "prior",
     "prom",
@@ -66,6 +72,7 @@
     "rigor",
     "romp",
     "romping",
+    "ronin",
     "room",
     "rooming",
     "roping"
@@ -73,27 +80,27 @@
   "date": "2033-05-14",
   "hints": {
     "by_length": {
-      "4": 20,
-      "5": 10,
-      "6": 11,
-      "7": 14,
+      "4": 23,
+      "5": 11,
+      "6": 13,
+      "7": 15,
       "8": 4,
       "9": 2
     },
     "by_first_letter": {
-      "G": 12,
+      "G": 13,
       "I": 3,
       "M": 16,
-      "N": 3,
+      "N": 5,
       "O": 5,
-      "P": 16,
-      "R": 6
+      "P": 19,
+      "R": 7
     },
     "grid": {
       "G": {
         "4": 5,
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 2,
         "8": 1
       },
@@ -111,7 +118,7 @@
         "9": 1
       },
       "N": {
-        "4": 2,
+        "4": 4,
         "6": 1
       },
       "O": {
@@ -120,36 +127,36 @@
         "7": 3
       },
       "P": {
-        "4": 6,
+        "4": 7,
         "5": 3,
-        "6": 3,
-        "7": 2,
+        "6": 4,
+        "7": 3,
         "8": 1,
         "9": 1
       },
       "R": {
         "4": 2,
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 2
       }
     },
     "two_letter_list": {
-      "GO": 8,
+      "GO": 9,
       "GR": 4,
       "IG": 1,
       "IR": 2,
       "MI": 5,
       "MO": 11,
-      "NO": 3,
+      "NO": 5,
       "ON": 2,
       "OP": 2,
       "OR": 1,
-      "PI": 2,
-      "PO": 7,
+      "PI": 3,
+      "PO": 9,
       "PR": 7,
       "RI": 1,
-      "RO": 5
+      "RO": 6
     }
   }
 }

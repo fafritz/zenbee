@@ -1,9 +1,9 @@
 {
   "pangram": "bifocal",
   "center_letter": "i",
-  "num_answers": 31,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 131,
+  "possible_points": 136,
   "answer_pangrams": [
     "bifocal"
   ],
@@ -33,6 +33,7 @@
     "flail",
     "foil",
     "folio",
+    "iliac",
     "labia",
     "labial",
     "lilac",
@@ -44,7 +45,7 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 9,
+      "5": 10,
       "6": 5,
       "7": 3,
       "8": 2
@@ -54,6 +55,7 @@
       "B": 8,
       "C": 7,
       "F": 7,
+      "I": 1,
       "L": 4,
       "O": 2
     },
@@ -77,6 +79,9 @@
         "4": 3,
         "5": 2,
         "6": 2
+      },
+      "I": {
+        "5": 1
       },
       "L": {
         "4": 1,
@@ -102,6 +107,7 @@
       "FI": 2,
       "FL": 1,
       "FO": 2,
+      "IL": 1,
       "LA": 2,
       "LI": 1,
       "LO": 1,

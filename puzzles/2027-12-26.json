@@ -1,9 +1,9 @@
 {
   "pangram": "warping",
   "center_letter": "r",
-  "num_answers": 44,
+  "num_answers": 46,
   "num_pangrams": 3,
-  "possible_points": 252,
+  "possible_points": 269,
   "answer_pangrams": [
     "prawning",
     "warping",
@@ -24,6 +24,8 @@
     "grip",
     "griping",
     "gripping",
+    "ingrain",
+    "ingraining",
     "pair",
     "pairing",
     "paring",
@@ -61,14 +63,15 @@
       "4": 13,
       "5": 3,
       "6": 5,
-      "7": 14,
+      "7": 15,
       "8": 7,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 7,
       "G": 7,
+      "I": 2,
       "P": 7,
       "R": 13,
       "W": 10
@@ -87,6 +90,10 @@
         "5": 1,
         "7": 1,
         "8": 3
+      },
+      "I": {
+        "7": 1,
+        "10": 1
       },
       "P": {
         "4": 2,
@@ -114,6 +121,7 @@
       "AR": 4,
       "GA": 1,
       "GR": 6,
+      "IN": 2,
       "PA": 4,
       "PR": 3,
       "RA": 9,

@@ -1,9 +1,9 @@
 {
   "pangram": "minuted",
   "center_letter": "t",
-  "num_answers": 78,
+  "num_answers": 79,
   "num_pangrams": 2,
-  "possible_points": 367,
+  "possible_points": 373,
   "answer_pangrams": [
     "minuted",
     "mutinied"
@@ -13,6 +13,7 @@
     "dent",
     "dented",
     "dentin",
+    "detent",
     "detente",
     "diet",
     "dieted",
@@ -93,14 +94,14 @@
     "by_length": {
       "4": 27,
       "5": 11,
-      "6": 23,
+      "6": 24,
       "7": 6,
       "8": 9,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "D": 10,
+      "D": 11,
       "E": 7,
       "I": 9,
       "M": 16,
@@ -111,7 +112,7 @@
     "grid": {
       "D": {
         "4": 4,
-        "6": 3,
+        "6": 4,
         "7": 2,
         "8": 1
       },
@@ -153,7 +154,7 @@
       }
     },
     "two_letter_list": {
-      "DE": 5,
+      "DE": 6,
       "DI": 4,
       "DU": 1,
       "ED": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "praying",
   "center_letter": "a",
-  "num_answers": 66,
+  "num_answers": 72,
   "num_pangrams": 2,
-  "possible_points": 346,
+  "possible_points": 376,
   "answer_pangrams": [
     "parrying",
     "praying"
@@ -25,6 +25,7 @@
     "arranging",
     "array",
     "arraying",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -38,6 +39,8 @@
     "granny",
     "gray",
     "graying",
+    "ingrain",
+    "ingraining",
     "naan",
     "nagging",
     "nana",
@@ -51,6 +54,7 @@
     "pair",
     "pairing",
     "pang",
+    "panini",
     "panning",
     "papa",
     "papaya",
@@ -60,6 +64,7 @@
     "parry",
     "parrying",
     "paying",
+    "pinna",
     "pray",
     "praying",
     "raga",
@@ -73,27 +78,29 @@
     "rangy",
     "rapping",
     "raring",
+    "yang",
     "yapping",
     "yarn"
   ],
   "date": "2029-04-27",
   "hints": {
     "by_length": {
-      "4": 17,
-      "5": 12,
-      "6": 13,
-      "7": 18,
+      "4": 19,
+      "5": 13,
+      "6": 14,
+      "7": 19,
       "8": 4,
       "9": 1,
-      "10": 1
+      "10": 2
     },
     "by_first_letter": {
       "A": 16,
-      "G": 13,
+      "G": 14,
+      "I": 2,
       "N": 6,
-      "P": 18,
+      "P": 20,
       "R": 11,
-      "Y": 2
+      "Y": 3
     },
     "grid": {
       "A": {
@@ -106,11 +113,15 @@
         "10": 1
       },
       "G": {
-        "4": 3,
+        "4": 4,
         "5": 1,
         "6": 3,
         "7": 5,
         "8": 1
+      },
+      "I": {
+        "7": 1,
+        "10": 1
       },
       "N": {
         "4": 2,
@@ -119,8 +130,8 @@
       },
       "P": {
         "4": 5,
-        "5": 2,
-        "6": 5,
+        "5": 3,
+        "6": 6,
         "7": 5,
         "8": 1
       },
@@ -131,7 +142,7 @@
         "7": 4
       },
       "Y": {
-        "4": 1,
+        "4": 2,
         "7": 1
       }
     },
@@ -141,13 +152,15 @@
       "AN": 2,
       "AP": 2,
       "AR": 6,
-      "GA": 7,
+      "GA": 8,
       "GR": 6,
+      "IN": 2,
       "NA": 6,
-      "PA": 16,
+      "PA": 17,
+      "PI": 1,
       "PR": 2,
       "RA": 11,
-      "YA": 2
+      "YA": 3
     }
   }
 }

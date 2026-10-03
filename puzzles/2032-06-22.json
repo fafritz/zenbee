@@ -1,9 +1,9 @@
 {
   "pangram": "optical",
   "center_letter": "l",
-  "num_answers": 78,
+  "num_answers": 79,
   "num_pangrams": 5,
-  "possible_points": 345,
+  "possible_points": 350,
   "answer_pangrams": [
     "apolitical",
     "capitol",
@@ -39,6 +39,7 @@
     "colt",
     "cool",
     "copilot",
+    "iliac",
     "illicit",
     "italic",
     "lactic",
@@ -95,7 +96,7 @@
   "hints": {
     "by_length": {
       "4": 35,
-      "5": 15,
+      "5": 16,
       "6": 8,
       "7": 13,
       "8": 4,
@@ -105,7 +106,7 @@
     "by_first_letter": {
       "A": 6,
       "C": 21,
-      "I": 2,
+      "I": 3,
       "L": 14,
       "O": 4,
       "P": 19,
@@ -125,6 +126,7 @@
         "7": 6
       },
       "I": {
+        "5": 1,
         "6": 1,
         "7": 1
       },
@@ -162,7 +164,7 @@
       "CI": 1,
       "CL": 4,
       "CO": 8,
-      "IL": 1,
+      "IL": 2,
       "IT": 1,
       "LA": 2,
       "LI": 3,

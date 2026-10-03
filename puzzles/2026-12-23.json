@@ -1,9 +1,9 @@
 {
   "pangram": "farting",
   "center_letter": "f",
-  "num_answers": 42,
+  "num_answers": 44,
   "num_pangrams": 3,
-  "possible_points": 231,
+  "possible_points": 243,
   "answer_pangrams": [
     "farting",
     "grafting",
@@ -15,11 +15,11 @@
     "faint",
     "fainting",
     "fair",
+    "fairing",
     "fang",
     "fanning",
     "farina",
     "faring",
-    "fart",
     "farting",
     "fating",
     "fiat",
@@ -40,7 +40,9 @@
     "grafting",
     "griffin",
     "infant",
+    "infra",
     "infringing",
+    "naif",
     "raffia",
     "raft",
     "rafting",
@@ -57,9 +59,9 @@
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 3,
+      "5": 4,
       "6": 9,
-      "7": 10,
+      "7": 11,
       "8": 6,
       "10": 1
     },
@@ -67,7 +69,8 @@
       "A": 2,
       "F": 19,
       "G": 8,
-      "I": 2,
+      "I": 3,
+      "N": 1,
       "R": 8,
       "T": 3
     },
@@ -77,10 +80,10 @@
         "6": 1
       },
       "F": {
-        "4": 6,
+        "4": 5,
         "5": 2,
         "6": 5,
-        "7": 3,
+        "7": 4,
         "8": 3
       },
       "G": {
@@ -90,8 +93,12 @@
         "8": 2
       },
       "I": {
+        "5": 1,
         "6": 1,
         "10": 1
+      },
+      "N": {
+        "4": 1
       },
       "R": {
         "4": 3,
@@ -113,7 +120,8 @@
       "GA": 2,
       "GI": 2,
       "GR": 4,
-      "IN": 2,
+      "IN": 3,
+      "NA": 1,
       "RA": 3,
       "RI": 5,
       "TA": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "cowling",
   "center_letter": "l",
-  "num_answers": 51,
+  "num_answers": 53,
   "num_pangrams": 2,
-  "possible_points": 255,
+  "possible_points": 270,
   "answer_pangrams": [
     "clowning",
     "cowling"
@@ -34,6 +34,7 @@
     "googling",
     "igloo",
     "inclining",
+    "lignin",
     "lingo",
     "lining",
     "lion",
@@ -51,6 +52,7 @@
     "loon",
     "lowing",
     "niggling",
+    "nonillion",
     "ogling",
     "oiling",
     "olio",
@@ -66,17 +68,17 @@
     "by_length": {
       "4": 17,
       "5": 8,
-      "6": 8,
+      "6": 9,
       "7": 9,
       "8": 8,
-      "9": 1
+      "9": 2
     },
     "by_first_letter": {
       "C": 16,
       "G": 7,
       "I": 2,
-      "L": 16,
-      "N": 1,
+      "L": 17,
+      "N": 2,
       "O": 3,
       "W": 6
     },
@@ -101,11 +103,12 @@
       "L": {
         "4": 8,
         "5": 3,
-        "6": 2,
+        "6": 3,
         "7": 3
       },
       "N": {
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "O": {
         "4": 1,
@@ -126,9 +129,10 @@
       "GO": 2,
       "IG": 1,
       "IN": 1,
-      "LI": 3,
+      "LI": 4,
       "LO": 13,
       "NI": 1,
+      "NO": 1,
       "OG": 1,
       "OI": 1,
       "OL": 1,

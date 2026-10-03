@@ -1,9 +1,9 @@
 {
   "pangram": "peaking",
   "center_letter": "e",
-  "num_answers": 44,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 176,
+  "possible_points": 181,
   "answer_pangrams": [
     "peaking"
   ],
@@ -38,12 +38,12 @@
     "pane",
     "peak",
     "peaking",
-    "peeing",
     "peek",
     "peeking",
     "peen",
     "peep",
     "peeping",
+    "penne",
     "penning",
     "pepping",
     "pieing",
@@ -51,13 +51,14 @@
     "pike",
     "pine",
     "pinkie",
+    "pinnae",
     "pipe"
   ],
   "date": "2027-08-19",
   "hints": {
     "by_length": {
       "4": 20,
-      "5": 6,
+      "5": 7,
       "6": 8,
       "7": 9,
       "8": 1
@@ -69,7 +70,7 @@
       "I": 1,
       "K": 7,
       "N": 4,
-      "P": 19
+      "P": 20
     },
     "grid": {
       "A": {
@@ -98,7 +99,7 @@
       },
       "P": {
         "4": 9,
-        "5": 1,
+        "5": 2,
         "6": 4,
         "7": 5
       }
@@ -119,7 +120,7 @@
       "NI": 1,
       "PA": 3,
       "PE": 10,
-      "PI": 6
+      "PI": 7
     }
   }
 }

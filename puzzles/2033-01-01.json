@@ -1,9 +1,9 @@
 {
   "pangram": "fixable",
   "center_letter": "f",
-  "num_answers": 32,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 119,
+  "possible_points": 138,
   "answer_pangrams": [
     "fixable"
   ],
@@ -18,13 +18,16 @@
     "befell",
     "belief",
     "biff",
+    "effable",
     "fable",
     "fail",
+    "falafel",
     "fall",
     "fallible",
     "feeble",
     "feel",
     "fell",
+    "fella",
     "fief",
     "fife",
     "file",
@@ -45,15 +48,16 @@
   "hints": {
     "by_length": {
       "4": 17,
-      "5": 3,
+      "5": 4,
       "6": 6,
-      "7": 4,
+      "7": 6,
       "8": 2
     },
     "by_first_letter": {
       "A": 3,
       "B": 7,
-      "F": 20,
+      "E": 1,
+      "F": 22,
       "L": 2
     },
     "grid": {
@@ -66,11 +70,14 @@
         "6": 4,
         "7": 1
       },
+      "E": {
+        "7": 1
+      },
       "F": {
         "4": 13,
-        "5": 2,
+        "5": 3,
         "6": 2,
-        "7": 1,
+        "7": 2,
         "8": 2
       },
       "L": {
@@ -83,8 +90,9 @@
       "BA": 2,
       "BE": 4,
       "BI": 1,
-      "FA": 4,
-      "FE": 3,
+      "EF": 1,
+      "FA": 5,
+      "FE": 4,
       "FI": 6,
       "FL": 7,
       "LE": 1,

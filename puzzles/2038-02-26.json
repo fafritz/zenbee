@@ -1,9 +1,9 @@
 {
   "pangram": "albumin",
   "center_letter": "l",
-  "num_answers": 45,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 157,
+  "possible_points": 167,
   "answer_pangrams": [
     "albumin"
   ],
@@ -15,7 +15,6 @@
     "aluminum",
     "alumna",
     "alumni",
-    "anal",
     "animal",
     "annual",
     "annul",
@@ -29,11 +28,13 @@
     "bulb",
     "bulimia",
     "bull",
+    "inulin",
     "labia",
     "labial",
     "lain",
     "lama",
     "lamb",
+    "lanai",
     "limb",
     "limn",
     "llama",
@@ -57,24 +58,25 @@
   "date": "2038-02-26",
   "hints": {
     "by_length": {
-      "4": 25,
-      "5": 6,
-      "6": 7,
+      "4": 24,
+      "5": 7,
+      "6": 8,
       "7": 4,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
-      "A": 11,
+      "A": 10,
       "B": 10,
-      "L": 11,
+      "I": 1,
+      "L": 12,
       "M": 10,
       "N": 2,
       "U": 1
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 3,
         "6": 4,
         "7": 1,
@@ -86,9 +88,12 @@
         "7": 1,
         "8": 1
       },
+      "I": {
+        "6": 1
+      },
       "L": {
         "4": 8,
-        "5": 2,
+        "5": 3,
         "6": 1
       },
       "M": {
@@ -106,12 +111,13 @@
     },
     "two_letter_list": {
       "AL": 7,
-      "AN": 4,
+      "AN": 3,
       "BA": 4,
       "BI": 2,
       "BL": 1,
       "BU": 3,
-      "LA": 5,
+      "IN": 1,
+      "LA": 6,
       "LI": 2,
       "LL": 1,
       "LU": 3,

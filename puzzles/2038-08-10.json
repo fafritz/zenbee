@@ -1,9 +1,9 @@
 {
   "pangram": "calumny",
   "center_letter": "a",
-  "num_answers": 51,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 209,
+  "possible_points": 208,
   "answer_pangrams": [
     "calumny"
   ],
@@ -13,7 +13,6 @@
     "almanac",
     "alum",
     "alumna",
-    "anal",
     "annual",
     "annually",
     "annul",
@@ -63,14 +62,14 @@
   "date": "2038-08-10",
   "hints": {
     "by_length": {
-      "4": 20,
+      "4": 19,
       "5": 13,
       "6": 11,
       "7": 5,
       "8": 2
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 8,
       "C": 16,
       "L": 7,
       "M": 11,
@@ -80,7 +79,7 @@
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 2,
         "6": 2,
         "7": 1,
@@ -118,7 +117,7 @@
     },
     "two_letter_list": {
       "AL": 5,
-      "AN": 4,
+      "AN": 3,
       "CA": 11,
       "CL": 4,
       "CY": 1,

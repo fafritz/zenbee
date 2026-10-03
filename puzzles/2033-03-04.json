@@ -1,9 +1,9 @@
 {
   "pangram": "harping",
   "center_letter": "h",
-  "num_answers": 20,
+  "num_answers": 19,
   "num_pangrams": 3,
-  "possible_points": 127,
+  "possible_points": 126,
   "answer_pangrams": [
     "graphing",
     "harping",
@@ -21,7 +21,6 @@
     "harp",
     "harping",
     "high",
-    "hing",
     "hinging",
     "hipping",
     "hiring",
@@ -34,7 +33,7 @@
   "date": "2033-03-04",
   "hints": {
     "by_length": {
-      "4": 6,
+      "4": 5,
       "5": 1,
       "6": 4,
       "7": 6,
@@ -44,7 +43,7 @@
     },
     "by_first_letter": {
       "G": 2,
-      "H": 13,
+      "H": 12,
       "N": 1,
       "P": 4
     },
@@ -54,7 +53,7 @@
         "8": 1
       },
       "H": {
-        "4": 5,
+        "4": 4,
         "6": 3,
         "7": 5
       },
@@ -71,7 +70,7 @@
     "two_letter_list": {
       "GR": 2,
       "HA": 8,
-      "HI": 5,
+      "HI": 4,
       "NI": 1,
       "PA": 3,
       "PI": 1

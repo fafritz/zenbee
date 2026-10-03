@@ -1,9 +1,9 @@
 {
   "pangram": "phantom",
   "center_letter": "p",
-  "num_answers": 16,
+  "num_answers": 17,
   "num_pangrams": 1,
-  "possible_points": 60,
+  "possible_points": 65,
   "answer_pangrams": [
     "phantom"
   ],
@@ -11,6 +11,7 @@
     "atop",
     "hoop",
     "naphtha",
+    "pampa",
     "pant",
     "papa",
     "path",
@@ -29,7 +30,7 @@
   "hints": {
     "by_length": {
       "4": 9,
-      "5": 1,
+      "5": 2,
       "6": 3,
       "7": 3
     },
@@ -37,7 +38,7 @@
       "A": 1,
       "H": 1,
       "N": 1,
-      "P": 11,
+      "P": 12,
       "T": 2
     },
     "grid": {
@@ -52,7 +53,7 @@
       },
       "P": {
         "4": 6,
-        "5": 1,
+        "5": 2,
         "6": 2,
         "7": 2
       },
@@ -65,7 +66,7 @@
       "AT": 1,
       "HO": 1,
       "NA": 1,
-      "PA": 3,
+      "PA": 4,
       "PH": 3,
       "PO": 5,
       "TA": 2

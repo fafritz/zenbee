@@ -1,9 +1,9 @@
 {
   "pangram": "faintly",
   "center_letter": "l",
-  "num_answers": 43,
+  "num_answers": 44,
   "num_pangrams": 2,
-  "possible_points": 179,
+  "possible_points": 190,
   "answer_pangrams": [
     "faintly",
     "finality"
@@ -12,7 +12,6 @@
     "alfalfa",
     "allay",
     "ally",
-    "anal",
     "fail",
     "faintly",
     "fall",
@@ -39,6 +38,8 @@
     "inlay",
     "lain",
     "laity",
+    "lanai",
+    "lantana",
     "lift",
     "lilt",
     "lily",
@@ -56,24 +57,24 @@
   "date": "2038-11-11",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 11,
+      "4": 18,
+      "5": 12,
       "6": 4,
-      "7": 6,
+      "7": 7,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
-      "A": 4,
+      "A": 3,
       "F": 21,
       "I": 3,
-      "L": 7,
+      "L": 9,
       "N": 3,
       "T": 5
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 1,
         "7": 1
       },
@@ -91,8 +92,9 @@
       },
       "L": {
         "4": 5,
-        "5": 1,
-        "6": 1
+        "5": 2,
+        "6": 1,
+        "7": 1
       },
       "N": {
         "4": 1,
@@ -106,12 +108,11 @@
     },
     "two_letter_list": {
       "AL": 3,
-      "AN": 1,
       "FA": 6,
       "FI": 7,
       "FL": 8,
       "IN": 3,
-      "LA": 2,
+      "LA": 4,
       "LI": 5,
       "NA": 3,
       "TA": 3,

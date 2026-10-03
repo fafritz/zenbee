@@ -1,9 +1,9 @@
 {
   "pangram": "munched",
   "center_letter": "c",
-  "num_answers": 19,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 95,
+  "possible_points": 106,
   "answer_pangrams": [
     "munched"
   ],
@@ -17,7 +17,9 @@
     "deduce",
     "deduced",
     "deuce",
+    "deuced",
     "dunce",
+    "educe",
     "emcee",
     "emceed",
     "hence",
@@ -32,15 +34,15 @@
   "hints": {
     "by_length": {
       "4": 5,
-      "5": 7,
-      "6": 2,
+      "5": 8,
+      "6": 3,
       "7": 4,
       "8": 1
     },
     "by_first_letter": {
       "C": 6,
-      "D": 4,
-      "E": 2,
+      "D": 5,
+      "E": 3,
       "H": 4,
       "M": 3
     },
@@ -52,11 +54,11 @@
       },
       "D": {
         "5": 2,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "E": {
-        "5": 1,
+        "5": 2,
         "6": 1
       },
       "H": {
@@ -74,8 +76,9 @@
       "CE": 2,
       "CH": 3,
       "CU": 1,
-      "DE": 3,
+      "DE": 4,
       "DU": 1,
+      "ED": 1,
       "EM": 2,
       "HE": 2,
       "HU": 2,

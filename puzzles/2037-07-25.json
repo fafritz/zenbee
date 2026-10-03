@@ -1,9 +1,9 @@
 {
   "pangram": "diploma",
   "center_letter": "i",
-  "num_answers": 31,
+  "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 93,
+  "possible_points": 91,
   "answer_pangrams": [
     "diploma"
   ],
@@ -16,8 +16,6 @@
     "idol",
     "imam",
     "impala",
-    "ipad",
-    "ipod",
     "laid",
     "limo",
     "limp",
@@ -43,7 +41,7 @@
   "date": "2037-07-25",
   "hints": {
     "by_length": {
-      "4": 20,
+      "4": 18,
       "5": 4,
       "6": 4,
       "7": 2,
@@ -52,7 +50,7 @@
     "by_first_letter": {
       "A": 1,
       "D": 3,
-      "I": 6,
+      "I": 4,
       "L": 6,
       "M": 5,
       "O": 2,
@@ -67,7 +65,7 @@
         "7": 1
       },
       "I": {
-        "4": 4,
+        "4": 2,
         "5": 1,
         "6": 1
       },
@@ -96,7 +94,6 @@
       "DI": 3,
       "ID": 2,
       "IM": 2,
-      "IP": 2,
       "LA": 1,
       "LI": 4,
       "LO": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "melodic",
   "center_letter": "l",
-  "num_answers": 72,
+  "num_answers": 75,
   "num_pangrams": 3,
-  "possible_points": 308,
+  "possible_points": 320,
   "answer_pangrams": [
     "domicile",
     "domiciled",
@@ -11,6 +11,7 @@
   ],
   "answers": [
     "cell",
+    "celled",
     "cello",
     "clime",
     "clod",
@@ -27,7 +28,7 @@
     "colloid",
     "cool",
     "cooled",
-    "coolie",
+    "decile",
     "deli",
     "dell",
     "diddle",
@@ -42,12 +43,14 @@
     "domiciled",
     "doodle",
     "doodled",
+    "eeled",
     "elide",
     "elided",
     "icicle",
     "idle",
     "idled",
     "idol",
+    "lede",
     "lice",
     "lidded",
     "lied",
@@ -86,19 +89,19 @@
   "date": "2034-02-14",
   "hints": {
     "by_length": {
-      "4": 30,
-      "5": 11,
-      "6": 19,
+      "4": 31,
+      "5": 12,
+      "6": 20,
       "7": 9,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
       "C": 18,
-      "D": 14,
-      "E": 2,
+      "D": 15,
+      "E": 3,
       "I": 4,
-      "L": 13,
+      "L": 14,
       "M": 17,
       "O": 4
     },
@@ -113,13 +116,13 @@
       "D": {
         "4": 5,
         "5": 1,
-        "6": 4,
+        "6": 5,
         "7": 2,
         "8": 1,
         "9": 1
       },
       "E": {
-        "5": 1,
+        "5": 2,
         "6": 1
       },
       "I": {
@@ -128,7 +131,7 @@
         "6": 1
       },
       "L": {
-        "4": 9,
+        "4": 10,
         "5": 1,
         "6": 3
       },
@@ -144,15 +147,17 @@
       }
     },
     "two_letter_list": {
-      "CE": 2,
+      "CE": 3,
       "CL": 2,
-      "CO": 14,
-      "DE": 2,
+      "CO": 13,
+      "DE": 3,
       "DI": 3,
       "DO": 9,
+      "EE": 1,
       "EL": 2,
       "IC": 1,
       "ID": 3,
+      "LE": 1,
       "LI": 6,
       "LO": 7,
       "ME": 6,

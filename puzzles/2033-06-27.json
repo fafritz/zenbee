@@ -1,9 +1,9 @@
 {
   "pangram": "romping",
   "center_letter": "p",
-  "num_answers": 46,
+  "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 236,
+  "possible_points": 250,
   "answer_pangrams": [
     "romping"
   ],
@@ -31,12 +31,15 @@
     "piping",
     "pippin",
     "pipping",
+    "pirogi",
+    "pogo",
+    "pogoing",
     "pogrom",
     "pomp",
     "poop",
-    "pooping",
     "poor",
     "popping",
+    "porging",
     "poring",
     "prig",
     "prim",
@@ -58,10 +61,10 @@
   "date": "2033-06-27",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 15,
       "5": 4,
-      "6": 8,
-      "7": 15,
+      "6": 9,
+      "7": 16,
       "8": 3,
       "9": 2
     },
@@ -71,7 +74,7 @@
       "M": 2,
       "N": 1,
       "O": 2,
-      "P": 31,
+      "P": 34,
       "R": 4
     },
     "grid": {
@@ -94,10 +97,10 @@
         "7": 2
       },
       "P": {
-        "4": 10,
+        "4": 11,
         "5": 4,
-        "6": 6,
-        "7": 8,
+        "6": 7,
+        "7": 9,
         "8": 2,
         "9": 1
       },
@@ -114,8 +117,8 @@
       "MO": 2,
       "NI": 1,
       "OP": 2,
-      "PI": 12,
-      "PO": 7,
+      "PI": 13,
+      "PO": 9,
       "PR": 12,
       "RI": 1,
       "RO": 3

@@ -1,9 +1,9 @@
 {
   "pangram": "chantey",
   "center_letter": "e",
-  "num_answers": 55,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 251,
+  "possible_points": 257,
   "answer_pangrams": [
     "chantey"
   ],
@@ -44,6 +44,7 @@
     "henna",
     "hyena",
     "neat",
+    "neaten",
     "neath",
     "nene",
     "teach",
@@ -69,7 +70,7 @@
     "by_length": {
       "4": 18,
       "5": 15,
-      "6": 6,
+      "6": 7,
       "7": 13,
       "8": 3
     },
@@ -78,7 +79,7 @@
       "C": 11,
       "E": 8,
       "H": 8,
-      "N": 3,
+      "N": 4,
       "T": 16,
       "Y": 1
     },
@@ -109,7 +110,8 @@
       },
       "N": {
         "4": 2,
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "T": {
         "4": 6,
@@ -135,7 +137,7 @@
       "HA": 2,
       "HE": 5,
       "HY": 1,
-      "NE": 3,
+      "NE": 4,
       "TE": 11,
       "TH": 5,
       "YE": 1

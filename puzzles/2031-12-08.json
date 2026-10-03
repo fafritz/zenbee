@@ -1,9 +1,9 @@
 {
   "pangram": "tangelo",
   "center_letter": "g",
-  "num_answers": 67,
+  "num_answers": 69,
   "num_pangrams": 2,
-  "possible_points": 304,
+  "possible_points": 309,
   "answer_pangrams": [
     "elongate",
     "tangelo"
@@ -26,8 +26,10 @@
     "elongate",
     "engage",
     "entangle",
+    "gaga",
     "gaggle",
     "gala",
+    "galangal",
     "gale",
     "galena",
     "gall",
@@ -52,7 +54,6 @@
     "goggle",
     "gone",
     "gong",
-    "gonna",
     "google",
     "goon",
     "gotten",
@@ -75,25 +76,26 @@
     "toga",
     "toggle",
     "tollgate",
+    "tong",
     "tonnage"
   ],
   "date": "2031-12-08",
   "hints": {
     "by_length": {
-      "4": 23,
-      "5": 12,
+      "4": 25,
+      "5": 11,
       "6": 20,
       "7": 9,
-      "8": 3
+      "8": 4
     },
     "by_first_letter": {
       "A": 10,
       "E": 7,
-      "G": 30,
+      "G": 31,
       "L": 8,
       "N": 1,
       "O": 1,
-      "T": 10
+      "T": 11
     },
     "grid": {
       "A": {
@@ -108,10 +110,11 @@
         "8": 2
       },
       "G": {
-        "4": 15,
-        "5": 3,
+        "4": 16,
+        "5": 2,
         "6": 9,
-        "7": 3
+        "7": 3,
+        "8": 1
       },
       "L": {
         "4": 3,
@@ -126,7 +129,7 @@
         "4": 1
       },
       "T": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "6": 2,
         "7": 4,
@@ -141,11 +144,11 @@
       "EG": 1,
       "EL": 2,
       "EN": 2,
-      "GA": 11,
+      "GA": 13,
       "GE": 4,
       "GL": 4,
       "GN": 1,
-      "GO": 10,
+      "GO": 9,
       "LA": 1,
       "LE": 4,
       "LO": 3,
@@ -153,7 +156,7 @@
       "OG": 1,
       "TA": 5,
       "TE": 1,
-      "TO": 4
+      "TO": 5
     }
   }
 }

@@ -3,7 +3,7 @@
   "center_letter": "l",
   "num_answers": 78,
   "num_pangrams": 5,
-  "possible_points": 478,
+  "possible_points": 479,
   "answer_pangrams": [
     "enlighten",
     "enlightening",
@@ -12,6 +12,7 @@
     "lightening"
   ],
   "answers": [
+    "eeling",
     "elite",
     "enlighten",
     "enlightening",
@@ -42,7 +43,6 @@
     "intel",
     "intelligent",
     "legging",
-    "legit",
     "length",
     "lengthen",
     "lengthening",
@@ -57,6 +57,7 @@
     "lightening",
     "lighting",
     "lightning",
+    "lignin",
     "lignite",
     "lilt",
     "lilting",
@@ -78,7 +79,6 @@
     "niggling",
     "tell",
     "telling",
-    "telnet",
     "tile",
     "tiling",
     "till",
@@ -95,8 +95,8 @@
   "hints": {
     "by_length": {
       "4": 18,
-      "5": 10,
-      "6": 15,
+      "5": 9,
+      "6": 16,
       "7": 16,
       "8": 9,
       "9": 5,
@@ -105,17 +105,18 @@
       "12": 2
     },
     "by_first_letter": {
-      "E": 5,
+      "E": 6,
       "G": 13,
       "H": 7,
       "I": 4,
       "L": 29,
       "N": 6,
-      "T": 14
+      "T": 13
     },
     "grid": {
       "E": {
         "5": 1,
+        "6": 1,
         "7": 1,
         "9": 2,
         "12": 1
@@ -140,8 +141,8 @@
       },
       "L": {
         "4": 6,
-        "5": 5,
-        "6": 6,
+        "5": 4,
+        "6": 7,
         "7": 7,
         "8": 2,
         "9": 1,
@@ -156,12 +157,13 @@
       "T": {
         "4": 4,
         "5": 1,
-        "6": 4,
+        "6": 3,
         "7": 4,
         "8": 1
       }
     },
     "two_letter_list": {
+      "EE": 1,
       "EL": 1,
       "EN": 4,
       "GE": 5,
@@ -170,11 +172,11 @@
       "HE": 3,
       "HI": 4,
       "IN": 4,
-      "LE": 9,
-      "LI": 20,
+      "LE": 8,
+      "LI": 21,
       "NE": 4,
       "NI": 2,
-      "TE": 3,
+      "TE": 2,
       "TI": 11
     }
   }

@@ -1,9 +1,9 @@
 {
   "pangram": "quoting",
   "center_letter": "o",
-  "num_answers": 38,
+  "num_answers": 40,
   "num_pangrams": 3,
-  "possible_points": 219,
+  "possible_points": 227,
   "answer_pangrams": [
     "quoiting",
     "quoting",
@@ -36,6 +36,8 @@
     "quoit",
     "quoiting",
     "quoting",
+    "tong",
+    "tonging",
     "tonguing",
     "toning",
     "toon",
@@ -52,10 +54,10 @@
   "date": "2030-11-14",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 11,
       "5": 6,
       "6": 6,
-      "7": 8,
+      "7": 9,
       "8": 6,
       "9": 2
     },
@@ -65,7 +67,7 @@
       "N": 6,
       "O": 6,
       "Q": 3,
-      "T": 10,
+      "T": 12,
       "U": 2
     },
     "grid": {
@@ -98,9 +100,9 @@
         "8": 1
       },
       "T": {
-        "4": 3,
+        "4": 4,
         "6": 2,
-        "7": 4,
+        "7": 5,
         "8": 1
       },
       "U": {
@@ -116,7 +118,7 @@
       "ON": 3,
       "OU": 3,
       "QU": 3,
-      "TO": 9,
+      "TO": 11,
       "TU": 1,
       "UN": 2
     }

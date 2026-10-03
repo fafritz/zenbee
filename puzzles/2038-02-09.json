@@ -1,9 +1,9 @@
 {
   "pangram": "flouted",
   "center_letter": "u",
-  "num_answers": 47,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 190,
+  "possible_points": 191,
   "answer_pangrams": [
     "flouted"
   ],
@@ -41,6 +41,7 @@
     "fulled",
     "loud",
     "lout",
+    "luff",
     "lull",
     "lulled",
     "lulu",
@@ -59,7 +60,7 @@
   "date": "2038-02-09",
   "hints": {
     "by_length": {
-      "4": 19,
+      "4": 20,
       "5": 9,
       "6": 14,
       "7": 5
@@ -68,7 +69,7 @@
       "D": 11,
       "E": 3,
       "F": 17,
-      "L": 6,
+      "L": 7,
       "O": 3,
       "T": 7
     },
@@ -90,7 +91,7 @@
         "7": 3
       },
       "L": {
-        "4": 5,
+        "4": 6,
         "6": 1
       },
       "O": {
@@ -114,7 +115,7 @@
       "FO": 2,
       "FU": 6,
       "LO": 2,
-      "LU": 4,
+      "LU": 5,
       "OU": 3,
       "TO": 3,
       "TU": 4

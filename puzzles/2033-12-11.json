@@ -1,9 +1,9 @@
 {
   "pangram": "unloved",
   "center_letter": "o",
-  "num_answers": 44,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 169,
+  "possible_points": 164,
   "answer_pangrams": [
     "unloved"
   ],
@@ -20,7 +20,6 @@
     "doodle",
     "doodled",
     "dove",
-    "dunno",
     "evolve",
     "evolved",
     "lode",
@@ -57,13 +56,13 @@
   "hints": {
     "by_length": {
       "4": 21,
-      "5": 6,
+      "5": 5,
       "6": 10,
       "7": 5,
       "8": 2
     },
     "by_first_letter": {
-      "D": 13,
+      "D": 12,
       "E": 2,
       "L": 8,
       "N": 11,
@@ -74,7 +73,7 @@
     "grid": {
       "D": {
         "4": 5,
-        "5": 2,
+        "5": 1,
         "6": 3,
         "7": 2,
         "8": 1
@@ -112,7 +111,6 @@
     "two_letter_list": {
       "DE": 2,
       "DO": 10,
-      "DU": 1,
       "EV": 2,
       "LO": 8,
       "NE": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "clarify",
   "center_letter": "y",
-  "num_answers": 34,
+  "num_answers": 33,
   "num_pangrams": 1,
-  "possible_points": 173,
+  "possible_points": 172,
   "answer_pangrams": [
     "clarify"
   ],
@@ -19,7 +19,6 @@
     "carryall",
     "clarify",
     "clay",
-    "cray",
     "cyclic",
     "cyclical",
     "cyclically",
@@ -46,7 +45,7 @@
   "date": "2034-11-16",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 9,
       "5": 8,
       "6": 5,
       "7": 5,
@@ -56,7 +55,7 @@
     },
     "by_first_letter": {
       "A": 6,
-      "C": 9,
+      "C": 8,
       "F": 8,
       "I": 2,
       "L": 5,
@@ -70,7 +69,7 @@
         "7": 1
       },
       "C": {
-        "4": 2,
+        "4": 1,
         "5": 1,
         "6": 1,
         "7": 2,
@@ -108,7 +107,6 @@
       "AR": 1,
       "CA": 3,
       "CL": 2,
-      "CR": 1,
       "CY": 3,
       "FA": 4,
       "FI": 1,

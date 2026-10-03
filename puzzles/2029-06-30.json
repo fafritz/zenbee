@@ -1,16 +1,15 @@
 {
   "pangram": "halogen",
   "center_letter": "n",
-  "num_answers": 43,
+  "num_answers": 42,
   "num_pangrams": 1,
-  "possible_points": 137,
+  "possible_points": 139,
   "answer_pangrams": [
     "halogen"
   ],
   "answers": [
     "alone",
     "along",
-    "anal",
     "analog",
     "angel",
     "angle",
@@ -19,6 +18,7 @@
     "eggnog",
     "elan",
     "engage",
+    "galangal",
     "galena",
     "galleon",
     "gallon",
@@ -28,7 +28,6 @@
     "glen",
     "gone",
     "gong",
-    "gonna",
     "goon",
     "halogen",
     "halon",
@@ -55,13 +54,14 @@
   "date": "2029-06-30",
   "hints": {
     "by_length": {
-      "4": 24,
-      "5": 10,
+      "4": 23,
+      "5": 9,
       "6": 7,
-      "7": 2
+      "7": 2,
+      "8": 1
     },
     "by_first_letter": {
-      "A": 8,
+      "A": 7,
       "E": 3,
       "G": 11,
       "H": 6,
@@ -70,7 +70,7 @@
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 4,
         "6": 2
       },
@@ -80,9 +80,10 @@
       },
       "G": {
         "4": 6,
-        "5": 2,
+        "5": 1,
         "6": 2,
-        "7": 1
+        "7": 1,
+        "8": 1
       },
       "H": {
         "4": 2,
@@ -100,14 +101,14 @@
     },
     "two_letter_list": {
       "AL": 2,
-      "AN": 6,
+      "AN": 5,
       "EG": 1,
       "EL": 1,
       "EN": 1,
-      "GA": 4,
+      "GA": 5,
       "GE": 1,
       "GL": 2,
-      "GO": 4,
+      "GO": 3,
       "HA": 3,
       "HE": 1,
       "HO": 2,

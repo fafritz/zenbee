@@ -1,9 +1,9 @@
 {
   "pangram": "darling",
   "center_letter": "d",
-  "num_answers": 70,
+  "num_answers": 72,
   "num_pangrams": 3,
-  "possible_points": 394,
+  "possible_points": 410,
   "answer_pangrams": [
     "darling",
     "garlanding",
@@ -53,6 +53,7 @@
     "grading",
     "grand",
     "grid",
+    "griddling",
     "grind",
     "grinding",
     "idling",
@@ -66,6 +67,7 @@
     "landing",
     "lard",
     "larding",
+    "lidding",
     "nadir",
     "naiad",
     "radar",
@@ -87,16 +89,17 @@
       "4": 16,
       "5": 11,
       "6": 12,
-      "7": 20,
+      "7": 21,
       "8": 10,
+      "9": 1,
       "10": 1
     },
     "by_first_letter": {
       "A": 4,
       "D": 23,
-      "G": 18,
+      "G": 19,
       "I": 3,
-      "L": 8,
+      "L": 9,
       "N": 2,
       "R": 12
     },
@@ -118,6 +121,7 @@
         "5": 3,
         "7": 6,
         "8": 3,
+        "9": 1,
         "10": 1
       },
       "I": {
@@ -126,7 +130,7 @@
       "L": {
         "4": 3,
         "6": 1,
-        "7": 4
+        "7": 5
       },
       "N": {
         "5": 2
@@ -149,10 +153,11 @@
       "GA": 4,
       "GI": 5,
       "GL": 3,
-      "GR": 6,
+      "GR": 7,
       "ID": 1,
       "IN": 2,
       "LA": 8,
+      "LI": 1,
       "NA": 2,
       "RA": 6,
       "RI": 6

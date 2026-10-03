@@ -1,9 +1,9 @@
 {
   "pangram": "flanked",
   "center_letter": "f",
-  "num_answers": 34,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 149,
+  "possible_points": 161,
   "answer_pangrams": [
     "flanked"
   ],
@@ -18,12 +18,14 @@
     "faded",
     "fake",
     "faked",
+    "falafel",
     "fall",
     "fallen",
     "fanned",
     "feed",
     "feel",
     "fell",
+    "fella",
     "felled",
     "fend",
     "fended",
@@ -47,16 +49,16 @@
   "hints": {
     "by_length": {
       "4": 14,
-      "5": 4,
+      "5": 5,
       "6": 9,
-      "7": 3,
+      "7": 4,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
       "A": 1,
       "D": 5,
-      "F": 25,
+      "F": 27,
       "L": 3
     },
     "grid": {
@@ -70,9 +72,9 @@
       },
       "F": {
         "4": 12,
-        "5": 4,
+        "5": 5,
         "6": 6,
-        "7": 2,
+        "7": 3,
         "9": 1
       },
       "L": {
@@ -84,8 +86,8 @@
     "two_letter_list": {
       "AL": 1,
       "DE": 5,
-      "FA": 7,
-      "FE": 7,
+      "FA": 8,
+      "FE": 8,
       "FL": 11,
       "LA": 1,
       "LE": 2

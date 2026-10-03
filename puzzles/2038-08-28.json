@@ -3,7 +3,7 @@
   "center_letter": "d",
   "num_answers": 36,
   "num_pangrams": 2,
-  "possible_points": 158,
+  "possible_points": 163,
   "answer_pangrams": [
     "lapidary",
     "rapidly"
@@ -22,11 +22,11 @@
     "dray",
     "drill",
     "drip",
+    "drippy",
     "dryad",
     "dryly",
     "idly",
     "idyll",
-    "ipad",
     "lady",
     "laid",
     "lapidary",
@@ -49,17 +49,17 @@
   "date": "2038-08-28",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 12,
       "5": 16,
-      "6": 3,
+      "6": 4,
       "7": 1,
       "8": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 1,
-      "D": 14,
-      "I": 3,
+      "D": 15,
+      "I": 2,
       "L": 5,
       "P": 5,
       "R": 7,
@@ -72,10 +72,11 @@
       "D": {
         "4": 4,
         "5": 9,
+        "6": 1,
         "10": 1
       },
       "I": {
-        "4": 2,
+        "4": 1,
         "5": 1
       },
       "L": {
@@ -103,9 +104,8 @@
       "AR": 1,
       "DA": 4,
       "DI": 5,
-      "DR": 5,
+      "DR": 6,
       "ID": 2,
-      "IP": 1,
       "LA": 4,
       "LI": 1,
       "PA": 4,

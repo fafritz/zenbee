@@ -1,9 +1,9 @@
 {
   "pangram": "furling",
   "center_letter": "g",
-  "num_answers": 61,
+  "num_answers": 63,
   "num_pangrams": 3,
-  "possible_points": 388,
+  "possible_points": 400,
   "answer_pangrams": [
     "furling",
     "ruffling",
@@ -48,8 +48,10 @@
     "infringing",
     "inning",
     "inuring",
+    "lignin",
     "lining",
     "lugging",
+    "luging",
     "lulling",
     "lung",
     "lunging",
@@ -77,7 +79,7 @@
     "by_length": {
       "4": 10,
       "5": 6,
-      "6": 10,
+      "6": 12,
       "7": 20,
       "8": 11,
       "9": 1,
@@ -87,7 +89,7 @@
       "F": 15,
       "G": 20,
       "I": 3,
-      "L": 6,
+      "L": 8,
       "N": 1,
       "R": 14,
       "U": 2
@@ -115,7 +117,7 @@
       },
       "L": {
         "4": 1,
-        "6": 2,
+        "6": 4,
         "7": 3
       },
       "N": {
@@ -143,8 +145,8 @@
       "GR": 6,
       "GU": 8,
       "IN": 3,
-      "LI": 1,
-      "LU": 5,
+      "LI": 2,
+      "LU": 6,
       "NI": 1,
       "RI": 7,
       "RU": 7,

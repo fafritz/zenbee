@@ -1,9 +1,9 @@
 {
   "pangram": "unloved",
   "center_letter": "u",
-  "num_answers": 32,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 147,
+  "possible_points": 137,
   "answer_pangrams": [
     "unloved"
   ],
@@ -20,10 +20,8 @@
     "dulled",
     "dune",
     "dunned",
-    "dunno",
     "elude",
     "eluded",
-    "endue",
     "endued",
     "loud",
     "lull",
@@ -45,14 +43,14 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 7,
+      "5": 5,
       "6": 11,
       "7": 3,
       "8": 1
     },
     "by_first_letter": {
-      "D": 13,
-      "E": 4,
+      "D": 12,
+      "E": 3,
       "L": 4,
       "N": 3,
       "O": 1,
@@ -62,12 +60,12 @@
     "grid": {
       "D": {
         "4": 4,
-        "5": 2,
+        "5": 1,
         "6": 5,
         "7": 2
       },
       "E": {
-        "5": 2,
+        "5": 1,
         "6": 2
       },
       "L": {
@@ -94,9 +92,9 @@
     },
     "two_letter_list": {
       "DE": 4,
-      "DU": 9,
+      "DU": 8,
       "EL": 2,
-      "EN": 2,
+      "EN": 1,
       "LO": 1,
       "LU": 3,
       "NO": 2,

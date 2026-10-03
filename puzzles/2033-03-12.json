@@ -1,9 +1,9 @@
 {
   "pangram": "wrought",
   "center_letter": "h",
-  "num_answers": 22,
+  "num_answers": 21,
   "num_pangrams": 2,
-  "possible_points": 126,
+  "possible_points": 125,
   "answer_pangrams": [
     "outgrowth",
     "wrought"
@@ -18,7 +18,6 @@
     "outgrowth",
     "rough",
     "thorough",
-    "thou",
     "though",
     "thought",
     "through",
@@ -35,7 +34,7 @@
   "date": "2033-03-12",
   "hints": {
     "by_length": {
-      "4": 5,
+      "4": 4,
       "5": 7,
       "6": 4,
       "7": 3,
@@ -48,7 +47,7 @@
       "H": 4,
       "O": 2,
       "R": 1,
-      "T": 12,
+      "T": 11,
       "W": 2
     },
     "grid": {
@@ -67,7 +66,7 @@
         "5": 1
       },
       "T": {
-        "4": 2,
+        "4": 1,
         "5": 4,
         "6": 2,
         "7": 2,
@@ -85,7 +84,7 @@
       "HU": 1,
       "OU": 2,
       "RO": 1,
-      "TH": 8,
+      "TH": 7,
       "TO": 2,
       "TR": 2,
       "WO": 1,

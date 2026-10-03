@@ -1,14 +1,15 @@
 {
   "pangram": "melting",
   "center_letter": "g",
-  "num_answers": 76,
+  "num_answers": 77,
   "num_pangrams": 2,
-  "possible_points": 500,
+  "possible_points": 507,
   "answer_pangrams": [
     "gimleting",
     "melting"
   ],
   "answers": [
+    "eeling",
     "egging",
     "emitting",
     "engine",
@@ -43,11 +44,11 @@
     "inning",
     "intelligent",
     "legging",
-    "legit",
     "legmen",
     "lemming",
     "letting",
     "liege",
+    "lignin",
     "lignite",
     "lilting",
     "liming",
@@ -90,15 +91,15 @@
   "hints": {
     "by_length": {
       "4": 6,
-      "5": 7,
-      "6": 20,
+      "5": 6,
+      "6": 22,
       "7": 26,
       "8": 12,
       "9": 4,
       "11": 1
     },
     "by_first_letter": {
-      "E": 4,
+      "E": 5,
       "G": 25,
       "I": 4,
       "L": 13,
@@ -108,7 +109,7 @@
     },
     "grid": {
       "E": {
-        "6": 2,
+        "6": 3,
         "8": 1,
         "9": 1
       },
@@ -126,8 +127,8 @@
         "11": 1
       },
       "L": {
-        "5": 2,
-        "6": 3,
+        "5": 1,
+        "6": 4,
         "7": 7,
         "8": 1
       },
@@ -150,6 +151,7 @@
       }
     },
     "two_letter_list": {
+      "EE": 1,
       "EG": 1,
       "EM": 1,
       "EN": 2,
@@ -158,8 +160,8 @@
       "GL": 4,
       "IG": 2,
       "IN": 2,
-      "LE": 5,
-      "LI": 8,
+      "LE": 4,
+      "LI": 9,
       "ME": 3,
       "MI": 6,
       "NE": 4,

@@ -3,11 +3,12 @@
   "center_letter": "e",
   "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 201,
+  "possible_points": 200,
   "answer_pangrams": [
     "yelping"
   ],
   "answers": [
+    "eeling",
     "egging",
     "elegy",
     "engine",
@@ -32,13 +33,12 @@
     "nene",
     "niggle",
     "nine",
-    "peeing",
     "peel",
     "peeling",
     "peen",
     "peep",
     "peeping",
-    "penile",
+    "penne",
     "penning",
     "penny",
     "pepping",
@@ -58,25 +58,25 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 8,
-      "6": 11,
+      "5": 9,
+      "6": 10,
       "7": 8,
       "8": 2
     },
     "by_first_letter": {
-      "E": 5,
+      "E": 6,
       "G": 8,
       "I": 1,
       "L": 6,
       "N": 4,
-      "P": 17,
+      "P": 16,
       "Y": 4
     },
     "grid": {
       "E": {
         "4": 1,
         "5": 1,
-        "6": 3
+        "6": 4
       },
       "G": {
         "4": 3,
@@ -99,8 +99,8 @@
       },
       "P": {
         "4": 6,
-        "5": 2,
-        "6": 4,
+        "5": 3,
+        "6": 2,
         "7": 4,
         "8": 1
       },
@@ -110,6 +110,7 @@
       }
     },
     "two_letter_list": {
+      "EE": 1,
       "EG": 1,
       "EL": 1,
       "EN": 1,
@@ -123,7 +124,7 @@
       "LI": 4,
       "NE": 2,
       "NI": 2,
-      "PE": 11,
+      "PE": 10,
       "PI": 6,
       "YE": 4
     }

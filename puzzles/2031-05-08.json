@@ -1,9 +1,9 @@
 {
   "pangram": "latched",
   "center_letter": "d",
-  "num_answers": 74,
+  "num_answers": 78,
   "num_pangrams": 1,
-  "possible_points": 380,
+  "possible_points": 399,
   "answer_pangrams": [
     "latched"
   ],
@@ -25,6 +25,7 @@
     "catted",
     "cede",
     "ceded",
+    "celled",
     "chad",
     "chatted",
     "cheated",
@@ -38,6 +39,7 @@
     "deal",
     "dealt",
     "death",
+    "decadal",
     "decade",
     "decal",
     "deed",
@@ -50,6 +52,7 @@
     "detached",
     "detect",
     "detected",
+    "eeled",
     "elated",
     "elected",
     "etched",
@@ -76,6 +79,7 @@
     "leached",
     "lead",
     "leaded",
+    "lede",
     "leeched",
     "tatted",
     "tattled",
@@ -86,20 +90,20 @@
   "date": "2031-05-08",
   "hints": {
     "by_length": {
-      "4": 16,
-      "5": 17,
-      "6": 23,
-      "7": 11,
+      "4": 17,
+      "5": 18,
+      "6": 24,
+      "7": 12,
       "8": 6,
       "9": 1
     },
     "by_first_letter": {
       "A": 10,
-      "C": 11,
-      "D": 21,
-      "E": 3,
+      "C": 12,
+      "D": 22,
+      "E": 4,
       "H": 14,
-      "L": 10,
+      "L": 11,
       "T": 5
     },
     "grid": {
@@ -113,7 +117,7 @@
       "C": {
         "4": 3,
         "5": 2,
-        "6": 3,
+        "6": 4,
         "7": 2,
         "9": 1
       },
@@ -121,10 +125,11 @@
         "4": 7,
         "5": 6,
         "6": 5,
-        "7": 1,
+        "7": 2,
         "8": 2
       },
       "E": {
+        "5": 1,
         "6": 2,
         "7": 1
       },
@@ -136,7 +141,7 @@
         "8": 1
       },
       "L": {
-        "4": 1,
+        "4": 2,
         "5": 2,
         "6": 3,
         "7": 3,
@@ -155,17 +160,18 @@
       "AH": 1,
       "AT": 1,
       "CA": 5,
-      "CE": 2,
+      "CE": 3,
       "CH": 3,
       "CL": 1,
       "DA": 5,
-      "DE": 16,
+      "DE": 17,
+      "EE": 1,
       "EL": 2,
       "ET": 1,
       "HA": 5,
       "HE": 9,
       "LA": 6,
-      "LE": 4,
+      "LE": 5,
       "TA": 2,
       "TE": 2,
       "TH": 1

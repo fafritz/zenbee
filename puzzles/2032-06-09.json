@@ -1,9 +1,9 @@
 {
   "pangram": "violate",
   "center_letter": "t",
-  "num_answers": 51,
+  "num_answers": 52,
   "num_pangrams": 2,
-  "possible_points": 223,
+  "possible_points": 228,
   "answer_pangrams": [
     "violate",
     "volatile"
@@ -16,6 +16,7 @@
     "elate",
     "elevate",
     "elite",
+    "elote",
     "iota",
     "late",
     "latte",
@@ -65,7 +66,7 @@
   "hints": {
     "by_length": {
       "4": 22,
-      "5": 10,
+      "5": 11,
       "6": 8,
       "7": 3,
       "8": 5,
@@ -74,7 +75,7 @@
     },
     "by_first_letter": {
       "A": 4,
-      "E": 3,
+      "E": 4,
       "I": 1,
       "L": 8,
       "T": 24,
@@ -87,7 +88,7 @@
         "9": 1
       },
       "E": {
-        "5": 2,
+        "5": 3,
         "7": 1
       },
       "I": {
@@ -118,7 +119,7 @@
     "two_letter_list": {
       "AL": 3,
       "AT": 1,
-      "EL": 3,
+      "EL": 4,
       "IO": 1,
       "LA": 2,
       "LE": 1,

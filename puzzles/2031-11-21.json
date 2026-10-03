@@ -1,9 +1,9 @@
 {
   "pangram": "coaling",
   "center_letter": "c",
-  "num_answers": 72,
+  "num_answers": 76,
   "num_pangrams": 2,
-  "possible_points": 412,
+  "possible_points": 435,
   "answer_pangrams": [
     "coaling",
     "logician"
@@ -47,6 +47,7 @@
     "cocoa",
     "cocoon",
     "cocooning",
+    "cogging",
     "cognac",
     "coil",
     "coiling",
@@ -68,8 +69,11 @@
     "glancing",
     "icing",
     "icon",
+    "iconic",
+    "iliac",
     "illogical",
     "inclining",
+    "ionic",
     "lacing",
     "laconic",
     "lancing",
@@ -86,17 +90,17 @@
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 19,
-      "6": 12,
-      "7": 13,
+      "5": 21,
+      "6": 13,
+      "7": 14,
       "8": 8,
       "9": 7
     },
     "by_first_letter": {
       "A": 3,
-      "C": 52,
+      "C": 53,
       "G": 2,
-      "I": 4,
+      "I": 7,
       "L": 10,
       "N": 1
     },
@@ -110,7 +114,7 @@
         "4": 9,
         "5": 14,
         "6": 9,
-        "7": 9,
+        "7": 10,
         "8": 6,
         "9": 5
       },
@@ -120,7 +124,8 @@
       },
       "I": {
         "4": 1,
-        "5": 1,
+        "5": 3,
+        "6": 1,
         "9": 2
       },
       "L": {
@@ -139,11 +144,12 @@
       "CA": 16,
       "CI": 1,
       "CL": 11,
-      "CO": 24,
+      "CO": 25,
       "GL": 2,
-      "IC": 2,
-      "IL": 1,
+      "IC": 3,
+      "IL": 2,
       "IN": 1,
+      "IO": 1,
       "LA": 3,
       "LI": 1,
       "LO": 6,

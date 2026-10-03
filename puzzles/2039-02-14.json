@@ -1,14 +1,15 @@
 {
   "pangram": "wedlock",
   "center_letter": "l",
-  "num_answers": 46,
+  "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 179,
+  "possible_points": 191,
   "answer_pangrams": [
     "wedlock"
   ],
   "answers": [
     "cell",
+    "celled",
     "cello",
     "clew",
     "clewed",
@@ -33,8 +34,10 @@
     "dowel",
     "doweled",
     "dwell",
+    "eeled",
     "keel",
     "keeled",
+    "lede",
     "leek",
     "lewd",
     "lock",
@@ -58,17 +61,18 @@
   "date": "2039-02-14",
   "hints": {
     "by_length": {
-      "4": 21,
-      "5": 6,
-      "6": 13,
+      "4": 22,
+      "5": 7,
+      "6": 14,
       "7": 5,
       "8": 1
     },
     "by_first_letter": {
-      "C": 14,
+      "C": 15,
       "D": 11,
+      "E": 1,
       "K": 2,
-      "L": 12,
+      "L": 13,
       "O": 1,
       "W": 6
     },
@@ -76,7 +80,7 @@
       "C": {
         "4": 6,
         "5": 2,
-        "6": 4,
+        "6": 5,
         "7": 2
       },
       "D": {
@@ -85,12 +89,15 @@
         "6": 3,
         "7": 2
       },
+      "E": {
+        "5": 1
+      },
       "K": {
         "4": 1,
         "6": 1
       },
       "L": {
-        "4": 7,
+        "4": 8,
         "5": 1,
         "6": 3,
         "8": 1
@@ -105,14 +112,15 @@
       }
     },
     "two_letter_list": {
-      "CE": 2,
+      "CE": 3,
       "CL": 5,
       "CO": 7,
       "DE": 2,
       "DO": 8,
       "DW": 1,
+      "EE": 1,
       "KE": 2,
-      "LE": 2,
+      "LE": 3,
       "LO": 10,
       "OL": 1,
       "WE": 5,

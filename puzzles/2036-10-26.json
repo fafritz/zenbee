@@ -1,14 +1,15 @@
 {
   "pangram": "phantom",
   "center_letter": "a",
-  "num_answers": 30,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 104,
+  "possible_points": 116,
   "answer_pangrams": [
     "phantom"
   ],
   "answers": [
     "ammo",
+    "annatto",
     "anon",
     "atom",
     "atop",
@@ -27,6 +28,7 @@
     "naphtha",
     "oath",
     "ottoman",
+    "pampa",
     "pant",
     "papa",
     "path",
@@ -43,22 +45,23 @@
   "hints": {
     "by_length": {
       "4": 17,
-      "5": 3,
+      "5": 4,
       "6": 5,
-      "7": 5
+      "7": 6
     },
     "by_first_letter": {
-      "A": 4,
+      "A": 5,
       "H": 1,
       "M": 9,
       "N": 3,
       "O": 2,
-      "P": 5,
+      "P": 6,
       "T": 6
     },
     "grid": {
       "A": {
-        "4": 4
+        "4": 4,
+        "7": 1
       },
       "H": {
         "6": 1
@@ -78,6 +81,7 @@
       },
       "P": {
         "4": 3,
+        "5": 1,
         "6": 1,
         "7": 1
       },
@@ -88,7 +92,7 @@
     },
     "two_letter_list": {
       "AM": 1,
-      "AN": 1,
+      "AN": 2,
       "AT": 2,
       "HA": 1,
       "MA": 6,
@@ -96,7 +100,7 @@
       "NA": 3,
       "OA": 1,
       "OT": 1,
-      "PA": 3,
+      "PA": 4,
       "PH": 1,
       "PO": 1,
       "TA": 3,

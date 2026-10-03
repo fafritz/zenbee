@@ -1,9 +1,9 @@
 {
   "pangram": "clouted",
   "center_letter": "u",
-  "num_answers": 54,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 249,
+  "possible_points": 260,
   "answer_pangrams": [
     "clouted"
   ],
@@ -33,6 +33,7 @@
     "delude",
     "deluded",
     "deuce",
+    "deuced",
     "duct",
     "dude",
     "duded",
@@ -42,6 +43,7 @@
     "dulcet",
     "dull",
     "dulled",
+    "educe",
     "elude",
     "eluded",
     "etude",
@@ -67,15 +69,15 @@
   "hints": {
     "by_length": {
       "4": 17,
-      "5": 11,
-      "6": 15,
+      "5": 12,
+      "6": 16,
       "7": 8,
       "8": 3
     },
     "by_first_letter": {
       "C": 18,
-      "D": 16,
-      "E": 3,
+      "D": 17,
+      "E": 4,
       "L": 7,
       "O": 6,
       "T": 4
@@ -91,12 +93,12 @@
       "D": {
         "4": 5,
         "5": 2,
-        "6": 6,
+        "6": 7,
         "7": 2,
         "8": 1
       },
       "E": {
-        "5": 2,
+        "5": 3,
         "6": 1
       },
       "L": {
@@ -120,8 +122,9 @@
       "CL": 6,
       "CO": 3,
       "CU": 9,
-      "DE": 7,
+      "DE": 8,
       "DU": 9,
+      "ED": 1,
       "EL": 2,
       "ET": 1,
       "LE": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "begonia",
   "center_letter": "a",
-  "num_answers": 38,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 182,
+  "possible_points": 179,
   "answer_pangrams": [
     "begonia"
   ],
@@ -31,15 +31,16 @@
     "beaning",
     "began",
     "begonia",
+    "boba",
     "engage",
     "engaging",
     "gabbing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gang",
     "ganging",
-    "gonna",
     "inane",
     "naan",
     "nabbing",
@@ -50,15 +51,15 @@
   "date": "2037-12-30",
   "hints": {
     "by_length": {
-      "4": 12,
-      "5": 7,
+      "4": 14,
+      "5": 6,
       "6": 6,
       "7": 12,
       "8": 1
     },
     "by_first_letter": {
       "A": 7,
-      "B": 16,
+      "B": 17,
       "E": 2,
       "G": 7,
       "I": 1,
@@ -71,7 +72,7 @@
         "6": 1
       },
       "B": {
-        "4": 5,
+        "4": 6,
         "5": 1,
         "6": 4,
         "7": 6
@@ -81,8 +82,7 @@
         "8": 1
       },
       "G": {
-        "4": 2,
-        "5": 1,
+        "4": 3,
         "7": 4
       },
       "I": {
@@ -100,9 +100,9 @@
       "AN": 3,
       "BA": 12,
       "BE": 4,
+      "BO": 1,
       "EN": 2,
-      "GA": 6,
-      "GO": 1,
+      "GA": 7,
       "IN": 1,
       "NA": 5
     }

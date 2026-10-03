@@ -1,9 +1,9 @@
 {
   "pangram": "nakedly",
   "center_letter": "e",
-  "num_answers": 77,
+  "num_answers": 80,
   "num_pangrams": 1,
-  "possible_points": 338,
+  "possible_points": 350,
   "answer_pangrams": [
     "nakedly"
   ],
@@ -14,6 +14,7 @@
     "addle",
     "addled",
     "allayed",
+    "allele",
     "alley",
     "ankle",
     "anneal",
@@ -35,6 +36,7 @@
     "deny",
     "dyed",
     "eddy",
+    "eeled",
     "eked",
     "elan",
     "ended",
@@ -71,6 +73,7 @@
     "leaky",
     "lean",
     "leaned",
+    "lede",
     "leek",
     "lend",
     "naked",
@@ -89,25 +92,25 @@
   "date": "2030-09-10",
   "hints": {
     "by_length": {
-      "4": 26,
-      "5": 16,
-      "6": 23,
+      "4": 27,
+      "5": 17,
+      "6": 24,
       "7": 9,
       "8": 3
     },
     "by_first_letter": {
-      "A": 10,
+      "A": 11,
       "D": 16,
-      "E": 5,
+      "E": 6,
       "K": 18,
-      "L": 16,
+      "L": 17,
       "N": 8,
       "Y": 4
     },
     "grid": {
       "A": {
         "5": 4,
-        "6": 3,
+        "6": 4,
         "7": 2,
         "8": 1
       },
@@ -120,7 +123,7 @@
       },
       "E": {
         "4": 4,
-        "5": 1
+        "5": 2
       },
       "K": {
         "4": 4,
@@ -130,7 +133,7 @@
         "8": 1
       },
       "L": {
-        "4": 7,
+        "4": 8,
         "5": 3,
         "6": 6
       },
@@ -147,12 +150,13 @@
     },
     "two_letter_list": {
       "AD": 5,
-      "AL": 2,
+      "AL": 3,
       "AN": 3,
       "DA": 3,
       "DE": 12,
       "DY": 1,
       "ED": 1,
+      "EE": 1,
       "EK": 1,
       "EL": 1,
       "EN": 1,
@@ -161,7 +165,7 @@
       "KE": 9,
       "KN": 7,
       "LA": 6,
-      "LE": 10,
+      "LE": 11,
       "NA": 2,
       "NE": 6,
       "YA": 2,

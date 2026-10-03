@@ -3,14 +3,13 @@
   "center_letter": "a",
   "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 124,
+  "possible_points": 128,
   "answer_pangrams": [
     "plowman"
   ],
   "answers": [
     "allow",
     "ammo",
-    "anal",
     "anon",
     "appall",
     "lama",
@@ -35,6 +34,7 @@
     "opal",
     "pall",
     "palm",
+    "pampa",
     "papa",
     "papal",
     "pawl",
@@ -50,23 +50,23 @@
   "date": "2038-04-20",
   "hints": {
     "by_length": {
-      "4": 21,
-      "5": 8,
+      "4": 20,
+      "5": 9,
       "6": 7,
       "7": 2
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 4,
       "L": 8,
       "M": 8,
       "N": 3,
       "O": 1,
-      "P": 9,
+      "P": 10,
       "W": 4
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 1,
         "6": 1
       },
@@ -89,7 +89,7 @@
       },
       "P": {
         "4": 6,
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 1
       },
@@ -102,7 +102,7 @@
     "two_letter_list": {
       "AL": 1,
       "AM": 1,
-      "AN": 2,
+      "AN": 1,
       "AP": 1,
       "LA": 4,
       "LL": 2,
@@ -111,7 +111,7 @@
       "MO": 2,
       "NA": 3,
       "OP": 1,
-      "PA": 7,
+      "PA": 8,
       "PL": 2,
       "WA": 3,
       "WO": 1

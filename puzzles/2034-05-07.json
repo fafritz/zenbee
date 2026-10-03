@@ -1,9 +1,9 @@
 {
   "pangram": "blowing",
   "center_letter": "b",
-  "num_answers": 50,
+  "num_answers": 49,
   "num_pangrams": 4,
-  "possible_points": 296,
+  "possible_points": 288,
   "answer_pangrams": [
     "billowing",
     "blowing",
@@ -17,6 +17,7 @@
     "billion",
     "billow",
     "billowing",
+    "binging",
     "bingo",
     "binning",
     "bling",
@@ -34,6 +35,7 @@
     "boggling",
     "boil",
     "boiling",
+    "boing",
     "boll",
     "bonbon",
     "bong",
@@ -41,8 +43,6 @@
     "bongo",
     "boning",
     "boob",
-    "boobing",
-    "booboo",
     "booing",
     "boon",
     "bowing",
@@ -53,7 +53,6 @@
     "glib",
     "glob",
     "globing",
-    "gobbing",
     "gobbling",
     "goblin",
     "lobbing",
@@ -66,15 +65,15 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 4,
-      "6": 12,
-      "7": 13,
+      "5": 5,
+      "6": 11,
+      "7": 12,
       "8": 8,
       "9": 1
     },
     "by_first_letter": {
       "B": 37,
-      "G": 8,
+      "G": 7,
       "L": 1,
       "N": 1,
       "O": 2,
@@ -83,8 +82,8 @@
     "grid": {
       "B": {
         "4": 10,
-        "5": 4,
-        "6": 8,
+        "5": 5,
+        "6": 7,
         "7": 10,
         "8": 4,
         "9": 1
@@ -92,7 +91,7 @@
       "G": {
         "4": 2,
         "6": 3,
-        "7": 2,
+        "7": 1,
         "8": 1
       },
       "L": {
@@ -110,12 +109,12 @@
       }
     },
     "two_letter_list": {
-      "BI": 8,
+      "BI": 9,
       "BL": 8,
-      "BO": 21,
+      "BO": 20,
       "GI": 2,
       "GL": 3,
-      "GO": 3,
+      "GO": 2,
       "LO": 1,
       "NI": 1,
       "OB": 2,

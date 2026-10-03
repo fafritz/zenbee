@@ -1,9 +1,9 @@
 {
   "pangram": "charity",
   "center_letter": "a",
-  "num_answers": 58,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 262,
+  "possible_points": 254,
   "answer_pangrams": [
     "charity"
   ],
@@ -43,7 +43,6 @@
     "chatty",
     "chitchat",
     "circa",
-    "cray",
     "hair",
     "hairy",
     "harry",
@@ -51,7 +50,6 @@
     "hatch",
     "racy",
     "rarity",
-    "ratatat",
     "ratty",
     "tacit",
     "tact",
@@ -70,18 +68,18 @@
   "date": "2038-08-22",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 16,
       "5": 23,
       "6": 9,
-      "7": 5,
+      "7": 4,
       "8": 2,
       "9": 2
     },
     "by_first_letter": {
       "A": 16,
-      "C": 20,
+      "C": 19,
       "H": 5,
-      "R": 4,
+      "R": 3,
       "T": 12,
       "Y": 1
     },
@@ -94,7 +92,7 @@
         "9": 1
       },
       "C": {
-        "4": 4,
+        "4": 3,
         "5": 9,
         "6": 2,
         "7": 2,
@@ -108,8 +106,7 @@
       "R": {
         "4": 1,
         "5": 1,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
         "4": 4,
@@ -128,9 +125,8 @@
       "CA": 10,
       "CH": 8,
       "CI": 1,
-      "CR": 1,
       "HA": 5,
-      "RA": 4,
+      "RA": 3,
       "TA": 6,
       "TH": 2,
       "TI": 1,

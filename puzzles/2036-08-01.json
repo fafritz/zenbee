@@ -1,9 +1,9 @@
 {
   "pangram": "cloying",
   "center_letter": "g",
-  "num_answers": 47,
+  "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 283,
+  "possible_points": 296,
   "answer_pangrams": [
     "cloying"
   ],
@@ -15,6 +15,7 @@
     "cloning",
     "cloying",
     "cocooning",
+    "cogging",
     "coiling",
     "coining",
     "conning",
@@ -37,6 +38,7 @@
     "igloo",
     "inclining",
     "inning",
+    "lignin",
     "lingo",
     "lining",
     "logging",
@@ -61,16 +63,16 @@
     "by_length": {
       "4": 7,
       "5": 8,
-      "6": 8,
-      "7": 14,
+      "6": 9,
+      "7": 15,
       "8": 7,
       "9": 3
     },
     "by_first_letter": {
-      "C": 13,
+      "C": 14,
       "G": 12,
       "I": 4,
-      "L": 11,
+      "L": 12,
       "N": 2,
       "O": 4,
       "Y": 1
@@ -80,7 +82,7 @@
         "4": 1,
         "5": 1,
         "6": 1,
-        "7": 7,
+        "7": 8,
         "8": 2,
         "9": 1
       },
@@ -99,7 +101,7 @@
       "L": {
         "4": 2,
         "5": 4,
-        "6": 1,
+        "6": 2,
         "7": 3,
         "9": 1
       },
@@ -118,14 +120,14 @@
     },
     "two_letter_list": {
       "CL": 6,
-      "CO": 6,
+      "CO": 7,
       "CY": 1,
       "GI": 6,
       "GO": 6,
       "IC": 1,
       "IG": 1,
       "IN": 2,
-      "LI": 2,
+      "LI": 3,
       "LO": 8,
       "LY": 1,
       "NI": 1,

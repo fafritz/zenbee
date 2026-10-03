@@ -1,9 +1,9 @@
 {
   "pangram": "angrily",
   "center_letter": "y",
-  "num_answers": 30,
+  "num_answers": 32,
   "num_pangrams": 3,
-  "possible_points": 181,
+  "possible_points": 187,
   "answer_pangrams": [
     "angrily",
     "glaringly",
@@ -20,6 +20,7 @@
     "angry",
     "array",
     "arraying",
+    "gaily",
     "giggly",
     "glaringly",
     "gnarly",
@@ -39,13 +40,14 @@
     "rally",
     "rallying",
     "rangy",
+    "yang",
     "yarn"
   ],
   "date": "2028-06-25",
   "hints": {
     "by_length": {
-      "4": 5,
-      "5": 10,
+      "4": 6,
+      "5": 11,
       "6": 6,
       "7": 4,
       "8": 4,
@@ -53,12 +55,12 @@
     },
     "by_first_letter": {
       "A": 10,
-      "G": 8,
+      "G": 9,
       "I": 2,
       "L": 3,
       "N": 2,
       "R": 4,
-      "Y": 1
+      "Y": 2
     },
     "grid": {
       "A": {
@@ -70,6 +72,7 @@
       },
       "G": {
         "4": 1,
+        "5": 1,
         "6": 4,
         "7": 2,
         "9": 1
@@ -91,7 +94,7 @@
         "8": 1
       },
       "Y": {
-        "4": 1
+        "4": 2
       }
     },
     "two_letter_list": {
@@ -99,6 +102,7 @@
       "AL": 4,
       "AN": 2,
       "AR": 2,
+      "GA": 1,
       "GI": 1,
       "GL": 1,
       "GN": 1,
@@ -110,7 +114,7 @@
       "NA": 1,
       "NI": 1,
       "RA": 4,
-      "YA": 1
+      "YA": 2
     }
   }
 }

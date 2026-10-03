@@ -1,9 +1,9 @@
 {
   "pangram": "unpaved",
   "center_letter": "u",
-  "num_answers": 23,
+  "num_answers": 22,
   "num_pangrams": 1,
-  "possible_points": 122,
+  "possible_points": 117,
   "answer_pangrams": [
     "unpaved"
   ],
@@ -17,7 +17,6 @@
     "dunned",
     "dupe",
     "duped",
-    "endue",
     "endued",
     "punned",
     "pupa",
@@ -36,7 +35,7 @@
   "hints": {
     "by_length": {
       "4": 4,
-      "5": 8,
+      "5": 7,
       "6": 7,
       "7": 3,
       "8": 1
@@ -44,7 +43,7 @@
     "by_first_letter": {
       "A": 1,
       "D": 8,
-      "E": 2,
+      "E": 1,
       "P": 4,
       "U": 7,
       "V": 1
@@ -60,7 +59,6 @@
         "7": 1
       },
       "E": {
-        "5": 1,
         "6": 1
       },
       "P": {
@@ -82,7 +80,7 @@
       "AV": 1,
       "DE": 2,
       "DU": 6,
-      "EN": 2,
+      "EN": 1,
       "PU": 4,
       "UN": 4,
       "UP": 3,

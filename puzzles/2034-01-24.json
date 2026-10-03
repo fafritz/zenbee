@@ -1,9 +1,9 @@
 {
   "pangram": "baloney",
   "center_letter": "l",
-  "num_answers": 54,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 197,
+  "possible_points": 207,
   "answer_pangrams": [
     "baloney"
   ],
@@ -12,12 +12,12 @@
     "able",
     "ably",
     "allay",
+    "allele",
     "alley",
     "alloy",
     "ally",
     "aloe",
     "alone",
-    "anal",
     "anneal",
     "babble",
     "babel",
@@ -53,6 +53,7 @@
     "lone",
     "lonely",
     "loon",
+    "loony",
     "loyal",
     "loyally",
     "noble",
@@ -66,25 +67,25 @@
   "date": "2034-01-24",
   "hints": {
     "by_length": {
-      "4": 25,
-      "5": 16,
-      "6": 6,
+      "4": 24,
+      "5": 17,
+      "6": 7,
       "7": 7
     },
     "by_first_letter": {
       "A": 11,
       "B": 19,
       "E": 4,
-      "L": 13,
+      "L": 14,
       "N": 4,
       "O": 2,
       "Y": 1
     },
     "grid": {
       "A": {
-        "4": 5,
+        "4": 4,
         "5": 4,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "B": {
@@ -100,7 +101,7 @@
       },
       "L": {
         "4": 7,
-        "5": 4,
+        "5": 5,
         "6": 1,
         "7": 1
       },
@@ -117,8 +118,8 @@
     },
     "two_letter_list": {
       "AB": 3,
-      "AL": 6,
-      "AN": 2,
+      "AL": 7,
+      "AN": 1,
       "BA": 8,
       "BE": 5,
       "BL": 2,
@@ -129,7 +130,7 @@
       "LA": 2,
       "LE": 1,
       "LL": 1,
-      "LO": 9,
+      "LO": 10,
       "NO": 3,
       "NY": 1,
       "OL": 1,

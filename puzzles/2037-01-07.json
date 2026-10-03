@@ -1,9 +1,9 @@
 {
   "pangram": "notably",
   "center_letter": "l",
-  "num_answers": 46,
+  "num_answers": 47,
   "num_pangrams": 1,
-  "possible_points": 175,
+  "possible_points": 186,
   "answer_pangrams": [
     "notably"
   ],
@@ -14,7 +14,6 @@
     "alloy",
     "ally",
     "alto",
-    "anal",
     "atoll",
     "atonal",
     "ball",
@@ -31,11 +30,13 @@
     "bola",
     "boll",
     "bolt",
+    "lantana",
     "llano",
     "loan",
     "lobby",
     "loll",
     "loon",
+    "loony",
     "loot",
     "lotto",
     "loyal",
@@ -58,23 +59,23 @@
   "date": "2037-01-07",
   "hints": {
     "by_length": {
-      "4": 20,
-      "5": 17,
+      "4": 19,
+      "5": 18,
       "6": 2,
-      "7": 6,
+      "7": 7,
       "9": 1
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 8,
       "B": 14,
-      "L": 10,
+      "L": 12,
       "N": 4,
       "O": 1,
       "T": 8
     },
     "grid": {
       "A": {
-        "4": 4,
+        "4": 3,
         "5": 4,
         "6": 1
       },
@@ -87,8 +88,8 @@
       },
       "L": {
         "4": 4,
-        "5": 4,
-        "7": 2
+        "5": 5,
+        "7": 3
       },
       "N": {
         "5": 3,
@@ -106,13 +107,13 @@
     "two_letter_list": {
       "AB": 1,
       "AL": 5,
-      "AN": 1,
       "AT": 2,
       "BA": 4,
       "BL": 7,
       "BO": 3,
+      "LA": 1,
       "LL": 1,
-      "LO": 9,
+      "LO": 10,
       "NA": 1,
       "NO": 2,
       "NY": 1,

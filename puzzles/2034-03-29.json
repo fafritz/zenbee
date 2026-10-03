@@ -1,9 +1,9 @@
 {
   "pangram": "divulge",
   "center_letter": "u",
-  "num_answers": 27,
+  "num_answers": 29,
   "num_pangrams": 2,
-  "possible_points": 135,
+  "possible_points": 141,
   "answer_pangrams": [
     "divulge",
     "divulged"
@@ -32,6 +32,8 @@
     "gull",
     "gulled",
     "lieu",
+    "luge",
+    "luged",
     "lugged",
     "lull",
     "lulled",
@@ -40,8 +42,8 @@
   "date": "2034-03-29",
   "hints": {
     "by_length": {
-      "4": 8,
-      "5": 6,
+      "4": 9,
+      "5": 7,
       "6": 9,
       "7": 3,
       "8": 1
@@ -50,7 +52,7 @@
       "D": 12,
       "E": 2,
       "G": 8,
-      "L": 5
+      "L": 7
     },
     "grid": {
       "D": {
@@ -70,7 +72,8 @@
         "6": 2
       },
       "L": {
-        "4": 3,
+        "4": 4,
+        "5": 1,
         "6": 2
       }
     },
@@ -82,7 +85,7 @@
       "GL": 2,
       "GU": 6,
       "LI": 1,
-      "LU": 4
+      "LU": 6
     }
   }
 }

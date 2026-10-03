@@ -8,6 +8,7 @@
     "yelping"
   ],
   "answers": [
+    "eeling",
     "egging",
     "engine",
     "eyeing",
@@ -27,6 +28,7 @@
     "legging",
     "liege",
     "lien",
+    "lignin",
     "lily",
     "line",
     "linen",
@@ -39,10 +41,8 @@
     "ninny",
     "nipping",
     "nippy",
-    "peeing",
     "peeling",
     "peeping",
-    "penile",
     "penning",
     "pepping",
     "pieing",
@@ -78,17 +78,17 @@
       "8": 4
     },
     "by_first_letter": {
-      "E": 3,
+      "E": 4,
       "G": 11,
       "I": 2,
-      "L": 8,
+      "L": 9,
       "N": 7,
-      "P": 25,
+      "P": 23,
       "Y": 3
     },
     "grid": {
       "E": {
-        "6": 3
+        "6": 4
       },
       "G": {
         "4": 1,
@@ -103,7 +103,7 @@
       "L": {
         "4": 3,
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "N": {
@@ -116,7 +116,7 @@
       "P": {
         "4": 5,
         "5": 1,
-        "6": 9,
+        "6": 7,
         "7": 9,
         "8": 1
       },
@@ -125,6 +125,7 @@
       }
     },
     "two_letter_list": {
+      "EE": 1,
       "EG": 1,
       "EN": 1,
       "EY": 1,
@@ -133,11 +134,11 @@
       "GY": 1,
       "IN": 2,
       "LE": 1,
-      "LI": 6,
+      "LI": 7,
       "LY": 1,
       "NE": 1,
       "NI": 6,
-      "PE": 6,
+      "PE": 4,
       "PI": 18,
       "PL": 1,
       "YE": 2,

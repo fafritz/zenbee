@@ -1,9 +1,9 @@
 {
   "pangram": "barfing",
   "center_letter": "b",
-  "num_answers": 43,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 240,
+  "possible_points": 254,
   "answer_pangrams": [
     "barfing"
   ],
@@ -30,6 +30,7 @@
     "barring",
     "biff",
     "biffing",
+    "binging",
     "binning",
     "brag",
     "bragging",
@@ -41,6 +42,7 @@
     "brig",
     "bring",
     "bringing",
+    "brining",
     "fibbing",
     "gabbing",
     "garb",
@@ -58,14 +60,14 @@
       "4": 11,
       "5": 4,
       "6": 5,
-      "7": 16,
+      "7": 18,
       "8": 4,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 1,
-      "B": 32,
+      "B": 34,
       "F": 1,
       "G": 6,
       "N": 1,
@@ -79,7 +81,7 @@
         "4": 9,
         "5": 3,
         "6": 3,
-        "7": 11,
+        "7": 13,
         "8": 3,
         "9": 2,
         "10": 1
@@ -104,8 +106,8 @@
     "two_letter_list": {
       "AI": 1,
       "BA": 19,
-      "BI": 3,
-      "BR": 10,
+      "BI": 4,
+      "BR": 11,
       "FI": 1,
       "GA": 3,
       "GI": 1,

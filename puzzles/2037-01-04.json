@@ -1,9 +1,9 @@
 {
   "pangram": "cognate",
   "center_letter": "g",
-  "num_answers": 32,
+  "num_answers": 33,
   "num_pangrams": 1,
-  "possible_points": 135,
+  "possible_points": 132,
   "answer_pangrams": [
     "cognate"
   ],
@@ -19,6 +19,7 @@
     "cottage",
     "eggnog",
     "engage",
+    "gaga",
     "gang",
     "gannet",
     "gate",
@@ -29,7 +30,6 @@
     "goatee",
     "gone",
     "gong",
-    "gonna",
     "goon",
     "gotten",
     "negate",
@@ -39,13 +39,14 @@
     "tango",
     "teenage",
     "toga",
+    "tong",
     "tonnage"
   ],
   "date": "2037-01-04",
   "hints": {
     "by_length": {
-      "4": 13,
-      "5": 5,
+      "4": 15,
+      "5": 4,
       "6": 8,
       "7": 6
     },
@@ -56,7 +57,7 @@
       "G": 13,
       "N": 1,
       "O": 1,
-      "T": 6
+      "T": 7
     },
     "grid": {
       "A": {
@@ -73,8 +74,7 @@
         "6": 2
       },
       "G": {
-        "4": 9,
-        "5": 1,
+        "4": 10,
         "6": 3
       },
       "N": {
@@ -84,7 +84,7 @@
         "7": 1
       },
       "T": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "7": 3
       }
@@ -95,15 +95,15 @@
       "CO": 5,
       "EG": 1,
       "EN": 1,
-      "GA": 3,
+      "GA": 4,
       "GE": 2,
       "GN": 1,
-      "GO": 7,
+      "GO": 6,
       "NE": 1,
       "OC": 1,
       "TA": 3,
       "TE": 1,
-      "TO": 2
+      "TO": 3
     }
   }
 }

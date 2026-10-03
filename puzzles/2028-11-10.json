@@ -1,179 +1,86 @@
 {
-  "pangram": "boatmen",
-  "center_letter": "e",
-  "num_answers": 80,
+  "pangram": "vaguely",
+  "center_letter": "y",
+  "num_answers": 16,
   "num_pangrams": 1,
-  "possible_points": 305,
+  "possible_points": 75,
   "answer_pangrams": [
-    "boatmen"
+    "vaguely"
   ],
   "answers": [
-    "abate",
-    "abatement",
-    "abbe",
-    "abeam",
-    "abet",
-    "amen",
-    "amoeba",
-    "anemone",
-    "annotate",
-    "ante",
-    "antenna",
-    "antennae",
-    "atone",
-    "atonement",
-    "babe",
-    "bane",
-    "batten",
-    "beam",
-    "bean",
-    "beat",
-    "beaten",
-    "been",
-    "beet",
-    "bemoan",
-    "bent",
-    "beta",
-    "boatmen",
-    "bone",
-    "bonnet",
-    "bootee",
-    "botnet",
-    "eaten",
-    "emanate",
-    "emote",
-    "enema",
-    "entente",
-    "entomb",
-    "entombment",
-    "mammae",
-    "manatee",
-    "mane",
-    "mate",
-    "matte",
-    "mean",
-    "meant",
-    "meat",
-    "meet",
-    "meme",
-    "memento",
-    "memo",
-    "meta",
-    "mete",
-    "moment",
-    "monotone",
-    "moonbeam",
-    "mote",
-    "name",
-    "neat",
-    "nene",
-    "neon",
-    "neonate",
-    "none",
-    "note",
-    "oaten",
-    "oboe",
-    "omen",
-    "tame",
-    "team",
-    "teammate",
-    "teem",
-    "teen",
-    "tenant",
-    "tenement",
-    "tenet",
-    "tenon",
-    "tent",
-    "tome",
-    "tone",
-    "tote",
-    "totem"
+    "allay",
+    "alley",
+    "ally",
+    "elegy",
+    "galley",
+    "gluey",
+    "gully",
+    "legally",
+    "leggy",
+    "levelly",
+    "levy",
+    "ugly",
+    "vaguely",
+    "valley",
+    "yell",
+    "yule"
   ],
   "date": "2028-11-10",
   "hints": {
     "by_length": {
-      "4": 40,
-      "5": 12,
-      "6": 11,
-      "7": 8,
-      "8": 6,
-      "9": 2,
-      "10": 1
+      "4": 5,
+      "5": 6,
+      "6": 2,
+      "7": 3
     },
     "by_first_letter": {
-      "A": 14,
-      "B": 17,
-      "E": 7,
-      "M": 18,
-      "N": 7,
-      "O": 3,
-      "T": 14
+      "A": 3,
+      "E": 1,
+      "G": 3,
+      "L": 4,
+      "U": 1,
+      "V": 2,
+      "Y": 2
     },
     "grid": {
       "A": {
-        "4": 4,
-        "5": 3,
-        "6": 1,
-        "7": 2,
-        "8": 2,
-        "9": 2
-      },
-      "B": {
-        "4": 10,
-        "6": 6,
-        "7": 1
+        "4": 1,
+        "5": 2
       },
       "E": {
-        "5": 3,
-        "6": 1,
-        "7": 2,
-        "10": 1
-      },
-      "M": {
-        "4": 10,
-        "5": 2,
-        "6": 2,
-        "7": 2,
-        "8": 2
-      },
-      "N": {
-        "4": 6,
-        "7": 1
-      },
-      "O": {
-        "4": 2,
         "5": 1
       },
-      "T": {
-        "4": 8,
-        "5": 3,
+      "G": {
+        "5": 2,
+        "6": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 1,
+        "7": 2
+      },
+      "U": {
+        "4": 1
+      },
+      "V": {
         "6": 1,
-        "8": 2
+        "7": 1
+      },
+      "Y": {
+        "4": 2
       }
     },
     "two_letter_list": {
-      "AB": 5,
-      "AM": 2,
-      "AN": 5,
-      "AT": 2,
-      "BA": 3,
-      "BE": 9,
-      "BO": 5,
-      "EA": 1,
-      "EM": 2,
-      "EN": 4,
-      "MA": 5,
-      "ME": 9,
-      "MO": 4,
-      "NA": 1,
-      "NE": 4,
-      "NO": 2,
-      "OA": 1,
-      "OB": 1,
-      "OM": 1,
-      "TA": 1,
-      "TE": 9,
-      "TO": 4
+      "AL": 3,
+      "EL": 1,
+      "GA": 1,
+      "GL": 1,
+      "GU": 1,
+      "LE": 4,
+      "UG": 1,
+      "VA": 2,
+      "YE": 1,
+      "YU": 1
     }
   }
 }

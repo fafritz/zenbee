@@ -1,9 +1,9 @@
 {
   "pangram": "cloaked",
   "center_letter": "c",
-  "num_answers": 67,
+  "num_answers": 69,
   "num_pangrams": 3,
-  "possible_points": 309,
+  "possible_points": 322,
   "answer_pangrams": [
     "cloaked",
     "deadlock",
@@ -26,6 +26,7 @@
     "cede",
     "ceded",
     "cell",
+    "celled",
     "cello",
     "clack",
     "clacked",
@@ -59,6 +60,7 @@
     "cooled",
     "deadlock",
     "deadlocked",
+    "decadal",
     "decade",
     "decal",
     "deck",
@@ -83,15 +85,15 @@
     "by_length": {
       "4": 23,
       "5": 15,
-      "6": 18,
-      "7": 8,
+      "6": 19,
+      "7": 9,
       "8": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 4,
-      "C": 43,
-      "D": 11,
+      "C": 44,
+      "D": 12,
       "L": 9
     },
     "grid": {
@@ -104,14 +106,14 @@
       "C": {
         "4": 16,
         "5": 12,
-        "6": 9,
+        "6": 10,
         "7": 6
       },
       "D": {
         "4": 2,
         "5": 1,
         "6": 5,
-        "7": 1,
+        "7": 2,
         "8": 1,
         "10": 1
       },
@@ -124,10 +126,10 @@
     "two_letter_list": {
       "AC": 4,
       "CA": 9,
-      "CE": 4,
+      "CE": 5,
       "CL": 8,
       "CO": 22,
-      "DE": 9,
+      "DE": 10,
       "DO": 2,
       "LA": 4,
       "LO": 5

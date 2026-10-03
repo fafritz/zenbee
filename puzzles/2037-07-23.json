@@ -1,9 +1,9 @@
 {
   "pangram": "uniform",
   "center_letter": "n",
-  "num_answers": 24,
+  "num_answers": 27,
   "num_pangrams": 1,
-  "possible_points": 99,
+  "possible_points": 106,
   "answer_pangrams": [
     "uniform"
   ],
@@ -23,11 +23,14 @@
     "moron",
     "mourn",
     "muffin",
+    "noir",
     "nonunion",
     "noon",
+    "nori",
     "norm",
     "noun",
     "onion",
+    "ronin",
     "ruin",
     "runoff",
     "uniform",
@@ -36,8 +39,8 @@
   "date": "2037-07-23",
   "hints": {
     "by_length": {
-      "4": 10,
-      "5": 6,
+      "4": 12,
+      "5": 7,
       "6": 5,
       "7": 2,
       "8": 1
@@ -45,9 +48,9 @@
     "by_first_letter": {
       "I": 4,
       "M": 11,
-      "N": 4,
+      "N": 6,
       "O": 1,
-      "R": 2,
+      "R": 3,
       "U": 2
     },
     "grid": {
@@ -62,7 +65,7 @@
         "7": 1
       },
       "N": {
-        "4": 3,
+        "4": 5,
         "8": 1
       },
       "O": {
@@ -70,6 +73,7 @@
       },
       "R": {
         "4": 1,
+        "5": 1,
         "6": 1
       },
       "U": {
@@ -83,8 +87,9 @@
       "MI": 5,
       "MO": 5,
       "MU": 1,
-      "NO": 4,
+      "NO": 6,
       "ON": 1,
+      "RO": 1,
       "RU": 2,
       "UN": 2
     }

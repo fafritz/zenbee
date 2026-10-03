@@ -1,9 +1,9 @@
 {
   "pangram": "blacked",
   "center_letter": "l",
-  "num_answers": 67,
+  "num_answers": 72,
   "num_pangrams": 2,
-  "possible_points": 308,
+  "possible_points": 333,
   "answer_pangrams": [
     "blackballed",
     "blacked"
@@ -12,6 +12,7 @@
     "able",
     "addle",
     "addled",
+    "allele",
     "babble",
     "babbled",
     "babel",
@@ -48,6 +49,7 @@
     "callable",
     "called",
     "cell",
+    "celled",
     "clack",
     "clacked",
     "clad",
@@ -56,9 +58,11 @@
     "dale",
     "deal",
     "debacle",
+    "decadal",
     "decal",
     "deckle",
     "dell",
+    "eeled",
     "kale",
     "keel",
     "keeled",
@@ -75,32 +79,34 @@
     "leaded",
     "leak",
     "leaked",
+    "lede",
     "leek"
   ],
   "date": "2033-01-10",
   "hints": {
     "by_length": {
-      "4": 22,
-      "5": 16,
-      "6": 18,
-      "7": 8,
+      "4": 23,
+      "5": 17,
+      "6": 20,
+      "7": 9,
       "8": 1,
       "9": 1,
       "11": 1
     },
     "by_first_letter": {
-      "A": 3,
+      "A": 4,
       "B": 25,
-      "C": 14,
-      "D": 8,
+      "C": 15,
+      "D": 9,
+      "E": 1,
       "K": 3,
-      "L": 14
+      "L": 15
     },
     "grid": {
       "A": {
         "4": 1,
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "B": {
         "4": 7,
@@ -113,7 +119,7 @@
       "C": {
         "4": 3,
         "5": 4,
-        "6": 4,
+        "6": 5,
         "7": 2,
         "8": 1
       },
@@ -121,14 +127,17 @@
         "4": 3,
         "5": 1,
         "6": 2,
-        "7": 2
+        "7": 3
+      },
+      "E": {
+        "5": 1
       },
       "K": {
         "4": 2,
         "6": 1
       },
       "L": {
-        "4": 6,
+        "4": 7,
         "5": 3,
         "6": 4,
         "7": 1
@@ -137,18 +146,20 @@
     "two_letter_list": {
       "AB": 1,
       "AD": 2,
+      "AL": 1,
       "BA": 12,
       "BE": 3,
       "BL": 10,
       "CA": 10,
-      "CE": 1,
+      "CE": 2,
       "CL": 3,
       "DA": 3,
-      "DE": 5,
+      "DE": 6,
+      "EE": 1,
       "KA": 1,
       "KE": 2,
       "LA": 9,
-      "LE": 5
+      "LE": 6
     }
   }
 }

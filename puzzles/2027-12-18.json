@@ -1,9 +1,9 @@
 {
   "pangram": "parboil",
   "center_letter": "a",
-  "num_answers": 39,
+  "num_answers": 40,
   "num_pangrams": 2,
-  "possible_points": 150,
+  "possible_points": 151,
   "answer_pangrams": [
     "bipolar",
     "parboil"
@@ -22,6 +22,7 @@
     "bipolar",
     "blab",
     "boar",
+    "boba",
     "bola",
     "briar",
     "labia",
@@ -52,7 +53,7 @@
   "date": "2027-12-18",
   "hints": {
     "by_length": {
-      "4": 19,
+      "4": 20,
       "5": 8,
       "6": 8,
       "7": 3,
@@ -60,7 +61,7 @@
     },
     "by_first_letter": {
       "A": 4,
-      "B": 11,
+      "B": 12,
       "L": 6,
       "O": 2,
       "P": 13,
@@ -73,7 +74,7 @@
         "6": 1
       },
       "B": {
-        "4": 7,
+        "4": 8,
         "5": 1,
         "6": 2,
         "7": 1
@@ -105,7 +106,7 @@
       "BA": 6,
       "BI": 1,
       "BL": 1,
-      "BO": 2,
+      "BO": 3,
       "BR": 1,
       "LA": 4,
       "LI": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "lurking",
   "center_letter": "i",
-  "num_answers": 49,
+  "num_answers": 52,
   "num_pangrams": 1,
-  "possible_points": 271,
+  "possible_points": 289,
   "answer_pangrams": [
     "lurking"
   ],
@@ -25,6 +25,7 @@
     "inking",
     "inkling",
     "inning",
+    "inulin",
     "inuring",
     "irking",
     "kill",
@@ -34,11 +35,13 @@
     "king",
     "kink",
     "kinking",
+    "lignin",
     "liking",
     "lining",
     "link",
     "linking",
     "lugging",
+    "luging",
     "lulling",
     "lunging",
     "luring",
@@ -63,16 +66,16 @@
     "by_length": {
       "4": 12,
       "5": 2,
-      "6": 11,
+      "6": 14,
       "7": 18,
       "8": 5,
       "10": 1
     },
     "by_first_letter": {
       "G": 14,
-      "I": 5,
+      "I": 6,
       "K": 7,
-      "L": 9,
+      "L": 11,
       "N": 2,
       "R": 11,
       "U": 1
@@ -87,7 +90,7 @@
         "10": 1
       },
       "I": {
-        "6": 3,
+        "6": 4,
         "7": 2
       },
       "K": {
@@ -96,7 +99,7 @@
       },
       "L": {
         "4": 1,
-        "6": 3,
+        "6": 5,
         "7": 5
       },
       "N": {
@@ -118,11 +121,11 @@
       "GL": 1,
       "GR": 4,
       "GU": 4,
-      "IN": 4,
+      "IN": 5,
       "IR": 1,
       "KI": 7,
-      "LI": 4,
-      "LU": 5,
+      "LI": 5,
+      "LU": 6,
       "NI": 1,
       "NU": 1,
       "RI": 6,

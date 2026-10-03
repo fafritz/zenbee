@@ -1,9 +1,9 @@
 {
   "pangram": "faculty",
   "center_letter": "u",
-  "num_answers": 24,
+  "num_answers": 25,
   "num_pangrams": 3,
-  "possible_points": 122,
+  "possible_points": 123,
   "answer_pangrams": [
     "factually",
     "faculty",
@@ -25,6 +25,7 @@
     "full",
     "fully",
     "luau",
+    "luff",
     "lull",
     "lulu",
     "tactful",
@@ -38,7 +39,7 @@
   "date": "2035-01-05",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 11,
       "5": 4,
       "6": 4,
       "7": 3,
@@ -49,7 +50,7 @@
       "A": 2,
       "C": 3,
       "F": 9,
-      "L": 3,
+      "L": 4,
       "T": 6,
       "Y": 1
     },
@@ -69,7 +70,7 @@
         "9": 1
       },
       "L": {
-        "4": 3
+        "4": 4
       },
       "T": {
         "4": 3,
@@ -87,7 +88,7 @@
       "FA": 5,
       "FL": 2,
       "FU": 2,
-      "LU": 3,
+      "LU": 4,
       "TA": 4,
       "TU": 2,
       "YU": 1

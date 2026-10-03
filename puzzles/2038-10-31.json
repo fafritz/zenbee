@@ -1,9 +1,9 @@
 {
   "pangram": "belying",
   "center_letter": "e",
-  "num_answers": 61,
+  "num_answers": 62,
   "num_pangrams": 4,
-  "possible_points": 360,
+  "possible_points": 366,
   "answer_pangrams": [
     "bellying",
     "belying",
@@ -35,6 +35,7 @@
     "bingeing",
     "byline",
     "ebbing",
+    "eeling",
     "egging",
     "elegy",
     "eligible",
@@ -78,7 +79,7 @@
     "by_length": {
       "4": 12,
       "5": 16,
-      "6": 12,
+      "6": 13,
       "7": 9,
       "8": 6,
       "9": 3,
@@ -86,7 +87,7 @@
     },
     "by_first_letter": {
       "B": 23,
-      "E": 6,
+      "E": 7,
       "G": 9,
       "I": 4,
       "L": 10,
@@ -104,7 +105,7 @@
       },
       "E": {
         "5": 1,
-        "6": 4,
+        "6": 5,
         "8": 1
       },
       "G": {
@@ -140,6 +141,7 @@
       "BI": 6,
       "BY": 1,
       "EB": 1,
+      "EE": 1,
       "EG": 1,
       "EL": 2,
       "EN": 1,

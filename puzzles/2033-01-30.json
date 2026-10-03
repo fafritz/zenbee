@@ -1,9 +1,9 @@
 {
   "pangram": "playing",
   "center_letter": "i",
-  "num_answers": 75,
+  "num_answers": 80,
   "num_pangrams": 3,
-  "possible_points": 473,
+  "possible_points": 500,
   "answer_pangrams": [
     "appallingly",
     "applying",
@@ -24,6 +24,7 @@
     "appallingly",
     "applying",
     "gagging",
+    "gaily",
     "gain",
     "gaining",
     "galling",
@@ -42,8 +43,10 @@
     "inning",
     "lagging",
     "lain",
+    "lanai",
     "lapping",
     "laying",
+    "lignin",
     "lily",
     "lining",
     "lying",
@@ -61,6 +64,7 @@
     "paining",
     "paling",
     "palling",
+    "panini",
     "panning",
     "papilla",
     "paying",
@@ -73,6 +77,7 @@
     "ping",
     "pinging",
     "pining",
+    "pinna",
     "pinning",
     "piping",
     "pippin",
@@ -90,8 +95,8 @@
   "hints": {
     "by_length": {
       "4": 9,
-      "5": 10,
-      "6": 15,
+      "5": 13,
+      "6": 17,
       "7": 30,
       "8": 8,
       "9": 2,
@@ -99,11 +104,11 @@
     },
     "by_first_letter": {
       "A": 13,
-      "G": 14,
+      "G": 15,
       "I": 3,
-      "L": 7,
+      "L": 9,
       "N": 8,
-      "P": 28,
+      "P": 30,
       "Y": 2
     },
     "grid": {
@@ -117,6 +122,7 @@
       },
       "G": {
         "4": 2,
+        "5": 1,
         "6": 2,
         "7": 8,
         "8": 2
@@ -128,8 +134,8 @@
       },
       "L": {
         "4": 2,
-        "5": 1,
-        "6": 2,
+        "5": 2,
+        "6": 3,
         "7": 2
       },
       "N": {
@@ -140,8 +146,8 @@
       },
       "P": {
         "4": 4,
-        "5": 2,
-        "6": 8,
+        "5": 3,
+        "6": 9,
         "7": 12,
         "8": 1,
         "9": 1
@@ -156,17 +162,17 @@
       "AL": 4,
       "AN": 2,
       "AP": 4,
-      "GA": 8,
+      "GA": 9,
       "GI": 5,
       "GY": 1,
       "IN": 3,
-      "LA": 4,
-      "LI": 2,
+      "LA": 5,
+      "LI": 3,
       "LY": 1,
       "NA": 4,
       "NI": 4,
-      "PA": 9,
-      "PI": 13,
+      "PA": 10,
+      "PI": 14,
       "PL": 6,
       "YA": 1,
       "YI": 1

@@ -1,9 +1,9 @@
 {
   "pangram": "braving",
   "center_letter": "i",
-  "num_answers": 70,
+  "num_answers": 74,
   "num_pangrams": 1,
-  "possible_points": 448,
+  "possible_points": 479,
   "answer_pangrams": [
     "braving"
   ],
@@ -32,6 +32,7 @@
     "baring",
     "barraging",
     "barring",
+    "binging",
     "binning",
     "bragging",
     "brain",
@@ -42,6 +43,7 @@
     "brig",
     "bring",
     "bringing",
+    "brining",
     "gabbing",
     "gagging",
     "gain",
@@ -58,6 +60,8 @@
     "graving",
     "grin",
     "grinning",
+    "ingrain",
+    "ingraining",
     "inning",
     "nabbing",
     "nagging",
@@ -85,16 +89,16 @@
       "4": 7,
       "5": 8,
       "6": 12,
-      "7": 29,
+      "7": 32,
       "8": 9,
       "9": 3,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 12,
-      "B": 22,
+      "B": 24,
       "G": 16,
-      "I": 1,
+      "I": 3,
       "N": 3,
       "R": 13,
       "V": 3
@@ -113,7 +117,7 @@
         "4": 1,
         "5": 3,
         "6": 2,
-        "7": 10,
+        "7": 12,
         "8": 3,
         "9": 2,
         "10": 1
@@ -126,7 +130,9 @@
         "8": 3
       },
       "I": {
-        "6": 1
+        "6": 1,
+        "7": 1,
+        "10": 1
       },
       "N": {
         "7": 3
@@ -151,12 +157,12 @@
       "AR": 5,
       "AV": 1,
       "BA": 12,
-      "BI": 1,
-      "BR": 9,
+      "BI": 2,
+      "BR": 10,
       "GA": 7,
       "GI": 4,
       "GR": 5,
-      "IN": 1,
+      "IN": 3,
       "NA": 2,
       "NI": 1,
       "RA": 9,

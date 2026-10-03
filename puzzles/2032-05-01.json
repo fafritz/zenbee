@@ -1,9 +1,9 @@
 {
   "pangram": "fueling",
   "center_letter": "n",
-  "num_answers": 61,
+  "num_answers": 66,
   "num_pangrams": 4,
-  "possible_points": 383,
+  "possible_points": 413,
   "answer_pangrams": [
     "engulfing",
     "fueling",
@@ -11,6 +11,7 @@
     "unfeeling"
   ],
   "answers": [
+    "eeling",
     "egging",
     "elfin",
     "engine",
@@ -54,13 +55,16 @@
     "ingenue",
     "inline",
     "inning",
+    "inulin",
     "legging",
     "lien",
     "lifeline",
+    "lignin",
     "line",
     "linen",
     "lining",
     "lugging",
+    "luging",
     "lulling",
     "lung",
     "lunge",
@@ -71,32 +75,33 @@
     "niggling",
     "nine",
     "null",
-    "unfeeling"
+    "unfeeling",
+    "unglue"
   ],
   "date": "2032-05-01",
   "hints": {
     "by_length": {
       "4": 9,
       "5": 10,
-      "6": 14,
+      "6": 19,
       "7": 17,
       "8": 7,
       "9": 3,
       "10": 1
     },
     "by_first_letter": {
-      "E": 6,
+      "E": 7,
       "F": 21,
       "G": 13,
-      "I": 3,
-      "L": 11,
+      "I": 4,
+      "L": 13,
       "N": 6,
-      "U": 1
+      "U": 2
     },
     "grid": {
       "E": {
         "5": 2,
-        "6": 3,
+        "6": 4,
         "9": 1
       },
       "F": {
@@ -116,13 +121,13 @@
         "8": 1
       },
       "I": {
-        "6": 2,
+        "6": 3,
         "7": 1
       },
       "L": {
         "4": 3,
         "5": 2,
-        "6": 1,
+        "6": 3,
         "7": 4,
         "8": 1
       },
@@ -132,10 +137,12 @@
         "8": 2
       },
       "U": {
+        "6": 1,
         "9": 1
       }
     },
     "two_letter_list": {
+      "EE": 1,
       "EG": 1,
       "EL": 1,
       "EN": 4,
@@ -147,14 +154,14 @@
       "GI": 3,
       "GL": 2,
       "GU": 2,
-      "IN": 3,
+      "IN": 4,
       "LE": 1,
-      "LI": 5,
-      "LU": 5,
+      "LI": 6,
+      "LU": 6,
       "NE": 2,
       "NI": 3,
       "NU": 1,
-      "UN": 1
+      "UN": 2
     }
   }
 }

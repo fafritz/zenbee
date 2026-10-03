@@ -1,14 +1,15 @@
 {
   "pangram": "botched",
   "center_letter": "c",
-  "num_answers": 22,
+  "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 96,
+  "possible_points": 101,
   "answer_pangrams": [
     "botched"
   ],
   "answers": [
     "beech",
+    "bocce",
     "botch",
     "botched",
     "cede",
@@ -35,13 +36,13 @@
   "hints": {
     "by_length": {
       "4": 8,
-      "5": 7,
+      "5": 8,
       "6": 4,
       "7": 2,
       "8": 1
     },
     "by_first_letter": {
-      "B": 3,
+      "B": 4,
       "C": 8,
       "D": 4,
       "E": 4,
@@ -51,7 +52,7 @@
     },
     "grid": {
       "B": {
-        "5": 2,
+        "5": 3,
         "7": 1
       },
       "C": {
@@ -79,7 +80,7 @@
     },
     "two_letter_list": {
       "BE": 1,
-      "BO": 2,
+      "BO": 3,
       "CE": 2,
       "CO": 6,
       "DE": 4,

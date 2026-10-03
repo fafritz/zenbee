@@ -1,9 +1,9 @@
 {
   "pangram": "bailout",
   "center_letter": "l",
-  "num_answers": 41,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 102,
+  "possible_points": 113,
   "answer_pangrams": [
     "bailout"
   ],
@@ -43,19 +43,21 @@
     "olio",
     "tail",
     "tall",
+    "tibial",
     "till",
     "tilt",
     "toil",
     "toll",
     "tool",
-    "total"
+    "total",
+    "tubal"
   ],
   "date": "2030-07-15",
   "hints": {
     "by_length": {
       "4": 29,
-      "5": 8,
-      "6": 2,
+      "5": 9,
+      "6": 3,
       "7": 2
     },
     "by_first_letter": {
@@ -63,7 +65,7 @@
       "B": 18,
       "L": 10,
       "O": 1,
-      "T": 8
+      "T": 10
     },
     "grid": {
       "A": {
@@ -86,7 +88,8 @@
       },
       "T": {
         "4": 7,
-        "5": 1
+        "5": 2,
+        "6": 1
       }
     },
     "two_letter_list": {
@@ -103,8 +106,9 @@
       "LU": 3,
       "OL": 1,
       "TA": 2,
-      "TI": 2,
-      "TO": 4
+      "TI": 3,
+      "TO": 4,
+      "TU": 1
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "pangram": "baneful",
   "center_letter": "a",
-  "num_answers": 50,
+  "num_answers": 53,
   "num_pangrams": 1,
-  "possible_points": 188,
+  "possible_points": 212,
   "answer_pangrams": [
     "baneful"
   ],
@@ -12,7 +12,7 @@
     "able",
     "affable",
     "alfalfa",
-    "anal",
+    "allele",
     "anneal",
     "annual",
     "annul",
@@ -35,13 +35,16 @@
     "befall",
     "befallen",
     "blab",
+    "effable",
     "elan",
     "enable",
     "fable",
+    "falafel",
     "fall",
     "fallen",
     "faun",
     "fauna",
+    "fella",
     "flab",
     "flan",
     "flannel",
@@ -62,26 +65,26 @@
   "date": "2031-04-22",
   "hints": {
     "by_length": {
-      "4": 24,
-      "5": 7,
-      "6": 12,
-      "7": 6,
+      "4": 23,
+      "5": 8,
+      "6": 13,
+      "7": 8,
       "8": 1
     },
     "by_first_letter": {
       "A": 8,
       "B": 19,
-      "E": 2,
-      "F": 9,
+      "E": 3,
+      "F": 11,
       "L": 5,
       "N": 4,
       "U": 3
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 1,
-        "6": 2,
+        "6": 3,
         "7": 2
       },
       "B": {
@@ -93,13 +96,14 @@
       },
       "E": {
         "4": 1,
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "F": {
         "4": 5,
-        "5": 2,
+        "5": 3,
         "6": 1,
-        "7": 1
+        "7": 2
       },
       "L": {
         "4": 4,
@@ -119,14 +123,16 @@
     "two_letter_list": {
       "AB": 2,
       "AF": 1,
-      "AL": 1,
-      "AN": 4,
+      "AL": 2,
+      "AN": 3,
       "BA": 14,
       "BE": 4,
       "BL": 1,
+      "EF": 1,
       "EL": 1,
       "EN": 1,
-      "FA": 5,
+      "FA": 6,
+      "FE": 1,
       "FL": 4,
       "LA": 2,
       "LE": 2,

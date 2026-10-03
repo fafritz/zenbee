@@ -1,9 +1,9 @@
 {
   "pangram": "debauch",
   "center_letter": "d",
-  "num_answers": 48,
+  "num_answers": 50,
   "num_pangrams": 2,
-  "possible_points": 242,
+  "possible_points": 253,
   "answer_pangrams": [
     "debauch",
     "debauched"
@@ -48,10 +48,12 @@
     "deed",
     "deeded",
     "deuce",
+    "deuced",
     "dubbed",
     "dude",
     "duded",
     "ebbed",
+    "educe",
     "head",
     "headache",
     "headed",
@@ -62,8 +64,8 @@
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 10,
-      "6": 16,
+      "5": 11,
+      "6": 17,
       "7": 5,
       "8": 2,
       "9": 2
@@ -72,8 +74,8 @@
       "A": 8,
       "B": 11,
       "C": 7,
-      "D": 16,
-      "E": 1,
+      "D": 17,
+      "E": 2,
       "H": 5
     },
     "grid": {
@@ -99,12 +101,12 @@
       "D": {
         "4": 4,
         "5": 3,
-        "6": 6,
+        "6": 7,
         "7": 2,
         "9": 1
       },
       "E": {
-        "5": 1
+        "5": 2
       },
       "H": {
         "4": 2,
@@ -124,9 +126,10 @@
       "CH": 1,
       "CU": 2,
       "DA": 4,
-      "DE": 9,
+      "DE": 10,
       "DU": 3,
       "EB": 1,
+      "ED": 1,
       "HE": 5
     }
   }

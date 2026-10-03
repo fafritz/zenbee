@@ -1,9 +1,9 @@
 {
   "pangram": "twinged",
   "center_letter": "w",
-  "num_answers": 56,
+  "num_answers": 57,
   "num_pangrams": 1,
-  "possible_points": 316,
+  "possible_points": 322,
   "answer_pangrams": [
     "twinged"
   ],
@@ -46,6 +46,7 @@
     "wended",
     "wending",
     "went",
+    "wetted",
     "wetting",
     "wide",
     "widen",
@@ -70,7 +71,7 @@
     "by_length": {
       "4": 11,
       "5": 6,
-      "6": 14,
+      "6": 15,
       "7": 17,
       "8": 7,
       "9": 1
@@ -79,7 +80,7 @@
       "E": 3,
       "N": 2,
       "T": 19,
-      "W": 32
+      "W": 33
     },
     "grid": {
       "E": {
@@ -101,7 +102,7 @@
       "W": {
         "4": 7,
         "5": 3,
-        "6": 11,
+        "6": 12,
         "7": 10,
         "8": 1
       }
@@ -111,7 +112,7 @@
       "NE": 1,
       "NI": 1,
       "TW": 19,
-      "WE": 15,
+      "WE": 16,
       "WI": 17
     }
   }

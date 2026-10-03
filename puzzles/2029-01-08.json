@@ -1,9 +1,9 @@
 {
   "pangram": "flunked",
   "center_letter": "d",
-  "num_answers": 61,
+  "num_answers": 62,
   "num_pangrams": 1,
-  "possible_points": 301,
+  "possible_points": 302,
   "answer_pangrams": [
     "flunked"
   ],
@@ -29,11 +29,11 @@
     "dunk",
     "dunked",
     "dunned",
+    "eeled",
     "eked",
     "elude",
     "eluded",
     "ended",
-    "endue",
     "endued",
     "feed",
     "felled",
@@ -58,6 +58,7 @@
     "kenneled",
     "kneed",
     "knelled",
+    "lede",
     "lend",
     "lulled",
     "need",
@@ -73,7 +74,7 @@
   "date": "2029-01-08",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 7,
       "6": 24,
       "7": 8,
@@ -85,7 +86,7 @@
       "E": 6,
       "F": 17,
       "K": 6,
-      "L": 2,
+      "L": 3,
       "N": 6,
       "U": 3
     },
@@ -115,7 +116,7 @@
         "8": 1
       },
       "L": {
-        "4": 1,
+        "4": 2,
         "6": 1
       },
       "N": {
@@ -133,15 +134,16 @@
     "two_letter_list": {
       "DE": 9,
       "DU": 12,
+      "EE": 1,
       "EK": 1,
       "EL": 2,
-      "EN": 3,
+      "EN": 2,
       "FE": 6,
       "FL": 3,
       "FU": 8,
       "KE": 4,
       "KN": 2,
-      "LE": 1,
+      "LE": 2,
       "LU": 1,
       "NE": 5,
       "NU": 1,

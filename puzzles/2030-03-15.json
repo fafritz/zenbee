@@ -1,9 +1,9 @@
 {
   "pangram": "confirm",
   "center_letter": "i",
-  "num_answers": 26,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 112,
+  "possible_points": 130,
   "answer_pangrams": [
     "confirm"
   ],
@@ -18,9 +18,11 @@
     "conic",
     "firm",
     "icon",
+    "iconic",
     "infirm",
     "info",
     "inform",
+    "ionic",
     "iron",
     "ironic",
     "micron",
@@ -32,24 +34,28 @@
     "minor",
     "mirror",
     "moronic",
+    "noir",
+    "nori",
     "onion",
-    "riff"
+    "riff",
+    "ronin"
   ],
   "date": "2030-03-15",
   "hints": {
     "by_length": {
-      "4": 9,
-      "5": 8,
-      "6": 7,
+      "4": 11,
+      "5": 10,
+      "6": 8,
       "7": 2
     },
     "by_first_letter": {
       "C": 8,
       "F": 1,
-      "I": 6,
+      "I": 8,
       "M": 9,
+      "N": 2,
       "O": 1,
-      "R": 1
+      "R": 2
     },
     "grid": {
       "C": {
@@ -63,7 +69,8 @@
       },
       "I": {
         "4": 3,
-        "6": 3
+        "5": 1,
+        "6": 4
       },
       "M": {
         "4": 2,
@@ -71,24 +78,31 @@
         "6": 3,
         "7": 1
       },
+      "N": {
+        "4": 2
+      },
       "O": {
         "5": 1
       },
       "R": {
-        "4": 1
+        "4": 1,
+        "5": 1
       }
     },
     "two_letter_list": {
       "CI": 1,
       "CO": 7,
       "FI": 1,
-      "IC": 1,
+      "IC": 2,
       "IN": 3,
+      "IO": 1,
       "IR": 2,
       "MI": 8,
       "MO": 1,
+      "NO": 2,
       "ON": 1,
-      "RI": 1
+      "RI": 1,
+      "RO": 1
     }
   }
 }

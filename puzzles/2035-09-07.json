@@ -1,9 +1,9 @@
 {
   "pangram": "implant",
   "center_letter": "m",
-  "num_answers": 39,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 163,
+  "possible_points": 168,
   "answer_pangrams": [
     "implant"
   ],
@@ -44,6 +44,7 @@
     "mitt",
     "napalm",
     "palm",
+    "pampa",
     "pimp",
     "tamp",
     "timpani"
@@ -52,7 +53,7 @@
   "hints": {
     "by_length": {
       "4": 18,
-      "5": 6,
+      "5": 7,
       "6": 5,
       "7": 5,
       "8": 3,
@@ -65,7 +66,7 @@
       "L": 6,
       "M": 24,
       "N": 1,
-      "P": 2,
+      "P": 3,
       "T": 2
     },
     "grid": {
@@ -94,7 +95,8 @@
         "6": 1
       },
       "P": {
-        "4": 2
+        "4": 2,
+        "5": 1
       },
       "T": {
         "4": 1,
@@ -110,7 +112,7 @@
       "MA": 14,
       "MI": 10,
       "NA": 1,
-      "PA": 1,
+      "PA": 2,
       "PI": 1,
       "TA": 1,
       "TI": 1

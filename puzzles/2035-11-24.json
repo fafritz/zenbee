@@ -1,14 +1,15 @@
 {
   "pangram": "cheaply",
   "center_letter": "l",
-  "num_answers": 43,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 142,
+  "possible_points": 148,
   "answer_pangrams": [
     "cheaply"
   ],
   "answers": [
     "allay",
+    "allele",
     "alley",
     "ally",
     "alpaca",
@@ -57,11 +58,11 @@
     "by_length": {
       "4": 22,
       "5": 14,
-      "6": 6,
+      "6": 7,
       "7": 1
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 10,
       "C": 9,
       "H": 7,
       "L": 6,
@@ -72,7 +73,7 @@
       "A": {
         "4": 1,
         "5": 5,
-        "6": 3
+        "6": 4
       },
       "C": {
         "4": 4,
@@ -98,7 +99,7 @@
       }
     },
     "two_letter_list": {
-      "AL": 5,
+      "AL": 6,
       "AP": 4,
       "CA": 2,
       "CE": 1,

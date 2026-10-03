@@ -1,14 +1,13 @@
 {
   "pangram": "implant",
   "center_letter": "a",
-  "num_answers": 65,
+  "num_answers": 69,
   "num_pangrams": 1,
-  "possible_points": 279,
+  "possible_points": 306,
   "answer_pangrams": [
     "implant"
   ],
   "answers": [
-    "anal",
     "animal",
     "anti",
     "appall",
@@ -21,6 +20,8 @@
     "lain",
     "lama",
     "lamp",
+    "lanai",
+    "lantana",
     "llama",
     "mail",
     "mailman",
@@ -53,11 +54,14 @@
     "palatial",
     "pall",
     "palm",
+    "pampa",
+    "panini",
     "pant",
     "papa",
     "papal",
     "papilla",
     "patina",
+    "pinna",
     "pita",
     "plain",
     "plaint",
@@ -77,26 +81,26 @@
   "date": "2028-11-11",
   "hints": {
     "by_length": {
-      "4": 26,
-      "5": 13,
-      "6": 11,
-      "7": 8,
+      "4": 25,
+      "5": 16,
+      "6": 12,
+      "7": 9,
       "8": 5,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 4,
       "I": 5,
-      "L": 4,
+      "L": 6,
       "M": 19,
       "N": 5,
-      "P": 20,
+      "P": 23,
       "T": 7
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "6": 3
       },
       "I": {
@@ -107,7 +111,8 @@
       },
       "L": {
         "4": 3,
-        "5": 1
+        "5": 2,
+        "7": 1
       },
       "M": {
         "4": 6,
@@ -125,8 +130,8 @@
       },
       "P": {
         "4": 8,
-        "5": 5,
-        "6": 3,
+        "5": 7,
+        "6": 4,
         "7": 2,
         "8": 2
       },
@@ -138,18 +143,18 @@
       }
     },
     "two_letter_list": {
-      "AN": 3,
+      "AN": 2,
       "AP": 1,
       "AT": 1,
       "IM": 3,
       "IN": 2,
-      "LA": 3,
+      "LA": 5,
       "LL": 1,
       "MA": 14,
       "MI": 5,
       "NA": 5,
-      "PA": 12,
-      "PI": 1,
+      "PA": 14,
+      "PI": 2,
       "PL": 7,
       "TA": 5,
       "TI": 2

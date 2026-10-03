@@ -1,9 +1,9 @@
 {
   "pangram": "wildcat",
   "center_letter": "l",
-  "num_answers": 30,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 102,
+  "possible_points": 107,
   "answer_pangrams": [
     "wildcat"
   ],
@@ -17,6 +17,7 @@
     "claw",
     "dial",
     "dill",
+    "iliac",
     "illicit",
     "italic",
     "lactic",
@@ -43,7 +44,7 @@
   "hints": {
     "by_length": {
       "4": 17,
-      "5": 6,
+      "5": 7,
       "6": 2,
       "7": 4,
       "8": 1
@@ -51,7 +52,7 @@
     "by_first_letter": {
       "C": 7,
       "D": 2,
-      "I": 2,
+      "I": 3,
       "L": 5,
       "T": 8,
       "W": 6
@@ -66,6 +67,7 @@
         "4": 2
       },
       "I": {
+        "5": 1,
         "6": 1,
         "7": 1
       },
@@ -89,7 +91,7 @@
       "CI": 1,
       "CL": 2,
       "DI": 2,
-      "IL": 1,
+      "IL": 2,
       "IT": 1,
       "LA": 2,
       "LI": 3,

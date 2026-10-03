@@ -1,9 +1,9 @@
 {
   "pangram": "halogen",
   "center_letter": "g",
-  "num_answers": 40,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 150,
+  "possible_points": 154,
   "answer_pangrams": [
     "halogen"
   ],
@@ -19,8 +19,10 @@
     "eagle",
     "eggnog",
     "engage",
+    "gaga",
     "gaggle",
     "gala",
+    "galangal",
     "gale",
     "galena",
     "gall",
@@ -35,7 +37,6 @@
     "goggle",
     "gone",
     "gong",
-    "gonna",
     "google",
     "goon",
     "haggle",
@@ -52,15 +53,16 @@
   "date": "2032-03-03",
   "hints": {
     "by_length": {
-      "4": 18,
-      "5": 9,
+      "4": 19,
+      "5": 8,
       "6": 11,
-      "7": 2
+      "7": 2,
+      "8": 1
     },
     "by_first_letter": {
       "A": 8,
       "E": 3,
-      "G": 19,
+      "G": 20,
       "H": 4,
       "L": 5,
       "O": 1
@@ -76,10 +78,11 @@
         "6": 2
       },
       "G": {
-        "4": 11,
-        "5": 2,
+        "4": 12,
+        "5": 1,
         "6": 5,
-        "7": 1
+        "7": 1,
+        "8": 1
       },
       "H": {
         "4": 1,
@@ -103,10 +106,10 @@
       "EA": 1,
       "EG": 1,
       "EN": 1,
-      "GA": 8,
+      "GA": 10,
       "GE": 1,
       "GL": 3,
-      "GO": 7,
+      "GO": 6,
       "HA": 3,
       "HO": 1,
       "LA": 1,

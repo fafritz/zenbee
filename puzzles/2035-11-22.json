@@ -1,9 +1,9 @@
 {
   "pangram": "primacy",
   "center_letter": "m",
-  "num_answers": 25,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 98,
+  "possible_points": 103,
   "answer_pangrams": [
     "primacy"
   ],
@@ -26,6 +26,7 @@
     "mica",
     "mimic",
     "mimicry",
+    "pampa",
     "pimp",
     "pram",
     "prim",
@@ -38,7 +39,7 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 8,
+      "5": 9,
       "6": 2,
       "7": 4
     },
@@ -47,7 +48,7 @@
       "C": 5,
       "I": 2,
       "M": 10,
-      "P": 6,
+      "P": 7,
       "R": 1
     },
     "grid": {
@@ -70,7 +71,7 @@
       },
       "P": {
         "4": 3,
-        "5": 1,
+        "5": 2,
         "7": 2
       },
       "R": {
@@ -84,6 +85,7 @@
       "IM": 2,
       "MA": 7,
       "MI": 3,
+      "PA": 1,
       "PI": 1,
       "PR": 5,
       "RA": 1

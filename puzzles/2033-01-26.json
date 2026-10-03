@@ -1,13 +1,14 @@
 {
   "pangram": "levying",
   "center_letter": "e",
-  "num_answers": 56,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 268,
+  "possible_points": 281,
   "answer_pangrams": [
     "levying"
   ],
   "answers": [
+    "eeling",
     "egging",
     "elegy",
     "eleven",
@@ -40,6 +41,7 @@
     "levee",
     "level",
     "leveling",
+    "levelly",
     "levy",
     "levying",
     "liege",
@@ -70,16 +72,16 @@
     "by_length": {
       "4": 18,
       "5": 10,
-      "6": 13,
-      "7": 9,
+      "6": 14,
+      "7": 10,
       "8": 4,
       "10": 2
     },
     "by_first_letter": {
-      "E": 14,
+      "E": 15,
       "G": 10,
       "I": 3,
-      "L": 15,
+      "L": 16,
       "N": 4,
       "V": 8,
       "Y": 2
@@ -88,7 +90,7 @@
       "E": {
         "4": 3,
         "5": 1,
-        "6": 6,
+        "6": 7,
         "7": 3,
         "10": 1
       },
@@ -107,7 +109,7 @@
         "4": 4,
         "5": 6,
         "6": 1,
-        "7": 2,
+        "7": 3,
         "8": 2
       },
       "N": {
@@ -126,6 +128,7 @@
       }
     },
     "two_letter_list": {
+      "EE": 1,
       "EG": 1,
       "EL": 2,
       "EN": 5,
@@ -135,7 +138,7 @@
       "GI": 3,
       "GL": 2,
       "IN": 3,
-      "LE": 7,
+      "LE": 8,
       "LI": 8,
       "NE": 2,
       "NI": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "minuted",
   "center_letter": "u",
-  "num_answers": 44,
+  "num_answers": 43,
   "num_pangrams": 2,
-  "possible_points": 242,
+  "possible_points": 237,
   "answer_pangrams": [
     "minuted",
     "mutinied"
@@ -16,7 +16,6 @@
     "duet",
     "dune",
     "dunned",
-    "endue",
     "endued",
     "ennui",
     "etude",
@@ -58,7 +57,7 @@
   "hints": {
     "by_length": {
       "4": 9,
-      "5": 11,
+      "5": 10,
       "6": 13,
       "7": 5,
       "8": 4,
@@ -67,7 +66,7 @@
     },
     "by_first_letter": {
       "D": 7,
-      "E": 4,
+      "E": 3,
       "I": 3,
       "M": 14,
       "N": 1,
@@ -82,7 +81,7 @@
         "7": 1
       },
       "E": {
-        "5": 3,
+        "5": 2,
         "6": 1
       },
       "I": {
@@ -116,7 +115,7 @@
     "two_letter_list": {
       "DE": 2,
       "DU": 5,
-      "EN": 3,
+      "EN": 2,
       "ET": 1,
       "IM": 1,
       "IN": 2,

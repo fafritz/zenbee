@@ -1,9 +1,9 @@
 {
   "pangram": "drought",
   "center_letter": "h",
-  "num_answers": 23,
+  "num_answers": 22,
   "num_pangrams": 1,
-  "possible_points": 114,
+  "possible_points": 113,
   "answer_pangrams": [
     "drought"
   ],
@@ -20,7 +20,6 @@
     "ought",
     "rough",
     "thorough",
-    "thou",
     "though",
     "thought",
     "through",
@@ -35,7 +34,7 @@
   "date": "2037-11-25",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 6,
       "5": 6,
       "6": 4,
       "7": 4,
@@ -48,7 +47,7 @@
       "H": 6,
       "O": 1,
       "R": 1,
-      "T": 12
+      "T": 11
     },
     "grid": {
       "D": {
@@ -69,7 +68,7 @@
         "5": 1
       },
       "T": {
-        "4": 3,
+        "4": 2,
         "5": 3,
         "6": 2,
         "7": 2,
@@ -85,7 +84,7 @@
       "HU": 1,
       "OU": 1,
       "RO": 1,
-      "TH": 8,
+      "TH": 7,
       "TO": 2,
       "TR": 2
     }

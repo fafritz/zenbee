@@ -1,9 +1,9 @@
 {
   "pangram": "avowing",
   "center_letter": "o",
-  "num_answers": 26,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 119,
+  "possible_points": 114,
   "answer_pangrams": [
     "avowing"
   ],
@@ -16,7 +16,6 @@
     "going",
     "gong",
     "gonging",
-    "gonna",
     "goon",
     "gown",
     "gowning",
@@ -39,14 +38,14 @@
   "hints": {
     "by_length": {
       "4": 9,
-      "5": 6,
+      "5": 5,
       "6": 6,
       "7": 4,
       "9": 1
     },
     "by_first_letter": {
       "A": 5,
-      "G": 7,
+      "G": 6,
       "N": 3,
       "O": 4,
       "V": 1,
@@ -60,7 +59,7 @@
       },
       "G": {
         "4": 3,
-        "5": 2,
+        "5": 1,
         "7": 2
       },
       "N": {
@@ -86,7 +85,7 @@
       "AG": 1,
       "AN": 2,
       "AV": 2,
-      "GO": 7,
+      "GO": 6,
       "NO": 3,
       "ON": 2,
       "OW": 2,

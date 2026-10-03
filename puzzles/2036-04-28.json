@@ -1,9 +1,9 @@
 {
   "pangram": "camping",
   "center_letter": "i",
-  "num_answers": 72,
+  "num_answers": 74,
   "num_pangrams": 3,
-  "possible_points": 427,
+  "possible_points": 438,
   "answer_pangrams": [
     "campaign",
     "campaigning",
@@ -69,6 +69,7 @@
     "pain",
     "paining",
     "panic",
+    "panini",
     "panning",
     "pica",
     "picnic",
@@ -78,6 +79,7 @@
     "ping",
     "pinging",
     "pining",
+    "pinna",
     "pinning",
     "piping",
     "pippin",
@@ -87,8 +89,8 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 11,
-      "6": 21,
+      "5": 12,
+      "6": 22,
       "7": 23,
       "8": 3,
       "9": 2,
@@ -101,7 +103,7 @@
       "I": 6,
       "M": 20,
       "N": 5,
-      "P": 18
+      "P": 20
     },
     "grid": {
       "A": {
@@ -140,8 +142,8 @@
       },
       "P": {
         "4": 4,
-        "5": 1,
-        "6": 6,
+        "5": 2,
+        "6": 7,
         "7": 7
       }
     },
@@ -161,8 +163,8 @@
       "MI": 8,
       "NA": 3,
       "NI": 2,
-      "PA": 6,
-      "PI": 12
+      "PA": 7,
+      "PI": 13
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "pangram": "languid",
   "center_letter": "g",
-  "num_answers": 75,
+  "num_answers": 80,
   "num_pangrams": 3,
-  "possible_points": 465,
+  "possible_points": 493,
   "answer_pangrams": [
     "alluding",
     "languid",
@@ -38,10 +38,12 @@
     "dunging",
     "dunning",
     "gadding",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -75,9 +77,12 @@
     "landing",
     "languid",
     "lauding",
+    "lidding",
+    "lignin",
     "lingual",
     "lining",
     "lugging",
+    "luging",
     "lulling",
     "lung",
     "lunging",
@@ -89,19 +94,19 @@
   "date": "2036-12-16",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 13,
       "5": 5,
-      "6": 12,
-      "7": 35,
-      "8": 9,
+      "6": 14,
+      "7": 36,
+      "8": 10,
       "9": 2
     },
     "by_first_letter": {
       "A": 13,
       "D": 14,
-      "G": 28,
+      "G": 30,
       "I": 4,
-      "L": 12,
+      "L": 15,
       "N": 4
     },
     "grid": {
@@ -120,11 +125,11 @@
         "8": 3
       },
       "G": {
-        "4": 8,
+        "4": 9,
         "5": 2,
         "6": 1,
         "7": 14,
-        "8": 3
+        "8": 4
       },
       "I": {
         "6": 3,
@@ -132,8 +137,8 @@
       },
       "L": {
         "4": 1,
-        "6": 2,
-        "7": 9
+        "6": 4,
+        "7": 10
       },
       "N": {
         "7": 3,
@@ -149,7 +154,7 @@
       "DA": 2,
       "DI": 7,
       "DU": 5,
-      "GA": 13,
+      "GA": 15,
       "GI": 6,
       "GL": 4,
       "GU": 5,
@@ -157,8 +162,8 @@
       "IG": 1,
       "IN": 2,
       "LA": 6,
-      "LI": 2,
-      "LU": 4,
+      "LI": 4,
+      "LU": 5,
       "NA": 2,
       "NI": 1,
       "NU": 1

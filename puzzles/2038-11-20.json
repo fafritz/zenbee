@@ -1,9 +1,9 @@
 {
   "pangram": "bailout",
   "center_letter": "u",
-  "num_answers": 16,
+  "num_answers": 17,
   "num_pangrams": 1,
-  "possible_points": 37,
+  "possible_points": 42,
   "answer_pangrams": [
     "bailout"
   ],
@@ -23,20 +23,21 @@
     "taut",
     "tout",
     "tuba",
+    "tubal",
     "tutu"
   ],
   "date": "2038-11-20",
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 2,
+      "5": 3,
       "7": 1
     },
     "by_first_letter": {
       "A": 3,
       "B": 5,
       "L": 4,
-      "T": 4
+      "T": 5
     },
     "grid": {
       "A": {
@@ -52,7 +53,8 @@
         "4": 4
       },
       "T": {
-        "4": 4
+        "4": 4,
+        "5": 1
       }
     },
     "two_letter_list": {
@@ -65,7 +67,7 @@
       "LU": 3,
       "TA": 1,
       "TO": 1,
-      "TU": 2
+      "TU": 3
     }
   }
 }

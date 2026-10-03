@@ -1,9 +1,9 @@
 {
   "pangram": "copying",
   "center_letter": "o",
-  "num_answers": 34,
+  "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 168,
+  "possible_points": 187,
   "answer_pangrams": [
     "copying"
   ],
@@ -11,6 +11,7 @@
     "cocci",
     "cocoon",
     "cocooning",
+    "cogging",
     "coin",
     "coining",
     "conic",
@@ -28,6 +29,8 @@
     "goon",
     "goop",
     "icon",
+    "iconic",
+    "ionic",
     "noggin",
     "noon",
     "ongoing",
@@ -36,9 +39,10 @@
     "opinion",
     "pinion",
     "pinioning",
+    "pogo",
+    "pogoing",
     "pony",
     "poop",
-    "pooping",
     "popping",
     "poppy",
     "yogi"
@@ -46,19 +50,19 @@
   "date": "2030-12-12",
   "hints": {
     "by_length": {
-      "4": 11,
-      "5": 5,
-      "6": 5,
-      "7": 11,
+      "4": 12,
+      "5": 6,
+      "6": 6,
+      "7": 12,
       "9": 2
     },
     "by_first_letter": {
-      "C": 14,
+      "C": 15,
       "G": 5,
-      "I": 1,
+      "I": 3,
       "N": 2,
       "O": 4,
-      "P": 7,
+      "P": 8,
       "Y": 1
     },
     "grid": {
@@ -66,7 +70,7 @@
         "4": 3,
         "5": 2,
         "6": 3,
-        "7": 5,
+        "7": 6,
         "9": 1
       },
       "G": {
@@ -75,7 +79,9 @@
         "7": 1
       },
       "I": {
-        "4": 1
+        "4": 1,
+        "5": 1,
+        "6": 1
       },
       "N": {
         "4": 1,
@@ -86,7 +92,7 @@
         "7": 3
       },
       "P": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "6": 1,
         "7": 2,
@@ -97,14 +103,15 @@
       }
     },
     "two_letter_list": {
-      "CO": 14,
+      "CO": 15,
       "GO": 5,
-      "IC": 1,
+      "IC": 2,
+      "IO": 1,
       "NO": 2,
       "ON": 2,
       "OP": 2,
       "PI": 2,
-      "PO": 5,
+      "PO": 6,
       "YO": 1
     }
   }

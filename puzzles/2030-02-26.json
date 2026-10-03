@@ -1,9 +1,9 @@
 {
   "pangram": "uniform",
   "center_letter": "o",
-  "num_answers": 28,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 100,
+  "possible_points": 107,
   "answer_pangrams": [
     "uniform"
   ],
@@ -25,11 +25,14 @@
     "morn",
     "moron",
     "mourn",
+    "noir",
     "nonunion",
     "noon",
+    "nori",
     "norm",
     "noun",
     "onion",
+    "ronin",
     "roof",
     "room",
     "rumor",
@@ -40,8 +43,8 @@
   "date": "2030-02-26",
   "hints": {
     "by_length": {
-      "4": 14,
-      "5": 8,
+      "4": 16,
+      "5": 9,
       "6": 4,
       "7": 1,
       "8": 1
@@ -50,9 +53,9 @@
       "F": 5,
       "I": 3,
       "M": 9,
-      "N": 4,
+      "N": 6,
       "O": 1,
-      "R": 4,
+      "R": 5,
       "U": 2
     },
     "grid": {
@@ -70,7 +73,7 @@
         "6": 2
       },
       "N": {
-        "4": 3,
+        "4": 5,
         "8": 1
       },
       "O": {
@@ -78,7 +81,7 @@
       },
       "R": {
         "4": 2,
-        "5": 1,
+        "5": 2,
         "6": 1
       },
       "U": {
@@ -94,9 +97,9 @@
       "IR": 1,
       "MI": 3,
       "MO": 6,
-      "NO": 4,
+      "NO": 6,
       "ON": 1,
-      "RO": 2,
+      "RO": 3,
       "RU": 2,
       "UN": 2
     }

@@ -1,14 +1,13 @@
 {
   "pangram": "poultry",
   "center_letter": "r",
-  "num_answers": 30,
+  "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 108,
+  "possible_points": 103,
   "answer_pangrams": [
     "poultry"
   ],
   "answers": [
-    "lorry",
     "poor",
     "poorly",
     "port",
@@ -43,12 +42,11 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 7,
+      "5": 6,
       "6": 5,
       "7": 3
     },
     "by_first_letter": {
-      "L": 1,
       "P": 10,
       "R": 4,
       "T": 13,
@@ -56,9 +54,6 @@
       "Y": 1
     },
     "grid": {
-      "L": {
-        "5": 1
-      },
       "P": {
         "4": 6,
         "6": 2,
@@ -82,7 +77,6 @@
       }
     },
     "two_letter_list": {
-      "LO": 1,
       "PO": 6,
       "PR": 1,
       "PU": 3,

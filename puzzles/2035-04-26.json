@@ -1,9 +1,9 @@
 {
   "pangram": "jangled",
   "center_letter": "a",
-  "num_answers": 71,
+  "num_answers": 73,
   "num_pangrams": 1,
-  "possible_points": 336,
+  "possible_points": 350,
   "answer_pangrams": [
     "jangled"
   ],
@@ -20,7 +20,7 @@
     "algae",
     "allege",
     "alleged",
-    "anal",
+    "allele",
     "angel",
     "angle",
     "angled",
@@ -41,9 +41,11 @@
     "engage",
     "engaged",
     "gadded",
+    "gaga",
     "gagged",
     "gaggle",
     "gala",
+    "galangal",
     "gale",
     "galena",
     "gall",
@@ -85,25 +87,25 @@
     "by_length": {
       "4": 20,
       "5": 14,
-      "6": 25,
+      "6": 26,
       "7": 8,
-      "8": 3,
+      "8": 4,
       "9": 1
     },
     "by_first_letter": {
       "A": 18,
       "D": 10,
       "E": 4,
-      "G": 18,
+      "G": 20,
       "J": 5,
       "L": 13,
       "N": 3
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 6,
-        "6": 6,
+        "6": 7,
         "7": 2,
         "8": 1
       },
@@ -120,11 +122,11 @@
         "7": 1
       },
       "G": {
-        "4": 5,
+        "4": 6,
         "5": 3,
         "6": 6,
         "7": 2,
-        "8": 1,
+        "8": 2,
         "9": 1
       },
       "J": {
@@ -146,14 +148,14 @@
     "two_letter_list": {
       "AD": 6,
       "AG": 2,
-      "AL": 4,
-      "AN": 6,
+      "AL": 5,
+      "AN": 5,
       "DA": 5,
       "DE": 5,
       "EA": 1,
       "EL": 1,
       "EN": 2,
-      "GA": 11,
+      "GA": 13,
       "GL": 7,
       "JA": 5,
       "LA": 7,

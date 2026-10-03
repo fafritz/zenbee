@@ -1,9 +1,9 @@
 {
   "pangram": "clarity",
   "center_letter": "y",
-  "num_answers": 41,
+  "num_answers": 40,
   "num_pangrams": 3,
-  "possible_points": 240,
+  "possible_points": 239,
   "answer_pangrams": [
     "alacrity",
     "clarity",
@@ -26,7 +26,6 @@
     "city",
     "clarity",
     "clay",
-    "cray",
     "critically",
     "cyclic",
     "cyclical",
@@ -55,7 +54,7 @@
   "date": "2037-03-20",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 9,
       "5": 11,
       "6": 5,
       "7": 5,
@@ -65,7 +64,7 @@
     },
     "by_first_letter": {
       "A": 8,
-      "C": 13,
+      "C": 12,
       "I": 2,
       "L": 6,
       "R": 6,
@@ -80,7 +79,7 @@
         "8": 1
       },
       "C": {
-        "4": 3,
+        "4": 2,
         "5": 2,
         "6": 1,
         "7": 2,
@@ -120,7 +119,7 @@
       "CA": 5,
       "CI": 1,
       "CL": 2,
-      "CR": 2,
+      "CR": 1,
       "CY": 3,
       "IC": 1,
       "IL": 1,

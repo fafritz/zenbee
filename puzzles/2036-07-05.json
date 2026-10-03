@@ -1,15 +1,16 @@
 {
   "pangram": "movable",
   "center_letter": "l",
-  "num_answers": 54,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 172,
+  "possible_points": 179,
   "answer_pangrams": [
     "movable"
   ],
   "answers": [
     "able",
     "abloom",
+    "allele",
     "aloe",
     "amble",
     "babble",
@@ -36,6 +37,7 @@
     "lamb",
     "lame",
     "lava",
+    "lave",
     "leave",
     "lemma",
     "levee",
@@ -66,17 +68,17 @@
   "date": "2036-07-05",
   "hints": {
     "by_length": {
-      "4": 30,
+      "4": 31,
       "5": 14,
-      "6": 7,
+      "6": 8,
       "7": 2,
       "9": 1
     },
     "by_first_letter": {
-      "A": 4,
+      "A": 5,
       "B": 16,
       "E": 3,
-      "L": 16,
+      "L": 17,
       "M": 9,
       "O": 2,
       "V": 4
@@ -85,7 +87,7 @@
       "A": {
         "4": 2,
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "B": {
         "4": 9,
@@ -96,7 +98,7 @@
         "6": 3
       },
       "L": {
-        "4": 9,
+        "4": 10,
         "5": 6,
         "7": 1
       },
@@ -117,7 +119,7 @@
     },
     "two_letter_list": {
       "AB": 2,
-      "AL": 1,
+      "AL": 2,
       "AM": 1,
       "BA": 5,
       "BE": 3,
@@ -125,7 +127,7 @@
       "BO": 4,
       "EM": 2,
       "EV": 1,
-      "LA": 5,
+      "LA": 6,
       "LE": 4,
       "LL": 1,
       "LO": 6,

@@ -1,14 +1,15 @@
 {
   "pangram": "maypole",
   "center_letter": "l",
-  "num_answers": 64,
+  "num_answers": 65,
   "num_pangrams": 1,
-  "possible_points": 213,
+  "possible_points": 219,
   "answer_pangrams": [
     "maypole"
   ],
   "answers": [
     "allay",
+    "allele",
     "alley",
     "alloy",
     "ally",
@@ -78,13 +79,13 @@
     "by_length": {
       "4": 33,
       "5": 20,
-      "6": 7,
+      "6": 8,
       "7": 2,
       "8": 1,
       "9": 1
     },
     "by_first_letter": {
-      "A": 11,
+      "A": 12,
       "E": 3,
       "L": 18,
       "M": 10,
@@ -96,7 +97,7 @@
       "A": {
         "4": 2,
         "5": 7,
-        "6": 2
+        "6": 3
       },
       "E": {
         "5": 1,
@@ -129,7 +130,7 @@
       }
     },
     "two_letter_list": {
-      "AL": 5,
+      "AL": 6,
       "AM": 2,
       "AP": 4,
       "EL": 1,

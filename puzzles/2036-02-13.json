@@ -1,9 +1,9 @@
 {
   "pangram": "pimento",
   "center_letter": "m",
-  "num_answers": 55,
+  "num_answers": 56,
   "num_pangrams": 4,
-  "possible_points": 247,
+  "possible_points": 252,
   "answer_pangrams": [
     "impotent",
     "omnipotent",
@@ -44,6 +44,7 @@
     "mope",
     "moppet",
     "mote",
+    "motet",
     "motion",
     "motto",
     "nominee",
@@ -71,7 +72,7 @@
   "hints": {
     "by_length": {
       "4": 27,
-      "5": 6,
+      "5": 7,
       "6": 5,
       "7": 8,
       "8": 7,
@@ -80,7 +81,7 @@
     "by_first_letter": {
       "E": 5,
       "I": 4,
-      "M": 26,
+      "M": 27,
       "N": 2,
       "O": 5,
       "P": 5,
@@ -99,7 +100,7 @@
       },
       "M": {
         "4": 16,
-        "5": 2,
+        "5": 3,
         "6": 5,
         "7": 2,
         "8": 1
@@ -132,7 +133,7 @@
       "IT": 1,
       "ME": 6,
       "MI": 10,
-      "MO": 10,
+      "MO": 11,
       "NO": 2,
       "OI": 1,
       "OM": 3,

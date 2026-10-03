@@ -1,9 +1,9 @@
 {
   "pangram": "pyramid",
   "center_letter": "y",
-  "num_answers": 25,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 127,
+  "possible_points": 133,
   "answer_pangrams": [
     "pyramid"
   ],
@@ -16,6 +16,7 @@
     "dairy",
     "diary",
     "dray",
+    "drippy",
     "dryad",
     "mammary",
     "marry",
@@ -39,12 +40,12 @@
     "by_length": {
       "4": 5,
       "5": 9,
-      "6": 7,
+      "6": 8,
       "7": 4
     },
     "by_first_letter": {
       "A": 4,
-      "D": 5,
+      "D": 6,
       "M": 6,
       "P": 8,
       "Y": 2
@@ -57,7 +58,8 @@
       },
       "D": {
         "4": 1,
-        "5": 4
+        "5": 4,
+        "6": 1
       },
       "M": {
         "5": 2,
@@ -81,7 +83,7 @@
       "AR": 2,
       "DA": 2,
       "DI": 1,
-      "DR": 2,
+      "DR": 3,
       "MA": 3,
       "MI": 2,
       "MY": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "forcing",
   "center_letter": "r",
-  "num_answers": 38,
+  "num_answers": 42,
   "num_pangrams": 1,
-  "possible_points": 218,
+  "possible_points": 231,
   "answer_pangrams": [
     "forcing"
   ],
@@ -24,6 +24,7 @@
     "frog",
     "frogging",
     "gorging",
+    "gorgon",
     "goring",
     "griffin",
     "grin",
@@ -35,6 +36,8 @@
     "iron",
     "ironic",
     "ironing",
+    "noir",
+    "nori",
     "origin",
     "ricing",
     "riff",
@@ -44,15 +47,16 @@
     "ring",
     "ringing",
     "rococo",
+    "ronin",
     "roof",
     "roofing"
   ],
   "date": "2036-12-26",
   "hints": {
     "by_length": {
-      "4": 8,
-      "5": 5,
-      "6": 7,
+      "4": 10,
+      "5": 6,
+      "6": 8,
       "7": 10,
       "8": 7,
       "10": 1
@@ -60,10 +64,11 @@
     "by_first_letter": {
       "C": 7,
       "F": 8,
-      "G": 7,
+      "G": 8,
       "I": 5,
+      "N": 2,
       "O": 1,
-      "R": 10
+      "R": 11
     },
     "grid": {
       "C": {
@@ -83,7 +88,7 @@
       "G": {
         "4": 2,
         "5": 1,
-        "6": 1,
+        "6": 2,
         "7": 2,
         "8": 1
       },
@@ -94,12 +99,15 @@
         "8": 1,
         "10": 1
       },
+      "N": {
+        "4": 2
+      },
       "O": {
         "6": 1
       },
       "R": {
         "4": 3,
-        "5": 1,
+        "5": 2,
         "6": 2,
         "7": 4
       }
@@ -111,14 +119,15 @@
       "FI": 1,
       "FO": 4,
       "FR": 3,
-      "GO": 2,
+      "GO": 3,
       "GR": 5,
       "IG": 1,
       "IN": 1,
       "IR": 3,
+      "NO": 2,
       "OR": 1,
       "RI": 7,
-      "RO": 3
+      "RO": 4
     }
   }
 }

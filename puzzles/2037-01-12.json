@@ -1,9 +1,9 @@
 {
   "pangram": "twanged",
   "center_letter": "w",
-  "num_answers": 36,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 144,
+  "possible_points": 150,
   "answer_pangrams": [
     "twanged"
   ],
@@ -43,14 +43,15 @@
     "weeded",
     "wend",
     "wended",
-    "went"
+    "went",
+    "wetted"
   ],
   "date": "2037-01-12",
   "hints": {
     "by_length": {
       "4": 15,
       "5": 7,
-      "6": 11,
+      "6": 12,
       "7": 3
     },
     "by_first_letter": {
@@ -59,7 +60,7 @@
       "G": 3,
       "N": 1,
       "T": 5,
-      "W": 23
+      "W": 24
     },
     "grid": {
       "A": {
@@ -83,7 +84,7 @@
       "W": {
         "4": 10,
         "5": 4,
-        "6": 8,
+        "6": 9,
         "7": 1
       }
     },
@@ -96,7 +97,7 @@
       "NE": 1,
       "TW": 5,
       "WA": 13,
-      "WE": 10
+      "WE": 11
     }
   }
 }

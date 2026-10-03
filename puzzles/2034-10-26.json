@@ -1,9 +1,9 @@
 {
   "pangram": "gumdrop",
   "center_letter": "p",
-  "num_answers": 21,
+  "num_answers": 22,
   "num_pangrams": 1,
-  "possible_points": 55,
+  "possible_points": 56,
   "answer_pangrams": [
     "gumdrop"
   ],
@@ -15,6 +15,7 @@
     "gorp",
     "group",
     "gumdrop",
+    "pogo",
     "pogrom",
     "pomp",
     "poop",
@@ -33,7 +34,7 @@
   "date": "2034-10-26",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 16,
       "5": 4,
       "6": 1,
       "7": 1
@@ -41,7 +42,7 @@
     "by_first_letter": {
       "D": 3,
       "G": 4,
-      "P": 12,
+      "P": 13,
       "R": 2
     },
     "grid": {
@@ -55,7 +56,7 @@
         "7": 1
       },
       "P": {
-        "4": 9,
+        "4": 10,
         "5": 2,
         "6": 1
       },
@@ -69,7 +70,7 @@
       "GO": 2,
       "GR": 1,
       "GU": 1,
-      "PO": 5,
+      "PO": 6,
       "PR": 5,
       "PU": 2,
       "RO": 1,

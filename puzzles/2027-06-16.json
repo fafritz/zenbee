@@ -1,9 +1,9 @@
 {
   "pangram": "blanket",
   "center_letter": "k",
-  "num_answers": 31,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 110,
+  "possible_points": 116,
   "answer_pangrams": [
     "blanket"
   ],
@@ -20,6 +20,7 @@
     "blanket",
     "bleak",
     "kale",
+    "kanban",
     "kebab",
     "keel",
     "keen",
@@ -45,14 +46,14 @@
     "by_length": {
       "4": 16,
       "5": 8,
-      "6": 4,
+      "6": 5,
       "7": 2,
       "9": 1
     },
     "by_first_letter": {
       "A": 2,
       "B": 9,
-      "K": 10,
+      "K": 11,
       "L": 4,
       "T": 6
     },
@@ -70,7 +71,7 @@
       "K": {
         "4": 4,
         "5": 4,
-        "6": 2
+        "6": 3
       },
       "L": {
         "4": 4
@@ -86,7 +87,7 @@
       "BA": 3,
       "BE": 3,
       "BL": 3,
-      "KA": 1,
+      "KA": 2,
       "KE": 5,
       "KN": 4,
       "LA": 2,

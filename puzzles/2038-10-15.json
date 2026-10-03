@@ -1,9 +1,9 @@
 {
   "pangram": "filched",
   "center_letter": "i",
-  "num_answers": 60,
+  "num_answers": 61,
   "num_pangrams": 1,
-  "possible_points": 272,
+  "possible_points": 278,
   "answer_pangrams": [
     "filched"
   ],
@@ -22,6 +22,7 @@
     "cliff",
     "decide",
     "decided",
+    "decile",
     "defied",
     "defile",
     "defiled",
@@ -74,12 +75,12 @@
     "by_length": {
       "4": 18,
       "5": 16,
-      "6": 15,
+      "6": 16,
       "7": 11
     },
     "by_first_letter": {
       "C": 12,
-      "D": 17,
+      "D": 18,
       "E": 5,
       "F": 14,
       "H": 4,
@@ -96,7 +97,7 @@
       "D": {
         "4": 5,
         "5": 2,
-        "6": 6,
+        "6": 7,
         "7": 4
       },
       "E": {
@@ -127,7 +128,7 @@
     "two_letter_list": {
       "CH": 9,
       "CL": 3,
-      "DE": 9,
+      "DE": 10,
       "DI": 8,
       "ED": 3,
       "EL": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "chalked",
   "center_letter": "d",
-  "num_answers": 55,
+  "num_answers": 59,
   "num_pangrams": 1,
-  "possible_points": 262,
+  "possible_points": 281,
   "answer_pangrams": [
     "chalked"
   ],
@@ -23,6 +23,7 @@
     "called",
     "cede",
     "ceded",
+    "celled",
     "chad",
     "chalked",
     "checked",
@@ -33,6 +34,7 @@
     "dale",
     "dead",
     "deal",
+    "decadal",
     "decade",
     "decal",
     "deck",
@@ -41,6 +43,7 @@
     "deed",
     "deeded",
     "dell",
+    "eeled",
     "eked",
     "hacked",
     "haled",
@@ -62,25 +65,26 @@
     "lead",
     "leaded",
     "leaked",
+    "lede",
     "leeched"
   ],
   "date": "2027-10-01",
   "hints": {
     "by_length": {
-      "4": 15,
-      "5": 11,
-      "6": 19,
-      "7": 9,
+      "4": 16,
+      "5": 12,
+      "6": 20,
+      "7": 10,
       "8": 1
     },
     "by_first_letter": {
       "A": 8,
-      "C": 13,
-      "D": 12,
-      "E": 1,
+      "C": 14,
+      "D": 13,
+      "E": 2,
       "H": 11,
       "K": 1,
-      "L": 9
+      "L": 10
     },
     "grid": {
       "A": {
@@ -92,16 +96,18 @@
       "C": {
         "4": 3,
         "5": 2,
-        "6": 3,
+        "6": 4,
         "7": 5
       },
       "D": {
         "4": 6,
         "5": 2,
-        "6": 4
+        "6": 4,
+        "7": 1
       },
       "E": {
-        "4": 1
+        "4": 1,
+        "5": 1
       },
       "H": {
         "4": 3,
@@ -114,7 +120,7 @@
         "6": 1
       },
       "L": {
-        "4": 1,
+        "4": 2,
         "5": 2,
         "6": 4,
         "7": 2
@@ -125,17 +131,18 @@
       "AD": 3,
       "AH": 1,
       "CA": 5,
-      "CE": 2,
+      "CE": 3,
       "CH": 4,
       "CL": 2,
       "DA": 2,
-      "DE": 10,
+      "DE": 11,
+      "EE": 1,
       "EK": 1,
       "HA": 2,
       "HE": 9,
       "KE": 1,
       "LA": 4,
-      "LE": 5
+      "LE": 6
     }
   }
 }

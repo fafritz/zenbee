@@ -1,9 +1,9 @@
 {
   "pangram": "worming",
   "center_letter": "g",
-  "num_answers": 62,
+  "num_answers": 63,
   "num_pangrams": 2,
-  "possible_points": 373,
+  "possible_points": 379,
   "answer_pangrams": [
     "ringworm",
     "worming"
@@ -16,6 +16,7 @@
     "gonging",
     "goon",
     "gorging",
+    "gorgon",
     "goring",
     "gown",
     "gowning",
@@ -77,13 +78,13 @@
     "by_length": {
       "4": 9,
       "5": 8,
-      "6": 16,
+      "6": 17,
       "7": 20,
       "8": 7,
       "9": 2
     },
     "by_first_letter": {
-      "G": 21,
+      "G": 22,
       "I": 4,
       "M": 10,
       "N": 1,
@@ -95,7 +96,7 @@
       "G": {
         "4": 7,
         "5": 4,
-        "6": 1,
+        "6": 2,
         "7": 7,
         "8": 2
       },
@@ -136,7 +137,7 @@
     },
     "two_letter_list": {
       "GI": 2,
-      "GO": 8,
+      "GO": 9,
       "GR": 11,
       "IG": 1,
       "IN": 2,

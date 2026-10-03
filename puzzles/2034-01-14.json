@@ -1,9 +1,9 @@
 {
   "pangram": "fixable",
   "center_letter": "a",
-  "num_answers": 34,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 134,
+  "possible_points": 173,
   "answer_pangrams": [
     "fixable"
   ],
@@ -14,6 +14,7 @@
     "affix",
     "alfalfa",
     "alibi",
+    "allele",
     "axial",
     "axle",
     "baba",
@@ -26,11 +27,15 @@
     "bale",
     "ball",
     "befall",
+    "billable",
     "blab",
+    "effable",
     "fable",
     "fail",
+    "falafel",
     "fall",
     "fallible",
+    "fella",
     "filial",
     "fixable",
     "flab",
@@ -40,6 +45,7 @@
     "label",
     "labia",
     "labial",
+    "labile",
     "leaf",
     "liable"
   ],
@@ -47,54 +53,63 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 8,
-      "6": 6,
-      "7": 4,
-      "8": 1
+      "5": 9,
+      "6": 8,
+      "7": 6,
+      "8": 2
     },
     "by_first_letter": {
-      "A": 8,
-      "B": 11,
-      "F": 10,
-      "L": 5
+      "A": 9,
+      "B": 12,
+      "E": 1,
+      "F": 12,
+      "L": 6
     },
     "grid": {
       "A": {
         "4": 3,
         "5": 3,
+        "6": 1,
         "7": 2
       },
       "B": {
         "4": 6,
         "5": 1,
         "6": 3,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
         "7": 1
       },
       "F": {
         "4": 5,
-        "5": 2,
+        "5": 3,
         "6": 1,
-        "7": 1,
+        "7": 2,
         "8": 1
       },
       "L": {
         "4": 1,
         "5": 2,
-        "6": 2
+        "6": 3
       }
     },
     "two_letter_list": {
       "AB": 2,
       "AF": 2,
-      "AL": 2,
+      "AL": 3,
       "AX": 2,
       "BA": 9,
       "BE": 1,
+      "BI": 1,
       "BL": 1,
-      "FA": 4,
+      "EF": 1,
+      "FA": 5,
+      "FE": 1,
       "FI": 2,
       "FL": 4,
-      "LA": 3,
+      "LA": 4,
       "LE": 1,
       "LI": 1
     }

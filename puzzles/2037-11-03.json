@@ -1,9 +1,9 @@
 {
   "pangram": "halving",
   "center_letter": "g",
-  "num_answers": 48,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 274,
+  "possible_points": 288,
   "answer_pangrams": [
     "halving"
   ],
@@ -17,10 +17,12 @@
     "angina",
     "angling",
     "availing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -41,12 +43,12 @@
     "hangnail",
     "having",
     "high",
-    "hing",
     "hinging",
     "hiving",
     "inhaling",
     "inning",
     "lagging",
+    "lignin",
     "lining",
     "living",
     "nagging",
@@ -62,16 +64,16 @@
     "by_length": {
       "4": 10,
       "5": 4,
-      "6": 9,
+      "6": 10,
       "7": 17,
-      "8": 8
+      "8": 9
     },
     "by_first_letter": {
       "A": 9,
-      "G": 15,
-      "H": 12,
+      "G": 17,
+      "H": 11,
       "I": 2,
-      "L": 3,
+      "L": 4,
       "N": 4,
       "V": 3
     },
@@ -84,13 +86,13 @@
         "8": 2
       },
       "G": {
-        "4": 5,
+        "4": 6,
         "6": 1,
         "7": 7,
-        "8": 2
+        "8": 3
       },
       "H": {
-        "4": 3,
+        "4": 2,
         "6": 3,
         "7": 4,
         "8": 2
@@ -100,7 +102,7 @@
         "8": 1
       },
       "L": {
-        "6": 2,
+        "6": 3,
         "7": 1
       },
       "N": {
@@ -119,13 +121,13 @@
       "AL": 3,
       "AN": 2,
       "AV": 1,
-      "GA": 10,
+      "GA": 12,
       "GI": 5,
       "HA": 8,
-      "HI": 4,
+      "HI": 3,
       "IN": 2,
       "LA": 1,
-      "LI": 2,
+      "LI": 3,
       "NA": 2,
       "NI": 2,
       "VA": 2,

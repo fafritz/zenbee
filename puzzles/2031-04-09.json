@@ -1,9 +1,9 @@
 {
   "pangram": "furlong",
   "center_letter": "l",
-  "num_answers": 25,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 70,
+  "possible_points": 71,
   "answer_pangrams": [
     "furlong"
   ],
@@ -26,6 +26,7 @@
     "loll",
     "long",
     "loon",
+    "luff",
     "lull",
     "lulu",
     "lung",
@@ -37,7 +38,7 @@
   "date": "2031-04-09",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 4,
       "6": 2,
       "7": 2
@@ -45,7 +46,7 @@
     "by_first_letter": {
       "F": 11,
       "G": 3,
-      "L": 7,
+      "L": 8,
       "N": 1,
       "R": 1,
       "U": 2
@@ -60,7 +61,7 @@
         "4": 3
       },
       "L": {
-        "4": 7
+        "4": 8
       },
       "N": {
         "4": 1
@@ -79,7 +80,7 @@
       "GO": 1,
       "GU": 2,
       "LO": 4,
-      "LU": 3,
+      "LU": 4,
       "NU": 1,
       "RO": 1,
       "UN": 2

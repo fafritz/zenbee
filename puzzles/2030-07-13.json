@@ -1,9 +1,9 @@
 {
   "pangram": "gratify",
   "center_letter": "t",
-  "num_answers": 32,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 128,
+  "possible_points": 120,
   "answer_pangrams": [
     "gratify"
   ],
@@ -11,7 +11,6 @@
     "arty",
     "atria",
     "attar",
-    "fart",
     "fatty",
     "fiat",
     "fifty",
@@ -27,7 +26,6 @@
     "raft",
     "ragtag",
     "rarity",
-    "ratatat",
     "ratify",
     "ratty",
     "rift",
@@ -44,17 +42,17 @@
   "date": "2030-07-13",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 12,
       "5": 10,
       "6": 6,
-      "7": 2,
+      "7": 1,
       "8": 1
     },
     "by_first_letter": {
       "A": 3,
-      "F": 5,
+      "F": 4,
       "G": 8,
-      "R": 7,
+      "R": 6,
       "T": 9
     },
     "grid": {
@@ -63,7 +61,7 @@
         "5": 2
       },
       "F": {
-        "4": 3,
+        "4": 2,
         "5": 2
       },
       "G": {
@@ -76,8 +74,7 @@
       "R": {
         "4": 2,
         "5": 1,
-        "6": 3,
-        "7": 1
+        "6": 3
       },
       "T": {
         "4": 3,
@@ -88,13 +85,13 @@
     "two_letter_list": {
       "AR": 1,
       "AT": 2,
-      "FA": 2,
+      "FA": 1,
       "FI": 2,
       "FR": 1,
       "GA": 1,
       "GI": 2,
       "GR": 5,
-      "RA": 6,
+      "RA": 5,
       "RI": 1,
       "TA": 5,
       "TI": 2,

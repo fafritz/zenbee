@@ -1,16 +1,15 @@
 {
   "pangram": "languor",
   "center_letter": "l",
-  "num_answers": 37,
+  "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 133,
+  "possible_points": 145,
   "answer_pangrams": [
     "languor"
   ],
   "answers": [
     "alga",
     "along",
-    "anal",
     "analog",
     "angular",
     "annual",
@@ -18,8 +17,10 @@
     "annular",
     "aural",
     "gala",
+    "galangal",
     "gall",
     "gallon",
+    "gnarl",
     "goal",
     "granola",
     "granular",
@@ -49,15 +50,15 @@
   "date": "2034-02-09",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 7,
+      "4": 18,
+      "5": 8,
       "6": 6,
       "7": 4,
-      "8": 1
+      "8": 2
     },
     "by_first_letter": {
-      "A": 9,
-      "G": 7,
+      "A": 8,
+      "G": 9,
       "L": 14,
       "N": 1,
       "O": 1,
@@ -66,16 +67,17 @@
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 3,
         "6": 2,
         "7": 2
       },
       "G": {
         "4": 4,
+        "5": 1,
         "6": 1,
         "7": 1,
-        "8": 1
+        "8": 2
       },
       "L": {
         "4": 9,
@@ -101,9 +103,10 @@
     },
     "two_letter_list": {
       "AL": 2,
-      "AN": 6,
+      "AN": 5,
       "AU": 1,
-      "GA": 3,
+      "GA": 4,
+      "GN": 1,
       "GO": 1,
       "GR": 2,
       "GU": 1,

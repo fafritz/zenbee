@@ -1,9 +1,9 @@
 {
   "pangram": "boatmen",
   "center_letter": "o",
-  "num_answers": 69,
+  "num_answers": 72,
   "num_pangrams": 1,
-  "possible_points": 279,
+  "possible_points": 292,
   "answer_pangrams": [
     "boatmen"
   ],
@@ -12,6 +12,7 @@
     "ammo",
     "amoeba",
     "anemone",
+    "annatto",
     "annotate",
     "anon",
     "atom",
@@ -25,12 +26,12 @@
     "boat",
     "boatman",
     "boatmen",
+    "boba",
     "bomb",
     "bonbon",
     "bone",
     "bonnet",
     "boob",
-    "booboo",
     "boom",
     "boon",
     "boot",
@@ -53,6 +54,7 @@
     "moonbeam",
     "moot",
     "mote",
+    "motet",
     "motto",
     "nabob",
     "nanobot",
@@ -60,6 +62,7 @@
     "neonate",
     "none",
     "noon",
+    "notate",
     "note",
     "oaten",
     "oboe",
@@ -81,20 +84,20 @@
   "date": "2031-11-08",
   "hints": {
     "by_length": {
-      "4": 30,
-      "5": 12,
+      "4": 31,
+      "5": 13,
       "6": 15,
-      "7": 7,
+      "7": 8,
       "8": 3,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 10,
       "B": 20,
       "E": 3,
-      "M": 14,
-      "N": 7,
+      "M": 15,
+      "N": 8,
       "O": 5,
       "T": 11
     },
@@ -103,14 +106,14 @@
         "4": 3,
         "5": 2,
         "6": 1,
-        "7": 1,
+        "7": 2,
         "8": 1,
         "9": 1
       },
       "B": {
-        "4": 7,
+        "4": 8,
         "5": 1,
-        "6": 10,
+        "6": 9,
         "7": 2
       },
       "E": {
@@ -120,7 +123,7 @@
       },
       "M": {
         "4": 7,
-        "5": 3,
+        "5": 4,
         "6": 1,
         "7": 1,
         "8": 2
@@ -128,6 +131,7 @@
       "N": {
         "4": 4,
         "5": 1,
+        "6": 1,
         "7": 2
       },
       "O": {
@@ -144,7 +148,7 @@
     "two_letter_list": {
       "AB": 1,
       "AM": 2,
-      "AN": 3,
+      "AN": 4,
       "AT": 3,
       "BA": 4,
       "BE": 1,
@@ -153,10 +157,10 @@
       "EN": 2,
       "MA": 1,
       "ME": 2,
-      "MO": 11,
+      "MO": 12,
       "NA": 2,
       "NE": 2,
-      "NO": 3,
+      "NO": 4,
       "OA": 1,
       "OB": 1,
       "OM": 1,

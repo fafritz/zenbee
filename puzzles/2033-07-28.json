@@ -1,9 +1,9 @@
 {
   "pangram": "airlock",
   "center_letter": "a",
-  "num_answers": 40,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 157,
+  "possible_points": 162,
   "answer_pangrams": [
     "airlock"
   ],
@@ -33,6 +33,7 @@
     "corral",
     "crack",
     "croak",
+    "iliac",
     "koala",
     "lack",
     "lair",
@@ -53,13 +54,14 @@
   "hints": {
     "by_length": {
       "4": 16,
-      "5": 14,
+      "5": 15,
       "6": 6,
       "7": 4
     },
     "by_first_letter": {
       "A": 5,
       "C": 20,
+      "I": 1,
       "K": 1,
       "L": 7,
       "O": 3,
@@ -76,6 +78,9 @@
         "5": 11,
         "6": 3,
         "7": 2
+      },
+      "I": {
+        "5": 1
       },
       "K": {
         "5": 1
@@ -103,6 +108,7 @@
       "CL": 2,
       "CO": 8,
       "CR": 2,
+      "IL": 1,
       "KO": 1,
       "LA": 3,
       "LI": 3,

@@ -1,9 +1,9 @@
 {
   "pangram": "blanket",
   "center_letter": "a",
-  "num_answers": 78,
+  "num_answers": 81,
   "num_pangrams": 1,
-  "possible_points": 292,
+  "possible_points": 316,
   "answer_pangrams": [
     "blanket"
   ],
@@ -12,7 +12,7 @@
     "abbe",
     "abet",
     "able",
-    "anal",
+    "allele",
     "ankle",
     "anklet",
     "anneal",
@@ -55,11 +55,13 @@
     "elate",
     "enable",
     "kale",
+    "kanban",
     "kebab",
     "label",
     "lake",
     "lane",
     "lank",
+    "lantana",
     "late",
     "latent",
     "latte",
@@ -69,6 +71,7 @@
     "nana",
     "natal",
     "neat",
+    "neaten",
     "table",
     "tablet",
     "take",
@@ -90,10 +93,10 @@
   "date": "2034-03-13",
   "hints": {
     "by_length": {
-      "4": 37,
+      "4": 36,
       "5": 15,
-      "6": 16,
-      "7": 6,
+      "6": 19,
+      "7": 7,
       "8": 2,
       "9": 1,
       "10": 1
@@ -102,16 +105,16 @@
       "A": 11,
       "B": 30,
       "E": 5,
-      "K": 2,
-      "L": 9,
-      "N": 4,
+      "K": 3,
+      "L": 10,
+      "N": 5,
       "T": 17
     },
     "grid": {
       "A": {
-        "4": 5,
+        "4": 4,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 1,
         "8": 1
       },
@@ -129,16 +132,19 @@
       },
       "K": {
         "4": 1,
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "L": {
         "4": 6,
         "5": 2,
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "N": {
         "4": 3,
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "T": {
         "4": 7,
@@ -152,19 +158,20 @@
     },
     "two_letter_list": {
       "AB": 4,
-      "AN": 7,
+      "AL": 1,
+      "AN": 6,
       "BA": 16,
       "BE": 7,
       "BL": 7,
       "EA": 2,
       "EL": 2,
       "EN": 1,
-      "KA": 1,
+      "KA": 2,
       "KE": 1,
-      "LA": 7,
+      "LA": 8,
       "LE": 2,
       "NA": 3,
-      "NE": 1,
+      "NE": 2,
       "TA": 11,
       "TE": 6
     }

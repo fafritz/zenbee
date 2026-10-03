@@ -1,9 +1,9 @@
 {
   "pangram": "chimney",
   "center_letter": "e",
-  "num_answers": 21,
+  "num_answers": 22,
   "num_pangrams": 1,
-  "possible_points": 88,
+  "possible_points": 89,
   "answer_pangrams": [
     "chimney"
   ],
@@ -14,6 +14,7 @@
     "emcee",
     "eminence",
     "enemy",
+    "heme",
     "hence",
     "henchmen",
     "hymen",
@@ -33,7 +34,7 @@
   "date": "2031-07-23",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 10,
       "5": 8,
       "7": 1,
       "8": 2,
@@ -42,7 +43,7 @@
     "by_first_letter": {
       "C": 3,
       "E": 3,
-      "H": 3,
+      "H": 4,
       "I": 1,
       "M": 6,
       "N": 5
@@ -58,6 +59,7 @@
         "8": 1
       },
       "H": {
+        "4": 1,
         "5": 2,
         "8": 1
       },
@@ -77,7 +79,7 @@
       "CH": 3,
       "EM": 2,
       "EN": 1,
-      "HE": 2,
+      "HE": 3,
       "HY": 1,
       "IM": 1,
       "ME": 1,

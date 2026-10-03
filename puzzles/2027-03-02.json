@@ -1,9 +1,9 @@
 {
   "pangram": "cloying",
   "center_letter": "i",
-  "num_answers": 60,
+  "num_answers": 65,
   "num_pangrams": 1,
-  "possible_points": 334,
+  "possible_points": 367,
   "answer_pangrams": [
     "cloying"
   ],
@@ -16,6 +16,7 @@
     "cloying",
     "cocci",
     "cocooning",
+    "cogging",
     "coil",
     "coiling",
     "coin",
@@ -42,9 +43,12 @@
     "icily",
     "icing",
     "icon",
+    "iconic",
     "igloo",
     "inclining",
     "inning",
+    "ionic",
+    "lignin",
     "lily",
     "lingo",
     "lining",
@@ -61,6 +65,7 @@
     "niggling",
     "ninny",
     "noggin",
+    "nonillion",
     "ogling",
     "oiling",
     "oily",
@@ -73,18 +78,18 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 15,
-      "6": 10,
-      "7": 14,
+      "5": 16,
+      "6": 12,
+      "7": 15,
       "8": 7,
-      "9": 3
+      "9": 4
     },
     "by_first_letter": {
-      "C": 21,
+      "C": 22,
       "G": 10,
-      "I": 6,
-      "L": 13,
-      "N": 3,
+      "I": 8,
+      "L": 14,
+      "N": 4,
       "O": 6,
       "Y": 1
     },
@@ -93,7 +98,7 @@
         "4": 2,
         "5": 5,
         "6": 3,
-        "7": 7,
+        "7": 8,
         "8": 3,
         "9": 1
       },
@@ -106,21 +111,22 @@
       },
       "I": {
         "4": 1,
-        "5": 3,
-        "6": 1,
+        "5": 4,
+        "6": 2,
         "9": 1
       },
       "L": {
         "4": 4,
         "5": 4,
-        "6": 1,
+        "6": 2,
         "7": 3,
         "9": 1
       },
       "N": {
         "5": 1,
         "6": 1,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "O": {
         "4": 2,
@@ -134,18 +140,19 @@
     },
     "two_letter_list": {
       "CL": 6,
-      "CO": 11,
+      "CO": 12,
       "CY": 4,
       "GI": 6,
       "GO": 4,
-      "IC": 3,
+      "IC": 4,
       "IG": 1,
       "IN": 2,
-      "LI": 4,
+      "IO": 1,
+      "LI": 5,
       "LO": 8,
       "LY": 1,
       "NI": 2,
-      "NO": 1,
+      "NO": 2,
       "OG": 1,
       "OI": 2,
       "OL": 1,

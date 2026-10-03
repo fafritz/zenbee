@@ -1,9 +1,9 @@
 {
   "pangram": "towhead",
   "center_letter": "e",
-  "num_answers": 67,
+  "num_answers": 68,
   "num_pangrams": 2,
-  "possible_points": 322,
+  "possible_points": 328,
   "answer_pangrams": [
     "towhead",
     "towheaded"
@@ -69,6 +69,7 @@
     "wedded",
     "weed",
     "weeded",
+    "wetted",
     "wheat",
     "whet",
     "whetted",
@@ -82,7 +83,7 @@
     "by_length": {
       "4": 19,
       "5": 19,
-      "6": 17,
+      "6": 18,
       "7": 6,
       "8": 4,
       "9": 2
@@ -93,7 +94,7 @@
       "H": 19,
       "O": 1,
       "T": 21,
-      "W": 13
+      "W": 14
     },
     "grid": {
       "A": {
@@ -128,7 +129,7 @@
       "W": {
         "4": 4,
         "5": 4,
-        "6": 4,
+        "6": 5,
         "7": 1
       }
     },
@@ -149,7 +150,7 @@
       "TO": 9,
       "TW": 3,
       "WA": 3,
-      "WE": 3,
+      "WE": 4,
       "WH": 4,
       "WO": 3
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "clarify",
   "center_letter": "l",
-  "num_answers": 49,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 236,
+  "possible_points": 241,
   "answer_pangrams": [
     "clarify"
   ],
@@ -42,6 +42,7 @@
     "frill",
     "frilly",
     "icily",
+    "iliac",
     "lacy",
     "lair",
     "liar",
@@ -62,7 +63,7 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 13,
+      "5": 14,
       "6": 8,
       "7": 6,
       "8": 5,
@@ -73,7 +74,7 @@
       "A": 5,
       "C": 12,
       "F": 16,
-      "I": 1,
+      "I": 2,
       "L": 9,
       "R": 6
     },
@@ -100,7 +101,7 @@
         "8": 2
       },
       "I": {
-        "5": 1
+        "5": 2
       },
       "L": {
         "4": 5,
@@ -128,6 +129,7 @@
       "FL": 3,
       "FR": 3,
       "IC": 1,
+      "IL": 1,
       "LA": 2,
       "LI": 4,
       "LY": 3,

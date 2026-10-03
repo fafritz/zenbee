@@ -1,15 +1,14 @@
 {
   "pangram": "ordinal",
   "center_letter": "n",
-  "num_answers": 40,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 157,
+  "possible_points": 177,
   "answer_pangrams": [
     "ordinal"
   ],
   "answers": [
     "adorn",
-    "anal",
     "andiron",
     "android",
     "anion",
@@ -25,6 +24,7 @@
     "inroad",
     "iron",
     "lain",
+    "lanai",
     "land",
     "landlord",
     "lanolin",
@@ -39,7 +39,10 @@
     "nail",
     "nana",
     "nodal",
+    "noir",
+    "nonillion",
     "noon",
+    "nori",
     "onion",
     "ordain",
     "ordinal",
@@ -47,29 +50,31 @@
     "radon",
     "rain",
     "rind",
-    "roan"
+    "roan",
+    "ronin"
   ],
   "date": "2030-05-30",
   "hints": {
     "by_length": {
-      "4": 17,
-      "5": 11,
+      "4": 18,
+      "5": 13,
       "6": 7,
       "7": 4,
-      "8": 1
+      "8": 1,
+      "9": 1
     },
     "by_first_letter": {
-      "A": 6,
+      "A": 5,
       "D": 5,
       "I": 5,
-      "L": 9,
-      "N": 7,
+      "L": 10,
+      "N": 10,
       "O": 3,
-      "R": 5
+      "R": 6
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 2,
         "7": 2
       },
@@ -84,13 +89,14 @@
       },
       "L": {
         "4": 6,
-        "5": 1,
+        "5": 2,
         "7": 1,
         "8": 1
       },
       "N": {
-        "4": 4,
-        "5": 3
+        "4": 6,
+        "5": 3,
+        "9": 1
       },
       "O": {
         "5": 1,
@@ -99,30 +105,30 @@
       },
       "R": {
         "4": 3,
-        "5": 1,
+        "5": 2,
         "6": 1
       }
     },
     "two_letter_list": {
       "AD": 1,
-      "AN": 5,
+      "AN": 4,
       "DA": 1,
       "DI": 2,
       "DO": 1,
       "DR": 1,
       "IN": 4,
       "IR": 1,
-      "LA": 4,
+      "LA": 5,
       "LI": 1,
       "LL": 1,
       "LO": 3,
       "NA": 5,
-      "NO": 2,
+      "NO": 5,
       "ON": 1,
       "OR": 2,
       "RA": 3,
       "RI": 1,
-      "RO": 1
+      "RO": 2
     }
   }
 }

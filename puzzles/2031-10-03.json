@@ -1,9 +1,9 @@
 {
   "pangram": "grandly",
   "center_letter": "l",
-  "num_answers": 23,
+  "num_answers": 24,
   "num_pangrams": 1,
-  "possible_points": 103,
+  "possible_points": 115,
   "answer_pangrams": [
     "grandly"
   ],
@@ -11,16 +11,17 @@
     "alga",
     "allay",
     "ally",
-    "anal",
     "dally",
     "dryly",
     "gala",
+    "galangal",
     "gall",
     "gangland",
     "garland",
     "glad",
     "gladly",
     "gland",
+    "gnarl",
     "gnarly",
     "grandly",
     "lady",
@@ -35,22 +36,22 @@
   "date": "2031-10-03",
   "hints": {
     "by_length": {
-      "4": 9,
-      "5": 5,
+      "4": 8,
+      "5": 6,
       "6": 3,
       "7": 4,
-      "8": 2
+      "8": 3
     },
     "by_first_letter": {
-      "A": 4,
+      "A": 3,
       "D": 2,
-      "G": 9,
+      "G": 11,
       "L": 6,
       "R": 2
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 1
       },
       "D": {
@@ -58,10 +59,10 @@
       },
       "G": {
         "4": 3,
-        "5": 1,
+        "5": 2,
         "6": 2,
         "7": 2,
-        "8": 1
+        "8": 2
       },
       "L": {
         "4": 3,
@@ -75,12 +76,11 @@
     },
     "two_letter_list": {
       "AL": 3,
-      "AN": 1,
       "DA": 1,
       "DR": 1,
-      "GA": 4,
+      "GA": 5,
       "GL": 3,
-      "GN": 1,
+      "GN": 2,
       "GR": 1,
       "LA": 6,
       "RA": 2

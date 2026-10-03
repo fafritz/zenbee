@@ -1,9 +1,9 @@
 {
   "pangram": "chariot",
   "center_letter": "i",
-  "num_answers": 38,
+  "num_answers": 39,
   "num_pangrams": 2,
-  "possible_points": 196,
+  "possible_points": 197,
   "answer_pangrams": [
     "chariot",
     "thoracic"
@@ -40,6 +40,7 @@
     "rich",
     "ricotta",
     "riot",
+    "roti",
     "tacit",
     "tactic",
     "thoracic",
@@ -51,7 +52,7 @@
   "date": "2030-04-12",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 11,
       "5": 13,
       "6": 5,
       "7": 5,
@@ -64,7 +65,7 @@
       "H": 2,
       "I": 2,
       "O": 1,
-      "R": 4,
+      "R": 5,
       "T": 7
     },
     "grid": {
@@ -94,7 +95,7 @@
         "8": 1
       },
       "R": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "7": 1
       },
@@ -122,6 +123,7 @@
       "OR": 1,
       "RA": 1,
       "RI": 3,
+      "RO": 1,
       "TA": 2,
       "TH": 1,
       "TI": 1,

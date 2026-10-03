@@ -3,7 +3,7 @@
   "center_letter": "d",
   "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 123,
+  "possible_points": 128,
   "answer_pangrams": [
     "pyramid"
   ],
@@ -19,8 +19,8 @@
     "drama",
     "dray",
     "drip",
+    "drippy",
     "dryad",
-    "ipad",
     "madam",
     "maid",
     "mayday",
@@ -42,15 +42,14 @@
   "date": "2037-03-18",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 10,
       "5": 11,
-      "6": 6,
+      "6": 7,
       "7": 2
     },
     "by_first_letter": {
       "A": 3,
-      "D": 9,
-      "I": 1,
+      "D": 10,
       "M": 7,
       "P": 4,
       "R": 4,
@@ -63,10 +62,8 @@
       },
       "D": {
         "4": 4,
-        "5": 5
-      },
-      "I": {
-        "4": 1
+        "5": 5,
+        "6": 1
       },
       "M": {
         "4": 1,
@@ -93,8 +90,7 @@
       "AR": 2,
       "DA": 3,
       "DI": 1,
-      "DR": 5,
-      "IP": 1,
+      "DR": 6,
       "MA": 3,
       "MI": 3,
       "MY": 1,

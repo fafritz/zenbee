@@ -1,9 +1,9 @@
 {
   "pangram": "fueling",
   "center_letter": "l",
-  "num_answers": 65,
+  "num_answers": 72,
   "num_pangrams": 4,
-  "possible_points": 341,
+  "possible_points": 373,
   "answer_pangrams": [
     "engulfing",
     "fueling",
@@ -11,6 +11,7 @@
     "unfeeling"
   ],
   "answers": [
+    "eeling",
     "elfin",
     "engulf",
     "engulfing",
@@ -55,16 +56,21 @@
     "gull",
     "gulling",
     "inline",
+    "inulin",
     "legging",
     "liege",
     "lien",
     "lieu",
     "life",
     "lifeline",
+    "lignin",
     "line",
     "linen",
     "lining",
+    "luff",
+    "luge",
     "lugging",
+    "luging",
     "lull",
     "lulling",
     "lulu",
@@ -75,32 +81,33 @@
     "niggle",
     "niggling",
     "null",
-    "unfeeling"
+    "unfeeling",
+    "unglue"
   ],
   "date": "2038-11-30",
   "hints": {
     "by_length": {
-      "4": 22,
+      "4": 24,
       "5": 8,
-      "6": 10,
+      "6": 15,
       "7": 14,
       "8": 7,
       "9": 3,
       "10": 1
     },
     "by_first_letter": {
-      "E": 3,
+      "E": 4,
       "F": 26,
       "G": 14,
-      "I": 1,
-      "L": 16,
+      "I": 2,
+      "L": 20,
       "N": 4,
-      "U": 1
+      "U": 2
     },
     "grid": {
       "E": {
         "5": 1,
-        "6": 1,
+        "6": 2,
         "9": 1
       },
       "F": {
@@ -120,12 +127,12 @@
         "8": 2
       },
       "I": {
-        "6": 1
+        "6": 2
       },
       "L": {
-        "4": 7,
+        "4": 9,
         "5": 3,
-        "6": 1,
+        "6": 3,
         "7": 4,
         "8": 1
       },
@@ -135,10 +142,12 @@
         "8": 2
       },
       "U": {
+        "6": 1,
         "9": 1
       }
     },
     "two_letter_list": {
+      "EE": 1,
       "EL": 1,
       "EN": 2,
       "FE": 6,
@@ -149,14 +158,14 @@
       "GI": 3,
       "GL": 5,
       "GU": 5,
-      "IN": 1,
+      "IN": 2,
       "LE": 1,
-      "LI": 8,
-      "LU": 7,
+      "LI": 9,
+      "LU": 10,
       "NE": 1,
       "NI": 2,
       "NU": 1,
-      "UN": 1
+      "UN": 2
     }
   }
 }

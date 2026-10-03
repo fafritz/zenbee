@@ -1,9 +1,9 @@
 {
   "pangram": "pinhead",
   "center_letter": "i",
-  "num_answers": 36,
+  "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 146,
+  "possible_points": 162,
   "answer_pangrams": [
     "pinhead"
   ],
@@ -28,17 +28,19 @@
     "idea",
     "inane",
     "indeed",
-    "ipad",
     "naiad",
     "nine",
     "nipped",
     "paid",
     "pain",
     "pained",
+    "panini",
     "pied",
     "pine",
     "pined",
     "pinhead",
+    "pinna",
+    "pinnae",
     "pinned",
     "pipe",
     "piped",
@@ -48,9 +50,9 @@
   "date": "2035-12-18",
   "hints": {
     "by_length": {
-      "4": 14,
-      "5": 8,
-      "6": 13,
+      "4": 13,
+      "5": 9,
+      "6": 15,
       "7": 1
     },
     "by_first_letter": {
@@ -58,9 +60,9 @@
       "D": 6,
       "E": 1,
       "H": 7,
-      "I": 4,
+      "I": 3,
       "N": 3,
-      "P": 12
+      "P": 15
     },
     "grid": {
       "A": {
@@ -81,7 +83,7 @@
         "6": 3
       },
       "I": {
-        "4": 2,
+        "4": 1,
         "5": 1,
         "6": 1
       },
@@ -92,8 +94,8 @@
       },
       "P": {
         "4": 5,
-        "5": 2,
-        "6": 4,
+        "5": 3,
+        "6": 6,
         "7": 1
       }
     },
@@ -106,11 +108,10 @@
       "HI": 7,
       "ID": 1,
       "IN": 2,
-      "IP": 1,
       "NA": 1,
       "NI": 2,
-      "PA": 3,
-      "PI": 9
+      "PA": 4,
+      "PI": 11
     }
   }
 }

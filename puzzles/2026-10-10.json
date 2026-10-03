@@ -1,9 +1,9 @@
 {
   "pangram": "divulge",
   "center_letter": "g",
-  "num_answers": 36,
+  "num_answers": 38,
   "num_pangrams": 2,
-  "possible_points": 179,
+  "possible_points": 185,
   "answer_pangrams": [
     "divulge",
     "divulged"
@@ -42,6 +42,8 @@
     "ledge",
     "legged",
     "liege",
+    "luge",
+    "luged",
     "lugged",
     "veggie",
     "vigil"
@@ -49,8 +51,8 @@
   "date": "2026-10-10",
   "hints": {
     "by_length": {
-      "4": 9,
-      "5": 11,
+      "4": 10,
+      "5": 12,
       "6": 12,
       "7": 3,
       "8": 1
@@ -59,7 +61,7 @@
       "D": 4,
       "E": 3,
       "G": 23,
-      "L": 4,
+      "L": 6,
       "V": 2
     },
     "grid": {
@@ -79,7 +81,8 @@
         "7": 1
       },
       "L": {
-        "5": 2,
+        "4": 1,
+        "5": 3,
         "6": 2
       },
       "V": {
@@ -98,7 +101,7 @@
       "GU": 6,
       "LE": 2,
       "LI": 1,
-      "LU": 1,
+      "LU": 3,
       "VE": 1,
       "VI": 1
     }

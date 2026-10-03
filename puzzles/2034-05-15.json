@@ -1,9 +1,9 @@
 {
   "pangram": "gravity",
   "center_letter": "r",
-  "num_answers": 28,
+  "num_answers": 27,
   "num_pangrams": 1,
-  "possible_points": 115,
+  "possible_points": 108,
   "answer_pangrams": [
     "gravity"
   ],
@@ -26,7 +26,6 @@
     "raga",
     "ragtag",
     "rarity",
-    "ratatat",
     "ratty",
     "tart",
     "tartar",
@@ -43,12 +42,12 @@
       "4": 11,
       "5": 7,
       "6": 8,
-      "7": 2
+      "7": 1
     },
     "by_first_letter": {
       "A": 9,
       "G": 6,
-      "R": 5,
+      "R": 4,
       "T": 6,
       "V": 2
     },
@@ -67,8 +66,7 @@
       "R": {
         "4": 1,
         "5": 1,
-        "6": 2,
-        "7": 1
+        "6": 2
       },
       "T": {
         "4": 2,
@@ -88,7 +86,7 @@
       "AV": 2,
       "GI": 1,
       "GR": 5,
-      "RA": 5,
+      "RA": 4,
       "TA": 2,
       "TI": 1,
       "TR": 3,

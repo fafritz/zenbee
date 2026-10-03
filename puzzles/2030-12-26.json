@@ -1,9 +1,9 @@
 {
   "pangram": "unmoved",
   "center_letter": "u",
-  "num_answers": 23,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 116,
+  "possible_points": 106,
   "answer_pangrams": [
     "unmoved"
   ],
@@ -14,9 +14,7 @@
     "duded",
     "dune",
     "dunned",
-    "dunno",
     "duodenum",
-    "endue",
     "endued",
     "menu",
     "mound",
@@ -36,14 +34,14 @@
   "hints": {
     "by_length": {
       "4": 6,
-      "5": 6,
+      "5": 4,
       "6": 6,
       "7": 3,
       "8": 2
     },
     "by_first_letter": {
-      "D": 8,
-      "E": 2,
+      "D": 7,
+      "E": 1,
       "M": 4,
       "N": 1,
       "O": 1,
@@ -53,13 +51,12 @@
     "grid": {
       "D": {
         "4": 2,
-        "5": 2,
+        "5": 1,
         "6": 2,
         "7": 1,
         "8": 1
       },
       "E": {
-        "5": 1,
         "6": 1
       },
       "M": {
@@ -87,8 +84,8 @@
     },
     "two_letter_list": {
       "DE": 2,
-      "DU": 6,
-      "EN": 2,
+      "DU": 5,
+      "EN": 1,
       "ME": 1,
       "MO": 2,
       "MU": 1,

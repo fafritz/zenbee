@@ -1,9 +1,9 @@
 {
   "pangram": "defiant",
   "center_letter": "a",
-  "num_answers": 68,
+  "num_answers": 71,
   "num_pangrams": 2,
-  "possible_points": 371,
+  "possible_points": 384,
   "answer_pangrams": [
     "defiant",
     "fainted"
@@ -59,6 +59,7 @@
     "feta",
     "fiat",
     "idea",
+    "ideate",
     "inane",
     "infant",
     "initiate",
@@ -66,8 +67,10 @@
     "innate",
     "naan",
     "naiad",
+    "naif",
     "nana",
     "neat",
+    "neaten",
     "taffeta",
     "taint",
     "tainted",
@@ -81,9 +84,9 @@
   "date": "2029-10-05",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 12,
-      "6": 15,
+      "6": 17,
       "7": 7,
       "8": 12,
       "9": 5
@@ -93,8 +96,8 @@
       "D": 18,
       "E": 1,
       "F": 12,
-      "I": 6,
-      "N": 4,
+      "I": 7,
+      "N": 6,
       "T": 9
     },
     "grid": {
@@ -127,13 +130,14 @@
       "I": {
         "4": 1,
         "5": 1,
-        "6": 2,
+        "6": 3,
         "8": 1,
         "9": 1
       },
       "N": {
-        "4": 3,
-        "5": 1
+        "4": 4,
+        "5": 1,
+        "6": 1
       },
       "T": {
         "5": 2,
@@ -154,10 +158,10 @@
       "FA": 9,
       "FE": 2,
       "FI": 1,
-      "ID": 1,
+      "ID": 2,
       "IN": 5,
-      "NA": 3,
-      "NE": 1,
+      "NA": 4,
+      "NE": 2,
       "TA": 6,
       "TE": 2,
       "TI": 1

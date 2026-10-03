@@ -1,9 +1,9 @@
 {
   "pangram": "warthog",
   "center_letter": "r",
-  "num_answers": 33,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 141,
+  "possible_points": 134,
   "answer_pangrams": [
     "warthog"
   ],
@@ -24,7 +24,6 @@
     "orator",
     "raga",
     "ragtag",
-    "ratatat",
     "roar",
     "root",
     "rotor",
@@ -48,7 +47,7 @@
       "4": 12,
       "5": 9,
       "6": 9,
-      "7": 2,
+      "7": 1,
       "9": 1
     },
     "by_first_letter": {
@@ -56,7 +55,7 @@
       "G": 4,
       "H": 3,
       "O": 1,
-      "R": 6,
+      "R": 5,
       "T": 9,
       "W": 4
     },
@@ -80,8 +79,7 @@
       "R": {
         "4": 3,
         "5": 1,
-        "6": 1,
-        "7": 1
+        "6": 1
       },
       "T": {
         "4": 4,
@@ -103,7 +101,7 @@
       "HA": 2,
       "HO": 1,
       "OR": 1,
-      "RA": 3,
+      "RA": 2,
       "RO": 3,
       "TA": 4,
       "TH": 3,

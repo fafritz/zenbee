@@ -1,9 +1,9 @@
 {
   "pangram": "farming",
   "center_letter": "r",
-  "num_answers": 60,
+  "num_answers": 65,
   "num_pangrams": 3,
-  "possible_points": 347,
+  "possible_points": 385,
   "answer_pangrams": [
     "affirming",
     "farming",
@@ -25,6 +25,7 @@
     "arraigning",
     "arranging",
     "fair",
+    "fairing",
     "farina",
     "faring",
     "farm",
@@ -47,8 +48,12 @@
     "grin",
     "grinning",
     "infirm",
+    "infra",
     "infringing",
+    "ingrain",
+    "ingraining",
     "margin",
+    "margining",
     "maria",
     "marina",
     "marring",
@@ -75,19 +80,19 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 3,
+      "5": 4,
       "6": 16,
-      "7": 16,
+      "7": 18,
       "8": 5,
-      "9": 2,
-      "10": 3
+      "9": 3,
+      "10": 4
     },
     "by_first_letter": {
       "A": 14,
-      "F": 12,
+      "F": 13,
       "G": 10,
-      "I": 2,
-      "M": 5,
+      "I": 5,
+      "M": 6,
       "R": 17
     },
     "grid": {
@@ -103,7 +108,7 @@
         "4": 4,
         "5": 1,
         "6": 3,
-        "7": 3,
+        "7": 4,
         "8": 1
       },
       "G": {
@@ -114,13 +119,16 @@
         "10": 1
       },
       "I": {
+        "5": 1,
         "6": 1,
-        "10": 1
+        "7": 1,
+        "10": 2
       },
       "M": {
         "5": 1,
         "6": 3,
-        "7": 1
+        "7": 1,
+        "9": 1
       },
       "R": {
         "4": 5,
@@ -135,13 +143,13 @@
       "AI": 2,
       "AN": 1,
       "AR": 5,
-      "FA": 5,
+      "FA": 6,
       "FI": 3,
       "FR": 4,
       "GA": 1,
       "GR": 9,
-      "IN": 2,
-      "MA": 4,
+      "IN": 5,
+      "MA": 5,
       "MI": 1,
       "RA": 10,
       "RI": 7

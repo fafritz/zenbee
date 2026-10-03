@@ -1,15 +1,16 @@
 {
   "pangram": "felting",
   "center_letter": "g",
-  "num_answers": 76,
+  "num_answers": 77,
   "num_pangrams": 3,
-  "possible_points": 504,
+  "possible_points": 511,
   "answer_pangrams": [
     "felting",
     "filleting",
     "fleeting"
   ],
   "answers": [
+    "eeling",
     "egging",
     "engine",
     "entitling",
@@ -58,10 +59,10 @@
     "inning",
     "intelligent",
     "legging",
-    "legit",
     "letting",
     "liege",
     "lifting",
+    "lignin",
     "lignite",
     "lilting",
     "lining",
@@ -91,15 +92,15 @@
   "hints": {
     "by_length": {
       "4": 7,
-      "5": 8,
-      "6": 15,
+      "5": 7,
+      "6": 17,
       "7": 28,
       "8": 14,
       "9": 3,
       "11": 1
     },
     "by_first_letter": {
-      "E": 3,
+      "E": 4,
       "F": 17,
       "G": 23,
       "I": 4,
@@ -109,7 +110,7 @@
     },
     "grid": {
       "E": {
-        "6": 2,
+        "6": 3,
         "9": 1
       },
       "F": {
@@ -132,8 +133,8 @@
         "11": 1
       },
       "L": {
-        "5": 2,
-        "6": 1,
+        "5": 1,
+        "6": 2,
         "7": 6
       },
       "N": {
@@ -150,6 +151,7 @@
       }
     },
     "two_letter_list": {
+      "EE": 1,
       "EG": 1,
       "EN": 2,
       "FE": 7,
@@ -160,8 +162,8 @@
       "GL": 4,
       "IG": 2,
       "IN": 2,
-      "LE": 3,
-      "LI": 6,
+      "LE": 2,
+      "LI": 7,
       "NE": 4,
       "NI": 2,
       "TE": 3,

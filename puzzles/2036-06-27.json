@@ -1,9 +1,9 @@
 {
   "pangram": "typical",
   "center_letter": "a",
-  "num_answers": 61,
+  "num_answers": 62,
   "num_pangrams": 4,
-  "possible_points": 334,
+  "possible_points": 339,
   "answer_pangrams": [
     "atypical",
     "atypically",
@@ -38,6 +38,7 @@
     "clay",
     "cyclical",
     "cyclically",
+    "iliac",
     "italic",
     "lactic",
     "lacy",
@@ -77,7 +78,7 @@
   "hints": {
     "by_length": {
       "4": 17,
-      "5": 16,
+      "5": 17,
       "6": 8,
       "7": 9,
       "8": 5,
@@ -87,7 +88,7 @@
     "by_first_letter": {
       "A": 11,
       "C": 16,
-      "I": 1,
+      "I": 2,
       "L": 4,
       "P": 16,
       "T": 13
@@ -109,6 +110,7 @@
         "10": 1
       },
       "I": {
+        "5": 1,
         "6": 1
       },
       "L": {
@@ -143,6 +145,7 @@
       "CI": 1,
       "CL": 2,
       "CY": 2,
+      "IL": 1,
       "IT": 1,
       "LA": 3,
       "LI": 1,

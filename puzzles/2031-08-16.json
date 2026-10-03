@@ -1,9 +1,9 @@
 {
   "pangram": "tongued",
   "center_letter": "o",
-  "num_answers": 59,
+  "num_answers": 61,
   "num_pangrams": 1,
-  "possible_points": 245,
+  "possible_points": 248,
   "answer_pangrams": [
     "tongued"
   ],
@@ -13,6 +13,7 @@
     "dodge",
     "dodged",
     "dodo",
+    "doge",
     "dogged",
     "doggone",
     "done",
@@ -24,7 +25,6 @@
     "dudgeon",
     "dugout",
     "dungeon",
-    "dunno",
     "eggnog",
     "geode",
     "gone",
@@ -55,6 +55,8 @@
     "toed",
     "tone",
     "toned",
+    "tong",
+    "tonged",
     "tongue",
     "tongued",
     "toon",
@@ -71,9 +73,9 @@
   "date": "2031-08-16",
   "hints": {
     "by_length": {
-      "4": 22,
-      "5": 13,
-      "6": 17,
+      "4": 24,
+      "5": 12,
+      "6": 18,
       "7": 7
     },
     "by_first_letter": {
@@ -82,13 +84,13 @@
       "G": 10,
       "N": 8,
       "O": 5,
-      "T": 16,
+      "T": 18,
       "U": 2
     },
     "grid": {
       "D": {
-        "4": 3,
-        "5": 4,
+        "4": 4,
+        "5": 3,
         "6": 6,
         "7": 4
       },
@@ -111,9 +113,9 @@
         "7": 1
       },
       "T": {
-        "4": 6,
+        "4": 7,
         "5": 3,
-        "6": 5,
+        "6": 6,
         "7": 2
       },
       "U": {
@@ -123,8 +125,8 @@
     },
     "two_letter_list": {
       "DE": 2,
-      "DO": 11,
-      "DU": 4,
+      "DO": 12,
+      "DU": 3,
       "EG": 1,
       "GE": 1,
       "GO": 9,
@@ -133,7 +135,7 @@
       "ON": 1,
       "OU": 4,
       "TE": 3,
-      "TO": 13,
+      "TO": 15,
       "UN": 2
     }
   }

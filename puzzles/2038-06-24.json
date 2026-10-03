@@ -1,9 +1,9 @@
 {
   "pangram": "bighorn",
   "center_letter": "o",
-  "num_answers": 54,
+  "num_answers": 57,
   "num_pangrams": 2,
-  "possible_points": 290,
+  "possible_points": 289,
   "answer_pangrams": [
     "bighorn",
     "highborn"
@@ -14,27 +14,27 @@
     "bobbin",
     "bobbing",
     "bogging",
+    "boing",
     "bonbon",
     "bong",
     "bonging",
     "bongo",
     "boning",
     "boob",
-    "boobing",
-    "booboo",
     "booing",
     "boon",
     "boor",
     "boring",
     "born",
     "boron",
+    "brio",
     "gibbon",
-    "gobbing",
     "going",
     "gong",
     "gonging",
     "goon",
     "gorging",
+    "gorgon",
     "goring",
     "grog",
     "groin",
@@ -53,7 +53,9 @@
     "iron",
     "ironing",
     "noggin",
+    "noir",
     "noon",
+    "nori",
     "ongoing",
     "onion",
     "origin",
@@ -62,15 +64,16 @@
     "rigor",
     "robbing",
     "robin",
-    "robing"
+    "robing",
+    "ronin"
   ],
   "date": "2038-06-24",
   "hints": {
     "by_length": {
-      "4": 12,
-      "5": 10,
+      "4": 15,
+      "5": 12,
       "6": 16,
-      "7": 12,
+      "7": 10,
       "8": 3,
       "10": 1
     },
@@ -79,22 +82,22 @@
       "G": 10,
       "H": 10,
       "I": 4,
-      "N": 2,
+      "N": 4,
       "O": 3,
-      "R": 6
+      "R": 7
     },
     "grid": {
       "B": {
-        "4": 5,
-        "5": 3,
-        "6": 6,
-        "7": 5
+        "4": 6,
+        "5": 4,
+        "6": 5,
+        "7": 4
       },
       "G": {
         "4": 3,
         "5": 2,
-        "6": 2,
-        "7": 3
+        "6": 3,
+        "7": 2
       },
       "H": {
         "4": 2,
@@ -111,7 +114,7 @@
         "8": 1
       },
       "N": {
-        "4": 1,
+        "4": 3,
         "6": 1
       },
       "O": {
@@ -120,14 +123,15 @@
         "7": 1
       },
       "R": {
-        "5": 3,
+        "5": 4,
         "6": 2,
         "7": 1
       }
     },
     "two_letter_list": {
       "BI": 2,
-      "BO": 17,
+      "BO": 16,
+      "BR": 1,
       "GI": 1,
       "GO": 7,
       "GR": 2,
@@ -136,12 +140,12 @@
       "IG": 1,
       "IN": 1,
       "IR": 2,
-      "NO": 2,
+      "NO": 4,
       "ON": 2,
       "OR": 1,
       "RH": 1,
       "RI": 2,
-      "RO": 3
+      "RO": 4
     }
   }
 }

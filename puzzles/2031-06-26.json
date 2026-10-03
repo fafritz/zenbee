@@ -1,9 +1,9 @@
 {
   "pangram": "flaying",
   "center_letter": "a",
-  "num_answers": 55,
+  "num_answers": 61,
   "num_pangrams": 1,
-  "possible_points": 270,
+  "possible_points": 298,
   "answer_pangrams": [
     "flaying"
   ],
@@ -19,7 +19,6 @@
     "allaying",
     "ally",
     "allying",
-    "anal",
     "angina",
     "angling",
     "fail",
@@ -38,14 +37,18 @@
     "flail",
     "flailing",
     "flan",
+    "flanging",
     "flay",
     "flaying",
     "gaff",
     "gaffing",
+    "gaga",
     "gagging",
+    "gaily",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -56,35 +59,39 @@
     "inlaying",
     "lagging",
     "lain",
+    "lanai",
     "laying",
     "naan",
     "nagging",
+    "naif",
     "nail",
     "nailing",
     "nana",
-    "nanny"
+    "nanny",
+    "yang"
   ],
   "date": "2031-06-26",
   "hints": {
     "by_length": {
-      "4": 18,
-      "5": 9,
+      "4": 20,
+      "5": 11,
       "6": 4,
       "7": 17,
-      "8": 6,
+      "8": 8,
       "9": 1
     },
     "by_first_letter": {
-      "A": 14,
-      "F": 18,
-      "G": 12,
+      "A": 13,
+      "F": 19,
+      "G": 15,
       "I": 2,
-      "L": 3,
-      "N": 6
+      "L": 4,
+      "N": 7,
+      "Y": 1
     },
     "grid": {
       "A": {
-        "4": 3,
+        "4": 2,
         "5": 4,
         "6": 2,
         "7": 3,
@@ -95,13 +102,14 @@
         "5": 3,
         "6": 1,
         "7": 5,
-        "8": 2,
+        "8": 3,
         "9": 1
       },
       "G": {
-        "4": 5,
+        "4": 6,
+        "5": 1,
         "7": 6,
-        "8": 1
+        "8": 2
       },
       "I": {
         "5": 1,
@@ -109,27 +117,32 @@
       },
       "L": {
         "4": 1,
+        "5": 1,
         "6": 1,
         "7": 1
       },
       "N": {
-        "4": 3,
+        "4": 4,
         "5": 1,
         "7": 2
+      },
+      "Y": {
+        "4": 1
       }
     },
     "two_letter_list": {
       "AG": 2,
       "AI": 1,
       "AL": 8,
-      "AN": 3,
+      "AN": 2,
       "FA": 7,
       "FI": 4,
-      "FL": 7,
-      "GA": 12,
+      "FL": 8,
+      "GA": 15,
       "IN": 2,
-      "LA": 3,
-      "NA": 6
+      "LA": 4,
+      "NA": 7,
+      "YA": 1
     }
   }
 }

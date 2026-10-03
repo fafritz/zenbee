@@ -1,13 +1,14 @@
 {
   "pangram": "petunia",
   "center_letter": "i",
-  "num_answers": 40,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 198,
+  "possible_points": 224,
   "answer_pangrams": [
     "petunia"
   ],
   "answers": [
+    "annuitant",
     "anti",
     "appetite",
     "attain",
@@ -25,6 +26,7 @@
     "nineteen",
     "pain",
     "paint",
+    "panini",
     "patient",
     "patina",
     "patine",
@@ -32,6 +34,8 @@
     "petite",
     "petunia",
     "pine",
+    "pinna",
+    "pinnae",
     "pinnate",
     "pint",
     "pinup",
@@ -53,18 +57,18 @@
   "hints": {
     "by_length": {
       "4": 10,
-      "5": 13,
-      "6": 9,
+      "5": 14,
+      "6": 11,
       "7": 3,
       "8": 4,
-      "9": 1
+      "9": 2
     },
     "by_first_letter": {
-      "A": 3,
+      "A": 4,
       "E": 1,
       "I": 9,
       "N": 2,
-      "P": 16,
+      "P": 19,
       "T": 5,
       "U": 4
     },
@@ -72,7 +76,8 @@
       "A": {
         "4": 1,
         "6": 1,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "E": {
         "5": 1
@@ -89,8 +94,8 @@
       },
       "P": {
         "4": 5,
-        "5": 3,
-        "6": 4,
+        "5": 4,
+        "6": 6,
         "7": 3,
         "8": 1
       },
@@ -105,15 +110,15 @@
       }
     },
     "two_letter_list": {
-      "AN": 1,
+      "AN": 2,
       "AP": 1,
       "AT": 1,
       "EN": 1,
       "IN": 9,
       "NI": 2,
-      "PA": 5,
+      "PA": 6,
       "PE": 3,
-      "PI": 8,
+      "PI": 10,
       "TA": 2,
       "TI": 3,
       "UN": 4

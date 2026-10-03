@@ -1,9 +1,9 @@
 {
   "pangram": "maypole",
   "center_letter": "m",
-  "num_answers": 38,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 131,
+  "possible_points": 136,
   "answer_pangrams": [
     "maypole"
   ],
@@ -43,6 +43,7 @@
     "mope",
     "palm",
     "palmy",
+    "pampa",
     "poem",
     "pommel",
     "pomp"
@@ -51,7 +52,7 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 12,
+      "5": 13,
       "6": 5,
       "7": 1,
       "8": 1
@@ -61,7 +62,7 @@
       "E": 2,
       "L": 9,
       "M": 19,
-      "P": 5
+      "P": 6
     },
     "grid": {
       "A": {
@@ -85,7 +86,7 @@
       },
       "P": {
         "4": 3,
-        "5": 1,
+        "5": 2,
         "6": 1
       }
     },
@@ -99,7 +100,7 @@
       "MA": 9,
       "ME": 5,
       "MO": 5,
-      "PA": 2,
+      "PA": 3,
       "PO": 3
     }
   }

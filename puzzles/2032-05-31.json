@@ -1,9 +1,9 @@
 {
   "pangram": "magnify",
   "center_letter": "g",
-  "num_answers": 35,
+  "num_answers": 37,
   "num_pangrams": 2,
-  "possible_points": 215,
+  "possible_points": 217,
   "answer_pangrams": [
     "magnify",
     "magnifying"
@@ -18,6 +18,7 @@
     "fining",
     "gaff",
     "gaffing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -43,12 +44,13 @@
     "miming",
     "mining",
     "nagging",
-    "naming"
+    "naming",
+    "yang"
   ],
   "date": "2032-05-31",
   "hints": {
     "by_length": {
-      "4": 5,
+      "4": 7,
       "5": 6,
       "6": 8,
       "7": 13,
@@ -59,10 +61,11 @@
     "by_first_letter": {
       "A": 4,
       "F": 3,
-      "G": 12,
+      "G": 13,
       "I": 3,
       "M": 11,
-      "N": 2
+      "N": 2,
+      "Y": 1
     },
     "grid": {
       "A": {
@@ -75,7 +78,7 @@
         "7": 1
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "5": 1,
         "6": 1,
         "7": 6
@@ -95,6 +98,9 @@
       "N": {
         "6": 1,
         "7": 1
+      },
+      "Y": {
+        "4": 1
       }
     },
     "two_letter_list": {
@@ -103,13 +109,14 @@
       "AN": 1,
       "FA": 2,
       "FI": 1,
-      "GA": 10,
+      "GA": 11,
       "GI": 2,
       "IM": 2,
       "IN": 1,
       "MA": 8,
       "MI": 3,
-      "NA": 2
+      "NA": 2,
+      "YA": 1
     }
   }
 }

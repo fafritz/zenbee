@@ -1,11 +1,10 @@
 {
   "pangram": "decimal",
   "center_letter": "c",
-  "num_answers": 63,
-  "num_pangrams": 7,
-  "possible_points": 346,
+  "num_answers": 69,
+  "num_pangrams": 6,
+  "possible_points": 374,
   "answer_pangrams": [
-    "academical",
     "acclaimed",
     "claimed",
     "decimal",
@@ -15,8 +14,8 @@
   ],
   "answers": [
     "acacia",
+    "academe",
     "academic",
-    "academical",
     "acai",
     "accede",
     "acceded",
@@ -40,6 +39,7 @@
     "ceded",
     "cedilla",
     "cell",
+    "celled",
     "cicada",
     "cilia",
     "clad",
@@ -48,10 +48,12 @@
     "clam",
     "clammed",
     "clime",
+    "decadal",
     "decade",
     "decal",
     "decide",
     "decided",
+    "decile",
     "decimal",
     "declaim",
     "declaimed",
@@ -63,13 +65,16 @@
     "emceed",
     "iced",
     "icicle",
+    "iliac",
     "lace",
     "laced",
     "lice",
     "lilac",
     "macadam",
+    "macadamia",
     "mace",
     "maced",
+    "malic",
     "malice",
     "mecca",
     "medic",
@@ -82,43 +87,41 @@
   "hints": {
     "by_length": {
       "4": 18,
-      "5": 16,
-      "6": 13,
-      "7": 11,
+      "5": 18,
+      "6": 15,
+      "7": 13,
       "8": 2,
-      "9": 2,
-      "10": 1
+      "9": 3
     },
     "by_first_letter": {
       "A": 12,
-      "C": 22,
-      "D": 11,
+      "C": 23,
+      "D": 13,
       "E": 2,
-      "I": 2,
+      "I": 3,
       "L": 4,
-      "M": 10
+      "M": 12
     },
     "grid": {
       "A": {
         "4": 4,
         "6": 3,
-        "7": 2,
+        "7": 3,
         "8": 1,
-        "9": 1,
-        "10": 1
+        "9": 1
       },
       "C": {
         "4": 7,
         "5": 6,
-        "6": 4,
+        "6": 5,
         "7": 4,
         "8": 1
       },
       "D": {
         "4": 1,
         "5": 3,
-        "6": 3,
-        "7": 3,
+        "6": 4,
+        "7": 4,
         "9": 1
       },
       "E": {
@@ -127,6 +130,7 @@
       },
       "I": {
         "4": 1,
+        "5": 1,
         "6": 1
       },
       "L": {
@@ -135,24 +139,26 @@
       },
       "M": {
         "4": 3,
-        "5": 4,
+        "5": 5,
         "6": 1,
-        "7": 2
+        "7": 2,
+        "9": 1
       }
     },
     "two_letter_list": {
       "AC": 12,
       "CA": 10,
-      "CE": 4,
+      "CE": 5,
       "CI": 2,
       "CL": 6,
-      "DE": 9,
+      "DE": 11,
       "DI": 2,
       "EM": 2,
       "IC": 2,
+      "IL": 1,
       "LA": 2,
       "LI": 2,
-      "MA": 4,
+      "MA": 6,
       "ME": 3,
       "MI": 3
     }

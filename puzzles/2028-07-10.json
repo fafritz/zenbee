@@ -1,9 +1,9 @@
 {
   "pangram": "bigotry",
   "center_letter": "r",
-  "num_answers": 22,
+  "num_answers": 24,
   "num_pangrams": 1,
-  "possible_points": 66,
+  "possible_points": 68,
   "answer_pangrams": [
     "bigotry"
   ],
@@ -11,6 +11,7 @@
     "bigotry",
     "boor",
     "brig",
+    "brio",
     "girt",
     "gory",
     "grit",
@@ -24,6 +25,7 @@
     "riot",
     "robot",
     "root",
+    "roti",
     "rotor",
     "tort",
     "trio",
@@ -34,21 +36,21 @@
   "date": "2028-07-10",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 16,
       "5": 4,
       "6": 3,
       "7": 1
     },
     "by_first_letter": {
-      "B": 3,
+      "B": 4,
       "G": 8,
       "O": 1,
-      "R": 5,
+      "R": 6,
       "T": 5
     },
     "grid": {
       "B": {
-        "4": 2,
+        "4": 3,
         "7": 1
       },
       "G": {
@@ -59,7 +61,7 @@
         "5": 1
       },
       "R": {
-        "4": 2,
+        "4": 3,
         "5": 3
       },
       "T": {
@@ -69,14 +71,14 @@
     "two_letter_list": {
       "BI": 1,
       "BO": 1,
-      "BR": 1,
+      "BR": 2,
       "GI": 1,
       "GO": 1,
       "GR": 5,
       "GY": 1,
       "OR": 1,
       "RI": 2,
-      "RO": 3,
+      "RO": 4,
       "TO": 1,
       "TR": 3,
       "TY": 1

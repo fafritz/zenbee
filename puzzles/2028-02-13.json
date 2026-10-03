@@ -1,9 +1,9 @@
 {
   "pangram": "pinched",
   "center_letter": "e",
-  "num_answers": 72,
+  "num_answers": 73,
   "num_pangrams": 1,
-  "possible_points": 337,
+  "possible_points": 342,
   "answer_pangrams": [
     "pinched"
   ],
@@ -68,6 +68,7 @@
     "peep",
     "peeped",
     "pence",
+    "penne",
     "penned",
     "pepped",
     "piece",
@@ -85,7 +86,7 @@
   "hints": {
     "by_length": {
       "4": 22,
-      "5": 15,
+      "5": 16,
       "6": 24,
       "7": 6,
       "8": 2,
@@ -100,7 +101,7 @@
       "H": 9,
       "I": 5,
       "N": 8,
-      "P": 17
+      "P": 18
     },
     "grid": {
       "C": {
@@ -140,7 +141,7 @@
       },
       "P": {
         "4": 6,
-        "5": 4,
+        "5": 5,
         "6": 6,
         "7": 1
       }
@@ -160,7 +161,7 @@
       "IN": 4,
       "NE": 3,
       "NI": 5,
-      "PE": 7,
+      "PE": 8,
       "PI": 10
     }
   }

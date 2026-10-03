@@ -1,9 +1,9 @@
 {
   "pangram": "clarion",
   "center_letter": "r",
-  "num_answers": 40,
+  "num_answers": 43,
   "num_pangrams": 3,
-  "possible_points": 189,
+  "possible_points": 196,
   "answer_pangrams": [
     "carillon",
     "clarion",
@@ -37,6 +37,8 @@
     "liar",
     "lira",
     "narc",
+    "noir",
+    "nori",
     "ocarina",
     "oral",
     "raccoon",
@@ -49,13 +51,14 @@
     "roar",
     "rococo",
     "roil",
-    "roll"
+    "roll",
+    "ronin"
   ],
   "date": "2034-05-20",
   "hints": {
     "by_length": {
-      "4": 15,
-      "5": 8,
+      "4": 17,
+      "5": 9,
       "6": 8,
       "7": 7,
       "8": 2
@@ -65,9 +68,9 @@
       "C": 18,
       "I": 3,
       "L": 3,
-      "N": 1,
+      "N": 3,
       "O": 2,
-      "R": 11
+      "R": 12
     },
     "grid": {
       "A": {
@@ -90,7 +93,7 @@
         "4": 3
       },
       "N": {
-        "4": 1
+        "4": 3
       },
       "O": {
         "4": 1,
@@ -98,6 +101,7 @@
       },
       "R": {
         "4": 7,
+        "5": 1,
         "6": 3,
         "7": 1
       }
@@ -114,11 +118,12 @@
       "LA": 1,
       "LI": 2,
       "NA": 1,
+      "NO": 2,
       "OC": 1,
       "OR": 1,
       "RA": 5,
       "RI": 1,
-      "RO": 5
+      "RO": 6
     }
   }
 }

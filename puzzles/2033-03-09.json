@@ -1,14 +1,13 @@
 {
   "pangram": "implant",
   "center_letter": "l",
-  "num_answers": 49,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 206,
+  "possible_points": 217,
   "answer_pangrams": [
     "implant"
   ],
   "answers": [
-    "anal",
     "animal",
     "appall",
     "impala",
@@ -17,6 +16,8 @@
     "lain",
     "lama",
     "lamp",
+    "lanai",
+    "lantana",
     "lilt",
     "limit",
     "limn",
@@ -61,18 +62,18 @@
   "date": "2033-03-09",
   "hints": {
     "by_length": {
-      "4": 22,
-      "5": 7,
+      "4": 21,
+      "5": 8,
       "6": 7,
-      "7": 7,
+      "7": 8,
       "8": 4,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 3,
+      "A": 2,
       "I": 3,
-      "L": 9,
+      "L": 11,
       "M": 12,
       "N": 3,
       "P": 15,
@@ -80,7 +81,6 @@
     },
     "grid": {
       "A": {
-        "4": 1,
         "6": 2
       },
       "I": {
@@ -89,7 +89,8 @@
       },
       "L": {
         "4": 7,
-        "5": 2
+        "5": 3,
+        "7": 1
       },
       "M": {
         "4": 4,
@@ -116,11 +117,11 @@
       }
     },
     "two_letter_list": {
-      "AN": 2,
+      "AN": 1,
       "AP": 1,
       "IM": 2,
       "IN": 1,
-      "LA": 3,
+      "LA": 5,
       "LI": 5,
       "LL": 1,
       "MA": 7,

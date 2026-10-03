@@ -1,9 +1,9 @@
 {
   "pangram": "balking",
   "center_letter": "i",
-  "num_answers": 75,
+  "num_answers": 78,
   "num_pangrams": 2,
-  "possible_points": 440,
+  "possible_points": 458,
   "answer_pangrams": [
     "balking",
     "blanking"
@@ -39,6 +39,7 @@
     "bilking",
     "bill",
     "billing",
+    "binging",
     "binning",
     "blabbing",
     "blanking",
@@ -74,6 +75,8 @@
     "labial",
     "lagging",
     "lain",
+    "lanai",
+    "lignin",
     "liking",
     "lining",
     "link",
@@ -89,19 +92,19 @@
   "hints": {
     "by_length": {
       "4": 14,
-      "5": 7,
-      "6": 14,
-      "7": 28,
+      "5": 8,
+      "6": 15,
+      "7": 29,
       "8": 11,
       "9": 1
     },
     "by_first_letter": {
       "A": 11,
-      "B": 25,
+      "B": 26,
       "G": 15,
       "I": 3,
       "K": 7,
-      "L": 8,
+      "L": 10,
       "N": 6
     },
     "grid": {
@@ -116,7 +119,7 @@
         "4": 3,
         "5": 2,
         "6": 5,
-        "7": 10,
+        "7": 11,
         "8": 4,
         "9": 1
       },
@@ -136,8 +139,8 @@
       },
       "L": {
         "4": 2,
-        "5": 1,
-        "6": 3,
+        "5": 2,
+        "6": 4,
         "7": 2
       },
       "N": {
@@ -153,15 +156,15 @@
       "AL": 5,
       "AN": 2,
       "BA": 13,
-      "BI": 7,
+      "BI": 8,
       "BL": 5,
       "GA": 9,
       "GI": 5,
       "GL": 1,
       "IN": 3,
       "KI": 7,
-      "LA": 4,
-      "LI": 4,
+      "LA": 5,
+      "LI": 5,
       "NA": 4,
       "NI": 2
     }

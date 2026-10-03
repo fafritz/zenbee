@@ -1,9 +1,9 @@
 {
   "pangram": "organdy",
   "center_letter": "r",
-  "num_answers": 42,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 148,
+  "possible_points": 154,
   "answer_pangrams": [
     "organdy"
   ],
@@ -25,6 +25,7 @@
     "dragoon",
     "dray",
     "dryad",
+    "gorgon",
     "gory",
     "grad",
     "granary",
@@ -56,13 +57,13 @@
     "by_length": {
       "4": 20,
       "5": 14,
-      "6": 5,
+      "6": 6,
       "7": 3
     },
     "by_first_letter": {
       "A": 8,
       "D": 9,
-      "G": 10,
+      "G": 11,
       "O": 3,
       "R": 10,
       "Y": 2
@@ -82,7 +83,7 @@
       "G": {
         "4": 5,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 1
       },
       "O": {
@@ -106,7 +107,7 @@
       "DA": 1,
       "DO": 3,
       "DR": 5,
-      "GO": 1,
+      "GO": 2,
       "GR": 8,
       "GY": 1,
       "OD": 1,

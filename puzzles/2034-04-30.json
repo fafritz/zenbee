@@ -3,7 +3,7 @@
   "center_letter": "g",
   "num_answers": 42,
   "num_pangrams": 1,
-  "possible_points": 228,
+  "possible_points": 224,
   "answer_pangrams": [
     "agonize"
   ],
@@ -19,6 +19,7 @@
     "engage",
     "engaging",
     "engine",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -36,7 +37,6 @@
     "gone",
     "gong",
     "gonging",
-    "gonna",
     "gonzo",
     "goon",
     "inning",
@@ -54,8 +54,8 @@
   "date": "2034-04-30",
   "hints": {
     "by_length": {
-      "4": 9,
-      "5": 7,
+      "4": 10,
+      "5": 6,
       "6": 12,
       "7": 10,
       "8": 2,
@@ -84,8 +84,8 @@
         "8": 1
       },
       "G": {
-        "4": 7,
-        "5": 5,
+        "4": 8,
+        "5": 4,
         "6": 2,
         "7": 6
       },
@@ -113,10 +113,10 @@
       "AN": 1,
       "EG": 2,
       "EN": 3,
-      "GA": 7,
+      "GA": 8,
       "GE": 4,
       "GI": 2,
-      "GO": 7,
+      "GO": 6,
       "IN": 1,
       "IO": 1,
       "NA": 1,

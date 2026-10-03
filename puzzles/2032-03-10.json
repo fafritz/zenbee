@@ -1,18 +1,20 @@
 {
   "pangram": "burping",
   "center_letter": "n",
-  "num_answers": 55,
+  "num_answers": 57,
   "num_pangrams": 2,
-  "possible_points": 352,
+  "possible_points": 366,
   "answer_pangrams": [
     "burping",
     "upbringing"
   ],
   "answers": [
+    "binging",
     "binning",
     "bribing",
     "bring",
     "bringing",
+    "brining",
     "bruin",
     "bugging",
     "bung",
@@ -71,13 +73,13 @@
       "4": 7,
       "5": 5,
       "6": 7,
-      "7": 29,
+      "7": 31,
       "8": 4,
       "9": 1,
       "10": 2
     },
     "by_first_letter": {
-      "B": 12,
+      "B": 14,
       "G": 10,
       "I": 2,
       "N": 1,
@@ -89,7 +91,7 @@
       "B": {
         "4": 2,
         "5": 2,
-        "7": 7,
+        "7": 9,
         "8": 1
       },
       "G": {
@@ -125,8 +127,8 @@
       }
     },
     "two_letter_list": {
-      "BI": 1,
-      "BR": 4,
+      "BI": 2,
+      "BR": 5,
       "BU": 7,
       "GI": 3,
       "GR": 5,

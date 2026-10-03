@@ -1,9 +1,9 @@
 {
   "pangram": "plaudit",
   "center_letter": "a",
-  "num_answers": 31,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 111,
+  "possible_points": 110,
   "answer_pangrams": [
     "plaudit"
   ],
@@ -16,7 +16,6 @@
     "data",
     "dial",
     "dual",
-    "ipad",
     "laid",
     "laud",
     "luau",
@@ -43,7 +42,7 @@
   "date": "2034-05-25",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 15,
       "5": 8,
       "6": 2,
       "7": 4,
@@ -52,7 +51,6 @@
     "by_first_letter": {
       "A": 5,
       "D": 3,
-      "I": 1,
       "L": 3,
       "P": 15,
       "T": 4
@@ -65,9 +63,6 @@
       },
       "D": {
         "4": 3
-      },
-      "I": {
-        "4": 1
       },
       "L": {
         "4": 3
@@ -91,7 +86,6 @@
       "DA": 1,
       "DI": 1,
       "DU": 1,
-      "IP": 1,
       "LA": 2,
       "LU": 1,
       "PA": 9,

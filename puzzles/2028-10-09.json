@@ -1,9 +1,9 @@
 {
   "pangram": "walking",
   "center_letter": "l",
-  "num_answers": 43,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 211,
+  "possible_points": 229,
   "answer_pangrams": [
     "walking"
   ],
@@ -13,9 +13,9 @@
     "align",
     "aligning",
     "alkali",
-    "anal",
     "angling",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "ganglia",
@@ -29,8 +29,10 @@
     "kilning",
     "lagging",
     "lain",
+    "lanai",
     "lank",
     "lawn",
+    "lignin",
     "liking",
     "lining",
     "link",
@@ -55,24 +57,24 @@
   "date": "2028-10-09",
   "hints": {
     "by_length": {
-      "4": 16,
-      "5": 1,
-      "6": 6,
+      "4": 15,
+      "5": 2,
+      "6": 7,
       "7": 13,
-      "8": 7
+      "8": 8
     },
     "by_first_letter": {
-      "A": 7,
-      "G": 7,
+      "A": 6,
+      "G": 8,
       "I": 1,
       "K": 4,
-      "L": 8,
+      "L": 10,
       "N": 3,
       "W": 13
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 1,
         "6": 2,
         "7": 1,
@@ -81,7 +83,7 @@
       "G": {
         "4": 3,
         "7": 2,
-        "8": 2
+        "8": 3
       },
       "I": {
         "7": 1
@@ -92,7 +94,8 @@
       },
       "L": {
         "4": 4,
-        "6": 2,
+        "5": 1,
+        "6": 3,
         "7": 2
       },
       "N": {
@@ -110,13 +113,13 @@
     "two_letter_list": {
       "AI": 1,
       "AL": 4,
-      "AN": 2,
-      "GA": 5,
+      "AN": 1,
+      "GA": 6,
       "GI": 2,
       "IN": 1,
       "KI": 4,
-      "LA": 4,
-      "LI": 4,
+      "LA": 5,
+      "LI": 5,
       "NA": 2,
       "NI": 1,
       "WA": 9,

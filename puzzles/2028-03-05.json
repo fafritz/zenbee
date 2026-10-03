@@ -1,9 +1,9 @@
 {
   "pangram": "gravity",
   "center_letter": "t",
-  "num_answers": 20,
+  "num_answers": 19,
   "num_pangrams": 1,
-  "possible_points": 93,
+  "possible_points": 86,
   "answer_pangrams": [
     "gravity"
   ],
@@ -19,7 +19,6 @@
     "gritty",
     "ragtag",
     "rarity",
-    "ratatat",
     "ratty",
     "tart",
     "tartar",
@@ -35,12 +34,12 @@
       "4": 6,
       "5": 6,
       "6": 6,
-      "7": 2
+      "7": 1
     },
     "by_first_letter": {
       "A": 4,
       "G": 5,
-      "R": 4,
+      "R": 3,
       "T": 7
     },
     "grid": {
@@ -56,8 +55,7 @@
       },
       "R": {
         "5": 1,
-        "6": 2,
-        "7": 1
+        "6": 2
       },
       "T": {
         "4": 2,
@@ -72,7 +70,7 @@
       "GA": 1,
       "GI": 1,
       "GR": 3,
-      "RA": 4,
+      "RA": 3,
       "TA": 3,
       "TI": 1,
       "TR": 3

@@ -1,9 +1,9 @@
 {
   "pangram": "mordant",
   "center_letter": "n",
-  "num_answers": 41,
+  "num_answers": 44,
   "num_pangrams": 2,
-  "possible_points": 181,
+  "possible_points": 195,
   "answer_pangrams": [
     "dormant",
     "mordant"
@@ -12,6 +12,7 @@
     "adamant",
     "adman",
     "adorn",
+    "annatto",
     "anon",
     "arrant",
     "damn",
@@ -46,6 +47,8 @@
     "rattan",
     "roan",
     "roman",
+    "tantra",
+    "tarn",
     "tartan",
     "toon",
     "torn",
@@ -54,27 +57,27 @@
   "date": "2027-10-23",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 17,
       "5": 9,
-      "6": 8,
-      "7": 6,
+      "6": 9,
+      "7": 7,
       "8": 2
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 6,
       "D": 5,
       "M": 13,
       "N": 6,
       "O": 2,
       "R": 6,
-      "T": 4
+      "T": 6
     },
     "grid": {
       "A": {
         "4": 1,
         "5": 2,
         "6": 1,
-        "7": 1
+        "7": 2
       },
       "D": {
         "4": 2,
@@ -103,14 +106,14 @@
         "6": 2
       },
       "T": {
-        "4": 2,
-        "6": 1,
+        "4": 3,
+        "6": 2,
         "7": 1
       }
     },
     "two_letter_list": {
       "AD": 3,
-      "AN": 1,
+      "AN": 2,
       "AR": 1,
       "DA": 2,
       "DO": 3,
@@ -122,7 +125,7 @@
       "OT": 1,
       "RA": 4,
       "RO": 2,
-      "TA": 1,
+      "TA": 3,
       "TO": 3
     }
   }

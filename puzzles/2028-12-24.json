@@ -1,13 +1,14 @@
 {
   "pangram": "petunia",
   "center_letter": "a",
-  "num_answers": 49,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 214,
+  "possible_points": 252,
   "answer_pangrams": [
     "petunia"
   ],
   "answers": [
+    "annuitant",
     "ante",
     "antenna",
     "antennae",
@@ -28,10 +29,13 @@
     "nape",
     "neap",
     "neat",
+    "neaten",
+    "nutate",
     "paean",
     "pain",
     "paint",
     "pane",
+    "panini",
     "pant",
     "papa",
     "pate",
@@ -43,6 +47,8 @@
     "peat",
     "pennant",
     "petunia",
+    "pinna",
+    "pinnae",
     "pinnate",
     "pita",
     "pupa",
@@ -62,18 +68,18 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 10,
-      "6": 9,
+      "5": 11,
+      "6": 13,
       "7": 6,
       "8": 3,
-      "9": 2
+      "9": 3
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 10,
       "E": 1,
       "I": 5,
-      "N": 5,
-      "P": 19,
+      "N": 7,
+      "P": 22,
       "T": 9,
       "U": 1
     },
@@ -83,7 +89,7 @@
         "6": 2,
         "7": 1,
         "8": 2,
-        "9": 1
+        "9": 2
       },
       "E": {
         "5": 1
@@ -95,12 +101,13 @@
         "9": 1
       },
       "N": {
-        "4": 5
+        "4": 5,
+        "6": 2
       },
       "P": {
         "4": 8,
-        "5": 3,
-        "6": 4,
+        "5": 4,
+        "6": 6,
         "7": 4
       },
       "T": {
@@ -113,17 +120,18 @@
       }
     },
     "two_letter_list": {
-      "AN": 4,
+      "AN": 5,
       "AP": 1,
       "AT": 3,
       "AU": 1,
       "EA": 1,
       "IN": 5,
       "NA": 3,
-      "NE": 2,
-      "PA": 11,
+      "NE": 3,
+      "NU": 1,
+      "PA": 12,
       "PE": 4,
-      "PI": 2,
+      "PI": 4,
       "PU": 2,
       "TA": 6,
       "TE": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "mailbox",
   "center_letter": "a",
-  "num_answers": 34,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 125,
+  "possible_points": 126,
   "answer_pangrams": [
     "mailbox"
   ],
@@ -20,6 +20,7 @@
     "bamboo",
     "baobab",
     "blab",
+    "boba",
     "bola",
     "iamb",
     "imam",
@@ -46,14 +47,14 @@
   "date": "2037-02-02",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 17,
       "5": 9,
       "6": 6,
       "7": 3
     },
     "by_first_letter": {
       "A": 5,
-      "B": 8,
+      "B": 9,
       "I": 2,
       "L": 6,
       "M": 13
@@ -65,7 +66,7 @@
         "6": 1
       },
       "B": {
-        "4": 6,
+        "4": 7,
         "6": 2
       },
       "I": {
@@ -90,7 +91,7 @@
       "AX": 2,
       "BA": 6,
       "BL": 1,
-      "BO": 1,
+      "BO": 2,
       "IA": 1,
       "IM": 1,
       "LA": 4,

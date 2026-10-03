@@ -1,9 +1,9 @@
 {
   "pangram": "phonied",
   "center_letter": "i",
-  "num_answers": 39,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 187,
+  "possible_points": 180,
   "answer_pangrams": [
     "phonied"
   ],
@@ -27,8 +27,6 @@
     "hoodie",
     "indeed",
     "iodine",
-    "iphone",
-    "ipod",
     "nine",
     "nipped",
     "onion",
@@ -51,9 +49,9 @@
   "date": "2034-06-30",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 9,
       "5": 8,
-      "6": 18,
+      "6": 17,
       "7": 2,
       "8": 1
     },
@@ -61,7 +59,7 @@
       "D": 7,
       "E": 1,
       "H": 9,
-      "I": 4,
+      "I": 2,
       "N": 2,
       "O": 5,
       "P": 11
@@ -81,8 +79,7 @@
         "6": 4
       },
       "I": {
-        "4": 1,
-        "6": 3
+        "6": 2
       },
       "N": {
         "4": 1,
@@ -109,7 +106,6 @@
       "HO": 1,
       "IN": 1,
       "IO": 1,
-      "IP": 2,
       "NI": 2,
       "ON": 1,
       "OP": 4,

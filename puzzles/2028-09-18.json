@@ -1,10 +1,11 @@
 {
   "pangram": "caution",
   "center_letter": "a",
-  "num_answers": 64,
-  "num_pangrams": 4,
-  "possible_points": 377,
+  "num_answers": 68,
+  "num_pangrams": 5,
+  "possible_points": 419,
   "answer_pangrams": [
+    "annunciation",
     "auction",
     "caution",
     "continua",
@@ -15,9 +16,13 @@
     "acai",
     "account",
     "accountant",
+    "actinic",
     "action",
     "anion",
+    "annatto",
     "annotation",
+    "annuitant",
+    "annunciation",
     "anoint",
     "anon",
     "anti",
@@ -82,15 +87,15 @@
       "4": 15,
       "5": 13,
       "6": 16,
-      "7": 7,
+      "7": 9,
       "8": 4,
-      "9": 2,
+      "9": 3,
       "10": 4,
       "11": 2,
-      "12": 1
+      "12": 2
     },
     "by_first_letter": {
-      "A": 16,
+      "A": 20,
       "C": 23,
       "I": 6,
       "N": 5,
@@ -101,8 +106,10 @@
         "4": 5,
         "5": 3,
         "6": 4,
-        "7": 2,
-        "10": 2
+        "7": 4,
+        "9": 1,
+        "10": 2,
+        "12": 1
       },
       "C": {
         "4": 3,
@@ -135,8 +142,8 @@
       }
     },
     "two_letter_list": {
-      "AC": 5,
-      "AN": 6,
+      "AC": 6,
+      "AN": 9,
       "AT": 2,
       "AU": 3,
       "CA": 14,

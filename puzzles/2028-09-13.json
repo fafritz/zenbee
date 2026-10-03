@@ -1,9 +1,9 @@
 {
   "pangram": "braying",
   "center_letter": "g",
-  "num_answers": 74,
+  "num_answers": 80,
   "num_pangrams": 1,
-  "possible_points": 437,
+  "possible_points": 470,
   "answer_pangrams": [
     "braying"
   ],
@@ -35,6 +35,7 @@
     "barraging",
     "barring",
     "baying",
+    "binging",
     "binning",
     "brag",
     "bragging",
@@ -44,8 +45,10 @@
     "brig",
     "bring",
     "bringing",
+    "brining",
     "gabbing",
     "gabby",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -67,6 +70,8 @@
     "graying",
     "grin",
     "grinning",
+    "ingrain",
+    "ingraining",
     "inning",
     "nabbing",
     "nagging",
@@ -81,26 +86,28 @@
     "ribbing",
     "rigging",
     "ring",
-    "ringing"
+    "ringing",
+    "yang"
   ],
   "date": "2028-09-13",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 15,
       "5": 8,
       "6": 12,
-      "7": 29,
+      "7": 32,
       "8": 8,
       "9": 2,
-      "10": 2
+      "10": 3
     },
     "by_first_letter": {
       "A": 12,
-      "B": 24,
-      "G": 23,
-      "I": 1,
+      "B": 26,
+      "G": 24,
+      "I": 3,
       "N": 2,
-      "R": 12
+      "R": 12,
+      "Y": 1
     },
     "grid": {
       "A": {
@@ -116,20 +123,22 @@
         "4": 3,
         "5": 2,
         "6": 3,
-        "7": 11,
+        "7": 13,
         "8": 3,
         "9": 1,
         "10": 1
       },
       "G": {
-        "4": 6,
+        "4": 7,
         "5": 2,
         "6": 3,
         "7": 9,
         "8": 3
       },
       "I": {
-        "6": 1
+        "6": 1,
+        "7": 1,
+        "10": 1
       },
       "N": {
         "7": 2
@@ -139,6 +148,9 @@
         "5": 1,
         "6": 2,
         "7": 6
+      },
+      "Y": {
+        "4": 1
       }
     },
     "two_letter_list": {
@@ -147,15 +159,16 @@
       "AN": 2,
       "AR": 4,
       "BA": 15,
-      "BI": 1,
-      "BR": 8,
-      "GA": 10,
+      "BI": 2,
+      "BR": 9,
+      "GA": 11,
       "GI": 3,
       "GR": 10,
-      "IN": 1,
+      "IN": 3,
       "NA": 2,
       "RA": 8,
-      "RI": 4
+      "RI": 4,
+      "YA": 1
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "pangram": "foaming",
   "center_letter": "a",
-  "num_answers": 50,
+  "num_answers": 51,
   "num_pangrams": 1,
-  "possible_points": 237,
+  "possible_points": 234,
   "answer_pangrams": [
     "foaming"
   ],
@@ -26,6 +26,7 @@
     "foaming",
     "gaff",
     "gaffing",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -33,7 +34,6 @@
     "gamma",
     "gang",
     "ganging",
-    "gonna",
     "imaging",
     "imagining",
     "imam",
@@ -56,14 +56,15 @@
     "monomania",
     "naan",
     "nagging",
+    "naif",
     "naming",
     "nana"
   ],
   "date": "2029-03-31",
   "hints": {
     "by_length": {
-      "4": 15,
-      "5": 15,
+      "4": 17,
+      "5": 14,
       "6": 5,
       "7": 12,
       "8": 1,
@@ -75,7 +76,7 @@
       "G": 10,
       "I": 3,
       "M": 17,
-      "N": 4
+      "N": 5
     },
     "grid": {
       "A": {
@@ -89,8 +90,8 @@
         "7": 2
       },
       "G": {
-        "4": 3,
-        "5": 2,
+        "4": 4,
+        "5": 1,
         "6": 1,
         "7": 4
       },
@@ -108,7 +109,7 @@
         "9": 1
       },
       "N": {
-        "4": 2,
+        "4": 3,
         "6": 1,
         "7": 1
       }
@@ -120,13 +121,12 @@
       "AN": 3,
       "FA": 2,
       "FO": 2,
-      "GA": 9,
-      "GO": 1,
+      "GA": 10,
       "IM": 3,
       "MA": 12,
       "MI": 1,
       "MO": 4,
-      "NA": 4
+      "NA": 5
     }
   }
 }

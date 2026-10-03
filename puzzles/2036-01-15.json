@@ -1,9 +1,9 @@
 {
   "pangram": "clamped",
   "center_letter": "p",
-  "num_answers": 65,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 300,
+  "possible_points": 305,
   "answer_pangrams": [
     "clamped"
   ],
@@ -54,6 +54,7 @@
     "palled",
     "palm",
     "palmed",
+    "pampa",
     "papa",
     "papal",
     "peace",
@@ -78,7 +79,7 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 14,
+      "5": 15,
       "6": 23,
       "7": 6,
       "8": 3
@@ -90,7 +91,7 @@
       "E": 1,
       "L": 5,
       "M": 3,
-      "P": 31
+      "P": 32
     },
     "grid": {
       "A": {
@@ -125,7 +126,7 @@
       },
       "P": {
         "4": 10,
-        "5": 7,
+        "5": 8,
         "6": 11,
         "7": 3
       }
@@ -142,7 +143,7 @@
       "LA": 3,
       "LE": 2,
       "MA": 3,
-      "PA": 14,
+      "PA": 15,
       "PE": 13,
       "PL": 4
     }

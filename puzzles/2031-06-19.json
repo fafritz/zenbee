@@ -1,9 +1,9 @@
 {
   "pangram": "lapwing",
   "center_letter": "a",
-  "num_answers": 73,
+  "num_answers": 77,
   "num_pangrams": 1,
-  "possible_points": 369,
+  "possible_points": 393,
   "answer_pangrams": [
     "lapwing"
   ],
@@ -14,7 +14,6 @@
     "alga",
     "align",
     "aligning",
-    "anal",
     "angina",
     "angling",
     "aping",
@@ -22,10 +21,12 @@
     "appalling",
     "awing",
     "awning",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
     "gala",
+    "galangal",
     "gall",
     "galling",
     "gang",
@@ -37,6 +38,7 @@
     "gnawing",
     "lagging",
     "lain",
+    "lanai",
     "lapping",
     "lapwing",
     "lawn",
@@ -55,6 +57,7 @@
     "pall",
     "palling",
     "pang",
+    "panini",
     "panning",
     "papa",
     "papal",
@@ -65,6 +68,7 @@
     "pawning",
     "pawpaw",
     "pillaging",
+    "pinna",
     "plain",
     "plan",
     "planing",
@@ -86,24 +90,24 @@
   "hints": {
     "by_length": {
       "4": 22,
-      "5": 8,
-      "6": 13,
+      "5": 10,
+      "6": 14,
       "7": 22,
-      "8": 5,
+      "8": 6,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "A": 14,
-      "G": 13,
-      "L": 5,
+      "A": 13,
+      "G": 15,
+      "L": 6,
       "N": 6,
-      "P": 23,
+      "P": 25,
       "W": 12
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 5,
         "6": 4,
         "7": 1,
@@ -111,13 +115,14 @@
         "9": 1
       },
       "G": {
-        "4": 5,
+        "4": 6,
         "6": 1,
         "7": 6,
-        "8": 1
+        "8": 2
       },
       "L": {
         "4": 2,
+        "5": 1,
         "7": 3
       },
       "N": {
@@ -126,8 +131,8 @@
       },
       "P": {
         "4": 8,
-        "5": 3,
-        "6": 4,
+        "5": 4,
+        "6": 5,
         "7": 6,
         "8": 1,
         "9": 1
@@ -144,15 +149,15 @@
       "AG": 2,
       "AI": 1,
       "AL": 3,
-      "AN": 3,
+      "AN": 2,
       "AP": 3,
       "AW": 2,
-      "GA": 11,
+      "GA": 13,
       "GN": 2,
-      "LA": 5,
+      "LA": 6,
       "NA": 6,
-      "PA": 18,
-      "PI": 1,
+      "PA": 19,
+      "PI": 2,
       "PL": 4,
       "WA": 10,
       "WI": 2

@@ -1,9 +1,9 @@
 {
   "pangram": "plonked",
   "center_letter": "p",
-  "num_answers": 63,
+  "num_answers": 64,
   "num_pangrams": 1,
-  "possible_points": 259,
+  "possible_points": 264,
   "answer_pangrams": [
     "plonked"
   ],
@@ -41,6 +41,7 @@
     "peep",
     "peeped",
     "pekoe",
+    "penne",
     "penned",
     "pennon",
     "peon",
@@ -76,7 +77,7 @@
   "hints": {
     "by_length": {
       "4": 26,
-      "5": 7,
+      "5": 8,
       "6": 22,
       "7": 5,
       "8": 3
@@ -88,7 +89,7 @@
       "L": 5,
       "N": 1,
       "O": 2,
-      "P": 41
+      "P": 42
     },
     "grid": {
       "D": {
@@ -119,7 +120,7 @@
       },
       "P": {
         "4": 17,
-        "5": 4,
+        "5": 5,
         "6": 15,
         "7": 5
       }
@@ -133,7 +134,7 @@
       "LO": 5,
       "NO": 1,
       "OP": 2,
-      "PE": 17,
+      "PE": 18,
       "PL": 6,
       "PO": 18
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "damping",
   "center_letter": "g",
-  "num_answers": 61,
+  "num_answers": 62,
   "num_pangrams": 1,
-  "possible_points": 381,
+  "possible_points": 382,
   "answer_pangrams": [
     "damping"
   ],
@@ -27,6 +27,7 @@
     "dinning",
     "dipping",
     "gadding",
+    "gaga",
     "gagging",
     "gain",
     "gaining",
@@ -73,7 +74,7 @@
   "date": "2036-11-14",
   "hints": {
     "by_length": {
-      "4": 5,
+      "4": 6,
       "5": 7,
       "6": 15,
       "7": 30,
@@ -83,7 +84,7 @@
     "by_first_letter": {
       "A": 7,
       "D": 11,
-      "G": 11,
+      "G": 12,
       "I": 4,
       "M": 9,
       "N": 4,
@@ -101,7 +102,7 @@
         "8": 1
       },
       "G": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "6": 2,
         "7": 6
@@ -136,7 +137,7 @@
       "AP": 1,
       "DA": 4,
       "DI": 7,
-      "GA": 9,
+      "GA": 10,
       "GI": 2,
       "IM": 3,
       "IN": 1,

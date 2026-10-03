@@ -1,9 +1,9 @@
 {
   "pangram": "vaguely",
   "center_letter": "l",
-  "num_answers": 42,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 156,
+  "possible_points": 171,
   "answer_pangrams": [
     "vaguely"
   ],
@@ -12,6 +12,7 @@
     "algae",
     "allay",
     "allege",
+    "allele",
     "alley",
     "ally",
     "eagle",
@@ -28,6 +29,7 @@
     "gull",
     "gully",
     "lava",
+    "lave",
     "league",
     "leave",
     "legal",
@@ -35,8 +37,10 @@
     "leggy",
     "levee",
     "level",
+    "levelly",
     "levy",
     "luau",
+    "luge",
     "luggage",
     "lull",
     "lulu",
@@ -54,16 +58,16 @@
   "date": "2038-04-03",
   "hints": {
     "by_length": {
-      "4": 18,
+      "4": 20,
       "5": 16,
-      "6": 5,
-      "7": 3
+      "6": 6,
+      "7": 4
     },
     "by_first_letter": {
-      "A": 6,
+      "A": 7,
       "E": 2,
       "G": 11,
-      "L": 13,
+      "L": 16,
       "U": 2,
       "V": 6,
       "Y": 2
@@ -72,7 +76,7 @@
       "A": {
         "4": 2,
         "5": 3,
-        "6": 1
+        "6": 2
       },
       "E": {
         "5": 2
@@ -83,10 +87,10 @@
         "6": 2
       },
       "L": {
-        "4": 5,
+        "4": 7,
         "5": 5,
         "6": 1,
-        "7": 2
+        "7": 3
       },
       "U": {
         "4": 1,
@@ -103,15 +107,15 @@
       }
     },
     "two_letter_list": {
-      "AL": 6,
+      "AL": 7,
       "EA": 1,
       "EL": 1,
       "GA": 6,
       "GL": 3,
       "GU": 2,
-      "LA": 1,
-      "LE": 8,
-      "LU": 4,
+      "LA": 2,
+      "LE": 9,
+      "LU": 5,
       "UG": 1,
       "UV": 1,
       "VA": 5,

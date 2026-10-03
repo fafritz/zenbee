@@ -3,12 +3,11 @@
   "center_letter": "n",
   "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 68,
+  "possible_points": 74,
   "answer_pangrams": [
     "tankful"
   ],
   "answers": [
-    "anal",
     "annual",
     "annul",
     "aunt",
@@ -20,6 +19,7 @@
     "flunk",
     "funk",
     "lank",
+    "lantana",
     "naan",
     "nana",
     "natal",
@@ -33,22 +33,22 @@
   "date": "2037-02-14",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 11,
       "5": 6,
       "6": 2,
-      "7": 1
+      "7": 2
     },
     "by_first_letter": {
-      "A": 4,
+      "A": 3,
       "F": 7,
-      "L": 1,
+      "L": 2,
       "N": 4,
       "T": 4,
       "U": 1
     },
     "grid": {
       "A": {
-        "4": 2,
+        "4": 1,
         "5": 1,
         "6": 1
       },
@@ -58,7 +58,8 @@
         "6": 1
       },
       "L": {
-        "4": 1
+        "4": 1,
+        "7": 1
       },
       "N": {
         "4": 3,
@@ -74,12 +75,12 @@
       }
     },
     "two_letter_list": {
-      "AN": 3,
+      "AN": 2,
       "AU": 1,
       "FA": 2,
       "FL": 4,
       "FU": 1,
-      "LA": 1,
+      "LA": 2,
       "NA": 3,
       "NU": 1,
       "TA": 3,

@@ -1,9 +1,9 @@
 {
   "pangram": "inexact",
   "center_letter": "e",
-  "num_answers": 45,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 205,
+  "possible_points": 211,
   "answer_pangrams": [
     "inexact"
   ],
@@ -41,6 +41,7 @@
     "innate",
     "intent",
     "neat",
+    "neaten",
     "nene",
     "next",
     "nice",
@@ -59,7 +60,7 @@
     "by_length": {
       "4": 16,
       "5": 7,
-      "6": 11,
+      "6": 12,
       "7": 7,
       "8": 4
     },
@@ -68,7 +69,7 @@
       "C": 6,
       "E": 11,
       "I": 6,
-      "N": 7,
+      "N": 8,
       "T": 6
     },
     "grid": {
@@ -100,6 +101,7 @@
       "N": {
         "4": 5,
         "5": 1,
+        "6": 1,
         "8": 1
       },
       "T": {
@@ -118,7 +120,7 @@
       "EN": 3,
       "EX": 7,
       "IN": 6,
-      "NE": 3,
+      "NE": 4,
       "NI": 4,
       "TE": 5,
       "TI": 1

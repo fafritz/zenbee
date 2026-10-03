@@ -1,9 +1,9 @@
 {
   "pangram": "abdomen",
   "center_letter": "b",
-  "num_answers": 60,
+  "num_answers": 61,
   "num_pangrams": 2,
-  "possible_points": 282,
+  "possible_points": 284,
   "answer_pangrams": [
     "abdomen",
     "bemoaned"
@@ -41,6 +41,7 @@
     "bemoan",
     "bemoaned",
     "bend",
+    "boba",
     "bobbed",
     "bode",
     "boded",
@@ -52,13 +53,13 @@
     "bone",
     "boned",
     "boob",
-    "boobed",
-    "booboo",
     "booed",
     "boom",
     "boomed",
     "boon",
     "dabbed",
+    "debone",
+    "deboned",
     "ebbed",
     "embed",
     "embedded",
@@ -73,17 +74,17 @@
   "date": "2029-08-25",
   "hints": {
     "by_length": {
-      "4": 19,
+      "4": 20,
       "5": 11,
-      "6": 22,
-      "7": 3,
+      "6": 21,
+      "7": 4,
       "8": 4,
       "9": 1
     },
     "by_first_letter": {
       "A": 8,
-      "B": 41,
-      "D": 1,
+      "B": 40,
+      "D": 3,
       "E": 3,
       "M": 4,
       "N": 2,
@@ -98,13 +99,14 @@
         "9": 1
       },
       "B": {
-        "4": 17,
+        "4": 18,
         "5": 4,
-        "6": 18,
+        "6": 16,
         "8": 2
       },
       "D": {
-        "6": 1
+        "6": 2,
+        "7": 1
       },
       "E": {
         "5": 2,
@@ -130,8 +132,9 @@
       "AM": 1,
       "BA": 13,
       "BE": 11,
-      "BO": 17,
+      "BO": 16,
       "DA": 1,
+      "DE": 2,
       "EB": 1,
       "EM": 2,
       "MA": 2,

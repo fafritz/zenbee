@@ -1,9 +1,9 @@
 {
   "pangram": "payment",
   "center_letter": "t",
-  "num_answers": 45,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 177,
+  "possible_points": 183,
   "answer_pangrams": [
     "payment"
   ],
@@ -27,6 +27,7 @@
     "mete",
     "natty",
     "neat",
+    "neaten",
     "pant",
     "pate",
     "patent",
@@ -59,7 +60,7 @@
     "by_length": {
       "4": 20,
       "5": 13,
-      "6": 2,
+      "6": 3,
       "7": 7,
       "8": 3
     },
@@ -67,7 +68,7 @@
       "A": 4,
       "E": 4,
       "M": 9,
-      "N": 2,
+      "N": 3,
       "P": 9,
       "T": 17
     },
@@ -88,7 +89,8 @@
       },
       "N": {
         "4": 1,
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "P": {
         "4": 4,
@@ -112,7 +114,7 @@
       "MA": 3,
       "ME": 6,
       "NA": 1,
-      "NE": 1,
+      "NE": 2,
       "PA": 5,
       "PE": 4,
       "TA": 4,

@@ -1,9 +1,9 @@
 {
   "pangram": "fancied",
   "center_letter": "a",
-  "num_answers": 62,
+  "num_answers": 63,
   "num_pangrams": 3,
-  "possible_points": 334,
+  "possible_points": 335,
   "answer_pangrams": [
     "defiance",
     "fancied",
@@ -70,13 +70,14 @@
     "inane",
     "naan",
     "naiad",
+    "naif",
     "nana",
     "niacin"
   ],
   "date": "2029-04-28",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 16,
       "5": 10,
       "6": 20,
       "7": 10,
@@ -90,7 +91,7 @@
       "E": 2,
       "F": 11,
       "I": 2,
-      "N": 4
+      "N": 5
     },
     "grid": {
       "A": {
@@ -131,7 +132,7 @@
         "5": 1
       },
       "N": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "6": 1
       }
@@ -149,7 +150,7 @@
       "FI": 4,
       "ID": 1,
       "IN": 1,
-      "NA": 3,
+      "NA": 4,
       "NI": 1
     }
   }

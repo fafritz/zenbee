@@ -1,9 +1,9 @@
 {
   "pangram": "polecat",
   "center_letter": "o",
-  "num_answers": 65,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 212,
+  "possible_points": 217,
   "answer_pangrams": [
     "polecat"
   ],
@@ -34,6 +34,7 @@
     "cope",
     "cote",
     "elope",
+    "elote",
     "laptop",
     "local",
     "locale",
@@ -78,7 +79,7 @@
   "hints": {
     "by_length": {
       "4": 37,
-      "5": 11,
+      "5": 12,
       "6": 10,
       "7": 4,
       "8": 2,
@@ -87,7 +88,7 @@
     "by_first_letter": {
       "A": 6,
       "C": 19,
-      "E": 1,
+      "E": 2,
       "L": 11,
       "O": 5,
       "P": 12,
@@ -106,7 +107,7 @@
         "9": 1
       },
       "E": {
-        "5": 1
+        "5": 2
       },
       "L": {
         "4": 5,
@@ -138,7 +139,7 @@
       "CE": 1,
       "CL": 2,
       "CO": 14,
-      "EL": 1,
+      "EL": 2,
       "LA": 1,
       "LO": 10,
       "OC": 3,

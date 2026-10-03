@@ -1,9 +1,9 @@
 {
   "pangram": "aconite",
   "center_letter": "e",
-  "num_answers": 78,
+  "num_answers": 80,
   "num_pangrams": 2,
-  "possible_points": 450,
+  "possible_points": 462,
   "answer_pangrams": [
     "aconite",
     "concatenation"
@@ -60,6 +60,7 @@
     "intention",
     "intone",
     "neat",
+    "neaten",
     "nene",
     "neocon",
     "neon",
@@ -71,6 +72,7 @@
     "nineteen",
     "nonce",
     "none",
+    "notate",
     "note",
     "notice",
     "oaten",
@@ -93,7 +95,7 @@
     "by_length": {
       "4": 20,
       "5": 12,
-      "6": 13,
+      "6": 15,
       "7": 14,
       "8": 7,
       "9": 4,
@@ -107,7 +109,7 @@
       "C": 21,
       "E": 4,
       "I": 12,
-      "N": 14,
+      "N": 16,
       "O": 6,
       "T": 8
     },
@@ -147,7 +149,7 @@
       "N": {
         "4": 7,
         "5": 2,
-        "6": 2,
+        "6": 4,
         "7": 1,
         "8": 2
       },
@@ -174,9 +176,9 @@
       "EA": 1,
       "EN": 3,
       "IN": 12,
-      "NE": 5,
+      "NE": 6,
       "NI": 5,
-      "NO": 4,
+      "NO": 5,
       "OA": 1,
       "OC": 4,
       "ON": 1,

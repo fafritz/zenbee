@@ -1,9 +1,9 @@
 {
   "pangram": "coughed",
   "center_letter": "e",
-  "num_answers": 44,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 210,
+  "possible_points": 216,
   "answer_pangrams": [
     "coughed"
   ],
@@ -25,10 +25,11 @@
     "deed",
     "deeded",
     "deuce",
+    "deuced",
     "dodge",
     "dodged",
+    "doge",
     "dogged",
-    "douche",
     "douched",
     "dude",
     "duded",
@@ -36,6 +37,7 @@
     "echoed",
     "edge",
     "edged",
+    "educe",
     "egged",
     "geed",
     "geode",
@@ -56,16 +58,16 @@
   "date": "2035-05-14",
   "hints": {
     "by_length": {
-      "4": 12,
-      "5": 11,
+      "4": 13,
+      "5": 12,
       "6": 13,
       "7": 6,
       "8": 2
     },
     "by_first_letter": {
       "C": 10,
-      "D": 14,
-      "E": 5,
+      "D": 15,
+      "E": 6,
       "G": 4,
       "H": 11
     },
@@ -76,14 +78,14 @@
         "7": 3
       },
       "D": {
-        "4": 2,
+        "4": 3,
         "5": 3,
         "6": 6,
         "7": 3
       },
       "E": {
         "4": 2,
-        "5": 2,
+        "5": 3,
         "6": 1
       },
       "G": {
@@ -103,11 +105,11 @@
       "CH": 1,
       "CO": 6,
       "CU": 1,
-      "DE": 7,
+      "DE": 8,
       "DO": 5,
       "DU": 2,
       "EC": 2,
-      "ED": 2,
+      "ED": 3,
       "EG": 1,
       "GE": 2,
       "GO": 2,

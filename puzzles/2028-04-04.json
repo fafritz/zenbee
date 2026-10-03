@@ -1,16 +1,15 @@
 {
   "pangram": "impound",
   "center_letter": "p",
-  "num_answers": 18,
+  "num_answers": 17,
   "num_pangrams": 1,
-  "possible_points": 73,
+  "possible_points": 72,
   "answer_pangrams": [
     "impound"
   ],
   "answers": [
     "dump",
     "impound",
-    "ipod",
     "opinion",
     "opioid",
     "opium",
@@ -30,14 +29,14 @@
   "date": "2028-04-04",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 7,
       "5": 4,
       "6": 4,
       "7": 2
     },
     "by_first_letter": {
       "D": 1,
-      "I": 2,
+      "I": 1,
       "O": 3,
       "P": 10,
       "U": 2
@@ -47,7 +46,6 @@
         "4": 1
       },
       "I": {
-        "4": 1,
         "7": 1
       },
       "O": {
@@ -68,7 +66,6 @@
     "two_letter_list": {
       "DU": 1,
       "IM": 1,
-      "IP": 1,
       "OP": 3,
       "PI": 4,
       "PO": 5,

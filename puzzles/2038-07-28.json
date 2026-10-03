@@ -1,9 +1,9 @@
 {
   "pangram": "blunted",
   "center_letter": "d",
-  "num_answers": 70,
+  "num_answers": 74,
   "num_pangrams": 1,
-  "possible_points": 354,
+  "possible_points": 373,
   "answer_pangrams": [
     "blunted"
   ],
@@ -21,6 +21,7 @@
     "blunted",
     "bubbled",
     "budded",
+    "bulbed",
     "bulled",
     "bundle",
     "bundled",
@@ -40,6 +41,7 @@
     "dented",
     "denude",
     "denuded",
+    "detent",
     "detente",
     "dubbed",
     "dude",
@@ -52,12 +54,13 @@
     "dune",
     "dunned",
     "ebbed",
+    "eeled",
     "elude",
     "eluded",
     "ended",
-    "endue",
     "endued",
     "etude",
+    "lede",
     "lend",
     "lubed",
     "lulled",
@@ -72,6 +75,7 @@
     "tend",
     "tended",
     "tented",
+    "tubbed",
     "tubed",
     "tuned",
     "tunneled",
@@ -82,32 +86,32 @@
   "date": "2038-07-28",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 16,
       "5": 14,
-      "6": 27,
+      "6": 30,
       "7": 12,
       "8": 2
     },
     "by_first_letter": {
-      "B": 18,
-      "D": 25,
+      "B": 19,
+      "D": 26,
       "E": 7,
-      "L": 3,
+      "L": 4,
       "N": 7,
-      "T": 7,
+      "T": 8,
       "U": 3
     },
     "grid": {
       "B": {
         "4": 2,
         "5": 3,
-        "6": 8,
+        "6": 9,
         "7": 5
       },
       "D": {
         "4": 9,
         "5": 2,
-        "6": 9,
+        "6": 10,
         "7": 5
       },
       "E": {
@@ -115,7 +119,7 @@
         "6": 2
       },
       "L": {
-        "4": 1,
+        "4": 2,
         "5": 1,
         "6": 1
       },
@@ -127,7 +131,7 @@
       "T": {
         "4": 2,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "8": 1
       },
       "U": {
@@ -139,19 +143,20 @@
     "two_letter_list": {
       "BE": 5,
       "BL": 6,
-      "BU": 7,
-      "DE": 15,
+      "BU": 8,
+      "DE": 16,
       "DU": 10,
       "EB": 1,
+      "EE": 1,
       "EL": 2,
-      "EN": 3,
+      "EN": 2,
       "ET": 1,
-      "LE": 1,
+      "LE": 2,
       "LU": 2,
       "NE": 6,
       "NU": 1,
       "TE": 4,
-      "TU": 3,
+      "TU": 4,
       "UN": 3
     }
   }

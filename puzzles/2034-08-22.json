@@ -1,9 +1,9 @@
 {
   "pangram": "default",
   "center_letter": "a",
-  "num_answers": 69,
+  "num_answers": 72,
   "num_pangrams": 3,
-  "possible_points": 340,
+  "possible_points": 358,
   "answer_pangrams": [
     "default",
     "defaulted",
@@ -17,6 +17,7 @@
     "adulated",
     "adult",
     "alfalfa",
+    "allele",
     "allude",
     "alluded",
     "dale",
@@ -39,6 +40,7 @@
     "elated",
     "fade",
     "faded",
+    "falafel",
     "fall",
     "fatal",
     "fate",
@@ -47,6 +49,7 @@
     "fault",
     "faulted",
     "feat",
+    "fella",
     "feta",
     "fetal",
     "feudal",
@@ -84,18 +87,18 @@
   "hints": {
     "by_length": {
       "4": 23,
-      "5": 14,
-      "6": 11,
-      "7": 12,
+      "5": 15,
+      "6": 12,
+      "7": 13,
       "8": 6,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 10,
       "D": 16,
       "E": 2,
-      "F": 17,
+      "F": 19,
       "L": 13,
       "T": 10,
       "U": 2
@@ -103,7 +106,7 @@
     "grid": {
       "A": {
         "5": 3,
-        "6": 2,
+        "6": 3,
         "7": 3,
         "8": 1
       },
@@ -121,9 +124,9 @@
       },
       "F": {
         "4": 7,
-        "5": 5,
+        "5": 6,
         "6": 1,
-        "7": 3,
+        "7": 4,
         "8": 1
       },
       "L": {
@@ -147,13 +150,13 @@
     },
     "two_letter_list": {
       "AD": 6,
-      "AL": 3,
+      "AL": 4,
       "DA": 4,
       "DE": 11,
       "DU": 1,
       "EL": 2,
-      "FA": 9,
-      "FE": 4,
+      "FA": 10,
+      "FE": 5,
       "FL": 4,
       "LA": 6,
       "LE": 6,

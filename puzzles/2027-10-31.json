@@ -1,9 +1,9 @@
 {
   "pangram": "valuing",
   "center_letter": "i",
-  "num_answers": 53,
+  "num_answers": 57,
   "num_pangrams": 2,
-  "possible_points": 336,
+  "possible_points": 359,
   "answer_pangrams": [
     "unavailing",
     "valuing"
@@ -40,12 +40,16 @@
     "gunning",
     "iguana",
     "inning",
+    "inulin",
     "lagging",
     "lain",
+    "lanai",
+    "lignin",
     "lingual",
     "lining",
     "living",
     "lugging",
+    "luging",
     "lulling",
     "lunging",
     "nagging",
@@ -67,8 +71,8 @@
   "hints": {
     "by_length": {
       "4": 6,
-      "5": 8,
-      "6": 8,
+      "5": 9,
+      "6": 11,
       "7": 23,
       "8": 6,
       "9": 1,
@@ -77,8 +81,8 @@
     "by_first_letter": {
       "A": 13,
       "G": 16,
-      "I": 2,
-      "L": 8,
+      "I": 3,
+      "L": 11,
       "N": 4,
       "U": 1,
       "V": 9
@@ -98,11 +102,12 @@
         "8": 2
       },
       "I": {
-        "6": 2
+        "6": 3
       },
       "L": {
         "4": 1,
-        "6": 2,
+        "5": 1,
+        "6": 4,
         "7": 5
       },
       "N": {
@@ -130,10 +135,10 @@
       "GL": 1,
       "GU": 2,
       "IG": 1,
-      "IN": 1,
-      "LA": 2,
-      "LI": 3,
-      "LU": 3,
+      "IN": 2,
+      "LA": 3,
+      "LI": 4,
+      "LU": 4,
       "NA": 3,
       "NI": 1,
       "UN": 1,
