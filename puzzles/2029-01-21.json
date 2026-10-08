@@ -1,9 +1,9 @@
 {
   "pangram": "minuted",
   "center_letter": "i",
-  "num_answers": 77,
+  "num_answers": 79,
   "num_pangrams": 2,
-  "possible_points": 376,
+  "possible_points": 389,
   "answer_pangrams": [
     "minuted",
     "mutinied"
@@ -61,6 +61,7 @@
     "mite",
     "mitt",
     "mitten",
+    "mittened",
     "muddied",
     "mutinied",
     "nine",
@@ -74,6 +75,7 @@
     "timed",
     "timid",
     "tine",
+    "tined",
     "tinned",
     "tint",
     "tinted",
@@ -91,10 +93,10 @@
   "hints": {
     "by_length": {
       "4": 23,
-      "5": 13,
+      "5": 14,
       "6": 25,
       "7": 7,
-      "8": 7,
+      "8": 8,
       "9": 1,
       "10": 1
     },
@@ -102,9 +104,9 @@
       "D": 13,
       "E": 7,
       "I": 11,
-      "M": 23,
+      "M": 24,
       "N": 2,
-      "T": 13,
+      "T": 14,
       "U": 8
     },
     "grid": {
@@ -130,7 +132,7 @@
         "5": 3,
         "6": 6,
         "7": 4,
-        "8": 1,
+        "8": 2,
         "9": 1
       },
       "N": {
@@ -139,7 +141,7 @@
       },
       "T": {
         "4": 5,
-        "5": 4,
+        "5": 5,
         "6": 4
       },
       "U": {
@@ -160,11 +162,11 @@
       "IN": 8,
       "IT": 1,
       "ME": 1,
-      "MI": 20,
+      "MI": 21,
       "MU": 2,
       "NI": 2,
       "TE": 1,
-      "TI": 11,
+      "TI": 12,
       "TU": 1,
       "UN": 8
     }

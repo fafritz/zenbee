@@ -1,9 +1,9 @@
 {
   "pangram": "jumbled",
   "center_letter": "e",
-  "num_answers": 61,
+  "num_answers": 62,
   "num_pangrams": 1,
-  "possible_points": 308,
+  "possible_points": 314,
   "answer_pangrams": [
     "jumbled"
   ],
@@ -40,6 +40,7 @@
     "dueled",
     "dulled",
     "dumbbell",
+    "dumbed",
     "ebbed",
     "eeled",
     "elude",
@@ -75,14 +76,14 @@
     "by_length": {
       "4": 14,
       "5": 11,
-      "6": 25,
+      "6": 26,
       "7": 7,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
       "B": 18,
-      "D": 14,
+      "D": 15,
       "E": 7,
       "J": 5,
       "L": 4,
@@ -101,7 +102,7 @@
       "D": {
         "4": 5,
         "5": 1,
-        "6": 6,
+        "6": 7,
         "7": 1,
         "8": 1
       },
@@ -135,7 +136,7 @@
       "BL": 5,
       "BU": 9,
       "DE": 7,
-      "DU": 7,
+      "DU": 8,
       "EB": 1,
       "EE": 1,
       "EL": 2,

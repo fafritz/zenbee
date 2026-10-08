@@ -1,9 +1,9 @@
 {
   "pangram": "doublet",
   "center_letter": "u",
-  "num_answers": 53,
+  "num_answers": 54,
   "num_pangrams": 1,
-  "possible_points": 240,
+  "possible_points": 248,
   "answer_pangrams": [
     "doublet"
   ],
@@ -21,6 +21,7 @@
     "bull",
     "bulled",
     "bullet",
+    "bulleted",
     "butte",
     "butted",
     "debut",
@@ -69,11 +70,11 @@
       "5": 12,
       "6": 16,
       "7": 6,
-      "8": 1,
+      "8": 2,
       "10": 1
     },
     "by_first_letter": {
-      "B": 15,
+      "B": 16,
       "D": 17,
       "E": 3,
       "L": 8,
@@ -86,7 +87,7 @@
         "5": 2,
         "6": 6,
         "7": 1,
-        "8": 1,
+        "8": 2,
         "10": 1
       },
       "D": {
@@ -117,7 +118,7 @@
     "two_letter_list": {
       "BL": 4,
       "BO": 1,
-      "BU": 10,
+      "BU": 11,
       "DE": 4,
       "DO": 5,
       "DU": 8,

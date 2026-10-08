@@ -1,9 +1,9 @@
 {
   "pangram": "upright",
   "center_letter": "t",
-  "num_answers": 16,
+  "num_answers": 17,
   "num_pangrams": 1,
-  "possible_points": 59,
+  "possible_points": 60,
   "answer_pangrams": [
     "upright"
   ],
@@ -19,6 +19,7 @@
     "thigh",
     "thug",
     "tight",
+    "tipi",
     "trip",
     "truth",
     "tutu",
@@ -28,7 +29,7 @@
   "date": "2039-01-03",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 9,
       "5": 6,
       "7": 2
     },
@@ -37,7 +38,7 @@
       "H": 1,
       "P": 3,
       "R": 1,
-      "T": 6,
+      "T": 7,
       "U": 2
     },
     "grid": {
@@ -56,7 +57,7 @@
         "5": 1
       },
       "T": {
-        "4": 3,
+        "4": 4,
         "5": 3
       },
       "U": {
@@ -71,7 +72,7 @@
       "PU": 1,
       "RI": 1,
       "TH": 2,
-      "TI": 1,
+      "TI": 2,
       "TR": 2,
       "TU": 1,
       "UP": 2

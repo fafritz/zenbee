@@ -1,9 +1,9 @@
 {
   "pangram": "blanked",
   "center_letter": "k",
-  "num_answers": 36,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 148,
+  "possible_points": 154,
   "answer_pangrams": [
     "blanked"
   ],
@@ -16,6 +16,7 @@
     "bank",
     "banked",
     "beak",
+    "beaked",
     "blank",
     "blanked",
     "bleak",
@@ -50,13 +51,13 @@
     "by_length": {
       "4": 14,
       "5": 10,
-      "6": 8,
+      "6": 9,
       "7": 3,
       "8": 1
     },
     "by_first_letter": {
       "A": 1,
-      "B": 10,
+      "B": 11,
       "D": 1,
       "E": 1,
       "K": 17,
@@ -70,7 +71,7 @@
       "B": {
         "4": 4,
         "5": 3,
-        "6": 2,
+        "6": 3,
         "7": 1
       },
       "D": {
@@ -97,7 +98,7 @@
     "two_letter_list": {
       "AN": 1,
       "BA": 6,
-      "BE": 1,
+      "BE": 2,
       "BL": 3,
       "DA": 1,
       "EK": 1,

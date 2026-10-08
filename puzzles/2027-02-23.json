@@ -1,9 +1,9 @@
 {
   "pangram": "guilted",
   "center_letter": "l",
-  "num_answers": 79,
+  "num_answers": 81,
   "num_pangrams": 1,
-  "possible_points": 336,
+  "possible_points": 343,
   "answer_pangrams": [
     "guilted"
   ],
@@ -35,11 +35,13 @@
     "gelded",
     "gelid",
     "gelled",
+    "gelt",
     "giggle",
     "giggled",
     "gild",
     "gilded",
     "gill",
+    "gilled",
     "gilt",
     "glee",
     "glide",
@@ -91,15 +93,15 @@
   "date": "2027-02-23",
   "hints": {
     "by_length": {
-      "4": 27,
+      "4": 28,
       "5": 18,
-      "6": 26,
+      "6": 27,
       "7": 8
     },
     "by_first_letter": {
       "D": 17,
       "E": 6,
-      "G": 24,
+      "G": 26,
       "I": 2,
       "L": 18,
       "T": 12
@@ -115,9 +117,9 @@
         "6": 2
       },
       "G": {
-        "4": 8,
+        "4": 9,
         "5": 6,
-        "6": 7,
+        "6": 8,
         "7": 3
       },
       "I": {
@@ -141,8 +143,8 @@
       "DU": 4,
       "EE": 1,
       "EL": 5,
-      "GE": 4,
-      "GI": 6,
+      "GE": 5,
+      "GI": 7,
       "GL": 7,
       "GU": 7,
       "ID": 2,

@@ -1,0 +1,109 @@
+{
+  "pangram": "toughed",
+  "center_letter": "t",
+  "num_answers": 39,
+  "num_pangrams": 1,
+  "possible_points": 171,
+  "answer_pangrams": [
+    "toughed"
+  ],
+  "answers": [
+    "dote",
+    "doted",
+    "dotted",
+    "duet",
+    "dugout",
+    "etude",
+    "ghetto",
+    "gout",
+    "gutted",
+    "hoot",
+    "hooted",
+    "ought",
+    "outdo",
+    "outed",
+    "outgo",
+    "teed",
+    "teeth",
+    "teethe",
+    "teethed",
+    "thee",
+    "though",
+    "thought",
+    "thud",
+    "thudded",
+    "thug",
+    "toed",
+    "toot",
+    "tooted",
+    "tooth",
+    "toothed",
+    "tote",
+    "toted",
+    "totted",
+    "tough",
+    "toughed",
+    "tout",
+    "touted",
+    "tugged",
+    "tutu"
+  ],
+  "date": "2039-03-12",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 10,
+      "6": 11,
+      "7": 5
+    },
+    "by_first_letter": {
+      "D": 5,
+      "E": 1,
+      "G": 3,
+      "H": 2,
+      "O": 4,
+      "T": 24
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "E": {
+        "5": 1
+      },
+      "G": {
+        "4": 1,
+        "6": 2
+      },
+      "H": {
+        "4": 1,
+        "6": 1
+      },
+      "O": {
+        "5": 4
+      },
+      "T": {
+        "4": 9,
+        "5": 4,
+        "6": 6,
+        "7": 5
+      }
+    },
+    "two_letter_list": {
+      "DO": 3,
+      "DU": 2,
+      "ET": 1,
+      "GH": 1,
+      "GO": 1,
+      "GU": 1,
+      "HO": 2,
+      "OU": 4,
+      "TE": 4,
+      "TH": 6,
+      "TO": 12,
+      "TU": 2
+    }
+  }
+}

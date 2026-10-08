@@ -1,9 +1,9 @@
 {
   "pangram": "blunted",
   "center_letter": "d",
-  "num_answers": 74,
+  "num_answers": 75,
   "num_pangrams": 1,
-  "possible_points": 373,
+  "possible_points": 381,
   "answer_pangrams": [
     "blunted"
   ],
@@ -23,6 +23,7 @@
     "budded",
     "bulbed",
     "bulled",
+    "bulleted",
     "bundle",
     "bundled",
     "bunted",
@@ -90,10 +91,10 @@
       "5": 14,
       "6": 30,
       "7": 12,
-      "8": 2
+      "8": 3
     },
     "by_first_letter": {
-      "B": 19,
+      "B": 20,
       "D": 26,
       "E": 7,
       "L": 4,
@@ -106,7 +107,8 @@
         "4": 2,
         "5": 3,
         "6": 9,
-        "7": 5
+        "7": 5,
+        "8": 1
       },
       "D": {
         "4": 9,
@@ -143,7 +145,7 @@
     "two_letter_list": {
       "BE": 5,
       "BL": 6,
-      "BU": 8,
+      "BU": 9,
       "DE": 16,
       "DU": 10,
       "EB": 1,

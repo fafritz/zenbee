@@ -1,9 +1,9 @@
 {
   "pangram": "baptize",
   "center_letter": "e",
-  "num_answers": 22,
+  "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 64,
+  "possible_points": 70,
   "answer_pangrams": [
     "baptize"
   ],
@@ -27,6 +27,7 @@
     "petite",
     "pipe",
     "tape",
+    "teepee",
     "tepee",
     "tibiae",
     "zeta"
@@ -36,7 +37,7 @@
     "by_length": {
       "4": 15,
       "5": 3,
-      "6": 2,
+      "6": 3,
       "7": 1,
       "8": 1
     },
@@ -45,7 +46,7 @@
       "B": 8,
       "E": 1,
       "P": 5,
-      "T": 3,
+      "T": 4,
       "Z": 1
     },
     "grid": {
@@ -69,7 +70,7 @@
       "T": {
         "4": 1,
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "Z": {
         "4": 1
@@ -86,7 +87,7 @@
       "PE": 3,
       "PI": 1,
       "TA": 1,
-      "TE": 1,
+      "TE": 2,
       "TI": 1,
       "ZE": 1
     }

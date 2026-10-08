@@ -1,9 +1,9 @@
 {
   "pangram": "climbed",
   "center_letter": "d",
-  "num_answers": 61,
+  "num_answers": 62,
   "num_pangrams": 1,
-  "possible_points": 287,
+  "possible_points": 293,
   "answer_pangrams": [
     "climbed"
   ],
@@ -59,6 +59,7 @@
     "libeled",
     "lidded",
     "lied",
+    "limbed",
     "limed",
     "meddle",
     "meddled",
@@ -75,7 +76,7 @@
     "by_length": {
       "4": 17,
       "5": 12,
-      "6": 22,
+      "6": 23,
       "7": 9,
       "8": 1
     },
@@ -85,7 +86,7 @@
       "D": 22,
       "E": 9,
       "I": 5,
-      "L": 5,
+      "L": 6,
       "M": 9
     },
     "grid": {
@@ -120,7 +121,7 @@
       "L": {
         "4": 2,
         "5": 1,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "M": {
@@ -148,7 +149,7 @@
       "ID": 2,
       "IM": 1,
       "LE": 1,
-      "LI": 4,
+      "LI": 5,
       "ME": 5,
       "MI": 4
     }

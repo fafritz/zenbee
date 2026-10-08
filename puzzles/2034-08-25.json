@@ -1,9 +1,9 @@
 {
   "pangram": "plumbed",
   "center_letter": "b",
-  "num_answers": 42,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 220,
+  "possible_points": 226,
   "answer_pangrams": [
     "plumbed"
   ],
@@ -37,6 +37,7 @@
     "dubbed",
     "dumb",
     "dumbbell",
+    "dumbed",
     "ebbed",
     "embed",
     "embedded",
@@ -56,14 +57,14 @@
     "by_length": {
       "4": 9,
       "5": 9,
-      "6": 14,
+      "6": 15,
       "7": 6,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
       "B": 26,
-      "D": 3,
+      "D": 4,
       "E": 4,
       "L": 2,
       "M": 2,
@@ -81,7 +82,7 @@
       },
       "D": {
         "4": 1,
-        "6": 1,
+        "6": 2,
         "8": 1
       },
       "E": {
@@ -110,7 +111,7 @@
       "BE": 6,
       "BL": 7,
       "BU": 13,
-      "DU": 3,
+      "DU": 4,
       "EB": 1,
       "EM": 3,
       "LU": 2,

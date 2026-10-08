@@ -1,9 +1,9 @@
 {
   "pangram": "jounced",
   "center_letter": "u",
-  "num_answers": 29,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 156,
+  "possible_points": 162,
   "answer_pangrams": [
     "jounced"
   ],
@@ -24,6 +24,7 @@
     "dune",
     "dunned",
     "educe",
+    "educed",
     "endued",
     "jejune",
     "jocund",
@@ -43,7 +44,7 @@
     "by_length": {
       "4": 6,
       "5": 7,
-      "6": 9,
+      "6": 10,
       "7": 3,
       "8": 3,
       "9": 1
@@ -51,7 +52,7 @@
     "by_first_letter": {
       "C": 2,
       "D": 13,
-      "E": 2,
+      "E": 3,
       "J": 6,
       "N": 1,
       "O": 1,
@@ -72,7 +73,7 @@
       },
       "E": {
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "J": {
         "4": 1,
@@ -98,7 +99,7 @@
       "CU": 1,
       "DE": 8,
       "DU": 5,
-      "ED": 1,
+      "ED": 2,
       "EN": 1,
       "JE": 1,
       "JO": 3,

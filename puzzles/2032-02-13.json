@@ -1,9 +1,9 @@
 {
   "pangram": "molting",
   "center_letter": "o",
-  "num_answers": 76,
+  "num_answers": 77,
   "num_pangrams": 2,
-  "possible_points": 366,
+  "possible_points": 374,
   "answer_pangrams": [
     "molting",
     "mottling"
@@ -11,6 +11,7 @@
   "answers": [
     "gigolo",
     "gloom",
+    "glooming",
     "goggling",
     "going",
     "gong",
@@ -93,11 +94,11 @@
       "5": 9,
       "6": 12,
       "7": 18,
-      "8": 8,
+      "8": 9,
       "9": 2
     },
     "by_first_letter": {
-      "G": 8,
+      "G": 9,
       "I": 5,
       "L": 18,
       "M": 16,
@@ -111,7 +112,7 @@
         "5": 2,
         "6": 1,
         "7": 1,
-        "8": 2
+        "8": 3
       },
       "I": {
         "4": 1,
@@ -153,7 +154,7 @@
     },
     "two_letter_list": {
       "GI": 1,
-      "GL": 1,
+      "GL": 2,
       "GO": 6,
       "IG": 2,
       "IN": 3,

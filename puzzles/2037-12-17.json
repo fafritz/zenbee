@@ -1,9 +1,9 @@
 {
   "pangram": "caulked",
   "center_letter": "u",
-  "num_answers": 45,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 207,
+  "possible_points": 213,
   "answer_pangrams": [
     "caulked"
   ],
@@ -42,6 +42,7 @@
     "dull",
     "dulled",
     "educe",
+    "educed",
     "elude",
     "eluded",
     "laud",
@@ -59,14 +60,14 @@
     "by_length": {
       "4": 14,
       "5": 8,
-      "6": 15,
+      "6": 16,
       "7": 8
     },
     "by_first_letter": {
       "A": 4,
       "C": 12,
       "D": 17,
-      "E": 3,
+      "E": 4,
       "L": 8,
       "U": 1
     },
@@ -89,7 +90,7 @@
       },
       "E": {
         "5": 2,
-        "6": 1
+        "6": 2
       },
       "L": {
         "4": 5,
@@ -107,7 +108,7 @@
       "CU": 5,
       "DE": 6,
       "DU": 11,
-      "ED": 1,
+      "ED": 2,
       "EL": 2,
       "LA": 2,
       "LU": 6,

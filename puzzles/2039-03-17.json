@@ -1,0 +1,68 @@
+{
+  "pangram": "chunked",
+  "center_letter": "h",
+  "num_answers": 17,
+  "num_pangrams": 2,
+  "possible_points": 105,
+  "answer_pangrams": [
+    "chunked",
+    "unchecked"
+  ],
+  "answers": [
+    "check",
+    "checked",
+    "cheek",
+    "cheeked",
+    "chuck",
+    "chucked",
+    "chunk",
+    "chunked",
+    "heck",
+    "heed",
+    "heeded",
+    "hence",
+    "hunch",
+    "hunched",
+    "hunk",
+    "unchecked",
+    "unheeded"
+  ],
+  "date": "2039-03-17",
+  "hints": {
+    "by_length": {
+      "4": 3,
+      "5": 6,
+      "6": 1,
+      "7": 5,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 8,
+      "H": 7,
+      "U": 2
+    },
+    "grid": {
+      "C": {
+        "5": 4,
+        "7": 4
+      },
+      "H": {
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "U": {
+        "8": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 8,
+      "HE": 4,
+      "HU": 3,
+      "UN": 2
+    }
+  }
+}

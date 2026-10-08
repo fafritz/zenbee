@@ -1,0 +1,111 @@
+{
+  "pangram": "humping",
+  "center_letter": "g",
+  "num_answers": 35,
+  "num_pangrams": 1,
+  "possible_points": 228,
+  "answer_pangrams": [
+    "humping"
+  ],
+  "answers": [
+    "gigging",
+    "ginning",
+    "gumming",
+    "gunning",
+    "high",
+    "hinging",
+    "hipping",
+    "hugging",
+    "humming",
+    "humping",
+    "hung",
+    "impinging",
+    "impugn",
+    "impugning",
+    "inning",
+    "miming",
+    "mining",
+    "mugging",
+    "nigh",
+    "nipping",
+    "pigging",
+    "pimping",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "piping",
+    "pipping",
+    "pumping",
+    "punning",
+    "pupping",
+    "umping",
+    "unhinging",
+    "unpinning",
+    "upping"
+  ],
+  "date": "2039-04-04",
+  "hints": {
+    "by_length": {
+      "4": 4,
+      "6": 8,
+      "7": 19,
+      "9": 4
+    },
+    "by_first_letter": {
+      "G": 4,
+      "H": 7,
+      "I": 4,
+      "M": 3,
+      "N": 2,
+      "P": 11,
+      "U": 4
+    },
+    "grid": {
+      "G": {
+        "7": 4
+      },
+      "H": {
+        "4": 2,
+        "7": 5
+      },
+      "I": {
+        "6": 2,
+        "9": 2
+      },
+      "M": {
+        "6": 2,
+        "7": 1
+      },
+      "N": {
+        "4": 1,
+        "7": 1
+      },
+      "P": {
+        "4": 1,
+        "6": 2,
+        "7": 8
+      },
+      "U": {
+        "6": 2,
+        "9": 2
+      }
+    },
+    "two_letter_list": {
+      "GI": 2,
+      "GU": 2,
+      "HI": 3,
+      "HU": 4,
+      "IM": 3,
+      "IN": 1,
+      "MI": 2,
+      "MU": 1,
+      "NI": 2,
+      "PI": 8,
+      "PU": 3,
+      "UM": 1,
+      "UN": 2,
+      "UP": 1
+    }
+  }
+}

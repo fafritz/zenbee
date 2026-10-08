@@ -1,9 +1,9 @@
 {
   "pangram": "meowing",
   "center_letter": "g",
-  "num_answers": 40,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 224,
+  "possible_points": 231,
   "answer_pangrams": [
     "meowing"
   ],
@@ -43,6 +43,7 @@
     "wigging",
     "wing",
     "winging",
+    "wingmen",
     "wining",
     "winning",
     "winnowing",
@@ -55,7 +56,7 @@
       "4": 6,
       "5": 6,
       "6": 17,
-      "7": 10,
+      "7": 11,
       "9": 1
     },
     "by_first_letter": {
@@ -65,7 +66,7 @@
       "M": 7,
       "N": 1,
       "O": 3,
-      "W": 10
+      "W": 11
     },
     "grid": {
       "E": {
@@ -95,7 +96,7 @@
       "W": {
         "4": 1,
         "6": 5,
-        "7": 3,
+        "7": 4,
         "9": 1
       }
     },
@@ -114,7 +115,7 @@
       "ON": 1,
       "OW": 2,
       "WE": 1,
-      "WI": 7,
+      "WI": 8,
       "WO": 2
     }
   }

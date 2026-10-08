@@ -1,9 +1,9 @@
 {
   "pangram": "plunged",
   "center_letter": "l",
-  "num_answers": 60,
+  "num_answers": 61,
   "num_pangrams": 2,
-  "possible_points": 280,
+  "possible_points": 281,
   "answer_pangrams": [
     "plunged",
     "unplugged"
@@ -53,6 +53,7 @@
     "peddled",
     "peel",
     "peeled",
+    "pled",
     "pledge",
     "pledged",
     "plug",
@@ -73,7 +74,7 @@
   "date": "2038-06-02",
   "hints": {
     "by_length": {
-      "4": 20,
+      "4": 21,
       "5": 6,
       "6": 24,
       "7": 9,
@@ -85,7 +86,7 @@
       "G": 11,
       "L": 14,
       "N": 3,
-      "P": 16,
+      "P": 17,
       "U": 4
     },
     "grid": {
@@ -114,7 +115,7 @@
         "7": 1
       },
       "P": {
-        "4": 4,
+        "4": 5,
         "6": 7,
         "7": 5
       },
@@ -137,7 +138,7 @@
       "NE": 2,
       "NU": 1,
       "PE": 4,
-      "PL": 6,
+      "PL": 7,
       "PU": 6,
       "UN": 4
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "hepatic",
   "center_letter": "p",
-  "num_answers": 40,
+  "num_answers": 42,
   "num_pangrams": 3,
-  "possible_points": 171,
+  "possible_points": 178,
   "answer_pangrams": [
     "apathetic",
     "hepatic",
@@ -49,14 +49,16 @@
     "pitch",
     "pith",
     "tape",
-    "tepee"
+    "teepee",
+    "tepee",
+    "tipi"
   ],
   "date": "2036-05-22",
   "hints": {
     "by_length": {
-      "4": 18,
+      "4": 19,
       "5": 10,
-      "6": 6,
+      "6": 7,
       "7": 3,
       "8": 2,
       "9": 1
@@ -68,7 +70,7 @@
       "H": 3,
       "I": 1,
       "P": 20,
-      "T": 2
+      "T": 4
     },
     "grid": {
       "A": {
@@ -100,8 +102,9 @@
         "8": 1
       },
       "T": {
-        "4": 1,
-        "5": 1
+        "4": 2,
+        "5": 1,
+        "6": 1
       }
     },
     "two_letter_list": {
@@ -117,7 +120,8 @@
       "PE": 6,
       "PI": 7,
       "TA": 1,
-      "TE": 1
+      "TE": 2,
+      "TI": 1
     }
   }
 }

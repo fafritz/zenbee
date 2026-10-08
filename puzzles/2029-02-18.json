@@ -1,11 +1,12 @@
 {
   "pangram": "tabling",
   "center_letter": "l",
-  "num_answers": 73,
-  "num_pangrams": 2,
-  "possible_points": 417,
+  "num_answers": 74,
+  "num_pangrams": 3,
+  "possible_points": 432,
   "answer_pangrams": [
     "battling",
+    "blatting",
     "tabling"
   ],
   "answers": [
@@ -30,6 +31,7 @@
     "blabbing",
     "blat",
     "blatant",
+    "blatting",
     "bling",
     "gabbling",
     "gala",
@@ -90,13 +92,13 @@
       "5": 8,
       "6": 7,
       "7": 19,
-      "8": 16,
+      "8": 17,
       "10": 3,
       "11": 1
     },
     "by_first_letter": {
       "A": 7,
-      "B": 15,
+      "B": 16,
       "G": 14,
       "I": 2,
       "L": 14,
@@ -116,7 +118,7 @@
         "5": 2,
         "6": 1,
         "7": 4,
-        "8": 3
+        "8": 4
       },
       "G": {
         "4": 5,
@@ -157,7 +159,7 @@
       "AN": 1,
       "BA": 8,
       "BI": 2,
-      "BL": 5,
+      "BL": 6,
       "GA": 8,
       "GI": 3,
       "GL": 3,

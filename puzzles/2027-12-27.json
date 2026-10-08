@@ -1,9 +1,9 @@
 {
   "pangram": "patched",
   "center_letter": "t",
-  "num_answers": 64,
+  "num_answers": 65,
   "num_pangrams": 1,
-  "possible_points": 313,
+  "possible_points": 319,
   "answer_pangrams": [
     "patched"
   ],
@@ -63,6 +63,7 @@
     "teach",
     "tech",
     "teed",
+    "teepee",
     "teeth",
     "teethe",
     "teethed",
@@ -78,7 +79,7 @@
     "by_length": {
       "4": 16,
       "5": 18,
-      "6": 15,
+      "6": 16,
       "7": 10,
       "8": 5
     },
@@ -89,7 +90,7 @@
       "E": 2,
       "H": 9,
       "P": 8,
-      "T": 17
+      "T": 18
     },
     "grid": {
       "A": {
@@ -129,7 +130,7 @@
       "T": {
         "4": 6,
         "5": 5,
-        "6": 4,
+        "6": 5,
         "7": 1,
         "8": 1
       }
@@ -148,7 +149,7 @@
       "PA": 6,
       "PE": 2,
       "TA": 5,
-      "TE": 7,
+      "TE": 8,
       "TH": 5
     }
   }

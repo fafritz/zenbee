@@ -1,9 +1,9 @@
 {
   "pangram": "plunked",
   "center_letter": "p",
-  "num_answers": 40,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 179,
+  "possible_points": 180,
   "answer_pangrams": [
     "plunked"
   ],
@@ -31,6 +31,7 @@
     "penne",
     "penned",
     "pepped",
+    "pled",
     "plunk",
     "plunked",
     "puddle",
@@ -52,7 +53,7 @@
   "date": "2032-12-22",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 15,
       "5": 6,
       "6": 14,
       "7": 4,
@@ -62,7 +63,7 @@
       "D": 7,
       "E": 1,
       "K": 2,
-      "P": 26,
+      "P": 27,
       "U": 4
     },
     "grid": {
@@ -79,7 +80,7 @@
         "4": 2
       },
       "P": {
-        "4": 9,
+        "4": 10,
         "5": 3,
         "6": 11,
         "7": 3
@@ -96,7 +97,7 @@
       "EP": 1,
       "KE": 2,
       "PE": 13,
-      "PL": 2,
+      "PL": 3,
       "PU": 11,
       "UP": 4
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "audible",
   "center_letter": "a",
-  "num_answers": 72,
+  "num_answers": 73,
   "num_pangrams": 1,
-  "possible_points": 311,
+  "possible_points": 317,
   "answer_pangrams": [
     "audible"
   ],
@@ -51,6 +51,7 @@
     "blab",
     "blabbed",
     "blade",
+    "bladed",
     "dabbed",
     "dabble",
     "dabbled",
@@ -86,13 +87,13 @@
     "by_length": {
       "4": 25,
       "5": 15,
-      "6": 22,
+      "6": 23,
       "7": 8,
       "8": 2
     },
     "by_first_letter": {
       "A": 17,
-      "B": 26,
+      "B": 27,
       "D": 12,
       "I": 2,
       "L": 15
@@ -107,7 +108,7 @@
       "B": {
         "4": 11,
         "5": 4,
-        "6": 8,
+        "6": 9,
         "7": 2,
         "8": 1
       },
@@ -137,7 +138,7 @@
       "BA": 19,
       "BE": 3,
       "BI": 1,
-      "BL": 3,
+      "BL": 4,
       "DA": 7,
       "DE": 2,
       "DI": 2,

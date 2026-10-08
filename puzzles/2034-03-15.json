@@ -1,9 +1,9 @@
 {
   "pangram": "plating",
   "center_letter": "p",
-  "num_answers": 68,
+  "num_answers": 69,
   "num_pangrams": 6,
-  "possible_points": 442,
+  "possible_points": 443,
   "answer_pangrams": [
     "palliating",
     "palpating",
@@ -79,13 +79,14 @@
     "pliant",
     "taping",
     "tapping",
+    "tipi",
     "tipping",
     "tippling"
   ],
   "date": "2034-03-15",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 10,
       "6": 13,
       "7": 21,
@@ -101,7 +102,7 @@
       "L": 1,
       "N": 2,
       "P": 56,
-      "T": 4
+      "T": 5
     },
     "grid": {
       "A": {
@@ -132,6 +133,7 @@
         "11": 1
       },
       "T": {
+        "4": 1,
         "6": 1,
         "7": 2,
         "8": 1
@@ -148,7 +150,7 @@
       "PI": 18,
       "PL": 12,
       "TA": 2,
-      "TI": 2
+      "TI": 3
     }
   }
 }

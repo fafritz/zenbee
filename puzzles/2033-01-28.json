@@ -1,9 +1,9 @@
 {
   "pangram": "thumbed",
   "center_letter": "m",
-  "num_answers": 23,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 93,
+  "possible_points": 105,
   "answer_pangrams": [
     "thumbed"
   ],
@@ -12,6 +12,7 @@
     "deem",
     "deemed",
     "dumb",
+    "dumbed",
     "embed",
     "embedded",
     "heme",
@@ -29,6 +30,7 @@
     "teemed",
     "them",
     "theme",
+    "themed",
     "thumb",
     "thumbed"
   ],
@@ -37,17 +39,17 @@
     "by_length": {
       "4": 10,
       "5": 5,
-      "6": 6,
+      "6": 8,
       "7": 1,
       "8": 1
     },
     "by_first_letter": {
       "B": 1,
-      "D": 3,
+      "D": 4,
       "E": 2,
       "H": 3,
       "M": 8,
-      "T": 6
+      "T": 7
     },
     "grid": {
       "B": {
@@ -55,7 +57,7 @@
       },
       "D": {
         "4": 2,
-        "6": 1
+        "6": 2
       },
       "E": {
         "5": 1,
@@ -73,21 +75,21 @@
       "T": {
         "4": 2,
         "5": 2,
-        "6": 1,
+        "6": 2,
         "7": 1
       }
     },
     "two_letter_list": {
       "BU": 1,
       "DE": 2,
-      "DU": 1,
+      "DU": 2,
       "EM": 2,
       "HE": 2,
       "HU": 1,
       "ME": 4,
       "MU": 4,
       "TE": 2,
-      "TH": 4
+      "TH": 5
     }
   }
 }

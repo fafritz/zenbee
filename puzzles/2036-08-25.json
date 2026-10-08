@@ -1,13 +1,14 @@
 {
   "pangram": "champed",
   "center_letter": "p",
-  "num_answers": 36,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 154,
+  "possible_points": 159,
   "answer_pangrams": [
     "champed"
   ],
   "answers": [
+    "amped",
     "apace",
     "aped",
     "camp",
@@ -49,13 +50,13 @@
   "hints": {
     "by_length": {
       "4": 13,
-      "5": 9,
+      "5": 10,
       "6": 10,
       "7": 3,
       "8": 1
     },
     "by_first_letter": {
-      "A": 2,
+      "A": 3,
       "C": 12,
       "D": 5,
       "E": 1,
@@ -66,7 +67,7 @@
     "grid": {
       "A": {
         "4": 1,
-        "5": 1
+        "5": 2
       },
       "C": {
         "4": 3,
@@ -96,6 +97,7 @@
       }
     },
     "two_letter_list": {
+      "AM": 1,
       "AP": 2,
       "CA": 5,
       "CH": 7,

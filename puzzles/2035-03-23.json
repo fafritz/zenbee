@@ -1,9 +1,9 @@
 {
   "pangram": "emptily",
   "center_letter": "p",
-  "num_answers": 34,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 142,
+  "possible_points": 149,
   "answer_pangrams": [
     "emptily"
   ],
@@ -34,11 +34,13 @@
     "pipe",
     "pipit",
     "pity",
+    "teepee",
     "teletype",
     "temp",
     "temple",
     "tempt",
     "tepee",
+    "tipi",
     "tipple",
     "type",
     "yelp"
@@ -46,9 +48,9 @@
   "date": "2035-03-23",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 14,
       "5": 9,
-      "6": 8,
+      "6": 9,
       "7": 3,
       "8": 1
     },
@@ -57,7 +59,7 @@
       "I": 3,
       "L": 3,
       "P": 17,
-      "T": 7,
+      "T": 9,
       "Y": 1
     },
     "grid": {
@@ -81,9 +83,9 @@
         "7": 1
       },
       "T": {
-        "4": 2,
+        "4": 3,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "8": 1
       },
       "Y": {
@@ -97,8 +99,8 @@
       "LI": 3,
       "PE": 8,
       "PI": 9,
-      "TE": 5,
-      "TI": 1,
+      "TE": 6,
+      "TI": 2,
       "TY": 1,
       "YE": 1
     }

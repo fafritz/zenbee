@@ -1,9 +1,9 @@
 {
   "pangram": "plumbed",
   "center_letter": "p",
-  "num_answers": 44,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 202,
+  "possible_points": 203,
   "answer_pangrams": [
     "plumbed"
   ],
@@ -32,6 +32,7 @@
     "peep",
     "peeped",
     "pepped",
+    "pled",
     "plum",
     "plumb",
     "plumbed",
@@ -56,7 +57,7 @@
   "date": "2038-10-12",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 15,
       "5": 7,
       "6": 16,
       "7": 6,
@@ -67,7 +68,7 @@
       "D": 5,
       "E": 1,
       "L": 2,
-      "P": 28,
+      "P": 29,
       "U": 2
     },
     "grid": {
@@ -90,7 +91,7 @@
         "6": 1
       },
       "P": {
-        "4": 7,
+        "4": 8,
         "5": 3,
         "6": 12,
         "7": 5,
@@ -109,7 +110,7 @@
       "EP": 1,
       "LU": 2,
       "PE": 10,
-      "PL": 7,
+      "PL": 8,
       "PU": 11,
       "UM": 1,
       "UP": 1

@@ -1,10 +1,11 @@
 {
   "pangram": "craving",
   "center_letter": "v",
-  "num_answers": 18,
-  "num_pangrams": 2,
-  "possible_points": 124,
+  "num_answers": 19,
+  "num_pangrams": 3,
+  "possible_points": 142,
   "answer_pangrams": [
+    "caravanning",
     "carving",
     "craving"
   ],
@@ -12,6 +13,7 @@
     "arriving",
     "avian",
     "caravan",
+    "caravanning",
     "carving",
     "caviar",
     "caving",
@@ -35,11 +37,12 @@
       "5": 3,
       "6": 6,
       "7": 6,
-      "8": 2
+      "8": 2,
+      "11": 1
     },
     "by_first_letter": {
       "A": 2,
-      "C": 6,
+      "C": 7,
       "G": 2,
       "N": 1,
       "R": 2,
@@ -53,7 +56,8 @@
       "C": {
         "5": 1,
         "6": 2,
-        "7": 3
+        "7": 3,
+        "11": 1
       },
       "G": {
         "6": 1,
@@ -76,7 +80,7 @@
     "two_letter_list": {
       "AR": 1,
       "AV": 1,
-      "CA": 4,
+      "CA": 5,
       "CI": 1,
       "CR": 1,
       "GI": 1,

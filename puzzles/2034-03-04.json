@@ -1,9 +1,9 @@
 {
   "pangram": "molding",
   "center_letter": "m",
-  "num_answers": 36,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 171,
+  "possible_points": 179,
   "answer_pangrams": [
     "molding"
   ],
@@ -15,6 +15,7 @@
     "doom",
     "dooming",
     "gloom",
+    "glooming",
     "idiom",
     "liming",
     "limn",
@@ -52,11 +53,11 @@
       "5": 3,
       "6": 7,
       "7": 10,
-      "8": 3
+      "8": 4
     },
     "by_first_letter": {
       "D": 6,
-      "G": 1,
+      "G": 2,
       "I": 1,
       "L": 6,
       "M": 22
@@ -69,7 +70,8 @@
         "8": 1
       },
       "G": {
-        "5": 1
+        "5": 1,
+        "8": 1
       },
       "I": {
         "5": 1
@@ -90,7 +92,7 @@
     "two_letter_list": {
       "DI": 1,
       "DO": 5,
-      "GL": 1,
+      "GL": 2,
       "ID": 1,
       "LI": 4,
       "LO": 2,

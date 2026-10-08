@@ -1,9 +1,9 @@
 {
   "pangram": "exploit",
   "center_letter": "i",
-  "num_answers": 33,
+  "num_answers": 34,
   "num_pangrams": 1,
-  "possible_points": 149,
+  "possible_points": 150,
   "answer_pangrams": [
     "exploit"
   ],
@@ -33,6 +33,7 @@
     "tile",
     "till",
     "tilt",
+    "tipi",
     "tipple",
     "tiptoe",
     "tiptop",
@@ -45,7 +46,7 @@
   "date": "2034-03-18",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 8,
       "6": 9,
       "7": 3,
@@ -56,7 +57,7 @@
       "L": 4,
       "O": 1,
       "P": 12,
-      "T": 12
+      "T": 13
     },
     "grid": {
       "E": {
@@ -79,7 +80,7 @@
         "7": 1
       },
       "T": {
-        "4": 4,
+        "4": 5,
         "5": 1,
         "6": 5,
         "7": 1,
@@ -96,7 +97,7 @@
       "PI": 7,
       "PO": 3,
       "TE": 1,
-      "TI": 8,
+      "TI": 9,
       "TO": 3
     }
   }

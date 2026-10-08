@@ -1,9 +1,9 @@
 {
   "pangram": "tacking",
   "center_letter": "g",
-  "num_answers": 52,
+  "num_answers": 53,
   "num_pangrams": 2,
-  "possible_points": 329,
+  "possible_points": 336,
   "answer_pangrams": [
     "attacking",
     "tacking"
@@ -59,6 +59,7 @@
     "tanning",
     "tatting",
     "ticking",
+    "tinging",
     "tinning",
     "tinting"
   ],
@@ -68,7 +69,7 @@
       "4": 7,
       "5": 5,
       "6": 11,
-      "7": 20,
+      "7": 21,
       "8": 5,
       "9": 3,
       "10": 1
@@ -80,7 +81,7 @@
       "I": 6,
       "K": 5,
       "N": 2,
-      "T": 11
+      "T": 12
     },
     "grid": {
       "A": {
@@ -117,7 +118,7 @@
       "T": {
         "4": 1,
         "6": 1,
-        "7": 8,
+        "7": 9,
         "8": 1
       }
     },
@@ -139,7 +140,7 @@
       "NA": 1,
       "NI": 1,
       "TA": 8,
-      "TI": 3
+      "TI": 4
     }
   }
 }

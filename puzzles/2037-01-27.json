@@ -1,9 +1,9 @@
 {
   "pangram": "flatbed",
   "center_letter": "t",
-  "num_answers": 80,
+  "num_answers": 81,
   "num_pangrams": 1,
-  "possible_points": 387,
+  "possible_points": 394,
   "answer_pangrams": [
     "flatbed"
   ],
@@ -27,6 +27,7 @@
     "belted",
     "beta",
     "blat",
+    "blatted",
     "bleat",
     "bleated",
     "data",
@@ -95,14 +96,14 @@
       "4": 24,
       "5": 15,
       "6": 18,
-      "7": 15,
+      "7": 16,
       "8": 5,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 5,
-      "B": 16,
+      "B": 17,
       "D": 17,
       "E": 4,
       "F": 18,
@@ -120,7 +121,7 @@
         "4": 5,
         "5": 2,
         "6": 5,
-        "7": 4
+        "7": 5
       },
       "D": {
         "4": 4,
@@ -161,7 +162,7 @@
       "AB": 5,
       "BA": 5,
       "BE": 8,
-      "BL": 3,
+      "BL": 4,
       "DA": 3,
       "DE": 14,
       "EA": 1,

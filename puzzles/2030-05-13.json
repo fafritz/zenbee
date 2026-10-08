@@ -1,9 +1,9 @@
 {
   "pangram": "opacity",
   "center_letter": "i",
-  "num_answers": 20,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 93,
+  "possible_points": 94,
   "answer_pangrams": [
     "opacity"
   ],
@@ -26,13 +26,14 @@
     "tacit",
     "tactic",
     "tapioca",
+    "tipi",
     "tiptop",
     "topic"
   ],
   "date": "2030-05-13",
   "hints": {
     "by_length": {
-      "4": 6,
+      "4": 7,
       "5": 8,
       "6": 3,
       "7": 2,
@@ -44,7 +45,7 @@
       "I": 1,
       "O": 2,
       "P": 5,
-      "T": 5
+      "T": 6
     },
     "grid": {
       "A": {
@@ -69,6 +70,7 @@
         "5": 2
       },
       "T": {
+        "4": 1,
         "5": 2,
         "6": 2,
         "7": 1
@@ -85,7 +87,7 @@
       "PA": 1,
       "PI": 4,
       "TA": 3,
-      "TI": 1,
+      "TI": 2,
       "TO": 1
     }
   }

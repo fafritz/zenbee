@@ -1,9 +1,9 @@
 {
   "pangram": "godlike",
   "center_letter": "g",
-  "num_answers": 43,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 192,
+  "possible_points": 198,
   "answer_pangrams": [
     "godlike"
   ],
@@ -30,6 +30,7 @@
     "gild",
     "gilded",
     "gill",
+    "gilled",
     "glee",
     "glide",
     "glided",
@@ -57,13 +58,13 @@
     "by_length": {
       "4": 13,
       "5": 12,
-      "6": 14,
+      "6": 15,
       "7": 4
     },
     "by_first_letter": {
       "D": 5,
       "E": 3,
-      "G": 24,
+      "G": 25,
       "I": 1,
       "L": 8,
       "O": 2
@@ -81,7 +82,7 @@
       "G": {
         "4": 8,
         "5": 3,
-        "6": 9,
+        "6": 10,
         "7": 4
       },
       "I": {
@@ -102,7 +103,7 @@
       "ED": 2,
       "EG": 1,
       "GE": 7,
-      "GI": 7,
+      "GI": 8,
       "GL": 3,
       "GO": 7,
       "IG": 1,

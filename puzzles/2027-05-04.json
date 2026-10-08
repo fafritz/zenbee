@@ -1,9 +1,9 @@
 {
   "pangram": "flunked",
   "center_letter": "l",
-  "num_answers": 49,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 216,
+  "possible_points": 222,
   "answer_pangrams": [
     "flunked"
   ],
@@ -49,6 +49,7 @@
     "leek",
     "lend",
     "luff",
+    "luffed",
     "lull",
     "lulled",
     "lulu",
@@ -63,7 +64,7 @@
     "by_length": {
       "4": 18,
       "5": 7,
-      "6": 14,
+      "6": 15,
       "7": 8,
       "8": 2
     },
@@ -72,7 +73,7 @@
       "E": 3,
       "F": 20,
       "K": 7,
-      "L": 7,
+      "L": 8,
       "N": 4,
       "U": 1
     },
@@ -102,7 +103,7 @@
       },
       "L": {
         "4": 6,
-        "6": 1
+        "6": 2
       },
       "N": {
         "4": 1,
@@ -124,7 +125,7 @@
       "KE": 4,
       "KN": 3,
       "LE": 3,
-      "LU": 4,
+      "LU": 5,
       "NE": 3,
       "NU": 1,
       "UK": 1

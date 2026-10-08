@@ -1,9 +1,9 @@
 {
   "pangram": "vaulted",
   "center_letter": "a",
-  "num_answers": 64,
+  "num_answers": 65,
   "num_pangrams": 2,
-  "possible_points": 319,
+  "possible_points": 324,
   "answer_pangrams": [
     "evaluated",
     "vaulted"
@@ -45,6 +45,7 @@
     "lauded",
     "lava",
     "lave",
+    "laved",
     "lead",
     "leaded",
     "leave",
@@ -78,7 +79,7 @@
   "hints": {
     "by_length": {
       "4": 18,
-      "5": 16,
+      "5": 17,
       "6": 14,
       "7": 8,
       "8": 6,
@@ -89,7 +90,7 @@
       "A": 9,
       "D": 11,
       "E": 8,
-      "L": 13,
+      "L": 14,
       "T": 9,
       "U": 3,
       "V": 11
@@ -116,7 +117,7 @@
       },
       "L": {
         "4": 6,
-        "5": 3,
+        "5": 4,
         "6": 4
       },
       "T": {
@@ -146,7 +147,7 @@
       "DU": 1,
       "EL": 4,
       "EV": 4,
-      "LA": 8,
+      "LA": 9,
       "LE": 4,
       "LU": 1,
       "TA": 7,

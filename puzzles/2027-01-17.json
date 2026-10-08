@@ -1,9 +1,9 @@
 {
   "pangram": "coaxing",
   "center_letter": "g",
-  "num_answers": 37,
+  "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 213,
+  "possible_points": 219,
   "answer_pangrams": [
     "coaxing"
   ],
@@ -25,6 +25,7 @@
     "coining",
     "conga",
     "congaing",
+    "coning",
     "conning",
     "cooing",
     "gaga",
@@ -51,14 +52,14 @@
     "by_length": {
       "4": 6,
       "5": 7,
-      "6": 8,
+      "6": 9,
       "7": 13,
       "8": 1,
       "9": 2
     },
     "by_first_letter": {
       "A": 6,
-      "C": 13,
+      "C": 14,
       "G": 12,
       "I": 2,
       "N": 3,
@@ -72,7 +73,7 @@
       },
       "C": {
         "5": 1,
-        "6": 4,
+        "6": 5,
         "7": 5,
         "8": 1,
         "9": 2
@@ -100,7 +101,7 @@
       "AN": 1,
       "AX": 1,
       "CA": 4,
-      "CO": 9,
+      "CO": 10,
       "GA": 6,
       "GI": 2,
       "GO": 4,

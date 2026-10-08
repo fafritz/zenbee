@@ -1,9 +1,9 @@
 {
   "pangram": "optical",
   "center_letter": "t",
-  "num_answers": 65,
+  "num_answers": 66,
   "num_pangrams": 5,
-  "possible_points": 321,
+  "possible_points": 322,
   "answer_pangrams": [
     "apolitical",
     "capitol",
@@ -68,6 +68,7 @@
     "tattoo",
     "till",
     "tilt",
+    "tipi",
     "tiptop",
     "toil",
     "toll",
@@ -81,7 +82,7 @@
   "date": "2035-01-20",
   "hints": {
     "by_length": {
-      "4": 23,
+      "4": 24,
       "5": 15,
       "6": 9,
       "7": 13,
@@ -96,7 +97,7 @@
       "L": 7,
       "O": 3,
       "P": 12,
-      "T": 22
+      "T": 23
     },
     "grid": {
       "A": {
@@ -133,7 +134,7 @@
         "9": 1
       },
       "T": {
-        "4": 11,
+        "4": 12,
         "5": 3,
         "6": 3,
         "7": 3,
@@ -160,7 +161,7 @@
       "PL": 2,
       "PO": 3,
       "TA": 11,
-      "TI": 3,
+      "TI": 4,
       "TO": 8
     }
   }

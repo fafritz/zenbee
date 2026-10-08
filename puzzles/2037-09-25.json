@@ -1,9 +1,9 @@
 {
   "pangram": "pelting",
   "center_letter": "g",
-  "num_answers": 79,
+  "num_answers": 81,
   "num_pangrams": 2,
-  "possible_points": 515,
+  "possible_points": 523,
   "answer_pangrams": [
     "pelleting",
     "pelting"
@@ -15,6 +15,7 @@
     "entitling",
     "geeing",
     "gelling",
+    "gelt",
     "gene",
     "genie",
     "genii",
@@ -81,6 +82,7 @@
     "tilting",
     "tinge",
     "tingeing",
+    "tinging",
     "tingle",
     "tingling",
     "tinning",
@@ -92,22 +94,22 @@
   "date": "2037-09-25",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 8,
       "5": 5,
       "6": 20,
-      "7": 33,
+      "7": 34,
       "8": 10,
       "9": 3,
       "11": 1
     },
     "by_first_letter": {
       "E": 4,
-      "G": 21,
+      "G": 22,
       "I": 4,
       "L": 8,
       "N": 7,
       "P": 20,
-      "T": 15
+      "T": 16
     },
     "grid": {
       "E": {
@@ -115,7 +117,7 @@
         "9": 1
       },
       "G": {
-        "4": 6,
+        "4": 7,
         "5": 3,
         "6": 3,
         "7": 6,
@@ -146,7 +148,7 @@
       "T": {
         "5": 1,
         "6": 3,
-        "7": 8,
+        "7": 9,
         "8": 3
       }
     },
@@ -154,7 +156,7 @@
       "EE": 1,
       "EG": 1,
       "EN": 2,
-      "GE": 11,
+      "GE": 12,
       "GI": 6,
       "GL": 4,
       "IG": 2,
@@ -166,7 +168,7 @@
       "PE": 7,
       "PI": 13,
       "TE": 3,
-      "TI": 12
+      "TI": 13
     }
   }
 }

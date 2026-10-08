@@ -1,9 +1,9 @@
 {
   "pangram": "wetland",
   "center_letter": "n",
-  "num_answers": 80,
+  "num_answers": 81,
   "num_pangrams": 1,
-  "possible_points": 374,
+  "possible_points": 382,
   "answer_pangrams": [
     "wetland"
   ],
@@ -56,6 +56,7 @@
     "natal",
     "neat",
     "neaten",
+    "neatened",
     "need",
     "needed",
     "needle",
@@ -96,7 +97,7 @@
       "5": 8,
       "6": 26,
       "7": 10,
-      "8": 7,
+      "8": 8,
       "9": 2
     },
     "by_first_letter": {
@@ -104,7 +105,7 @@
       "D": 12,
       "E": 4,
       "L": 12,
-      "N": 15,
+      "N": 16,
       "T": 11,
       "W": 11
     },
@@ -138,7 +139,8 @@
         "4": 6,
         "5": 2,
         "6": 5,
-        "7": 2
+        "7": 2,
+        "8": 1
       },
       "T": {
         "4": 3,
@@ -165,7 +167,7 @@
       "LA": 7,
       "LE": 5,
       "NA": 3,
-      "NE": 12,
+      "NE": 13,
       "TA": 3,
       "TE": 8,
       "WA": 5,

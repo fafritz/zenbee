@@ -1,9 +1,9 @@
 {
   "pangram": "pouting",
   "center_letter": "p",
-  "num_answers": 55,
+  "num_answers": 56,
   "num_pangrams": 3,
-  "possible_points": 345,
+  "possible_points": 346,
   "answer_pangrams": [
     "gunpoint",
     "outputting",
@@ -58,6 +58,7 @@
     "pupping",
     "putt",
     "putting",
+    "tipi",
     "tipping",
     "tiptop",
     "topping",
@@ -69,7 +70,7 @@
   "date": "2028-04-19",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 10,
       "5": 7,
       "6": 11,
       "7": 19,
@@ -84,7 +85,7 @@
       "N": 1,
       "O": 7,
       "P": 36,
-      "T": 3,
+      "T": 4,
       "U": 4
     },
     "grid": {
@@ -115,6 +116,7 @@
         "11": 1
       },
       "T": {
+        "4": 1,
         "6": 1,
         "7": 2
       },
@@ -135,7 +137,7 @@
       "PI": 18,
       "PO": 12,
       "PU": 6,
-      "TI": 2,
+      "TI": 3,
       "TO": 1,
       "UN": 2,
       "UP": 2

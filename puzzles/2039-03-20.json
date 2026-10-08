@@ -1,0 +1,96 @@
+{
+  "pangram": "volumed",
+  "center_letter": "v",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 117,
+  "answer_pangrams": [
+    "volumed"
+  ],
+  "answers": [
+    "delve",
+    "delved",
+    "devolve",
+    "devolved",
+    "dove",
+    "evolve",
+    "evolved",
+    "levee",
+    "level",
+    "leveled",
+    "love",
+    "loved",
+    "move",
+    "moved",
+    "ovule",
+    "ovum",
+    "veld",
+    "vellum",
+    "vole",
+    "volume",
+    "volumed",
+    "voodoo",
+    "voodooed"
+  ],
+  "date": "2039-03-20",
+  "hints": {
+    "by_length": {
+      "4": 6,
+      "5": 6,
+      "6": 5,
+      "7": 4,
+      "8": 2
+    },
+    "by_first_letter": {
+      "D": 5,
+      "E": 2,
+      "L": 5,
+      "M": 2,
+      "O": 2,
+      "V": 7
+    },
+    "grid": {
+      "D": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "6": 1,
+        "7": 1
+      },
+      "L": {
+        "4": 1,
+        "5": 3,
+        "7": 1
+      },
+      "M": {
+        "4": 1,
+        "5": 1
+      },
+      "O": {
+        "4": 1,
+        "5": 1
+      },
+      "V": {
+        "4": 2,
+        "6": 3,
+        "7": 1,
+        "8": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 4,
+      "DO": 1,
+      "EV": 2,
+      "LE": 3,
+      "LO": 2,
+      "MO": 2,
+      "OV": 2,
+      "VE": 2,
+      "VO": 5
+    }
+  }
+}

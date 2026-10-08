@@ -1,9 +1,9 @@
 {
   "pangram": "felting",
   "center_letter": "g",
-  "num_answers": 77,
+  "num_answers": 79,
   "num_pangrams": 3,
-  "possible_points": 511,
+  "possible_points": 519,
   "answer_pangrams": [
     "felting",
     "filleting",
@@ -33,6 +33,7 @@
     "flitting",
     "geeing",
     "gelling",
+    "gelt",
     "gene",
     "genie",
     "genii",
@@ -82,6 +83,7 @@
     "tilting",
     "tinge",
     "tingeing",
+    "tinging",
     "tingle",
     "tingling",
     "tinning",
@@ -91,10 +93,10 @@
   "date": "2033-03-13",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 8,
       "5": 7,
       "6": 17,
-      "7": 28,
+      "7": 29,
       "8": 14,
       "9": 3,
       "11": 1
@@ -102,11 +104,11 @@
     "by_first_letter": {
       "E": 4,
       "F": 17,
-      "G": 23,
+      "G": 24,
       "I": 4,
       "L": 9,
       "N": 6,
-      "T": 14
+      "T": 15
     },
     "grid": {
       "E": {
@@ -121,7 +123,7 @@
         "9": 1
       },
       "G": {
-        "4": 7,
+        "4": 8,
         "5": 3,
         "6": 3,
         "7": 7,
@@ -146,7 +148,7 @@
       "T": {
         "5": 1,
         "6": 3,
-        "7": 8,
+        "7": 9,
         "8": 2
       }
     },
@@ -157,7 +159,7 @@
       "FE": 7,
       "FI": 5,
       "FL": 5,
-      "GE": 11,
+      "GE": 12,
       "GI": 8,
       "GL": 4,
       "IG": 2,
@@ -167,7 +169,7 @@
       "NE": 4,
       "NI": 2,
       "TE": 3,
-      "TI": 11
+      "TI": 12
     }
   }
 }

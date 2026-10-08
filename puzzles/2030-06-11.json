@@ -1,9 +1,9 @@
 {
   "pangram": "fluting",
   "center_letter": "u",
-  "num_answers": 44,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 229,
+  "possible_points": 242,
   "answer_pangrams": [
     "fluting"
   ],
@@ -33,6 +33,7 @@
     "intuiting",
     "inulin",
     "luff",
+    "luffing",
     "lugging",
     "luging",
     "lull",
@@ -40,6 +41,7 @@
     "lulu",
     "lung",
     "lunging",
+    "luting",
     "null",
     "nutting",
     "tuft",
@@ -58,8 +60,8 @@
     "by_length": {
       "4": 13,
       "5": 6,
-      "6": 6,
-      "7": 13,
+      "6": 7,
+      "7": 14,
       "8": 3,
       "9": 2,
       "10": 1
@@ -68,7 +70,7 @@
       "F": 10,
       "G": 11,
       "I": 3,
-      "L": 8,
+      "L": 10,
       "N": 2,
       "T": 5,
       "U": 5
@@ -95,8 +97,8 @@
       },
       "L": {
         "4": 4,
-        "6": 1,
-        "7": 3
+        "6": 2,
+        "7": 4
       },
       "N": {
         "4": 1,
@@ -121,7 +123,7 @@
       "GL": 3,
       "GU": 8,
       "IN": 3,
-      "LU": 8,
+      "LU": 10,
       "NU": 2,
       "TU": 5,
       "UN": 5

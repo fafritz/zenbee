@@ -1,9 +1,9 @@
 {
   "pangram": "inflame",
   "center_letter": "a",
-  "num_answers": 75,
+  "num_answers": 77,
   "num_pangrams": 1,
-  "possible_points": 328,
+  "possible_points": 343,
   "answer_pangrams": [
     "inflame"
   ],
@@ -46,6 +46,8 @@
     "lain",
     "lama",
     "lame",
+    "lamella",
+    "lamellae",
     "lanai",
     "lane",
     "leaf",
@@ -90,8 +92,8 @@
       "4": 28,
       "5": 15,
       "6": 16,
-      "7": 10,
-      "8": 3,
+      "7": 11,
+      "8": 4,
       "9": 2,
       "10": 1
     },
@@ -100,7 +102,7 @@
       "E": 4,
       "F": 18,
       "I": 3,
-      "L": 11,
+      "L": 13,
       "M": 24,
       "N": 5
     },
@@ -132,7 +134,8 @@
         "4": 6,
         "5": 3,
         "6": 1,
-        "7": 1
+        "7": 2,
+        "8": 1
       },
       "M": {
         "4": 9,
@@ -161,7 +164,7 @@
       "FL": 6,
       "IM": 1,
       "IN": 2,
-      "LA": 5,
+      "LA": 7,
       "LE": 3,
       "LI": 2,
       "LL": 1,

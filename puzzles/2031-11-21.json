@@ -1,9 +1,9 @@
 {
   "pangram": "coaling",
   "center_letter": "c",
-  "num_answers": 76,
+  "num_answers": 77,
   "num_pangrams": 2,
-  "possible_points": 435,
+  "possible_points": 441,
   "answer_pangrams": [
     "coaling",
     "logician"
@@ -61,6 +61,7 @@
     "congaing",
     "conic",
     "conical",
+    "coning",
     "conning",
     "cooing",
     "cool",
@@ -91,14 +92,14 @@
     "by_length": {
       "4": 13,
       "5": 21,
-      "6": 13,
+      "6": 14,
       "7": 14,
       "8": 8,
       "9": 7
     },
     "by_first_letter": {
       "A": 3,
-      "C": 53,
+      "C": 54,
       "G": 2,
       "I": 7,
       "L": 10,
@@ -113,7 +114,7 @@
       "C": {
         "4": 9,
         "5": 14,
-        "6": 9,
+        "6": 10,
         "7": 10,
         "8": 6,
         "9": 5
@@ -144,7 +145,7 @@
       "CA": 16,
       "CI": 1,
       "CL": 11,
-      "CO": 25,
+      "CO": 26,
       "GL": 2,
       "IC": 3,
       "IL": 2,

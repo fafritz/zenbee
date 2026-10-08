@@ -1,107 +1,108 @@
 {
-  "pangram": "hotlink",
-  "center_letter": "n",
-  "num_answers": 28,
+  "pangram": "flanged",
+  "center_letter": "f",
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 81,
+  "possible_points": 186,
   "answer_pangrams": [
-    "hotlink"
+    "flanged"
   ],
   "answers": [
-    "hint",
-    "honk",
-    "hotlink",
-    "into",
-    "kiln",
-    "kiloton",
-    "kink",
-    "knit",
-    "knoll",
-    "knot",
-    "link",
-    "lint",
-    "lion",
-    "loin",
-    "loon",
-    "lotion",
-    "ninth",
-    "nonillion",
-    "nook",
-    "noon",
-    "notion",
-    "oink",
-    "onion",
-    "onto",
-    "thin",
-    "think",
-    "tint",
-    "toon"
+    "alfalfa",
+    "deaf",
+    "deafen",
+    "deafened",
+    "defend",
+    "defended",
+    "fade",
+    "faded",
+    "falafel",
+    "fall",
+    "fallen",
+    "fang",
+    "fanged",
+    "fanned",
+    "feed",
+    "feel",
+    "fell",
+    "fella",
+    "felled",
+    "fend",
+    "fended",
+    "fennel",
+    "flag",
+    "flagella",
+    "flagged",
+    "flan",
+    "flange",
+    "flanged",
+    "flannel",
+    "flanneled",
+    "flea",
+    "fled",
+    "fledged",
+    "flee",
+    "gaff",
+    "gaffe",
+    "gaffed",
+    "landfall",
+    "leaf",
+    "leafed"
   ],
   "date": "2032-07-25",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 4,
-      "6": 2,
-      "7": 2,
+      "4": 15,
+      "5": 3,
+      "6": 11,
+      "7": 6,
+      "8": 4,
       "9": 1
     },
     "by_first_letter": {
-      "H": 3,
-      "I": 1,
-      "K": 6,
-      "L": 6,
-      "N": 5,
-      "O": 3,
-      "T": 4
+      "A": 1,
+      "D": 5,
+      "F": 28,
+      "G": 3,
+      "L": 3
     },
     "grid": {
-      "H": {
-        "4": 2,
+      "A": {
         "7": 1
       },
-      "I": {
-        "4": 1
+      "D": {
+        "4": 1,
+        "6": 2,
+        "8": 2
       },
-      "K": {
-        "4": 4,
-        "5": 1,
-        "7": 1
-      },
-      "L": {
-        "4": 5,
-        "6": 1
-      },
-      "N": {
-        "4": 2,
-        "5": 1,
-        "6": 1,
+      "F": {
+        "4": 12,
+        "5": 2,
+        "6": 7,
+        "7": 5,
+        "8": 1,
         "9": 1
       },
-      "O": {
-        "4": 2,
-        "5": 1
+      "G": {
+        "4": 1,
+        "5": 1,
+        "6": 1
       },
-      "T": {
-        "4": 3,
-        "5": 1
+      "L": {
+        "4": 1,
+        "6": 1,
+        "8": 1
       }
     },
     "two_letter_list": {
-      "HI": 1,
-      "HO": 2,
-      "IN": 1,
-      "KI": 3,
-      "KN": 3,
-      "LI": 3,
-      "LO": 3,
-      "NI": 1,
-      "NO": 4,
-      "OI": 1,
-      "ON": 2,
-      "TH": 2,
-      "TI": 1,
-      "TO": 1
+      "AL": 1,
+      "DE": 5,
+      "FA": 8,
+      "FE": 8,
+      "FL": 12,
+      "GA": 3,
+      "LA": 1,
+      "LE": 2
     }
   }
 }

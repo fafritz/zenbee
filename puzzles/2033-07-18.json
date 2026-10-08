@@ -1,9 +1,9 @@
 {
   "pangram": "delight",
   "center_letter": "l",
-  "num_answers": 60,
+  "num_answers": 62,
   "num_pangrams": 4,
-  "possible_points": 281,
+  "possible_points": 288,
   "answer_pangrams": [
     "delight",
     "delighted",
@@ -28,11 +28,13 @@
     "gelded",
     "gelid",
     "gelled",
+    "gelt",
     "giggle",
     "giggled",
     "gild",
     "gilded",
     "gill",
+    "gilled",
     "gilt",
     "glee",
     "glide",
@@ -75,9 +77,9 @@
   "date": "2033-07-18",
   "hints": {
     "by_length": {
-      "4": 22,
+      "4": 23,
       "5": 13,
-      "6": 17,
+      "6": 18,
       "7": 5,
       "9": 2,
       "11": 1
@@ -85,7 +87,7 @@
     "by_first_letter": {
       "D": 9,
       "E": 4,
-      "G": 13,
+      "G": 15,
       "H": 8,
       "I": 2,
       "L": 13,
@@ -103,9 +105,9 @@
         "6": 1
       },
       "G": {
-        "4": 5,
+        "4": 6,
         "5": 2,
-        "6": 5,
+        "6": 6,
         "7": 1
       },
       "H": {
@@ -135,8 +137,8 @@
       "DI": 3,
       "EE": 1,
       "EL": 3,
-      "GE": 4,
-      "GI": 6,
+      "GE": 5,
+      "GI": 7,
       "GL": 3,
       "HE": 4,
       "HI": 4,

@@ -1,9 +1,9 @@
 {
   "pangram": "chowing",
   "center_letter": "i",
-  "num_answers": 54,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 305,
+  "possible_points": 311,
   "answer_pangrams": [
     "chowing"
   ],
@@ -22,6 +22,7 @@
     "coin",
     "coining",
     "conic",
+    "coning",
     "conning",
     "cooing",
     "cowing",
@@ -68,13 +69,13 @@
     "by_length": {
       "4": 9,
       "5": 11,
-      "6": 11,
+      "6": 12,
       "7": 18,
       "8": 3,
       "9": 2
     },
     "by_first_letter": {
-      "C": 17,
+      "C": 18,
       "G": 5,
       "H": 4,
       "I": 7,
@@ -86,7 +87,7 @@
       "C": {
         "4": 3,
         "5": 4,
-        "6": 2,
+        "6": 3,
         "7": 5,
         "8": 2,
         "9": 1
@@ -127,7 +128,7 @@
     "two_letter_list": {
       "CH": 6,
       "CI": 2,
-      "CO": 9,
+      "CO": 10,
       "GI": 2,
       "GO": 3,
       "HI": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "divulge",
   "center_letter": "i",
-  "num_answers": 49,
+  "num_answers": 50,
   "num_pangrams": 2,
-  "possible_points": 227,
+  "possible_points": 233,
   "answer_pangrams": [
     "divulge",
     "divulged"
@@ -34,6 +34,7 @@
     "gild",
     "gilded",
     "gill",
+    "gilled",
     "give",
     "glide",
     "glided",
@@ -64,14 +65,14 @@
     "by_length": {
       "4": 15,
       "5": 14,
-      "6": 13,
+      "6": 14,
       "7": 6,
       "8": 1
     },
     "by_first_letter": {
       "D": 14,
       "E": 4,
-      "G": 14,
+      "G": 15,
       "I": 2,
       "L": 8,
       "V": 7
@@ -92,7 +93,7 @@
       "G": {
         "4": 3,
         "5": 5,
-        "6": 5,
+        "6": 6,
         "7": 1
       },
       "I": {
@@ -117,7 +118,7 @@
       "EL": 2,
       "EV": 1,
       "GE": 1,
-      "GI": 7,
+      "GI": 8,
       "GL": 2,
       "GU": 4,
       "ID": 2,

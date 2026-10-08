@@ -1,9 +1,9 @@
 {
   "pangram": "clumped",
   "center_letter": "c",
-  "num_answers": 21,
+  "num_answers": 22,
   "num_pangrams": 1,
-  "possible_points": 105,
+  "possible_points": 111,
   "answer_pangrams": [
     "clumped"
   ],
@@ -27,6 +27,7 @@
     "deuce",
     "deuced",
     "educe",
+    "educed",
     "emcee",
     "emceed"
   ],
@@ -35,13 +36,13 @@
     "by_length": {
       "4": 5,
       "5": 6,
-      "6": 7,
+      "6": 8,
       "7": 3
     },
     "by_first_letter": {
       "C": 14,
       "D": 4,
-      "E": 3
+      "E": 4
     },
     "grid": {
       "C": {
@@ -57,7 +58,7 @@
       },
       "E": {
         "5": 2,
-        "6": 1
+        "6": 2
       }
     },
     "two_letter_list": {
@@ -65,7 +66,7 @@
       "CL": 4,
       "CU": 6,
       "DE": 4,
-      "ED": 1,
+      "ED": 2,
       "EM": 2
     }
   }

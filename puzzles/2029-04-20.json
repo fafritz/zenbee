@@ -1,9 +1,9 @@
 {
   "pangram": "pigment",
   "center_letter": "g",
-  "num_answers": 52,
+  "num_answers": 53,
   "num_pangrams": 4,
-  "possible_points": 362,
+  "possible_points": 369,
   "answer_pangrams": [
     "impingement",
     "pigment",
@@ -60,6 +60,7 @@
     "timing",
     "tinge",
     "tingeing",
+    "tinging",
     "tinning",
     "tinting",
     "tipping"
@@ -70,7 +71,7 @@
       "4": 3,
       "5": 4,
       "6": 14,
-      "7": 25,
+      "7": 26,
       "8": 4,
       "9": 1,
       "11": 1
@@ -82,7 +83,7 @@
       "M": 5,
       "N": 2,
       "P": 16,
-      "T": 11
+      "T": 12
     },
     "grid": {
       "E": {
@@ -117,7 +118,7 @@
       "T": {
         "5": 1,
         "6": 2,
-        "7": 6,
+        "7": 7,
         "8": 2
       }
     },
@@ -137,7 +138,7 @@
       "PE": 4,
       "PI": 12,
       "TE": 5,
-      "TI": 6
+      "TI": 7
     }
   }
 }

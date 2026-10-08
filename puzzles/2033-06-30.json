@@ -1,9 +1,9 @@
 {
   "pangram": "movable",
   "center_letter": "m",
-  "num_answers": 38,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 134,
+  "possible_points": 149,
   "answer_pangrams": [
     "movable"
   ],
@@ -25,6 +25,8 @@
     "lama",
     "lamb",
     "lame",
+    "lamella",
+    "lamellae",
     "lemma",
     "llama",
     "loam",
@@ -53,14 +55,15 @@
       "4": 19,
       "5": 10,
       "6": 7,
-      "7": 1,
+      "7": 2,
+      "8": 1,
       "9": 1
     },
     "by_first_letter": {
       "A": 5,
       "B": 7,
       "E": 2,
-      "L": 7,
+      "L": 9,
       "M": 17
     },
     "grid": {
@@ -79,7 +82,9 @@
       },
       "L": {
         "4": 5,
-        "5": 2
+        "5": 2,
+        "7": 1,
+        "8": 1
       },
       "M": {
         "4": 9,
@@ -97,7 +102,7 @@
       "BL": 2,
       "BO": 2,
       "EM": 2,
-      "LA": 3,
+      "LA": 5,
       "LE": 1,
       "LL": 1,
       "LO": 2,

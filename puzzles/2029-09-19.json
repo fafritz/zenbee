@@ -1,9 +1,9 @@
 {
   "pangram": "bounced",
   "center_letter": "n",
-  "num_answers": 57,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 282,
+  "possible_points": 287,
   "answer_pangrams": [
     "bounced"
   ],
@@ -29,6 +29,7 @@
     "condoned",
     "conduced",
     "cone",
+    "coned",
     "conned",
     "debone",
     "deboned",
@@ -70,7 +71,7 @@
   "hints": {
     "by_length": {
       "4": 17,
-      "5": 8,
+      "5": 9,
       "6": 16,
       "7": 8,
       "8": 6,
@@ -78,7 +79,7 @@
     },
     "by_first_letter": {
       "B": 12,
-      "C": 10,
+      "C": 11,
       "D": 11,
       "E": 4,
       "N": 11,
@@ -94,7 +95,7 @@
       },
       "C": {
         "4": 1,
-        "5": 1,
+        "5": 2,
         "6": 2,
         "7": 2,
         "8": 4
@@ -133,7 +134,7 @@
     "two_letter_list": {
       "BE": 2,
       "BO": 10,
-      "CO": 10,
+      "CO": 11,
       "DE": 6,
       "DO": 2,
       "DU": 3,

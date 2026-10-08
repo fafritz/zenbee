@@ -1,9 +1,9 @@
 {
   "pangram": "porting",
   "center_letter": "t",
-  "num_answers": 71,
+  "num_answers": 73,
   "num_pangrams": 4,
-  "possible_points": 414,
+  "possible_points": 422,
   "answer_pangrams": [
     "porting",
     "portioning",
@@ -57,9 +57,11 @@
     "roti",
     "rotor",
     "rotting",
+    "tinging",
     "tinning",
     "tint",
     "tinting",
+    "tipi",
     "tipping",
     "tiptop",
     "tiring",
@@ -86,10 +88,10 @@
   "date": "2035-08-18",
   "hints": {
     "by_length": {
-      "4": 18,
+      "4": 19,
       "5": 9,
       "6": 13,
-      "7": 16,
+      "7": 17,
       "8": 10,
       "9": 1,
       "10": 2,
@@ -103,7 +105,7 @@
       "O": 4,
       "P": 22,
       "R": 7,
-      "T": 25
+      "T": 27
     },
     "grid": {
       "G": {
@@ -141,10 +143,10 @@
         "7": 3
       },
       "T": {
-        "4": 9,
+        "4": 10,
         "5": 1,
         "6": 5,
-        "7": 7,
+        "7": 8,
         "8": 3
       }
     },
@@ -161,7 +163,7 @@
       "PR": 6,
       "RI": 2,
       "RO": 5,
-      "TI": 6,
+      "TI": 8,
       "TO": 12,
       "TR": 7
     }

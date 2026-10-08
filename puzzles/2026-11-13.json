@@ -1,9 +1,9 @@
 {
   "pangram": "valuing",
   "center_letter": "a",
-  "num_answers": 54,
+  "num_answers": 55,
   "num_pangrams": 2,
-  "possible_points": 284,
+  "possible_points": 290,
   "answer_pangrams": [
     "unavailing",
     "valuing"
@@ -44,6 +44,7 @@
     "lain",
     "lanai",
     "lava",
+    "laving",
     "lingual",
     "luau",
     "naan",
@@ -69,7 +70,7 @@
     "by_length": {
       "4": 15,
       "5": 12,
-      "6": 4,
+      "6": 5,
       "7": 16,
       "8": 5,
       "9": 1,
@@ -79,7 +80,7 @@
       "A": 16,
       "G": 14,
       "I": 1,
-      "L": 6,
+      "L": 7,
       "N": 6,
       "U": 3,
       "V": 8
@@ -105,6 +106,7 @@
       "L": {
         "4": 3,
         "5": 1,
+        "6": 1,
         "7": 2
       },
       "N": {
@@ -132,7 +134,7 @@
       "GA": 13,
       "GU": 1,
       "IG": 1,
-      "LA": 4,
+      "LA": 5,
       "LI": 1,
       "LU": 1,
       "NA": 6,

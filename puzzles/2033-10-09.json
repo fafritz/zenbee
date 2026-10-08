@@ -1,9 +1,9 @@
 {
   "pangram": "bauxite",
   "center_letter": "b",
-  "num_answers": 19,
+  "num_answers": 20,
   "num_pangrams": 1,
-  "possible_points": 49,
+  "possible_points": 54,
   "answer_pangrams": [
     "bauxite"
   ],
@@ -18,6 +18,7 @@
     "bauxite",
     "beat",
     "beau",
+    "beaux",
     "beet",
     "beta",
     "bite",
@@ -32,13 +33,13 @@
   "hints": {
     "by_length": {
       "4": 14,
-      "5": 3,
+      "5": 4,
       "6": 1,
       "7": 1
     },
     "by_first_letter": {
       "A": 4,
-      "B": 10,
+      "B": 11,
       "I": 1,
       "T": 4
     },
@@ -49,7 +50,7 @@
       },
       "B": {
         "4": 8,
-        "5": 1,
+        "5": 2,
         "7": 1
       },
       "I": {
@@ -64,7 +65,7 @@
     "two_letter_list": {
       "AB": 4,
       "BA": 4,
-      "BE": 4,
+      "BE": 5,
       "BI": 1,
       "BU": 1,
       "IB": 1,

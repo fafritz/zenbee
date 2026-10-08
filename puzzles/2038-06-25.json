@@ -1,9 +1,9 @@
 {
   "pangram": "changed",
   "center_letter": "e",
-  "num_answers": 70,
+  "num_answers": 71,
   "num_pangrams": 1,
-  "possible_points": 339,
+  "possible_points": 347,
   "answer_pangrams": [
     "changed"
   ],
@@ -24,6 +24,7 @@
     "cache",
     "cached",
     "cadence",
+    "cadenced",
     "cadge",
     "cadged",
     "cage",
@@ -86,12 +87,12 @@
       "5": 16,
       "6": 23,
       "7": 9,
-      "8": 3,
+      "8": 4,
       "9": 1
     },
     "by_first_letter": {
       "A": 13,
-      "C": 16,
+      "C": 17,
       "D": 10,
       "E": 10,
       "G": 5,
@@ -109,7 +110,8 @@
         "4": 3,
         "5": 5,
         "6": 5,
-        "7": 3
+        "7": 3,
+        "8": 1
       },
       "D": {
         "4": 3,
@@ -146,7 +148,7 @@
       "AD": 4,
       "AG": 2,
       "AH": 1,
-      "CA": 10,
+      "CA": 11,
       "CE": 2,
       "CH": 4,
       "DA": 2,

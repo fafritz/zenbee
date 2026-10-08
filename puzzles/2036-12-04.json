@@ -1,9 +1,9 @@
 {
   "pangram": "default",
   "center_letter": "u",
-  "num_answers": 53,
+  "num_answers": 54,
   "num_pangrams": 3,
-  "possible_points": 252,
+  "possible_points": 258,
   "answer_pangrams": [
     "default",
     "defaulted",
@@ -52,6 +52,7 @@
     "lauded",
     "luau",
     "luff",
+    "luffed",
     "lull",
     "lulled",
     "lulu",
@@ -69,7 +70,7 @@
     "by_length": {
       "4": 19,
       "5": 8,
-      "6": 14,
+      "6": 15,
       "7": 9,
       "8": 2,
       "9": 1
@@ -79,7 +80,7 @@
       "D": 13,
       "E": 3,
       "F": 17,
-      "L": 8,
+      "L": 9,
       "T": 5,
       "U": 2
     },
@@ -109,7 +110,7 @@
       },
       "L": {
         "4": 6,
-        "6": 2
+        "6": 3
       },
       "T": {
         "4": 3,
@@ -133,7 +134,7 @@
       "FL": 5,
       "FU": 6,
       "LA": 2,
-      "LU": 6,
+      "LU": 7,
       "TA": 1,
       "TU": 4,
       "UL": 2

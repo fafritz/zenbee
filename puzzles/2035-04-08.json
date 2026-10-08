@@ -1,9 +1,9 @@
 {
   "pangram": "halfwit",
   "center_letter": "w",
-  "num_answers": 19,
+  "num_answers": 20,
   "num_pangrams": 1,
-  "possible_points": 49,
+  "possible_points": 55,
   "answer_pangrams": [
     "halfwit"
   ],
@@ -12,6 +12,7 @@
     "flaw",
     "halfwit",
     "thaw",
+    "twilit",
     "twill",
     "twit",
     "waft",
@@ -33,14 +34,14 @@
     "by_length": {
       "4": 14,
       "5": 3,
-      "6": 1,
+      "6": 2,
       "7": 1
     },
     "by_first_letter": {
       "A": 1,
       "F": 1,
       "H": 1,
-      "T": 3,
+      "T": 4,
       "W": 13
     },
     "grid": {
@@ -55,7 +56,8 @@
       },
       "T": {
         "4": 2,
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "W": {
         "4": 11,
@@ -68,7 +70,7 @@
       "FL": 1,
       "HA": 1,
       "TH": 1,
-      "TW": 2,
+      "TW": 3,
       "WA": 6,
       "WH": 3,
       "WI": 4

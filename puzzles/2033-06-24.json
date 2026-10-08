@@ -1,9 +1,9 @@
 {
   "pangram": "matched",
   "center_letter": "m",
-  "num_answers": 51,
+  "num_answers": 52,
   "num_pangrams": 1,
-  "possible_points": 204,
+  "possible_points": 210,
   "answer_pangrams": [
     "matched"
   ],
@@ -58,14 +58,15 @@
     "teem",
     "teemed",
     "them",
-    "theme"
+    "theme",
+    "themed"
   ],
   "date": "2033-06-24",
   "hints": {
     "by_length": {
       "4": 21,
       "5": 12,
-      "6": 11,
+      "6": 12,
       "7": 6,
       "8": 1
     },
@@ -76,7 +77,7 @@
       "E": 4,
       "H": 4,
       "M": 26,
-      "T": 9
+      "T": 10
     },
     "grid": {
       "A": {
@@ -108,7 +109,7 @@
       "T": {
         "4": 4,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "8": 1
       }
     },
@@ -126,7 +127,7 @@
       "ME": 8,
       "TA": 2,
       "TE": 5,
-      "TH": 2
+      "TH": 3
     }
   }
 }

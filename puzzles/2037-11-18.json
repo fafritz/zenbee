@@ -1,9 +1,9 @@
 {
   "pangram": "gainful",
   "center_letter": "f",
-  "num_answers": 42,
+  "num_answers": 43,
   "num_pangrams": 3,
-  "possible_points": 234,
+  "possible_points": 241,
   "answer_pangrams": [
     "gainful",
     "unfailing",
@@ -49,6 +49,7 @@
     "guff",
     "gulf",
     "luff",
+    "luffing",
     "naif",
     "unfailing",
     "unflagging"
@@ -59,7 +60,7 @@
       "4": 13,
       "5": 7,
       "6": 4,
-      "7": 9,
+      "7": 10,
       "8": 5,
       "9": 2,
       "10": 2
@@ -68,7 +69,7 @@
       "A": 1,
       "F": 32,
       "G": 5,
-      "L": 1,
+      "L": 2,
       "N": 1,
       "U": 2
     },
@@ -90,7 +91,8 @@
         "7": 2
       },
       "L": {
-        "4": 1
+        "4": 1,
+        "7": 1
       },
       "N": {
         "4": 1
@@ -108,7 +110,7 @@
       "FU": 6,
       "GA": 3,
       "GU": 2,
-      "LU": 1,
+      "LU": 2,
       "NA": 1,
       "UN": 2
     }

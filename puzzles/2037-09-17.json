@@ -1,9 +1,9 @@
 {
   "pangram": "fancied",
   "center_letter": "c",
-  "num_answers": 58,
+  "num_answers": 59,
   "num_pangrams": 3,
-  "possible_points": 334,
+  "possible_points": 342,
   "answer_pangrams": [
     "defiance",
     "fancied",
@@ -22,6 +22,7 @@
     "caddie",
     "caddied",
     "cadence",
+    "cadenced",
     "cafe",
     "caffeine",
     "cancan",
@@ -76,13 +77,13 @@
       "5": 10,
       "6": 19,
       "7": 11,
-      "8": 3,
+      "8": 4,
       "9": 3,
       "10": 1
     },
     "by_first_letter": {
       "A": 9,
-      "C": 16,
+      "C": 17,
       "D": 15,
       "E": 3,
       "F": 10,
@@ -101,7 +102,7 @@
         "5": 3,
         "6": 6,
         "7": 3,
-        "8": 1
+        "8": 2
       },
       "D": {
         "4": 1,
@@ -135,7 +136,7 @@
     },
     "two_letter_list": {
       "AC": 9,
-      "CA": 13,
+      "CA": 14,
       "CE": 2,
       "CI": 1,
       "DA": 2,

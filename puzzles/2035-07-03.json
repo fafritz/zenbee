@@ -1,9 +1,9 @@
 {
   "pangram": "pivoted",
   "center_letter": "i",
-  "num_answers": 47,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 232,
+  "possible_points": 233,
   "answer_pangrams": [
     "pivoted"
   ],
@@ -44,6 +44,7 @@
     "tided",
     "tidied",
     "tied",
+    "tipi",
     "tipped",
     "tiptoe",
     "tiptoed",
@@ -59,7 +60,7 @@
   "date": "2035-07-03",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 11,
       "5": 13,
       "6": 18,
       "7": 6
@@ -70,7 +71,7 @@
       "I": 1,
       "O": 2,
       "P": 11,
-      "T": 9,
+      "T": 10,
       "V": 7
     },
     "grid": {
@@ -98,7 +99,7 @@
         "7": 1
       },
       "T": {
-        "4": 2,
+        "4": 3,
         "5": 2,
         "6": 4,
         "7": 1
@@ -121,7 +122,7 @@
       "PI": 9,
       "PO": 1,
       "TE": 1,
-      "TI": 8,
+      "TI": 9,
       "VI": 4,
       "VO": 3
     }

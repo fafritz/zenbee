@@ -1,9 +1,9 @@
 {
   "pangram": "wedlock",
   "center_letter": "e",
-  "num_answers": 66,
+  "num_answers": 67,
   "num_pangrams": 1,
-  "possible_points": 283,
+  "possible_points": 289,
   "answer_pangrams": [
     "wedlock"
   ],
@@ -29,6 +29,7 @@
     "cooked",
     "cooled",
     "cowed",
+    "cowled",
     "deck",
     "decked",
     "deckle",
@@ -80,12 +81,12 @@
     "by_length": {
       "4": 23,
       "5": 13,
-      "6": 23,
+      "6": 24,
       "7": 6,
       "8": 1
     },
     "by_first_letter": {
-      "C": 21,
+      "C": 22,
       "D": 17,
       "E": 2,
       "K": 2,
@@ -97,7 +98,7 @@
       "C": {
         "4": 6,
         "5": 6,
-        "6": 7,
+        "6": 8,
         "7": 2
       },
       "D": {
@@ -133,7 +134,7 @@
     "two_letter_list": {
       "CE": 5,
       "CL": 3,
-      "CO": 13,
+      "CO": 14,
       "DE": 8,
       "DO": 8,
       "DW": 1,

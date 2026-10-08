@@ -1,9 +1,9 @@
 {
   "pangram": "turfing",
   "center_letter": "i",
-  "num_answers": 64,
+  "num_answers": 65,
   "num_pangrams": 2,
-  "possible_points": 403,
+  "possible_points": 410,
   "answer_pangrams": [
     "fruiting",
     "turfing"
@@ -57,6 +57,7 @@
     "rutting",
     "tiff",
     "tiffing",
+    "tinging",
     "tinning",
     "tint",
     "tinting",
@@ -80,7 +81,7 @@
       "4": 11,
       "5": 4,
       "6": 8,
-      "7": 27,
+      "7": 28,
       "8": 8,
       "9": 3,
       "10": 3
@@ -91,7 +92,7 @@
       "I": 7,
       "N": 2,
       "R": 13,
-      "T": 12,
+      "T": 13,
       "U": 6
     },
     "grid": {
@@ -126,7 +127,7 @@
       "T": {
         "4": 2,
         "6": 3,
-        "7": 7
+        "7": 8
       },
       "U": {
         "4": 1,
@@ -149,7 +150,7 @@
       "NU": 2,
       "RI": 7,
       "RU": 6,
-      "TI": 6,
+      "TI": 7,
       "TR": 1,
       "TU": 5,
       "UN": 5,

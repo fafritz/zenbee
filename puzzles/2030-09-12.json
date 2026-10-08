@@ -1,9 +1,9 @@
 {
   "pangram": "polkaed",
   "center_letter": "a",
-  "num_answers": 54,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 232,
+  "possible_points": 239,
   "answer_pangrams": [
     "polkaed"
   ],
@@ -60,6 +60,7 @@
     "pedaled",
     "plea",
     "plead",
+    "pleaded",
     "polka",
     "polkaed"
   ],
@@ -69,7 +70,7 @@
       "4": 19,
       "5": 12,
       "6": 17,
-      "7": 4,
+      "7": 5,
       "8": 2
     },
     "by_first_letter": {
@@ -78,7 +79,7 @@
       "K": 3,
       "L": 13,
       "O": 1,
-      "P": 19
+      "P": 20
     },
     "grid": {
       "A": {
@@ -108,7 +109,7 @@
         "4": 6,
         "5": 5,
         "6": 5,
-        "7": 3
+        "7": 4
       }
     },
     "two_letter_list": {
@@ -126,7 +127,7 @@
       "OP": 1,
       "PA": 9,
       "PE": 6,
-      "PL": 2,
+      "PL": 3,
       "PO": 2
     }
   }

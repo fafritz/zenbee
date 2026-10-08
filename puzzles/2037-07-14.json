@@ -1,9 +1,9 @@
 {
   "pangram": "rocking",
   "center_letter": "g",
-  "num_answers": 55,
+  "num_answers": 56,
   "num_pangrams": 3,
-  "possible_points": 354,
+  "possible_points": 360,
   "answer_pangrams": [
     "corking",
     "crooking",
@@ -15,6 +15,7 @@
     "cogging",
     "coining",
     "coking",
+    "coning",
     "conking",
     "conning",
     "cooing",
@@ -71,13 +72,13 @@
     "by_length": {
       "4": 7,
       "5": 4,
-      "6": 12,
+      "6": 13,
       "7": 23,
       "8": 8,
       "9": 1
     },
     "by_first_letter": {
-      "C": 16,
+      "C": 17,
       "G": 16,
       "I": 6,
       "K": 4,
@@ -87,7 +88,7 @@
     },
     "grid": {
       "C": {
-        "6": 3,
+        "6": 4,
         "7": 8,
         "8": 4,
         "9": 1
@@ -126,7 +127,7 @@
       }
     },
     "two_letter_list": {
-      "CO": 12,
+      "CO": 13,
       "CR": 4,
       "GI": 3,
       "GO": 7,

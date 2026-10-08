@@ -1,9 +1,9 @@
 {
   "pangram": "chained",
   "center_letter": "d",
-  "num_answers": 77,
+  "num_answers": 78,
   "num_pangrams": 2,
-  "possible_points": 386,
+  "possible_points": 394,
   "answer_pangrams": [
     "chained",
     "hacienda"
@@ -25,6 +25,7 @@
     "caddie",
     "caddied",
     "cadence",
+    "cadenced",
     "candid",
     "candied",
     "caned",
@@ -94,12 +95,12 @@
       "5": 15,
       "6": 25,
       "7": 11,
-      "8": 4,
+      "8": 5,
       "9": 2
     },
     "by_first_letter": {
       "A": 12,
-      "C": 18,
+      "C": 19,
       "D": 22,
       "E": 3,
       "H": 14,
@@ -117,7 +118,8 @@
         "4": 2,
         "5": 3,
         "6": 6,
-        "7": 7
+        "7": 7,
+        "8": 1
       },
       "D": {
         "4": 6,
@@ -155,7 +157,7 @@
       "AD": 3,
       "AH": 1,
       "AI": 2,
-      "CA": 8,
+      "CA": 9,
       "CE": 2,
       "CH": 6,
       "CI": 2,

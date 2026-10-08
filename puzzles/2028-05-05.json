@@ -1,9 +1,9 @@
 {
   "pangram": "dubiety",
   "center_letter": "e",
-  "num_answers": 43,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 169,
+  "possible_points": 176,
   "answer_pangrams": [
     "dubiety"
   ],
@@ -15,6 +15,7 @@
     "bidet",
     "bite",
     "budded",
+    "buddied",
     "butte",
     "butted",
     "byte",
@@ -58,10 +59,10 @@
       "4": 18,
       "5": 10,
       "6": 11,
-      "7": 4
+      "7": 5
     },
     "by_first_letter": {
-      "B": 10,
+      "B": 11,
       "D": 17,
       "E": 7,
       "T": 8,
@@ -72,7 +73,7 @@
         "4": 3,
         "5": 2,
         "6": 4,
-        "7": 1
+        "7": 2
       },
       "D": {
         "4": 7,
@@ -97,7 +98,7 @@
     "two_letter_list": {
       "BE": 4,
       "BI": 2,
-      "BU": 3,
+      "BU": 4,
       "BY": 1,
       "DE": 8,
       "DI": 3,

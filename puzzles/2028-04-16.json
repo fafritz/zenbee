@@ -1,9 +1,9 @@
 {
   "pangram": "climbed",
   "center_letter": "b",
-  "num_answers": 30,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 160,
+  "possible_points": 166,
   "answer_pangrams": [
     "climbed"
   ],
@@ -37,14 +37,15 @@
     "imbibed",
     "libel",
     "libeled",
-    "limb"
+    "limb",
+    "limbed"
   ],
   "date": "2028-04-16",
   "hints": {
     "by_length": {
       "4": 6,
       "5": 8,
-      "6": 8,
+      "6": 9,
       "7": 6,
       "8": 1,
       "9": 1
@@ -55,7 +56,7 @@
       "D": 3,
       "E": 5,
       "I": 4,
-      "L": 3
+      "L": 4
     },
     "grid": {
       "B": {
@@ -86,6 +87,7 @@
       "L": {
         "4": 1,
         "5": 1,
+        "6": 1,
         "7": 1
       }
     },
@@ -101,7 +103,7 @@
       "EM": 3,
       "IB": 1,
       "IM": 3,
-      "LI": 3
+      "LI": 4
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "pangram": "tumbled",
   "center_letter": "u",
-  "num_answers": 61,
+  "num_answers": 63,
   "num_pangrams": 1,
-  "possible_points": 286,
+  "possible_points": 300,
   "answer_pangrams": [
     "tumbled"
   ],
@@ -19,6 +19,7 @@
     "bull",
     "bulled",
     "bullet",
+    "bulleted",
     "bumble",
     "bumblebee",
     "bumbled",
@@ -39,6 +40,7 @@
     "dulled",
     "dumb",
     "dumbbell",
+    "dumbed",
     "elude",
     "eluded",
     "etude",
@@ -75,14 +77,14 @@
     "by_length": {
       "4": 18,
       "5": 11,
-      "6": 22,
+      "6": 23,
       "7": 7,
-      "8": 2,
+      "8": 3,
       "9": 1
     },
     "by_first_letter": {
-      "B": 17,
-      "D": 14,
+      "B": 18,
+      "D": 15,
       "E": 3,
       "L": 6,
       "M": 12,
@@ -95,13 +97,13 @@
         "5": 2,
         "6": 8,
         "7": 2,
-        "8": 1,
+        "8": 2,
         "9": 1
       },
       "D": {
         "4": 5,
         "5": 2,
-        "6": 4,
+        "6": 5,
         "7": 2,
         "8": 1
       },
@@ -132,9 +134,9 @@
     },
     "two_letter_list": {
       "BL": 3,
-      "BU": 14,
+      "BU": 15,
       "DE": 4,
-      "DU": 10,
+      "DU": 11,
       "EL": 2,
       "ET": 1,
       "LU": 6,

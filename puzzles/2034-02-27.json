@@ -1,9 +1,9 @@
 {
   "pangram": "matched",
   "center_letter": "d",
-  "num_answers": 66,
+  "num_answers": 67,
   "num_pangrams": 1,
-  "possible_points": 336,
+  "possible_points": 342,
   "answer_pangrams": [
     "matched"
   ],
@@ -73,14 +73,15 @@
     "teed",
     "teemed",
     "teethed",
-    "thatched"
+    "thatched",
+    "themed"
   ],
   "date": "2034-02-27",
   "hints": {
     "by_length": {
       "4": 14,
       "5": 16,
-      "6": 22,
+      "6": 23,
       "7": 9,
       "8": 5
     },
@@ -91,7 +92,7 @@
       "E": 4,
       "H": 11,
       "M": 10,
-      "T": 7
+      "T": 8
     },
     "grid": {
       "A": {
@@ -134,7 +135,7 @@
       "T": {
         "4": 1,
         "5": 1,
-        "6": 3,
+        "6": 4,
         "7": 1,
         "8": 1
       }
@@ -158,7 +159,7 @@
       "ME": 2,
       "TA": 2,
       "TE": 4,
-      "TH": 1
+      "TH": 2
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "pangram": "thumped",
   "center_letter": "p",
-  "num_answers": 31,
+  "num_answers": 33,
   "num_pangrams": 1,
-  "possible_points": 134,
+  "possible_points": 146,
   "answer_pangrams": [
     "thumped"
   ],
@@ -19,6 +19,7 @@
     "epee",
     "hemp",
     "hump",
+    "humped",
     "peed",
     "peep",
     "peeped",
@@ -30,6 +31,7 @@
     "puppet",
     "putt",
     "putted",
+    "teepee",
     "temp",
     "temped",
     "tempt",
@@ -45,15 +47,15 @@
     "by_length": {
       "4": 11,
       "5": 7,
-      "6": 10,
+      "6": 12,
       "7": 3
     },
     "by_first_letter": {
       "D": 8,
       "E": 1,
-      "H": 2,
+      "H": 3,
       "P": 11,
-      "T": 7,
+      "T": 8,
       "U": 2
     },
     "grid": {
@@ -67,7 +69,8 @@
         "4": 1
       },
       "H": {
-        "4": 2
+        "4": 2,
+        "6": 1
       },
       "P": {
         "4": 4,
@@ -76,7 +79,7 @@
       "T": {
         "4": 1,
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 2
       },
       "U": {
@@ -88,10 +91,10 @@
       "DU": 4,
       "EP": 1,
       "HE": 1,
-      "HU": 1,
+      "HU": 2,
       "PE": 5,
       "PU": 6,
-      "TE": 5,
+      "TE": 6,
       "TH": 2,
       "UM": 1,
       "UP": 1

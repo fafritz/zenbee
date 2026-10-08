@@ -1,9 +1,9 @@
 {
   "pangram": "exclaim",
   "center_letter": "l",
-  "num_answers": 43,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 179,
+  "possible_points": 194,
   "answer_pangrams": [
     "exclaim"
   ],
@@ -32,6 +32,8 @@
     "lace",
     "lama",
     "lame",
+    "lamella",
+    "lamellae",
     "lemma",
     "lexical",
     "lice",
@@ -58,15 +60,15 @@
       "4": 16,
       "5": 15,
       "6": 5,
-      "7": 5,
-      "8": 2
+      "7": 6,
+      "8": 3
     },
     "by_first_letter": {
       "A": 4,
       "C": 11,
       "E": 4,
       "I": 2,
-      "L": 9,
+      "L": 11,
       "M": 13
     },
     "grid": {
@@ -93,7 +95,8 @@
       "L": {
         "4": 5,
         "5": 3,
-        "7": 1
+        "7": 2,
+        "8": 1
       },
       "M": {
         "4": 6,
@@ -115,7 +118,7 @@
       "EX": 3,
       "IC": 1,
       "IL": 1,
-      "LA": 3,
+      "LA": 5,
       "LE": 2,
       "LI": 3,
       "LL": 1,

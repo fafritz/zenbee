@@ -1,0 +1,91 @@
+{
+  "pangram": "nymphae",
+  "center_letter": "m",
+  "num_answers": 23,
+  "num_pangrams": 1,
+  "possible_points": 84,
+  "answer_pangrams": [
+    "nymphae"
+  ],
+  "answers": [
+    "amen",
+    "enema",
+    "enemy",
+    "hammam",
+    "heme",
+    "hemp",
+    "hempen",
+    "hymen",
+    "hymn",
+    "mama",
+    "mamma",
+    "mammae",
+    "mane",
+    "manna",
+    "many",
+    "mayhem",
+    "mean",
+    "meme",
+    "myna",
+    "name",
+    "nymph",
+    "nymphae",
+    "pampa"
+  ],
+  "date": "2039-03-25",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 7,
+      "6": 4,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "E": 2,
+      "H": 6,
+      "M": 10,
+      "N": 3,
+      "P": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "E": {
+        "5": 2
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 2
+      },
+      "M": {
+        "4": 6,
+        "5": 2,
+        "6": 2
+      },
+      "N": {
+        "4": 1,
+        "5": 1,
+        "7": 1
+      },
+      "P": {
+        "5": 1
+      }
+    },
+    "two_letter_list": {
+      "AM": 1,
+      "EN": 2,
+      "HA": 1,
+      "HE": 3,
+      "HY": 2,
+      "MA": 7,
+      "ME": 2,
+      "MY": 1,
+      "NA": 1,
+      "NY": 2,
+      "PA": 1
+    }
+  }
+}

@@ -1,9 +1,9 @@
 {
   "pangram": "fluxing",
   "center_letter": "l",
-  "num_answers": 34,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 173,
+  "possible_points": 180,
   "answer_pangrams": [
     "fluxing"
   ],
@@ -33,6 +33,7 @@
     "lignin",
     "lining",
     "luff",
+    "luffing",
     "lugging",
     "luging",
     "lull",
@@ -49,7 +50,7 @@
       "4": 11,
       "5": 3,
       "6": 7,
-      "7": 8,
+      "7": 9,
       "8": 4,
       "10": 1
     },
@@ -57,7 +58,7 @@
       "F": 14,
       "G": 6,
       "I": 2,
-      "L": 10,
+      "L": 11,
       "N": 2
     },
     "grid": {
@@ -81,7 +82,7 @@
       "L": {
         "4": 4,
         "6": 3,
-        "7": 3
+        "7": 4
       },
       "N": {
         "4": 1,
@@ -97,7 +98,7 @@
       "GU": 3,
       "IN": 2,
       "LI": 2,
-      "LU": 8,
+      "LU": 9,
       "NI": 1,
       "NU": 1
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "implant",
   "center_letter": "p",
-  "num_answers": 37,
+  "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 158,
+  "possible_points": 159,
   "answer_pangrams": [
     "implant"
   ],
@@ -44,12 +44,13 @@
     "plantain",
     "pliant",
     "tamp",
-    "timpani"
+    "timpani",
+    "tipi"
   ],
   "date": "2034-03-22",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 15,
       "5": 9,
       "6": 8,
       "7": 4,
@@ -61,7 +62,7 @@
       "L": 2,
       "N": 1,
       "P": 28,
-      "T": 2
+      "T": 3
     },
     "grid": {
       "A": {
@@ -86,7 +87,7 @@
         "8": 2
       },
       "T": {
-        "4": 1,
+        "4": 2,
         "7": 1
       }
     },
@@ -101,7 +102,7 @@
       "PI": 7,
       "PL": 7,
       "TA": 1,
-      "TI": 1
+      "TI": 2
     }
   }
 }

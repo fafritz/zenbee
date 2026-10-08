@@ -1,9 +1,9 @@
 {
   "pangram": "matched",
   "center_letter": "h",
-  "num_answers": 59,
+  "num_answers": 60,
   "num_pangrams": 1,
-  "possible_points": 284,
+  "possible_points": 290,
   "answer_pangrams": [
     "matched"
   ],
@@ -66,6 +66,7 @@
     "thee",
     "them",
     "theme",
+    "themed",
     "theta"
   ],
   "date": "2035-07-02",
@@ -73,7 +74,7 @@
     "by_length": {
       "4": 16,
       "5": 15,
-      "6": 14,
+      "6": 15,
       "7": 10,
       "8": 4
     },
@@ -84,7 +85,7 @@
       "E": 3,
       "H": 18,
       "M": 5,
-      "T": 12
+      "T": 13
     },
     "grid": {
       "A": {
@@ -124,7 +125,7 @@
       "T": {
         "4": 4,
         "5": 4,
-        "6": 2,
+        "6": 3,
         "7": 1,
         "8": 1
       }
@@ -143,7 +144,7 @@
       "HE": 10,
       "MA": 5,
       "TE": 5,
-      "TH": 7
+      "TH": 8
     }
   }
 }

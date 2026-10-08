@@ -1,9 +1,9 @@
 {
   "pangram": "coughed",
   "center_letter": "u",
-  "num_answers": 21,
+  "num_answers": 22,
   "num_pangrams": 1,
-  "possible_points": 106,
+  "possible_points": 112,
   "answer_pangrams": [
     "coughed"
   ],
@@ -24,6 +24,7 @@
     "dude",
     "duded",
     "educe",
+    "educed",
     "gouge",
     "gouged",
     "huge",
@@ -35,13 +36,13 @@
     "by_length": {
       "4": 5,
       "5": 7,
-      "6": 4,
+      "6": 5,
       "7": 5
     },
     "by_first_letter": {
       "C": 7,
       "D": 8,
-      "E": 1,
+      "E": 2,
       "G": 2,
       "H": 2,
       "O": 1
@@ -59,7 +60,8 @@
         "7": 2
       },
       "E": {
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "G": {
         "5": 1,
@@ -80,7 +82,7 @@
       "DE": 4,
       "DO": 2,
       "DU": 2,
-      "ED": 1,
+      "ED": 2,
       "GO": 2,
       "HU": 2,
       "OU": 1

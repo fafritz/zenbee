@@ -1,9 +1,9 @@
 {
   "pangram": "pounced",
   "center_letter": "n",
-  "num_answers": 66,
+  "num_answers": 67,
   "num_pangrams": 1,
-  "possible_points": 330,
+  "possible_points": 335,
   "answer_pangrams": [
     "pounced"
   ],
@@ -17,6 +17,7 @@
     "condoned",
     "conduced",
     "cone",
+    "coned",
     "conned",
     "coupon",
     "deepen",
@@ -79,7 +80,7 @@
   "hints": {
     "by_length": {
       "4": 19,
-      "5": 10,
+      "5": 11,
       "6": 19,
       "7": 7,
       "8": 9,
@@ -87,7 +88,7 @@
       "10": 1
     },
     "by_first_letter": {
-      "C": 11,
+      "C": 12,
       "D": 14,
       "E": 4,
       "N": 12,
@@ -98,7 +99,7 @@
     "grid": {
       "C": {
         "4": 1,
-        "5": 1,
+        "5": 2,
         "6": 3,
         "7": 2,
         "8": 4
@@ -142,7 +143,7 @@
       }
     },
     "two_letter_list": {
-      "CO": 11,
+      "CO": 12,
       "DE": 9,
       "DO": 2,
       "DU": 3,

@@ -1,9 +1,9 @@
 {
   "pangram": "payment",
   "center_letter": "e",
-  "num_answers": 61,
+  "num_answers": 62,
   "num_pangrams": 1,
-  "possible_points": 219,
+  "possible_points": 225,
   "answer_pangrams": [
     "payment"
   ],
@@ -61,6 +61,7 @@
     "teem",
     "teen",
     "teeny",
+    "teepee",
     "temp",
     "tempt",
     "tenant",
@@ -75,7 +76,7 @@
     "by_length": {
       "4": 30,
       "5": 17,
-      "6": 4,
+      "6": 5,
       "7": 7,
       "8": 3
     },
@@ -85,7 +86,7 @@
       "M": 13,
       "N": 6,
       "P": 15,
-      "T": 15
+      "T": 16
     },
     "grid": {
       "A": {
@@ -117,7 +118,7 @@
       "T": {
         "4": 8,
         "5": 4,
-        "6": 1,
+        "6": 2,
         "8": 2
       }
     },
@@ -136,7 +137,7 @@
       "PA": 6,
       "PE": 9,
       "TA": 2,
-      "TE": 12,
+      "TE": 13,
       "TY": 1
     }
   }

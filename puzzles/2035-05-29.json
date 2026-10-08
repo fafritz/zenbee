@@ -1,9 +1,9 @@
 {
   "pangram": "fraying",
   "center_letter": "r",
-  "num_answers": 57,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 306,
+  "possible_points": 314,
   "answer_pangrams": [
     "fraying"
   ],
@@ -28,6 +28,7 @@
     "faring",
     "firing",
     "frag",
+    "fragging",
     "fray",
     "fraying",
     "friar",
@@ -73,13 +74,13 @@
       "5": 8,
       "6": 11,
       "7": 13,
-      "8": 6,
+      "8": 7,
       "9": 1,
       "10": 3
     },
     "by_first_letter": {
       "A": 13,
-      "F": 12,
+      "F": 13,
       "G": 10,
       "I": 4,
       "R": 17,
@@ -100,7 +101,7 @@
         "5": 2,
         "6": 4,
         "7": 2,
-        "8": 1
+        "8": 2
       },
       "G": {
         "4": 2,
@@ -133,7 +134,7 @@
       "AR": 6,
       "FA": 5,
       "FI": 1,
-      "FR": 6,
+      "FR": 7,
       "GA": 1,
       "GR": 9,
       "IN": 4,

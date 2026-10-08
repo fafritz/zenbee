@@ -1,9 +1,9 @@
 {
   "pangram": "pimento",
   "center_letter": "i",
-  "num_answers": 61,
+  "num_answers": 62,
   "num_pangrams": 4,
-  "possible_points": 328,
+  "possible_points": 329,
   "answer_pangrams": [
     "impotent",
     "omnipotent",
@@ -70,13 +70,14 @@
     "time",
     "tine",
     "tint",
+    "tipi",
     "tiptoe",
     "tiptop"
   ],
   "date": "2037-06-25",
   "hints": {
     "by_length": {
-      "4": 19,
+      "4": 20,
       "5": 8,
       "6": 14,
       "7": 8,
@@ -91,7 +92,7 @@
       "N": 5,
       "O": 8,
       "P": 18,
-      "T": 5
+      "T": 6
     },
     "grid": {
       "E": {
@@ -134,7 +135,7 @@
         "8": 4
       },
       "T": {
-        "4": 3,
+        "4": 4,
         "6": 2
       }
     },
@@ -156,7 +157,7 @@
       "PE": 3,
       "PI": 12,
       "PO": 3,
-      "TI": 5
+      "TI": 6
     }
   }
 }

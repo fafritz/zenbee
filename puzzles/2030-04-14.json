@@ -1,9 +1,9 @@
 {
   "pangram": "adeptly",
   "center_letter": "t",
-  "num_answers": 65,
+  "num_answers": 67,
   "num_pangrams": 1,
-  "possible_points": 343,
+  "possible_points": 356,
   "answer_pangrams": [
     "adeptly"
   ],
@@ -47,6 +47,7 @@
     "pelt",
     "pelted",
     "petal",
+    "petaled",
     "petted",
     "petty",
     "plate",
@@ -67,6 +68,7 @@
     "tatty",
     "teal",
     "teed",
+    "teepee",
     "teletype",
     "tell",
     "telltale",
@@ -79,8 +81,8 @@
     "by_length": {
       "4": 13,
       "5": 19,
-      "6": 14,
-      "7": 11,
+      "6": 15,
+      "7": 12,
       "8": 6,
       "9": 1,
       "10": 1
@@ -90,8 +92,8 @@
       "D": 9,
       "E": 3,
       "L": 5,
-      "P": 23,
-      "T": 19
+      "P": 24,
+      "T": 20
     },
     "grid": {
       "A": {
@@ -120,13 +122,13 @@
         "4": 3,
         "5": 5,
         "6": 7,
-        "7": 5,
+        "7": 6,
         "8": 3
       },
       "T": {
         "4": 7,
         "5": 5,
-        "6": 3,
+        "6": 4,
         "7": 1,
         "8": 2,
         "10": 1
@@ -142,10 +144,10 @@
       "LA": 4,
       "LE": 1,
       "PA": 10,
-      "PE": 8,
+      "PE": 9,
       "PL": 5,
       "TA": 11,
-      "TE": 6,
+      "TE": 7,
       "TY": 2
     }
   }

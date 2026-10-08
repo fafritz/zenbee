@@ -1,0 +1,113 @@
+{
+  "pangram": "educing",
+  "center_letter": "c",
+  "num_answers": 34,
+  "num_pangrams": 2,
+  "possible_points": 205,
+  "answer_pangrams": [
+    "deducing",
+    "educing"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "ceding",
+    "cued",
+    "cuing",
+    "cunning",
+    "decide",
+    "decided",
+    "deciding",
+    "deduce",
+    "deduced",
+    "deducing",
+    "deice",
+    "deiced",
+    "deicing",
+    "deuce",
+    "deuced",
+    "dice",
+    "diced",
+    "dicing",
+    "dunce",
+    "educe",
+    "educed",
+    "educing",
+    "iced",
+    "icing",
+    "incidence",
+    "indigence",
+    "induce",
+    "induced",
+    "inducing",
+    "nice",
+    "niece",
+    "undecided"
+  ],
+  "date": "2039-03-05",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 9,
+      "6": 8,
+      "7": 6,
+      "8": 3,
+      "9": 3
+    },
+    "by_first_letter": {
+      "C": 6,
+      "D": 15,
+      "E": 3,
+      "I": 7,
+      "N": 2,
+      "U": 1
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 1
+      },
+      "D": {
+        "4": 1,
+        "5": 4,
+        "6": 5,
+        "7": 3,
+        "8": 2
+      },
+      "E": {
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "I": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 2
+      },
+      "N": {
+        "4": 1,
+        "5": 1
+      },
+      "U": {
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 3,
+      "CU": 3,
+      "DE": 11,
+      "DI": 3,
+      "DU": 1,
+      "ED": 3,
+      "IC": 2,
+      "IN": 5,
+      "NI": 2,
+      "UN": 1
+    }
+  }
+}

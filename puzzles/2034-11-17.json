@@ -1,9 +1,9 @@
 {
   "pangram": "inflame",
   "center_letter": "m",
-  "num_answers": 61,
+  "num_answers": 63,
   "num_pangrams": 1,
-  "possible_points": 257,
+  "possible_points": 272,
   "answer_pangrams": [
     "inflame"
   ],
@@ -28,6 +28,8 @@
     "inflame",
     "lama",
     "lame",
+    "lamella",
+    "lamellae",
     "lemma",
     "lime",
     "limn",
@@ -76,8 +78,8 @@
       "4": 26,
       "5": 11,
       "6": 10,
-      "7": 7,
-      "8": 4,
+      "7": 8,
+      "8": 5,
       "9": 2,
       "10": 1
     },
@@ -86,7 +88,7 @@
       "E": 3,
       "F": 8,
       "I": 2,
-      "L": 8,
+      "L": 10,
       "M": 34,
       "N": 1
     },
@@ -113,7 +115,8 @@
       "L": {
         "4": 4,
         "5": 2,
-        "7": 2
+        "7": 3,
+        "8": 1
       },
       "M": {
         "4": 17,
@@ -140,7 +143,7 @@
       "FL": 2,
       "IM": 1,
       "IN": 1,
-      "LA": 2,
+      "LA": 4,
       "LE": 1,
       "LI": 4,
       "LL": 1,

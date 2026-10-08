@@ -1,9 +1,9 @@
 {
   "pangram": "albumen",
   "center_letter": "e",
-  "num_answers": 60,
+  "num_answers": 62,
   "num_pangrams": 1,
-  "possible_points": 239,
+  "possible_points": 254,
   "answer_pangrams": [
     "albumen"
   ],
@@ -46,6 +46,8 @@
     "enema",
     "label",
     "lame",
+    "lamella",
+    "lamellae",
     "lane",
     "lean",
     "lemma",
@@ -75,15 +77,15 @@
       "4": 26,
       "5": 11,
       "6": 16,
-      "7": 3,
-      "8": 2,
+      "7": 4,
+      "8": 3,
       "9": 2
     },
     "by_first_letter": {
       "A": 10,
       "B": 20,
       "E": 6,
-      "L": 6,
+      "L": 8,
       "M": 11,
       "N": 4,
       "U": 3
@@ -110,7 +112,9 @@
       },
       "L": {
         "4": 4,
-        "5": 2
+        "5": 2,
+        "7": 1,
+        "8": 1
       },
       "M": {
         "4": 7,
@@ -140,7 +144,7 @@
       "EL": 1,
       "EM": 2,
       "EN": 3,
-      "LA": 3,
+      "LA": 5,
       "LE": 2,
       "LU": 1,
       "MA": 4,

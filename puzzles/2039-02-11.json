@@ -1,9 +1,9 @@
 {
   "pangram": "mewling",
   "center_letter": "i",
-  "num_answers": 60,
+  "num_answers": 61,
   "num_pangrams": 1,
-  "possible_points": 305,
+  "possible_points": 312,
   "answer_pangrams": [
     "mewling"
   ],
@@ -66,6 +66,7 @@
     "wine",
     "wing",
     "winging",
+    "wingmen",
     "wining",
     "winning"
   ],
@@ -75,7 +76,7 @@
       "4": 16,
       "5": 6,
       "6": 19,
-      "7": 14,
+      "7": 15,
       "8": 5
     },
     "by_first_letter": {
@@ -85,7 +86,7 @@
       "L": 13,
       "M": 14,
       "N": 4,
-      "W": 14
+      "W": 15
     },
     "grid": {
       "E": {
@@ -122,7 +123,7 @@
       "W": {
         "4": 4,
         "6": 4,
-        "7": 5,
+        "7": 6,
         "8": 1
       }
     },
@@ -140,7 +141,7 @@
       "NE": 1,
       "NI": 3,
       "WE": 2,
-      "WI": 12
+      "WI": 13
     }
   }
 }

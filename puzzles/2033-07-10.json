@@ -1,9 +1,9 @@
 {
   "pangram": "fluxing",
   "center_letter": "f",
-  "num_answers": 22,
+  "num_answers": 24,
   "num_pangrams": 1,
-  "possible_points": 116,
+  "possible_points": 131,
   "answer_pangrams": [
     "fluxing"
   ],
@@ -28,8 +28,10 @@
     "guff",
     "gulf",
     "infix",
+    "infixing",
     "influx",
-    "luff"
+    "luff",
+    "luffing"
   ],
   "date": "2033-07-10",
   "hints": {
@@ -37,15 +39,15 @@
       "4": 6,
       "5": 5,
       "6": 4,
-      "7": 4,
-      "8": 2,
+      "7": 5,
+      "8": 3,
       "10": 1
     },
     "by_first_letter": {
       "F": 17,
       "G": 2,
-      "I": 2,
-      "L": 1
+      "I": 3,
+      "L": 2
     },
     "grid": {
       "F": {
@@ -61,10 +63,12 @@
       },
       "I": {
         "5": 1,
-        "6": 1
+        "6": 1,
+        "8": 1
       },
       "L": {
-        "4": 1
+        "4": 1,
+        "7": 1
       }
     },
     "two_letter_list": {
@@ -72,8 +76,8 @@
       "FL": 7,
       "FU": 5,
       "GU": 2,
-      "IN": 2,
-      "LU": 1
+      "IN": 3,
+      "LU": 2
     }
   }
 }

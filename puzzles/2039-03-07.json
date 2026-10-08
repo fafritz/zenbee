@@ -1,0 +1,83 @@
+{
+  "pangram": "nymphae",
+  "center_letter": "p",
+  "num_answers": 25,
+  "num_pangrams": 1,
+  "possible_points": 99,
+  "answer_pangrams": [
+    "nymphae"
+  ],
+  "answers": [
+    "epee",
+    "happen",
+    "happy",
+    "heap",
+    "hemp",
+    "hempen",
+    "hype",
+    "hyphen",
+    "nape",
+    "nappy",
+    "neap",
+    "nymph",
+    "nymphae",
+    "paean",
+    "pampa",
+    "pane",
+    "papa",
+    "papaya",
+    "payee",
+    "peahen",
+    "peen",
+    "peep",
+    "penne",
+    "penny",
+    "peppy"
+  ],
+  "date": "2039-03-07",
+  "hints": {
+    "by_length": {
+      "4": 10,
+      "5": 9,
+      "6": 5,
+      "7": 1
+    },
+    "by_first_letter": {
+      "E": 1,
+      "H": 7,
+      "N": 5,
+      "P": 12
+    },
+    "grid": {
+      "E": {
+        "4": 1
+      },
+      "H": {
+        "4": 3,
+        "5": 1,
+        "6": 3
+      },
+      "N": {
+        "4": 2,
+        "5": 2,
+        "7": 1
+      },
+      "P": {
+        "4": 4,
+        "5": 6,
+        "6": 2
+      }
+    },
+    "two_letter_list": {
+      "EP": 1,
+      "HA": 2,
+      "HE": 3,
+      "HY": 2,
+      "NA": 2,
+      "NE": 1,
+      "NY": 2,
+      "PA": 6,
+      "PE": 6
+    }
+  }
+}

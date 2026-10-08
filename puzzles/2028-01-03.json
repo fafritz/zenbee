@@ -1,9 +1,9 @@
 {
   "pangram": "cleanup",
   "center_letter": "e",
-  "num_answers": 52,
+  "num_answers": 53,
   "num_pangrams": 1,
-  "possible_points": 197,
+  "possible_points": 205,
   "answer_pangrams": [
     "cleanup"
   ],
@@ -17,6 +17,7 @@
     "canape",
     "cancel",
     "cane",
+    "cannulae",
     "cape",
     "cell",
     "clean",
@@ -67,11 +68,12 @@
       "4": 22,
       "5": 17,
       "6": 8,
-      "7": 5
+      "7": 5,
+      "8": 1
     },
     "by_first_letter": {
       "A": 6,
-      "C": 8,
+      "C": 9,
       "E": 2,
       "L": 7,
       "N": 4,
@@ -88,7 +90,8 @@
         "4": 4,
         "5": 1,
         "6": 2,
-        "7": 1
+        "7": 1,
+        "8": 1
       },
       "E": {
         "4": 2
@@ -119,7 +122,7 @@
       "AL": 1,
       "AN": 1,
       "AP": 3,
-      "CA": 4,
+      "CA": 5,
       "CE": 1,
       "CL": 3,
       "EL": 1,

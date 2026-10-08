@@ -1,9 +1,9 @@
 {
   "pangram": "quacked",
   "center_letter": "d",
-  "num_answers": 31,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 136,
+  "possible_points": 142,
   "answer_pangrams": [
     "quacked"
   ],
@@ -34,6 +34,7 @@
     "duded",
     "duke",
     "educe",
+    "educed",
     "eked",
     "quacked",
     "quad",
@@ -45,14 +46,14 @@
     "by_length": {
       "4": 11,
       "5": 6,
-      "6": 10,
+      "6": 11,
       "7": 4
     },
     "by_first_letter": {
       "A": 6,
       "C": 4,
       "D": 15,
-      "E": 2,
+      "E": 3,
       "Q": 4
     },
     "grid": {
@@ -74,7 +75,8 @@
       },
       "E": {
         "4": 1,
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "Q": {
         "4": 1,
@@ -90,7 +92,7 @@
       "CU": 1,
       "DE": 10,
       "DU": 5,
-      "ED": 1,
+      "ED": 2,
       "EK": 1,
       "QU": 4
     }

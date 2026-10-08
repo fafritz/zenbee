@@ -1,9 +1,9 @@
 {
   "pangram": "pigment",
   "center_letter": "p",
-  "num_answers": 41,
+  "num_answers": 43,
   "num_pangrams": 4,
-  "possible_points": 250,
+  "possible_points": 257,
   "answer_pangrams": [
     "impingement",
     "pigment",
@@ -46,19 +46,21 @@
     "pippin",
     "pipping",
     "pitting",
+    "teepee",
     "temp",
     "temping",
     "tempt",
     "tempting",
     "tepee",
+    "tipi",
     "tipping"
   ],
   "date": "2029-09-04",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 11,
       "5": 5,
-      "6": 6,
+      "6": 7,
       "7": 15,
       "8": 2,
       "9": 1,
@@ -70,7 +72,7 @@
       "I": 5,
       "N": 1,
       "P": 28,
-      "T": 6
+      "T": 8
     },
     "grid": {
       "E": {
@@ -94,8 +96,9 @@
         "8": 1
       },
       "T": {
-        "4": 1,
+        "4": 2,
         "5": 2,
+        "6": 1,
         "7": 2,
         "8": 1
       }
@@ -107,8 +110,8 @@
       "NI": 1,
       "PE": 10,
       "PI": 18,
-      "TE": 5,
-      "TI": 1
+      "TE": 6,
+      "TI": 2
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "pangram": "mulched",
   "center_letter": "c",
-  "num_answers": 26,
+  "num_answers": 27,
   "num_pangrams": 1,
-  "possible_points": 121,
+  "possible_points": 127,
   "answer_pangrams": [
     "mulched"
   ],
@@ -27,6 +27,7 @@
     "deuce",
     "deuced",
     "educe",
+    "educed",
     "emcee",
     "emceed",
     "leech",
@@ -40,13 +41,13 @@
     "by_length": {
       "4": 8,
       "5": 7,
-      "6": 6,
+      "6": 7,
       "7": 5
     },
     "by_first_letter": {
       "C": 14,
       "D": 4,
-      "E": 3,
+      "E": 4,
       "L": 2,
       "M": 3
     },
@@ -64,7 +65,7 @@
       },
       "E": {
         "5": 2,
-        "6": 1
+        "6": 2
       },
       "L": {
         "5": 1,
@@ -82,7 +83,7 @@
       "CL": 2,
       "CU": 5,
       "DE": 4,
-      "ED": 1,
+      "ED": 2,
       "EM": 2,
       "LE": 2,
       "MU": 3

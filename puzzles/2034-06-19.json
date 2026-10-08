@@ -1,9 +1,9 @@
 {
   "pangram": "defunct",
   "center_letter": "e",
-  "num_answers": 75,
+  "num_answers": 77,
   "num_pangrams": 1,
-  "possible_points": 362,
+  "possible_points": 374,
   "answer_pangrams": [
     "defunct"
   ],
@@ -38,6 +38,7 @@
     "detente",
     "deuce",
     "deuced",
+    "ducted",
     "dude",
     "duded",
     "duet",
@@ -45,6 +46,7 @@
     "dune",
     "dunned",
     "educe",
+    "educed",
     "effect",
     "effected",
     "effete",
@@ -89,15 +91,15 @@
     "by_length": {
       "4": 22,
       "5": 12,
-      "6": 27,
+      "6": 29,
       "7": 5,
       "8": 7,
       "10": 2
     },
     "by_first_letter": {
       "C": 6,
-      "D": 30,
-      "E": 8,
+      "D": 31,
+      "E": 9,
       "F": 12,
       "N": 5,
       "T": 10,
@@ -112,13 +114,13 @@
       "D": {
         "4": 6,
         "5": 3,
-        "6": 12,
+        "6": 13,
         "7": 4,
         "8": 5
       },
       "E": {
         "5": 3,
-        "6": 3,
+        "6": 4,
         "7": 1,
         "8": 1
       },
@@ -146,8 +148,8 @@
       "CE": 3,
       "CU": 3,
       "DE": 24,
-      "DU": 6,
-      "ED": 1,
+      "DU": 7,
+      "ED": 2,
       "EF": 3,
       "EN": 3,
       "ET": 1,

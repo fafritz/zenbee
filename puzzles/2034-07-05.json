@@ -1,9 +1,9 @@
 {
   "pangram": "echoing",
   "center_letter": "n",
-  "num_answers": 65,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 315,
+  "possible_points": 321,
   "answer_pangrams": [
     "echoing"
   ],
@@ -22,6 +22,7 @@
     "conch",
     "cone",
     "conic",
+    "coning",
     "conning",
     "cooing",
     "echoing",
@@ -79,13 +80,13 @@
     "by_length": {
       "4": 18,
       "5": 16,
-      "6": 14,
+      "6": 15,
       "7": 12,
       "8": 3,
       "9": 2
     },
     "by_first_letter": {
-      "C": 16,
+      "C": 17,
       "E": 4,
       "G": 11,
       "H": 9,
@@ -97,7 +98,7 @@
       "C": {
         "4": 3,
         "5": 4,
-        "6": 2,
+        "6": 3,
         "7": 4,
         "8": 2,
         "9": 1
@@ -140,7 +141,7 @@
     "two_letter_list": {
       "CH": 4,
       "CI": 2,
-      "CO": 10,
+      "CO": 11,
       "EC": 1,
       "EG": 2,
       "EN": 1,

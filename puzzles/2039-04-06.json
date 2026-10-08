@@ -1,0 +1,102 @@
+{
+  "pangram": "chunked",
+  "center_letter": "k",
+  "num_answers": 28,
+  "num_pangrams": 2,
+  "possible_points": 128,
+  "answer_pangrams": [
+    "chunked",
+    "unchecked"
+  ],
+  "answers": [
+    "check",
+    "checked",
+    "cheek",
+    "cheeked",
+    "chuck",
+    "chucked",
+    "chunk",
+    "chunked",
+    "deck",
+    "decked",
+    "duck",
+    "ducked",
+    "duke",
+    "dunk",
+    "dunked",
+    "eked",
+    "heck",
+    "hunk",
+    "keen",
+    "keened",
+    "kenned",
+    "knee",
+    "kneed",
+    "neck",
+    "necked",
+    "nuke",
+    "nuked",
+    "unchecked"
+  ],
+  "date": "2039-04-06",
+  "hints": {
+    "by_length": {
+      "4": 11,
+      "5": 6,
+      "6": 6,
+      "7": 4,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 8,
+      "D": 7,
+      "E": 1,
+      "H": 2,
+      "K": 5,
+      "N": 4,
+      "U": 1
+    },
+    "grid": {
+      "C": {
+        "5": 4,
+        "7": 4
+      },
+      "D": {
+        "4": 4,
+        "6": 3
+      },
+      "E": {
+        "4": 1
+      },
+      "H": {
+        "4": 2
+      },
+      "K": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "N": {
+        "4": 2,
+        "5": 1,
+        "6": 1
+      },
+      "U": {
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "CH": 8,
+      "DE": 2,
+      "DU": 5,
+      "EK": 1,
+      "HE": 1,
+      "HU": 1,
+      "KE": 3,
+      "KN": 2,
+      "NE": 2,
+      "NU": 2,
+      "UN": 1
+    }
+  }
+}

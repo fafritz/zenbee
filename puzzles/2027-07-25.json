@@ -1,9 +1,9 @@
 {
   "pangram": "clumped",
   "center_letter": "p",
-  "num_answers": 37,
+  "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 169,
+  "possible_points": 170,
   "answer_pangrams": [
     "clumped"
   ],
@@ -27,6 +27,7 @@
     "peep",
     "peeped",
     "pepped",
+    "pled",
     "plum",
     "plume",
     "plumed",
@@ -49,7 +50,7 @@
   "date": "2027-07-25",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 13,
       "5": 6,
       "6": 14,
       "7": 4,
@@ -60,7 +61,7 @@
       "D": 5,
       "E": 1,
       "L": 2,
-      "P": 24,
+      "P": 25,
       "U": 2
     },
     "grid": {
@@ -82,7 +83,7 @@
         "6": 1
       },
       "P": {
-        "4": 7,
+        "4": 8,
         "5": 2,
         "6": 11,
         "7": 3,
@@ -100,7 +101,7 @@
       "EP": 1,
       "LU": 2,
       "PE": 8,
-      "PL": 5,
+      "PL": 6,
       "PU": 11,
       "UM": 1,
       "UP": 1

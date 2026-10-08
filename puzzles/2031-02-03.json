@@ -1,9 +1,9 @@
 {
   "pangram": "temping",
   "center_letter": "t",
-  "num_answers": 55,
+  "num_answers": 58,
   "num_pangrams": 4,
-  "possible_points": 307,
+  "possible_points": 321,
   "answer_pangrams": [
     "impingement",
     "pigment",
@@ -48,6 +48,7 @@
     "teem",
     "teeming",
     "teen",
+    "teepee",
     "temp",
     "temping",
     "tempt",
@@ -62,18 +63,20 @@
     "tine",
     "tinge",
     "tingeing",
+    "tinging",
     "tinning",
     "tint",
     "tinting",
+    "tipi",
     "tipping"
   ],
   "date": "2031-02-03",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 6,
-      "6": 7,
-      "7": 15,
+      "6": 8,
+      "7": 16,
       "8": 8,
       "10": 1,
       "11": 1
@@ -85,7 +88,7 @@
       "M": 9,
       "N": 2,
       "P": 8,
-      "T": 22
+      "T": 25
     },
     "grid": {
       "E": {
@@ -122,10 +125,10 @@
         "8": 1
       },
       "T": {
-        "4": 7,
+        "4": 8,
         "5": 4,
-        "6": 2,
-        "7": 6,
+        "6": 3,
+        "7": 7,
         "8": 3
       }
     },
@@ -143,8 +146,8 @@
       "NI": 1,
       "PE": 4,
       "PI": 4,
-      "TE": 13,
-      "TI": 9
+      "TE": 14,
+      "TI": 11
     }
   }
 }

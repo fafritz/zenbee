@@ -1,9 +1,9 @@
 {
   "pangram": "halving",
   "center_letter": "v",
-  "num_answers": 19,
+  "num_answers": 20,
   "num_pangrams": 1,
-  "possible_points": 107,
+  "possible_points": 113,
   "answer_pangrams": [
     "halving"
   ],
@@ -17,6 +17,7 @@
     "having",
     "hiving",
     "lava",
+    "laving",
     "living",
     "naval",
     "vain",
@@ -33,7 +34,7 @@
     "by_length": {
       "4": 3,
       "5": 6,
-      "6": 4,
+      "6": 5,
       "7": 5,
       "8": 1
     },
@@ -41,7 +42,7 @@
       "A": 4,
       "G": 1,
       "H": 3,
-      "L": 2,
+      "L": 3,
       "N": 1,
       "V": 8
     },
@@ -59,7 +60,7 @@
       },
       "L": {
         "4": 1,
-        "6": 1
+        "6": 2
       },
       "N": {
         "5": 1
@@ -76,7 +77,7 @@
       "GI": 1,
       "HA": 2,
       "HI": 1,
-      "LA": 1,
+      "LA": 2,
       "LI": 1,
       "NA": 1,
       "VA": 4,

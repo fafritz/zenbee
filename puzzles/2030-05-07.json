@@ -1,9 +1,9 @@
 {
   "pangram": "mouthed",
   "center_letter": "m",
-  "num_answers": 47,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 181,
+  "possible_points": 187,
   "answer_pangrams": [
     "mouthed"
   ],
@@ -53,6 +53,7 @@
     "teemed",
     "them",
     "theme",
+    "themed",
     "tome",
     "totem"
   ],
@@ -61,7 +62,7 @@
     "by_length": {
       "4": 20,
       "5": 12,
-      "6": 12,
+      "6": 13,
       "7": 2,
       "8": 1
     },
@@ -71,7 +72,7 @@
       "H": 5,
       "M": 23,
       "O": 1,
-      "T": 6
+      "T": 7
     },
     "grid": {
       "D": {
@@ -101,7 +102,7 @@
       "T": {
         "4": 3,
         "5": 2,
-        "6": 1
+        "6": 2
       }
     },
     "two_letter_list": {
@@ -116,7 +117,7 @@
       "MU": 4,
       "OU": 1,
       "TE": 2,
-      "TH": 2,
+      "TH": 3,
       "TO": 2
     }
   }

@@ -1,9 +1,9 @@
 {
   "pangram": "decking",
   "center_letter": "d",
-  "num_answers": 65,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 331,
+  "possible_points": 338,
   "answer_pangrams": [
     "decking"
   ],
@@ -52,6 +52,7 @@
     "eked",
     "ended",
     "ending",
+    "engined",
     "geed",
     "gigged",
     "ginned",
@@ -80,14 +81,14 @@
       "4": 15,
       "5": 11,
       "6": 25,
-      "7": 10,
+      "7": 11,
       "8": 2,
       "9": 2
     },
     "by_first_letter": {
       "C": 3,
       "D": 33,
-      "E": 8,
+      "E": 9,
       "G": 3,
       "I": 5,
       "K": 8,
@@ -109,7 +110,8 @@
       "E": {
         "4": 2,
         "5": 3,
-        "6": 3
+        "6": 3,
+        "7": 1
       },
       "G": {
         "4": 1,
@@ -140,7 +142,7 @@
       "ED": 4,
       "EG": 1,
       "EK": 1,
-      "EN": 2,
+      "EN": 3,
       "GE": 1,
       "GI": 2,
       "IC": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "implode",
   "center_letter": "m",
-  "num_answers": 64,
+  "num_answers": 65,
   "num_pangrams": 2,
-  "possible_points": 278,
+  "possible_points": 285,
   "answer_pangrams": [
     "implode",
     "imploded"
@@ -69,6 +69,7 @@
     "pimp",
     "pimped",
     "pimple",
+    "pimpled",
     "poem",
     "pommel",
     "pommeled",
@@ -80,7 +81,7 @@
       "4": 25,
       "5": 10,
       "6": 19,
-      "7": 6,
+      "7": 7,
       "8": 3,
       "9": 1
     },
@@ -89,7 +90,7 @@
       "I": 8,
       "L": 8,
       "M": 29,
-      "P": 7
+      "P": 8
     },
     "grid": {
       "D": {
@@ -119,6 +120,7 @@
       "P": {
         "4": 3,
         "6": 3,
+        "7": 1,
         "8": 1
       }
     },
@@ -133,7 +135,7 @@
       "ME": 7,
       "MI": 8,
       "MO": 14,
-      "PI": 3,
+      "PI": 4,
       "PO": 4
     }
   }

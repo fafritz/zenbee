@@ -1,9 +1,9 @@
 {
   "pangram": "flaring",
   "center_letter": "f",
-  "num_answers": 50,
+  "num_answers": 52,
   "num_pangrams": 2,
-  "possible_points": 282,
+  "possible_points": 298,
   "answer_pangrams": [
     "flaring",
     "raffling"
@@ -41,9 +41,11 @@
     "fling",
     "flinging",
     "frag",
+    "fragging",
     "frail",
     "friar",
     "frill",
+    "frilling",
     "fringing",
     "gaff",
     "gaffing",
@@ -67,13 +69,13 @@
       "5": 8,
       "6": 8,
       "7": 11,
-      "8": 9,
+      "8": 11,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
       "A": 3,
-      "F": 33,
+      "F": 35,
       "G": 3,
       "I": 2,
       "N": 1,
@@ -90,7 +92,7 @@
         "5": 7,
         "6": 6,
         "7": 6,
-        "8": 5,
+        "8": 7,
         "9": 1
       },
       "G": {
@@ -117,7 +119,7 @@
       "FA": 10,
       "FI": 8,
       "FL": 10,
-      "FR": 5,
+      "FR": 7,
       "GA": 2,
       "GR": 1,
       "IN": 2,

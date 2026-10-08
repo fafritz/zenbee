@@ -1,9 +1,9 @@
 {
   "pangram": "plucked",
   "center_letter": "p",
-  "num_answers": 33,
+  "num_answers": 34,
   "num_pangrams": 1,
-  "possible_points": 134,
+  "possible_points": 135,
   "answer_pangrams": [
     "plucked"
   ],
@@ -27,6 +27,7 @@
     "peep",
     "peeped",
     "pepped",
+    "pled",
     "pluck",
     "plucked",
     "puck",
@@ -45,7 +46,7 @@
   "date": "2035-03-18",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 15,
       "5": 4,
       "6": 12,
       "7": 3
@@ -55,7 +56,7 @@
       "D": 3,
       "E": 1,
       "K": 2,
-      "P": 24,
+      "P": 25,
       "U": 2
     },
     "grid": {
@@ -73,7 +74,7 @@
         "4": 2
       },
       "P": {
-        "4": 9,
+        "4": 10,
         "5": 2,
         "6": 10,
         "7": 3
@@ -90,7 +91,7 @@
       "EP": 1,
       "KE": 2,
       "PE": 12,
-      "PL": 2,
+      "PL": 3,
       "PU": 10,
       "UP": 2
     }

@@ -1,14 +1,15 @@
 {
   "pangram": "clamped",
   "center_letter": "p",
-  "num_answers": 66,
+  "num_answers": 69,
   "num_pangrams": 1,
-  "possible_points": 305,
+  "possible_points": 318,
   "answer_pangrams": [
     "clamped"
   ],
   "answers": [
     "alpaca",
+    "amped",
     "ample",
     "apace",
     "aped",
@@ -73,30 +74,32 @@
     "place",
     "placed",
     "plea",
-    "plead"
+    "plead",
+    "pleaded",
+    "pled"
   ],
   "date": "2036-01-15",
   "hints": {
     "by_length": {
-      "4": 19,
-      "5": 15,
+      "4": 20,
+      "5": 16,
       "6": 23,
-      "7": 6,
+      "7": 7,
       "8": 3
     },
     "by_first_letter": {
-      "A": 9,
+      "A": 10,
       "C": 9,
       "D": 7,
       "E": 1,
       "L": 5,
       "M": 3,
-      "P": 32
+      "P": 34
     },
     "grid": {
       "A": {
         "4": 1,
-        "5": 3,
+        "5": 4,
         "6": 3,
         "8": 2
       },
@@ -125,15 +128,15 @@
         "6": 2
       },
       "P": {
-        "4": 10,
+        "4": 11,
         "5": 8,
         "6": 11,
-        "7": 3
+        "7": 4
       }
     },
     "two_letter_list": {
       "AL": 1,
-      "AM": 1,
+      "AM": 2,
       "AP": 7,
       "CA": 5,
       "CL": 4,
@@ -145,7 +148,7 @@
       "MA": 3,
       "PA": 15,
       "PE": 13,
-      "PL": 4
+      "PL": 6
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "pangram": "bigoted",
   "center_letter": "d",
-  "num_answers": 60,
+  "num_answers": 61,
   "num_pangrams": 1,
-  "possible_points": 271,
+  "possible_points": 277,
   "answer_pangrams": [
     "bigoted"
   ],
@@ -17,6 +17,7 @@
     "bobbed",
     "bode",
     "boded",
+    "bodied",
     "bogged",
     "bogied",
     "booed",
@@ -74,12 +75,12 @@
     "by_length": {
       "4": 17,
       "5": 18,
-      "6": 19,
+      "6": 20,
       "7": 5,
       "8": 1
     },
     "by_first_letter": {
-      "B": 14,
+      "B": 15,
       "D": 21,
       "E": 7,
       "G": 6,
@@ -90,7 +91,7 @@
       "B": {
         "4": 1,
         "5": 3,
-        "6": 7,
+        "6": 8,
         "7": 3
       },
       "D": {
@@ -123,7 +124,7 @@
     "two_letter_list": {
       "BE": 4,
       "BI": 2,
-      "BO": 8,
+      "BO": 9,
       "DE": 5,
       "DI": 7,
       "DO": 9,

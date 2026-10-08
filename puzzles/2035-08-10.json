@@ -1,9 +1,9 @@
 {
   "pangram": "probity",
   "center_letter": "p",
-  "num_answers": 17,
+  "num_answers": 18,
   "num_pangrams": 1,
-  "possible_points": 72,
+  "possible_points": 73,
   "answer_pangrams": [
     "probity"
   ],
@@ -20,6 +20,7 @@
     "priory",
     "probity",
     "prop",
+    "tipi",
     "tiptop",
     "torpor",
     "trip",
@@ -29,7 +30,7 @@
   "date": "2035-08-10",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 8,
       "5": 5,
       "6": 3,
       "7": 1,
@@ -37,7 +38,7 @@
     },
     "by_first_letter": {
       "P": 12,
-      "T": 5
+      "T": 6
     },
     "grid": {
       "P": {
@@ -48,7 +49,7 @@
         "8": 1
       },
       "T": {
-        "4": 2,
+        "4": 3,
         "5": 1,
         "6": 2
       }
@@ -57,7 +58,7 @@
       "PI": 2,
       "PO": 5,
       "PR": 5,
-      "TI": 1,
+      "TI": 2,
       "TO": 1,
       "TR": 2,
       "TY": 1

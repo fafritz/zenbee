@@ -1,9 +1,9 @@
 {
   "pangram": "jointed",
   "center_letter": "o",
-  "num_answers": 48,
+  "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 219,
+  "possible_points": 230,
   "answer_pangrams": [
     "jointed"
   ],
@@ -25,6 +25,7 @@
     "enjoined",
     "idiot",
     "intention",
+    "intentioned",
     "into",
     "intone",
     "intoned",
@@ -65,12 +66,13 @@
       "6": 13,
       "7": 6,
       "8": 1,
-      "9": 2
+      "9": 2,
+      "11": 1
     },
     "by_first_letter": {
       "D": 12,
       "E": 3,
-      "I": 6,
+      "I": 7,
       "J": 5,
       "N": 8,
       "O": 2,
@@ -94,7 +96,8 @@
         "5": 1,
         "6": 2,
         "7": 1,
-        "9": 1
+        "9": 1,
+        "11": 1
       },
       "J": {
         "4": 1,
@@ -125,7 +128,7 @@
       "ED": 1,
       "EN": 2,
       "ID": 1,
-      "IN": 4,
+      "IN": 5,
       "IO": 1,
       "JO": 5,
       "NE": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "mouthed",
   "center_letter": "h",
-  "num_answers": 28,
+  "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 126,
+  "possible_points": 132,
   "answer_pangrams": [
     "mouthed"
   ],
@@ -32,6 +32,7 @@
     "thee",
     "them",
     "theme",
+    "themed",
     "thud",
     "thudded",
     "tooth",
@@ -42,14 +43,14 @@
     "by_length": {
       "4": 10,
       "5": 5,
-      "6": 8,
+      "6": 9,
       "7": 4,
       "8": 1
     },
     "by_first_letter": {
       "H": 14,
       "M": 4,
-      "T": 10
+      "T": 11
     },
     "grid": {
       "H": {
@@ -67,7 +68,7 @@
       "T": {
         "4": 3,
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 3
       }
     },
@@ -78,7 +79,7 @@
       "ME": 1,
       "MO": 3,
       "TE": 3,
-      "TH": 5,
+      "TH": 6,
       "TO": 2
     }
   }

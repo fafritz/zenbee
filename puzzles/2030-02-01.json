@@ -1,9 +1,9 @@
 {
   "pangram": "paucity",
   "center_letter": "t",
-  "num_answers": 22,
+  "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 93,
+  "possible_points": 94,
   "answer_pangrams": [
     "paucity"
   ],
@@ -28,13 +28,14 @@
     "tactic",
     "tatty",
     "taut",
+    "tipi",
     "tutu",
     "uppity"
   ],
   "date": "2030-02-01",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 9,
       "5": 9,
       "6": 3,
       "7": 1,
@@ -44,7 +45,7 @@
       "A": 2,
       "C": 5,
       "P": 8,
-      "T": 6,
+      "T": 7,
       "U": 1
     },
     "grid": {
@@ -63,7 +64,7 @@
         "7": 1
       },
       "T": {
-        "4": 3,
+        "4": 4,
         "5": 2,
         "6": 1
       },
@@ -81,6 +82,7 @@
       "PI": 3,
       "PU": 2,
       "TA": 5,
+      "TI": 1,
       "TU": 1,
       "UP": 1
     }

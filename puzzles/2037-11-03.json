@@ -1,9 +1,9 @@
 {
   "pangram": "halving",
   "center_letter": "g",
-  "num_answers": 50,
+  "num_answers": 51,
   "num_pangrams": 1,
-  "possible_points": 288,
+  "possible_points": 294,
   "answer_pangrams": [
     "halving"
   ],
@@ -48,6 +48,7 @@
     "inhaling",
     "inning",
     "lagging",
+    "laving",
     "lignin",
     "lining",
     "living",
@@ -64,7 +65,7 @@
     "by_length": {
       "4": 10,
       "5": 4,
-      "6": 10,
+      "6": 11,
       "7": 17,
       "8": 9
     },
@@ -73,7 +74,7 @@
       "G": 17,
       "H": 11,
       "I": 2,
-      "L": 4,
+      "L": 5,
       "N": 4,
       "V": 3
     },
@@ -102,7 +103,7 @@
         "8": 1
       },
       "L": {
-        "6": 3,
+        "6": 4,
         "7": 1
       },
       "N": {
@@ -126,7 +127,7 @@
       "HA": 8,
       "HI": 3,
       "IN": 2,
-      "LA": 1,
+      "LA": 2,
       "LI": 3,
       "NA": 2,
       "NI": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "patched",
   "center_letter": "p",
-  "num_answers": 42,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 177,
+  "possible_points": 183,
   "answer_pangrams": [
     "patched"
   ],
@@ -49,6 +49,7 @@
     "tape",
     "taped",
     "tapped",
+    "teepee",
     "tepee"
   ],
   "date": "2035-04-16",
@@ -56,7 +57,7 @@
     "by_length": {
       "4": 15,
       "5": 13,
-      "6": 9,
+      "6": 10,
       "7": 4,
       "8": 1
     },
@@ -67,7 +68,7 @@
       "E": 1,
       "H": 2,
       "P": 18,
-      "T": 4
+      "T": 5
     },
     "grid": {
       "A": {
@@ -103,7 +104,7 @@
       "T": {
         "4": 1,
         "5": 2,
-        "6": 1
+        "6": 2
       }
     },
     "two_letter_list": {
@@ -118,7 +119,7 @@
       "PA": 10,
       "PE": 8,
       "TA": 3,
-      "TE": 1
+      "TE": 2
     }
   }
 }

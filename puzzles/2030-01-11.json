@@ -1,9 +1,9 @@
 {
   "pangram": "frogman",
   "center_letter": "a",
-  "num_answers": 44,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 154,
+  "possible_points": 155,
   "answer_pangrams": [
     "frogman"
   ],
@@ -22,6 +22,7 @@
     "fang",
     "farm",
     "foam",
+    "fora",
     "frag",
     "frogman",
     "gaff",
@@ -56,7 +57,7 @@
   "date": "2030-01-11",
   "hints": {
     "by_length": {
-      "4": 22,
+      "4": 23,
       "5": 15,
       "6": 2,
       "7": 3,
@@ -65,7 +66,7 @@
     },
     "by_first_letter": {
       "A": 11,
-      "F": 5,
+      "F": 6,
       "G": 7,
       "M": 12,
       "N": 2,
@@ -80,7 +81,7 @@
         "7": 1
       },
       "F": {
-        "4": 4,
+        "4": 5,
         "7": 1
       },
       "G": {
@@ -113,7 +114,7 @@
       "AN": 3,
       "AR": 3,
       "FA": 2,
-      "FO": 1,
+      "FO": 2,
       "FR": 2,
       "GA": 4,
       "GR": 3,

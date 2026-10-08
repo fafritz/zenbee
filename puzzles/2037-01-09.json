@@ -1,9 +1,9 @@
 {
   "pangram": "haunted",
   "center_letter": "t",
-  "num_answers": 79,
+  "num_answers": 80,
   "num_pangrams": 1,
-  "possible_points": 391,
+  "possible_points": 399,
   "answer_pangrams": [
     "haunted"
   ],
@@ -50,6 +50,7 @@
     "hunted",
     "neat",
     "neaten",
+    "neatened",
     "neath",
     "netted",
     "nutate",
@@ -95,7 +96,7 @@
       "5": 16,
       "6": 17,
       "7": 13,
-      "8": 4,
+      "8": 5,
       "9": 4,
       "10": 2
     },
@@ -104,7 +105,7 @@
       "D": 11,
       "E": 3,
       "H": 11,
-      "N": 6,
+      "N": 7,
       "T": 29,
       "U": 4
     },
@@ -137,7 +138,8 @@
       "N": {
         "4": 1,
         "5": 1,
-        "6": 4
+        "6": 4,
+        "8": 1
       },
       "T": {
         "4": 13,
@@ -165,7 +167,7 @@
       "HA": 5,
       "HE": 4,
       "HU": 2,
-      "NE": 4,
+      "NE": 5,
       "NU": 2,
       "TA": 5,
       "TE": 13,

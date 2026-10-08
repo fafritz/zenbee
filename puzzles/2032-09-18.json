@@ -1,9 +1,9 @@
 {
   "pangram": "bipedal",
   "center_letter": "p",
-  "num_answers": 70,
+  "num_answers": 72,
   "num_pangrams": 2,
-  "possible_points": 341,
+  "possible_points": 349,
   "answer_pangrams": [
     "bipedal",
     "piebald"
@@ -77,16 +77,18 @@
     "plaid",
     "plea",
     "plead",
+    "pleaded",
+    "pled",
     "pliable",
     "plied"
   ],
   "date": "2032-09-18",
   "hints": {
     "by_length": {
-      "4": 20,
+      "4": 21,
       "5": 13,
       "6": 21,
-      "7": 12,
+      "7": 13,
       "8": 4
     },
     "by_first_letter": {
@@ -95,7 +97,7 @@
       "D": 4,
       "E": 1,
       "L": 6,
-      "P": 45
+      "P": 47
     },
     "grid": {
       "A": {
@@ -125,10 +127,10 @@
         "6": 3
       },
       "P": {
-        "4": 14,
+        "4": 15,
         "5": 8,
         "6": 13,
-        "7": 8,
+        "7": 9,
         "8": 2
       }
     },
@@ -147,7 +149,7 @@
       "PA": 15,
       "PE": 14,
       "PI": 11,
-      "PL": 5
+      "PL": 7
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "pangram": "welting",
   "center_letter": "l",
-  "num_answers": 74,
+  "num_answers": 76,
   "num_pangrams": 1,
-  "possible_points": 392,
+  "possible_points": 399,
   "answer_pangrams": [
     "welting"
   ],
@@ -13,6 +13,7 @@
     "entitle",
     "entitling",
     "gelling",
+    "gelt",
     "genteel",
     "gentile",
     "gentle",
@@ -69,6 +70,7 @@
     "title",
     "titling",
     "tittle",
+    "twilit",
     "twill",
     "well",
     "welling",
@@ -86,9 +88,9 @@
   "date": "2029-01-30",
   "hints": {
     "by_length": {
-      "4": 19,
+      "4": 20,
       "5": 9,
-      "6": 17,
+      "6": 18,
       "7": 18,
       "8": 8,
       "9": 2,
@@ -96,11 +98,11 @@
     },
     "by_first_letter": {
       "E": 4,
-      "G": 13,
+      "G": 14,
       "I": 4,
       "L": 20,
       "N": 7,
-      "T": 14,
+      "T": 15,
       "W": 12
     },
     "grid": {
@@ -111,7 +113,7 @@
         "9": 1
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "5": 1,
         "6": 2,
         "7": 3,
@@ -137,7 +139,7 @@
       "T": {
         "4": 4,
         "5": 2,
-        "6": 3,
+        "6": 4,
         "7": 4,
         "8": 1
       },
@@ -152,7 +154,7 @@
       "EE": 1,
       "EL": 1,
       "EN": 2,
-      "GE": 5,
+      "GE": 6,
       "GI": 4,
       "GL": 4,
       "IN": 4,
@@ -162,7 +164,7 @@
       "NI": 2,
       "TE": 2,
       "TI": 11,
-      "TW": 1,
+      "TW": 2,
       "WE": 4,
       "WI": 8
     }

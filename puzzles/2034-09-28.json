@@ -1,9 +1,9 @@
 {
   "pangram": "empathy",
   "center_letter": "t",
-  "num_answers": 43,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 144,
+  "possible_points": 150,
   "answer_pangrams": [
     "empathy"
   ],
@@ -38,6 +38,7 @@
     "team",
     "teammate",
     "teem",
+    "teepee",
     "teeth",
     "teethe",
     "temp",
@@ -57,7 +58,7 @@
     "by_length": {
       "4": 23,
       "5": 13,
-      "6": 2,
+      "6": 3,
       "7": 3,
       "8": 2
     },
@@ -67,7 +68,7 @@
       "H": 3,
       "M": 10,
       "P": 5,
-      "T": 20
+      "T": 21
     },
     "grid": {
       "A": {
@@ -95,7 +96,7 @@
       "T": {
         "4": 11,
         "5": 7,
-        "6": 1,
+        "6": 2,
         "8": 1
       }
     },
@@ -112,7 +113,7 @@
       "PA": 3,
       "PE": 2,
       "TA": 4,
-      "TE": 8,
+      "TE": 9,
       "TH": 7,
       "TY": 1
     }

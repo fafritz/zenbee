@@ -1,9 +1,9 @@
 {
   "pangram": "thanked",
   "center_letter": "d",
-  "num_answers": 57,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 290,
+  "possible_points": 298,
   "answer_pangrams": [
     "thanked"
   ],
@@ -52,6 +52,7 @@
     "kneaded",
     "kneed",
     "naked",
+    "neatened",
     "need",
     "needed",
     "netted",
@@ -73,7 +74,7 @@
       "5": 10,
       "6": 20,
       "7": 7,
-      "8": 4,
+      "8": 5,
       "9": 2
     },
     "by_first_letter": {
@@ -82,7 +83,7 @@
       "E": 2,
       "H": 10,
       "K": 5,
-      "N": 4,
+      "N": 5,
       "T": 10
     },
     "grid": {
@@ -118,7 +119,8 @@
       "N": {
         "4": 1,
         "5": 1,
-        "6": 2
+        "6": 2,
+        "8": 1
       },
       "T": {
         "4": 2,
@@ -141,7 +143,7 @@
       "KE": 2,
       "KN": 3,
       "NA": 1,
-      "NE": 3,
+      "NE": 4,
       "TA": 3,
       "TE": 6,
       "TH": 1

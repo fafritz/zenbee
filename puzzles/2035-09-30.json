@@ -1,9 +1,9 @@
 {
   "pangram": "vaunted",
   "center_letter": "d",
-  "num_answers": 69,
+  "num_answers": 70,
   "num_pangrams": 2,
-  "possible_points": 394,
+  "possible_points": 402,
   "answer_pangrams": [
     "eventuated",
     "vaunted"
@@ -52,6 +52,7 @@
     "evaded",
     "evened",
     "eventuated",
+    "neatened",
     "need",
     "needed",
     "netted",
@@ -86,7 +87,7 @@
       "5": 11,
       "6": 24,
       "7": 9,
-      "8": 6,
+      "8": 7,
       "9": 3,
       "10": 3
     },
@@ -94,7 +95,7 @@
       "A": 13,
       "D": 23,
       "E": 7,
-      "N": 4,
+      "N": 5,
       "T": 9,
       "U": 5,
       "V": 8
@@ -122,7 +123,8 @@
       },
       "N": {
         "4": 1,
-        "6": 3
+        "6": 3,
+        "8": 1
       },
       "T": {
         "4": 2,
@@ -155,7 +157,7 @@
       "EN": 2,
       "ET": 1,
       "EV": 4,
-      "NE": 3,
+      "NE": 4,
       "NU": 1,
       "TA": 3,
       "TE": 5,

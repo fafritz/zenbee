@@ -1,9 +1,9 @@
 {
   "pangram": "clumped",
   "center_letter": "u",
-  "num_answers": 58,
+  "num_answers": 59,
   "num_pangrams": 1,
-  "possible_points": 268,
+  "possible_points": 274,
   "answer_pangrams": [
     "clumped"
   ],
@@ -35,6 +35,7 @@
     "dupe",
     "duped",
     "educe",
+    "educed",
     "elude",
     "eluded",
     "lull",
@@ -72,14 +73,14 @@
     "by_length": {
       "4": 17,
       "5": 11,
-      "6": 22,
+      "6": 23,
       "7": 7,
       "8": 1
     },
     "by_first_letter": {
       "C": 10,
       "D": 16,
-      "E": 3,
+      "E": 4,
       "L": 5,
       "M": 6,
       "P": 16,
@@ -100,7 +101,7 @@
       },
       "E": {
         "5": 2,
-        "6": 1
+        "6": 2
       },
       "L": {
         "4": 3,
@@ -127,7 +128,7 @@
       "CU": 6,
       "DE": 6,
       "DU": 10,
-      "ED": 1,
+      "ED": 2,
       "EL": 2,
       "LU": 5,
       "MU": 6,

@@ -1,9 +1,9 @@
 {
   "pangram": "fouling",
   "center_letter": "u",
-  "num_answers": 31,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 153,
+  "possible_points": 160,
   "answer_pangrams": [
     "fouling"
   ],
@@ -28,6 +28,7 @@
     "inulin",
     "lounging",
     "luff",
+    "luffing",
     "lugging",
     "luging",
     "lull",
@@ -46,7 +47,7 @@
       "4": 11,
       "5": 4,
       "6": 3,
-      "7": 9,
+      "7": 10,
       "8": 3,
       "10": 1
     },
@@ -54,7 +55,7 @@
       "F": 10,
       "G": 7,
       "I": 1,
-      "L": 9,
+      "L": 10,
       "N": 3,
       "U": 1
     },
@@ -77,7 +78,7 @@
       "L": {
         "4": 4,
         "6": 1,
-        "7": 3,
+        "7": 4,
         "8": 1
       },
       "N": {
@@ -97,7 +98,7 @@
       "GU": 5,
       "IN": 1,
       "LO": 1,
-      "LU": 8,
+      "LU": 9,
       "NO": 2,
       "NU": 1,
       "UN": 1

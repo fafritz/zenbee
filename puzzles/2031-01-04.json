@@ -1,9 +1,9 @@
 {
   "pangram": "daytime",
   "center_letter": "t",
-  "num_answers": 56,
+  "num_answers": 57,
   "num_pangrams": 1,
-  "possible_points": 241,
+  "possible_points": 248,
   "answer_pangrams": [
     "daytime"
   ],
@@ -24,6 +24,7 @@
     "emit",
     "emitted",
     "ideate",
+    "ideated",
     "imitate",
     "imitated",
     "immediate",
@@ -71,7 +72,7 @@
       "4": 22,
       "5": 14,
       "6": 8,
-      "7": 4,
+      "7": 5,
       "8": 6,
       "9": 2
     },
@@ -79,7 +80,7 @@
       "A": 3,
       "D": 8,
       "E": 4,
-      "I": 5,
+      "I": 6,
       "M": 16,
       "T": 19,
       "Y": 1
@@ -103,7 +104,7 @@
       "I": {
         "4": 1,
         "6": 1,
-        "7": 1,
+        "7": 2,
         "8": 1,
         "9": 1
       },
@@ -133,7 +134,7 @@
       "DI": 3,
       "ED": 2,
       "EM": 2,
-      "ID": 1,
+      "ID": 2,
       "IM": 3,
       "IT": 1,
       "MA": 4,

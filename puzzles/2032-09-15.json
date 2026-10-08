@@ -1,9 +1,9 @@
 {
   "pangram": "tickled",
   "center_letter": "l",
-  "num_answers": 59,
+  "num_answers": 60,
   "num_pangrams": 1,
-  "possible_points": 260,
+  "possible_points": 266,
   "answer_pangrams": [
     "tickled"
   ],
@@ -40,6 +40,7 @@
     "kill",
     "killed",
     "kilt",
+    "kilted",
     "lede",
     "leek",
     "lice",
@@ -73,7 +74,7 @@
     "by_length": {
       "4": 20,
       "5": 11,
-      "6": 20,
+      "6": 21,
       "7": 6,
       "8": 2
     },
@@ -82,7 +83,7 @@
       "D": 9,
       "E": 9,
       "I": 4,
-      "K": 6,
+      "K": 7,
       "L": 14,
       "T": 13
     },
@@ -112,7 +113,7 @@
       },
       "K": {
         "4": 3,
-        "6": 3
+        "6": 4
       },
       "L": {
         "4": 8,
@@ -138,7 +139,7 @@
       "ID": 2,
       "IL": 1,
       "KE": 3,
-      "KI": 3,
+      "KI": 4,
       "LE": 2,
       "LI": 12,
       "TE": 1,

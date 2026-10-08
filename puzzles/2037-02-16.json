@@ -1,9 +1,9 @@
 {
   "pangram": "cloying",
   "center_letter": "c",
-  "num_answers": 40,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 218,
+  "possible_points": 224,
   "answer_pangrams": [
     "cloying"
   ],
@@ -28,6 +28,7 @@
     "colon",
     "colony",
     "conic",
+    "coning",
     "conning",
     "cooing",
     "cool",
@@ -54,13 +55,13 @@
     "by_length": {
       "4": 8,
       "5": 11,
-      "6": 7,
+      "6": 8,
       "7": 8,
       "8": 4,
       "9": 2
     },
     "by_first_letter": {
-      "C": 30,
+      "C": 31,
       "I": 6,
       "L": 3,
       "O": 1
@@ -69,7 +70,7 @@
       "C": {
         "4": 5,
         "5": 7,
-        "6": 6,
+        "6": 7,
         "7": 8,
         "8": 3,
         "9": 1
@@ -90,7 +91,7 @@
     },
     "two_letter_list": {
       "CL": 8,
-      "CO": 18,
+      "CO": 19,
       "CY": 4,
       "IC": 4,
       "IN": 1,

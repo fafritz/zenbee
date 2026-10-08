@@ -1,9 +1,9 @@
 {
   "pangram": "jounced",
   "center_letter": "c",
-  "num_answers": 37,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 208,
+  "possible_points": 219,
   "answer_pangrams": [
     "jounced"
   ],
@@ -22,6 +22,7 @@
     "condoned",
     "conduced",
     "cone",
+    "coned",
     "conned",
     "cooed",
     "cued",
@@ -35,6 +36,7 @@
     "deuced",
     "dunce",
     "educe",
+    "educed",
     "encode",
     "encoded",
     "jocund",
@@ -50,16 +52,16 @@
   "hints": {
     "by_length": {
       "4": 6,
-      "5": 10,
-      "6": 9,
+      "5": 11,
+      "6": 10,
       "7": 6,
       "8": 5,
       "9": 1
     },
     "by_first_letter": {
-      "C": 17,
+      "C": 18,
       "D": 9,
-      "E": 3,
+      "E": 4,
       "J": 4,
       "N": 2,
       "O": 2
@@ -67,7 +69,7 @@
     "grid": {
       "C": {
         "4": 5,
-        "5": 4,
+        "5": 5,
         "6": 2,
         "7": 2,
         "8": 4
@@ -81,7 +83,7 @@
       },
       "E": {
         "5": 1,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "J": {
@@ -100,11 +102,11 @@
     },
     "two_letter_list": {
       "CE": 2,
-      "CO": 14,
+      "CO": 15,
       "CU": 1,
       "DE": 8,
       "DU": 1,
-      "ED": 1,
+      "ED": 2,
       "EN": 2,
       "JO": 3,
       "JU": 1,

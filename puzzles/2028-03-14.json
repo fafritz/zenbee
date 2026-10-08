@@ -1,9 +1,9 @@
 {
   "pangram": "bighorn",
   "center_letter": "i",
-  "num_answers": 60,
+  "num_answers": 61,
   "num_pangrams": 2,
-  "possible_points": 353,
+  "possible_points": 360,
   "answer_pangrams": [
     "bighorn",
     "highborn"
@@ -46,6 +46,7 @@
     "hogging",
     "honing",
     "honoring",
+    "horning",
     "ignoring",
     "inborn",
     "inning",
@@ -76,14 +77,14 @@
       "4": 9,
       "5": 10,
       "6": 15,
-      "7": 20,
+      "7": 21,
       "8": 5,
       "10": 1
     },
     "by_first_letter": {
       "B": 18,
       "G": 11,
-      "H": 8,
+      "H": 9,
       "I": 5,
       "N": 4,
       "O": 3,
@@ -107,7 +108,7 @@
       "H": {
         "4": 1,
         "6": 2,
-        "7": 2,
+        "7": 3,
         "8": 2,
         "10": 1
       },
@@ -141,7 +142,7 @@
       "GO": 4,
       "GR": 3,
       "HI": 4,
-      "HO": 4,
+      "HO": 5,
       "IG": 1,
       "IN": 2,
       "IR": 2,

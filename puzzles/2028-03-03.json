@@ -1,9 +1,9 @@
 {
   "pangram": "couplet",
   "center_letter": "e",
-  "num_answers": 40,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 157,
+  "possible_points": 163,
   "answer_pangrams": [
     "couplet"
   ],
@@ -42,6 +42,7 @@
     "pope",
     "pullet",
     "puppet",
+    "teepee",
     "tell",
     "tepee",
     "topple",
@@ -54,7 +55,7 @@
     "by_length": {
       "4": 17,
       "5": 9,
-      "6": 10,
+      "6": 11,
       "7": 4
     },
     "by_first_letter": {
@@ -63,7 +64,7 @@
       "L": 4,
       "O": 4,
       "P": 11,
-      "T": 6
+      "T": 7
     },
     "grid": {
       "C": {
@@ -94,7 +95,7 @@
       "T": {
         "4": 2,
         "5": 2,
-        "6": 2
+        "6": 3
       }
     },
     "two_letter_list": {
@@ -113,7 +114,7 @@
       "PE": 5,
       "PO": 4,
       "PU": 2,
-      "TE": 2,
+      "TE": 3,
       "TO": 3,
       "TU": 1
     }

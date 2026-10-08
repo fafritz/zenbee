@@ -1,9 +1,9 @@
 {
   "pangram": "plumage",
   "center_letter": "l",
-  "num_answers": 66,
+  "num_answers": 68,
   "num_pangrams": 1,
-  "possible_points": 216,
+  "possible_points": 231,
   "answer_pangrams": [
     "plumage"
   ],
@@ -33,6 +33,8 @@
     "gulp",
     "lama",
     "lame",
+    "lamella",
+    "lamellae",
     "lamp",
     "lapel",
     "league",
@@ -81,13 +83,14 @@
       "4": 35,
       "5": 15,
       "6": 13,
-      "7": 3
+      "7": 4,
+      "8": 1
     },
     "by_first_letter": {
       "A": 12,
       "E": 1,
       "G": 10,
-      "L": 16,
+      "L": 18,
       "M": 10,
       "P": 17
     },
@@ -110,7 +113,8 @@
         "4": 9,
         "5": 4,
         "6": 2,
-        "7": 1
+        "7": 2,
+        "8": 1
       },
       "M": {
         "4": 6,
@@ -133,7 +137,7 @@
       "GA": 4,
       "GL": 4,
       "GU": 2,
-      "LA": 4,
+      "LA": 6,
       "LE": 5,
       "LL": 1,
       "LU": 6,

@@ -1,9 +1,9 @@
 {
   "pangram": "thumped",
   "center_letter": "t",
-  "num_answers": 34,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 142,
+  "possible_points": 154,
   "answer_pangrams": [
     "thumped"
   ],
@@ -26,6 +26,7 @@
     "teed",
     "teem",
     "teemed",
+    "teepee",
     "teeth",
     "teethe",
     "teethed",
@@ -37,6 +38,7 @@
     "thee",
     "them",
     "theme",
+    "themed",
     "thud",
     "thudded",
     "thump",
@@ -48,7 +50,7 @@
     "by_length": {
       "4": 13,
       "5": 9,
-      "6": 7,
+      "6": 9,
       "7": 5
     },
     "by_first_letter": {
@@ -56,7 +58,7 @@
       "E": 1,
       "M": 6,
       "P": 4,
-      "T": 19
+      "T": 21
     },
     "grid": {
       "D": {
@@ -79,7 +81,7 @@
       "T": {
         "4": 7,
         "5": 5,
-        "6": 3,
+        "6": 5,
         "7": 4
       }
     },
@@ -91,8 +93,8 @@
       "MU": 3,
       "PE": 1,
       "PU": 3,
-      "TE": 11,
-      "TH": 7,
+      "TE": 12,
+      "TH": 8,
       "TU": 1
     }
   }

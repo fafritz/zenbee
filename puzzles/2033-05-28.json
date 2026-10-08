@@ -1,9 +1,9 @@
 {
   "pangram": "climbed",
   "center_letter": "i",
-  "num_answers": 57,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 252,
+  "possible_points": 258,
   "answer_pangrams": [
     "climbed"
   ],
@@ -53,6 +53,7 @@
     "lidded",
     "lied",
     "limb",
+    "limbed",
     "lime",
     "limed",
     "medic",
@@ -71,7 +72,7 @@
     "by_length": {
       "4": 19,
       "5": 13,
-      "6": 16,
+      "6": 17,
       "7": 8,
       "9": 1
     },
@@ -81,7 +82,7 @@
       "D": 17,
       "E": 4,
       "I": 8,
-      "L": 8,
+      "L": 9,
       "M": 10
     },
     "grid": {
@@ -115,7 +116,7 @@
       "L": {
         "4": 4,
         "5": 2,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "M": {
@@ -136,7 +137,7 @@
       "IC": 2,
       "ID": 2,
       "IM": 3,
-      "LI": 8,
+      "LI": 9,
       "ME": 1,
       "MI": 9
     }

@@ -1,0 +1,97 @@
+{
+  "pangram": "toughed",
+  "center_letter": "h",
+  "num_answers": 32,
+  "num_pangrams": 1,
+  "possible_points": 163,
+  "answer_pangrams": [
+    "toughed"
+  ],
+  "answers": [
+    "dough",
+    "ghetto",
+    "godhood",
+    "hedge",
+    "hedged",
+    "hedgehog",
+    "heed",
+    "heeded",
+    "hoed",
+    "hogged",
+    "hood",
+    "hooded",
+    "hoodoo",
+    "hoodooed",
+    "hoot",
+    "hooted",
+    "huge",
+    "hugged",
+    "ought",
+    "teeth",
+    "teethe",
+    "teethed",
+    "thee",
+    "though",
+    "thought",
+    "thud",
+    "thudded",
+    "thug",
+    "tooth",
+    "toothed",
+    "tough",
+    "toughed"
+  ],
+  "date": "2039-03-11",
+  "hints": {
+    "by_length": {
+      "4": 8,
+      "5": 6,
+      "6": 10,
+      "7": 6,
+      "8": 2
+    },
+    "by_first_letter": {
+      "D": 1,
+      "G": 2,
+      "H": 15,
+      "O": 1,
+      "T": 13
+    },
+    "grid": {
+      "D": {
+        "5": 1
+      },
+      "G": {
+        "6": 1,
+        "7": 1
+      },
+      "H": {
+        "4": 5,
+        "5": 1,
+        "6": 7,
+        "8": 2
+      },
+      "O": {
+        "5": 1
+      },
+      "T": {
+        "4": 3,
+        "5": 3,
+        "6": 2,
+        "7": 5
+      }
+    },
+    "two_letter_list": {
+      "DO": 1,
+      "GH": 1,
+      "GO": 1,
+      "HE": 5,
+      "HO": 8,
+      "HU": 2,
+      "OU": 1,
+      "TE": 3,
+      "TH": 6,
+      "TO": 4
+    }
+  }
+}

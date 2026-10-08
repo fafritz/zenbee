@@ -1,10 +1,11 @@
 {
   "pangram": "carving",
   "center_letter": "n",
-  "num_answers": 67,
-  "num_pangrams": 2,
-  "possible_points": 403,
+  "num_answers": 68,
+  "num_pangrams": 3,
+  "possible_points": 421,
   "answer_pangrams": [
+    "caravanning",
     "carving",
     "craving"
   ],
@@ -28,6 +29,7 @@
     "canna",
     "canning",
     "caravan",
+    "caravanning",
     "caring",
     "carving",
     "caving",
@@ -86,11 +88,12 @@
       "7": 22,
       "8": 6,
       "9": 1,
-      "10": 2
+      "10": 2,
+      "11": 1
     },
     "by_first_letter": {
       "A": 12,
-      "C": 13,
+      "C": 14,
       "G": 14,
       "I": 4,
       "N": 6,
@@ -110,7 +113,8 @@
         "5": 2,
         "6": 5,
         "7": 5,
-        "8": 1
+        "8": 1,
+        "11": 1
       },
       "G": {
         "4": 3,
@@ -149,7 +153,7 @@
       "AN": 1,
       "AR": 5,
       "AV": 1,
-      "CA": 10,
+      "CA": 11,
       "CR": 3,
       "GA": 6,
       "GI": 3,

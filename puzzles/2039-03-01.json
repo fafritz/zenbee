@@ -1,0 +1,102 @@
+{
+  "pangram": "zincked",
+  "center_letter": "n",
+  "num_answers": 30,
+  "num_pangrams": 1,
+  "possible_points": 122,
+  "answer_pangrams": [
+    "zincked"
+  ],
+  "answers": [
+    "denied",
+    "denizen",
+    "dine",
+    "dined",
+    "dink",
+    "dinned",
+    "ended",
+    "incidence",
+    "indeed",
+    "inked",
+    "keen",
+    "keened",
+    "kenned",
+    "kind",
+    "kink",
+    "kinked",
+    "knee",
+    "kneed",
+    "neck",
+    "necked",
+    "need",
+    "needed",
+    "nene",
+    "nice",
+    "nick",
+    "nicked",
+    "niece",
+    "nine",
+    "zinc",
+    "zincked"
+  ],
+  "date": "2039-03-01",
+  "hints": {
+    "by_length": {
+      "4": 13,
+      "5": 5,
+      "6": 9,
+      "7": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "D": 6,
+      "E": 1,
+      "I": 3,
+      "K": 8,
+      "N": 10,
+      "Z": 2
+    },
+    "grid": {
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 1
+      },
+      "E": {
+        "5": 1
+      },
+      "I": {
+        "5": 1,
+        "6": 1,
+        "9": 1
+      },
+      "K": {
+        "4": 4,
+        "5": 1,
+        "6": 3
+      },
+      "N": {
+        "4": 6,
+        "5": 1,
+        "6": 3
+      },
+      "Z": {
+        "4": 1,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 2,
+      "DI": 4,
+      "EN": 1,
+      "IN": 3,
+      "KE": 3,
+      "KI": 3,
+      "KN": 2,
+      "NE": 5,
+      "NI": 5,
+      "ZI": 2
+    }
+  }
+}

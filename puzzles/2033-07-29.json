@@ -1,9 +1,9 @@
 {
   "pangram": "wimpled",
   "center_letter": "l",
-  "num_answers": 67,
+  "num_answers": 69,
   "num_pangrams": 1,
-  "possible_points": 302,
+  "possible_points": 310,
   "answer_pangrams": [
     "wimpled"
   ],
@@ -61,6 +61,8 @@
     "pill",
     "pilled",
     "pimple",
+    "pimpled",
+    "pled",
     "plied",
     "weld",
     "welded",
@@ -79,10 +81,10 @@
   "date": "2033-07-29",
   "hints": {
     "by_length": {
-      "4": 22,
+      "4": 23,
       "5": 12,
       "6": 22,
-      "7": 8,
+      "7": 9,
       "8": 2,
       "9": 1
     },
@@ -92,7 +94,7 @@
       "I": 5,
       "L": 11,
       "M": 15,
-      "P": 12,
+      "P": 14,
       "W": 13
     },
     "grid": {
@@ -126,10 +128,10 @@
         "9": 1
       },
       "P": {
-        "4": 3,
+        "4": 4,
         "5": 2,
         "6": 5,
-        "7": 2
+        "7": 3
       },
       "W": {
         "4": 5,
@@ -151,8 +153,8 @@
       "ME": 7,
       "MI": 8,
       "PE": 4,
-      "PI": 7,
-      "PL": 1,
+      "PI": 8,
+      "PL": 2,
       "WE": 4,
       "WI": 9
     }

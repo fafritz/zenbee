@@ -1,9 +1,9 @@
 {
   "pangram": "placket",
   "center_letter": "t",
-  "num_answers": 53,
+  "num_answers": 54,
   "num_pangrams": 1,
-  "possible_points": 254,
+  "possible_points": 260,
   "answer_pangrams": [
     "placket"
   ],
@@ -58,6 +58,7 @@
     "teak",
     "teakettle",
     "teal",
+    "teepee",
     "tell",
     "telltale",
     "tepee"
@@ -67,7 +68,7 @@
     "by_length": {
       "4": 17,
       "5": 10,
-      "6": 11,
+      "6": 12,
       "7": 10,
       "8": 2,
       "9": 2,
@@ -80,7 +81,7 @@
       "K": 2,
       "L": 4,
       "P": 18,
-      "T": 17
+      "T": 18
     },
     "grid": {
       "A": {
@@ -115,7 +116,7 @@
       "T": {
         "4": 11,
         "5": 1,
-        "6": 2,
+        "6": 3,
         "8": 1,
         "9": 1,
         "10": 1
@@ -136,7 +137,7 @@
       "PE": 4,
       "PL": 5,
       "TA": 11,
-      "TE": 6
+      "TE": 7
     }
   }
 }

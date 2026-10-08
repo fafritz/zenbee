@@ -1,9 +1,9 @@
 {
   "pangram": "twinkle",
   "center_letter": "w",
-  "num_answers": 24,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 75,
+  "possible_points": 81,
   "answer_pangrams": [
     "twinkle"
   ],
@@ -16,6 +16,7 @@
     "newt",
     "nitwit",
     "tweet",
+    "twilit",
     "twill",
     "twin",
     "twine",
@@ -38,7 +39,7 @@
     "by_length": {
       "4": 15,
       "5": 4,
-      "6": 2,
+      "6": 3,
       "7": 3
     },
     "by_first_letter": {
@@ -46,7 +47,7 @@
       "I": 1,
       "K": 2,
       "N": 3,
-      "T": 6,
+      "T": 7,
       "W": 11
     },
     "grid": {
@@ -67,6 +68,7 @@
       "T": {
         "4": 2,
         "5": 3,
+        "6": 1,
         "7": 1
       },
       "W": {
@@ -81,7 +83,7 @@
       "KN": 1,
       "NE": 2,
       "NI": 1,
-      "TW": 6,
+      "TW": 7,
       "WE": 5,
       "WI": 6
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "manhole",
   "center_letter": "a",
-  "num_answers": 46,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 150,
+  "possible_points": 165,
   "answer_pangrams": [
     "manhole"
   ],
@@ -30,6 +30,8 @@
     "henna",
     "lama",
     "lame",
+    "lamella",
+    "lamellae",
     "lane",
     "lean",
     "lemma",
@@ -61,14 +63,14 @@
       "4": 25,
       "5": 12,
       "6": 6,
-      "7": 2,
-      "8": 1
+      "7": 3,
+      "8": 2
     },
     "by_first_letter": {
       "A": 9,
       "E": 3,
       "H": 8,
-      "L": 9,
+      "L": 11,
       "M": 14,
       "N": 3
     },
@@ -91,7 +93,9 @@
       },
       "L": {
         "4": 6,
-        "5": 3
+        "5": 3,
+        "7": 1,
+        "8": 1
       },
       "M": {
         "4": 7,
@@ -112,7 +116,7 @@
       "EN": 2,
       "HA": 6,
       "HE": 2,
-      "LA": 3,
+      "LA": 5,
       "LE": 2,
       "LL": 2,
       "LO": 2,

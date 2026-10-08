@@ -1,9 +1,9 @@
 {
   "pangram": "tamping",
   "center_letter": "t",
-  "num_answers": 52,
+  "num_answers": 54,
   "num_pangrams": 1,
-  "possible_points": 313,
+  "possible_points": 321,
   "answer_pangrams": [
     "tamping"
   ],
@@ -55,19 +55,21 @@
     "tatting",
     "timing",
     "timpani",
+    "tinging",
     "tinning",
     "tint",
     "tinting",
+    "tipi",
     "tipping",
     "titan"
   ],
   "date": "2027-01-09",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 6,
       "6": 8,
-      "7": 14,
+      "7": 15,
       "8": 4,
       "9": 4,
       "10": 4,
@@ -79,7 +81,7 @@
       "I": 5,
       "M": 8,
       "P": 11,
-      "T": 19
+      "T": 21
     },
     "grid": {
       "A": {
@@ -115,10 +117,10 @@
         "10": 1
       },
       "T": {
-        "4": 3,
+        "4": 4,
         "5": 2,
         "6": 4,
-        "7": 9,
+        "7": 10,
         "8": 1
       }
     },
@@ -137,7 +139,7 @@
       "PA": 7,
       "PI": 4,
       "TA": 12,
-      "TI": 7
+      "TI": 9
     }
   }
 }

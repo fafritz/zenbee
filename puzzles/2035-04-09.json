@@ -1,9 +1,9 @@
 {
   "pangram": "counted",
   "center_letter": "c",
-  "num_answers": 68,
+  "num_answers": 71,
   "num_pangrams": 4,
-  "possible_points": 432,
+  "possible_points": 449,
   "answer_pangrams": [
     "conducted",
     "counted",
@@ -31,6 +31,7 @@
     "conduct",
     "conducted",
     "cone",
+    "coned",
     "connect",
     "connected",
     "conned",
@@ -66,8 +67,10 @@
     "deuced",
     "docent",
     "duct",
+    "ducted",
     "dunce",
     "educe",
+    "educed",
     "encode",
     "encoded",
     "neocon",
@@ -84,8 +87,8 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 12,
-      "6": 13,
+      "5": 13,
+      "6": 15,
       "7": 13,
       "8": 10,
       "9": 7,
@@ -93,9 +96,9 @@
       "11": 1
     },
     "by_first_letter": {
-      "C": 39,
-      "D": 17,
-      "E": 3,
+      "C": 40,
+      "D": 18,
+      "E": 4,
       "N": 2,
       "O": 3,
       "U": 4
@@ -103,7 +106,7 @@
     "grid": {
       "C": {
         "4": 9,
-        "5": 5,
+        "5": 6,
         "6": 4,
         "7": 10,
         "8": 6,
@@ -112,14 +115,14 @@
       "D": {
         "4": 1,
         "5": 2,
-        "6": 7,
+        "6": 8,
         "7": 2,
         "8": 4,
         "9": 1
       },
       "E": {
         "5": 1,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "N": {
@@ -139,12 +142,12 @@
     },
     "two_letter_list": {
       "CE": 3,
-      "CO": 33,
+      "CO": 34,
       "CU": 3,
       "DE": 14,
       "DO": 1,
-      "DU": 2,
-      "ED": 1,
+      "DU": 3,
+      "ED": 2,
       "EN": 2,
       "NE": 1,
       "NO": 1,

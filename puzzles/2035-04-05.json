@@ -1,9 +1,9 @@
 {
   "pangram": "combing",
   "center_letter": "c",
-  "num_answers": 26,
+  "num_answers": 27,
   "num_pangrams": 2,
-  "possible_points": 163,
+  "possible_points": 169,
   "answer_pangrams": [
     "combing",
     "combining"
@@ -24,6 +24,7 @@
     "coming",
     "common",
     "conic",
+    "coning",
     "conning",
     "cooing",
     "icing",
@@ -41,14 +42,14 @@
     "by_length": {
       "4": 3,
       "5": 7,
-      "6": 7,
+      "6": 8,
       "7": 5,
       "8": 2,
       "9": 2
     },
     "by_first_letter": {
       "B": 1,
-      "C": 16,
+      "C": 17,
       "I": 5,
       "M": 2,
       "N": 1,
@@ -61,7 +62,7 @@
       "C": {
         "4": 2,
         "5": 4,
-        "6": 4,
+        "6": 5,
         "7": 4,
         "9": 2
       },
@@ -84,7 +85,7 @@
     },
     "two_letter_list": {
       "BI": 1,
-      "CO": 16,
+      "CO": 17,
       "IC": 3,
       "IN": 1,
       "IO": 1,

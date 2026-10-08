@@ -1,16 +1,18 @@
 {
   "pangram": "mounted",
   "center_letter": "u",
-  "num_answers": 40,
-  "num_pangrams": 3,
-  "possible_points": 215,
+  "num_answers": 41,
+  "num_pangrams": 4,
+  "possible_points": 231,
   "answer_pangrams": [
     "demount",
+    "demounted",
     "denouement",
     "mounted"
   ],
   "answers": [
     "demount",
+    "demounted",
     "denouement",
     "denude",
     "denuded",
@@ -59,10 +61,11 @@
       "6": 8,
       "7": 5,
       "8": 5,
+      "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "D": 11,
+      "D": 12,
       "E": 2,
       "M": 12,
       "N": 2,
@@ -77,6 +80,7 @@
         "6": 2,
         "7": 2,
         "8": 1,
+        "9": 1,
         "10": 1
       },
       "E": {
@@ -112,7 +116,7 @@
       }
     },
     "two_letter_list": {
-      "DE": 4,
+      "DE": 5,
       "DO": 1,
       "DU": 6,
       "EN": 1,

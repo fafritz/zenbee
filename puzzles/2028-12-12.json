@@ -1,9 +1,9 @@
 {
   "pangram": "unlaced",
   "center_letter": "u",
-  "num_answers": 61,
+  "num_answers": 63,
   "num_pangrams": 2,
-  "possible_points": 318,
+  "possible_points": 332,
   "answer_pangrams": [
     "uncalled",
     "unlaced"
@@ -17,6 +17,7 @@
     "annul",
     "annulled",
     "cannula",
+    "cannulae",
     "canula",
     "caudal",
     "clue",
@@ -46,6 +47,7 @@
     "dune",
     "dunned",
     "educe",
+    "educed",
     "elude",
     "eluded",
     "endued",
@@ -76,15 +78,15 @@
     "by_length": {
       "4": 14,
       "5": 11,
-      "6": 21,
+      "6": 22,
       "7": 11,
-      "8": 4
+      "8": 5
     },
     "by_first_letter": {
       "A": 7,
-      "C": 10,
+      "C": 11,
       "D": 19,
-      "E": 4,
+      "E": 5,
       "L": 8,
       "N": 3,
       "U": 10
@@ -100,7 +102,8 @@
         "4": 3,
         "5": 1,
         "6": 4,
-        "7": 2
+        "7": 2,
+        "8": 1
       },
       "D": {
         "4": 5,
@@ -110,7 +113,7 @@
       },
       "E": {
         "5": 2,
-        "6": 2
+        "6": 3
       },
       "L": {
         "4": 4,
@@ -134,12 +137,12 @@
       "AD": 2,
       "AL": 2,
       "AN": 3,
-      "CA": 3,
+      "CA": 4,
       "CL": 2,
       "CU": 5,
       "DE": 8,
       "DU": 11,
-      "ED": 1,
+      "ED": 2,
       "EL": 2,
       "EN": 1,
       "LA": 4,

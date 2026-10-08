@@ -1,9 +1,9 @@
 {
   "pangram": "plaudit",
   "center_letter": "t",
-  "num_answers": 21,
+  "num_answers": 22,
   "num_pangrams": 1,
-  "possible_points": 80,
+  "possible_points": 81,
   "answer_pangrams": [
     "plaudit"
   ],
@@ -27,13 +27,14 @@
     "tidal",
     "till",
     "tilt",
+    "tipi",
     "tulip",
     "tutu"
   ],
   "date": "2029-10-15",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 11,
       "5": 7,
       "6": 1,
       "7": 2,
@@ -44,7 +45,7 @@
       "D": 1,
       "L": 1,
       "P": 8,
-      "T": 8
+      "T": 9
     },
     "grid": {
       "A": {
@@ -64,7 +65,7 @@
         "8": 1
       },
       "T": {
-        "4": 6,
+        "4": 7,
         "5": 2
       }
     },
@@ -78,7 +79,7 @@
       "PL": 2,
       "PU": 2,
       "TA": 3,
-      "TI": 3,
+      "TI": 4,
       "TU": 2
     }
   }

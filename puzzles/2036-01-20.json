@@ -1,14 +1,15 @@
 {
   "pangram": "dubiety",
   "center_letter": "u",
-  "num_answers": 18,
+  "num_answers": 19,
   "num_pangrams": 1,
-  "possible_points": 85,
+  "possible_points": 92,
   "answer_pangrams": [
     "dubiety"
   ],
   "answers": [
     "budded",
+    "buddied",
     "buddy",
     "butte",
     "butted",
@@ -33,10 +34,10 @@
       "4": 5,
       "5": 7,
       "6": 4,
-      "7": 2
+      "7": 3
     },
     "by_first_letter": {
-      "B": 4,
+      "B": 5,
       "D": 8,
       "E": 1,
       "T": 5
@@ -44,7 +45,8 @@
     "grid": {
       "B": {
         "5": 2,
-        "6": 2
+        "6": 2,
+        "7": 1
       },
       "D": {
         "4": 3,
@@ -62,7 +64,7 @@
       }
     },
     "two_letter_list": {
-      "BU": 4,
+      "BU": 5,
       "DE": 2,
       "DU": 6,
       "ET": 1,

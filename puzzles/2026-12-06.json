@@ -1,9 +1,9 @@
 {
   "pangram": "tickled",
   "center_letter": "t",
-  "num_answers": 52,
+  "num_answers": 53,
   "num_pangrams": 1,
-  "possible_points": 243,
+  "possible_points": 249,
   "answer_pangrams": [
     "tickled"
   ],
@@ -30,6 +30,7 @@
     "illicit",
     "kettle",
     "kilt",
+    "kilted",
     "kite",
     "kited",
     "licit",
@@ -66,7 +67,7 @@
     "by_length": {
       "4": 16,
       "5": 10,
-      "6": 17,
+      "6": 18,
       "7": 4,
       "8": 5
     },
@@ -75,7 +76,7 @@
       "D": 8,
       "E": 9,
       "I": 1,
-      "K": 4,
+      "K": 5,
       "L": 5,
       "T": 23
     },
@@ -103,7 +104,7 @@
       "K": {
         "4": 2,
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "L": {
         "4": 2,
@@ -127,7 +128,7 @@
       "EL": 5,
       "IL": 1,
       "KE": 1,
-      "KI": 3,
+      "KI": 4,
       "LI": 5,
       "TE": 2,
       "TI": 21

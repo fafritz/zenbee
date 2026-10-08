@@ -1,9 +1,9 @@
 {
   "pangram": "unkempt",
   "center_letter": "e",
-  "num_answers": 33,
+  "num_answers": 34,
   "num_pangrams": 1,
-  "possible_points": 91,
+  "possible_points": 97,
   "answer_pangrams": [
     "unkempt"
   ],
@@ -31,6 +31,7 @@
     "puppet",
     "teem",
     "teen",
+    "teepee",
     "temp",
     "tempt",
     "tenement",
@@ -47,7 +48,7 @@
     "by_length": {
       "4": 23,
       "5": 4,
-      "6": 2,
+      "6": 3,
       "7": 3,
       "8": 1
     },
@@ -57,7 +58,7 @@
       "M": 6,
       "N": 2,
       "P": 7,
-      "T": 9,
+      "T": 10,
       "U": 3
     },
     "grid": {
@@ -82,6 +83,7 @@
       "T": {
         "4": 5,
         "5": 3,
+        "6": 1,
         "8": 1
       },
       "U": {
@@ -100,7 +102,7 @@
       "NU": 1,
       "PE": 5,
       "PU": 2,
-      "TE": 8,
+      "TE": 9,
       "TU": 1,
       "UM": 1,
       "UN": 1,

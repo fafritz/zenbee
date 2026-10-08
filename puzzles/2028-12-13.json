@@ -1,9 +1,9 @@
 {
   "pangram": "clumped",
   "center_letter": "d",
-  "num_answers": 64,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 322,
+  "possible_points": 329,
   "answer_pangrams": [
     "clumped"
   ],
@@ -41,6 +41,7 @@
     "dupe",
     "duped",
     "educe",
+    "educed",
     "eeled",
     "elude",
     "eluded",
@@ -61,6 +62,7 @@
     "peeled",
     "peeped",
     "pepped",
+    "pled",
     "plumed",
     "plumped",
     "puddle",
@@ -76,19 +78,19 @@
   "date": "2028-12-13",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 15,
       "5": 10,
-      "6": 30,
+      "6": 31,
       "7": 9,
       "8": 1
     },
     "by_first_letter": {
       "C": 10,
       "D": 22,
-      "E": 5,
+      "E": 6,
       "L": 3,
       "M": 7,
-      "P": 15,
+      "P": 16,
       "U": 2
     },
     "grid": {
@@ -106,7 +108,7 @@
       },
       "E": {
         "5": 3,
-        "6": 2
+        "6": 3
       },
       "L": {
         "4": 1,
@@ -118,7 +120,7 @@
         "7": 2
       },
       "P": {
-        "4": 1,
+        "4": 2,
         "6": 10,
         "7": 3,
         "8": 1
@@ -133,7 +135,7 @@
       "CU": 5,
       "DE": 12,
       "DU": 10,
-      "ED": 1,
+      "ED": 2,
       "EE": 1,
       "EL": 2,
       "EM": 1,
@@ -142,7 +144,7 @@
       "ME": 4,
       "MU": 3,
       "PE": 6,
-      "PL": 2,
+      "PL": 3,
       "PU": 7,
       "UM": 1,
       "UP": 1

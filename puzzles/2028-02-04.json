@@ -1,9 +1,9 @@
 {
   "pangram": "exploit",
   "center_letter": "t",
-  "num_answers": 41,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 164,
+  "possible_points": 171,
   "answer_pangrams": [
     "exploit"
   ],
@@ -28,6 +28,7 @@
     "poet",
     "polite",
     "potpie",
+    "teepee",
     "telex",
     "tell",
     "tepee",
@@ -36,6 +37,7 @@
     "tile",
     "till",
     "tilt",
+    "tipi",
     "tipple",
     "tiptoe",
     "tiptop",
@@ -53,9 +55,9 @@
   "date": "2028-02-04",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 9,
-      "6": 11,
+      "6": 12,
       "7": 3,
       "8": 1
     },
@@ -63,7 +65,7 @@
       "E": 5,
       "L": 5,
       "P": 10,
-      "T": 21
+      "T": 23
     },
     "grid": {
       "E": {
@@ -83,9 +85,9 @@
         "7": 1
       },
       "T": {
-        "4": 10,
+        "4": 11,
         "5": 3,
-        "6": 6,
+        "6": 7,
         "7": 1,
         "8": 1
       }
@@ -99,8 +101,8 @@
       "PI": 2,
       "PL": 1,
       "PO": 3,
-      "TE": 5,
-      "TI": 8,
+      "TE": 6,
+      "TI": 9,
       "TO": 8
     }
   }

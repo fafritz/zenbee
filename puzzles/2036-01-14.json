@@ -1,9 +1,9 @@
 {
   "pangram": "culprit",
   "center_letter": "i",
-  "num_answers": 20,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 84,
+  "possible_points": 85,
   "answer_pangrams": [
     "culprit"
   ],
@@ -24,6 +24,7 @@
     "rill",
     "till",
     "tilt",
+    "tipi",
     "trill",
     "trip",
     "tulip",
@@ -32,7 +33,7 @@
   "date": "2036-01-14",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 9,
       "5": 6,
       "6": 3,
       "7": 3
@@ -43,7 +44,7 @@
       "L": 2,
       "P": 4,
       "R": 1,
-      "T": 5,
+      "T": 6,
       "U": 1
     },
     "grid": {
@@ -69,7 +70,7 @@
         "4": 1
       },
       "T": {
-        "4": 3,
+        "4": 4,
         "5": 2
       },
       "U": {
@@ -86,7 +87,7 @@
       "PI": 2,
       "PU": 2,
       "RI": 1,
-      "TI": 2,
+      "TI": 3,
       "TR": 2,
       "TU": 1,
       "UR": 1

@@ -1,9 +1,9 @@
 {
   "pangram": "tombing",
   "center_letter": "t",
-  "num_answers": 40,
+  "num_answers": 41,
   "num_pangrams": 2,
-  "possible_points": 209,
+  "possible_points": 216,
   "answer_pangrams": [
     "bottoming",
     "tombing"
@@ -36,6 +36,7 @@
     "omitting",
     "onto",
     "timing",
+    "tinging",
     "tinning",
     "tint",
     "tinting",
@@ -56,7 +57,7 @@
       "4": 13,
       "5": 3,
       "6": 9,
-      "7": 9,
+      "7": 10,
       "8": 4,
       "9": 2
     },
@@ -66,7 +67,7 @@
       "M": 8,
       "N": 2,
       "O": 4,
-      "T": 14
+      "T": 15
     },
     "grid": {
       "B": {
@@ -98,7 +99,7 @@
       "T": {
         "4": 5,
         "6": 3,
-        "7": 6
+        "7": 7
       }
     },
     "two_letter_list": {
@@ -112,7 +113,7 @@
       "OB": 1,
       "OM": 2,
       "ON": 1,
-      "TI": 4,
+      "TI": 5,
       "TO": 10
     }
   }

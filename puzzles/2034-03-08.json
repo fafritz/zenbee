@@ -1,9 +1,9 @@
 {
   "pangram": "jingled",
   "center_letter": "n",
-  "num_answers": 70,
+  "num_answers": 71,
   "num_pangrams": 1,
-  "possible_points": 406,
+  "possible_points": 413,
   "answer_pangrams": [
     "jingled"
   ],
@@ -30,6 +30,7 @@
     "ended",
     "ending",
     "engine",
+    "engined",
     "geeing",
     "gelding",
     "gelling",
@@ -85,12 +86,12 @@
       "4": 10,
       "5": 8,
       "6": 23,
-      "7": 21,
+      "7": 22,
       "8": 8
     },
     "by_first_letter": {
       "D": 15,
-      "E": 7,
+      "E": 8,
       "G": 13,
       "I": 4,
       "J": 7,
@@ -108,7 +109,7 @@
       "E": {
         "5": 1,
         "6": 5,
-        "7": 1
+        "7": 2
       },
       "G": {
         "4": 2,
@@ -146,7 +147,7 @@
       "EE": 1,
       "EG": 1,
       "EL": 1,
-      "EN": 3,
+      "EN": 4,
       "GE": 6,
       "GI": 5,
       "GL": 2,

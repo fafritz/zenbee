@@ -1,9 +1,9 @@
 {
   "pangram": "organic",
   "center_letter": "o",
-  "num_answers": 70,
+  "num_answers": 71,
   "num_pangrams": 2,
-  "possible_points": 370,
+  "possible_points": 376,
   "answer_pangrams": [
     "inorganic",
     "organic"
@@ -33,6 +33,7 @@
     "conga",
     "congaing",
     "conic",
+    "coning",
     "conning",
     "cooing",
     "coring",
@@ -85,14 +86,14 @@
     "by_length": {
       "4": 15,
       "5": 19,
-      "6": 16,
+      "6": 17,
       "7": 13,
       "8": 4,
       "9": 3
     },
     "by_first_letter": {
       "A": 6,
-      "C": 26,
+      "C": 27,
       "G": 11,
       "I": 8,
       "N": 4,
@@ -108,7 +109,7 @@
       "C": {
         "4": 3,
         "5": 8,
-        "6": 6,
+        "6": 7,
         "7": 5,
         "8": 2,
         "9": 2
@@ -150,7 +151,7 @@
       "AN": 3,
       "AR": 1,
       "CA": 6,
-      "CO": 18,
+      "CO": 19,
       "CR": 2,
       "GO": 7,
       "GR": 4,

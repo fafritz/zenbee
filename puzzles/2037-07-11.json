@@ -1,9 +1,9 @@
 {
   "pangram": "jaunted",
   "center_letter": "d",
-  "num_answers": 61,
+  "num_answers": 62,
   "num_pangrams": 1,
-  "possible_points": 336,
+  "possible_points": 344,
   "answer_pangrams": [
     "jaunted"
   ],
@@ -51,6 +51,7 @@
     "jaunted",
     "jetted",
     "jutted",
+    "neatened",
     "need",
     "needed",
     "netted",
@@ -77,7 +78,7 @@
       "5": 10,
       "6": 18,
       "7": 9,
-      "8": 6,
+      "8": 7,
       "9": 3,
       "10": 2
     },
@@ -86,7 +87,7 @@
       "D": 22,
       "E": 3,
       "J": 5,
-      "N": 4,
+      "N": 5,
       "T": 9,
       "U": 5
     },
@@ -118,7 +119,8 @@
       },
       "N": {
         "4": 1,
-        "6": 3
+        "6": 3,
+        "8": 1
       },
       "T": {
         "4": 2,
@@ -147,7 +149,7 @@
       "JA": 3,
       "JE": 1,
       "JU": 1,
-      "NE": 3,
+      "NE": 4,
       "NU": 1,
       "TA": 3,
       "TE": 5,

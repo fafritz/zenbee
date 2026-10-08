@@ -1,9 +1,9 @@
 {
   "pangram": "puritan",
   "center_letter": "p",
-  "num_answers": 32,
+  "num_answers": 33,
   "num_pangrams": 1,
-  "possible_points": 116,
+  "possible_points": 117,
   "answer_pangrams": [
     "puritan"
   ],
@@ -35,6 +35,7 @@
     "rattrap",
     "tapir",
     "tarp",
+    "tipi",
     "trap",
     "trip",
     "turnip",
@@ -44,7 +45,7 @@
   "date": "2038-12-02",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 16,
       "5": 10,
       "6": 5,
       "7": 2
@@ -54,7 +55,7 @@
       "I": 2,
       "P": 20,
       "R": 2,
-      "T": 5,
+      "T": 6,
       "U": 2
     },
     "grid": {
@@ -75,7 +76,7 @@
         "7": 1
       },
       "T": {
-        "4": 3,
+        "4": 4,
         "5": 1,
         "6": 1
       },
@@ -93,6 +94,7 @@
       "PU": 5,
       "RA": 2,
       "TA": 2,
+      "TI": 1,
       "TR": 2,
       "TU": 1,
       "UN": 1,

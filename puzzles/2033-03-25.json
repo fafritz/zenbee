@@ -1,87 +1,103 @@
 {
-  "pangram": "hotlink",
-  "center_letter": "k",
-  "num_answers": 21,
+  "pangram": "comping",
+  "center_letter": "p",
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 54,
+  "possible_points": 178,
   "answer_pangrams": [
-    "hotlink"
+    "comping"
   ],
   "answers": [
-    "honk",
-    "hook",
-    "hotlink",
-    "kill",
-    "kiln",
-    "kilo",
-    "kiloton",
-    "kilt",
-    "kink",
-    "knit",
-    "knoll",
-    "knot",
-    "kook",
-    "link",
-    "look",
-    "nook",
-    "oink",
-    "think",
-    "tiki",
-    "took",
-    "toolkit"
+    "comp",
+    "comping",
+    "compo",
+    "coop",
+    "cooping",
+    "coping",
+    "copping",
+    "goop",
+    "impinging",
+    "moping",
+    "mopping",
+    "nipping",
+    "opining",
+    "opinion",
+    "picnic",
+    "pigging",
+    "pimp",
+    "pimping",
+    "ping",
+    "pinging",
+    "pining",
+    "pinion",
+    "pinioning",
+    "pinning",
+    "piping",
+    "pippin",
+    "pipping",
+    "pogo",
+    "pogoing",
+    "pomp",
+    "poop",
+    "popping"
   ],
   "date": "2033-03-25",
   "hints": {
     "by_length": {
-      "4": 16,
-      "5": 2,
-      "7": 3
+      "4": 8,
+      "5": 1,
+      "6": 7,
+      "7": 14,
+      "9": 2
     },
     "by_first_letter": {
-      "H": 3,
-      "K": 10,
-      "L": 2,
+      "C": 7,
+      "G": 1,
+      "I": 1,
+      "M": 2,
       "N": 1,
-      "O": 1,
-      "T": 4
+      "O": 2,
+      "P": 18
     },
     "grid": {
-      "H": {
+      "C": {
         "4": 2,
-        "7": 1
-      },
-      "K": {
-        "4": 8,
         "5": 1,
-        "7": 1
+        "6": 1,
+        "7": 3
       },
-      "L": {
-        "4": 2
+      "G": {
+        "4": 1
+      },
+      "I": {
+        "9": 1
+      },
+      "M": {
+        "6": 1,
+        "7": 1
       },
       "N": {
-        "4": 1
+        "7": 1
       },
       "O": {
-        "4": 1
+        "7": 2
       },
-      "T": {
-        "4": 2,
-        "5": 1,
-        "7": 1
+      "P": {
+        "4": 5,
+        "6": 5,
+        "7": 7,
+        "9": 1
       }
     },
     "two_letter_list": {
-      "HO": 3,
-      "KI": 6,
-      "KN": 3,
-      "KO": 1,
-      "LI": 1,
-      "LO": 1,
-      "NO": 1,
-      "OI": 1,
-      "TH": 1,
-      "TI": 1,
-      "TO": 2
+      "CO": 7,
+      "GO": 1,
+      "IM": 1,
+      "MO": 2,
+      "NI": 1,
+      "OP": 2,
+      "PI": 13,
+      "PO": 5
     }
   }
 }

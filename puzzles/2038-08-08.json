@@ -1,9 +1,9 @@
 {
   "pangram": "valuing",
   "center_letter": "v",
-  "num_answers": 21,
+  "num_answers": 22,
   "num_pangrams": 2,
-  "possible_points": 130,
+  "possible_points": 136,
   "answer_pangrams": [
     "unavailing",
     "valuing"
@@ -17,6 +17,7 @@
     "giving",
     "guava",
     "lava",
+    "laving",
     "living",
     "naval",
     "unavailing",
@@ -36,7 +37,7 @@
     "by_length": {
       "4": 3,
       "5": 8,
-      "6": 2,
+      "6": 3,
       "7": 5,
       "8": 2,
       "10": 1
@@ -44,7 +45,7 @@
     "by_first_letter": {
       "A": 5,
       "G": 2,
-      "L": 2,
+      "L": 3,
       "N": 1,
       "U": 2,
       "V": 9
@@ -60,7 +61,7 @@
       },
       "L": {
         "4": 1,
-        "6": 1
+        "6": 2
       },
       "N": {
         "5": 1
@@ -81,7 +82,7 @@
       "AV": 3,
       "GI": 1,
       "GU": 1,
-      "LA": 1,
+      "LA": 2,
       "LI": 1,
       "NA": 1,
       "UN": 1,

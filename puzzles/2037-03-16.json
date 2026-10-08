@@ -1,9 +1,9 @@
 {
   "pangram": "opacity",
   "center_letter": "p",
-  "num_answers": 28,
+  "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 118,
+  "possible_points": 119,
   "answer_pangrams": [
     "opacity"
   ],
@@ -32,6 +32,7 @@
     "potato",
     "potty",
     "tapioca",
+    "tipi",
     "tiptop",
     "topcoat",
     "topic",
@@ -40,7 +41,7 @@
   "date": "2037-03-16",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 8,
       "6": 4,
       "7": 4,
@@ -51,7 +52,7 @@
       "C": 6,
       "O": 2,
       "P": 14,
-      "T": 5
+      "T": 6
     },
     "grid": {
       "A": {
@@ -73,7 +74,7 @@
         "6": 3
       },
       "T": {
-        "4": 1,
+        "4": 2,
         "5": 1,
         "6": 1,
         "7": 2
@@ -88,7 +89,7 @@
       "PI": 4,
       "PO": 4,
       "TA": 1,
-      "TI": 1,
+      "TI": 2,
       "TO": 2,
       "TY": 1
     }

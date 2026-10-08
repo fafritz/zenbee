@@ -1,9 +1,9 @@
 {
   "pangram": "faulted",
   "center_letter": "d",
-  "num_answers": 80,
+  "num_answers": 81,
   "num_pangrams": 3,
-  "possible_points": 398,
+  "possible_points": 404,
   "answer_pangrams": [
     "default",
     "defaulted",
@@ -84,6 +84,7 @@
     "leafed",
     "leafleted",
     "lede",
+    "luffed",
     "lulled",
     "tatted",
     "tattled",
@@ -96,7 +97,7 @@
     "by_length": {
       "4": 23,
       "5": 14,
-      "6": 25,
+      "6": 26,
       "7": 12,
       "8": 4,
       "9": 2
@@ -106,7 +107,7 @@
       "D": 32,
       "E": 5,
       "F": 20,
-      "L": 10,
+      "L": 11,
       "T": 4,
       "U": 1
     },
@@ -138,7 +139,7 @@
       "L": {
         "4": 3,
         "5": 1,
-        "6": 5,
+        "6": 6,
         "9": 1
       },
       "T": {
@@ -165,7 +166,7 @@
       "FU": 4,
       "LA": 4,
       "LE": 5,
-      "LU": 1,
+      "LU": 2,
       "TA": 2,
       "TE": 1,
       "TU": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "touched",
   "center_letter": "e",
-  "num_answers": 60,
+  "num_answers": 62,
   "num_pangrams": 1,
-  "possible_points": 273,
+  "possible_points": 285,
   "answer_pangrams": [
     "touched"
   ],
@@ -35,12 +35,14 @@
     "doted",
     "dotted",
     "douched",
+    "ducted",
     "dude",
     "duded",
     "duet",
     "echo",
     "echoed",
     "educe",
+    "educed",
     "etch",
     "etched",
     "etude",
@@ -74,14 +76,14 @@
     "by_length": {
       "4": 19,
       "5": 13,
-      "6": 17,
+      "6": 19,
       "7": 8,
       "8": 3
     },
     "by_first_letter": {
       "C": 11,
-      "D": 19,
-      "E": 6,
+      "D": 20,
+      "E": 7,
       "H": 6,
       "O": 2,
       "T": 16
@@ -95,14 +97,14 @@
       "D": {
         "4": 4,
         "5": 3,
-        "6": 7,
+        "6": 8,
         "7": 3,
         "8": 2
       },
       "E": {
         "4": 2,
         "5": 2,
-        "6": 2
+        "6": 3
       },
       "H": {
         "4": 2,
@@ -126,9 +128,9 @@
       "CU": 2,
       "DE": 12,
       "DO": 4,
-      "DU": 3,
+      "DU": 4,
       "EC": 2,
-      "ED": 1,
+      "ED": 2,
       "ET": 3,
       "HE": 2,
       "HO": 4,

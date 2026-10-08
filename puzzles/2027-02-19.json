@@ -1,9 +1,9 @@
 {
   "pangram": "couplet",
   "center_letter": "t",
-  "num_answers": 46,
+  "num_answers": 47,
   "num_pangrams": 1,
-  "possible_points": 174,
+  "possible_points": 180,
   "answer_pangrams": [
     "couplet"
   ],
@@ -43,6 +43,7 @@
     "pullout",
     "puppet",
     "putt",
+    "teepee",
     "tell",
     "tepee",
     "toll",
@@ -60,7 +61,7 @@
     "by_length": {
       "4": 21,
       "5": 9,
-      "6": 11,
+      "6": 12,
       "7": 5
     },
     "by_first_letter": {
@@ -69,7 +70,7 @@
       "L": 6,
       "O": 5,
       "P": 10,
-      "T": 11
+      "T": 12
     },
     "grid": {
       "C": {
@@ -98,7 +99,7 @@
       "T": {
         "4": 7,
         "5": 2,
-        "6": 2
+        "6": 3
       }
     },
     "two_letter_list": {
@@ -115,7 +116,7 @@
       "PL": 1,
       "PO": 3,
       "PU": 4,
-      "TE": 2,
+      "TE": 3,
       "TO": 7,
       "TU": 2
     }

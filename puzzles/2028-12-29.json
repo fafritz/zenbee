@@ -1,9 +1,9 @@
 {
   "pangram": "opulent",
   "center_letter": "t",
-  "num_answers": 48,
+  "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 170,
+  "possible_points": 176,
   "answer_pangrams": [
     "opulent"
   ],
@@ -38,6 +38,7 @@
     "puppet",
     "putt",
     "teen",
+    "teepee",
     "tell",
     "tenet",
     "tenon",
@@ -62,7 +63,7 @@
     "by_length": {
       "4": 25,
       "5": 7,
-      "6": 10,
+      "6": 11,
       "7": 5,
       "8": 1
     },
@@ -72,7 +73,7 @@
       "N": 2,
       "O": 5,
       "P": 14,
-      "T": 19
+      "T": 20
     },
     "grid": {
       "E": {
@@ -101,7 +102,7 @@
       "T": {
         "4": 12,
         "5": 4,
-        "6": 3
+        "6": 4
       }
     },
     "two_letter_list": {
@@ -119,7 +120,7 @@
       "PL": 1,
       "PO": 5,
       "PU": 5,
-      "TE": 6,
+      "TE": 7,
       "TO": 9,
       "TU": 4
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "fluting",
   "center_letter": "g",
-  "num_answers": 61,
+  "num_answers": 64,
   "num_pangrams": 1,
-  "possible_points": 384,
+  "possible_points": 404,
   "answer_pangrams": [
     "fluting"
   ],
@@ -49,17 +49,20 @@
     "lilting",
     "lining",
     "linting",
+    "luffing",
     "lugging",
     "luging",
     "lulling",
     "lung",
     "lunging",
+    "luting",
     "niggling",
     "nutting",
     "tiffing",
     "tiling",
     "tilling",
     "tilting",
+    "tinging",
     "tingling",
     "tinning",
     "tinting",
@@ -75,8 +78,8 @@
     "by_length": {
       "4": 8,
       "5": 5,
-      "6": 9,
-      "7": 26,
+      "6": 10,
+      "7": 28,
       "8": 10,
       "9": 2,
       "10": 1
@@ -85,9 +88,9 @@
       "F": 13,
       "G": 20,
       "I": 3,
-      "L": 10,
+      "L": 12,
       "N": 2,
-      "T": 11,
+      "T": 12,
       "U": 2
     },
     "grid": {
@@ -112,8 +115,8 @@
       },
       "L": {
         "4": 1,
-        "6": 3,
-        "7": 6
+        "6": 4,
+        "7": 7
       },
       "N": {
         "7": 1,
@@ -121,7 +124,7 @@
       },
       "T": {
         "6": 2,
-        "7": 8,
+        "7": 9,
         "8": 1
       },
       "U": {
@@ -139,10 +142,10 @@
       "IG": 1,
       "IN": 2,
       "LI": 5,
-      "LU": 5,
+      "LU": 7,
       "NI": 1,
       "NU": 1,
-      "TI": 8,
+      "TI": 9,
       "TU": 3,
       "UN": 2
     }

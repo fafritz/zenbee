@@ -1,9 +1,9 @@
 {
   "pangram": "counted",
   "center_letter": "t",
-  "num_answers": 80,
+  "num_answers": 81,
   "num_pangrams": 4,
-  "possible_points": 434,
+  "possible_points": 440,
   "answer_pangrams": [
     "conducted",
     "counted",
@@ -51,6 +51,7 @@
     "doted",
     "dotted",
     "duct",
+    "ducted",
     "duet",
     "entente",
     "etude",
@@ -97,7 +98,7 @@
     "by_length": {
       "4": 22,
       "5": 14,
-      "6": 18,
+      "6": 19,
       "7": 13,
       "8": 5,
       "9": 6,
@@ -106,7 +107,7 @@
     },
     "by_first_letter": {
       "C": 22,
-      "D": 19,
+      "D": 20,
       "E": 2,
       "N": 4,
       "O": 5,
@@ -125,7 +126,7 @@
       "D": {
         "4": 4,
         "5": 2,
-        "6": 8,
+        "6": 9,
         "7": 2,
         "8": 3
       },
@@ -162,7 +163,7 @@
       "CU": 2,
       "DE": 12,
       "DO": 5,
-      "DU": 2,
+      "DU": 3,
       "EN": 1,
       "ET": 1,
       "NE": 1,

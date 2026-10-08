@@ -1,9 +1,9 @@
 {
   "pangram": "calving",
   "center_letter": "v",
-  "num_answers": 25,
+  "num_answers": 26,
   "num_pangrams": 3,
-  "possible_points": 160,
+  "possible_points": 166,
   "answer_pangrams": [
     "calving",
     "caviling",
@@ -24,6 +24,7 @@
     "galvanic",
     "giving",
     "lava",
+    "laving",
     "living",
     "naval",
     "vain",
@@ -41,7 +42,7 @@
     "by_length": {
       "4": 3,
       "5": 9,
-      "6": 4,
+      "6": 5,
       "7": 5,
       "8": 4
     },
@@ -49,7 +50,7 @@
       "A": 4,
       "C": 7,
       "G": 2,
-      "L": 2,
+      "L": 3,
       "N": 1,
       "V": 9
     },
@@ -70,7 +71,7 @@
       },
       "L": {
         "4": 1,
-        "6": 1
+        "6": 2
       },
       "N": {
         "5": 1
@@ -89,7 +90,7 @@
       "CI": 3,
       "GA": 1,
       "GI": 1,
-      "LA": 1,
+      "LA": 2,
       "LI": 1,
       "NA": 1,
       "VA": 4,

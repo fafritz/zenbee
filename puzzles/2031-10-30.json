@@ -1,9 +1,9 @@
 {
   "pangram": "frailty",
   "center_letter": "y",
-  "num_answers": 31,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 144,
+  "possible_points": 150,
   "answer_pangrams": [
     "frailty"
   ],
@@ -24,6 +24,7 @@
     "fitly",
     "flatly",
     "flay",
+    "flirty",
     "frailty",
     "fray",
     "frilly",
@@ -45,13 +46,13 @@
     "by_length": {
       "4": 8,
       "5": 13,
-      "6": 7,
+      "6": 8,
       "7": 2,
       "8": 1
     },
     "by_first_letter": {
       "A": 6,
-      "F": 13,
+      "F": 14,
       "I": 1,
       "L": 2,
       "R": 4,
@@ -66,7 +67,7 @@
       "F": {
         "4": 2,
         "5": 5,
-        "6": 3,
+        "6": 4,
         "7": 2,
         "8": 1
       },
@@ -93,7 +94,7 @@
       "AR": 2,
       "FA": 5,
       "FI": 3,
-      "FL": 2,
+      "FL": 3,
       "FR": 3,
       "IF": 1,
       "LA": 1,

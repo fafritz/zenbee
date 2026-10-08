@@ -1,9 +1,9 @@
 {
   "pangram": "chomped",
   "center_letter": "d",
-  "num_answers": 58,
+  "num_answers": 59,
   "num_pangrams": 1,
-  "possible_points": 267,
+  "possible_points": 273,
   "answer_pangrams": [
     "chomped"
   ],
@@ -17,6 +17,7 @@
     "coded",
     "coed",
     "commode",
+    "comped",
     "cooed",
     "cooped",
     "coped",
@@ -72,12 +73,12 @@
     "by_length": {
       "4": 17,
       "5": 11,
-      "6": 23,
+      "6": 24,
       "7": 6,
       "8": 1
     },
     "by_first_letter": {
-      "C": 13,
+      "C": 14,
       "D": 16,
       "E": 2,
       "H": 12,
@@ -88,7 +89,7 @@
       "C": {
         "4": 3,
         "5": 4,
-        "6": 2,
+        "6": 3,
         "7": 4
       },
       "D": {
@@ -120,7 +121,7 @@
     "two_letter_list": {
       "CE": 2,
       "CH": 3,
-      "CO": 8,
+      "CO": 9,
       "DE": 9,
       "DO": 7,
       "EC": 1,

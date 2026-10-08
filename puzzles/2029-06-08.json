@@ -1,9 +1,9 @@
 {
   "pangram": "defunct",
   "center_letter": "d",
-  "num_answers": 65,
+  "num_answers": 67,
   "num_pangrams": 1,
-  "possible_points": 328,
+  "possible_points": 340,
   "answer_pangrams": [
     "defunct"
   ],
@@ -37,6 +37,7 @@
     "deuce",
     "deuced",
     "duct",
+    "ducted",
     "dude",
     "duded",
     "duet",
@@ -45,6 +46,7 @@
     "dune",
     "dunned",
     "educe",
+    "educed",
     "effected",
     "ended",
     "endued",
@@ -79,15 +81,15 @@
     "by_length": {
       "4": 17,
       "5": 10,
-      "6": 25,
+      "6": 27,
       "7": 4,
       "8": 7,
       "10": 2
     },
     "by_first_letter": {
       "C": 4,
-      "D": 32,
-      "E": 5,
+      "D": 33,
+      "E": 6,
       "F": 10,
       "N": 4,
       "T": 6,
@@ -102,13 +104,13 @@
       "D": {
         "4": 8,
         "5": 3,
-        "6": 12,
+        "6": 13,
         "7": 4,
         "8": 5
       },
       "E": {
         "5": 3,
-        "6": 1,
+        "6": 2,
         "8": 1
       },
       "F": {
@@ -135,8 +137,8 @@
       "CE": 2,
       "CU": 2,
       "DE": 24,
-      "DU": 8,
-      "ED": 1,
+      "DU": 9,
+      "ED": 2,
       "EF": 1,
       "EN": 2,
       "ET": 1,

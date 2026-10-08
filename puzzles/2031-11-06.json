@@ -1,9 +1,9 @@
 {
   "pangram": "polecat",
   "center_letter": "p",
-  "num_answers": 70,
+  "num_answers": 71,
   "num_pangrams": 1,
-  "possible_points": 258,
+  "possible_points": 264,
   "answer_pangrams": [
     "polecat"
   ],
@@ -75,6 +75,7 @@
     "potato",
     "tape",
     "teapot",
+    "teepee",
     "tepee",
     "topcoat",
     "topple"
@@ -84,7 +85,7 @@
     "by_length": {
       "4": 34,
       "5": 12,
-      "6": 14,
+      "6": 15,
       "7": 8,
       "8": 1,
       "9": 1
@@ -96,7 +97,7 @@
       "L": 6,
       "O": 1,
       "P": 40,
-      "T": 5
+      "T": 6
     },
     "grid": {
       "A": {
@@ -132,7 +133,7 @@
       "T": {
         "4": 1,
         "5": 1,
-        "6": 2,
+        "6": 3,
         "7": 1
       }
     },
@@ -155,7 +156,7 @@
       "PL": 8,
       "PO": 9,
       "TA": 1,
-      "TE": 2,
+      "TE": 3,
       "TO": 2
     }
   }

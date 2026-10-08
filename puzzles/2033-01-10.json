@@ -1,9 +1,9 @@
 {
   "pangram": "blacked",
   "center_letter": "l",
-  "num_answers": 72,
+  "num_answers": 73,
   "num_pangrams": 2,
-  "possible_points": 333,
+  "possible_points": 339,
   "answer_pangrams": [
     "blackballed",
     "blacked"
@@ -35,6 +35,7 @@
     "blackballed",
     "blacked",
     "blade",
+    "bladed",
     "bleak",
     "bled",
     "bleed",
@@ -87,7 +88,7 @@
     "by_length": {
       "4": 23,
       "5": 17,
-      "6": 20,
+      "6": 21,
       "7": 9,
       "8": 1,
       "9": 1,
@@ -95,7 +96,7 @@
     },
     "by_first_letter": {
       "A": 4,
-      "B": 25,
+      "B": 26,
       "C": 15,
       "D": 9,
       "E": 1,
@@ -111,7 +112,7 @@
       "B": {
         "4": 7,
         "5": 7,
-        "6": 6,
+        "6": 7,
         "7": 3,
         "9": 1,
         "11": 1
@@ -149,7 +150,7 @@
       "AL": 1,
       "BA": 12,
       "BE": 3,
-      "BL": 10,
+      "BL": 11,
       "CA": 10,
       "CE": 2,
       "CL": 3,

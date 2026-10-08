@@ -1,9 +1,9 @@
 {
   "pangram": "emptily",
   "center_letter": "e",
-  "num_answers": 52,
+  "num_answers": 53,
   "num_pangrams": 1,
-  "possible_points": 184,
+  "possible_points": 190,
   "answer_pangrams": [
     "emptily"
   ],
@@ -44,6 +44,7 @@
     "pimple",
     "pipe",
     "teem",
+    "teepee",
     "teletype",
     "tell",
     "temp",
@@ -66,7 +67,7 @@
     "by_length": {
       "4": 26,
       "5": 10,
-      "6": 12,
+      "6": 13,
       "7": 3,
       "8": 1
     },
@@ -76,7 +77,7 @@
       "L": 4,
       "M": 10,
       "P": 12,
-      "T": 14,
+      "T": 15,
       "Y": 3
     },
     "grid": {
@@ -109,7 +110,7 @@
       "T": {
         "4": 6,
         "5": 3,
-        "6": 4,
+        "6": 5,
         "8": 1
       },
       "Y": {
@@ -128,7 +129,7 @@
       "MI": 4,
       "PE": 8,
       "PI": 4,
-      "TE": 7,
+      "TE": 8,
       "TI": 6,
       "TY": 1,
       "YE": 3

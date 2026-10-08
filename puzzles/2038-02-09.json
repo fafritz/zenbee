@@ -1,9 +1,9 @@
 {
   "pangram": "flouted",
   "center_letter": "u",
-  "num_answers": 48,
+  "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 191,
+  "possible_points": 197,
   "answer_pangrams": [
     "flouted"
   ],
@@ -42,6 +42,7 @@
     "loud",
     "lout",
     "luff",
+    "luffed",
     "lull",
     "lulled",
     "lulu",
@@ -62,14 +63,14 @@
     "by_length": {
       "4": 20,
       "5": 9,
-      "6": 14,
+      "6": 15,
       "7": 5
     },
     "by_first_letter": {
       "D": 11,
       "E": 3,
       "F": 17,
-      "L": 7,
+      "L": 8,
       "O": 3,
       "T": 7
     },
@@ -92,7 +93,7 @@
       },
       "L": {
         "4": 6,
-        "6": 1
+        "6": 2
       },
       "O": {
         "5": 2,
@@ -115,7 +116,7 @@
       "FO": 2,
       "FU": 6,
       "LO": 2,
-      "LU": 5,
+      "LU": 6,
       "OU": 3,
       "TO": 3,
       "TU": 4

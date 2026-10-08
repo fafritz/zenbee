@@ -1,9 +1,9 @@
 {
   "pangram": "petunia",
   "center_letter": "p",
-  "num_answers": 49,
+  "num_answers": 51,
   "num_pangrams": 1,
-  "possible_points": 199,
+  "possible_points": 206,
   "answer_pangrams": [
     "petunia"
   ],
@@ -55,15 +55,17 @@
     "putt",
     "tape",
     "taupe",
+    "teepee",
     "tepee",
+    "tipi",
     "unpin"
   ],
   "date": "2030-10-30",
   "hints": {
     "by_length": {
-      "4": 20,
+      "4": 21,
       "5": 13,
-      "6": 9,
+      "6": 10,
       "7": 4,
       "8": 2,
       "9": 1
@@ -74,7 +76,7 @@
       "I": 4,
       "N": 2,
       "P": 37,
-      "T": 3,
+      "T": 5,
       "U": 1
     },
     "grid": {
@@ -99,8 +101,9 @@
         "8": 1
       },
       "T": {
-        "4": 1,
-        "5": 2
+        "4": 2,
+        "5": 2,
+        "6": 1
       },
       "U": {
         "5": 1
@@ -117,7 +120,8 @@
       "PI": 10,
       "PU": 5,
       "TA": 2,
-      "TE": 1,
+      "TE": 2,
+      "TI": 1,
       "UN": 1
     }
   }

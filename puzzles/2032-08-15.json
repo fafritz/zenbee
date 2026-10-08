@@ -1,9 +1,9 @@
 {
   "pangram": "empathy",
   "center_letter": "p",
-  "num_answers": 26,
+  "num_answers": 27,
   "num_pangrams": 1,
-  "possible_points": 91,
+  "possible_points": 97,
   "answer_pangrams": [
     "empathy"
   ],
@@ -30,6 +30,7 @@
     "petty",
     "tamp",
     "tape",
+    "teepee",
     "temp",
     "tempt",
     "tepee",
@@ -40,7 +41,7 @@
     "by_length": {
       "4": 13,
       "5": 9,
-      "6": 2,
+      "6": 3,
       "7": 2
     },
     "by_first_letter": {
@@ -48,7 +49,7 @@
       "E": 3,
       "H": 4,
       "P": 11,
-      "T": 6
+      "T": 7
     },
     "grid": {
       "A": {
@@ -71,7 +72,8 @@
       },
       "T": {
         "4": 4,
-        "5": 2
+        "5": 2,
+        "6": 1
       }
     },
     "two_letter_list": {
@@ -85,7 +87,7 @@
       "PA": 7,
       "PE": 4,
       "TA": 2,
-      "TE": 3,
+      "TE": 4,
       "TY": 1
     }
   }

@@ -1,9 +1,9 @@
 {
   "pangram": "albumen",
   "center_letter": "m",
-  "num_answers": 48,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 193,
+  "possible_points": 208,
   "answer_pangrams": [
     "albumen"
   ],
@@ -30,6 +30,8 @@
     "lama",
     "lamb",
     "lame",
+    "lamella",
+    "lamellae",
     "lemma",
     "llama",
     "male",
@@ -63,15 +65,15 @@
       "4": 20,
       "5": 12,
       "6": 11,
-      "7": 2,
-      "8": 1,
+      "7": 3,
+      "8": 2,
       "9": 2
     },
     "by_first_letter": {
       "A": 9,
       "B": 6,
       "E": 4,
-      "L": 5,
+      "L": 7,
       "M": 20,
       "N": 2,
       "U": 2
@@ -96,7 +98,9 @@
       },
       "L": {
         "4": 3,
-        "5": 2
+        "5": 2,
+        "7": 1,
+        "8": 1
       },
       "M": {
         "4": 11,
@@ -121,7 +125,7 @@
       "BU": 2,
       "EM": 2,
       "EN": 2,
-      "LA": 3,
+      "LA": 5,
       "LE": 1,
       "LL": 1,
       "MA": 11,

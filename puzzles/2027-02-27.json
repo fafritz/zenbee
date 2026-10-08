@@ -1,9 +1,9 @@
 {
   "pangram": "climate",
   "center_letter": "m",
-  "num_answers": 74,
+  "num_answers": 77,
   "num_pangrams": 3,
-  "possible_points": 296,
+  "possible_points": 318,
   "answer_pangrams": [
     "acclimate",
     "climate",
@@ -33,7 +33,10 @@
     "item",
     "lama",
     "lame",
+    "lamella",
+    "lamellae",
     "lemma",
+    "lemmata",
     "lime",
     "limit",
     "llama",
@@ -91,8 +94,8 @@
       "4": 36,
       "5": 15,
       "6": 8,
-      "7": 6,
-      "8": 7,
+      "7": 8,
+      "8": 8,
       "9": 2
     },
     "by_first_letter": {
@@ -100,7 +103,7 @@
       "C": 10,
       "E": 5,
       "I": 3,
-      "L": 6,
+      "L": 9,
       "M": 40,
       "T": 7
     },
@@ -129,7 +132,9 @@
       },
       "L": {
         "4": 3,
-        "5": 3
+        "5": 3,
+        "7": 2,
+        "8": 1
       },
       "M": {
         "4": 22,
@@ -152,8 +157,8 @@
       "EM": 5,
       "IM": 2,
       "IT": 1,
-      "LA": 2,
-      "LE": 1,
+      "LA": 4,
+      "LE": 2,
       "LI": 2,
       "LL": 1,
       "MA": 15,

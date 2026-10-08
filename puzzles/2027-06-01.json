@@ -1,9 +1,9 @@
 {
   "pangram": "crowing",
   "center_letter": "i",
-  "num_answers": 68,
+  "num_answers": 69,
   "num_pangrams": 3,
-  "possible_points": 416,
+  "possible_points": 422,
   "answer_pangrams": [
     "cornrowing",
     "crowing",
@@ -17,6 +17,7 @@
     "coin",
     "coining",
     "conic",
+    "coning",
     "conning",
     "cooing",
     "coring",
@@ -84,14 +85,14 @@
     "by_length": {
       "4": 9,
       "5": 12,
-      "6": 17,
+      "6": 18,
       "7": 20,
       "8": 7,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "C": 17,
+      "C": 18,
       "G": 11,
       "I": 10,
       "N": 3,
@@ -103,7 +104,7 @@
       "C": {
         "4": 1,
         "5": 3,
-        "6": 3,
+        "6": 4,
         "7": 5,
         "8": 3,
         "9": 1,
@@ -149,7 +150,7 @@
     },
     "two_letter_list": {
       "CI": 1,
-      "CO": 12,
+      "CO": 13,
       "CR": 4,
       "GI": 2,
       "GO": 5,

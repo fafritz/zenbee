@@ -1,9 +1,9 @@
 {
   "pangram": "fumbled",
   "center_letter": "u",
-  "num_answers": 71,
+  "num_answers": 73,
   "num_pangrams": 1,
-  "possible_points": 337,
+  "possible_points": 349,
   "answer_pangrams": [
     "fumbled"
   ],
@@ -40,6 +40,7 @@
     "dulled",
     "dumb",
     "dumbbell",
+    "dumbed",
     "elude",
     "eluded",
     "feud",
@@ -63,6 +64,7 @@
     "lube",
     "lubed",
     "luff",
+    "luffed",
     "lull",
     "lulled",
     "lulu",
@@ -85,17 +87,17 @@
     "by_length": {
       "4": 22,
       "5": 9,
-      "6": 24,
+      "6": 26,
       "7": 11,
       "8": 3,
       "9": 2
     },
     "by_first_letter": {
       "B": 20,
-      "D": 12,
+      "D": 13,
       "E": 2,
       "F": 18,
-      "L": 6,
+      "L": 7,
       "M": 12,
       "U": 1
     },
@@ -111,7 +113,7 @@
       "D": {
         "4": 5,
         "5": 1,
-        "6": 4,
+        "6": 5,
         "7": 1,
         "8": 1
       },
@@ -128,7 +130,7 @@
       "L": {
         "4": 4,
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "M": {
         "4": 3,
@@ -144,12 +146,12 @@
       "BL": 5,
       "BU": 13,
       "DE": 2,
-      "DU": 10,
+      "DU": 11,
       "EL": 2,
       "FE": 2,
       "FL": 6,
       "FU": 10,
-      "LU": 6,
+      "LU": 7,
       "MU": 12,
       "UM": 1
     }

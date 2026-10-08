@@ -1,9 +1,9 @@
 {
   "pangram": "jointed",
   "center_letter": "t",
-  "num_answers": 68,
+  "num_answers": 70,
   "num_pangrams": 1,
-  "possible_points": 321,
+  "possible_points": 337,
   "answer_pangrams": [
     "jointed"
   ],
@@ -36,6 +36,7 @@
     "intended",
     "intent",
     "intention",
+    "intentioned",
     "into",
     "intone",
     "intoned",
@@ -64,6 +65,7 @@
     "tidied",
     "tied",
     "tine",
+    "tined",
     "tinned",
     "tint",
     "tinted",
@@ -81,20 +83,21 @@
   "hints": {
     "by_length": {
       "4": 21,
-      "5": 10,
+      "5": 11,
       "6": 23,
       "7": 9,
       "8": 3,
-      "9": 2
+      "9": 2,
+      "11": 1
     },
     "by_first_letter": {
       "D": 17,
       "E": 4,
-      "I": 10,
+      "I": 11,
       "J": 4,
       "N": 5,
       "O": 1,
-      "T": 27
+      "T": 28
     },
     "grid": {
       "D": {
@@ -115,7 +118,8 @@
         "6": 4,
         "7": 1,
         "8": 2,
-        "9": 1
+        "9": 1,
+        "11": 1
       },
       "J": {
         "5": 1,
@@ -133,7 +137,7 @@
       },
       "T": {
         "4": 13,
-        "5": 5,
+        "5": 6,
         "6": 8,
         "7": 1
       }
@@ -145,7 +149,7 @@
       "ED": 3,
       "EN": 1,
       "ID": 1,
-      "IN": 9,
+      "IN": 10,
       "JE": 1,
       "JO": 3,
       "NE": 1,
@@ -153,7 +157,7 @@
       "NO": 3,
       "ON": 1,
       "TE": 10,
-      "TI": 8,
+      "TI": 9,
       "TO": 9
     }
   }

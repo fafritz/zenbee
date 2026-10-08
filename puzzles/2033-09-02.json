@@ -1,9 +1,9 @@
 {
   "pangram": "fixated",
   "center_letter": "a",
-  "num_answers": 30,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 119,
+  "possible_points": 126,
   "answer_pangrams": [
     "fixated"
   ],
@@ -33,6 +33,7 @@
     "fixated",
     "idea",
     "ideate",
+    "ideated",
     "taffeta",
     "tatted",
     "taxed",
@@ -45,14 +46,14 @@
       "4": 13,
       "5": 8,
       "6": 5,
-      "7": 3,
+      "7": 4,
       "8": 1
     },
     "by_first_letter": {
       "A": 6,
       "D": 7,
       "F": 10,
-      "I": 2,
+      "I": 3,
       "T": 5
     },
     "grid": {
@@ -75,7 +76,8 @@
       },
       "I": {
         "4": 1,
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "T": {
         "4": 1,
@@ -94,7 +96,7 @@
       "FA": 5,
       "FE": 2,
       "FI": 3,
-      "ID": 2,
+      "ID": 3,
       "TA": 5
     }
   }

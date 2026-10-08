@@ -1,9 +1,9 @@
 {
   "pangram": "porting",
   "center_letter": "p",
-  "num_answers": 67,
+  "num_answers": 68,
   "num_pangrams": 4,
-  "possible_points": 416,
+  "possible_points": 417,
   "answer_pangrams": [
     "porting",
     "portioning",
@@ -70,6 +70,7 @@
     "proton",
     "ripping",
     "roping",
+    "tipi",
     "tipping",
     "tiptop",
     "topping",
@@ -82,7 +83,7 @@
   "date": "2029-12-13",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 14,
       "5": 8,
       "6": 14,
       "7": 19,
@@ -98,7 +99,7 @@
       "O": 5,
       "P": 46,
       "R": 2,
-      "T": 8
+      "T": 9
     },
     "grid": {
       "G": {
@@ -130,7 +131,7 @@
         "7": 1
       },
       "T": {
-        "4": 1,
+        "4": 2,
         "5": 1,
         "6": 2,
         "7": 2,
@@ -147,7 +148,7 @@
       "PR": 12,
       "RI": 1,
       "RO": 1,
-      "TI": 2,
+      "TI": 3,
       "TO": 2,
       "TR": 4
     }

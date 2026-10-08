@@ -1,9 +1,9 @@
 {
   "pangram": "imputed",
   "center_letter": "t",
-  "num_answers": 51,
+  "num_answers": 53,
   "num_pangrams": 1,
-  "possible_points": 213,
+  "possible_points": 220,
   "answer_pangrams": [
     "imputed"
   ],
@@ -43,6 +43,7 @@
     "teed",
     "teem",
     "teemed",
+    "teepee",
     "temp",
     "temped",
     "tempt",
@@ -56,6 +57,7 @@
     "time",
     "timed",
     "timid",
+    "tipi",
     "tipped",
     "tumid",
     "tutu"
@@ -63,9 +65,9 @@
   "date": "2026-12-16",
   "hints": {
     "by_length": {
-      "4": 19,
+      "4": 20,
       "5": 11,
-      "6": 15,
+      "6": 16,
       "7": 6
     },
     "by_first_letter": {
@@ -74,7 +76,7 @@
       "I": 3,
       "M": 8,
       "P": 9,
-      "T": 20
+      "T": 22
     },
     "grid": {
       "D": {
@@ -104,9 +106,9 @@
         "7": 1
       },
       "T": {
-        "4": 7,
+        "4": 8,
         "5": 7,
-        "6": 5,
+        "6": 6,
         "7": 1
       }
     },
@@ -125,8 +127,8 @@
       "PE": 2,
       "PI": 3,
       "PU": 4,
-      "TE": 10,
-      "TI": 8,
+      "TE": 11,
+      "TI": 9,
       "TU": 2
     }
   }

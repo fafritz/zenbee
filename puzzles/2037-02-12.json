@@ -1,9 +1,9 @@
 {
   "pangram": "ketchup",
   "center_letter": "t",
-  "num_answers": 17,
+  "num_answers": 18,
   "num_pangrams": 1,
-  "possible_points": 64,
+  "possible_points": 70,
   "answer_pangrams": [
     "ketchup"
   ],
@@ -19,6 +19,7 @@
     "puppet",
     "putt",
     "tech",
+    "teepee",
     "teeth",
     "teethe",
     "tepee",
@@ -31,7 +32,7 @@
     "by_length": {
       "4": 8,
       "5": 6,
-      "6": 2,
+      "6": 3,
       "7": 1
     },
     "by_first_letter": {
@@ -40,7 +41,7 @@
       "H": 1,
       "K": 3,
       "P": 2,
-      "T": 7
+      "T": 8
     },
     "grid": {
       "C": {
@@ -65,7 +66,7 @@
       "T": {
         "4": 4,
         "5": 2,
-        "6": 1
+        "6": 2
       }
     },
     "two_letter_list": {
@@ -75,7 +76,7 @@
       "HU": 1,
       "KE": 3,
       "PU": 2,
-      "TE": 4,
+      "TE": 5,
       "TH": 1,
       "TU": 2
     }

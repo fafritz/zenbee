@@ -1,9 +1,9 @@
 {
   "pangram": "ducting",
   "center_letter": "t",
-  "num_answers": 27,
+  "num_answers": 28,
   "num_pangrams": 2,
-  "possible_points": 169,
+  "possible_points": 176,
   "answer_pangrams": [
     "ducting",
     "inducting"
@@ -26,6 +26,7 @@
     "intuiting",
     "nutting",
     "tiding",
+    "tinging",
     "tinning",
     "tint",
     "tinting",
@@ -43,7 +44,7 @@
       "4": 5,
       "5": 3,
       "6": 6,
-      "7": 8,
+      "7": 9,
       "8": 2,
       "9": 3
     },
@@ -53,7 +54,7 @@
       "G": 1,
       "I": 8,
       "N": 1,
-      "T": 8,
+      "T": 9,
       "U": 3
     },
     "grid": {
@@ -81,7 +82,7 @@
         "4": 2,
         "5": 1,
         "6": 2,
-        "7": 3
+        "7": 4
       },
       "U": {
         "4": 1,
@@ -98,7 +99,7 @@
       "IG": 1,
       "IN": 7,
       "NU": 1,
-      "TI": 4,
+      "TI": 5,
       "TU": 4,
       "UN": 3
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "forcing",
   "center_letter": "o",
-  "num_answers": 58,
+  "num_answers": 59,
   "num_pangrams": 1,
-  "possible_points": 302,
+  "possible_points": 308,
   "answer_pangrams": [
     "forcing"
   ],
@@ -20,6 +20,7 @@
     "coining",
     "confining",
     "conic",
+    "coning",
     "conning",
     "cooing",
     "coring",
@@ -72,13 +73,13 @@
     "by_length": {
       "4": 15,
       "5": 10,
-      "6": 12,
+      "6": 13,
       "7": 13,
       "8": 5,
       "9": 3
     },
     "by_first_letter": {
-      "C": 19,
+      "C": 20,
       "F": 7,
       "G": 11,
       "I": 8,
@@ -90,7 +91,7 @@
       "C": {
         "4": 3,
         "5": 3,
-        "6": 4,
+        "6": 5,
         "7": 4,
         "8": 2,
         "9": 3
@@ -131,7 +132,7 @@
       }
     },
     "two_letter_list": {
-      "CO": 17,
+      "CO": 18,
       "CR": 2,
       "FO": 5,
       "FR": 2,

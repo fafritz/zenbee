@@ -1,9 +1,9 @@
 {
   "pangram": "mutable",
   "center_letter": "m",
-  "num_answers": 61,
+  "num_answers": 64,
   "num_pangrams": 1,
-  "possible_points": 245,
+  "possible_points": 267,
   "answer_pangrams": [
     "mutable"
   ],
@@ -24,7 +24,10 @@
     "lama",
     "lamb",
     "lame",
+    "lamella",
+    "lamellae",
     "lemma",
+    "lemmata",
     "llama",
     "male",
     "mall",
@@ -76,15 +79,15 @@
       "4": 26,
       "5": 11,
       "6": 17,
-      "7": 3,
-      "8": 2,
+      "7": 5,
+      "8": 3,
       "9": 2
     },
     "by_first_letter": {
       "A": 5,
       "B": 5,
       "E": 3,
-      "L": 5,
+      "L": 8,
       "M": 33,
       "T": 8,
       "U": 2
@@ -107,7 +110,9 @@
       },
       "L": {
         "4": 3,
-        "5": 2
+        "5": 2,
+        "7": 2,
+        "8": 1
       },
       "M": {
         "4": 17,
@@ -137,8 +142,8 @@
       "BL": 1,
       "BU": 2,
       "EM": 3,
-      "LA": 3,
-      "LE": 1,
+      "LA": 5,
+      "LE": 2,
       "LL": 1,
       "MA": 12,
       "ME": 11,

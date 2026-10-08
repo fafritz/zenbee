@@ -1,9 +1,9 @@
 {
   "pangram": "baptize",
   "center_letter": "p",
-  "num_answers": 17,
+  "num_answers": 19,
   "num_pangrams": 1,
-  "possible_points": 65,
+  "possible_points": 72,
   "answer_pangrams": [
     "baptize"
   ],
@@ -24,14 +24,16 @@
     "pizza",
     "pizzazz",
     "tape",
-    "tepee"
+    "teepee",
+    "tepee",
+    "tipi"
   ],
   "date": "2033-04-07",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 10,
       "5": 3,
-      "6": 2,
+      "6": 3,
       "7": 2,
       "8": 1
     },
@@ -40,7 +42,7 @@
       "B": 2,
       "E": 1,
       "P": 11,
-      "T": 2
+      "T": 4
     },
     "grid": {
       "A": {
@@ -60,8 +62,9 @@
         "7": 1
       },
       "T": {
-        "4": 1,
-        "5": 1
+        "4": 2,
+        "5": 1,
+        "6": 1
       }
     },
     "two_letter_list": {
@@ -73,7 +76,8 @@
       "PE": 3,
       "PI": 6,
       "TA": 1,
-      "TE": 1
+      "TE": 2,
+      "TI": 1
     }
   }
 }

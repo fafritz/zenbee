@@ -1,9 +1,9 @@
 {
   "pangram": "molding",
   "center_letter": "o",
-  "num_answers": 65,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 303,
+  "possible_points": 311,
   "answer_pangrams": [
     "molding"
   ],
@@ -25,6 +25,7 @@
     "dooming",
     "gigolo",
     "gloom",
+    "glooming",
     "goggling",
     "going",
     "gold",
@@ -81,12 +82,12 @@
       "5": 9,
       "6": 10,
       "7": 17,
-      "8": 5,
+      "8": 6,
       "9": 1
     },
     "by_first_letter": {
       "D": 15,
-      "G": 10,
+      "G": 11,
       "I": 4,
       "L": 15,
       "M": 11,
@@ -106,7 +107,7 @@
         "5": 2,
         "6": 1,
         "7": 1,
-        "8": 2
+        "8": 3
       },
       "I": {
         "4": 1,
@@ -141,7 +142,7 @@
       "DI": 1,
       "DO": 14,
       "GI": 1,
-      "GL": 1,
+      "GL": 2,
       "GO": 8,
       "ID": 2,
       "IG": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "clunked",
   "center_letter": "u",
-  "num_answers": 51,
+  "num_answers": 52,
   "num_pangrams": 2,
-  "possible_points": 246,
+  "possible_points": 252,
   "answer_pangrams": [
     "clunked",
     "knuckled"
@@ -43,6 +43,7 @@
     "dunked",
     "dunned",
     "educe",
+    "educed",
     "elude",
     "eluded",
     "endued",
@@ -66,14 +67,14 @@
     "by_length": {
       "4": 15,
       "5": 11,
-      "6": 15,
+      "6": 16,
       "7": 8,
       "8": 2
     },
     "by_first_letter": {
       "C": 11,
       "D": 22,
-      "E": 4,
+      "E": 5,
       "K": 2,
       "L": 5,
       "N": 3,
@@ -94,7 +95,7 @@
       },
       "E": {
         "5": 2,
-        "6": 2
+        "6": 3
       },
       "K": {
         "7": 1,
@@ -119,7 +120,7 @@
       "CU": 5,
       "DE": 8,
       "DU": 14,
-      "ED": 1,
+      "ED": 2,
       "EL": 2,
       "EN": 1,
       "KN": 2,

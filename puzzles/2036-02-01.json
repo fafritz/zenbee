@@ -1,9 +1,9 @@
 {
   "pangram": "blanked",
   "center_letter": "b",
-  "num_answers": 63,
+  "num_answers": 65,
   "num_pangrams": 1,
-  "possible_points": 274,
+  "possible_points": 286,
   "answer_pangrams": [
     "blanked"
   ],
@@ -41,6 +41,7 @@
     "bead",
     "beaded",
     "beak",
+    "beaked",
     "bean",
     "beaned",
     "bedded",
@@ -52,6 +53,7 @@
     "blab",
     "blabbed",
     "blade",
+    "bladed",
     "bland",
     "blank",
     "blanked",
@@ -77,13 +79,13 @@
     "by_length": {
       "4": 21,
       "5": 15,
-      "6": 19,
+      "6": 21,
       "7": 7,
       "8": 1
     },
     "by_first_letter": {
       "A": 2,
-      "B": 50,
+      "B": 52,
       "D": 3,
       "E": 3,
       "K": 2,
@@ -97,7 +99,7 @@
       "B": {
         "4": 19,
         "5": 12,
-        "6": 14,
+        "6": 16,
         "7": 4,
         "8": 1
       },
@@ -125,8 +127,8 @@
     "two_letter_list": {
       "AB": 2,
       "BA": 28,
-      "BE": 11,
-      "BL": 11,
+      "BE": 12,
+      "BL": 12,
       "DA": 3,
       "EB": 1,
       "EN": 2,

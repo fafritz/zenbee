@@ -1,9 +1,9 @@
 {
   "pangram": "pitched",
   "center_letter": "p",
-  "num_answers": 36,
+  "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 176,
+  "possible_points": 183,
   "answer_pangrams": [
     "pitched"
   ],
@@ -41,16 +41,18 @@
     "pith",
     "pitied",
     "pitted",
+    "teepee",
     "tepee",
     "tepid",
+    "tipi",
     "tipped"
   ],
   "date": "2031-02-10",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 10,
       "5": 8,
-      "6": 14,
+      "6": 15,
       "7": 4,
       "8": 1
     },
@@ -60,7 +62,7 @@
       "E": 3,
       "H": 2,
       "P": 19,
-      "T": 3
+      "T": 5
     },
     "grid": {
       "C": {
@@ -88,8 +90,9 @@
         "7": 1
       },
       "T": {
+        "4": 1,
         "5": 2,
-        "6": 1
+        "6": 2
       }
     },
     "two_letter_list": {
@@ -100,8 +103,8 @@
       "HI": 2,
       "PE": 7,
       "PI": 12,
-      "TE": 2,
-      "TI": 1
+      "TE": 3,
+      "TI": 2
     }
   }
 }

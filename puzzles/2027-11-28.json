@@ -1,9 +1,9 @@
 {
   "pangram": "piquant",
   "center_letter": "i",
-  "num_answers": 26,
+  "num_answers": 27,
   "num_pangrams": 1,
-  "possible_points": 118,
+  "possible_points": 119,
   "answer_pangrams": [
     "piquant"
   ],
@@ -31,6 +31,7 @@
     "taint",
     "tannin",
     "tint",
+    "tipi",
     "titan",
     "unit",
     "unpin"
@@ -38,7 +39,7 @@
   "date": "2027-11-28",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 9,
       "5": 9,
       "6": 7,
       "7": 1,
@@ -49,7 +50,7 @@
       "I": 3,
       "P": 11,
       "Q": 3,
-      "T": 4,
+      "T": 5,
       "U": 2
     },
     "grid": {
@@ -73,7 +74,7 @@
         "6": 1
       },
       "T": {
-        "4": 1,
+        "4": 2,
         "5": 2,
         "6": 1
       },
@@ -90,7 +91,7 @@
       "PI": 7,
       "QU": 3,
       "TA": 2,
-      "TI": 2,
+      "TI": 3,
       "UN": 2
     }
   }

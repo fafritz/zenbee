@@ -1,9 +1,9 @@
 {
   "pangram": "cowling",
   "center_letter": "o",
-  "num_answers": 70,
+  "num_answers": 71,
   "num_pangrams": 2,
-  "possible_points": 342,
+  "possible_points": 348,
   "answer_pangrams": [
     "clowning",
     "cowling"
@@ -25,6 +25,7 @@
     "colic",
     "colon",
     "conic",
+    "coning",
     "conning",
     "cooing",
     "cool",
@@ -85,13 +86,13 @@
     "by_length": {
       "4": 22,
       "5": 13,
-      "6": 14,
+      "6": 15,
       "7": 14,
       "8": 4,
       "9": 3
     },
     "by_first_letter": {
-      "C": 23,
+      "C": 24,
       "G": 11,
       "I": 4,
       "L": 15,
@@ -103,7 +104,7 @@
       "C": {
         "4": 5,
         "5": 5,
-        "6": 3,
+        "6": 4,
         "7": 7,
         "8": 2,
         "9": 1
@@ -145,7 +146,7 @@
     },
     "two_letter_list": {
       "CL": 5,
-      "CO": 18,
+      "CO": 19,
       "GI": 1,
       "GL": 2,
       "GO": 8,

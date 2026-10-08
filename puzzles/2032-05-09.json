@@ -1,9 +1,9 @@
 {
   "pangram": "bunched",
   "center_letter": "e",
-  "num_answers": 42,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 201,
+  "possible_points": 207,
   "answer_pangrams": [
     "bunched"
   ],
@@ -37,6 +37,7 @@
     "dunned",
     "ebbed",
     "educe",
+    "educed",
     "ended",
     "endued",
     "heed",
@@ -56,7 +57,7 @@
     "by_length": {
       "4": 11,
       "5": 12,
-      "6": 12,
+      "6": 13,
       "7": 5,
       "8": 2
     },
@@ -64,7 +65,7 @@
       "B": 8,
       "C": 5,
       "D": 14,
-      "E": 4,
+      "E": 5,
       "H": 4,
       "N": 3,
       "U": 4
@@ -88,7 +89,7 @@
       },
       "E": {
         "5": 3,
-        "6": 1
+        "6": 2
       },
       "H": {
         "4": 1,
@@ -114,7 +115,7 @@
       "DE": 8,
       "DU": 6,
       "EB": 1,
-      "ED": 1,
+      "ED": 2,
       "EN": 2,
       "HE": 3,
       "HU": 1,

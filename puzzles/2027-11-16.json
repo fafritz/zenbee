@@ -1,9 +1,9 @@
 {
   "pangram": "gambled",
   "center_letter": "m",
-  "num_answers": 61,
+  "num_answers": 65,
   "num_pangrams": 1,
-  "possible_points": 292,
+  "possible_points": 322,
   "answer_pangrams": [
     "gambled"
   ],
@@ -46,6 +46,8 @@
     "lambed",
     "lame",
     "lamed",
+    "lamella",
+    "lamellae",
     "lammed",
     "lemma",
     "llama",
@@ -63,6 +65,8 @@
     "mead",
     "meal",
     "medal",
+    "medaled",
+    "medalled",
     "meddle",
     "meddled",
     "meld",
@@ -76,8 +80,8 @@
       "4": 16,
       "5": 16,
       "6": 19,
-      "7": 6,
-      "8": 3,
+      "7": 8,
+      "8": 5,
       "9": 1
     },
     "by_first_letter": {
@@ -86,8 +90,8 @@
       "D": 6,
       "E": 7,
       "G": 7,
-      "L": 9,
-      "M": 20
+      "L": 11,
+      "M": 22
     },
     "grid": {
       "A": {
@@ -121,13 +125,16 @@
       "L": {
         "4": 3,
         "5": 3,
-        "6": 3
+        "6": 3,
+        "7": 1,
+        "8": 1
       },
       "M": {
         "4": 8,
         "5": 5,
         "6": 5,
-        "7": 1,
+        "7": 2,
+        "8": 1,
         "9": 1
       }
     },
@@ -144,11 +151,11 @@
       "EM": 5,
       "GA": 5,
       "GL": 2,
-      "LA": 7,
+      "LA": 9,
       "LE": 1,
       "LL": 1,
       "MA": 11,
-      "ME": 9
+      "ME": 11
     }
   }
 }

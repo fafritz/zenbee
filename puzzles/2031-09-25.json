@@ -1,9 +1,9 @@
 {
   "pangram": "thumbed",
   "center_letter": "e",
-  "num_answers": 46,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 193,
+  "possible_points": 205,
   "answer_pangrams": [
     "thumbed"
   ],
@@ -25,6 +25,7 @@
     "dude",
     "duded",
     "duet",
+    "dumbed",
     "ebbed",
     "embed",
     "embedded",
@@ -49,6 +50,7 @@
     "thee",
     "them",
     "theme",
+    "themed",
     "thudded",
     "thumbed",
     "tubbed",
@@ -60,17 +62,17 @@
     "by_length": {
       "4": 17,
       "5": 11,
-      "6": 13,
+      "6": 15,
       "7": 4,
       "8": 1
     },
     "by_first_letter": {
       "B": 6,
-      "D": 11,
+      "D": 12,
       "E": 4,
       "H": 5,
       "M": 6,
-      "T": 14
+      "T": 15
     },
     "grid": {
       "B": {
@@ -81,7 +83,7 @@
       "D": {
         "4": 5,
         "5": 2,
-        "6": 3,
+        "6": 4,
         "7": 1
       },
       "E": {
@@ -99,7 +101,7 @@
       "T": {
         "4": 5,
         "5": 3,
-        "6": 3,
+        "6": 4,
         "7": 3
       }
     },
@@ -107,7 +109,7 @@
       "BE": 2,
       "BU": 4,
       "DE": 7,
-      "DU": 4,
+      "DU": 5,
       "EB": 1,
       "EM": 2,
       "ET": 1,
@@ -116,7 +118,7 @@
       "ME": 4,
       "MU": 2,
       "TE": 6,
-      "TH": 5,
+      "TH": 6,
       "TU": 3
     }
   }

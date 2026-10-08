@@ -1,11 +1,12 @@
 {
   "pangram": "balding",
   "center_letter": "b",
-  "num_answers": 50,
-  "num_pangrams": 2,
-  "possible_points": 290,
+  "num_answers": 51,
+  "num_pangrams": 3,
+  "possible_points": 304,
   "answer_pangrams": [
     "balding",
+    "blading",
     "dabbling"
   ],
   "answers": [
@@ -43,6 +44,7 @@
     "binning",
     "blab",
     "blabbing",
+    "blading",
     "bland",
     "blind",
     "blinding",
@@ -66,13 +68,13 @@
       "4": 11,
       "5": 6,
       "6": 7,
-      "7": 16,
+      "7": 17,
       "8": 9,
       "9": 1
     },
     "by_first_letter": {
       "A": 3,
-      "B": 35,
+      "B": 36,
       "D": 3,
       "G": 4,
       "I": 1,
@@ -89,7 +91,7 @@
         "4": 9,
         "5": 4,
         "6": 5,
-        "7": 12,
+        "7": 13,
         "8": 4,
         "9": 1
       },
@@ -120,7 +122,7 @@
       "AL": 2,
       "BA": 21,
       "BI": 8,
-      "BL": 6,
+      "BL": 7,
       "DA": 2,
       "DI": 1,
       "GA": 2,

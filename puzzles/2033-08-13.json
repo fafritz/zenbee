@@ -1,9 +1,9 @@
 {
   "pangram": "mutable",
   "center_letter": "t",
-  "num_answers": 66,
+  "num_answers": 67,
   "num_pangrams": 1,
-  "possible_points": 266,
+  "possible_points": 273,
   "answer_pangrams": [
     "mutable"
   ],
@@ -28,6 +28,7 @@
     "emulate",
     "late",
     "latte",
+    "lemmata",
     "lute",
     "mallet",
     "malt",
@@ -81,7 +82,7 @@
       "4": 29,
       "5": 10,
       "6": 16,
-      "7": 6,
+      "7": 7,
       "8": 4,
       "10": 1
     },
@@ -89,7 +90,7 @@
       "A": 4,
       "B": 11,
       "E": 3,
-      "L": 3,
+      "L": 4,
       "M": 18,
       "T": 25,
       "U": 2
@@ -111,7 +112,8 @@
       },
       "L": {
         "4": 2,
-        "5": 1
+        "5": 1,
+        "7": 1
       },
       "M": {
         "4": 9,
@@ -144,6 +146,7 @@
       "EL": 1,
       "EM": 1,
       "LA": 2,
+      "LE": 1,
       "LU": 1,
       "MA": 4,
       "ME": 8,

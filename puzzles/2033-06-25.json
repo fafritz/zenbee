@@ -1,9 +1,9 @@
 {
   "pangram": "jounced",
   "center_letter": "n",
-  "num_answers": 45,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 230,
+  "possible_points": 235,
   "answer_pangrams": [
     "jounced"
   ],
@@ -17,6 +17,7 @@
     "condoned",
     "conduced",
     "cone",
+    "coned",
     "conned",
     "denounce",
     "denounced",
@@ -58,14 +59,14 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 7,
+      "5": 8,
       "6": 14,
       "7": 5,
       "8": 6,
       "9": 1
     },
     "by_first_letter": {
-      "C": 10,
+      "C": 11,
       "D": 9,
       "E": 4,
       "J": 5,
@@ -76,7 +77,7 @@
     "grid": {
       "C": {
         "4": 1,
-        "5": 1,
+        "5": 2,
         "6": 2,
         "7": 2,
         "8": 4
@@ -116,7 +117,7 @@
       }
     },
     "two_letter_list": {
-      "CO": 10,
+      "CO": 11,
       "DE": 4,
       "DO": 2,
       "DU": 3,

@@ -1,11 +1,12 @@
 {
   "pangram": "tabling",
   "center_letter": "t",
-  "num_answers": 62,
-  "num_pangrams": 2,
-  "possible_points": 374,
+  "num_answers": 64,
+  "num_pangrams": 3,
+  "possible_points": 396,
   "answer_pangrams": [
     "battling",
+    "blatting",
     "tabling"
   ],
   "answers": [
@@ -21,6 +22,7 @@
     "biting",
     "blat",
     "blatant",
+    "blatting",
     "gait",
     "gallant",
     "gating",
@@ -64,6 +66,7 @@
     "tilling",
     "tilt",
     "tilting",
+    "tinging",
     "tingling",
     "tinning",
     "tint",
@@ -78,20 +81,20 @@
       "4": 14,
       "5": 6,
       "6": 6,
-      "7": 21,
-      "8": 8,
+      "7": 22,
+      "8": 9,
       "9": 2,
       "10": 4,
       "11": 1
     },
     "by_first_letter": {
       "A": 5,
-      "B": 7,
+      "B": 8,
       "G": 9,
       "I": 4,
       "L": 7,
       "N": 1,
-      "T": 29
+      "T": 30
     },
     "grid": {
       "A": {
@@ -104,7 +107,7 @@
         "4": 2,
         "6": 1,
         "7": 3,
-        "8": 1
+        "8": 2
       },
       "G": {
         "4": 3,
@@ -131,7 +134,7 @@
         "4": 6,
         "5": 3,
         "6": 3,
-        "7": 11,
+        "7": 12,
         "8": 4,
         "10": 1,
         "11": 1
@@ -144,7 +147,7 @@
       "AT": 2,
       "BA": 4,
       "BI": 1,
-      "BL": 2,
+      "BL": 3,
       "GA": 3,
       "GI": 3,
       "GL": 2,
@@ -155,7 +158,7 @@
       "LI": 6,
       "NA": 1,
       "TA": 15,
-      "TI": 14
+      "TI": 15
     }
   }
 }

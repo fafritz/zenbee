@@ -1,9 +1,9 @@
 {
   "pangram": "notched",
   "center_letter": "n",
-  "num_answers": 75,
+  "num_answers": 76,
   "num_pangrams": 1,
-  "possible_points": 382,
+  "possible_points": 387,
   "answer_pangrams": [
     "notched"
   ],
@@ -20,6 +20,7 @@
     "condone",
     "condoned",
     "cone",
+    "coned",
     "connect",
     "connected",
     "conned",
@@ -88,14 +89,14 @@
   "hints": {
     "by_length": {
       "4": 20,
-      "5": 12,
+      "5": 13,
       "6": 20,
       "7": 13,
       "8": 6,
       "9": 4
     },
     "by_first_letter": {
-      "C": 23,
+      "C": 24,
       "D": 11,
       "E": 4,
       "H": 4,
@@ -106,7 +107,7 @@
     "grid": {
       "C": {
         "4": 2,
-        "5": 2,
+        "5": 3,
         "6": 3,
         "7": 7,
         "8": 5,
@@ -146,7 +147,7 @@
     },
     "two_letter_list": {
       "CE": 1,
-      "CO": 22,
+      "CO": 23,
       "DE": 8,
       "DO": 3,
       "EN": 4,

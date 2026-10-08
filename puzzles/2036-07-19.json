@@ -1,9 +1,9 @@
 {
   "pangram": "wolfram",
   "center_letter": "a",
-  "num_answers": 42,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 164,
+  "possible_points": 165,
   "answer_pangrams": [
     "wolfram"
   ],
@@ -28,6 +28,7 @@
     "floral",
     "foal",
     "foam",
+    "fora",
     "formal",
     "lama",
     "llama",
@@ -54,14 +55,14 @@
   "date": "2036-07-19",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 13,
       "6": 9,
       "7": 3
     },
     "by_first_letter": {
       "A": 10,
-      "F": 11,
+      "F": 12,
       "L": 4,
       "M": 9,
       "O": 2,
@@ -76,7 +77,7 @@
         "7": 1
       },
       "F": {
-        "4": 5,
+        "4": 6,
         "5": 1,
         "6": 4,
         "7": 1
@@ -110,7 +111,7 @@
       "AR": 3,
       "FA": 5,
       "FL": 3,
-      "FO": 3,
+      "FO": 4,
       "LA": 1,
       "LL": 1,
       "LO": 2,

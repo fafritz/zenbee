@@ -1,9 +1,9 @@
 {
   "pangram": "flatbed",
   "center_letter": "b",
-  "num_answers": 77,
+  "num_answers": 79,
   "num_pangrams": 1,
-  "possible_points": 370,
+  "possible_points": 383,
   "answer_pangrams": [
     "flatbed"
   ],
@@ -58,7 +58,9 @@
     "blab",
     "blabbed",
     "blade",
+    "bladed",
     "blat",
+    "blatted",
     "bleat",
     "bleated",
     "bled",
@@ -91,14 +93,14 @@
     "by_length": {
       "4": 21,
       "5": 14,
-      "6": 25,
-      "7": 15,
+      "6": 26,
+      "7": 16,
       "8": 1,
       "9": 1
     },
     "by_first_letter": {
       "A": 8,
-      "B": 47,
+      "B": 49,
       "D": 8,
       "E": 3,
       "F": 5,
@@ -115,8 +117,8 @@
       "B": {
         "4": 16,
         "5": 8,
-        "6": 16,
-        "7": 7
+        "6": 17,
+        "7": 8
       },
       "D": {
         "4": 1,
@@ -149,7 +151,7 @@
       "AF": 1,
       "BA": 21,
       "BE": 18,
-      "BL": 8,
+      "BL": 10,
       "DA": 3,
       "DE": 5,
       "EA": 1,

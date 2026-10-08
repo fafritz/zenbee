@@ -1,9 +1,9 @@
 {
   "pangram": "pivoted",
   "center_letter": "t",
-  "num_answers": 50,
+  "num_answers": 52,
   "num_pangrams": 1,
-  "possible_points": 239,
+  "possible_points": 246,
   "answer_pangrams": [
     "pivoted"
   ],
@@ -35,12 +35,14 @@
     "potpie",
     "potted",
     "teed",
+    "teepee",
     "tepee",
     "tepid",
     "tide",
     "tided",
     "tidied",
     "tied",
+    "tipi",
     "tipped",
     "tiptoe",
     "tiptoed",
@@ -62,9 +64,9 @@
   "date": "2039-02-16",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 13,
       "5": 13,
-      "6": 20,
+      "6": 21,
       "7": 5
     },
     "by_first_letter": {
@@ -73,7 +75,7 @@
       "I": 1,
       "O": 1,
       "P": 10,
-      "T": 18,
+      "T": 20,
       "V": 6
     },
     "grid": {
@@ -100,9 +102,9 @@
         "7": 1
       },
       "T": {
-        "4": 6,
+        "4": 7,
         "5": 4,
-        "6": 7,
+        "6": 8,
         "7": 1
       },
       "V": {
@@ -121,8 +123,8 @@
       "PE": 2,
       "PI": 5,
       "PO": 3,
-      "TE": 3,
-      "TI": 8,
+      "TE": 4,
+      "TI": 9,
       "TO": 7,
       "VE": 3,
       "VO": 3

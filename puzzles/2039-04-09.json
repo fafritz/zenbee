@@ -1,0 +1,105 @@
+{
+  "pangram": "volumed",
+  "center_letter": "m",
+  "num_answers": 42,
+  "num_pangrams": 1,
+  "possible_points": 172,
+  "answer_pangrams": [
+    "volumed"
+  ],
+  "answers": [
+    "deem",
+    "deemed",
+    "demo",
+    "demoed",
+    "dome",
+    "domed",
+    "doom",
+    "doomed",
+    "loom",
+    "loomed",
+    "meddle",
+    "meddled",
+    "meld",
+    "melded",
+    "melee",
+    "meme",
+    "memo",
+    "modded",
+    "mode",
+    "model",
+    "modeled",
+    "modem",
+    "module",
+    "modulo",
+    "mold",
+    "molded",
+    "mole",
+    "moll",
+    "mood",
+    "mooed",
+    "move",
+    "moved",
+    "muddle",
+    "muddled",
+    "mule",
+    "mull",
+    "mulled",
+    "muumuu",
+    "ovum",
+    "vellum",
+    "volume",
+    "volumed"
+  ],
+  "date": "2039-04-09",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 6,
+      "6": 15,
+      "7": 4
+    },
+    "by_first_letter": {
+      "D": 8,
+      "L": 2,
+      "M": 28,
+      "O": 1,
+      "V": 3
+    },
+    "grid": {
+      "D": {
+        "4": 4,
+        "5": 1,
+        "6": 3
+      },
+      "L": {
+        "4": 1,
+        "6": 1
+      },
+      "M": {
+        "4": 11,
+        "5": 5,
+        "6": 9,
+        "7": 3
+      },
+      "O": {
+        "4": 1
+      },
+      "V": {
+        "6": 2,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "DE": 4,
+      "DO": 4,
+      "LO": 2,
+      "ME": 7,
+      "MO": 15,
+      "MU": 6,
+      "OV": 1,
+      "VE": 1,
+      "VO": 2
+    }
+  }
+}

@@ -1,9 +1,9 @@
 {
   "pangram": "wedlock",
   "center_letter": "o",
-  "num_answers": 55,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 221,
+  "possible_points": 227,
   "answer_pangrams": [
     "wedlock"
   ],
@@ -29,6 +29,7 @@
     "cooled",
     "cowed",
     "cowl",
+    "cowled",
     "decode",
     "decoded",
     "dock",
@@ -69,12 +70,12 @@
     "by_length": {
       "4": 23,
       "5": 11,
-      "6": 13,
+      "6": 14,
       "7": 6,
       "8": 2
     },
     "by_first_letter": {
-      "C": 21,
+      "C": 22,
       "D": 13,
       "K": 1,
       "L": 10,
@@ -85,7 +86,7 @@
       "C": {
         "4": 8,
         "5": 6,
-        "6": 5,
+        "6": 6,
         "7": 2
       },
       "D": {
@@ -117,7 +118,7 @@
     "two_letter_list": {
       "CE": 1,
       "CL": 3,
-      "CO": 17,
+      "CO": 18,
       "DE": 2,
       "DO": 11,
       "KO": 1,

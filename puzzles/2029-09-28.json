@@ -1,9 +1,9 @@
 {
   "pangram": "quoting",
   "center_letter": "g",
-  "num_answers": 40,
+  "num_answers": 41,
   "num_pangrams": 3,
-  "possible_points": 275,
+  "possible_points": 282,
   "answer_pangrams": [
     "quoiting",
     "quoting",
@@ -36,6 +36,7 @@
     "quitting",
     "quoiting",
     "quoting",
+    "tinging",
     "tinning",
     "tinting",
     "tong",
@@ -57,7 +58,7 @@
       "4": 4,
       "5": 3,
       "6": 7,
-      "7": 17,
+      "7": 18,
       "8": 7,
       "9": 2
     },
@@ -67,7 +68,7 @@
       "N": 3,
       "O": 4,
       "Q": 3,
-      "T": 12,
+      "T": 13,
       "U": 2
     },
     "grid": {
@@ -99,7 +100,7 @@
       "T": {
         "4": 1,
         "6": 3,
-        "7": 7,
+        "7": 8,
         "8": 1
       },
       "U": {
@@ -118,7 +119,7 @@
       "ON": 1,
       "OU": 3,
       "QU": 3,
-      "TI": 2,
+      "TI": 3,
       "TO": 8,
       "TU": 2,
       "UN": 2

@@ -1,9 +1,9 @@
 {
   "pangram": "jingled",
   "center_letter": "g",
-  "num_answers": 73,
+  "num_answers": 75,
   "num_pangrams": 1,
-  "possible_points": 429,
+  "possible_points": 442,
   "answer_pangrams": [
     "jingled"
   ],
@@ -28,6 +28,7 @@
     "eliding",
     "ending",
     "engine",
+    "engined",
     "geed",
     "geeing",
     "geld",
@@ -48,6 +49,7 @@
     "gilded",
     "gilding",
     "gill",
+    "gilled",
     "ginned",
     "ginning",
     "glee",
@@ -87,14 +89,14 @@
     "by_length": {
       "4": 9,
       "5": 9,
-      "6": 25,
-      "7": 22,
+      "6": 26,
+      "7": 23,
       "8": 8
     },
     "by_first_letter": {
       "D": 11,
-      "E": 9,
-      "G": 27,
+      "E": 10,
+      "G": 28,
       "I": 2,
       "J": 9,
       "L": 9,
@@ -112,12 +114,12 @@
         "4": 1,
         "5": 2,
         "6": 5,
-        "7": 1
+        "7": 2
       },
       "G": {
         "4": 7,
         "5": 4,
-        "6": 8,
+        "6": 9,
         "7": 7,
         "8": 1
       },
@@ -147,9 +149,9 @@
       "EE": 1,
       "EG": 2,
       "EL": 1,
-      "EN": 2,
+      "EN": 3,
       "GE": 11,
-      "GI": 11,
+      "GI": 12,
       "GL": 5,
       "ID": 1,
       "IN": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "wimpled",
   "center_letter": "p",
-  "num_answers": 46,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 217,
+  "possible_points": 225,
   "answer_pangrams": [
     "wimpled"
   ],
@@ -44,9 +44,11 @@
     "pimp",
     "pimped",
     "pimple",
+    "pimpled",
     "pipe",
     "piped",
     "pipped",
+    "pled",
     "plied",
     "weep",
     "wimp",
@@ -58,10 +60,10 @@
   "date": "2034-11-18",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 15,
       "5": 7,
       "6": 17,
-      "7": 6,
+      "7": 7,
       "8": 1,
       "9": 1
     },
@@ -71,7 +73,7 @@
       "I": 5,
       "L": 5,
       "M": 1,
-      "P": 24,
+      "P": 26,
       "W": 6
     },
     "grid": {
@@ -98,10 +100,10 @@
         "9": 1
       },
       "P": {
-        "4": 8,
+        "4": 9,
         "5": 4,
         "6": 10,
-        "7": 2
+        "7": 3
       },
       "W": {
         "4": 3,
@@ -118,8 +120,8 @@
       "LI": 5,
       "MI": 1,
       "PE": 10,
-      "PI": 13,
-      "PL": 1,
+      "PI": 14,
+      "PL": 2,
       "WE": 1,
       "WI": 5
     }

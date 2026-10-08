@@ -1,9 +1,9 @@
 {
   "pangram": "wedlock",
   "center_letter": "w",
-  "num_answers": 27,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 114,
+  "possible_points": 120,
   "answer_pangrams": [
     "wedlock"
   ],
@@ -12,6 +12,7 @@
     "clewed",
     "cowed",
     "cowl",
+    "cowled",
     "dowel",
     "doweled",
     "dwell",
@@ -41,12 +42,12 @@
     "by_length": {
       "4": 11,
       "5": 6,
-      "6": 6,
+      "6": 7,
       "7": 2,
       "8": 2
     },
     "by_first_letter": {
-      "C": 4,
+      "C": 5,
       "D": 3,
       "L": 3,
       "O": 1,
@@ -56,7 +57,7 @@
       "C": {
         "4": 2,
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "D": {
         "5": 2,
@@ -80,7 +81,7 @@
     },
     "two_letter_list": {
       "CL": 2,
-      "CO": 2,
+      "CO": 3,
       "DO": 2,
       "DW": 1,
       "LE": 1,

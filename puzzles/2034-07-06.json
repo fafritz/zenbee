@@ -1,9 +1,9 @@
 {
   "pangram": "choking",
   "center_letter": "o",
-  "num_answers": 49,
+  "num_answers": 50,
   "num_pangrams": 3,
-  "possible_points": 262,
+  "possible_points": 268,
   "answer_pangrams": [
     "chocking",
     "choking",
@@ -25,6 +25,7 @@
     "coking",
     "conch",
     "conic",
+    "coning",
     "conk",
     "conking",
     "conning",
@@ -65,13 +66,13 @@
     "by_length": {
       "4": 13,
       "5": 10,
-      "6": 8,
+      "6": 9,
       "7": 15,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
-      "C": 21,
+      "C": 22,
       "G": 5,
       "H": 10,
       "I": 3,
@@ -83,7 +84,7 @@
       "C": {
         "4": 3,
         "5": 5,
-        "6": 3,
+        "6": 4,
         "7": 8,
         "8": 1,
         "9": 1
@@ -122,7 +123,7 @@
     },
     "two_letter_list": {
       "CH": 5,
-      "CO": 16,
+      "CO": 17,
       "GI": 1,
       "GO": 4,
       "HO": 10,

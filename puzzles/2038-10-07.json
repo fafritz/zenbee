@@ -1,9 +1,9 @@
 {
   "pangram": "cyanide",
   "center_letter": "n",
-  "num_answers": 50,
+  "num_answers": 51,
   "num_pangrams": 1,
-  "possible_points": 252,
+  "possible_points": 260,
   "answer_pangrams": [
     "cyanide"
   ],
@@ -12,6 +12,7 @@
     "addend",
     "addenda",
     "cadence",
+    "cadenced",
     "cancan",
     "candid",
     "candidacy",
@@ -66,12 +67,12 @@
       "5": 15,
       "6": 12,
       "7": 6,
-      "8": 1,
+      "8": 2,
       "9": 4
     },
     "by_first_letter": {
       "A": 3,
-      "C": 16,
+      "C": 17,
       "D": 13,
       "E": 1,
       "I": 4,
@@ -88,6 +89,7 @@
         "5": 5,
         "6": 4,
         "7": 4,
+        "8": 1,
         "9": 1
       },
       "D": {
@@ -115,7 +117,7 @@
     "two_letter_list": {
       "AC": 1,
       "AD": 2,
-      "CA": 13,
+      "CA": 14,
       "CY": 3,
       "DA": 3,
       "DE": 7,

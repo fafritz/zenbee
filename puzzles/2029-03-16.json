@@ -1,9 +1,9 @@
 {
   "pangram": "plagued",
   "center_letter": "p",
-  "num_answers": 66,
+  "num_answers": 68,
   "num_pangrams": 1,
-  "possible_points": 306,
+  "possible_points": 314,
   "answer_pangrams": [
     "plagued"
   ],
@@ -59,6 +59,8 @@
     "plagued",
     "plea",
     "plead",
+    "pleaded",
+    "pled",
     "pledge",
     "pledged",
     "plug",
@@ -78,10 +80,10 @@
   "date": "2029-03-16",
   "hints": {
     "by_length": {
-      "4": 20,
+      "4": 21,
       "5": 13,
       "6": 21,
-      "7": 9,
+      "7": 10,
       "8": 2,
       "9": 1
     },
@@ -91,7 +93,7 @@
       "E": 1,
       "G": 4,
       "L": 4,
-      "P": 42,
+      "P": 44,
       "U": 1
     },
     "grid": {
@@ -123,10 +125,10 @@
         "6": 2
       },
       "P": {
-        "4": 13,
+        "4": 14,
         "5": 7,
         "6": 15,
-        "7": 7
+        "7": 8
       },
       "U": {
         "5": 1
@@ -145,7 +147,7 @@
       "LE": 2,
       "PA": 11,
       "PE": 13,
-      "PL": 8,
+      "PL": 10,
       "PU": 10,
       "UP": 1
     }

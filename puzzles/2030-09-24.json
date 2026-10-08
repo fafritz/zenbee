@@ -1,9 +1,9 @@
 {
   "pangram": "petunia",
   "center_letter": "i",
-  "num_answers": 44,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 224,
+  "possible_points": 225,
   "answer_pangrams": [
     "petunia"
   ],
@@ -47,6 +47,7 @@
     "tannin",
     "tine",
     "tint",
+    "tipi",
     "titan",
     "unit",
     "unite",
@@ -56,7 +57,7 @@
   "date": "2030-09-24",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 11,
       "5": 14,
       "6": 11,
       "7": 3,
@@ -69,7 +70,7 @@
       "I": 9,
       "N": 2,
       "P": 19,
-      "T": 5,
+      "T": 6,
       "U": 4
     },
     "grid": {
@@ -100,7 +101,7 @@
         "8": 1
       },
       "T": {
-        "4": 2,
+        "4": 3,
         "5": 2,
         "6": 1
       },
@@ -120,7 +121,7 @@
       "PE": 3,
       "PI": 10,
       "TA": 2,
-      "TI": 3,
+      "TI": 4,
       "UN": 4
     }
   }

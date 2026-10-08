@@ -1,9 +1,9 @@
 {
   "pangram": "pouched",
   "center_letter": "d",
-  "num_answers": 53,
+  "num_answers": 54,
   "num_pangrams": 1,
-  "possible_points": 253,
+  "possible_points": 259,
   "answer_pangrams": [
     "pouched"
   ],
@@ -41,6 +41,7 @@
     "duped",
     "echoed",
     "educe",
+    "educed",
     "heed",
     "heeded",
     "hoed",
@@ -67,14 +68,14 @@
     "by_length": {
       "4": 14,
       "5": 11,
-      "6": 20,
+      "6": 21,
       "7": 7,
       "8": 1
     },
     "by_first_letter": {
       "C": 14,
       "D": 17,
-      "E": 2,
+      "E": 3,
       "H": 10,
       "P": 9,
       "U": 1
@@ -94,7 +95,7 @@
       },
       "E": {
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "H": {
         "4": 3,
@@ -120,7 +121,7 @@
       "DO": 4,
       "DU": 4,
       "EC": 1,
-      "ED": 1,
+      "ED": 2,
       "HE": 2,
       "HO": 8,
       "PE": 3,

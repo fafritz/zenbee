@@ -1,9 +1,9 @@
 {
   "pangram": "clomped",
   "center_letter": "c",
-  "num_answers": 35,
+  "num_answers": 36,
   "num_pangrams": 2,
-  "possible_points": 159,
+  "possible_points": 165,
   "answer_pangrams": [
     "clomped",
     "compelled"
@@ -28,6 +28,7 @@
     "come",
     "commode",
     "comp",
+    "comped",
     "compel",
     "compelled",
     "compo",
@@ -50,12 +51,12 @@
     "by_length": {
       "4": 13,
       "5": 8,
-      "6": 8,
+      "6": 9,
       "7": 5,
       "9": 1
     },
     "by_first_letter": {
-      "C": 30,
+      "C": 31,
       "D": 2,
       "E": 2,
       "L": 1
@@ -64,7 +65,7 @@
       "C": {
         "4": 12,
         "5": 7,
-        "6": 6,
+        "6": 7,
         "7": 4,
         "9": 1
       },
@@ -83,7 +84,7 @@
     "two_letter_list": {
       "CE": 5,
       "CL": 5,
-      "CO": 20,
+      "CO": 21,
       "DE": 2,
       "EM": 2,
       "LO": 1

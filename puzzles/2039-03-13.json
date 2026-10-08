@@ -1,0 +1,110 @@
+{
+  "pangram": "nymphae",
+  "center_letter": "e",
+  "num_answers": 34,
+  "num_pangrams": 1,
+  "possible_points": 117,
+  "answer_pangrams": [
+    "nymphae"
+  ],
+  "answers": [
+    "amen",
+    "enema",
+    "enemy",
+    "epee",
+    "happen",
+    "heap",
+    "heme",
+    "hemp",
+    "hempen",
+    "henna",
+    "hyena",
+    "hymen",
+    "hype",
+    "hyphen",
+    "mammae",
+    "mane",
+    "mayhem",
+    "mean",
+    "meme",
+    "name",
+    "nape",
+    "neap",
+    "nene",
+    "nymphae",
+    "paean",
+    "pane",
+    "payee",
+    "peahen",
+    "peen",
+    "peep",
+    "penne",
+    "penny",
+    "peppy",
+    "yeah"
+  ],
+  "date": "2039-03-13",
+  "hints": {
+    "by_length": {
+      "4": 17,
+      "5": 10,
+      "6": 6,
+      "7": 1
+    },
+    "by_first_letter": {
+      "A": 1,
+      "E": 3,
+      "H": 10,
+      "M": 5,
+      "N": 5,
+      "P": 9,
+      "Y": 1
+    },
+    "grid": {
+      "A": {
+        "4": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 2
+      },
+      "H": {
+        "4": 4,
+        "5": 3,
+        "6": 3
+      },
+      "M": {
+        "4": 3,
+        "6": 2
+      },
+      "N": {
+        "4": 4,
+        "7": 1
+      },
+      "P": {
+        "4": 3,
+        "5": 5,
+        "6": 1
+      },
+      "Y": {
+        "4": 1
+      }
+    },
+    "two_letter_list": {
+      "AM": 1,
+      "EN": 2,
+      "EP": 1,
+      "HA": 1,
+      "HE": 5,
+      "HY": 4,
+      "MA": 3,
+      "ME": 2,
+      "NA": 2,
+      "NE": 2,
+      "NY": 1,
+      "PA": 3,
+      "PE": 6,
+      "YE": 1
+    }
+  }
+}

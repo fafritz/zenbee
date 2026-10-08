@@ -1,0 +1,119 @@
+{
+  "pangram": "habited",
+  "center_letter": "i",
+  "num_answers": 37,
+  "num_pangrams": 1,
+  "possible_points": 165,
+  "answer_pangrams": [
+    "habited"
+  ],
+  "answers": [
+    "abide",
+    "aide",
+    "aided",
+    "babied",
+    "bait",
+    "baited",
+    "betide",
+    "betided",
+    "bidet",
+    "bite",
+    "debit",
+    "debited",
+    "died",
+    "diet",
+    "dieted",
+    "eddied",
+    "edit",
+    "edited",
+    "habit",
+    "habitat",
+    "habited",
+    "hide",
+    "hided",
+    "hied",
+    "ibid",
+    "idea",
+    "ideate",
+    "ideated",
+    "tibia",
+    "tibiae",
+    "tidbit",
+    "tide",
+    "tided",
+    "tidied",
+    "tied",
+    "tithe",
+    "tithed"
+  ],
+  "date": "2039-03-08",
+  "hints": {
+    "by_length": {
+      "4": 12,
+      "5": 9,
+      "6": 11,
+      "7": 5
+    },
+    "by_first_letter": {
+      "A": 3,
+      "B": 7,
+      "D": 5,
+      "E": 3,
+      "H": 6,
+      "I": 4,
+      "T": 9
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 2
+      },
+      "B": {
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 1
+      },
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "E": {
+        "4": 1,
+        "6": 2
+      },
+      "H": {
+        "4": 2,
+        "5": 2,
+        "7": 2
+      },
+      "I": {
+        "4": 2,
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 2,
+        "5": 3,
+        "6": 4
+      }
+    },
+    "two_letter_list": {
+      "AB": 1,
+      "AI": 2,
+      "BA": 3,
+      "BE": 2,
+      "BI": 2,
+      "DE": 2,
+      "DI": 3,
+      "ED": 3,
+      "HA": 3,
+      "HI": 3,
+      "IB": 1,
+      "ID": 3,
+      "TI": 9
+    }
+  }
+}

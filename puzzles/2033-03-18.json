@@ -1,9 +1,9 @@
 {
   "pangram": "coinage",
   "center_letter": "c",
-  "num_answers": 49,
+  "num_answers": 50,
   "num_pangrams": 3,
-  "possible_points": 275,
+  "possible_points": 281,
   "answer_pangrams": [
     "canoeing",
     "coinage",
@@ -43,6 +43,7 @@
     "conga",
     "congaing",
     "conic",
+    "coning",
     "conning",
     "cooing",
     "icing",
@@ -65,7 +66,7 @@
     "by_length": {
       "4": 10,
       "5": 14,
-      "6": 12,
+      "6": 13,
       "7": 7,
       "8": 2,
       "9": 3,
@@ -73,7 +74,7 @@
     },
     "by_first_letter": {
       "A": 4,
-      "C": 31,
+      "C": 32,
       "I": 5,
       "N": 5,
       "O": 4
@@ -87,7 +88,7 @@
       "C": {
         "4": 5,
         "5": 8,
-        "6": 8,
+        "6": 9,
         "7": 6,
         "8": 2,
         "9": 2
@@ -113,7 +114,7 @@
     "two_letter_list": {
       "AC": 4,
       "CA": 14,
-      "CO": 17,
+      "CO": 18,
       "IC": 3,
       "IN": 1,
       "IO": 1,

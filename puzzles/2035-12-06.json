@@ -1,9 +1,9 @@
 {
   "pangram": "meowing",
   "center_letter": "m",
-  "num_answers": 24,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 100,
+  "possible_points": 107,
   "answer_pangrams": [
     "meowing"
   ],
@@ -31,6 +31,7 @@
     "mowing",
     "nominee",
     "omen",
+    "wingmen",
     "women"
   ],
   "date": "2035-12-06",
@@ -39,14 +40,14 @@
       "4": 10,
       "5": 4,
       "6": 7,
-      "7": 3
+      "7": 4
     },
     "by_first_letter": {
       "G": 2,
       "M": 19,
       "N": 1,
       "O": 1,
-      "W": 1
+      "W": 2
     },
     "grid": {
       "G": {
@@ -65,7 +66,8 @@
         "4": 1
       },
       "W": {
-        "5": 1
+        "5": 1,
+        "7": 1
       }
     },
     "two_letter_list": {
@@ -76,6 +78,7 @@
       "MO": 5,
       "NO": 1,
       "OM": 1,
+      "WI": 1,
       "WO": 1
     }
   }

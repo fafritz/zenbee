@@ -1,9 +1,9 @@
 {
   "pangram": "maypole",
   "center_letter": "m",
-  "num_answers": 39,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 136,
+  "possible_points": 151,
   "answer_pangrams": [
     "maypole"
   ],
@@ -15,6 +15,8 @@
     "employee",
     "lama",
     "lame",
+    "lamella",
+    "lamellae",
     "lamely",
     "lamp",
     "lemma",
@@ -54,13 +56,13 @@
       "4": 19,
       "5": 13,
       "6": 5,
-      "7": 1,
-      "8": 1
+      "7": 2,
+      "8": 2
     },
     "by_first_letter": {
       "A": 3,
       "E": 2,
-      "L": 9,
+      "L": 11,
       "M": 19,
       "P": 6
     },
@@ -76,7 +78,9 @@
       "L": {
         "4": 5,
         "5": 3,
-        "6": 1
+        "6": 1,
+        "7": 1,
+        "8": 1
       },
       "M": {
         "4": 10,
@@ -93,7 +97,7 @@
     "two_letter_list": {
       "AM": 3,
       "EM": 2,
-      "LA": 4,
+      "LA": 6,
       "LE": 1,
       "LL": 1,
       "LO": 3,

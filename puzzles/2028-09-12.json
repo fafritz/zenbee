@@ -1,9 +1,9 @@
 {
   "pangram": "paucity",
   "center_letter": "p",
-  "num_answers": 17,
+  "num_answers": 18,
   "num_pangrams": 1,
-  "possible_points": 72,
+  "possible_points": 73,
   "answer_pangrams": [
     "paucity"
   ],
@@ -24,12 +24,13 @@
     "puppy",
     "putt",
     "putty",
+    "tipi",
     "uppity"
   ],
   "date": "2028-09-12",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 8,
       "5": 5,
       "6": 3,
       "7": 1,
@@ -38,6 +39,7 @@
     "by_first_letter": {
       "C": 2,
       "P": 14,
+      "T": 1,
       "U": 1
     },
     "grid": {
@@ -51,6 +53,9 @@
         "6": 2,
         "7": 1
       },
+      "T": {
+        "4": 1
+      },
       "U": {
         "6": 1
       }
@@ -61,6 +66,7 @@
       "PA": 6,
       "PI": 4,
       "PU": 4,
+      "TI": 1,
       "UP": 1
     }
   }

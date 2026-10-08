@@ -1,9 +1,9 @@
 {
   "pangram": "piquant",
   "center_letter": "p",
-  "num_answers": 20,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 76,
+  "possible_points": 77,
   "answer_pangrams": [
     "piquant"
   ],
@@ -27,12 +27,13 @@
     "pupa",
     "putt",
     "quip",
+    "tipi",
     "unpin"
   ],
   "date": "2039-01-18",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 10,
       "5": 7,
       "6": 3,
       "7": 1
@@ -41,6 +42,7 @@
       "I": 2,
       "P": 16,
       "Q": 1,
+      "T": 1,
       "U": 1
     },
     "grid": {
@@ -56,6 +58,9 @@
       "Q": {
         "4": 1
       },
+      "T": {
+        "4": 1
+      },
       "U": {
         "5": 1
       }
@@ -66,6 +71,7 @@
       "PI": 7,
       "PU": 3,
       "QU": 1,
+      "TI": 1,
       "UN": 1
     }
   }

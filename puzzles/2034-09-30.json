@@ -1,9 +1,9 @@
 {
   "pangram": "formula",
   "center_letter": "r",
-  "num_answers": 38,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 147,
+  "possible_points": 148,
   "answer_pangrams": [
     "formula"
   ],
@@ -22,6 +22,7 @@
     "flora",
     "floral",
     "flour",
+    "fora",
     "form",
     "formal",
     "formula",
@@ -50,14 +51,14 @@
   "date": "2034-09-30",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 16,
       "5": 15,
       "6": 6,
       "7": 2
     },
     "by_first_letter": {
       "A": 9,
-      "F": 13,
+      "F": 14,
       "M": 5,
       "O": 2,
       "R": 9
@@ -69,7 +70,7 @@
         "6": 2
       },
       "F": {
-        "4": 5,
+        "4": 6,
         "5": 5,
         "6": 2,
         "7": 1
@@ -97,7 +98,7 @@
       "AU": 2,
       "FA": 1,
       "FL": 4,
-      "FO": 5,
+      "FO": 6,
       "FR": 1,
       "FU": 2,
       "MO": 3,

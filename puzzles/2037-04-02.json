@@ -1,9 +1,9 @@
 {
   "pangram": "typhoid",
   "center_letter": "t",
-  "num_answers": 21,
+  "num_answers": 22,
   "num_pangrams": 1,
-  "possible_points": 93,
+  "possible_points": 94,
   "answer_pangrams": [
     "typhoid"
   ],
@@ -22,6 +22,7 @@
     "pity",
     "potty",
     "tidy",
+    "tipi",
     "tiptop",
     "toddy",
     "toot",
@@ -33,7 +34,7 @@
   "date": "2037-04-02",
   "hints": {
     "by_length": {
-      "4": 6,
+      "4": 7,
       "5": 11,
       "6": 3,
       "7": 1
@@ -44,7 +45,7 @@
       "I": 1,
       "O": 1,
       "P": 6,
-      "T": 8
+      "T": 9
     },
     "grid": {
       "D": {
@@ -64,7 +65,7 @@
         "5": 4
       },
       "T": {
-        "4": 3,
+        "4": 4,
         "5": 2,
         "6": 2,
         "7": 1
@@ -80,7 +81,7 @@
       "PH": 1,
       "PI": 4,
       "PO": 1,
-      "TI": 2,
+      "TI": 3,
       "TO": 4,
       "TY": 2
     }

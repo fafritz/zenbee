@@ -1,9 +1,9 @@
 {
   "pangram": "thanked",
   "center_letter": "a",
-  "num_answers": 63,
+  "num_answers": 64,
   "num_pangrams": 1,
-  "possible_points": 283,
+  "possible_points": 291,
   "answer_pangrams": [
     "thanked"
   ],
@@ -56,6 +56,7 @@
     "nana",
     "neat",
     "neaten",
+    "neatened",
     "neath",
     "take",
     "taken",
@@ -79,7 +80,7 @@
       "5": 15,
       "6": 12,
       "7": 7,
-      "8": 5,
+      "8": 6,
       "9": 2
     },
     "by_first_letter": {
@@ -88,7 +89,7 @@
       "E": 1,
       "H": 15,
       "K": 3,
-      "N": 6,
+      "N": 7,
       "T": 14
     },
     "grid": {
@@ -123,7 +124,8 @@
       "N": {
         "4": 3,
         "5": 2,
-        "6": 1
+        "6": 1,
+        "8": 1
       },
       "T": {
         "4": 5,
@@ -146,7 +148,7 @@
       "KH": 1,
       "KN": 2,
       "NA": 3,
-      "NE": 3,
+      "NE": 4,
       "TA": 6,
       "TE": 3,
       "TH": 5

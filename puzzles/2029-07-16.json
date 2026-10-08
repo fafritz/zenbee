@@ -1,9 +1,9 @@
 {
   "pangram": "talking",
   "center_letter": "g",
-  "num_answers": 79,
+  "num_answers": 80,
   "num_pangrams": 1,
-  "possible_points": 501,
+  "possible_points": 508,
   "answer_pangrams": [
     "talking"
   ],
@@ -81,6 +81,7 @@
     "tiling",
     "tilling",
     "tilting",
+    "tinging",
     "tingling",
     "tinkling",
     "tinning",
@@ -94,7 +95,7 @@
       "4": 12,
       "5": 5,
       "6": 11,
-      "7": 30,
+      "7": 31,
       "8": 14,
       "9": 2,
       "10": 4,
@@ -107,7 +108,7 @@
       "K": 6,
       "L": 9,
       "N": 3,
-      "T": 21
+      "T": 22
     },
     "grid": {
       "A": {
@@ -150,7 +151,7 @@
       "T": {
         "4": 1,
         "6": 2,
-        "7": 11,
+        "7": 12,
         "8": 5,
         "10": 1,
         "11": 1
@@ -175,7 +176,7 @@
       "NA": 2,
       "NI": 1,
       "TA": 12,
-      "TI": 9
+      "TI": 10
     }
   }
 }

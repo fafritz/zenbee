@@ -1,0 +1,151 @@
+{
+  "pangram": "habited",
+  "center_letter": "t",
+  "num_answers": 62,
+  "num_pangrams": 1,
+  "possible_points": 281,
+  "answer_pangrams": [
+    "habited"
+  ],
+  "answers": [
+    "abate",
+    "abated",
+    "abet",
+    "abetted",
+    "bait",
+    "baited",
+    "bated",
+    "bath",
+    "bathe",
+    "bathed",
+    "batted",
+    "beat",
+    "beet",
+    "beta",
+    "betide",
+    "betided",
+    "bidet",
+    "bite",
+    "data",
+    "date",
+    "dated",
+    "deadbeat",
+    "death",
+    "deathbed",
+    "debate",
+    "debated",
+    "debit",
+    "debited",
+    "debt",
+    "diet",
+    "dieted",
+    "edit",
+    "edited",
+    "habit",
+    "habitat",
+    "habited",
+    "hate",
+    "hated",
+    "hatted",
+    "heat",
+    "heated",
+    "heath",
+    "ideate",
+    "ideated",
+    "tabbed",
+    "tatted",
+    "teed",
+    "teeth",
+    "teethe",
+    "teethed",
+    "that",
+    "thee",
+    "theta",
+    "tibia",
+    "tibiae",
+    "tidbit",
+    "tide",
+    "tided",
+    "tidied",
+    "tied",
+    "tithe",
+    "tithed"
+  ],
+  "date": "2039-03-06",
+  "hints": {
+    "by_length": {
+      "4": 19,
+      "5": 15,
+      "6": 18,
+      "7": 8,
+      "8": 2
+    },
+    "by_first_letter": {
+      "A": 4,
+      "B": 14,
+      "D": 13,
+      "E": 2,
+      "H": 9,
+      "I": 2,
+      "T": 18
+    },
+    "grid": {
+      "A": {
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "B": {
+        "4": 6,
+        "5": 3,
+        "6": 4,
+        "7": 1
+      },
+      "D": {
+        "4": 4,
+        "5": 3,
+        "6": 2,
+        "7": 2,
+        "8": 2
+      },
+      "E": {
+        "4": 1,
+        "6": 1
+      },
+      "H": {
+        "4": 2,
+        "5": 3,
+        "6": 2,
+        "7": 2
+      },
+      "I": {
+        "6": 1,
+        "7": 1
+      },
+      "T": {
+        "4": 5,
+        "5": 5,
+        "6": 7,
+        "7": 1
+      }
+    },
+    "two_letter_list": {
+      "AB": 4,
+      "BA": 7,
+      "BE": 5,
+      "BI": 2,
+      "DA": 3,
+      "DE": 8,
+      "DI": 2,
+      "ED": 2,
+      "HA": 6,
+      "HE": 3,
+      "ID": 2,
+      "TA": 2,
+      "TE": 4,
+      "TH": 3,
+      "TI": 9
+    }
+  }
+}

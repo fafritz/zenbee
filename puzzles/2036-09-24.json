@@ -1,9 +1,9 @@
 {
   "pangram": "ductile",
   "center_letter": "c",
-  "num_answers": 53,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 277,
+  "possible_points": 289,
   "answer_pangrams": [
     "ductile"
   ],
@@ -44,11 +44,13 @@
     "diced",
     "dietetic",
     "duct",
+    "ducted",
     "ductile",
     "dulcet",
     "eclectic",
     "edict",
     "educe",
+    "educed",
     "elect",
     "elected",
     "elicit",
@@ -67,15 +69,15 @@
     "by_length": {
       "4": 12,
       "5": 11,
-      "6": 15,
+      "6": 17,
       "7": 8,
       "8": 6,
       "9": 1
     },
     "by_first_letter": {
       "C": 18,
-      "D": 20,
-      "E": 8,
+      "D": 21,
+      "E": 9,
       "I": 3,
       "L": 4
     },
@@ -90,13 +92,13 @@
       "D": {
         "4": 2,
         "5": 3,
-        "6": 9,
+        "6": 10,
         "7": 3,
         "8": 3
       },
       "E": {
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 1,
         "8": 3
       },
@@ -118,9 +120,9 @@
       "CU": 9,
       "DE": 14,
       "DI": 3,
-      "DU": 3,
+      "DU": 4,
       "EC": 1,
-      "ED": 2,
+      "ED": 3,
       "EL": 4,
       "EU": 1,
       "IC": 2,

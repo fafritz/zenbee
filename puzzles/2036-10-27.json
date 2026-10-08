@@ -1,9 +1,9 @@
 {
   "pangram": "voltage",
   "center_letter": "e",
-  "num_answers": 57,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 250,
+  "possible_points": 251,
   "answer_pangrams": [
     "voltage"
   ],
@@ -26,6 +26,7 @@
     "gave",
     "gavel",
     "gavotte",
+    "gelt",
     "glee",
     "glove",
     "goatee",
@@ -69,7 +70,7 @@
   "date": "2036-10-27",
   "hints": {
     "by_length": {
-      "4": 20,
+      "4": 21,
       "5": 15,
       "6": 13,
       "7": 4,
@@ -79,7 +80,7 @@
     "by_first_letter": {
       "A": 6,
       "E": 6,
-      "G": 11,
+      "G": 12,
       "L": 12,
       "O": 2,
       "T": 10,
@@ -97,7 +98,7 @@
         "7": 1
       },
       "G": {
-        "4": 4,
+        "4": 5,
         "5": 2,
         "6": 4,
         "7": 1
@@ -132,6 +133,7 @@
       "EL": 3,
       "EV": 1,
       "GA": 6,
+      "GE": 1,
       "GL": 2,
       "GO": 3,
       "LA": 3,

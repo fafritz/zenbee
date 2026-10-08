@@ -1,9 +1,9 @@
 {
   "pangram": "cleanup",
   "center_letter": "c",
-  "num_answers": 38,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 174,
+  "possible_points": 182,
   "answer_pangrams": [
     "cleanup"
   ],
@@ -20,6 +20,7 @@
     "cane",
     "canna",
     "cannula",
+    "cannulae",
     "canula",
     "cape",
     "cell",
@@ -53,11 +54,12 @@
       "4": 11,
       "5": 12,
       "6": 9,
-      "7": 6
+      "7": 6,
+      "8": 1
     },
     "by_first_letter": {
       "A": 3,
-      "C": 18,
+      "C": 19,
       "L": 4,
       "N": 1,
       "P": 8,
@@ -73,7 +75,8 @@
         "4": 8,
         "5": 4,
         "6": 4,
-        "7": 2
+        "7": 2,
+        "8": 1
       },
       "L": {
         "4": 1,
@@ -100,7 +103,7 @@
       "AC": 1,
       "AL": 1,
       "AP": 1,
-      "CA": 11,
+      "CA": 12,
       "CE": 1,
       "CL": 5,
       "CU": 1,

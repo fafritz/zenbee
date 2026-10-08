@@ -1,9 +1,9 @@
 {
   "pangram": "movable",
   "center_letter": "e",
-  "num_answers": 48,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 171,
+  "possible_points": 186,
   "answer_pangrams": [
     "movable"
   ],
@@ -32,6 +32,8 @@
     "evolve",
     "label",
     "lame",
+    "lamella",
+    "lamellae",
     "lave",
     "leave",
     "lemma",
@@ -63,14 +65,15 @@
       "4": 23,
       "5": 14,
       "6": 8,
-      "7": 2,
+      "7": 3,
+      "8": 1,
       "9": 1
     },
     "by_first_letter": {
       "A": 8,
       "B": 11,
       "E": 3,
-      "L": 10,
+      "L": 12,
       "M": 10,
       "O": 2,
       "V": 4
@@ -92,7 +95,8 @@
       "L": {
         "4": 4,
         "5": 5,
-        "7": 1
+        "7": 2,
+        "8": 1
       },
       "M": {
         "4": 6,
@@ -119,7 +123,7 @@
       "BO": 2,
       "EM": 2,
       "EV": 1,
-      "LA": 3,
+      "LA": 5,
       "LE": 4,
       "LO": 3,
       "MA": 3,

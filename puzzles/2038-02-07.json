@@ -1,9 +1,9 @@
 {
   "pangram": "lunched",
   "center_letter": "e",
-  "num_answers": 63,
+  "num_answers": 64,
   "num_pangrams": 1,
-  "possible_points": 302,
+  "possible_points": 308,
   "answer_pangrams": [
     "lunched"
   ],
@@ -40,6 +40,7 @@
     "dune",
     "dunned",
     "educe",
+    "educed",
     "eeled",
     "elude",
     "eluded",
@@ -77,14 +78,14 @@
     "by_length": {
       "4": 17,
       "5": 13,
-      "6": 21,
+      "6": 22,
       "7": 9,
       "8": 3
     },
     "by_first_letter": {
       "C": 12,
       "D": 19,
-      "E": 6,
+      "E": 7,
       "H": 11,
       "L": 6,
       "N": 5,
@@ -106,7 +107,7 @@
       },
       "E": {
         "5": 4,
-        "6": 2
+        "6": 3
       },
       "H": {
         "4": 4,
@@ -136,7 +137,7 @@
       "CU": 4,
       "DE": 11,
       "DU": 8,
-      "ED": 1,
+      "ED": 2,
       "EE": 1,
       "EL": 2,
       "EN": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "congaed",
   "center_letter": "c",
-  "num_answers": 57,
+  "num_answers": 59,
   "num_pangrams": 1,
-  "possible_points": 305,
+  "possible_points": 318,
   "answer_pangrams": [
     "congaed"
   ],
@@ -15,6 +15,7 @@
     "anaconda",
     "cacao",
     "cadence",
+    "cadenced",
     "cadge",
     "cadged",
     "cage",
@@ -48,6 +49,7 @@
     "condone",
     "condoned",
     "cone",
+    "coned",
     "conga",
     "congaed",
     "conned",
@@ -70,16 +72,16 @@
   "hints": {
     "by_length": {
       "4": 11,
-      "5": 16,
+      "5": 17,
       "6": 15,
       "7": 7,
-      "8": 5,
+      "8": 6,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 5,
-      "C": 39,
+      "C": 41,
       "D": 7,
       "E": 2,
       "N": 2,
@@ -94,10 +96,10 @@
       },
       "C": {
         "4": 8,
-        "5": 13,
+        "5": 14,
         "6": 8,
         "7": 4,
-        "8": 4,
+        "8": 5,
         "9": 1,
         "10": 1
       },
@@ -123,9 +125,9 @@
     "two_letter_list": {
       "AC": 4,
       "AN": 1,
-      "CA": 18,
+      "CA": 19,
       "CE": 2,
-      "CO": 19,
+      "CO": 20,
       "DA": 2,
       "DE": 5,
       "EN": 2,

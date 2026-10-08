@@ -1,9 +1,9 @@
 {
   "pangram": "clowned",
   "center_letter": "n",
-  "num_answers": 54,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 268,
+  "possible_points": 273,
   "answer_pangrams": [
     "clowned"
   ],
@@ -25,6 +25,7 @@
     "condone",
     "condoned",
     "cone",
+    "coned",
     "conned",
     "done",
     "donned",
@@ -67,14 +68,14 @@
   "hints": {
     "by_length": {
       "4": 15,
-      "5": 10,
+      "5": 11,
       "6": 14,
       "7": 10,
       "8": 4,
       "10": 1
     },
     "by_first_letter": {
-      "C": 18,
+      "C": 19,
       "D": 4,
       "E": 5,
       "L": 4,
@@ -85,7 +86,7 @@
     "grid": {
       "C": {
         "4": 1,
-        "5": 4,
+        "5": 5,
         "6": 3,
         "7": 5,
         "8": 4,
@@ -121,7 +122,7 @@
     },
     "two_letter_list": {
       "CL": 4,
-      "CO": 14,
+      "CO": 15,
       "DO": 4,
       "EN": 5,
       "LE": 1,

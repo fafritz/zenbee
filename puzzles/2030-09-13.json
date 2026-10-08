@@ -1,9 +1,9 @@
 {
   "pangram": "alchemy",
   "center_letter": "e",
-  "num_answers": 37,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 119,
+  "possible_points": 134,
   "answer_pangrams": [
     "alchemy"
   ],
@@ -30,6 +30,8 @@
     "heme",
     "lace",
     "lame",
+    "lamella",
+    "lamellae",
     "lamely",
     "leach",
     "leech",
@@ -52,14 +54,15 @@
       "4": 20,
       "5": 11,
       "6": 5,
-      "7": 1
+      "7": 2,
+      "8": 1
     },
     "by_first_letter": {
       "A": 5,
       "C": 7,
       "E": 2,
       "H": 6,
-      "L": 6,
+      "L": 8,
       "M": 9,
       "Y": 2
     },
@@ -85,7 +88,9 @@
       "L": {
         "4": 2,
         "5": 3,
-        "6": 1
+        "6": 1,
+        "7": 1,
+        "8": 1
       },
       "M": {
         "4": 4,
@@ -108,7 +113,7 @@
       "EM": 1,
       "HA": 1,
       "HE": 5,
-      "LA": 3,
+      "LA": 5,
       "LE": 3,
       "MA": 4,
       "ME": 5,

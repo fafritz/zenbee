@@ -1,9 +1,9 @@
 {
   "pangram": "manhole",
   "center_letter": "m",
-  "num_answers": 40,
+  "num_answers": 42,
   "num_pangrams": 1,
-  "possible_points": 122,
+  "possible_points": 137,
   "answer_pangrams": [
     "manhole"
   ],
@@ -19,6 +19,8 @@
     "home",
     "lama",
     "lame",
+    "lamella",
+    "lamellae",
     "lemma",
     "lemon",
     "llama",
@@ -55,14 +57,14 @@
       "4": 24,
       "5": 9,
       "6": 4,
-      "7": 2,
-      "8": 1
+      "7": 3,
+      "8": 2
     },
     "by_first_letter": {
       "A": 3,
       "E": 2,
       "H": 4,
-      "L": 7,
+      "L": 9,
       "M": 22,
       "N": 1,
       "O": 1
@@ -82,7 +84,9 @@
       },
       "L": {
         "4": 4,
-        "5": 3
+        "5": 3,
+        "7": 1,
+        "8": 1
       },
       "M": {
         "4": 13,
@@ -105,7 +109,7 @@
       "HA": 1,
       "HE": 2,
       "HO": 1,
-      "LA": 2,
+      "LA": 4,
       "LE": 2,
       "LL": 1,
       "LO": 2,

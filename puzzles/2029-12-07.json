@@ -1,9 +1,9 @@
 {
   "pangram": "witched",
   "center_letter": "h",
-  "num_answers": 41,
+  "num_answers": 42,
   "num_pangrams": 2,
-  "possible_points": 185,
+  "possible_points": 191,
   "answer_pangrams": [
     "twitched",
     "witched"
@@ -46,6 +46,7 @@
     "which",
     "whit",
     "white",
+    "whited",
     "width",
     "witch",
     "witched",
@@ -56,7 +57,7 @@
     "by_length": {
       "4": 14,
       "5": 12,
-      "6": 9,
+      "6": 10,
       "7": 5,
       "8": 1
     },
@@ -67,7 +68,7 @@
       "H": 9,
       "I": 2,
       "T": 9,
-      "W": 10
+      "W": 11
     },
     "grid": {
       "C": {
@@ -104,6 +105,7 @@
       "W": {
         "4": 4,
         "5": 4,
+        "6": 1,
         "7": 2
       }
     },
@@ -118,7 +120,7 @@
       "TH": 1,
       "TI": 2,
       "TW": 2,
-      "WH": 6,
+      "WH": 7,
       "WI": 4
     }
   }

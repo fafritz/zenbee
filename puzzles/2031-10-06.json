@@ -1,9 +1,9 @@
 {
   "pangram": "probity",
   "center_letter": "t",
-  "num_answers": 26,
+  "num_answers": 27,
   "num_pangrams": 1,
-  "possible_points": 84,
+  "possible_points": 85,
   "answer_pangrams": [
     "probity"
   ],
@@ -23,6 +23,7 @@
     "root",
     "roti",
     "rotor",
+    "tipi",
     "tiptop",
     "toot",
     "torpor",
@@ -38,7 +39,7 @@
   "date": "2031-10-06",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 16,
       "5": 7,
       "6": 2,
       "7": 1,
@@ -49,7 +50,7 @@
       "O": 2,
       "P": 6,
       "R": 5,
-      "T": 11
+      "T": 12
     },
     "grid": {
       "B": {
@@ -71,7 +72,7 @@
         "5": 2
       },
       "T": {
-        "4": 8,
+        "4": 9,
         "5": 1,
         "6": 2
       }
@@ -85,7 +86,7 @@
       "PR": 2,
       "RI": 1,
       "RO": 4,
-      "TI": 1,
+      "TI": 2,
       "TO": 3,
       "TR": 5,
       "TY": 2

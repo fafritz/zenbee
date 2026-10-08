@@ -1,9 +1,9 @@
 {
   "pangram": "heating",
   "center_letter": "a",
-  "num_answers": 70,
+  "num_answers": 71,
   "num_pangrams": 1,
-  "possible_points": 372,
+  "possible_points": 381,
   "answer_pangrams": [
     "heating"
   ],
@@ -60,6 +60,7 @@
     "nana",
     "neat",
     "neaten",
+    "neatening",
     "neath",
     "negate",
     "negating",
@@ -87,7 +88,7 @@
       "6": 12,
       "7": 18,
       "8": 6,
-      "9": 3,
+      "9": 4,
       "10": 1
     },
     "by_first_letter": {
@@ -96,7 +97,7 @@
       "G": 13,
       "H": 11,
       "I": 4,
-      "N": 8,
+      "N": 9,
       "T": 15
     },
     "grid": {
@@ -137,7 +138,8 @@
         "5": 1,
         "6": 2,
         "7": 1,
-        "8": 1
+        "8": 1,
+        "9": 1
       },
       "T": {
         "4": 3,
@@ -162,7 +164,7 @@
       "HE": 6,
       "IN": 4,
       "NA": 3,
-      "NE": 5,
+      "NE": 6,
       "TA": 8,
       "TE": 3,
       "TH": 3,

@@ -1,9 +1,9 @@
 {
   "pangram": "plating",
   "center_letter": "t",
-  "num_answers": 79,
+  "num_answers": 81,
   "num_pangrams": 6,
-  "possible_points": 522,
+  "possible_points": 530,
   "answer_pangrams": [
     "palliating",
     "palpating",
@@ -83,10 +83,12 @@
     "tilling",
     "tilt",
     "tilting",
+    "tinging",
     "tingling",
     "tinning",
     "tint",
     "tinting",
+    "tipi",
     "tipping",
     "tippling",
     "titan",
@@ -96,10 +98,10 @@
   "date": "2038-08-20",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 16,
       "5": 10,
       "6": 8,
-      "7": 22,
+      "7": 23,
       "8": 13,
       "9": 3,
       "10": 6,
@@ -112,7 +114,7 @@
       "L": 7,
       "N": 1,
       "P": 25,
-      "T": 29
+      "T": 31
     },
     "grid": {
       "A": {
@@ -153,10 +155,10 @@
         "11": 1
       },
       "T": {
-        "4": 6,
+        "4": 7,
         "5": 2,
         "6": 3,
-        "7": 11,
+        "7": 12,
         "8": 5,
         "10": 1,
         "11": 1
@@ -179,7 +181,7 @@
       "PI": 5,
       "PL": 8,
       "TA": 15,
-      "TI": 14
+      "TI": 16
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "pangram": "pickled",
   "center_letter": "l",
-  "num_answers": 48,
+  "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 203,
+  "possible_points": 204,
   "answer_pangrams": [
     "pickled"
   ],
@@ -55,12 +55,13 @@
     "piled",
     "pill",
     "pilled",
+    "pled",
     "plied"
   ],
   "date": "2037-03-25",
   "hints": {
     "by_length": {
-      "4": 18,
+      "4": 19,
       "5": 8,
       "6": 16,
       "7": 6
@@ -72,7 +73,7 @@
       "I": 3,
       "K": 5,
       "L": 11,
-      "P": 13
+      "P": 14
     },
     "grid": {
       "C": {
@@ -105,7 +106,7 @@
         "6": 3
       },
       "P": {
-        "4": 3,
+        "4": 4,
         "5": 2,
         "6": 5,
         "7": 3
@@ -126,7 +127,7 @@
       "LI": 9,
       "PE": 4,
       "PI": 8,
-      "PL": 1
+      "PL": 2
     }
   }
 }

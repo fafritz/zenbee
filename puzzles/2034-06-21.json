@@ -1,9 +1,9 @@
 {
   "pangram": "climbed",
   "center_letter": "m",
-  "num_answers": 34,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 155,
+  "possible_points": 161,
   "answer_pangrams": [
     "climbed"
   ],
@@ -24,6 +24,7 @@
     "imbibe",
     "imbibed",
     "limb",
+    "limbed",
     "lime",
     "limed",
     "meddle",
@@ -48,7 +49,7 @@
     "by_length": {
       "4": 11,
       "5": 9,
-      "6": 9,
+      "6": 10,
       "7": 3,
       "8": 1,
       "9": 1
@@ -58,7 +59,7 @@
       "D": 4,
       "E": 5,
       "I": 3,
-      "L": 3,
+      "L": 4,
       "M": 16
     },
     "grid": {
@@ -82,7 +83,8 @@
       },
       "L": {
         "4": 2,
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "M": {
         "4": 7,
@@ -97,7 +99,7 @@
       "DI": 2,
       "EM": 5,
       "IM": 3,
-      "LI": 3,
+      "LI": 4,
       "ME": 7,
       "MI": 9
     }

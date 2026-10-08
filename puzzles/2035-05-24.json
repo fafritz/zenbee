@@ -1,9 +1,9 @@
 {
   "pangram": "ineptly",
   "center_letter": "i",
-  "num_answers": 53,
+  "num_answers": 54,
   "num_pangrams": 2,
-  "possible_points": 240,
+  "possible_points": 241,
   "answer_pangrams": [
     "ineptly",
     "penitently"
@@ -58,6 +58,7 @@
     "tinny",
     "tint",
     "tiny",
+    "tipi",
     "tipple",
     "title",
     "tittle",
@@ -66,7 +67,7 @@
   "date": "2035-05-24",
   "hints": {
     "by_length": {
-      "4": 20,
+      "4": 21,
       "5": 11,
       "6": 12,
       "7": 4,
@@ -80,7 +81,7 @@
       "L": 13,
       "N": 5,
       "P": 14,
-      "T": 10,
+      "T": 11,
       "Y": 1
     },
     "grid": {
@@ -117,7 +118,7 @@
         "10": 1
       },
       "T": {
-        "4": 6,
+        "4": 7,
         "5": 2,
         "6": 2
       },
@@ -134,7 +135,7 @@
       "NI": 5,
       "PE": 4,
       "PI": 10,
-      "TI": 10,
+      "TI": 11,
       "YE": 1
     }
   }

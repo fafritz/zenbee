@@ -1,9 +1,9 @@
 {
   "pangram": "compute",
   "center_letter": "t",
-  "num_answers": 39,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 141,
+  "possible_points": 147,
   "answer_pangrams": [
     "compute"
   ],
@@ -36,6 +36,7 @@
     "puppet",
     "putt",
     "teem",
+    "teepee",
     "temp",
     "tempo",
     "tempt",
@@ -53,7 +54,7 @@
     "by_length": {
       "4": 19,
       "5": 10,
-      "6": 5,
+      "6": 6,
       "7": 5
     },
     "by_first_letter": {
@@ -62,7 +63,7 @@
       "M": 9,
       "O": 3,
       "P": 4,
-      "T": 12
+      "T": 13
     },
     "grid": {
       "C": {
@@ -91,7 +92,7 @@
       "T": {
         "4": 7,
         "5": 4,
-        "6": 1
+        "6": 2
       }
     },
     "two_letter_list": {
@@ -105,7 +106,7 @@
       "OU": 2,
       "PO": 2,
       "PU": 2,
-      "TE": 5,
+      "TE": 6,
       "TO": 6,
       "TU": 1
     }

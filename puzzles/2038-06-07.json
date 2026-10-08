@@ -1,9 +1,9 @@
 {
   "pangram": "plucked",
   "center_letter": "e",
-  "num_answers": 71,
+  "num_answers": 73,
   "num_pangrams": 1,
-  "possible_points": 306,
+  "possible_points": 313,
   "answer_pangrams": [
     "plucked"
   ],
@@ -43,6 +43,7 @@
     "dupe",
     "duped",
     "educe",
+    "educed",
     "eeled",
     "eked",
     "elude",
@@ -68,6 +69,7 @@
     "peep",
     "peeped",
     "pepped",
+    "pled",
     "plucked",
     "puddle",
     "puddled",
@@ -83,18 +85,18 @@
   "date": "2038-06-07",
   "hints": {
     "by_length": {
-      "4": 25,
+      "4": 26,
       "5": 10,
-      "6": 28,
+      "6": 29,
       "7": 8
     },
     "by_first_letter": {
       "C": 12,
       "D": 22,
-      "E": 6,
+      "E": 7,
       "K": 4,
       "L": 4,
-      "P": 20,
+      "P": 21,
       "U": 3
     },
     "grid": {
@@ -113,7 +115,7 @@
       "E": {
         "4": 2,
         "5": 3,
-        "6": 1
+        "6": 2
       },
       "K": {
         "4": 3,
@@ -124,7 +126,7 @@
         "6": 2
       },
       "P": {
-        "4": 6,
+        "4": 7,
         "5": 1,
         "6": 10,
         "7": 3
@@ -141,7 +143,7 @@
       "CU": 5,
       "DE": 13,
       "DU": 9,
-      "ED": 1,
+      "ED": 2,
       "EE": 1,
       "EK": 1,
       "EL": 2,
@@ -150,7 +152,7 @@
       "LE": 2,
       "LU": 2,
       "PE": 12,
-      "PL": 1,
+      "PL": 2,
       "PU": 7,
       "UK": 1,
       "UP": 2

@@ -1,9 +1,9 @@
 {
   "pangram": "pounced",
   "center_letter": "u",
-  "num_answers": 40,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 212,
+  "possible_points": 218,
   "answer_pangrams": [
     "pounced"
   ],
@@ -30,6 +30,7 @@
     "dupe",
     "duped",
     "educe",
+    "educed",
     "endued",
     "noun",
     "ounce",
@@ -54,7 +55,7 @@
     "by_length": {
       "4": 8,
       "5": 11,
-      "6": 11,
+      "6": 12,
       "7": 5,
       "8": 4,
       "9": 1
@@ -62,7 +63,7 @@
     "by_first_letter": {
       "C": 6,
       "D": 15,
-      "E": 2,
+      "E": 3,
       "N": 1,
       "O": 1,
       "P": 6,
@@ -85,7 +86,7 @@
       },
       "E": {
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "N": {
         "4": 1
@@ -111,7 +112,7 @@
       "CU": 2,
       "DE": 8,
       "DU": 7,
-      "ED": 1,
+      "ED": 2,
       "EN": 1,
       "NO": 1,
       "OU": 1,

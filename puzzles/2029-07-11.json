@@ -1,9 +1,9 @@
 {
   "pangram": "munched",
   "center_letter": "e",
-  "num_answers": 46,
+  "num_answers": 47,
   "num_pangrams": 1,
-  "possible_points": 215,
+  "possible_points": 221,
   "answer_pangrams": [
     "munched"
   ],
@@ -29,6 +29,7 @@
     "dune",
     "dunned",
     "educe",
+    "educed",
     "emcee",
     "emceed",
     "emend",
@@ -60,14 +61,14 @@
     "by_length": {
       "4": 14,
       "5": 10,
-      "6": 13,
+      "6": 14,
       "7": 6,
       "8": 3
     },
     "by_first_letter": {
       "C": 5,
       "D": 15,
-      "E": 7,
+      "E": 8,
       "H": 8,
       "M": 5,
       "N": 3,
@@ -87,7 +88,7 @@
       },
       "E": {
         "5": 4,
-        "6": 2,
+        "6": 3,
         "7": 1
       },
       "H": {
@@ -117,7 +118,7 @@
       "CU": 1,
       "DE": 10,
       "DU": 5,
-      "ED": 1,
+      "ED": 2,
       "EM": 4,
       "EN": 2,
       "HE": 6,

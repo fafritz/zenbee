@@ -1,9 +1,9 @@
 {
   "pangram": "caption",
   "center_letter": "i",
-  "num_answers": 78,
+  "num_answers": 79,
   "num_pangrams": 3,
-  "possible_points": 466,
+  "possible_points": 467,
   "answer_pangrams": [
     "anticipation",
     "caption",
@@ -83,6 +83,7 @@
     "tannin",
     "tapioca",
     "tint",
+    "tipi",
     "tiptop",
     "titan",
     "titanic",
@@ -92,7 +93,7 @@
   "date": "2039-01-21",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 24,
       "6": 21,
       "7": 8,
@@ -109,7 +110,7 @@
       "N": 4,
       "O": 5,
       "P": 20,
-      "T": 12
+      "T": 13
     },
     "grid": {
       "A": {
@@ -155,7 +156,7 @@
         "8": 1
       },
       "T": {
-        "4": 1,
+        "4": 2,
         "5": 5,
         "6": 3,
         "7": 2,
@@ -182,7 +183,7 @@
       "PI": 12,
       "PO": 2,
       "TA": 6,
-      "TI": 4,
+      "TI": 5,
       "TO": 2
     }
   }

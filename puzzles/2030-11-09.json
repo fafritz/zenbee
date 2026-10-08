@@ -1,9 +1,9 @@
 {
   "pangram": "penalty",
   "center_letter": "p",
-  "num_answers": 68,
+  "num_answers": 69,
   "num_pangrams": 3,
-  "possible_points": 312,
+  "possible_points": 318,
   "answer_pangrams": [
     "aplenty",
     "patently",
@@ -74,6 +74,7 @@
     "pleat",
     "plenty",
     "tape",
+    "teepee",
     "teletype",
     "tepee",
     "type",
@@ -84,7 +85,7 @@
     "by_length": {
       "4": 23,
       "5": 22,
-      "6": 10,
+      "6": 11,
       "7": 8,
       "8": 3,
       "9": 2
@@ -95,7 +96,7 @@
       "L": 3,
       "N": 3,
       "P": 48,
-      "T": 4,
+      "T": 5,
       "Y": 1
     },
     "grid": {
@@ -126,6 +127,7 @@
       "T": {
         "4": 2,
         "5": 1,
+        "6": 1,
         "8": 1
       },
       "Y": {
@@ -143,7 +145,7 @@
       "PE": 16,
       "PL": 12,
       "TA": 1,
-      "TE": 2,
+      "TE": 3,
       "TY": 1,
       "YE": 1
     }

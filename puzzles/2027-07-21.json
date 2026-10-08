@@ -1,9 +1,9 @@
 {
   "pangram": "clowned",
   "center_letter": "c",
-  "num_answers": 46,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 235,
+  "possible_points": 246,
   "answer_pangrams": [
     "clowned"
   ],
@@ -39,12 +39,14 @@
     "condone",
     "condoned",
     "cone",
+    "coned",
     "conned",
     "cooed",
     "cool",
     "cooled",
     "cowed",
     "cowl",
+    "cowled",
     "decode",
     "decoded",
     "encode",
@@ -59,14 +61,14 @@
   "hints": {
     "by_length": {
       "4": 12,
-      "5": 10,
-      "6": 10,
+      "5": 11,
+      "6": 11,
       "7": 8,
       "8": 5,
       "10": 1
     },
     "by_first_letter": {
-      "C": 37,
+      "C": 39,
       "D": 2,
       "E": 2,
       "L": 2,
@@ -76,8 +78,8 @@
     "grid": {
       "C": {
         "4": 10,
-        "5": 9,
-        "6": 7,
+        "5": 10,
+        "6": 8,
         "7": 6,
         "8": 4,
         "10": 1
@@ -105,7 +107,7 @@
     "two_letter_list": {
       "CE": 5,
       "CL": 7,
-      "CO": 25,
+      "CO": 27,
       "DE": 2,
       "EN": 2,
       "LO": 2,

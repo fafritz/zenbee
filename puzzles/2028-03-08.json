@@ -1,9 +1,9 @@
 {
   "pangram": "typhoid",
   "center_letter": "p",
-  "num_answers": 16,
+  "num_answers": 17,
   "num_pangrams": 1,
-  "possible_points": 63,
+  "possible_points": 64,
   "answer_pangrams": [
     "typhoid"
   ],
@@ -21,6 +21,7 @@
     "poop",
     "poppy",
     "potty",
+    "tipi",
     "tiptop",
     "typhoid",
     "typo"
@@ -28,7 +29,7 @@
   "date": "2028-03-08",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 8,
       "5": 6,
       "6": 2,
       "7": 1
@@ -37,7 +38,7 @@
       "H": 3,
       "O": 1,
       "P": 9,
-      "T": 3
+      "T": 4
     },
     "grid": {
       "H": {
@@ -52,7 +53,7 @@
         "5": 5
       },
       "T": {
-        "4": 1,
+        "4": 2,
         "6": 1,
         "7": 1
       }
@@ -65,7 +66,7 @@
       "PH": 1,
       "PI": 4,
       "PO": 4,
-      "TI": 1,
+      "TI": 2,
       "TY": 2
     }
   }

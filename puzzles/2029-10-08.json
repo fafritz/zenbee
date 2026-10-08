@@ -1,9 +1,9 @@
 {
   "pangram": "figment",
   "center_letter": "g",
-  "num_answers": 40,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 252,
+  "possible_points": 259,
   "answer_pangrams": [
     "figment"
   ],
@@ -46,6 +46,7 @@
     "timing",
     "tinge",
     "tingeing",
+    "tinging",
     "tinning",
     "tinting"
   ],
@@ -55,7 +56,7 @@
       "4": 3,
       "5": 5,
       "6": 12,
-      "7": 15,
+      "7": 16,
       "8": 5
     },
     "by_first_letter": {
@@ -65,7 +66,7 @@
       "I": 3,
       "M": 6,
       "N": 1,
-      "T": 9
+      "T": 10
     },
     "grid": {
       "E": {
@@ -98,7 +99,7 @@
       "T": {
         "5": 1,
         "6": 2,
-        "7": 5,
+        "7": 6,
         "8": 1
       }
     },
@@ -116,7 +117,7 @@
       "MI": 4,
       "NE": 1,
       "TE": 3,
-      "TI": 6
+      "TI": 7
     }
   }
 }

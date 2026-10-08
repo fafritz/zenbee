@@ -1,9 +1,9 @@
 {
   "pangram": "optical",
   "center_letter": "i",
-  "num_answers": 56,
+  "num_answers": 57,
   "num_pangrams": 5,
-  "possible_points": 310,
+  "possible_points": 311,
   "answer_pangrams": [
     "apolitical",
     "capitol",
@@ -64,6 +64,7 @@
     "tapioca",
     "till",
     "tilt",
+    "tipi",
     "tiptop",
     "toil",
     "topic",
@@ -72,7 +73,7 @@
   "date": "2038-03-15",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 16,
       "5": 16,
       "6": 7,
       "7": 11,
@@ -87,7 +88,7 @@
       "L": 6,
       "O": 3,
       "P": 15,
-      "T": 12
+      "T": 13
     },
     "grid": {
       "A": {
@@ -128,7 +129,7 @@
         "10": 1
       },
       "T": {
-        "4": 4,
+        "4": 5,
         "5": 2,
         "6": 2,
         "7": 2,
@@ -156,7 +157,7 @@
       "PL": 1,
       "PO": 3,
       "TA": 6,
-      "TI": 3,
+      "TI": 4,
       "TO": 3
     }
   }

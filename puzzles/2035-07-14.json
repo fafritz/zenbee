@@ -1,9 +1,9 @@
 {
   "pangram": "docking",
   "center_letter": "o",
-  "num_answers": 49,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 252,
+  "possible_points": 258,
   "answer_pangrams": [
     "docking"
   ],
@@ -21,6 +21,7 @@
     "condo",
     "condoning",
     "conic",
+    "coning",
     "conk",
     "conking",
     "conning",
@@ -63,14 +64,14 @@
     "by_length": {
       "4": 13,
       "5": 10,
-      "6": 8,
+      "6": 9,
       "7": 14,
       "8": 1,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "C": 19,
+      "C": 20,
       "D": 8,
       "G": 6,
       "I": 4,
@@ -82,7 +83,7 @@
       "C": {
         "4": 3,
         "5": 3,
-        "6": 4,
+        "6": 5,
         "7": 6,
         "9": 2,
         "10": 1
@@ -120,7 +121,7 @@
       }
     },
     "two_letter_list": {
-      "CO": 19,
+      "CO": 20,
       "DI": 1,
       "DO": 7,
       "GI": 1,

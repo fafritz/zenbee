@@ -1,9 +1,9 @@
 {
   "pangram": "imputed",
   "center_letter": "e",
-  "num_answers": 80,
+  "num_answers": 81,
   "num_pangrams": 1,
-  "possible_points": 336,
+  "possible_points": 342,
   "answer_pangrams": [
     "imputed"
   ],
@@ -73,6 +73,7 @@
     "teed",
     "teem",
     "teemed",
+    "teepee",
     "temp",
     "temped",
     "tempt",
@@ -94,7 +95,7 @@
     "by_length": {
       "4": 29,
       "5": 14,
-      "6": 29,
+      "6": 30,
       "7": 8
     },
     "by_first_letter": {
@@ -103,7 +104,7 @@
       "I": 5,
       "M": 11,
       "P": 18,
-      "T": 17,
+      "T": 18,
       "U": 2
     },
     "grid": {
@@ -139,7 +140,7 @@
       "T": {
         "4": 6,
         "5": 5,
-        "6": 5,
+        "6": 6,
         "7": 1
       },
       "U": {
@@ -162,7 +163,7 @@
       "PE": 6,
       "PI": 7,
       "PU": 5,
-      "TE": 10,
+      "TE": 11,
       "TI": 7,
       "UM": 1,
       "UP": 1

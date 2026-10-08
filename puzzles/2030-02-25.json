@@ -1,9 +1,9 @@
 {
   "pangram": "imputed",
   "center_letter": "p",
-  "num_answers": 45,
+  "num_answers": 47,
   "num_pangrams": 1,
-  "possible_points": 215,
+  "possible_points": 222,
   "answer_pangrams": [
     "imputed"
   ],
@@ -44,12 +44,14 @@
     "putt",
     "putted",
     "puttied",
+    "teepee",
     "temp",
     "temped",
     "tempt",
     "tempted",
     "tepee",
     "tepid",
+    "tipi",
     "tipped",
     "umped",
     "upped"
@@ -57,9 +59,9 @@
   "date": "2030-02-25",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 13,
       "5": 8,
-      "6": 19,
+      "6": 20,
       "7": 6
     },
     "by_first_letter": {
@@ -67,7 +69,7 @@
       "E": 2,
       "I": 4,
       "P": 22,
-      "T": 7,
+      "T": 9,
       "U": 2
     },
     "grid": {
@@ -92,9 +94,9 @@
         "7": 1
       },
       "T": {
-        "4": 1,
+        "4": 2,
         "5": 3,
-        "6": 2,
+        "6": 3,
         "7": 1
       },
       "U": {
@@ -111,8 +113,8 @@
       "PE": 6,
       "PI": 9,
       "PU": 7,
-      "TE": 6,
-      "TI": 1,
+      "TE": 7,
+      "TI": 2,
       "UM": 1,
       "UP": 1
     }

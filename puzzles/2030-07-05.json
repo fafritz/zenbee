@@ -1,9 +1,9 @@
 {
   "pangram": "exclaim",
   "center_letter": "m",
-  "num_answers": 46,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 168,
+  "possible_points": 183,
   "answer_pangrams": [
     "exclaim"
   ],
@@ -25,6 +25,8 @@
     "imam",
     "lama",
     "lame",
+    "lamella",
+    "lamellae",
     "lemma",
     "lime",
     "llama",
@@ -61,15 +63,15 @@
       "4": 22,
       "5": 13,
       "6": 5,
-      "7": 4,
-      "8": 2
+      "7": 5,
+      "8": 3
     },
     "by_first_letter": {
       "A": 2,
       "C": 8,
       "E": 4,
       "I": 1,
-      "L": 5,
+      "L": 7,
       "M": 26
     },
     "grid": {
@@ -93,7 +95,9 @@
       },
       "L": {
         "4": 3,
-        "5": 2
+        "5": 2,
+        "7": 1,
+        "8": 1
       },
       "M": {
         "4": 13,
@@ -110,7 +114,7 @@
       "EM": 2,
       "EX": 2,
       "IM": 1,
-      "LA": 2,
+      "LA": 4,
       "LE": 1,
       "LI": 1,
       "LL": 1,

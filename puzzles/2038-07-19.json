@@ -1,9 +1,9 @@
 {
   "pangram": "glanced",
   "center_letter": "c",
-  "num_answers": 45,
+  "num_answers": 46,
   "num_pangrams": 2,
-  "possible_points": 235,
+  "possible_points": 243,
   "answer_pangrams": [
     "clanged",
     "glanced"
@@ -14,6 +14,7 @@
     "aced",
     "acne",
     "cadence",
+    "cadenced",
     "cadge",
     "cadged",
     "cage",
@@ -62,12 +63,12 @@
       "5": 13,
       "6": 12,
       "7": 7,
-      "8": 2,
+      "8": 3,
       "9": 1
     },
     "by_first_letter": {
       "A": 4,
-      "C": 28,
+      "C": 29,
       "D": 6,
       "E": 1,
       "G": 2,
@@ -84,7 +85,7 @@
         "5": 9,
         "6": 7,
         "7": 4,
-        "8": 1
+        "8": 2
       },
       "D": {
         "5": 2,
@@ -107,7 +108,7 @@
     },
     "two_letter_list": {
       "AC": 4,
-      "CA": 18,
+      "CA": 19,
       "CE": 4,
       "CL": 6,
       "DA": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "cording",
   "center_letter": "o",
-  "num_answers": 70,
+  "num_answers": 71,
   "num_pangrams": 3,
-  "possible_points": 388,
+  "possible_points": 394,
   "answer_pangrams": [
     "cording",
     "cordoning",
@@ -23,6 +23,7 @@
     "condoning",
     "condor",
     "conic",
+    "coning",
     "conning",
     "cooing",
     "cord",
@@ -86,14 +87,14 @@
     "by_length": {
       "4": 16,
       "5": 14,
-      "6": 15,
+      "6": 16,
       "7": 15,
       "8": 5,
       "9": 4,
       "10": 1
     },
     "by_first_letter": {
-      "C": 26,
+      "C": 27,
       "D": 10,
       "G": 11,
       "I": 9,
@@ -105,7 +106,7 @@
       "C": {
         "4": 3,
         "5": 4,
-        "6": 6,
+        "6": 7,
         "7": 6,
         "8": 2,
         "9": 4,
@@ -149,7 +150,7 @@
       }
     },
     "two_letter_list": {
-      "CO": 24,
+      "CO": 25,
       "CR": 2,
       "DI": 1,
       "DO": 7,

@@ -1,9 +1,9 @@
 {
   "pangram": "typical",
   "center_letter": "i",
-  "num_answers": 48,
+  "num_answers": 49,
   "num_pangrams": 4,
-  "possible_points": 282,
+  "possible_points": 283,
   "answer_pangrams": [
     "atypical",
     "atypically",
@@ -57,13 +57,14 @@
     "tail",
     "till",
     "tilt",
+    "tipi",
     "typical",
     "typically"
   ],
   "date": "2034-07-04",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 14,
       "5": 11,
       "6": 5,
       "7": 7,
@@ -77,7 +78,7 @@
       "I": 5,
       "L": 6,
       "P": 10,
-      "T": 10
+      "T": 11
     },
     "grid": {
       "A": {
@@ -115,7 +116,7 @@
         "10": 1
       },
       "T": {
-        "4": 3,
+        "4": 4,
         "5": 1,
         "6": 1,
         "7": 2,
@@ -140,7 +141,7 @@
       "PI": 6,
       "PL": 1,
       "TA": 6,
-      "TI": 2,
+      "TI": 3,
       "TY": 2
     }
   }

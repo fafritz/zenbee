@@ -1,9 +1,9 @@
 {
   "pangram": "twanged",
   "center_letter": "d",
-  "num_answers": 74,
+  "num_answers": 75,
   "num_pangrams": 1,
-  "possible_points": 369,
+  "possible_points": 377,
   "answer_pangrams": [
     "twanged"
   ],
@@ -50,6 +50,7 @@
     "geed",
     "gnawed",
     "nagged",
+    "neatened",
     "need",
     "needed",
     "negated",
@@ -90,7 +91,7 @@
       "5": 13,
       "6": 30,
       "7": 7,
-      "8": 4,
+      "8": 5,
       "9": 2
     },
     "by_first_letter": {
@@ -98,7 +99,7 @@
       "D": 15,
       "E": 5,
       "G": 7,
-      "N": 5,
+      "N": 6,
       "T": 11,
       "W": 17
     },
@@ -131,7 +132,8 @@
       "N": {
         "4": 1,
         "6": 3,
-        "7": 1
+        "7": 1,
+        "8": 1
       },
       "T": {
         "4": 2,
@@ -161,7 +163,7 @@
       "GE": 1,
       "GN": 1,
       "NA": 1,
-      "NE": 4,
+      "NE": 5,
       "TA": 3,
       "TE": 5,
       "TW": 3,

@@ -1,9 +1,9 @@
 {
   "pangram": "exploit",
   "center_letter": "e",
-  "num_answers": 44,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 175,
+  "possible_points": 181,
   "answer_pangrams": [
     "exploit"
   ],
@@ -38,6 +38,7 @@
     "polite",
     "pope",
     "potpie",
+    "teepee",
     "telex",
     "tell",
     "tepee",
@@ -58,7 +59,7 @@
     "by_length": {
       "4": 18,
       "5": 11,
-      "6": 11,
+      "6": 12,
       "7": 3,
       "8": 1
     },
@@ -67,7 +68,7 @@
       "L": 3,
       "O": 1,
       "P": 16,
-      "T": 14
+      "T": 15
     },
     "grid": {
       "E": {
@@ -91,7 +92,7 @@
       "T": {
         "4": 4,
         "5": 3,
-        "6": 5,
+        "6": 6,
         "7": 1,
         "8": 1
       }
@@ -106,7 +107,7 @@
       "PE": 7,
       "PI": 4,
       "PO": 5,
-      "TE": 5,
+      "TE": 6,
       "TI": 5,
       "TO": 4
     }

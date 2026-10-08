@@ -1,9 +1,9 @@
 {
   "pangram": "gambled",
   "center_letter": "b",
-  "num_answers": 65,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 323,
+  "possible_points": 329,
   "answer_pangrams": [
     "gambled"
   ],
@@ -47,6 +47,7 @@
     "blab",
     "blabbed",
     "blade",
+    "bladed",
     "blame",
     "blamed",
     "bled",
@@ -79,14 +80,14 @@
     "by_length": {
       "4": 15,
       "5": 15,
-      "6": 24,
+      "6": 25,
       "7": 7,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
       "A": 5,
-      "B": 38,
+      "B": 39,
       "D": 3,
       "E": 6,
       "G": 7,
@@ -102,7 +103,7 @@
       "B": {
         "4": 12,
         "5": 9,
-        "6": 13,
+        "6": 14,
         "7": 3,
         "8": 1
       },
@@ -135,7 +136,7 @@
       "AM": 2,
       "BA": 20,
       "BE": 11,
-      "BL": 7,
+      "BL": 8,
       "DA": 3,
       "EB": 1,
       "EM": 5,

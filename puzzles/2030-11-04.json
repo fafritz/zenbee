@@ -1,9 +1,9 @@
 {
   "pangram": "coupled",
   "center_letter": "c",
-  "num_answers": 49,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 228,
+  "possible_points": 234,
   "answer_pangrams": [
     "coupled"
   ],
@@ -54,6 +54,7 @@
     "deuce",
     "deuced",
     "educe",
+    "educed",
     "loco",
     "occlude",
     "occluded"
@@ -63,14 +64,14 @@
     "by_length": {
       "4": 15,
       "5": 11,
-      "6": 12,
+      "6": 13,
       "7": 9,
       "8": 2
     },
     "by_first_letter": {
       "C": 39,
       "D": 6,
-      "E": 1,
+      "E": 2,
       "L": 1,
       "O": 2
     },
@@ -88,7 +89,8 @@
         "7": 2
       },
       "E": {
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "L": {
         "4": 1
@@ -104,7 +106,7 @@
       "CO": 21,
       "CU": 6,
       "DE": 6,
-      "ED": 1,
+      "ED": 2,
       "LO": 1,
       "OC": 2
     }

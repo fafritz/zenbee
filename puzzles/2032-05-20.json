@@ -1,9 +1,9 @@
 {
   "pangram": "impanel",
   "center_letter": "m",
-  "num_answers": 63,
+  "num_answers": 65,
   "num_pangrams": 1,
-  "possible_points": 255,
+  "possible_points": 270,
   "answer_pangrams": [
     "impanel"
   ],
@@ -23,6 +23,8 @@
     "impel",
     "lama",
     "lame",
+    "lamella",
+    "lamellae",
     "lamp",
     "lemma",
     "lime",
@@ -78,8 +80,8 @@
       "4": 27,
       "5": 14,
       "6": 11,
-      "7": 7,
-      "8": 1,
+      "7": 8,
+      "8": 2,
       "9": 2,
       "10": 1
     },
@@ -87,7 +89,7 @@
       "A": 5,
       "E": 3,
       "I": 5,
-      "L": 10,
+      "L": 12,
       "M": 34,
       "N": 2,
       "P": 4
@@ -111,7 +113,8 @@
       "L": {
         "4": 6,
         "5": 2,
-        "7": 2
+        "7": 3,
+        "8": 1
       },
       "M": {
         "4": 16,
@@ -138,7 +141,7 @@
       "EM": 1,
       "EN": 2,
       "IM": 5,
-      "LA": 3,
+      "LA": 5,
       "LE": 1,
       "LI": 5,
       "LL": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "heading",
   "center_letter": "i",
-  "num_answers": 71,
+  "num_answers": 72,
   "num_pangrams": 1,
-  "possible_points": 392,
+  "possible_points": 399,
   "answer_pangrams": [
     "heading"
   ],
@@ -37,6 +37,7 @@
     "ending",
     "engaging",
     "engine",
+    "engined",
     "gadding",
     "gagging",
     "gain",
@@ -86,14 +87,14 @@
       "4": 12,
       "5": 12,
       "6": 22,
-      "7": 20,
+      "7": 21,
       "8": 4,
       "9": 1
     },
     "by_first_letter": {
       "A": 7,
       "D": 16,
-      "E": 6,
+      "E": 7,
       "G": 13,
       "H": 17,
       "I": 4,
@@ -115,6 +116,7 @@
       },
       "E": {
         "6": 5,
+        "7": 1,
         "8": 1
       },
       "G": {
@@ -151,7 +153,7 @@
       "DI": 10,
       "ED": 2,
       "EG": 1,
-      "EN": 3,
+      "EN": 4,
       "GA": 6,
       "GE": 3,
       "GI": 4,

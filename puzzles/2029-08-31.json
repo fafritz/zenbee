@@ -1,9 +1,9 @@
 {
   "pangram": "clomped",
   "center_letter": "l",
-  "num_answers": 71,
+  "num_answers": 72,
   "num_pangrams": 2,
-  "possible_points": 313,
+  "possible_points": 314,
   "answer_pangrams": [
     "clomped",
     "compelled"
@@ -66,6 +66,7 @@
     "peeled",
     "people",
     "peopled",
+    "pled",
     "plod",
     "plodded",
     "plop",
@@ -84,7 +85,7 @@
   "date": "2029-08-31",
   "hints": {
     "by_length": {
-      "4": 27,
+      "4": 28,
       "5": 9,
       "6": 22,
       "7": 10,
@@ -98,7 +99,7 @@
       "L": 12,
       "M": 11,
       "O": 1,
-      "P": 20
+      "P": 21
     },
     "grid": {
       "C": {
@@ -134,7 +135,7 @@
         "4": 1
       },
       "P": {
-        "4": 7,
+        "4": 8,
         "5": 1,
         "6": 7,
         "7": 4,
@@ -155,7 +156,7 @@
       "MO": 6,
       "OL": 1,
       "PE": 6,
-      "PL": 4,
+      "PL": 5,
       "PO": 10
     }
   }

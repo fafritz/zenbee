@@ -1,0 +1,131 @@
+{
+  "pangram": "dumbing",
+  "center_letter": "i",
+  "num_answers": 46,
+  "num_pangrams": 1,
+  "possible_points": 288,
+  "answer_pangrams": [
+    "dumbing"
+  ],
+  "answers": [
+    "bidding",
+    "biding",
+    "bind",
+    "binding",
+    "binging",
+    "binning",
+    "budding",
+    "budging",
+    "bugging",
+    "bumming",
+    "bunging",
+    "digging",
+    "dimming",
+    "ding",
+    "dinging",
+    "dining",
+    "dinning",
+    "dubbing",
+    "duding",
+    "dumbing",
+    "dunging",
+    "dunning",
+    "gibing",
+    "gigging",
+    "ginning",
+    "guiding",
+    "gumming",
+    "gunning",
+    "ibid",
+    "imbibing",
+    "imbuing",
+    "inning",
+    "miming",
+    "mind",
+    "minding",
+    "mini",
+    "minim",
+    "minimum",
+    "mining",
+    "mugging",
+    "nimbi",
+    "nudging",
+    "numbing",
+    "unbind",
+    "unbinding",
+    "undid"
+  ],
+  "date": "2039-02-27",
+  "hints": {
+    "by_length": {
+      "4": 5,
+      "5": 3,
+      "6": 8,
+      "7": 28,
+      "8": 1,
+      "9": 1
+    },
+    "by_first_letter": {
+      "B": 11,
+      "D": 11,
+      "G": 6,
+      "I": 4,
+      "M": 8,
+      "N": 3,
+      "U": 3
+    },
+    "grid": {
+      "B": {
+        "4": 1,
+        "6": 1,
+        "7": 9
+      },
+      "D": {
+        "4": 1,
+        "6": 2,
+        "7": 8
+      },
+      "G": {
+        "6": 1,
+        "7": 5
+      },
+      "I": {
+        "4": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1
+      },
+      "M": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 3
+      },
+      "N": {
+        "5": 1,
+        "7": 2
+      },
+      "U": {
+        "5": 1,
+        "6": 1,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "BI": 6,
+      "BU": 5,
+      "DI": 6,
+      "DU": 5,
+      "GI": 3,
+      "GU": 3,
+      "IB": 1,
+      "IM": 2,
+      "IN": 1,
+      "MI": 7,
+      "MU": 1,
+      "NI": 1,
+      "NU": 2,
+      "UN": 3
+    }
+  }
+}

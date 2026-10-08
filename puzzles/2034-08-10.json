@@ -1,9 +1,9 @@
 {
   "pangram": "vetoing",
   "center_letter": "g",
-  "num_answers": 56,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 342,
+  "possible_points": 357,
   "answer_pangrams": [
     "vetoing"
   ],
@@ -12,6 +12,7 @@
     "eggnog",
     "engine",
     "evening",
+    "eventing",
     "geeing",
     "gene",
     "genie",
@@ -47,6 +48,7 @@
     "tenting",
     "tinge",
     "tingeing",
+    "tinging",
     "tinning",
     "tinting",
     "toeing",
@@ -71,24 +73,25 @@
       "4": 7,
       "5": 6,
       "6": 16,
-      "7": 17,
-      "8": 8,
+      "7": 18,
+      "8": 9,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "E": 4,
+      "E": 5,
       "G": 18,
       "I": 8,
       "N": 3,
       "O": 1,
-      "T": 14,
+      "T": 15,
       "V": 8
     },
     "grid": {
       "E": {
         "6": 3,
-        "7": 1
+        "7": 1,
+        "8": 1
       },
       "G": {
         "4": 6,
@@ -114,7 +117,7 @@
         "4": 1,
         "5": 1,
         "6": 4,
-        "7": 6,
+        "7": 7,
         "8": 2
       },
       "V": {
@@ -127,7 +130,7 @@
     "two_letter_list": {
       "EG": 2,
       "EN": 1,
-      "EV": 1,
+      "EV": 2,
       "GE": 7,
       "GI": 5,
       "GO": 6,
@@ -137,7 +140,7 @@
       "NO": 2,
       "ON": 1,
       "TE": 3,
-      "TI": 4,
+      "TI": 5,
       "TO": 7,
       "VE": 5,
       "VI": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "fueling",
   "center_letter": "f",
-  "num_answers": 45,
+  "num_answers": 46,
   "num_pangrams": 4,
-  "possible_points": 247,
+  "possible_points": 254,
   "answer_pangrams": [
     "engulfing",
     "fueling",
@@ -55,6 +55,7 @@
     "life",
     "lifeline",
     "luff",
+    "luffing",
     "unfeeling"
   ],
   "date": "2028-02-16",
@@ -63,7 +64,7 @@
       "4": 15,
       "5": 7,
       "6": 6,
-      "7": 8,
+      "7": 9,
       "8": 5,
       "9": 3,
       "10": 1
@@ -72,7 +73,7 @@
       "E": 3,
       "F": 34,
       "G": 4,
-      "L": 3,
+      "L": 4,
       "U": 1
     },
     "grid": {
@@ -97,6 +98,7 @@
       },
       "L": {
         "4": 2,
+        "7": 1,
         "8": 1
       },
       "U": {
@@ -113,7 +115,7 @@
       "GL": 1,
       "GU": 3,
       "LI": 2,
-      "LU": 1,
+      "LU": 2,
       "UN": 1
     }
   }

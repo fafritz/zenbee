@@ -1,9 +1,9 @@
 {
   "pangram": "unlaced",
   "center_letter": "c",
-  "num_answers": 64,
+  "num_answers": 67,
   "num_pangrams": 2,
-  "possible_points": 342,
+  "possible_points": 364,
   "answer_pangrams": [
     "uncalled",
     "unlaced"
@@ -16,6 +16,7 @@
     "adduce",
     "adduced",
     "cadence",
+    "cadenced",
     "call",
     "calla",
     "called",
@@ -30,6 +31,7 @@
     "canna",
     "canned",
     "cannula",
+    "cannulae",
     "canula",
     "caudal",
     "cede",
@@ -60,6 +62,7 @@
     "ducal",
     "dunce",
     "educe",
+    "educed",
     "lace",
     "laced",
     "lacuna",
@@ -79,16 +82,16 @@
     "by_length": {
       "4": 12,
       "5": 16,
-      "6": 20,
+      "6": 21,
       "7": 13,
-      "8": 2,
+      "8": 4,
       "9": 1
     },
     "by_first_letter": {
       "A": 6,
-      "C": 32,
+      "C": 34,
       "D": 12,
-      "E": 1,
+      "E": 2,
       "L": 6,
       "N": 2,
       "U": 5
@@ -104,7 +107,7 @@
         "5": 7,
         "6": 10,
         "7": 5,
-        "8": 1
+        "8": 3
       },
       "D": {
         "5": 5,
@@ -113,7 +116,8 @@
         "9": 1
       },
       "E": {
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "L": {
         "4": 1,
@@ -135,14 +139,14 @@
     "two_letter_list": {
       "AC": 4,
       "AD": 2,
-      "CA": 17,
+      "CA": 19,
       "CE": 4,
       "CL": 6,
       "CU": 5,
       "DA": 2,
       "DE": 8,
       "DU": 2,
-      "ED": 1,
+      "ED": 2,
       "LA": 6,
       "NU": 2,
       "UN": 5

@@ -1,9 +1,9 @@
 {
   "pangram": "captive",
   "center_letter": "i",
-  "num_answers": 29,
+  "num_answers": 30,
   "num_pangrams": 2,
-  "possible_points": 154,
+  "possible_points": 155,
   "answer_pangrams": [
     "captivate",
     "captive"
@@ -35,6 +35,7 @@
     "pita",
     "tacit",
     "tactic",
+    "tipi",
     "vice",
     "vitiate",
     "vivace"
@@ -42,7 +43,7 @@
   "date": "2031-02-12",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 8,
       "5": 8,
       "6": 9,
       "7": 2,
@@ -55,7 +56,7 @@
       "E": 2,
       "I": 1,
       "P": 7,
-      "T": 2,
+      "T": 3,
       "V": 3
     },
     "grid": {
@@ -84,6 +85,7 @@
         "6": 2
       },
       "T": {
+        "4": 1,
         "5": 1,
         "6": 1
       },
@@ -105,6 +107,7 @@
       "PE": 2,
       "PI": 5,
       "TA": 2,
+      "TI": 1,
       "VI": 3
     }
   }

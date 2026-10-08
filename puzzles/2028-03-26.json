@@ -1,9 +1,9 @@
 {
   "pangram": "melting",
   "center_letter": "g",
-  "num_answers": 77,
+  "num_answers": 79,
   "num_pangrams": 2,
-  "possible_points": 507,
+  "possible_points": 515,
   "answer_pangrams": [
     "gimleting",
     "melting"
@@ -16,6 +16,7 @@
     "entitling",
     "geeing",
     "gelling",
+    "gelt",
     "gene",
     "genie",
     "genii",
@@ -81,6 +82,7 @@
     "timing",
     "tinge",
     "tingeing",
+    "tinging",
     "tingle",
     "tingling",
     "tinning",
@@ -90,22 +92,22 @@
   "date": "2028-03-26",
   "hints": {
     "by_length": {
-      "4": 6,
+      "4": 7,
       "5": 6,
       "6": 22,
-      "7": 26,
+      "7": 27,
       "8": 12,
       "9": 4,
       "11": 1
     },
     "by_first_letter": {
       "E": 5,
-      "G": 25,
+      "G": 26,
       "I": 4,
       "L": 13,
       "M": 9,
       "N": 6,
-      "T": 15
+      "T": 16
     },
     "grid": {
       "E": {
@@ -114,7 +116,7 @@
         "9": 1
       },
       "G": {
-        "4": 6,
+        "4": 7,
         "5": 4,
         "6": 4,
         "7": 6,
@@ -146,7 +148,7 @@
       "T": {
         "5": 1,
         "6": 4,
-        "7": 8,
+        "7": 9,
         "8": 2
       }
     },
@@ -155,7 +157,7 @@
       "EG": 1,
       "EM": 1,
       "EN": 2,
-      "GE": 12,
+      "GE": 13,
       "GI": 9,
       "GL": 4,
       "IG": 2,
@@ -167,7 +169,7 @@
       "NE": 4,
       "NI": 2,
       "TE": 4,
-      "TI": 11
+      "TI": 12
     }
   }
 }

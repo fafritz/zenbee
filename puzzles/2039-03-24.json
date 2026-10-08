@@ -1,0 +1,142 @@
+{
+  "pangram": "chunked",
+  "center_letter": "e",
+  "num_answers": 53,
+  "num_pangrams": 2,
+  "possible_points": 254,
+  "answer_pangrams": [
+    "chunked",
+    "unchecked"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "check",
+    "checked",
+    "cheek",
+    "cheeked",
+    "chucked",
+    "chunked",
+    "cued",
+    "deck",
+    "decked",
+    "deduce",
+    "deduced",
+    "deed",
+    "deeded",
+    "denude",
+    "denuded",
+    "deuce",
+    "deuced",
+    "ducked",
+    "dude",
+    "duded",
+    "duke",
+    "dunce",
+    "dune",
+    "dunked",
+    "dunned",
+    "educe",
+    "educed",
+    "eked",
+    "ended",
+    "endued",
+    "heck",
+    "heed",
+    "heeded",
+    "hence",
+    "hunched",
+    "keen",
+    "keened",
+    "kenned",
+    "knee",
+    "kneed",
+    "neck",
+    "necked",
+    "need",
+    "needed",
+    "nene",
+    "nuke",
+    "nuked",
+    "unchecked",
+    "undue",
+    "unheeded",
+    "unneeded"
+  ],
+  "date": "2039-03-24",
+  "hints": {
+    "by_length": {
+      "4": 16,
+      "5": 12,
+      "6": 15,
+      "7": 7,
+      "8": 2,
+      "9": 1
+    },
+    "by_first_letter": {
+      "C": 9,
+      "D": 18,
+      "E": 5,
+      "H": 5,
+      "K": 5,
+      "N": 7,
+      "U": 4
+    },
+    "grid": {
+      "C": {
+        "4": 2,
+        "5": 3,
+        "7": 4
+      },
+      "D": {
+        "4": 5,
+        "5": 3,
+        "6": 8,
+        "7": 2
+      },
+      "E": {
+        "4": 1,
+        "5": 2,
+        "6": 2
+      },
+      "H": {
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "K": {
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "N": {
+        "4": 4,
+        "5": 1,
+        "6": 2
+      },
+      "U": {
+        "5": 1,
+        "8": 2,
+        "9": 1
+      }
+    },
+    "two_letter_list": {
+      "CE": 2,
+      "CH": 6,
+      "CU": 1,
+      "DE": 10,
+      "DU": 8,
+      "ED": 2,
+      "EK": 1,
+      "EN": 2,
+      "HE": 4,
+      "HU": 1,
+      "KE": 3,
+      "KN": 2,
+      "NE": 5,
+      "NU": 2,
+      "UN": 4
+    }
+  }
+}

@@ -1,9 +1,9 @@
 {
   "pangram": "include",
   "center_letter": "u",
-  "num_answers": 47,
+  "num_answers": 48,
   "num_pangrams": 2,
-  "possible_points": 244,
+  "possible_points": 250,
   "answer_pangrams": [
     "include",
     "included"
@@ -34,6 +34,7 @@
     "dune",
     "dunned",
     "educe",
+    "educed",
     "elude",
     "eluded",
     "endued",
@@ -62,7 +63,7 @@
     "by_length": {
       "4": 11,
       "5": 11,
-      "6": 15,
+      "6": 16,
       "7": 7,
       "8": 2,
       "9": 1
@@ -70,7 +71,7 @@
     "by_first_letter": {
       "C": 7,
       "D": 17,
-      "E": 5,
+      "E": 6,
       "I": 5,
       "L": 5,
       "N": 3,
@@ -91,7 +92,7 @@
       },
       "E": {
         "5": 3,
-        "6": 2
+        "6": 3
       },
       "I": {
         "6": 2,
@@ -119,7 +120,7 @@
       "CU": 5,
       "DE": 8,
       "DU": 9,
-      "ED": 1,
+      "ED": 2,
       "EL": 2,
       "EN": 2,
       "IN": 5,

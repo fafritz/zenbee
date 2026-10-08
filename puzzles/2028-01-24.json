@@ -1,9 +1,9 @@
 {
   "pangram": "echoing",
   "center_letter": "i",
-  "num_answers": 51,
+  "num_answers": 52,
   "num_pangrams": 1,
-  "possible_points": 278,
+  "possible_points": 284,
   "answer_pangrams": [
     "echoing"
   ],
@@ -22,6 +22,7 @@
     "coin",
     "coining",
     "conic",
+    "coning",
     "conning",
     "cooing",
     "echoing",
@@ -65,13 +66,13 @@
     "by_length": {
       "4": 9,
       "5": 14,
-      "6": 11,
+      "6": 12,
       "7": 12,
       "8": 3,
       "9": 2
     },
     "by_first_letter": {
-      "C": 16,
+      "C": 17,
       "E": 3,
       "G": 7,
       "H": 7,
@@ -83,7 +84,7 @@
       "C": {
         "4": 3,
         "5": 4,
-        "6": 2,
+        "6": 3,
         "7": 4,
         "8": 2,
         "9": 1
@@ -124,7 +125,7 @@
     "two_letter_list": {
       "CH": 6,
       "CI": 2,
-      "CO": 8,
+      "CO": 9,
       "EC": 1,
       "EG": 1,
       "EN": 1,

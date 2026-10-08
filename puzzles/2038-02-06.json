@@ -1,9 +1,9 @@
 {
   "pangram": "clouted",
   "center_letter": "t",
-  "num_answers": 62,
+  "num_answers": 63,
   "num_pangrams": 1,
-  "possible_points": 270,
+  "possible_points": 276,
   "answer_pangrams": [
     "clouted"
   ],
@@ -33,6 +33,7 @@
     "doted",
     "dotted",
     "duct",
+    "ducted",
     "duet",
     "dulcet",
     "elect",
@@ -76,14 +77,14 @@
     "by_length": {
       "4": 23,
       "5": 11,
-      "6": 17,
+      "6": 18,
       "7": 7,
       "8": 2,
       "9": 2
     },
     "by_first_letter": {
       "C": 13,
-      "D": 14,
+      "D": 15,
       "E": 4,
       "L": 6,
       "O": 6,
@@ -100,7 +101,7 @@
       "D": {
         "4": 4,
         "5": 1,
-        "6": 5,
+        "6": 6,
         "7": 1,
         "8": 2,
         "9": 1
@@ -132,7 +133,7 @@
       "CU": 4,
       "DE": 7,
       "DO": 4,
-      "DU": 3,
+      "DU": 4,
       "EL": 3,
       "ET": 1,
       "LE": 1,

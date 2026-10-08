@@ -1,9 +1,9 @@
 {
   "pangram": "jolting",
   "center_letter": "g",
-  "num_answers": 66,
+  "num_answers": 67,
   "num_pangrams": 1,
-  "possible_points": 419,
+  "possible_points": 426,
   "answer_pangrams": [
     "jolting"
   ],
@@ -59,6 +59,7 @@
     "tiling",
     "tilling",
     "tilting",
+    "tinging",
     "tingling",
     "tinning",
     "tinting",
@@ -81,7 +82,7 @@
       "4": 7,
       "5": 6,
       "6": 11,
-      "7": 27,
+      "7": 28,
       "8": 15
     },
     "by_first_letter": {
@@ -91,7 +92,7 @@
       "L": 12,
       "N": 3,
       "O": 3,
-      "T": 18
+      "T": 19
     },
     "grid": {
       "G": {
@@ -127,7 +128,7 @@
       "T": {
         "4": 1,
         "6": 3,
-        "7": 11,
+        "7": 12,
         "8": 3
       }
     },
@@ -146,7 +147,7 @@
       "OG": 1,
       "OI": 1,
       "ON": 1,
-      "TI": 7,
+      "TI": 8,
       "TO": 11
     }
   }

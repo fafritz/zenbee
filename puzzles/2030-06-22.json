@@ -1,9 +1,9 @@
 {
   "pangram": "factory",
   "center_letter": "o",
-  "num_answers": 35,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 136,
+  "possible_points": 137,
   "answer_pangrams": [
     "factory"
   ],
@@ -22,6 +22,7 @@
     "factor",
     "factory",
     "foot",
+    "fora",
     "foray",
     "fort",
     "forty",
@@ -47,7 +48,7 @@
   "date": "2030-06-22",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 16,
       "5": 9,
       "6": 8,
       "7": 3
@@ -55,7 +56,7 @@
     "by_first_letter": {
       "A": 4,
       "C": 7,
-      "F": 6,
+      "F": 7,
       "O": 2,
       "R": 6,
       "T": 10
@@ -71,7 +72,7 @@
         "6": 2
       },
       "F": {
-        "4": 2,
+        "4": 3,
         "5": 2,
         "6": 1,
         "7": 1
@@ -100,7 +101,7 @@
       "CA": 2,
       "CO": 5,
       "FA": 2,
-      "FO": 4,
+      "FO": 5,
       "OR": 2,
       "RO": 6,
       "TA": 4,
