@@ -1,15 +1,14 @@
 {
   "pangram": "homburg",
   "center_letter": "o",
-  "num_answers": 20,
+  "num_answers": 19,
   "num_pangrams": 1,
-  "possible_points": 76,
+  "possible_points": 75,
   "answer_pangrams": [
     "homburg"
   ],
   "answers": [
     "bomb",
-    "boob",
     "boom",
     "boor",
     "borough",
@@ -32,13 +31,13 @@
   "date": "2033-10-10",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 8,
       "5": 8,
       "6": 1,
       "7": 2
     },
     "by_first_letter": {
-      "B": 8,
+      "B": 7,
       "G": 3,
       "H": 5,
       "M": 1,
@@ -46,7 +45,7 @@
     },
     "grid": {
       "B": {
-        "4": 4,
+        "4": 3,
         "5": 3,
         "7": 1
       },
@@ -69,7 +68,7 @@
       }
     },
     "two_letter_list": {
-      "BO": 6,
+      "BO": 5,
       "BR": 1,
       "BU": 1,
       "GR": 2,

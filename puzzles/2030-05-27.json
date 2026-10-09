@@ -1,9 +1,9 @@
 {
   "pangram": "botched",
   "center_letter": "o",
-  "num_answers": 47,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 187,
+  "possible_points": 186,
   "answer_pangrams": [
     "botched"
   ],
@@ -12,7 +12,6 @@
     "bocce",
     "bode",
     "boded",
-    "boob",
     "booed",
     "boot",
     "booted",
@@ -59,14 +58,14 @@
   "date": "2030-05-27",
   "hints": {
     "by_length": {
-      "4": 19,
+      "4": 18,
       "5": 12,
       "6": 12,
       "7": 3,
       "8": 1
     },
     "by_first_letter": {
-      "B": 13,
+      "B": 12,
       "C": 6,
       "D": 6,
       "E": 2,
@@ -76,7 +75,7 @@
     },
     "grid": {
       "B": {
-        "4": 4,
+        "4": 3,
         "5": 5,
         "6": 3,
         "7": 1
@@ -113,7 +112,7 @@
       }
     },
     "two_letter_list": {
-      "BO": 13,
+      "BO": 12,
       "CO": 6,
       "DE": 2,
       "DO": 4,

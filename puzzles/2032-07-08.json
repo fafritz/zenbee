@@ -1,9 +1,9 @@
 {
   "pangram": "phonied",
   "center_letter": "p",
-  "num_answers": 56,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 248,
+  "possible_points": 242,
   "answer_pangrams": [
     "phonied"
   ],
@@ -61,7 +61,6 @@
     "pooh",
     "poohed",
     "poop",
-    "pooped",
     "pope",
     "popped"
   ],
@@ -70,7 +69,7 @@
     "by_length": {
       "4": 19,
       "5": 8,
-      "6": 24,
+      "6": 23,
       "7": 2,
       "8": 3
     },
@@ -80,7 +79,7 @@
       "H": 8,
       "N": 2,
       "O": 6,
-      "P": 31
+      "P": 30
     },
     "grid": {
       "D": {
@@ -110,7 +109,7 @@
       "P": {
         "4": 12,
         "5": 4,
-        "6": 13,
+        "6": 12,
         "7": 1,
         "8": 1
       }
@@ -128,7 +127,7 @@
       "PE": 9,
       "PH": 3,
       "PI": 10,
-      "PO": 9
+      "PO": 8
     }
   }
 }

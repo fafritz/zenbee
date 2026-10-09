@@ -1,14 +1,13 @@
 {
   "pangram": "brought",
   "center_letter": "b",
-  "num_answers": 20,
+  "num_answers": 19,
   "num_pangrams": 1,
-  "possible_points": 78,
+  "possible_points": 77,
   "answer_pangrams": [
     "brought"
   ],
   "answers": [
-    "boob",
     "boor",
     "boot",
     "booth",
@@ -32,13 +31,13 @@
   "date": "2036-09-08",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 8,
       "5": 6,
       "6": 3,
       "7": 2
     },
     "by_first_letter": {
-      "B": 14,
+      "B": 13,
       "G": 1,
       "H": 2,
       "R": 1,
@@ -46,7 +45,7 @@
     },
     "grid": {
       "B": {
-        "4": 7,
+        "4": 6,
         "5": 4,
         "6": 1,
         "7": 2
@@ -67,7 +66,7 @@
       }
     },
     "two_letter_list": {
-      "BO": 9,
+      "BO": 8,
       "BR": 2,
       "BU": 3,
       "GR": 1,

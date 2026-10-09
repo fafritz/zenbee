@@ -1,9 +1,9 @@
 {
   "pangram": "chomped",
   "center_letter": "o",
-  "num_answers": 66,
+  "num_answers": 65,
   "num_pangrams": 1,
-  "possible_points": 259,
+  "possible_points": 253,
   "answer_pangrams": [
     "chomped"
   ],
@@ -71,7 +71,6 @@
     "pooh",
     "poohed",
     "poop",
-    "pooped",
     "pope",
     "popped"
   ],
@@ -80,7 +79,7 @@
     "by_length": {
       "4": 27,
       "5": 16,
-      "6": 17,
+      "6": 16,
       "7": 5,
       "8": 1
     },
@@ -90,7 +89,7 @@
       "E": 3,
       "H": 13,
       "M": 11,
-      "P": 10
+      "P": 9
     },
     "grid": {
       "C": {
@@ -125,7 +124,7 @@
       "P": {
         "4": 5,
         "5": 1,
-        "6": 4
+        "6": 3
       }
     },
     "two_letter_list": {
@@ -138,7 +137,7 @@
       "HO": 13,
       "ME": 1,
       "MO": 10,
-      "PO": 10
+      "PO": 9
     }
   }
 }

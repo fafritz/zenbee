@@ -1,9 +1,9 @@
 {
   "pangram": "windbag",
   "center_letter": "d",
-  "num_answers": 29,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 158,
+  "possible_points": 157,
   "answer_pangrams": [
     "windbag"
   ],
@@ -28,7 +28,6 @@
     "dining",
     "dinning",
     "gadding",
-    "ibid",
     "naiad",
     "wadding",
     "wadi",
@@ -41,7 +40,7 @@
   "date": "2037-07-26",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 7,
       "5": 1,
       "6": 5,
       "7": 13,
@@ -53,7 +52,6 @@
       "B": 8,
       "D": 8,
       "G": 1,
-      "I": 1,
       "N": 1,
       "W": 7
     },
@@ -77,9 +75,6 @@
       "G": {
         "7": 1
       },
-      "I": {
-        "4": 1
-      },
       "N": {
         "5": 1
       },
@@ -98,7 +93,6 @@
       "DA": 3,
       "DI": 5,
       "GA": 1,
-      "IB": 1,
       "NA": 1,
       "WA": 4,
       "WI": 3

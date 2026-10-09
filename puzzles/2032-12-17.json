@@ -1,9 +1,9 @@
 {
   "pangram": "dumbing",
   "center_letter": "d",
-  "num_answers": 27,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 156,
+  "possible_points": 155,
   "answer_pangrams": [
     "dumbing"
   ],
@@ -28,7 +28,6 @@
     "dunging",
     "dunning",
     "guiding",
-    "ibid",
     "mind",
     "minding",
     "nudging",
@@ -39,7 +38,7 @@
   "date": "2032-12-17",
   "hints": {
     "by_length": {
-      "4": 6,
+      "4": 5,
       "5": 1,
       "6": 4,
       "7": 15,
@@ -49,7 +48,6 @@
       "B": 6,
       "D": 13,
       "G": 1,
-      "I": 1,
       "M": 2,
       "N": 1,
       "U": 3
@@ -67,9 +65,6 @@
       },
       "G": {
         "7": 1
-      },
-      "I": {
-        "4": 1
       },
       "M": {
         "4": 1,
@@ -90,7 +85,6 @@
       "DI": 6,
       "DU": 7,
       "GU": 1,
-      "IB": 1,
       "MI": 2,
       "NU": 1,
       "UN": 3

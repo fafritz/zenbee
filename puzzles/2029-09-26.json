@@ -1,9 +1,9 @@
 {
   "pangram": "obeying",
   "center_letter": "n",
-  "num_answers": 58,
+  "num_answers": 59,
   "num_pangrams": 2,
-  "possible_points": 301,
+  "possible_points": 302,
   "answer_pangrams": [
     "bogeying",
     "obeying"
@@ -63,6 +63,7 @@
     "ninny",
     "noggin",
     "none",
+    "noob",
     "noon",
     "obeying",
     "ongoing",
@@ -71,7 +72,7 @@
   "date": "2029-09-26",
   "hints": {
     "by_length": {
-      "4": 14,
+      "4": 15,
       "5": 12,
       "6": 17,
       "7": 11,
@@ -83,7 +84,7 @@
       "E": 6,
       "G": 13,
       "I": 1,
-      "N": 7,
+      "N": 8,
       "O": 3
     },
     "grid": {
@@ -109,7 +110,7 @@
         "6": 1
       },
       "N": {
-        "4": 5,
+        "4": 6,
         "5": 1,
         "6": 1
       },
@@ -133,7 +134,7 @@
       "IN": 1,
       "NE": 2,
       "NI": 2,
-      "NO": 3,
+      "NO": 4,
       "OB": 1,
       "ON": 2
     }

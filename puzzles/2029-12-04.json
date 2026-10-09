@@ -1,9 +1,9 @@
 {
   "pangram": "pouched",
   "center_letter": "p",
-  "num_answers": 40,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 165,
+  "possible_points": 159,
   "answer_pangrams": [
     "pouched"
   ],
@@ -41,7 +41,6 @@
     "pooh",
     "poohed",
     "poop",
-    "pooped",
     "pope",
     "popped",
     "pouch",
@@ -54,7 +53,7 @@
     "by_length": {
       "4": 15,
       "5": 10,
-      "6": 12,
+      "6": 11,
       "7": 3
     },
     "by_first_letter": {
@@ -62,7 +61,7 @@
       "D": 5,
       "E": 2,
       "H": 5,
-      "P": 15,
+      "P": 14,
       "U": 1
     },
     "grid": {
@@ -88,7 +87,7 @@
       "P": {
         "4": 5,
         "5": 2,
-        "6": 7,
+        "6": 6,
         "7": 1
       },
       "U": {
@@ -105,7 +104,7 @@
       "EP": 2,
       "HO": 5,
       "PE": 4,
-      "PO": 10,
+      "PO": 9,
       "PU": 1,
       "UP": 1
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "bawdily",
   "center_letter": "b",
-  "num_answers": 23,
+  "num_answers": 22,
   "num_pangrams": 1,
-  "possible_points": 89,
+  "possible_points": 88,
   "answer_pangrams": [
     "bawdily"
   ],
@@ -27,7 +27,6 @@
     "blab",
     "bylaw",
     "byway",
-    "ibid",
     "labia",
     "labial",
     "wallaby"
@@ -35,7 +34,7 @@
   "date": "2027-03-17",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 9,
       "5": 8,
       "6": 3,
       "7": 2
@@ -43,7 +42,6 @@
     "by_first_letter": {
       "A": 2,
       "B": 17,
-      "I": 1,
       "L": 2,
       "W": 1
     },
@@ -57,9 +55,6 @@
         "5": 6,
         "6": 2,
         "7": 1
-      },
-      "I": {
-        "4": 1
       },
       "L": {
         "5": 1,
@@ -76,7 +71,6 @@
       "BI": 3,
       "BL": 1,
       "BY": 2,
-      "IB": 1,
       "LA": 2,
       "WA": 1
     }

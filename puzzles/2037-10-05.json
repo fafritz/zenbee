@@ -1,9 +1,9 @@
 {
   "pangram": "daubing",
   "center_letter": "d",
-  "num_answers": 35,
+  "num_answers": 34,
   "num_pangrams": 1,
-  "possible_points": 205,
+  "possible_points": 204,
   "answer_pangrams": [
     "daubing"
   ],
@@ -37,7 +37,6 @@
     "dunning",
     "gadding",
     "guiding",
-    "ibid",
     "naiad",
     "nudging",
     "unbind",
@@ -47,7 +46,7 @@
   "date": "2037-10-05",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 6,
       "5": 2,
       "6": 6,
       "7": 17,
@@ -59,7 +58,6 @@
       "B": 11,
       "D": 13,
       "G": 2,
-      "I": 1,
       "N": 2,
       "U": 3
     },
@@ -83,9 +81,6 @@
       "G": {
         "7": 2
       },
-      "I": {
-        "4": 1
-      },
       "N": {
         "5": 1,
         "7": 1
@@ -108,7 +103,6 @@
       "DU": 5,
       "GA": 1,
       "GU": 1,
-      "IB": 1,
       "NA": 1,
       "NU": 1,
       "UN": 3

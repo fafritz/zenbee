@@ -1,9 +1,9 @@
 {
   "pangram": "caribou",
   "center_letter": "o",
-  "num_answers": 21,
+  "num_answers": 20,
   "num_pangrams": 1,
-  "possible_points": 92,
+  "possible_points": 91,
   "answer_pangrams": [
     "caribou"
   ],
@@ -14,7 +14,6 @@
     "barrio",
     "boar",
     "boba",
-    "boob",
     "boor",
     "brio",
     "burro",
@@ -33,7 +32,7 @@
   "date": "2033-04-28",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 6,
       "5": 9,
       "6": 3,
       "7": 1,
@@ -41,7 +40,7 @@
     },
     "by_first_letter": {
       "A": 1,
-      "B": 9,
+      "B": 8,
       "C": 8,
       "O": 1,
       "R": 2
@@ -51,7 +50,7 @@
         "5": 1
       },
       "B": {
-        "4": 5,
+        "4": 4,
         "5": 1,
         "6": 2,
         "8": 1
@@ -72,7 +71,7 @@
     "two_letter_list": {
       "AR": 1,
       "BA": 3,
-      "BO": 4,
+      "BO": 3,
       "BR": 1,
       "BU": 1,
       "CA": 3,

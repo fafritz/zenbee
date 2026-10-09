@@ -1,9 +1,9 @@
 {
   "pangram": "poached",
   "center_letter": "p",
-  "num_answers": 50,
+  "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 198,
+  "possible_points": 192,
   "answer_pangrams": [
     "poached"
   ],
@@ -55,7 +55,6 @@
     "pooh",
     "poohed",
     "poop",
-    "pooped",
     "pope",
     "popped"
   ],
@@ -64,7 +63,7 @@
     "by_length": {
       "4": 20,
       "5": 13,
-      "6": 13,
+      "6": 12,
       "7": 4
     },
     "by_first_letter": {
@@ -73,7 +72,7 @@
       "D": 3,
       "E": 2,
       "H": 7,
-      "P": 20
+      "P": 19
     },
     "grid": {
       "A": {
@@ -102,7 +101,7 @@
       "P": {
         "4": 7,
         "5": 5,
-        "6": 7,
+        "6": 6,
         "7": 1
       }
     },
@@ -118,7 +117,7 @@
       "HO": 5,
       "PA": 4,
       "PE": 6,
-      "PO": 10
+      "PO": 9
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "pangram": "bronchi",
   "center_letter": "n",
-  "num_answers": 38,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 166,
+  "possible_points": 167,
   "answer_pangrams": [
     "bronchi"
   ],
@@ -39,6 +39,7 @@
     "iron",
     "ironic",
     "noir",
+    "noob",
     "noon",
     "nori",
     "onion",
@@ -50,7 +51,7 @@
   "date": "2032-07-09",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 13,
       "5": 12,
       "6": 11,
       "7": 3
@@ -60,7 +61,7 @@
       "C": 11,
       "H": 4,
       "I": 7,
-      "N": 3,
+      "N": 4,
       "O": 1,
       "R": 4
     },
@@ -88,7 +89,7 @@
         "6": 3
       },
       "N": {
-        "4": 3
+        "4": 4
       },
       "O": {
         "5": 1
@@ -111,7 +112,7 @@
       "IN": 2,
       "IO": 1,
       "IR": 2,
-      "NO": 3,
+      "NO": 4,
       "ON": 1,
       "RH": 1,
       "RI": 1,

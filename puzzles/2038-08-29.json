@@ -1,14 +1,13 @@
 {
   "pangram": "cowbird",
   "center_letter": "o",
-  "num_answers": 21,
+  "num_answers": 20,
   "num_pangrams": 1,
-  "possible_points": 71,
+  "possible_points": 70,
   "answer_pangrams": [
     "cowbird"
   ],
   "answers": [
-    "boob",
     "boor",
     "borrow",
     "brio",
@@ -33,14 +32,14 @@
   "date": "2038-08-29",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 11,
       "5": 5,
       "6": 2,
       "7": 1,
       "8": 1
     },
     "by_first_letter": {
-      "B": 6,
+      "B": 5,
       "C": 6,
       "D": 3,
       "O": 1,
@@ -49,7 +48,7 @@
     },
     "grid": {
       "B": {
-        "4": 4,
+        "4": 3,
         "5": 1,
         "6": 1
       },
@@ -76,7 +75,7 @@
       }
     },
     "two_letter_list": {
-      "BO": 3,
+      "BO": 2,
       "BR": 3,
       "CO": 4,
       "CR": 2,

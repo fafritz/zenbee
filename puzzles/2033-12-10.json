@@ -1,15 +1,14 @@
 {
   "pangram": "probity",
   "center_letter": "o",
-  "num_answers": 34,
+  "num_answers": 33,
   "num_pangrams": 1,
-  "possible_points": 109,
+  "possible_points": 108,
   "answer_pangrams": [
     "probity"
   ],
   "answers": [
     "bobby",
-    "boob",
     "booby",
     "boor",
     "boot",
@@ -46,14 +45,14 @@
   "date": "2033-12-10",
   "hints": {
     "by_length": {
-      "4": 19,
+      "4": 18,
       "5": 10,
       "6": 3,
       "7": 1,
       "8": 1
     },
     "by_first_letter": {
-      "B": 7,
+      "B": 6,
       "O": 2,
       "P": 10,
       "R": 5,
@@ -61,7 +60,7 @@
     },
     "grid": {
       "B": {
-        "4": 4,
+        "4": 3,
         "5": 3
       },
       "O": {
@@ -86,7 +85,7 @@
       }
     },
     "two_letter_list": {
-      "BO": 6,
+      "BO": 5,
       "BR": 1,
       "OB": 1,
       "OR": 1,

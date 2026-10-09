@@ -1,9 +1,9 @@
 {
   "pangram": "upbraid",
   "center_letter": "b",
-  "num_answers": 17,
+  "num_answers": 16,
   "num_pangrams": 1,
-  "possible_points": 46,
+  "possible_points": 45,
   "answer_pangrams": [
     "upbraid"
   ],
@@ -21,7 +21,6 @@
     "daub",
     "drab",
     "drub",
-    "ibid",
     "rabbi",
     "rabid",
     "upbraid"
@@ -29,14 +28,13 @@
   "date": "2030-06-27",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 11,
       "5": 4,
       "7": 1
     },
     "by_first_letter": {
       "B": 10,
       "D": 3,
-      "I": 1,
       "R": 2,
       "U": 1
     },
@@ -47,9 +45,6 @@
       },
       "D": {
         "4": 3
-      },
-      "I": {
-        "4": 1
       },
       "R": {
         "5": 2
@@ -65,7 +60,6 @@
       "BU": 2,
       "DA": 1,
       "DR": 2,
-      "IB": 1,
       "RA": 2,
       "UP": 1
     }

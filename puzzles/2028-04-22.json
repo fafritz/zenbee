@@ -1,9 +1,9 @@
 {
   "pangram": "mailbox",
   "center_letter": "b",
-  "num_answers": 27,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 80,
+  "possible_points": 79,
   "answer_pangrams": [
     "mailbox"
   ],
@@ -25,7 +25,6 @@
     "bola",
     "boll",
     "bomb",
-    "boob",
     "boom",
     "iamb",
     "labia",
@@ -39,14 +38,14 @@
   "date": "2028-04-22",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 16,
       "5": 5,
       "6": 4,
       "7": 1
     },
     "by_first_letter": {
       "A": 2,
-      "B": 17,
+      "B": 16,
       "I": 1,
       "L": 5,
       "M": 2
@@ -57,7 +56,7 @@
         "6": 1
       },
       "B": {
-        "4": 14,
+        "4": 13,
         "5": 1,
         "6": 2
       },
@@ -80,7 +79,7 @@
       "BA": 6,
       "BI": 1,
       "BL": 3,
-      "BO": 7,
+      "BO": 6,
       "IA": 1,
       "LA": 3,
       "LI": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "pivoted",
   "center_letter": "p",
-  "num_answers": 43,
+  "num_answers": 42,
   "num_pangrams": 1,
-  "possible_points": 198,
+  "possible_points": 192,
   "answer_pangrams": [
     "pivoted"
   ],
@@ -36,7 +36,6 @@
     "podded",
     "poet",
     "poop",
-    "pooped",
     "pope",
     "popped",
     "potpie",
@@ -57,14 +56,14 @@
     "by_length": {
       "4": 12,
       "5": 9,
-      "6": 20,
+      "6": 19,
       "7": 2
     },
     "by_first_letter": {
       "D": 5,
       "E": 1,
       "O": 2,
-      "P": 25,
+      "P": 24,
       "T": 9,
       "V": 1
     },
@@ -84,7 +83,7 @@
       "P": {
         "4": 7,
         "5": 4,
-        "6": 13,
+        "6": 12,
         "7": 1
       },
       "T": {
@@ -105,7 +104,7 @@
       "OP": 2,
       "PE": 8,
       "PI": 9,
-      "PO": 8,
+      "PO": 7,
       "TE": 3,
       "TI": 5,
       "TO": 1,

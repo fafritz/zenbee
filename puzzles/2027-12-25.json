@@ -1,9 +1,9 @@
 {
   "pangram": "blotchy",
   "center_letter": "b",
-  "num_answers": 20,
+  "num_answers": 19,
   "num_pangrams": 1,
-  "possible_points": 80,
+  "possible_points": 79,
   "answer_pangrams": [
     "blotchy"
   ],
@@ -16,7 +16,6 @@
     "bobby",
     "boll",
     "bolt",
-    "boob",
     "booby",
     "boot",
     "booth",
@@ -32,21 +31,21 @@
   "date": "2027-12-25",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 8,
       "5": 7,
       "6": 1,
       "7": 2,
       "9": 1
     },
     "by_first_letter": {
-      "B": 16,
+      "B": 15,
       "H": 2,
       "L": 1,
       "T": 1
     },
     "grid": {
       "B": {
-        "4": 8,
+        "4": 7,
         "5": 5,
         "6": 1,
         "7": 2
@@ -64,7 +63,7 @@
     },
     "two_letter_list": {
       "BL": 5,
-      "BO": 11,
+      "BO": 10,
       "HO": 2,
       "LO": 1,
       "TO": 1

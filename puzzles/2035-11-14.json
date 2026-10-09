@@ -20,7 +20,6 @@
     "bonging",
     "bongo",
     "boning",
-    "boob",
     "booing",
     "boon",
     "boor",
@@ -37,6 +36,7 @@
     "gibbon",
     "gibing",
     "inborn",
+    "noob",
     "probing",
     "ribbing",
     "ribbon",
@@ -54,15 +54,16 @@
       "8": 1
     },
     "by_first_letter": {
-      "B": 26,
+      "B": 25,
       "G": 2,
       "I": 1,
+      "N": 1,
       "P": 1,
       "R": 5
     },
     "grid": {
       "B": {
-        "4": 7,
+        "4": 6,
         "5": 5,
         "6": 5,
         "7": 8,
@@ -73,6 +74,9 @@
       },
       "I": {
         "6": 1
+      },
+      "N": {
+        "4": 1
       },
       "P": {
         "7": 1
@@ -85,10 +89,11 @@
     },
     "two_letter_list": {
       "BI": 3,
-      "BO": 17,
+      "BO": 16,
       "BR": 6,
       "GI": 2,
       "IN": 1,
+      "NO": 1,
       "PR": 1,
       "RI": 2,
       "RO": 3

@@ -1,9 +1,9 @@
 {
   "pangram": "blitzed",
   "center_letter": "b",
-  "num_answers": 39,
+  "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 201,
+  "possible_points": 200,
   "answer_pangrams": [
     "blitzed"
   ],
@@ -43,7 +43,6 @@
     "dibbled",
     "ebbed",
     "edible",
-    "ibid",
     "libel",
     "libeled",
     "tidbit"
@@ -51,7 +50,7 @@
   "date": "2034-08-31",
   "hints": {
     "by_length": {
-      "4": 9,
+      "4": 8,
       "5": 9,
       "6": 11,
       "7": 7,
@@ -62,7 +61,6 @@
       "B": 28,
       "D": 5,
       "E": 2,
-      "I": 1,
       "L": 2,
       "T": 1
     },
@@ -85,9 +83,6 @@
         "5": 1,
         "6": 1
       },
-      "I": {
-        "4": 1
-      },
       "L": {
         "5": 1,
         "7": 1
@@ -104,7 +99,6 @@
       "DI": 2,
       "EB": 1,
       "ED": 1,
-      "IB": 1,
       "LI": 2,
       "TI": 1
     }

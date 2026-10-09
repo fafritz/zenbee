@@ -1,9 +1,9 @@
 {
   "pangram": "parboil",
   "center_letter": "b",
-  "num_answers": 29,
+  "num_answers": 28,
   "num_pangrams": 2,
-  "possible_points": 105,
+  "possible_points": 104,
   "answer_pangrams": [
     "bipolar",
     "parboil"
@@ -27,7 +27,6 @@
     "boil",
     "bola",
     "boll",
-    "boob",
     "boor",
     "briar",
     "brio",
@@ -42,7 +41,7 @@
   "date": "2035-02-02",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 15,
       "5": 7,
       "6": 3,
       "7": 2,
@@ -50,7 +49,7 @@
     },
     "by_first_letter": {
       "A": 2,
-      "B": 21,
+      "B": 20,
       "L": 3,
       "P": 2,
       "R": 1
@@ -60,7 +59,7 @@
         "5": 2
       },
       "B": {
-        "4": 16,
+        "4": 15,
         "5": 2,
         "6": 2,
         "7": 1
@@ -83,7 +82,7 @@
       "BA": 6,
       "BI": 2,
       "BL": 3,
-      "BO": 7,
+      "BO": 6,
       "BR": 3,
       "LA": 3,
       "PA": 2,

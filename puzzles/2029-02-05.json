@@ -1,9 +1,9 @@
 {
   "pangram": "catbird",
   "center_letter": "b",
-  "num_answers": 24,
+  "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 103,
+  "possible_points": 102,
   "answer_pangrams": [
     "catbird"
   ],
@@ -26,7 +26,6 @@
     "crab",
     "crib",
     "drab",
-    "ibid",
     "rabbi",
     "rabbit",
     "rabid",
@@ -36,7 +35,7 @@
   "date": "2029-02-05",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 10,
       "5": 6,
       "6": 2,
       "7": 1,
@@ -49,7 +48,6 @@
       "B": 11,
       "C": 4,
       "D": 1,
-      "I": 1,
       "R": 3,
       "T": 2
     },
@@ -71,9 +69,6 @@
       "D": {
         "4": 1
       },
-      "I": {
-        "4": 1
-      },
       "R": {
         "5": 2,
         "6": 1
@@ -93,7 +88,6 @@
       "CI": 1,
       "CR": 2,
       "DR": 1,
-      "IB": 1,
       "RA": 3,
       "TI": 2
     }

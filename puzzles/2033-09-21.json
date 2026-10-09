@@ -1,14 +1,13 @@
 {
   "pangram": "burdock",
   "center_letter": "o",
-  "num_answers": 25,
+  "num_answers": 24,
   "num_pangrams": 1,
-  "possible_points": 79,
+  "possible_points": 78,
   "answer_pangrams": [
     "burdock"
   ],
   "answers": [
-    "boob",
     "book",
     "boor",
     "brood",
@@ -37,14 +36,14 @@
   "date": "2033-09-21",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 14,
       "5": 6,
       "6": 2,
       "7": 1,
       "8": 1
     },
     "by_first_letter": {
-      "B": 7,
+      "B": 6,
       "C": 7,
       "D": 4,
       "K": 1,
@@ -53,7 +52,7 @@
     },
     "grid": {
       "B": {
-        "4": 3,
+        "4": 2,
         "5": 3,
         "7": 1
       },
@@ -79,7 +78,7 @@
       }
     },
     "two_letter_list": {
-      "BO": 3,
+      "BO": 2,
       "BR": 2,
       "BU": 2,
       "CO": 4,

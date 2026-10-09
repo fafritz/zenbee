@@ -10,7 +10,6 @@
   "answers": [
     "bonbon",
     "bond",
-    "boob",
     "boon",
     "boor",
     "born",
@@ -26,6 +25,7 @@
     "burro",
     "burrow",
     "drub",
+    "noob",
     "rubdown",
     "unborn",
     "unbound"
@@ -39,19 +39,23 @@
       "7": 3
     },
     "by_first_letter": {
-      "B": 17,
+      "B": 16,
       "D": 1,
+      "N": 1,
       "R": 1,
       "U": 2
     },
     "grid": {
       "B": {
-        "4": 8,
+        "4": 7,
         "5": 5,
         "6": 3,
         "7": 1
       },
       "D": {
+        "4": 1
+      },
+      "N": {
         "4": 1
       },
       "R": {
@@ -63,10 +67,11 @@
       }
     },
     "two_letter_list": {
-      "BO": 10,
+      "BO": 9,
       "BR": 3,
       "BU": 4,
       "DR": 1,
+      "NO": 1,
       "RU": 1,
       "UN": 2
     }

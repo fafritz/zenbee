@@ -1,9 +1,9 @@
 {
   "pangram": "bigotry",
   "center_letter": "o",
-  "num_answers": 30,
+  "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 89,
+  "possible_points": 88,
   "answer_pangrams": [
     "bigotry"
   ],
@@ -12,7 +12,6 @@
     "bigotry",
     "bobby",
     "boggy",
-    "boob",
     "booby",
     "boor",
     "boot",
@@ -42,13 +41,13 @@
   "date": "2031-02-04",
   "hints": {
     "by_length": {
-      "4": 18,
+      "4": 17,
       "5": 9,
       "6": 2,
       "7": 1
     },
     "by_first_letter": {
-      "B": 10,
+      "B": 9,
       "G": 5,
       "O": 2,
       "R": 6,
@@ -57,7 +56,7 @@
     },
     "grid": {
       "B": {
-        "4": 4,
+        "4": 3,
         "5": 5,
         "7": 1
       },
@@ -82,7 +81,7 @@
     },
     "two_letter_list": {
       "BI": 2,
-      "BO": 7,
+      "BO": 6,
       "BR": 1,
       "GO": 1,
       "GR": 3,

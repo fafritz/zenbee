@@ -1,9 +1,9 @@
 {
   "pangram": "tabloid",
   "center_letter": "b",
-  "num_answers": 39,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 131,
+  "possible_points": 129,
   "answer_pangrams": [
     "tabloid"
   ],
@@ -34,9 +34,7 @@
     "bold",
     "boll",
     "bolt",
-    "boob",
     "boot",
-    "ibid",
     "labia",
     "labial",
     "libido",
@@ -51,15 +49,14 @@
   "date": "2034-06-03",
   "hints": {
     "by_length": {
-      "4": 21,
+      "4": 19,
       "5": 8,
       "6": 7,
       "7": 3
     },
     "by_first_letter": {
       "A": 2,
-      "B": 26,
-      "I": 1,
+      "B": 25,
       "L": 3,
       "O": 2,
       "T": 5
@@ -69,13 +66,10 @@
         "5": 2
       },
       "B": {
-        "4": 19,
+        "4": 18,
         "5": 3,
         "6": 3,
         "7": 1
-      },
-      "I": {
-        "4": 1
       },
       "L": {
         "5": 1,
@@ -97,8 +91,7 @@
       "BA": 8,
       "BI": 2,
       "BL": 6,
-      "BO": 10,
-      "IB": 1,
+      "BO": 9,
       "LA": 2,
       "LI": 1,
       "OB": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "balcony",
   "center_letter": "n",
-  "num_answers": 38,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 172,
+  "possible_points": 173,
   "answer_pangrams": [
     "balcony"
   ],
@@ -43,6 +43,7 @@
     "nana",
     "nanny",
     "nobly",
+    "noob",
     "noon",
     "nylon",
     "only"
@@ -50,7 +51,7 @@
   "date": "2037-12-13",
   "hints": {
     "by_length": {
-      "4": 11,
+      "4": 12,
       "5": 14,
       "6": 10,
       "7": 2,
@@ -61,7 +62,7 @@
       "B": 10,
       "C": 14,
       "L": 4,
-      "N": 7,
+      "N": 8,
       "O": 1
     },
     "grid": {
@@ -86,7 +87,7 @@
         "5": 2
       },
       "N": {
-        "4": 3,
+        "4": 4,
         "5": 4
       },
       "O": {
@@ -104,7 +105,7 @@
       "LL": 1,
       "LO": 3,
       "NA": 4,
-      "NO": 2,
+      "NO": 3,
       "NY": 1,
       "ON": 1
     }

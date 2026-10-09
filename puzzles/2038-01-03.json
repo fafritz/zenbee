@@ -1,9 +1,9 @@
 {
   "pangram": "obliged",
   "center_letter": "o",
-  "num_answers": 78,
+  "num_answers": 77,
   "num_pangrams": 1,
-  "possible_points": 348,
+  "possible_points": 347,
   "answer_pangrams": [
     "obliged"
   ],
@@ -31,7 +31,6 @@
     "bold",
     "bole",
     "boll",
-    "boob",
     "boodle",
     "booed",
     "boogie",
@@ -90,14 +89,14 @@
   "date": "2038-01-03",
   "hints": {
     "by_length": {
-      "4": 25,
+      "4": 24,
       "5": 16,
       "6": 24,
       "7": 12,
       "8": 1
     },
     "by_first_letter": {
-      "B": 28,
+      "B": 27,
       "D": 13,
       "G": 13,
       "I": 2,
@@ -106,7 +105,7 @@
     },
     "grid": {
       "B": {
-        "4": 8,
+        "4": 7,
         "5": 4,
         "6": 9,
         "7": 6,
@@ -143,7 +142,7 @@
     },
     "two_letter_list": {
       "BL": 7,
-      "BO": 21,
+      "BO": 20,
       "DI": 1,
       "DO": 12,
       "GE": 1,

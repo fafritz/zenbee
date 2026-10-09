@@ -1,9 +1,9 @@
 {
   "pangram": "blocked",
   "center_letter": "b",
-  "num_answers": 37,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 169,
+  "possible_points": 168,
   "answer_pangrams": [
     "blocked"
   ],
@@ -32,7 +32,6 @@
     "bold",
     "bole",
     "boll",
-    "boob",
     "boodle",
     "booed",
     "book",
@@ -49,14 +48,14 @@
   "date": "2027-05-25",
   "hints": {
     "by_length": {
-      "4": 12,
+      "4": 11,
       "5": 9,
       "6": 9,
       "7": 5,
       "8": 2
     },
     "by_first_letter": {
-      "B": 29,
+      "B": 28,
       "C": 3,
       "E": 1,
       "L": 3,
@@ -64,7 +63,7 @@
     },
     "grid": {
       "B": {
-        "4": 10,
+        "4": 9,
         "5": 7,
         "6": 7,
         "7": 4,
@@ -90,7 +89,7 @@
     "two_letter_list": {
       "BE": 6,
       "BL": 9,
-      "BO": 14,
+      "BO": 13,
       "CO": 3,
       "EB": 1,
       "LO": 3,

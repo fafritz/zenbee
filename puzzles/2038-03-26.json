@@ -1,9 +1,9 @@
 {
   "pangram": "expound",
   "center_letter": "p",
-  "num_answers": 43,
+  "num_answers": 42,
   "num_pangrams": 2,
-  "possible_points": 200,
+  "possible_points": 194,
   "answer_pangrams": [
     "expound",
     "expounded"
@@ -40,7 +40,6 @@
     "pond",
     "pone",
     "poop",
-    "pooped",
     "pope",
     "popped",
     "pound",
@@ -58,7 +57,7 @@
     "by_length": {
       "4": 16,
       "5": 6,
-      "6": 13,
+      "6": 12,
       "7": 3,
       "8": 4,
       "9": 1
@@ -68,7 +67,7 @@
       "E": 6,
       "N": 1,
       "O": 2,
-      "P": 20,
+      "P": 19,
       "U": 5
     },
     "grid": {
@@ -95,7 +94,7 @@
       "P": {
         "4": 8,
         "5": 2,
-        "6": 9,
+        "6": 8,
         "7": 1
       },
       "U": {
@@ -114,7 +113,7 @@
       "NO": 1,
       "OP": 2,
       "PE": 9,
-      "PO": 9,
+      "PO": 8,
       "PU": 2,
       "UN": 1,
       "UP": 4

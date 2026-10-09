@@ -1,9 +1,9 @@
 {
   "pangram": "implode",
   "center_letter": "o",
-  "num_answers": 81,
+  "num_answers": 80,
   "num_pangrams": 2,
-  "possible_points": 334,
+  "possible_points": 328,
   "answer_pangrams": [
     "implode",
     "imploded"
@@ -87,7 +87,6 @@
     "pool",
     "pooled",
     "poop",
-    "pooped",
     "pope",
     "popped"
   ],
@@ -96,7 +95,7 @@
     "by_length": {
       "4": 33,
       "5": 15,
-      "6": 23,
+      "6": 22,
       "7": 6,
       "8": 4
     },
@@ -107,7 +106,7 @@
       "L": 12,
       "M": 15,
       "O": 5,
-      "P": 24
+      "P": 23
     },
     "grid": {
       "D": {
@@ -147,7 +146,7 @@
       "P": {
         "4": 10,
         "5": 2,
-        "6": 8,
+        "6": 7,
         "7": 3,
         "8": 1
       }
@@ -168,7 +167,7 @@
       "OP": 1,
       "PE": 2,
       "PL": 4,
-      "PO": 18
+      "PO": 17
     }
   }
 }

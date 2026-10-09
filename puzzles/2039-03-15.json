@@ -1,9 +1,9 @@
 {
   "pangram": "dumbing",
   "center_letter": "b",
-  "num_answers": 24,
+  "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 143,
+  "possible_points": 142,
   "answer_pangrams": [
     "dumbing"
   ],
@@ -24,7 +24,6 @@
     "dumb",
     "dumbing",
     "gibing",
-    "ibid",
     "imbibing",
     "imbuing",
     "nimbi",
@@ -36,7 +35,7 @@
   "date": "2039-03-15",
   "hints": {
     "by_length": {
-      "4": 5,
+      "4": 4,
       "5": 1,
       "6": 3,
       "7": 13,
@@ -47,7 +46,7 @@
       "B": 12,
       "D": 3,
       "G": 1,
-      "I": 3,
+      "I": 2,
       "N": 3,
       "U": 2
     },
@@ -65,7 +64,6 @@
         "6": 1
       },
       "I": {
-        "4": 1,
         "7": 1,
         "8": 1
       },
@@ -84,7 +82,6 @@
       "BU": 6,
       "DU": 3,
       "GI": 1,
-      "IB": 1,
       "IM": 2,
       "NI": 1,
       "NU": 2,

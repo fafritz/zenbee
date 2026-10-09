@@ -1,9 +1,9 @@
 {
   "pangram": "bigoted",
   "center_letter": "b",
-  "num_answers": 39,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 186,
+  "possible_points": 184,
   "answer_pangrams": [
     "bigoted"
   ],
@@ -28,7 +28,6 @@
     "bogged",
     "bogie",
     "bogied",
-    "boob",
     "booed",
     "boogie",
     "boogied",
@@ -43,7 +42,6 @@
     "gibbeted",
     "gibe",
     "gibed",
-    "ibid",
     "obit",
     "oboe",
     "tidbit"
@@ -51,24 +49,23 @@
   "date": "2037-05-22",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 8,
       "5": 11,
       "6": 13,
       "7": 4,
       "8": 1
     },
     "by_first_letter": {
-      "B": 27,
+      "B": 26,
       "D": 3,
       "E": 1,
       "G": 4,
-      "I": 1,
       "O": 2,
       "T": 1
     },
     "grid": {
       "B": {
-        "4": 5,
+        "4": 4,
         "5": 8,
         "6": 11,
         "7": 3
@@ -87,9 +84,6 @@
         "6": 1,
         "8": 1
       },
-      "I": {
-        "4": 1
-      },
       "O": {
         "4": 2
       },
@@ -100,11 +94,10 @@
     "two_letter_list": {
       "BE": 8,
       "BI": 5,
-      "BO": 14,
+      "BO": 13,
       "DE": 3,
       "EB": 1,
       "GI": 4,
-      "IB": 1,
       "OB": 2,
       "TI": 1
     }

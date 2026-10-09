@@ -1,85 +1,168 @@
 {
-  "pangram": "humping",
-  "center_letter": "m",
-  "num_answers": 19,
+  "pangram": "polkaed",
+  "center_letter": "p",
+  "num_answers": 81,
   "num_pangrams": 1,
-  "possible_points": 113,
+  "possible_points": 344,
   "answer_pangrams": [
-    "humping"
+    "polkaed"
   ],
   "answers": [
-    "gumming",
-    "humming",
-    "hump",
-    "humping",
-    "impinging",
-    "impugn",
-    "impugning",
-    "miming",
-    "mini",
-    "minim",
-    "minimum",
-    "mining",
-    "mugging",
-    "muumuu",
-    "pimp",
-    "pimping",
-    "pump",
-    "pumping",
-    "umping"
+    "aped",
+    "appall",
+    "appalled",
+    "appeal",
+    "appealed",
+    "apple",
+    "dapple",
+    "dappled",
+    "deep",
+    "dollop",
+    "dolloped",
+    "dope",
+    "doped",
+    "elope",
+    "eloped",
+    "epee",
+    "kapok",
+    "keep",
+    "kelp",
+    "lapel",
+    "lapped",
+    "leap",
+    "leaped",
+    "loop",
+    "looped",
+    "lope",
+    "loped",
+    "lopped",
+    "opal",
+    "padded",
+    "paddle",
+    "paddled",
+    "pale",
+    "paled",
+    "pall",
+    "palled",
+    "papa",
+    "papal",
+    "peak",
+    "peaked",
+    "peal",
+    "pealed",
+    "pedal",
+    "pedaled",
+    "peddle",
+    "peddled",
+    "peed",
+    "peek",
+    "peeked",
+    "peel",
+    "peeled",
+    "peep",
+    "peeped",
+    "pekoe",
+    "people",
+    "peopled",
+    "pepped",
+    "plea",
+    "plead",
+    "pleaded",
+    "pled",
+    "plod",
+    "plodded",
+    "plop",
+    "plopped",
+    "podded",
+    "poke",
+    "poked",
+    "pole",
+    "poled",
+    "polka",
+    "polkaed",
+    "poll",
+    "polled",
+    "polo",
+    "poodle",
+    "pool",
+    "pooled",
+    "poop",
+    "pope",
+    "popped"
   ],
   "date": "2029-03-17",
   "hints": {
     "by_length": {
-      "4": 4,
-      "5": 1,
-      "6": 5,
-      "7": 7,
-      "9": 2
+      "4": 30,
+      "5": 14,
+      "6": 25,
+      "7": 9,
+      "8": 3
     },
     "by_first_letter": {
-      "G": 1,
-      "H": 3,
-      "I": 3,
-      "M": 7,
-      "P": 4,
-      "U": 1
+      "A": 6,
+      "D": 7,
+      "E": 3,
+      "K": 3,
+      "L": 9,
+      "O": 1,
+      "P": 52
     },
     "grid": {
-      "G": {
-        "7": 1
-      },
-      "H": {
-        "4": 1,
-        "7": 2
-      },
-      "I": {
-        "6": 1,
-        "9": 2
-      },
-      "M": {
+      "A": {
         "4": 1,
         "5": 1,
-        "6": 3,
-        "7": 2
+        "6": 2,
+        "8": 2
+      },
+      "D": {
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 1
+      },
+      "E": {
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "K": {
+        "4": 2,
+        "5": 1
+      },
+      "L": {
+        "4": 3,
+        "5": 2,
+        "6": 4
+      },
+      "O": {
+        "4": 1
       },
       "P": {
-        "4": 2,
-        "7": 2
-      },
-      "U": {
-        "6": 1
+        "4": 20,
+        "5": 8,
+        "6": 16,
+        "7": 8
       }
     },
     "two_letter_list": {
-      "GU": 1,
-      "HU": 3,
-      "IM": 3,
-      "MI": 5,
-      "MU": 2,
-      "PI": 2,
-      "PU": 2,
-      "UM": 1
+      "AP": 6,
+      "DA": 2,
+      "DE": 1,
+      "DO": 4,
+      "EL": 2,
+      "EP": 1,
+      "KA": 1,
+      "KE": 2,
+      "LA": 2,
+      "LE": 2,
+      "LO": 5,
+      "OP": 1,
+      "PA": 9,
+      "PE": 19,
+      "PL": 8,
+      "PO": 16
     }
   }
 }

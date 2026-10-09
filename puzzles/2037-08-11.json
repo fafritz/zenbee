@@ -1,9 +1,9 @@
 {
   "pangram": "opaqued",
   "center_letter": "e",
-  "num_answers": 29,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 120,
+  "possible_points": 114,
   "answer_pangrams": [
     "opaqued"
   ],
@@ -29,7 +29,6 @@
     "peeped",
     "pepped",
     "podded",
-    "pooped",
     "pope",
     "popped",
     "pupae",
@@ -43,7 +42,7 @@
     "by_length": {
       "4": 11,
       "5": 7,
-      "6": 10,
+      "6": 9,
       "7": 1
     },
     "by_first_letter": {
@@ -51,7 +50,7 @@
       "D": 10,
       "E": 1,
       "O": 2,
-      "P": 11,
+      "P": 10,
       "Q": 2,
       "U": 1
     },
@@ -75,7 +74,7 @@
       "P": {
         "4": 3,
         "5": 1,
-        "6": 7
+        "6": 6
       },
       "Q": {
         "5": 1,
@@ -95,7 +94,7 @@
       "OP": 2,
       "PA": 1,
       "PE": 4,
-      "PO": 4,
+      "PO": 3,
       "PU": 2,
       "QU": 2,
       "UP": 1

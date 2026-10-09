@@ -1,9 +1,9 @@
 {
   "pangram": "brigand",
   "center_letter": "b",
-  "num_answers": 65,
+  "num_answers": 64,
   "num_pangrams": 5,
-  "possible_points": 394,
+  "possible_points": 393,
   "answer_pangrams": [
     "abrading",
     "abridging",
@@ -72,7 +72,6 @@
     "gibing",
     "grab",
     "grabbing",
-    "ibid",
     "nabbing",
     "rabbi",
     "rabid",
@@ -81,7 +80,7 @@
   "date": "2026-11-19",
   "hints": {
     "by_length": {
-      "4": 16,
+      "4": 15,
       "5": 7,
       "6": 6,
       "7": 22,
@@ -94,7 +93,6 @@
       "B": 48,
       "D": 2,
       "G": 6,
-      "I": 1,
       "N": 1,
       "R": 3
     },
@@ -124,9 +122,6 @@
         "7": 2,
         "8": 1
       },
-      "I": {
-        "4": 1
-      },
       "N": {
         "7": 1
       },
@@ -146,7 +141,6 @@
       "GA": 3,
       "GI": 1,
       "GR": 2,
-      "IB": 1,
       "NA": 1,
       "RA": 2,
       "RI": 1

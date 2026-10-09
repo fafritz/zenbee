@@ -1,9 +1,9 @@
 {
   "pangram": "bipedal",
   "center_letter": "b",
-  "num_answers": 70,
+  "num_answers": 69,
   "num_pangrams": 2,
-  "possible_points": 345,
+  "possible_points": 344,
   "answer_pangrams": [
     "bipedal",
     "piebald"
@@ -65,7 +65,6 @@
     "dibbled",
     "ebbed",
     "edible",
-    "ibid",
     "label",
     "labeled",
     "labia",
@@ -83,7 +82,7 @@
   "date": "2032-06-06",
   "hints": {
     "by_length": {
-      "4": 18,
+      "4": 17,
       "5": 16,
       "6": 21,
       "7": 13,
@@ -94,7 +93,6 @@
       "B": 44,
       "D": 5,
       "E": 2,
-      "I": 1,
       "L": 8,
       "P": 5
     },
@@ -119,9 +117,6 @@
         "5": 1,
         "6": 1
       },
-      "I": {
-        "4": 1
-      },
       "L": {
         "5": 3,
         "6": 3,
@@ -144,7 +139,6 @@
       "DI": 2,
       "EB": 1,
       "ED": 1,
-      "IB": 1,
       "LA": 5,
       "LI": 3,
       "PA": 1,

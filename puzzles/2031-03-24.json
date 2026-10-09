@@ -1,9 +1,9 @@
 {
   "pangram": "placebo",
   "center_letter": "o",
-  "num_answers": 44,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 110,
+  "possible_points": 109,
   "answer_pangrams": [
     "placebo"
   ],
@@ -19,7 +19,6 @@
     "bola",
     "bole",
     "boll",
-    "boob",
     "cacao",
     "capo",
     "cello",
@@ -56,14 +55,14 @@
   "date": "2031-03-24",
   "hints": {
     "by_length": {
-      "4": 31,
+      "4": 30,
       "5": 7,
       "6": 5,
       "7": 1
     },
     "by_first_letter": {
       "A": 1,
-      "B": 11,
+      "B": 10,
       "C": 12,
       "E": 1,
       "L": 7,
@@ -75,7 +74,7 @@
         "4": 1
       },
       "B": {
-        "4": 7,
+        "4": 6,
         "5": 2,
         "6": 2
       },
@@ -106,7 +105,7 @@
       "BA": 1,
       "BE": 1,
       "BL": 2,
-      "BO": 7,
+      "BO": 6,
       "CA": 2,
       "CE": 1,
       "CL": 1,
