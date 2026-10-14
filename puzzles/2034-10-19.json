@@ -1,9 +1,9 @@
 {
   "pangram": "tangled",
   "center_letter": "g",
-  "num_answers": 80,
+  "num_answers": 81,
   "num_pangrams": 2,
-  "possible_points": 415,
+  "possible_points": 421,
   "answer_pangrams": [
     "entangled",
     "tangled"
@@ -83,6 +83,7 @@
     "nagged",
     "negate",
     "negated",
+    "negged",
     "tagged",
     "tang",
     "tangent",
@@ -95,7 +96,7 @@
     "by_length": {
       "4": 19,
       "5": 15,
-      "6": 25,
+      "6": 26,
       "7": 14,
       "8": 4,
       "9": 3
@@ -106,7 +107,7 @@
       "E": 10,
       "G": 38,
       "L": 7,
-      "N": 3,
+      "N": 4,
       "T": 6
     },
     "grid": {
@@ -144,7 +145,7 @@
         "7": 1
       },
       "N": {
-        "6": 2,
+        "6": 3,
         "7": 1
       },
       "T": {
@@ -172,7 +173,7 @@
       "LA": 1,
       "LE": 6,
       "NA": 1,
-      "NE": 2,
+      "NE": 3,
       "TA": 5,
       "TE": 1
     }

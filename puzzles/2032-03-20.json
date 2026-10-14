@@ -1,9 +1,9 @@
 {
   "pangram": "fraying",
   "center_letter": "g",
-  "num_answers": 60,
+  "num_answers": 62,
   "num_pangrams": 1,
-  "possible_points": 345,
+  "possible_points": 358,
   "answer_pangrams": [
     "fraying"
   ],
@@ -24,6 +24,7 @@
     "fanning",
     "faring",
     "fining",
+    "finning",
     "firing",
     "frag",
     "fragging",
@@ -63,6 +64,7 @@
     "ranging",
     "rangy",
     "raring",
+    "raying",
     "riffing",
     "rigging",
     "ring",
@@ -74,19 +76,19 @@
     "by_length": {
       "4": 13,
       "5": 5,
-      "6": 11,
-      "7": 21,
+      "6": 12,
+      "7": 22,
       "8": 6,
       "9": 1,
       "10": 3
     },
     "by_first_letter": {
       "A": 11,
-      "F": 11,
+      "F": 12,
       "G": 20,
       "I": 4,
       "N": 1,
-      "R": 12,
+      "R": 13,
       "Y": 1
     },
     "grid": {
@@ -102,7 +104,7 @@
       "F": {
         "4": 2,
         "6": 4,
-        "7": 3,
+        "7": 4,
         "8": 2
       },
       "G": {
@@ -123,7 +125,7 @@
       "R": {
         "4": 3,
         "5": 1,
-        "6": 2,
+        "6": 3,
         "7": 6
       },
       "Y": {
@@ -136,14 +138,14 @@
       "AN": 2,
       "AR": 4,
       "FA": 4,
-      "FI": 2,
+      "FI": 3,
       "FR": 5,
       "GA": 9,
       "GI": 2,
       "GR": 9,
       "IN": 4,
       "NA": 1,
-      "RA": 8,
+      "RA": 9,
       "RI": 4,
       "YA": 1
     }

@@ -1,14 +1,15 @@
 {
   "pangram": "weaving",
   "center_letter": "i",
-  "num_answers": 54,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 302,
+  "possible_points": 315,
   "answer_pangrams": [
     "weaving"
   ],
   "answers": [
     "again",
+    "ageing",
     "aging",
     "angina",
     "avenging",
@@ -36,6 +37,7 @@
     "inning",
     "nagging",
     "naive",
+    "negging",
     "nine",
     "vain",
     "vanning",
@@ -68,24 +70,24 @@
     "by_length": {
       "4": 9,
       "5": 10,
-      "6": 14,
-      "7": 18,
+      "6": 15,
+      "7": 19,
       "8": 2,
       "10": 1
     },
     "by_first_letter": {
-      "A": 7,
+      "A": 8,
       "E": 4,
       "G": 13,
       "I": 2,
-      "N": 3,
+      "N": 4,
       "V": 8,
       "W": 17
     },
     "grid": {
       "A": {
         "5": 4,
-        "6": 2,
+        "6": 3,
         "8": 1
       },
       "E": {
@@ -106,7 +108,7 @@
       "N": {
         "4": 1,
         "5": 1,
-        "7": 1
+        "7": 2
       },
       "V": {
         "4": 4,
@@ -122,7 +124,7 @@
       }
     },
     "two_letter_list": {
-      "AG": 2,
+      "AG": 3,
       "AN": 1,
       "AV": 2,
       "AW": 2,
@@ -135,6 +137,7 @@
       "GN": 1,
       "IN": 2,
       "NA": 2,
+      "NE": 1,
       "NI": 1,
       "VA": 2,
       "VE": 3,

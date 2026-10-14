@@ -1,14 +1,15 @@
 {
   "pangram": "heaving",
   "center_letter": "i",
-  "num_answers": 47,
+  "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 259,
+  "possible_points": 272,
   "answer_pangrams": [
     "heaving"
   ],
   "answers": [
     "again",
+    "ageing",
     "aging",
     "angina",
     "avenging",
@@ -45,6 +46,7 @@
     "inveighing",
     "nagging",
     "naive",
+    "negging",
     "neigh",
     "neighing",
     "nigh",
@@ -61,24 +63,24 @@
     "by_length": {
       "4": 9,
       "5": 10,
-      "6": 10,
-      "7": 13,
+      "6": 11,
+      "7": 14,
       "8": 4,
       "10": 1
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 6,
       "E": 4,
       "G": 12,
       "H": 10,
       "I": 4,
-      "N": 6,
+      "N": 7,
       "V": 6
     },
     "grid": {
       "A": {
         "5": 3,
-        "6": 1,
+        "6": 2,
         "8": 1
       },
       "E": {
@@ -108,7 +110,7 @@
       "N": {
         "4": 2,
         "5": 2,
-        "7": 1,
+        "7": 2,
         "8": 1
       },
       "V": {
@@ -118,7 +120,7 @@
       }
     },
     "two_letter_list": {
-      "AG": 2,
+      "AG": 3,
       "AN": 1,
       "AV": 2,
       "EG": 1,
@@ -132,7 +134,7 @@
       "HI": 6,
       "IN": 4,
       "NA": 2,
-      "NE": 2,
+      "NE": 3,
       "NI": 2,
       "VA": 2,
       "VE": 3,

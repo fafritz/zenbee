@@ -1,14 +1,15 @@
 {
   "pangram": "peaking",
   "center_letter": "e",
-  "num_answers": 45,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 181,
+  "possible_points": 201,
   "answer_pangrams": [
     "peaking"
   ],
   "answers": [
     "agape",
+    "ageing",
     "egging",
     "eking",
     "engage",
@@ -26,11 +27,13 @@
     "keening",
     "keep",
     "keeping",
+    "kegging",
     "kenning",
     "knee",
     "kneeing",
     "nape",
     "neap",
+    "negging",
     "nene",
     "nine",
     "paean",
@@ -59,22 +62,23 @@
     "by_length": {
       "4": 20,
       "5": 7,
-      "6": 8,
-      "7": 9,
+      "6": 9,
+      "7": 11,
       "8": 1
     },
     "by_first_letter": {
-      "A": 1,
+      "A": 2,
       "E": 6,
       "G": 6,
       "I": 1,
-      "K": 7,
-      "N": 4,
+      "K": 8,
+      "N": 5,
       "P": 20
     },
     "grid": {
       "A": {
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "E": {
         "4": 1,
@@ -92,10 +96,11 @@
       },
       "K": {
         "4": 3,
-        "7": 4
+        "7": 5
       },
       "N": {
-        "4": 4
+        "4": 4,
+        "7": 1
       },
       "P": {
         "4": 9,
@@ -105,7 +110,7 @@
       }
     },
     "two_letter_list": {
-      "AG": 1,
+      "AG": 2,
       "EG": 1,
       "EK": 1,
       "EN": 3,
@@ -113,10 +118,10 @@
       "GA": 1,
       "GE": 5,
       "IN": 1,
-      "KE": 5,
+      "KE": 6,
       "KN": 2,
       "NA": 1,
-      "NE": 2,
+      "NE": 3,
       "NI": 1,
       "PA": 3,
       "PE": 10,

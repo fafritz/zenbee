@@ -1,9 +1,9 @@
 {
   "pangram": "pecking",
   "center_letter": "g",
-  "num_answers": 43,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 269,
+  "possible_points": 283,
   "answer_pangrams": [
     "pecking"
   ],
@@ -23,6 +23,7 @@
     "inning",
     "keening",
     "keeping",
+    "kegging",
     "kenning",
     "kicking",
     "king",
@@ -30,6 +31,7 @@
     "kinking",
     "kneeing",
     "necking",
+    "negging",
     "nicking",
     "nipping",
     "pecking",
@@ -58,15 +60,15 @@
       "4": 4,
       "5": 4,
       "6": 10,
-      "7": 24,
+      "7": 26,
       "10": 1
     },
     "by_first_letter": {
       "E": 3,
       "G": 7,
       "I": 3,
-      "K": 8,
-      "N": 3,
+      "K": 9,
+      "N": 4,
       "P": 19
     },
     "grid": {
@@ -86,10 +88,10 @@
       },
       "K": {
         "4": 1,
-        "7": 7
+        "7": 8
       },
       "N": {
-        "7": 3
+        "7": 4
       },
       "P": {
         "4": 1,
@@ -106,10 +108,10 @@
       "GI": 2,
       "IC": 1,
       "IN": 2,
-      "KE": 3,
+      "KE": 4,
       "KI": 4,
       "KN": 1,
-      "NE": 1,
+      "NE": 2,
       "NI": 2,
       "PE": 5,
       "PI": 14

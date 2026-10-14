@@ -1,9 +1,9 @@
 {
   "pangram": "phonied",
   "center_letter": "e",
-  "num_answers": 80,
+  "num_answers": 81,
   "num_pangrams": 1,
-  "possible_points": 334,
+  "possible_points": 340,
   "answer_pangrams": [
     "phonied"
   ],
@@ -14,6 +14,7 @@
     "deepen",
     "deepened",
     "denied",
+    "denned",
     "depend",
     "depended",
     "died",
@@ -94,12 +95,12 @@
     "by_length": {
       "4": 30,
       "5": 12,
-      "6": 33,
+      "6": 34,
       "7": 1,
       "8": 4
     },
     "by_first_letter": {
-      "D": 18,
+      "D": 19,
       "E": 3,
       "H": 18,
       "I": 2,
@@ -111,7 +112,7 @@
       "D": {
         "4": 6,
         "5": 3,
-        "6": 7,
+        "6": 8,
         "8": 2
       },
       "E": {
@@ -146,7 +147,7 @@
       }
     },
     "two_letter_list": {
-      "DE": 8,
+      "DE": 9,
       "DI": 6,
       "DO": 4,
       "ED": 1,

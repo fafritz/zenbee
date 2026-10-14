@@ -1,9 +1,9 @@
 {
   "pangram": "hideout",
   "center_letter": "h",
-  "num_answers": 25,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 118,
+  "possible_points": 124,
   "answer_pangrams": [
     "hideout"
   ],
@@ -23,6 +23,7 @@
     "hoodooed",
     "hoot",
     "hooted",
+    "hotted",
     "teeth",
     "teethe",
     "teethed",
@@ -39,13 +40,13 @@
     "by_length": {
       "4": 8,
       "5": 5,
-      "6": 7,
+      "6": 8,
       "7": 4,
       "8": 1
     },
     "by_first_letter": {
       "D": 1,
-      "H": 14,
+      "H": 15,
       "T": 10
     },
     "grid": {
@@ -55,7 +56,7 @@
       "H": {
         "4": 6,
         "5": 1,
-        "6": 5,
+        "6": 6,
         "7": 1,
         "8": 1
       },
@@ -70,7 +71,7 @@
       "DH": 1,
       "HE": 2,
       "HI": 4,
-      "HO": 8,
+      "HO": 9,
       "TE": 3,
       "TH": 3,
       "TI": 2,

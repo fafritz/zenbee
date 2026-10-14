@@ -1,9 +1,9 @@
 {
   "pangram": "demoing",
   "center_letter": "g",
-  "num_answers": 70,
+  "num_answers": 75,
   "num_pangrams": 1,
-  "possible_points": 397,
+  "possible_points": 430,
   "answer_pangrams": [
     "demoing"
   ],
@@ -15,6 +15,7 @@
     "deigning",
     "demigod",
     "demoing",
+    "denning",
     "digging",
     "dimming",
     "ding",
@@ -47,6 +48,8 @@
     "engined",
     "geed",
     "geeing",
+    "gemmed",
+    "gemming",
     "gene",
     "genie",
     "genii",
@@ -75,6 +78,8 @@
     "mooing",
     "mooning",
     "needing",
+    "negged",
+    "negging",
     "nodding",
     "noggin",
     "ongoing"
@@ -84,17 +89,17 @@
     "by_length": {
       "4": 9,
       "5": 14,
-      "6": 20,
-      "7": 25,
+      "6": 22,
+      "7": 28,
       "8": 2
     },
     "by_first_letter": {
-      "D": 27,
+      "D": 28,
       "E": 10,
-      "G": 19,
+      "G": 21,
       "I": 2,
       "M": 8,
-      "N": 3,
+      "N": 5,
       "O": 1
     },
     "grid": {
@@ -102,7 +107,7 @@
         "4": 2,
         "5": 5,
         "6": 5,
-        "7": 14,
+        "7": 15,
         "8": 1
       },
       "E": {
@@ -115,8 +120,8 @@
       "G": {
         "4": 6,
         "5": 6,
-        "6": 4,
-        "7": 3
+        "6": 5,
+        "7": 4
       },
       "I": {
         "6": 2
@@ -127,22 +132,22 @@
         "7": 4
       },
       "N": {
-        "6": 1,
-        "7": 2
+        "6": 2,
+        "7": 3
       },
       "O": {
         "7": 1
       }
     },
     "two_letter_list": {
-      "DE": 7,
+      "DE": 8,
       "DI": 8,
       "DO": 12,
       "ED": 3,
       "EG": 3,
       "EM": 1,
       "EN": 3,
-      "GE": 6,
+      "GE": 8,
       "GI": 5,
       "GN": 1,
       "GO": 7,
@@ -150,7 +155,7 @@
       "ME": 1,
       "MI": 4,
       "MO": 3,
-      "NE": 1,
+      "NE": 3,
       "NO": 2,
       "ON": 1
     }

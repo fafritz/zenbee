@@ -1,14 +1,15 @@
 {
   "pangram": "beaming",
   "center_letter": "g",
-  "num_answers": 71,
+  "num_answers": 74,
   "num_pangrams": 1,
-  "possible_points": 419,
+  "possible_points": 439,
   "answer_pangrams": [
     "beaming"
   ],
   "answers": [
     "again",
+    "ageing",
     "aging",
     "aiming",
     "angina",
@@ -50,6 +51,7 @@
     "gang",
     "ganging",
     "geeing",
+    "gemming",
     "gene",
     "genie",
     "genii",
@@ -78,31 +80,32 @@
     "mining",
     "nabbing",
     "nagging",
-    "naming"
+    "naming",
+    "negging"
   ],
   "date": "2028-05-04",
   "hints": {
     "by_length": {
       "4": 7,
       "5": 15,
-      "6": 21,
-      "7": 22,
+      "6": 22,
+      "7": 24,
       "8": 4,
       "9": 2
     },
     "by_first_letter": {
-      "A": 4,
+      "A": 5,
       "B": 20,
       "E": 6,
-      "G": 20,
+      "G": 21,
       "I": 6,
       "M": 12,
-      "N": 3
+      "N": 4
     },
     "grid": {
       "A": {
         "5": 2,
-        "6": 2
+        "6": 3
       },
       "B": {
         "4": 1,
@@ -120,7 +123,7 @@
         "4": 6,
         "5": 4,
         "6": 4,
-        "7": 6
+        "7": 7
       },
       "I": {
         "5": 1,
@@ -137,11 +140,11 @@
       },
       "N": {
         "6": 1,
-        "7": 2
+        "7": 3
       }
     },
     "two_letter_list": {
-      "AG": 2,
+      "AG": 3,
       "AI": 1,
       "AN": 1,
       "BA": 6,
@@ -151,14 +154,15 @@
       "EG": 1,
       "EN": 4,
       "GA": 11,
-      "GE": 4,
+      "GE": 5,
       "GI": 5,
       "IM": 5,
       "IN": 1,
       "MA": 8,
       "ME": 2,
       "MI": 2,
-      "NA": 3
+      "NA": 3,
+      "NE": 1
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "pangram": "figment",
   "center_letter": "m",
-  "num_answers": 32,
+  "num_answers": 33,
   "num_pangrams": 1,
-  "possible_points": 136,
+  "possible_points": 143,
   "answer_pangrams": [
     "figment"
   ],
@@ -13,6 +13,7 @@
     "emitting",
     "feminine",
     "figment",
+    "gemming",
     "gimme",
     "imminent",
     "item",
@@ -47,13 +48,13 @@
       "4": 15,
       "5": 2,
       "6": 5,
-      "7": 6,
+      "7": 7,
       "8": 4
     },
     "by_first_letter": {
       "E": 3,
       "F": 2,
-      "G": 1,
+      "G": 2,
       "I": 2,
       "M": 19,
       "T": 5
@@ -69,7 +70,8 @@
         "8": 1
       },
       "G": {
-        "5": 1
+        "5": 1,
+        "7": 1
       },
       "I": {
         "4": 1,
@@ -92,6 +94,7 @@
       "EM": 3,
       "FE": 1,
       "FI": 1,
+      "GE": 1,
       "GI": 1,
       "IM": 1,
       "IT": 1,

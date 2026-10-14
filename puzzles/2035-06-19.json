@@ -1,9 +1,9 @@
 {
   "pangram": "default",
   "center_letter": "t",
-  "num_answers": 68,
+  "num_answers": 69,
   "num_pangrams": 3,
-  "possible_points": 338,
+  "possible_points": 344,
   "answer_pangrams": [
     "default",
     "defaulted",
@@ -36,6 +36,7 @@
     "fate",
     "fated",
     "fateful",
+    "fatted",
     "fault",
     "faulted",
     "feat",
@@ -84,7 +85,7 @@
     "by_length": {
       "4": 22,
       "5": 15,
-      "6": 10,
+      "6": 11,
       "7": 12,
       "8": 6,
       "9": 2,
@@ -94,7 +95,7 @@
       "A": 3,
       "D": 15,
       "E": 4,
-      "F": 22,
+      "F": 23,
       "L": 6,
       "T": 16,
       "U": 2
@@ -120,7 +121,7 @@
       "F": {
         "4": 7,
         "5": 7,
-        "6": 3,
+        "6": 4,
         "7": 4,
         "8": 1
       },
@@ -151,7 +152,7 @@
       "EF": 1,
       "EL": 2,
       "ET": 1,
-      "FA": 6,
+      "FA": 7,
       "FE": 9,
       "FL": 7,
       "LA": 2,

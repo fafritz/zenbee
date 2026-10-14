@@ -1,18 +1,20 @@
 {
   "pangram": "damping",
   "center_letter": "p",
-  "num_answers": 33,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 181,
+  "possible_points": 194,
   "answer_pangrams": [
     "damping"
   ],
   "answers": [
+    "amping",
     "aping",
     "damp",
     "damping",
     "dipping",
     "gaping",
+    "gapping",
     "impinging",
     "mapping",
     "napping",
@@ -47,14 +49,14 @@
     "by_length": {
       "4": 7,
       "5": 5,
-      "6": 7,
-      "7": 13,
+      "6": 8,
+      "7": 14,
       "9": 1
     },
     "by_first_letter": {
-      "A": 1,
+      "A": 2,
       "D": 3,
-      "G": 1,
+      "G": 2,
       "I": 1,
       "M": 1,
       "N": 2,
@@ -62,14 +64,16 @@
     },
     "grid": {
       "A": {
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "D": {
         "4": 1,
         "7": 2
       },
       "G": {
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "I": {
         "9": 1
@@ -88,10 +92,11 @@
       }
     },
     "two_letter_list": {
+      "AM": 1,
       "AP": 1,
       "DA": 2,
       "DI": 1,
-      "GA": 1,
+      "GA": 2,
       "IM": 1,
       "MA": 1,
       "NA": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "bungled",
   "center_letter": "g",
-  "num_answers": 49,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 234,
+  "possible_points": 240,
   "answer_pangrams": [
     "bungled"
   ],
@@ -53,6 +53,7 @@
     "lung",
     "lunge",
     "lunged",
+    "negged",
     "nudge",
     "nudged",
     "unglue",
@@ -63,7 +64,7 @@
     "by_length": {
       "4": 12,
       "5": 12,
-      "6": 21,
+      "6": 22,
       "7": 3,
       "8": 1
     },
@@ -73,7 +74,7 @@
       "E": 3,
       "G": 12,
       "L": 9,
-      "N": 2,
+      "N": 3,
       "U": 2
     },
     "grid": {
@@ -106,7 +107,7 @@
       },
       "N": {
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "U": {
         "6": 1,
@@ -125,6 +126,7 @@
       "GU": 3,
       "LE": 3,
       "LU": 6,
+      "NE": 1,
       "NU": 2,
       "UN": 2
     }

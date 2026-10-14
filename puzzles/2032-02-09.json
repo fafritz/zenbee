@@ -1,9 +1,9 @@
 {
   "pangram": "plowmen",
   "center_letter": "m",
-  "num_answers": 20,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 59,
+  "possible_points": 60,
   "answer_pangrams": [
     "plowmen"
   ],
@@ -22,6 +22,7 @@
     "mono",
     "moon",
     "mope",
+    "mown",
     "omen",
     "plowmen",
     "poem",
@@ -32,14 +33,14 @@
   "date": "2032-02-09",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 14,
       "5": 4,
       "6": 2,
       "7": 1
     },
     "by_first_letter": {
       "L": 2,
-      "M": 12,
+      "M": 13,
       "O": 1,
       "P": 4,
       "W": 1
@@ -50,7 +51,7 @@
         "5": 1
       },
       "M": {
-        "4": 9,
+        "4": 10,
         "5": 2,
         "6": 1
       },
@@ -70,7 +71,7 @@
       "LE": 1,
       "LO": 1,
       "ME": 7,
-      "MO": 5,
+      "MO": 6,
       "OM": 1,
       "PL": 1,
       "PO": 3,

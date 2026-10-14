@@ -1,9 +1,9 @@
 {
   "pangram": "figment",
   "center_letter": "i",
-  "num_answers": 68,
+  "num_answers": 71,
   "num_pangrams": 1,
-  "possible_points": 349,
+  "possible_points": 370,
   "answer_pangrams": [
     "figment"
   ],
@@ -26,8 +26,10 @@
     "fine",
     "fining",
     "finite",
+    "finning",
     "fitting",
     "geeing",
+    "gemming",
     "genie",
     "genii",
     "getting",
@@ -59,6 +61,7 @@
     "mite",
     "mitt",
     "mitten",
+    "negging",
     "netting",
     "nine",
     "nineteen",
@@ -83,16 +86,16 @@
       "4": 19,
       "5": 7,
       "6": 15,
-      "7": 18,
+      "7": 21,
       "8": 9
     },
     "by_first_letter": {
       "E": 5,
-      "F": 14,
-      "G": 9,
+      "F": 15,
+      "G": 10,
       "I": 7,
       "M": 16,
-      "N": 3,
+      "N": 4,
       "T": 14
     },
     "grid": {
@@ -106,14 +109,14 @@
         "4": 3,
         "5": 2,
         "6": 3,
-        "7": 3,
+        "7": 4,
         "8": 3
       },
       "G": {
         "4": 1,
         "5": 3,
         "6": 1,
-        "7": 4
+        "7": 5
       },
       "I": {
         "4": 1,
@@ -128,7 +131,7 @@
       },
       "N": {
         "4": 1,
-        "7": 1,
+        "7": 2,
         "8": 1
       },
       "T": {
@@ -144,8 +147,8 @@
       "EM": 3,
       "EN": 1,
       "FE": 6,
-      "FI": 8,
-      "GE": 4,
+      "FI": 9,
+      "GE": 5,
       "GI": 5,
       "IG": 2,
       "IM": 1,
@@ -153,7 +156,7 @@
       "IT": 1,
       "ME": 2,
       "MI": 14,
-      "NE": 1,
+      "NE": 2,
       "NI": 2,
       "TE": 3,
       "TI": 11

@@ -1,9 +1,9 @@
 {
   "pangram": "unmoved",
   "center_letter": "m",
-  "num_answers": 34,
+  "num_answers": 35,
   "num_pangrams": 1,
-  "possible_points": 133,
+  "possible_points": 139,
   "answer_pangrams": [
     "unmoved"
   ],
@@ -37,6 +37,7 @@
     "mounded",
     "move",
     "moved",
+    "mudded",
     "muumuu",
     "omen",
     "ovum",
@@ -48,14 +49,14 @@
     "by_length": {
       "4": 15,
       "5": 8,
-      "6": 7,
+      "6": 8,
       "7": 3,
       "8": 1
     },
     "by_first_letter": {
       "D": 10,
       "E": 2,
-      "M": 18,
+      "M": 19,
       "O": 2,
       "U": 1,
       "V": 1
@@ -74,7 +75,7 @@
       "M": {
         "4": 9,
         "5": 4,
-        "6": 4,
+        "6": 5,
         "7": 1
       },
       "O": {
@@ -94,7 +95,7 @@
       "EM": 2,
       "ME": 5,
       "MO": 12,
-      "MU": 1,
+      "MU": 2,
       "OM": 1,
       "OV": 1,
       "UN": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "obeying",
   "center_letter": "g",
-  "num_answers": 53,
+  "num_answers": 55,
   "num_pangrams": 2,
-  "possible_points": 304,
+  "possible_points": 318,
   "answer_pangrams": [
     "bogeying",
     "obeying"
@@ -58,9 +58,11 @@
     "gooey",
     "goon",
     "inning",
+    "negging",
     "noggin",
     "obeying",
     "ongoing",
+    "yenning",
     "yogi"
   ],
   "date": "2038-03-27",
@@ -69,7 +71,7 @@
       "4": 7,
       "5": 14,
       "6": 17,
-      "7": 11,
+      "7": 13,
       "8": 2,
       "9": 2
     },
@@ -78,9 +80,9 @@
       "E": 5,
       "G": 15,
       "I": 1,
-      "N": 1,
+      "N": 2,
       "O": 2,
-      "Y": 1
+      "Y": 2
     },
     "grid": {
       "B": {
@@ -104,13 +106,15 @@
         "6": 1
       },
       "N": {
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "O": {
         "7": 2
       },
       "Y": {
-        "4": 1
+        "4": 1,
+        "7": 1
       }
     },
     "two_letter_list": {
@@ -126,9 +130,11 @@
       "GI": 5,
       "GO": 6,
       "IN": 1,
+      "NE": 1,
       "NO": 1,
       "OB": 1,
       "ON": 1,
+      "YE": 1,
       "YO": 1
     }
   }

@@ -1,9 +1,9 @@
 {
   "pangram": "carping",
   "center_letter": "a",
-  "num_answers": 75,
+  "num_answers": 76,
   "num_pangrams": 2,
-  "possible_points": 393,
+  "possible_points": 400,
   "answer_pangrams": [
     "carping",
     "prancing"
@@ -46,6 +46,7 @@
     "gang",
     "ganging",
     "gaping",
+    "gapping",
     "garaging",
     "gracing",
     "grain",
@@ -91,7 +92,7 @@
       "4": 19,
       "5": 13,
       "6": 17,
-      "7": 20,
+      "7": 21,
       "8": 3,
       "9": 1,
       "10": 2
@@ -99,7 +100,7 @@
     "by_first_letter": {
       "A": 15,
       "C": 15,
-      "G": 10,
+      "G": 11,
       "I": 2,
       "N": 6,
       "P": 17,
@@ -125,7 +126,7 @@
         "4": 3,
         "5": 1,
         "6": 1,
-        "7": 4,
+        "7": 5,
         "8": 1
       },
       "I": {
@@ -160,7 +161,7 @@
       "CA": 11,
       "CI": 2,
       "CR": 2,
-      "GA": 8,
+      "GA": 9,
       "GR": 2,
       "IN": 2,
       "NA": 5,

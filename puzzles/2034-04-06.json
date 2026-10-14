@@ -1,9 +1,9 @@
 {
   "pangram": "cyanide",
   "center_letter": "e",
-  "num_answers": 66,
+  "num_answers": 68,
   "num_pangrams": 1,
-  "possible_points": 307,
+  "possible_points": 319,
   "answer_pangrams": [
     "cyanide"
   ],
@@ -48,6 +48,7 @@
     "deice",
     "deiced",
     "denied",
+    "denned",
     "deny",
     "dice",
     "diced",
@@ -73,14 +74,15 @@
     "nene",
     "nice",
     "niece",
-    "nine"
+    "nine",
+    "yenned"
   ],
   "date": "2034-04-06",
   "hints": {
     "by_length": {
       "4": 21,
       "5": 14,
-      "6": 16,
+      "6": 18,
       "7": 10,
       "8": 2,
       "9": 3
@@ -88,10 +90,11 @@
     "by_first_letter": {
       "A": 9,
       "C": 13,
-      "D": 27,
+      "D": 28,
       "E": 4,
       "I": 6,
-      "N": 7
+      "N": 7,
+      "Y": 1
     },
     "grid": {
       "A": {
@@ -110,7 +113,7 @@
       "D": {
         "4": 8,
         "5": 6,
-        "6": 8,
+        "6": 9,
         "7": 3,
         "8": 1,
         "9": 1
@@ -130,6 +133,9 @@
         "4": 4,
         "5": 2,
         "6": 1
+      },
+      "Y": {
+        "6": 1
       }
     },
     "two_letter_list": {
@@ -140,7 +146,7 @@
       "CE": 2,
       "CY": 1,
       "DA": 2,
-      "DE": 17,
+      "DE": 18,
       "DI": 7,
       "DY": 1,
       "ED": 2,
@@ -150,7 +156,8 @@
       "ID": 1,
       "IN": 4,
       "NE": 4,
-      "NI": 3
+      "NI": 3,
+      "YE": 1
     }
   }
 }

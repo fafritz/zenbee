@@ -1,9 +1,9 @@
 {
   "pangram": "flunked",
   "center_letter": "d",
-  "num_answers": 63,
+  "num_answers": 65,
   "num_pangrams": 1,
-  "possible_points": 308,
+  "possible_points": 320,
   "answer_pangrams": [
     "flunked"
   ],
@@ -15,6 +15,7 @@
     "dell",
     "delude",
     "deluded",
+    "denned",
     "denude",
     "denuded",
     "dude",
@@ -51,6 +52,7 @@
     "fund",
     "funded",
     "funked",
+    "funned",
     "funneled",
     "keeled",
     "keened",
@@ -77,15 +79,15 @@
     "by_length": {
       "4": 18,
       "5": 7,
-      "6": 25,
+      "6": 27,
       "7": 8,
       "8": 4,
       "10": 1
     },
     "by_first_letter": {
-      "D": 21,
+      "D": 22,
       "E": 6,
-      "F": 17,
+      "F": 18,
       "K": 6,
       "L": 4,
       "N": 6,
@@ -95,7 +97,7 @@
       "D": {
         "4": 9,
         "5": 1,
-        "6": 8,
+        "6": 9,
         "7": 2,
         "8": 1
       },
@@ -106,7 +108,7 @@
       },
       "F": {
         "4": 5,
-        "6": 8,
+        "6": 9,
         "7": 3,
         "8": 1
       },
@@ -133,7 +135,7 @@
       }
     },
     "two_letter_list": {
-      "DE": 9,
+      "DE": 10,
       "DU": 12,
       "EE": 1,
       "EK": 1,
@@ -141,7 +143,7 @@
       "EN": 2,
       "FE": 6,
       "FL": 3,
-      "FU": 8,
+      "FU": 9,
       "KE": 4,
       "KN": 2,
       "LE": 2,

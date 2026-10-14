@@ -1,9 +1,9 @@
 {
   "pangram": "helping",
   "center_letter": "i",
-  "num_answers": 60,
+  "num_answers": 61,
   "num_pangrams": 1,
-  "possible_points": 331,
+  "possible_points": 338,
   "answer_pangrams": [
     "helping"
   ],
@@ -39,6 +39,7 @@
     "line",
     "linen",
     "lining",
+    "negging",
     "negligee",
     "neigh",
     "neighing",
@@ -75,7 +76,7 @@
       "4": 12,
       "5": 6,
       "6": 18,
-      "7": 18,
+      "7": 19,
       "8": 6
     },
     "by_first_letter": {
@@ -84,7 +85,7 @@
       "H": 10,
       "I": 2,
       "L": 7,
-      "N": 8,
+      "N": 9,
       "P": 21
     },
     "grid": {
@@ -118,7 +119,7 @@
         "4": 2,
         "5": 1,
         "6": 1,
-        "7": 1,
+        "7": 2,
         "8": 3
       },
       "P": {
@@ -139,7 +140,7 @@
       "IN": 2,
       "LE": 1,
       "LI": 6,
-      "NE": 3,
+      "NE": 4,
       "NI": 5,
       "PE": 4,
       "PI": 17

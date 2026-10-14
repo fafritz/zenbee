@@ -1,9 +1,9 @@
 {
   "pangram": "fraying",
   "center_letter": "f",
-  "num_answers": 31,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 159,
+  "possible_points": 166,
   "answer_pangrams": [
     "fraying"
   ],
@@ -19,6 +19,7 @@
     "farina",
     "faring",
     "fining",
+    "finning",
     "finny",
     "firing",
     "frag",
@@ -46,13 +47,13 @@
       "4": 9,
       "5": 5,
       "6": 7,
-      "7": 6,
+      "7": 7,
       "8": 3,
       "10": 1
     },
     "by_first_letter": {
       "A": 2,
-      "F": 18,
+      "F": 19,
       "G": 3,
       "I": 3,
       "N": 1,
@@ -67,7 +68,7 @@
         "4": 4,
         "5": 4,
         "6": 5,
-        "7": 3,
+        "7": 4,
         "8": 2
       },
       "G": {
@@ -92,7 +93,7 @@
     "two_letter_list": {
       "AF": 2,
       "FA": 8,
-      "FI": 3,
+      "FI": 4,
       "FR": 7,
       "GA": 2,
       "GR": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "zincked",
   "center_letter": "e",
-  "num_answers": 46,
+  "num_answers": 47,
   "num_pangrams": 1,
-  "possible_points": 201,
+  "possible_points": 207,
   "answer_pangrams": [
     "zincked"
   ],
@@ -20,6 +20,7 @@
     "deiced",
     "denied",
     "denizen",
+    "denned",
     "dice",
     "diced",
     "died",
@@ -60,13 +61,13 @@
     "by_length": {
       "4": 16,
       "5": 9,
-      "6": 16,
+      "6": 17,
       "7": 4,
       "9": 1
     },
     "by_first_letter": {
       "C": 2,
-      "D": 19,
+      "D": 20,
       "E": 3,
       "I": 4,
       "K": 8,
@@ -81,7 +82,7 @@
       "D": {
         "4": 6,
         "5": 4,
-        "6": 6,
+        "6": 7,
         "7": 3
       },
       "E": {
@@ -111,7 +112,7 @@
     },
     "two_letter_list": {
       "CE": 2,
-      "DE": 10,
+      "DE": 11,
       "DI": 9,
       "ED": 1,
       "EK": 1,

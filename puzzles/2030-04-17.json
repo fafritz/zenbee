@@ -1,9 +1,9 @@
 {
   "pangram": "etching",
   "center_letter": "e",
-  "num_answers": 65,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 357,
+  "possible_points": 364,
   "answer_pangrams": [
     "etching"
   ],
@@ -41,6 +41,7 @@
     "ignite",
     "incite",
     "intent",
+    "negging",
     "neigh",
     "neighing",
     "nene",
@@ -80,7 +81,7 @@
       "4": 14,
       "5": 15,
       "6": 15,
-      "7": 8,
+      "7": 9,
       "8": 7,
       "9": 2,
       "10": 3,
@@ -92,7 +93,7 @@
       "G": 7,
       "H": 7,
       "I": 3,
-      "N": 12,
+      "N": 13,
       "T": 20
     },
     "grid": {
@@ -126,7 +127,7 @@
       "N": {
         "4": 3,
         "5": 3,
-        "7": 2,
+        "7": 3,
         "8": 2,
         "9": 1,
         "10": 1
@@ -152,7 +153,7 @@
       "HI": 2,
       "IG": 1,
       "IN": 2,
-      "NE": 4,
+      "NE": 5,
       "NI": 8,
       "TE": 10,
       "TH": 4,

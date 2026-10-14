@@ -1,9 +1,9 @@
 {
   "pangram": "defying",
   "center_letter": "n",
-  "num_answers": 70,
+  "num_answers": 78,
   "num_pangrams": 3,
-  "possible_points": 419,
+  "possible_points": 471,
   "answer_pangrams": [
     "defying",
     "deifying",
@@ -23,6 +23,8 @@
     "deigned",
     "deigning",
     "denied",
+    "denned",
+    "denning",
     "deny",
     "denying",
     "diffing",
@@ -63,6 +65,8 @@
     "fine",
     "fined",
     "fining",
+    "finned",
+    "finning",
     "finny",
     "geeing",
     "gene",
@@ -77,35 +81,40 @@
     "needed",
     "needing",
     "needy",
+    "negged",
+    "negging",
     "nene",
     "nine",
-    "ninny"
+    "ninny",
+    "yenned",
+    "yenning"
   ],
   "date": "2032-11-22",
   "hints": {
     "by_length": {
       "4": 10,
       "5": 13,
-      "6": 19,
-      "7": 19,
+      "6": 23,
+      "7": 23,
       "8": 6,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "D": 31,
+      "D": 33,
       "E": 9,
-      "F": 14,
+      "F": 16,
       "G": 7,
       "I": 2,
-      "N": 7
+      "N": 9,
+      "Y": 2
     },
     "grid": {
       "D": {
         "4": 3,
         "5": 4,
-        "6": 7,
-        "7": 10,
+        "6": 8,
+        "7": 11,
         "8": 4,
         "9": 2,
         "10": 1
@@ -119,8 +128,8 @@
       "F": {
         "4": 3,
         "5": 4,
-        "6": 2,
-        "7": 4,
+        "6": 3,
+        "7": 5,
         "8": 1
       },
       "G": {
@@ -135,12 +144,16 @@
       "N": {
         "4": 3,
         "5": 2,
+        "6": 2,
+        "7": 2
+      },
+      "Y": {
         "6": 1,
         "7": 1
       }
     },
     "two_letter_list": {
-      "DE": 15,
+      "DE": 17,
       "DI": 14,
       "DY": 2,
       "ED": 3,
@@ -148,12 +161,13 @@
       "EN": 4,
       "EY": 1,
       "FE": 7,
-      "FI": 7,
+      "FI": 9,
       "GE": 4,
       "GI": 3,
       "IN": 2,
-      "NE": 5,
-      "NI": 2
+      "NE": 7,
+      "NI": 2,
+      "YE": 2
     }
   }
 }

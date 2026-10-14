@@ -1,9 +1,9 @@
 {
   "pangram": "pecking",
   "center_letter": "e",
-  "num_answers": 42,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 173,
+  "possible_points": 187,
   "answer_pangrams": [
     "pecking"
   ],
@@ -22,11 +22,13 @@
     "keening",
     "keep",
     "keeping",
+    "kegging",
     "kenning",
     "knee",
     "kneeing",
     "neck",
     "necking",
+    "negging",
     "nene",
     "nice",
     "niece",
@@ -57,13 +59,13 @@
       "4": 18,
       "5": 7,
       "6": 6,
-      "7": 11
+      "7": 13
     },
     "by_first_letter": {
       "E": 5,
       "G": 5,
-      "K": 7,
-      "N": 6,
+      "K": 8,
+      "N": 7,
       "P": 19
     },
     "grid": {
@@ -79,12 +81,12 @@
       },
       "K": {
         "4": 3,
-        "7": 4
+        "7": 5
       },
       "N": {
         "4": 4,
         "5": 1,
-        "7": 1
+        "7": 2
       },
       "P": {
         "4": 7,
@@ -99,9 +101,9 @@
       "EN": 1,
       "EP": 2,
       "GE": 5,
-      "KE": 5,
+      "KE": 6,
       "KN": 2,
-      "NE": 3,
+      "NE": 4,
       "NI": 3,
       "PE": 11,
       "PI": 8

@@ -1,9 +1,9 @@
 {
   "pangram": "decking",
   "center_letter": "k",
-  "num_answers": 36,
+  "num_answers": 38,
   "num_pangrams": 1,
-  "possible_points": 163,
+  "possible_points": 176,
   "answer_pangrams": [
     "decking"
   ],
@@ -23,6 +23,8 @@
     "keen",
     "keened",
     "keening",
+    "kegged",
+    "kegging",
     "kenned",
     "kenning",
     "kick",
@@ -50,15 +52,15 @@
     "by_length": {
       "4": 13,
       "5": 4,
-      "6": 10,
-      "7": 9
+      "6": 11,
+      "7": 10
     },
     "by_first_letter": {
       "D": 7,
       "E": 2,
       "G": 1,
       "I": 2,
-      "K": 18,
+      "K": 20,
       "N": 6
     },
     "grid": {
@@ -82,8 +84,8 @@
       "K": {
         "4": 6,
         "5": 1,
-        "6": 5,
-        "7": 6
+        "6": 6,
+        "7": 7
       },
       "N": {
         "4": 2,
@@ -97,7 +99,7 @@
       "EK": 2,
       "GE": 1,
       "IN": 2,
-      "KE": 5,
+      "KE": 7,
       "KI": 10,
       "KN": 3,
       "NE": 3,

@@ -1,15 +1,16 @@
 {
   "pangram": "plonked",
   "center_letter": "n",
-  "num_answers": 49,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 203,
+  "possible_points": 209,
   "answer_pangrams": [
     "plonked"
   ],
   "answers": [
     "deepen",
     "deepened",
+    "denned",
     "depend",
     "depended",
     "done",
@@ -63,12 +64,12 @@
     "by_length": {
       "4": 20,
       "5": 8,
-      "6": 14,
+      "6": 15,
       "7": 4,
       "8": 3
     },
     "by_first_letter": {
-      "D": 6,
+      "D": 7,
       "E": 1,
       "K": 11,
       "L": 3,
@@ -79,7 +80,7 @@
     "grid": {
       "D": {
         "4": 1,
-        "6": 3,
+        "6": 4,
         "8": 2
       },
       "E": {
@@ -113,7 +114,7 @@
       }
     },
     "two_letter_list": {
-      "DE": 4,
+      "DE": 5,
       "DO": 2,
       "EN": 1,
       "KE": 5,

@@ -1,9 +1,9 @@
 {
   "pangram": "unmoved",
   "center_letter": "e",
-  "num_answers": 58,
+  "num_answers": 60,
   "num_pangrams": 1,
-  "possible_points": 239,
+  "possible_points": 251,
   "answer_pangrams": [
     "unmoved"
   ],
@@ -15,6 +15,7 @@
     "demo",
     "demoed",
     "demon",
+    "denned",
     "denude",
     "denuded",
     "dome",
@@ -47,6 +48,7 @@
     "mounded",
     "move",
     "moved",
+    "mudded",
     "need",
     "needed",
     "nene",
@@ -72,14 +74,14 @@
     "by_length": {
       "4": 23,
       "5": 11,
-      "6": 17,
+      "6": 19,
       "7": 4,
       "8": 3
     },
     "by_first_letter": {
-      "D": 20,
+      "D": 21,
       "E": 6,
-      "M": 13,
+      "M": 14,
       "N": 7,
       "O": 2,
       "U": 5,
@@ -89,7 +91,7 @@
       "D": {
         "4": 8,
         "5": 3,
-        "6": 7,
+        "6": 8,
         "7": 1,
         "8": 1
       },
@@ -102,7 +104,7 @@
       "M": {
         "4": 6,
         "5": 3,
-        "6": 3,
+        "6": 4,
         "7": 1
       },
       "N": {
@@ -126,7 +128,7 @@
       }
     },
     "two_letter_list": {
-      "DE": 9,
+      "DE": 10,
       "DO": 6,
       "DU": 5,
       "EM": 2,
@@ -134,6 +136,7 @@
       "EV": 2,
       "ME": 5,
       "MO": 8,
+      "MU": 1,
       "NE": 4,
       "NO": 3,
       "OM": 1,

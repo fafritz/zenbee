@@ -1,15 +1,16 @@
 {
   "pangram": "heading",
   "center_letter": "i",
-  "num_answers": 72,
+  "num_answers": 75,
   "num_pangrams": 1,
-  "possible_points": 399,
+  "possible_points": 419,
   "answer_pangrams": [
     "heading"
   ],
   "answers": [
     "adding",
     "again",
+    "ageing",
     "aging",
     "aide",
     "aided",
@@ -21,6 +22,7 @@
     "deigned",
     "deigning",
     "denied",
+    "denning",
     "died",
     "digging",
     "dine",
@@ -75,6 +77,7 @@
     "nagging",
     "naiad",
     "needing",
+    "negging",
     "neigh",
     "neighed",
     "neighing",
@@ -86,31 +89,31 @@
     "by_length": {
       "4": 12,
       "5": 12,
-      "6": 22,
-      "7": 21,
+      "6": 23,
+      "7": 23,
       "8": 4,
       "9": 1
     },
     "by_first_letter": {
-      "A": 7,
-      "D": 16,
+      "A": 8,
+      "D": 17,
       "E": 7,
       "G": 13,
       "H": 17,
       "I": 4,
-      "N": 8
+      "N": 9
     },
     "grid": {
       "A": {
         "4": 1,
         "5": 3,
-        "6": 3
+        "6": 4
       },
       "D": {
         "4": 3,
         "5": 2,
         "6": 4,
-        "7": 5,
+        "7": 6,
         "8": 1,
         "9": 1
       },
@@ -140,16 +143,16 @@
       "N": {
         "4": 2,
         "5": 2,
-        "7": 3,
+        "7": 4,
         "8": 1
       }
     },
     "two_letter_list": {
       "AD": 1,
-      "AG": 2,
+      "AG": 3,
       "AI": 3,
       "AN": 1,
-      "DE": 6,
+      "DE": 7,
       "DI": 10,
       "ED": 2,
       "EG": 1,
@@ -163,7 +166,7 @@
       "ID": 1,
       "IN": 3,
       "NA": 2,
-      "NE": 4,
+      "NE": 5,
       "NI": 2
     }
   }

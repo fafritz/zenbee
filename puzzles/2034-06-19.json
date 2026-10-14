@@ -1,9 +1,9 @@
 {
   "pangram": "defunct",
   "center_letter": "e",
-  "num_answers": 77,
+  "num_answers": 79,
   "num_pangrams": 1,
-  "possible_points": 374,
+  "possible_points": 386,
   "answer_pangrams": [
     "defunct"
   ],
@@ -28,6 +28,7 @@
     "defended",
     "deft",
     "defunct",
+    "denned",
     "dent",
     "dented",
     "denude",
@@ -66,6 +67,7 @@
     "feud",
     "feuded",
     "funded",
+    "funned",
     "need",
     "needed",
     "nene",
@@ -91,16 +93,16 @@
     "by_length": {
       "4": 22,
       "5": 12,
-      "6": 29,
+      "6": 31,
       "7": 5,
       "8": 7,
       "10": 2
     },
     "by_first_letter": {
       "C": 6,
-      "D": 31,
+      "D": 32,
       "E": 9,
-      "F": 12,
+      "F": 13,
       "N": 5,
       "T": 10,
       "U": 4
@@ -114,7 +116,7 @@
       "D": {
         "4": 6,
         "5": 3,
-        "6": 13,
+        "6": 14,
         "7": 4,
         "8": 5
       },
@@ -127,7 +129,7 @@
       "F": {
         "4": 5,
         "5": 2,
-        "6": 5
+        "6": 6
       },
       "N": {
         "4": 2,
@@ -147,14 +149,14 @@
     "two_letter_list": {
       "CE": 3,
       "CU": 3,
-      "DE": 24,
+      "DE": 25,
       "DU": 7,
       "ED": 2,
       "EF": 3,
       "EN": 3,
       "ET": 1,
       "FE": 11,
-      "FU": 1,
+      "FU": 2,
       "NE": 4,
       "NU": 1,
       "TE": 7,

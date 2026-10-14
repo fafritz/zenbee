@@ -1,14 +1,15 @@
 {
   "pangram": "vamping",
   "center_letter": "m",
-  "num_answers": 31,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 165,
+  "possible_points": 171,
   "answer_pangrams": [
     "vamping"
   ],
   "answers": [
     "aiming",
+    "amping",
     "gaming",
     "gamma",
     "imaging",
@@ -45,13 +46,13 @@
     "by_length": {
       "4": 7,
       "5": 8,
-      "6": 6,
+      "6": 7,
       "7": 7,
       "8": 1,
       "9": 2
     },
     "by_first_letter": {
-      "A": 1,
+      "A": 2,
       "G": 2,
       "I": 4,
       "M": 18,
@@ -61,7 +62,7 @@
     },
     "grid": {
       "A": {
-        "6": 1
+        "6": 2
       },
       "G": {
         "5": 1,
@@ -94,6 +95,7 @@
     },
     "two_letter_list": {
       "AI": 1,
+      "AM": 1,
       "GA": 2,
       "IM": 4,
       "MA": 12,

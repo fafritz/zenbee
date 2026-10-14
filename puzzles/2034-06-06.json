@@ -1,9 +1,9 @@
 {
   "pangram": "tongued",
   "center_letter": "d",
-  "num_answers": 78,
+  "num_answers": 80,
   "num_pangrams": 1,
-  "possible_points": 374,
+  "possible_points": 386,
   "answer_pangrams": [
     "tongued"
   ],
@@ -11,6 +11,7 @@
     "deed",
     "deeded",
     "dengue",
+    "denned",
     "denote",
     "denoted",
     "dent",
@@ -56,6 +57,7 @@
     "gutted",
     "need",
     "needed",
+    "negged",
     "netted",
     "nodded",
     "node",
@@ -92,15 +94,15 @@
     "by_length": {
       "4": 19,
       "5": 17,
-      "6": 32,
+      "6": 34,
       "7": 9,
       "8": 1
     },
     "by_first_letter": {
-      "D": 33,
+      "D": 34,
       "E": 6,
       "G": 7,
-      "N": 9,
+      "N": 10,
       "O": 3,
       "T": 16,
       "U": 4
@@ -109,7 +111,7 @@
       "D": {
         "4": 10,
         "5": 4,
-        "6": 13,
+        "6": 14,
         "7": 6
       },
       "E": {
@@ -125,7 +127,7 @@
       "N": {
         "4": 2,
         "5": 2,
-        "6": 5
+        "6": 6
       },
       "O": {
         "5": 2,
@@ -145,7 +147,7 @@
       }
     },
     "two_letter_list": {
-      "DE": 11,
+      "DE": 12,
       "DO": 12,
       "DU": 10,
       "ED": 2,
@@ -155,7 +157,7 @@
       "GE": 2,
       "GO": 3,
       "GU": 2,
-      "NE": 3,
+      "NE": 4,
       "NO": 3,
       "NU": 3,
       "OU": 3,

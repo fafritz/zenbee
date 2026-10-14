@@ -1,9 +1,9 @@
 {
   "pangram": "nakedly",
   "center_letter": "n",
-  "num_answers": 53,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 247,
+  "possible_points": 259,
   "answer_pangrams": [
     "nakedly"
   ],
@@ -21,6 +21,7 @@
     "deaden",
     "deadened",
     "dean",
+    "denned",
     "deny",
     "elan",
     "ended",
@@ -60,25 +61,26 @@
     "needy",
     "nene",
     "yank",
-    "yanked"
+    "yanked",
+    "yenned"
   ],
   "date": "2029-09-18",
   "hints": {
     "by_length": {
       "4": 16,
       "5": 12,
-      "6": 15,
+      "6": 17,
       "7": 6,
       "8": 4
     },
     "by_first_letter": {
       "A": 5,
-      "D": 9,
+      "D": 10,
       "E": 2,
       "K": 13,
       "L": 11,
       "N": 11,
-      "Y": 2
+      "Y": 3
     },
     "grid": {
       "A": {
@@ -90,7 +92,7 @@
       "D": {
         "4": 3,
         "5": 1,
-        "6": 3,
+        "6": 4,
         "7": 1,
         "8": 1
       },
@@ -119,14 +121,14 @@
       },
       "Y": {
         "4": 1,
-        "6": 1
+        "6": 2
       }
     },
     "two_letter_list": {
       "AD": 2,
       "AN": 3,
       "DA": 5,
-      "DE": 4,
+      "DE": 5,
       "EL": 1,
       "EN": 1,
       "KE": 6,
@@ -135,7 +137,8 @@
       "LE": 4,
       "NA": 5,
       "NE": 6,
-      "YA": 2
+      "YA": 2,
+      "YE": 1
     }
   }
 }

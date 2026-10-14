@@ -1,9 +1,9 @@
 {
   "pangram": "peaking",
   "center_letter": "p",
-  "num_answers": 53,
+  "num_answers": 54,
   "num_pangrams": 1,
-  "possible_points": 240,
+  "possible_points": 247,
   "answer_pangrams": [
     "peaking"
   ],
@@ -13,6 +13,7 @@
     "epee",
     "gape",
     "gaping",
+    "gapping",
     "keep",
     "keeping",
     "kingpin",
@@ -68,12 +69,12 @@
       "4": 19,
       "5": 6,
       "6": 12,
-      "7": 16
+      "7": 17
     },
     "by_first_letter": {
       "A": 2,
       "E": 1,
-      "G": 2,
+      "G": 3,
       "K": 3,
       "N": 5,
       "P": 40
@@ -87,7 +88,8 @@
       },
       "G": {
         "4": 1,
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "K": {
         "4": 1,
@@ -109,7 +111,7 @@
       "AG": 1,
       "AP": 1,
       "EP": 1,
-      "GA": 2,
+      "GA": 3,
       "KE": 2,
       "KI": 1,
       "NA": 3,

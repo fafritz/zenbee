@@ -1,9 +1,9 @@
 {
   "pangram": "thumbed",
   "center_letter": "u",
-  "num_answers": 27,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 125,
+  "possible_points": 131,
   "answer_pangrams": [
     "thumbed"
   ],
@@ -23,6 +23,7 @@
     "etude",
     "hubbub",
     "hummed",
+    "mudded",
     "mute",
     "muted",
     "mutt",
@@ -41,7 +42,7 @@
     "by_length": {
       "4": 8,
       "5": 7,
-      "6": 9,
+      "6": 10,
       "7": 3
     },
     "by_first_letter": {
@@ -49,7 +50,7 @@
       "D": 8,
       "E": 1,
       "H": 2,
-      "M": 4,
+      "M": 5,
       "T": 8
     },
     "grid": {
@@ -72,7 +73,7 @@
       "M": {
         "4": 2,
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "T": {
         "4": 3,
@@ -87,7 +88,7 @@
       "DU": 6,
       "ET": 1,
       "HU": 2,
-      "MU": 4,
+      "MU": 5,
       "TH": 4,
       "TU": 4
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "playing",
   "center_letter": "p",
-  "num_answers": 53,
+  "num_answers": 54,
   "num_pangrams": 3,
-  "possible_points": 318,
+  "possible_points": 325,
   "answer_pangrams": [
     "appallingly",
     "applying",
@@ -17,6 +17,7 @@
     "apply",
     "applying",
     "gaping",
+    "gapping",
     "gypping",
     "lapping",
     "napping",
@@ -70,14 +71,14 @@
       "4": 9,
       "5": 9,
       "6": 12,
-      "7": 18,
+      "7": 19,
       "8": 2,
       "9": 2,
       "11": 1
     },
     "by_first_letter": {
       "A": 6,
-      "G": 2,
+      "G": 3,
       "L": 1,
       "N": 4,
       "P": 38,
@@ -93,7 +94,7 @@
       },
       "G": {
         "6": 1,
-        "7": 1
+        "7": 2
       },
       "L": {
         "7": 1
@@ -116,7 +117,7 @@
     },
     "two_letter_list": {
       "AP": 6,
-      "GA": 1,
+      "GA": 2,
       "GY": 1,
       "LA": 1,
       "NA": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "playing",
   "center_letter": "i",
-  "num_answers": 80,
+  "num_answers": 81,
   "num_pangrams": 3,
-  "possible_points": 500,
+  "possible_points": 507,
   "answer_pangrams": [
     "appallingly",
     "applying",
@@ -32,6 +32,7 @@
     "ganglia",
     "gangling",
     "gaping",
+    "gapping",
     "gigging",
     "giggling",
     "giggly",
@@ -97,14 +98,14 @@
       "4": 9,
       "5": 13,
       "6": 17,
-      "7": 30,
+      "7": 31,
       "8": 8,
       "9": 2,
       "11": 1
     },
     "by_first_letter": {
       "A": 13,
-      "G": 15,
+      "G": 16,
       "I": 3,
       "L": 9,
       "N": 8,
@@ -124,7 +125,7 @@
         "4": 2,
         "5": 1,
         "6": 2,
-        "7": 8,
+        "7": 9,
         "8": 2
       },
       "I": {
@@ -162,7 +163,7 @@
       "AL": 4,
       "AN": 2,
       "AP": 4,
-      "GA": 9,
+      "GA": 10,
       "GI": 5,
       "GY": 1,
       "IN": 3,

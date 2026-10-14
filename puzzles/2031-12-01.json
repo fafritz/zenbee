@@ -1,9 +1,9 @@
 {
   "pangram": "yelping",
   "center_letter": "y",
-  "num_answers": 18,
+  "num_answers": 19,
   "num_pangrams": 1,
-  "possible_points": 96,
+  "possible_points": 103,
   "answer_pangrams": [
     "yelping"
   ],
@@ -25,6 +25,7 @@
     "yelling",
     "yelp",
     "yelping",
+    "yenning",
     "yipping"
   ],
   "date": "2031-12-01",
@@ -33,7 +34,7 @@
       "4": 3,
       "5": 8,
       "6": 3,
-      "7": 4
+      "7": 5
     },
     "by_first_letter": {
       "E": 2,
@@ -41,7 +42,7 @@
       "L": 3,
       "N": 2,
       "P": 4,
-      "Y": 5
+      "Y": 6
     },
     "grid": {
       "E": {
@@ -65,7 +66,7 @@
       },
       "Y": {
         "4": 2,
-        "7": 3
+        "7": 4
       }
     },
     "two_letter_list": {
@@ -80,7 +81,7 @@
       "PE": 2,
       "PI": 1,
       "PL": 1,
-      "YE": 4,
+      "YE": 5,
       "YI": 1
     }
   }

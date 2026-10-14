@@ -1,9 +1,9 @@
 {
   "pangram": "harping",
   "center_letter": "a",
-  "num_answers": 62,
+  "num_answers": 63,
   "num_pangrams": 3,
-  "possible_points": 346,
+  "possible_points": 353,
   "answer_pangrams": [
     "graphing",
     "harping",
@@ -28,6 +28,7 @@
     "gang",
     "ganging",
     "gaping",
+    "gapping",
     "garaging",
     "grain",
     "graph",
@@ -79,7 +80,7 @@
       "4": 17,
       "5": 7,
       "6": 11,
-      "7": 19,
+      "7": 20,
       "8": 3,
       "9": 2,
       "10": 2,
@@ -87,7 +88,7 @@
     },
     "by_first_letter": {
       "A": 11,
-      "G": 11,
+      "G": 12,
       "H": 8,
       "I": 2,
       "N": 4,
@@ -108,7 +109,7 @@
         "4": 3,
         "5": 2,
         "6": 1,
-        "7": 3,
+        "7": 4,
         "8": 2
       },
       "H": {
@@ -144,7 +145,7 @@
       "AN": 1,
       "AP": 1,
       "AR": 4,
-      "GA": 8,
+      "GA": 9,
       "GR": 3,
       "HA": 8,
       "IN": 2,

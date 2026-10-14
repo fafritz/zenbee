@@ -1,9 +1,9 @@
 {
   "pangram": "thawing",
   "center_letter": "t",
-  "num_answers": 64,
+  "num_answers": 65,
   "num_pangrams": 1,
-  "possible_points": 327,
+  "possible_points": 334,
   "answer_pangrams": [
     "thawing"
   ],
@@ -71,7 +71,8 @@
     "whiting",
     "wight",
     "with",
-    "within"
+    "within",
+    "witting"
   ],
   "date": "2028-03-16",
   "hints": {
@@ -79,7 +80,7 @@
       "4": 19,
       "5": 12,
       "6": 6,
-      "7": 15,
+      "7": 16,
       "8": 9,
       "9": 2,
       "10": 1
@@ -91,7 +92,7 @@
       "I": 2,
       "N": 3,
       "T": 33,
-      "W": 11
+      "W": 12
     },
     "grid": {
       "A": {
@@ -130,7 +131,7 @@
         "4": 6,
         "5": 1,
         "6": 1,
-        "7": 3
+        "7": 4
       }
     },
     "two_letter_list": {
@@ -152,7 +153,7 @@
       "TW": 11,
       "WA": 5,
       "WH": 3,
-      "WI": 3
+      "WI": 4
     }
   }
 }

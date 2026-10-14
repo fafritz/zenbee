@@ -1,9 +1,9 @@
 {
   "pangram": "clinked",
   "center_letter": "d",
-  "num_answers": 75,
+  "num_answers": 76,
   "num_pangrams": 1,
-  "possible_points": 367,
+  "possible_points": 373,
   "answer_pangrams": [
     "clinked"
   ],
@@ -28,6 +28,7 @@
     "deli",
     "dell",
     "denied",
+    "denned",
     "dice",
     "diced",
     "diddle",
@@ -89,14 +90,14 @@
     "by_length": {
       "4": 19,
       "5": 13,
-      "6": 30,
+      "6": 31,
       "7": 9,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
       "C": 5,
-      "D": 27,
+      "D": 28,
       "E": 6,
       "I": 7,
       "K": 14,
@@ -113,7 +114,7 @@
       "D": {
         "4": 10,
         "5": 4,
-        "6": 9,
+        "6": 10,
         "7": 3,
         "8": 1
       },
@@ -151,7 +152,7 @@
     "two_letter_list": {
       "CE": 3,
       "CL": 2,
-      "DE": 15,
+      "DE": 16,
       "DI": 12,
       "ED": 1,
       "EE": 1,

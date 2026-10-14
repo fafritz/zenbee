@@ -1,9 +1,9 @@
 {
   "pangram": "fixated",
   "center_letter": "d",
-  "num_answers": 50,
+  "num_answers": 51,
   "num_pangrams": 1,
-  "possible_points": 213,
+  "possible_points": 219,
   "answer_pangrams": [
     "fixated"
   ],
@@ -38,6 +38,7 @@
     "fade",
     "faded",
     "fated",
+    "fatted",
     "faxed",
     "feed",
     "feted",
@@ -64,7 +65,7 @@
     "by_length": {
       "4": 18,
       "5": 11,
-      "6": 15,
+      "6": 16,
       "7": 5,
       "8": 1
     },
@@ -72,7 +73,7 @@
       "A": 5,
       "D": 17,
       "E": 5,
-      "F": 10,
+      "F": 11,
       "I": 3,
       "T": 10
     },
@@ -97,7 +98,7 @@
       "F": {
         "4": 2,
         "5": 6,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "I": {
@@ -121,7 +122,7 @@
       "DI": 5,
       "ED": 4,
       "EX": 1,
-      "FA": 4,
+      "FA": 5,
       "FE": 3,
       "FI": 3,
       "ID": 3,

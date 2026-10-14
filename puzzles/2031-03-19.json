@@ -1,9 +1,9 @@
 {
   "pangram": "tangoed",
   "center_letter": "g",
-  "num_answers": 55,
+  "num_answers": 56,
   "num_pangrams": 1,
-  "possible_points": 235,
+  "possible_points": 241,
   "answer_pangrams": [
     "tangoed"
   ],
@@ -53,6 +53,7 @@
     "nagged",
     "negate",
     "negated",
+    "negged",
     "tagged",
     "tang",
     "tangent",
@@ -69,7 +70,7 @@
     "by_length": {
       "4": 20,
       "5": 9,
-      "6": 19,
+      "6": 20,
       "7": 7
     },
     "by_first_letter": {
@@ -77,7 +78,7 @@
       "D": 6,
       "E": 6,
       "G": 24,
-      "N": 3,
+      "N": 4,
       "T": 10
     },
     "grid": {
@@ -104,7 +105,7 @@
         "6": 9
       },
       "N": {
-        "6": 2,
+        "6": 3,
         "7": 1
       },
       "T": {
@@ -126,7 +127,7 @@
       "GN": 1,
       "GO": 10,
       "NA": 1,
-      "NE": 2,
+      "NE": 3,
       "TA": 5,
       "TE": 1,
       "TO": 4

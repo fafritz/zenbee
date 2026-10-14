@@ -1,9 +1,9 @@
 {
   "pangram": "chained",
   "center_letter": "n",
-  "num_answers": 59,
+  "num_answers": 60,
   "num_pangrams": 2,
-  "possible_points": 307,
+  "possible_points": 313,
   "answer_pangrams": [
     "chained",
     "hacienda"
@@ -38,6 +38,7 @@
     "dean",
     "decadence",
     "denied",
+    "denned",
     "dine",
     "dined",
     "dinned",
@@ -74,7 +75,7 @@
     "by_length": {
       "4": 14,
       "5": 14,
-      "6": 16,
+      "6": 17,
       "7": 9,
       "8": 4,
       "9": 2
@@ -82,7 +83,7 @@
     "by_first_letter": {
       "A": 3,
       "C": 19,
-      "D": 10,
+      "D": 11,
       "E": 3,
       "H": 8,
       "I": 5,
@@ -104,7 +105,7 @@
       "D": {
         "4": 2,
         "5": 2,
-        "6": 4,
+        "6": 5,
         "8": 1,
         "9": 1
       },
@@ -139,7 +140,7 @@
       "CH": 7,
       "CI": 2,
       "DA": 2,
-      "DE": 5,
+      "DE": 6,
       "DI": 3,
       "EN": 3,
       "HA": 3,

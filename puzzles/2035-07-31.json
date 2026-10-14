@@ -1,9 +1,9 @@
 {
   "pangram": "varying",
   "center_letter": "a",
-  "num_answers": 59,
+  "num_answers": 60,
   "num_pangrams": 1,
-  "possible_points": 302,
+  "possible_points": 308,
   "answer_pangrams": [
     "varying"
   ],
@@ -60,6 +60,7 @@
     "raring",
     "ravaging",
     "raving",
+    "raying",
     "vagary",
     "vain",
     "vanning",
@@ -73,7 +74,7 @@
     "by_length": {
       "4": 17,
       "5": 10,
-      "6": 9,
+      "6": 10,
       "7": 15,
       "8": 5,
       "9": 1,
@@ -84,7 +85,7 @@
       "G": 15,
       "I": 2,
       "N": 6,
-      "R": 12,
+      "R": 13,
       "V": 5,
       "Y": 2
     },
@@ -117,7 +118,7 @@
       "R": {
         "4": 3,
         "5": 2,
-        "6": 3,
+        "6": 4,
         "7": 3,
         "8": 1
       },
@@ -141,7 +142,7 @@
       "IN": 2,
       "NA": 5,
       "NI": 1,
-      "RA": 12,
+      "RA": 13,
       "VA": 5,
       "YA": 2
     }

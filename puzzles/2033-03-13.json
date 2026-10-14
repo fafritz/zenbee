@@ -1,9 +1,9 @@
 {
   "pangram": "felting",
   "center_letter": "g",
-  "num_answers": 79,
+  "num_answers": 81,
   "num_pangrams": 3,
-  "possible_points": 519,
+  "possible_points": 533,
   "answer_pangrams": [
     "felting",
     "filleting",
@@ -25,6 +25,7 @@
     "filleting",
     "filling",
     "fining",
+    "finning",
     "fitting",
     "fleeing",
     "fleeting",
@@ -68,6 +69,7 @@
     "lilting",
     "lining",
     "linting",
+    "negging",
     "negligee",
     "negligent",
     "netting",
@@ -96,18 +98,18 @@
       "4": 8,
       "5": 7,
       "6": 17,
-      "7": 29,
+      "7": 31,
       "8": 14,
       "9": 3,
       "11": 1
     },
     "by_first_letter": {
       "E": 4,
-      "F": 17,
+      "F": 18,
       "G": 24,
       "I": 4,
       "L": 9,
-      "N": 6,
+      "N": 7,
       "T": 15
     },
     "grid": {
@@ -118,7 +120,7 @@
       "F": {
         "5": 2,
         "6": 3,
-        "7": 6,
+        "7": 7,
         "8": 5,
         "9": 1
       },
@@ -141,7 +143,7 @@
       },
       "N": {
         "6": 1,
-        "7": 1,
+        "7": 2,
         "8": 3,
         "9": 1
       },
@@ -157,7 +159,7 @@
       "EG": 1,
       "EN": 2,
       "FE": 7,
-      "FI": 5,
+      "FI": 6,
       "FL": 5,
       "GE": 12,
       "GI": 8,
@@ -166,7 +168,7 @@
       "IN": 2,
       "LE": 2,
       "LI": 7,
-      "NE": 4,
+      "NE": 5,
       "NI": 2,
       "TE": 3,
       "TI": 12

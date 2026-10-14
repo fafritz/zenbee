@@ -1,9 +1,9 @@
 {
   "pangram": "wolfing",
   "center_letter": "i",
-  "num_answers": 70,
+  "num_answers": 71,
   "num_pangrams": 4,
-  "possible_points": 436,
+  "possible_points": 443,
   "answer_pangrams": [
     "flowing",
     "following",
@@ -15,6 +15,7 @@
     "fill",
     "filling",
     "fining",
+    "finning",
     "fling",
     "flinging",
     "flogging",
@@ -88,12 +89,12 @@
       "4": 10,
       "5": 8,
       "6": 19,
-      "7": 23,
+      "7": 24,
       "8": 7,
       "9": 3
     },
     "by_first_letter": {
-      "F": 15,
+      "F": 16,
       "G": 13,
       "I": 4,
       "L": 10,
@@ -106,7 +107,7 @@
         "4": 2,
         "5": 2,
         "6": 2,
-        "7": 6,
+        "7": 7,
         "8": 2,
         "9": 1
       },
@@ -148,7 +149,7 @@
       }
     },
     "two_letter_list": {
-      "FI": 4,
+      "FI": 5,
       "FL": 4,
       "FO": 7,
       "GI": 5,

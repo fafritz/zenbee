@@ -1,9 +1,9 @@
 {
   "pangram": "etching",
   "center_letter": "g",
-  "num_answers": 59,
+  "num_answers": 60,
   "num_pangrams": 1,
-  "possible_points": 388,
+  "possible_points": 395,
   "answer_pangrams": [
     "etching"
   ],
@@ -46,6 +46,7 @@
     "inciting",
     "inning",
     "itching",
+    "negging",
     "neigh",
     "neighing",
     "netting",
@@ -74,7 +75,7 @@
       "4": 4,
       "5": 11,
       "6": 10,
-      "7": 18,
+      "7": 19,
       "8": 12,
       "9": 1,
       "10": 2,
@@ -86,7 +87,7 @@
       "G": 9,
       "H": 10,
       "I": 7,
-      "N": 6,
+      "N": 7,
       "T": 15
     },
     "grid": {
@@ -125,7 +126,7 @@
       "N": {
         "4": 1,
         "5": 2,
-        "7": 2,
+        "7": 3,
         "8": 1
       },
       "T": {
@@ -151,7 +152,7 @@
       "IG": 2,
       "IN": 3,
       "IT": 1,
-      "NE": 3,
+      "NE": 4,
       "NI": 3,
       "TE": 3,
       "TH": 3,

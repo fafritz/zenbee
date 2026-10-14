@@ -1,9 +1,9 @@
 {
   "pangram": "notched",
   "center_letter": "t",
-  "num_answers": 71,
+  "num_answers": 72,
   "num_pangrams": 1,
-  "possible_points": 349,
+  "possible_points": 355,
   "answer_pangrams": [
     "notched"
   ],
@@ -42,6 +42,7 @@
     "etched",
     "hoot",
     "hooted",
+    "hotted",
     "netted",
     "notch",
     "notched",
@@ -85,7 +86,7 @@
     "by_length": {
       "4": 21,
       "5": 11,
-      "6": 19,
+      "6": 20,
       "7": 12,
       "8": 4,
       "9": 4
@@ -94,7 +95,7 @@
       "C": 15,
       "D": 14,
       "E": 3,
-      "H": 2,
+      "H": 3,
       "N": 5,
       "O": 2,
       "T": 30
@@ -121,7 +122,7 @@
       },
       "H": {
         "4": 1,
-        "6": 1
+        "6": 2
       },
       "N": {
         "4": 1,
@@ -147,7 +148,7 @@
       "DO": 4,
       "EN": 1,
       "ET": 2,
-      "HO": 2,
+      "HO": 3,
       "NE": 1,
       "NO": 4,
       "OC": 1,

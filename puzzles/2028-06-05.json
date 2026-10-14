@@ -1,9 +1,9 @@
 {
   "pangram": "defying",
   "center_letter": "y",
-  "num_answers": 25,
+  "num_answers": 27,
   "num_pangrams": 3,
-  "possible_points": 140,
+  "possible_points": 153,
   "answer_pangrams": [
     "defying",
     "deifying",
@@ -34,15 +34,17 @@
     "giddy",
     "iffy",
     "needy",
-    "ninny"
+    "ninny",
+    "yenned",
+    "yenning"
   ],
   "date": "2028-06-05",
   "hints": {
     "by_length": {
       "4": 7,
       "5": 8,
-      "6": 3,
-      "7": 4,
+      "6": 4,
+      "7": 5,
       "8": 2,
       "10": 1
     },
@@ -52,7 +54,8 @@
       "F": 1,
       "G": 1,
       "I": 1,
-      "N": 2
+      "N": 2,
+      "Y": 2
     },
     "grid": {
       "D": {
@@ -81,6 +84,10 @@
       },
       "N": {
         "5": 2
+      },
+      "Y": {
+        "6": 1,
+        "7": 1
       }
     },
     "two_letter_list": {
@@ -94,7 +101,8 @@
       "GI": 1,
       "IF": 1,
       "NE": 1,
-      "NI": 1
+      "NI": 1,
+      "YE": 2
     }
   }
 }

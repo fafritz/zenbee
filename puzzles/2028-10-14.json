@@ -1,15 +1,16 @@
 {
   "pangram": "heaping",
   "center_letter": "n",
-  "num_answers": 73,
+  "num_answers": 76,
   "num_pangrams": 2,
-  "possible_points": 384,
+  "possible_points": 404,
   "answer_pangrams": [
     "happening",
     "heaping"
   ],
   "answers": [
     "again",
+    "ageing",
     "aging",
     "angina",
     "aping",
@@ -23,6 +24,7 @@
     "gang",
     "ganging",
     "gaping",
+    "gapping",
     "geeing",
     "gene",
     "genie",
@@ -48,6 +50,7 @@
     "nape",
     "napping",
     "neap",
+    "negging",
     "neigh",
     "neighing",
     "nene",
@@ -88,24 +91,24 @@
     "by_length": {
       "4": 17,
       "5": 13,
-      "6": 18,
-      "7": 21,
+      "6": 19,
+      "7": 23,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
-      "A": 4,
+      "A": 5,
       "E": 4,
-      "G": 12,
+      "G": 13,
       "H": 11,
       "I": 2,
-      "N": 12,
+      "N": 13,
       "P": 28
     },
     "grid": {
       "A": {
         "5": 3,
-        "6": 1
+        "6": 2
       },
       "E": {
         "6": 3,
@@ -115,7 +118,7 @@
         "4": 3,
         "5": 2,
         "6": 2,
-        "7": 5
+        "7": 6
       },
       "H": {
         "4": 1,
@@ -132,7 +135,7 @@
       "N": {
         "4": 7,
         "5": 1,
-        "7": 3,
+        "7": 4,
         "8": 1
       },
       "P": {
@@ -143,12 +146,12 @@
       }
     },
     "two_letter_list": {
-      "AG": 2,
+      "AG": 3,
       "AN": 1,
       "AP": 1,
       "EG": 1,
       "EN": 3,
-      "GA": 6,
+      "GA": 7,
       "GE": 4,
       "GI": 2,
       "HA": 4,
@@ -156,7 +159,7 @@
       "HI": 4,
       "IN": 2,
       "NA": 5,
-      "NE": 4,
+      "NE": 5,
       "NI": 3,
       "PA": 9,
       "PE": 6,

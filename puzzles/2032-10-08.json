@@ -1,9 +1,9 @@
 {
   "pangram": "plunked",
   "center_letter": "d",
-  "num_answers": 67,
+  "num_answers": 68,
   "num_pangrams": 1,
-  "possible_points": 334,
+  "possible_points": 340,
   "answer_pangrams": [
     "plunked"
   ],
@@ -16,6 +16,7 @@
     "dell",
     "delude",
     "deluded",
+    "denned",
     "denude",
     "denuded",
     "depend",
@@ -81,12 +82,12 @@
     "by_length": {
       "4": 16,
       "5": 11,
-      "6": 28,
+      "6": 29,
       "7": 8,
       "8": 4
     },
     "by_first_letter": {
-      "D": 25,
+      "D": 26,
       "E": 6,
       "K": 6,
       "L": 3,
@@ -98,7 +99,7 @@
       "D": {
         "4": 10,
         "5": 2,
-        "6": 9,
+        "6": 10,
         "7": 2,
         "8": 2
       },
@@ -136,7 +137,7 @@
       }
     },
     "two_letter_list": {
-      "DE": 12,
+      "DE": 13,
       "DU": 13,
       "EE": 1,
       "EK": 1,

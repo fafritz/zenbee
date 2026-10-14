@@ -1,9 +1,9 @@
 {
   "pangram": "belying",
   "center_letter": "g",
-  "num_answers": 62,
+  "num_answers": 64,
   "num_pangrams": 4,
-  "possible_points": 410,
+  "possible_points": 424,
   "answer_pangrams": [
     "bellying",
     "belying",
@@ -66,13 +66,15 @@
     "lignin",
     "lining",
     "lying",
+    "negging",
     "negligee",
     "negligible",
     "negligibly",
     "nibbling",
     "niggle",
     "niggling",
-    "yelling"
+    "yelling",
+    "yenning"
   ],
   "date": "2032-11-19",
   "hints": {
@@ -80,7 +82,7 @@
       "4": 6,
       "5": 12,
       "6": 16,
-      "7": 13,
+      "7": 15,
       "8": 9,
       "9": 3,
       "10": 3
@@ -91,8 +93,8 @@
       "G": 17,
       "I": 4,
       "L": 9,
-      "N": 6,
-      "Y": 1
+      "N": 7,
+      "Y": 2
     },
     "grid": {
       "B": {
@@ -127,11 +129,12 @@
       },
       "N": {
         "6": 1,
+        "7": 1,
         "8": 3,
         "10": 2
       },
       "Y": {
-        "7": 1
+        "7": 2
       }
     },
     "two_letter_list": {
@@ -152,9 +155,9 @@
       "LE": 4,
       "LI": 4,
       "LY": 1,
-      "NE": 3,
+      "NE": 4,
       "NI": 3,
-      "YE": 1
+      "YE": 2
     }
   }
 }

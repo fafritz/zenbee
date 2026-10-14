@@ -1,9 +1,9 @@
 {
   "pangram": "farting",
   "center_letter": "f",
-  "num_answers": 45,
+  "num_answers": 47,
   "num_pangrams": 3,
-  "possible_points": 251,
+  "possible_points": 265,
   "answer_pangrams": [
     "farting",
     "grafting",
@@ -22,8 +22,10 @@
     "faring",
     "farting",
     "fating",
+    "fatting",
     "fiat",
     "fining",
+    "finning",
     "firing",
     "fitting",
     "frag",
@@ -62,13 +64,13 @@
       "4": 13,
       "5": 4,
       "6": 9,
-      "7": 11,
+      "7": 13,
       "8": 7,
       "10": 1
     },
     "by_first_letter": {
       "A": 2,
-      "F": 20,
+      "F": 22,
       "G": 8,
       "I": 3,
       "N": 1,
@@ -84,7 +86,7 @@
         "4": 5,
         "5": 2,
         "6": 5,
-        "7": 4,
+        "7": 6,
         "8": 4
       },
       "G": {
@@ -115,8 +117,8 @@
     },
     "two_letter_list": {
       "AF": 2,
-      "FA": 10,
-      "FI": 4,
+      "FA": 11,
+      "FI": 5,
       "FR": 6,
       "GA": 2,
       "GI": 2,

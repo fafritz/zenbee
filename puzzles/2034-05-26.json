@@ -1,9 +1,9 @@
 {
   "pangram": "exuding",
   "center_letter": "n",
-  "num_answers": 66,
+  "num_answers": 70,
   "num_pangrams": 1,
-  "possible_points": 382,
+  "possible_points": 408,
   "answer_pangrams": [
     "exuding"
   ],
@@ -14,6 +14,8 @@
     "deigning",
     "dengue",
     "denied",
+    "denned",
+    "denning",
     "denude",
     "denuded",
     "denuding",
@@ -63,6 +65,8 @@
     "need",
     "needed",
     "needing",
+    "negged",
+    "negging",
     "nene",
     "nine",
     "nixed",
@@ -80,24 +84,24 @@
     "by_length": {
       "4": 8,
       "5": 11,
-      "6": 22,
-      "7": 20,
+      "6": 24,
+      "7": 22,
       "8": 5
     },
     "by_first_letter": {
-      "D": 25,
+      "D": 27,
       "E": 10,
       "G": 11,
       "I": 6,
-      "N": 10,
+      "N": 12,
       "U": 4
     },
     "grid": {
       "D": {
         "4": 4,
         "5": 2,
-        "6": 9,
-        "7": 8,
+        "6": 10,
+        "7": 9,
         "8": 2
       },
       "E": {
@@ -120,8 +124,8 @@
       "N": {
         "4": 3,
         "5": 2,
-        "6": 3,
-        "7": 2
+        "6": 4,
+        "7": 3
       },
       "U": {
         "5": 2,
@@ -129,7 +133,7 @@
       }
     },
     "two_letter_list": {
-      "DE": 9,
+      "DE": 11,
       "DI": 9,
       "DU": 7,
       "ED": 1,
@@ -140,7 +144,7 @@
       "GI": 3,
       "GU": 3,
       "IN": 6,
-      "NE": 4,
+      "NE": 6,
       "NI": 3,
       "NU": 3,
       "UN": 4

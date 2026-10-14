@@ -1,9 +1,9 @@
 {
   "pangram": "lunched",
   "center_letter": "d",
-  "num_answers": 56,
+  "num_answers": 57,
   "num_pangrams": 1,
-  "possible_points": 283,
+  "possible_points": 289,
   "answer_pangrams": [
     "lunched"
   ],
@@ -24,6 +24,7 @@
     "dell",
     "delude",
     "deluded",
+    "denned",
     "denude",
     "denuded",
     "deuce",
@@ -70,13 +71,13 @@
     "by_length": {
       "4": 13,
       "5": 10,
-      "6": 21,
+      "6": 22,
       "7": 9,
       "8": 3
     },
     "by_first_letter": {
       "C": 9,
-      "D": 20,
+      "D": 21,
       "E": 7,
       "H": 8,
       "L": 5,
@@ -94,7 +95,7 @@
       "D": {
         "4": 6,
         "5": 3,
-        "6": 8,
+        "6": 9,
         "7": 3
       },
       "E": {
@@ -125,7 +126,7 @@
       "CE": 3,
       "CL": 2,
       "CU": 4,
-      "DE": 11,
+      "DE": 12,
       "DU": 9,
       "ED": 2,
       "EE": 1,

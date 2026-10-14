@@ -1,9 +1,9 @@
 {
   "pangram": "bunched",
   "center_letter": "e",
-  "num_answers": 43,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 207,
+  "possible_points": 213,
   "answer_pangrams": [
     "bunched"
   ],
@@ -25,6 +25,7 @@
     "deduced",
     "deed",
     "deeded",
+    "denned",
     "denude",
     "denuded",
     "deuce",
@@ -57,14 +58,14 @@
     "by_length": {
       "4": 11,
       "5": 12,
-      "6": 13,
+      "6": 14,
       "7": 5,
       "8": 2
     },
     "by_first_letter": {
       "B": 8,
       "C": 5,
-      "D": 14,
+      "D": 15,
       "E": 5,
       "H": 4,
       "N": 3,
@@ -84,7 +85,7 @@
       "D": {
         "4": 3,
         "5": 3,
-        "6": 6,
+        "6": 7,
         "7": 2
       },
       "E": {
@@ -112,7 +113,7 @@
       "BU": 2,
       "CE": 2,
       "CU": 3,
-      "DE": 8,
+      "DE": 9,
       "DU": 6,
       "EB": 1,
       "ED": 2,

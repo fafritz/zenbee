@@ -1,9 +1,9 @@
 {
   "pangram": "copying",
   "center_letter": "o",
-  "num_answers": 39,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 193,
+  "possible_points": 200,
   "answer_pangrams": [
     "copying"
   ],
@@ -44,6 +44,7 @@
     "pogoing",
     "pony",
     "poop",
+    "pooping",
     "popping",
     "poppy",
     "yogi"
@@ -54,7 +55,7 @@
       "4": 12,
       "5": 6,
       "6": 7,
-      "7": 12,
+      "7": 13,
       "9": 2
     },
     "by_first_letter": {
@@ -63,7 +64,7 @@
       "I": 3,
       "N": 2,
       "O": 4,
-      "P": 8,
+      "P": 9,
       "Y": 1
     },
     "grid": {
@@ -96,7 +97,7 @@
         "4": 3,
         "5": 1,
         "6": 1,
-        "7": 2,
+        "7": 3,
         "9": 1
       },
       "Y": {
@@ -112,7 +113,7 @@
       "ON": 2,
       "OP": 2,
       "PI": 2,
-      "PO": 6,
+      "PO": 7,
       "YO": 1
     }
   }

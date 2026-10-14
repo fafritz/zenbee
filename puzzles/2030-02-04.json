@@ -1,9 +1,9 @@
 {
   "pangram": "minuted",
   "center_letter": "u",
-  "num_answers": 43,
+  "num_answers": 44,
   "num_pangrams": 2,
-  "possible_points": 237,
+  "possible_points": 243,
   "answer_pangrams": [
     "minuted",
     "mutinied"
@@ -30,6 +30,7 @@
     "minute",
     "minuted",
     "minutemen",
+    "mudded",
     "muddied",
     "mute",
     "muted",
@@ -58,7 +59,7 @@
     "by_length": {
       "4": 9,
       "5": 10,
-      "6": 13,
+      "6": 14,
       "7": 5,
       "8": 4,
       "9": 1,
@@ -68,7 +69,7 @@
       "D": 7,
       "E": 3,
       "I": 3,
-      "M": 14,
+      "M": 15,
       "N": 1,
       "T": 5,
       "U": 10
@@ -91,7 +92,7 @@
       "M": {
         "4": 3,
         "5": 1,
-        "6": 4,
+        "6": 5,
         "7": 4,
         "8": 1,
         "9": 1
@@ -121,7 +122,7 @@
       "IN": 2,
       "ME": 2,
       "MI": 6,
-      "MU": 6,
+      "MU": 7,
       "NU": 1,
       "TE": 1,
       "TU": 4,

@@ -1,9 +1,9 @@
 {
   "pangram": "thumped",
   "center_letter": "u",
-  "num_answers": 30,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 128,
+  "possible_points": 134,
   "answer_pangrams": [
     "thumped"
   ],
@@ -21,6 +21,7 @@
     "hummed",
     "hump",
     "humped",
+    "mudded",
     "mute",
     "muted",
     "mutt",
@@ -44,14 +45,14 @@
     "by_length": {
       "4": 11,
       "5": 7,
-      "6": 9,
+      "6": 10,
       "7": 3
     },
     "by_first_letter": {
       "D": 9,
       "E": 1,
       "H": 3,
-      "M": 4,
+      "M": 5,
       "P": 6,
       "T": 5,
       "U": 2
@@ -73,7 +74,7 @@
       "M": {
         "4": 2,
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "P": {
         "4": 2,
@@ -93,7 +94,7 @@
       "DU": 7,
       "ET": 1,
       "HU": 3,
-      "MU": 4,
+      "MU": 5,
       "PU": 6,
       "TH": 4,
       "TU": 1,

@@ -1,14 +1,15 @@
 {
   "pangram": "lounged",
   "center_letter": "n",
-  "num_answers": 60,
+  "num_answers": 62,
   "num_pangrams": 1,
-  "possible_points": 257,
+  "possible_points": 269,
   "answer_pangrams": [
     "lounged"
   ],
   "answers": [
     "dengue",
+    "denned",
     "denude",
     "denuded",
     "doggone",
@@ -47,6 +48,7 @@
     "needed",
     "needle",
     "needled",
+    "negged",
     "nene",
     "neon",
     "nodded",
@@ -74,23 +76,23 @@
     "by_length": {
       "4": 23,
       "5": 5,
-      "6": 23,
+      "6": 25,
       "7": 8,
       "8": 1
     },
     "by_first_letter": {
-      "D": 13,
+      "D": 14,
       "E": 3,
       "G": 8,
       "L": 11,
-      "N": 18,
+      "N": 19,
       "O": 1,
       "U": 6
     },
     "grid": {
       "D": {
         "4": 3,
-        "6": 6,
+        "6": 7,
         "7": 4
       },
       "E": {
@@ -110,7 +112,7 @@
       "N": {
         "4": 9,
         "5": 1,
-        "6": 6,
+        "6": 7,
         "7": 2
       },
       "O": {
@@ -125,7 +127,7 @@
       }
     },
     "two_letter_list": {
-      "DE": 3,
+      "DE": 4,
       "DO": 4,
       "DU": 6,
       "EG": 1,
@@ -137,7 +139,7 @@
       "LE": 2,
       "LO": 6,
       "LU": 3,
-      "NE": 6,
+      "NE": 7,
       "NO": 9,
       "NU": 3,
       "OL": 1,

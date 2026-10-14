@@ -1,9 +1,9 @@
 {
   "pangram": "peaking",
   "center_letter": "k",
-  "num_answers": 25,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 110,
+  "possible_points": 117,
   "answer_pangrams": [
     "peaking"
   ],
@@ -16,6 +16,7 @@
     "keening",
     "keep",
     "keeping",
+    "kegging",
     "kenning",
     "king",
     "kingpin",
@@ -40,14 +41,14 @@
       "4": 11,
       "5": 1,
       "6": 4,
-      "7": 9
+      "7": 10
     },
     "by_first_letter": {
       "A": 1,
       "E": 1,
       "G": 1,
       "I": 1,
-      "K": 11,
+      "K": 12,
       "N": 1,
       "P": 9
     },
@@ -66,7 +67,7 @@
       },
       "K": {
         "4": 5,
-        "7": 6
+        "7": 7
       },
       "N": {
         "6": 1
@@ -82,7 +83,7 @@
       "EK": 1,
       "GE": 1,
       "IN": 1,
-      "KE": 5,
+      "KE": 6,
       "KI": 4,
       "KN": 2,
       "NA": 1,

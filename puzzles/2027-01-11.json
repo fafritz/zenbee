@@ -1,9 +1,9 @@
 {
   "pangram": "welting",
   "center_letter": "w",
-  "num_answers": 40,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 208,
+  "possible_points": 215,
   "answer_pangrams": [
     "welting"
   ],
@@ -47,7 +47,8 @@
     "wing",
     "winging",
     "wining",
-    "winning"
+    "winning",
+    "witting"
   ],
   "date": "2027-01-11",
   "hints": {
@@ -55,7 +56,7 @@
       "4": 12,
       "5": 4,
       "6": 7,
-      "7": 10,
+      "7": 11,
       "8": 6,
       "9": 1
     },
@@ -63,7 +64,7 @@
       "E": 2,
       "N": 3,
       "T": 14,
-      "W": 21
+      "W": 22
     },
     "grid": {
       "E": {
@@ -85,7 +86,7 @@
       "W": {
         "4": 8,
         "6": 4,
-        "7": 8,
+        "7": 9,
         "8": 1
       }
     },
@@ -95,7 +96,7 @@
       "NI": 1,
       "TW": 14,
       "WE": 7,
-      "WI": 14
+      "WI": 15
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "pangram": "plunged",
   "center_letter": "n",
-  "num_answers": 43,
+  "num_answers": 45,
   "num_pangrams": 2,
-  "possible_points": 230,
+  "possible_points": 242,
   "answer_pangrams": [
     "plunged",
     "unplugged"
@@ -12,6 +12,7 @@
     "deepen",
     "deepened",
     "dengue",
+    "denned",
     "denude",
     "denuded",
     "depend",
@@ -34,6 +35,7 @@
     "needed",
     "needle",
     "needled",
+    "negged",
     "nene",
     "nudge",
     "nudged",
@@ -58,24 +60,24 @@
     "by_length": {
       "4": 10,
       "5": 6,
-      "6": 18,
+      "6": 20,
       "7": 5,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
-      "D": 11,
+      "D": 12,
       "E": 2,
       "G": 3,
       "L": 5,
-      "N": 8,
+      "N": 9,
       "P": 6,
       "U": 8
     },
     "grid": {
       "D": {
         "4": 2,
-        "6": 6,
+        "6": 7,
         "7": 1,
         "8": 2
       },
@@ -95,7 +97,7 @@
       "N": {
         "4": 3,
         "5": 1,
-        "6": 3,
+        "6": 4,
         "7": 1
       },
       "P": {
@@ -113,7 +115,7 @@
       }
     },
     "two_letter_list": {
-      "DE": 7,
+      "DE": 8,
       "DU": 4,
       "EN": 2,
       "GE": 1,
@@ -121,7 +123,7 @@
       "GU": 1,
       "LE": 2,
       "LU": 3,
-      "NE": 5,
+      "NE": 6,
       "NU": 3,
       "PE": 3,
       "PL": 2,

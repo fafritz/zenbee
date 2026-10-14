@@ -1,9 +1,9 @@
 {
   "pangram": "emoting",
   "center_letter": "m",
-  "num_answers": 59,
+  "num_answers": 60,
   "num_pangrams": 2,
-  "possible_points": 284,
+  "possible_points": 291,
   "answer_pangrams": [
     "emoting",
     "mentioning"
@@ -15,6 +15,7 @@
     "emote",
     "emoting",
     "emotion",
+    "gemming",
     "gimme",
     "gnome",
     "imminent",
@@ -75,14 +76,14 @@
       "4": 22,
       "5": 7,
       "6": 9,
-      "7": 12,
+      "7": 13,
       "8": 7,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
       "E": 6,
-      "G": 2,
+      "G": 3,
       "I": 2,
       "M": 35,
       "N": 2,
@@ -97,7 +98,8 @@
         "8": 1
       },
       "G": {
-        "5": 2
+        "5": 2,
+        "7": 1
       },
       "I": {
         "4": 1,
@@ -131,6 +133,7 @@
     },
     "two_letter_list": {
       "EM": 6,
+      "GE": 1,
       "GI": 1,
       "GN": 1,
       "IM": 1,

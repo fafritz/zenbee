@@ -1,9 +1,9 @@
 {
   "pangram": "fancied",
   "center_letter": "f",
-  "num_answers": 46,
+  "num_answers": 47,
   "num_pangrams": 3,
-  "possible_points": 257,
+  "possible_points": 263,
   "answer_pangrams": [
     "defiance",
     "fancied",
@@ -55,6 +55,7 @@
     "find",
     "fine",
     "fined",
+    "finned",
     "naif"
   ],
   "date": "2033-06-18",
@@ -62,7 +63,7 @@
     "by_length": {
       "4": 12,
       "5": 6,
-      "6": 12,
+      "6": 13,
       "7": 9,
       "8": 5,
       "9": 1,
@@ -73,7 +74,7 @@
       "C": 2,
       "D": 16,
       "E": 4,
-      "F": 22,
+      "F": 23,
       "N": 1
     },
     "grid": {
@@ -99,7 +100,7 @@
       "F": {
         "4": 8,
         "5": 5,
-        "6": 5,
+        "6": 6,
         "7": 3,
         "8": 1
       },
@@ -116,7 +117,7 @@
       "EF": 2,
       "FA": 7,
       "FE": 5,
-      "FI": 10,
+      "FI": 11,
       "NA": 1
     }
   }

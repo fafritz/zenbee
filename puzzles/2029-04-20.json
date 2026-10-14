@@ -1,9 +1,9 @@
 {
   "pangram": "pigment",
   "center_letter": "g",
-  "num_answers": 53,
+  "num_answers": 55,
   "num_pangrams": 4,
-  "possible_points": 369,
+  "possible_points": 383,
   "answer_pangrams": [
     "impingement",
     "pigment",
@@ -15,6 +15,7 @@
     "emitting",
     "engine",
     "geeing",
+    "gemming",
     "gene",
     "genie",
     "genii",
@@ -34,6 +35,7 @@
     "miming",
     "mining",
     "minting",
+    "negging",
     "netting",
     "nipping",
     "peeping",
@@ -71,17 +73,17 @@
       "4": 3,
       "5": 4,
       "6": 14,
-      "7": 26,
+      "7": 28,
       "8": 4,
       "9": 1,
       "11": 1
     },
     "by_first_letter": {
       "E": 3,
-      "G": 9,
+      "G": 10,
       "I": 6,
       "M": 5,
-      "N": 2,
+      "N": 3,
       "P": 16,
       "T": 12
     },
@@ -94,7 +96,7 @@
         "4": 2,
         "5": 3,
         "6": 1,
-        "7": 3
+        "7": 4
       },
       "I": {
         "6": 2,
@@ -108,7 +110,7 @@
         "7": 2
       },
       "N": {
-        "7": 2
+        "7": 3
       },
       "P": {
         "4": 1,
@@ -126,14 +128,14 @@
       "EG": 1,
       "EM": 1,
       "EN": 1,
-      "GE": 6,
+      "GE": 7,
       "GI": 3,
       "IG": 2,
       "IM": 3,
       "IN": 1,
       "ME": 2,
       "MI": 3,
-      "NE": 1,
+      "NE": 2,
       "NI": 1,
       "PE": 4,
       "PI": 12,

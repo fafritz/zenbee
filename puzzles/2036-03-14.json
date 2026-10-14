@@ -1,9 +1,9 @@
 {
   "pangram": "volumed",
   "center_letter": "u",
-  "num_answers": 27,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 124,
+  "possible_points": 130,
   "answer_pangrams": [
     "volumed"
   ],
@@ -24,6 +24,7 @@
     "lulu",
     "module",
     "modulo",
+    "mudded",
     "muddle",
     "muddled",
     "mule",
@@ -41,14 +42,14 @@
     "by_length": {
       "4": 9,
       "5": 3,
-      "6": 12,
+      "6": 13,
       "7": 3
     },
     "by_first_letter": {
       "D": 8,
       "E": 2,
       "L": 4,
-      "M": 8,
+      "M": 9,
       "O": 2,
       "V": 3
     },
@@ -69,7 +70,7 @@
       },
       "M": {
         "4": 2,
-        "6": 5,
+        "6": 6,
         "7": 1
       },
       "O": {
@@ -88,7 +89,7 @@
       "LO": 1,
       "LU": 3,
       "MO": 2,
-      "MU": 6,
+      "MU": 7,
       "OV": 2,
       "VE": 1,
       "VO": 2

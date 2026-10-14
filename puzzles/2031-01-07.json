@@ -1,14 +1,15 @@
 {
   "pangram": "unmoved",
   "center_letter": "n",
-  "num_answers": 43,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 176,
+  "possible_points": 182,
   "answer_pangrams": [
     "unmoved"
   ],
   "answers": [
     "demon",
+    "denned",
     "denude",
     "denuded",
     "done",
@@ -57,12 +58,12 @@
     "by_length": {
       "4": 18,
       "5": 7,
-      "6": 12,
+      "6": 13,
       "7": 4,
       "8": 2
     },
     "by_first_letter": {
-      "D": 8,
+      "D": 9,
       "E": 6,
       "M": 8,
       "N": 9,
@@ -74,7 +75,7 @@
       "D": {
         "4": 2,
         "5": 1,
-        "6": 3,
+        "6": 4,
         "7": 1,
         "8": 1
       },
@@ -111,7 +112,7 @@
       }
     },
     "two_letter_list": {
-      "DE": 3,
+      "DE": 4,
       "DO": 2,
       "DU": 3,
       "EM": 2,

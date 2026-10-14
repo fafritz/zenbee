@@ -1,9 +1,9 @@
 {
   "pangram": "touched",
   "center_letter": "o",
-  "num_answers": 43,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 186,
+  "possible_points": 192,
   "answer_pangrams": [
     "touched"
   ],
@@ -34,6 +34,7 @@
     "hoodooed",
     "hoot",
     "hooted",
+    "hotted",
     "octet",
     "ouch",
     "outdo",
@@ -57,7 +58,7 @@
     "by_length": {
       "4": 15,
       "5": 11,
-      "6": 11,
+      "6": 12,
       "7": 5,
       "8": 1
     },
@@ -65,7 +66,7 @@
       "C": 9,
       "D": 7,
       "E": 2,
-      "H": 8,
+      "H": 9,
       "O": 4,
       "T": 13
     },
@@ -89,7 +90,7 @@
       "H": {
         "4": 3,
         "5": 1,
-        "6": 3,
+        "6": 4,
         "8": 1
       },
       "O": {
@@ -109,7 +110,7 @@
       "DE": 2,
       "DO": 5,
       "EC": 2,
-      "HO": 8,
+      "HO": 9,
       "OC": 1,
       "OU": 3,
       "TO": 13

@@ -1,9 +1,9 @@
 {
   "pangram": "chunked",
   "center_letter": "n",
-  "num_answers": 31,
+  "num_answers": 32,
   "num_pangrams": 2,
-  "possible_points": 157,
+  "possible_points": 163,
   "answer_pangrams": [
     "chunked",
     "unchecked"
@@ -11,6 +11,7 @@
   "answers": [
     "chunk",
     "chunked",
+    "denned",
     "denude",
     "denuded",
     "dunce",
@@ -46,14 +47,14 @@
     "by_length": {
       "4": 9,
       "5": 8,
-      "6": 8,
+      "6": 9,
       "7": 3,
       "8": 2,
       "9": 1
     },
     "by_first_letter": {
       "C": 2,
-      "D": 7,
+      "D": 8,
       "E": 2,
       "H": 4,
       "K": 5,
@@ -68,7 +69,7 @@
       "D": {
         "4": 2,
         "5": 1,
-        "6": 3,
+        "6": 4,
         "7": 1
       },
       "E": {
@@ -98,7 +99,7 @@
     },
     "two_letter_list": {
       "CH": 2,
-      "DE": 2,
+      "DE": 3,
       "DU": 5,
       "EN": 2,
       "HE": 1,

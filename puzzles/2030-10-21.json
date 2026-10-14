@@ -1,9 +1,9 @@
 {
   "pangram": "wafting",
   "center_letter": "w",
-  "num_answers": 38,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 202,
+  "possible_points": 209,
   "answer_pangrams": [
     "wafting"
   ],
@@ -45,7 +45,8 @@
     "wing",
     "winging",
     "wining",
-    "winning"
+    "winning",
+    "witting"
   ],
   "date": "2030-10-21",
   "hints": {
@@ -53,7 +54,7 @@
       "4": 11,
       "5": 4,
       "6": 6,
-      "7": 10,
+      "7": 11,
       "8": 6,
       "10": 1
     },
@@ -63,7 +64,7 @@
       "G": 2,
       "N": 1,
       "T": 11,
-      "W": 18
+      "W": 19
     },
     "grid": {
       "A": {
@@ -91,7 +92,7 @@
       "W": {
         "4": 6,
         "6": 4,
-        "7": 7,
+        "7": 8,
         "10": 1
       }
     },
@@ -102,7 +103,7 @@
       "NI": 1,
       "TW": 11,
       "WA": 11,
-      "WI": 7
+      "WI": 8
     }
   }
 }

@@ -1,15 +1,16 @@
 {
   "pangram": "heaping",
   "center_letter": "e",
-  "num_answers": 43,
+  "num_answers": 45,
   "num_pangrams": 2,
-  "possible_points": 205,
+  "possible_points": 218,
   "answer_pangrams": [
     "happening",
     "heaping"
   ],
   "answers": [
     "agape",
+    "ageing",
     "egging",
     "engage",
     "engaging",
@@ -32,6 +33,7 @@
     "inane",
     "nape",
     "neap",
+    "negging",
     "neigh",
     "neighing",
     "nene",
@@ -58,23 +60,24 @@
     "by_length": {
       "4": 14,
       "5": 10,
-      "6": 11,
-      "7": 4,
+      "6": 12,
+      "7": 5,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
-      "A": 1,
+      "A": 2,
       "E": 5,
       "G": 5,
       "H": 9,
       "I": 1,
-      "N": 6,
+      "N": 7,
       "P": 16
     },
     "grid": {
       "A": {
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "E": {
         "4": 1,
@@ -100,6 +103,7 @@
       "N": {
         "4": 4,
         "5": 1,
+        "7": 1,
         "8": 1
       },
       "P": {
@@ -110,7 +114,7 @@
       }
     },
     "two_letter_list": {
-      "AG": 1,
+      "AG": 2,
       "EG": 1,
       "EN": 3,
       "EP": 1,
@@ -121,7 +125,7 @@
       "HI": 3,
       "IN": 1,
       "NA": 1,
-      "NE": 4,
+      "NE": 5,
       "NI": 1,
       "PA": 3,
       "PE": 7,

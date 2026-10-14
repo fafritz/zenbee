@@ -1,17 +1,19 @@
 {
   "pangram": "ramping",
   "center_letter": "p",
-  "num_answers": 46,
+  "num_answers": 48,
   "num_pangrams": 3,
-  "possible_points": 267,
+  "possible_points": 280,
   "answer_pangrams": [
     "impairing",
     "rampaging",
     "ramping"
   ],
   "answers": [
+    "amping",
     "aping",
     "gaping",
+    "gapping",
     "grip",
     "griping",
     "gripping",
@@ -62,14 +64,14 @@
     "by_length": {
       "4": 11,
       "5": 5,
-      "6": 8,
-      "7": 17,
+      "6": 9,
+      "7": 18,
       "8": 2,
       "9": 3
     },
     "by_first_letter": {
-      "A": 1,
-      "G": 4,
+      "A": 2,
+      "G": 5,
       "I": 3,
       "M": 1,
       "N": 2,
@@ -78,12 +80,13 @@
     },
     "grid": {
       "A": {
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "G": {
         "4": 1,
         "6": 1,
-        "7": 1,
+        "7": 2,
         "8": 1
       },
       "I": {
@@ -110,8 +113,9 @@
       }
     },
     "two_letter_list": {
+      "AM": 1,
       "AP": 1,
-      "GA": 1,
+      "GA": 2,
       "GR": 3,
       "IM": 3,
       "MA": 1,

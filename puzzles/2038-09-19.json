@@ -1,9 +1,9 @@
 {
   "pangram": "godlike",
   "center_letter": "k",
-  "num_answers": 18,
+  "num_answers": 19,
   "num_pangrams": 1,
-  "possible_points": 63,
+  "possible_points": 69,
   "answer_pangrams": [
     "godlike"
   ],
@@ -15,6 +15,7 @@
     "godlike",
     "keel",
     "keeled",
+    "kegged",
     "kidded",
     "kiddo",
     "kill",
@@ -32,14 +33,14 @@
     "by_length": {
       "4": 10,
       "5": 3,
-      "6": 4,
+      "6": 5,
       "7": 1
     },
     "by_first_letter": {
       "D": 2,
       "E": 1,
       "G": 2,
-      "K": 8,
+      "K": 9,
       "L": 5
     },
     "grid": {
@@ -57,7 +58,7 @@
       "K": {
         "4": 4,
         "5": 1,
-        "6": 3
+        "6": 4
       },
       "L": {
         "4": 3,
@@ -70,7 +71,7 @@
       "EK": 1,
       "GE": 1,
       "GO": 1,
-      "KE": 2,
+      "KE": 3,
       "KI": 5,
       "KO": 1,
       "LE": 1,

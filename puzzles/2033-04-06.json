@@ -1,9 +1,9 @@
 {
   "pangram": "damping",
   "center_letter": "d",
-  "num_answers": 29,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 154,
+  "possible_points": 161,
   "answer_pangrams": [
     "damping"
   ],
@@ -28,6 +28,7 @@
     "dipping",
     "gadding",
     "madam",
+    "madding",
     "madman",
     "maid",
     "mind",
@@ -44,14 +45,14 @@
       "4": 7,
       "5": 5,
       "6": 5,
-      "7": 11,
+      "7": 12,
       "8": 1
     },
     "by_first_letter": {
       "A": 5,
       "D": 13,
       "G": 1,
-      "M": 5,
+      "M": 6,
       "N": 1,
       "P": 4
     },
@@ -74,7 +75,7 @@
         "4": 2,
         "5": 1,
         "6": 1,
-        "7": 1
+        "7": 2
       },
       "N": {
         "5": 1
@@ -93,7 +94,7 @@
       "DA": 6,
       "DI": 7,
       "GA": 1,
-      "MA": 3,
+      "MA": 4,
       "MI": 2,
       "NA": 1,
       "PA": 3,

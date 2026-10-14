@@ -1,9 +1,9 @@
 {
   "pangram": "plowman",
   "center_letter": "o",
-  "num_answers": 32,
+  "num_answers": 33,
   "num_pangrams": 1,
-  "possible_points": 87,
+  "possible_points": 88,
   "answer_pangrams": [
     "plowman"
   ],
@@ -25,6 +25,7 @@
     "momma",
     "mono",
     "moon",
+    "mown",
     "noon",
     "opal",
     "plop",
@@ -44,7 +45,7 @@
   "date": "2029-04-06",
   "hints": {
     "by_length": {
-      "4": 22,
+      "4": 23,
       "5": 4,
       "6": 4,
       "7": 2
@@ -52,7 +53,7 @@
     "by_first_letter": {
       "A": 3,
       "L": 8,
-      "M": 6,
+      "M": 7,
       "N": 1,
       "O": 1,
       "P": 9,
@@ -69,7 +70,7 @@
         "7": 1
       },
       "M": {
-        "4": 4,
+        "4": 5,
         "5": 1,
         "6": 1
       },
@@ -98,7 +99,7 @@
       "LL": 1,
       "LO": 6,
       "MA": 1,
-      "MO": 5,
+      "MO": 6,
       "NO": 1,
       "OP": 1,
       "PL": 3,

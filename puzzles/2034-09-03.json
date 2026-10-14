@@ -1,9 +1,9 @@
 {
   "pangram": "praying",
   "center_letter": "p",
-  "num_answers": 46,
+  "num_answers": 47,
   "num_pangrams": 2,
-  "possible_points": 264,
+  "possible_points": 271,
   "answer_pangrams": [
     "parrying",
     "praying"
@@ -12,6 +12,7 @@
     "apiary",
     "aping",
     "gaping",
+    "gapping",
     "grip",
     "griping",
     "gripping",
@@ -62,12 +63,12 @@
       "4": 8,
       "5": 7,
       "6": 12,
-      "7": 17,
+      "7": 18,
       "8": 2
     },
     "by_first_letter": {
       "A": 2,
-      "G": 5,
+      "G": 6,
       "N": 4,
       "P": 31,
       "R": 2,
@@ -81,7 +82,7 @@
       "G": {
         "4": 1,
         "6": 1,
-        "7": 2,
+        "7": 3,
         "8": 1
       },
       "N": {
@@ -104,7 +105,7 @@
     },
     "two_letter_list": {
       "AP": 2,
-      "GA": 1,
+      "GA": 2,
       "GR": 3,
       "GY": 1,
       "NA": 2,

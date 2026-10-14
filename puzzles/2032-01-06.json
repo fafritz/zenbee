@@ -1,9 +1,9 @@
 {
   "pangram": "feuding",
   "center_letter": "f",
-  "num_answers": 47,
+  "num_answers": 51,
   "num_pangrams": 3,
-  "possible_points": 281,
+  "possible_points": 307,
   "answer_pangrams": [
     "feuding",
     "undignified",
@@ -43,6 +43,8 @@
     "fine",
     "fined",
     "fining",
+    "finned",
+    "finning",
     "fudge",
     "fudged",
     "fudging",
@@ -51,6 +53,8 @@
     "funded",
     "funding",
     "fungi",
+    "funned",
+    "funning",
     "guff",
     "undefended",
     "undefined",
@@ -63,8 +67,8 @@
     "by_length": {
       "4": 11,
       "5": 6,
-      "6": 9,
-      "7": 12,
+      "6": 11,
+      "7": 14,
       "8": 3,
       "9": 4,
       "10": 1,
@@ -73,7 +77,7 @@
     "by_first_letter": {
       "D": 13,
       "E": 1,
-      "F": 27,
+      "F": 31,
       "G": 1,
       "U": 5
     },
@@ -91,8 +95,8 @@
       "F": {
         "4": 8,
         "5": 6,
-        "6": 5,
-        "7": 7,
+        "6": 7,
+        "7": 9,
         "8": 1
       },
       "G": {
@@ -111,8 +115,8 @@
       "DU": 1,
       "ED": 1,
       "FE": 11,
-      "FI": 8,
-      "FU": 8,
+      "FI": 10,
+      "FU": 10,
       "GU": 1,
       "UN": 5
     }

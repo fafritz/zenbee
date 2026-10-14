@@ -1,15 +1,17 @@
 {
   "pangram": "vamping",
   "center_letter": "p",
-  "num_answers": 30,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 167,
+  "possible_points": 180,
   "answer_pangrams": [
     "vamping"
   ],
   "answers": [
+    "amping",
     "aping",
     "gaping",
+    "gapping",
     "impinging",
     "mapping",
     "napping",
@@ -44,13 +46,13 @@
     "by_length": {
       "4": 6,
       "5": 4,
-      "6": 8,
-      "7": 11,
+      "6": 9,
+      "7": 12,
       "9": 1
     },
     "by_first_letter": {
-      "A": 1,
-      "G": 1,
+      "A": 2,
+      "G": 2,
       "I": 1,
       "M": 1,
       "N": 2,
@@ -59,10 +61,12 @@
     },
     "grid": {
       "A": {
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "G": {
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "I": {
         "9": 1
@@ -86,8 +90,9 @@
       }
     },
     "two_letter_list": {
+      "AM": 1,
       "AP": 1,
-      "GA": 1,
+      "GA": 2,
       "IM": 1,
       "MA": 1,
       "NA": 1,

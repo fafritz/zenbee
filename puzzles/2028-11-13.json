@@ -1,9 +1,9 @@
 {
   "pangram": "congaed",
   "center_letter": "n",
-  "num_answers": 72,
+  "num_answers": 74,
   "num_pangrams": 1,
-  "possible_points": 359,
+  "possible_points": 371,
   "answer_pangrams": [
     "congaed"
   ],
@@ -49,6 +49,7 @@
     "deadened",
     "dean",
     "decadence",
+    "denned",
     "doggone",
     "done",
     "donned",
@@ -70,6 +71,7 @@
     "nana",
     "need",
     "needed",
+    "negged",
     "nene",
     "neocon",
     "neon",
@@ -86,7 +88,7 @@
     "by_length": {
       "4": 20,
       "5": 12,
-      "6": 22,
+      "6": 24,
       "7": 8,
       "8": 7,
       "9": 2,
@@ -95,10 +97,10 @@
     "by_first_letter": {
       "A": 7,
       "C": 27,
-      "D": 10,
+      "D": 11,
       "E": 6,
       "G": 7,
-      "N": 13,
+      "N": 14,
       "O": 2
     },
     "grid": {
@@ -121,7 +123,7 @@
       "D": {
         "4": 2,
         "5": 1,
-        "6": 4,
+        "6": 5,
         "7": 1,
         "8": 1,
         "9": 1
@@ -138,7 +140,7 @@
       "N": {
         "4": 8,
         "5": 1,
-        "6": 4
+        "6": 5
       },
       "O": {
         "4": 1,
@@ -153,7 +155,7 @@
       "CA": 14,
       "CO": 13,
       "DA": 2,
-      "DE": 5,
+      "DE": 6,
       "DO": 3,
       "EG": 1,
       "EN": 5,
@@ -161,7 +163,7 @@
       "GE": 1,
       "GO": 4,
       "NA": 3,
-      "NE": 5,
+      "NE": 6,
       "NO": 5,
       "OC": 1,
       "ON": 1

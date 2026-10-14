@@ -1,9 +1,9 @@
 {
   "pangram": "fouling",
   "center_letter": "n",
-  "num_answers": 64,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 375,
+  "possible_points": 389,
   "answer_pangrams": [
     "fouling"
   ],
@@ -11,6 +11,7 @@
     "filing",
     "filling",
     "fining",
+    "finning",
     "fling",
     "flinging",
     "flogging",
@@ -23,6 +24,7 @@
     "fulfilling",
     "fulling",
     "fungi",
+    "funning",
     "gigging",
     "giggling",
     "ginning",
@@ -79,13 +81,13 @@
       "4": 11,
       "5": 8,
       "6": 12,
-      "7": 22,
+      "7": 24,
       "8": 9,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "F": 15,
+      "F": 17,
       "G": 15,
       "I": 3,
       "L": 18,
@@ -97,7 +99,7 @@
       "F": {
         "5": 3,
         "6": 2,
-        "7": 6,
+        "7": 8,
         "8": 3,
         "10": 1
       },
@@ -135,10 +137,10 @@
       }
     },
     "two_letter_list": {
-      "FI": 3,
+      "FI": 4,
       "FL": 5,
       "FO": 4,
-      "FU": 3,
+      "FU": 4,
       "GI": 3,
       "GL": 1,
       "GO": 9,

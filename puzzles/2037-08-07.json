@@ -1,9 +1,9 @@
 {
   "pangram": "midtown",
   "center_letter": "n",
-  "num_answers": 32,
+  "num_answers": 33,
   "num_pangrams": 1,
-  "possible_points": 121,
+  "possible_points": 122,
   "answer_pangrams": [
     "midtown"
   ],
@@ -25,6 +25,7 @@
     "mono",
     "moon",
     "motion",
+    "mown",
     "nitwit",
     "noon",
     "notion",
@@ -44,7 +45,7 @@
   "date": "2037-08-07",
   "hints": {
     "by_length": {
-      "4": 17,
+      "4": 18,
       "5": 2,
       "6": 8,
       "7": 1,
@@ -53,7 +54,7 @@
     "by_first_letter": {
       "D": 6,
       "I": 1,
-      "M": 10,
+      "M": 11,
       "N": 3,
       "O": 2,
       "T": 4,
@@ -69,7 +70,7 @@
         "4": 1
       },
       "M": {
-        "4": 5,
+        "4": 6,
         "5": 1,
         "6": 3,
         "7": 1
@@ -96,7 +97,7 @@
       "DO": 5,
       "IN": 1,
       "MI": 7,
-      "MO": 3,
+      "MO": 4,
       "NI": 1,
       "NO": 2,
       "ON": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "thumped",
   "center_letter": "m",
-  "num_answers": 32,
+  "num_answers": 33,
   "num_pangrams": 1,
-  "possible_points": 125,
+  "possible_points": 131,
   "answer_pangrams": [
     "thumped"
   ],
@@ -22,6 +22,7 @@
     "meme",
     "mete",
     "meted",
+    "mudded",
     "mute",
     "muted",
     "mutt",
@@ -46,13 +47,13 @@
     "by_length": {
       "4": 14,
       "5": 6,
-      "6": 10,
+      "6": 11,
       "7": 2
     },
     "by_first_letter": {
       "D": 4,
       "H": 6,
-      "M": 8,
+      "M": 9,
       "P": 2,
       "T": 11,
       "U": 1
@@ -69,7 +70,7 @@
       "M": {
         "4": 5,
         "5": 2,
-        "6": 1
+        "6": 2
       },
       "P": {
         "4": 1,
@@ -91,7 +92,7 @@
       "HE": 3,
       "HU": 3,
       "ME": 4,
-      "MU": 4,
+      "MU": 5,
       "PU": 2,
       "TE": 6,
       "TH": 5,

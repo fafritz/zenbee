@@ -1,9 +1,9 @@
 {
   "pangram": "mulched",
   "center_letter": "m",
-  "num_answers": 27,
+  "num_answers": 28,
   "num_pangrams": 1,
-  "possible_points": 120,
+  "possible_points": 126,
   "answer_pangrams": [
     "mulched"
   ],
@@ -27,6 +27,7 @@
     "melee",
     "meme",
     "much",
+    "mudded",
     "muddle",
     "muddled",
     "mulch",
@@ -41,7 +42,7 @@
     "by_length": {
       "4": 10,
       "5": 3,
-      "6": 10,
+      "6": 11,
       "7": 4
     },
     "by_first_letter": {
@@ -49,7 +50,7 @@
       "D": 2,
       "E": 2,
       "H": 5,
-      "M": 15
+      "M": 16
     },
     "grid": {
       "C": {
@@ -71,7 +72,7 @@
       "M": {
         "4": 5,
         "5": 2,
-        "6": 5,
+        "6": 6,
         "7": 3
       }
     },
@@ -82,7 +83,7 @@
       "HE": 4,
       "HU": 1,
       "ME": 6,
-      "MU": 9
+      "MU": 10
     }
   }
 }

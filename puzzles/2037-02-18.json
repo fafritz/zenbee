@@ -1,9 +1,9 @@
 {
   "pangram": "beaming",
   "center_letter": "m",
-  "num_answers": 53,
+  "num_answers": 54,
   "num_pangrams": 1,
-  "possible_points": 244,
+  "possible_points": 251,
   "answer_pangrams": [
     "beaming"
   ],
@@ -21,6 +21,7 @@
     "gamine",
     "gaming",
     "gamma",
+    "gemming",
     "gimme",
     "iamb",
     "image",
@@ -68,7 +69,7 @@
       "4": 16,
       "5": 14,
       "6": 14,
-      "7": 6,
+      "7": 7,
       "8": 2,
       "9": 1
     },
@@ -76,7 +77,7 @@
       "A": 5,
       "B": 2,
       "E": 2,
-      "G": 5,
+      "G": 6,
       "I": 8,
       "M": 28,
       "N": 3
@@ -98,7 +99,8 @@
       "G": {
         "4": 1,
         "5": 2,
-        "6": 2
+        "6": 2,
+        "7": 1
       },
       "I": {
         "4": 2,
@@ -129,6 +131,7 @@
       "BE": 2,
       "EN": 2,
       "GA": 4,
+      "GE": 1,
       "GI": 1,
       "IA": 1,
       "IM": 7,

@@ -1,17 +1,19 @@
 {
   "pangram": "futzing",
   "center_letter": "n",
-  "num_answers": 30,
+  "num_answers": 32,
   "num_pangrams": 1,
-  "possible_points": 196,
+  "possible_points": 210,
   "answer_pangrams": [
     "futzing"
   ],
   "answers": [
     "fining",
+    "finning",
     "fitting",
     "fizzing",
     "fungi",
+    "funning",
     "futzing",
     "fuzzing",
     "gifting",
@@ -45,12 +47,12 @@
       "4": 3,
       "5": 2,
       "6": 4,
-      "7": 18,
+      "7": 20,
       "8": 1,
       "9": 2
     },
     "by_first_letter": {
-      "F": 6,
+      "F": 8,
       "G": 5,
       "I": 4,
       "N": 1,
@@ -62,7 +64,7 @@
       "F": {
         "5": 1,
         "6": 1,
-        "7": 4
+        "7": 6
       },
       "G": {
         "7": 5
@@ -92,8 +94,8 @@
       }
     },
     "two_letter_list": {
-      "FI": 3,
-      "FU": 3,
+      "FI": 4,
+      "FU": 4,
       "GI": 3,
       "GU": 2,
       "IG": 1,

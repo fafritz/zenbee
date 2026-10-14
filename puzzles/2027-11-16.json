@@ -1,9 +1,9 @@
 {
   "pangram": "gambled",
   "center_letter": "m",
-  "num_answers": 65,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 322,
+  "possible_points": 328,
   "answer_pangrams": [
     "gambled"
   ],
@@ -38,6 +38,7 @@
     "game",
     "gamed",
     "gamma",
+    "gemmed",
     "gleam",
     "gleamed",
     "lama",
@@ -79,7 +80,7 @@
     "by_length": {
       "4": 16,
       "5": 16,
-      "6": 19,
+      "6": 20,
       "7": 8,
       "8": 5,
       "9": 1
@@ -89,7 +90,7 @@
       "B": 7,
       "D": 6,
       "E": 7,
-      "G": 7,
+      "G": 8,
       "L": 11,
       "M": 22
     },
@@ -119,7 +120,7 @@
       "G": {
         "4": 1,
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 2
       },
       "L": {
@@ -150,6 +151,7 @@
       "ED": 2,
       "EM": 5,
       "GA": 5,
+      "GE": 1,
       "GL": 2,
       "LA": 9,
       "LE": 1,

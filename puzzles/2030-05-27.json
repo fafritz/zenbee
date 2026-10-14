@@ -1,9 +1,9 @@
 {
   "pangram": "botched",
   "center_letter": "o",
-  "num_answers": 46,
+  "num_answers": 47,
   "num_pangrams": 1,
-  "possible_points": 186,
+  "possible_points": 192,
   "answer_pangrams": [
     "botched"
   ],
@@ -44,6 +44,7 @@
     "hoot",
     "hooted",
     "hotbed",
+    "hotted",
     "oboe",
     "octet",
     "toed",
@@ -60,7 +61,7 @@
     "by_length": {
       "4": 18,
       "5": 12,
-      "6": 12,
+      "6": 13,
       "7": 3,
       "8": 1
     },
@@ -69,7 +70,7 @@
       "C": 6,
       "D": 6,
       "E": 2,
-      "H": 10,
+      "H": 11,
       "O": 2,
       "T": 8
     },
@@ -97,7 +98,7 @@
       "H": {
         "4": 4,
         "5": 1,
-        "6": 4,
+        "6": 5,
         "8": 1
       },
       "O": {
@@ -117,7 +118,7 @@
       "DE": 2,
       "DO": 4,
       "EC": 2,
-      "HO": 10,
+      "HO": 11,
       "OB": 1,
       "OC": 1,
       "TO": 8

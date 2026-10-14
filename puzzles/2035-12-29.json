@@ -1,9 +1,9 @@
 {
   "pangram": "turfing",
   "center_letter": "i",
-  "num_answers": 65,
+  "num_answers": 67,
   "num_pangrams": 2,
-  "possible_points": 410,
+  "possible_points": 424,
   "answer_pangrams": [
     "fruiting",
     "turfing"
@@ -11,12 +11,14 @@
   "answers": [
     "figuring",
     "fining",
+    "finning",
     "firing",
     "fitting",
     "fringing",
     "fruit",
     "fruiting",
     "fungi",
+    "funning",
     "furring",
     "gift",
     "gifting",
@@ -81,13 +83,13 @@
       "4": 11,
       "5": 4,
       "6": 8,
-      "7": 28,
+      "7": 30,
       "8": 8,
       "9": 3,
       "10": 3
     },
     "by_first_letter": {
-      "F": 9,
+      "F": 11,
       "G": 15,
       "I": 7,
       "N": 2,
@@ -99,7 +101,7 @@
       "F": {
         "5": 2,
         "6": 2,
-        "7": 2,
+        "7": 4,
         "8": 3
       },
       "G": {
@@ -139,9 +141,9 @@
       }
     },
     "two_letter_list": {
-      "FI": 4,
+      "FI": 5,
       "FR": 3,
-      "FU": 2,
+      "FU": 3,
       "GI": 6,
       "GR": 6,
       "GU": 3,

@@ -1,9 +1,9 @@
 {
   "pangram": "fumbled",
   "center_letter": "d",
-  "num_answers": 67,
+  "num_answers": 68,
   "num_pangrams": 1,
-  "possible_points": 351,
+  "possible_points": 357,
   "answer_pangrams": [
     "fumbled"
   ],
@@ -69,6 +69,7 @@
     "meddled",
     "meld",
     "melded",
+    "mudded",
     "muddle",
     "muddled",
     "muffed",
@@ -81,7 +82,7 @@
     "by_length": {
       "4": 14,
       "5": 9,
-      "6": 28,
+      "6": 29,
       "7": 12,
       "8": 3,
       "9": 1
@@ -92,7 +93,7 @@
       "E": 6,
       "F": 13,
       "L": 4,
-      "M": 10
+      "M": 11
     },
     "grid": {
       "B": {
@@ -128,7 +129,7 @@
       },
       "M": {
         "4": 1,
-        "6": 5,
+        "6": 6,
         "7": 4
       }
     },
@@ -148,7 +149,7 @@
       "LE": 1,
       "LU": 3,
       "ME": 4,
-      "MU": 6
+      "MU": 7
     }
   }
 }

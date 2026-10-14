@@ -1,9 +1,9 @@
 {
   "pangram": "parting",
   "center_letter": "p",
-  "num_answers": 62,
+  "num_answers": 63,
   "num_pangrams": 4,
-  "possible_points": 348,
+  "possible_points": 355,
   "answer_pangrams": [
     "parting",
     "pirating",
@@ -14,6 +14,7 @@
     "apart",
     "aping",
     "gaping",
+    "gapping",
     "grip",
     "griping",
     "gripping",
@@ -80,13 +81,13 @@
       "4": 16,
       "5": 9,
       "6": 9,
-      "7": 21,
+      "7": 22,
       "8": 6,
       "10": 1
     },
     "by_first_letter": {
       "A": 2,
-      "G": 4,
+      "G": 5,
       "I": 1,
       "N": 2,
       "P": 39,
@@ -100,7 +101,7 @@
       "G": {
         "4": 1,
         "6": 1,
-        "7": 1,
+        "7": 2,
         "8": 1
       },
       "I": {
@@ -131,7 +132,7 @@
     },
     "two_letter_list": {
       "AP": 2,
-      "GA": 1,
+      "GA": 2,
       "GR": 3,
       "IN": 1,
       "NA": 1,

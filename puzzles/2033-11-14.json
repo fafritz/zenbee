@@ -1,9 +1,9 @@
 {
   "pangram": "wangled",
   "center_letter": "g",
-  "num_answers": 63,
+  "num_answers": 64,
   "num_pangrams": 1,
-  "possible_points": 305,
+  "possible_points": 311,
   "answer_pangrams": [
     "wangled"
   ],
@@ -62,6 +62,7 @@
     "legend",
     "legged",
     "nagged",
+    "negged",
     "wage",
     "waged",
     "wagged",
@@ -77,7 +78,7 @@
     "by_length": {
       "4": 16,
       "5": 14,
-      "6": 23,
+      "6": 24,
       "7": 7,
       "8": 2,
       "9": 1
@@ -88,7 +89,7 @@
       "E": 6,
       "G": 30,
       "L": 5,
-      "N": 1,
+      "N": 2,
       "W": 9
     },
     "grid": {
@@ -121,7 +122,7 @@
         "6": 3
       },
       "N": {
-        "6": 1
+        "6": 2
       },
       "W": {
         "4": 1,
@@ -147,6 +148,7 @@
       "LA": 1,
       "LE": 4,
       "NA": 1,
+      "NE": 1,
       "WA": 7,
       "WE": 2
     }

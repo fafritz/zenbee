@@ -1,15 +1,17 @@
 {
   "pangram": "tamping",
   "center_letter": "p",
-  "num_answers": 45,
+  "num_answers": 47,
   "num_pangrams": 1,
-  "possible_points": 246,
+  "possible_points": 259,
   "answer_pangrams": [
     "tamping"
   ],
   "answers": [
+    "amping",
     "aping",
     "gaping",
+    "gapping",
     "impinging",
     "inapt",
     "mapping",
@@ -59,15 +61,15 @@
     "by_length": {
       "4": 10,
       "5": 7,
-      "6": 8,
-      "7": 17,
+      "6": 9,
+      "7": 18,
       "8": 1,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 1,
-      "G": 1,
+      "A": 2,
+      "G": 2,
       "I": 2,
       "M": 1,
       "N": 2,
@@ -76,10 +78,12 @@
     },
     "grid": {
       "A": {
-        "5": 1
+        "5": 1,
+        "6": 1
       },
       "G": {
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "I": {
         "5": 1,
@@ -106,8 +110,9 @@
       }
     },
     "two_letter_list": {
+      "AM": 1,
       "AP": 1,
-      "GA": 1,
+      "GA": 2,
       "IM": 1,
       "IN": 1,
       "MA": 1,

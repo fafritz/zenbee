@@ -1,9 +1,9 @@
 {
   "pangram": "jangled",
   "center_letter": "d",
-  "num_answers": 70,
+  "num_answers": 72,
   "num_pangrams": 1,
-  "possible_points": 347,
+  "possible_points": 359,
   "answer_pangrams": [
     "jangled"
   ],
@@ -32,6 +32,7 @@
     "deed",
     "deeded",
     "dell",
+    "denned",
     "edge",
     "edged",
     "eeled",
@@ -77,26 +78,27 @@
     "need",
     "needed",
     "needle",
-    "needled"
+    "needled",
+    "negged"
   ],
   "date": "2033-03-29",
   "hints": {
     "by_length": {
       "4": 17,
       "5": 13,
-      "6": 27,
+      "6": 29,
       "7": 9,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
       "A": 11,
-      "D": 13,
+      "D": 14,
       "E": 6,
       "G": 15,
       "J": 5,
       "L": 15,
-      "N": 5
+      "N": 6
     },
     "grid": {
       "A": {
@@ -108,7 +110,7 @@
       },
       "D": {
         "4": 6,
-        "6": 4,
+        "6": 5,
         "7": 2,
         "8": 1
       },
@@ -138,7 +140,7 @@
       },
       "N": {
         "4": 1,
-        "6": 3,
+        "6": 4,
         "7": 1
       }
     },
@@ -148,7 +150,7 @@
       "AL": 1,
       "AN": 2,
       "DA": 5,
-      "DE": 8,
+      "DE": 9,
       "ED": 2,
       "EE": 1,
       "EG": 1,
@@ -161,7 +163,7 @@
       "LA": 6,
       "LE": 9,
       "NA": 1,
-      "NE": 4
+      "NE": 5
     }
   }
 }

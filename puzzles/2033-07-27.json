@@ -1,9 +1,9 @@
 {
   "pangram": "blunted",
   "center_letter": "n",
-  "num_answers": 48,
+  "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 226,
+  "possible_points": 232,
   "answer_pangrams": [
     "blunted"
   ],
@@ -19,6 +19,7 @@
     "bundled",
     "bunt",
     "bunted",
+    "denned",
     "dent",
     "dented",
     "denude",
@@ -62,13 +63,13 @@
     "by_length": {
       "4": 15,
       "5": 6,
-      "6": 17,
+      "6": 18,
       "7": 8,
       "8": 2
     },
     "by_first_letter": {
       "B": 11,
-      "D": 8,
+      "D": 9,
       "E": 3,
       "L": 2,
       "N": 10,
@@ -84,7 +85,7 @@
       },
       "D": {
         "4": 2,
-        "6": 4,
+        "6": 5,
         "7": 2
       },
       "E": {
@@ -116,7 +117,7 @@
       "BE": 3,
       "BL": 4,
       "BU": 4,
-      "DE": 6,
+      "DE": 7,
       "DU": 2,
       "EN": 3,
       "LE": 2,

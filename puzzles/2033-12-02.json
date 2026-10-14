@@ -1,9 +1,9 @@
 {
   "pangram": "cyanide",
   "center_letter": "y",
-  "num_answers": 23,
+  "num_answers": 24,
   "num_pangrams": 1,
-  "possible_points": 119,
+  "possible_points": 125,
   "answer_pangrams": [
     "cyanide"
   ],
@@ -30,14 +30,15 @@
     "indecency",
     "nanny",
     "needy",
-    "ninny"
+    "ninny",
+    "yenned"
   ],
   "date": "2033-12-02",
   "hints": {
     "by_length": {
       "4": 5,
       "5": 11,
-      "6": 1,
+      "6": 2,
       "7": 4,
       "9": 2
     },
@@ -46,7 +47,8 @@
       "D": 9,
       "E": 2,
       "I": 1,
-      "N": 3
+      "N": 3,
+      "Y": 1
     },
     "grid": {
       "C": {
@@ -69,6 +71,9 @@
       },
       "N": {
         "5": 3
+      },
+      "Y": {
+        "6": 1
       }
     },
     "two_letter_list": {
@@ -83,7 +88,8 @@
       "IN": 1,
       "NA": 1,
       "NE": 1,
-      "NI": 1
+      "NI": 1,
+      "YE": 1
     }
   }
 }

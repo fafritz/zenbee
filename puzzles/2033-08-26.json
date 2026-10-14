@@ -1,9 +1,9 @@
 {
   "pangram": "midtown",
   "center_letter": "w",
-  "num_answers": 17,
+  "num_answers": 18,
   "num_pangrams": 1,
-  "possible_points": 75,
+  "possible_points": 76,
   "answer_pangrams": [
     "midtown"
   ],
@@ -13,6 +13,7 @@
     "downwind",
     "midtown",
     "minnow",
+    "mown",
     "nitwit",
     "town",
     "twin",
@@ -29,7 +30,7 @@
   "date": "2033-08-26",
   "hints": {
     "by_length": {
-      "4": 8,
+      "4": 9,
       "5": 1,
       "6": 4,
       "7": 1,
@@ -37,7 +38,7 @@
     },
     "by_first_letter": {
       "D": 3,
-      "M": 2,
+      "M": 3,
       "N": 1,
       "T": 3,
       "W": 8
@@ -48,6 +49,7 @@
         "8": 2
       },
       "M": {
+        "4": 1,
         "6": 1,
         "7": 1
       },
@@ -67,6 +69,7 @@
     "two_letter_list": {
       "DO": 3,
       "MI": 2,
+      "MO": 1,
       "NI": 1,
       "TO": 1,
       "TW": 2,

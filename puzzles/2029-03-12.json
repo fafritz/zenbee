@@ -1,9 +1,9 @@
 {
   "pangram": "wafting",
   "center_letter": "f",
-  "num_answers": 21,
+  "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 96,
+  "possible_points": 110,
   "answer_pangrams": [
     "wafting"
   ],
@@ -13,10 +13,12 @@
     "fang",
     "fanning",
     "fating",
+    "fatting",
     "fawn",
     "fawning",
     "fiat",
     "fining",
+    "finning",
     "fitting",
     "gaff",
     "gaffing",
@@ -36,11 +38,11 @@
       "4": 9,
       "5": 1,
       "6": 3,
-      "7": 7,
+      "7": 9,
       "8": 1
     },
     "by_first_letter": {
-      "F": 10,
+      "F": 12,
       "G": 4,
       "I": 1,
       "N": 1,
@@ -52,7 +54,7 @@
         "4": 3,
         "5": 1,
         "6": 2,
-        "7": 3,
+        "7": 5,
         "8": 1
       },
       "G": {
@@ -75,8 +77,8 @@
       }
     },
     "two_letter_list": {
-      "FA": 7,
-      "FI": 3,
+      "FA": 8,
+      "FI": 4,
       "GA": 2,
       "GI": 2,
       "IN": 1,

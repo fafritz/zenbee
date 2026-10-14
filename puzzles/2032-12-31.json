@@ -1,9 +1,9 @@
 {
   "pangram": "camping",
   "center_letter": "m",
-  "num_answers": 40,
+  "num_answers": 41,
   "num_pangrams": 3,
-  "possible_points": 234,
+  "possible_points": 240,
   "answer_pangrams": [
     "campaign",
     "campaigning",
@@ -11,6 +11,7 @@
   ],
   "answers": [
     "aiming",
+    "amping",
     "camp",
     "campaign",
     "campaigning",
@@ -56,14 +57,14 @@
     "by_length": {
       "4": 8,
       "5": 11,
-      "6": 8,
+      "6": 9,
       "7": 7,
       "8": 3,
       "9": 2,
       "11": 1
     },
     "by_first_letter": {
-      "A": 1,
+      "A": 2,
       "C": 4,
       "G": 2,
       "I": 4,
@@ -73,7 +74,7 @@
     },
     "grid": {
       "A": {
-        "6": 1
+        "6": 2
       },
       "C": {
         "4": 1,
@@ -108,6 +109,7 @@
     },
     "two_letter_list": {
       "AI": 1,
+      "AM": 1,
       "CA": 4,
       "GA": 2,
       "IM": 4,

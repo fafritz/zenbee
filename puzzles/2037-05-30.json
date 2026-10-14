@@ -1,9 +1,9 @@
 {
   "pangram": "heading",
   "center_letter": "a",
-  "num_answers": 53,
+  "num_answers": 54,
   "num_pangrams": 1,
-  "possible_points": 272,
+  "possible_points": 278,
   "answer_pangrams": [
     "heading"
   ],
@@ -15,6 +15,7 @@
     "adding",
     "again",
     "aged",
+    "ageing",
     "agenda",
     "aging",
     "ahead",
@@ -67,13 +68,13 @@
     "by_length": {
       "4": 13,
       "5": 9,
-      "6": 15,
+      "6": 16,
       "7": 12,
       "8": 3,
       "9": 1
     },
     "by_first_letter": {
-      "A": 14,
+      "A": 15,
       "D": 5,
       "E": 4,
       "G": 11,
@@ -85,7 +86,7 @@
       "A": {
         "4": 2,
         "5": 6,
-        "6": 5,
+        "6": 6,
         "7": 1
       },
       "D": {
@@ -124,7 +125,7 @@
     },
     "two_letter_list": {
       "AD": 5,
-      "AG": 4,
+      "AG": 5,
       "AH": 1,
       "AI": 3,
       "AN": 1,

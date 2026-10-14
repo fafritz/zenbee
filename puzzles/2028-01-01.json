@@ -1,14 +1,15 @@
 {
   "pangram": "agonize",
   "center_letter": "a",
-  "num_answers": 25,
+  "num_answers": 26,
   "num_pangrams": 1,
-  "possible_points": 127,
+  "possible_points": 133,
   "answer_pangrams": [
     "agonize"
   ],
   "answers": [
     "again",
+    "ageing",
     "aging",
     "agog",
     "agonize",
@@ -39,14 +40,14 @@
     "by_length": {
       "4": 8,
       "5": 4,
-      "6": 5,
+      "6": 6,
       "7": 5,
       "8": 1,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 8,
+      "A": 9,
       "E": 2,
       "G": 8,
       "I": 1,
@@ -57,7 +58,7 @@
       "A": {
         "4": 2,
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 1,
         "9": 1
       },
@@ -83,7 +84,7 @@
       }
     },
     "two_letter_list": {
-      "AG": 5,
+      "AG": 6,
       "AN": 3,
       "EN": 2,
       "GA": 8,

@@ -1,9 +1,9 @@
 {
   "pangram": "feuding",
   "center_letter": "g",
-  "num_answers": 69,
+  "num_answers": 74,
   "num_pangrams": 3,
-  "possible_points": 443,
+  "possible_points": 477,
   "answer_pangrams": [
     "feuding",
     "undignified",
@@ -17,6 +17,7 @@
     "deigned",
     "deigning",
     "dengue",
+    "denning",
     "denuding",
     "diffing",
     "digging",
@@ -48,12 +49,14 @@
     "feuding",
     "finding",
     "fining",
+    "finning",
     "fudge",
     "fudged",
     "fudging",
     "fugue",
     "funding",
     "fungi",
+    "funning",
     "geed",
     "geeing",
     "gene",
@@ -73,6 +76,8 @@
     "ingenue",
     "inning",
     "needing",
+    "negged",
+    "negging",
     "nudge",
     "nudged",
     "nudging",
@@ -85,19 +90,19 @@
     "by_length": {
       "4": 6,
       "5": 11,
-      "6": 18,
-      "7": 25,
+      "6": 19,
+      "7": 29,
       "8": 5,
       "9": 3,
       "11": 1
     },
     "by_first_letter": {
-      "D": 21,
+      "D": 22,
       "E": 9,
-      "F": 14,
+      "F": 16,
       "G": 16,
       "I": 2,
-      "N": 4,
+      "N": 6,
       "U": 3
     },
     "grid": {
@@ -105,7 +110,7 @@
         "4": 2,
         "5": 1,
         "6": 5,
-        "7": 8,
+        "7": 9,
         "8": 3,
         "9": 2
       },
@@ -118,7 +123,7 @@
       "F": {
         "5": 4,
         "6": 2,
-        "7": 7,
+        "7": 9,
         "8": 1
       },
       "G": {
@@ -133,8 +138,8 @@
       },
       "N": {
         "5": 1,
-        "6": 1,
-        "7": 2
+        "6": 2,
+        "7": 3
       },
       "U": {
         "8": 1,
@@ -143,20 +148,20 @@
       }
     },
     "two_letter_list": {
-      "DE": 8,
+      "DE": 9,
       "DI": 8,
       "DU": 5,
       "ED": 3,
       "EG": 2,
       "EN": 4,
       "FE": 6,
-      "FI": 2,
-      "FU": 6,
+      "FI": 3,
+      "FU": 7,
       "GE": 6,
       "GI": 4,
       "GU": 6,
       "IN": 2,
-      "NE": 1,
+      "NE": 3,
       "NU": 3,
       "UN": 3
     }

@@ -1,9 +1,9 @@
 {
   "pangram": "tongued",
   "center_letter": "g",
-  "num_answers": 40,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 185,
+  "possible_points": 191,
   "answer_pangrams": [
     "tongued"
   ],
@@ -38,6 +38,7 @@
     "gout",
     "gunned",
     "gutted",
+    "negged",
     "nudge",
     "nudged",
     "nugget",
@@ -54,14 +55,14 @@
     "by_length": {
       "4": 12,
       "5": 7,
-      "6": 16,
+      "6": 17,
       "7": 5
     },
     "by_first_letter": {
       "D": 11,
       "E": 4,
       "G": 15,
-      "N": 3,
+      "N": 4,
       "O": 1,
       "T": 5,
       "U": 1
@@ -85,7 +86,7 @@
       },
       "N": {
         "5": 1,
-        "6": 2
+        "6": 3
       },
       "O": {
         "5": 1
@@ -108,6 +109,7 @@
       "GE": 4,
       "GO": 9,
       "GU": 2,
+      "NE": 1,
       "NU": 3,
       "OU": 1,
       "TO": 4,

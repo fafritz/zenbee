@@ -1,9 +1,9 @@
 {
   "pangram": "emoting",
   "center_letter": "e",
-  "num_answers": 75,
+  "num_answers": 77,
   "num_pangrams": 2,
-  "possible_points": 352,
+  "possible_points": 366,
   "answer_pangrams": [
     "emoting",
     "mentioning"
@@ -20,6 +20,7 @@
     "engine",
     "entente",
     "geeing",
+    "gemming",
     "gene",
     "genie",
     "genii",
@@ -53,6 +54,7 @@
     "monotone",
     "mote",
     "motet",
+    "negging",
     "nene",
     "neon",
     "netting",
@@ -91,17 +93,17 @@
       "4": 28,
       "5": 10,
       "6": 13,
-      "7": 13,
+      "7": 15,
       "8": 9,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
       "E": 10,
-      "G": 10,
+      "G": 11,
       "I": 6,
       "M": 18,
-      "N": 9,
+      "N": 10,
       "O": 3,
       "T": 19
     },
@@ -117,7 +119,7 @@
         "4": 3,
         "5": 4,
         "6": 2,
-        "7": 1
+        "7": 2
       },
       "I": {
         "4": 1,
@@ -135,7 +137,7 @@
       },
       "N": {
         "4": 5,
-        "7": 2,
+        "7": 3,
         "8": 2
       },
       "O": {
@@ -155,7 +157,7 @@
       "EG": 2,
       "EM": 6,
       "EN": 2,
-      "GE": 6,
+      "GE": 7,
       "GI": 1,
       "GN": 1,
       "GO": 2,
@@ -166,7 +168,7 @@
       "ME": 9,
       "MI": 5,
       "MO": 4,
-      "NE": 3,
+      "NE": 4,
       "NI": 2,
       "NO": 4,
       "OI": 1,

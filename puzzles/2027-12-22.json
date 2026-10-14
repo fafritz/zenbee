@@ -1,9 +1,9 @@
 {
   "pangram": "congaed",
   "center_letter": "g",
-  "num_answers": 38,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 160,
+  "possible_points": 172,
   "answer_pangrams": [
     "congaed"
   ],
@@ -16,6 +16,7 @@
     "cadged",
     "cage",
     "caged",
+    "cogged",
     "cognac",
     "conga",
     "congaed",
@@ -45,23 +46,24 @@
     "gonged",
     "good",
     "goon",
-    "nagged"
+    "nagged",
+    "negged"
   ],
   "date": "2027-12-22",
   "hints": {
     "by_length": {
       "4": 14,
       "5": 8,
-      "6": 13,
+      "6": 15,
       "7": 3
     },
     "by_first_letter": {
       "A": 4,
-      "C": 7,
+      "C": 8,
       "D": 5,
       "E": 6,
       "G": 15,
-      "N": 1
+      "N": 2
     },
     "grid": {
       "A": {
@@ -72,7 +74,7 @@
       "C": {
         "4": 1,
         "5": 3,
-        "6": 2,
+        "6": 3,
         "7": 1
       },
       "D": {
@@ -93,14 +95,14 @@
         "6": 5
       },
       "N": {
-        "6": 1
+        "6": 2
       }
     },
     "two_letter_list": {
       "AD": 1,
       "AG": 3,
       "CA": 4,
-      "CO": 3,
+      "CO": 4,
       "DO": 5,
       "ED": 2,
       "EG": 2,
@@ -108,7 +110,8 @@
       "GA": 5,
       "GE": 3,
       "GO": 7,
-      "NA": 1
+      "NA": 1,
+      "NE": 1
     }
   }
 }

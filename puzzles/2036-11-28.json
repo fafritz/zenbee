@@ -1,9 +1,9 @@
 {
   "pangram": "hefting",
   "center_letter": "n",
-  "num_answers": 76,
+  "num_answers": 78,
   "num_pangrams": 1,
-  "possible_points": 456,
+  "possible_points": 470,
   "answer_pangrams": [
     "hefting"
   ],
@@ -24,6 +24,7 @@
     "fine",
     "fining",
     "finite",
+    "finning",
     "fitting",
     "geeing",
     "gene",
@@ -49,6 +50,7 @@
     "infinite",
     "inning",
     "intent",
+    "negging",
     "neigh",
     "neighing",
     "nene",
@@ -91,7 +93,7 @@
       "4": 13,
       "5": 13,
       "6": 11,
-      "7": 20,
+      "7": 22,
       "8": 12,
       "9": 2,
       "10": 4,
@@ -99,11 +101,11 @@
     },
     "by_first_letter": {
       "E": 5,
-      "F": 12,
+      "F": 13,
       "G": 9,
       "H": 9,
       "I": 6,
-      "N": 12,
+      "N": 13,
       "T": 23
     },
     "grid": {
@@ -117,7 +119,7 @@
         "4": 1,
         "5": 2,
         "6": 3,
-        "7": 2,
+        "7": 3,
         "8": 3,
         "9": 1
       },
@@ -143,7 +145,7 @@
       "N": {
         "4": 3,
         "5": 3,
-        "7": 2,
+        "7": 3,
         "8": 2,
         "9": 1,
         "10": 1
@@ -162,14 +164,14 @@
       "EI": 2,
       "EN": 2,
       "FE": 5,
-      "FI": 7,
+      "FI": 8,
       "GE": 6,
       "GI": 3,
       "HE": 3,
       "HI": 6,
       "IG": 2,
       "IN": 4,
-      "NE": 4,
+      "NE": 5,
       "NI": 8,
       "TE": 7,
       "TH": 5,

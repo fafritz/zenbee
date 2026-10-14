@@ -1,9 +1,9 @@
 {
   "pangram": "lynched",
   "center_letter": "d",
-  "num_answers": 29,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 123,
+  "possible_points": 135,
   "answer_pangrams": [
     "lynched"
   ],
@@ -17,6 +17,7 @@
     "deed",
     "deeded",
     "dell",
+    "denned",
     "deny",
     "dyed",
     "eddy",
@@ -36,25 +37,26 @@
     "needle",
     "needled",
     "needy",
-    "yelled"
+    "yelled",
+    "yenned"
   ],
   "date": "2027-08-29",
   "hints": {
     "by_length": {
       "4": 12,
       "5": 4,
-      "6": 8,
+      "6": 10,
       "7": 4,
       "8": 1
     },
     "by_first_letter": {
       "C": 5,
-      "D": 6,
+      "D": 7,
       "E": 4,
       "H": 4,
       "L": 4,
       "N": 5,
-      "Y": 1
+      "Y": 2
     },
     "grid": {
       "C": {
@@ -65,7 +67,7 @@
       },
       "D": {
         "4": 4,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "E": {
@@ -87,14 +89,14 @@
         "7": 1
       },
       "Y": {
-        "6": 1
+        "6": 2
       }
     },
     "two_letter_list": {
       "CE": 3,
       "CL": 1,
       "CY": 1,
-      "DE": 5,
+      "DE": 6,
       "DY": 1,
       "ED": 1,
       "EE": 1,
@@ -104,7 +106,7 @@
       "LE": 3,
       "LY": 1,
       "NE": 5,
-      "YE": 1
+      "YE": 2
     }
   }
 }

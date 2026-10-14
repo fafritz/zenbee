@@ -1,9 +1,9 @@
 {
   "pangram": "mouthed",
   "center_letter": "e",
-  "num_answers": 69,
+  "num_answers": 71,
   "num_pangrams": 1,
-  "possible_points": 289,
+  "possible_points": 301,
   "answer_pangrams": [
     "mouthed"
   ],
@@ -38,6 +38,7 @@
     "hooded",
     "hoodooed",
     "hooted",
+    "hotted",
     "hummed",
     "meet",
     "meme",
@@ -53,6 +54,7 @@
     "mote",
     "motet",
     "mouthed",
+    "mudded",
     "mute",
     "muted",
     "outed",
@@ -83,15 +85,15 @@
     "by_length": {
       "4": 25,
       "5": 16,
-      "6": 21,
+      "6": 23,
       "7": 5,
       "8": 2
     },
     "by_first_letter": {
       "D": 17,
       "E": 3,
-      "H": 11,
-      "M": 16,
+      "H": 12,
+      "M": 17,
       "O": 2,
       "T": 20
     },
@@ -109,13 +111,13 @@
       "H": {
         "4": 4,
         "5": 1,
-        "6": 5,
+        "6": 6,
         "8": 1
       },
       "M": {
         "4": 7,
         "5": 5,
-        "6": 3,
+        "6": 4,
         "7": 1
       },
       "O": {
@@ -136,11 +138,11 @@
       "EM": 2,
       "ET": 1,
       "HE": 4,
-      "HO": 6,
+      "HO": 7,
       "HU": 1,
       "ME": 6,
       "MO": 8,
-      "MU": 2,
+      "MU": 3,
       "OU": 2,
       "TE": 6,
       "TH": 5,

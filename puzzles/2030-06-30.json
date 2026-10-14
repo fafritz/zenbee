@@ -1,9 +1,9 @@
 {
   "pangram": "inhaled",
   "center_letter": "n",
-  "num_answers": 66,
+  "num_answers": 67,
   "num_pangrams": 3,
-  "possible_points": 341,
+  "possible_points": 347,
   "answer_pangrams": [
     "headline",
     "headlined",
@@ -24,6 +24,7 @@
     "dean",
     "denial",
     "denied",
+    "denned",
     "dine",
     "dined",
     "dinned",
@@ -82,14 +83,14 @@
     "by_length": {
       "4": 18,
       "5": 10,
-      "6": 23,
+      "6": 24,
       "7": 7,
       "8": 7,
       "9": 1
     },
     "by_first_letter": {
       "A": 6,
-      "D": 11,
+      "D": 12,
       "E": 2,
       "H": 12,
       "I": 7,
@@ -106,7 +107,7 @@
       "D": {
         "4": 2,
         "5": 1,
-        "6": 5,
+        "6": 6,
         "7": 1,
         "8": 2
       },
@@ -145,7 +146,7 @@
       "AL": 1,
       "AN": 3,
       "DA": 2,
-      "DE": 6,
+      "DE": 7,
       "DI": 3,
       "EL": 1,
       "EN": 1,

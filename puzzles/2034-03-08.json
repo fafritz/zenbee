@@ -1,9 +1,9 @@
 {
   "pangram": "jingled",
   "center_letter": "n",
-  "num_answers": 71,
+  "num_answers": 75,
   "num_pangrams": 1,
-  "possible_points": 413,
+  "possible_points": 439,
   "answer_pangrams": [
     "jingled"
   ],
@@ -13,6 +13,8 @@
     "deigned",
     "deigning",
     "denied",
+    "denned",
+    "denning",
     "diddling",
     "digging",
     "dine",
@@ -73,6 +75,8 @@
     "needle",
     "needled",
     "needling",
+    "negged",
+    "negging",
     "negligee",
     "nene",
     "niggle",
@@ -85,25 +89,25 @@
     "by_length": {
       "4": 10,
       "5": 8,
-      "6": 23,
-      "7": 22,
+      "6": 25,
+      "7": 24,
       "8": 8
     },
     "by_first_letter": {
-      "D": 15,
+      "D": 17,
       "E": 8,
       "G": 13,
       "I": 4,
       "J": 7,
       "L": 12,
-      "N": 12
+      "N": 14
     },
     "grid": {
       "D": {
         "4": 2,
         "5": 2,
-        "6": 4,
-        "7": 5,
+        "6": 5,
+        "7": 6,
         "8": 2
       },
       "E": {
@@ -135,13 +139,13 @@
       },
       "N": {
         "4": 3,
-        "6": 3,
-        "7": 3,
+        "6": 4,
+        "7": 4,
         "8": 3
       }
     },
     "two_letter_list": {
-      "DE": 5,
+      "DE": 7,
       "DI": 10,
       "ED": 1,
       "EE": 1,
@@ -157,7 +161,7 @@
       "JI": 6,
       "LE": 4,
       "LI": 8,
-      "NE": 8,
+      "NE": 10,
       "NI": 4
     }
   }

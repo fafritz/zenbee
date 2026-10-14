@@ -1,9 +1,9 @@
 {
   "pangram": "mounted",
   "center_letter": "m",
-  "num_answers": 62,
+  "num_answers": 63,
   "num_pangrams": 4,
-  "possible_points": 309,
+  "possible_points": 315,
   "answer_pangrams": [
     "demount",
     "demounted",
@@ -61,6 +61,7 @@
     "mounded",
     "mount",
     "mounted",
+    "mudded",
     "mute",
     "muted",
     "mutt",
@@ -79,7 +80,7 @@
     "by_length": {
       "4": 21,
       "5": 13,
-      "6": 13,
+      "6": 14,
       "7": 6,
       "8": 7,
       "9": 1,
@@ -88,7 +89,7 @@
     "by_first_letter": {
       "D": 16,
       "E": 4,
-      "M": 35,
+      "M": 36,
       "O": 2,
       "T": 5
     },
@@ -110,7 +111,7 @@
       "M": {
         "4": 14,
         "5": 8,
-        "6": 7,
+        "6": 8,
         "7": 3,
         "8": 3
       },
@@ -132,7 +133,7 @@
       "EM": 4,
       "ME": 9,
       "MO": 21,
-      "MU": 5,
+      "MU": 6,
       "OM": 1,
       "OU": 1,
       "TE": 3,

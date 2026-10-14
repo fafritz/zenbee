@@ -1,9 +1,9 @@
 {
   "pangram": "meowing",
   "center_letter": "o",
-  "num_answers": 36,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 162,
+  "possible_points": 163,
   "answer_pangrams": [
     "meowing"
   ],
@@ -27,6 +27,7 @@
     "moon",
     "mooning",
     "mowing",
+    "mown",
     "neon",
     "noggin",
     "nominee",
@@ -48,7 +49,7 @@
   "date": "2035-09-22",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 14,
       "5": 5,
       "6": 11,
       "7": 6,
@@ -57,7 +58,7 @@
     "by_first_letter": {
       "E": 1,
       "G": 8,
-      "M": 10,
+      "M": 11,
       "N": 5,
       "O": 5,
       "W": 7
@@ -72,7 +73,7 @@
         "7": 2
       },
       "M": {
-        "4": 4,
+        "4": 5,
         "6": 4,
         "7": 2
       },
@@ -100,7 +101,7 @@
       "GO": 7,
       "ME": 3,
       "MI": 2,
-      "MO": 5,
+      "MO": 6,
       "NE": 1,
       "NO": 4,
       "OM": 1,

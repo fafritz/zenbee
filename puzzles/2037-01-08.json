@@ -1,9 +1,9 @@
 {
   "pangram": "hideout",
   "center_letter": "t",
-  "num_answers": 43,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 183,
+  "possible_points": 189,
   "answer_pangrams": [
     "hideout"
   ],
@@ -23,6 +23,7 @@
     "hideout",
     "hoot",
     "hooted",
+    "hotted",
     "idiot",
     "outdid",
     "outdo",
@@ -57,13 +58,13 @@
     "by_length": {
       "4": 15,
       "5": 12,
-      "6": 11,
+      "6": 12,
       "7": 5
     },
     "by_first_letter": {
       "D": 9,
       "E": 3,
-      "H": 3,
+      "H": 4,
       "I": 1,
       "O": 3,
       "T": 24
@@ -82,7 +83,7 @@
       },
       "H": {
         "4": 1,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "I": {
@@ -107,7 +108,7 @@
       "ED": 2,
       "ET": 1,
       "HI": 1,
-      "HO": 2,
+      "HO": 3,
       "ID": 1,
       "OU": 3,
       "TE": 4,

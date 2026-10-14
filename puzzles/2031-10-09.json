@@ -1,9 +1,9 @@
 {
   "pangram": "furling",
   "center_letter": "n",
-  "num_answers": 61,
+  "num_answers": 63,
   "num_pangrams": 3,
-  "possible_points": 413,
+  "possible_points": 427,
   "answer_pangrams": [
     "furling",
     "ruffling",
@@ -14,6 +14,7 @@
     "filing",
     "filling",
     "fining",
+    "finning",
     "firing",
     "fling",
     "flinging",
@@ -24,6 +25,7 @@
     "fulfilling",
     "fulling",
     "fungi",
+    "funning",
     "furling",
     "furring",
     "gigging",
@@ -78,13 +80,13 @@
       "4": 6,
       "5": 4,
       "6": 14,
-      "7": 21,
+      "7": 23,
       "8": 12,
       "9": 1,
       "10": 3
     },
     "by_first_letter": {
-      "F": 16,
+      "F": 18,
       "G": 12,
       "I": 4,
       "L": 9,
@@ -96,7 +98,7 @@
       "F": {
         "5": 3,
         "6": 3,
-        "7": 4,
+        "7": 6,
         "8": 5,
         "10": 1
       },
@@ -134,10 +136,10 @@
       }
     },
     "two_letter_list": {
-      "FI": 5,
+      "FI": 6,
       "FL": 4,
       "FR": 2,
-      "FU": 5,
+      "FU": 6,
       "GI": 3,
       "GL": 1,
       "GR": 4,

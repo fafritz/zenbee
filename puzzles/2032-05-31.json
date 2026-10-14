@@ -1,9 +1,9 @@
 {
   "pangram": "magnify",
   "center_letter": "g",
-  "num_answers": 37,
+  "num_answers": 38,
   "num_pangrams": 2,
-  "possible_points": 217,
+  "possible_points": 224,
   "answer_pangrams": [
     "magnify",
     "magnifying"
@@ -16,6 +16,7 @@
     "fang",
     "fanning",
     "fining",
+    "finning",
     "gaff",
     "gaffing",
     "gaga",
@@ -53,14 +54,14 @@
       "4": 7,
       "5": 6,
       "6": 8,
-      "7": 13,
+      "7": 14,
       "8": 1,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
       "A": 4,
-      "F": 3,
+      "F": 4,
       "G": 13,
       "I": 3,
       "M": 11,
@@ -75,7 +76,7 @@
       "F": {
         "4": 1,
         "6": 1,
-        "7": 1
+        "7": 2
       },
       "G": {
         "4": 5,
@@ -108,7 +109,7 @@
       "AI": 1,
       "AN": 1,
       "FA": 2,
-      "FI": 1,
+      "FI": 2,
       "GA": 11,
       "GI": 2,
       "IM": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "thumbed",
   "center_letter": "d",
-  "num_answers": 36,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 176,
+  "possible_points": 182,
   "answer_pangrams": [
     "thumbed"
   ],
@@ -34,6 +34,7 @@
     "hemmed",
     "hummed",
     "meted",
+    "mudded",
     "muted",
     "teed",
     "teemed",
@@ -50,7 +51,7 @@
     "by_length": {
       "4": 9,
       "5": 8,
-      "6": 14,
+      "6": 15,
       "7": 4,
       "8": 1
     },
@@ -59,7 +60,7 @@
       "D": 13,
       "E": 4,
       "H": 4,
-      "M": 2,
+      "M": 3,
       "T": 9
     },
     "grid": {
@@ -81,7 +82,8 @@
         "6": 3
       },
       "M": {
-        "5": 2
+        "5": 2,
+        "6": 1
       },
       "T": {
         "4": 2,
@@ -101,7 +103,7 @@
       "HE": 3,
       "HU": 1,
       "ME": 1,
-      "MU": 1,
+      "MU": 2,
       "TE": 3,
       "TH": 4,
       "TU": 2

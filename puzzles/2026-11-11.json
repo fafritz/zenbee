@@ -1,9 +1,9 @@
 {
   "pangram": "towhead",
   "center_letter": "d",
-  "num_answers": 65,
+  "num_answers": 66,
   "num_pangrams": 2,
-  "possible_points": 315,
+  "possible_points": 321,
   "answer_pangrams": [
     "towhead",
     "towheaded"
@@ -44,6 +44,7 @@
     "hooted",
     "hothead",
     "hotheaded",
+    "hotted",
     "howdah",
     "owed",
     "tatted",
@@ -80,7 +81,7 @@
     "by_length": {
       "4": 19,
       "5": 14,
-      "6": 20,
+      "6": 21,
       "7": 6,
       "8": 4,
       "9": 2
@@ -88,7 +89,7 @@
     "by_first_letter": {
       "A": 3,
       "D": 14,
-      "H": 19,
+      "H": 20,
       "O": 1,
       "T": 16,
       "W": 12
@@ -107,7 +108,7 @@
       "H": {
         "4": 4,
         "5": 3,
-        "6": 8,
+        "6": 9,
         "7": 1,
         "8": 2,
         "9": 1
@@ -139,7 +140,7 @@
       "DO": 5,
       "HA": 3,
       "HE": 7,
-      "HO": 9,
+      "HO": 10,
       "OW": 1,
       "TA": 2,
       "TE": 2,

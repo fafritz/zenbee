@@ -1,9 +1,9 @@
 {
   "pangram": "defunct",
   "center_letter": "u",
-  "num_answers": 43,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 207,
+  "possible_points": 213,
   "answer_pangrams": [
     "defunct"
   ],
@@ -39,6 +39,7 @@
     "feuded",
     "fund",
     "funded",
+    "funned",
     "nutted",
     "tuft",
     "tufted",
@@ -57,7 +58,7 @@
     "by_length": {
       "4": 13,
       "5": 8,
-      "6": 15,
+      "6": 16,
       "7": 3,
       "8": 2,
       "10": 2
@@ -66,7 +67,7 @@
       "C": 4,
       "D": 18,
       "E": 4,
-      "F": 5,
+      "F": 6,
       "N": 1,
       "T": 5,
       "U": 6
@@ -89,7 +90,7 @@
       },
       "F": {
         "4": 2,
-        "6": 3
+        "6": 4
       },
       "N": {
         "6": 1
@@ -114,7 +115,7 @@
       "EN": 1,
       "ET": 1,
       "FE": 3,
-      "FU": 2,
+      "FU": 3,
       "NU": 1,
       "TU": 5,
       "UN": 6

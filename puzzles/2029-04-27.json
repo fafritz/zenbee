@@ -1,9 +1,9 @@
 {
   "pangram": "praying",
   "center_letter": "a",
-  "num_answers": 72,
+  "num_answers": 74,
   "num_pangrams": 2,
-  "possible_points": 376,
+  "possible_points": 389,
   "answer_pangrams": [
     "parrying",
     "praying"
@@ -32,6 +32,7 @@
     "gang",
     "ganging",
     "gaping",
+    "gapping",
     "garaging",
     "grain",
     "grainy",
@@ -78,6 +79,7 @@
     "rangy",
     "rapping",
     "raring",
+    "raying",
     "yang",
     "yapping",
     "yarn"
@@ -87,19 +89,19 @@
     "by_length": {
       "4": 19,
       "5": 13,
-      "6": 14,
-      "7": 19,
+      "6": 15,
+      "7": 20,
       "8": 4,
       "9": 1,
       "10": 2
     },
     "by_first_letter": {
       "A": 16,
-      "G": 14,
+      "G": 15,
       "I": 2,
       "N": 6,
       "P": 20,
-      "R": 11,
+      "R": 12,
       "Y": 3
     },
     "grid": {
@@ -116,7 +118,7 @@
         "4": 4,
         "5": 1,
         "6": 3,
-        "7": 5,
+        "7": 6,
         "8": 1
       },
       "I": {
@@ -138,7 +140,7 @@
       "R": {
         "4": 3,
         "5": 2,
-        "6": 2,
+        "6": 3,
         "7": 4
       },
       "Y": {
@@ -152,14 +154,14 @@
       "AN": 2,
       "AP": 2,
       "AR": 6,
-      "GA": 8,
+      "GA": 9,
       "GR": 6,
       "IN": 2,
       "NA": 6,
       "PA": 17,
       "PI": 1,
       "PR": 2,
-      "RA": 11,
+      "RA": 12,
       "YA": 3
     }
   }

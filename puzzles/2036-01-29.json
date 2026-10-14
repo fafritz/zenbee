@@ -1,9 +1,9 @@
 {
   "pangram": "fluxing",
   "center_letter": "g",
-  "num_answers": 34,
+  "num_answers": 36,
   "num_pangrams": 1,
-  "possible_points": 208,
+  "possible_points": 222,
   "answer_pangrams": [
     "fluxing"
   ],
@@ -11,6 +11,7 @@
     "filing",
     "filling",
     "fining",
+    "finning",
     "fixing",
     "fling",
     "flinging",
@@ -20,6 +21,7 @@
     "fulfilling",
     "fulling",
     "fungi",
+    "funning",
     "gigging",
     "giggling",
     "gill",
@@ -49,12 +51,12 @@
       "4": 5,
       "5": 3,
       "6": 9,
-      "7": 11,
+      "7": 13,
       "8": 5,
       "10": 1
     },
     "by_first_letter": {
-      "F": 12,
+      "F": 14,
       "G": 10,
       "I": 2,
       "L": 8,
@@ -64,7 +66,7 @@
       "F": {
         "5": 3,
         "6": 3,
-        "7": 3,
+        "7": 5,
         "8": 2,
         "10": 1
       },
@@ -89,9 +91,9 @@
       }
     },
     "two_letter_list": {
-      "FI": 4,
+      "FI": 5,
       "FL": 5,
-      "FU": 3,
+      "FU": 4,
       "GI": 4,
       "GL": 1,
       "GU": 5,

@@ -1,9 +1,9 @@
 {
   "pangram": "vaunted",
   "center_letter": "d",
-  "num_answers": 70,
+  "num_answers": 71,
   "num_pangrams": 2,
-  "possible_points": 402,
+  "possible_points": 408,
   "answer_pangrams": [
     "eventuated",
     "vaunted"
@@ -33,6 +33,7 @@
     "dean",
     "deed",
     "deeded",
+    "denned",
     "dent",
     "dented",
     "denude",
@@ -85,7 +86,7 @@
     "by_length": {
       "4": 13,
       "5": 11,
-      "6": 24,
+      "6": 25,
       "7": 9,
       "8": 7,
       "9": 3,
@@ -93,7 +94,7 @@
     },
     "by_first_letter": {
       "A": 13,
-      "D": 23,
+      "D": 24,
       "E": 7,
       "N": 5,
       "T": 9,
@@ -112,7 +113,7 @@
       "D": {
         "4": 9,
         "5": 4,
-        "6": 6,
+        "6": 7,
         "7": 3,
         "8": 1
       },
@@ -152,7 +153,7 @@
       "AN": 4,
       "AT": 5,
       "DA": 5,
-      "DE": 12,
+      "DE": 13,
       "DU": 6,
       "EN": 2,
       "ET": 1,

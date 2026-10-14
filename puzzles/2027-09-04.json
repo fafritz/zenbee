@@ -1,9 +1,9 @@
 {
   "pangram": "angelic",
   "center_letter": "e",
-  "num_answers": 79,
+  "num_answers": 81,
   "num_pangrams": 5,
-  "possible_points": 448,
+  "possible_points": 461,
   "answer_pangrams": [
     "allegiance",
     "angelic",
@@ -13,6 +13,7 @@
   ],
   "answers": [
     "acne",
+    "ageing",
     "agile",
     "algae",
     "alien",
@@ -84,6 +85,7 @@
     "lineage",
     "lineal",
     "linen",
+    "negging",
     "negligee",
     "negligence",
     "nene",
@@ -97,26 +99,26 @@
     "by_length": {
       "4": 18,
       "5": 16,
-      "6": 21,
-      "7": 11,
+      "6": 22,
+      "7": 12,
       "8": 8,
       "9": 2,
       "10": 3
     },
     "by_first_letter": {
-      "A": 15,
+      "A": 16,
       "C": 10,
       "E": 9,
       "G": 16,
       "I": 6,
       "L": 16,
-      "N": 7
+      "N": 8
     },
     "grid": {
       "A": {
         "4": 1,
         "5": 5,
-        "6": 3,
+        "6": 4,
         "7": 2,
         "8": 2,
         "9": 1,
@@ -161,13 +163,14 @@
         "4": 3,
         "5": 1,
         "6": 1,
+        "7": 1,
         "8": 1,
         "10": 1
       }
     },
     "two_letter_list": {
       "AC": 1,
-      "AG": 1,
+      "AG": 2,
       "AL": 7,
       "AN": 6,
       "CA": 6,
@@ -188,7 +191,7 @@
       "LA": 3,
       "LE": 5,
       "LI": 8,
-      "NE": 3,
+      "NE": 4,
       "NI": 4
     }
   }

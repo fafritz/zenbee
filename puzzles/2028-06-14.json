@@ -1,9 +1,9 @@
 {
   "pangram": "nakedly",
   "center_letter": "d",
-  "num_answers": 67,
+  "num_answers": 69,
   "num_pangrams": 1,
-  "possible_points": 321,
+  "possible_points": 333,
   "answer_pangrams": [
     "nakedly"
   ],
@@ -34,6 +34,7 @@
     "delay",
     "delayed",
     "dell",
+    "denned",
     "deny",
     "dyed",
     "eddy",
@@ -74,25 +75,26 @@
     "needy",
     "yakked",
     "yanked",
-    "yelled"
+    "yelled",
+    "yenned"
   ],
   "date": "2028-06-14",
   "hints": {
     "by_length": {
       "4": 18,
       "5": 15,
-      "6": 21,
+      "6": 23,
       "7": 9,
       "8": 4
     },
     "by_first_letter": {
       "A": 7,
-      "D": 21,
+      "D": 22,
       "E": 5,
       "K": 10,
       "L": 14,
       "N": 7,
-      "Y": 3
+      "Y": 4
     },
     "grid": {
       "A": {
@@ -104,7 +106,7 @@
       "D": {
         "4": 9,
         "5": 4,
-        "6": 5,
+        "6": 6,
         "7": 2,
         "8": 1
       },
@@ -131,7 +133,7 @@
         "7": 2
       },
       "Y": {
-        "6": 3
+        "6": 4
       }
     },
     "two_letter_list": {
@@ -139,7 +141,7 @@
       "AL": 1,
       "AN": 1,
       "DA": 8,
-      "DE": 12,
+      "DE": 13,
       "DY": 1,
       "ED": 1,
       "EE": 1,
@@ -154,7 +156,7 @@
       "NA": 2,
       "NE": 5,
       "YA": 2,
-      "YE": 1
+      "YE": 2
     }
   }
 }

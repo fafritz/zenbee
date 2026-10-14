@@ -1,9 +1,9 @@
 {
   "pangram": "defiant",
   "center_letter": "a",
-  "num_answers": 73,
+  "num_answers": 74,
   "num_pangrams": 2,
-  "possible_points": 399,
+  "possible_points": 405,
   "answer_pangrams": [
     "defiant",
     "fainted"
@@ -53,6 +53,7 @@
     "fanned",
     "fate",
     "fated",
+    "fatted",
     "fatten",
     "fattened",
     "feat",
@@ -88,7 +89,7 @@
     "by_length": {
       "4": 18,
       "5": 12,
-      "6": 17,
+      "6": 18,
       "7": 8,
       "8": 13,
       "9": 5
@@ -97,7 +98,7 @@
       "A": 18,
       "D": 18,
       "E": 1,
-      "F": 12,
+      "F": 13,
       "I": 8,
       "N": 7,
       "T": 9
@@ -125,7 +126,7 @@
       "F": {
         "4": 5,
         "5": 3,
-        "6": 2,
+        "6": 3,
         "7": 1,
         "8": 1
       },
@@ -159,7 +160,7 @@
       "DE": 14,
       "DI": 1,
       "EA": 1,
-      "FA": 9,
+      "FA": 10,
       "FE": 2,
       "FI": 1,
       "ID": 3,

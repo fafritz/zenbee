@@ -1,9 +1,9 @@
 {
   "pangram": "lapwing",
   "center_letter": "a",
-  "num_answers": 77,
+  "num_answers": 78,
   "num_pangrams": 1,
-  "possible_points": 393,
+  "possible_points": 400,
   "answer_pangrams": [
     "lapwing"
   ],
@@ -34,6 +34,7 @@
     "ganglia",
     "gangling",
     "gaping",
+    "gapping",
     "gnaw",
     "gnawing",
     "lagging",
@@ -92,14 +93,14 @@
       "4": 22,
       "5": 10,
       "6": 14,
-      "7": 22,
+      "7": 23,
       "8": 6,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 13,
-      "G": 15,
+      "G": 16,
       "L": 6,
       "N": 6,
       "P": 25,
@@ -117,7 +118,7 @@
       "G": {
         "4": 6,
         "6": 1,
-        "7": 6,
+        "7": 7,
         "8": 2
       },
       "L": {
@@ -152,7 +153,7 @@
       "AN": 2,
       "AP": 3,
       "AW": 2,
-      "GA": 13,
+      "GA": 14,
       "GN": 2,
       "LA": 6,
       "NA": 6,

@@ -1,9 +1,9 @@
 {
   "pangram": "jangled",
   "center_letter": "g",
-  "num_answers": 54,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 262,
+  "possible_points": 268,
   "answer_pangrams": [
     "jangled"
   ],
@@ -61,14 +61,15 @@
     "legal",
     "legend",
     "legged",
-    "nagged"
+    "nagged",
+    "negged"
   ],
   "date": "2038-07-16",
   "hints": {
     "by_length": {
       "4": 14,
       "5": 12,
-      "6": 19,
+      "6": 20,
       "7": 6,
       "8": 2,
       "9": 1
@@ -80,7 +81,7 @@
       "G": 27,
       "J": 3,
       "L": 5,
-      "N": 1
+      "N": 2
     },
     "grid": {
       "A": {
@@ -116,7 +117,7 @@
         "6": 3
       },
       "N": {
-        "6": 1
+        "6": 2
       }
     },
     "two_letter_list": {
@@ -135,7 +136,8 @@
       "JA": 3,
       "LA": 1,
       "LE": 4,
-      "NA": 1
+      "NA": 1,
+      "NE": 1
     }
   }
 }

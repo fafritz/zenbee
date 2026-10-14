@@ -1,9 +1,9 @@
 {
   "pangram": "botched",
   "center_letter": "h",
-  "num_answers": 28,
+  "num_answers": 29,
   "num_pangrams": 1,
-  "possible_points": 124,
+  "possible_points": 130,
   "answer_pangrams": [
     "botched"
   ],
@@ -29,6 +29,7 @@
     "hoot",
     "hooted",
     "hotbed",
+    "hotted",
     "tech",
     "teeth",
     "teethe",
@@ -42,14 +43,14 @@
     "by_length": {
       "4": 10,
       "5": 6,
-      "6": 8,
+      "6": 9,
       "7": 3,
       "8": 1
     },
     "by_first_letter": {
       "B": 5,
       "E": 4,
-      "H": 12,
+      "H": 13,
       "T": 7
     },
     "grid": {
@@ -65,7 +66,7 @@
       "H": {
         "4": 5,
         "5": 1,
-        "6": 5,
+        "6": 6,
         "8": 1
       },
       "T": {
@@ -81,7 +82,7 @@
       "EC": 2,
       "ET": 2,
       "HE": 2,
-      "HO": 10,
+      "HO": 11,
       "TE": 4,
       "TH": 1,
       "TO": 2

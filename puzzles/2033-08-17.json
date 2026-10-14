@@ -1,9 +1,9 @@
 {
   "pangram": "clothed",
   "center_letter": "h",
-  "num_answers": 39,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 176,
+  "possible_points": 182,
   "answer_pangrams": [
     "clothed"
   ],
@@ -37,6 +37,7 @@
     "hoot",
     "hooted",
     "hotel",
+    "hotted",
     "leech",
     "leeched",
     "tech",
@@ -53,14 +54,14 @@
     "by_length": {
       "4": 13,
       "5": 9,
-      "6": 10,
+      "6": 11,
       "7": 5,
       "8": 2
     },
     "by_first_letter": {
       "C": 4,
       "E": 4,
-      "H": 21,
+      "H": 22,
       "L": 2,
       "T": 8
     },
@@ -77,7 +78,7 @@
       "H": {
         "4": 9,
         "5": 5,
-        "6": 5,
+        "6": 6,
         "8": 2
       },
       "L": {
@@ -96,7 +97,7 @@
       "EC": 2,
       "ET": 2,
       "HE": 9,
-      "HO": 12,
+      "HO": 13,
       "LE": 2,
       "TE": 4,
       "TH": 1,

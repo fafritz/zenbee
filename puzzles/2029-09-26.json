@@ -1,9 +1,9 @@
 {
   "pangram": "obeying",
   "center_letter": "n",
-  "num_answers": 59,
+  "num_answers": 61,
   "num_pangrams": 2,
-  "possible_points": 302,
+  "possible_points": 316,
   "answer_pangrams": [
     "bogeying",
     "obeying"
@@ -57,6 +57,7 @@
     "gonging",
     "goon",
     "inning",
+    "negging",
     "nene",
     "neon",
     "nine",
@@ -67,7 +68,8 @@
     "noon",
     "obeying",
     "ongoing",
-    "onion"
+    "onion",
+    "yenning"
   ],
   "date": "2029-09-26",
   "hints": {
@@ -75,7 +77,7 @@
       "4": 15,
       "5": 12,
       "6": 17,
-      "7": 11,
+      "7": 13,
       "8": 2,
       "9": 2
     },
@@ -84,8 +86,9 @@
       "E": 6,
       "G": 13,
       "I": 1,
-      "N": 8,
-      "O": 3
+      "N": 9,
+      "O": 3,
+      "Y": 1
     },
     "grid": {
       "B": {
@@ -112,11 +115,15 @@
       "N": {
         "4": 6,
         "5": 1,
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "O": {
         "5": 1,
         "7": 2
+      },
+      "Y": {
+        "7": 1
       }
     },
     "two_letter_list": {
@@ -132,11 +139,12 @@
       "GI": 4,
       "GO": 5,
       "IN": 1,
-      "NE": 2,
+      "NE": 3,
       "NI": 2,
       "NO": 4,
       "OB": 1,
-      "ON": 2
+      "ON": 2,
+      "YE": 1
     }
   }
 }

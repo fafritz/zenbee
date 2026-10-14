@@ -1,15 +1,16 @@
 {
   "pangram": "heating",
   "center_letter": "a",
-  "num_answers": 71,
+  "num_answers": 72,
   "num_pangrams": 1,
-  "possible_points": 381,
+  "possible_points": 387,
   "answer_pangrams": [
     "heating"
   ],
   "answers": [
     "again",
     "agate",
+    "ageing",
     "agent",
     "aging",
     "agitate",
@@ -85,14 +86,14 @@
     "by_length": {
       "4": 17,
       "5": 13,
-      "6": 12,
+      "6": 13,
       "7": 18,
       "8": 6,
       "9": 4,
       "10": 1
     },
     "by_first_letter": {
-      "A": 15,
+      "A": 16,
       "E": 4,
       "G": 13,
       "H": 11,
@@ -104,7 +105,7 @@
       "A": {
         "4": 2,
         "5": 4,
-        "6": 2,
+        "6": 3,
         "7": 4,
         "8": 1,
         "9": 2
@@ -151,7 +152,7 @@
       }
     },
     "two_letter_list": {
-      "AG": 6,
+      "AG": 7,
       "AN": 7,
       "AT": 2,
       "EA": 2,

@@ -1,9 +1,9 @@
 {
   "pangram": "fowling",
   "center_letter": "n",
-  "num_answers": 68,
+  "num_answers": 69,
   "num_pangrams": 4,
-  "possible_points": 420,
+  "possible_points": 427,
   "answer_pangrams": [
     "flowing",
     "following",
@@ -14,6 +14,7 @@
     "filing",
     "filling",
     "fining",
+    "finning",
     "fling",
     "flinging",
     "flogging",
@@ -86,12 +87,12 @@
       "4": 11,
       "5": 7,
       "6": 17,
-      "7": 23,
+      "7": 24,
       "8": 7,
       "9": 3
     },
     "by_first_letter": {
-      "F": 13,
+      "F": 14,
       "G": 14,
       "I": 3,
       "L": 12,
@@ -103,7 +104,7 @@
       "F": {
         "5": 2,
         "6": 2,
-        "7": 6,
+        "7": 7,
         "8": 2,
         "9": 1
       },
@@ -143,7 +144,7 @@
       }
     },
     "two_letter_list": {
-      "FI": 3,
+      "FI": 4,
       "FL": 5,
       "FO": 5,
       "GI": 3,

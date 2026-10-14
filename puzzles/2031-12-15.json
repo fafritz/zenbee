@@ -1,9 +1,9 @@
 {
   "pangram": "godlike",
   "center_letter": "g",
-  "num_answers": 44,
+  "num_answers": 45,
   "num_pangrams": 1,
-  "possible_points": 198,
+  "possible_points": 204,
   "answer_pangrams": [
     "godlike"
   ],
@@ -42,6 +42,7 @@
     "google",
     "googled",
     "igloo",
+    "kegged",
     "ledge",
     "legged",
     "liege",
@@ -58,7 +59,7 @@
     "by_length": {
       "4": 13,
       "5": 12,
-      "6": 15,
+      "6": 16,
       "7": 4
     },
     "by_first_letter": {
@@ -66,6 +67,7 @@
       "E": 3,
       "G": 25,
       "I": 1,
+      "K": 1,
       "L": 8,
       "O": 2
     },
@@ -88,6 +90,9 @@
       "I": {
         "5": 1
       },
+      "K": {
+        "6": 1
+      },
       "L": {
         "4": 2,
         "5": 3,
@@ -107,6 +112,7 @@
       "GL": 3,
       "GO": 7,
       "IG": 1,
+      "KE": 1,
       "LE": 2,
       "LI": 1,
       "LO": 5,

@@ -1,15 +1,16 @@
 {
   "pangram": "flunked",
   "center_letter": "n",
-  "num_answers": 44,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 221,
+  "possible_points": 233,
   "answer_pangrams": [
     "flunked"
   ],
   "answers": [
     "defend",
     "defended",
+    "denned",
     "denude",
     "denuded",
     "dune",
@@ -27,6 +28,7 @@
     "funded",
     "funk",
     "funked",
+    "funned",
     "funnel",
     "funneled",
     "keen",
@@ -58,15 +60,15 @@
     "by_length": {
       "4": 12,
       "5": 7,
-      "6": 15,
+      "6": 17,
       "7": 5,
       "8": 4,
       "10": 1
     },
     "by_first_letter": {
-      "D": 8,
+      "D": 9,
       "E": 2,
-      "F": 11,
+      "F": 12,
       "K": 10,
       "L": 1,
       "N": 9,
@@ -75,7 +77,7 @@
     "grid": {
       "D": {
         "4": 2,
-        "6": 4,
+        "6": 5,
         "7": 1,
         "8": 1
       },
@@ -86,7 +88,7 @@
       "F": {
         "4": 3,
         "5": 1,
-        "6": 5,
+        "6": 6,
         "7": 1,
         "8": 1
       },
@@ -113,12 +115,12 @@
       }
     },
     "two_letter_list": {
-      "DE": 4,
+      "DE": 5,
       "DU": 4,
       "EN": 2,
       "FE": 3,
       "FL": 2,
-      "FU": 6,
+      "FU": 7,
       "KE": 5,
       "KN": 5,
       "LE": 1,

@@ -1,14 +1,15 @@
 {
   "pangram": "jointed",
   "center_letter": "n",
-  "num_answers": 71,
+  "num_answers": 72,
   "num_pangrams": 1,
-  "possible_points": 340,
+  "possible_points": 346,
   "answer_pangrams": [
     "jointed"
   ],
   "answers": [
     "denied",
+    "denned",
     "denote",
     "denoted",
     "dent",
@@ -85,14 +86,14 @@
     "by_length": {
       "4": 22,
       "5": 10,
-      "6": 24,
+      "6": 25,
       "7": 8,
       "8": 4,
       "9": 2,
       "11": 1
     },
     "by_first_letter": {
-      "D": 16,
+      "D": 17,
       "E": 5,
       "I": 12,
       "J": 5,
@@ -104,7 +105,7 @@
       "D": {
         "4": 4,
         "5": 1,
-        "6": 7,
+        "6": 8,
         "7": 3,
         "9": 1
       },
@@ -146,7 +147,7 @@
       }
     },
     "two_letter_list": {
-      "DE": 9,
+      "DE": 10,
       "DI": 5,
       "DO": 2,
       "ED": 1,

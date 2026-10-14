@@ -1,15 +1,16 @@
 {
   "pangram": "educing",
   "center_letter": "i",
-  "num_answers": 71,
+  "num_answers": 74,
   "num_pangrams": 2,
-  "possible_points": 436,
+  "possible_points": 456,
   "answer_pangrams": [
     "deducing",
     "educing"
   ],
   "answers": [
     "ceding",
+    "cueing",
     "cuing",
     "cunning",
     "decide",
@@ -24,6 +25,7 @@
     "deigned",
     "deigning",
     "denied",
+    "denning",
     "denuding",
     "dice",
     "diced",
@@ -73,6 +75,7 @@
     "ingenue",
     "inning",
     "needing",
+    "negging",
     "nice",
     "niece",
     "nine",
@@ -86,31 +89,31 @@
     "by_length": {
       "4": 7,
       "5": 12,
-      "6": 21,
-      "7": 22,
+      "6": 22,
+      "7": 24,
       "8": 6,
       "9": 3
     },
     "by_first_letter": {
-      "C": 3,
-      "D": 29,
+      "C": 4,
+      "D": 30,
       "E": 9,
       "G": 12,
       "I": 10,
-      "N": 5,
+      "N": 6,
       "U": 3
     },
     "grid": {
       "C": {
         "5": 1,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "D": {
         "4": 4,
         "5": 4,
         "6": 8,
-        "7": 9,
+        "7": 10,
         "8": 4
       },
       "E": {
@@ -134,7 +137,7 @@
       "N": {
         "4": 2,
         "5": 1,
-        "7": 2
+        "7": 3
       },
       "U": {
         "5": 1,
@@ -144,8 +147,8 @@
     },
     "two_letter_list": {
       "CE": 1,
-      "CU": 2,
-      "DE": 13,
+      "CU": 3,
+      "DE": 14,
       "DI": 13,
       "DU": 3,
       "ED": 3,
@@ -156,7 +159,7 @@
       "GU": 4,
       "IC": 2,
       "IN": 8,
-      "NE": 1,
+      "NE": 2,
       "NI": 3,
       "NU": 1,
       "UN": 3

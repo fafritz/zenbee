@@ -1,9 +1,9 @@
 {
   "pangram": "confide",
   "center_letter": "i",
-  "num_answers": 60,
+  "num_answers": 61,
   "num_pangrams": 5,
-  "possible_points": 350,
+  "possible_points": 356,
   "answer_pangrams": [
     "coffined",
     "confide",
@@ -58,6 +58,7 @@
     "find",
     "fine",
     "fined",
+    "finned",
     "iced",
     "icon",
     "iconic",
@@ -78,7 +79,7 @@
     "by_length": {
       "4": 15,
       "5": 11,
-      "6": 14,
+      "6": 15,
       "7": 9,
       "8": 5,
       "9": 3,
@@ -89,7 +90,7 @@
       "C": 18,
       "D": 19,
       "E": 3,
-      "F": 6,
+      "F": 7,
       "I": 9,
       "N": 3,
       "O": 2
@@ -118,7 +119,8 @@
       },
       "F": {
         "4": 4,
-        "5": 2
+        "5": 2,
+        "6": 1
       },
       "I": {
         "4": 3,
@@ -140,7 +142,7 @@
       "DE": 9,
       "DI": 10,
       "ED": 3,
-      "FI": 6,
+      "FI": 7,
       "IC": 3,
       "IN": 4,
       "IO": 2,

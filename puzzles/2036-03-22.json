@@ -1,9 +1,9 @@
 {
   "pangram": "mewling",
   "center_letter": "e",
-  "num_answers": 44,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 188,
+  "possible_points": 202,
   "answer_pangrams": [
     "mewling"
   ],
@@ -13,6 +13,7 @@
     "engine",
     "geeing",
     "gelling",
+    "gemming",
     "gene",
     "genie",
     "genii",
@@ -40,6 +41,7 @@
     "mime",
     "mine",
     "mingle",
+    "negging",
     "negligee",
     "nene",
     "newel",
@@ -59,16 +61,16 @@
       "4": 17,
       "5": 7,
       "6": 12,
-      "7": 7,
+      "7": 9,
       "8": 1
     },
     "by_first_letter": {
       "E": 3,
-      "G": 9,
+      "G": 10,
       "I": 1,
       "L": 9,
       "M": 10,
-      "N": 5,
+      "N": 6,
       "W": 7
     },
     "grid": {
@@ -79,7 +81,7 @@
         "4": 3,
         "5": 3,
         "6": 2,
-        "7": 1
+        "7": 2
       },
       "I": {
         "6": 1
@@ -100,6 +102,7 @@
         "4": 2,
         "5": 1,
         "6": 1,
+        "7": 1,
         "8": 1
       },
       "W": {
@@ -112,7 +115,7 @@
       "EE": 1,
       "EG": 1,
       "EN": 1,
-      "GE": 5,
+      "GE": 6,
       "GI": 2,
       "GL": 2,
       "IN": 1,
@@ -120,7 +123,7 @@
       "LI": 6,
       "ME": 5,
       "MI": 5,
-      "NE": 3,
+      "NE": 4,
       "NI": 2,
       "WE": 3,
       "WI": 4

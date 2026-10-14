@@ -1,9 +1,9 @@
 {
   "pangram": "decking",
   "center_letter": "e",
-  "num_answers": 75,
+  "num_answers": 81,
   "num_pangrams": 1,
-  "possible_points": 363,
+  "possible_points": 402,
   "answer_pangrams": [
     "decking"
   ],
@@ -27,6 +27,8 @@
     "deigned",
     "deigning",
     "denied",
+    "denned",
+    "denning",
     "dice",
     "diced",
     "died",
@@ -64,6 +66,8 @@
     "keen",
     "keened",
     "keening",
+    "kegged",
+    "kegging",
     "kenned",
     "kenning",
     "kicked",
@@ -78,6 +82,8 @@
     "need",
     "needed",
     "needing",
+    "negged",
+    "negging",
     "nene",
     "nice",
     "nicked",
@@ -89,19 +95,19 @@
     "by_length": {
       "4": 20,
       "5": 15,
-      "6": 25,
-      "7": 11,
+      "6": 28,
+      "7": 14,
       "8": 2,
       "9": 2
     },
     "by_first_letter": {
       "C": 3,
-      "D": 25,
+      "D": 27,
       "E": 12,
       "G": 8,
       "I": 5,
-      "K": 11,
-      "N": 11
+      "K": 13,
+      "N": 13
     },
     "grid": {
       "C": {
@@ -112,8 +118,8 @@
       "D": {
         "4": 6,
         "5": 5,
-        "6": 7,
-        "7": 5,
+        "6": 8,
+        "7": 6,
         "8": 2
       },
       "E": {
@@ -136,19 +142,19 @@
       "K": {
         "4": 2,
         "5": 1,
-        "6": 5,
-        "7": 3
+        "6": 6,
+        "7": 4
       },
       "N": {
         "4": 5,
         "5": 1,
-        "6": 3,
-        "7": 2
+        "6": 4,
+        "7": 3
       }
     },
     "two_letter_list": {
       "CE": 3,
-      "DE": 16,
+      "DE": 18,
       "DI": 9,
       "ED": 4,
       "EG": 2,
@@ -158,10 +164,10 @@
       "GI": 2,
       "IC": 1,
       "IN": 4,
-      "KE": 5,
+      "KE": 7,
       "KI": 3,
       "KN": 3,
-      "NE": 7,
+      "NE": 9,
       "NI": 4
     }
   }

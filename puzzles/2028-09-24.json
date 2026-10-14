@@ -1,9 +1,9 @@
 {
   "pangram": "temping",
   "center_letter": "e",
-  "num_answers": 69,
+  "num_answers": 71,
   "num_pangrams": 4,
-  "possible_points": 345,
+  "possible_points": 359,
   "answer_pangrams": [
     "impingement",
     "pigment",
@@ -19,6 +19,7 @@
     "entente",
     "epee",
     "geeing",
+    "gemming",
     "gene",
     "genie",
     "genii",
@@ -43,6 +44,7 @@
     "mine",
     "mite",
     "mitten",
+    "negging",
     "nene",
     "netting",
     "nine",
@@ -87,17 +89,17 @@
       "4": 25,
       "5": 9,
       "6": 12,
-      "7": 14,
+      "7": 16,
       "8": 7,
       "10": 1,
       "11": 1
     },
     "by_first_letter": {
       "E": 7,
-      "G": 7,
+      "G": 8,
       "I": 8,
       "M": 10,
-      "N": 4,
+      "N": 5,
       "P": 15,
       "T": 18
     },
@@ -112,7 +114,7 @@
         "4": 2,
         "5": 3,
         "6": 1,
-        "7": 1
+        "7": 2
       },
       "I": {
         "4": 1,
@@ -130,7 +132,7 @@
       },
       "N": {
         "4": 2,
-        "7": 1,
+        "7": 2,
         "8": 1
       },
       "P": {
@@ -153,7 +155,7 @@
       "EM": 3,
       "EN": 2,
       "EP": 1,
-      "GE": 6,
+      "GE": 7,
       "GI": 1,
       "IG": 1,
       "IM": 4,
@@ -161,7 +163,7 @@
       "IT": 1,
       "ME": 5,
       "MI": 5,
-      "NE": 2,
+      "NE": 3,
       "NI": 2,
       "PE": 10,
       "PI": 5,

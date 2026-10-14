@@ -1,9 +1,9 @@
 {
   "pangram": "jaunted",
   "center_letter": "n",
-  "num_answers": 70,
+  "num_answers": 71,
   "num_pangrams": 1,
-  "possible_points": 390,
+  "possible_points": 396,
   "answer_pangrams": [
     "jaunted"
   ],
@@ -31,6 +31,7 @@
     "deaden",
     "deadened",
     "dean",
+    "denned",
     "dent",
     "dented",
     "denude",
@@ -84,7 +85,7 @@
     "by_length": {
       "4": 15,
       "5": 10,
-      "6": 19,
+      "6": 20,
       "7": 12,
       "8": 8,
       "9": 4,
@@ -92,7 +93,7 @@
     },
     "by_first_letter": {
       "A": 18,
-      "D": 13,
+      "D": 14,
       "E": 4,
       "J": 4,
       "N": 11,
@@ -112,7 +113,7 @@
       "D": {
         "4": 3,
         "5": 1,
-        "6": 5,
+        "6": 6,
         "7": 3,
         "8": 1
       },
@@ -152,7 +153,7 @@
       "AT": 7,
       "AU": 1,
       "DA": 2,
-      "DE": 9,
+      "DE": 10,
       "DU": 2,
       "EA": 1,
       "EN": 3,

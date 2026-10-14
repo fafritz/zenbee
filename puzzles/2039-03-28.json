@@ -1,9 +1,9 @@
 {
   "pangram": "flanged",
   "center_letter": "n",
-  "num_answers": 65,
+  "num_answers": 67,
   "num_pangrams": 1,
-  "possible_points": 340,
+  "possible_points": 352,
   "answer_pangrams": [
     "flanged"
   ],
@@ -27,6 +27,7 @@
     "dean",
     "defend",
     "defended",
+    "denned",
     "elan",
     "ended",
     "engage",
@@ -72,6 +73,7 @@
     "needed",
     "needle",
     "needled",
+    "negged",
     "nene"
   ],
   "date": "2039-03-28",
@@ -79,19 +81,19 @@
     "by_length": {
       "4": 16,
       "5": 6,
-      "6": 25,
+      "6": 27,
       "7": 9,
       "8": 7,
       "9": 2
     },
     "by_first_letter": {
       "A": 8,
-      "D": 11,
+      "D": 12,
       "E": 4,
       "F": 12,
       "G": 12,
       "L": 10,
-      "N": 8
+      "N": 9
     },
     "grid": {
       "A": {
@@ -102,7 +104,7 @@
       },
       "D": {
         "4": 1,
-        "6": 5,
+        "6": 6,
         "7": 2,
         "8": 3
       },
@@ -134,7 +136,7 @@
       },
       "N": {
         "4": 4,
-        "6": 3,
+        "6": 4,
         "7": 1
       }
     },
@@ -143,7 +145,7 @@
       "AG": 1,
       "AN": 5,
       "DA": 4,
-      "DE": 7,
+      "DE": 8,
       "EL": 1,
       "EN": 3,
       "FA": 4,
@@ -155,7 +157,7 @@
       "LA": 5,
       "LE": 5,
       "NA": 3,
-      "NE": 5
+      "NE": 6
     }
   }
 }

@@ -1,14 +1,15 @@
 {
   "pangram": "begonia",
   "center_letter": "g",
-  "num_answers": 69,
+  "num_answers": 71,
   "num_pangrams": 1,
-  "possible_points": 384,
+  "possible_points": 397,
   "answer_pangrams": [
     "begonia"
   ],
   "answers": [
     "again",
+    "ageing",
     "aging",
     "agog",
     "angina",
@@ -75,6 +76,7 @@
     "inning",
     "nabbing",
     "nagging",
+    "negging",
     "noggin",
     "ongoing"
   ],
@@ -83,25 +85,25 @@
     "by_length": {
       "4": 11,
       "5": 14,
-      "6": 18,
-      "7": 22,
+      "6": 19,
+      "7": 23,
       "8": 2,
       "9": 2
     },
     "by_first_letter": {
-      "A": 4,
+      "A": 5,
       "B": 33,
       "E": 6,
       "G": 21,
       "I": 1,
-      "N": 3,
+      "N": 4,
       "O": 1
     },
     "grid": {
       "A": {
         "4": 1,
         "5": 2,
-        "6": 1
+        "6": 2
       },
       "B": {
         "4": 2,
@@ -126,14 +128,14 @@
       },
       "N": {
         "6": 1,
-        "7": 2
+        "7": 3
       },
       "O": {
         "7": 1
       }
     },
     "two_letter_list": {
-      "AG": 3,
+      "AG": 4,
       "AN": 1,
       "BA": 6,
       "BE": 10,
@@ -148,6 +150,7 @@
       "GO": 5,
       "IN": 1,
       "NA": 2,
+      "NE": 1,
       "NO": 1,
       "ON": 1
     }

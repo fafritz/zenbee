@@ -1,9 +1,9 @@
 {
   "pangram": "forking",
   "center_letter": "n",
-  "num_answers": 57,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 306,
+  "possible_points": 313,
   "answer_pangrams": [
     "forking"
   ],
@@ -11,6 +11,7 @@
     "fining",
     "fink",
     "finking",
+    "finning",
     "firing",
     "fogging",
     "forging",
@@ -72,12 +73,12 @@
       "4": 15,
       "5": 4,
       "6": 11,
-      "7": 20,
+      "7": 21,
       "8": 6,
       "10": 1
     },
     "by_first_letter": {
-      "F": 10,
+      "F": 11,
       "G": 16,
       "I": 8,
       "K": 4,
@@ -89,7 +90,7 @@
       "F": {
         "4": 1,
         "6": 2,
-        "7": 4,
+        "7": 5,
         "8": 3
       },
       "G": {
@@ -127,7 +128,7 @@
       }
     },
     "two_letter_list": {
-      "FI": 4,
+      "FI": 5,
       "FO": 4,
       "FR": 2,
       "GI": 3,

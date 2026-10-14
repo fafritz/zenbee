@@ -1,9 +1,9 @@
 {
   "pangram": "thanked",
   "center_letter": "n",
-  "num_answers": 66,
+  "num_answers": 67,
   "num_pangrams": 1,
-  "possible_points": 313,
+  "possible_points": 319,
   "answer_pangrams": [
     "thanked"
   ],
@@ -25,6 +25,7 @@
     "deaden",
     "deadened",
     "dean",
+    "denned",
     "dent",
     "dented",
     "detent",
@@ -80,14 +81,14 @@
     "by_length": {
       "4": 21,
       "5": 12,
-      "6": 16,
+      "6": 17,
       "7": 9,
       "8": 6,
       "9": 2
     },
     "by_first_letter": {
       "A": 13,
-      "D": 8,
+      "D": 9,
       "E": 3,
       "H": 6,
       "K": 8,
@@ -105,7 +106,7 @@
       },
       "D": {
         "4": 3,
-        "6": 3,
+        "6": 4,
         "7": 1,
         "8": 1
       },
@@ -144,7 +145,7 @@
       "AN": 8,
       "AT": 3,
       "DA": 1,
-      "DE": 7,
+      "DE": 8,
       "EA": 1,
       "EN": 2,
       "HA": 3,

@@ -1,9 +1,9 @@
 {
   "pangram": "palming",
   "center_letter": "m",
-  "num_answers": 60,
+  "num_answers": 61,
   "num_pangrams": 3,
-  "possible_points": 343,
+  "possible_points": 349,
   "answer_pangrams": [
     "impaling",
     "napalming",
@@ -12,6 +12,7 @@
   "answers": [
     "aiming",
     "amalgam",
+    "amping",
     "animal",
     "gaming",
     "gamma",
@@ -76,14 +77,14 @@
     "by_length": {
       "4": 14,
       "5": 9,
-      "6": 13,
+      "6": 14,
       "7": 14,
       "8": 4,
       "9": 5,
       "10": 1
     },
     "by_first_letter": {
-      "A": 3,
+      "A": 4,
       "G": 2,
       "I": 6,
       "L": 10,
@@ -93,7 +94,7 @@
     },
     "grid": {
       "A": {
-        "6": 2,
+        "6": 3,
         "7": 1
       },
       "G": {
@@ -134,7 +135,7 @@
     },
     "two_letter_list": {
       "AI": 1,
-      "AM": 1,
+      "AM": 2,
       "AN": 1,
       "GA": 2,
       "IM": 6,

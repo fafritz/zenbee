@@ -1,9 +1,9 @@
 {
   "pangram": "workman",
   "center_letter": "m",
-  "num_answers": 29,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 97,
+  "possible_points": 98,
   "answer_pangrams": [
     "workman"
   ],
@@ -29,6 +29,7 @@
     "morn",
     "moron",
     "morrow",
+    "mown",
     "norm",
     "roam",
     "roman",
@@ -41,7 +42,7 @@
   "date": "2031-04-01",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 16,
       "5": 10,
       "6": 3,
       "7": 1
@@ -49,7 +50,7 @@
     "by_first_letter": {
       "A": 4,
       "K": 1,
-      "M": 16,
+      "M": 17,
       "N": 1,
       "R": 3,
       "W": 4
@@ -63,7 +64,7 @@
         "5": 1
       },
       "M": {
-        "4": 8,
+        "4": 9,
         "5": 5,
         "6": 3
       },
@@ -85,7 +86,7 @@
       "AR": 2,
       "KA": 1,
       "MA": 7,
-      "MO": 9,
+      "MO": 10,
       "NO": 1,
       "RO": 3,
       "WA": 1,

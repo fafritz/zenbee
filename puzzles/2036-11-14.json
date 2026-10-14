@@ -1,9 +1,9 @@
 {
   "pangram": "damping",
   "center_letter": "g",
-  "num_answers": 62,
+  "num_answers": 65,
   "num_pangrams": 1,
-  "possible_points": 382,
+  "possible_points": 402,
   "answer_pangrams": [
     "damping"
   ],
@@ -13,6 +13,7 @@
     "aging",
     "aiding",
     "aiming",
+    "amping",
     "angina",
     "aping",
     "damaging",
@@ -36,12 +37,14 @@
     "gang",
     "ganging",
     "gaping",
+    "gapping",
     "gigging",
     "ginning",
     "imaging",
     "imagining",
     "impinging",
     "inning",
+    "madding",
     "magma",
     "maiming",
     "managing",
@@ -76,24 +79,24 @@
     "by_length": {
       "4": 6,
       "5": 7,
-      "6": 15,
-      "7": 30,
+      "6": 16,
+      "7": 32,
       "8": 2,
       "9": 2
     },
     "by_first_letter": {
-      "A": 7,
+      "A": 8,
       "D": 11,
-      "G": 12,
+      "G": 13,
       "I": 4,
-      "M": 9,
+      "M": 10,
       "N": 4,
       "P": 15
     },
     "grid": {
       "A": {
         "5": 3,
-        "6": 4
+        "6": 5
       },
       "D": {
         "4": 1,
@@ -105,7 +108,7 @@
         "4": 3,
         "5": 1,
         "6": 2,
-        "7": 6
+        "7": 7
       },
       "I": {
         "6": 1,
@@ -115,7 +118,7 @@
       "M": {
         "5": 2,
         "6": 2,
-        "7": 4,
+        "7": 5,
         "8": 1
       },
       "N": {
@@ -133,15 +136,16 @@
       "AD": 1,
       "AG": 2,
       "AI": 2,
+      "AM": 1,
       "AN": 1,
       "AP": 1,
       "DA": 4,
       "DI": 7,
-      "GA": 10,
+      "GA": 11,
       "GI": 2,
       "IM": 3,
       "IN": 1,
-      "MA": 6,
+      "MA": 7,
       "MI": 3,
       "NA": 3,
       "NI": 1,

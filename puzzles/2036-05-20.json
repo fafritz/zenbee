@@ -1,9 +1,9 @@
 {
   "pangram": "figment",
   "center_letter": "f",
-  "num_answers": 24,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 123,
+  "possible_points": 130,
   "answer_pangrams": [
     "figment"
   ],
@@ -24,6 +24,7 @@
     "fine",
     "fining",
     "finite",
+    "finning",
     "fitting",
     "gift",
     "gifting",
@@ -39,12 +40,12 @@
       "4": 8,
       "5": 2,
       "6": 4,
-      "7": 6,
+      "7": 7,
       "8": 4
     },
     "by_first_letter": {
       "E": 1,
-      "F": 16,
+      "F": 17,
       "G": 2,
       "I": 1,
       "M": 2,
@@ -58,7 +59,7 @@
         "4": 5,
         "5": 2,
         "6": 3,
-        "7": 3,
+        "7": 4,
         "8": 3
       },
       "G": {
@@ -80,7 +81,7 @@
     "two_letter_list": {
       "EF": 1,
       "FE": 8,
-      "FI": 8,
+      "FI": 9,
       "GI": 2,
       "IN": 1,
       "MI": 2,

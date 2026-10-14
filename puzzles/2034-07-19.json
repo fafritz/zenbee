@@ -1,9 +1,9 @@
 {
   "pangram": "plagued",
   "center_letter": "g",
-  "num_answers": 58,
+  "num_answers": 59,
   "num_pangrams": 1,
-  "possible_points": 253,
+  "possible_points": 259,
   "answer_pangrams": [
     "plagued"
   ],
@@ -32,6 +32,7 @@
     "galled",
     "gape",
     "gaped",
+    "gapped",
     "gauge",
     "gauged",
     "geed",
@@ -72,14 +73,14 @@
     "by_length": {
       "4": 19,
       "5": 14,
-      "6": 18,
+      "6": 19,
       "7": 7
     },
     "by_first_letter": {
       "A": 8,
       "D": 2,
       "E": 4,
-      "G": 25,
+      "G": 26,
       "L": 10,
       "P": 9
     },
@@ -101,7 +102,7 @@
       "G": {
         "4": 12,
         "5": 4,
-        "6": 9
+        "6": 10
       },
       "L": {
         "4": 1,
@@ -124,7 +125,7 @@
       "EA": 1,
       "ED": 2,
       "EG": 1,
-      "GA": 12,
+      "GA": 13,
       "GE": 4,
       "GL": 5,
       "GU": 4,

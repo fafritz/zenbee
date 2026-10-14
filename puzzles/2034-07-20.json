@@ -1,9 +1,9 @@
 {
   "pangram": "imputed",
   "center_letter": "u",
-  "num_answers": 30,
+  "num_answers": 31,
   "num_pangrams": 1,
-  "possible_points": 139,
+  "possible_points": 145,
   "answer_pangrams": [
     "imputed"
   ],
@@ -21,6 +21,7 @@
     "impute",
     "imputed",
     "medium",
+    "mudded",
     "muddied",
     "mute",
     "muted",
@@ -44,14 +45,14 @@
     "by_length": {
       "4": 9,
       "5": 7,
-      "6": 10,
+      "6": 11,
       "7": 4
     },
     "by_first_letter": {
       "D": 9,
       "E": 1,
       "I": 2,
-      "M": 6,
+      "M": 7,
       "P": 7,
       "T": 3,
       "U": 2
@@ -73,7 +74,7 @@
       "M": {
         "4": 2,
         "5": 1,
-        "6": 2,
+        "6": 3,
         "7": 1
       },
       "P": {
@@ -96,7 +97,7 @@
       "ET": 1,
       "IM": 2,
       "ME": 1,
-      "MU": 5,
+      "MU": 6,
       "PU": 7,
       "TE": 1,
       "TU": 2,

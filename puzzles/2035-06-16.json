@@ -1,9 +1,9 @@
 {
   "pangram": "godlike",
   "center_letter": "e",
-  "num_answers": 75,
+  "num_answers": 76,
   "num_pangrams": 1,
-  "possible_points": 328,
+  "possible_points": 334,
   "answer_pangrams": [
     "godlike"
   ],
@@ -60,6 +60,7 @@
     "idled",
     "keel",
     "keeled",
+    "kegged",
     "kidded",
     "killed",
     "lede",
@@ -89,7 +90,7 @@
     "by_length": {
       "4": 23,
       "5": 20,
-      "6": 26,
+      "6": 27,
       "7": 6
     },
     "by_first_letter": {
@@ -97,7 +98,7 @@
       "E": 8,
       "G": 20,
       "I": 2,
-      "K": 4,
+      "K": 5,
       "L": 16,
       "O": 5
     },
@@ -125,7 +126,7 @@
       },
       "K": {
         "4": 1,
-        "6": 3
+        "6": 4
       },
       "L": {
         "4": 6,
@@ -151,7 +152,7 @@
       "GL": 3,
       "GO": 5,
       "ID": 2,
-      "KE": 2,
+      "KE": 3,
       "KI": 2,
       "LE": 4,
       "LI": 5,

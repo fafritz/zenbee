@@ -1,9 +1,9 @@
 {
   "pangram": "chained",
   "center_letter": "d",
-  "num_answers": 78,
+  "num_answers": 79,
   "num_pangrams": 2,
-  "possible_points": 394,
+  "possible_points": 400,
   "answer_pangrams": [
     "chained",
     "hacienda"
@@ -56,6 +56,7 @@
     "deice",
     "deiced",
     "denied",
+    "denned",
     "dice",
     "diced",
     "died",
@@ -93,7 +94,7 @@
     "by_length": {
       "4": 20,
       "5": 15,
-      "6": 25,
+      "6": 26,
       "7": 11,
       "8": 5,
       "9": 2
@@ -101,7 +102,7 @@
     "by_first_letter": {
       "A": 12,
       "C": 19,
-      "D": 22,
+      "D": 23,
       "E": 3,
       "H": 14,
       "I": 5,
@@ -124,7 +125,7 @@
       "D": {
         "4": 6,
         "5": 5,
-        "6": 8,
+        "6": 9,
         "7": 1,
         "8": 1,
         "9": 1
@@ -162,7 +163,7 @@
       "CH": 6,
       "CI": 2,
       "DA": 3,
-      "DE": 13,
+      "DE": 14,
       "DI": 6,
       "ED": 1,
       "EN": 2,

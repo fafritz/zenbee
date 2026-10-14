@@ -1,9 +1,9 @@
 {
   "pangram": "heaping",
   "center_letter": "p",
-  "num_answers": 48,
+  "num_answers": 49,
   "num_pangrams": 2,
-  "possible_points": 236,
+  "possible_points": 243,
   "answer_pangrams": [
     "happening",
     "heaping"
@@ -14,6 +14,7 @@
     "epee",
     "gape",
     "gaping",
+    "gapping",
     "happen",
     "happening",
     "heap",
@@ -64,13 +65,13 @@
       "4": 15,
       "5": 7,
       "6": 12,
-      "7": 13,
+      "7": 14,
       "9": 1
     },
     "by_first_letter": {
       "A": 2,
       "E": 1,
-      "G": 2,
+      "G": 3,
       "H": 6,
       "N": 4,
       "P": 33
@@ -84,7 +85,8 @@
       },
       "G": {
         "4": 1,
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "H": {
         "4": 1,
@@ -107,7 +109,7 @@
       "AG": 1,
       "AP": 1,
       "EP": 1,
-      "GA": 2,
+      "GA": 3,
       "HA": 2,
       "HE": 2,
       "HI": 2,

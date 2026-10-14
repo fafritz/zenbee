@@ -1,9 +1,9 @@
 {
   "pangram": "framing",
   "center_letter": "g",
-  "num_answers": 80,
+  "num_answers": 81,
   "num_pangrams": 3,
-  "possible_points": 500,
+  "possible_points": 507,
   "answer_pangrams": [
     "affirming",
     "farming",
@@ -29,6 +29,7 @@
     "faring",
     "farming",
     "fining",
+    "finning",
     "firing",
     "firming",
     "frag",
@@ -97,14 +98,14 @@
       "4": 13,
       "5": 6,
       "6": 17,
-      "7": 30,
+      "7": 31,
       "8": 6,
       "9": 4,
       "10": 4
     },
     "by_first_letter": {
       "A": 13,
-      "F": 12,
+      "F": 13,
       "G": 22,
       "I": 6,
       "M": 12,
@@ -124,7 +125,7 @@
       "F": {
         "4": 2,
         "6": 3,
-        "7": 5,
+        "7": 6,
         "8": 2
       },
       "G": {
@@ -165,7 +166,7 @@
       "AN": 2,
       "AR": 4,
       "FA": 5,
-      "FI": 3,
+      "FI": 4,
       "FR": 4,
       "GA": 11,
       "GI": 2,

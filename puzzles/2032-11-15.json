@@ -1,9 +1,9 @@
 {
   "pangram": "chinked",
   "center_letter": "d",
-  "num_answers": 55,
+  "num_answers": 56,
   "num_pangrams": 2,
-  "possible_points": 265,
+  "possible_points": 271,
   "answer_pangrams": [
     "chickened",
     "chinked"
@@ -28,6 +28,7 @@
     "deice",
     "deiced",
     "denied",
+    "denned",
     "dice",
     "diced",
     "died",
@@ -70,13 +71,13 @@
     "by_length": {
       "4": 16,
       "5": 11,
-      "6": 20,
+      "6": 21,
       "7": 6,
       "9": 2
     },
     "by_first_letter": {
       "C": 10,
-      "D": 18,
+      "D": 19,
       "E": 3,
       "H": 8,
       "I": 5,
@@ -94,7 +95,7 @@
       "D": {
         "4": 7,
         "5": 4,
-        "6": 6,
+        "6": 7,
         "7": 1
       },
       "E": {
@@ -127,7 +128,7 @@
       "CE": 2,
       "CH": 7,
       "CI": 1,
-      "DE": 9,
+      "DE": 10,
       "DI": 9,
       "ED": 1,
       "EK": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "warping",
   "center_letter": "p",
-  "num_answers": 43,
+  "num_answers": 44,
   "num_pangrams": 3,
-  "possible_points": 246,
+  "possible_points": 253,
   "answer_pangrams": [
     "prawning",
     "warping",
@@ -12,6 +12,7 @@
   "answers": [
     "aping",
     "gaping",
+    "gapping",
     "grip",
     "griping",
     "gripping",
@@ -60,12 +61,12 @@
       "4": 10,
       "5": 4,
       "6": 11,
-      "7": 15,
+      "7": 16,
       "8": 3
     },
     "by_first_letter": {
       "A": 1,
-      "G": 4,
+      "G": 5,
       "N": 2,
       "P": 29,
       "R": 2,
@@ -78,7 +79,7 @@
       "G": {
         "4": 1,
         "6": 1,
-        "7": 1,
+        "7": 2,
         "8": 1
       },
       "N": {
@@ -103,7 +104,7 @@
     },
     "two_letter_list": {
       "AP": 1,
-      "GA": 1,
+      "GA": 2,
       "GR": 3,
       "NA": 1,
       "NI": 1,

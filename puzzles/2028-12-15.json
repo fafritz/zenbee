@@ -1,9 +1,9 @@
 {
   "pangram": "blanked",
   "center_letter": "n",
-  "num_answers": 65,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 301,
+  "possible_points": 307,
   "answer_pangrams": [
     "blanked"
   ],
@@ -38,6 +38,7 @@
     "deaden",
     "deadened",
     "dean",
+    "denned",
     "elan",
     "enable",
     "enabled",
@@ -79,14 +80,14 @@
     "by_length": {
       "4": 20,
       "5": 12,
-      "6": 21,
+      "6": 22,
       "7": 8,
       "8": 4
     },
     "by_first_letter": {
       "A": 5,
       "B": 19,
-      "D": 6,
+      "D": 7,
       "E": 4,
       "K": 13,
       "L": 9,
@@ -108,7 +109,7 @@
       },
       "D": {
         "4": 2,
-        "6": 2,
+        "6": 3,
         "7": 1,
         "8": 1
       },
@@ -144,7 +145,7 @@
       "BE": 4,
       "BL": 5,
       "DA": 3,
-      "DE": 3,
+      "DE": 4,
       "EL": 1,
       "EN": 3,
       "KA": 1,

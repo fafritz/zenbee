@@ -1,9 +1,9 @@
 {
   "pangram": "flatbed",
   "center_letter": "f",
-  "num_answers": 57,
+  "num_answers": 58,
   "num_pangrams": 1,
-  "possible_points": 255,
+  "possible_points": 261,
   "answer_pangrams": [
     "flatbed"
   ],
@@ -34,6 +34,7 @@
     "fatal",
     "fate",
     "fated",
+    "fatted",
     "feat",
     "feeble",
     "feed",
@@ -71,7 +72,7 @@
     "by_length": {
       "4": 21,
       "5": 9,
-      "6": 12,
+      "6": 13,
       "7": 11,
       "8": 3,
       "9": 1
@@ -81,7 +82,7 @@
       "B": 6,
       "D": 6,
       "E": 2,
-      "F": 34,
+      "F": 35,
       "L": 5,
       "T": 1
     },
@@ -108,7 +109,7 @@
       "F": {
         "4": 16,
         "5": 8,
-        "6": 5,
+        "6": 6,
         "7": 4,
         "8": 1
       },
@@ -130,7 +131,7 @@
       "BE": 4,
       "DE": 6,
       "EF": 2,
-      "FA": 9,
+      "FA": 10,
       "FE": 15,
       "FL": 10,
       "LE": 5,

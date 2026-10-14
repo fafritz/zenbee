@@ -1,9 +1,9 @@
 {
   "pangram": "changed",
   "center_letter": "n",
-  "num_answers": 42,
+  "num_answers": 44,
   "num_pangrams": 1,
-  "possible_points": 214,
+  "possible_points": 226,
   "answer_pangrams": [
     "changed"
   ],
@@ -29,6 +29,7 @@
     "deadened",
     "dean",
     "decadence",
+    "denned",
     "ended",
     "engage",
     "engaged",
@@ -49,6 +50,7 @@
     "nana",
     "need",
     "needed",
+    "negged",
     "nene"
   ],
   "date": "2038-06-14",
@@ -56,7 +58,7 @@
     "by_length": {
       "4": 11,
       "5": 6,
-      "6": 14,
+      "6": 16,
       "7": 7,
       "8": 3,
       "9": 1
@@ -64,11 +66,11 @@
     "by_first_letter": {
       "A": 4,
       "C": 11,
-      "D": 6,
+      "D": 7,
       "E": 5,
       "G": 3,
       "H": 7,
-      "N": 6
+      "N": 7
     },
     "grid": {
       "A": {
@@ -86,7 +88,7 @@
       "D": {
         "4": 1,
         "5": 1,
-        "6": 2,
+        "6": 3,
         "8": 1,
         "9": 1
       },
@@ -108,7 +110,7 @@
       },
       "N": {
         "4": 4,
-        "6": 2
+        "6": 3
       }
     },
     "two_letter_list": {
@@ -118,14 +120,14 @@
       "CA": 7,
       "CH": 4,
       "DA": 2,
-      "DE": 4,
+      "DE": 5,
       "EN": 5,
       "GA": 2,
       "GE": 1,
       "HA": 4,
       "HE": 3,
       "NA": 3,
-      "NE": 3
+      "NE": 4
     }
   }
 }

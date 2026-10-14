@@ -1,19 +1,21 @@
 {
   "pangram": "palming",
   "center_letter": "p",
-  "num_answers": 52,
+  "num_answers": 54,
   "num_pangrams": 3,
-  "possible_points": 300,
+  "possible_points": 313,
   "answer_pangrams": [
     "impaling",
     "napalming",
     "palming"
   ],
   "answers": [
+    "amping",
     "aping",
     "appall",
     "appalling",
     "gaping",
+    "gapping",
     "impala",
     "impaling",
     "impinging",
@@ -68,14 +70,14 @@
     "by_length": {
       "4": 12,
       "5": 6,
-      "6": 11,
-      "7": 17,
+      "6": 12,
+      "7": 18,
       "8": 2,
       "9": 4
     },
     "by_first_letter": {
-      "A": 3,
-      "G": 1,
+      "A": 4,
+      "G": 2,
       "I": 3,
       "L": 4,
       "M": 1,
@@ -85,11 +87,12 @@
     "grid": {
       "A": {
         "5": 1,
-        "6": 1,
+        "6": 2,
         "9": 1
       },
       "G": {
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "I": {
         "6": 1,
@@ -118,8 +121,9 @@
       }
     },
     "two_letter_list": {
+      "AM": 1,
       "AP": 3,
-      "GA": 1,
+      "GA": 2,
       "IM": 3,
       "LA": 2,
       "LI": 2,

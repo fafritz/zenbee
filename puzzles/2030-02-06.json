@@ -1,9 +1,9 @@
 {
   "pangram": "varying",
   "center_letter": "r",
-  "num_answers": 47,
+  "num_answers": 48,
   "num_pangrams": 1,
-  "possible_points": 263,
+  "possible_points": 269,
   "answer_pangrams": [
     "varying"
   ],
@@ -47,6 +47,7 @@
     "raring",
     "ravaging",
     "raving",
+    "raying",
     "rigging",
     "ring",
     "ringing",
@@ -61,7 +62,7 @@
     "by_length": {
       "4": 11,
       "5": 6,
-      "6": 9,
+      "6": 10,
       "7": 12,
       "8": 6,
       "9": 1,
@@ -72,7 +73,7 @@
       "G": 11,
       "I": 2,
       "N": 1,
-      "R": 15,
+      "R": 16,
       "V": 4,
       "Y": 1
     },
@@ -103,7 +104,7 @@
       "R": {
         "4": 4,
         "5": 2,
-        "6": 3,
+        "6": 4,
         "7": 5,
         "8": 1
       },
@@ -126,7 +127,7 @@
       "GR": 10,
       "IN": 2,
       "NI": 1,
-      "RA": 12,
+      "RA": 13,
       "RI": 3,
       "VA": 3,
       "VI": 1,

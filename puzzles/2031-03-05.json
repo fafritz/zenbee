@@ -1,9 +1,9 @@
 {
   "pangram": "fueling",
   "center_letter": "i",
-  "num_answers": 68,
+  "num_answers": 71,
   "num_pangrams": 4,
-  "possible_points": 419,
+  "possible_points": 440,
   "answer_pangrams": [
     "engulfing",
     "fueling",
@@ -30,6 +30,7 @@
     "filling",
     "fine",
     "fining",
+    "finning",
     "fleeing",
     "fling",
     "flinging",
@@ -40,6 +41,7 @@
     "fulling",
     "fungi",
     "funneling",
+    "funning",
     "geeing",
     "gelling",
     "genie",
@@ -74,6 +76,7 @@
     "luging",
     "lulling",
     "lunging",
+    "negging",
     "negligee",
     "niggle",
     "niggling",
@@ -86,18 +89,18 @@
       "4": 11,
       "5": 10,
       "6": 16,
-      "7": 19,
+      "7": 22,
       "8": 8,
       "9": 3,
       "10": 1
     },
     "by_first_letter": {
       "E": 6,
-      "F": 23,
+      "F": 25,
       "G": 15,
       "I": 4,
       "L": 15,
-      "N": 4,
+      "N": 5,
       "U": 1
     },
     "grid": {
@@ -110,7 +113,7 @@
         "4": 5,
         "5": 3,
         "6": 3,
-        "7": 7,
+        "7": 9,
         "8": 3,
         "9": 1,
         "10": 1
@@ -136,6 +139,7 @@
       "N": {
         "4": 1,
         "6": 1,
+        "7": 1,
         "8": 2
       },
       "U": {
@@ -148,9 +152,9 @@
       "EL": 1,
       "EN": 3,
       "FE": 5,
-      "FI": 8,
+      "FI": 9,
       "FL": 4,
-      "FU": 6,
+      "FU": 7,
       "GE": 5,
       "GI": 5,
       "GL": 1,
@@ -159,7 +163,7 @@
       "LE": 1,
       "LI": 9,
       "LU": 5,
-      "NE": 1,
+      "NE": 2,
       "NI": 3,
       "UN": 1
     }

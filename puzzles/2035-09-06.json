@@ -1,9 +1,9 @@
 {
   "pangram": "camping",
   "center_letter": "n",
-  "num_answers": 74,
+  "num_answers": 76,
   "num_pangrams": 3,
-  "possible_points": 446,
+  "possible_points": 459,
   "answer_pangrams": [
     "campaign",
     "campaigning",
@@ -14,6 +14,7 @@
     "again",
     "aging",
     "aiming",
+    "amping",
     "angina",
     "aping",
     "caging",
@@ -32,6 +33,7 @@
     "gang",
     "ganging",
     "gaping",
+    "gapping",
     "gigging",
     "ginning",
     "icing",
@@ -90,16 +92,16 @@
     "by_length": {
       "4": 9,
       "5": 14,
-      "6": 22,
-      "7": 23,
+      "6": 23,
+      "7": 24,
       "8": 3,
       "9": 2,
       "11": 1
     },
     "by_first_letter": {
-      "A": 6,
+      "A": 7,
       "C": 9,
-      "G": 9,
+      "G": 10,
       "I": 5,
       "M": 18,
       "N": 7,
@@ -108,7 +110,7 @@
     "grid": {
       "A": {
         "5": 4,
-        "6": 2
+        "6": 3
       },
       "C": {
         "5": 1,
@@ -120,7 +122,7 @@
       "G": {
         "4": 2,
         "6": 2,
-        "7": 5
+        "7": 6
       },
       "I": {
         "5": 1,
@@ -151,10 +153,11 @@
       "AC": 1,
       "AG": 2,
       "AI": 1,
+      "AM": 1,
       "AN": 1,
       "AP": 1,
       "CA": 9,
-      "GA": 7,
+      "GA": 8,
       "GI": 2,
       "IC": 1,
       "IM": 3,

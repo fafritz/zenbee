@@ -1,15 +1,16 @@
 {
   "pangram": "peaking",
   "center_letter": "a",
-  "num_answers": 39,
+  "num_answers": 41,
   "num_pangrams": 1,
-  "possible_points": 168,
+  "possible_points": 181,
   "answer_pangrams": [
     "peaking"
   ],
   "answers": [
     "again",
     "agape",
+    "ageing",
     "aging",
     "akin",
     "angina",
@@ -24,6 +25,7 @@
     "ganging",
     "gape",
     "gaping",
+    "gapping",
     "inane",
     "naan",
     "nagging",
@@ -53,14 +55,14 @@
     "by_length": {
       "4": 15,
       "5": 8,
-      "6": 7,
-      "7": 8,
+      "6": 8,
+      "7": 9,
       "8": 1
     },
     "by_first_letter": {
-      "A": 6,
+      "A": 7,
       "E": 2,
-      "G": 8,
+      "G": 9,
       "I": 1,
       "N": 7,
       "P": 15
@@ -69,7 +71,7 @@
       "A": {
         "4": 1,
         "5": 4,
-        "6": 1
+        "6": 2
       },
       "E": {
         "6": 1,
@@ -78,7 +80,7 @@
       "G": {
         "4": 4,
         "6": 1,
-        "7": 3
+        "7": 4
       },
       "I": {
         "5": 1
@@ -96,12 +98,12 @@
       }
     },
     "two_letter_list": {
-      "AG": 3,
+      "AG": 4,
       "AK": 1,
       "AN": 1,
       "AP": 1,
       "EN": 2,
-      "GA": 8,
+      "GA": 9,
       "IN": 1,
       "NA": 6,
       "NE": 1,

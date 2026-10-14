@@ -1,14 +1,15 @@
 {
   "pangram": "peaking",
   "center_letter": "i",
-  "num_answers": 64,
+  "num_answers": 68,
   "num_pangrams": 1,
-  "possible_points": 356,
+  "possible_points": 383,
   "answer_pangrams": [
     "peaking"
   ],
   "answers": [
     "again",
+    "ageing",
     "aging",
     "akin",
     "angina",
@@ -22,6 +23,7 @@
     "gaining",
     "ganging",
     "gaping",
+    "gapping",
     "geeing",
     "genie",
     "genii",
@@ -32,6 +34,7 @@
     "inning",
     "keening",
     "keeping",
+    "kegging",
     "kenning",
     "king",
     "kingpin",
@@ -41,6 +44,7 @@
     "nagging",
     "napkin",
     "napping",
+    "negging",
     "nine",
     "nipping",
     "paging",
@@ -78,24 +82,24 @@
     "by_length": {
       "4": 11,
       "5": 8,
-      "6": 18,
-      "7": 26,
+      "6": 19,
+      "7": 29,
       "8": 1
     },
     "by_first_letter": {
-      "A": 5,
+      "A": 6,
       "E": 4,
-      "G": 10,
+      "G": 11,
       "I": 3,
-      "K": 8,
-      "N": 5,
+      "K": 9,
+      "N": 6,
       "P": 29
     },
     "grid": {
       "A": {
         "4": 1,
         "5": 3,
-        "6": 1
+        "6": 2
       },
       "E": {
         "5": 1,
@@ -106,7 +110,7 @@
         "4": 1,
         "5": 2,
         "6": 2,
-        "7": 5
+        "7": 6
       },
       "I": {
         "5": 1,
@@ -114,12 +118,12 @@
       },
       "K": {
         "4": 2,
-        "7": 6
+        "7": 7
       },
       "N": {
         "4": 1,
         "6": 1,
-        "7": 3
+        "7": 4
       },
       "P": {
         "4": 6,
@@ -129,21 +133,22 @@
       }
     },
     "two_letter_list": {
-      "AG": 2,
+      "AG": 3,
       "AK": 1,
       "AN": 1,
       "AP": 1,
       "EG": 1,
       "EK": 1,
       "EN": 2,
-      "GA": 5,
+      "GA": 6,
       "GE": 3,
       "GI": 2,
       "IN": 3,
-      "KE": 3,
+      "KE": 4,
       "KI": 4,
       "KN": 1,
       "NA": 3,
+      "NE": 1,
       "NI": 2,
       "PA": 5,
       "PE": 5,

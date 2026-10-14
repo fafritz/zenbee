@@ -1,9 +1,9 @@
 {
   "pangram": "forcing",
   "center_letter": "i",
-  "num_answers": 65,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 385,
+  "possible_points": 392,
   "answer_pangrams": [
     "forcing"
   ],
@@ -28,6 +28,7 @@
     "cringing",
     "crooning",
     "fining",
+    "finning",
     "firing",
     "fogging",
     "forcing",
@@ -80,14 +81,14 @@
       "4": 10,
       "5": 10,
       "6": 14,
-      "7": 19,
+      "7": 20,
       "8": 8,
       "9": 3,
       "10": 1
     },
     "by_first_letter": {
       "C": 19,
-      "F": 8,
+      "F": 9,
       "G": 11,
       "I": 11,
       "N": 3,
@@ -105,7 +106,7 @@
       },
       "F": {
         "6": 2,
-        "7": 3,
+        "7": 4,
         "8": 3
       },
       "G": {
@@ -143,7 +144,7 @@
       "CI": 1,
       "CO": 16,
       "CR": 2,
-      "FI": 2,
+      "FI": 3,
       "FO": 4,
       "FR": 2,
       "GI": 2,

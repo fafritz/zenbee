@@ -1,9 +1,9 @@
 {
   "pangram": "flexing",
   "center_letter": "i",
-  "num_answers": 51,
+  "num_answers": 53,
   "num_pangrams": 1,
-  "possible_points": 278,
+  "possible_points": 292,
   "answer_pangrams": [
     "flexing"
   ],
@@ -27,6 +27,7 @@
     "filling",
     "fine",
     "fining",
+    "finning",
     "fixing",
     "fleeing",
     "flexing",
@@ -54,6 +55,7 @@
     "line",
     "linen",
     "lining",
+    "negging",
     "negligee",
     "niggle",
     "niggling",
@@ -66,16 +68,16 @@
       "4": 10,
       "5": 9,
       "6": 15,
-      "7": 10,
+      "7": 12,
       "8": 7
     },
     "by_first_letter": {
       "E": 6,
-      "F": 18,
+      "F": 19,
       "G": 9,
       "I": 4,
       "L": 9,
-      "N": 5
+      "N": 6
     },
     "grid": {
       "E": {
@@ -87,7 +89,7 @@
         "4": 5,
         "5": 2,
         "6": 4,
-        "7": 5,
+        "7": 6,
         "8": 2
       },
       "G": {
@@ -112,6 +114,7 @@
       "N": {
         "4": 1,
         "6": 2,
+        "7": 1,
         "8": 2
       }
     },
@@ -122,14 +125,14 @@
       "EN": 1,
       "EX": 2,
       "FE": 5,
-      "FI": 9,
+      "FI": 10,
       "FL": 4,
       "GE": 4,
       "GI": 5,
       "IN": 4,
       "LE": 1,
       "LI": 8,
-      "NE": 1,
+      "NE": 2,
       "NI": 4
     }
   }

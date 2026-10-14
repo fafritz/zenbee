@@ -1,9 +1,9 @@
 {
   "pangram": "wangled",
   "center_letter": "n",
-  "num_answers": 64,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 297,
+  "possible_points": 309,
   "answer_pangrams": [
     "wangled"
   ],
@@ -26,6 +26,7 @@
     "deaden",
     "deadened",
     "dean",
+    "denned",
     "elan",
     "ended",
     "engage",
@@ -61,6 +62,7 @@
     "needed",
     "needle",
     "needled",
+    "negged",
     "nene",
     "newel",
     "wand",
@@ -78,18 +80,18 @@
     "by_length": {
       "4": 21,
       "5": 8,
-      "6": 22,
+      "6": 24,
       "7": 8,
       "8": 4,
       "9": 1
     },
     "by_first_letter": {
       "A": 9,
-      "D": 9,
+      "D": 10,
       "E": 4,
       "G": 14,
       "L": 10,
-      "N": 9,
+      "N": 10,
       "W": 9
     },
     "grid": {
@@ -102,7 +104,7 @@
       },
       "D": {
         "4": 2,
-        "6": 4,
+        "6": 5,
         "7": 2,
         "8": 1
       },
@@ -128,7 +130,7 @@
       "N": {
         "4": 4,
         "5": 1,
-        "6": 3,
+        "6": 4,
         "7": 1
       },
       "W": {
@@ -143,7 +145,7 @@
       "AG": 1,
       "AN": 6,
       "DA": 6,
-      "DE": 3,
+      "DE": 4,
       "EL": 1,
       "EN": 3,
       "GA": 5,
@@ -153,7 +155,7 @@
       "LA": 5,
       "LE": 5,
       "NA": 3,
-      "NE": 6,
+      "NE": 7,
       "WA": 5,
       "WE": 4
     }

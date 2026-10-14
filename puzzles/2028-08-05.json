@@ -1,9 +1,9 @@
 {
   "pangram": "vamping",
   "center_letter": "n",
-  "num_answers": 62,
+  "num_answers": 64,
   "num_pangrams": 1,
-  "possible_points": 349,
+  "possible_points": 362,
   "answer_pangrams": [
     "vamping"
   ],
@@ -11,6 +11,7 @@
     "again",
     "aging",
     "aiming",
+    "amping",
     "angina",
     "aping",
     "avian",
@@ -21,6 +22,7 @@
     "gang",
     "ganging",
     "gaping",
+    "gapping",
     "gigging",
     "ginning",
     "giving",
@@ -76,14 +78,14 @@
     "by_length": {
       "4": 10,
       "5": 10,
-      "6": 17,
-      "7": 22,
+      "6": 18,
+      "7": 23,
       "8": 1,
       "9": 2
     },
     "by_first_letter": {
-      "A": 6,
-      "G": 10,
+      "A": 7,
+      "G": 11,
       "I": 4,
       "M": 14,
       "N": 6,
@@ -93,12 +95,12 @@
     "grid": {
       "A": {
         "5": 4,
-        "6": 2
+        "6": 3
       },
       "G": {
         "4": 2,
         "6": 3,
-        "7": 5
+        "7": 6
       },
       "I": {
         "6": 1,
@@ -132,10 +134,11 @@
     "two_letter_list": {
       "AG": 2,
       "AI": 1,
+      "AM": 1,
       "AN": 1,
       "AP": 1,
       "AV": 1,
-      "GA": 7,
+      "GA": 8,
       "GI": 3,
       "IM": 3,
       "IN": 1,

@@ -1,14 +1,15 @@
 {
   "pangram": "agonize",
   "center_letter": "i",
-  "num_answers": 37,
+  "num_answers": 39,
   "num_pangrams": 1,
-  "possible_points": 227,
+  "possible_points": 240,
   "answer_pangrams": [
     "agonize"
   ],
   "answers": [
     "again",
+    "ageing",
     "aging",
     "agonize",
     "agonizing",
@@ -34,6 +35,7 @@
     "ionize",
     "ionizing",
     "nagging",
+    "negging",
     "nine",
     "noggin",
     "ongoing",
@@ -51,25 +53,25 @@
     "by_length": {
       "4": 3,
       "5": 8,
-      "6": 12,
-      "7": 10,
+      "6": 13,
+      "7": 11,
       "8": 2,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "A": 6,
+      "A": 7,
       "E": 3,
       "G": 12,
       "I": 4,
-      "N": 3,
+      "N": 4,
       "O": 3,
       "Z": 6
     },
     "grid": {
       "A": {
         "5": 3,
-        "6": 1,
+        "6": 2,
         "7": 1,
         "9": 1
       },
@@ -91,7 +93,7 @@
       "N": {
         "4": 1,
         "6": 1,
-        "7": 1
+        "7": 2
       },
       "O": {
         "5": 1,
@@ -106,7 +108,7 @@
       }
     },
     "two_letter_list": {
-      "AG": 4,
+      "AG": 5,
       "AN": 2,
       "EG": 1,
       "EN": 2,
@@ -117,6 +119,7 @@
       "IN": 2,
       "IO": 2,
       "NA": 1,
+      "NE": 1,
       "NI": 1,
       "NO": 1,
       "ON": 2,

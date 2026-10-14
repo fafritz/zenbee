@@ -1,9 +1,9 @@
 {
   "pangram": "untamed",
   "center_letter": "u",
-  "num_answers": 49,
+  "num_answers": 50,
   "num_pangrams": 1,
-  "possible_points": 268,
+  "possible_points": 274,
   "answer_pangrams": [
     "untamed"
   ],
@@ -28,6 +28,7 @@
     "endued",
     "etude",
     "menu",
+    "mudded",
     "mundane",
     "mutant",
     "mutate",
@@ -63,7 +64,7 @@
     "by_length": {
       "4": 11,
       "5": 9,
-      "6": 11,
+      "6": 12,
       "7": 11,
       "8": 3,
       "9": 2,
@@ -73,7 +74,7 @@
       "A": 7,
       "D": 10,
       "E": 2,
-      "M": 9,
+      "M": 10,
       "N": 3,
       "T": 7,
       "U": 11
@@ -100,7 +101,7 @@
       "M": {
         "4": 3,
         "5": 1,
-        "6": 3,
+        "6": 4,
         "7": 2
       },
       "N": {
@@ -131,7 +132,7 @@
       "EN": 1,
       "ET": 1,
       "ME": 1,
-      "MU": 8,
+      "MU": 9,
       "NU": 3,
       "TA": 3,
       "TU": 4,

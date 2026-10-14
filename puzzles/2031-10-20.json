@@ -1,9 +1,9 @@
 {
   "pangram": "dumbing",
   "center_letter": "u",
-  "num_answers": 26,
+  "num_answers": 27,
   "num_pangrams": 1,
-  "possible_points": 162,
+  "possible_points": 169,
   "answer_pangrams": [
     "dumbing"
   ],
@@ -26,6 +26,7 @@
     "gunning",
     "imbuing",
     "minimum",
+    "mudding",
     "mugging",
     "muumuu",
     "nudging",
@@ -41,7 +42,7 @@
       "4": 4,
       "5": 1,
       "6": 3,
-      "7": 17,
+      "7": 18,
       "9": 1
     },
     "by_first_letter": {
@@ -49,7 +50,7 @@
       "D": 7,
       "G": 3,
       "I": 1,
-      "M": 3,
+      "M": 4,
       "N": 3,
       "U": 3
     },
@@ -71,7 +72,7 @@
       },
       "M": {
         "6": 1,
-        "7": 2
+        "7": 3
       },
       "N": {
         "4": 1,
@@ -89,7 +90,7 @@
       "GU": 3,
       "IM": 1,
       "MI": 1,
-      "MU": 2,
+      "MU": 3,
       "NU": 3,
       "UN": 3
     }

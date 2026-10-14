@@ -1,9 +1,9 @@
 {
   "pangram": "wafting",
   "center_letter": "t",
-  "num_answers": 53,
+  "num_answers": 55,
   "num_pangrams": 1,
-  "possible_points": 284,
+  "possible_points": 298,
   "answer_pangrams": [
     "wafting"
   ],
@@ -17,6 +17,7 @@
     "faint",
     "fainting",
     "fating",
+    "fatting",
     "fiat",
     "fitting",
     "gait",
@@ -60,7 +61,8 @@
     "waiting",
     "want",
     "wanting",
-    "watt"
+    "watt",
+    "witting"
   ],
   "date": "2038-07-25",
   "hints": {
@@ -68,19 +70,19 @@
       "4": 15,
       "5": 7,
       "6": 6,
-      "7": 13,
+      "7": 15,
       "8": 9,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
       "A": 6,
-      "F": 5,
+      "F": 6,
       "G": 6,
       "I": 3,
       "N": 1,
       "T": 25,
-      "W": 7
+      "W": 8
     },
     "grid": {
       "A": {
@@ -94,7 +96,7 @@
         "4": 1,
         "5": 1,
         "6": 1,
-        "7": 1,
+        "7": 2,
         "8": 1
       },
       "G": {
@@ -120,7 +122,7 @@
       },
       "W": {
         "4": 4,
-        "7": 3
+        "7": 4
       }
     },
     "two_letter_list": {
@@ -128,7 +130,7 @@
       "AN": 1,
       "AT": 2,
       "AW": 2,
-      "FA": 3,
+      "FA": 4,
       "FI": 2,
       "GA": 2,
       "GI": 3,
@@ -139,7 +141,8 @@
       "TA": 7,
       "TI": 7,
       "TW": 11,
-      "WA": 7
+      "WA": 7,
+      "WI": 1
     }
   }
 }

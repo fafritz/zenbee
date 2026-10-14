@@ -1,9 +1,9 @@
 {
   "pangram": "evading",
   "center_letter": "a",
-  "num_answers": 62,
+  "num_answers": 63,
   "num_pangrams": 1,
-  "possible_points": 307,
+  "possible_points": 313,
   "answer_pangrams": [
     "evading"
   ],
@@ -16,6 +16,7 @@
     "again",
     "agave",
     "aged",
+    "ageing",
     "agenda",
     "aging",
     "aide",
@@ -76,13 +77,13 @@
     "by_length": {
       "4": 16,
       "5": 14,
-      "6": 16,
+      "6": 17,
       "7": 11,
       "8": 4,
       "9": 1
     },
     "by_first_letter": {
-      "A": 19,
+      "A": 20,
       "D": 7,
       "E": 6,
       "G": 12,
@@ -94,7 +95,7 @@
       "A": {
         "4": 3,
         "5": 7,
-        "6": 6,
+        "6": 7,
         "7": 2,
         "8": 1
       },
@@ -138,7 +139,7 @@
     },
     "two_letter_list": {
       "AD": 5,
-      "AG": 5,
+      "AG": 6,
       "AI": 3,
       "AN": 1,
       "AV": 5,

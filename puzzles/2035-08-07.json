@@ -1,9 +1,9 @@
 {
   "pangram": "jounced",
   "center_letter": "e",
-  "num_answers": 58,
+  "num_answers": 59,
   "num_pangrams": 1,
-  "possible_points": 290,
+  "possible_points": 296,
   "answer_pangrams": [
     "jounced"
   ],
@@ -30,6 +30,7 @@
     "deduced",
     "deed",
     "deeded",
+    "denned",
     "denounce",
     "denounced",
     "denude",
@@ -72,14 +73,14 @@
     "by_length": {
       "4": 15,
       "5": 12,
-      "6": 17,
+      "6": 18,
       "7": 7,
       "8": 6,
       "9": 1
     },
     "by_first_letter": {
       "C": 16,
-      "D": 19,
+      "D": 20,
       "E": 6,
       "J": 3,
       "N": 9,
@@ -97,7 +98,7 @@
       "D": {
         "4": 4,
         "5": 3,
-        "6": 7,
+        "6": 8,
         "7": 3,
         "8": 1,
         "9": 1
@@ -130,7 +131,7 @@
       "CE": 2,
       "CO": 13,
       "CU": 1,
-      "DE": 12,
+      "DE": 13,
       "DO": 2,
       "DU": 5,
       "ED": 2,

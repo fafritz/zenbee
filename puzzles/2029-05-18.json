@@ -1,9 +1,9 @@
 {
   "pangram": "clothed",
   "center_letter": "d",
-  "num_answers": 70,
+  "num_answers": 71,
   "num_pangrams": 1,
-  "possible_points": 331,
+  "possible_points": 337,
   "answer_pangrams": [
     "clothed"
   ],
@@ -60,6 +60,7 @@
     "hoodoo",
     "hoodooed",
     "hooted",
+    "hotted",
     "lede",
     "leeched",
     "lode",
@@ -84,7 +85,7 @@
     "by_length": {
       "4": 22,
       "5": 8,
-      "6": 24,
+      "6": 25,
       "7": 12,
       "8": 2,
       "9": 2
@@ -93,7 +94,7 @@
       "C": 15,
       "D": 21,
       "E": 4,
-      "H": 12,
+      "H": 13,
       "L": 5,
       "T": 13
     },
@@ -121,7 +122,7 @@
       "H": {
         "4": 5,
         "5": 1,
-        "6": 5,
+        "6": 6,
         "8": 1
       },
       "L": {
@@ -147,7 +148,7 @@
       "EL": 1,
       "ET": 1,
       "HE": 4,
-      "HO": 8,
+      "HO": 9,
       "LE": 2,
       "LO": 3,
       "TE": 2,

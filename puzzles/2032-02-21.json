@@ -1,9 +1,9 @@
 {
   "pangram": "unloved",
   "center_letter": "d",
-  "num_answers": 64,
+  "num_answers": 65,
   "num_pangrams": 1,
-  "possible_points": 297,
+  "possible_points": 303,
   "answer_pangrams": [
     "unloved"
   ],
@@ -15,6 +15,7 @@
     "deluded",
     "delve",
     "delved",
+    "denned",
     "denude",
     "denuded",
     "devolve",
@@ -78,12 +79,12 @@
     "by_length": {
       "4": 20,
       "5": 9,
-      "6": 23,
+      "6": 24,
       "7": 9,
       "8": 3
     },
     "by_first_letter": {
-      "D": 29,
+      "D": 30,
       "E": 7,
       "L": 8,
       "N": 9,
@@ -95,7 +96,7 @@
       "D": {
         "4": 11,
         "5": 3,
-        "6": 10,
+        "6": 11,
         "7": 4,
         "8": 1
       },
@@ -132,7 +133,7 @@
       }
     },
     "two_letter_list": {
-      "DE": 11,
+      "DE": 12,
       "DO": 10,
       "DU": 8,
       "EE": 1,

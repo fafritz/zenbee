@@ -1,9 +1,9 @@
 {
   "pangram": "flexing",
   "center_letter": "e",
-  "num_answers": 42,
+  "num_answers": 43,
   "num_pangrams": 1,
-  "possible_points": 185,
+  "possible_points": 192,
   "answer_pangrams": [
     "flexing"
   ],
@@ -46,6 +46,7 @@
     "lifeline",
     "line",
     "linen",
+    "negging",
     "negligee",
     "nene",
     "niggle",
@@ -57,7 +58,7 @@
       "4": 16,
       "5": 7,
       "6": 9,
-      "7": 7,
+      "7": 8,
       "8": 3
     },
     "by_first_letter": {
@@ -66,7 +67,7 @@
       "G": 8,
       "I": 1,
       "L": 7,
-      "N": 4
+      "N": 5
     },
     "grid": {
       "E": {
@@ -99,6 +100,7 @@
       "N": {
         "4": 2,
         "6": 1,
+        "7": 1,
         "8": 1
       }
     },
@@ -117,7 +119,7 @@
       "IN": 1,
       "LE": 1,
       "LI": 6,
-      "NE": 2,
+      "NE": 3,
       "NI": 2
     }
   }

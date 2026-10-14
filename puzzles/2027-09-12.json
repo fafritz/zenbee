@@ -1,9 +1,9 @@
 {
   "pangram": "braying",
   "center_letter": "y",
-  "num_answers": 26,
+  "num_answers": 27,
   "num_pangrams": 1,
-  "possible_points": 130,
+  "possible_points": 136,
   "answer_pangrams": [
     "braying"
   ],
@@ -32,6 +32,7 @@
     "ninny",
     "rainy",
     "rangy",
+    "raying",
     "yang",
     "yarn"
   ],
@@ -40,7 +41,7 @@
     "by_length": {
       "4": 6,
       "5": 9,
-      "6": 6,
+      "6": 7,
       "7": 4,
       "8": 1
     },
@@ -49,7 +50,7 @@
       "B": 10,
       "G": 6,
       "N": 2,
-      "R": 2,
+      "R": 3,
       "Y": 2
     },
     "grid": {
@@ -74,7 +75,8 @@
         "5": 2
       },
       "R": {
-        "5": 2
+        "5": 2,
+        "6": 1
       },
       "Y": {
         "4": 2
@@ -91,7 +93,7 @@
       "GR": 5,
       "NA": 1,
       "NI": 1,
-      "RA": 2,
+      "RA": 3,
       "YA": 2
     }
   }

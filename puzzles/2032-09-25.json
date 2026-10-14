@@ -1,9 +1,9 @@
 {
   "pangram": "meowing",
   "center_letter": "i",
-  "num_answers": 47,
+  "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 257,
+  "possible_points": 271,
   "answer_pangrams": [
     "meowing"
   ],
@@ -11,6 +11,7 @@
     "egging",
     "engine",
     "geeing",
+    "gemming",
     "genie",
     "genii",
     "gigging",
@@ -34,6 +35,7 @@
     "mooing",
     "mooning",
     "mowing",
+    "negging",
     "nine",
     "noggin",
     "nominee",
@@ -62,15 +64,15 @@
       "4": 8,
       "5": 7,
       "6": 19,
-      "7": 12,
+      "7": 14,
       "9": 1
     },
     "by_first_letter": {
       "E": 2,
-      "G": 9,
+      "G": 10,
       "I": 1,
       "M": 14,
-      "N": 3,
+      "N": 4,
       "O": 4,
       "W": 14
     },
@@ -81,7 +83,7 @@
       "G": {
         "5": 4,
         "6": 1,
-        "7": 4
+        "7": 5
       },
       "I": {
         "6": 1
@@ -95,7 +97,7 @@
       "N": {
         "4": 1,
         "6": 1,
-        "7": 1
+        "7": 2
       },
       "O": {
         "5": 2,
@@ -112,13 +114,14 @@
     "two_letter_list": {
       "EG": 1,
       "EN": 1,
-      "GE": 3,
+      "GE": 4,
       "GI": 3,
       "GO": 3,
       "IN": 1,
       "ME": 2,
       "MI": 9,
       "MO": 3,
+      "NE": 1,
       "NI": 1,
       "NO": 2,
       "ON": 2,

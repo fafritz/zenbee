@@ -1,9 +1,9 @@
 {
   "pangram": "fluting",
   "center_letter": "n",
-  "num_answers": 65,
+  "num_answers": 67,
   "num_pangrams": 1,
-  "possible_points": 423,
+  "possible_points": 437,
   "answer_pangrams": [
     "fluting"
   ],
@@ -11,6 +11,7 @@
     "filing",
     "filling",
     "fining",
+    "finning",
     "fitting",
     "fling",
     "flinging",
@@ -22,6 +23,7 @@
     "fulfilling",
     "fulling",
     "fungi",
+    "funning",
     "gifting",
     "gigging",
     "giggling",
@@ -80,13 +82,13 @@
       "4": 5,
       "5": 7,
       "6": 12,
-      "7": 28,
+      "7": 30,
       "8": 10,
       "9": 2,
       "10": 1
     },
     "by_first_letter": {
-      "F": 14,
+      "F": 16,
       "G": 12,
       "I": 5,
       "L": 13,
@@ -98,7 +100,7 @@
       "F": {
         "5": 4,
         "6": 2,
-        "7": 4,
+        "7": 6,
         "8": 3,
         "10": 1
       },
@@ -137,9 +139,9 @@
       }
     },
     "two_letter_list": {
-      "FI": 4,
+      "FI": 5,
       "FL": 7,
-      "FU": 3,
+      "FU": 4,
       "GI": 4,
       "GL": 4,
       "GU": 4,

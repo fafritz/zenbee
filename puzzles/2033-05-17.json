@@ -1,15 +1,16 @@
 {
   "pangram": "heaving",
   "center_letter": "a",
-  "num_answers": 36,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 171,
+  "possible_points": 177,
   "answer_pangrams": [
     "heaving"
   ],
   "answers": [
     "again",
     "agave",
+    "ageing",
     "aging",
     "angina",
     "avenge",
@@ -50,12 +51,12 @@
     "by_length": {
       "4": 11,
       "5": 10,
-      "6": 5,
+      "6": 6,
       "7": 7,
       "8": 3
     },
     "by_first_letter": {
-      "A": 7,
+      "A": 8,
       "E": 2,
       "G": 7,
       "H": 10,
@@ -66,7 +67,7 @@
     "grid": {
       "A": {
         "5": 4,
-        "6": 2,
+        "6": 3,
         "8": 1
       },
       "E": {
@@ -99,7 +100,7 @@
       }
     },
     "two_letter_list": {
-      "AG": 3,
+      "AG": 4,
       "AN": 1,
       "AV": 3,
       "EN": 2,

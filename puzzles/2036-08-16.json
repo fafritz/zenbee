@@ -1,15 +1,16 @@
 {
   "pangram": "forming",
   "center_letter": "f",
-  "num_answers": 29,
+  "num_answers": 30,
   "num_pangrams": 2,
-  "possible_points": 164,
+  "possible_points": 171,
   "answer_pangrams": [
     "forming",
     "informing"
   ],
   "answers": [
     "fining",
+    "finning",
     "firing",
     "firm",
     "firming",
@@ -45,13 +46,13 @@
       "4": 9,
       "5": 1,
       "6": 5,
-      "7": 9,
+      "7": 10,
       "8": 3,
       "9": 1,
       "10": 1
     },
     "by_first_letter": {
-      "F": 14,
+      "F": 15,
       "G": 3,
       "I": 5,
       "M": 2,
@@ -63,7 +64,7 @@
         "4": 4,
         "5": 1,
         "6": 2,
-        "7": 4,
+        "7": 5,
         "8": 3
       },
       "G": {
@@ -89,7 +90,7 @@
       }
     },
     "two_letter_list": {
-      "FI": 4,
+      "FI": 5,
       "FO": 6,
       "FR": 4,
       "GO": 2,

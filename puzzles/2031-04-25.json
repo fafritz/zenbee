@@ -1,9 +1,9 @@
 {
   "pangram": "pecking",
   "center_letter": "k",
-  "num_answers": 32,
+  "num_answers": 33,
   "num_pangrams": 1,
-  "possible_points": 145,
+  "possible_points": 152,
   "answer_pangrams": [
     "pecking"
   ],
@@ -15,6 +15,7 @@
     "keening",
     "keep",
     "keeping",
+    "kegging",
     "kenning",
     "kick",
     "kicking",
@@ -47,14 +48,14 @@
       "4": 14,
       "5": 1,
       "6": 3,
-      "7": 13,
+      "7": 14,
       "10": 1
     },
     "by_first_letter": {
       "E": 1,
       "G": 1,
       "I": 1,
-      "K": 13,
+      "K": 14,
       "N": 4,
       "P": 12
     },
@@ -70,7 +71,7 @@
       },
       "K": {
         "4": 6,
-        "7": 7
+        "7": 8
       },
       "N": {
         "4": 2,
@@ -87,7 +88,7 @@
       "EK": 1,
       "GE": 1,
       "IN": 1,
-      "KE": 5,
+      "KE": 6,
       "KI": 6,
       "KN": 2,
       "NE": 2,

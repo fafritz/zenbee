@@ -1,9 +1,9 @@
 {
   "pangram": "clunked",
   "center_letter": "d",
-  "num_answers": 65,
+  "num_answers": 66,
   "num_pangrams": 2,
-  "possible_points": 326,
+  "possible_points": 332,
   "answer_pangrams": [
     "clunked",
     "knuckled"
@@ -29,6 +29,7 @@
     "dell",
     "delude",
     "deluded",
+    "denned",
     "denude",
     "denuded",
     "deuce",
@@ -80,13 +81,13 @@
     "by_length": {
       "4": 16,
       "5": 12,
-      "6": 26,
+      "6": 27,
       "7": 8,
       "8": 3
     },
     "by_first_letter": {
       "C": 10,
-      "D": 28,
+      "D": 29,
       "E": 8,
       "K": 7,
       "L": 4,
@@ -103,7 +104,7 @@
       "D": {
         "4": 10,
         "5": 3,
-        "6": 12,
+        "6": 13,
         "7": 3
       },
       "E": {
@@ -136,7 +137,7 @@
       "CE": 3,
       "CL": 3,
       "CU": 4,
-      "DE": 14,
+      "DE": 15,
       "DU": 14,
       "ED": 2,
       "EE": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "clothed",
   "center_letter": "t",
-  "num_answers": 56,
+  "num_answers": 57,
   "num_pangrams": 1,
-  "possible_points": 254,
+  "possible_points": 260,
   "answer_pangrams": [
     "clothed"
   ],
@@ -36,6 +36,7 @@
     "hoot",
     "hooted",
     "hotel",
+    "hotted",
     "loot",
     "looted",
     "lotto",
@@ -70,7 +71,7 @@
     "by_length": {
       "4": 19,
       "5": 11,
-      "6": 14,
+      "6": 15,
       "7": 9,
       "8": 1,
       "9": 2
@@ -79,7 +80,7 @@
       "C": 10,
       "D": 9,
       "E": 5,
-      "H": 4,
+      "H": 5,
       "L": 3,
       "O": 2,
       "T": 23
@@ -109,7 +110,7 @@
       "H": {
         "4": 1,
         "5": 2,
-        "6": 1
+        "6": 2
       },
       "L": {
         "4": 1,
@@ -135,7 +136,7 @@
       "EL": 3,
       "ET": 2,
       "HE": 1,
-      "HO": 3,
+      "HO": 4,
       "LO": 3,
       "OC": 2,
       "TE": 6,

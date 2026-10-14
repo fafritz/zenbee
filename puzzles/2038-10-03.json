@@ -1,9 +1,9 @@
 {
   "pangram": "placing",
   "center_letter": "g",
-  "num_answers": 77,
+  "num_answers": 78,
   "num_pangrams": 2,
-  "possible_points": 485,
+  "possible_points": 492,
   "answer_pangrams": [
     "clapping",
     "placing"
@@ -45,6 +45,7 @@
     "ganglia",
     "gangling",
     "gaping",
+    "gapping",
     "gigging",
     "giggling",
     "gill",
@@ -93,14 +94,14 @@
       "4": 9,
       "5": 9,
       "6": 15,
-      "7": 29,
+      "7": 30,
       "8": 11,
       "9": 4
     },
     "by_first_letter": {
       "A": 11,
       "C": 12,
-      "G": 19,
+      "G": 20,
       "I": 3,
       "L": 6,
       "N": 5,
@@ -125,7 +126,7 @@
       "G": {
         "4": 6,
         "6": 1,
-        "7": 8,
+        "7": 9,
         "8": 4
       },
       "I": {
@@ -159,7 +160,7 @@
       "AP": 2,
       "CA": 6,
       "CL": 6,
-      "GA": 13,
+      "GA": 14,
       "GI": 4,
       "GL": 2,
       "IC": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "pigment",
   "center_letter": "m",
-  "num_answers": 39,
+  "num_answers": 40,
   "num_pangrams": 4,
-  "possible_points": 207,
+  "possible_points": 214,
   "answer_pangrams": [
     "impingement",
     "pigment",
@@ -14,6 +14,7 @@
     "eminent",
     "emit",
     "emitting",
+    "gemming",
     "gimme",
     "imminent",
     "impenitent",
@@ -57,7 +58,7 @@
       "4": 16,
       "5": 3,
       "6": 5,
-      "7": 8,
+      "7": 9,
       "8": 4,
       "9": 1,
       "10": 1,
@@ -65,7 +66,7 @@
     },
     "by_first_letter": {
       "E": 3,
-      "G": 1,
+      "G": 2,
       "I": 6,
       "M": 17,
       "P": 3,
@@ -78,7 +79,8 @@
         "8": 1
       },
       "G": {
-        "5": 1
+        "5": 1,
+        "7": 1
       },
       "I": {
         "4": 1,
@@ -108,6 +110,7 @@
     },
     "two_letter_list": {
       "EM": 3,
+      "GE": 1,
       "GI": 1,
       "IM": 5,
       "IT": 1,

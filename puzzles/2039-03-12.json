@@ -1,9 +1,9 @@
 {
   "pangram": "toughed",
   "center_letter": "t",
-  "num_answers": 39,
+  "num_answers": 40,
   "num_pangrams": 1,
-  "possible_points": 171,
+  "possible_points": 177,
   "answer_pangrams": [
     "toughed"
   ],
@@ -19,6 +19,7 @@
     "gutted",
     "hoot",
     "hooted",
+    "hotted",
     "ought",
     "outdo",
     "outed",
@@ -53,14 +54,14 @@
     "by_length": {
       "4": 13,
       "5": 10,
-      "6": 11,
+      "6": 12,
       "7": 5
     },
     "by_first_letter": {
       "D": 5,
       "E": 1,
       "G": 3,
-      "H": 2,
+      "H": 3,
       "O": 4,
       "T": 24
     },
@@ -79,7 +80,7 @@
       },
       "H": {
         "4": 1,
-        "6": 1
+        "6": 2
       },
       "O": {
         "5": 4
@@ -98,7 +99,7 @@
       "GH": 1,
       "GO": 1,
       "GU": 1,
-      "HO": 2,
+      "HO": 3,
       "OU": 4,
       "TE": 4,
       "TH": 6,

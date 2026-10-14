@@ -1,13 +1,14 @@
 {
   "pangram": "letdown",
   "center_letter": "n",
-  "num_answers": 65,
+  "num_answers": 66,
   "num_pangrams": 1,
-  "possible_points": 270,
+  "possible_points": 276,
   "answer_pangrams": [
     "letdown"
   ],
   "answers": [
+    "denned",
     "denote",
     "denoted",
     "dent",
@@ -79,12 +80,12 @@
     "by_length": {
       "4": 26,
       "5": 9,
-      "6": 19,
+      "6": 20,
       "7": 10,
       "8": 1
     },
     "by_first_letter": {
-      "D": 11,
+      "D": 12,
       "E": 4,
       "L": 6,
       "N": 21,
@@ -95,7 +96,7 @@
     "grid": {
       "D": {
         "4": 3,
-        "6": 5,
+        "6": 6,
         "7": 2,
         "8": 1
       },
@@ -129,7 +130,7 @@
       }
     },
     "two_letter_list": {
-      "DE": 6,
+      "DE": 7,
       "DO": 5,
       "EN": 4,
       "LE": 3,

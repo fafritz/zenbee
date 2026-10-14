@@ -1,9 +1,9 @@
 {
   "pangram": "invoked",
   "center_letter": "e",
-  "num_answers": 63,
+  "num_answers": 64,
   "num_pangrams": 1,
-  "possible_points": 275,
+  "possible_points": 281,
   "answer_pangrams": [
     "invoked"
   ],
@@ -11,6 +11,7 @@
     "deed",
     "deeded",
     "denied",
+    "denned",
     "devoid",
     "died",
     "dike",
@@ -77,12 +78,12 @@
     "by_length": {
       "4": 22,
       "5": 9,
-      "6": 25,
+      "6": 26,
       "7": 5,
       "8": 2
     },
     "by_first_letter": {
-      "D": 22,
+      "D": 23,
       "E": 9,
       "I": 5,
       "K": 7,
@@ -94,7 +95,7 @@
       "D": {
         "4": 7,
         "5": 4,
-        "6": 7,
+        "6": 8,
         "7": 3,
         "8": 1
       },
@@ -130,7 +131,7 @@
       }
     },
     "two_letter_list": {
-      "DE": 4,
+      "DE": 5,
       "DI": 15,
       "DO": 3,
       "ED": 1,

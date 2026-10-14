@@ -1,9 +1,9 @@
 {
   "pangram": "flanged",
   "center_letter": "g",
-  "num_answers": 62,
+  "num_answers": 63,
   "num_pangrams": 1,
-  "possible_points": 298,
+  "possible_points": 304,
   "answer_pangrams": [
     "flanged"
   ],
@@ -69,14 +69,15 @@
     "legal",
     "legend",
     "legged",
-    "nagged"
+    "nagged",
+    "negged"
   ],
   "date": "2026-12-17",
   "hints": {
     "by_length": {
       "4": 17,
       "5": 13,
-      "6": 20,
+      "6": 21,
       "7": 8,
       "8": 3,
       "9": 1
@@ -88,7 +89,7 @@
       "F": 8,
       "G": 30,
       "L": 5,
-      "N": 1
+      "N": 2
     },
     "grid": {
       "A": {
@@ -126,7 +127,7 @@
         "6": 3
       },
       "N": {
-        "6": 1
+        "6": 2
       }
     },
     "two_letter_list": {
@@ -146,7 +147,8 @@
       "GL": 9,
       "LA": 1,
       "LE": 4,
-      "NA": 1
+      "NA": 1,
+      "NE": 1
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "pangram": "lounged",
   "center_letter": "g",
-  "num_answers": 67,
+  "num_answers": 68,
   "num_pangrams": 1,
-  "possible_points": 300,
+  "possible_points": 306,
   "answer_pangrams": [
     "lounged"
   ],
@@ -69,6 +69,7 @@
     "lung",
     "lunge",
     "lunged",
+    "negged",
     "nudge",
     "nudged",
     "ogle",
@@ -81,7 +82,7 @@
     "by_length": {
       "4": 21,
       "5": 12,
-      "6": 26,
+      "6": 27,
       "7": 8
     },
     "by_first_letter": {
@@ -89,7 +90,7 @@
       "E": 4,
       "G": 26,
       "L": 18,
-      "N": 2,
+      "N": 3,
       "O": 2,
       "U": 2
     },
@@ -119,7 +120,7 @@
       },
       "N": {
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "O": {
         "4": 1,
@@ -143,6 +144,7 @@
       "LE": 3,
       "LO": 9,
       "LU": 6,
+      "NE": 1,
       "NU": 2,
       "OG": 2,
       "UN": 2

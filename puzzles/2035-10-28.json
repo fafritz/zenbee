@@ -1,9 +1,9 @@
 {
   "pangram": "clanged",
   "center_letter": "n",
-  "num_answers": 74,
+  "num_answers": 76,
   "num_pangrams": 2,
-  "possible_points": 397,
+  "possible_points": 409,
   "answer_pangrams": [
     "clanged",
     "glanced"
@@ -45,6 +45,7 @@
     "deadened",
     "dean",
     "decadence",
+    "denned",
     "elan",
     "elegance",
     "ended",
@@ -82,6 +83,7 @@
     "needed",
     "needle",
     "needled",
+    "negged",
     "nene"
   ],
   "date": "2035-10-28",
@@ -89,7 +91,7 @@
     "by_length": {
       "4": 16,
       "5": 13,
-      "6": 24,
+      "6": 26,
       "7": 12,
       "8": 7,
       "9": 2
@@ -97,11 +99,11 @@
     "by_first_letter": {
       "A": 9,
       "C": 17,
-      "D": 10,
+      "D": 11,
       "E": 5,
       "G": 14,
       "L": 11,
-      "N": 8
+      "N": 9
     },
     "grid": {
       "A": {
@@ -121,7 +123,7 @@
       "D": {
         "4": 1,
         "5": 1,
-        "6": 4,
+        "6": 5,
         "7": 2,
         "8": 1,
         "9": 1
@@ -148,7 +150,7 @@
       },
       "N": {
         "4": 4,
-        "6": 3,
+        "6": 4,
         "7": 1
       }
     },
@@ -160,7 +162,7 @@
       "CA": 12,
       "CL": 5,
       "DA": 6,
-      "DE": 4,
+      "DE": 5,
       "EL": 2,
       "EN": 3,
       "GA": 5,
@@ -169,7 +171,7 @@
       "LA": 6,
       "LE": 5,
       "NA": 3,
-      "NE": 5
+      "NE": 6
     }
   }
 }

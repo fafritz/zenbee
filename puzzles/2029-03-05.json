@@ -1,9 +1,9 @@
 {
   "pangram": "winched",
   "center_letter": "d",
-  "num_answers": 51,
+  "num_answers": 52,
   "num_pangrams": 1,
-  "possible_points": 238,
+  "possible_points": 244,
   "answer_pangrams": [
     "winched"
   ],
@@ -22,6 +22,7 @@
     "deice",
     "deiced",
     "denied",
+    "denned",
     "dice",
     "diced",
     "died",
@@ -65,14 +66,14 @@
     "by_length": {
       "4": 15,
       "5": 10,
-      "6": 19,
+      "6": 20,
       "7": 5,
       "8": 1,
       "9": 1
     },
     "by_first_letter": {
       "C": 7,
-      "D": 13,
+      "D": 14,
       "E": 2,
       "H": 8,
       "I": 4,
@@ -89,7 +90,7 @@
       "D": {
         "4": 4,
         "5": 3,
-        "6": 5,
+        "6": 6,
         "7": 1
       },
       "E": {
@@ -122,7 +123,7 @@
       "CE": 2,
       "CH": 4,
       "CI": 1,
-      "DE": 7,
+      "DE": 8,
       "DI": 6,
       "ED": 1,
       "EN": 1,

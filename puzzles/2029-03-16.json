@@ -1,9 +1,9 @@
 {
   "pangram": "plagued",
   "center_letter": "p",
-  "num_answers": 68,
+  "num_answers": 69,
   "num_pangrams": 1,
-  "possible_points": 314,
+  "possible_points": 320,
   "answer_pangrams": [
     "plagued"
   ],
@@ -25,6 +25,7 @@
     "epee",
     "gape",
     "gaped",
+    "gapped",
     "gulp",
     "gulped",
     "lapel",
@@ -82,7 +83,7 @@
     "by_length": {
       "4": 21,
       "5": 13,
-      "6": 21,
+      "6": 22,
       "7": 10,
       "8": 2,
       "9": 1
@@ -91,7 +92,7 @@
       "A": 9,
       "D": 5,
       "E": 1,
-      "G": 4,
+      "G": 5,
       "L": 4,
       "P": 44,
       "U": 1
@@ -117,7 +118,7 @@
       "G": {
         "4": 2,
         "5": 1,
-        "6": 1
+        "6": 2
       },
       "L": {
         "4": 1,
@@ -141,7 +142,7 @@
       "DE": 1,
       "DU": 2,
       "EP": 1,
-      "GA": 2,
+      "GA": 3,
       "GU": 2,
       "LA": 2,
       "LE": 2,

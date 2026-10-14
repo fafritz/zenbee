@@ -1,15 +1,16 @@
 {
   "pangram": "linkage",
   "center_letter": "a",
-  "num_answers": 70,
+  "num_answers": 71,
   "num_pangrams": 2,
-  "possible_points": 357,
+  "possible_points": 363,
   "answer_pangrams": [
     "leaking",
     "linkage"
   ],
   "answers": [
     "again",
+    "ageing",
     "agile",
     "aging",
     "ailing",
@@ -85,13 +86,13 @@
     "by_length": {
       "4": 19,
       "5": 15,
-      "6": 12,
+      "6": 13,
       "7": 16,
       "8": 7,
       "9": 1
     },
     "by_first_letter": {
-      "A": 24,
+      "A": 25,
       "E": 4,
       "G": 18,
       "I": 2,
@@ -103,7 +104,7 @@
       "A": {
         "4": 2,
         "5": 10,
-        "6": 6,
+        "6": 7,
         "7": 2,
         "8": 3,
         "9": 1
@@ -140,7 +141,7 @@
       }
     },
     "two_letter_list": {
-      "AG": 3,
+      "AG": 4,
       "AI": 1,
       "AK": 1,
       "AL": 11,

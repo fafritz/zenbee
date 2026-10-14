@@ -1,9 +1,9 @@
 {
   "pangram": "womanly",
   "center_letter": "w",
-  "num_answers": 20,
+  "num_answers": 21,
   "num_pangrams": 2,
-  "possible_points": 98,
+  "possible_points": 99,
   "answer_pangrams": [
     "laywoman",
     "womanly"
@@ -17,6 +17,7 @@
     "laywoman",
     "lowly",
     "mallow",
+    "mown",
     "noway",
     "wall",
     "wallow",
@@ -33,7 +34,7 @@
   "date": "2037-03-10",
   "hints": {
     "by_length": {
-      "4": 7,
+      "4": 8,
       "5": 5,
       "6": 5,
       "7": 2,
@@ -42,7 +43,7 @@
     "by_first_letter": {
       "A": 3,
       "L": 4,
-      "M": 1,
+      "M": 2,
       "N": 1,
       "W": 8,
       "Y": 3
@@ -60,6 +61,7 @@
         "8": 1
       },
       "M": {
+        "4": 1,
         "6": 1
       },
       "N": {
@@ -82,6 +84,7 @@
       "LA": 3,
       "LO": 1,
       "MA": 1,
+      "MO": 1,
       "NO": 1,
       "WA": 4,
       "WO": 4,

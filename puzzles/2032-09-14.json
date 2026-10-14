@@ -1,9 +1,9 @@
 {
   "pangram": "bounced",
   "center_letter": "d",
-  "num_answers": 71,
+  "num_answers": 72,
   "num_pangrams": 1,
-  "possible_points": 369,
+  "possible_points": 375,
   "answer_pangrams": [
     "bounced"
   ],
@@ -46,6 +46,7 @@
     "deduced",
     "deed",
     "deeded",
+    "denned",
     "denounce",
     "denounced",
     "denude",
@@ -85,7 +86,7 @@
     "by_length": {
       "4": 15,
       "5": 17,
-      "6": 21,
+      "6": 22,
       "7": 10,
       "8": 6,
       "9": 2
@@ -93,7 +94,7 @@
     "by_first_letter": {
       "B": 13,
       "C": 17,
-      "D": 23,
+      "D": 24,
       "E": 7,
       "N": 4,
       "U": 7
@@ -115,7 +116,7 @@
       "D": {
         "4": 5,
         "5": 3,
-        "6": 9,
+        "6": 10,
         "7": 4,
         "8": 1,
         "9": 1
@@ -145,7 +146,7 @@
       "CE": 2,
       "CO": 13,
       "CU": 2,
-      "DE": 14,
+      "DE": 15,
       "DO": 3,
       "DU": 6,
       "EB": 1,

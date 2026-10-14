@@ -1,9 +1,9 @@
 {
   "pangram": "levying",
   "center_letter": "e",
-  "num_answers": 58,
+  "num_answers": 60,
   "num_pangrams": 1,
-  "possible_points": 281,
+  "possible_points": 295,
   "answer_pangrams": [
     "levying"
   ],
@@ -52,6 +52,7 @@
     "lively",
     "liven",
     "livening",
+    "negging",
     "negligee",
     "nene",
     "niggle",
@@ -65,7 +66,8 @@
     "vilely",
     "vine",
     "yell",
-    "yelling"
+    "yelling",
+    "yenning"
   ],
   "date": "2033-01-26",
   "hints": {
@@ -73,7 +75,7 @@
       "4": 18,
       "5": 10,
       "6": 14,
-      "7": 10,
+      "7": 12,
       "8": 4,
       "10": 2
     },
@@ -82,9 +84,9 @@
       "G": 10,
       "I": 3,
       "L": 16,
-      "N": 4,
+      "N": 5,
       "V": 8,
-      "Y": 2
+      "Y": 3
     },
     "grid": {
       "E": {
@@ -115,6 +117,7 @@
       "N": {
         "4": 2,
         "6": 1,
+        "7": 1,
         "8": 1
       },
       "V": {
@@ -124,7 +127,7 @@
       },
       "Y": {
         "4": 1,
-        "7": 1
+        "7": 2
       }
     },
     "two_letter_list": {
@@ -140,11 +143,11 @@
       "IN": 3,
       "LE": 8,
       "LI": 8,
-      "NE": 2,
+      "NE": 3,
       "NI": 2,
       "VE": 5,
       "VI": 3,
-      "YE": 2
+      "YE": 3
     }
   }
 }

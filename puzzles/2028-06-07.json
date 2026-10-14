@@ -1,9 +1,9 @@
 {
   "pangram": "plumbed",
   "center_letter": "m",
-  "num_answers": 45,
+  "num_answers": 46,
   "num_pangrams": 1,
-  "possible_points": 230,
+  "possible_points": 236,
   "answer_pangrams": [
     "plumbed"
   ],
@@ -32,6 +32,7 @@
     "melded",
     "melee",
     "meme",
+    "mudded",
     "muddle",
     "muddled",
     "mule",
@@ -59,7 +60,7 @@
     "by_length": {
       "4": 11,
       "5": 7,
-      "6": 17,
+      "6": 18,
       "7": 6,
       "8": 3,
       "9": 1
@@ -69,7 +70,7 @@
       "D": 7,
       "E": 3,
       "L": 2,
-      "M": 14,
+      "M": 15,
       "P": 11,
       "U": 2
     },
@@ -97,7 +98,7 @@
       "M": {
         "4": 4,
         "5": 1,
-        "6": 6,
+        "6": 7,
         "7": 3
       },
       "P": {
@@ -118,7 +119,7 @@
       "EM": 3,
       "LU": 2,
       "ME": 6,
-      "MU": 8,
+      "MU": 9,
       "PL": 7,
       "PU": 4,
       "UM": 2

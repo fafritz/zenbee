@@ -1,9 +1,9 @@
 {
   "pangram": "packing",
   "center_letter": "g",
-  "num_answers": 51,
+  "num_answers": 52,
   "num_pangrams": 4,
-  "possible_points": 334,
+  "possible_points": 341,
   "answer_pangrams": [
     "packaging",
     "packing",
@@ -28,6 +28,7 @@
     "gang",
     "ganging",
     "gaping",
+    "gapping",
     "gigging",
     "ginning",
     "icing",
@@ -69,14 +70,14 @@
       "4": 6,
       "5": 6,
       "6": 12,
-      "7": 23,
+      "7": 24,
       "9": 3,
       "10": 1
     },
     "by_first_letter": {
       "A": 5,
       "C": 5,
-      "G": 9,
+      "G": 10,
       "I": 3,
       "K": 4,
       "N": 4,
@@ -94,7 +95,7 @@
       "G": {
         "4": 3,
         "6": 1,
-        "7": 5
+        "7": 6
       },
       "I": {
         "5": 1,
@@ -122,7 +123,7 @@
       "AN": 1,
       "AP": 1,
       "CA": 5,
-      "GA": 7,
+      "GA": 8,
       "GI": 2,
       "IC": 1,
       "IN": 2,

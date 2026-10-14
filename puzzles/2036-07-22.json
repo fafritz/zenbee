@@ -1,9 +1,9 @@
 {
   "pangram": "parking",
   "center_letter": "a",
-  "num_answers": 58,
+  "num_answers": 59,
   "num_pangrams": 1,
-  "possible_points": 295,
+  "possible_points": 302,
   "answer_pangrams": [
     "parking"
   ],
@@ -27,6 +27,7 @@
     "gang",
     "ganging",
     "gaping",
+    "gapping",
     "garaging",
     "grain",
     "ingrain",
@@ -73,14 +74,14 @@
       "4": 17,
       "5": 8,
       "6": 10,
-      "7": 18,
+      "7": 19,
       "8": 2,
       "9": 1,
       "10": 2
     },
     "by_first_letter": {
       "A": 12,
-      "G": 9,
+      "G": 10,
       "I": 2,
       "N": 5,
       "P": 18,
@@ -100,7 +101,7 @@
         "4": 3,
         "5": 1,
         "6": 1,
-        "7": 3,
+        "7": 4,
         "8": 1
       },
       "I": {
@@ -131,7 +132,7 @@
       "AN": 1,
       "AP": 1,
       "AR": 4,
-      "GA": 8,
+      "GA": 9,
       "GR": 1,
       "IN": 2,
       "NA": 5,

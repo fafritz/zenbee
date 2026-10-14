@@ -1,9 +1,9 @@
 {
   "pangram": "munched",
   "center_letter": "e",
-  "num_answers": 47,
+  "num_answers": 49,
   "num_pangrams": 1,
-  "possible_points": 221,
+  "possible_points": 233,
   "answer_pangrams": [
     "munched"
   ],
@@ -19,6 +19,7 @@
     "deeded",
     "deem",
     "deemed",
+    "denned",
     "denude",
     "denuded",
     "deuce",
@@ -48,6 +49,7 @@
     "mend",
     "mended",
     "menu",
+    "mudded",
     "munched",
     "need",
     "needed",
@@ -61,16 +63,16 @@
     "by_length": {
       "4": 14,
       "5": 10,
-      "6": 14,
+      "6": 16,
       "7": 6,
       "8": 3
     },
     "by_first_letter": {
       "C": 5,
-      "D": 15,
+      "D": 16,
       "E": 8,
       "H": 8,
-      "M": 5,
+      "M": 6,
       "N": 3,
       "U": 3
     },
@@ -83,7 +85,7 @@
       "D": {
         "4": 4,
         "5": 3,
-        "6": 6,
+        "6": 7,
         "7": 2
       },
       "E": {
@@ -100,7 +102,7 @@
       },
       "M": {
         "4": 3,
-        "6": 1,
+        "6": 2,
         "7": 1
       },
       "N": {
@@ -116,7 +118,7 @@
       "CE": 2,
       "CH": 2,
       "CU": 1,
-      "DE": 10,
+      "DE": 11,
       "DU": 5,
       "ED": 2,
       "EM": 4,
@@ -124,7 +126,7 @@
       "HE": 6,
       "HU": 2,
       "ME": 4,
-      "MU": 1,
+      "MU": 2,
       "NE": 3,
       "UN": 3
     }

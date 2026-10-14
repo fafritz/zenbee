@@ -1,9 +1,9 @@
 {
   "pangram": "haunted",
   "center_letter": "d",
-  "num_answers": 76,
+  "num_answers": 77,
   "num_pangrams": 1,
-  "possible_points": 416,
+  "possible_points": 422,
   "answer_pangrams": [
     "haunted"
   ],
@@ -33,6 +33,7 @@
     "death",
     "deed",
     "deeded",
+    "denned",
     "dent",
     "dented",
     "denude",
@@ -90,7 +91,7 @@
     "by_length": {
       "4": 16,
       "5": 12,
-      "6": 23,
+      "6": 24,
       "7": 12,
       "8": 8,
       "9": 3,
@@ -98,7 +99,7 @@
     },
     "by_first_letter": {
       "A": 13,
-      "D": 23,
+      "D": 24,
       "E": 3,
       "H": 12,
       "N": 5,
@@ -117,7 +118,7 @@
       "D": {
         "4": 9,
         "5": 4,
-        "6": 6,
+        "6": 7,
         "7": 3,
         "8": 1
       },
@@ -158,7 +159,7 @@
       "AN": 4,
       "AT": 5,
       "DA": 5,
-      "DE": 13,
+      "DE": 14,
       "DU": 5,
       "EN": 2,
       "ET": 1,

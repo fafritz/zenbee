@@ -1,9 +1,9 @@
 {
   "pangram": "plating",
   "center_letter": "p",
-  "num_answers": 69,
+  "num_answers": 70,
   "num_pangrams": 6,
-  "possible_points": 443,
+  "possible_points": 450,
   "answer_pangrams": [
     "palliating",
     "palpating",
@@ -17,6 +17,7 @@
     "appall",
     "appalling",
     "gaping",
+    "gapping",
     "inapt",
     "lapping",
     "napping",
@@ -89,7 +90,7 @@
       "4": 12,
       "5": 10,
       "6": 13,
-      "7": 21,
+      "7": 22,
       "8": 7,
       "9": 3,
       "10": 2,
@@ -97,7 +98,7 @@
     },
     "by_first_letter": {
       "A": 3,
-      "G": 1,
+      "G": 2,
       "I": 1,
       "L": 1,
       "N": 2,
@@ -111,7 +112,8 @@
         "9": 1
       },
       "G": {
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "I": {
         "5": 1
@@ -141,7 +143,7 @@
     },
     "two_letter_list": {
       "AP": 3,
-      "GA": 1,
+      "GA": 2,
       "IN": 1,
       "LA": 1,
       "NA": 1,

@@ -1,9 +1,9 @@
 {
   "pangram": "womanly",
   "center_letter": "m",
-  "num_answers": 27,
+  "num_answers": 28,
   "num_pangrams": 2,
-  "possible_points": 107,
+  "possible_points": 108,
   "answer_pangrams": [
     "laywoman",
     "womanly"
@@ -33,6 +33,7 @@
     "mommy",
     "mono",
     "moon",
+    "mown",
     "myna",
     "woman",
     "womanly"
@@ -40,7 +41,7 @@
   "date": "2027-04-01",
   "hints": {
     "by_length": {
-      "4": 13,
+      "4": 14,
       "5": 8,
       "6": 3,
       "7": 2,
@@ -49,7 +50,7 @@
     "by_first_letter": {
       "A": 2,
       "L": 7,
-      "M": 16,
+      "M": 17,
       "W": 2
     },
     "grid": {
@@ -64,7 +65,7 @@
         "8": 1
       },
       "M": {
-        "4": 9,
+        "4": 10,
         "5": 5,
         "6": 2
       },
@@ -80,7 +81,7 @@
       "LL": 1,
       "LO": 3,
       "MA": 9,
-      "MO": 6,
+      "MO": 7,
       "MY": 1,
       "WO": 2
     }

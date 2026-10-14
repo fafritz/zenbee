@@ -1,9 +1,9 @@
 {
   "pangram": "pinched",
   "center_letter": "n",
-  "num_answers": 41,
+  "num_answers": 42,
   "num_pangrams": 1,
-  "possible_points": 213,
+  "possible_points": 219,
   "answer_pangrams": [
     "pinched"
   ],
@@ -15,6 +15,7 @@
     "deepen",
     "deepened",
     "denied",
+    "denned",
     "depend",
     "depended",
     "dependence",
@@ -55,7 +56,7 @@
     "by_length": {
       "4": 10,
       "5": 10,
-      "6": 13,
+      "6": 14,
       "7": 3,
       "8": 2,
       "9": 1,
@@ -64,7 +65,7 @@
     },
     "by_first_letter": {
       "C": 4,
-      "D": 9,
+      "D": 10,
       "E": 1,
       "H": 3,
       "I": 5,
@@ -80,7 +81,7 @@
       "D": {
         "4": 1,
         "5": 1,
-        "6": 4,
+        "6": 5,
         "8": 2,
         "10": 1
       },
@@ -113,7 +114,7 @@
     "two_letter_list": {
       "CH": 2,
       "CI": 2,
-      "DE": 6,
+      "DE": 7,
       "DI": 3,
       "EN": 1,
       "HE": 1,

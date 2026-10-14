@@ -1,9 +1,9 @@
 {
   "pangram": "plowmen",
   "center_letter": "n",
-  "num_answers": 24,
+  "num_answers": 25,
   "num_pangrams": 1,
-  "possible_points": 72,
+  "possible_points": 73,
   "answer_pangrams": [
     "plowmen"
   ],
@@ -14,6 +14,7 @@
     "melon",
     "mono",
     "moon",
+    "mown",
     "nene",
     "neon",
     "newel",
@@ -36,14 +37,14 @@
   "date": "2031-08-04",
   "hints": {
     "by_length": {
-      "4": 15,
+      "4": 16,
       "5": 5,
       "6": 3,
       "7": 1
     },
     "by_first_letter": {
       "L": 3,
-      "M": 3,
+      "M": 4,
       "N": 7,
       "O": 2,
       "P": 7,
@@ -55,7 +56,7 @@
         "5": 1
       },
       "M": {
-        "4": 2,
+        "4": 3,
         "5": 1
       },
       "N": {
@@ -80,7 +81,7 @@
       "LE": 1,
       "LO": 2,
       "ME": 1,
-      "MO": 2,
+      "MO": 3,
       "NE": 3,
       "NO": 4,
       "OM": 1,

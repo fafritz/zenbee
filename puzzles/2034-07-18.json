@@ -1,9 +1,9 @@
 {
   "pangram": "chafing",
   "center_letter": "i",
-  "num_answers": 47,
+  "num_answers": 48,
   "num_pangrams": 2,
-  "possible_points": 280,
+  "possible_points": 287,
   "answer_pangrams": [
     "chaffing",
     "chafing"
@@ -38,6 +38,7 @@
     "financing",
     "finch",
     "fining",
+    "finning",
     "gaffing",
     "gagging",
     "gain",
@@ -63,14 +64,14 @@
       "4": 8,
       "5": 8,
       "6": 9,
-      "7": 14,
+      "7": 15,
       "8": 6,
       "9": 2
     },
     "by_first_letter": {
       "A": 7,
       "C": 17,
-      "F": 5,
+      "F": 6,
       "G": 7,
       "H": 3,
       "I": 4,
@@ -93,7 +94,7 @@
       "F": {
         "5": 1,
         "6": 2,
-        "7": 1,
+        "7": 2,
         "9": 1
       },
       "G": {
@@ -124,7 +125,7 @@
       "CH": 11,
       "CI": 2,
       "FA": 2,
-      "FI": 3,
+      "FI": 4,
       "GA": 5,
       "GI": 2,
       "HA": 1,

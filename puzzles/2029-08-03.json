@@ -1,9 +1,9 @@
 {
   "pangram": "varying",
   "center_letter": "y",
-  "num_answers": 22,
+  "num_answers": 23,
   "num_pangrams": 1,
-  "possible_points": 106,
+  "possible_points": 112,
   "answer_pangrams": [
     "varying"
   ],
@@ -24,6 +24,7 @@
     "ninny",
     "rainy",
     "rangy",
+    "raying",
     "vagary",
     "vary",
     "varying",
@@ -36,7 +37,7 @@
     "by_length": {
       "4": 6,
       "5": 8,
-      "6": 4,
+      "6": 5,
       "7": 3,
       "8": 1
     },
@@ -44,7 +45,7 @@
       "A": 5,
       "G": 6,
       "N": 3,
-      "R": 2,
+      "R": 3,
       "V": 4,
       "Y": 2
     },
@@ -66,7 +67,8 @@
         "5": 2
       },
       "R": {
-        "5": 2
+        "5": 2,
+        "6": 1
       },
       "V": {
         "4": 1,
@@ -86,7 +88,7 @@
       "GR": 6,
       "NA": 2,
       "NI": 1,
-      "RA": 2,
+      "RA": 3,
       "VA": 3,
       "VY": 1,
       "YA": 2

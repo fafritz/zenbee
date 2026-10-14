@@ -1,9 +1,9 @@
 {
   "pangram": "levying",
   "center_letter": "y",
-  "num_answers": 20,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 105,
+  "possible_points": 112,
   "answer_pangrams": [
     "levying"
   ],
@@ -27,7 +27,8 @@
     "vinyl",
     "vying",
     "yell",
-    "yelling"
+    "yelling",
+    "yenning"
   ],
   "date": "2028-04-29",
   "hints": {
@@ -35,7 +36,7 @@
       "4": 4,
       "5": 6,
       "6": 6,
-      "7": 4
+      "7": 5
     },
     "by_first_letter": {
       "E": 6,
@@ -43,7 +44,7 @@
       "L": 7,
       "N": 1,
       "V": 3,
-      "Y": 2
+      "Y": 3
     },
     "grid": {
       "E": {
@@ -70,7 +71,7 @@
       },
       "Y": {
         "4": 1,
-        "7": 1
+        "7": 2
       }
     },
     "two_letter_list": {
@@ -85,7 +86,7 @@
       "NI": 1,
       "VI": 2,
       "VY": 1,
-      "YE": 2
+      "YE": 3
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "pangram": "yelping",
   "center_letter": "e",
-  "num_answers": 45,
+  "num_answers": 47,
   "num_pangrams": 1,
-  "possible_points": 200,
+  "possible_points": 214,
   "answer_pangrams": [
     "yelping"
   ],
@@ -29,6 +29,7 @@
     "lien",
     "line",
     "linen",
+    "negging",
     "negligee",
     "nene",
     "niggle",
@@ -52,7 +53,8 @@
     "yell",
     "yelling",
     "yelp",
-    "yelping"
+    "yelping",
+    "yenning"
   ],
   "date": "2033-02-11",
   "hints": {
@@ -60,7 +62,7 @@
       "4": 16,
       "5": 9,
       "6": 10,
-      "7": 8,
+      "7": 10,
       "8": 2
     },
     "by_first_letter": {
@@ -68,9 +70,9 @@
       "G": 8,
       "I": 1,
       "L": 6,
-      "N": 4,
+      "N": 5,
       "P": 16,
-      "Y": 4
+      "Y": 5
     },
     "grid": {
       "E": {
@@ -95,6 +97,7 @@
       "N": {
         "4": 2,
         "6": 1,
+        "7": 1,
         "8": 1
       },
       "P": {
@@ -106,7 +109,7 @@
       },
       "Y": {
         "4": 2,
-        "7": 2
+        "7": 3
       }
     },
     "two_letter_list": {
@@ -122,11 +125,11 @@
       "IN": 1,
       "LE": 2,
       "LI": 4,
-      "NE": 2,
+      "NE": 3,
       "NI": 2,
       "PE": 10,
       "PI": 6,
-      "YE": 4
+      "YE": 5
     }
   }
 }

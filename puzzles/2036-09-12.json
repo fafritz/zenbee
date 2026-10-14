@@ -1,9 +1,9 @@
 {
   "pangram": "evoking",
   "center_letter": "g",
-  "num_answers": 35,
+  "num_answers": 37,
   "num_pangrams": 1,
-  "possible_points": 191,
+  "possible_points": 205,
   "answer_pangrams": [
     "evoking"
   ],
@@ -34,10 +34,12 @@
     "inning",
     "invoking",
     "keening",
+    "kegging",
     "kenning",
     "king",
     "kinking",
     "kneeing",
+    "negging",
     "noggin",
     "oinking",
     "ongoing",
@@ -50,15 +52,15 @@
       "4": 7,
       "5": 5,
       "6": 10,
-      "7": 12,
+      "7": 14,
       "8": 1
     },
     "by_first_letter": {
       "E": 6,
       "G": 16,
       "I": 3,
-      "K": 5,
-      "N": 1,
+      "K": 6,
+      "N": 2,
       "O": 2,
       "V": 2
     },
@@ -80,10 +82,11 @@
       },
       "K": {
         "4": 1,
-        "7": 4
+        "7": 5
       },
       "N": {
-        "6": 1
+        "6": 1,
+        "7": 1
       },
       "O": {
         "7": 2
@@ -102,9 +105,10 @@
       "GI": 6,
       "GO": 5,
       "IN": 3,
-      "KE": 2,
+      "KE": 3,
       "KI": 2,
       "KN": 1,
+      "NE": 1,
       "NO": 1,
       "OI": 1,
       "ON": 1,

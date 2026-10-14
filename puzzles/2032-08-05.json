@@ -1,9 +1,9 @@
 {
   "pangram": "copying",
   "center_letter": "n",
-  "num_answers": 50,
+  "num_answers": 51,
   "num_pangrams": 1,
-  "possible_points": 291,
+  "possible_points": 298,
   "answer_pangrams": [
     "copying"
   ],
@@ -56,6 +56,7 @@
     "pipping",
     "pogoing",
     "pony",
+    "pooping",
     "popping",
     "yipping"
   ],
@@ -65,7 +66,7 @@
       "4": 7,
       "5": 8,
       "6": 12,
-      "7": 21,
+      "7": 22,
       "9": 2
     },
     "by_first_letter": {
@@ -74,7 +75,7 @@
       "I": 5,
       "N": 5,
       "O": 4,
-      "P": 14,
+      "P": 15,
       "Y": 1
     },
     "grid": {
@@ -108,7 +109,7 @@
       "P": {
         "4": 2,
         "6": 5,
-        "7": 6,
+        "7": 7,
         "9": 1
       },
       "Y": {
@@ -129,7 +130,7 @@
       "ON": 2,
       "OP": 2,
       "PI": 11,
-      "PO": 3,
+      "PO": 4,
       "YI": 1
     }
   }

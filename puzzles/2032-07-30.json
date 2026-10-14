@@ -1,9 +1,9 @@
 {
   "pangram": "coinage",
   "center_letter": "i",
-  "num_answers": 56,
+  "num_answers": 58,
   "num_pangrams": 3,
-  "possible_points": 347,
+  "possible_points": 360,
   "answer_pangrams": [
     "canoeing",
     "coinage",
@@ -14,6 +14,7 @@
     "acai",
     "acing",
     "again",
+    "ageing",
     "aging",
     "angina",
     "anion",
@@ -57,6 +58,7 @@
     "innocence",
     "ionic",
     "nagging",
+    "negging",
     "niacin",
     "nice",
     "niece",
@@ -72,26 +74,26 @@
     "by_length": {
       "4": 6,
       "5": 14,
-      "6": 14,
-      "7": 15,
+      "6": 15,
+      "7": 16,
       "8": 3,
       "9": 3,
       "10": 1
     },
     "by_first_letter": {
-      "A": 7,
+      "A": 8,
       "C": 18,
       "E": 3,
       "G": 11,
       "I": 7,
-      "N": 6,
+      "N": 7,
       "O": 4
     },
     "grid": {
       "A": {
         "4": 1,
         "5": 4,
-        "6": 2
+        "6": 3
       },
       "C": {
         "4": 1,
@@ -121,7 +123,7 @@
         "4": 2,
         "5": 1,
         "6": 2,
-        "7": 1
+        "7": 2
       },
       "O": {
         "5": 1,
@@ -131,7 +133,7 @@
     },
     "two_letter_list": {
       "AC": 3,
-      "AG": 2,
+      "AG": 3,
       "AN": 2,
       "CA": 6,
       "CO": 12,
@@ -145,6 +147,7 @@
       "IN": 3,
       "IO": 1,
       "NA": 1,
+      "NE": 1,
       "NI": 4,
       "NO": 1,
       "OC": 2,

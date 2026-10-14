@@ -1,9 +1,9 @@
 {
   "pangram": "jingled",
   "center_letter": "d",
-  "num_answers": 78,
+  "num_answers": 81,
   "num_pangrams": 1,
-  "possible_points": 409,
+  "possible_points": 428,
   "answer_pangrams": [
     "jingled"
   ],
@@ -17,6 +17,8 @@
     "deli",
     "dell",
     "denied",
+    "denned",
+    "denning",
     "diddle",
     "diddled",
     "diddling",
@@ -85,6 +87,7 @@
     "needle",
     "needled",
     "needling",
+    "negged",
     "niggled"
   ],
   "date": "2037-04-15",
@@ -92,25 +95,25 @@
     "by_length": {
       "4": 16,
       "5": 12,
-      "6": 27,
-      "7": 20,
+      "6": 29,
+      "7": 21,
       "8": 3
     },
     "by_first_letter": {
-      "D": 23,
+      "D": 25,
       "E": 12,
       "G": 16,
       "I": 4,
       "J": 5,
       "L": 11,
-      "N": 7
+      "N": 8
     },
     "grid": {
       "D": {
         "4": 7,
         "5": 2,
-        "6": 6,
-        "7": 6,
+        "6": 7,
+        "7": 7,
         "8": 2
       },
       "E": {
@@ -142,13 +145,13 @@
       },
       "N": {
         "4": 1,
-        "6": 2,
+        "6": 3,
         "7": 3,
         "8": 1
       }
     },
     "two_letter_list": {
-      "DE": 9,
+      "DE": 11,
       "DI": 14,
       "ED": 4,
       "EE": 1,
@@ -164,7 +167,7 @@
       "JI": 3,
       "LE": 6,
       "LI": 5,
-      "NE": 6,
+      "NE": 7,
       "NI": 1
     }
   }

@@ -1,9 +1,9 @@
 {
   "pangram": "mouthed",
   "center_letter": "h",
-  "num_answers": 29,
+  "num_answers": 30,
   "num_pangrams": 1,
-  "possible_points": 132,
+  "possible_points": 138,
   "answer_pangrams": [
     "mouthed"
   ],
@@ -21,6 +21,7 @@
     "hoodooed",
     "hoot",
     "hooted",
+    "hotted",
     "hummed",
     "method",
     "moth",
@@ -43,12 +44,12 @@
     "by_length": {
       "4": 10,
       "5": 5,
-      "6": 9,
+      "6": 10,
       "7": 4,
       "8": 1
     },
     "by_first_letter": {
-      "H": 14,
+      "H": 15,
       "M": 4,
       "T": 11
     },
@@ -56,7 +57,7 @@
       "H": {
         "4": 6,
         "5": 1,
-        "6": 6,
+        "6": 7,
         "8": 1
       },
       "M": {
@@ -74,7 +75,7 @@
     },
     "two_letter_list": {
       "HE": 4,
-      "HO": 9,
+      "HO": 10,
       "HU": 1,
       "ME": 1,
       "MO": 3,

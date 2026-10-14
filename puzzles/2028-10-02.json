@@ -1,9 +1,9 @@
 {
   "pangram": "midtown",
   "center_letter": "m",
-  "num_answers": 20,
+  "num_answers": 21,
   "num_pangrams": 1,
-  "possible_points": 76,
+  "possible_points": 77,
   "answer_pangrams": [
     "midtown"
   ],
@@ -26,13 +26,14 @@
     "moot",
     "motion",
     "motto",
+    "mown",
     "omit",
     "timid"
   ],
   "date": "2028-10-02",
   "hints": {
     "by_length": {
-      "4": 10,
+      "4": 11,
       "5": 4,
       "6": 4,
       "7": 1,
@@ -41,7 +42,7 @@
     "by_first_letter": {
       "D": 3,
       "I": 1,
-      "M": 14,
+      "M": 15,
       "O": 1,
       "T": 1
     },
@@ -55,7 +56,7 @@
         "5": 1
       },
       "M": {
-        "4": 8,
+        "4": 9,
         "5": 2,
         "6": 3,
         "7": 1
@@ -71,7 +72,7 @@
       "DO": 3,
       "ID": 1,
       "MI": 8,
-      "MO": 6,
+      "MO": 7,
       "OM": 1,
       "TI": 1
     }
