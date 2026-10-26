@@ -4181,6 +4181,24 @@
       //  avoids the added complexity of a timer running while the app
       //  sits idle.
       // ═══════════════════════════════════════════════════════════════
+      // Queen Bee "trophy" dimming. submitWord() used to add these classes
+      // with no counterpart that removed them, so a Queen Bee day that rolled
+      // over to a new puzzle in a still-alive page stayed dimmed.
+      // syncCompletedState() makes the DOM follow game state in both
+      // directions; it is called from presentNewDay() and loadPuzzle().
+      const COMPLETED_IDS = [
+        "honeycomb-svg",
+        "input-display",
+        "delete-btn",
+        "enter-btn",
+      ];
+      function syncCompletedState() {
+        const done = !!PUZZLE && foundWords.length === PUZZLE.answers.length;
+        COMPLETED_IDS.forEach((id) =>
+          document.getElementById(id).classList.toggle("completed", done),
+        );
+      }
+
       function checkForNewDay() {
         if (document.visibilityState !== "visible") return;
         const today = new Date().toLocaleDateString("en-CA");
@@ -4202,6 +4220,10 @@
         score = 0;
         currentInput = "";
         resumeRecord = null;
+        // Undim the board now so it is clean before the new puzzle loads.
+        COMPLETED_IDS.forEach((id) =>
+          document.getElementById(id).classList.remove("completed"),
+        );
 
         // loadTheme() hashes *today's* date internally on every call, so
         // simply calling it again — with no date argument — is what
@@ -4456,10 +4478,7 @@
         }
 
         if (foundWords.length === PUZZLE.answers.length) {
-          document.getElementById("honeycomb-svg").classList.add("completed");
-          document.getElementById("input-display").classList.add("completed");
-          document.getElementById("delete-btn").classList.add("completed");
-          document.getElementById("enter-btn").classList.add("completed");
+          syncCompletedState();
           setTimeout(() => showQueenBeeCelebration(foundWords.length), 300);
         }
       }
@@ -4797,6 +4816,7 @@
           renderInput();
           renderScore();
           renderFoundWords();
+          syncCompletedState();
         } catch (err) {
           // Shows if today's puzzle file is missing (e.g. generation
           // script hasn't been run for this date yet) or the server
