@@ -122,44 +122,6 @@
   Started: May 2026
 ================================================================================
 -->
-<!--
-================================================================================
-  DESIGN RULES — read before ANY UI change (Claude: also report what you
-  reused, what you added, and anything you duplicated, in every UI reply)
-================================================================================
-  RULES
-   1. Search this file for an existing component before writing CSS/markup.
-   2. Extend with a modifier class (e.g. .stat-tile-wide); never fork or
-      copy a component. If nothing fits, add ONE new generic component.
-   3. Colors come from tokens only (see DESIGN TOKENS in <style>). No hex in
-      new CSS. Named exception: the blue graduation-cap SVG.
-   4. Small text needs >= 4.5:1 contrast; never encode meaning by color alone
-      (CVD is a hard requirement). Use --muted-text (5.6:1), not --muted
-      (about 2.8:1), for small secondary text. KNOWN GAP: other small-text
-      uses of --muted are not yet audited.
-   5. Celebrations and full-screen moments reuse #splash-screen (photo, 45%
-      scrim, white Lora title, outline #play-btn "Continue"). Add a mode class
-      (.genius-mode), never a new overlay. Owner-approved exception: Genius
-      uses its own .genius-card (not .stat-tile) — keep it the only one.
-   6. Numbers/headings: Lora + --theme-accent. UI text: Nunito.
-   7. Any new component or modifier is added to the inventory below IN THE
-      SAME CHANGE.
-
-  INVENTORY
-   Splash/celebration  #splash-screen .splash-photo .splash-scrim
-                       .splash-title .splash-subtitle #play-btn
-                       modes: default, Queen Bee (JS only), .genius-mode (photo + dark
-                       .genius-card: cap, title, message, stats, Share)
-   Stat tiles          .stat-tiles .stat-tile .stat-tile-value .stat-tile-label
-                       modifiers: -rank -rank-md -rank-sm -wide
-   Buttons             .btn-primary .btn-secondary .btn-shuffle .btn-cta (pill,
-                       --theme-cta)
-   Bottom sheets       .stats-panel .yest-panel .hints-panel .help-panel
-                       .install-panel (+ addSwipeDismiss)
-   Toast               .toast .toast.pangram .toast.error
-================================================================================
--->
-
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -198,7 +160,6 @@
         --white: #ffffff; /* pure white */
         --muted: #7a6040;
         --muted-light: #9a7850;
-        --muted-text: #a9946f; /* AA-safe small text on --surface/--surface-2 (5.6:1) */
         --hex-center: #ffd000;
         /* Unlit outer-hex fill/text — universal neutral, same across every
            theme (matches --surface-2: Delete/Shuffle buttons, Words-found
@@ -369,7 +330,6 @@
         inset: 0;
         z-index: 500;
         overflow: hidden;
-        background: var(--bg); /* never show the game through a missing photo */
         transition: opacity 0.4s ease;
       }
       .splash-photo {
@@ -439,106 +399,6 @@
       #play-btn:hover,
       #play-btn:active {
         background: rgba(255, 255, 255, 0.15);
-      }
-
-      /* ── GENIUS CELEBRATION (splash variant) ────────────────────── */
-      /* Owner's choice (2026-11-04): bright photo, dark card holding   */
-      /* cap, title, message, stats and Share; Continue below, over a   */
-      /* bottom gradient. The card is the ONLY card-style celebration.  */
-      .genius-grad,
-      .genius-card {
-        display: none;
-      }
-      #splash-screen.genius-mode .splash-scrim,
-      #splash-screen.genius-mode .splash-top {
-        display: none;
-      }
-      #splash-screen.genius-mode .splash-photo {
-        object-position: center 18%; /* keep the bee clear of the card */
-      }
-      #splash-screen.genius-mode .genius-grad {
-        display: block;
-        position: absolute;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        height: 200px;
-        background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent);
-        pointer-events: none;
-      }
-      #splash-screen.genius-mode #play-btn {
-        margin-top: auto;
-        min-height: 44px;
-      }
-      #splash-screen.genius-mode .genius-card {
-        display: block;
-        position: absolute;
-        z-index: 2;
-        left: 12px;
-        right: 12px;
-        max-width: 420px;
-        margin: 0 auto;
-        bottom: calc(max(56px, env(safe-area-inset-bottom) + 24px) + 60px);
-        padding: 14px 12px;
-        border-radius: 20px;
-        background: rgba(21, 13, 1, 0.9);
-        -webkit-backdrop-filter: blur(8px);
-        backdrop-filter: blur(8px);
-        text-align: center;
-        color: var(--cream);
-      }
-      .genius-cap {
-        width: 40px;
-        height: auto;
-        display: block;
-        margin: 0 auto 6px;
-      }
-      .genius-title {
-        font-family: "Lora", serif;
-        font-weight: 700;
-        font-size: 2.1rem;
-        line-height: 1.1;
-        margin: 0;
-        color: var(--theme-accent, #ffd000);
-      }
-      .genius-msg {
-        margin: 6px 0 10px;
-        font-size: 0.9rem;
-        line-height: 1.35;
-      }
-      .genius-stats {
-        display: flex;
-        border-top: 1px solid rgba(248, 237, 212, 0.3);
-        border-bottom: 1px solid rgba(248, 237, 212, 0.3);
-        padding: 8px 2px;
-        margin-bottom: 10px;
-      }
-      .genius-stats > div {
-        flex: 1;
-        display: flex;
-        flex-direction: column;
-      }
-      .genius-stats b {
-        font-family: "Lora", serif;
-        font-size: 1.25rem;
-        color: var(--white);
-      }
-      .genius-stats span {
-        font-size: 0.7rem;
-      }
-      /* Filled pill call-to-action, theme-colored (shared component) */
-      .btn-cta {
-        width: 100%;
-        min-height: 44px;
-        border: 0;
-        border-radius: 9999px;
-        font-family: "Nunito", sans-serif;
-        font-size: 0.95rem;
-        font-weight: 700;
-        cursor: pointer;
-        background: var(--theme-cta, #ffd000);
-        color: var(--theme-cta-text, #150d01);
-        -webkit-tap-highlight-color: transparent;
       }
 
       /* ── GAME HIDDEN (pre-splash-dismiss) ───────────────────────── */
@@ -1562,7 +1422,7 @@
         font-size: 0.62rem;
         letter-spacing: 0.14em;
         text-transform: uppercase;
-        color: var(--muted-text);
+        color: var(--muted);
       }
 
       /* ── period tabs ── */
@@ -1907,7 +1767,6 @@
     <div id="splash-screen" aria-label="">
       <img id="splash-img" class="splash-photo" src="" alt="" />
       <div class="splash-scrim" aria-hidden="true"></div>
-      <div class="genius-grad" aria-hidden="true"></div>
       <div class="splash-content">
         <div class="splash-top">
           <h1 class="splash-title" id="splash-title"></h1>
@@ -1916,31 +1775,6 @@
           </p>
         </div>
         <button id="play-btn" aria-label="Start today's puzzle">Play</button>
-      </div>
-      <!-- Genius celebration card (shown only in .genius-mode) -->
-      <div
-        class="genius-card"
-        id="genius-card"
-        role="status"
-        aria-live="polite"
-      >
-        <svg class="genius-cap" viewBox="0 0 64 42" aria-hidden="true">
-          <path d="M16 22v10c0 5 32 5 32 0V22l-16 7z" fill="#2f6fa8" />
-          <polygon points="32,3 62,16 32,29 2,16" fill="#5aa9e6" />
-          <path d="M57 18v15" stroke="#ffd000" stroke-width="2" />
-          <circle cx="57" cy="35" r="3" fill="#ffd000" />
-        </svg>
-        <h2 class="genius-title">Genius!</h2>
-        <p class="genius-msg" id="genius-msg"></p>
-        <div class="genius-stats">
-          <div><b id="gs-games">0</b><span>Games</span></div>
-          <div><b id="gs-words">0</b><span>Words</span></div>
-          <div><b id="gs-pangrams">0</b><span>Pangrams</span></div>
-          <div><b id="gs-geniuses">0</b><span>Geniuses</span></div>
-        </div>
-        <button id="genius-share-btn" class="btn-cta" type="button">
-          Share your achievement
-        </button>
       </div>
     </div>
     <script>
@@ -3552,154 +3386,6 @@
         persistStats(games);
       }
 
-      // ═══════════════════════════════════════════════════════════════
-      //  GENIUS CELEBRATION — Step 1 (data + trigger; no UI yet)
-      //
-      //  getGeniusStats()    lifetime tallies from game_stats, computed at
-      //                      call time. Call AFTER saveGameProgress() so
-      //                      today's record is included in the counts.
-      //  pickGeniusMessage() deterministic, count-keyed congratulation.
-      //  maybeTriggerGenius() fires once per PUZZLE date when score first
-      //                      crosses into Genius (not on Queen Bee days —
-      //                      showQueenBeeCelebration owns those).
-      //  The once-per-day flag is keyed to PUZZLE.date, NOT new Date(),
-      //  so a session that crosses midnight can't double-fire or skip.
-      //  Test reset (console):
-      //    localStorage.removeItem("genius_shown_" + PUZZLE.date)
-      // ═══════════════════════════════════════════════════════════════
-      const GENIUS_SHOWN_PREFIX = "genius_shown_";
-
-      function getGeniusStats() {
-        const games = loadStats();
-        return {
-          games: games.length,
-          words: games.reduce((n, g) => n + (g.wordsFound || 0), 0),
-          pangrams: games.reduce((n, g) => n + (g.pangramsFound || 0), 0),
-          // rankIdx 6 = Genius; Queen Bee days are stored with rankIdx 6 too
-          geniuses: games.filter((g) => g.rankIdx >= 6).length,
-        };
-      }
-
-      const GENIUS_MESSAGES = {
-        1: "Your first Genius. Welcome to the hive.",
-        2: "Genius again. The hive is getting used to you.",
-        3: "Three Geniuses. This is turning into a habit.",
-        4: "Four Geniuses. The bees are taking notes.",
-        5: "Five Geniuses. A fine harvest.",
-        10: "Ten Geniuses. A whole season of sweetness.",
-        25: "Twenty-five Geniuses. The hive is in your debt.",
-        50: "Fifty Geniuses. Even the queen is impressed.",
-        100: "One hundred Geniuses. Legendary.",
-      };
-      const GENIUS_MESSAGE_POOL = [
-        "Another Genius. You make it look easy.",
-        "Genius again. The flowers are lucky to have you.",
-        "Sweet work. Genius again.",
-        "Quietly brilliant, as usual.",
-      ];
-
-      function pickGeniusMessage(count) {
-        return (
-          GENIUS_MESSAGES[count] ||
-          GENIUS_MESSAGE_POOL[count % GENIUS_MESSAGE_POOL.length]
-        );
-      }
-
-      // prevScore = score BEFORE the word just added. Step 1 only logs;
-      // Step 2 will replace the console.log with the splash-variant UI.
-      function maybeTriggerGenius(prevScore) {
-        if (!PUZZLE) return;
-        if (foundWords.length === PUZZLE.answers.length) return; // Queen Bee
-        if (getRank(prevScore) === "Genius" || getRank(score) !== "Genius")
-          return; // not a fresh crossing
-        const key = GENIUS_SHOWN_PREFIX + PUZZLE.date;
-        try {
-          if (localStorage.getItem(key)) return;
-          localStorage.setItem(key, "1");
-        } catch (e) {
-          console.warn("Genius flag unavailable:", e);
-        }
-        const stats = getGeniusStats();
-        // Short delay so the word's toast/score update lands first.
-        setTimeout(
-          () => showGeniusCelebration(stats, pickGeniusMessage(stats.geniuses)),
-          600,
-        );
-      }
-
-      // ── Step 2: the celebration screen (splash variant) ──────────
-      // Same fade-in sequence as showQueenBeeCelebration. Continue is
-      // the existing #play-btn re-pointed at showGame; the handler is
-      // kept in a variable so presentNewDay()/Queen Bee can detach a
-      // stray one (no leaked listeners across celebrations or days).
-      let geniusContinueHandler = null;
-
-      function clearGeniusCelebration() {
-        const btn = document.getElementById("play-btn");
-        if (geniusContinueHandler) {
-          btn.removeEventListener("click", geniusContinueHandler);
-          geniusContinueHandler = null;
-        }
-        document
-          .getElementById("splash-screen")
-          .classList.remove("genius-mode");
-      }
-
-      function showGeniusCelebration(stats, message) {
-        const splash = document.getElementById("splash-screen");
-        const img = document.getElementById("splash-img");
-        const btn = document.getElementById("play-btn");
-
-        clearGeniusCelebration(); // defensive: never stack handlers
-
-        document.getElementById("genius-msg").textContent = message;
-        document.getElementById("gs-games").textContent =
-          stats.games.toLocaleString();
-        document.getElementById("gs-words").textContent =
-          stats.words.toLocaleString();
-        document.getElementById("gs-pangrams").textContent =
-          stats.pangrams.toLocaleString();
-        document.getElementById("gs-geniuses").textContent =
-          stats.geniuses.toLocaleString();
-
-        const originalSrc = img.src;
-        const originalAlt = img.alt;
-        // If the Genius photo is missing, fall back to today's splash
-        // photo instead of showing a broken image.
-        img.onerror = () => {
-          img.onerror = null;
-          img.src = originalSrc;
-          img.alt = originalAlt;
-        };
-        img.src = "photos/genius-bee.jpeg";
-        img.alt = "A honeybee hovering above a pink flower spike";
-        btn.textContent = "Continue";
-        btn.setAttribute("aria-label", "Return to today's puzzle");
-        splash.classList.add("genius-mode");
-
-        splash.style.display = "";
-        splash.style.pointerEvents = "auto";
-        // eslint-disable-next-line no-unused-expressions
-        splash.offsetHeight; // force reflow so the opacity transition runs
-        requestAnimationFrame(() => {
-          splash.style.opacity = "1";
-        });
-
-        btn.removeEventListener("click", showGame);
-        geniusContinueHandler = () => {
-          geniusContinueHandler = null;
-          showGame(); // starts the 0.4s fade-out
-          // Restore photo/layout only after the fade, or the swap flashes.
-          setTimeout(() => {
-            img.onerror = null;
-            img.src = originalSrc;
-            img.alt = originalAlt;
-            splash.classList.remove("genius-mode");
-          }, 450);
-        };
-        btn.addEventListener("click", geniusContinueHandler, { once: true });
-      }
-
       // ── Date helpers ──────────────────────────────────────────────
       // Parse "YYYY-MM-DD" as a local-time Date (not UTC).
       function parseLocalDate(str) {
@@ -4443,7 +4129,6 @@
       //  would just snap into view instead of fading in.
       // ═══════════════════════════════════════════════════════════════
       function showQueenBeeCelebration(wordsFound) {
-        clearGeniusCelebration();
         const splash = document.getElementById("splash-screen");
         const title = document.getElementById("splash-title");
         const subtitle = document.getElementById("splash-subtitle");
@@ -4531,7 +4216,6 @@
       // who backgrounds the app mid-drag or double-taps Play could
       // briefly see yesterday's found-words count under the new splash.
       async function presentNewDay() {
-        clearGeniusCelebration();
         foundWords = [];
         score = 0;
         currentInput = "";
@@ -4760,12 +4444,10 @@
 
         const pts = wordScore(word);
         const isPangram = PUZZLE.answer_pangrams.includes(word);
-        const prevScore = score; // for Genius-crossing detection
         score += pts;
         foundWords.push(word);
         currentInput = "";
         saveGameProgress(); // persist to localStorage on every valid word
-        maybeTriggerGenius(prevScore);
 
         // ── Toast: encouragement scales with points ───────────────
         function encouragement(p) {
@@ -4806,13 +4488,6 @@
       // ═══════════════════════════════════════════════════════════════
       document.addEventListener("keydown", (e) => {
         if (e.metaKey || e.ctrlKey || e.altKey) return;
-        // Genius screen covers the board: don't type or submit under it
-        if (
-          document
-            .getElementById("splash-screen")
-            .classList.contains("genius-mode")
-        )
-          return;
 
         // Escape closes the Yesterday overlay if it's open
         if (e.key === "Escape") {
@@ -5186,10 +4861,6 @@
       // than once as their rank improves.
       document
         .getElementById("share-btn")
-        .addEventListener("click", shareResults);
-      // Genius card's Share button reuses the same function.
-      document
-        .getElementById("genius-share-btn")
         .addEventListener("click", shareResults);
 
       // ── Swipe-down dismiss on bottom sheets ──────────────────
