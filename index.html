@@ -132,28 +132,31 @@
    2. Extend with a modifier class (e.g. .stat-tile-wide); never fork or
       copy a component. If nothing fits, add ONE new generic component.
    3. Colors come from tokens only (see DESIGN TOKENS in <style>). No hex in
-      new CSS. Named exception: the blue graduation-cap SVG.
+      new CSS. (rgba black/white overlays and outlines are allowed.)
    4. Small text needs >= 4.5:1 contrast; never encode meaning by color alone
       (CVD is a hard requirement). Use --muted-text (5.6:1), not --muted
       (about 2.8:1), for small secondary text. KNOWN GAP: other small-text
       uses of --muted are not yet audited.
-   5. Celebrations and full-screen moments reuse #splash-screen (photo, 45%
-      scrim, white Lora title, outline #play-btn "Continue"). Add a mode class
-      (.genius-mode), never a new overlay. Owner-approved exception: Genius
-      uses its own .genius-card (not .stat-tile) — keep it the only one.
+   5. Celebrations and full-screen moments reuse #splash-screen (photo,
+      white Lora title, subtitle, #play-btn "Continue"). Add a mode class
+      (.genius-mode), never a new overlay or a card.
    6. Numbers/headings: Lora + --theme-accent. UI text: Nunito.
    7. Any new component or modifier is added to the inventory below IN THE
       SAME CHANGE.
 
   INVENTORY
    Splash/celebration  #splash-screen .splash-photo .splash-scrim
-                       .splash-title .splash-subtitle #play-btn
-                       modes: default, Queen Bee (JS only), .genius-mode (photo + dark
-                       .genius-card: cap, title, message, stats, Share)
+                       .splash-top .splash-title .splash-subtitle
+                       .splash-actions #play-btn
+                       modes: default, Queen Bee (JS only), .genius-mode
+                       (bright photo, dim behind title block via
+                       .splash-top::before, .celebration-stats row,
+                       .btn-glass Share + Continue)
+   Celebration stats   .celebration-stats (4 unboxed columns: b + span)
    Stat tiles          .stat-tiles .stat-tile .stat-tile-value .stat-tile-label
                        modifiers: -rank -rank-md -rank-sm -wide
-   Buttons             .btn-primary .btn-secondary .btn-shuffle .btn-cta (pill,
-                       --theme-cta)
+   Buttons             .btn-primary .btn-secondary .btn-shuffle
+                       .btn-glass (dark-glass outline pill, with icon)
    Bottom sheets       .stats-panel .yest-panel .hints-panel .help-panel
                        .install-panel (+ addSwipeDismiss)
    Toast               .toast .toast.pangram .toast.error
@@ -442,103 +445,121 @@
       }
 
       /* ── GENIUS CELEBRATION (splash variant) ────────────────────── */
-      /* Owner's choice (2026-11-04): bright photo, dark card holding   */
-      /* cap, title, message, stats and Share; Continue below, over a   */
-      /* bottom gradient. The card is the ONLY card-style celebration.  */
-      .genius-grad,
-      .genius-card {
+      /* Owner's choice (mockup 9): bright photo, no global scrim. A    */
+      /* 60% dim sits only behind the title block and grows with it     */
+      /* (see ::before). White title, message and stats row on top;     */
+      /* Share + Continue as dark-glass pills at the bottom. No card.   */
+      .splash-actions {
+        display: contents; /* neutral outside .genius-mode */
+      }
+      .celebration-stats,
+      #genius-share-btn {
         display: none;
       }
-      #splash-screen.genius-mode .splash-scrim,
-      #splash-screen.genius-mode .splash-top {
+      #splash-screen.genius-mode .splash-scrim {
         display: none;
       }
       #splash-screen.genius-mode .splash-photo {
-        object-position: center 18%; /* keep the bee clear of the card */
+        object-position: center top; /* Safari tabs crop the bottom, not the top */
       }
-      #splash-screen.genius-mode .genius-grad {
-        display: block;
+      #splash-screen.genius-mode .splash-top {
+        position: relative;
+        isolation: isolate;
+        width: 100%;
+      }
+      /* Dim: solid 60% from the top of the screen to 10px below the    */
+      /* stats, then fades out over 50px. Extends past the screen edges */
+      /* (the splash clips it), so it needs no knowledge of font sizes. */
+      #splash-screen.genius-mode .splash-top::before {
+        content: "";
         position: absolute;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        height: 200px;
-        background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent);
-        pointer-events: none;
+        z-index: -1;
+        top: -200px;
+        left: -100vw;
+        right: -100vw;
+        height: calc(100% + 200px + 10px + 50px);
+        background: linear-gradient(
+          to bottom,
+          rgba(0, 0, 0, 0.6) calc(100% - 50px),
+          rgba(0, 0, 0, 0) 100%
+        );
       }
-      #splash-screen.genius-mode #play-btn {
-        margin-top: auto;
-        min-height: 44px;
+      #splash-screen.genius-mode .splash-subtitle {
+        color: rgba(255, 255, 255, 0.92);
       }
-      #splash-screen.genius-mode .genius-card {
-        display: block;
-        position: absolute;
-        z-index: 2;
-        left: 12px;
-        right: 12px;
-        max-width: 420px;
-        margin: 0 auto;
-        bottom: calc(max(56px, env(safe-area-inset-bottom) + 24px) + 60px);
-        padding: 14px 12px;
-        border-radius: 20px;
-        background: rgba(21, 13, 1, 0.9);
-        -webkit-backdrop-filter: blur(8px);
-        backdrop-filter: blur(8px);
-        text-align: center;
-        color: var(--cream);
-      }
-      .genius-cap {
-        width: 40px;
-        height: auto;
-        display: block;
-        margin: 0 auto 6px;
-      }
-      .genius-title {
-        font-family: "Lora", serif;
-        font-weight: 700;
-        font-size: 2.1rem;
-        line-height: 1.1;
-        margin: 0;
-        color: var(--theme-accent, #ffd000);
-      }
-      .genius-msg {
-        margin: 6px 0 10px;
-        font-size: 0.9rem;
-        line-height: 1.35;
-      }
-      .genius-stats {
+      #splash-screen.genius-mode .celebration-stats {
         display: flex;
-        border-top: 1px solid rgba(248, 237, 212, 0.3);
-        border-bottom: 1px solid rgba(248, 237, 212, 0.3);
-        padding: 8px 2px;
-        margin-bottom: 10px;
+        width: 100%;
+        max-width: 380px;
+        margin-top: 12px;
       }
-      .genius-stats > div {
+      .celebration-stats > div {
         flex: 1;
+        min-width: 0;
         display: flex;
         flex-direction: column;
+        align-items: center;
+        gap: 6px;
       }
-      .genius-stats b {
+      .celebration-stats b {
         font-family: "Lora", serif;
-        font-size: 1.25rem;
+        font-weight: 700;
+        font-size: 1.7rem;
+        line-height: 1;
         color: var(--white);
+        white-space: nowrap;
       }
-      .genius-stats span {
-        font-size: 0.7rem;
+      .celebration-stats span {
+        font-family: "Nunito", sans-serif;
+        font-size: 0.76rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: rgba(255, 255, 255, 0.92);
       }
-      /* Filled pill call-to-action, theme-colored (shared component) */
-      .btn-cta {
-        width: 100%;
-        min-height: 44px;
-        border: 0;
-        border-radius: 9999px;
+      #splash-screen.genius-mode .splash-actions {
+        display: flex;
+        flex-wrap: wrap; /* Continue drops below Share on very narrow phones */
+        justify-content: center;
+        gap: 8px;
+        width: calc(100% + 24px); /* use 12px of the side padding so the */
+        margin: 0 -12px; /* two pills fit on one line at 375-393px */
+      }
+      /* Dark-glass pill: outline + 45% black + blur. Used by Share and */
+      /* (in .genius-mode) by Continue.                                  */
+      .btn-glass,
+      #splash-screen.genius-mode #play-btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        flex: none; /* the global button rule sets flex: 1 */
+        gap: 9px;
+        min-height: 48px;
+        padding: 0 14px;
+        white-space: nowrap;
         font-family: "Nunito", sans-serif;
         font-size: 0.95rem;
-        font-weight: 700;
+        font-weight: 600;
+        color: var(--white);
+        background: rgba(0, 0, 0, 0.45);
+        -webkit-backdrop-filter: blur(10px);
+        backdrop-filter: blur(10px);
+        border: 1.5px solid rgba(255, 255, 255, 0.75);
+        border-radius: 9999px;
         cursor: pointer;
-        background: var(--theme-cta, #ffd000);
-        color: var(--theme-cta-text, #150d01);
         -webkit-tap-highlight-color: transparent;
+      }
+      #splash-screen.genius-mode #genius-share-btn {
+        display: inline-flex;
+      }
+      #splash-screen.genius-mode #play-btn:hover,
+      #splash-screen.genius-mode #play-btn:active,
+      .btn-glass:active {
+        background: rgba(0, 0, 0, 0.6);
+      }
+      .btn-glass svg {
+        width: 19px;
+        height: 19px;
+        flex: none;
       }
 
       /* ── GAME HIDDEN (pre-splash-dismiss) ───────────────────────── */
@@ -1907,40 +1928,41 @@
     <div id="splash-screen" aria-label="">
       <img id="splash-img" class="splash-photo" src="" alt="" />
       <div class="splash-scrim" aria-hidden="true"></div>
-      <div class="genius-grad" aria-hidden="true"></div>
       <div class="splash-content">
-        <div class="splash-top">
+        <div class="splash-top" aria-live="polite">
           <h1 class="splash-title" id="splash-title"></h1>
           <p class="splash-subtitle" id="splash-subtitle">
             Seven letters. Take your time.
           </p>
+          <div
+            class="celebration-stats"
+            role="group"
+            aria-label="Your lifetime stats"
+          >
+            <div><b id="gs-games">0</b><span>Games</span></div>
+            <div><b id="gs-words">0</b><span>Words</span></div>
+            <div><b id="gs-pangrams">0</b><span>Pangrams</span></div>
+            <div><b id="gs-geniuses">0</b><span>Geniuses</span></div>
+          </div>
         </div>
-        <button id="play-btn" aria-label="Start today's puzzle">Play</button>
-      </div>
-      <!-- Genius celebration card (shown only in .genius-mode) -->
-      <div
-        class="genius-card"
-        id="genius-card"
-        role="status"
-        aria-live="polite"
-      >
-        <svg class="genius-cap" viewBox="0 0 64 42" aria-hidden="true">
-          <path d="M16 22v10c0 5 32 5 32 0V22l-16 7z" fill="#2f6fa8" />
-          <polygon points="32,3 62,16 32,29 2,16" fill="#5aa9e6" />
-          <path d="M57 18v15" stroke="#ffd000" stroke-width="2" />
-          <circle cx="57" cy="35" r="3" fill="#ffd000" />
-        </svg>
-        <h2 class="genius-title">Genius!</h2>
-        <p class="genius-msg" id="genius-msg"></p>
-        <div class="genius-stats">
-          <div><b id="gs-games">0</b><span>Games</span></div>
-          <div><b id="gs-words">0</b><span>Words</span></div>
-          <div><b id="gs-pangrams">0</b><span>Pangrams</span></div>
-          <div><b id="gs-geniuses">0</b><span>Geniuses</span></div>
+        <div class="splash-actions">
+          <button id="genius-share-btn" class="btn-glass" type="button">
+            <svg
+              viewBox="0 0 24 24"
+              aria-hidden="true"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path
+                d="M12 3v12M8 7l4-4 4 4M6 11H5a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-8a1 1 0 0 0-1-1h-1"
+              /></svg
+            >Share your success
+          </button>
+          <button id="play-btn" aria-label="Start today's puzzle">Play</button>
         </div>
-        <button id="genius-share-btn" class="btn-cta" type="button">
-          Share your achievement
-        </button>
       </div>
     </div>
     <script>
@@ -3656,7 +3678,8 @@
 
         clearGeniusCelebration(); // defensive: never stack handlers
 
-        document.getElementById("genius-msg").textContent = message;
+        document.getElementById("splash-title").textContent = "Genius!";
+        document.getElementById("splash-subtitle").textContent = message;
         document.getElementById("gs-games").textContent =
           stats.games.toLocaleString();
         document.getElementById("gs-words").textContent =
@@ -3676,7 +3699,7 @@
           img.alt = originalAlt;
         };
         img.src = "photos/genius-bee.jpeg";
-        img.alt = "A honeybee hovering above a pink flower spike";
+        img.alt = "Two honeybees near a pink flower spike";
         btn.textContent = "Continue";
         btn.setAttribute("aria-label", "Return to today's puzzle");
         splash.classList.add("genius-mode");
@@ -5206,7 +5229,7 @@
       document
         .getElementById("share-btn")
         .addEventListener("click", shareResults);
-      // Genius card's Share button reuses the same function.
+      // Genius screen's Share button reuses the same function.
       document
         .getElementById("genius-share-btn")
         .addEventListener("click", shareResults);
