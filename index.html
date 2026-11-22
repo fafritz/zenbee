@@ -486,20 +486,32 @@
       }
       /* Installed app on a TALL phone (aspect <= 1/2, e.g. iPhone 12-16): */
       /* the title block sits lower (status-bar inset), so the dim would    */
-      /* reach the top of the spike and the upper bee. Zoom the photo 12%   */
-      /* about its top (subject moves down ~12%; origin at 60% keeps both   */
-      /* bees inside the edges) and shorten the fade so the dim ends above  */
-      /* the subject. Safari tabs and short phones keep the base framing.   */
+      /* reach the top of the spike and the upper bee. So: (1) zoom the     */
+      /* photo 12% about its top (subject moves down ~12%; origin at 60%    */
+      /* keeps both bees inside the edges); (2) raise the title block 14px  */
+      /* (inset + 10px instead of + 24px); (3) use a 52px eased (smoothstep)*/
+      /* fade that ends above the spike tip. Safari tabs and short phones   */
+      /* keep the base framing.                                              */
       @media (display-mode: standalone) and (max-width: 500px) and (max-aspect-ratio: 1/2) {
         #splash-screen.genius-mode .splash-photo {
           transform: scale(1.12);
           transform-origin: 60% 0;
         }
+        #splash-screen.genius-mode .splash-content {
+          padding-top: max(48px, env(safe-area-inset-top) + 10px);
+        }
         #splash-screen.genius-mode .splash-top::before {
-          height: calc(100% + 200px + 10px + 30px);
+          height: calc(100% + 200px + 52px); /* dim ends 52px below the stats */
           background: linear-gradient(
             to bottom,
-            rgba(0, 0, 0, 0.6) calc(100% - 30px),
+            rgba(0, 0, 0, 0.6) calc(100% - 52px),
+            rgba(0, 0, 0, 0.574) calc(100% - 45.5px),
+            rgba(0, 0, 0, 0.506) calc(100% - 39px),
+            rgba(0, 0, 0, 0.41) calc(100% - 32.5px),
+            rgba(0, 0, 0, 0.3) calc(100% - 26px),
+            rgba(0, 0, 0, 0.19) calc(100% - 19.5px),
+            rgba(0, 0, 0, 0.094) calc(100% - 13px),
+            rgba(0, 0, 0, 0.026) calc(100% - 6.5px),
             rgba(0, 0, 0, 0) 100%
           );
         }
